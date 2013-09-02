@@ -1,8 +1,13 @@
-
-##############################
-# for testing 
+#######################################
+# build script (Ruby make)
 #
-# NB: use rake -I ../world.db.ruby/lib -I ./lib sportdb:build
+#  use:
+#   $ rake   or
+#   $ rake build     - to build sport.db from scratch
+#
+#   $ rake update    - to update sport.db
+#
+#   $ rake -T        - show all tasks
 
 
 BUILD_DIR = "./build"
@@ -19,6 +24,9 @@ DB_CONFIG = {
   adapter:    'sqlite3',
   database:   SPORT_DB_PATH
 }
+
+
+task :default => :build
 
 directory BUILD_DIR
 
