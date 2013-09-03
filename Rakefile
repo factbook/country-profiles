@@ -26,9 +26,26 @@ DB_CONFIG = {
 }
 
 
+#######################
+#  print settings
+
+settings = <<EOS
+*****************
+settings:
+  WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
+  SPORT_DB_INCLUDE_PATH: #{SPORT_DB_INCLUDE_PATH}
+*****************
+EOS
+
+puts settings
+
+
+
+
 task :default => :build
 
 directory BUILD_DIR
+
 
 task :clean do
   rm SPORT_DB_PATH if File.exists?( SPORT_DB_PATH )
@@ -67,13 +84,23 @@ task :deletesport => :env do
 end
 
 
-desc 'build sport.db from scratch'
+desc 'build sport.db from scratch (default)'
 task :build => [:clean, :create, :importworld, :importsport] do
   puts 'Done.'
 end
 
 desc 'update sport.db'
 task :update => [:deletesport, :importsport] do
-   puts 'Done.'
+  puts 'Done.'
 end
 
+desc 'pull (auto-update) sport.db from upstream sources'
+task :pull => :env do
+  SportDb.update!  
+  puts 'Done.'
+end
+
+
+task :about do
+  # todo: print versions of gems etc.
+end
