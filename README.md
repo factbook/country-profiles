@@ -1,4 +1,4 @@
-# sport.db.build
+# build
 
 
 Build scripts for football.db, formula1.db, ski.db, etc.
@@ -6,7 +6,7 @@ Build scripts for football.db, formula1.db, ski.db, etc.
 
 ## License
 
-The `sportdb.db.build` scripts are dedicated to the public domain.
+The build scripts are dedicated to the public domain.
 Use it as you please with no restrictions whatsoever.
 
 
