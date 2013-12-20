@@ -16,8 +16,16 @@ BUILD_DIR = "./build"
 SPORT_DB_PATH = "#{BUILD_DIR}/sport.db"
 
 # -- input repo sources config
-WORLD_DB_INCLUDE_PATH = '../world.db'
-SPORT_DB_INCLUDE_PATH = '../openfootball/world-cup'   # todo: make it into an array
+
+OPENMUNDI_ROOT = "../../openmundi"
+OPENSPORT_ROOT = ".."
+
+WORLD_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
+
+
+SKI_INCLUDE_PATH      = "#{OPENSPORT_ROOT}/ski.db"
+FORMULA1_INCLUDE_PATH = "#{OPENSPORT_ROOT}/formula1.db"
+
 
 
 DB_CONFIG = {
@@ -32,8 +40,10 @@ DB_CONFIG = {
 settings = <<EOS
 *****************
 settings:
-  WORLD_DB_INCLUDE_PATH: #{WORLD_DB_INCLUDE_PATH}
-  SPORT_DB_INCLUDE_PATH: #{SPORT_DB_INCLUDE_PATH}
+  WORLD_INCLUDE_PATH: #{WORLD_INCLUDE_PATH}
+
+  SKI_INCLUDE_PATH:      #{SKI_INCLUDE_PATH}
+  FORMULA1_INCLUDE_PATH: #{FORMULA1_INCLUDE_PATH}
 *****************
 EOS
 
@@ -69,13 +79,19 @@ task :create => :env do
 end
   
 task :importworld => :env do
-  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_DB_INCLUDE_PATH, skip_tags: true )  # populate world tables
+  WorldDb.read_setup( 'setups/sport.db.admin', WORLD_INCLUDE_PATH, skip_tags: true )  # populate world tables
   # WorldDb.stats
 end
 
+
+###
+## todo: breakup into importski, importf1 etc.
 task :importsport => :env do
   SportDb.read_builtin
-  SportDb.read_setup( 'setups/all', SPORT_DB_INCLUDE_PATH )
+  
+  LogUtils::Logger.root.level = :debug
+  
+  SportDb.read_setup( 'setups/test', SKI_INCLUDE_PATH )
   # SportDb.stats
 end
 
@@ -96,7 +112,7 @@ end
 
 desc 'pull (auto-update) sport.db from upstream sources'
 task :pull => :env do
-  SportDb.update!  
+  SportDb.update!
   puts 'Done.'
 end
 
