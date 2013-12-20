@@ -91,7 +91,7 @@ task :importsport => :env do
   
   LogUtils::Logger.root.level = :debug
   
-  SportDb.read_setup( 'setups/test', SKI_INCLUDE_PATH )
+  SportDb.read_setup( 'setups/all', SKI_INCLUDE_PATH )
   # SportDb.stats
 end
 
