@@ -25,6 +25,7 @@ WORLD_INCLUDE_PATH = "#{OPENMUNDI_ROOT}/world.db"
 
 SKI_INCLUDE_PATH      = "#{OPENSPORT_ROOT}/ski.db"
 FORMULA1_INCLUDE_PATH = "#{OPENSPORT_ROOT}/formula1.db"
+AMERICAN_FOOTBALL_INCLUDE_PATH = "#{OPENSPORT_ROOT}/american-football.db"
 
 
 
@@ -42,8 +43,9 @@ settings = <<EOS
 settings:
   WORLD_INCLUDE_PATH: #{WORLD_INCLUDE_PATH}
 
-  SKI_INCLUDE_PATH:      #{SKI_INCLUDE_PATH}
-  FORMULA1_INCLUDE_PATH: #{FORMULA1_INCLUDE_PATH}
+  SKI_INCLUDE_PATH:               #{SKI_INCLUDE_PATH}
+  FORMULA1_INCLUDE_PATH:          #{FORMULA1_INCLUDE_PATH}
+  AMERICAN_FOOTBALL_INCLUDE_PATH: #{AMERICAN_FOOTBALL_INCLUDE_PATH}
 *****************
 EOS
 
@@ -84,16 +86,33 @@ task :importworld => :env do
 end
 
 
-###
-## todo: breakup into importski, importf1 etc.
-task :importsport => :env do
+task :importbuiltin => :env do
   SportDb.read_builtin
   
   LogUtils::Logger.root.level = :debug
-  
-  SportDb.read_setup( 'setups/all', SKI_INCLUDE_PATH )
-  # SportDb.stats
 end
+
+
+
+task :importski => :importbuiltin do
+   SportDb.read_setup( 'setups/all', SKI_INCLUDE_PATH )
+end
+
+task :importformula1 => :importbuiltin do
+   SportDb.read_setup( 'setups/all', FORMULA1_INCLUDE_PATH )
+end
+
+task :importamericanfootball => :importbuiltin do
+   SportDb.read_setup( 'setups/all', AMERICAN_FOOTBALL_INCLUDE_PATH )
+end
+
+
+##############
+# note: change dependencies to import ski,forumla etc
+
+task :importsport => [:importamericanfootball] do
+end
+
 
 task :deletesport => :env do
   SportDb.delete!
