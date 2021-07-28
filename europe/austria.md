@@ -4,14 +4,10 @@ _Europe / Countries_
 
 ## Introduction
 
-<!-- 1 field(s) -->
-
 **Background**<br>
 Once the center of power for the large Austro-Hungarian Empire, Austria was reduced to a small republic after its defeat in World War I. Following annexation by Nazi Germany in 1938 and subsequent occupation by the victorious Allies in 1945, Austria's status remained unclear for a decade. A State Treaty signed in 1955 ended the occupation, recognized Austria's independence, and forbade unification with Germany. A constitutional law that same year declared the country's "perpetual neutrality" as a condition for Soviet military withdrawal. The Soviet Union's collapse in 1991 and Austria's entry into the EU in 1995 have altered the meaning of this neutrality. A prosperous, democratic country, Austria entered the EU Economic and Monetary Union in 1999.<br>
 
 ## Geography
-
-<!-- 17 field(s) -->
 
 **Location**<br>
 Central Europe, north of Italy and Slovenia<br>
@@ -75,8 +71,6 @@ landslides; avalanches; earthquakes<br>
 note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br /><br />note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
 ## People and Society
-
-<!-- 34 field(s) -->
 
 **Population**<br>
 8,884,864 (July 2021 est.)<br>
@@ -221,8 +215,6 @@ _female_: 7.8% (2019 est.)<br>
 
 ## Environment
 
-<!-- 11 field(s) -->
-
 **Environment - current issues**<br>
 some forest degradation caused by air and soil pollution; soil pollution results from the use of agricultural chemicals; air pollution results from emissions by coal- and oil-fired power stations and industrial plants and from trucks transiting Austria between northern and southern Europe; water pollution; the Danube, as well as some of Austria’s other rivers and lakes, are threatened by pollution<br>
 
@@ -270,8 +262,6 @@ _municipal solid waste recycled annually_: 1,240,918 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 
 ## Government
-
-<!-- 21 field(s) -->
 
 **Country name**<br>
 _conventional long form_: Republic of Austria<br>
@@ -368,8 +358,6 @@ _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (d
 <strong>note:</strong> adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012<br>
 
 ## Economy
-
-<!-- 35 field(s) -->
 
 **Economic overview**<br>
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
@@ -522,8 +510,6 @@ euros (EUR) per US dollar -<br>
 
 ## Energy
 
-<!-- 23 field(s) -->
-
 **Electricity access**<br>
 _electrification - total population_: 100% (2020)<br>
 
@@ -595,8 +581,6 @@ _electrification - total population_: 100% (2020)<br>
 
 ## Communications
 
-<!-- 8 field(s) -->
-
 **Telephones - fixed lines**<br>
 _total subscriptions_: 3,722,128<br>
 _subscriptions per 100 inhabitants_: 42.17 (2019 est.)<br>
@@ -629,8 +613,6 @@ _subscriptions per 100 inhabitants_: 28.54 (2019 est.)<br>
 <strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br /><br /><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br /><br /><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br /><br /><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>
 
 ## Transportation
-
-<!-- 11 field(s) -->
 
 **National air transport system**<br>
 _number of registered air carriers_: 11 (2020)<br>
@@ -680,8 +662,6 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 
 ## Military and Security
 
-<!-- 6 field(s) -->
-
 **Military and security forces**<br>
 Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces<span id="support" class="greybox grey3lines"></span> (2021)<br>
 
@@ -706,15 +686,11 @@ registration requirement at age 17, the legal minimum age for voluntary military
 
 ## Terrorism
 
-<!-- 1 field(s) -->
-
 **Terrorist group(s)**<br>
 Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
 
 ## Transnational Issues
-
-<!-- 3 field(s) -->
 
 **Disputes - international**<br>
 <p>none</p><br>
@@ -725,3 +701,4 @@ _stateless persons_: 3,267 (2020)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin and South American cocaine destined for Western Europe; increasing consumption of European-produced synthetic drugs<br>
+
