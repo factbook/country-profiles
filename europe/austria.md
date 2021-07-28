@@ -1,5 +1,6 @@
-# Austria
 _Europe / Countries_
+
+# Austria
 
 ## Introduction
 
@@ -89,7 +90,7 @@ Austrian 80.8%, German 2.6%,&nbsp; Bosnian and Herzegovinian 1.9%, Turkish 1.8%,
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
-_Languages_: German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 est.)<br>
+German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 est.)<br>
 _printed major-language sample_: <br />Das World Factbook, die unverzichtbare Quelle f&uuml;r grundlegende Informationen. (German)<br /><br />The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -374,14 +375,14 @@ _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (d
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP growth rate**<br>
-_Real GDP growth rate 2019_: 1.42% (2019 est.)<br>
-_Real GDP growth rate 2018_: 2.58% (2018 est.)<br>
-_Real GDP growth rate 2017_: 2.4% (2017 est.)<br>
+1.42% (2019 est.)<br>
+2.58% (2018 est.)<br>
+2.4% (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
-_Inflation rate (consumer prices) 2019_: 1.5% (2019 est.)<br>
-_Inflation rate (consumer prices) 2018_: 2% (2018 est.)<br>
-_Inflation rate (consumer prices) 2017_: 2% (2017 est.)<br>
+1.5% (2019 est.)<br>
+2% (2018 est.)<br>
+2% (2017 est.)<br>
 
 **Credit ratings**<br>
 _Fitch rating_: AA+ (2015)<br>
@@ -389,24 +390,24 @@ _Moody's rating_: Aa1 (2016)<br>
 _Standard & Poors rating_: AA+ (2012)<br>
 
 **Real GDP (purchasing power parity)**<br>
-_Real GDP (purchasing power parity) 2019_: $498.78 billion (2019 est.)<br>
-_Real GDP (purchasing power parity) 2018_: $491.803 billion (2018 est.)<br>
-_Real GDP (purchasing power parity) 2017_: $479.433 billion (2017 est.)<br>
+$498.78 billion (2019 est.)<br>
+$491.803 billion (2018 est.)<br>
+$479.433 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
 $445.025 billion (2019 est.)<br>
 
 **Real GDP per capita**<br>
-_Real GDP per capita 2019_: $56,188 (2019 est.)<br>
-_Real GDP per capita 2018_: $55,631 (2018 est.)<br>
-_Real GDP per capita 2017_: $54,496 (2017 est.)<br>
+$56,188 (2019 est.)<br>
+$55,631 (2018 est.)<br>
+$54,496 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Gross national saving**<br>
-_Gross national saving 2019_: 28.5% of GDP (2019 est.)<br>
-_Gross national saving 2018_: 26.9% of GDP (2018 est.)<br>
-_Gross national saving 2017_: 26.3% of GDP (2017 est.)<br>
+28.5% of GDP (2019 est.)<br>
+26.9% of GDP (2018 est.)<br>
+26.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -445,15 +446,15 @@ _industry_: 25.2%<br>
 _services_: 74.1% (2017 est.)<br>
 
 **Unemployment rate**<br>
-_Unemployment rate 2019_: 7.35% (2019 est.)<br>
-_Unemployment rate 2018_: 7.7% (2018 est.)<br>
+7.35% (2019 est.)<br>
+7.7% (2018 est.)<br>
 
 **Population below poverty line**<br>
 13.3% (2018 est.)<br>
 
 **Gini Index coefficient - distribution of family income**<br>
-_Gini Index coefficient - distribution of family income 2017_: 29.7 (2017 est.)<br>
-_Gini Index coefficient - distribution of family income 2014_: 30.5 (2014)<br>
+29.7 (2017 est.)<br>
+30.5 (2014)<br>
 
 **Household income or consumption by percentage share**<br>
 _lowest 10%_: 2.8%<br>
@@ -470,21 +471,21 @@ _expenditures_: 204.6 billion (2017 est.)<br>
 -0.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
-_Public debt 2017_: 78.6% of GDP (2017 est.)<br>
-_Public debt 2016_: 83.6% of GDP (2016 est.)<br>
+78.6% of GDP (2017 est.)<br>
+83.6% of GDP (2016 est.)<br>
 <strong>note:</strong> this is general government gross debt, defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year; it covers the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; as a percentage of GDP, the GDP used as a denominator is the gross domestic product in current year prices<br>
 
 **Fiscal year**<br>
 calendar year<br>
 
 **Current account balance**<br>
-_Current account balance 2019_: $12.667 billion (2019 est.)<br>
-_Current account balance 2018_: $5.989 billion (2018 est.)<br>
+$12.667 billion (2019 est.)<br>
+$5.989 billion (2018 est.)<br>
 
 **Exports**<br>
-_Exports 2019_: $270.888 billion (2019 est.)<br>
-_Exports 2018_: $263.145 billion (2018 est.)<br>
-_Exports 2017_: $249.312 billion (2017 est.)<br>
+$270.888 billion (2019 est.)<br>
+$263.145 billion (2018 est.)<br>
+$249.312 billion (2017 est.)<br>
 
 **Exports - partners**<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
@@ -493,9 +494,9 @@ Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)<br>
 
 **Imports**<br>
-_Imports 2019_: $253.276 billion (2019 est.)<br>
-_Imports 2018_: $247.225 billion (2018 est.)<br>
-_Imports 2017_: $235.385 billion (2017 est.)<br>
+$253.276 billion (2019 est.)<br>
+$247.225 billion (2018 est.)<br>
+$235.385 billion (2017 est.)<br>
 
 **Imports - partners**<br>
 Germany 39%, Italy 7%, Czechia 5% (2019)<br>
@@ -504,20 +505,20 @@ Germany 39%, Italy 7%, Czechia 5% (2019)<br>
 cars, vehicle parts, broadcasting equipment, refined petroleum, packaged medical supplies (2019)<br>
 
 **Reserves of foreign exchange and gold**<br>
-_Reserves of foreign exchange and gold 31 December 2017_: $21.57 billion (31 December 2017 est.)<br>
-_Reserves of foreign exchange and gold 31 December 2016_: $23.36 billion (31 December 2016 est.)<br>
+$21.57 billion (31 December 2017 est.)<br>
+$23.36 billion (31 December 2016 est.)<br>
 
 **Debt - external**<br>
-_Debt - external 2019_: $688.434 billion (2019 est.)<br>
-_Debt - external 2018_: $686.196 billion (2018 est.)<br>
+$688.434 billion (2019 est.)<br>
+$686.196 billion (2018 est.)<br>
 
 **Exchange rates**<br>
-_currency_: euros (EUR) per US dollar -<br>
-_Exchange rates 2020_: 0.82771 (2020 est.)<br>
-_Exchange rates 2019_: 0.90338 (2019 est.)<br>
-_Exchange rates 2018_: 0.87789 (2018 est.)<br>
-_Exchange rates 2014_: 0.885 (2014 est.)<br>
-_Exchange rates 2013_: 0.7634 (2013 est.)<br>
+euros (EUR) per US dollar -<br>
+0.82771 (2020 est.)<br>
+0.90338 (2019 est.)<br>
+0.87789 (2018 est.)<br>
+0.885 (2014 est.)<br>
+0.7634 (2013 est.)<br>
 
 ## Energy
 
@@ -685,11 +686,11 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces<span id="support" class="greybox grey3lines"></span> (2021)<br>
 
 **Military expenditures**<br>
-_Military Expenditures 2020_: 0.7% of GDP (2020 est.)<br>
-_Military Expenditures 2019_: 0.7% of GDP (2019)<br>
-_Military Expenditures 2018_: 0.7% of GDP (2018)<br>
-_Military Expenditures 2017_: 0.8% of GDP (2017)<br>
-_Military Expenditures 2016_: 0.7% of GDP (2016)<br>
+0.7% of GDP (2020 est.)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+0.8% of GDP (2017)<br>
+0.7% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Austrian Armed Forces have approximately 23,000 total active duty personnel (13,000 Land Forces; 2,500 Air Force; 7,500 other, support forces) (2021)<br>
