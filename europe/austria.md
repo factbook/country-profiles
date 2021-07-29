@@ -68,7 +68,7 @@ the northern and eastern portions of the country are more densely populated; nea
 landslides; avalanches; earthquakes<br>
 
 **Geography - note**<br>
-note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br /><br />note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
+note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
 ## People and Society
 
@@ -80,16 +80,16 @@ _noun_: Austrian(s)<br>
 _adjective_: Austrian<br>
 
 **Ethnic groups**<br>
-Austrian 80.8%, German 2.6%,&nbsp; Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Austrian 80.8%, German 2.6%,  Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
 German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 est.)<br>
-_printed major-language sample_: <br />Das World Factbook, die unverzichtbare Quelle f&uuml;r grundlegende Informationen. (German)<br /><br />The World Factbook, the indispensable source for basic information.<br>
+_printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%,&nbsp;Evangelical Christian&nbsp;3.3%, other/none/unspecified 23.1% (2018 est.)<br><br><strong>note:&nbsp; </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
-<strong>note:&nbsp; </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
+Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%, other/none/unspecified 23.1% (2018 est.)<br><br><strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
+<strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
 
 **Age structure**<br>
 _0-14 years_: 14.01% (male 635,803/female 605,065)<br>
@@ -316,9 +316,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br />Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br />National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)<br>
-_elections_: <br />Federal Council - last appointed - NA<br />National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)<br>
-_election results_: <br />Federal Council - percent of vote by party - NA; seats by party - NA; composition&nbsp;- men 44, women 17, percent of women 27.9%&nbsp;<br />National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,&nbsp; NEOS 15; composition - men 115, women 68, percent of women 37.2%; note -&nbsp;total Federal Assembly percent of women 34.8% (e.g. 2019)<br>
+_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)<br>
+_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)<br>
+_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -326,7 +326,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Sebastian KURZ]<br />Communist Party of Austria or KPOe [Mirko MESSNER]<br />Freedom Party of Austria or FPOe [Herbert KICKI]<br />The Greens [Werner KOGLER]<br />NEOS - The New Austria [Beate MEINL-REISINGER]<br />NOW-Pilz List (JETZT-Liste Pilz) or PILZ [Maria STERN]<br />Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Sebastian KURZ]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>NOW-Pilz List (JETZT-Liste Pilz) or PILZ [Maria STERN]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -610,7 +610,7 @@ _total_: 2.519 million<br>
 _subscriptions per 100 inhabitants_: 28.54 (2019 est.)<br>
 
 **Communications - note**<br>
-<strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br /><br /><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br /><br /><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br /><br /><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>
+<strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br><br><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br><br><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br><br><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>
 
 ## Transportation
 
@@ -663,7 +663,7 @@ _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces<span id="support" class="greybox grey3lines"></span> (2021)<br>
+Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (2021)<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>
@@ -687,8 +687,8 @@ registration requirement at age 17, the legal minimum age for voluntary military
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
+Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

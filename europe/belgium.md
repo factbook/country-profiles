@@ -87,7 +87,7 @@ Belgian 75.2%, Italian 4.1%, Moroccan 3.7%, French 2.4%, Turkish 2%, Dutch 2%, o
 
 **Languages**<br>
 Dutch (official) 60%, French (official) 40%, German (official) less than 1%<br>
-_printed major-language sample_: <br />Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br /><br />The World Factbook, une source indispensable d'informations de base. (French)<br /><br />The World Factbook, the indispensable source for basic information.<br>
+_printed major-language sample_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 50%, Protestant and other Christian 2.5%, Muslim 5%, Jewish 0.4%, Buddhist 0.3%, atheist 9.2%, none 32.6% (2009 est.)<br>
@@ -319,9 +319,9 @@ _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br />Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br /> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br /><br />Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
@@ -330,7 +330,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br />Christian Democratic and Flemish or CD&amp;V [Joachim COENS]<br />Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br />Groen or Green [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)<br />New Flemish Alliance or N-VA [Bart DE WEVER]<br />Social Progressive Alternative or SP.A [Conner ROUSSEAU]<br />Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br /><strong>Francophone parties:</strong> <br />Ecolo (Francophone Greens) [Jean-Marc NOLLET, Rajae MAOUANE]<br />Francophone Federalist Democrats or Defi [Olivier MAINGAIN]<br />Humanist and Democratic Center or CDH [Maxine PREVOT]<br />People's Party or PP [Mischael MODRIKAMEN]<br />Reform Movement or MR [George-Louis BOUCHEZ]<br />Socialist Party or PS [Paul MAGNETTE]<br />Workers' Party or PTB [Peter MERTENS]<br />other minor parties<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Joachim COENS]<br>Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Groen or Green [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Social Progressive Alternative or SP.A [Conner ROUSSEAU]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET, Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Olivier MAINGAIN]<br>Humanist and Democratic Center or CDH [Maxine PREVOT]<br>People's Party or PP [Mischael MODRIKAMEN]<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PTB [Peter MERTENS]<br>other minor parties<br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -691,13 +691,13 @@ the Belgian Armed Forces have a mix of weapons systems from European countries, 
 18 years of age for male and female voluntary military service; conscription abolished in 1995 (2019)<br>
 
 **Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br /><br />in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
-<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in <a title="Appendix-T" href="../appendix/appendix-t.html">Appendix-T</a><br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 
