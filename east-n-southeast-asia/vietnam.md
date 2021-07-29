@@ -83,7 +83,7 @@ _noun_: Vietnamese (singular and plural)<br>
 _adjective_: Vietnamese<br>
 
 **Ethnic groups**<br>
-Kinh (Viet) 85.7%, Tay 1.9%, Thai 1.8%, Muong 1.5%, Khmer 1.5%, Mong 1.2%, Nung 1.1%, Hoa 1%, other 4.3% (2009 est.)<br><br><strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
+Kinh (Viet) 85.3%, Tay 1.9%, Thai 1.9%, Muong 1.5%, Khmer 1.4%, Mong 1.4%, Nung 1.1%, other 5.5% (2019 est.)<br><br><strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
 <strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
 
 **Languages**<br>
@@ -190,13 +190,13 @@ _unimproved: rural_: rural: 17.9% of population<br>
 _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2019 est.)<br>
+0.3% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-230,000 (2019 est.)<br>
+250,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-5,000 (2019 est.)<br>
+3,800 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -327,8 +327,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Nguyen Xuan PHUC (since 5 April 2021)<br>
 _head of government_: Prime Minister &nbsp;Pham Minh CHINH (since 5 April 2021); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Le Minh KHAI (since 8 April 2021), Vu Duc DAM (since 13 November 2013), Le Van THANH (since 8 April 2021), Pham Binh MINH (since 13 November 2013<br>
 _cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
-_elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 2 April 2016 (next to be held in spring 2021); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
-_election results_: Nguyen Phu TRONG (CPV) elected president; percent of National Assembly vote - 99.8%; Nguyen Xuan PHUC elected prime minister; percent of National Assembly vote - 91%<br>
+_elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 26 July 2021 (next to be held in spring 2026); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
+_election results_: Pham Minh CHINH (CPV) reelected president; percent of National Assembly vote - 99.8%; Nguyen Xuan PHUC (CPV) reelected prime minister; percent of National Assembly vote - 100%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2016 election - 494; number of current serving members - 484; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>

@@ -189,13 +189,13 @@ _unimproved: rural_: rural: 73.4% of population<br>
 _unimproved: total_: total: 63.8% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-6.1% (2019 est.)<br>
+5.4% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-1.5 million (2019 est.)<br>
+1.4 million (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-21,000 (2019 est.)<br>
+22,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -332,12 +332,12 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Edward SSEKANDI (since 24 May 2011); Prime Minister Ruhakana RUGUNDA (since 19 September 2014); First Deputy Prime Minister Moses ALI (since 6 June 2016); Second Deputy Prime Minister Kirunda KIVEJINJA (since 6 June 2016); note - the president is both chief of state and head of government<br>
-_head of government_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Edward SSEKANDI (since 24 May 2011); Prime Minister Ruhakana RUGUNDA (since 19 September 2014); First Deputy Prime Minister Moses ALI (since 6 June 2016); Second Deputy Prime Minister Kirunda KIVEJINJA (since 6 June 2016)<br>
+_chief of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the president is both chief of state and head of government<br>
+_head of government_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021)<br>
 _cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
 _election results_: Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br>
-_head of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Edward SSEKANDI (since 24 May 2011); note - the president is both head of state and head of government<br>
+_head of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); note - the president is both head of state and head of government<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)<br>

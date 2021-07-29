@@ -84,7 +84,7 @@ Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)<br><br><strong>note:
 <strong>note:</strong> data represent the population by country of citizenship<br>
 
 **Languages**<br>
-Samoan (Polynesian) (official) 91.1%, Somoan/English 6.7%, English (official) 0.5%, other 0.2%, unspecified 1.6% (2006 est.)<br>
+Samoan (Polynesian) (official) 91.1%, Samoan/English 6.7%, English (official) 0.5%, other 0.2%, unspecified 1.6% (2006 est.)<br>
 
 **Religions**<br>
 Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Mormon 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)<br>
@@ -322,9 +322,8 @@ _election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously electe
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (51 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
-_elections_: election last held on 9 April 2021 (next election to be held on 2026)<br>note - head of state TUIMALEALI'IFANO Va’aletoa Sualauvi II declared 9 April 2021 election void on 4 May 2021, new elections set for 21 May 2021; on 17 May 2021, the Supreme Court invalidated the head of state's order allowing the 9 April 2021 election results to stand<br>
-_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party &ndash; initial election results - FAST 25, HRPP 25, independents 1; composition - men 46, women 5<br>
-<strong>note </strong>- on 2 June 2021, the Court of Appeal declared that a sixth women’s seat is required to meet the minimum 10% representation for women but that the seat would not be created until after all election petitions and by-elections were settled<br>
+_elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>note - head of state TUIMALEALI'IFANO Va’aletoa Sualauvi II declared 9 April 2021 election void on 4 May 2021, new elections set for 21 May 2021; on 17 May 2021, the Supreme Court invalidated the head of state's order allowing the 9 April 2021 election results to stand<br>
+_election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – initial election results - FAST 25, HRPP 25, independents 1; composition - men 46, women 5, percent of women 9.8% <br>note - on 2 June 2021, the Court of Appeals declared that a sixth seat for women is required to meet the minimum 10% representation for women, but that the seat would not be filled until after all election petitions and by-elections are settled<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>

@@ -193,10 +193,10 @@ _unimproved: total_: total: 46.1% of population (2017 est.)<br>
 3.3% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-100,000 (2019 est.)<br>
+110,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-4,500 (2019 est.)<br>
+6,100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

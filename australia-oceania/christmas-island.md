@@ -144,7 +144,7 @@ _conventional short form_: Christmas Island<br>
 _etymology_: named by English Captain William MYNORS for the day of its rediscovery, Christmas Day (25 December 1643); the island had been sighted by Europeans as early as 1615<br>
 
 **Dependency status**<br>
-non-self governing territory of Australia; administered from Canberra by the Department of Regional Australia, Local Government, Arts and Sport<br>
+non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
 
 **Government type**<br>
 non-self-governing overseas territory of Australia<br>
@@ -178,8 +178,8 @@ see Australia<br>
 18 years of age<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General Sir Peter COSGROVE (since 28 March 2014)<br>
-_head of government_: Administrator Natasha GRIGGS (since 5 October 2018)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
+_head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Legislative branch**<br>
@@ -294,8 +294,8 @@ _standard gauge_: 18 km 1.435-m (not in operation) (2017)<br>
 <strong>note:</strong> the 18-km Christmas Island Phosphate Company Railway between Flying Fish Cove and South Point was decommissioned in 1987; some tracks and scrap remain in place<br>
 
 **Roadways**<br>
-_total_: 140 km (2011)<br>
-_paved_: 30 km (2011)<br>
+_total_: 142 km (2011)<br>
+_paved_: 32 km (2011)<br>
 _unpaved_: 110 km (2011)<br>
 
 **Ports and terminals**<br>

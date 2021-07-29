@@ -177,13 +177,13 @@ _improved: total_: total: 98.6% of population<br>
 _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-NA<br>
+0.1% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-NA<br>
+<1,000 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-NA<br>
+100 <100 (2020)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 April 2021, UAE has reported a total of 472,148 cases of COVID-19 or 4,773.8 cumulative cases of COVID-19 per 100,000 population with 15.29 cumulative deaths per 100,000 population; as of 23 February 2021, 35.2% of the population has received at least one dose of COVID-19 vaccine<br>

@@ -164,7 +164,7 @@ _female_: 67.4 years (2021 est.)<br>
 4.84 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-31.2% (2016)<br>
+24.9% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 93.8% of population<br>
@@ -192,13 +192,13 @@ _unimproved: rural_: rural: 76.5% of population<br>
 _unimproved: total_: total: 55.9% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-1.5% (2019 est.)<br>
+1.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-47,000 (2019 est.)<br>
+35,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,900 (2019 est.)<br>
+1,300 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

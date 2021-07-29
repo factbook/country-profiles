@@ -188,13 +188,13 @@ _unimproved: rural_: rural: 7.6% of population<br>
 _unimproved: total_: total: 4.1% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-6,500 (2019 est.)<br>
+4,500 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+<200 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.9% (2016)<br>
@@ -317,13 +317,13 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (elected 13 October, sworn in 23 October 2019)<br>
-_head of government_: Prime Minister Hichem MECHICHI (since 2 September 2020)<br>
+_head of government_: prime minister (vacant); on 25 July 2021, President SAIED removed Prime Minister Hichem MECHICHI from office<br>
 _cabinet_: selected by the prime minister and approved by the Assembly of the Representatives of the People<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be&nbsp;held in 2024); following legislative elections, the prime minister is selected by the winning party or winning coalition and appointed by the president<br>
 _election results_: <p>first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; runoff - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies abroad by party-list proportional representation vote; members serve 5-year terms)<br>
+_description_: <br>note: on 25 July 2021, President SAIED suspended the Assembly for 30 days<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies abroad by party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: initial election held on 6 October 2019 (next to be held in October 2024)<br>
 _election results_: percent of vote by party - Ennahdha 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%;seats by party -&nbsp; Ennahdha 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Tahya Tounes 14, other 25, independent 12; composition - men 139, women 78, percent of women 35.9%<br>
 

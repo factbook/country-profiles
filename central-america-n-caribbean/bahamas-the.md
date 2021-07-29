@@ -175,7 +175,7 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 1.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-6,000 (2018 est.)<br>
+4,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
 <200 (2018)<br>

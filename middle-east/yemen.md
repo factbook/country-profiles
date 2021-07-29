@@ -91,7 +91,7 @@ Arabic (official); note - a distinct Socotri language is widely used on Socotra 
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2010 est.)<br>
+Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 39.16% (male 5,711,709 /female 5,513,526)<br>
@@ -191,13 +191,13 @@ _unimproved: rural_: rural: 51.5% of population<br>
 _unimproved: total_: total: 35.4% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-11,000 (2019 est.)<br>
+11,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+<500 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>

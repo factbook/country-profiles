@@ -187,13 +187,15 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2019)<br>
+0.2% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-17,000 (2019)<br>
+17,000 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019)<br>
+&lt;200 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 19.5% (2016)<br>

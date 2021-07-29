@@ -178,13 +178,10 @@ _improved: total_: total: 93.9% of population<br>
 _unimproved: total_: total: 6.4% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.5% (2019 est.)<br>
+0.5% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-110,000 (2019 est.)<br>
-
-**HIV/AIDS - deaths**<br>
-NA<br>
+100,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>

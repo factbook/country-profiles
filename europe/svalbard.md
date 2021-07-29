@@ -106,6 +106,9 @@ NA (2021 est.)<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
+**HIV/AIDS - deaths**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 

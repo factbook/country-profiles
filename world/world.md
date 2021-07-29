@@ -183,13 +183,13 @@ _unimproved: rural_: rural: 49.5% of population<br>
 _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.6% (2019 est.)<br>
+0.7% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-38 million (2019 est.)<br>
+37.7 million (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-690,000 (2019 est.)<br>
+680,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 19 July 2021, 190,671,330 confirmed cases of COVID-19 and 4,098,758 deaths have been reported to the World Health Organization; as of 19 July 2021, 26.5% of the World population has received at least one dose of COVID-19 vaccine<br>

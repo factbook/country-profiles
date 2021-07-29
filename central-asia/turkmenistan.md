@@ -288,7 +288,7 @@ Independence Day, 27 October (1991)<br>
 
 **Constitution**<br>
 _history_: several previous; latest adopted 14 September 2016<br>
-_amendments_: proposed by the National Assembly; passage requires two-thirds majority vote of the total Assembly membership or absolute majority approval in a referendum; amended several times, last in 2020<br>
+_amendments_: proposed by the National Assembly; passage requires two-thirds majority vote of the total Assembly membership or absolute majority approval in a referendum; amended several times, last in 2020 (changed parliament to bicameral)<br>
 
 **Legal system**<br>
 civil law system with Islamic (sharia) law influences<br>
@@ -313,9 +313,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Mejlis (125 seats; members directly elected from single-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
-_elections_: last held on 25 March 2018, although interim elections are held on an ad hoc basis to fill vacant sets<br>
-_election results_: percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
+_description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
+_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
+_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>

@@ -187,13 +187,15 @@ _unimproved: rural_: rural: 28.5% of population<br>
 _unimproved: total_: total: 15.7% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2019 est.)<br>
+0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-190,000 (2019 est.)<br>
+19,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
@@ -702,7 +704,7 @@ Romania officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 7,886 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 7,906 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

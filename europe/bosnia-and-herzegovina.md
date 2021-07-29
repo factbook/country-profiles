@@ -318,7 +318,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if employed; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Chairman of the Presidency Milorad DODIK (chairman since 20 November 2020; presidency member since 20 November 2018 - Serb seat); Sefik DZAFEROVIC (presidency member since 20 November 2018 - Bosniak seat); Zeljko KOMSIC (presidency member since 20 November 2018 - Croat seat)<br>
+_chief of state_: Chairman of the Presidency Zeljko KOMSIC&nbsp; (chairman since 20 July 2021; presidency member since 20 November 2018 - Croat seat); Sefik DZAFEROVIC (presidency member since 20 November 2018 - Bosniak seat); Milorad DODIK (presidency member since 20 November 2018 - Serb seat)<br>
 _head of government_: Chairman of the Council of Ministers Zoran TEGELTIJA &nbsp;(since 5 December 2019)<br>
 _cabinet_: Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives<br>
 _elections/appointments_: 3-member presidency (1 Bosniak and 1 Croat elected from the Federation of Bosnia and Herzegovina and 1 Serb elected from the Republika Srpska) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years); the presidency chairpersonship rotates every 8 months with the new member of the presidency elected with the highest number of votes starting the new mandate as chair; election last held on&nbsp;7 October 2018 (next to be held in October 2022); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives<br>

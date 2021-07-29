@@ -87,7 +87,7 @@ Mossi 52%, Fulani 8.4%, Gurma 7%, Bobo 4.9%, Gurunsi 4.6%, Senufo 4.5%, Bissa 3.
 French (official), native African languages belonging to Sudanic family spoken by 90% of the population<br>
 
 **Religions**<br>
-Muslim 61.5%, Roman Catholic 23.3%, traditional/animist 7.8%, Protestant 6.5%, other/no answer 0.2%, none 0.7% (2010 est.)<br>
+Muslim 63.2%, Roman Catholic 24.6%, Protestant 6.9%, traditional/animist 4.2%, none 0.7%, unspecified 0.4% (2017-18 est.)<br>
 
 **Demographic profile**<br>
 <p>Burkina Faso has a young age structure – the result of declining mortality combined with steady high fertility – and continues to experience rapid population growth, which is putting increasing pressure on the country’s limited arable land. More than 65% of the population is under the age of 25, and the population is growing at 3% annually. Mortality rates, especially those of infants and children, have decreased because of improved health care, hygiene, and sanitation, but women continue to have an average of almost 6 children. Even if fertility were substantially reduced, today’s large cohort entering their reproductive years would sustain high population growth for the foreseeable future. Only about a third of the population is literate and unemployment is widespread, dampening the economic prospects of Burkina Faso’s large working-age population.</p> <p>Migration has traditionally been a way of life for Burkinabe, with seasonal migration being replaced by stints of up to two years abroad. Cote d’Ivoire remains the top destination, although it has experienced periods of internal conflict. Under French colonization, Burkina Faso became a main labor source for agricultural and factory work in Cote d’Ivoire. Burkinabe also migrated to Ghana, Mali, and Senegal for work between the world wars. Burkina Faso attracts migrants from Cote d’Ivoire, Ghana, and Mali, who often share common ethnic backgrounds with the Burkinabe. Despite its food shortages and high poverty rate, Burkina Faso has become a destination for refugees in recent years and hosts about 33,500 Malians as of May 2017.</p> (2018)<br>
@@ -162,7 +162,7 @@ _female_: 64.89 years (2021 est.)<br>
 4.39 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-32.5% (2018/19)<br>
+30.1% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 94.9% of population<br>
@@ -193,10 +193,10 @@ _unimproved: total_: total: 53.1% of population (2017 est.)<br>
 0.7% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-100,000 (2019 est.)<br>
+97,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-3,100 (2019 est.)<br>
+3,300 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

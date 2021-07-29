@@ -189,10 +189,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-14,000 (2017 est.)<br>
+17,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2017 est.)<br>
+&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 24.9% (2016)<br>
@@ -710,7 +712,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br><br><strong
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,208,807 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,208,826 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

@@ -189,13 +189,13 @@ _unimproved: rural_: rural: 87.1% of population<br>
 _unimproved: total_: total: 76.7% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2019 est.)<br>
+0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-33,000 (2019 est.)<br>
+31,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,100 (2019 est.)<br>
+1,100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -716,6 +716,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 177,773 (Nigeria), 61,156 (Mali) (2021)<br>
+_refugees (country of origin)_: 182,730 (Nigeria), 61,156 (Mali) (2021)<br>
 _IDPs_: 300,320 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
 

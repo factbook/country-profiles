@@ -174,13 +174,13 @@ _improved: total_: total: 99% of population<br>
 _unimproved: total_: total: 1% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-2,700 (2019 est.)<br>
+2,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+<100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 April 2021, Lebanon has reported a total of 480,502 cases of COVID-19 or 7,039.86 cumulative cases of COVID-19 per 100,000 population with 94.4 cumulative deaths per 100,000 population; as of 10 April 2021, 2.5% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -334,7 +334,7 @@ _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized tr
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Gabriel ISSA (since 24 January 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Wael HACHEM (since 15 March 2021)<br>
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>

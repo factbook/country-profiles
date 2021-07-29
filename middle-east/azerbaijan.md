@@ -85,7 +85,8 @@ Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2
 <strong>note:</strong> the separatist Nagorno-Karabakh region is populated almost entirely by ethnic Armenians<br>
 
 **Languages**<br>
-Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br><br><strong>note:</strong> Russian is widely spoken<br>
+Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
+_printed major-language sample_: <br>Dünya fakt kitabı, əsas məlumatlar üçün əvəz olunmaz mənbədir (Azerbaijani)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> Russian is widely spoken<br>
 
 **Religions**<br>
@@ -193,10 +194,10 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-9,700 (2019 est.)<br>
+9,900 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+<200 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>

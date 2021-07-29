@@ -86,7 +86,7 @@ _adjective_: Namibian<br>
 Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, mixed European and African ancestry 6.5%, European&nbsp;6%,&nbsp;Nama 5%, Caprivian 4%, San 3%, Baster 2%, Tswana .5%<br>
 
 **Languages**<br>
-Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages .7%, other 1% (2016 est.)<br><br><strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
+Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br><br><strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
 <strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
 
 **Religions**<br>
@@ -193,13 +193,13 @@ _unimproved: rural_: rural: 78% of population<br>
 _unimproved: total_: total: 53.1% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-12.7% (2019 est.)<br>
+11.6% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-210,000 (2019 est.)<br>
+210,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-3,000 (2019 est.)<br>
+3,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>

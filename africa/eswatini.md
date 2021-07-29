@@ -189,10 +189,10 @@ _unimproved: total_: total: 15% of population (2017 est.)<br>
 26.8% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-200,000 (2019 est.)<br>
+200,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-2,300 (2019 est.)<br>
+2,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -329,8 +329,8 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age<br>
 
 **Executive branch**<br>
-_chief of state_: &nbsp;King MSWATI III (since 25 April 1986)<br>
-_head of government_: Prime Minister Ambrose Mandvulo DLAMINI (since 27 October 2018); Deputy Prime Minister Themba MASUKU (since 6 November 2018)&nbsp;<br>
+_chief of state_: King MSWATI III (since 25 April 1986)<br>
+_head of government_: Prime Minister Cleopas DLAMINI (since since 19 July 2021); Deputy Prime Minister Themba MASUKU (since 6 November 2018)<br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
 

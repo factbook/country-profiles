@@ -82,7 +82,8 @@ _adjective_: Uzbekistani<br>
 Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%, other 4.4% (2017 est.)<br>
 
 **Languages**<br>
-Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br><br><strong>note:</strong> in the autonomous Karakalpakstan Republic, both the Karakalpak language and Uzbek have official status<br>
+Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>
+_printed major-language sample_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> in the autonomous Karakalpakstan Republic, both the Karakalpak language and Uzbek have official status<br>
 
 **Religions**<br>
@@ -182,13 +183,13 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.2% (2019 est.)<br>
+0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-50,000 (2019 est.)<br>
+58,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2019 est.)<br>
+<1,000 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 16.6% (2016)<br>
@@ -312,9 +313,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (NDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (Milliy Tiklanish/National Revival) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br> Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round, if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held 13-14 January 2015 (next to be held in 2020)<br> Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 83, women 17, percent of women 17%<br> Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - NA<br>
+_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>

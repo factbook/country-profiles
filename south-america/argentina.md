@@ -161,7 +161,8 @@ _female_: 81.36 years (2021 est.)<br>
 2.2 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-81.3% (2013)<br>
+81.3% (2013)<br><br><strong>note:</strong>  percent of women aged 14-49<br>
+<strong>note:</strong>  percent of women aged 14-49<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population<br>
@@ -188,10 +189,10 @@ _unimproved: urban_: urban: 1.7% of population (2017 est.)<br>
 0.4% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-140,000 (2019 est.)<br>
+140,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,400 (2019 est.)<br>
+1,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 19 July 2021, Argentina has reported a total of 4,756,378 cases of COVID-19 or 10,523.94 cumulative cases of COVID-19 per 100,000 population with 224.69 cumulative deaths per 100,000 population; as of 19 July 2021, 48.74% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -327,7 +328,7 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 6-year terms with one-third of the membership elected every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
 _elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
 _election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
 

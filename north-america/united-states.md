@@ -89,7 +89,7 @@ _noun_: American(s)<br>
 _adjective_: American<br>
 
 **Ethnic groups**<br>
-White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska native 0.9%, native Hawaiian and other Pacific Islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)<br><br><strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
+White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska Native 0.9%, Native Hawaiian and other Pacific Islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)<br><br><strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
 <strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
 
 **Languages**<br>

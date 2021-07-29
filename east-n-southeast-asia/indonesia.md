@@ -192,13 +192,13 @@ _unimproved: rural_: rural: 23.2% of population<br>
 _unimproved: total_: total: 14.6% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.4% (2018 est.)<br>
+0.4% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-640,000 (2018 est.)<br>
+540,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-38,000 (2018 est.)<br>
+24,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

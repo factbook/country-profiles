@@ -186,7 +186,7 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 0.6% (2018)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1000 (2018)<br>
+<1,000 (2018)<br>
 
 **HIV/AIDS - deaths**<br>
 <100 (2018)<br>
@@ -308,9 +308,9 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br> House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 12 July 2016 (next in 2021)<br> House of Assembly - last held on 6 June 2016 (next to be held in 2021)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br> House of Assembly - percent of vote by party - UWP 54.8%, SLP 44.1%, other 1.1%; seats by party - UWP 11, SLP 6; composition - men 14, women 3, percent of women 17.6%; note - total Parliament percent of women 21.4%<br>
+_description_: bicameral Parliament consists of:<br>Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last appointments on 12 July 2016 (next in 2021)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br>House of Assembly - percent of vote by party - SLP 44.1%, UWP 42.9%, independent 6.8%; seats by party - SLP 13, UWP 2, independent 2; composition - NA, percent of women NA; note - total Parliament percent of women NA<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>

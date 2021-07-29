@@ -86,6 +86,7 @@ Somali 85%, Bantu and other non-Somali 15% (including 30,000 Arabs)<br>
 
 **Languages**<br>
 Somali (official, according to the 2012 Transitional Federal Charter), Arabic (official, according to the 2012 Transitional Federal Charter), Italian, English<br>
+_printed major-language sample_: <br>Buugga Xaqiiqda Aduunka, waa laga maarmaanka macluumaadka assasiga. (Somali)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Sunni Muslim (Islam) (official, according to the 2012 Transitional Federal Charter)<br>
@@ -181,13 +182,13 @@ _unimproved: rural_: rural: 72.9% of population<br>
 _unimproved: total_: total: 46.7% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-11,000 (2019 est.)<br>
+8,700 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2019 est.)<br>
+<500 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

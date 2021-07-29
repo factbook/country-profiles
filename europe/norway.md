@@ -195,7 +195,8 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 5,800 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>

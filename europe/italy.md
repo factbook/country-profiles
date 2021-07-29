@@ -189,13 +189,14 @@ _unimproved: rural_: rural: 1.4% of population<br>
 _unimproved: total_: total: 1.2% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-0.3% (2019 est.)<br>
+0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-130,000 (2019 est.)<br>
+140,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<1000 (2019 est.)<br>
+<1000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -724,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 548,245 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 548,937 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

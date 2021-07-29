@@ -86,6 +86,7 @@ Oromo 34.9%, Amhara (Amara) 27.9%, Tigray (Tigrinya) 7.3%, Sidama 4.1%, Welaita 
 
 **Languages**<br>
 Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)<br>
+_printed major-language sample_: <br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional 0.6%, other 0.8% (2016 est.)<br>
@@ -163,7 +164,7 @@ _female_: 70.06 years (2021 est.)<br>
 4.07 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-40.1% (2018)<br>
+37% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 97% of population<br>
@@ -194,10 +195,10 @@ _unimproved: total_: total: 85.3% of population (2017 est.)<br>
 0.9% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-670,000 (2019 est.)<br>
+620,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-12,000 (2019 est.)<br>
+13,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>

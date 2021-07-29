@@ -218,11 +218,11 @@ _unimproved: total_: total: 7.3% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-21,000 (2019 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+22,000 (2020 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2019 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+&lt;500 (2020 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Major infectious diseases**<br>

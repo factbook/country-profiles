@@ -324,8 +324,8 @@ _election results_: Rumen RADEV elected president in second round; percent of vo
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 4 April 2021 (snap election to be held on 11 July 2021); note - a snap election was called after a third attempt to form a government failed on 5 May 2021, parliament will be dissolved and an interim government will be appointed<br>
-_election results_: percent of vote by party/coalition - GERB-SDS 25.8%, ITN 17.4%, BSP 14.8%, DPS 10.4%, DB&nbsp; 9.3%, ISMV 4.7%, other 17.6%; seats by party/coalition - GERB-SDS 75, ITN 51, BSP 43, DPS 30, DB 27 ISMV 14<br>
+_elections_: last held on 11 July 2021 (snap election to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -333,7 +333,7 @@ _judge selection and term of office_: Supreme Court of Cassation and Supreme Adm
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
 **Political parties and leaders**<br>
-Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, ZNS, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimiter DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISSOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]New Dawn [Mincho MINCHEV]Political Club Thrace or PKT [Stefan NACHEZ]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up! Mafia, Get Out! or ISMV (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]  <br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA]<br>Union of Democratic Forces or SDS [Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>
+Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, ZNS, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimiter DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISSOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up! Mafia, Get Out! or ISMV (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]  <br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS [Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -711,7 +711,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,551 (Syria) (2019)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 60,701 estimated refugee and migrant arrivals (January 2015-June 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 60,715 estimated refugee and migrant arrivals (January 2015-June 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions<br>

@@ -191,10 +191,10 @@ _unimproved: total_: total: 3.1% of population (2017 est.)<br>
 1.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-4,900 (2018 est.)<br>
+3,800 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2018 est.)<br>
+<200 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>

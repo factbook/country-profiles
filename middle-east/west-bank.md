@@ -157,7 +157,7 @@ _female_: 78.36 years (2021 est.)<br>
 3.02 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-57.2% (2014)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank<br>
+57.3% (2019/20)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Drinking water source**<br>

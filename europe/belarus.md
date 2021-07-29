@@ -158,7 +158,7 @@ _female_: 79.74 years (2021 est.)<br>
 1.51 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-72.1% (2017)<br><br><strong>note:</strong>  percent of women aged 18-49<br>
+71.2% (2017)<br><br><strong>note:</strong>  percent of women aged 18-49<br>
 <strong>note:</strong>  percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -190,10 +190,12 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 0.5% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-28,000 (2019 est.)<br>
+28,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2019 est.)<br>
+&lt;200 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>

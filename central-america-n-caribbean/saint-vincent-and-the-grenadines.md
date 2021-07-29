@@ -81,7 +81,7 @@ _noun_: Saint Vincentian(s) or Vincentian(s)<br>
 _adjective_: Saint Vincentian or Vincentian<br>
 
 **Ethnic groups**<br>
-African descent 71.2%, mixed 23%, Indigenous 3%, East Indian/Indian 1.1%, European 1.5%, other .2% (2012 est.)<br>
+African descent 71.2%, mixed 23%, Indigenous 3%, East Indian/Indian 1.1%, European 1.5%, other 0.2% (2012 est.)<br>
 
 **Languages**<br>
 English, Vincentian Creole English, French patois<br>

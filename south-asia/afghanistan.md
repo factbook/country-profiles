@@ -85,7 +85,7 @@ Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkme
 
 **Languages**<br>
 Afghan Persian or Dari (official) 78% (Dari functions as the lingua franca), Pashto (official) 50%, Uzbek 10%, English 5%, Turkmen 2%, Urdu 2%, Pashayi 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2017 est.)<br>
-_printed major-language sample_: <br> <p>منبع ضروری برای اطلاعات اساسی کتاب حقایق جهانی، (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br>
+_printed major-language sample_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br>
 <strong>note 1:</strong> data represent most widely spoken languages; shares sum to more than 100% because there is much bilingualism in the country and because respondents were allowed to select more than one language
 <br><br><strong>note 2:</strong> the Turkic languages Uzbek and Turkmen, as well as Balochi, Pashayi, Nuristani, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
@@ -194,10 +194,10 @@ _unimproved: total_: total: 46.8% of population (2017 est.)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-11,000 (2019 est.)<br>
+12,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<500 (2019 est.)<br>
+<1,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>

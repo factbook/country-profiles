@@ -194,10 +194,10 @@ _unimproved: total_: total: 22% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-19,000 (2019 est.)<br>
+17,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<200 (2019 est.)<br>
+<200 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -331,7 +331,7 @@ _elections/appointments_: president and vice president directly elected on the s
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the inauguration of Luis Alberto ARCE Catacora, winner of the 18 October 2020 presidential election<br>
 
 **Legislative branch**<br>
-_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by proportional representation vote, and 7 - apportioned to non-contiguous, rural areas in 7 of the 9 states - directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
 _election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
 

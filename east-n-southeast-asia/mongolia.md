@@ -85,6 +85,7 @@ Khalkh 83.8%, Kazak 3.8%, Durvud 2.6%, Bayad 2%, Buriad 1.4%, Zakhchin 1.2%, Dar
 
 **Languages**<br>
 Mongolian 90% (official) (Khalkha dialect is predominant), Turkic, Russian (1999)<br>
+_printed major-language sample_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 53%, Muslim 3%, Shamanist 2.9%, Christian 2.2%, other 0.4%, none 38.6% (2010 est.)<br>
@@ -187,13 +188,13 @@ _unimproved: rural_: rural: 34.9% of population<br>
 _unimproved: total_: total: 13.5% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1000 (2019 est.)<br>
+<1,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+<100 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>

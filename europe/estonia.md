@@ -187,10 +187,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.8% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-7,400 (2018 est.)<br>
+7,100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>

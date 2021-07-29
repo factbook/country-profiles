@@ -147,9 +147,6 @@ _female_: 72.98 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.8 children born/woman (2021 est.)<br>
 
-**Contraceptive prevalence rate**<br>
-65.6% (2010)<br>
-
 **Drinking water source**<br>
 _improved: urban_: urban: 99.3% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -179,10 +176,10 @@ _unimproved: total_: total: 21.7% of population (2017 est.)<br>
 0.2% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-1,300 (2018)<br>
+1,300 (2020)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018)<br>
+<100 (2020)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>

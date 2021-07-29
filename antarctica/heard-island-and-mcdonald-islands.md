@@ -85,7 +85,7 @@ _abbreviation_: HIMI<br>
 _etymology_: named after American Captain John HEARD, who sighted the island on 25 November 1853, and American Captain William McDONALD, who discovered the islands on 4 January 1854<br>
 
 **Dependency status**<br>
-territory of Australia; administered from Canberra by the Department of Sustainability, Environment, Water, Population and Communities (Australian Antarctic Division)<br>
+territory of Australia; administered from Canberra by the Department of Agriculture, Water and the Environment (Australian Antarctic Division)<br>
 
 **Legal system**<br>
 the laws of Australia apply where applicable<br>

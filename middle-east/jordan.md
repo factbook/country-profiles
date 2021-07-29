@@ -189,13 +189,13 @@ _unimproved: rural_: rural: 3.7% of population<br>
 _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2018 est.)<br>
+<1,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2018 est.)<br>
+<100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 April 2021, Jordan has reported a total of 639,444 cases of COVID-19 or 6,267.13 cumulative cases of COVID-19 per 100,000 population with 71.38 cumulative deaths per 100,000 population; as of 7 April 2021, 4% of the population has received at least one dose of COVID-19 vaccine<br>

@@ -187,13 +187,15 @@ _unimproved: rural_: rural: 6.1% of population<br>
 _unimproved: total_: total: 2.2% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2019 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<500 (2019 est.)<br>
+&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-<100 (2019 est.)<br>
+&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -693,5 +695,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,104 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 19,191 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 

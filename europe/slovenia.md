@@ -84,6 +84,7 @@ Slovene 83.1%, Serb 2%, Croat 1.8%, Bosniak 1.1%, other or unspecified 12% (2002
 
 **Languages**<br>
 Slovene (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 est.)<br>
+_printed major-language sample_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 0.9%, unaffiliated 3.5%, other or unspecified 23%, none 10.1% (2002 est.)<br>
@@ -182,10 +183,11 @@ _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
-<.1% (2018 est.)<br>
+<.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-<1000 (2017 est.)<br>
+&lt;1,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+<strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
 <100 (2018 est.)<br>
