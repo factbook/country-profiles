@@ -1,0 +1,439 @@
+_Europe / Dependencies (United Kingdom)_
+
+# Isle of Man
+
+## Introduction
+
+**Background**<br>
+Part of the Norwegian Kingdom of the Hebrides until the 13th century when it was ceded to Scotland, the isle came under the British crown in 1765. Current concerns include reviving the almost extinct Manx Gaelic language. The Isle of Man is a British Crown dependency, which makes it a self-governing possession of the British Crown that is not part of the UK. The UK Government, however, remains constitutionally responsible for its defense and international representation.<br>
+
+## Geography
+
+**Location**<br>
+Western Europe, island in the Irish Sea, between Great Britain and Ireland<br>
+
+**Geographic coordinates**<br>
+54 15 N, 4 30 W<br>
+
+**Map references**<br>
+Europe<br>
+
+**Area**<br>
+_total_: 572 sq km<br>
+_land_: 572 sq km<br>
+_water_: 0 sq km<br>
+
+**Area - comparative**<br>
+slightly more than three times the size of Washington, DC<br>
+
+**Land boundaries**<br>
+_total_: 0 km<br>
+
+**Coastline**<br>
+160 km<br>
+
+**Maritime claims**<br>
+_territorial sea_: 12 nm<br>
+_exclusive fishing zone_: 12 nm<br>
+
+**Climate**<br>
+temperate; cool summers and mild winters; overcast about a third of the time<br>
+
+**Terrain**<br>
+hills in north and south bisected by central valley<br>
+
+**Elevation**<br>
+_highest point_: Snaefell 621 m<br>
+_lowest point_: Irish Sea 0 m<br>
+
+**Natural resources**<br>
+none<br>
+
+**Land use**<br>
+_agricultural land_: 74.7% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 43.8% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
+_forest_: 6.1% (2018 est.)<br>
+_other_: 19.2% (2018 est.)<br>
+
+**Irrigated land**<br>
+0 sq km (2012)<br>
+
+**Population distribution**<br>
+most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
+
+**Natural hazards**<br>
+occasional high winds and rough seas<br>
+
+**Geography - note**<br>
+one small islet, the Calf of Man, lies to the southwest and is a bird sanctuary<br>
+
+## People and Society
+
+**Population**<br>
+90,895 (July 2021 est.)<br>
+
+**Nationality**<br>
+_noun_: Manxman(men), Manxwoman(women)<br>
+_adjective_: Manx<br>
+
+**Ethnic groups**<br>
+British 92.6%, European 5%, Asian 1%, African 1%, other 0.2% (2011 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+<strong>note:</strong> data represent population by nationality<br>
+
+**Languages**<br>
+English, Manx Gaelic (about 2% of the population has some knowledge)<br>
+
+**Religions**<br>
+Protestant (Anglican, Methodist, Baptist, Presbyterian, Society of Friends), Roman Catholic<br>
+
+**Age structure**<br>
+_0-14 years_: 16.28% (male 7,688/female 7,046)<br>
+_15-24 years_: 11.02% (male 5,328/female 4,642)<br>
+_25-54 years_: 37.8% (male 17,080/female 17,131)<br>
+_55-64 years_: 13.82% (male 6,284/female 6,219)<br>
+_65 years and over_: 21.08% (male 9,023/female 10,058) (2020 est.)<br>
+
+**Median age**<br>
+_total_: 44.6 years<br>
+_male_: 43.6 years<br>
+_female_: 45.6 years (2020 est.)<br>
+
+**Population growth rate**<br>
+0.55% (2021 est.)<br>
+
+**Birth rate**<br>
+10.69 births/1,000 population (2021 est.)<br>
+
+**Death rate**<br>
+10.19 deaths/1,000 population (2021 est.)<br>
+
+**Net migration rate**<br>
+5.01 migrant(s)/1,000 population (2021 est.)<br>
+
+**Population distribution**<br>
+most people concentrated in cities and large towns of which Douglas, in the southeast, is the largest<br>
+
+**Urbanization**<br>
+_urban population_: 53.1% of total population (2021)<br>
+_rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
+
+**Major urban areas - population**<br>
+27,000 DOUGLAS (capital) (2018)<br>
+
+**Sex ratio**<br>
+_at birth_: 1.08 male(s)/female<br>
+_0-14 years_: 1.09 male(s)/female<br>
+_15-24 years_: 1.15 male(s)/female<br>
+_25-54 years_: 1 male(s)/female<br>
+_55-64 years_: 1.01 male(s)/female<br>
+_65 years and over_: 0.9 male(s)/female<br>
+_total population_: 1.01 male(s)/female (2020 est.)<br>
+
+**Infant mortality rate**<br>
+_total_: 4.31 deaths/1,000 live births<br>
+_male_: 4.67 deaths/1,000 live births<br>
+_female_: 3.92 deaths/1,000 live births (2021 est.)<br>
+
+**Life expectancy at birth**<br>
+_total population_: 81.84 years<br>
+_male_: 80.01 years<br>
+_female_: 83.8 years (2021 est.)<br>
+
+**Total fertility rate**<br>
+1.9 children born/woman (2021 est.)<br>
+
+**Drinking water source**<br>
+_improved: total_: total: 100% of population<br>
+_unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**HIV/AIDS - adult prevalence rate**<br>
+NA<br>
+
+**HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
+NA<br>
+
+**Education expenditures**<br>
+NA<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.1%<br>
+_male_: 11.8%<br>
+_female_: 8.2% (2011 est.)<br>
+
+## Environment
+
+**Environment - current issues**<br>
+air pollution, marine pollution; waste disposal (both household and industrial)<br>
+
+**Climate**<br>
+temperate; cool summers and mild winters; overcast about a third of the time<br>
+
+**Land use**<br>
+_agricultural land_: 74.7% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 43.8% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
+_forest_: 6.1% (2018 est.)<br>
+_other_: 19.2% (2018 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2017 est.)<br>
+
+**Urbanization**<br>
+_urban population_: 53.1% of total population (2021)<br>
+_rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
+
+**Waste and recycling**<br>
+_municipal solid waste generated annually_: 50,551 tons (2011 est.)<br>
+_municipal solid waste recycled annually_: 25,276 tons (2011 est.)<br>
+_percent of municipal solid waste recycled_: 50% (2011 est.)<br>
+
+## Government
+
+**Country name**<br>
+_conventional long form_: none<br>
+_conventional short form_: Isle of Man<br>
+_abbreviation_: I.O.M.<br>
+_etymology_: the name "man" may be derived from the Celtic word for "mountain"<br>
+
+**Dependency status**<br>
+British crown dependency<br>
+
+**Government type**<br>
+parliamentary democracy (Tynwald)<br>
+
+**Capital**<br>
+_name_: Douglas<br>
+_geographic coordinates_: 54 09 N, 4 29 W<br>
+_time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
+_daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
+<strong>etymology:</strong> name derives from the Dhoo and Glass Rivers, which flow through the valley in which the town is located and which in Manx mean the "dark" and the "light" rivers respectively<br>
+
+**Administrative divisions**<br>
+none; there are no first-order administrative divisions as defined by the US Government, but there are 24 local authorities each with its own elections<br>
+
+**Independence**<br>
+none (British Crown dependency)<br>
+
+**National holiday**<br>
+Tynwald Day, 5 July (1417); date Tynwald Day was first recorded<br>
+
+**Constitution**<br>
+_history_: development of the Isle of Man constitution dates to at least the 14th century<br>
+_amendments_: proposed as a bill in the House of Keys, by the "Government," by a "Member of the House," or through petition to the House or Legislative Council; passage normally requires three separate readings and approval of at least 13 House members; following both House and Council agreement, assent is required by the lieutenant governor on behalf of the Crown; the constitution has been expanded and amended many times, last in 2020<br>
+
+**Legal system**<br>
+the laws of the UK&nbsp;apply where applicable and include Manx statutes<br>
+
+**Citizenship**<br>
+see United Kingdom<br>
+
+**Suffrage**<br>
+16 years of age; universal<br>
+
+**Executive branch**<br>
+_chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Richard GOZNEY (since 27 May 2016)<br>
+_head of government_: Chief Minister Howard QUAYLE (since 4 October 2016)<br>
+_cabinet_: Council of Ministers appointed by the lieutenant governor<br>
+_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 4 October 2016 (next to be held in 2021)<br>
+_election results_: Howard QUAYLE (independent) elected chief minister; Tynwald vote - 21 of 33<br>
+
+**Legislative branch**<br>
+_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
+_elections_: <br>Legislative Council - last held 28 February 2018 (next to be held 12 March 2020)<br> House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)<br>
+_election results_: <strong> </strong><br> Legislative Council - composition - men 6, women 5, percent of women 45.5%<br>House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%<br>
+<strong>note:</strong> as of January 2019, seats by party - Liberal Vannin 2, independent 22<br>
+
+**Judicial branch**<br>
+_highest courts_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
+_judge selection and term of office_: deemsters appointed by the Lord Chancellor of England on the nomination of the lieutenant governor; deemsters can serve until age 70<br>
+_subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
+
+**Political parties and leaders**<br>
+Liberal Vannin Party [Kate BEECROFT]<br>Manx Labor Party<br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br><br><strong>note:</strong> most members sit as independents<br>
+<strong>note:</strong> most members sit as independents<br>
+
+**International organization participation**<br>
+UPU<br>
+
+**Diplomatic representation in the US**<br>
+none (British crown dependency)<br>
+
+**Diplomatic representation from the US**<br>
+_embassy_: none (British crown dependency)<br>
+
+**Flag description**<br>
+red with the Three Legs of Man emblem (triskelion), in the center; the three legs are joined at the thigh and bent at the knee; in order to have the toes pointing clockwise on both sides of the flag, a two-sided emblem is used; the flag is based on the coat of arms of the last recognized Norse King of Mann, Magnus III (r. 1252-65); the triskelion has its roots in an early Celtic sun symbol<br>
+
+**National symbol(s)**<br>
+triskelion (a motif of three legs); national colors: red, white<br>
+
+**National anthem**<br>
+_name_: "Arrane Ashoonagh dy Vannin" (O Land of Our Birth)<br>
+_lyrics/music_: William Henry GILL [English], John J. KNEEN [Manx]/traditional<br>
+<strong>note:</strong> adopted 2003, in use since 1907; serves as a local anthem; as a British Crown dependency, "God Save the Queen" is official (see United Kingdom) and is played when the sovereign, members of the royal family, or the lieutenant governor are present<br>
+
+## Economy
+
+**Economic overview**<br>
+Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated.<br>
+
+**Real GDP growth rate**<br>
+-8.6% (2015 est.)<br>
+17.9% (2014 est.)<br>
+2.1% (2010 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+4.1% (2017 est.)<br>
+1% (2016 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: Aa3 (2020)<br>
+_Standard & Poors rating_: N/A (2014)<br>
+
+**Real GDP (purchasing power parity)**<br>
+$6.792 billion (2015 est.)<br>
+$7.428 billion (2014 est.)<br>
+$6.298 billion (2013 est.)<br>
+<strong>note:</strong> data are in 2014 US dollars<br>
+
+**GDP (official exchange rate)**<br>
+$6.792 billion (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$84,600 (2014 est.)<br>
+$86,200 (2013 est.)<br>
+$73,700 (2012 est.)<br>
+
+**GDP - composition, by sector of origin**<br>
+_agriculture_: 1% (FY12/13 est.)<br>
+_industry_: 13% (FY12/13 est.)<br>
+_services_: 86% (FY12/13 est.)<br>
+
+**Agricultural products**<br>
+cereals, vegetables; cattle, sheep, pigs, poultry<br>
+
+**Industries**<br>
+financial services, light manufacturing, tourism<br>
+
+**Labor force**<br>
+41,790 (2006)<br>
+
+**Labor force - by occupation**<br>
+_manufacturing_: 5% (2006 est.)<br>
+_construction_: 8% (2006 est.)<br>
+_tourism_: 1% (2006 est.)<br>
+_transport and communications_: 9% (2006 est.)<br>
+_agriculture, forestry, and fishing_: 2% (2006 est.)<br>
+_gas, electricity, and water_: 1% (2006 est.)<br>
+_wholesale and retail distribution_: 11% (2006 est.)<br>
+_professional and scientific services_: 20% (2006 est.)<br>
+_public administration_: 7% (2006 est.)<br>
+_banking and finance_: 23% (2006 est.)<br>
+_entertainment and catering_: 5% (2006 est.)<br>
+_miscellaneous services_: 8% (2006 est.)<br>
+
+**Unemployment rate**<br>
+1.1% (2017 est.)<br>
+2% (April 2011 est.)<br>
+
+**Population below poverty line**<br>
+NA<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: NA<br>
+_highest 10%_: NA<br>
+
+**Budget**<br>
+_revenues_: 965 million (FY05/06 est.)<br>
+_expenditures_: 943 million (FY05/06 est.)<br>
+
+**Taxes and other revenues**<br>
+14.2% (of GDP) (FY05/06 est.)<br>
+
+**Budget surplus (+) or deficit (-)**<br>
+0.3% (of GDP) (FY05/06 est.)<br>
+
+**Fiscal year**<br>
+1 April - 31 March<br>
+
+**Exports**<br>
+<p>NA</p><br>
+
+**Exports - commodities**<br>
+tweeds, herring, processed shellfish, beef, lamb<br>
+
+**Imports**<br>
+<p>NA</p><br>
+
+**Imports - commodities**<br>
+timber, fertilizers, fish<br>
+
+**Debt - external**<br>
+<p>NA</p><br>
+
+**Exchange rates**<br>
+Manx pounds (IMP) per US dollar -<br>
+0.7836 (2017 est.)<br>
+0.738 (2016 est.)<br>
+0.738 (2015)<br>
+0.6542 (2014)<br>
+0.6472 (2013 est.)<br>
+
+## Energy
+
+**Electricity access**<br>
+_electrification - total population_: 100% (2020)<br>
+
+## Communications
+
+**Telecommunication systems**<br>
+_domestic_: landline, telefax, mobile cellular telephone system<br>
+_international_: country code - 44; fiber-optic cable, microwave radio relay, satellite earth station, submarine cable<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+
+**Broadcast media**<br>
+national public radio broadcasts over 3 FM stations and 1 AM station; 2 commercial broadcasters operating with 1 having multiple FM stations; receives radio and TV services via relays from British TV and radio broadcasters<br>
+
+**Internet country code**<br>
+.im<br>
+
+## Transportation
+
+**Civil aircraft registration country code prefix**<br>
+M<br>
+
+**Airports**<br>
+_total_: 1 (2013)<br>
+
+**Airports - with paved runways**<br>
+_total_: 1 (2019)<br>
+_1,524 to 2,437 m_: 1<br>
+
+**Railways**<br>
+_total_: 63 km (2008)<br>
+_narrow gauge_: 6 km 1.076-m gauge (6 km electrified) (2008)<br>
+57 0.914-m gauge (29 km electrified)
+<strong>note:</strong> primarily summer tourist attractions<br>
+
+**Roadways**<br>
+_total_: 500 km (2008)<br>
+
+**Ports and terminals**<br>
+_major seaport(s)_: Douglas, Ramsey<br>
+
+## Military and Security
+
+**Military - note**<br>
+defense is the responsibility of the UK<br>
+
+## Transnational Issues
+
+**Disputes - international**<br>
+<p>none</p><br>
+

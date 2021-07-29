@@ -1,0 +1,745 @@
+_East & Southeast Asia / Countries_
+
+# Indonesia
+
+## Introduction
+
+**Background**<br>
+The archipelago gradually adopted Islam between the 13th and 16th centuries. The Dutch began to colonize Indonesia in the early 17th century; Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted "Guided Democracy." After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his "New Order" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement.<br>
+
+## Geography
+
+**Location**<br>
+Southeastern Asia, archipelago between the Indian Ocean and the Pacific Ocean<br>
+
+**Geographic coordinates**<br>
+5 00 S, 120 00 E<br>
+
+**Map references**<br>
+Southeast Asia<br>
+
+**Area**<br>
+_total_: 1,904,569 sq km<br>
+_land_: 1,811,569 sq km<br>
+_water_: 93,000 sq km<br>
+
+**Area - comparative**<br>
+slightly less than three times the size of Texas<br>
+
+**Land boundaries**<br>
+_total_: 2,958 km<br>
+_border countries_: Malaysia 1881 km, Papua New Guinea 824 km, Timor-Leste 253 km<br>
+
+**Coastline**<br>
+54,716 km<br>
+
+**Maritime claims**<br>
+_territorial sea_: 12 nm<br>
+_exclusive economic zone_: 200 nm<br>
+measured from claimed archipelagic straight baselines<br>
+
+**Climate**<br>
+tropical; hot, humid; more moderate in highlands<br>
+
+**Terrain**<br>
+mostly coastal lowlands; larger islands have interior mountains<br>
+
+**Elevation**<br>
+_highest point_: Puncak Jaya 4,884 m<br>
+_lowest point_: Indian Ocean 0 m<br>
+_mean elevation_: 367 m<br>
+
+**Natural resources**<br>
+petroleum, tin, natural gas, nickel, timber, bauxite, copper, fertile soils, coal, gold, silver<br>
+
+**Land use**<br>
+_agricultural land_: 31.2% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 13% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 12.1% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.1% (2018 est.)<br>
+_forest_: 51.7% (2018 est.)<br>
+_other_: 17.1% (2018 est.)<br>
+
+**Irrigated land**<br>
+67,220 sq km (2012)<br>
+
+**Population distribution**<br>
+major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
+
+**Natural hazards**<br>
+<p>occasional floods; severe droughts; tsunamis; earthquakes; volcanoes; forest fires</p> <p><strong>volcanism:</strong> Indonesia contains the most volcanoes of any country in the world - some 76 are historically active; significant volcanic activity occurs on Java, Sumatra, the Sunda Islands, Halmahera Island, Sulawesi Island, Sangihe Island, and in the Banda Sea; Merapi (2,968 m), Indonesia's most active volcano and in eruption since 2010, has been deemed a Decade Volcano by the International Association of Volcanology and Chemistry of the Earth's Interior, worthy of study due to its explosive history and close proximity to human populations; on 22 December 2018, a large explosion and flank collapse destroyed most of the 338 m high island of Anak Krakatau (Child of Krakatau) and generated a deadly tsunami inundating portions of western Java and southern Sumatra leaving more than 400 dead; other notable historically active volcanoes include Agung, Awu, Karangetang, Krakatau (Krakatoa), Makian, Raung, Sinabung, and Tambora; see note 2 under "Geography - note"</p><br>
+
+**Geography - note**<br>
+<p><strong>note 1:</strong> according to Indonesia's National Coordinating Agency for Survey and Mapping, the total number of islands in the archipelago is 13,466, of which 922 are permanently inhabited (Indonesia is the world's largest country comprised solely of islands); the country straddles the equator and occupies a strategic location astride or along major sea lanes from the Indian Ocean to the Pacific Ocean</p> <p><strong>note 2:</strong> Indonesia is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire; 80% of tsunamis, caused by volcanic or seismic events, occur within the "Pacific Ring of Fire"</p> <p><strong>note 3:</strong> despite having the fourth largest population in the world, Indonesia is the most heavily forested region on earth after the Amazon</p><br>
+
+## People and Society
+
+**Population**<br>
+275,122,131 (July 2021 est.)<br>
+
+**Nationality**<br>
+_noun_: Indonesian(s)<br>
+_adjective_: Indonesian<br>
+
+**Ethnic groups**<br>
+Javanese 40.1%, Sundanese 15.5%, Malay 3.7%, Batak 3.6%, Madurese 3%, Betawi 2.9%, Minangkabau 2.7%, Buginese 2.7%, Bantenese 2%, Banjarese 1.7%, Balinese 1.7%, Acehnese 1.4%, Dayak 1.4%, Sasak 1.3%, Chinese 1.2%, other 15% (2010 est.)<br>
+
+**Languages**<br>
+Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese); note -&nbsp;more than 700 languages are used in Indonesia<br>
+_printed major-language sample_: <br>Fakta Dunia, sumber informasi dasar yang sangat diperlukan. (Indonesian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+
+**Religions**<br>
+Muslim 87.2%, Protestant 7%, Roman Catholic 2.9%, Hindu 1.7%, other 0.9% (includes Buddhist and Confucian), unspecified 0.4% (2010 est.)<br>
+
+**Demographic profile**<br>
+<p>Indonesia has the world’s fourth-largest population.  It is predominantly Muslim and has the largest Muslim population of any country in the world.  The population is projected to increase to as much as 320 million by 2045.  A government-supported family planning program.  The total fertility rate (TFR) – the average number of births per woman – from 5.6 in the mid-1960s to 2.7 in the mid-1990s.  The success of the program was also due to the social acceptance of family planning, which received backing from influential Muslim leaders and organizations.</p> <p>The fertility decline slowed in the late 1990’s when responsibility for family planning programs shifted to the district level, where the programs were not prioritized.  Since 2012 the national government revitalized the national family planning program, and Indonesia’s TFR has slowly decreased to 2.3 in 2020.  The government may reach its goal of achieving replacement level fertility – 2.1 children per woman – but the large number of women of childbearing age ensures significant population growth for many years. </p> <p>Indonesia is a source country for labor migrants, a transit country for asylum seekers, and a destination mainly for highly skilled migrant workers.  International labor migration, both legal and illegal, from Indonesia to other parts of Asia (most commonly Malaysia) and the Middle East has taken place for decades because of high unemployment and underemployment, poverty, and low wages domestically.  Increasing numbers of migrant workers are drawn to Australia, Canada, New Zealand, and the US.  The majority of Indonesian labor migration is temporary and consists predominantly of low-skilled workers, mainly women working as domestics.</p> <p>Indonesia’s strategic location between Asia and Australia and between the Pacific and Indian Oceans – and its relatively easy accessibility via boat – appeal to asylum seekers.  It is also an attractive transit location because of its easy entry requirements and the ability to continue on to Australia.  Recent asylum seekers have come from Afghanistan, Burma (Rohingyas), Iraq, Somalia, and Sri Lanka.  Since 2013, when Australia tightening its immigration policy, thousands of migrants and asylum seekers have been stranded in Indonesia, where they live in precarious conditions and receive only limited support from international organizations.  The situation for refugees in Indonesia has also worsened because Australia and the US, which had resettled the majority of refugees in Indonesia, have significantly lowered their intake.</p><br>
+
+**Age structure**<br>
+_0-14 years_: 23.87% (male 32,473,246/female 31,264,034)<br>
+_15-24 years_: 16.76% (male 22,786,920/female 21,960,130)<br>
+_25-54 years_: 42.56% (male 58,249,570/female 55,409,579)<br>
+_55-64 years_: 8.99% (male 11,033,838/female 12,968,005)<br>
+_65 years and over_: 7.82% (male 9,099,773/female 11,781,271) (2020 est.)<br>
+
+**Dependency ratios**<br>
+_total dependency ratio_: 47.5<br>
+_youth dependency ratio_: 38.3<br>
+_elderly dependency ratio_: 9.2<br>
+_potential support ratio_: 10.8 (2020 est.)<br>
+
+**Median age**<br>
+_total_: 31.1 years<br>
+_male_: 30.5 years<br>
+_female_: 31.8 years (2020 est.)<br>
+
+**Population growth rate**<br>
+0.81% (2021 est.)<br>
+
+**Birth rate**<br>
+15.59 births/1,000 population (2021 est.)<br>
+
+**Death rate**<br>
+6.74 deaths/1,000 population (2021 est.)<br>
+
+**Net migration rate**<br>
+-0.72 migrant(s)/1,000 population (2021 est.)<br>
+
+**Population distribution**<br>
+major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
+
+**Urbanization**<br>
+_urban population_: 57.3% of total population (2021)<br>
+_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
+
+**Major urban areas - population**<br>
+10.915 million JAKARTA (capital), 3.510 million Bekasi, 2.972 million Surabaya, 2.607 million Bandung, 2.397 million Tangerang, 2.368 million Medan (2021)<br>
+
+**Sex ratio**<br>
+_at birth_: 1.05 male(s)/female<br>
+_0-14 years_: 1.04 male(s)/female<br>
+_15-24 years_: 1.04 male(s)/female<br>
+_25-54 years_: 1.05 male(s)/female<br>
+_55-64 years_: 0.85 male(s)/female<br>
+_65 years and over_: 0.77 male(s)/female<br>
+_total population_: 1 male(s)/female (2020 est.)<br>
+
+**Mother's mean age at first birth**<br>
+22.8 years (2012 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> median age at first birth among women 25-29<br>
+
+**Maternal mortality ratio**<br>
+177 deaths/100,000 live births (2017 est.)<br>
+
+**Infant mortality rate**<br>
+_total_: 20.16 deaths/1,000 live births<br>
+_male_: 22.59 deaths/1,000 live births<br>
+_female_: 17.6 deaths/1,000 live births (2021 est.)<br>
+
+**Life expectancy at birth**<br>
+_total population_: 72.82 years<br>
+_male_: 70.62 years<br>
+_female_: 75.12 years (2021 est.)<br>
+
+**Total fertility rate**<br>
+2.04 children born/woman (2021 est.)<br>
+
+**Contraceptive prevalence rate**<br>
+55.5% (2018)<br>
+
+**Drinking water source**<br>
+_improved: urban_: urban: 96.6% of population<br>
+_improved: rural_: rural: 83.7% of population<br>
+_improved: total_: total: 90.8% of population<br>
+_unimproved: urban_: urban: 3.4% of population<br>
+_unimproved: rural_: rural: 16.3% of population<br>
+_unimproved: total_: total: 9.2% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+2.9% (2018)<br>
+
+**Physicians density**<br>
+0.43 physicians/1,000 population (2018)<br>
+
+**Hospital bed density**<br>
+1 beds/1,000 population (2017)<br>
+
+**Sanitation facility access**<br>
+_improved: urban_: urban: 92.5% of population<br>
+_improved: rural_: rural: 76.8% of population<br>
+_improved: total_: total: 85.4% of population<br>
+_unimproved: urban_: urban: 7.5% of population<br>
+_unimproved: rural_: rural: 23.2% of population<br>
+_unimproved: total_: total: 14.6% of population (2017 est.)<br>
+
+**HIV/AIDS - adult prevalence rate**<br>
+0.4% (2018 est.)<br>
+
+**HIV/AIDS - people living with HIV/AIDS**<br>
+640,000 (2018 est.)<br>
+
+**HIV/AIDS - deaths**<br>
+38,000 (2018 est.)<br>
+
+**Major infectious diseases**<br>
+_degree of risk_: very high (2020)<br>
+_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
+_vectorborne diseases_: dengue fever and malaria<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 19 July 2021, Indonesia has reported a total of 2,950,058 cases of COVID-19 or 1,078.54 cumulative cases of COVID-19 per 100,000 population with 27.86 cumulative deaths per 100,000 population; as of 19 July 2021, 15.39% of the population has received at least one dose of COVID-19 vaccine<br>
+
+**Obesity - adult prevalence rate**<br>
+6.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+17.7% (2018)<br>
+
+**Education expenditures**<br>
+3.6% of GDP (2015)<br>
+
+**Literacy**<br>
+_definition_: age 15 and over can read and write<br>
+_total population_: 95.7%<br>
+_male_: 97.3%<br>
+_female_: 94% (2018)<br>
+
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 14 years<br>
+_male_: 14 years<br>
+_female_: 14 years (2018)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 13.5%<br>
+_male_: 13.8%<br>
+_female_: 13.2% (2019 est.)<br>
+
+## Environment
+
+**Environment - current issues**<br>
+large-scale deforestation (much of it illegal) and related wildfires cause heavy smog; over-exploitation of marine resources; environmental problems associated with rapid urbanization and economic development, including air pollution, traffic congestion, garbage management, and reliable water and waste water services; water pollution from industrial wastes, sewage<br>
+
+**Environment - international agreements**<br>
+_party to_: Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Climate Change-Paris Agreement, Comprehensive Nuclear Test Ban, Desertification, Endangered Species, Hazardous Wastes, Law of the Sea, Nuclear Test Ban, Ozone Layer Protection, Ship Pollution, Tropical Timber 2006, Wetlands<br>
+_signed, but not ratified_: Marine Life Conservation<br>
+
+**Air pollutants**<br>
+_particulate matter emissions_: 15.58 micrograms per cubic meter (2016 est.)<br>
+_carbon dioxide emissions_: 563.32 megatons (2016 est.)<br>
+_methane emissions_: 244.5 megatons (2020 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 23.8 billion cubic meters (2017 est.)<br>
+_industrial_: 9.135 billion cubic meters (2017 est.)<br>
+_agricultural_: 189.7 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2,018,700,000,000 cubic meters (2017 est.)<br>
+
+**Climate**<br>
+tropical; hot, humid; more moderate in highlands<br>
+
+**Land use**<br>
+_agricultural land_: 31.2% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 13% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 12.1% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 6.1% (2018 est.)<br>
+_forest_: 51.7% (2018 est.)<br>
+_other_: 17.1% (2018 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0.39% of GDP (2018 est.)<br>
+
+**Revenue from coal**<br>
+_coal revenues_: 1.06% of GDP (2018 est.)<br>
+
+**Urbanization**<br>
+_urban population_: 57.3% of total population (2021)<br>
+_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
+
+**Major infectious diseases**<br>
+_degree of risk_: very high (2020)<br>
+_food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
+_vectorborne diseases_: dengue fever and malaria<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 19 July 2021, Indonesia has reported a total of 2,950,058 cases of COVID-19 or 1,078.54 cumulative cases of COVID-19 per 100,000 population with 27.86 cumulative deaths per 100,000 population; as of 19 July 2021, 15.39% of the population has received at least one dose of COVID-19 vaccine<br>
+
+**Waste and recycling**<br>
+_municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
+_municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
+_percent of municipal solid waste recycled_: 7% (2016 est.)<br>
+
+## Government
+
+**Country name**<br>
+_conventional long form_: Republic of Indonesia<br>
+_conventional short form_: Indonesia<br>
+_local long form_: Republik Indonesia<br>
+_local short form_: Indonesia<br>
+_former_: Netherlands East Indies, Dutch East Indies<br>
+_etymology_: the name is an 18th-century construct of two Greek words, "Indos" (India) and "nesoi" (islands), meaning "Indian islands"<br>
+
+**Government type**<br>
+presidential republic<br>
+
+**Capital**<br>
+_name_: Jakarta<br>
+_geographic coordinates_: 6 10 S, 106 49 E<br>
+_time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
+<strong>note:</strong> Indonesia has three time zones<br><br><strong>etymology:</strong> "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
+
+**Administrative divisions**<br>
+31 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br><br><strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
+<strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
+
+**Independence**<br>
+17 August 1945 (declared independence from the Netherlands)<br>
+
+**National holiday**<br>
+Independence Day, 17 August (1945)<br>
+
+**Constitution**<br>
+_history_: drafted July to August 1945, effective 18 August 1945, abrogated by 1949 and 1950 constitutions; 1945 constitution restored 5 July 1959<br>
+_amendments_: proposed by the People&rsquo;s Consultative Assembly, with at least two thirds of its members present; passage requires simple majority vote by the Assembly membership; constitutional articles on the unitary form of the state cannot be amended; amended several times, last in 2002<br>
+
+**Legal system**<br>
+civil law system based on the Roman-Dutch model and influenced by customary law<br>
+
+**International law organization participation**<br>
+has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt<br>
+
+**Citizenship**<br>
+_citizenship by birth_: no<br>
+_citizenship by descent only_: at least one parent must be a citizen of Indonesia<br>
+_dual citizenship recognized_: no<br>
+_residency requirement for naturalization_: 5 continuous years<br>
+
+**Suffrage**<br>
+17 years of age; universal and married persons regardless of age<br>
+
+**Executive branch**<br>
+_chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government (2019)<br>
+_head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019) (2019)<br>
+_cabinet_: Cabinet appointed by the president&nbsp;<br>
+_elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
+_election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
+_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
+
+**Judicial branch**<br>
+_highest courts_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
+_judge selection and term of office_: Supreme Court judges nominated by Judicial Commission, appointed by president with concurrence of parliament; judges serve until retirement at age 65; Constitutional Court judges - 3 nominated by president, 3 by Supreme Court, and 3 by parliament; judges appointed by the president; judges serve until mandatory retirement at age 70<br>
+_subordinate courts_: High Courts of Appeal, district courts, religious courts<br>
+
+**Political parties and leaders**<br>
+Democrat Party or PD [Susilo Bambang YUDHOYONO]<br>Functional Groups Party or GOLKAR [Airlangga HARTARTO]<br>Great Indonesia Movement Party or GERINDRA [PRABOWO Subianto Djojohadikusumo]<br>Indonesia Democratic Party-Struggle or PDI-P [MEGAWATI Sukarnoputri]<br>National Awakening Party or PKB [Muhaiman ISKANDAR]<br>National Democratic Party or NasDem [Surya PALOH]<br>National Mandate Party or PAN [Zulkifli HASAN]<br>Party of the Functional Groups or Golkar [Airlangga HARTARTO]<br>People's Conscience Party or HANURA [Oesman Sapta ODANG]<br>Prosperous Justice Party or PKS [Muhammad Sohibul IMAN]<br>United Development Party or PPP [Muhammad ROMAHURMUZIY] (2019)<br>
+
+**International organization participation**<br>
+ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+
+**Diplomatic representation in the US**<br>
+_chief of mission_: Ambassador Muhammad LUTFI (since 17 September 2020)<br>
+_chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
+_telephone_: [1] (202) 775-5200<br>
+_FAX_: [1] (202) 775-5365<br>
+_consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
+
+**Diplomatic representation from the US**<br>
+_chief of mission_: <p>Ambassador Sung Y. KIM (October 2020)</p><br>
+_telephone_: [62] (21) 3435-9000 (2020)<br>
+_embassy_: Jalan Medan Merdeka Selatan 3-5, Jakarta 10110<br>
+_mailing address_: Unit 8129, Box 1, FPO AP 96520<br>
+_FAX_: [62] (21) 2395-1697 (2018)<br>
+_consulate(s) general_: Surabaya<br>
+_consulate(s)_: Medan<br>
+
+**Flag description**<br>
+two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity<br><br><strong>note:</strong> similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red<br>
+<strong>note:</strong> similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red<br>
+
+**National symbol(s)**<br>
+garuda (mythical bird); national colors: red, white<br>
+
+**National anthem**<br>
+_name_: "Indonesia Raya" (Great Indonesia)<br>
+_lyrics/music_: Wage Rudolf SOEPRATMAN<br>
+<strong>note:</strong> adopted 1945<br>
+
+## Economy
+
+**Economic overview**<br>
+<p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p><p></p><p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
+
+**Real GDP growth rate**<br>
+5.03% (2019 est.)<br>
+5.17% (2018 est.)<br>
+5.07% (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.8% (2019 est.)<br>
+3.2% (2018 est.)<br>
+3.8% (2017 est.)<br>
+
+**Credit ratings**<br>
+_Fitch rating_: BBB (2017)<br>
+_Moody's rating_: Baa2 (2018)<br>
+_Standard & Poors rating_: BBB (2019)<br>
+
+**Real GDP (purchasing power parity)**<br>
+$3,196,682,000,000 (2019 est.)<br>
+$3,043,743,000,000 (2018 est.)<br>
+$2,894,125,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,119,720,000,000 (2019 est.)<br>
+
+**Real GDP per capita**<br>
+$11,812 (2019 est.)<br>
+$11,372 (2018 est.)<br>
+$10,936 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**Gross national saving**<br>
+31% of GDP (2019 est.)<br>
+31.8% of GDP (2018 est.)<br>
+30.9% of GDP (2017 est.)<br>
+
+**GDP - composition, by sector of origin**<br>
+_agriculture_: 13.7% (2017 est.)<br>
+_industry_: 41% (2017 est.)<br>
+_services_: 45.4% (2017 est.)<br>
+
+**GDP - composition, by end use**<br>
+_household consumption_: 57.3% (2017 est.)<br>
+_government consumption_: 9.1% (2017 est.)<br>
+_investment in fixed capital_: 32.1% (2017 est.)<br>
+_investment in inventories_: 0.3% (2017 est.)<br>
+_exports of goods and services_: 20.4% (2017 est.)<br>
+_imports of goods and services_: -19.2% (2017 est.)<br>
+
+**Ease of Doing Business Index scores**<br>
+_Overall score_: 69.6 (2020)<br>
+_Starting a Business score_: 81.2 (2020)<br>
+_Trading score_: 67.5 (2020)<br>
+_Enforcement score_: 49.1 (2020)<br>
+
+**Agricultural products**<br>
+oil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poultry, rubber<br>
+
+**Industries**<br>
+petroleum and natural gas, textiles, automotive, electrical appliances, apparel, footwear, mining, cement, medical instruments and appliances, handicrafts, chemical fertilizers, plywood, rubber, processed food, jewelry, and tourism<br>
+
+**Industrial production growth rate**<br>
+4.1% (2017 est.)<br>
+
+**Labor force**<br>
+129.366 million (2019 est.)<br>
+
+**Labor force - by occupation**<br>
+_agriculture_: 32%<br>
+_industry_: 21%<br>
+_services_: 47% (2016 est.)<br>
+
+**Unemployment rate**<br>
+5.31% (2018 est.)<br>
+5.4% (2017 est.)<br>
+
+**Population below poverty line**<br>
+9.4% (2019 est.)<br>
+
+**Gini Index coefficient - distribution of family income**<br>
+37.8 (2018 est.)<br>
+39.4 (2005)<br>
+
+**Household income or consumption by percentage share**<br>
+_lowest 10%_: 3.4%<br>
+_highest 10%_: 28.2% (2010)<br>
+
+**Budget**<br>
+_revenues_: 131.7 billion (2017 est.)<br>
+_expenditures_: 159.6 billion (2017 est.)<br>
+
+**Taxes and other revenues**<br>
+13% (of GDP) (2017 est.)<br>
+
+**Budget surplus (+) or deficit (-)**<br>
+-2.7% (of GDP) (2017 est.)<br>
+
+**Public debt**<br>
+28.8% of GDP (2017 est.)<br>
+28.3% of GDP (2016 est.)<br>
+
+**Fiscal year**<br>
+calendar year<br>
+
+**Current account balance**<br>
+-$30.359 billion (2019 est.)<br>
+-$30.633 billion (2018 est.)<br>
+
+**Exports**<br>
+$249.628 billion (2019 est.)<br>
+$251.827 billion (2018 est.)<br>
+$236.354 billion (2017 est.)<br>
+
+**Exports - partners**<br>
+China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
+
+**Exports - commodities**<br>
+coal, palm oil, natural gas, cars, gold (2019)<br>
+
+**Imports**<br>
+$223.44 billion (2019 est.)<br>
+$242.046 billion (2018 est.)<br>
+$216.342 billion (2017 est.)<br>
+
+**Imports - partners**<br>
+China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5%, Malaysia 5% (2019)<br>
+
+**Imports - commodities**<br>
+refined petroleum, crude petroleum, vehicle parts, telephones, natural gas (2019)<br>
+
+**Reserves of foreign exchange and gold**<br>
+$130.2 billion (31 December 2017 est.)<br>
+
+**Debt - external**<br>
+$393.252 billion (2019 est.)<br>
+$360.945 billion (2018 est.)<br>
+
+**Exchange rates**<br>
+Indonesian rupiah (IDR) per US dollar -<br>
+14,110 (2020 est.)<br>
+14,015 (2019 est.)<br>
+14,470 (2018 est.)<br>
+13,389.4 (2014 est.)<br>
+11,865.2 (2013 est.)<br>
+
+## Energy
+
+**Electricity access**<br>
+_electrification - total population_: 99% (2019)<br>
+_electrification - urban areas_: 100% (2019)<br>
+_electrification - rural areas_: 99% (2019)<br>
+
+**Electricity - production**<br>
+235.4 billion kWh (2016 est.)<br>
+
+**Electricity - consumption**<br>
+213.4 billion kWh (2016 est.)<br>
+
+**Electricity - exports**<br>
+0 kWh (2017 est.)<br>
+
+**Electricity - imports**<br>
+693 million kWh (2016 est.)<br>
+
+**Electricity - installed generating capacity**<br>
+61.43 million kW (2016 est.)<br>
+
+**Electricity - from fossil fuels**<br>
+85% of total installed capacity (2016 est.)<br>
+
+**Electricity - from nuclear fuels**<br>
+0% of total installed capacity (2017 est.)<br>
+
+**Electricity - from hydroelectric plants**<br>
+9% of total installed capacity (2017 est.)<br>
+
+**Electricity - from other renewable sources**<br>
+6% of total installed capacity (2017 est.)<br>
+
+**Crude oil - production**<br>
+772,000 bbl/day (2018 est.)<br>
+
+**Crude oil - exports**<br>
+302,300 bbl/day (2015 est.)<br>
+
+**Crude oil - imports**<br>
+498,500 bbl/day (2015 est.)<br>
+
+**Crude oil - proved reserves**<br>
+3.31 billion bbl (1 January 2018 est.)<br>
+
+**Refined petroleum products - production**<br>
+950,000 bbl/day (2015 est.)<br>
+
+**Refined petroleum products - consumption**<br>
+1.601 million bbl/day (2016 est.)<br>
+
+**Refined petroleum products - exports**<br>
+79,930 bbl/day (2015 est.)<br>
+
+**Refined petroleum products - imports**<br>
+591,500 bbl/day (2015 est.)<br>
+
+**Natural gas - production**<br>
+72.09 billion cu m (2017 est.)<br>
+
+**Natural gas - consumption**<br>
+42.32 billion cu m (2017 est.)<br>
+
+**Natural gas - exports**<br>
+29.78 billion cu m (2017 est.)<br>
+
+**Natural gas - imports**<br>
+0 cu m (2017 est.)<br>
+
+**Natural gas - proved reserves**<br>
+2.866 trillion cu m (1 January 2018 est.)<br>
+
+## Communications
+
+**Telephones - fixed lines**<br>
+_total subscriptions_: 9,662,135<br>
+_subscriptions per 100 inhabitants_: 3.57 (2019 est.)<br>
+
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 341,277,549<br>
+_subscriptions per 100 inhabitants_: 126.15 (2019 est.)<br>
+
+**Telecommunication systems**<br>
+_general assessment_: <p>with large population, disbursed island geography, and slow economic growth, Indonesia’s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2021)</p> (2020)<br>
+_domestic_: fixed-line 4 per 100 and mobile-cellular 127 per 100 persons; coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly (2019)<br>
+_international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+
+**Broadcast media**<br>
+mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the remainder private broadcasters - each with multiple transmitters; more than 100 local TV stations; widespread use of satellite and cable TV systems; public radio broadcaster operates 6 national networks, as well as regional and local stations; overall, more than 700 radio stations with more than 650 privately operated (2019)<br>
+
+**Internet country code**<br>
+.id<br>
+
+**Internet users**<br>
+_total_: 104,563,108<br>
+_percent of population_: 39.79% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 10,284,364<br>
+_subscriptions per 100 inhabitants_: 3.8 (2019 est.)<br>
+
+## Transportation
+
+**National air transport system**<br>
+_number of registered air carriers_: 25 (2020)<br>
+_inventory of registered aircraft operated by air carriers_: 611<br>
+_annual passenger traffic on registered air carriers_: 115,154,100 (2018)<br>
+_annual freight traffic on registered air carriers_: 1,131,910,000 mt-km (2018)<br>
+
+**Civil aircraft registration country code prefix**<br>
+PK<br>
+
+**Airports**<br>
+_total_: 673 (2013)<br>
+
+**Airports - with paved runways**<br>
+_total_: 186 (2017)<br>
+_over 3,047 m_: 5 (2017)<br>
+_2,438 to 3,047 m_: 21 (2017)<br>
+_1,524 to 2,437 m_: 51 (2017)<br>
+_914 to 1,523 m_: 72 (2017)<br>
+_under 914 m_: 37 (2017)<br>
+
+**Airports - with unpaved runways**<br>
+_total_: 487 (2013)<br>
+_1,524 to 2,437 m_: 4 (2013)<br>
+_914 to 1,523 m_: 23 (2013)<br>
+_under 914 m_: 460 (2013)<br>
+
+**Heliports**<br>
+76 (2013)<br>
+
+**Pipelines**<br>
+1064 km condensate, 150 km condensate/gas, 11702 km gas, 119 km liquid petroleum gas, 7767 km oil, 77 km oil/gas/water, 728 km refined products, 53 km unknown, 44 km water (2013)<br>
+
+**Railways**<br>
+_total_: 8,159 km (2014)<br>
+_narrow gauge_: 8,159 km 1.067-m gauge (565 km electrified) (2014)<br>
+<strong>note:</strong> 4,816 km operational<br>
+
+**Roadways**<br>
+_total_: 496,607 km (2011)<br>
+_paved_: 283,102 km (2011)<br>
+_unpaved_: 213,505 km (2011)<br>
+
+**Waterways**<br>
+21,579 km (2011)<br>
+
+**Merchant marine**<br>
+_total_: 10,137<br>
+_by type_: bulk carrier 129, container ship 226, general cargo 2,213, oil tanker 643, other 6,926 (2020)<br>
+
+**Ports and terminals**<br>
+_major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>
+_container port(s) (TEUs)_: Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)<br>
+_LNG terminal(s) (export)_: Bontang, Tangguh<br>
+_LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
+
+## Military and Security
+
+**Military and security forces**<br>
+Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-Angkatan Darat (TNI-AD)), Navy (TNI-Angkatan Laut (TNI-AL), includes Marine Corps (Korps Marinir, KorMar), naval air arm), Air Force (TNI-Angkatan Udara (TNI-AU)), National Air Defense Command (Komando Pertahanan Udara Nasional (Kohanudnas)), Armed Forces Special Operations Command (Koopssus), Strategic Reserve Command (Kostrad)<br><br>Indonesian Sea and Coast Guard (Kesatuan Penjagaan Laut dan Pantai, KPLP) is under the Ministry of Transportation (2021)<br><br>note(s):  the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
+note(s):&nbsp; the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
+
+**Military expenditures**<br>
+0.7% of GDP (2020 est.)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+0.9% of GDP (2017)<br>
+0.8% of GDP (2016)<br>
+
+**Military and security service personnel strengths**<br>
+the<strong> </strong>Indonesian National Armed Forces have<strong> </strong>approximately, 400,000 active duty troops (300,000 Army; 65,000 Navy, including about 20,000 marines; 30,000 Air Force) (2021)<br>
+
+**Military equipment inventories and acquisitions**<br>
+the Indonesian military inventory is comprised of equipment from a wide variety of sources; since 2010, the top suppliers are China, Germany, the Netherlands, Russia, South Korea, the UK, and the US; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2020)<br>
+
+**Military deployments**<br>
+200 Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,250 Lebanon (UNIFIL) (Jan 2021)<br>
+
+**Military service age and obligation**<br>
+18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only (2019)<br>
+
+**Maritime threats**<br>
+the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks increased slightly from 25 incidents in 2019 to 26 in 2020 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with two crew taken hostage and two threatened in 2020; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
+
+**Military - note**<br>
+Indonesian military and police forces are engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969<br><br>in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's  “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands province, and held military exercises in surrounding waters<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiyah<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+
+## Transnational Issues
+
+**Disputes - international**<br>
+<p>Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary</p><br>
+
+**Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,866 (Afghanistan) (2019)<br>
+_IDPs_: 40,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2020)<br>
+_stateless persons_: 874 (2020)<br>
+
+**Illicit drugs**<br>
+illicit producer of cannabis largely for domestic use; producer of methamphetamine and ecstasy; President WIDODO's war on drugs has led to an increase in death sentences and executions, particularly of foreign drug traffickers<br>
+

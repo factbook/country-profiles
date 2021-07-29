@@ -1,0 +1,146 @@
+_Antarctica / Dependencies (France)_
+
+# French Southern and Antarctic Lands
+
+## Introduction
+
+**Background**<br>
+<p>In February 2007, the Iles Eparses became an integral part of the French Southern and Antarctic Lands (TAAF). The Southern Lands are now divided into five administrative districts, two of which are archipelagos, Iles Crozet and Iles Kerguelen; the third is a district composed of two volcanic islands, Ile Saint-Paul and Ile Amsterdam; the fourth, Iles Eparses, consists of five scattered tropical islands around Madagascar. They contain no permanent inhabitants and are visited only by researchers studying the native fauna, scientists at the various scientific stations, fishermen, and military personnel. The fifth district is the Antarctic portion, which consists of "Adelie Land," a thin slice of the Antarctic continent discovered and claimed by the French in 1840.</p><p><strong>Ile Amsterdam:</strong> Discovered but not named in 1522 by the Spanish, the island subsequently received the appellation of Nieuw Amsterdam from a Dutchman; it was claimed by France in 1843. A short-lived attempt at cattle farming began in 1871. A French meteorological station established on the island in 1949 is still in use.; </p><p><strong>Ile Saint Paul:</strong> Claimed by France since 1893, the island was a fishing industry center from 1843 to 1914. In 1928, a spiny lobster cannery was established, but when the company went bankrupt in 1931, seven workers were abandoned. Only two survived until 1934 when rescue finally arrived.; </p><p><strong>Iles Crozet:</strong> A large archipelago formed from the Crozet Plateau, Iles Crozet is divided into two main groups: L'Occidental (the West), which includes Ile aux Cochons, Ilots des Apotres, Ile des Pingouins, and the reefs Brisants de l'Heroine; and L'Oriental (the East), which includes Ile d'Est and Ile de la Possession (the largest island of the Crozets). Discovered and claimed by France in 1772, the islands were used for seal hunting and as a base for whaling. Originally administered as a dependency of Madagascar, they became part of the TAAF in 1955.; </p><p><strong>Iles Kerguelen:</strong> This island group, discovered in 1772, consists of one large island (Ile Kerguelen) and about 300 smaller islands. A permanent group of 50 to 100 scientists resides at the main base at Port-aux-Francais.; </p><p><strong>Adelie Land:</strong> The only non-insular district of the TAAF is the Antarctic claim known as "Adelie Land." The US Government does not recognize it as a French dependency.; </p><p><strong>Bassas da India:</strong> A French possession since 1897, this atoll is a volcanic rock surrounded by reefs and is awash at high tide.; </p><p><strong>Europa Island:</strong> This heavily wooded island has been a French possession since 1897; it is the site of a small military garrison that staffs a weather station.; </p><p><strong>Glorioso Islands:</strong> A French possession since 1892, the Glorioso Islands are composed of two lushly vegetated coral islands (Ile Glorieuse and Ile du Lys) and three rock islets. A military garrison operates a weather and radio station on Ile Glorieuse.; </p><p><strong>Juan de Nova Island:</strong> Named after a famous 15th-century Spanish navigator and explorer, the island has been a French possession since 1897. It has been exploited for its guano and phosphate. Presently a small military garrison oversees a meteorological station.; </p><p><strong>Tromelin Island:</strong> First explored by the French in 1776, the island came under the jurisdiction of Reunion in 1814. At present, it serves as a sea turtle sanctuary and is the site of an important meteorological station.</p><br>
+
+## Geography
+
+**Location**<br>
+southeast and east of Africa, islands in the southern Indian Ocean, some near Madagascar and others about equidistant between Africa, Antarctica, and Australia; note - French Southern and Antarctic Lands include Ile Amsterdam, Ile Saint-Paul, Iles Crozet, Iles Kerguelen, Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island, and Tromelin Island in the southern Indian Ocean, along with the French-claimed sector of Antarctica, "Adelie Land"; the US does not recognize the French claim to "Adelie Land"<br>
+
+**Geographic coordinates**<br>
+<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> 37 50 S, 77 32 E; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> 38 72 S, 77 53 E; </p><p><strong>Iles Crozet:</strong> 46 25 S, 51 00 E; </p><p><strong>Iles Kerguelen:</strong> 49 15 S, 69 35 E; </p><p><strong>Bassas da India (Iles Eparses):</strong> 21 30 S, 39 50 E; </p><p><strong>Europa Island (Iles Eparses):</strong> 22 20 S, 40 22 E; </p><p><strong>Glorioso Islands (Iles Eparses):</strong> 11 30 S, 47 20 E; </p><p><strong>Juan de Nova Island (Iles Eparses):</strong> 17 03 S, 42 45 E; </p><p><strong>Tromelin Island (Iles Eparses):</strong> 15 52 S, 54 25 E</p><br>
+
+**Map references**<br>
+Antarctic RegionAfrica<br>
+
+**Area**<br>
+<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>total - 55 sq km; land - 55 sq km; water - 0 sq km<br> <strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>total - 7 sq km; land - 7 sq km; water - 0 sq km<br> <strong>Iles Crozet: </strong>total - 352 sq km; land - 352 sq km; water - 0 sq km<br> <strong>Iles Kerguelen: </strong>total - 7,215 sq km; land - 7,215 sq km; water - 0 sq km<br> <strong>Bassas da India (Iles Eparses): </strong>total - 80 sq km; land - 0.2 sq km; water - 79.8 sq km (lagoon)<br> <strong>Europa Island (Iles Eparses): </strong>total - 28 sq km; land - 28 sq km; water - 0 sq km<br> <strong>Glorioso Islands (Iles Eparses): </strong>total - 5 sq km; land - 5 sq km; water - 0 sq km<br> <strong>Juan de Nova Island (Iles Eparses): </strong>total - 4.4 sq km; land - 4.4 sq km; water - 0 sq km<br> <strong>Tromelin Island (Iles Eparses): </strong>total - 1 sq km; land - 1 sq km; water - 0 sq km<br> <strong>note: </strong>excludes "Adelie Land" claim of about 500,000 sq km in Antarctica that is not recognized by the US<br>
+
+**Area - comparative**<br>
+<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> less than one-half the size of Washington, DC; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> more than 10 times the size of the National Mall in Washington, DC; </p><p><strong>Iles Crozet:</strong> about twice the size of Washington, DC; </p><p><strong>Iles Kerguelen:</strong> slightly larger than Delaware; </p><p><strong>Bassas da India (Iles Eparses):</strong> land area about one-third the size of the National Mall in Washington, DC; </p><p><strong>Europa Island (Iles Eparses):</strong> about one-sixth the size of Washington, DC; </p><p><strong>Glorioso Islands (Iles Eparses):</strong> about eight times the size of the National Mall in Washington, DC; </p><p><strong>Juan de Nova Island (Iles Eparses):</strong> about seven times the size of the National Mall in Washington, DC; </p><p><strong>Tromelin Island (Iles Eparses):</strong> about 1.7 times the size of the National Mall in Washington, DC</p><br>
+
+**Land boundaries**<br>
+_total_: 0 km<br>
+
+**Coastline**<br>
+<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>28 km<br> <strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong><br> <strong>Iles Kerguelen: </strong>2,800 km<br> <strong>Bassas da India (Iles Eparses): </strong>35.2 km<br> <strong>Europa Island (Iles Eparses): </strong>22.2 km<br> <strong>Glorioso Islands (Iles Eparses): </strong>35.2 km<br> <strong>Juan de Nova Island (Iles Eparses): </strong>24.1 km<br> <strong>Tromelin Island (Iles Eparses): </strong>3.7 km<br>
+
+**Maritime claims**<br>
+_territorial sea_: 12 nm<br>
+_exclusive economic zone_: 200 nm from Iles Kerguelen and Iles Eparses (does not include the rest of French Southern and Antarctic Lands); Juan de Nova Island and Tromelin Island claim a continental shelf of 200-m depth or to the depth of exploitation<br>
+
+**Climate**<br>
+<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity; </p><p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy; </p><p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy; </p><p><strong>Iles Eparses:</strong> tropical</p><br>
+
+**Terrain**<br>
+<p><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul):</strong> a volcanic island with steep coastal cliffs; the center floor of the volcano is a large plateau; </p><p><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul):</strong> triangular in shape, the island is the top of a volcano, rocky with steep cliffs on the eastern side; has active thermal springs; </p><p><strong>Iles Crozet:</strong> a large archipelago formed from the Crozet Plateau is divided into two groups of islands; </p><p><strong>Iles Kerguelen:</strong> the interior of the large island of Ile Kerguelen is composed of high mountains, hills, valleys, and plains with peninsulas stretching off its coasts; </p><p><strong>Bassas da India (Iles Eparses):</strong> atoll, awash at high tide; shallow (15 m) lagoon; </p><p><strong>Europa Island, Glorioso Islands, Juan de Nova Island:</strong> low, flat, and sandy; </p><p><strong>Tromelin Island (Iles Eparses):</strong> low, flat, sandy; likely volcanic seamount</p><br>
+
+**Elevation**<br>
+_highest point_: Mont de la Dives on Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul) 867 m<br>
+_lowest point_: Indian Ocean 0 m<br>
+<strong>highest points throughout the French Southern and Antarctic Lands: </strong>unnamed location on Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul) 272 m; Pic Marion-Dufresne in Iles Crozet 1090 m; Mont Ross in Iles Kerguelen 1850 m; unnamed location on Bassas de India (Iles Eparses) 2.4 m;24 unnamed location on Europa Island (Iles Eparses) 24 m; unnamed location on Glorioso Islands (Iles Eparses) 12 m; unnamed location on Juan de Nova Island (Iles Eparses) 10 m; unnamed location on Tromelin Island (Iles Eparses) 7 m<br>
+
+**Natural resources**<br>
+fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have guano, phosphates, and coconuts<br><br><strong>note</strong> - in the 1950's and 1960's, several species of trout were introduced to Iles Kerguelen of which two, Brown trout and Brook trout, survived to establish wild populations; reindeer were also introduced to Iles Kerguelen in 1956 as a source of fresh meat for whaling crews, the herd today, one of two in the Southern Hemisphere, is estimated to number around 4,000<br>
+<strong>note</strong> - in the 1950's and 1960's, several species of trout were introduced to Iles Kerguelen of which two, Brown trout and Brook trout, survived to establish wild populations; reindeer were also introduced to Iles Kerguelen in 1956 as a source of fresh meat for whaling crews, the herd today, one of two in the Southern Hemisphere, is estimated to number around 4,000<br>
+
+**Natural hazards**<br>
+<p>Ile Amsterdam and Ile Saint-Paul are inactive volcanoes; Iles Eparses subject to periodic cyclones; Bassas da India is a maritime hazard since it is under water for a period of three hours prior to and following the high tide and surrounded by reefs</p><p><strong>volcanism:</strong> Reunion Island - Piton de la Fournaise (2,632 m), which has erupted many times in recent years including 2010, 2015, and 2017, is one of the world's most active volcanoes; although rare, eruptions outside the volcano's caldera could threaten nearby cities</p><br>
+
+**Geography - note**<br>
+<p>islands' component is widely scattered across remote locations in the southern Indian Ocean</p><p><strong>Bassas da India (Iles Eparses):</strong> atoll is a circular reef atop a long-extinct, submerged volcano; </p><p><strong>Europa Island and Juan de Nova Island (Iles Eparses):</strong> wildlife sanctuary for seabirds and sea turtles; </p><p><strong>Glorioso Island (Iles Eparses):</strong> islands and rocks are surrounded by an extensive reef system; </p><p><strong>Tromelin Island (Iles Eparses):</strong> climatologically important location for forecasting cyclones in the western Indian Ocean; wildlife sanctuary (seabirds, tortoises)</p><br>
+
+## People and Society
+
+**Population**<br>
+no indigenous inhabitants<br><br><strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br> <strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br> <strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br> <strong>Bassas da India (Iles Eparses): </strong>uninhabitable<br> <strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br> <strong>Tromelin Island (Iles Eparses): </strong>uninhabited, except for visits by scientists<br>
+<strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br> <strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br> <strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br> <strong>Bassas da India (Iles Eparses): </strong>uninhabitable<br> <strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br> <strong>Tromelin Island (Iles Eparses): </strong>uninhabited, except for visits by scientists<br>
+
+## Environment
+
+**Environment - current issues**<br>
+introduction of foreign species on Iles Crozet has caused severe damage to the original ecosystem; overfishing of Patagonian toothfish around Iles Crozet and Iles Kerguelen<br>
+
+**Climate**<br>
+<p><strong>Ile Amsterdam et Ile Saint-Paul:</strong> oceanic with persistent westerly winds and high humidity; </p><p><strong>Iles Crozet:</strong> windy, cold, wet, and cloudy; </p><p><strong>Iles Kerguelen:</strong> oceanic, cold, overcast, windy; </p><p><strong>Iles Eparses:</strong> tropical</p><br>
+
+## Government
+
+**Country name**<br>
+_conventional long form_: Territory of the French Southern and Antarctic Lands<br>
+_conventional short form_: French Southern and Antarctic Lands<br>
+_local long form_: Territoire des Terres Australes et Antarctiques Francaises<br>
+_local short form_: Terres Australes et Antarctiques Francaises<br>
+_abbreviation_: TAAF<br>
+_etymology_: self-descriptive name specifying the territories' affiliation and location in the Southern Hemisphere<br>
+
+**Dependency status**<br>
+overseas territory of France since 1955<br>
+
+**Administrative divisions**<br>
+none (overseas territory of France); there are no first-order administrative divisions as defined by the US Government, but there are 5 administrative districts named Iles Crozet, Iles Eparses, Iles Kerguelen, Ile Saint-Paul et Ile Amsterdam; the fifth district is the "Adelie Land" claim in Antarctica that is not recognized by the US<br>
+
+**Legal system**<br>
+the laws of France, where applicable, apply<br>
+
+**Citizenship**<br>
+see France<br>
+
+**Executive branch**<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by Prefect Charles GIUSTI (since 12 October 2020)<br>
+
+**International organization participation**<br>
+UPU<br>
+
+**Diplomatic representation in the US**<br>
+none (overseas territory of France)<br>
+
+**Diplomatic representation from the US**<br>
+_embassy_: none (overseas territory of France)<br>
+
+**Flag description**<br>
+the flag of France is used<br>
+
+**National anthem**<br>
+<p><strong>note:</strong> as a territory of France, "La Marseillaise" is official (see France)</p><br>
+
+## Economy
+
+**Economic overview**<br>
+Economic activity is limited to servicing meteorological and geophysical research stations, military bases, and French and other fishing fleets. The fish catches landed on Iles Kerguelen by foreign ships are exported to France and Reunion.<br>
+
+## Communications
+
+**Internet country code**<br>
+.tf<br>
+
+**Communications - note**<br>
+has one or more meteorological stations on each possession<br>
+
+## Transportation
+
+**Airports**<br>
+_total_: 4 (2020)<br>
+
+**Merchant marine**<br>
+_total_: 3<br>
+_by type_: other 3 (2020)<br>
+
+**Ports and terminals**<br>
+none; offshore anchorage only<br>
+
+## Military and Security
+
+**Military - note**<br>
+defense is the responsibility of France<br>
+
+## Transnational Issues
+
+**Disputes - international**<br>
+<p>French claim to "Adelie Land" in Antarctica is not recognized by the US; </p><p><strong>Bassas da India, Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses):</strong> ; claimed by Madagascar; the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands); ; </p><p><strong>Tromelin Island (Iles Eparses):</strong> ; claimed by Mauritius</p><br>
+
