@@ -73,7 +73,7 @@ strategic location at the head of the Gulf of Aqaba and as the Arab country that
 ## People and Society
 
 **Population**<br>
-10,909,567 (July 2021 est.)<br><br><strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
+10,909,567 (July 2021 est.)<br>
 <strong>note:</strong> increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees<br>
 
 **Nationality**<br>
@@ -81,7 +81,7 @@ _noun_: Jordanian(s)<br>
 _adjective_: Jordanian<br>
 
 **Ethnic groups**<br>
-Jordanian 69.3%, Syrian 13.3%, Palestinian 6.7%, Egyptian 6.7%, Iraqi 1.4%, other 2.6% (includes Armenian, Circassian) (2015 est.)<br><br><strong>note:</strong> data represent population by self-identified nationality<br>
+Jordanian 69.3%, Syrian 13.3%, Palestinian 6.7%, Egyptian 6.7%, Iraqi 1.4%, other 2.6% (includes Armenian, Circassian) (2015 est.)<br>
 <strong>note:</strong> data represent population by self-identified nationality<br>
 
 **Languages**<br>
@@ -141,7 +141,7 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.11 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.8 years (2017/18 est.)<br><br><strong>note:</strong> median age at first birth among women 30-34<br>
+24.8 years (2017/18 est.)<br>
 <strong>note:</strong> median age at first birth among women 30-34<br>
 
 **Maternal mortality ratio**<br>

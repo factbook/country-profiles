@@ -68,7 +68,7 @@ barren volcanic spoon-shaped island with some moss and grass flora; island consi
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants<br><br><strong>note:</strong> military personnel operate the the weather and coastal services radio station<br>
+no indigenous inhabitants<br>
 <strong>note:</strong> military personnel operate the the weather and coastal services radio station<br>
 
 ## Environment

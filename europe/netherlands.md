@@ -161,7 +161,7 @@ _female_: 84.3 years (2021 est.)<br>
 1.78 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-73% (2013)<br><br><strong>note:</strong> percent of women aged 18-45<br>
+73% (2013)<br>
 <strong>note:</strong> percent of women aged 18-45<br>
 
 **Drinking water source**<br>
@@ -193,11 +193,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-24,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+24,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -285,8 +285,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>note:</strong> time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4<br><br><strong>etymology:</strong> the original Dutch name, Amstellerdam, meaning "a dam on the Amstel River," dates to the 13th century; over time the name simplified to Amsterdam<br>
 
 **Administrative divisions**<br>
-12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br><br><strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population
-<br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
+12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
 <strong>note 1:</strong> the Netherlands is one of four constituent countries of the Kingdom of the Netherlands; the other three, Aruba, Curacao, and Sint Maarten, are all islands in the Caribbean; while all four parts are considered equal partners, in practice, most of the Kingdom's affairs are administered by the Netherlands, which makes up about 98% of the Kingdom's total land area and population
 <br><br><strong>note 2:</strong> although Bonaire, Saba, and Sint Eustatius are officially incorporated into the country of the Netherlands under the broad designation of "public entities," Dutch Government sources regularly apply to them the more descriptive term of "special municipalities"; Bonaire, Saba, and Sint Eustatius are collectively referred to as the Caribbean Netherlands<br>
 
@@ -574,7 +573,7 @@ _electrification - total population_: 100% (2020)<br>
 2.148 million bbl/day (2017 est.)<br>
 
 **Natural gas - production**<br>
-45.33 billion cu m (2017 est.)<br><br><strong>note:</strong> the Netherlands has curbed gas production due to seismic activity in the province of Groningen, largest source of gas reserves<br>
+45.33 billion cu m (2017 est.)<br>
 <strong>note:</strong> the Netherlands has curbed gas production due to seismic activity in the province of Groningen, largest source of gas reserves<br>
 
 **Natural gas - consumption**<br>
@@ -675,7 +674,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2021)<br><br>note: the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
+Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2021)<br>
 note: the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
@@ -703,7 +702,7 @@ the Netherlands is a member of NATO and was one of the original 12 countries to 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

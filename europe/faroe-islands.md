@@ -77,11 +77,11 @@ _noun_: Faroese (singular and plural)<br>
 _adjective_: Faroese<br>
 
 **Ethnic groups**<br>
-Faroese 85.9% (Scandinavian and Anglo-Saxon descent), Danish 8.2%, other Nordic 1.4%, other 4.5% (includes Filipino, Romanian, Polish) (2021 est.)<br><br><strong>note:</strong> data represent respondents by country of birth<br>
+Faroese 85.9% (Scandinavian and Anglo-Saxon descent), Danish 8.2%, other Nordic 1.4%, other 4.5% (includes Filipino, Romanian, Polish) (2021 est.)<br>
 <strong>note:</strong> data represent respondents by country of birth<br>
 
 **Languages**<br>
-Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)<br><br><strong>note:</strong>  data represent population by primary language<br>
+Faroese 93.8% (derived from Old Norse), Danish 3.2%, other 3% (2011 est.)<br>
 <strong>note:</strong>  data represent population by primary language<br>
 
 **Religions**<br>
@@ -273,7 +273,7 @@ none (self-governing overseas administrative division of Denmark)<br>
 _embassy_: none (self-governing overseas administrative division of Denmark)<br>
 
 **Flag description**<br>
-white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors<br><br><strong>note:</strong> the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway<br>
+white with a red cross outlined in blue extending to the edges of the flag; the vertical part of the cross is shifted toward the hoist side in the style of the Dannebrog (Danish flag); referred to as Merkid, meaning "the banner" or "the mark," the flag resembles those of neighboring Iceland and Norway, and uses the same three colors - but in a different sequence; white represents the clear Faroese sky, as well as the foam of the waves; red and blue are traditional Faroese colors<br>
 <strong>note:</strong> the blue on the flag is a lighter blue (azure) than that found on the flags of Iceland or Norway<br>
 
 **National symbol(s)**<br>

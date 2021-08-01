@@ -436,7 +436,7 @@ _Enforcement score_: 66 (2020)<br>
 rice, milk, goat milk, sheep milk, sorghum, mutton, beef, camel milk, camel meat, dates<br>
 
 **Industries**<br>
-fish processing, oil production, mining (iron ore, gold, copper)<br><br><strong>note:</strong> gypsum deposits have never been exploited<br>
+fish processing, oil production, mining (iron ore, gold, copper)<br>
 <strong>note:</strong> gypsum deposits have never been exploited<br>
 
 **Industrial production growth rate**<br>

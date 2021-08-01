@@ -190,11 +190,11 @@ _unimproved: total_: total: 2.2% of population (2017 est.)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>

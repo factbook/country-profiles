@@ -82,7 +82,7 @@ _adjective_: Channel Islander<br>
 Jersey 46.4%, British 32.7%, Portuguese/Madeiran 8.2%, Polish 3.3%, Irish, French, and other White 7.1%, other 2.4% (2011 est.)<br>
 
 **Languages**<br>
-<p>English (official) 94.5%, Portuguese 4.6%, other .9% (includes French (official) and Jerriais)</p> (2001 est.)<br><br><strong>note: </strong>data represent main spoken language; the traditional language of Jersey is Jerriais or Jersey French (a Norman language), which was spoken by fewer than 3,000 people as of 2001;  two thirds of Jerriais speakers are aged 60 and over<br>
+<p>English (official) 94.5%, Portuguese 4.6%, other .9% (includes French (official) and Jerriais)</p> (2001 est.)<br>
 <strong>note: </strong>data represent main spoken language; the traditional language of Jersey is Jerriais or Jersey French (a Norman language), which was spoken by fewer than 3,000 people as of 2001;  two thirds of Jerriais speakers are aged 60 and over<br>
 
 **Religions**<br>
@@ -260,7 +260,7 @@ _judge selection and term of office_: Jersey Court of Appeal bailiffs and judges
 _subordinate courts_: Magistrate's Court; Youth Court; Petty Debts Court; Parish Hall Enquires (a process of preliminary investigation into youth and minor adult offenses to determine need for presentation before a court)<br>
 
 **Political parties and leaders**<br>
-<strong>one registered party:</strong> Reform Jersey [Sam MEZEC]<br><br><strong>note:</strong> most senators and deputies sit as independents<br>
+<strong>one registered party:</strong> Reform Jersey [Sam MEZEC]<br>
 <strong>note:</strong> most senators and deputies sit as independents<br>
 
 **International organization participation**<br>

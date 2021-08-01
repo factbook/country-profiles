@@ -72,7 +72,7 @@ landlocked; fertile, well-watered country with many lakes and rivers; Lake Victo
 ## People and Society
 
 **Population**<br>
-44,712,143 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+44,712,143 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -141,7 +141,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2011 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.9 years (2011 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -708,7 +708,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (ISIS-DRC)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (ISIS-DRC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

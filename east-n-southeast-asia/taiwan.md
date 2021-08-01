@@ -80,7 +80,7 @@ _adjective_: Taiwan (or Taiwanese)<br>
 <strong>note:</strong> example - he or she is from Taiwan; they are from Taiwan<br>
 
 **Ethnic groups**<br>
-Han Chinese (including Holo, who compose approximately 70% of Taiwan's population, Hakka, and other groups originating in mainland China) more than 95%, indigenous Malayo-Polynesian peoples 2.3%<br><br><strong>note 1:</strong> there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous population<br><br><strong>note 2:</strong> although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia<br>
+Han Chinese (including Holo, who compose approximately 70% of Taiwan's population, Hakka, and other groups originating in mainland China) more than 95%, indigenous Malayo-Polynesian peoples 2.3%<br>
 <strong>note 1:</strong> there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous population<br><br><strong>note 2:</strong> although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia<br>
 
 **Languages**<br>
@@ -214,7 +214,7 @@ _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time
 <strong>etymology:</strong> the Chinese meaning is "Northern Taiwan," reflecting the city's position in the far north of the island<br>
 
 **Administrative divisions**<br>
-<p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br><br><strong>note:</strong> Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems<br>
+<p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br>
 <strong>note:</strong> Taiwan uses a variety of romanization systems; while a modified Wade-Giles system still dominates, the city of Taipei has adopted a Pinyin romanization for street and place names within its boundaries; other local authorities use different romanization systems<br>
 
 **National holiday**<br>
@@ -260,7 +260,7 @@ _subordinate courts_: high courts; district courts; hierarchy of administrative 
 Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHIANG Chi-che, aka Johnny CHIANG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [CHEN Jiau-hua]<br>Taiwan Statebuilding Party or TSP [TAN Ek-che]<br>
 
 **International organization participation**<br>
-ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br><br>note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
+ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br>
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
@@ -274,7 +274,7 @@ _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neih
 _other offices_: Kaohsiung (Branch Office)<br>
 
 **Flag description**<br>
-red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy, red stands for fraternity, sacrifice, and nationalism, and white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)<br><br><strong>note:</strong> similar to the flag of Samoa<br>
+red field with a dark blue rectangle in the upper hoist-side corner bearing a white sun with 12 triangular rays; the blue and white design of the canton (symbolizing the sun of progress) dates to 1895; it was later adopted as the flag of the Kuomintang Party; blue signifies liberty, justice, and democracy, red stands for fraternity, sacrifice, and nationalism, and white represents equality, frankness, and the people's livelihood; the 12 rays of the sun are those of the months and the twelve traditional Chinese hours (each ray equals two hours)<br>
 <strong>note:</strong> similar to the flag of Samoa<br>
 
 **National symbol(s)**<br>
@@ -588,7 +588,7 @@ _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime) (2021)<br><br>note - the Armed Forces also have Military Police and Armed Forces Reserve commands<br>
+Taiwan Armed Forces: Army, Navy (includes Marine Corps), Air Force; Taiwan Coast Guard Administration (a law enforcement organization with homeland security functions during peacetime and national defense missions during wartime) (2021)<br>
 note - the Armed Forces also have Military Police and Armed Forces Reserve commands<br>
 
 **Military expenditures**<br>

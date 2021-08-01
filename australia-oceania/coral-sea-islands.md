@@ -63,7 +63,7 @@ important nesting area for birds and turtles<br>
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br><br><strong>note:</strong> there is a staff of four at the meteorological station on Willis Island<br>
+no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> there is a staff of four at the meteorological station on Willis Island<br>
 
 ## Environment

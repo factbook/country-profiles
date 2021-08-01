@@ -73,7 +73,7 @@ landlocked; strategic location between China and Russia<br>
 ## People and Society
 
 **Population**<br>
-3,198,913 (July 2021 est.)<br><br><strong>note:</strong> Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China<br>
+3,198,913 (July 2021 est.)<br>
 <strong>note:</strong> Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China<br>
 
 **Nationality**<br>
@@ -140,7 +140,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.5 years (2008 est.)<br><br><strong>note:</strong> median age at first birth among women 20-24<br>
+20.5 years (2008 est.)<br>
 <strong>note:</strong> median age at first birth among women 20-24<br>
 
 **Maternal mortality ratio**<br>
@@ -333,7 +333,7 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [Sodnomzundui ERDENE; resigned June 2020]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Ukhnaa KHURELSUKH]<br>Mongolian People's Revolutionary Party or MPRP [Nambar ENKHBAYAR]<br>Civil Will-Green Party or CWGP [Tserendorjiin GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [B. NAIDALAA]<br> Mongolian Social Democratic Party or MSDP [A. GANBAATAR]<br> Justice Party [B. NASANBILEG]<br><br>note - there are 36 total registered parties as of March 2020<br>
+Democratic Party or DP [Sodnomzundui ERDENE; resigned June 2020]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Ukhnaa KHURELSUKH]<br>Mongolian People's Revolutionary Party or MPRP [Nambar ENKHBAYAR]<br>Civil Will-Green Party or CWGP [Tserendorjiin GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [B. NAIDALAA]<br> Mongolian Social Democratic Party or MSDP [A. GANBAATAR]<br> Justice Party [B. NASANBILEG]<br>
 note - there are 36 total registered parties as of March 2020<br>
 
 **International organization participation**<br>

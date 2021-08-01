@@ -83,15 +83,15 @@ _noun_: Burmese (singular and plural)<br>
 _adjective_: Burmese<br>
 
 **Ethnic groups**<br>
-Burman (Bamar) 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5%<br><br><strong>note:</strong> government recognizes 135 indigenous ethnic groups<br>
+Burman (Bamar) 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%, other 5%<br>
 <strong>note:</strong> government recognizes 135 indigenous ethnic groups<br>
 
 **Languages**<br>
-Burmese (official)<br><br><strong>note:</strong> minority ethnic groups use their own languages<br>
+Burmese (official)<br>
 <strong>note:</strong> minority ethnic groups use their own languages<br>
 
 **Religions**<br>
-Buddhist 87.9%, Christian 6.2%, Muslim 4.3%, Animist 0.8%, Hindu 0.5%, other 0.2%, none 0.1% (2014 est.)<br><br><strong>note:</strong> religion estimate is based on the 2014 national census, including an estimate for the non-enumerated population of Rakhine State, which is assumed to mainly affiliate with the Islamic faith; as of December 2019, Muslims probably make up less than 3% of Burma's total population due to the large outmigration of the Rohingya population since 2017<br>
+Buddhist 87.9%, Christian 6.2%, Muslim 4.3%, Animist 0.8%, Hindu 0.5%, other 0.2%, none 0.1% (2014 est.)<br>
 <strong>note:</strong> religion estimate is based on the 2014 national census, including an estimate for the non-enumerated population of Rakhine State, which is assumed to mainly affiliate with the Islamic faith; as of December 2019, Muslims probably make up less than 3% of Burma's total population due to the large outmigration of the Rohingya population since 2017<br>
 
 **Demographic profile**<br>
@@ -147,7 +147,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-25 years (2015/16 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+25 years (2015/16 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -692,7 +692,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Border Guard Forces; Ministry of Home Affairs: People's Police Force (2021)<br><br>note: the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br>
+Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Border Guard Forces; Ministry of Home Affairs: People's Police Force (2021)<br>
 note: the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br>
 
 **Military expenditures**<br>

@@ -80,11 +80,11 @@ _noun_: Norfolk Islander(s)<br>
 _adjective_: Norfolk Islander(s)<br>
 
 **Ethnic groups**<br>
-<p>Australian 22.8%, English 22.4%, Pitcairn Islander 20%, Scottish 6%, Irish 5.2%</p> (2011 est.)<br><br><strong>note:</strong> respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown<br>
+<p>Australian 22.8%, English 22.4%, Pitcairn Islander 20%, Scottish 6%, Irish 5.2%</p> (2011 est.)<br>
 <strong>note:</strong> respondents were able to identify up to two ancestries; percentages represent a proportion of all responses from people in Norfolk Island, including those who did not identify an ancestry; only top responses are shown<br>
 
 **Languages**<br>
-English (official) 44.9%, Norfolk (also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br><br><strong>note:</strong> data represent language spoken at home<br>
+English (official) 44.9%, Norfolk (also known as Norfuk or Norf'k, which is a mixture of 18th century English and ancient Tahitian) 40.3%, Fijian 1.8%, other 6.8%, unspecified 6.2% (2016 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
@@ -212,7 +212,7 @@ none (territory of Australia)<br>
 _embassy_: none (territory of Australia)<br>
 
 **Flag description**<br>
-three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island<br><br><strong>note:</strong> somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria<br>
+three vertical bands of green (hoist side), white, and green with a large green Norfolk Island pine tree centered in the slightly wider white band; green stands for the rich vegetation on the island, and the pine tree - endemic to the island - is a symbol of Norfolk Island<br>
 <strong>note:</strong> somewhat reminiscent of the flag of Canada with its use of only two colors and depiction of a prominent local floral symbol in the central white band; also resembles the green and white triband of Nigeria<br>
 
 **National symbol(s)**<br>

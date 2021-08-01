@@ -65,7 +65,7 @@ the north coast of South Georgia has several large bays, which provide good anch
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br><br><strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
+no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
 
 **Net migration rate**<br>

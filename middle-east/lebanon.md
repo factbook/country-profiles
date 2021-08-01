@@ -80,7 +80,7 @@ _noun_: Lebanese (singular and plural)<br>
 _adjective_: Lebanese<br>
 
 **Ethnic groups**<br>
-Arab 95%, Armenian 4%, other 1%<br><br><strong>note:</strong> many Christian Lebanese do not identify themselves as Arab but rather as descendants of the ancient Canaanites and prefer to be called Phoenicians<br>
+Arab 95%, Armenian 4%, other 1%<br>
 <strong>note:</strong> many Christian Lebanese do not identify themselves as Arab but rather as descendants of the ancient Canaanites and prefer to be called Phoenicians<br>
 
 **Languages**<br>
@@ -88,7 +88,7 @@ Arabic (official), French, English, Armenian<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 61.1% (30.6% Sunni, 30.5% Shia, smaller percentages of Alawites and Ismailis), Christian 33.7% (Maronite Catholics are the largest Christian group), Druze 5.2%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2018 est.)<br><br><strong>note:</strong> data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized<br>
+Muslim 61.1% (30.6% Sunni, 30.5% Shia, smaller percentages of Alawites and Ismailis), Christian 33.7% (Maronite Catholics are the largest Christian group), Druze 5.2%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2018 est.)<br>
 <strong>note:</strong> data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized<br>
 
 **Age structure**<br>
@@ -427,7 +427,7 @@ banking, tourism, real estate and construction, food processing, wine, jewelry, 
 -21.1% (2017 est.)<br>
 
 **Labor force**<br>
-2.166 million (2016 est.)<br><br><strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
+2.166 million (2016 est.)<br>
 <strong>note:</strong> excludes as many as 1 million foreign workers and refugees<br>
 
 **Labor force - by occupation**<br>
@@ -659,7 +659,7 @@ _container port(s) (TEUs)_: Beirut (1,305,038) (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Lebanese Internal Security Forces Directorate (includes Mobile Gendarmerie); Directorate for General Security (DGS); Directorate General for State Security (2021)<br><br>note - the commander of the LAF is also the commander of the Army<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Lebanese Internal Security Forces Directorate (includes Mobile Gendarmerie); Directorate for General Security (DGS); Directorate General for State Security (2021)<br>
 note - the commander of the LAF is also the commander of the Army<br>
 
 **Military expenditures**<br>
@@ -684,7 +684,7 @@ the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolutionary Guard Corps/Qods Force; Hizballah; al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolutionary Guard Corps/Qods Force; Hizballah; al-Nusrah Front (Hay'at Tahrir al-Sham); Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

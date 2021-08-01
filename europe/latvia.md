@@ -61,7 +61,7 @@ _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
 **Irrigated land**<br>
-12 sq km (2012)<br><br><strong>note:</strong> land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage<br>
+12 sq km (2012)<br>
 <strong>note:</strong> land in Latvia is often too wet and in need of drainage not irrigation; approximately 16,000 sq km or 85% of agricultural land has been improved by drainage<br>
 
 **Population distribution**<br>

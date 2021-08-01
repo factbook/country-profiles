@@ -73,7 +73,7 @@ landlocked; controls one of the major land routes from Western Europe to Turkey 
 ## People and Society
 
 **Population**<br>
-6,974,289 (July 2021 est.)<br><br><strong>note:</strong> does not include the population of Kosovo<br>
+6,974,289 (July 2021 est.)<br>
 <strong>note:</strong> does not include the population of Kosovo<br>
 
 **Nationality**<br>
@@ -81,7 +81,7 @@ _noun_: Serb(s)<br>
 _adjective_: Serbian<br>
 
 **Ethnic groups**<br>
-Serb 83.3%, Hungarian 3.5%, Romani 2.1%, Bosniak 2%, other 5.7%, undeclared or unknown 3.4% (2011 est.)<br><br><strong>note:</strong> most ethnic Albanians boycotted the 2011 census; Romani populations are usually underestimated in official statistics and may represent 5–11% of Serbia's population<br>
+Serb 83.3%, Hungarian 3.5%, Romani 2.1%, Bosniak 2%, other 5.7%, undeclared or unknown 3.4% (2011 est.)<br>
 <strong>note:</strong> most ethnic Albanians boycotted the 2011 census; Romani populations are usually underestimated in official statistics and may represent 5–11% of Serbia's population<br>
 
 **Languages**<br>
@@ -89,7 +89,7 @@ Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romani 1.4%, other 3.4%,
 _printed major-language sample_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish), undeclared or unknown 4.5% (2011 est.)<br><br><strong>note:</strong> most ethnic Albanians boycotted the 2011 census<br>
+Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish), undeclared or unknown 4.5% (2011 est.)<br>
 <strong>note:</strong> most ethnic Albanians boycotted the 2011 census<br>
 
 **Age structure**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.4 years (2017 est.)<br><br><strong>note:</strong> data do not cover Kosovo or Metohija<br>
+28.4 years (2017 est.)<br>
 <strong>note:</strong> data do not cover Kosovo or Metohija<br>
 
 **Maternal mortality ratio**<br>
@@ -195,11 +195,11 @@ _unimproved: total_: total: 2.4% of population (2017 est.)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-3,300 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+3,300 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -305,7 +305,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>etymology:</strong> the Serbian "Beograd" means "white fortress" or "white city" and dates back to the 9th century; the name derives from the white fortress wall that once enclosed the city<br>
 
 **Administrative divisions**<br>
-<p>119 municipalities (opstine, singular - opstina) and 26 cities (gradovi, singular - grad)</p><p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bor, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Prokuplje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada; </p><p><strong>cities:</strong> Beograd, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p><br><br><strong>note:</strong> the northern 37 municipalities and 8 cities - about 28% of Serbia's area - compose the Autonomous Province of Vojvodina and are indicated with *<br>
+<p>119 municipalities (opstine, singular - opstina) and 26 cities (gradovi, singular - grad)</p><p><strong>municipalities:</strong> Ada*, Aleksandrovac, Aleksinac, Alibunar*, Apatin*, Arandelovac, Arilje, Babusnica, Bac*, Backa Palanka*, Backa Topola*, Backi Petrovac*, Bajina Basta, Batocina, Becej*, Bela Crkva*, Bela Palanka, Beocin*, Blace, Bogatic, Bojnik, Boljevac, Bor, Bosilegrad, Brus, Bujanovac, Cajetina, Cicevac, Coka*, Crna Trava, Cuprija, Despotovac, Dimitrov, Doljevac, Gadzin Han, Golubac, Gornji Milanovac, Indija*, Irig*, Ivanjica, Kanjiza*, Kladovo, Knic, Knjazevac, Koceljeva, Kosjeric, Kovacica*, Kovin*, Krupanj, Kucevo, Kula*, Kursumlija, Lajkovac, Lapovo, Lebane, Ljig, Ljubovija, Lucani, Majdanpek, Mali Idos*, Mali Zvornik, Malo Crnice, Medveda, Merosina, Mionica, Negotin, Nova Crnja*, Nova Varos, Novi Becej*, Novi Knezevac*, Odzaci*, Opovo*, Osecina, Paracin, Pecinci*, Petrovac na Mlavi, Plandiste*, Pozega, Presevo, Priboj, Prijepolje, Prokuplje, Raca, Raska, Razanj, Rekovac, Ruma*, Secanj*, Senta*, Sid*, Sjenica, Smederevska Palanka, Sokobanja, Srbobran*, Sremski Karlovci*, Stara Pazova*, Surdulica, Svilajnac, Svrljig, Temerin*, Titel*, Topola, Trgoviste, Trstenik, Tutin, Ub, Varvarin, Velika Plana, Veliko Gradiste, Vladicin Han, Vladimirci, Vlasotince, Vrbas*, Vrnjacka Banja, Zabalj*, Zabari, Zagubica, Zitiste*, Zitorada; </p><p><strong>cities:</strong> Beograd, Cacak, Jagodina, Kikinda*, Kragujevac, Kraljevo, Krusevac, Leskovac, Loznica, Nis, Novi Pazar, Novi Sad*, Pancevo*, Pirot, Pozarevac, Sabac, Smederevo, Sombor*, Sremska Mitrovica*, Subotica*, Uzice, Valjevo, Vranje, Vrsac*, Zajecar, Zrenjanin*</p><br>
 <strong>note:</strong> the northern 37 municipalities and 8 cities - about 28% of Serbia's area - compose the Autonomous Province of Vojvodina and are indicated with *<br>
 
 **Independence**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) Shaip KAMBERI<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Macedonians or DPM [Nenad KRSTESKI]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>For Our Children (electoral alliance includes SNS, PS, PUPS, PSS, SNP, SPO, NSS) [Aleksandar VUCIC]<br>Justice and Reconciliation Party or SPP [Muamer ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement of Socialists or PS [Aleksandar VULIN]<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NARODNA [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Patriotic Alliance or SPAS [Aleksandar SAPIC]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Radical Party or SRS [Vojislav SESELJ]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party or SDS [Boris TADIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Straight Ahead (electoral coalition includes SPP, DPM)<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>United Serbia or JS [Dragan MARKOVIC]<br><br><strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
+Albanian Democratic Alternative (coalition of ethnic Albanian parties) Shaip KAMBERI<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Macedonians or DPM [Nenad KRSTESKI]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>For Our Children (electoral alliance includes SNS, PS, PUPS, PSS, SNP, SPO, NSS) [Aleksandar VUCIC]<br>Justice and Reconciliation Party or SPP [Muamer ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement of Socialists or PS [Aleksandar VULIN]<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NARODNA [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Patriotic Alliance or SPAS [Aleksandar SAPIC]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Radical Party or SRS [Vojislav SESELJ]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party or SDS [Boris TADIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Straight Ahead (electoral coalition includes SPP, DPM)<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -373,7 +373,7 @@ _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
 _FAX_: [381] (11) 706-4005<br>
 
 **Flag description**<br>
-three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br><br><strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br>
 <strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
 
 **National symbol(s)**<br>
@@ -679,7 +679,7 @@ _river port(s)_: Belgrade (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a river flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Ministry of Interior: Gendarmerie (2021)<br><br>note: the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
+Serbian Armed Forces (Vojska Srbije, VS): Land Forces (includes Riverine Component, consisting of a river flotilla on the Danube), Air and Air Defense Forces, Serbian Guard; Ministry of Interior: Gendarmerie (2021)<br>
 note: the Guard is a brigade-sized unit that is directly subordinate to the Serbian Armed Forces Chief of General Staff<br>
 
 **Military expenditures**<br>

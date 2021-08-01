@@ -73,7 +73,7 @@ landlocked, an enclave of (completely surrounded by) South Africa; mountainous, 
 ## People and Society
 
 **Population**<br>
-2,177,740 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+2,177,740 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 1.07 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21 years (2014 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

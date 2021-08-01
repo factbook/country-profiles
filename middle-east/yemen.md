@@ -143,7 +143,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2018 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.4 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.4 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: judges appointed by the Supreme Judicial C
 _subordinate courts_: appeal courts; district or first instance courts; commercial courts<br>
 
 **Political parties and leaders**<br>
-General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br><br>(<br>
+General People’s Congress or GPC (3 factions: pro-Hadi [Abdrabbi Mansur HADI], pro-Houthi [Sadeq Ameen Abu RAS], pro-Saleh [Ahmed SALEH]<br>National Arab Socialist Ba'ath Party [Qassem Salam SAID]<br>Nasserist Unionist People's Organization [Abdulmalik al-MEKHLAFI]<br>Southern Transitional Council or STC [Aidarus al-ZOUBAIDA] <br>Yemeni Reform Grouping or Islah [Muhammed Abdallah al-YADUMI]<br>Yemeni Socialist Party or YSP [Dr. Abd al-Rahman Umar al-SAQQAF]<br>
 (<br>
 
 **International organization participation**<br>
@@ -372,7 +372,7 @@ _mailing address_: US Embassy Riyadh<br>previously - US Embassy in Sana'a<br>Add
 _FAX_: US Embassy Riyadh [966] 11-488-7360<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br><br><strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
 <strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band, and of Iraq, which has an Arabic inscription centered in the white band; also similar to the flag of Egypt, which has a heraldic eagle centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -673,7 +673,7 @@ _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Government forces are organized as the Yemeni National Army (YNA); the YNA is supported by a variety of ethnically-based and tribal militias<br><br>prior to the civil war, Yemen's armed forces consisted of Land Forces, Air/Air Defense Forces, Naval Forces/Coastal Defense, Border Guards, and a Strategic Reserve (Presidential Protective Forces, Missile Defense Command, Special Operations Command) (2020)<br><br>note: by some estimates, up to 70 percent of Yemen's military, police, and paramilitary forces joined the Houthi-Saleh alliance at the beginning of the civil war in 2014<br>
+Government forces are organized as the Yemeni National Army (YNA); the YNA is supported by a variety of ethnically-based and tribal militias<br><br>prior to the civil war, Yemen's armed forces consisted of Land Forces, Air/Air Defense Forces, Naval Forces/Coastal Defense, Border Guards, and a Strategic Reserve (Presidential Protective Forces, Missile Defense Command, Special Operations Command) (2020)<br>
 note: by some estimates, up to 70 percent of Yemen's military, police, and paramilitary forces joined the Houthi-Saleh alliance at the beginning of the civil war in 2014<br>
 
 **Military expenditures**<br>
@@ -699,7 +699,7 @@ the inventory of the Yemeni Government forces consists primarily of Russian and 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham - Yemen; al-Qa'ida in the Arabian Peninsula<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

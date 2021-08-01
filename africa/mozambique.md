@@ -74,7 +74,7 @@ the Zambezi River flows through the north-central and most fertile part of the c
 ## People and Society
 
 **Population**<br>
-30,888,034 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+30,888,034 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2011 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.9 years (2011 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -373,7 +373,7 @@ _mailing address_: P.O. Box 783, Maputo<br>
 _FAX_: [258] (21) 49 0114<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br><br><strong>note:</strong> one of only two national flags featuring a firearm, the other is Guatemala<br>
+three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
 <strong>note:</strong> one of only two national flags featuring a firearm, the other is Guatemala<br>
 
 **National symbol(s)**<br>
@@ -690,7 +690,7 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force (2020)<br><br>note: the FADM and Ministry of Interior forces are referred to collectively as the Defense and Security Forces (DFS)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force (2020)<br>
 note: the FADM and Ministry of Interior forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
@@ -715,7 +715,7 @@ the Government of Mozambique is facing a growing insurgency driven by militants 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

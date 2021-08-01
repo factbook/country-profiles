@@ -84,7 +84,7 @@ _adjective_: Guinean<br>
 Fulani (Peuhl) 33.4%, Malinke 29.4%, Susu 21.2%, Guerze 7.8%, Kissi 6.2%, Toma 1.6%, other/foreign 0.4% (2018 est.)<br>
 
 **Languages**<br>
-French (official), Pular, Maninka, Susu, other native languages<br><br><strong>note:</strong> about 40 languages are spoken; each ethnic group has its own language<br>
+French (official), Pular, Maninka, Susu, other native languages<br>
 <strong>note:</strong> about 40 languages are spoken; each ethnic group has its own language<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.5 years (2018 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.5 years (2018 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -358,23 +358,7 @@ _judge selection and term of office_: Supreme Court first president appointed by
 _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts<br>
 
 **Political parties and leaders**<br>
-Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Alpha CONDE]<br>Union for the Progress of Guinea or UPG<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]<br><br><h3>Ruling party</h3>
-<ul>
-<li>Rally of the Guinean People (<em>Rassemblement du Peuple Guinéen, RPG</em>)</li>
-</ul>
-<h3>Opposition parties</h3>
-<ul>
-<li>African Democratic Party of Guinea (<em>Parti démocratique africain de Guinée</em>)</li>
-<li>Party of Unity and Progress (<em>Parti de l'Unité et du Progrès, PUP</em>)</li>
-<li>Union for Progress and Renewal (<em>Union pour le Progrès et le Renouveau, UPR</em>)</li>
-<li>Union for Progress of Guinea (<em>Union pour le Progrès de la Guinée, UPG</em>)</li>
-<li>Democratic Party of Guinea-African Democratic Rally (<em>Parti Démocratique de Guinée-Rassemblement Démocratique Africain, PDG-RDA</em>)</li>
-<li>National Alliance for Progress (<em>Alliance Nationale pour le Progrès, ANP</em>)</li>
-<li>Party of the Union for Development (<em>Parti de l’Union pour le Développement, PUD</em>)</li>
-<li>Union of Democratic Forces of Guinea ( Union des Forces Démocratiques de Guinée, UFDG ), led by Cellou Dalein Diallo</li>
-<li>Union of Republican Forces (<em>Union des Forces Républicaines</em>, UFR)</li>
-<li>the Party of Democrats for Hope  (" PADES") Led by Dr Ousmane Kaba</li>
-</ul><br>
+Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Alpha CONDE]<br>Union for the Progress of Guinea or UPG<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]<br>
 <h3>Ruling party</h3>
 <ul>
 <li>Rally of the Guinean People (<em>Rassemblement du Peuple Guinéen, RPG</em>)</li>
@@ -410,7 +394,7 @@ _mailing address_: P.O. Box 603, Transversale No. 2, Centre Administratif de Kol
 _FAX_: [224] 655-10-42-97<br>
 
 **Flag description**<br>
-three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
+three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the reverse of those on the flags of neighboring Mali and Senegal<br>
 
 **National symbol(s)**<br>

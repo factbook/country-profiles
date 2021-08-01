@@ -82,7 +82,7 @@ _noun_: Cypriot(s)<br>
 _adjective_: Cypriot<br>
 
 **Ethnic groups**<br>
-Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecified 0.2% (2011 est.)<br><br><strong>note:</strong> data represent only the Greek-Cypriot citizens in the Republic of Cyprus<br>
+Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecified 0.2% (2011 est.)<br>
 <strong>note:</strong> data represent only the Greek-Cypriot citizens in the Republic of Cyprus<br>
 
 **Languages**<br>
@@ -90,7 +90,7 @@ Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Ru
 _printed major-language sample_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite, Armenian Church, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br><br><strong>note:</strong> data represent only the government-controlled area of Cyprus<br>
+Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite, Armenian Church, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br>
 <strong>note:</strong> data represent only the government-controlled area of Cyprus<br>
 
 **Age structure**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.2 years (2017 est.)<br><br><strong>note:</strong> data represent only government-controlled areas<br>
+29.2 years (2017 est.)<br>
 <strong>note:</strong> data represent only government-controlled areas<br>
 
 **Maternal mortality ratio**<br>
@@ -281,7 +281,7 @@ _etymology_: the derivation of the name "Cyprus" is unknown, but the extensive m
 <strong>note:</strong> the Turkish Cypriot community, which administers the northern part of the island, refers to itself as the "Turkish Republic of Northern Cyprus" or "TRNC" ("Kuzey Kibris Turk Cumhuriyeti" or "KKTC")<br>
 
 **Government type**<br>
-Republic of Cyprus - presidential republic; "Turkish Republic of Northern Cyprus" (self-declared) - parliamentary republic with enhanced presidency<br><br><strong>note:</strong> a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of the "TRNC,” which is recognized only by Turkey<br>
+Republic of Cyprus - presidential republic; "Turkish Republic of Northern Cyprus" (self-declared) - parliamentary republic with enhanced presidency<br>
 <strong>note:</strong> a separation of the two main ethnic communities inhabiting the island began following the outbreak of communal strife in 1963; this separation was further solidified when a Greek military-junta-supported coup attempt prompted the Turkish military intervention in July 1974 that gave the Turkish Cypriots de facto control in the north; Greek Cypriots control the only internationally recognized government on the island; on 15 November 1983, then Turkish Cypriot "President" Rauf DENKTAS declared independence and the formation of the "TRNC,” which is recognized only by Turkey<br>
 
 **Capital**<br>
@@ -359,7 +359,7 @@ _mailing address_: P. O. Box 24536, 1385 Nicosia<br>
 _FAX_: [357] (22) 393344<br>
 
 **Flag description**<br>
-centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br><br><strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other<br><br><strong>note:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed<br>
+centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
 <strong>note:</strong> one of only two national flags that uses a map as a design element; the flag of Kosovo is the other<br><br><strong>note:</strong> the "Turkish Republic of Northern Cyprus" flag retains the white field of the Cyprus national flag but displays narrow horizontal red stripes positioned a small distance from the top and bottom edges between which are centered a red crescent and a red five-pointed star; the banner is modeled after the Turkish national flag but with the colors reversed<br>
 
 **National symbol(s)**<br>

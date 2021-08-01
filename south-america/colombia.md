@@ -145,7 +145,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.7 years (2015 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.7 years (2015 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Supr
 _subordinate courts_: Superior Tribunals (appellate courts for each of the judicial districts); regional courts; civil municipal courts; Superior Military Tribunal; first instance administrative courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO]<br>Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN)<br>Conservative Party or PC [Hernan ANDRADE]<br>Democratic Center Party or CD [Alvaro URIBE Velez]<br>Green Alliance [Claudia LOPEZ Hernandez]<br>Humane Colombia [Gustavo PETRO]<br>Liberal Party or PL [Cesar GAVIRIA]<br>People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry]<br>Radical Change or CR [Rodrigo LARA Restrepo]<br>Social National Unity Party or U Party [Roy BARRERAS]<br><br><strong>note:</strong> Colombia has numerous smaller political movements<br>
+Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO]<br>Citizens Option (Opcion Ciudadana) or OC [Angel ALIRIO Moreno] (formerly known as the National Integration Party or PIN)<br>Conservative Party or PC [Hernan ANDRADE]<br>Democratic Center Party or CD [Alvaro URIBE Velez]<br>Green Alliance [Claudia LOPEZ Hernandez]<br>Humane Colombia [Gustavo PETRO]<br>Liberal Party or PL [Cesar GAVIRIA]<br>People's Alternative Revolutionary Force or FARC [Rodrigo LONDONO Echeverry]<br>Radical Change or CR [Rodrigo LARA Restrepo]<br>Social National Unity Party or U Party [Roy BARRERAS]<br>
 <strong>note:</strong> Colombia has numerous smaller political movements<br>
 
 **International organization participation**<br>
@@ -372,7 +372,7 @@ _mailing address_: Carrera 45 No. 24B-27, Bogota, D.C.<br>
 _FAX_: [57] (1) 275-4600<br>
 
 **Flag description**<br>
-three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity<br><br><strong>note:</strong> similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center<br>
+three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity<br>
 <strong>note:</strong> similar to the flag of Ecuador, which is longer and bears the Ecuadorian coat of arms superimposed in the center<br>
 
 **National symbol(s)**<br>
@@ -725,7 +725,7 @@ the Colombian Armed Forces are primarily focused on internal security, particula
 ## Terrorism
 
 **Terrorist group(s)**<br>
-National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

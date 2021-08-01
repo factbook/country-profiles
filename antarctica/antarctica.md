@@ -126,7 +126,7 @@ _914 to 1,523 m_: 5<br>
 _under 914 m_: 4<br>
 
 **Heliports**<br>
-53 (2012)<br><br><strong>note:</strong> all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared<br>
+53 (2012)<br>
 <strong>note:</strong> all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared<br>
 
 **Ports and terminals**<br>

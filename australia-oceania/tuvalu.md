@@ -388,7 +388,7 @@ _expenditures_: 32.46 million (2012 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
 **Taxes and other revenues**<br>
-106.7% (of GDP) (2013 est.)<br><br><strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
+106.7% (of GDP) (2013 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
 **Budget surplus (+) or deficit (-)**<br>

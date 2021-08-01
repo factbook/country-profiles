@@ -78,7 +78,7 @@ Arabic, Hebrew (spoken by many Palestinians), English (widely understood)<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 98.0 - 99.0% (predominantly Sunni), Christian &lt;1.0%, other, unaffiliated, unspecified &lt;1.0% (2012 est.)<br><br><strong>note:</strong> dismantlement of Israeli settlements was completed in September 2005; Gaza has had no Jewish population since then<br>
+Muslim 98.0 - 99.0% (predominantly Sunni), Christian &lt;1.0%, other, unaffiliated, unspecified &lt;1.0% (2012 est.)<br>
 <strong>note:</strong> dismantlement of Israeli settlements was completed in September 2005; Gaza has had no Jewish population since then<br>
 
 **Age structure**<br>
@@ -130,7 +130,7 @@ _65 years and over_: 1.13 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br><br><strong>note:</strong> data represent Gaza Strip and the West Bank<br>
+27 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -147,7 +147,7 @@ _female_: 77 years (2021 est.)<br>
 3.54 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-57.3% (2019/20)<br><br><strong>note:</strong>  includes Gaza Strip and West Bank<br>
+57.3% (2019/20)<br>
 <strong>note:</strong>  includes Gaza Strip and West Bank<br>
 
 **Drinking water source**<br>
@@ -184,11 +184,11 @@ NA<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
-2.1% (2019/20)<br><br><strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
+2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2017)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank<br>
+5.3% of GDP (2017)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Literacy**<br>
@@ -226,7 +226,7 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
-837 million cubic meters (2017 est.)<br><br><strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+837 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Climate**<br>
@@ -275,7 +275,7 @@ _etymology_: named for the largest city in the region, Gaza, whose settlement ca
 <p>see entry for the West Bank</p><br>
 
 **GDP (official exchange rate)**<br>
-$2.938 billion (2014 est.)<br><br><strong>note:</strong> excludes the West Bank<br>
+$2.938 billion (2014 est.)<br>
 <strong>note:</strong> excludes the West Bank<br>
 
 **Real GDP per capita**<br>
@@ -310,11 +310,11 @@ tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gou
 textiles, food processing, furniture<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br><br><strong>note:</strong> see entry for the West Bank<br>
+2.2% (2017 est.)<br>
 <strong>note:</strong> see entry for the West Bank<br>
 
 **Labor force**<br>
-1.24 million (2017 est.)<br><br><strong>note:</strong> excludes the West Bank<br>
+1.24 million (2017 est.)<br>
 <strong>note:</strong> excludes the West Bank<br>
 
 **Labor force - by occupation**<br>
@@ -329,7 +329,7 @@ _services_: 84.8% (2015 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
 **Population below poverty line**<br>
-30% (2011 est.)<br><br><strong>note:</strong> data exclude the West Bank<br>
+30% (2011 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -456,7 +456,7 @@ the military wing of HAMAS is armed with light weapons, including an inventory o
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)-Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; Palestine Islamic Jihad; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)-Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; Palestine Islamic Jihad; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

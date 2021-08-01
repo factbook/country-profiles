@@ -73,7 +73,7 @@ landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drain
 ## People and Society
 
 **Population**<br>
-12,241,065 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+12,241,065 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -84,7 +84,7 @@ _adjective_: Burundian<br>
 Hutu, Tutsi, Twa (Pygmy)<br>
 
 **Languages**<br>
-Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br><br><strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
+Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br>
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.3 years (2010 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.3 years (2010 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

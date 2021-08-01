@@ -353,7 +353,7 @@ _mailing address_: Zone Nord-Est des Berges du Lac Nord de Tunis 1053<br>
 _FAX_: [216] 71 107-090<br>
 
 **Flag description**<br>
-red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam<br><br><strong>note:</strong> the flag is based on that of Turkey, itself a successor state to the Ottoman Empire<br>
+red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam<br>
 <strong>note:</strong> the flag is based on that of Turkey, itself a successor state to the Ottoman Empire<br>
 
 **National symbol(s)**<br>
@@ -686,7 +686,7 @@ the Tunisian military&rsquo;s primary operational areas of focus are counter-ter
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in Tunisia; al-Qa'ida in the Islamic Maghreb<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Ansar al-Sharia in Tunisia; Islamic State of Iraq and ash-Sham (ISIS) network in Tunisia; al-Qa'ida in the Islamic Maghreb<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

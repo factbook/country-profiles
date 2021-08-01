@@ -82,7 +82,7 @@ _noun_: German(s)<br>
 _adjective_: German<br>
 
 **Ethnic groups**<br>
-German 86.3%, Turkish 1.8%, Polish 1%, Syrian 1%, Romanian 1%, other/stateless/unspecified 8.9% (2020 est.)<br><br><strong>note:</strong>  data represent population by nationality<br>
+German 86.3%, Turkish 1.8%, Polish 1%, Syrian 1%, Romanian 1%, other/stateless/unspecified 8.9% (2020 est.)<br>
 <strong>note:</strong>  data represent population by nationality<br>
 
 **Languages**<br>
@@ -161,7 +161,7 @@ _female_: 83.8 years (2021 est.)<br>
 1.48 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-67% (2018)<br><br><strong>note:</strong> percent of women aged 18-49<br>
+67% (2018)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -193,11 +193,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-93,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+93,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -690,7 +690,7 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the German Federal Armed Forces have approximately 180,000 active duty personnel (62,000 Army; 16,000 Navy; 28,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 13,000 Cyber and Information Space Command; 14,000 other) (2020)<br><br>note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2024<br>
+the German Federal Armed Forces have approximately 180,000 active duty personnel (62,000 Army; 16,000 Navy; 28,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 13,000 Cyber and Information Space Command; 14,000 other) (2020)<br>
 note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2024<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -708,7 +708,7 @@ the Federal Republic of Germany joined NATO in May 1955; with the reunification 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

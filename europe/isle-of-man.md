@@ -79,7 +79,7 @@ _noun_: Manxman(men), Manxwoman(women)<br>
 _adjective_: Manx<br>
 
 **Ethnic groups**<br>
-British 92.6%, European 5%, Asian 1%, African 1%, other 0.2% (2011 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+British 92.6%, European 5%, Asian 1%, African 1%, other 0.2% (2011 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -255,7 +255,7 @@ _judge selection and term of office_: deemsters appointed by the Lord Chancellor
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 
 **Political parties and leaders**<br>
-Liberal Vannin Party [Kate BEECROFT]<br>Manx Labor Party<br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br><br><strong>note:</strong> most members sit as independents<br>
+Liberal Vannin Party [Kate BEECROFT]<br>Manx Labor Party<br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
 <strong>note:</strong> most members sit as independents<br>
 
 **International organization participation**<br>

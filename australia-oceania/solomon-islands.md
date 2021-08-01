@@ -139,7 +139,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.6 years (2015 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.6 years (2015 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -325,7 +325,7 @@ _judge selection and term of office_: Court of Appeal and High Court president, 
 _subordinate courts_: Magistrates' Courts; Customary Land Appeal Court; local courts<br>
 
 **Political parties and leaders**<br>
-Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>People's Alliance Party or PAP [Nathaniel WAENA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br><br><strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
+Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Islands or KPSI [Peter BOYERS]<br>People's Alliance Party or PAP [Nathaniel WAENA]<br>Solomon Islands People First Party or SIPFP [Dr. Jimmie RODGERS]<br>Solomon Islands Party for Rural Advancement or SIPRA [Manasseh MAELANGA]<br>United Democratic Party or UDP [Sir Thomas Ko CHAN]<br>
 <strong>note:</strong> in general, Solomon Islands politics is characterized by fluid coalitions<br>
 
 **International organization participation**<br>

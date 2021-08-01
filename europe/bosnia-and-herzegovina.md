@@ -80,7 +80,7 @@ _noun_: Bosnian(s), Herzegovinian(s)<br>
 _adjective_: Bosnian, Herzegovinian<br>
 
 **Ethnic groups**<br>
-Bosniak 50.1%, Serb 30.8%, Croat 15.4%, other 2.7%, not declared/no answer 1% (2013 est.)<br><br><strong>note:</strong> Republika Srpska authorities dispute the methodology and refuse to recognize the results; Bosniak has replaced Muslim as an ethnic term in part to avoid confusion with the religious term Muslim - an adherent of Islam<br>
+Bosniak 50.1%, Serb 30.8%, Croat 15.4%, other 2.7%, not declared/no answer 1% (2013 est.)<br>
 <strong>note:</strong> Republika Srpska authorities dispute the methodology and refuse to recognize the results; Bosniak has replaced Muslim as an ethnic term in part to avoid confusion with the religious term Muslim - an adherent of Islam<br>
 
 **Languages**<br>
@@ -295,7 +295,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 1 March 1992 (from Yugoslavia); note - referendum for independence completed on 1 March 1992; independence declared on 3 March 1992<br>
 
 **National holiday**<br>
-Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br><br><strong>note:</strong> there is no national-level holiday<br>
+Independence Day, 1 March (1992) and Statehood Day, 25 November (1943) - both observed in the Federation of Bosnia and Herzegovina entity; Victory Day, 9 May (1945) and Dayton Agreement Day, 21 November (1995) - both observed in the Republika Srpska entity<br>
 <strong>note:</strong> there is no national-level holiday<br>
 
 **Constitution**<br>
@@ -357,7 +357,7 @@ _FAX_: [387] (33) 659-722<br>
 _branch office(s)_: Banja Luka, Mostar<br>
 
 **Flag description**<br>
-a wide blue vertical band on the fly side with a yellow isosceles triangle abutting the band and the top of the flag; the remainder of the flag is blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle; the triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs; the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom); the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia<br><br><strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Brazil, Eritrea, and Vanuatu<br>
+a wide blue vertical band on the fly side with a yellow isosceles triangle abutting the band and the top of the flag; the remainder of the flag is blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle; the triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs; the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom); the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia<br>
 <strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Brazil, Eritrea, and Vanuatu<br>
 
 **National symbol(s)**<br>
@@ -690,7 +690,7 @@ the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Sov
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

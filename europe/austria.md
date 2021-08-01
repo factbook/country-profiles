@@ -80,7 +80,7 @@ _noun_: Austrian(s)<br>
 _adjective_: Austrian<br>
 
 **Ethnic groups**<br>
-Austrian 80.8%, German 2.6%,  Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Austrian 80.8%, German 2.6%,  Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Serbian 1.6%, Romanian 1.3%, other 10% (2018 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -88,7 +88,7 @@ German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (offici
 _printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%, other/none/unspecified 23.1% (2018 est.)<br><br><strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
+Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%, other/none/unspecified 23.1% (2018 est.)<br>
 <strong>note:  </strong>data on Muslim is a 2016 estimate; data on other/none/unspecified are from 2012-2018 estimates<br>
 
 **Age structure**<br>
@@ -160,7 +160,7 @@ _female_: 84.85 years (2021 est.)<br>
 1.5 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-79% (2019)<br><br><strong>note:</strong> percent of women aged 16-49<br>
+79% (2019)<br>
 <strong>note:</strong> percent of women aged 16-49<br>
 
 **Drinking water source**<br>
@@ -687,7 +687,7 @@ registration requirement at age 17, the legal minimum age for voluntary military
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

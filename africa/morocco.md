@@ -41,7 +41,7 @@ _exclusive economic zone_: 200 nm<br>
 _continental shelf_: 200-m depth or to the depth of exploitation<br>
 
 **Climate**<br>
-Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew<br><br><strong>note:</strong>  data does not include former Western Sahara<br>
+Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Terrain**<br>
@@ -79,7 +79,7 @@ strategic location along Strait of Gibraltar; the only African nation to have bo
 ## People and Society
 
 **Population**<br>
-36,561,813 (July 2021 est.)<br><br><strong>note:</strong> includes Western Sahara<br>
+36,561,813 (July 2021 est.)<br>
 <strong>note:</strong> includes Western Sahara<br>
 
 **Nationality**<br>
@@ -87,7 +87,7 @@ _noun_: Moroccan(s)<br>
 _adjective_: Moroccan<br>
 
 **Ethnic groups**<br>
-Arab-Berber 99%, other 1%<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+Arab-Berber 99%, other 1%<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Languages**<br>
@@ -95,7 +95,7 @@ Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), 
 _printed major-language sample_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 6,000 (2010 est.)<br><br>note: does not include data from the former Western Sahara<br>
+Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 6,000 (2010 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Demographic profile**<br>
@@ -123,19 +123,19 @@ _female_: 29.6 years (2020 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Population growth rate**<br>
-0.92% (2021 est.)<br><br>note: does not include data from the former Western Sahara<br>
+0.92% (2021 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Birth rate**<br>
-17.58 births/1,000 population (2021 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+17.58 births/1,000 population (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Death rate**<br>
-6.53 deaths/1,000 population (2021 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+6.53 deaths/1,000 population (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Net migration rate**<br>
--1.83 migrant(s)/1,000 population (2021 est.)<br><br>note: does not include data from the former Western Sahara<br>
+-1.83 migrant(s)/1,000 population (2021 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Population distribution**<br>
@@ -160,7 +160,7 @@ _total population_: 1 male(s)/female (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Maternal mortality ratio**<br>
-70 deaths/100,000 live births (2017 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+70 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Infant mortality rate**<br>
@@ -176,11 +176,11 @@ _female_: 75.34 years (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Total fertility rate**<br>
-2.29 children born/woman (2021 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+2.29 children born/woman (2021 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Contraceptive prevalence rate**<br>
-70.8% (2018)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+70.8% (2018)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Drinking water source**<br>
@@ -193,15 +193,15 @@ _unimproved: total_: total: 9% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Current Health Expenditure**<br>
-5.3% (2018)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+5.3% (2018)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Physicians density**<br>
-0.73 physicians/1,000 population (2017)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+0.73 physicians/1,000 population (2017)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Hospital bed density**<br>
-1 beds/1,000 population (2017)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+1 beds/1,000 population (2017)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Sanitation facility access**<br>
@@ -218,26 +218,26 @@ _unimproved: total_: total: 7.3% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-22,000 (2020 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+22,000 (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+&lt;500 (2020 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 24 January 2021, Morocco has reported a total of 465,769 cases of COVID-19 or 1,261.9 cumulative cases of COVID-19 per 100,000 population with 22.0 cumulative deaths per 100,000 population<br>
 
 **Obesity - adult prevalence rate**<br>
-26.1% (2016)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+26.1% (2016)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Children under the age of 5 years underweight**<br>
-2.6% (2017/18)<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+2.6% (2017/18)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Education expenditures**<br>
-NA<br><br><strong>note:</strong> does not include data from the former Western Sahara<br>
+NA<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Literacy**<br>
@@ -262,7 +262,7 @@ _female_: 22.8% (2016 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-in the north, land degradation/desertification (soil erosion resulting from farming of marginal areas, overgrazing, destruction of vegetation); water and soil pollution due to dumping of industrial wastes into the ocean and inland water sources, and onto the land; in the south, desertification; overgrazing; sparse water and lack of arable land<br><br><strong>note:</strong>  data does not include former Western Sahara<br>
+in the north, land degradation/desertification (soil erosion resulting from farming of marginal areas, overgrazing, destruction of vegetation); water and soil pollution due to dumping of industrial wastes into the ocean and inland water sources, and onto the land; in the south, desertification; overgrazing; sparse water and lack of arable land<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Environment - international agreements**<br>
@@ -282,11 +282,11 @@ _agricultural_: 9.156 billion cubic meters (2017 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Total renewable water resources**<br>
-29 billion cubic meters (2017 est.)<br><br><strong>note:</strong>  data does not include former Western Sahara<br>
+29 billion cubic meters (2017 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Climate**<br>
-Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew<br><br><strong>note:</strong>  data does not include former Western Sahara<br>
+Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Land use**<br>
@@ -342,7 +342,7 @@ _daylight saving time_: +1 hr, begins last Sunday in March; ends last Sunday in 
 <strong>etymology:</strong> name derives from the Arabic title "Ribat el-Fath," meaning "stronghold of victory," applied to the newly constructed citadel in 1170<br>
 
 **Administrative divisions**<br>
-12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br><br><strong>note:</strong> effective 10 December 2020, the US Government recognizes the sovereignty of Morocco over all of the territory of former Western Sahara<br>
+12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br>
 <strong>note:</strong> effective 10 December 2020, the US Government recognizes the sovereignty of Morocco over all of the territory of former Western Sahara<br>
 
 **Independence**<br>
@@ -750,7 +750,7 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

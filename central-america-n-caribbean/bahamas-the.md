@@ -72,7 +72,7 @@ strategic location adjacent to US and Cuba; extensive island chain of which 30 a
 ## People and Society
 
 **Population**<br>
-352,655 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+352,655 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -80,7 +80,7 @@ _noun_: Bahamian(s)<br>
 _adjective_: Bahamian<br>
 
 **Ethnic groups**<br>
-African descent 90.6%, White 4.7%, mixed 2.1%, other 1.9%, unspecified 0.7% (2010 est.)<br><br><strong>note:</strong> data represent population by racial group<br>
+African descent 90.6%, White 4.7%, mixed 2.1%, other 1.9%, unspecified 0.7% (2010 est.)<br>
 <strong>note:</strong> data represent population by racial group<br>
 
 **Languages**<br>

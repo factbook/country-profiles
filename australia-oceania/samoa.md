@@ -80,7 +80,7 @@ _noun_: Samoan(s)<br>
 _adjective_: Samoan<br>
 
 **Ethnic groups**<br>
-Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)<br><br><strong>note:</strong> data represent the population by country of citizenship<br>
+Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)<br>
 <strong>note:</strong> data represent the population by country of citizenship<br>
 
 **Languages**<br>
@@ -139,7 +139,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23.6 years (2009 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+23.6 years (2009 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -351,7 +351,7 @@ _mailing address_: P. O. Box 3430, Matafele, Apia<br>
 _FAX_: [685] 22-030 (2018)<br>
 
 **Flag description**<br>
-red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity<br><br><strong>note:</strong> similar to the flag of Taiwan<br>
+red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity<br>
 <strong>note:</strong> similar to the flag of Taiwan<br>
 
 **National symbol(s)**<br>

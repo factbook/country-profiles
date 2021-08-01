@@ -277,7 +277,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 <strong>etymology:</strong> "tash" means "stone" and "kent" means "city" in Turkic languages, so the name simply denotes "stone city"<br>
 
 **Administrative divisions**<br>
-12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
 **Independence**<br>
@@ -670,7 +670,7 @@ the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Jihad Union; Islamic Movement of Uzbekistan<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Jihad Union; Islamic Movement of Uzbekistan<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

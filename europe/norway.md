@@ -144,7 +144,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.3 years (2017 est.)<br><br><strong>note:</strong> data is calculated based on actual age at first births<br>
+29.3 years (2017 est.)<br>
 <strong>note:</strong> data is calculated based on actual age at first births<br>
 
 **Maternal mortality ratio**<br>
@@ -195,7 +195,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 5,800 (2018 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -675,7 +675,7 @@ Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kon
 1.74% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br><br>note: the Home Guard has approximately 40,000 total personnel<br>
+the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>
 note: the Home Guard has approximately 40,000 total personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -685,7 +685,7 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 120 Lithuania (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers (16 in wartime); 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2019)<br><br>note - Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1988); it also has an all-female commando unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
+19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers (16 in wartime); 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2019)<br>
 note - Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1988); it also has an all-female commando unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
 
 **Military - note**<br>

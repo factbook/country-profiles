@@ -85,7 +85,7 @@ _adjective_: Marshallese<br>
 Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006 est.)<br>
 
 **Languages**<br>
-Marshallese (official) 98.2%, other languages 1.8% (1999 est.)<br><br><strong>note:</strong> English (official), widely spoken as a second language<br>
+Marshallese (official) 98.2%, other languages 1.8% (1999 est.)<br>
 <strong>note:</strong> English (official), widely spoken as a second language<br>
 
 **Religions**<br>

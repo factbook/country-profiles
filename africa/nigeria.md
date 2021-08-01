@@ -75,7 +75,7 @@ the Niger River enters the country in the northwest and flows southward through 
 ## People and Society
 
 **Population**<br>
-219,463,862 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+219,463,862 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -83,7 +83,7 @@ _noun_: Nigerian(s)<br>
 _adjective_: Nigerian<br>
 
 **Ethnic groups**<br>
-Hausa 30%, Yoruba 15.5%, Igbo (Ibo) 15.2%, Fulani 6%, Tiv 2.4%, Kanuri/Beriberi 2.4%, Ibibio 1.8%, Ijaw/Izon 1.8%, other 24.7% (2018 est.)<br><br><strong>note:</strong> Nigeria, Africa's most populous country, is composed of more than 250 ethnic groups<br>
+Hausa 30%, Yoruba 15.5%, Igbo (Ibo) 15.2%, Fulani 6%, Tiv 2.4%, Kanuri/Beriberi 2.4%, Ibibio 1.8%, Ijaw/Izon 1.8%, other 24.7% (2018 est.)<br>
 <strong>note:</strong> Nigeria, Africa's most populous country, is composed of more than 250 ethnic groups<br>
 
 **Languages**<br>
@@ -145,7 +145,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.3 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20.3 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -726,7 +726,7 @@ the Nigerian Armed Forces are used primarily for internal security operations; i
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansarul Muslimina Fi Biladis-Sudan (Ansaru)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

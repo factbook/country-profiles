@@ -32,7 +32,7 @@ _border countries_: US 8,891 km (includes 2,475 km with Alaska)<br>
 <strong>note:</strong> Canada is the world's largest country that borders only one country<br>
 
 **Coastline**<br>
-202,080 km<br><br><strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world<br>
+202,080 km<br>
 <strong>note:</strong> the Canadian Arctic Archipelago - consisting of 36,563 islands, several of them some of the world's largest - contributes to Canada easily having the longest coastline in the world<br>
 
 **Maritime claims**<br>
@@ -85,7 +85,7 @@ _noun_: Canadian(s)<br>
 _adjective_: Canadian<br>
 
 **Ethnic groups**<br>
-Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)<br><br><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
+Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German 9.6%, Chinese 5.1%, Italian 4.6%, North American Indian 4.4%, East Indian 4%, other 51.6% (2016 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
@@ -440,7 +440,7 @@ _manufacturing_: 3% (2006 est.)<br>
 5.83% (2018 est.)<br>
 
 **Population below poverty line**<br>
-9.4% (2008 est.)<br><br><strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line<br>
+9.4% (2008 est.)<br>
 <strong>note:</strong> this figure is the Low Income Cut-Off, a calculation that results in higher figures than found in many comparable economies; Canada does not have an official poverty line<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -674,7 +674,7 @@ Fraser River Port (Fraser) Hamilton (Lake Ontario)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)<br><br>note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
+Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)<br>
 note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
@@ -702,7 +702,7 @@ Canada is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -284,7 +284,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>etymology:</strong> may derive from the Old Dutch "bruoc/broek," meaning "marsh" and "sella/zele/sel" signifying "home" to express the meaning "home in the marsh"<br>
 
 **Administrative divisions**<br>
-3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br><br><strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
+3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
 <strong>note:</strong> as a result of the 1993 constitutional revision that furthered devolution into a federal state, there are now three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; the 2012 sixth state reform transferred additional competencies from the federal state to the regions and linguistic communities<br>
 
 **Independence**<br>
@@ -696,7 +696,7 @@ Belgium is a member of NATO and was one of the original 12 countries to sign the
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

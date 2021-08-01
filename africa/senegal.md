@@ -144,7 +144,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.9 years (2018 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.9 years (2018 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -375,7 +375,7 @@ _mailing address_: B.P. 49, Dakar<br>
 _FAX_: [221] 33-822-2991<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea<br>
+three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Mali and the reverse of those on the flag of neighboring Guinea<br>
 
 **National symbol(s)**<br>

@@ -346,7 +346,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: [420] 257 022 809<br>
 
 **Flag description**<br>
-two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br><br><strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia<br>
+two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>
 <strong>note:</strong> combines the white and red colors of Bohemia with blue from the arms of Moravia; is identical to the flag of the former Czechoslovakia<br>
 
 **National symbol(s)**<br>

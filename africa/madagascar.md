@@ -85,7 +85,7 @@ _adjective_: Malagasy<br>
 Malayo-Indonesian (Merina and related Betsileo), Cotiers (mixed African, Malayo-Indonesian, and Arab ancestry - Betsimisaraka, Tsimihety, Antaisaka, Sakalava), French, Indian, Creole, Comoran<br>
 
 **Languages**<br>
-Malagasy (official) 99.9%, French (official) 23.6%, English 8.2%, other 0.6% (2018 est.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
+Malagasy (official) 99.9%, French (official) 23.6%, English 8.2%, other 0.6% (2018 est.)<br>
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.83 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.5 years (2008/09 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.5 years (2008/09 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

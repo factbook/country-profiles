@@ -74,7 +74,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 ## People and Society
 
 **Population**<br>
-2,949,246 (July 2021 est.)<br><br><strong>note:</strong> approximately 418,600 Israeli settlers live in the West Bank (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
+2,949,246 (July 2021 est.)<br>
 <strong>note:</strong> approximately 418,600 Israeli settlers live in the West Bank (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
 
 **Nationality**<br>
@@ -140,7 +140,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2020 est.)<br>
 
 **Maternal mortality ratio**<br>
-27 deaths/100,000 live births (2017 est.)<br><br><strong>note:</strong> data represent Gaza Strip and the West Bank<br>
+27 deaths/100,000 live births (2017 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Infant mortality rate**<br>
@@ -157,7 +157,7 @@ _female_: 78.36 years (2021 est.)<br>
 3.02 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-57.3% (2019/20)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank<br>
+57.3% (2019/20)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Drinking water source**<br>
@@ -194,11 +194,11 @@ NA<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
-2.1% (2019/20)<br><br><strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
+2.1% (2019/20)<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2017)<br><br><strong>note:</strong> includes Gaza Strip and the West Bank<br>
+5.3% of GDP (2017)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Literacy**<br>
@@ -236,7 +236,7 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Total renewable water resources**<br>
-837 million cubic meters (2017 est.)<br><br><strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+837 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 **Climate**<br>
@@ -295,7 +295,7 @@ $19.95 billion (2012 est.)<br>
 <strong>note:</strong> data are in 2014 US dollars; includes Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
-$9.828 billion (2014 est.)<br><br><strong>note:</strong> excludes Gaza Strip<br>
+$9.828 billion (2014 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Real GDP per capita**<br>
@@ -332,11 +332,11 @@ tomatoes, cucumbers, olives, poultry, milk, potatoes, sheep milk, eggplants, gou
 small-scale manufacturing, quarrying, textiles, soap, olive-wood carvings, and mother-of-pearl souvenirs<br>
 
 **Industrial production growth rate**<br>
-2.2% (2017 est.)<br><br><strong>note:</strong> includes Gaza Strip<br>
+2.2% (2017 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Labor force**<br>
-1.24 million (2017 est.)<br><br><strong>note:</strong> excludes Gaza Strip<br>
+1.24 million (2017 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Labor force - by occupation**<br>
@@ -437,7 +437,7 @@ _electrification - total population_: 100% (2020)<br>
 5.473 billion kWh (2016 est.)<br>
 
 **Electricity - installed generating capacity**<br>
-170,000 kW (2016 est.)<br><br><strong>note:</strong> includes Gaza Strip<br>
+170,000 kW (2016 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **Electricity - from fossil fuels**<br>
@@ -554,7 +554,7 @@ the Palestinian Authority Security Forces are armed mostly with small arms and l
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Kahane Chai; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Kahane Chai; Palestine Islamic Jihad; Palestine Liberation Front; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

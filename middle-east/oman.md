@@ -75,7 +75,7 @@ consists of Oman proper and two northern exclaves, Musandam and Al Madhah; the f
 ## People and Society
 
 **Population**<br>
-3,694,755 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up approximately 46% of the total population (2019)<br>
+3,694,755 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up approximately 46% of the total population (2019)<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ Arabic (official), English, Baluchi, Swahili, Urdu, Indian dialects<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish &lt;0.1%, other 1%, unaffiliated 0.2% (2010 est.)<br><br><strong>note:</strong> Omani citizens represent approximately 56.4% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists account for roughly 5% of Omani citizens<br>
+Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish &lt;0.1%, other 1%, unaffiliated 0.2% (2010 est.)<br>
 <strong>note:</strong> Omani citizens represent approximately 56.4% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists account for roughly 5% of Omani citizens<br>
 
 **Age structure**<br>
@@ -428,7 +428,7 @@ crude oil production and refining, natural and liquefied natural gas production;
 -3% (2017 est.)<br>
 
 **Labor force**<br>
-2.255 million (2016 est.)<br><br><strong>note:</strong> about 60% of the labor force is non-national<br>
+2.255 million (2016 est.)<br>
 <strong>note:</strong> about 60% of the labor force is non-national<br>
 
 **Labor force - by occupation**<br>

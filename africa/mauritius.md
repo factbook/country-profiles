@@ -82,7 +82,7 @@ _noun_: Mauritian(s)<br>
 _adjective_: Mauritian<br>
 
 **Ethnic groups**<br>
-Indo-Mauritian (compose approximately two thirds of the total population), Creole, Sino-Mauritian, Franco-Mauritian<br><br><strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972<br>
+Indo-Mauritian (compose approximately two thirds of the total population), Creole, Sino-Mauritian, Franco-Mauritian<br>
 <strong>note:</strong> Mauritius has not had a question on ethnicity on its national census since 1972<br>
 
 **Languages**<br>
@@ -348,7 +348,7 @@ _mailing address_: international mail: P.O. Box 544, Port Louis; US mail: Americ
 _FAX_: [230] 208-9534<br>
 
 **Flag description**<br>
-four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br><br><strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands<br>
+four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br>
 <strong>note:</strong> while many national flags consist of three - and in some cases five - horizontal bands of color, the flag of Mauritius is the world's only national flag to consist of four horizontal color bands<br>
 
 **National symbol(s)**<br>

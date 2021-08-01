@@ -84,7 +84,7 @@ _noun_: Spaniard(s)<br>
 _adjective_: Spanish<br>
 
 **Ethnic groups**<br>
-Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -164,7 +164,7 @@ _female_: 85.39 years (2021 est.)<br>
 1.51 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-62.1% (2018)<br><br><strong>note:</strong> percent of women aged 18-49<br>
+62.1% (2018)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -196,11 +196,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.4% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-150,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+150,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;1,000 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;1,000 (2020)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -302,7 +302,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>note:</strong> Spain has two time zones, including the Canary Islands (UTC 0)<br><br><strong>etymology:</strong> the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid"<br>
 
 **Administrative divisions**<br>
-17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br><br><strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
+17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
 <strong>note:</strong> the autonomous cities of Ceuta and Melilla plus three small islands of Islas Chafarinas, Penon de Alhucemas, and Penon de Velez de la Gomera, administered directly by the Spanish central government, are all along the coast of Morocco and are collectively referred to as Places of Sovereignty (Plazas de Soberania)<br>
 
 **Independence**<br>
@@ -371,7 +371,7 @@ _FAX_: [34] (91) 587-2303<br>
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>
-three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of "Plus Ultra" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century<br><br><strong>note:</strong> the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre<br>
+three horizontal bands of red (top), yellow (double width), and red with the national coat of arms on the hoist side of the yellow band; the coat of arms is quartered to display the emblems of the traditional kingdoms of Spain (clockwise from upper left, Castile, Leon, Navarre, and Aragon) while Granada is represented by the stylized pomegranate at the bottom of the shield; the arms are framed by two columns representing the Pillars of Hercules, which are the two promontories (Gibraltar and Ceuta) on either side of the eastern end of the Strait of Gibraltar; the red scroll across the two columns bears the imperial motto of "Plus Ultra" (further beyond) referring to Spanish lands beyond Europe; the triband arrangement with the center stripe twice the width of the outer dates to the 18th century<br>
 <strong>note:</strong> the red and yellow colors are related to those of the oldest Spanish kingdoms: Aragon, Castile, Leon, and Navarre<br>
 
 **National symbol(s)**<br>
@@ -692,7 +692,7 @@ _LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagu
 ## Military and Security
 
 **Military and security forces**<br>
-Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2021)<br><br>note: the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defence and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
+Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2021)<br>
 note: the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defence and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
@@ -720,7 +720,7 @@ Spain joined NATO in 1982, but refrained from participating in the integrated mi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

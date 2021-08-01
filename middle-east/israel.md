@@ -74,7 +74,7 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 ## People and Society
 
 **Population**<br>
-8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)<br><br><strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
+8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)<br>
 <strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
 
 **Nationality**<br>
@@ -349,7 +349,7 @@ _FAX_: NA<br>
 <strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission<br>
 
 **Flag description**<br>
-white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br><br><strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue<br>
+white with a blue hexagram (six-pointed linear star) known as the Magen David (Star of David or Shield of David) centered between two equal horizontal blue bands near the top and bottom edges of the flag; the basic design resembles a traditional Jewish prayer shawl (tallit), which is white with blue stripes; the hexagram as a Jewish symbol dates back to medieval times<br>
 <strong>note:</strong> the Israeli flag proclamation states that the flag colors are sky blue and white, but the exact shade of blue has never been set and can vary from a light to a dark blue<br>
 
 **National symbol(s)**<br>
@@ -441,7 +441,7 @@ _services_: 81.6% (2015 est.)<br>
 4% (2018 est.)<br>
 
 **Population below poverty line**<br>
-22% (2014 est.)<br><br><strong>note:</strong> Israel's poverty line is $7.30 per person per day<br>
+22% (2014 est.)<br>
 <strong>note:</strong> Israel's poverty line is $7.30 per person per day<br>
 
 **Gini Index coefficient - distribution of family income**<br>
@@ -664,7 +664,7 @@ _container port(s) (TEUs)_: Ashdod (1,443,000) (2016)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2021)<br><br>note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force<br>
+Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2021)<br>
 note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force<br>
 
 **Military expenditures**<br>
@@ -689,7 +689,7 @@ the United Nations Disengagement Observer Force (UNDOF) has operated in the Gola
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Kahane Chai; Popular Front for the Liberation of Palestine; Palestinian Islamic Jihad<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

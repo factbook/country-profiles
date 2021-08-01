@@ -75,7 +75,7 @@ about 70% of the population lives in Brazzaville, Pointe-Noire, or along the rai
 ## People and Society
 
 **Population**<br>
-5,417,414 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+5,417,414 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -145,7 +145,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.8 years (2011/12 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.8 years (2011/12 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -366,7 +366,7 @@ _embassy_: 70-83 Section D, Maya-Maya Boulevard, Brazzaville<br>
 _mailing address_: B.P. 1015, Brazzaville<br>
 
 **Flag description**<br>
-divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>

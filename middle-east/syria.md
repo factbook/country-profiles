@@ -64,7 +64,7 @@ _other_: 21.5% (2018 est.)<br>
 14,280 sq km (2012)<br>
 
 **Population distribution**<br>
-significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br><br><strong>note:</strong> the ongoing civil war has altered the population distribution<br>
+significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
 <strong>note:</strong> the ongoing civil war has altered the population distribution<br>
 
 **Natural hazards**<br>
@@ -76,7 +76,7 @@ the capital of Damascus - located at an oasis fed by the Barada River - is thoug
 ## People and Society
 
 **Population**<br>
-20,384,316 (July 2021 est.)<br><br><strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018)<br>
+20,384,316 (July 2021 est.)<br>
 <strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018)<br>
 
 **Nationality**<br>
@@ -91,7 +91,7 @@ Arabic (official), Kurdish, Armenian, Aramaic, Circassian, French, English<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%<br><br><strong>note:</strong>  the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war<br>
+Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%<br>
 <strong>note:</strong>  the Christian population may be considerably smaller as a result of Christians fleeing the country during the ongoing civil war<br>
 
 **Age structure**<br>
@@ -125,7 +125,7 @@ _female_: 24 years (2020 est.)<br>
 34.34 migrant(s)/1,000 population NA (2021 est.)<br>
 
 **Population distribution**<br>
-significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br><br><strong>note:</strong> the ongoing civil war has altered the population distribution<br>
+significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
 <strong>note:</strong> the ongoing civil war has altered the population distribution<br>
 
 **Urbanization**<br>
@@ -344,7 +344,7 @@ _mailing address_: P. O. Box 29, Damascus<br>
 _FAX_: [963] (11) 3391-3999<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br><br><strong>note:</strong> similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; and that of Egypt, which has a gold Eagle of Saladin centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
 <strong>note:</strong> similar to the flag of Yemen, which has a plain white band; Iraq, which has an Arabic inscription centered in the white band; and that of Egypt, which has a gold Eagle of Saladin centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -653,7 +653,7 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Syrian Armed Forces: Syrian Arab Army, Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br><br>note: the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
+Syrian Armed Forces: Syrian Arab Army, Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
 note: the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
 
 **Military and security service personnel strengths**<br>
@@ -671,7 +671,7 @@ the United Nations Disengagement Observer Force (UNDOF) has operated in the Gola
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps -- Qods Force; Islamic State of Iraq and ash-Sham; Kata'ib Hizballah; Kurdistan Workers' Party; Mujahidin Shura Council in the Environs of Jerusalem; al-Nusrah Front (Hay'at Tahrir al-Sham); al-Qa'ida; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras al-Din; Islamic Jihad Union; Islamic Revolutionary Guard Corps -- Qods Force; Islamic State of Iraq and ash-Sham; Kata'ib Hizballah; Kurdistan Workers' Party; Mujahidin Shura Council in the Environs of Jerusalem; al-Nusrah Front (Hay'at Tahrir al-Sham); al-Qa'ida; Palestine Liberation Front; PFLP-General Command; Popular Front for the Liberation of Palestine<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

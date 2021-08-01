@@ -191,11 +191,11 @@ _unimproved: total_: total: 10.9% of population (2017 est.)<br>
 1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-31,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+31,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -441,7 +441,7 @@ construction, brewing, cement and other construction materials, sugar milling<br
 6.3% (2017 est.)<br>
 
 **Labor force**<br>
-1.633 million (2017 est.)<br><br><strong>note:</strong> shortage of skilled labor, but an oversupply of unskilled labor<br>
+1.633 million (2017 est.)<br>
 <strong>note:</strong> shortage of skilled labor, but an oversupply of unskilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -678,7 +678,7 @@ _container port(s) (TEUs)_: Balboa (2,905,049), Colon (3,891,209) (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2021)<br><br>note: on 10 February 1990, the government of then President Guillermo ENDARA abolished Panama's military and reformed the security apparatus by creating the Panamanian Public Forces; in October 1994, Panama's National Assembly approved a constitutional amendment prohibiting the creation of a standing military force but allowing the temporary establishment of special police units to counter acts of "external aggression"<br>
+no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2021)<br>
 note: on 10 February 1990, the government of then President Guillermo ENDARA abolished Panama's military and reformed the security apparatus by creating the Panamanian Public Forces; in October 1994, Panama's National Assembly approved a constitutional amendment prohibiting the creation of a standing military force but allowing the temporary establishment of special police units to counter acts of "external aggression"<br>
 
 **Military expenditures**<br>

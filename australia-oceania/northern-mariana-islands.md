@@ -324,7 +324,7 @@ tourism, banking, construction, fishing, handicrafts, other services<br>
 NA<br>
 
 **Labor force**<br>
-27,970 (2010 est.)<br><br><strong>note:</strong> includes foreign workers<br>
+27,970 (2010 est.)<br>
 <strong>note:</strong> includes foreign workers<br>
 
 **Labor force - by occupation**<br>

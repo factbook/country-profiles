@@ -79,7 +79,7 @@ _noun_: Virgin Islander(s) (US citizens)<br>
 _adjective_: Virgin Islander<br>
 
 **Ethnic groups**<br>
-Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)<br><br><strong>note:</strong> 17.4% self-identify as Latino<br>
+Black 76%, White 15.6%, Asian 1.4%, other 4.9%, mixed 2.1% (2010 est.)<br>
 <strong>note:</strong> 17.4% self-identify as Latino<br>
 
 **Languages**<br>

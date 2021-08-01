@@ -81,7 +81,7 @@ _noun_: Iraqi(s)<br>
 _adjective_: Iraqi<br>
 
 **Ethnic groups**<br>
-Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian)<br><br><strong>note:</strong> data is a 1987 government estimate; no more recent reliable numbers are available<br>
+Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i, Bedouin, Romani, Assyrian, Circassian, Sabaean-Mandaean, Persian)<br>
 <strong>note:</strong> data is a 1987 government estimate; no more recent reliable numbers are available<br>
 
 **Languages**<br>
@@ -89,7 +89,7 @@ Arabic (official), Kurdish (official), Turkmen (a Turkish dialect), Syriac (Neo-
 _printed major-language sample_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 95-98% (Shia 64-69%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br><br><strong>note:</strong> while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as high as 90% since the fall of the SADDAM Husayn regime in 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
+Muslim (official) 95-98% (Shia 64-69%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br>
 <strong>note:</strong> while there has been voluntary relocation of many Christian families to northern Iraq, the overall Christian population has decreased at least 50% and perhaps as high as 90% since the fall of the SADDAM Husayn regime in 2003, according to US Embassy estimates, with many fleeing to Syria, Jordan, and Lebanon<br>
 
 **Age structure**<br>
@@ -358,7 +358,7 @@ _mailing address_: APO AE 09316<br>
 _FAX_: NA<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br><br><strong>note:</strong> similar to the flag of Syria, which has two stars but no script; Yemen, which has a plain white band; and that of Egypt, which has a golden Eagle of Saladin centered in the white band<br>
+three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
 <strong>note:</strong> similar to the flag of Syria, which has two stars but no script; Yemen, which has a plain white band; and that of Egypt, which has a golden Eagle of Saladin centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -674,7 +674,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command; National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades; Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate; Popular Mobilization Commission and Affiliated Forces (PMF); Ministry of Pershmerga (Kurdistan Regional Government) (2020)<br><br>note: the PMF is a collection of approximately 50 paramilitary militias of different sizes and with varying political interests<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command; National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades; Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate; Popular Mobilization Commission and Affiliated Forces (PMF); Ministry of Pershmerga (Kurdistan Regional Government) (2020)<br>
 note: the PMF is a collection of approximately 50 paramilitary militias of different sizes and with varying political interests<br>
 
 **Military expenditures**<br>
@@ -699,7 +699,7 @@ the Iraqi military inventory is comprised of Russian and Soviet-era equipment co
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); Jaysh Rijal al-Tariq al-Naqshabandi; Kata'ib Hizballah; Kurdistan Workers' Party<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

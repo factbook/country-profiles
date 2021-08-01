@@ -81,7 +81,7 @@ _noun_: Albanian(s)<br>
 _adjective_: Albanian<br>
 
 **Ethnic groups**<br>
-Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Montenegrin, and Egyptian), unspecified 15.5% (2011 est.)<br><br><strong>note:</strong> data represent population by ethnic and cultural affiliation<br>
+Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Montenegrin, and Egyptian), unspecified 15.5% (2011 est.)<br>
 <strong>note:</strong> data represent population by ethnic and cultural affiliation<br>
 
 **Languages**<br>
@@ -89,7 +89,7 @@ Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (i
 _printed major-language sample_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br><br><strong>note:</strong> all mosques and churches were closed in 1967 and religious observances prohibited; in November 1990, Albania began allowing private religious practice<br>
+Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br>
 <strong>note:</strong> all mosques and churches were closed in 1967 and religious observances prohibited; in November 1990, Albania began allowing private religious practice<br>
 
 **Age structure**<br>
@@ -192,11 +192,11 @@ _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 <.1 (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-1,400 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+1,400 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -680,7 +680,7 @@ Albania officially became a member of NATO in 2009<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
+Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
 
 ## Transnational Issues

@@ -75,7 +75,7 @@ the Kenyan Highlands comprise one of the most successful agricultural production
 ## People and Society
 
 **Population**<br>
-54,685,051 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+54,685,051 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -145,7 +145,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.3 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20.3 years (2014 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -695,7 +695,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br><br>note: the National Police Service includes a paramilitary General Service Unit<br>
+Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br>
 note: the National Police Service includes a paramilitary General Service Unit<br>
 
 **Military expenditures**<br>
@@ -726,7 +726,7 @@ the Kenya Coast Guard Service (established 2018) is under the Ministry of Interi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

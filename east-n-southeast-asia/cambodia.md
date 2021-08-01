@@ -145,7 +145,7 @@ _65 years and over_: 0.59 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.9 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.9 years (2014 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -365,7 +365,7 @@ _mailing address_: Unit 8166, Box P, APO AP 96546<br>
 _FAX_: [855] (23) 728-600<br>
 
 **Flag description**<br>
-three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br><br><strong>note:</strong> only national flag to prominently incorporate an actual identifiable building into its design (a few other national flags - those of Afghanistan, San Marino, Portugal, and Spain - show small generic buildings as part of their coats of arms on the flag)<br>
+three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
 <strong>note:</strong> only national flag to prominently incorporate an actual identifiable building into its design (a few other national flags - those of Afghanistan, San Marino, Portugal, and Spain - show small generic buildings as part of their coats of arms on the flag)<br>
 
 **National symbol(s)**<br>

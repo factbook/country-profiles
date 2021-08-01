@@ -80,7 +80,7 @@ _noun_: Slovak(s)<br>
 _adjective_: Slovak<br>
 
 **Ethnic groups**<br>
-Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)<br><br><strong>note:</strong> data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population<br>
+Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, Ukrainian, Russian, German, Polish), unspecified 7% (2011 est.)<br>
 <strong>note:</strong> data represent population by nationality; Romani populations are usually underestimated in official statistics and may represent 7–11% of Slovakia's population<br>
 
 **Languages**<br>
@@ -341,7 +341,7 @@ _mailing address_: P.O. Box 309, 814 99 Bratislava<br>
 _FAX_: [421] (2) 5441-5148<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side<br><br><strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side<br>
 <strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
 
 **National symbol(s)**<br>

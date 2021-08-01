@@ -107,7 +107,7 @@ _female_: 35.1 years (2020 est.)<br>
 5.74 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
--4.16 migrant(s)/1,000 population (2021 est.)<br><br><strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
+-4.16 migrant(s)/1,000 population (2021 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Urbanization**<br>
@@ -267,7 +267,7 @@ none (overseas&nbsp;collectivity of France)<br>
 none (overseas collectivity of France)<br>
 
 **Flag description**<br>
-unofficial, local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br><br><strong>note:</strong> the design is derived from an original red banner with a white cross pattee that was introduced in the 19th century by French missionaries; the flag of France is used for official occasions<br>
+unofficial, local flag has a red field with four white isosceles triangles in the middle, representing the three native kings of the islands and the French administrator; the apexes of the triangles are oriented inward and at right angles to each other; the flag of France, outlined in white on two sides, is in the upper hoist quadrant<br>
 <strong>note:</strong> the design is derived from an original red banner with a white cross pattee that was introduced in the 19th century by French missionaries; the flag of France is used for official occasions<br>
 
 **National symbol(s)**<br>

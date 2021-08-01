@@ -73,7 +73,7 @@ strategic location at head of Persian Gulf<br>
 ## People and Society
 
 **Population**<br>
-3,032,065 (July 2021 est.)<br><br><strong>note:</strong> Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,420,110 for 2019, with non-Kuwaitis accounting for nearly 70% of the population<br>
+3,032,065 (July 2021 est.)<br>
 <strong>note:</strong> Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,420,110 for 2019, with non-Kuwaitis accounting for nearly 70% of the population<br>
 
 **Nationality**<br>
@@ -88,7 +88,7 @@ Arabic (official), English widely spoken<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)<br><br><strong>note:</strong> data represent the total population; about 69% of the population consists of immigrants<br>
+Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)<br>
 <strong>note:</strong> data represent the total population; about 69% of the population consists of immigrants<br>
 
 **Age structure**<br>
@@ -416,7 +416,7 @@ petroleum, petrochemicals, cement, shipbuilding and repair, water desalination, 
 2.8% (2017 est.)<br>
 
 **Labor force**<br>
-2.695 million (2017 est.)<br><br><strong>note:</strong> non-Kuwaitis represent about 60% of the labor force<br>
+2.695 million (2017 est.)<br>
 <strong>note:</strong> non-Kuwaitis represent about 60% of the labor force<br>
 
 **Labor force - by occupation**<br>
@@ -639,7 +639,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2020)<br><br>note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the KNG possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
+Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2020)<br>
 note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the KNG possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
 
 **Military expenditures**<br>

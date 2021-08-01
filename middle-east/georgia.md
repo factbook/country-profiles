@@ -142,7 +142,7 @@ _65 years and over_: 0.65 male(s)/female<br>
 _total population_: 0.92 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-25.4 years (2017 est.)<br><br><strong>note:</strong> data do not cover Abkhazia and South Ossetia<br>
+25.4 years (2017 est.)<br>
 <strong>note:</strong> data do not cover Abkhazia and South Ossetia<br>
 
 **Maternal mortality ratio**<br>
@@ -290,8 +290,7 @@ _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)
 <strong>etymology:</strong> the name in Georgian means "warm place," referring to the numerous sulfuric hot springs in the area<br>
 
 **Administrative divisions**<br>
-<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br><br><strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses
-<br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
+<p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br>
 <strong>note 1:</strong> the administrative centers of the two autonomous republics are shown in parentheses
 <br><br><strong>note 2:</strong> the United States recognizes the breakaway regions of Abkhazia and South Ossetia to be part of Georgia<br>
 

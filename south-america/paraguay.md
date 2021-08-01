@@ -142,7 +142,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.9 years (2008 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.9 years (2008 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -364,7 +364,7 @@ _mailing address_: Unit 4711, DPO AA 34036-0001<br>
 _FAX_: [595] (21) 213-728<br>
 
 **Flag description**<br>
-three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity<br><br><strong>note:</strong> the three color bands resemble those on the flag of the Netherlands; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Saudi Arabia<br>
+three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity<br>
 <strong>note:</strong> the three color bands resemble those on the flag of the Netherlands; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Saudi Arabia<br>
 
 **National symbol(s)**<br>

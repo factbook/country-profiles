@@ -42,7 +42,7 @@ _exclusive economic zone_: 200 nm<br>
 _continental shelf_: not specified<br>
 
 **Climate**<br>
-mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains<br><br><strong>note:</strong> many consider Denali, the highest peak in the US, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.  <br>
+mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains<br>
 <strong>note:</strong> many consider Denali, the highest peak in the US, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.  <br>
 
 **Terrain**<br>
@@ -55,7 +55,7 @@ _mean elevation_: 760 m<br>
 <strong>note: </strong>Denali is one of the most striking features on the entire planet; at 20,310 feet, it is the crowning peak of the Alaska Range and the highest mountain on North America; it towers three and one-half vertical miles above its base, making it a mile taller from base to summit than Mt. Everest; Denali's base sits at about 2,000 feet above sea level and rises over three and one-half miles to its 20,310 foot summit; Everest begins on a 14,000-foot high plain, then summits at 29,028 feet.<strong><br>note:</strong> the peak of Mauna Kea (4,207 m above sea level) on the island of Hawaii rises about 10,200 m above the Pacific Ocean floor; by this measurement, it is the world's tallest mountain - higher than Mount Everest (8,850 m), which is recognized as the tallest mountain above sea level<br>
 
 **Natural resources**<br>
-coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land;<br><br><strong>note 1: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br><br><strong>note 2:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources - Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br>
+coal, copper, lead, molybdenum, phosphates, rare earth elements, uranium, bauxite, gold, iron, mercury, nickel, potash, silver, tungsten, zinc, petroleum, natural gas, timber, arable land;<br>
 <strong>note 1: </strong>the US has the world's largest coal reserves with 491 billion short tons accounting for 27% of the world's total<br><br><strong>note 2:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources - Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br>
 
 **Land use**<br>
@@ -81,7 +81,7 @@ large urban clusters are spread throughout the eastern half of the US (particula
 ## People and Society
 
 **Population**<br>
-334,998,398 (July 2021 est.)<br><br><strong>note: </strong>the US Census Bureau's 2020 census results show the US population as 331,449,281 as of 1 April 2020<br>
+334,998,398 (July 2021 est.)<br>
 <strong>note: </strong>the US Census Bureau's 2020 census results show the US population as 331,449,281 as of 1 April 2020<br>
 
 **Nationality**<br>
@@ -89,11 +89,11 @@ _noun_: American(s)<br>
 _adjective_: American<br>
 
 **Ethnic groups**<br>
-White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska Native 0.9%, Native Hawaiian and other Pacific Islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)<br><br><strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
+White 72.4%, Black 12.6%, Asian 4.8%, Amerindian and Alaska Native 0.9%, Native Hawaiian and other Pacific Islander 0.2%, other 6.2%, two or more races 2.9% (2010 est.)<br>
 <strong>note:</strong> a separate listing for Hispanic is not included because the US Census Bureau considers Hispanic to mean persons of Spanish/Hispanic/Latino origin including those of Mexican, Cuban, Puerto Rican, Dominican Republic, Spanish, and Central or South American origin living in the US who may be of any race or ethnic group (White, Black, Asian, etc.); an estimated 16.3% of the total US population is Hispanic as of 2010<br>
 
 **Languages**<br>
-English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br><br><strong>note:</strong> data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska<br>
+English only 78.2%, Spanish 13.4%, Chinese 1.1%, other 7.3% (2017 est.)<br>
 <strong>note:</strong> data represent the language spoken at home; the US has no official national language, but English has acquired official status in 32 of the 50 states; Hawaiian is an official language in the state of Hawaii, and 20 indigenous languages are official in Alaska<br>
 
 **Religions**<br>
@@ -243,7 +243,7 @@ _agricultural_: 176.2 billion cubic meters (2017 est.)<br>
 3.069 trillion cubic meters (2017 est.)<br>
 
 **Climate**<br>
-mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains<br><br><strong>note:</strong> many consider Denali, the highest peak in the US, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.  <br>
+mostly temperate, but tropical in Hawaii and Florida, arctic in Alaska, semiarid in the great plains west of the Mississippi River, and arid in the Great Basin of the southwest; low winter temperatures in the northwest are ameliorated occasionally in January and February by warm chinook winds from the eastern slopes of the Rocky Mountains<br>
 <strong>note:</strong> many consider Denali, the highest peak in the US, to be the world’s coldest mountain because of its combination of high elevation and its subarctic location at 63 degrees north latitude; permanent snow and ice cover over 75 percent of the mountain, and enormous glaciers, up to 45 miles long and 3,700 feet thick, spider out from its base in every direction; it is home to some of the world’s coldest and most violent weather, where winds of over 150 miles per hour and temperatures of -93˚F have been recorded.  <br>
 
 **Land use**<br>
@@ -291,7 +291,7 @@ _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday i
 50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming<br>
 
 **Dependent areas**<br>
-American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island<br><br><strong>note:</strong> from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)<br>
+American Samoa, Baker Island, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island, Northern Mariana Islands, Palmyra Atoll, Puerto Rico, Virgin Islands, Wake Island<br>
 <strong>note:</strong> from 18 July 1947 until 1 October 1994, the US administered the Trust Territory of the Pacific Islands; it entered into a political relationship with all four political entities: the Northern Mariana Islands is a commonwealth in political union with the US (effective 3 November 1986); the Republic of the Marshall Islands signed a Compact of Free Association with the US (effective 21 October 1986); the Federated States of Micronesia signed a Compact of Free Association with the US (effective 3 November 1986); Palau concluded a Compact of Free Association with the US (effective 1 October 1994)<br>
 
 **Independence**<br>
@@ -345,7 +345,7 @@ Democratic Party [Tom PEREZ]<br>Green Party [collective leadership]<br>Libertari
 ADB (nonregional member), AfDB (nonregional member), ANZUS, APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE (observer), CERN (observer), CICA (observer), CP, EAPC, EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNITAR, UNMIL, UNMISS, UNRWA, UN Security Council (permanent), UNTSO, UPU, WCO, WIPO, WMO, WTO, ZC<br>
 
 **Flag description**<br>
-13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory<br><br><strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
+13 equal horizontal stripes of red (top and bottom) alternating with white; there is a blue rectangle in the upper hoist-side corner bearing 50 small, white, five-pointed stars arranged in nine offset horizontal rows of six stars (top and bottom) alternating with rows of five stars; the 50 stars represent the 50 states, the 13 stripes represent the 13 original colonies; blue stands for loyalty, devotion, truth, justice, and friendship, red symbolizes courage, zeal, and fervency, while white denotes purity and rectitude of conduct; commonly referred to by its nickname of Old Glory<br>
 <strong>note:</strong> the design and colors have been the basis for a number of other flags, including Chile, Liberia, Malaysia, and Puerto Rico<br>
 
 **National symbol(s)**<br>
@@ -425,7 +425,7 @@ highly diversified, world leading, high-technology innovator, second-largest ind
 2.3% (2017 est.)<br>
 
 **Labor force**<br>
-146.128 million (2020 est.)<br><br><strong>note:</strong> includes unemployed<br>
+146.128 million (2020 est.)<br>
 <strong>note:</strong> includes unemployed<br>
 
 **Labor force - by occupation**<br>
@@ -462,7 +462,7 @@ _expenditures_: 3.981 trillion (2017 est.)<br>
 <strong>note:</strong> revenues exclude social contributions of approximately $1.0 trillion; expenditures exclude social benefits of approximately $2.3 trillion<br>
 
 **Taxes and other revenues**<br>
-17% (of GDP) (2017 est.)<br><br><strong>note:</strong> excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP<br>
+17% (of GDP) (2017 est.)<br>
 <strong>note:</strong> excludes contributions for social security and other programs; if social contributions were added, taxes and other revenues would amount to approximately 22% of GDP<br>
 
 **Budget surplus (+) or deficit (-)**<br>
@@ -681,7 +681,7 @@ _cruise departure ports (passengers)_: Miami (2,032,000), Port Everglades (1,277
 ## Military and Security
 
 **Military and security forces**<br>
-United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2021)<br><br><strong>note: </strong>the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
+United States Armed Forces: US Army, US Navy (includes Marine Corps), US Air Force, US Space Force; US Coast Guard (administered in peacetime by the Department of Homeland Security, but in wartime reports to the Department of the Navy); National Guard (Army National Guard and Air National Guard) (2021)<br>
 <strong>note: </strong>the Army National Guard and the Air National Guard are reserve components of their services and operate in part under state authority<br>
 
 **Military expenditures**<br>
@@ -698,7 +698,7 @@ the US Armed Forces have approximately 1.39 million active duty personnel (482,0
 the US military's inventory is comprised almost entirely of domestically-produced weapons systems (some assembled with foreign components) along with a smaller mix of imported equipment from a variety of Western countries; since 2010, Germany and the UK are the leading suppliers of military hardware; the US defense industry is capable of designing, developing, maintaining, and producing the full spectrum of weapons systems; the US is the world's leading arms exporter (2020)<br>
 
 **Military deployments**<br>
-approximately 1,000 Afghanistan (NATO); 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany; 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 630 Kosovo (NATO/KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2021)<br><br>US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, in 2019, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
+approximately 1,000 Afghanistan (NATO); 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany; 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 630 Kosovo (NATO/KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2021)<br>
 US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, in 2019, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
 **Military service age and obligation**<br>
@@ -710,7 +710,7 @@ the US is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

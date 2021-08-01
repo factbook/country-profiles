@@ -144,7 +144,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.2 years (2014/15 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.2 years (2014/15 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -346,7 +346,7 @@ _judge selection and term of office_: Supreme Court magistrates elected by the C
 _subordinate courts_: numerous first instance and appellate courts<br>
 
 **Political parties and leaders**<br>
-Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA]<br>Citizen Alliance or AC<br>Citizen Prosperity or PC [Dami Anita Elizabeth KRISTENSON Sales]<br>Commitment, Renewal, and Order or CREO [Roberto GONZALEZ Diaz-Duran]<br>Convergence [Sandra MORAN]<br>Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Force or FUERZA [Mauricio RADFORD]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Gregorio CHAY Laynez]<br>Humanist Party of Guatemala or PHG [Edmond MULET]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA]<br>Movimiento Semilla or SEMILLA [Thelma ALDANA]<br>National Advancement Party or PAN [Harald JOHANNESSEN]<br>National Convergence Front or FCN-NACION or FCN [Jimmy MORALES]<br>National Unity for Hope or UNE [Sandra TORRES]<br>Nationalist Change Union or UCN [Mario ESTRADA]<br>Patriotic Party or PP<br>PODEMOS [Jose Raul VIRGIL Arias]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Reform Movement or MR<br>Renewed Democratic Liberty or LIDER (dissolved mid-February 2016)<br>TODOS [Felipe ALEJOS]<br>Unionista Party or PU [Alvaro ARZU Escobar]<br>Value or VALOR [Zury RIOS]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Amilcar RIVERA]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br><br><em>note:</em> parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), and PP (2017)<br>
+Bienestar Nacional or BIEN [Alfonso PORTILLO and Evelyn MORATAYA]<br>Citizen Alliance or AC<br>Citizen Prosperity or PC [Dami Anita Elizabeth KRISTENSON Sales]<br>Commitment, Renewal, and Order or CREO [Roberto GONZALEZ Diaz-Duran]<br>Convergence [Sandra MORAN]<br>Encounter for Guatemala or EG [Nineth MONTENEGRO Cottom]<br>Everyone Together for Guatemala or TODOS [Felipe ALEJOS]<br>Force or FUERZA [Mauricio RADFORD]<br>Guatemalan National Revolutionary Unity or URNG-MAIZ or URNG [Gregorio CHAY Laynez]<br>Humanist Party of Guatemala or PHG [Edmond MULET]<br>Movement for the Liberation of Peoples or MLP [Thelma CABRERA]<br>Movimiento Semilla or SEMILLA [Thelma ALDANA]<br>National Advancement Party or PAN [Harald JOHANNESSEN]<br>National Convergence Front or FCN-NACION or FCN [Jimmy MORALES]<br>National Unity for Hope or UNE [Sandra TORRES]<br>Nationalist Change Union or UCN [Mario ESTRADA]<br>Patriotic Party or PP<br>PODEMOS [Jose Raul VIRGIL Arias]<br>Political Movement Winaq or Winaq [Sonia GUTIERREZ Raguay]<br>Reform Movement or MR<br>Renewed Democratic Liberty or LIDER (dissolved mid-February 2016)<br>TODOS [Felipe ALEJOS]<br>Unionista Party or PU [Alvaro ARZU Escobar]<br>Value or VALOR [Zury RIOS]<br>Vamos por una Guatemala Diferente or VAMOS [Alejandro GIAMMATTEI]<br>Victory or VICTORIA [Amilcar RIVERA]<br>Vision with Values or VIVA [Armando Damian CASTILLO Alvarado]<br>
 <em>note:</em> parties represented in the last election, but have since dissolved - FCN (2017), LIDER (2016), and PP (2017)<br>
 
 **International organization participation**<br>
@@ -368,7 +368,7 @@ _mailing address_: DPO AA 34024<br>
 _FAX_: [502] 2326-4654<br>
 
 **Flag description**<br>
-three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br><br><strong>note:</strong> one of only two national flags featuring a firearm, the other is Mozambique<br>
+three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>
 <strong>note:</strong> one of only two national flags featuring a firearm, the other is Mozambique<br>
 
 **National symbol(s)**<br>

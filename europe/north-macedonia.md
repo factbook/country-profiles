@@ -80,7 +80,7 @@ _noun_: Macedonian(s)<br>
 _adjective_: Macedonian<br>
 
 **Ethnic groups**<br>
-Macedonian 64.2%, Albanian 25.2%, Turkish 3.9%, Romani 2.7%, Serb 1.8%, other 2.2% (2002 est.)<br><br><strong>note:</strong> North Macedonia has not conducted a census since 2002; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
+Macedonian 64.2%, Albanian 25.2%, Turkish 3.9%, Romani 2.7%, Serb 1.8%, other 2.2% (2002 est.)<br>
 <strong>note:</strong> North Macedonia has not conducted a census since 2002; Romani populations are usually underestimated in official statistics and may represent 6.5–13% of North Macedonia’s population<br>
 
 **Languages**<br>
@@ -646,7 +646,7 @@ _unpaved_: 4,549 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2021)<br><br>note: the Operations Command includes air, ground, special operations, support, and reserve forces<br>
+Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2021)<br>
 note: the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
@@ -671,7 +671,7 @@ North Macedonia officially became the 30th member of NATO in 2020<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

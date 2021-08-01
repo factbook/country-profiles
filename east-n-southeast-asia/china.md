@@ -83,7 +83,7 @@ _noun_: Chinese (singular and plural)<br>
 _adjective_: Chinese<br>
 
 **Ethnic groups**<br>
-Han Chinese 91.6%, Zhuang 1.3%, other (includes Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities) 7.1% (2010 est.)<br><br><strong>note:</strong> the Chinese Government officially recognizes 56 ethnic groups<br>
+Han Chinese 91.6%, Zhuang 1.3%, other (includes Hui, Manchu, Uighur, Miao, Yi, Tujia, Tibetan, Mongol, Dong, Buyei, Yao, Bai, Korean, Hani, Li, Kazakh, Dai, and other nationalities) 7.1% (2010 est.)<br>
 <strong>note:</strong> the Chinese Government officially recognizes 56 ethnic groups<br>
 
 **Languages**<br>
@@ -91,7 +91,7 @@ Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect)
 _printed major-language sample_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-folk religion 21.9%, Buddhist 18.3%, Christian 5.2%, Muslim 2%, Hindu &lt; 0.1%, Jewish &lt; 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 51.8% (2020 est.)<br><br><strong>note:</strong> officially atheist<br>
+folk religion 21.9%, Buddhist 18.3%, Christian 5.2%, Muslim 2%, Hindu &lt; 0.1%, Jewish &lt; 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 51.8% (2020 est.)<br>
 <strong>note:</strong> officially atheist<br>
 
 **Age structure**<br>
@@ -302,7 +302,7 @@ _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time
 <strong>note:</strong> China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five<br><br><strong>etymology: </strong>the Chinese meaning is "Northern Capital"<strong><br></strong><br>
 
 **Administrative divisions**<br>
-<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin</p><br><br><strong>note:</strong> China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau<br>
+<p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin</p><br>
 <strong>note:</strong> China considers Taiwan its 23rd province; see separate entries for the special administrative regions of Hong Kong and Macau<br>
 
 **Independence**<br>
@@ -349,7 +349,7 @@ _subordinate courts_: Higher People's Courts; Intermediate People's Courts; Dist
 note: in late 2014, China unveiled a multi-year judicial reform program; progress continued in 2018<br>
 
 **Political parties and leaders**<br>
-Chinese Communist Party or CCP [XI Jinping]<br><br><strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
+Chinese Communist Party or CCP [XI Jinping]<br>
 <strong>note:</strong> China has 8 nominally independent small parties controlled by the CCP<br>
 
 **International organization participation**<br>
@@ -408,7 +408,7 @@ $19,887,033,000,000 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$14,327,359,000,000 (2019 est.)<br><br><strong>note:</strong> because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries<br>
+$14,327,359,000,000 (2019 est.)<br>
 <strong>note:</strong> because China's exchange rate is determined by fiat rather than by market forces, the official exchange rate measure of GDP is not an accurate measure of China's output; GDP at the official exchange rate substantially understates the actual level of China's output vis-a-vis the rest of the world; in China's situation, GDP at purchasing power parity provides the best measure for comparing output across countries<br>
 
 **Real GDP per capita**<br>
@@ -451,7 +451,7 @@ world leader in gross value of industrial output; mining and ore processing, iro
 6.1% (2017 est.)<br>
 
 **Labor force**<br>
-774.71 million (2019 est.)<br><br><strong>note:</strong> by the end of 2012, China's working age population (15-64 years) was 1.004 billion<br>
+774.71 million (2019 est.)<br>
 <strong>note:</strong> by the end of 2012, China's working age population (15-64 years) was 1.004 billion<br>
 
 **Labor force - by occupation**<br>
@@ -700,7 +700,7 @@ seven of the world’s ten largest container ports are in China<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and naval aviation), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information warfare, cyber, space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2021)<br><br>note(s): the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
+People's Liberation Army (PLA): Ground Forces, Navy (PLAN, includes marines and naval aviation), Air Force (PLAAF, includes airborne forces), Rocket Force (strategic missile force), and Strategic Support Force (information warfare, cyber, space forces); People's Armed Police (PAP, includes Coast Guard, Border Defense Force, Internal Security Forces); PLA Reserve Force (2021)<br>
 note(s): the PAP is a paramilitary police component of China’s armed forces that is under the command of the Central Military Commission (CMC) and charged with internal security, law enforcement, counterterrorism, and maritime rights protection<br><br>in 2018, the Coast Guard was moved from the State Oceanic Administration to the PAP; in 2013, China merged four of its five major maritime law enforcement agencies – the China Marine Surveillance (CMS), Maritime Police, Fishery Law Enforcement (FLE), and Anti-Smuggling Police – into a unified coast guard<br>
 
 **Military expenditures**<br>
@@ -714,7 +714,7 @@ note(s): the PAP is a paramilitary police component of China’s armed forces th
 information varies; approximately 2 million total active duty troops (est. 1.0 - 1.1 million Ground; 250,000 Navy/Marines; 350-400,000 Air Force; 120,000 Rocket Forces; 150-175,000 Strategic Support Forces); est. 600-650,000 People&rsquo;s Armed Police (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010, followed by France and Ukraine; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains; it is the world's second largest arms producer (2020)<br><br>note: the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
+the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010, followed by France and Ukraine; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains; it is the world's second largest arms producer (2020)<br>
 note: the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
 
 **Military deployments**<br>

@@ -80,7 +80,7 @@ _noun_: Eritrean(s)<br>
 _adjective_: Eritrean<br>
 
 **Ethnic groups**<br>
-Tigrinya 55%, Tigre 30%, Saho 4%, Kunama 2%, Rashaida 2%, Bilen 2%, other (Afar, Beni Amir, Nera) 5% (2010 est.)<br><br><strong>note:</strong> data represent Eritrea's nine recognized ethnic groups<br>
+Tigrinya 55%, Tigre 30%, Saho 4%, Kunama 2%, Rashaida 2%, Bilen 2%, other (Afar, Beni Amir, Nera) 5% (2010 est.)<br>
 <strong>note:</strong> data represent Eritrea's nine recognized ethnic groups<br>
 
 **Languages**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.69 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.3 years (2010 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.3 years (2010 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -349,7 +349,7 @@ _mailing address_: P.O. Box 211, Asmara<br>
 _FAX_: [291] (1) 127584<br>
 
 **Flag description**<br>
-red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br><br><strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Brazil, and Vanuatu<br>
+red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>
 <strong>note:</strong> one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Bosnia and Herzegovina, Brazil, and Vanuatu<br>
 
 **National symbol(s)**<br>

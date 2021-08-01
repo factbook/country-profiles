@@ -80,7 +80,7 @@ _noun_: Puerto Rican(s) (US citizens)<br>
 _adjective_: Puerto Rican<br>
 
 **Ethnic groups**<br>
-White 75.8%, Black/African American 12.4%, other 8.5% (includes American Indian, Alaskan Native, Native Hawaiian, other Pacific Islander, and others), mixed 3.3% (2010 est.)<br><br><strong>note:</strong> 99% of the population is Latino<br>
+White 75.8%, Black/African American 12.4%, other 8.5% (includes American Indian, Alaskan Native, Native Hawaiian, other Pacific Islander, and others), mixed 3.3% (2010 est.)<br>
 <strong>note:</strong> 99% of the population is Latino<br>
 
 **Languages**<br>
@@ -245,7 +245,7 @@ _etymology_: Christopher COLUMBUS named the island San Juan Bautista (Saint John
 unincorporated organized territory of the US; policy relations between Puerto Rico and the US conducted under the jurisdiction of the Office of the President<br>
 
 **Government type**<br>
-republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br><br>Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950<br>
+republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
 Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950<br>
 
 **Capital**<br>
@@ -307,7 +307,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US with commonwealth status)<br>
 
 **Flag description**<br>
-five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace<br><br><strong>note:</strong> design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed<br>
+five equal horizontal bands of red (top, center, and bottom) alternating with white; a blue isosceles triangle based on the hoist side bears a large, white, five-pointed star in the center; the white star symbolizes Puerto Rico; the three sides of the triangle signify the executive, legislative and judicial parts of the government; blue stands for the sky and the coastal waters; red symbolizes the blood shed by warriors, while white represents liberty, victory, and peace<br>
 <strong>note:</strong> design initially influenced by the US flag, but similar to the Cuban flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>

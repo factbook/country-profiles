@@ -146,7 +146,7 @@ _local short form_: Saint-Martin<br>
 _etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
 
 **Dependency status**<br>
-overseas collectivity of France<br><br><strong>note:</strong> the only French overseas collectivity that is part of the EU<br>
+overseas collectivity of France<br>
 <strong>note:</strong> the only French overseas collectivity that is part of the EU<br>
 
 **Government type**<br>

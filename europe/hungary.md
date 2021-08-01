@@ -77,7 +77,7 @@ _noun_: Hungarian(s)<br>
 _adjective_: Hungarian<br>
 
 **Ethnic groups**<br>
-Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)<br><br><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population<br>
+Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic group; Romani populations are usually underestimated in official statistics and may represent 5–10% of Hungary's population<br>
 
 **Languages**<br>
@@ -462,7 +462,7 @@ _expenditures_: 64.7 billion (2017 est.)<br>
 44.5% (of GDP) (2017 est.)<br>
 
 **Budget surplus (+) or deficit (-)**<br>
--2% (of GDP) (2017 est.)<br><br><strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening<br>
+-2% (of GDP) (2017 est.)<br>
 <strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening<br>
 
 **Public debt**<br>
@@ -673,7 +673,7 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-Hungarian Defense Forces: Land Forces (Army); Air Forces (note - both the air and land components are subordinate to a Joint Forces Combat Command); Logistics Center; Preparation and Training Command (2020)<br><br>note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components<br>
+Hungarian Defense Forces: Land Forces (Army); Air Forces (note - both the air and land components are subordinate to a Joint Forces Combat Command); Logistics Center; Preparation and Training Command (2020)<br>
 note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components<br>
 
 **Military expenditures**<br>

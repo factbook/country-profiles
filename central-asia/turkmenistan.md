@@ -73,7 +73,7 @@ landlocked; the western and central low-lying desolate portions of the country m
 ## People and Society
 
 **Population**<br>
-5,579,889 (July 2021 est.)<br><br><strong>note:</strong> some sources suggest Turkmenistan's population could be as much as 1 to 2 million people lower than available estimates because of large-scale emigration during the last 10 years<br>
+5,579,889 (July 2021 est.)<br>
 <strong>note:</strong> some sources suggest Turkmenistan's population could be as much as 1 to 2 million people lower than available estimates because of large-scale emigration during the last 10 years<br>
 
 **Nationality**<br>
@@ -277,7 +277,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 <strong>etymology:</strong> derived from the Persian words "eshq" meaning "love" and "abad" meaning "inhabited place" or "city," and so loosely translates as "the city of love" <br>
 
 **Administrative divisions**<br>
-5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
 **Independence**<br>
@@ -323,7 +323,7 @@ _judge selection and term of office_: judges appointed by the president for 5-ye
 _subordinate courts_: High Commercial Court; appellate courts; provincial, district, and city courts; military courts<br>
 
 **Political parties and leaders**<br>
-Agrarian Party of Turkmenistan or APT [Basim ANNAGURBANOW]<br>Democratic Party of Turkmenistan or DPT [Ata SERDAROW]<br>Party of Industrialists and Entrepreneurs or PIE [Saparmyrat OWGANOW]<br><br><strong>note:</strong> all of these parties support President BERDIMUHAMEDOW; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
+Agrarian Party of Turkmenistan or APT [Basim ANNAGURBANOW]<br>Democratic Party of Turkmenistan or DPT [Ata SERDAROW]<br>Party of Industrialists and Entrepreneurs or PIE [Saparmyrat OWGANOW]<br>
 <strong>note:</strong> all of these parties support President BERDIMUHAMEDOW; a law authorizing the registration of political parties went into effect in January 2012; unofficial, small opposition movements exist abroad<br>
 
 **International organization participation**<br>
@@ -343,7 +343,7 @@ _mailing address_: 7070 Ashgabat Place, Washington, DC 20521-7070<br>
 _FAX_: [993] (12) 94-26-14<br>
 
 **Flag description**<br>
-green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life<br><br><strong>note:</strong> the flag of Turkmenistan is the most intricate of all national flags<br>
+green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life<br>
 <strong>note:</strong> the flag of Turkmenistan is the most intricate of all national flags<br>
 
 **National symbol(s)**<br>

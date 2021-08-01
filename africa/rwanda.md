@@ -73,7 +73,7 @@ landlocked; most of the country is intensively cultivated and rugged with the po
 ## People and Society
 
 **Population**<br>
-12,943,132 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+12,943,132 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23 years (2014/15 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+23 years (2014/15 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

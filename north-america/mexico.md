@@ -83,7 +83,7 @@ _noun_: Mexican(s)<br>
 _adjective_: Mexican<br>
 
 **Ethnic groups**<br>
-Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, other 10% (mostly European) (2012 est.)<br><br><strong>note:</strong> Mexico does not collect census data on ethnicity<br>
+Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, other 10% (mostly European) (2012 est.)<br>
 <strong>note:</strong> Mexico does not collect census data on ethnicity<br>
 
 **Languages**<br>
@@ -232,7 +232,7 @@ _female_: 8% (2019 est.)<br>
 ## Environment
 
 **Environment - current issues**<br>
-scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion<br><br><strong>note:</strong> the government considers the lack of clean water and deforestation national security issues<br>
+scarcity of hazardous waste disposal facilities; rural to urban migration; natural freshwater resources scarce and polluted in north, inaccessible and poor quality in center and extreme southeast; raw sewage and industrial effluents polluting rivers in urban areas; deforestation; widespread erosion; desertification; deteriorating agricultural lands; serious air and water pollution in the national capital and urban centers along US-Mexico border; land subsidence in Valley of Mexico caused by groundwater depletion<br>
 <strong>note:</strong> the government considers the lack of clean water and deforestation national security issues<br>
 
 **Environment - international agreements**<br>
@@ -374,7 +374,7 @@ _FAX_: (011) 52-55-5080-2005<br>
 _consulate(s) general_: Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City<br><br><strong>note:</strong> similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band<br>
+three equal vertical bands of green (hoist side), white, and red; Mexico's coat of arms (an eagle with a snake in its beak perched on a cactus) is centered in the white band; green signifies hope, joy, and love; white represents peace and honesty; red stands for hardiness, bravery, strength, and valor; the coat of arms is derived from a legend that the wandering Aztec people were to settle at a location where they would see an eagle on a cactus eating a snake; the city they founded, Tenochtitlan, is now Mexico City<br>
 <strong>note:</strong> similar to the flag of Italy, which is shorter, uses lighter shades of green and red, and does not display anything in its white band<br>
 
 **National symbol(s)**<br>
@@ -700,7 +700,7 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Ministry of Security and Citizen Protection: Federal Police (includes Gendarmerie), National Guard (2021)<br><br>note: the National Guard was formed in 2019 and consists of personnel from the Federal Police and military police units of the Army and Navy; while the Guard is part of the civilian-led Ministry of Security and Citizen Protection, the Defense Ministry has day-to-day operational control; in addition, the armed forces provide the commanders and the training<br>
+Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Ministry of Security and Citizen Protection: Federal Police (includes Gendarmerie), National Guard (2021)<br>
 note: the National Guard was formed in 2019 and consists of personnel from the Federal Police and military police units of the Army and Navy; while the Guard is part of the civilian-led Ministry of Security and Citizen Protection, the Defense Ministry has day-to-day operational control; in addition, the armed forces provide the commanders and the training<br>
 
 **Military expenditures**<br>

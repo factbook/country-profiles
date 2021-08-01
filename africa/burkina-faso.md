@@ -73,7 +73,7 @@ landlocked savanna cut by the three principal rivers of the Black, Red, and Whit
 ## People and Society
 
 **Population**<br>
-21,382,659 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+21,382,659 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.4 years (2010 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.4 years (2010 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -374,7 +374,7 @@ _mailing address_: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of St
 _FAX_: [226] 25-49-56-28<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
@@ -452,7 +452,7 @@ cotton lint, beverages, agricultural processing, soap, cigarettes, textiles, gol
 10.4% (2017 est.)<br>
 
 **Labor force**<br>
-8.501 million (2016 est.)<br><br><strong>note:</strong> a large part of the male labor force migrates annually to neighboring countries for seasonal employment<br>
+8.501 million (2016 est.)<br>
 <strong>note:</strong> a large part of the male labor force migrates annually to neighboring countries for seasonal employment<br>
 
 **Labor force - by occupation**<br>
@@ -672,7 +672,7 @@ _unpaved_: 11,662 km (2014)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants) (2021)<br><br>note: the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
+Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants) (2021)<br>
 note: the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
 
 **Military expenditures**<br>
@@ -700,7 +700,7 @@ since at least 2016, the Armed Forces of Burkina Faso have been actively engaged
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mulathamun Battalion (al-Mourabitoun); Jama'at Nusrat al-Islam wal-Muslimin<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mulathamun Battalion (al-Mourabitoun); Jama'at Nusrat al-Islam wal-Muslimin<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

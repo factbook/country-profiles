@@ -73,7 +73,7 @@ close to primary Middle Eastern petroleum sources; strategic location in Persian
 ## People and Society
 
 **Population**<br>
-1,526,929 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)<br>
+1,526,929 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up approximately 45% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -271,7 +271,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 <strong>etymology:</strong> name derives from the Arabic "al-manama" meaning "place of rest" or "place of dreams"<br>
 
 **Administrative divisions**<br>
-4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br><br><strong>note:</strong> each governorate administered by an appointed governor<br>
+4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
 <strong>note:</strong> each governorate administered by an appointed governor<br>
 
 **Independence**<br>
@@ -337,7 +337,7 @@ _mailing address_: PSC 451, Box 660, FPO AE 09834-5100 <br>international mail: A
 _FAX_: [973] 1727-2594<br>
 
 **Flag description**<br>
-red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam<br><br><strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
+red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam<br>
 <strong>note:</strong> until 2002, the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag<br>
 
 **National symbol(s)**<br>
@@ -416,7 +416,7 @@ petroleum processing and refining, aluminum smelting, iron pelletization, fertil
 0.6% (2017 est.)<br>
 
 **Labor force**<br>
-831,600 (2017 est.)<br><br><strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national<br>
+831,600 (2017 est.)<br>
 <strong>note:</strong> excludes unemployed; 44% of the population in the 15-64 age group is non-national<br>
 
 **Labor force - by occupation**<br>
@@ -634,7 +634,7 @@ _major seaport(s)_: Mina' Salman, Sitrah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2021)<br><br>note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
+Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2021)<br>
 note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
 
 **Military expenditures**<br>
@@ -656,7 +656,7 @@ the inventory of the Bahrain Defense force is comprised mostly of equipment acqu
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Ashtar Brigades; Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -284,7 +284,7 @@ none (territory of the US)<br>
 _embassy_: none (territory of the US)<br>
 
 **Flag description**<br>
-territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression<br><br><strong>note:</strong> the US flag is the national flag<br>
+territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, a proa or outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; the proa is sailing in Agana Bay with the promontory of Punta Dos Amantes, near the capital, in the background; the shape of the central emblem is that of a Chamorro sling stone, used as a weapon for defense or hunting; blue represents the sea and red the blood shed in the struggle against oppression<br>
 <strong>note:</strong> the US flag is the national flag<br>
 
 **National symbol(s)**<br>
@@ -345,7 +345,7 @@ national defense, tourism, construction, transshipment services, concrete produc
 NA<br>
 
 **Labor force**<br>
-73,210 (2016 est.)<br><br><strong>note:</strong> includes only the civilian labor force<br>
+73,210 (2016 est.)<br>
 <strong>note:</strong> includes only the civilian labor force<br>
 
 **Labor force - by occupation**<br>

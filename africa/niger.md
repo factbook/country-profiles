@@ -141,7 +141,7 @@ _65 years and over_: 0.92 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.1 years (2012 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.1 years (2012 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -354,7 +354,7 @@ _judge selection and term of office_: Constitutional Court judges nominated/elec
 _subordinate courts_: Court of Cassation; Council of State; Court of Finances; various specialized tribunals and customary courts<br>
 
 **Political parties and leaders**<br>
-Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Kassoum MOCTAR]<br>Democratic Alliance for Niger or ADN-Fusaha [Habi Mahamadou SALISSOU]<br>Democratic and Social Convention-Rahama or CDS-Rahama [Abdou LABO]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Moumouni DJERMAKOYE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Hama AMADOU]<br>Nigerien Movement for Democratic Renewal or MNRD-Hankuri [Mahamane OUSMANE]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mahamadou ISSOUFOU]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Party for Socialism and Democracy in Niger or PSDN-Alheri<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Social and Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Mohamed BEN OMAR]<br>Union for Democracy and the Republic-Tabbat or UDR-Tabbat [Amadou Boubacar CISSE]<br><br><strong>note:</strong> the SPLM and SPLM-DC are banned political parties<br>
+Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHIANA]<br>Congress for the Republic or CPR-Inganci [Kassoum MOCTAR]<br>Democratic Alliance for Niger or ADN-Fusaha [Habi Mahamadou SALISSOU]<br>Democratic and Social Convention-Rahama or CDS-Rahama [Abdou LABO]<br>National Movement for the Development of Society-Nassara or MNSD-Nassara [Seini OUMAROU]<br>Nigerien Alliance for Democracy and Progress-Zaman Lahiya or ANDP-Zaman Lahiya [Moussa Moumouni DJERMAKOYE]<br>Nigerien Democratic Movement for an African Federation or MODEN/FA Lumana [Hama AMADOU]<br>Nigerien Movement for Democratic Renewal or MNRD-Hankuri [Mahamane OUSMANE]<br>Nigerien Party for Democracy and Socialism or PNDS-Tarrayya [Mahamadou ISSOUFOU]<br>Nigerien Patriotic Movement or MPN-Kishin Kassa [Ibrahim YACOUBA]<br>Party for Socialism and Democracy in Niger or PSDN-Alheri<br>Patriotic Movement for the Republic or MPR-Jamhuriya [Albade ABOUBA]<br>Rally for Democracy and Progress-Jama'a or RDP-Jama'a [Hamid ALGABID]<br>Social and Democratic Rally or RSD-Gaskiyya [Amadou CHEIFFOU]<br>Social Democratic Party or PSD-Bassira [Mohamed BEN OMAR]<br>Union for Democracy and the Republic-Tabbat or UDR-Tabbat [Amadou Boubacar CISSE]<br>
 <strong>note:</strong> the SPLM and SPLM-DC are banned political parties<br>
 
 **International organization participation**<br>
@@ -374,7 +374,7 @@ _mailing address_: 2420 Niamey Place, Washington DC 20521-2420<br>
 _FAX_: [227] 20-73-55-60<br>
 
 **Flag description**<br>
-three equal horizontal bands of orange (top), white, and green with a small orange disk centered in the white band; the orange band denotes the drier northern regions of the Sahara; white stands for purity and innocence; green symbolizes hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the sacrifices made by the people<br><br><strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered in the white band<br>
+three equal horizontal bands of orange (top), white, and green with a small orange disk centered in the white band; the orange band denotes the drier northern regions of the Sahara; white stands for purity and innocence; green symbolizes hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the sacrifices made by the people<br>
 <strong>note:</strong> similar to the flag of India, which has a blue spoked wheel centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -679,7 +679,7 @@ _by type_: general cargo 1 (2020)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2020)<br><br>note: the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2020)<br>
 note: the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
@@ -707,7 +707,7 @@ as of late 2020, the FAN was conducting counterinsurgency and counter-terrorism 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic State of Iraq and ash-Sham – West Africa; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic State of Iraq and ash-Sham – West Africa; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

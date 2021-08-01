@@ -82,7 +82,7 @@ _noun_: Fijian(s)<br>
 _adjective_: Fijian<br>
 
 **Ethnic groups**<br>
-iTaukei 56.8% (predominantly Melanesian with a Polynesian admixture), Indo-Fijian 37.5%, Rotuman 1.2%, other 4.5% (European, part European, other Pacific Islanders, Chinese) (2007 est.)<br><br><strong>note:</strong> a 2010 law replaces 'Fijian' with 'iTaukei' when referring to the original and native settlers of Fiji<br>
+iTaukei 56.8% (predominantly Melanesian with a Polynesian admixture), Indo-Fijian 37.5%, Rotuman 1.2%, other 4.5% (European, part European, other Pacific Islanders, Chinese) (2007 est.)<br>
 <strong>note:</strong> a 2010 law replaces 'Fijian' with 'iTaukei' when referring to the original and native settlers of Fiji<br>
 
 **Languages**<br>

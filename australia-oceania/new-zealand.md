@@ -83,15 +83,15 @@ _noun_: New Zealander(s)<br>
 _adjective_: New Zealand<br>
 
 **Ethnic groups**<br>
-European 64.1%, Maori 16.5%, Chinese 4.9%, Indian 4.7%, Samoan 3.9%, Tongan 1.8%, Cook Islands Maori 1.7%, English 1.5%, Filipino 1.5%, New Zealander 1%, other 13.7% (2018 est.)<br><br><strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one ethnic group<br>
+European 64.1%, Maori 16.5%, Chinese 4.9%, Indian 4.7%, Samoan 3.9%, Tongan 1.8%, Cook Islands Maori 1.7%, English 1.5%, Filipino 1.5%, New Zealander 1%, other 13.7% (2018 est.)<br>
 <strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one ethnic group<br>
 
 **Languages**<br>
-English (de facto official) 95.4%, Maori (de jure official) 4%, Samoan 2.2%, Northern Chinese 2%, Hindi 1.5%, French 1.2%, Yue 1.1%, New Zealand Sign Language (de jure official) 0.5%, other or not stated 17.2% (2018 est.)<br><br><strong>note:</strong> shares sum to 124.1% due to multiple responses on the 2018 census<br>
+English (de facto official) 95.4%, Maori (de jure official) 4%, Samoan 2.2%, Northern Chinese 2%, Hindi 1.5%, French 1.2%, Yue 1.1%, New Zealand Sign Language (de jure official) 0.5%, other or not stated 17.2% (2018 est.)<br>
 <strong>note:</strong> shares sum to 124.1% due to multiple responses on the 2018 census<br>
 
 **Religions**<br>
-Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Mormon 1.2%, other 10.7%), Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6% (includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism), no religion 48.6%, objected to answering 6.7% (2018 est.)<br><br><strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion<br>
+Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Mormon 1.2%, other 10.7%), Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6% (includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism), no religion 48.6%, objected to answering 6.7% (2018 est.)<br>
 <strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion<br>
 
 **Age structure**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-27.8 years (2009 est.)<br><br><strong>note:</strong> median age at first birth<br>
+27.8 years (2009 est.)<br>
 <strong>note:</strong> median age at first birth<br>
 
 **Maternal mortality ratio**<br>
@@ -164,7 +164,7 @@ _female_: 84.19 years (2021 est.)<br>
 1.87 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-79.9% (2014/15)<br><br><strong>note:</strong> percent of women aged 18-45<br>
+79.9% (2014/15)<br>
 <strong>note:</strong> percent of women aged 18-45<br>
 
 **Drinking water source**<br>
@@ -196,11 +196,11 @@ _unimproved: total_: total: 0% of population (2017)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-3,600 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+3,600 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -467,7 +467,7 @@ _expenditures_: 70.97 billion (2017 est.)<br>
 33.5% of GDP (2016 est.)<br>
 
 **Fiscal year**<br>
-1 April - 31 March<br><br><strong>note:</strong> this is the fiscal year for tax purposes<br>
+1 April - 31 March<br>
 <strong>note:</strong> this is the fiscal year for tax purposes<br>
 
 **Current account balance**<br>

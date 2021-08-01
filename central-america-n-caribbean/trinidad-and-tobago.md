@@ -181,11 +181,11 @@ _unimproved: total_: total: 0.7% of population (2017 est.)<br>
 0.7% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-10,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+10,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;200 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>

@@ -80,7 +80,7 @@ _noun_: Lao(s) or Laotian(s)<br>
 _adjective_: Lao or Laotian<br>
 
 **Ethnic groups**<br>
-Lao 53.2%, Khmou 11%, Hmong 9.2%, Phouthay 3.4%, Tai 3.1%, Makong 2.5%, Katong 2.2%, Lue 2%, Akha 1.8%, other 11.6% (2015 est.)<br><br><strong>note:</strong> the Laos Government officially recognizes 49 ethnic groups, but the total number of ethnic groups is estimated to be well over 200<br>
+Lao 53.2%, Khmou 11%, Hmong 9.2%, Phouthay 3.4%, Tai 3.1%, Makong 2.5%, Katong 2.2%, Lue 2%, Akha 1.8%, other 11.6% (2015 est.)<br>
 <strong>note:</strong> the Laos Government officially recognizes 49 ethnic groups, but the total number of ethnic groups is estimated to be well over 200<br>
 
 **Languages**<br>
@@ -339,7 +339,7 @@ _judge selection and term of office_: president of People's Supreme Court appoin
 _subordinate courts_: appellate courts; provincial, municipal, district, and military courts<br>
 
 **Political parties and leaders**<br>
-Lao People's Revolutionary Party or LPRP [BOUNNYANG Vorachit]; Prime Minister THONGLOUN Sisoulit elected general secretary in mid-January 2021<br><br><strong>note:</strong> other parties proscribed<br>
+Lao People's Revolutionary Party or LPRP [BOUNNYANG Vorachit]; Prime Minister THONGLOUN Sisoulit elected general secretary in mid-January 2021<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>

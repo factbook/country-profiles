@@ -34,7 +34,7 @@ _metropolitan France - total_: 2751<br>
 _French Guiana - total_: 1205<br>
 
 **Coastline**<br>
-4,853 km<br><br><strong>metropolitan France: </strong>3,427 km<br>
+4,853 km<br>
 <strong>metropolitan France: </strong>3,427 km<br>
 
 **Maritime claims**<br>
@@ -67,7 +67,7 @@ _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
 **Irrigated land**<br>
-26,420 sq km 26,950 sq km (2012)<br><br><strong>metropolitan France: </strong>26,000 sq km (2012)<br>
+26,420 sq km 26,950 sq km (2012)<br>
 <strong>metropolitan France: </strong>26,000 sq km (2012)<br>
 
 **Population distribution**<br>
@@ -82,7 +82,7 @@ largest West European nation; most major French rivers - the Meuse, Seine, Loire
 ## People and Society
 
 **Population**<br>
-68,084,217 (July 2021 est.)<br><br><strong>note:</strong> the above figure is for metropolitan France and five overseas regions; the metropolitan France population is 62,814,233<br>
+68,084,217 (July 2021 est.)<br>
 <strong>note:</strong> the above figure is for metropolitan France and five overseas regions; the metropolitan France population is 62,814,233<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ _noun_: Frenchman(men), Frenchwoman(women)<br>
 _adjective_: French<br>
 
 **Ethnic groups**<br>
-Celtic and Latin with Teutonic, Slavic, North African, Indochinese, Basque minorities<br><br><strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Amerindian<br>
+Celtic and Latin with Teutonic, Slavic, North African, Indochinese, Basque minorities<br>
 <strong>note:</strong> overseas departments: Black, White, Mulatto, East Indian, Chinese, Amerindian<br>
 
 **Languages**<br>
@@ -98,7 +98,7 @@ French (official) 100%, declining regional dialects and languages (Provencal, Br
 _printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Buddhist 0.5-0.75%, Jewish 0.5-0.75%, other 0.5-1.0%, none 23-28% (2015 est.)<br><br><strong>note:</strong> France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state<br>
+Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Buddhist 0.5-0.75%, Jewish 0.5-0.75%, other 0.5-1.0%, none 23-28% (2015 est.)<br>
 <strong>note:</strong> France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state<br>
 
 **Age structure**<br>
@@ -295,11 +295,11 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>note: </strong>applies to metropolitan France only; for its overseas regions the time difference is UTC-4 for Guadeloupe and Martinique, UTC-3 for French Guiana, UTC+3 for Mayotte, and UTC+4 for Reunion<strong><br><br>etymology: </strong>name derives from the Parisii, a Celtic tribe that inhabited the area from the 3rd century B.C., but who were conquered by the Romans in the 1st century B.C.; the Celtic settlement became the Roman town of Lutetia Parisiorum (Lutetia of the Parisii); over subsequent centuries it became Parisium and then just Paris<br><br><br><br>
 
 **Administrative divisions**<br>
-18 regions (regions, singular - region); Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte (Burgundy-Free County), Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Cote d'Azur, Reunion<br><br><strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
+18 regions (regions, singular - region); Auvergne-Rhone-Alpes, Bourgogne-Franche-Comte (Burgundy-Free County), Bretagne (Brittany), Centre-Val de Loire (Center-Loire Valley), Corse (Corsica), Grand Est (Grand East), Guadeloupe, Guyane (French Guiana), Hauts-de-France (Upper France), Ile-de-France, Martinique, Mayotte, Normandie (Normandy), Nouvelle-Aquitaine (New Aquitaine), Occitanie (Occitania), Pays de la Loire (Lands of the Loire), Provence-Alpes-Cote d'Azur, Reunion<br>
 <strong>note:</strong> France is divided into 13 metropolitan regions (including the "collectivity" of Corse or Corsica) and 5 overseas regions (French Guiana, Guadeloupe, Martinique, Mayotte, and Reunion) and is subdivided into 96 metropolitan departments and 5 overseas departments (which are the same as the overseas regions)<br>
 
 **Dependent areas**<br>
-Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna<br><br><strong>note:</strong> the US Government does not recognize claims to Antarctica; New Caledonia has been considered a "sui generis" collectivity of France since 1998, a unique status falling between that of an independent country and a French overseas department<br>
+Clipperton Island, French Polynesia, French Southern and Antarctic Lands, New Caledonia, Saint Barthelemy, Saint Martin, Saint Pierre and Miquelon, Wallis and Futuna<br>
 <strong>note:</strong> the US Government does not recognize claims to Antarctica; New Caledonia has been considered a "sui generis" collectivity of France since 1998, a unique status falling between that of an independent country and a French overseas department<br>
 
 **Independence**<br>
@@ -368,7 +368,7 @@ _consulate(s) general_: Marseille, Strasbourg<br>
 _consulate(s)_: Bordeaux, Lyon, Rennes<br>
 
 **Flag description**<br>
-three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas<br><br><strong>note:</strong> for the first four years, 1790-94, the order of colors was reversed, red-white-blue, instead of the current blue-white-red; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
+three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas<br>
 <strong>note:</strong> for the first four years, 1790-94, the order of colors was reversed, red-white-blue, instead of the current blue-white-red; the design and/or colors are similar to a number of other flags, including those of Belgium, Chad, Cote d'Ivoire, Ireland, Italy, Luxembourg, and Netherlands<br>
 
 **National symbol(s)**<br>
@@ -715,7 +715,7 @@ the French military has approximately 205,000 active duty troops (115,000 Army; 
 the French military's inventory consists almost entirely of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; since 2010, the US is the leading foreign supplier of military hardware to France; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2020)<br>
 
 **Military deployments**<br>
-5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force by the beginning of 2022); approximately 300 Central African Republic; 900 Cote D'Ivoire; 1,400 Djibouti; 300 Baltics (NATO); 2,000 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,400-1,500 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2020-2021)<br><br>note - France has been a contributing member of the EuroCorps since 1992<br>
+5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force by the beginning of 2022); approximately 300 Central African Republic; 900 Cote D'Ivoire; 1,400 Djibouti; 300 Baltics (NATO); 2,000 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,400-1,500 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2020-2021)<br>
 note - France has been a contributing member of the EuroCorps since 1992<br>
 
 **Military service age and obligation**<br>
@@ -727,7 +727,7 @@ France was one of the original 12 countries to sign the North Atlantic Treaty (a
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS); al-Qa'ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

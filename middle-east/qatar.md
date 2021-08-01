@@ -339,7 +339,7 @@ _mailing address_: P. O. Box 2399, Doha<br>
 _FAX_: [974] 4488-4298<br>
 
 **Flag description**<br>
-maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br><br><strong>note:</strong> the other eight emirates are the seven that compose the UAE and Bahrain; according to some sources, the dominant color was formerly red, but this darkened to maroon upon exposure to the sun and the new shade was eventually adopted<br>
+maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br>
 <strong>note:</strong> the other eight emirates are the seven that compose the UAE and Bahrain; according to some sources, the dominant color was formerly red, but this darkened to maroon upon exposure to the sun and the new shade was eventually adopted<br>
 
 **National symbol(s)**<br>

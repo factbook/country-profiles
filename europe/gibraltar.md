@@ -72,7 +72,7 @@ _noun_: Gibraltarian(s)<br>
 _adjective_: Gibraltar<br>
 
 **Ethnic groups**<br>
-Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+Gibraltarian 79%, other British 13.2%, Spanish 2.1%, Moroccan 1.6%, other EU 2.4%, other 1.6% (2012 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>

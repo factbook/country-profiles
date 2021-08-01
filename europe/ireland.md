@@ -186,11 +186,11 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-7,800 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+7,800 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -342,7 +342,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: [353] (1) 688-9946<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br><br><strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red<br>
+three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br>
 <strong>note:</strong> similar to the flag of Cote d'Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red<br>
 
 **National symbol(s)**<br>
@@ -685,7 +685,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; New Irish Republican Army (2019)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Continuity Irish Republican Army; New Irish Republican Army (2019)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

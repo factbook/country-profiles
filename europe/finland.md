@@ -161,7 +161,7 @@ _female_: 84.6 years (2021 est.)<br>
 1.74 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-85.5% (2015)<br><br><strong>note:</strong> percent of women aged 18-49<br>
+85.5% (2015)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -600,7 +600,7 @@ _international_: country code - 358; landing points for Botnia, BCS North-1 &amp
 a mix of 3 publicly operated TV stations and numerous privately owned TV stations; several free and special-interest pay-TV channels; cable and satellite multi-channel subscription services are available; all TV signals are broadcast digitally; Internet television, such as Netflix and others, is available; public broadcasting maintains a network of 13 national and 25 regional radio stations; a large number of private radio broadcasters and access to Internet radio<br>
 
 **Internet country code**<br>
-<p>.fi</p> <p> </p><br><br>note - Aland Islands assigned .ax<br>
+<p>.fi</p> <p> </p><br>
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
@@ -664,7 +664,7 @@ _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2021)<br><br>note: the Border Guard becomes part of the FDF in wartime<br>
+Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2021)<br>
 note: the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>

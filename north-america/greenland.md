@@ -80,7 +80,7 @@ _noun_: Greenlander(s)<br>
 _adjective_: Greenlandic<br>
 
 **Ethnic groups**<br>
-Greenlandic 89.5%, Danish 7.5%, other Nordic peoples 1.1%, and other 1.9% (2020 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Greenlandic 89.5%, Danish 7.5%, other Nordic peoples 1.1%, and other 1.9% (2020 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -240,7 +240,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>note:</strong> Greenland has four time zones<br><br><strong>etymology:</strong> "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
 
 **Administrative divisions**<br>
-5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br><br><strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
+5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
 <strong>note:</strong> Northeast Greenland National Park (Kalaallit Nunaanni Nuna Eqqissisimatitaq) and the Thule Air Base in Pituffik (in northwest Greenland) are two unincorporated areas; the national park's 972,000 sq km - about 46% of the island - makes it the largest national park in the world and also the most northerly<br>
 
 **Independence**<br>

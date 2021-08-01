@@ -66,7 +66,7 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 ## People and Society
 
 **Population**<br>
-1,440 (July 2014 est.)<br><br><strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands<br>
+1,440 (July 2014 est.)<br>
 <strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands<br>
 
 **Population growth rate**<br>

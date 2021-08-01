@@ -74,7 +74,7 @@ deeply indented coast provides good natural harbors; short growing season<br>
 ## People and Society
 
 **Population**<br>
-3,198 (2016 est.)<br><br><strong>note:</strong> data include all persons usually resident in the islands at the time of the 2016 census<br>
+3,198 (2016 est.)<br>
 <strong>note:</strong> data include all persons usually resident in the islands at the time of the 2016 census<br>
 
 **Nationality**<br>
@@ -82,7 +82,7 @@ _noun_: Falkland Islander(s)<br>
 _adjective_: Falkland Island<br>
 
 **Ethnic groups**<br>
-Falkland Islander 48.3%, British 23.1%, St. Helenian 7.5%, Chilean 4.6%, mixed 6%, other 8.5%, unspecified 2% (2016 est.)<br><br><strong>note: </strong>data represent population by national identity<br>
+Falkland Islander 48.3%, British 23.1%, St. Helenian 7.5%, Chilean 4.6%, mixed 6%, other 8.5%, unspecified 2% (2016 est.)<br>
 <strong>note: </strong>data represent population by national identity<br>
 
 **Languages**<br>

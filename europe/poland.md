@@ -81,7 +81,7 @@ _noun_: Pole(s)<br>
 _adjective_: Polish<br>
 
 **Ethnic groups**<br>
-Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 1.7% (2011 est.)<br><br><strong>note:</strong> represents ethnicity declared first<br>
+Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 1.7% (2011 est.)<br>
 <strong>note:</strong> represents ethnicity declared first<br>
 
 **Languages**<br>
@@ -365,7 +365,7 @@ _FAX_: [48] (22) 504-2226<br>
 _consulate(s) general_: Krakow<br>
 
 **Flag description**<br>
-two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field<br><br><strong>note:</strong> similar to the flags of Indonesia and Monaco which are red (top) and white<br>
+two equal horizontal bands of white (top) and red; colors derive from the Polish emblem - a white eagle on a red field<br>
 <strong>note:</strong> similar to the flags of Indonesia and Monaco which are red (top) and white<br>
 
 **National symbol(s)**<br>
@@ -688,7 +688,7 @@ _river port(s)_: Szczecin (River Oder)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of the Interior: Border Guard (includes coast guard duties) (2021)<br><br>note: the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces, Military Police, and the Warsaw Garrison Command<br>
+Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of the Interior: Border Guard (includes coast guard duties) (2021)<br>
 note: the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces, Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
@@ -699,14 +699,14 @@ note: the Polish Armed Forces are organized into a General Staff, an Armed Force
 1.89% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 total active duty personnel (60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2020)<br><br>note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade<br>
+approximately 120,000 total active duty personnel (60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2020)<br>
 note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2020)<br>
 
 **Military deployments**<br>
-240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (June 2021)<br><br>note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
+240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (June 2021)<br>
 note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military service age and obligation**<br>

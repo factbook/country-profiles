@@ -75,7 +75,7 @@ sandbanks create difficult access to a coast with no natural harbors, river mout
 ## People and Society
 
 **Population**<br>
-13,301,694 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+13,301,694 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.4 years (2017/18 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20.4 years (2017/18 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Court of Appeal or Cour d'Appel; district courts; village courts; Assize courts<br>
 
 **Political parties and leaders**<br>
-Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br><br><strong>note:</strong> approximately 20 additional minor parties<br>
+Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>African Movement for Development and Progress or MADEP [Sefou FAGBOHOUN]<br>Benin Renaissance or RB [Lehady SOGLO]<br>Cowrie Force for an Emerging Benin or FCBE [Yayi BONI]<br>Democratic Renewal Party or PRD [Adrien HOUNGBEDJI]<br>National Alliance for Development and Democracy or AND [Valentin Aditi HOUDE]<br>New Consciousness Rally or NC [Pascal KOUPAKI]<br>Patriotic Awakening or RP [Janvier YAHOUEDEOU]<br>Social Democrat Party or PSD [Emmanuel GOLOU]<br>Sun Alliance or AS [Sacca LAFIA]<br>Union Makes the Nation or UN [Adrien HOUNGBEDJI] (includes PRD, MADEP)<br>United Democratic Forces or FDU [Mathurin NAGO]<br>
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
@@ -372,7 +372,7 @@ _mailing address_: 01 B. P. 2012, Cotonou<br>
 _FAX_: [229] 21-30-03-84<br>
 
 **Flag description**<br>
-two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
@@ -707,7 +707,7 @@ Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Ha
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (2020)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Greater Sahara (2020)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

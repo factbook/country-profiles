@@ -82,7 +82,7 @@ _noun_: Antiguan(s), Barbudan(s)<br>
 _adjective_: Antiguan, Barbudan<br>
 
 **Ethnic groups**<br>
-African descent 87.3%, mixed 4.7%, Hispanic 2.7%, White 1.6%, other 2.7%, unspecified 0.9% (2011 est.)<br><br><strong>note:</strong> data represent population by ethnic group<br>
+African descent 87.3%, mixed 4.7%, Hispanic 2.7%, White 1.6%, other 2.7%, unspecified 0.9% (2011 est.)<br>
 <strong>note:</strong> data represent population by ethnic group<br>
 
 **Languages**<br>

@@ -74,7 +74,7 @@ strategic location on Horn of Africa along southern approaches to Bab el Mandeb 
 ## People and Society
 
 **Population**<br>
-12,094,640 (July 2021 est.)<br><br><strong>note:</strong> this estimate was derived from an official census taken in 1975 by the Somali Government; population counting in Somalia is complicated by the large number of nomads and by refugee movements in response to famine and clan warfare<br>
+12,094,640 (July 2021 est.)<br>
 <strong>note:</strong> this estimate was derived from an official census taken in 1975 by the Somali Government; population counting in Somalia is complicated by the large number of nomads and by refugee movements in response to famine and clan warfare<br>
 
 **Nationality**<br>
@@ -615,7 +615,7 @@ _major seaport(s)_: Berbera, Kismaayo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Somali National Security Forces: Somali National Army (SNA), Somali National Police (SNP, includes a maritime unit), National Intelligence and Security Agency (NISA) (2021)<br><br>note: Somalia has numerous militia formations operating throughout the country; these formations include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; estimates for the numbers of militia members run as high as 50,000; the SNA is attempting to incorporate some of these militia forces<br>
+Somali National Security Forces: Somali National Army (SNA), Somali National Police (SNP, includes a maritime unit), National Intelligence and Security Agency (NISA) (2021)<br>
 note: Somalia has numerous militia formations operating throughout the country; these formations include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; estimates for the numbers of militia members run as high as 50,000; the SNA is attempting to incorporate some of these militia forces<br>
 
 **Military expenditures**<br>
@@ -626,7 +626,7 @@ note: Somalia has numerous militia formations operating throughout the country; 
 1.1% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2020)<br><br>note(s): a significant portion of the SNA is comprised of local militia forces that lack the discipline, structure, weapons, and overall capabilities for effective military operations; two effective SNA units are the US-trained Danab ("Lightning") Brigade and the Turkish-trained Gorgor "Eagle" Special Division; in December of 2020, the Danab Brigade numbered about 1,150 personnel with plans for it to eventually have as many as 3,000 troops; the Gorgor Division was estimated to have 4,500-5,000 trained troops in early 2021<br><br>--in 2017, the Somali Government announced a plan for the SNA to eventually number about 18,000 troops; the same plan called for 32,000 federal and regional police<br>
+estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2020)<br>
 note(s): a significant portion of the SNA is comprised of local militia forces that lack the discipline, structure, weapons, and overall capabilities for effective military operations; two effective SNA units are the US-trained Danab ("Lightning") Brigade and the Turkish-trained Gorgor "Eagle" Special Division; in December of 2020, the Danab Brigade numbered about 1,150 personnel with plans for it to eventually have as many as 3,000 troops; the Gorgor Division was estimated to have 4,500-5,000 trained troops in early 2021<br><br>--in 2017, the Somali Government announced a plan for the SNA to eventually number about 18,000 troops; the same plan called for 32,000 federal and regional police<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -644,7 +644,7 @@ the SNA is heavily engaged in operations against the al-Shabaab terrorist organi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

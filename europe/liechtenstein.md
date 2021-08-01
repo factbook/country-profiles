@@ -72,7 +72,7 @@ along with Uzbekistan, one of only two doubly landlocked countries in the world;
 ## People and Society
 
 **Population**<br>
-39,425 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)<br>
+39,425 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up 67% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -80,7 +80,7 @@ _noun_: Liechtensteiner(s)<br>
 _adjective_: Liechtenstein<br>
 
 **Ethnic groups**<br>
-Liechtensteiner 65.8%, Swiss 9.6%, Austrian 5.9%, German 4.4%, Italian 3.1%, other 11.2% (2019 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+Liechtensteiner 65.8%, Swiss 9.6%, Austrian 5.9%, German 4.4%, Italian 3.1%, other 11.2% (2019 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -356,7 +356,7 @@ electronics, metal manufacturing, dental products, ceramics, pharmaceuticals, fo
 NA<br>
 
 **Labor force**<br>
-38,520 (2012) (2015 est.)<br><br><strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
+38,520 (2012) (2015 est.)<br>
 <strong>note:</strong> 51% of the labor force in Liechtenstein commute daily from Austria, Switzerland, and Germany<br>
 
 **Labor force - by occupation**<br>

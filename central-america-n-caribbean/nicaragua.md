@@ -144,7 +144,7 @@ _65 years and over_: 0.79 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.2 years (2011/12 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.2 years (2011/12 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -360,7 +360,7 @@ _mailing address_: American Embassy Managua, APO AA 34021<br>
 _FAX_: [505] 2252-7250<br>
 
 **Flag description**<br>
-three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br><br><strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
+three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br>
 <strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
 
 **National symbol(s)**<br>

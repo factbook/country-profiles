@@ -83,7 +83,7 @@ _noun_: Cuban(s)<br>
 _adjective_: Cuban<br>
 
 **Ethnic groups**<br>
-White 64.1%, Mulatto or mixed 26.6%, Black 9.3% (2012 est.)<br><br><strong>note:</strong> data represent racial self-identification from Cuba's 2012 national census<br>
+White 64.1%, Mulatto or mixed 26.6%, Black 9.3% (2012 est.)<br>
 <strong>note:</strong> data represent racial self-identification from Cuba's 2012 national census<br>
 
 **Languages**<br>
@@ -91,7 +91,7 @@ Spanish (official)<br>
 _printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, Muslim &lt;1%, other &lt;1%, none 23.2% (2020 est.)<br><br><strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba<br>
+Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, Muslim &lt;1%, other &lt;1%, none 23.2% (2020 est.)<br>
 <strong>note:</strong> folk religions include religions of African origin, spiritualism, and others intermingled with Catholicism or Protestantism; data is estimative because no authoritative source on religious affiliation exists in Cuba<br>
 
 **Age structure**<br>
@@ -361,7 +361,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: NA<br>
 
 **Flag description**<br>
-five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br><br><strong>note:</strong> design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed<br>
+five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br>
 <strong>note:</strong> design similar to the Puerto Rican flag, with the colors of the bands and triangle reversed<br>
 
 **National symbol(s)**<br>
@@ -396,7 +396,7 @@ $134.2 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **GDP (official exchange rate)**<br>
-$93.79 billion (2017 est.)<br><br><strong>note:</strong> data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate<br>
+$93.79 billion (2017 est.)<br>
 <strong>note:</strong> data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate<br>
 
 **Real GDP per capita**<br>
@@ -433,7 +433,7 @@ petroleum, nickel, cobalt, pharmaceuticals, tobacco, construction, steel, cement
 -1.2% (2017 est.)<br>
 
 **Labor force**<br>
-4.691 million (2017 est.)<br><br><strong>note:</strong> state sector 72.3%, non-state sector 27.7%<br>
+4.691 million (2017 est.)<br>
 <strong>note:</strong> state sector 72.3%, non-state sector 27.7%<br>
 
 **Labor force - by occupation**<br>

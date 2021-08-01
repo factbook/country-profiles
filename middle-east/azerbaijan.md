@@ -81,7 +81,7 @@ _noun_: Azerbaijani(s)<br>
 _adjective_: Azerbaijani<br>
 
 **Ethnic groups**<br>
-Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br><br><strong>note:</strong> the separatist Nagorno-Karabakh region is populated almost entirely by ethnic Armenians<br>
+Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br>
 <strong>note:</strong> the separatist Nagorno-Karabakh region is populated almost entirely by ethnic Armenians<br>
 
 **Languages**<br>
@@ -90,7 +90,7 @@ _printed major-language sample_: <br>Dünya fakt kitabı, əsas məlumatlar üç
 <strong>note:</strong> Russian is widely spoken<br>
 
 **Religions**<br>
-Muslim 96.9% (predominantly Shia), Christian 3%, other &lt;0.1, unaffiliated &lt;0.1 (2010 est.)<br><br><strong>note:</strong> religious affiliation for the majority of Azerbaijanis is largely nominal, percentages for actual practicing adherents are probably much lower<br>
+Muslim 96.9% (predominantly Shia), Christian 3%, other &lt;0.1, unaffiliated &lt;0.1 (2010 est.)<br>
 <strong>note:</strong> religious affiliation for the majority of Azerbaijanis is largely nominal, percentages for actual practicing adherents are probably much lower<br>
 
 **Age structure**<br>
@@ -694,7 +694,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

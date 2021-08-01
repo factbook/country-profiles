@@ -142,7 +142,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-17.9 years (2014/15 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+17.9 years (2014/15 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -370,7 +370,7 @@ _mailing address_: B. P. 413, N'Djamena<br>
 _FAX_: [235] 2253-9102<br>
 
 **Flag description**<br>
-three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br><br><strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France<br>
+three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br>
 <strong>note:</strong> almost identical to the flag of Romania but with a darker shade of blue; also similar to the flags of Andorra and Moldova, both of which have a national coat of arms centered in the yellow band; design based on the flag of France<br>
 
 **National symbol(s)**<br>
@@ -664,7 +664,7 @@ _total_: 40,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2020)<br><br>note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the US-trained and equipped Special Anti-Terrorist Group (SATG)<br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2020)<br>
 note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the US-trained and equipped Special Anti-Terrorist Group (SATG)<br>
 
 **Military expenditures**<br>
@@ -681,7 +681,7 @@ information varies; approximately 35,000 active personnel (30,000 Ground Forces;
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from a variety of countries, including China, Italy, Ukraine, and the US (2020)<br>
 
 **Military deployments**<br>
-1,800 Mali (MINUSMA) (Jan 2021)<br><br>note(s): Chad is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Niger; Chad has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; Chad hosts the headquarters of Operation Barkhane in N’Djamena<br><br>Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight BH as part of the MNJTF mission<br>
+1,800 Mali (MINUSMA) (Jan 2021)<br>
 note(s): Chad is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Niger; Chad has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; Chad hosts the headquarters of Operation Barkhane in N’Djamena<br><br>Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight BH as part of the MNJTF mission<br>
 
 **Military service age and obligation**<br>
@@ -693,7 +693,7 @@ the ANT is chiefly focused on counterinsurgency/counter-terrorist operations aga
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

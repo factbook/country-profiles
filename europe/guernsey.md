@@ -69,7 +69,7 @@ _noun_: Channel Islander(s)<br>
 _adjective_: Channel Islander<br>
 
 **Ethnic groups**<br>
-Guernsey 52.9%, UK and Ireland 23.9%, Portugal 2.2%, Latvia 1.5%, other Europe 2.9%, other 4.6%, unspecified 12% (2019 est.)<br><br><strong>note:</strong> data represent population by country of birth; the native population is of British and Norman-French descent<br>
+Guernsey 52.9%, UK and Ireland 23.9%, Portugal 2.2%, Latvia 1.5%, other Europe 2.9%, other 4.6%, unspecified 12% (2019 est.)<br>
 <strong>note:</strong> data represent population by country of birth; the native population is of British and Norman-French descent<br>
 
 **Languages**<br>
@@ -202,7 +202,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>etymology:</strong> Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island<br>
 
 **Administrative divisions**<br>
-none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br><br><strong>note:</strong> two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes<br>
+none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
 <strong>note:</strong> two additional parishes for Guernsey are sometimes listed - Saint Anne on the island of Alderney and Saint Peter on the island of Sark - but they are generally not included in the enumeration of parishes<br>
 
 **Independence**<br>

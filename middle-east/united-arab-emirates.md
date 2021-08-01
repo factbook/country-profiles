@@ -76,7 +76,7 @@ strategic location along southern approaches to Strait of Hormuz, a vital transi
 ## People and Society
 
 **Population**<br>
-9,856,612 (July 2021 est.)<br><br><strong>note:</strong> the UN estimated the country's total population was 9,771,000 as of mid-year 2019; immigrants make up 87.9% of the total population, according to UN data (2019)<br>
+9,856,612 (July 2021 est.)<br>
 <strong>note:</strong> the UN estimated the country's total population was 9,771,000 as of mid-year 2019; immigrants make up 87.9% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -91,7 +91,7 @@ Arabic (official), English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)<br><br><strong>note:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data<br>
+Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)<br>
 <strong>note:</strong> data represent the total population; as of 2019, immigrants make up about 87.9% of the total population, according to UN data<br>
 
 **Age structure**<br>
@@ -428,7 +428,7 @@ petroleum and petrochemicals; fishing, aluminum, cement, fertilizer, commercial 
 1.8% (2017 est.)<br>
 
 **Labor force**<br>
-5.344 million (2017 est.)<br><br><strong>note:</strong> expatriates account for about 85% of the workforce<br>
+5.344 million (2017 est.)<br>
 <strong>note:</strong> expatriates account for about 85% of the workforce<br>
 
 **Labor force - by occupation**<br>

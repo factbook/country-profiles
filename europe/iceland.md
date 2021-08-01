@@ -81,7 +81,7 @@ _noun_: Icelander(s)<br>
 _adjective_: Icelandic<br>
 
 **Ethnic groups**<br>
-Icelandic 81.7%, Polish 5.6%, Danish 1%, other 11.7% (2020 est.)<br><br><strong>note</strong>: data represent population by country of birth<br>
+Icelandic 81.7%, Polish 5.6%, Danish 1%, other 11.7% (2020 est.)<br>
 <strong>note</strong>: data represent population by country of birth<br>
 
 **Languages**<br>
@@ -187,11 +187,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.1% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-&lt;500 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>

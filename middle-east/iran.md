@@ -432,7 +432,7 @@ petroleum, petrochemicals, gas, fertilizer, caustic soda, textiles, cement and o
 3% (2017 est.)<br>
 
 **Labor force**<br>
-30.5 million (2017 est.)<br><br><strong>note:</strong> shortage of skilled labor<br>
+30.5 million (2017 est.)<br>
 <strong>note:</strong> shortage of skilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -692,7 +692,7 @@ information varies; approximately 550-600,000 total active personnel; approximat
 the Iranian military's inventory includes a mix of domestically-produced and mostly older foreign equipment largely of Chinese, Russian, Soviet, and US origin (US equipment acquired prior to the Islamic Revolution in 1979); weapons imports from Western countries are restricted by international sanctions; since 2010, Iran has received equipment from Belarus, China, and Russia; Iran has a defense industry with the capacity to develop, produce, support, and sustain air, land, missile, and naval weapons programs (2020)<br>
 
 **Military deployments**<br>
-est. 1,000 Syria (2020)<br><br>note: Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
+est. 1,000 Syria (2020)<br>
 note: Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
 **Military service age and obligation**<br>
@@ -704,7 +704,7 @@ note: Iran has recruited, trained, and funded thousands of Syrian and foreign fi
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force; Jaysh al Adl (Jundallah); Kurdistan Workers' Party; al-Qa’ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic Revolutionary Guard Corps/Qods Force; Jaysh al Adl (Jundallah); Kurdistan Workers' Party; al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

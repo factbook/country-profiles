@@ -75,7 +75,7 @@ Kilimanjaro is the highest point in Africa and one of only three mountain ranges
 ## People and Society
 
 **Population**<br>
-62,092,761 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+62,092,761 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), Englis
 _printed major-language sample_: <br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified 1.6% (2020 est.)<br><br><strong>note:</strong> Zanzibar is almost entirely Muslim<br>
+Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified 1.6% (2020 est.)<br>
 <strong>note:</strong> Zanzibar is almost entirely Muslim<br>
 
 **Demographic profile**<br>
@@ -146,7 +146,7 @@ _65 years and over_: 0.71 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.8 years (2015/16 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.8 years (2015/16 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -356,7 +356,7 @@ _judge selection and term of office_: Court of Appeal and High Court justices ap
 _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic family matters); district and primary courts<br>
 
 **Political parties and leaders**<br>
-<p>Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]<br>Alliance for Democratic Change or ADC [Miraji ABDALLAH] <br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA]<br>National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]<br>National League for Democracy<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE]<br>Revolutionary Party (Chama Cha Mapinduzi) or CCM [John MAGUFULI]<br>Tanzania Labor Party or TLP [Augustine MREMA]<br>United Democratic Party or UDP [John Momose CHEYO]</p><br><br><strong>note:</strong> in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, and NLD) united to form Coalition for the People's Constitution (Umoja wa Katiba ya Wananchi) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition<br>
+<p>Alliance for Change and Transparency (Wazalendo) or ACT [Zitto KABWE]<br>Alliance for Democratic Change or ADC [Miraji ABDALLAH] <br>Civic United Front (Chama Cha Wananchi) or CUF [Ibrahim LIPUMBA]<br>National Convention for Construction and Reform-Mageuzi or NCCR-M [James Francis MBATIA]<br>National League for Democracy<br>Party of Democracy and Development (Chama Cha Demokrasia na Maendeleo) or Chadema [Freeman MBOWE]<br>Revolutionary Party (Chama Cha Mapinduzi) or CCM [John MAGUFULI]<br>Tanzania Labor Party or TLP [Augustine MREMA]<br>United Democratic Party or UDP [John Momose CHEYO]</p><br>
 <strong>note:</strong> in March 2014, four opposition parties (CUF, CHADEMA, NCCR-Mageuzi, and NLD) united to form Coalition for the People's Constitution (Umoja wa Katiba ya Wananchi) or UKAWA; during local elections held in October, 2014, UKAWA entered one candidate representing the three parties united in the coalition<br>
 
 **International organization participation**<br>
@@ -689,7 +689,7 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs paramilitary forces: Police Field Force (2021)<br><br>note: the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
+Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs paramilitary forces: Police Field Force (2021)<br>
 note: the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
@@ -720,7 +720,7 @@ as of late 2020, the TPDF had deployed additional troops to its border with Moza
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham - Mozambique<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham - Mozambique<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

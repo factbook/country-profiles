@@ -139,7 +139,7 @@ _65 years and over_: 0.64 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23.1 years (2009 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+23.1 years (2009 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -403,7 +403,7 @@ fishing, handicrafts<br>
 1.1% (2012 est.)<br>
 
 **Labor force**<br>
-39,000 (2010 est.)<br><br><strong>note:</strong> economically active, not including subsistence farmers<br>
+39,000 (2010 est.)<br>
 <strong>note:</strong> economically active, not including subsistence farmers<br>
 
 **Labor force - by occupation**<br>

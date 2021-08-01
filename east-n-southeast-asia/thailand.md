@@ -82,7 +82,7 @@ _noun_: Thai (singular and plural)<br>
 _adjective_: Thai<br>
 
 **Ethnic groups**<br>
-Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;.1% (2015 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;.1% (2015 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: Supreme Court judges selected by the Judic
 _subordinate courts_: courts of first instance and appeals courts within both the judicial and administrative systems; military courts<br>
 
 **Political parties and leaders**<br>
-Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHATUMONGKHON Sonakun resigned June 2020]<br>Anakhot Mai Party (Future Forward Party) or FFP [THANATHON Chuengrungrueangkit] (dissolved, February 2020)<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Phalang Pracharat Party or PPP [UTTAMA Sawanayon]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [CHURIN Laksanawisit]<br>Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot]<br>Puea Thai Party (For Thais Party) or PTP [WIROT Paoin]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Local Power Party or TLP [collective leadership]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br><br><strong>note:</strong> as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
+Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHATUMONGKHON Sonakun resigned June 2020]<br>Anakhot Mai Party (Future Forward Party) or FFP [THANATHON Chuengrungrueangkit] (dissolved, February 2020)<br>Chat Phatthana Party (National Development Party) [THEWAN Liptaphanlop]<br>Chat Thai Phatthana Party (Thai Nation Development Party) or CTP [KANCHANA Sinlapa-acha]<br>New Economics Party or NEP [MINGKHWAN Sangsuwan]<br>Phalang Pracharat Party or PPP [UTTAMA Sawanayon]<br>Phumchai Thai Party (Thai Pride Party) or PJT [ANUTHIN Chanwirakun]<br>Prachachat Party of PCC [WAN Muhamad NOOR Matha]<br>Prachathipat Party (Democrat Party) or DP [CHURIN Laksanawisit]<br>Puea Chat Party (For Nation Party) or PCP [SONGKHRAM Kitletpairot]<br>Puea Thai Party (For Thais Party) or PTP [WIROT Paoin]<br>Puea Tham Party (For Dharma Party) [NALINI Thawisin]<br>Seri Ruam Thai Party (Thai Liberal Party) or TLP [SERIPHISUT Temiyawet]<br>Thai Forest Conservation Party or TFCP [DAMRONG Phidet]<br>Thai Local Power Party or TLP [collective leadership]<br>Thai Raksa Chat Party (Thai National Preservation Party) [PRICHAPHON Phongpanit]<br>
 <strong>note:</strong> as of 5 April 2018, 98 new parties applied to be registered with the Election Commission in accordance with the provisions of the new organic law on political parties<br>
 
 **International organization participation**<br>
@@ -370,7 +370,7 @@ _FAX_: [66] 2-205-4306<br>
 _consulate(s) general_: Chiang Mai<br>
 
 **Flag description**<br>
-five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life, white represents religion and the purity of Buddhism, and blue stands for the monarchy<br><br><strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed<br>
+five horizontal bands of red (top), white, blue (double width), white, and red; the red color symbolizes the nation and the blood of life, white represents religion and the purity of Buddhism, and blue stands for the monarchy<br>
 <strong>note:</strong> similar to the flag of Costa Rica but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
@@ -691,7 +691,7 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties); Ministry of Interior: Volunteer Defense Corps (2021)<br><br>note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers’) is a paramilitary force formed in 1978 to clear Communist Party of Thailand guerrillas from mountain strongholds in the country's northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern region; on the eastern border with Laos and Cambodia, the Rangers have primary responsibility for border surveillance and protection<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties); Ministry of Interior: Volunteer Defense Corps (2021)<br>
 note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers’) is a paramilitary force formed in 1978 to clear Communist Party of Thailand guerrillas from mountain strongholds in the country's northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern region; on the eastern border with Laos and Cambodia, the Rangers have primary responsibility for border surveillance and protection<br>
 
 **Military expenditures**<br>

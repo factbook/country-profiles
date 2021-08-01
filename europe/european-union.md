@@ -58,38 +58,7 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 ## People and Society
 
 **Population**<br>
- 450,131,902 (July 2021 est.)<br><br><strong>rank by population:</strong> 
-
-<ol>
-<li>Germany - 79,903,481; </li>
-<li>France - 68,084,217; </li>
-<li>Italy - 62,390,364; </li>
-<li>Spain - 47,260,584; </li>
-<li>Poland - 38,185,913; </li>
-<li>Romania - 21,230,362; </li>
-<li>Netherlands - 17,337,403; </li>
-<li>Belgium - 11,778,842; </li>
-<li>Czechia - 10,702,596; </li>
-<li>Greece - 10,569,703; </li>
-<li>Portugal - 10,263,850; </li>
-<li>Sweden - 10,261,767; </li>
-<li>Hungary - 9,728,337; </li>
-<li>Austria - 8,884,864; </li>
-<li>Bulgaria - 6,919,180; </li>
-<li>Denmark - 5,894,687; </li>
-<li>Finland - 5,587,442; </li>
-<li>Slovakia - 5,436,066; </li>
-<li>Ireland - 5,224,884; </li>
-<li>Croatia - 4,208,973; </li>
-<li>Lithuania - 2,711,566; </li>
-<li>Slovenia - 2,102,106; </li>
-<li>Latvia - 1,862,687; </li>
-<li>Cyprus - 1,281,506; </li>
-<li>Estonia - 1,220,042; </li>
-<li>Luxembourg - 639,589; </li>
-<li>Malta - 460,891 (July 2021 est.)</li>
-</ol>
-<br>
+ 450,131,902 (July 2021 est.)<br>
 <strong>rank by population:</strong> 
 
 <ol>
@@ -124,7 +93,7 @@ flooding along coasts; avalanches in mountainous area; earthquakes in the south;
 <br>
 
 **Languages**<br>
-Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br><br><strong>note:</strong> only the 24 official languages are listed; German, the major language of Germany, Austria, and Switzerland, is the most widely spoken mother tongue - about 16% of the EU population; English is the most widely spoken foreign language - about 29% of the EU population is conversant with it (2020)<br>
+Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovene, Spanish, Swedish<br>
 <strong>note:</strong> only the 24 official languages are listed; German, the major language of Germany, Austria, and Switzerland, is the most widely spoken mother tongue - about 16% of the EU population; English is the most widely spoken foreign language - about 29% of the EU population is conversant with it (2020)<br>
 
 **Religions**<br>
@@ -246,11 +215,11 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>note:</strong> the 27 European Union countries spread across three time zones; a proposal has been put forward to do away with daylight savings time in all EU countries<br>
 
 **Member states**<br>
-<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - candidate countries: Albania, Montenegro, North Macedonia, Serbia, Turkey</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia; French Southern and Antarctic Lands; New Caledonia; Saint Barthelemy; Saint Pierre and Miquelon; Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p><br><br><strong>note:</strong> there are non-European OCTs having special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union), that are associated with the EU to promote their economic and social development; member states apply to their trade with OCTs the same treatment as they accord each other pursuant to the treaties; OCT nationals are in principle EU citizens, but these countries are neither part of the EU, nor subject to the EU<br>
+<p>27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden; note - candidate countries: Albania, Montenegro, North Macedonia, Serbia, Turkey</p> <p>there are 13 overseas countries and territories (OCTs) (1 with Denmark [Greenland], 6 with France [French Polynesia; French Southern and Antarctic Lands; New Caledonia; Saint Barthelemy; Saint Pierre and Miquelon; Wallis and Futuna], and 6 with the Netherlands [Aruba, Bonaire, Curacao, Saba, Sint Eustatius, Sint Maarten]), all are part of the Overseas Countries and Territories Association (OCTA)</p><br>
 <strong>note:</strong> there are non-European OCTs having special relations with Denmark, France, and the Netherlands (list is annexed to the Treaty on the Functioning of the European Union), that are associated with the EU to promote their economic and social development; member states apply to their trade with OCTs the same treatment as they accord each other pursuant to the treaties; OCT nationals are in principle EU citizens, but these countries are neither part of the EU, nor subject to the EU<br>
 
 **Independence**<br>
-7 February 1992 (Maastricht Treaty signed establishing the European Union); 1 November 1993 (Maastricht Treaty entered into force)<br><br><strong>note:</strong> the Treaties of Rome, signed on 25 March 1957 and subsequently entered into force on 1 January 1958, created the European Economic Community and the European Atomic Energy Community; a series of subsequent treaties have been adopted to increase efficiency and transparency, to prepare for new member states, and to introduce new areas of cooperation - such as a single currency; the Treaty of Lisbon, signed on 13 December 2007 and entered into force on 1 December 2009 is the most recent of these treaties and is intended to make the EU more democratic, more efficient, and better able to address global problems with one voice<br>
+7 February 1992 (Maastricht Treaty signed establishing the European Union); 1 November 1993 (Maastricht Treaty entered into force)<br>
 <strong>note:</strong> the Treaties of Rome, signed on 25 March 1957 and subsequently entered into force on 1 January 1958, created the European Economic Community and the European Atomic Energy Community; a series of subsequent treaties have been adopted to increase efficiency and transparency, to prepare for new member states, and to introduce new areas of cooperation - such as a single currency; the Treaty of Lisbon, signed on 13 December 2007 and entered into force on 1 December 2009 is the most recent of these treaties and is intended to make the EU more democratic, more efficient, and better able to address global problems with one voice<br>
 
 **National holiday**<br>
@@ -267,7 +236,7 @@ unique supranational law system in which, according to an interpretive declarati
 18 years of age (16 years in Austria); universal; voting for the European Parliament is permitted in each member state<br>
 
 **Executive branch**<br>
-<p>under the EU treaties there are three distinct institutions, each of which conducts functions that may be regarded as executive in nature:<br><em>European Council </em>- brings together heads of state and government, along with the president of the European Commission, and meets at least four times a year; its aim is to provide the impetus for the development of the Union and to issue general policy guidelines; the Treaty of Lisbon established the position of "permanent" (full-time) president of the European Council; leaders of the EU member states appoint the president for a 2 1/2 year term, renewable once; the president's responsibilities include chairing the EU summits and providing policy and organizational continuity; the current president is Charles MICHEL (Belgium), since 1 December 2019, succeeding Donald TUSK (Poland; 2014 - 2019)<br><em>Council of the European Commission</em> - consists of ministers of each EU member state and meets regularly in 10 different configurations depending on the subject matter; it conducts policymaking and coordinating functions as well as legislative functions; ministers of EU member states chair meetings of the Council of the EU based on a 6-month rotating presidency except for the meetings of EU Foreign Ministers in the Foreign Affairs Council that are chaired by the High Representative for Foreign Affairs and Security Policy<br><em>European Commission</em> - headed by a College of Commissioners comprised of 28 members (one from each member country) including the president; each commissioner is responsible for one or more policy areas; the Commission's main responsibilities include the sole right to initiate EU legislation (except for foreign and security/defense policy), promoting the general interest of the EU, acting as "guardian of the Treaties" by monitoring the application of EU law, implementing/executing the EU budget, managing programs, negotiating on the EU's behalf in core policy areas such as trade, and ensuring the Union's external representation in some policy areas; its current president is Ursula VON DER LEYEN (Belgium) elected on 16 July 2019 (took office on 1 December 2019); the president of the European Commission is nominated by the European Council and formally "elected" by the European Parliament; the Commission president allocates specific responsibilities among the members of the College (appointed by common accord of the member state governments in consultation with the president-elect); the European Parliament confirms the entire Commission for a 5-year term.</p><br><br><strong>note:</strong> for external representation and foreign policy making, leaders of the EU member states appointed Joseph BORRELL (Spain) as the High Representative of the European Union for Foreign Affairs and Security Policy; BORRELL took office on 1 December 2019, succeeding Federica MOGHERINI (Italy (2014 - 2019); the High Representative's concurrent appointment as Vice President of the European Commission was meant to bring more coherence to the EU’s foreign policy (horizontally, between policies managed by the Commission that are particularly relevant for EU external relations, such as trade, humanitarian aid and crisis management, neighborhood policy and enlargement; and vertically, between national capitals and the EU); the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy components, chairs the Foreign Affairs Council, represents and acts for the Union in many international contexts, and oversees the European External Action Service, the diplomatic corps of the EU, established on 1 December 2010<br>
+<p>under the EU treaties there are three distinct institutions, each of which conducts functions that may be regarded as executive in nature:<br><em>European Council </em>- brings together heads of state and government, along with the president of the European Commission, and meets at least four times a year; its aim is to provide the impetus for the development of the Union and to issue general policy guidelines; the Treaty of Lisbon established the position of "permanent" (full-time) president of the European Council; leaders of the EU member states appoint the president for a 2 1/2 year term, renewable once; the president's responsibilities include chairing the EU summits and providing policy and organizational continuity; the current president is Charles MICHEL (Belgium), since 1 December 2019, succeeding Donald TUSK (Poland; 2014 - 2019)<br><em>Council of the European Commission</em> - consists of ministers of each EU member state and meets regularly in 10 different configurations depending on the subject matter; it conducts policymaking and coordinating functions as well as legislative functions; ministers of EU member states chair meetings of the Council of the EU based on a 6-month rotating presidency except for the meetings of EU Foreign Ministers in the Foreign Affairs Council that are chaired by the High Representative for Foreign Affairs and Security Policy<br><em>European Commission</em> - headed by a College of Commissioners comprised of 28 members (one from each member country) including the president; each commissioner is responsible for one or more policy areas; the Commission's main responsibilities include the sole right to initiate EU legislation (except for foreign and security/defense policy), promoting the general interest of the EU, acting as "guardian of the Treaties" by monitoring the application of EU law, implementing/executing the EU budget, managing programs, negotiating on the EU's behalf in core policy areas such as trade, and ensuring the Union's external representation in some policy areas; its current president is Ursula VON DER LEYEN (Belgium) elected on 16 July 2019 (took office on 1 December 2019); the president of the European Commission is nominated by the European Council and formally "elected" by the European Parliament; the Commission president allocates specific responsibilities among the members of the College (appointed by common accord of the member state governments in consultation with the president-elect); the European Parliament confirms the entire Commission for a 5-year term.</p><br>
 <strong>note:</strong> for external representation and foreign policy making, leaders of the EU member states appointed Joseph BORRELL (Spain) as the High Representative of the European Union for Foreign Affairs and Security Policy; BORRELL took office on 1 December 2019, succeeding Federica MOGHERINI (Italy (2014 - 2019); the High Representative's concurrent appointment as Vice President of the European Commission was meant to bring more coherence to the EU’s foreign policy (horizontally, between policies managed by the Commission that are particularly relevant for EU external relations, such as trade, humanitarian aid and crisis management, neighborhood policy and enlargement; and vertically, between national capitals and the EU); the High Representative helps develop and implement the EU's Common Foreign and Security Policy and Common Security and Defense Policy components, chairs the Foreign Affairs Council, represents and acts for the Union in many international contexts, and oversees the European External Action Service, the diplomatic corps of the EU, established on 1 December 2010<br>
 
 **Legislative branch**<br>
@@ -385,7 +354,7 @@ _services_: 73.1% (2014 est.)<br>
 9.4% (2015 est.)<br>
 
 **Population below poverty line**<br>
-9.8% (2013 est.)<br><br><strong>note:</strong> see individual country entries of member states<br>
+9.8% (2013 est.)<br>
 <strong>note:</strong> see individual country entries of member states<br>
 
 **Gini Index coefficient - distribution of family income**<br>

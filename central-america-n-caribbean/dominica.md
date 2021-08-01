@@ -363,7 +363,7 @@ _Trading score_: 74.3 (2020)<br>
 _Enforcement score_: 57.5 (2020)<br>
 
 **Agricultural products**<br>
-bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane<br><br><strong>note:</strong> forest and fishery potential not exploited<br>
+bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane<br>
 <strong>note:</strong> forest and fishery potential not exploited<br>
 
 **Industries**<br>

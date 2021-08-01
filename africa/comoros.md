@@ -85,7 +85,7 @@ Antalote, Cafre, Makoa, Oimatsaha, Sakalava<br>
 Arabic (official), French (official), Shikomoro (official; a blend of Swahili and Arabic) (Comorian)<br>
 
 **Religions**<br>
-Sunni Muslim 98%, other (including Shia Muslim, Roman Catholic, Jehovah's Witness, Protestant) 2%<br><br><strong>note:</strong> Sunni Islam is the state religion<br>
+Sunni Muslim 98%, other (including Shia Muslim, Roman Catholic, Jehovah's Witness, Protestant) 2%<br>
 <strong>note:</strong> Sunni Islam is the state religion<br>
 
 **Demographic profile**<br>
@@ -141,7 +141,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 0.94 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.6 years (2012 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+24.6 years (2012 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -352,7 +352,7 @@ _FAX_: [1] (212) 750-1657<br>
 _embassy_: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros<br>
 
 **Flag description**<br>
-four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; centered within the triangle is a vertical white crescent moon with the convex side facing the hoist and four white, five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago - Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte - department of France, but claimed by Comoros)<br><br><strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam<br>
+four equal horizontal bands of yellow (top), white, red, and blue, with a green isosceles triangle based on the hoist; centered within the triangle is a vertical white crescent moon with the convex side facing the hoist and four white, five-pointed stars placed vertically in a line between the points of the crescent; the horizontal bands and the four stars represent the four main islands of the archipelago - Mwali, N'gazidja, Ndzuwani, and Mahore (Mayotte - department of France, but claimed by Comoros)<br>
 <strong>note:</strong> the crescent, stars, and color green are traditional symbols of Islam<br>
 
 **National symbol(s)**<br>
@@ -638,7 +638,7 @@ _major seaport(s)_: Moroni, Moutsamoudou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Comoran Coast Guard, Comoran Federal Police (2019)<br><br>note: when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Comoran Coast Guard, Comoran Federal Police (2019)<br>
 note: when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
 
 **Military and security service personnel strengths**<br>

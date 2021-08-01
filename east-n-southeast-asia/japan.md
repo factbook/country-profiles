@@ -82,7 +82,7 @@ _noun_: Japanese (singular and plural)<br>
 _adjective_: Japanese<br>
 
 **Ethnic groups**<br>
-Japanese 97.9%, Chinese 0.6%, Korean 0.4%, other 1.1% (includes Vietnamese, Filipino, and Brazilian) (2017 est.)<br><br><strong>note:</strong> data represent population by nationality; up to 230,000 Brazilians of Japanese origin migrated to Japan in the 1990s to work in industries; some have returned to Brazil<br>
+Japanese 97.9%, Chinese 0.6%, Korean 0.4%, other 1.1% (includes Vietnamese, Filipino, and Brazilian) (2017 est.)<br>
 <strong>note:</strong> data represent population by nationality; up to 230,000 Brazilians of Japanese origin migrated to Japan in the 1990s to work in industries; some have returned to Brazil<br>
 
 **Languages**<br>
@@ -90,7 +90,7 @@ Japanese<br>
 _printed major-language sample_: <br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Shintoism 69%, Buddhism 66.7%, Christianity 1.5%, other 6.2% (2018 est.)<br><br><strong>note:</strong> total adherents exceeds 100% because many people practice both Shintoism and Buddhism<br>
+Shintoism 69%, Buddhism 66.7%, Christianity 1.5%, other 6.2% (2018 est.)<br>
 <strong>note:</strong> total adherents exceeds 100% because many people practice both Shintoism and Buddhism<br>
 
 **Age structure**<br>
@@ -162,7 +162,7 @@ _female_: 87.74 years (2021 est.)<br>
 1.38 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-39.8% (2015)<br><br><strong>note:</strong> percent of women aged 20-49<br>
+39.8% (2015)<br>
 <strong>note:</strong> percent of women aged 20-49<br>
 
 **Drinking water source**<br>
@@ -186,11 +186,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-30,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+30,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -697,7 +697,7 @@ approximately 170 Djibouti (2020 )<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Aum Shinrikyo (AUM/Aleph)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Aum Shinrikyo (AUM/Aleph)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

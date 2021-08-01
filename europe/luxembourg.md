@@ -80,7 +80,7 @@ _noun_: Luxembourger(s)<br>
 _adjective_: Luxembourg<br>
 
 **Ethnic groups**<br>
-Luxembourger 51.1%, Portuguese 15.7%, French 7.5%, Italian 3.6%, Belgian 3.3%, German 2.1%, Spanish 1.1%, British 1%, other 14.6% (2019 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+Luxembourger 51.1%, Portuguese 15.7%, French 7.5%, Italian 3.6%, Belgian 3.3%, German 2.1%, Spanish 1.1%, British 1%, other 14.6% (2019 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -418,7 +418,7 @@ banking and financial services, construction, real estate services, iron, metals
 1.9% (2017 est.)<br>
 
 **Labor force**<br>
-476,000 (2020 est.)<br><br><strong>note:</strong> data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany<br>
+476,000 (2020 est.)<br>
 <strong>note:</strong> data exclude foreign workers; in addition to the figure for domestic labor force, about 150,000 workers commute daily from France, Belgium, and Germany<br>
 
 **Labor force - by occupation**<br>

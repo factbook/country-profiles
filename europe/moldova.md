@@ -353,7 +353,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: [373] (22) 23-3044<br>
 
 **Flag description**<br>
-three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms<br><br><strong>note:</strong> one of only three national flags that differ on their obverse and reverse sides - the others are Paraguay and Saudi Arabia<br>
+three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms<br>
 <strong>note:</strong> one of only three national flags that differ on their obverse and reverse sides - the others are Paraguay and Saudi Arabia<br>
 
 **National symbol(s)**<br>
@@ -531,7 +531,7 @@ _electrification - total population_: 100% (2020)<br>
 4 million kWh (2016 est.)<br>
 
 **Electricity - installed generating capacity**<br>
-515,000 kW (2016 est.)<br><br><strong>note:</strong> excludes Transnistria<br>
+515,000 kW (2016 est.)<br>
 <strong>note:</strong> excludes Transnistria<br>
 
 **Electricity - from fossil fuels**<br>
@@ -574,14 +574,14 @@ _electrification - total population_: 100% (2020)<br>
 11.33 million cu m (2017 est.)<br>
 
 **Natural gas - consumption**<br>
-2.52 billion cu m (2017 est.)<br><br><strong>note:</strong> excludes breakaway Transnistria<br>
+2.52 billion cu m (2017 est.)<br>
 <strong>note:</strong> excludes breakaway Transnistria<br>
 
 **Natural gas - exports**<br>
 0 cu m (2017 est.)<br>
 
 **Natural gas - imports**<br>
-2.52 billion cu m (2017 est.)<br><br><strong>note:</strong> excludes breakaway Transnistria<br>
+2.52 billion cu m (2017 est.)<br>
 <strong>note:</strong> excludes breakaway Transnistria<br>
 
 **Natural gas - proved reserves**<br>
@@ -681,7 +681,7 @@ the Moldovan National Army has approximately 6,000 active troops (2020)<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2020)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2019)<br><br>note: Moldova intends to abolish military conscription by 2021<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2019)<br>
 note: Moldova intends to abolish military conscription by 2021<br>
 
 ## Transnational Issues

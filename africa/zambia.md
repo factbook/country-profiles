@@ -73,7 +73,7 @@ landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Ka
 ## People and Society
 
 **Population**<br>
-19,077,816 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+19,077,816 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -84,7 +84,7 @@ _adjective_: Zambian<br>
 Bemba 21%, Tonga 13.6%, Chewa 7.4%, Lozi 5.7%, Nsenga 5.3%, Tumbuka 4.4%, Ngoni 4%, Lala 3.1%, Kaonde 2.9%, Namwanga 2.8%, Lunda (north Western) 2.6%, Mambwe 2.5%, Luvale 2.2%, Lamba 2.1%, Ushi 1.9%, Lenje 1.6%, Bisa 1.6%, Mbunda 1.2%, other 13.8%, unspecified 0.4% (2010 est.)<br>
 
 **Languages**<br>
-Bemba 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.7%, unspecified 0.2% (2010 est.)<br><br><strong>note:</strong> Zambia is said to have over 70 languages, although many of these may be considered dialects; all of Zambia's major languages are members of the Bantu family; Chewa and Nyanja are mutually intelligible dialects<br>
+Bemba 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.7%, unspecified 0.2% (2010 est.)<br>
 <strong>note:</strong> Zambia is said to have over 70 languages, although many of these may be considered dialects; all of Zambia's major languages are members of the Bantu family; Chewa and Nyanja are mutually intelligible dialects<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.2 years (2013/14 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.2 years (2013/14 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

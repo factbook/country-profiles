@@ -71,7 +71,7 @@ northernmost part of the Kingdom of Norway; consists of nine main islands; glaci
 2,926 (January 2021 est.)<br>
 
 **Ethnic groups**<br>
-Norwegian 58%, foreign population 42% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2019 est.)<br><br><strong>note:</strong> foreigners account for almost one third of the population of the Norwegian settlements, Longyearbyen and Ny-Alesund (where the majority of Svalbard's resident population lives), as of mid-2019<br>
+Norwegian 58%, foreign population 42% (consists primarily of Russians, Thais, Swedes, Filipinos, and Ukrainians) (2019 est.)<br>
 <strong>note:</strong> foreigners account for almost one third of the population of the Norwegian settlements, Longyearbyen and Ny-Alesund (where the majority of Svalbard's resident population lives), as of mid-2019<br>
 
 **Languages**<br>

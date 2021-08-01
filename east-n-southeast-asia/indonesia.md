@@ -144,7 +144,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.8 years (2012 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.8 years (2012 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -305,7 +305,7 @@ _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time
 <strong>note:</strong> Indonesia has three time zones<br><br><strong>etymology:</strong> "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
 
 **Administrative divisions**<br>
-31 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br><br><strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
+31 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
 <strong>note:</strong> following the implementation of decentralization beginning on 1 January 2001, regencies and municipalities have become the key administrative units responsible for providing most government services<br>
 
 **Independence**<br>
@@ -373,7 +373,7 @@ _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity<br><br><strong>note:</strong> similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red<br>
+two equal horizontal bands of red (top) and white; the colors derive from the banner of the Majapahit Empire of the 13th-15th centuries; red symbolizes courage, white represents purity<br>
 <strong>note:</strong> similar to the flag of Monaco, which is shorter; also similar to the flag of Poland, which is white (top) and red<br>
 
 **National symbol(s)**<br>
@@ -727,7 +727,7 @@ Indonesian military and police forces are engaged in counter-insurgency operatio
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiyah<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiyah<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

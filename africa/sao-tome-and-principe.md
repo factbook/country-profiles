@@ -141,7 +141,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.4 years (2008/09 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.4 years (2008/09 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -359,7 +359,7 @@ _FAX_: [1] (212) 651-8117<br>
 _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe<br>
 
 **Flag description**<br>
-three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>

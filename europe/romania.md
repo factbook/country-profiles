@@ -83,7 +83,7 @@ _noun_: Romanian(s)<br>
 _adjective_: Romanian<br>
 
 **Ethnic groups**<br>
-Romanian 83.4%, Hungarian 6.1%, Romani 3.1%, Ukrainian 0.3%, German 0.2%, other 0.7%, unspecified 6.1% (2011 est.)<br><br><strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population<br>
+Romanian 83.4%, Hungarian 6.1%, Romani 3.1%, Ukrainian 0.3%, German 0.2%, other 0.7%, unspecified 6.1% (2011 est.)<br>
 <strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 5–11% of Romania's population<br>
 
 **Languages**<br>
@@ -190,11 +190,11 @@ _unimproved: total_: total: 15.7% of population (2017 est.)<br>
 0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-19,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+19,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -353,7 +353,7 @@ _mailing address_: American Embassy Bucharest, US Department of State, 5260 Buch
 _FAX_: [40] (21) 200-3442<br>
 
 **Flag description**<br>
-three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br><br><strong>note:</strong> now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova<br>
+three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
 <strong>note:</strong> now similar to the flag of Chad, whose blue band is darker; also resembles the flags of Andorra and Moldova<br>
 
 **National symbol(s)**<br>

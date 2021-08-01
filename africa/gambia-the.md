@@ -132,7 +132,7 @@ _urban population_: 63.2% of total population (2021)<br>
 _rate of urbanization_: 3.75% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-459,000 BANJUL (capital) (2021)<br><br><strong>note:</strong> includes the local government areas of Banjul and Kanifing<br>
+459,000 BANJUL (capital) (2021)<br>
 <strong>note:</strong> includes the local government areas of Banjul and Kanifing<br>
 
 **Sex ratio**<br>
@@ -145,7 +145,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.9 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20.9 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -165,7 +165,7 @@ _female_: 68.57 years (2021 est.)<br>
 3.13 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-16.8% (2018)<br><br><strong>note:</strong> percent of women aged 15-49<br>
+16.8% (2018)<br>
 <strong>note:</strong> percent of women aged 15-49<br>
 
 **Drinking water source**<br>

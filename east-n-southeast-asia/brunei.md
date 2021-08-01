@@ -71,7 +71,7 @@ close to vital sea lanes through South China Sea linking Indian and Pacific Ocea
 ## People and Society
 
 **Population**<br>
-471,103 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up approximately 26% of the total population, according to UN data (2019)<br>
+471,103 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up approximately 26% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -126,7 +126,7 @@ _urban population_: 78.6% of total population (2021)<br>
 _rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
 
 **Major urban areas - population**<br>
-241,000 BANDAR SERI BEGAWAN (capital) (2011)<br><br><strong>note:</strong> the boundaries of the capital city were expanded in 2007, greatly increasing the city area; the population of the capital increased tenfold<br>
+241,000 BANDAR SERI BEGAWAN (capital) (2011)<br>
 <strong>note:</strong> the boundaries of the capital city were expanded in 2007, greatly increasing the city area; the population of the capital increased tenfold<br>
 
 **Sex ratio**<br>
@@ -306,7 +306,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the mona
 _subordinate courts_: Intermediate Court; Magistrates' Courts; Juvenile Court; small claims courts; lower sharia courts<br>
 
 **Political parties and leaders**<br>
-National Development Party or NDP [YASSIN Affendi]<br><br><strong>note:</strong> Brunei National Solidarity Party or PPKB [Abdul LATIF bin Chuchu] and People's Awareness Party or PAKAR [Awang Haji MAIDIN bin Haji Ahmad] were deregistered in 2007; parties are small and have limited activity<br>
+National Development Party or NDP [YASSIN Affendi]<br>
 <strong>note:</strong> Brunei National Solidarity Party or PPKB [Abdul LATIF bin Chuchu] and People's Awareness Party or PAKAR [Awang Haji MAIDIN bin Haji Ahmad] were deregistered in 2007; parties are small and have limited activity<br>
 
 **International organization participation**<br>

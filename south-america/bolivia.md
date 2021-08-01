@@ -80,7 +80,7 @@ _noun_: Bolivian(s)<br>
 _adjective_: Bolivian<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% of respondents indicated feeling part of some indigenous group, predominantly Quechua or Aymara (2009 est.)<br><br><strong>note:</strong> results among surveys vary based on the wording of the ethnicity question and the available response choices; the 2001 national census did not provide "Mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices; the use of "Mestizo" and "Cholo" varies among response choices in surveys, with surveys using the terms interchangeably, providing one or the other as a response choice, or providing the two as separate response choices<br>
+Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cholo/Chola 2%, African descent 1%, other 1%, unspecified 3%; 44% of respondents indicated feeling part of some indigenous group, predominantly Quechua or Aymara (2009 est.)<br>
 <strong>note:</strong> results among surveys vary based on the wording of the ethnicity question and the available response choices; the 2001 national census did not provide "Mestizo" as a response choice, resulting in a much higher proportion of respondents identifying themselves as belonging to one of the available indigenous ethnicity choices; the use of "Mestizo" and "Cholo" varies among response choices in surveys, with surveys using the terms interchangeably, providing one or the other as a response choice, or providing the two as separate response choices<br>
 
 **Languages**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.2 years (2008 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.2 years (2008 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: Supreme Court, Plurinational Constitutiona
 _subordinate courts_: National Electoral Court; District Courts (in each of the 9 administrative departments); agro-environmental lower courts<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Party or PDC [Jorge Fernando QUIROGA Ramirez]<br>Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Arana]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br><br><em>note:</em> the Democrat Unity Coalition or UD [Samuel DORIA MEDINA Arana] was a coalition comprised of several of the largest opposition parties participating in the 2014 election, which included the Democrats (MDS), National Unity Front (UN), and Without Fear Movement<br>
+Christian Democratic Party or PDC [Jorge Fernando QUIROGA Ramirez]<br>Community Citizen Alliance or ACC [Carlos Diego MESA Gisbert]<br>Movement Toward Socialism or MAS [Juan Evo MORALES Ayma]<br>National Unity or UN [Samuel DORIA MEDINA Arana]<br>Social Democrat Movement or MDS [Ruben COSTAS Aguilera]<br>We Believe or Creemos [Luis Fernando CAMACHO Vaca]<br>
 <em>note:</em> the Democrat Unity Coalition or UD [Samuel DORIA MEDINA Arana] was a coalition comprised of several of the largest opposition parties participating in the 2014 election, which included the Democrats (MDS), National Unity Front (UN), and Without Fear Movement<br>
 
 **International organization participation**<br>
@@ -364,7 +364,7 @@ _FAX_: [591] (2) 216-8111<br>
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the fertility of the land<br><br><strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag<br>
+three equal horizontal bands of red (top), yellow, and green with the coat of arms centered on the yellow band; red stands for bravery and the blood of national heroes, yellow for the nation's mineral resources, and green for the fertility of the land<br>
 <strong>note:</strong> similar to the flag of Ghana, which has a large black five-pointed star centered in the yellow band; in 2009, a presidential decree made it mandatory for a so-called wiphala - a square, multi-colored flag representing the country's indigenous peoples - to be used alongside the traditional flag<br>
 
 **National symbol(s)**<br>

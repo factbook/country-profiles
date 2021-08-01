@@ -76,7 +76,7 @@ has only a short Pacific coast but a long Caribbean shoreline, including the vir
 ## People and Society
 
 **Population**<br>
-9,346,277 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+9,346,277 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -146,7 +146,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.4 years (2011/12 est.)<br><br><strong>note:</strong> median age a first birth among women 25-29<br>
+20.4 years (2011/12 est.)<br>
 <strong>note:</strong> median age a first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -368,7 +368,7 @@ _mailing address_: American Embassy, APO AA 34022, Tegucigalpa<br>
 _FAX_: [504] 2236-9037<br>
 
 **Flag description**<br>
-three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people<br><br><strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band<br>
+three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people<br>
 <strong>note:</strong> similar to the flag of El Salvador, which features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL centered in the white band; also similar to the flag of Nicaragua, which features a triangle encircled by the words REPUBLICA DE NICARAGUA on top and AMERICA CENTRAL on the bottom, centered in the white band<br>
 
 **National symbol(s)**<br>

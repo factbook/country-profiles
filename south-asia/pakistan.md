@@ -76,7 +76,7 @@ controls Khyber Pass and Bolan Pass, traditional invasion routes between Central
 ## People and Society
 
 **Population**<br>
-238,181,034 (July 2021 est.)<br><br><strong>note:</strong> provisional results of Pakistan's 2017 national census estimate the country's total population to be 207,774,000<br>
+238,181,034 (July 2021 est.)<br>
 <strong>note:</strong> provisional results of Pakistan's 2017 national census estimate the country's total population to be 207,774,000<br>
 
 **Nationality**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 1.04 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23.6 years (2017/18 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+23.6 years (2017/18 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -353,7 +353,7 @@ _judge selection and term of office_: justices nominated by an 8-member parliame
 _subordinate courts_: High Courts; Federal Shariat Court; provincial and district civil and criminal courts; specialized courts for issues, such as taxation, banking, and customs<br>
 
 **Political parties and leaders**<br>
-Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Jam Kamal KHAN] <br>Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Jamhoori Wattan Party or JWP [Shahzain BUGTI]<br>Jamaat-i Islami or JI [Sirajul HAQ]<br>Jamiat-i Ulema-i Islam Fazl-ur Rehman or JUI-F [Fazlur REHMAN]<br>Muttahida Quami Movement-London or MQM-L [Altaf HUSSAIN] (MQM split into two factions in 2016)<br>Muttahida Quami Movement-Pakistan or MQM-P [Dr. Khalid Maqbool SIDDIQUI] (MQM split into two factions in 2016)<br>Muttahida Majlis-e-Amal or MMA [Fazl-ur- REHMAN] (alliance of several parties)<br>National Party or NP [Mir Hasil Khan BIZENJO]<br>Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI]<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League – Quaid-e-Azam Group or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]Pak Sarzameen Party or PSP [Mustafa KAMAL]<br>Quami Watan Party or QWP [Aftab Ahmed Khan SHERPAO]<br><br><strong>note:</strong> political alliances in Pakistan shift frequently<br>
+Awami National Party or ANP [Asfandyar Wali KHAN]<br>Awami Muslim League or AML [Sheikh Rashid AHMED]<br>Balochistan Awami Party or BAP [Jam Kamal KHAN] <br>Balochistan National Party-Awami or BNP-A [Mir Israr Ullah ZEHRI]<br>Balochistan National Party-Mengal or BNP-M [Sardar Akhtar Jan MENGAL]<br>Grand Democratic Alliance or GDA (alliance of several parties)<br>Jamhoori Wattan Party or JWP [Shahzain BUGTI]<br>Jamaat-i Islami or JI [Sirajul HAQ]<br>Jamiat-i Ulema-i Islam Fazl-ur Rehman or JUI-F [Fazlur REHMAN]<br>Muttahida Quami Movement-London or MQM-L [Altaf HUSSAIN] (MQM split into two factions in 2016)<br>Muttahida Quami Movement-Pakistan or MQM-P [Dr. Khalid Maqbool SIDDIQUI] (MQM split into two factions in 2016)<br>Muttahida Majlis-e-Amal or MMA [Fazl-ur- REHMAN] (alliance of several parties)<br>National Party or NP [Mir Hasil Khan BIZENJO]<br>Pakhtunkhwa Milli Awami Party or PMAP or PkMAP [Mahmood Khan ACHAKZAI]<br>Pakistan Muslim League-Functional or PML-F [Pir PAGARO or Syed Shah Mardan SHAH-II]<br>Pakistan Muslim League-Nawaz or PML-N [Shehbaz SHARIF]<br>Pakistan Muslim League – Quaid-e-Azam Group or PML-Q [Chaudhry Shujaat HUSSAIN]<br>Pakistan Peoples Party or PPP [Bilawal BHUTTO ZARDARI, Asif Ali ZARDARI]<br>Pakistan Tehrik-e Insaaf or PTI (Pakistan Movement for Justice) [Imran KHAN]Pak Sarzameen Party or PSP [Mustafa KAMAL]<br>Quami Watan Party or QWP [Aftab Ahmed Khan SHERPAO]<br>
 <strong>note:</strong> political alliances in Pakistan shift frequently<br>
 
 **International organization participation**<br>
@@ -457,7 +457,7 @@ textiles and apparel, food processing, pharmaceuticals, surgical instruments, co
 5.4% (2017 est.)<br>
 
 **Labor force**<br>
-61.71 million (2017 est.)<br><br><strong>note:</strong> extensive export of labor, mostly to the Middle East, and use of child labor<br>
+61.71 million (2017 est.)<br>
 <strong>note:</strong> extensive export of labor, mostly to the Middle East, and use of child labor<br>
 
 **Labor force - by occupation**<br>
@@ -729,7 +729,7 @@ the military has carried out three coups since Pakistan's independence in 1947 a
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan; Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan; al-Qa’ida; al-Qa’ida in the Indian Subcontinent<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Haqqani Network; Harakat ul-Jihad-i-Islami; Harakat ul-Mujahidin; Hizbul Mujahideen;<strong> </strong>Indian Mujahedeen; Islamic State of Iraq and ash-Sham-Khorasan; Islamic State of ash-Sham – India; Islamic State of ash-Sham – Pakistan; Islamic Movement of Uzbekistan; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; Tehrik-e-Taliban Pakistan; al-Qa’ida; al-Qa’ida in the Indian Subcontinent<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

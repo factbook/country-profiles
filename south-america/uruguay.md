@@ -83,7 +83,7 @@ _noun_: Uruguayan(s)<br>
 _adjective_: Uruguayan<br>
 
 **Ethnic groups**<br>
-White 87.7%, Black 4.6%, Indigenous 2.4%, other 0.3%, none or unspecified 5% (2011 est.)<br><br><strong>note:</strong> data represent primary ethnic identity<br>
+White 87.7%, Black 4.6%, Indigenous 2.4%, other 0.3%, none or unspecified 5% (2011 est.)<br>
 <strong>note:</strong> data represent primary ethnic identity<br>
 
 **Languages**<br>
@@ -162,7 +162,7 @@ _female_: 81.42 years (2021 est.)<br>
 1.76 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-79.6% (2015)<br><br><strong>note:</strong> percent of women aged 15-44<br>
+79.6% (2015)<br>
 <strong>note:</strong> percent of women aged 15-44<br>
 
 **Drinking water source**<br>
@@ -357,7 +357,7 @@ _mailing address_: APO AA 34035<br>
 _FAX_: [598] (2) 1770-2128<br>
 
 **Flag description**<br>
-nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br><br><strong>note:</strong> the banner was inspired by the national colors of Argentina and by the design of the US flag<br>
+nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br>
 <strong>note:</strong> the banner was inspired by the national colors of Argentina and by the design of the US flag<br>
 
 **National symbol(s)**<br>

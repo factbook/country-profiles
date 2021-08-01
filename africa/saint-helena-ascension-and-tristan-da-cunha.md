@@ -73,7 +73,7 @@ Saint Helena harbors at least 40 species of plants unknown elsewhere in the worl
 ## People and Society
 
 **Population**<br>
-7,915 (July 2021 est.)<br><br><strong>note:</strong> Saint Helena's Statistical Office estimated the resident population to be 4,439 in 2021; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited, none of the other nearby islands/islets are<br>
+7,915 (July 2021 est.)<br>
 <strong>note:</strong> Saint Helena's Statistical Office estimated the resident population to be 4,439 in 2021; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited, none of the other nearby islands/islets are<br>
 
 **Nationality**<br>
@@ -88,7 +88,7 @@ African descent 50%, White 25%, Chinese 25%<br>
 English<br>
 
 **Religions**<br>
-Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.8%, Salvation Army 1.7%, New Apostolic 1.4%), Jehovah's Witness 4.1%, Roman Catholic 1.2%, other 2.5% (includes Baha'i), unspecified 0.8%, none 6.1%, no response 9.4% (2016 est.)<br><br><strong>note:</strong> data represent Saint Helena only<br>
+Protestant 75.9% (includes Anglican 68.9, Baptist 2.1%, Seventh Day Adventist 1.8%, Salvation Army 1.7%, New Apostolic 1.4%), Jehovah's Witness 4.1%, Roman Catholic 1.2%, other 2.5% (includes Baha'i), unspecified 0.8%, none 6.1%, no response 9.4% (2016 est.)<br>
 <strong>note:</strong> data represent Saint Helena only<br>
 
 **Demographic profile**<br>

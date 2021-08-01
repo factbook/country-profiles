@@ -83,7 +83,7 @@ _noun_: Russian(s)<br>
 _adjective_: Russian<br>
 
 **Ethnic groups**<br>
-Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%, other 10.2%, unspecified 3.9% (2010 est.)<br><br><strong>note:</strong> nearly 200 national and/or ethnic groups are represented in Russia's 2010 census<br>
+Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%, other 10.2%, unspecified 3.9% (2010 est.)<br>
 <strong>note:</strong> nearly 200 national and/or ethnic groups are represented in Russia's 2010 census<br>
 
 **Languages**<br>
@@ -91,7 +91,7 @@ Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1%; note - data repre
 _printed major-language sample_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br><br><strong>note:</strong> estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of official atheism under Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as the country's traditional religions<br>
+Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br>
 <strong>note:</strong> estimates are of practicing worshipers; Russia has large populations of non-practicing believers and non-believers, a legacy of over seven decades of official atheism under Soviet rule; Russia officially recognizes Orthodox Christianity, Islam, Judaism, and Buddhism as the country's traditional religions<br>
 
 **Age structure**<br>
@@ -163,7 +163,7 @@ _female_: 78.05 years (2021 est.)<br>
 1.6 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-68% (2011)<br><br><strong>note:</strong> percent of women aged 15-44<br>
+68% (2011)<br>
 <strong>note:</strong> percent of women aged 15-44<br>
 
 **Drinking water source**<br>
@@ -303,8 +303,7 @@ _daylight saving time_: does not observe daylight savings time<br>
 <strong>note:</strong> Russia has 11 time zones, the largest number of contiguous time zones of any country in the world; in 2014, two time zones were added and DST dropped<br><br><strong>etymology:</strong> named after the Moskva River; the origin of the river's name is obscure but may derive from the appellation "Mustajoki" given to the river by the Finno-Ugric people who originally inhabited the area and whose meaning may have been "dark" or "turbid"<br>
 
 **Administrative divisions**<br>
-<p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl'</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br><br><strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)
-<br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
+<p>46 provinces (oblasti, singular - oblast), 21 republics (respubliki, singular - respublika), 4 autonomous okrugs (avtonomnyye okrugi, singular - avtonomnyy okrug), 9 krays (kraya, singular - kray), 2 federal cities (goroda, singular - gorod), and 1 autonomous oblast (avtonomnaya oblast')</p> <p><strong>oblasts:</strong> Amur (Blagoveshchensk), Arkhangel'sk, Astrakhan', Belgorod, Bryansk, Chelyabinsk, Irkutsk, Ivanovo, Kaliningrad, Kaluga, Kemerovo, Kirov, Kostroma, Kurgan, Kursk, Leningrad, Lipetsk, Magadan, Moscow, Murmansk, Nizhniy Novgorod, Novgorod, Novosibirsk, Omsk, Orenburg, Orel, Penza, Pskov, Rostov, Ryazan', Sakhalin (Yuzhno-Sakhalinsk), Samara, Saratov, Smolensk, Sverdlovsk (Yekaterinburg), Tambov, Tomsk, Tula, Tver', Tyumen', Ul'yanovsk, Vladimir, Volgograd, Vologda, Voronezh, Yaroslavl'</p> <p><strong>republics:</strong> Adygeya (Maykop), Altay (Gorno-Altaysk), Bashkortostan (Ufa), Buryatiya (Ulan-Ude), Chechnya (Groznyy), Chuvashiya (Cheboksary), Dagestan (Makhachkala), Ingushetiya (Magas), Kabardino-Balkariya (Nal'chik), Kalmykiya (Elista), Karachayevo-Cherkesiya (Cherkessk), Kareliya (Petrozavodsk), Khakasiya (Abakan), Komi (Syktyvkar), Mariy-El (Yoshkar-Ola), Mordoviya (Saransk), North Ossetia (Vladikavkaz), Sakha [Yakutiya] (Yakutsk), Tatarstan (Kazan'), Tyva (Kyzyl), Udmurtiya (Izhevsk)</p> <p><strong>autonomous okrugs:</strong> Chukotka (Anadyr'), Khanty-Mansi-Yugra (Khanty-Mansiysk), Nenets (Nar'yan-Mar), Yamalo-Nenets (Salekhard)</p> <p><strong>krays:</strong> Altay (Barnaul), Kamchatka (Petropavlovsk-Kamchatskiy), Khabarovsk, Krasnodar, Krasnoyarsk, Perm', Primorskiy [Maritime] (Vladivostok), Stavropol', Zabaykal'sk [Transbaikal] (Chita)</p> <p><strong>federal cities:</strong> Moscow [Moskva], Saint Petersburg [Sankt-Peterburg]</p> <strong>autonomous oblast:</strong> Yevreyskaya [Jewish] (Birobidzhan)<br>
 <strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)
 <br><br><strong>note 2:</strong> the United States does not recognize Russia's annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
 
@@ -353,7 +352,7 @@ _judge selection and term of office_: all members of Russia's 3 highest courts n
 _subordinate courts_: regional (kray) and provincial (oblast) courts; Moscow and St. Petersburg city courts; autonomous province and district courts; note - the 21 Russian Republics have court systems specified by their own constitutions<br>
 
 **Political parties and leaders**<br>
-A Just Russia [Sergey MIRONOV]<br>Civic Platform or CP [Rifat SHAYKHUTDINOV]<br>Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]<br>Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]<br>Rodina [Aleksei ZHURAVLYOV]<br>United Russia [Dmitriy MEDVEDEV]<br><br><strong>note:</strong> 64 political parties are registered with Russia's Ministry of Justice (as of September 2018), but only four parties maintain representation in Russia's national legislature<br>
+A Just Russia [Sergey MIRONOV]<br>Civic Platform or CP [Rifat SHAYKHUTDINOV]<br>Communist Party of the Russian Federation or CPRF [Gennadiy ZYUGANOV]<br>Liberal Democratic Party of Russia or LDPR [Vladimir ZHIRINOVSKIY]<br>Rodina [Aleksei ZHURAVLYOV]<br>United Russia [Dmitriy MEDVEDEV]<br>
 <strong>note:</strong> 64 political parties are registered with Russia's Ministry of Justice (as of September 2018), but only four parties maintain representation in Russia's national legislature<br>
 
 **International organization participation**<br>
@@ -375,7 +374,7 @@ _FAX_: [7] (495) 728-5090<br>
 _consulate(s) general_: Saint Petersburg, Vladivostok, Yekaterinburg<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), blue, and red<br><br><strong>note:</strong> the colors may have been based on those of the Dutch flag; despite many popular interpretations, there is no official meaning assigned to the colors of the Russian flag; this flag inspired several other Slav countries to adopt horizontal tricolors of the same colors but in different arrangements, and so red, blue, and white became the Pan-Slav colors<br>
+three equal horizontal bands of white (top), blue, and red<br>
 <strong>note:</strong> the colors may have been based on those of the Dutch flag; despite many popular interpretations, there is no official meaning assigned to the colors of the Russian flag; this flag inspired several other Slav countries to adopt horizontal tricolors of the same colors but in different arrangements, and so red, blue, and white became the Pan-Slav colors<br>
 
 **National symbol(s)**<br>
@@ -718,17 +717,17 @@ information varies; approximately 800,000 total active duty troops (350,000 Grou
 the Russian Federation's military and paramilitary services are equipped with domestically-produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2020)<br>
 
 **Military deployments**<br>
-est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100-200 Central African Republic; est. 500 Kyrgyzstan; est. 1,500 Moldova; est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (includes Crimea) (2020)<br><br>note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of the Fall of 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; in addition, there were approximately 2,000 Russian-backed Syrian fighters in Libya<br><br>Russia contributes approximately 8,000 personnel to CSTO's Rapid Reaction Force<br>
+est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100-200 Central African Republic; est. 500 Kyrgyzstan; est. 1,500 Moldova; est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (includes Crimea) (2020)<br>
 note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of the Fall of 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; in addition, there were approximately 2,000 Russian-backed Syrian fighters in Libya<br><br>Russia contributes approximately 8,000 personnel to CSTO's Rapid Reaction Force<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)<br><br><strong>note:</strong> in April of 2019, the Russian government pledged its intent to end conscription<br>
+18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)<br>
 <strong>note:</strong> in April of 2019, the Russian government pledged its intent to end conscription<br>
 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of Iraq and ash-Sham – Caucasus Province<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of Iraq and ash-Sham – Caucasus Province<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

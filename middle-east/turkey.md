@@ -339,7 +339,7 @@ _judge selection and term of office_: Constitutional Court members - 3 appointed
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
 **Political parties and leaders**<br>
-Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]<br>Felicity Party or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Ishak SAGLAM]<br>Good Party or TYIi [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br><br><strong>note: </strong> as of December 2018, 83 political parties were legally registered<br>
+Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]<br>Felicity Party or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Ishak SAGLAM]<br>Good Party or TYIi [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
 <strong>note: </strong> as of December 2018, 83 political parties were legally registered<br>
 
 **International organization participation**<br>
@@ -441,7 +441,7 @@ textiles, food processing, automobiles, electronics, mining (coal, chromate, cop
 9.1% (2017 est.)<br>
 
 **Labor force**<br>
-25.677 million (2020 est.)<br><br><strong>note:</strong> this number is for the domestic labor force only; number does not include about 1.2 million Turks working abroad, nor refugees<br>
+25.677 million (2020 est.)<br>
 <strong>note:</strong> this number is for the domestic labor force only; number does not include about 1.2 million Turks working abroad, nor refugees<br>
 
 **Labor force - by occupation**<br>
@@ -682,7 +682,7 @@ _LNG terminal(s) (import)_: Izmir Aliaga, Marmara Ereglisi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic, Turkish Coast Guard Command (2021)<br><br>note: in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
+Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic, Turkish Coast Guard Command (2021)<br>
 note: in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
@@ -699,7 +699,7 @@ information varies; approximately 425,000 active duty personnel (325,000 Army; 5
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2020)<br>
 
 **Military deployments**<br>
-600 Afghanistan (NATO); est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br><br>note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br>
+600 Afghanistan (NATO); est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
 note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br>
 
 **Military service age and obligation**<br>
@@ -711,7 +711,7 @@ the ruling Justice and Development Party (AKP) has actively pursued the goal of 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islamic Revolutionary Guard Corps/Qods Force; Kurdistan Workers' Party; al-Qa'ida; Revolutionary People's Liberation Party/Front<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islamic Revolutionary Guard Corps/Qods Force; Kurdistan Workers' Party; al-Qa'ida; Revolutionary People's Liberation Party/Front<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -83,7 +83,7 @@ _adjective_: Malian<br>
 Bambara 33.3%, Fulani (Peuhl) 13.3%, Sarakole/Soninke/Marka 9.8%, Senufo/Manianka 9.6%, Malinke 8.8%, Dogon 8.7%, Sonrai 5.9%, Bobo 2.1%, Tuareg/Bella 1.7%, other Malian 6%, from members of Economic Community of West Africa 0.4%, other 0.3% (2018 est.)<br>
 
 **Languages**<br>
-French (official), Bambara 46.3%, Peuhl/Foulfoulbe 9.4%, Dogon 7.2%, Maraka/Soninke 6.4%, Malinke 5.6%, Sonrhai/Djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, Bobo 2.1%, other 6.3%, unspecified 0.7% (2009 est.)<br><br><strong>note:</strong> Mali has 13 national languages in addition to its official language<br>
+French (official), Bambara 46.3%, Peuhl/Foulfoulbe 9.4%, Dogon 7.2%, Maraka/Soninke 6.4%, Malinke 5.6%, Sonrhai/Djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, Bobo 2.1%, other 6.3%, unspecified 0.7% (2009 est.)<br>
 <strong>note:</strong> Mali has 13 national languages in addition to its official language<br>
 
 **Religions**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.99 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2018 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.9 years (2018 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -372,7 +372,7 @@ _mailing address_: ACI 2000, Rue 243, Porte 297, Bamako<br>
 _FAX_: [223] 2070-2479<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), yellow, and red<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
+three equal vertical bands of green (hoist side), yellow, and red<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the colors from left to right are the same as those of neighboring Senegal (which has an additional green central star) and the reverse of those on the flag of neighboring Guinea<br>
 
 **National symbol(s)**<br>
@@ -673,7 +673,7 @@ _river port(s)_: Koulikoro (Niger)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2020)<br><br>note(s): the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; it has special units on camels (the Camel Corps) for patrolling the deserts and borders of northern Mali<br>
+Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2020)<br>
 note(s): the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; it has special units on camels (the Camel Corps) for patrolling the deserts and borders of northern Mali<br>
 
 **Military expenditures**<br>
@@ -698,7 +698,7 @@ prior to the coups in August 2020 and May 2021, the Malian military had interven
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at Nusrat al-Islam wal-Muslimin; al-Mulathamun Battalion (al-Mourabitoun)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

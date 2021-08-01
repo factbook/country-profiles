@@ -90,7 +90,7 @@ Korean, English (widely taught in elementary, junior high, and high school)<br>
 _printed major-language sample_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)<br><br><strong>note:</strong> many people also carry on at least some Confucian traditions and practices<br>
+Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)<br>
 <strong>note:</strong> many people also carry on at least some Confucian traditions and practices<br>
 
 **Age structure**<br>
@@ -162,7 +162,7 @@ _female_: 86.06 years (2021 est.)<br>
 1.09 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-82.3% (2018)<br><br><strong>note:</strong> percent of women aged 20-49<br>
+82.3% (2018)<br>
 <strong>note:</strong> percent of women aged 20-49<br>
 
 **Drinking water source**<br>

@@ -76,7 +76,7 @@ lies near vital North Atlantic sea lanes; only 35 km from France and linked by t
 ## People and Society
 
 **Population**<br>
-67.081 million United Kingdom (June 2020 est.)<br><br><strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
+67.081 million United Kingdom (June 2020 est.)<br>
 <strong>constituent countries by percentage of total population: </strong><br>England 84.3%<br>Scotland 8.1%<br>Wales 4.7%<br>Northern Ireland 2.8%<br>
 
 **Nationality**<br>
@@ -87,7 +87,7 @@ _adjective_: British<br>
 White 87.2%, Black/African/Caribbean/black British 3%, Asian/Asian British: Indian 2.3%, Asian/Asian British: Pakistani 1.9%, mixed 2%, other 3.7% (2011 est.)<br>
 
 **Languages**<br>
-English<br><br><strong>note:</strong> the following are recognized regional languages: Scots (about 30% of the population of Scotland), Scottish Gaelic (about 60,000 speakers in Scotland), Welsh (about 20% of the population of Wales), Irish (about 10% of the population of Northern Ireland), Cornish (some 2,000 to 3,000 people in Cornwall) (2012 est.)<br>
+English<br>
 <strong>note:</strong> the following are recognized regional languages: Scots (about 30% of the population of Scotland), Scottish Gaelic (about 60,000 speakers in Scotland), Welsh (about 20% of the population of Wales), Irish (about 10% of the population of Northern Ireland), Cornish (some 2,000 to 3,000 people in Cornwall) (2012 est.)<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.8 years (2017 est.)<br><br><strong>note:</strong> data represent England and Wales only<br>
+28.8 years (2017 est.)<br>
 <strong>note:</strong> data represent England and Wales only<br>
 
 **Maternal mortality ratio**<br>
@@ -684,7 +684,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 ## Military and Security
 
 **Military and security forces**<br>
-British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br><br><strong>note:</strong> on 1 April 2021, the UK formed a Space Command as a joint command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, intelligence, and information systems across the land, sea, air, space, and cyber domains; it also manages joint overseas operations<br>
+British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
 <strong>note:</strong> on 1 April 2021, the UK formed a Space Command as a joint command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, intelligence, and information systems across the land, sea, air, space, and cyber domains; it also manages joint overseas operations<br>
 
 **Military expenditures**<br>
@@ -712,7 +712,7 @@ the UK is a member of NATO and was one of the original 12 countries to sign the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New Irish Republican Army<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

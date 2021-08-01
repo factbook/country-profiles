@@ -144,7 +144,7 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.2 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.2 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -364,7 +364,7 @@ _mailing address_: P.O. Box 98, Monrovia<br>
 _FAX_: [231] 77-677-7370<br>
 
 **Flag description**<br>
-11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br><br><strong>note:</strong> the design is based on the US flag<br>
+11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>
 <strong>note:</strong> the design is based on the US flag<br>
 
 **National symbol(s)**<br>
@@ -526,7 +526,7 @@ _electrification - urban areas_: 18% (2019)<br>
 _electrification - rural areas_: 6% (2019)<br>
 
 **Electricity - production**<br>
-300 million kWh (2016 est.)<br><br><strong>note:</strong> according to a 2014 household survey, only 4.5% of Liberians use Liberia Electricity Corporation (LEC) power, 4.9% use a community generator, 4.4% have their own generator, 3.9% use vehicle batteries, and 0.8% use other sources of electricity, and 81.3% have no access to electricity; LEC accounts for roughly 70 million kWh of ouput.<br>
+300 million kWh (2016 est.)<br>
 <strong>note:</strong> according to a 2014 household survey, only 4.5% of Liberians use Liberia Electricity Corporation (LEC) power, 4.9% use a community generator, 4.4% have their own generator, 3.9% use vehicle batteries, and 0.8% use other sources of electricity, and 81.3% have no access to electricity; LEC accounts for roughly 70 million kWh of ouput.<br>
 
 **Electricity - consumption**<br>
@@ -665,7 +665,7 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Liberia (AFL): Army, Liberian Coast Guard (2021)<br><br>note - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
+Armed Forces of Liberia (AFL): Army, Liberian Coast Guard (2021)<br>
 note - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
 
 **Military expenditures**<br>

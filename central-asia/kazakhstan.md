@@ -158,7 +158,7 @@ _female_: 77.06 years (2021 est.)<br>
 2.13 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-53% (2018)<br><br><strong>note:</strong> percent of women aged 18-49<br>
+53% (2018)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -288,7 +288,7 @@ _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time
 <strong>note:</strong> Kazakhstan has two time zones <br><br><strong>etymology:</strong> on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998<br>
 
 **Administrative divisions**<br>
-14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz)<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
+14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); in 1995, the Governments of Kazakhstan and Russia entered into an agreement whereby Russia would lease for a period of 20 years an area of 6,000 sq km enclosing the Baikonur space launch facilities and the city of Bayqongyr (Baikonur, formerly Leninsk); in 2004, a new agreement extended the lease to 2050<br>
 
 **Independence**<br>
@@ -691,7 +691,7 @@ information varies; approximately 45,000 active duty personnel (30,000 Land Forc
 the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia remains by far the leading supplier of weapons systems (2020)<br>
 
 **Military deployments**<br>
-120 Lebanon (UNIFIL) (Jan 2021)<br><br>Note: Kazakhstan contributes forces to CSTO's Rapid Reaction Force<br>
+120 Lebanon (UNIFIL) (Jan 2021)<br>
 Note: Kazakhstan contributes forces to CSTO's Rapid Reaction Force<br>
 
 **Military service age and obligation**<br>

@@ -73,7 +73,7 @@ the northern Cook Islands are seven low-lying, sparsely populated, coral atolls;
 ## People and Society
 
 **Population**<br>
-8,327 (July 2021 est.)<br><br><strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016<br>
+8,327 (July 2021 est.)<br>
 <strong>note:</strong> the Cook Islands' Ministry of Finance &amp; Economic Management estimated the resident population to have been 11,700 in September 2016<br>
 
 **Nationality**<br>
@@ -84,7 +84,7 @@ _adjective_: Cook Islander<br>
 Cook Island Maori (Polynesian) 81.3%, part Cook Island Maori 6.7%, other 11.9% (2011 est.)<br>
 
 **Languages**<br>
-English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3% (2011 est.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
+English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3% (2011 est.)<br>
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>

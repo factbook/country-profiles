@@ -346,7 +346,7 @@ _chief of mission_: none; note - Guinea-Bissau does not have official representa
 _embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau<br>
 
 **Flag description**<br>
-two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the flag design was heavily influenced by the Ghanaian flag<br>
+two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia; the flag design was heavily influenced by the Ghanaian flag<br>
 
 **National symbol(s)**<br>

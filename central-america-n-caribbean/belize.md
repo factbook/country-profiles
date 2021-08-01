@@ -81,7 +81,7 @@ _noun_: Belizean(s)<br>
 _adjective_: Belizean<br>
 
 **Ethnic groups**<br>
-Mestizo 52.9%, Creole 25.9%, Maya 11.3%, Garifuna 6.1%, East Indian 3.9%, Mennonite 3.6%, White 1.2%, Asian 1%, other 1.2%, unknown 0.3% (2010 est.)<br><br><strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
+Mestizo 52.9%, Creole 25.9%, Maya 11.3%, Garifuna 6.1%, East Indian 3.9%, Mennonite 3.6%, White 1.2%, Asian 1%, other 1.2%, unknown 0.3% (2010 est.)<br>
 <strong>note:</strong> percentages add up to more than 100% because respondents were able to identify more than one ethnic origin<br>
 
 **Languages**<br>
@@ -345,7 +345,7 @@ _mailing address_: P.O. Box 497, Belmopan City, Cayo District, Belize<br>
 _FAX_: [011] (501) 822-4012<br>
 
 **Flag description**<br>
-royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br><br><strong>note:</strong> Belize's flag is the only national flag that depicts human beings; two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
+royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br>
 <strong>note:</strong> Belize's flag is the only national flag that depicts human beings; two British overseas territories, Montserrat and the British Virgin Islands, also depict humans<br>
 
 **National symbol(s)**<br>
@@ -423,7 +423,7 @@ garment production, food processing, tourism, construction, oil<br>
 -0.6% (2017 est.)<br>
 
 **Labor force**<br>
-120,500 (2008 est.)<br><br><strong>note:</strong> shortage of skilled labor and all types of technical personnel<br>
+120,500 (2008 est.)<br>
 <strong>note:</strong> shortage of skilled labor and all types of technical personnel<br>
 
 **Labor force - by occupation**<br>

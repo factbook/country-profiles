@@ -143,7 +143,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.8 years (2017 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.8 years (2017 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -373,7 +373,7 @@ _mailing address_: PSC 500, FPO AP 96515-1000<br>
 _FAX_: [63] (2) 301-2017<br>
 
 **Flag description**<br>
-two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br><br><strong>note:</strong> in wartime the flag is flown upside down with the red band at the top<br>
+two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br>
 <strong>note:</strong> in wartime the flag is flown upside down with the red band at the top<br>
 
 **National symbol(s)**<br>
@@ -695,7 +695,7 @@ _container port(s) (TEUs)_: Manila (4,782,240) (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2021)<br><br>note: the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Ministry of Interior and Local Government<br>
+Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2021)<br>
 note: the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Ministry of Interior and Local Government<br>
 
 **Military expenditures**<br>
@@ -723,7 +723,7 @@ as of late 2020, the AFP's primary operational focus was on internal security du
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Abu Sayyaf Group; Communist Party of the Philippines/New People's Army; Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Abu Sayyaf Group; Communist Party of the Philippines/New People's Army; Islamic State of Iraq and ash-Sham – East Asia (ISIS-EA) in the Philippines<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

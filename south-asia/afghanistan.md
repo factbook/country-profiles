@@ -80,7 +80,7 @@ _noun_: Afghan(s)<br>
 _adjective_: Afghan<br>
 
 **Ethnic groups**<br>
-Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, Pashai, and Kyrghyz) (2015)<br><br><strong>note:</strong> current statistical data on the sensitive subject of ethnicity in Afghanistan are not available, and ethnicity data from small samples of respondents to opinion polls are not a reliable alternative; Afghanistan's 2004 constitution recognizes 14 ethnic groups: Pashtun, Tajik, Hazara, Uzbek, Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, and Pashai<br>
+Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, Pashai, and Kyrghyz) (2015)<br>
 <strong>note:</strong> current statistical data on the sensitive subject of ethnicity in Afghanistan are not available, and ethnicity data from small samples of respondents to opinion polls are not a reliable alternative; Afghanistan's 2004 constitution recognizes 14 ethnic groups: Pashtun, Tajik, Hazara, Uzbek, Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, and Pashai<br>
 
 **Languages**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1.03 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.9 years (2015 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.9 years (2015 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -162,7 +162,7 @@ _female_: 54.85 years (2021 est.)<br>
 4.72 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-18.9% (2018)<br><br><strong>note:</strong>  percent of women aged 12-49<br>
+18.9% (2018)<br>
 <strong>note:</strong>  percent of women aged 12-49<br>
 
 **Drinking water source**<br>
@@ -370,7 +370,7 @@ _mailing address_: U.S. Embassy Kabul, APO AE 09806<br>
 _FAX_: [00 93] 0700 108 564<br>
 
 **Flag description**<br>
-three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br><br><strong>note:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br>
+three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
 <strong>note:</strong> Afghanistan had more changes to its national flag in the 20th century - 19 by one count - than any other country; the colors black, red, and green appeared on most of them<br>
 
 **National symbol(s)**<br>
@@ -686,7 +686,7 @@ Afghan National Defense and Security Forces (ANDSF) are comprised of military, p
 1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-Afghan National Defense and Security Forces (ANDSF) have approximately 307,000 active personnel; Ministry of Defense: 186,000; Ministry of Interior: 121,000 (Jan 2021)<br><br><strong>note:</strong> the authorized strength of the ANDSF, the force level that the international community is willing to fund, is 352,000 personnel<br>
+Afghan National Defense and Security Forces (ANDSF) have approximately 307,000 active personnel; Ministry of Defense: 186,000; Ministry of Interior: 121,000 (Jan 2021)<br>
 <strong>note:</strong> the authorized strength of the ANDSF, the force level that the international community is willing to fund, is 352,000 personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -701,7 +701,7 @@ the Afghan Army and Air Force inventory is mostly a mix of Soviet-era and more m
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province; Islamic Revolutionary Guard Corps/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent; Tehrik-e-Taliban Pakistan<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
+Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islamic Jihad Union; Islamic Movement of Uzbekistan; Islamic State of Iraq and ash-Sham-Khorasan Province; Islamic Revolutionary Guard Corps/Qods Force; Jaish-e-Mohammed; Jaysh al Adl (Jundallah); Lashkar i Jhangvi; Lashkar-e Tayyiba; al-Qa’ida; al-Qa'ida in the Indian Subcontinent; Tehrik-e-Taliban Pakistan<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
 
 ## Transnational Issues

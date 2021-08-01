@@ -287,7 +287,7 @@ _FAX_: [1] (441) 295-1592, 296-9233<br>
 _consulate(s) general_: Crown Hill, 16 Middle Road, Devonshire DVO3<br>
 
 **Flag description**<br>
-red, with the flag of the UK in the upper hoist-side quadrant and the Bermudian coat of arms (a white shield with a red lion standing on a green grassy field holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609) centered on the outer half of the flag; it was the shipwreck of the vessel, filled with English colonists originally bound for Virginia, that led to the settling of Bermuda<br><br><strong>note:</strong> the flag is unusual in that it is only British overseas territory that uses a red ensign, all others use blue<br>
+red, with the flag of the UK in the upper hoist-side quadrant and the Bermudian coat of arms (a white shield with a red lion standing on a green grassy field holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609) centered on the outer half of the flag; it was the shipwreck of the vessel, filled with English colonists originally bound for Virginia, that led to the settling of Bermuda<br>
 <strong>note:</strong> the flag is unusual in that it is only British overseas territory that uses a red ensign, all others use blue<br>
 
 **National symbol(s)**<br>
@@ -457,7 +457,7 @@ _electrification - total population_: 100% (2020)<br>
 0% of total installed capacity (2017 est.)<br>
 
 **Electricity - from other renewable sources**<br>
-0% of total installed capacity (2017 est.)<br><br><strong>note:</strong> the Tynes Bay Waste Treatment Facility turns waste to electric energy<br>
+0% of total installed capacity (2017 est.)<br>
 <strong>note:</strong> the Tynes Bay Waste Treatment Facility turns waste to electric energy<br>
 
 **Crude oil - production**<br>
@@ -552,7 +552,7 @@ _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bermuda Regiment; Bermuda Police Service (2021)<br><br>note - the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
+Royal Bermuda Regiment; Bermuda Police Service (2021)<br>
 note - the Royal Bermuda Regiment is a reserve multi-role battalion that carries out two primary functions – providing military aid to civil authorities and humanitarian and disaster relief<br>
 
 **Military and security service personnel strengths**<br>

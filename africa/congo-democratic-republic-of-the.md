@@ -74,7 +74,7 @@ urban clusters are spread throughout the country, particularly in the northeast 
 ## People and Society
 
 **Population**<br>
-105,044,646 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+105,044,646 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.9 years (2013/14 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.9 years (2013/14 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -693,7 +693,7 @@ Kalemie (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2020)<br><br>note - the Republican Guard is under the direct control of the president<br>
+Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2020)<br>
 note - the Republican Guard is under the direct control of the president<br>
 
 **Military expenditures**<br>
@@ -718,7 +718,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DRC)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DRC)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

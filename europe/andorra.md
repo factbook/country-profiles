@@ -80,7 +80,7 @@ _noun_: Andorran(s)<br>
 _adjective_: Andorran<br>
 
 **Ethnic groups**<br>
-Andorran 48.7%, Spanish 24.6%, Portuguese 11.6%, French 4.4%, other 10.6% (2020 est.)<br><br><strong>note:</strong> data represent population by nationality<br>
+Andorran 48.7%, Spanish 24.6%, Portuguese 11.6%, French 4.4%, other 10.6% (2020 est.)<br>
 <strong>note:</strong> data represent population by nationality<br>
 
 **Languages**<br>
@@ -294,7 +294,7 @@ _judge selection and term of office_: Supreme Court president and judges appoint
 _subordinate courts_: Tribunal of Judges or Tribunal de Batlles; Tribunal of the Courts or Tribunal de Corts<br>
 
 **Political parties and leaders**<br>
-Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br><br><strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
+Democrats for Andorra or DA [Xaviar ESPOT ZAMORA]<br>Social Democratic Party or PS [Vicenc ALFY FERRER]<br>Liberals of Andorra or L'A [Jordi GALLARDO FERNANDEZ]<br>Third Way/Lauredian Union [Josep PINTAT FORNE]<br>Social Democracy and Progress or SDP [Victor NAUDI ZAMORA]<br>United for the Progress of Andorra or UPA [Alfons CLAVERA ARIZTI]<br>
 <strong>note:</strong> Andorra has several smaller parties at the parish level (one is Lauredian Union)<br>
 
 **International organization participation**<br>
@@ -310,7 +310,7 @@ _FAX_: [1] (212) 750-6630<br>
 _embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Spain; telephone: [34] (93) 280-2227; FAX: [34] (93) 280-6175<br>
 
 **Flag description**<br>
-three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br><br><strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
+three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>
 <strong>note:</strong> similar to the flags of Chad and Romania, which do not have a national coat of arms in the center, and the flag of Moldova, which does bear a national emblem<br>
 
 **National symbol(s)**<br>

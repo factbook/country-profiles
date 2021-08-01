@@ -90,7 +90,7 @@ white homogeneous Mediterranean population; citizens of African descent who immi
 Portuguese (official), Mirandese (official, but locally used)<br>
 
 **Religions**<br>
-Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%, none 6.8%, unspecified 8.3% (2011 est.)<br><br><strong>note:</strong> data represent population 15 years of age and older<br>
+Roman Catholic 81%, other Christian 3.3%, other (includes Jewish, Muslim) 0.6%, none 6.8%, unspecified 8.3% (2011 est.)<br>
 <strong>note:</strong> data represent population 15 years of age and older<br>
 
 **Age structure**<br>
@@ -677,7 +677,7 @@ _LNG terminal(s) (import)_: Sines<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2021)<br><br>note: the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
+Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy (Marinha Portuguesa; includes Marine Corps), Portuguese Air Force (Forca Aerea Portuguesa, FAP); Portuguese National Republican Guard (Guarda Nacional Republicana, GNR) (2021)<br>
 note: the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
 
 **Military expenditures**<br>

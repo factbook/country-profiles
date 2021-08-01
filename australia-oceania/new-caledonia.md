@@ -116,7 +116,7 @@ _female_: 33.7 years (2020 est.)<br>
 5.84 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
-3.71 migrant(s)/1,000 population (2021 est.)<br><br><strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
+3.71 migrant(s)/1,000 population (2021 est.)<br>
 <strong>note:</strong> there has been steady emigration from Wallis and Futuna to New Caledonia<br>
 
 **Population distribution**<br>

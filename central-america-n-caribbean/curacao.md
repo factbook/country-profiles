@@ -79,7 +79,7 @@ _adjective_: Curacaoan; Dutch<br>
 Curacaoan 75.4%, Dutch 6%, Dominican 3.6%, Colombian 3%, Bonairean, Sint Eustatian, Saban 1.5%, Haitian 1.2%, Surinamese 1.2%, Venezuelan 1.1%, Aruban 1.1%, other 5%, unspecified 0.9% (2011 est.)<br>
 
 **Languages**<br>
-Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 80%, Dutch (official) 8.8%, Spanish 5.6%, English (official) 3.1%, other 2.3%, unspecified 0.3% (2011 est.)<br><br><strong>note:</strong> data represent most spoken language in household<br>
+Papiamento (official) (a creole language that is a mixture of Portuguese, Spanish, Dutch, English, and, to a lesser extent, French, as well as elements of African languages and the language of the Arawak) 80%, Dutch (official) 8.8%, Spanish 5.6%, English (official) 3.1%, other 2.3%, unspecified 0.3% (2011 est.)<br>
 <strong>note:</strong> data represent most spoken language in household<br>
 
 **Religions**<br>
@@ -234,7 +234,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 <strong>etymology</strong> - named after Prince William II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
 
 **Administrative divisions**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br><br><strong>note:</strong> Curacao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
+<p>none (part of the Kingdom of the Netherlands)</p><br>
 <strong>note:</strong> Curacao is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Sint Maarten<br>
 
 **Independence**<br>

@@ -89,7 +89,7 @@ Korean<br>
 _printed major-language sample_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)<br><br><strong>note:</strong> autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom<br>
+traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)<br>
 <strong>note:</strong> autonomous religious activities now almost nonexistent; government-sponsored religious groups exist to provide illusion of religious freedom<br>
 
 **Age structure**<br>
@@ -271,7 +271,7 @@ _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time
 <strong>note:</strong> on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea<br><br><strong>etymology:</strong> the name translates as "flat land" in Korean<br>
 
 **Administrative divisions**<br>
-<p>9 provinces (do, singular and plural) and 3 cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>major cities:</strong> Nampo, P'yongyang, Rason</p><br><br><strong>note:</strong> Nampo is sometimes designated as a metropolitan city, P'yongyang as a directly controlled city, and Rason as a city<br>
+<p>9 provinces (do, singular and plural) and 3 cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>major cities:</strong> Nampo, P'yongyang, Rason</p><br>
 <strong>note:</strong> Nampo is sometimes designated as a metropolitan city, P'yongyang as a directly controlled city, and Rason as a city<br>
 
 **Independence**<br>
@@ -394,7 +394,7 @@ military products; machine building, electric power, chemicals; mining (coal, ir
 1% (2017 est.)<br>
 
 **Labor force**<br>
-14 million (2014 est.)<br><br><strong>note:</strong> estimates vary widely<br>
+14 million (2014 est.)<br>
 <strong>note:</strong> estimates vary widely<br>
 
 **Labor force - by occupation**<br>
@@ -417,7 +417,7 @@ _revenues_: 3.2 billion (2007 est.)<br>
 _expenditures_: 3.3 billion (2007 est.)<br>
 
 **Taxes and other revenues**<br>
-11.4% (of GDP) (2007 est.)<br><br><strong>note:</strong> excludes earnings from state-operated enterprises<br>
+11.4% (of GDP) (2007 est.)<br>
 <strong>note:</strong> excludes earnings from state-operated enterprises<br>
 
 **Budget surplus (+) or deficit (-)**<br>

@@ -160,7 +160,7 @@ _female_: 85.49 years (2021 est.)<br>
 1.47 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-65.1% (2013)<br><br><strong>note:</strong> percent of women aged 18-49<br>
+65.1% (2013)<br>
 <strong>note:</strong> percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -192,7 +192,7 @@ _unimproved: total_: total: 1.2% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-140,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+140,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
@@ -364,7 +364,7 @@ _FAX_: [39] 06-488-2672<br>
 _consulate(s) general_: Florence, Milan, Naples<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br><br><strong>note:</strong> similar to the flag of Mexico, which is longer, uses darker shades of green and red, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green<br>
+three equal vertical bands of green (hoist side), white, and red; design inspired by the French flag brought to Italy by Napoleon in 1797; colors are those of Milan (red and white) combined with the green uniform color of the Milanese civic guard<br>
 <strong>note:</strong> similar to the flag of Mexico, which is longer, uses darker shades of green and red, and has its coat of arms centered on the white band; Ireland, which is longer and is green (hoist side), white, and orange; also similar to the flag of the Cote d'Ivoire, which has the colors reversed - orange (hoist side), white, and green<br>
 
 **National symbol(s)**<br>
@@ -687,7 +687,7 @@ _LNG terminal(s) (import)_: La Spezia, Panigaglia, Porto Levante<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2021)<br><br>note(s): the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
+Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2021)<br>
 note(s): the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>

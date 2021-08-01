@@ -77,11 +77,11 @@ _noun_: American Samoan(s) (US nationals)<br>
 _adjective_: American Samoan<br>
 
 **Ethnic groups**<br>
-Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)<br><br><strong>note:</strong> data represent population by ethnic origin or race<br>
+Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)<br>
 <strong>note:</strong> data represent population by ethnic origin or race<br>
 
 **Languages**<br>
-Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8% (2010 est.)<br><br><strong>note:</strong> most people are bilingual<br>
+Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8% (2010 est.)<br>
 <strong>note:</strong> most people are bilingual<br>
 
 **Religions**<br>

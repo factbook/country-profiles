@@ -73,7 +73,7 @@ second-smallest independent state in the world (after the Holy See); smallest co
 ## People and Society
 
 **Population**<br>
-31,223 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)<br>
+31,223 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up almost 68% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -81,7 +81,7 @@ _noun_: Monegasque(s) or Monacan(s)<br>
 _adjective_: Monegasque or Monacan<br>
 
 **Ethnic groups**<br>
-Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6% (2016 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2%, German 1.9%, Russian 1.8%, American 1.1%, Dutch 1.1%, Moroccan 1%, other 16.6% (2016 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -305,7 +305,7 @@ _consulate(s) general_: New York<br>
 _embassy_: US does not have an embassy in Monaco; the US Ambassador to France is accredited to Monaco; the US Consul General in Marseille (France), under the authority of the US Ambassador to France, handles diplomatic and consular matters concerning Monaco; +(33)(1) 43-12-22-22, enter zero "0" after the automated greeting; US Embassy Paris, 2 Avenue Gabriel, 75008 Paris, France<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners<br><br><strong>note:</strong> similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red<br>
+two equal horizontal bands of red (top) and white; the colors are those of the ruling House of Grimaldi and have been in use since 1339, making the flag one of the world's oldest national banners<br>
 <strong>note:</strong> similar to the flag of Indonesia which is longer and the flag of Poland which is white (top) and red<br>
 
 **National symbol(s)**<br>
@@ -358,7 +358,7 @@ banking, insurance, tourism, construction, small-scale industrial and consumer p
 6.8% (2015)<br>
 
 **Labor force**<br>
-52,000 (2014 est.)<br><br><strong>note:</strong> includes all foreign workers<br>
+52,000 (2014 est.)<br>
 <strong>note:</strong> includes all foreign workers<br>
 
 **Labor force - by occupation**<br>

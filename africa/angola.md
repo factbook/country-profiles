@@ -74,7 +74,7 @@ the province of Cabinda is an exclave, separated from the rest of the country by
 ## People and Society
 
 **Population**<br>
-33,642,646 (July 2021 est.)<br><br><strong>note:</strong> Angola's national statistical agency projected the country's 2017 population to be 28.4 million<br>
+33,642,646 (July 2021 est.)<br>
 <strong>note:</strong> Angola's national statistical agency projected the country's 2017 population to be 28.4 million<br>
 
 **Nationality**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.4 years (2015/16 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.4 years (2015/16 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

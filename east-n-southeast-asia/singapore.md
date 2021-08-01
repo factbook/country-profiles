@@ -79,7 +79,7 @@ _noun_: Singaporean(s)<br>
 _adjective_: Singapore<br>
 
 **Ethnic groups**<br>
-Chinese 74.3%, Malay 13.5%, Indian 9%, other 3.2% (2020 est.)<br><br><strong>note:</strong> data represent population by self-identification; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)<br>
+Chinese 74.3%, Malay 13.5%, Indian 9%, other 3.2% (2020 est.)<br>
 <strong>note:</strong> data represent population by self-identification; the population is divided into four categories: Chinese, Malay (includes indigenous Malays and Indonesians), Indian (includes Indian, Pakistani, Bangladeshi, or Sri Lankan), and other ethnic groups (includes Eurasians, Caucasians, Japanese, Filipino, Vietnamese)<br>
 
 **Languages**<br>
@@ -142,7 +142,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-30.5 years (2015 est.)<br><br>median age<br>
+30.5 years (2015 est.)<br>
 median age<br>
 
 **Maternal mortality ratio**<br>
@@ -186,11 +186,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-8,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+8,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -427,7 +427,7 @@ electronics, chemicals, financial services, oil drilling equipment, petroleum re
 5.7% (2017 est.)<br>
 
 **Labor force**<br>
-3.778 million (2019 est.)<br><br><strong>note:</strong> excludes non-residents<br>
+3.778 million (2019 est.)<br>
 <strong>note:</strong> excludes non-residents<br>
 
 **Labor force - by occupation**<br>

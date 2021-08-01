@@ -84,7 +84,7 @@ _noun_: Dominican(s)<br>
 _adjective_: Dominican<br>
 
 **Ethnic groups**<br>
-mixed 70.4% (Mestizo/Indio 58%, Mulatto 12.4%), Black 15.8%, White 13.5%, other 0.3% (2014 est.)<br><br><strong>note:</strong> respondents self-identified their race; the term "indio" in the Dominican Republic is not associated with people of indigenous ancestry but people of mixed ancestry or skin color between light and dark<br>
+mixed 70.4% (Mestizo/Indio 58%, Mulatto 12.4%), Black 15.8%, White 13.5%, other 0.3% (2014 est.)<br>
 <strong>note:</strong> respondents self-identified their race; the term "indio" in the Dominican Republic is not associated with people of indigenous ancestry but people of mixed ancestry or skin color between light and dark<br>
 
 **Languages**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.3 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.3 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -681,7 +681,7 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD); National Police (Policia Nacional) (2021)<br><br>note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps<br>
+Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD); National Police (Policia Nacional) (2021)<br>
 note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps<br>
 
 **Military expenditures**<br>

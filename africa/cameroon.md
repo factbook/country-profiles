@@ -74,7 +74,7 @@ sometimes referred to as the hinge of Africa because of its central location on 
 ## People and Society
 
 **Population**<br>
-28,524,175 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+28,524,175 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.7 years (2011 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.7 years (2011 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -377,7 +377,7 @@ _FAX_: [237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752<br>
 _branch office(s)_: Douala<br>
 
 **Flag description**<br>
-three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the "star of unity"<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+three equal vertical bands of green (hoist side), red, and yellow, with a yellow five-pointed star centered in the red band; the vertical tricolor recalls the flag of France; red symbolizes unity, yellow the sun, happiness, and the savannahs in the north, and green hope and the forests in the south; the star is referred to as the "star of unity"<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>
@@ -693,7 +693,7 @@ Garoua (Benoue)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide, BIR), Gendarmerie, Presidential Guard (2021)<br><br>note - the Rapid Intervention Battalion, a brigade-sized force comprised of several high-readiness land units, maintains its own command and control structure and reports directly to the President, rather than the Defense Minister<br>
+Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide, BIR), Gendarmerie, Presidential Guard (2021)<br>
 note - the Rapid Intervention Battalion, a brigade-sized force comprised of several high-readiness land units, maintains its own command and control structure and reports directly to the President, rather than the Defense Minister<br>
 
 **Military expenditures**<br>
@@ -710,7 +710,7 @@ information varies widely; approximately 40,000 active duty troops; (25,000 grou
 the FAC inventory includes a mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China is the leading supplier of armaments to the FAC (2020)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA) (Jan 2021)<br><br>note: Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
+750 Central African Republic (MINUSCA) (Jan 2021)<br>
 note: Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Military service age and obligation**<br>
@@ -725,7 +725,7 @@ the FAC is largely focused on the threat from the terror group Boko Haram along 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

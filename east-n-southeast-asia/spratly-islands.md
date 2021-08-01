@@ -61,7 +61,7 @@ strategically located near several primary shipping lanes in the central South C
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br><br><strong>note:</strong> there are scattered garrisons occupied by military personnel of several claimant states<br>
+no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> there are scattered garrisons occupied by military personnel of several claimant states<br>
 
 ## Environment

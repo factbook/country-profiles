@@ -83,7 +83,7 @@ _noun_: Egyptian(s)<br>
 _adjective_: Egyptian<br>
 
 **Ethnic groups**<br>
-Egyptian 99.7%, other 0.3% (2006 est.)<br><br><strong>note:</strong> data represent respondents by nationality<br>
+Egyptian 99.7%, other 0.3% (2006 est.)<br>
 <strong>note:</strong> data represent respondents by nationality<br>
 
 **Languages**<br>
@@ -146,7 +146,7 @@ _65 years and over_: 0.92 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.7 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.7 years (2014 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -367,7 +367,7 @@ _mailing address_: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, 
 _FAX_: [20-2] 2797-3200<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br><br><strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band; Iraq, which has an Arabic inscription centered in the white band; and Yemen, which has a plain white band<br>
+three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
 <strong>note:</strong> similar to the flag of Syria, which has two green stars in the white band; Iraq, which has an Arabic inscription centered in the white band; and Yemen, which has a plain white band<br>
 
 **National symbol(s)**<br>
@@ -691,7 +691,7 @@ Gulf of Suez - Suez<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Egyptian Armed Forces (EAF): Army (includes surface-to-surface missile forces, special forces, Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Command; Ministry of Interior: Central Security Forces, National Police (2021)<br><br>note: some tribal militias in the Sinai Peninsula cooperate with the Egyptian military against insurgent/terrorist groups such as the Islamic State<br>
+Egyptian Armed Forces (EAF): Army (includes surface-to-surface missile forces, special forces, Republican Guard), Navy (includes Coast Guard), Air Force, Air Defense Command; Ministry of Interior: Central Security Forces, National Police (2021)<br>
 note: some tribal militias in the Sinai Peninsula cooperate with the Egyptian military against insurgent/terrorist groups such as the Islamic State<br>
 
 **Military expenditures**<br>
@@ -719,7 +719,7 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; al-Qa’ida<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin Shura Council in the Environs of Jerusalem; al-Qa’ida<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

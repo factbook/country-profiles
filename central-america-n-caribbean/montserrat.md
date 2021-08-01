@@ -72,7 +72,7 @@ the island is entirely volcanic in origin and comprised of three major volcanic 
 ## People and Society
 
 **Population**<br>
-5,387 (July 2021 est.)<br><br><strong>note:</strong> an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned<br>
+5,387 (July 2021 est.)<br>
 <strong>note:</strong> an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned<br>
 
 **Nationality**<br>

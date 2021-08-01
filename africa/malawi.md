@@ -73,7 +73,7 @@ landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physic
 ## People and Society
 
 **Population**<br>
-20,308,502 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+20,308,502 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -84,7 +84,7 @@ _adjective_: Malawian<br>
 Chewa 34.3%, Lomwe 18.8%, Yao 13.2%, Ngoni 10.4%, Tumbuka 9.2%, Sena 3.8%, Mang'anja 3.2%, Tonga 1.8%, Nyanja 1.8%, Nkhonde 1%, other 2.2%, foreign 0.3% (2018 est.)<br>
 
 **Languages**<br>
-English (official), Chewa (common), Lambya, Lomwe, Ngoni, Nkhonde, Nyakyusa, Nyanja, Sena, Tonga, Tumbuka, Yao<br><br><strong>note</strong>: Chewa and Nyanja are mutually intelligible dialects; Nkhonde and Nyakyusa are mutually intelligible dialects<br>
+English (official), Chewa (common), Lambya, Lomwe, Ngoni, Nkhonde, Nyakyusa, Nyanja, Sena, Tonga, Tumbuka, Yao<br>
 <strong>note</strong>: Chewa and Nyanja are mutually intelligible dialects; Nkhonde and Nyakyusa are mutually intelligible dialects<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2015/16 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.9 years (2015/16 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

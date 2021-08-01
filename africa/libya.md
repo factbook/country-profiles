@@ -75,7 +75,7 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 ## People and Society
 
 **Population**<br>
-7,017,224 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up just over 12% of the total population, according to UN data (2019)<br>
+7,017,224 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up just over 12% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ Arabic (official), Italian, English (all widely understood in the major cities);
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist 0.3%, Hindu &lt;0.1, Jewish &lt;0.1, folk religion &lt;0.1, unafilliated 0.2%, other &lt;0.1 (2010 est.)<br><br><strong>note:</strong> non-Sunni Muslims include native Ibadhi Muslims (&lt;1% of the population) and foreign Muslims<br>
+Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist 0.3%, Hindu &lt;0.1, Jewish &lt;0.1, folk religion &lt;0.1, unafilliated 0.2%, other &lt;0.1 (2010 est.)<br>
 <strong>note:</strong> non-Sunni Muslims include native Ibadhi Muslims (&lt;1% of the population) and foreign Muslims<br>
 
 **Demographic profile**<br>
@@ -489,7 +489,7 @@ Libyan dinars (LYD) per US dollar -<br>
 _electrification - total population_: 100% (2019)<br>
 
 **Electricity - production**<br>
-34.24 billion kWh (2016 est.)<br><br><strong>note:</strong> persistent electricity shortages have contributed to the ongoing instability throughout the country<br>
+34.24 billion kWh (2016 est.)<br>
 <strong>note:</strong> persistent electricity shortages have contributed to the ongoing instability throughout the country<br>
 
 **Electricity - consumption**<br>
@@ -520,7 +520,7 @@ _electrification - total population_: 100% (2019)<br>
 1.039 million bbl/day (2018 est.)<br>
 
 **Crude oil - exports**<br>
-337,800 bbl/day (2015 est.)<br><br><strong>note:</strong> Libyan crude oil export values are highly volatile because of continuing protests and other disruptions across the country<br>
+337,800 bbl/day (2015 est.)<br>
 <strong>note:</strong> Libyan crude oil export values are highly volatile because of continuing protests and other disruptions across the country<br>
 
 **Crude oil - imports**<br>
@@ -652,7 +652,7 @@ as of the Fall of 2020, there were at least 10,000 foreign mercenaries and proxy
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulathamun Battalion (al-Mourabitoun); al-Qa'ida in the Islamic Maghreb<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

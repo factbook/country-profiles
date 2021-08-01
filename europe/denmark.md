@@ -85,7 +85,7 @@ _noun_: Dane(s)<br>
 _adjective_: Danish<br>
 
 **Ethnic groups**<br>
-Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)<br><br><strong>note:</strong> data represent population by ancestry<br>
+Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, Turkish 1.1%, other 12.6% (largest groups are Polish, Syrian, German, Iraqi, and Romanian) (2018 est.)<br>
 <strong>note:</strong> data represent population by ancestry<br>
 
 **Languages**<br>
@@ -192,11 +192,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-6,700 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+6,700 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -348,7 +348,7 @@ _mailing address_: Unit 5280 ODC, DPO AE 09716<br>
 _FAX_: [45] 35 43 02 23<br>
 
 **Flag description**<br>
-red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br><br><strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
+red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>
 <strong>note:</strong> the shifted cross design element was subsequently adopted by the other Nordic countries of Finland, Iceland, Norway, and Sweden, as well as by the Faroe Islands<br>
 
 **National symbol(s)**<br>
@@ -666,7 +666,7 @@ North Sea - Esbjerg,<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br><br>note: the Danish military also maintains a Joint Arctic Command<br>
+Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br>
 note: the Danish military also maintains a Joint Arctic Command<br>
 
 **Military expenditures**<br>
@@ -694,7 +694,7 @@ Denmark is a member of NATO and was one of the original 12 countries to sign the
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

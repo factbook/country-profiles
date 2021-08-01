@@ -73,7 +73,7 @@ important location between Cuba and Central America<br>
 ## People and Society
 
 **Population**<br>
-63,131 (July 2021 est.)<br><br><strong>note:</strong> most of the population lives on Grand Cayman<br>
+63,131 (July 2021 est.)<br>
 <strong>note:</strong> most of the population lives on Grand Cayman<br>
 
 **Nationality**<br>
@@ -111,7 +111,7 @@ _female_: 41.2 years (2020 est.)<br>
 5.89 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
-12.8 migrant(s)/1,000 population (2021 est.)<br><br><strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
+12.8 migrant(s)/1,000 population (2021 est.)<br>
 <strong>note:</strong> major destination for Cubans trying to migrate to the US<br>
 
 **Population distribution**<br>
@@ -348,7 +348,7 @@ tourism, banking, insurance and finance, construction, construction materials, f
 2.2% (2017 est.)<br>
 
 **Labor force**<br>
-39,000 (2007 est.)<br><br><strong>note:</strong> nearly 55% are non-nationals<br>
+39,000 (2007 est.)<br>
 <strong>note:</strong> nearly 55% are non-nationals<br>
 
 **Labor force - by occupation**<br>

@@ -76,11 +76,11 @@ _noun_: Christmas Islander(s)<br>
 _adjective_: Christmas Island<br>
 
 **Ethnic groups**<br>
-Chinese 70%, European 20%, Malay 10% (2001)<br><br><strong>note:</strong> no indigenous population<br>
+Chinese 70%, European 20%, Malay 10% (2001)<br>
 <strong>note:</strong> no indigenous population<br>
 
 **Languages**<br>
-English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1.6%, Tagalog 1%, other 4.5%, unspecified 27.1% (2016 est.)<br><br><strong>note:</strong> data represent language spoken at home<br>
+English (official) 27.6%, Mandarin 17.2%, Malay 17.1%, Cantonese 3.9%, Min Nan 1.6%, Tagalog 1%, other 4.5%, unspecified 27.1% (2016 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
@@ -203,7 +203,7 @@ none (territory of Australia)<br>
 _embassy_: none (territory of Australia)<br>
 
 **Flag description**<br>
-territorial flag; divided diagonally from upper hoist to lower fly; the upper triangle is green with a yellow image of the Golden Bosun Bird superimposed; the lower triangle is blue with the Southern Cross constellation, representing Australia, superimposed; a centered yellow disk displays a green map of the island<br><br><strong>note:</strong> the flag of Australia is used for official purposes<br>
+territorial flag; divided diagonally from upper hoist to lower fly; the upper triangle is green with a yellow image of the Golden Bosun Bird superimposed; the lower triangle is blue with the Southern Cross constellation, representing Australia, superimposed; a centered yellow disk displays a green map of the island<br>
 <strong>note:</strong> the flag of Australia is used for official purposes<br>
 
 **National symbol(s)**<br>

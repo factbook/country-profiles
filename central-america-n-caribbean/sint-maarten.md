@@ -66,7 +66,7 @@ most populous areas are Lower Prince's Quarter (north of Philipsburg), followed 
 44,564 (July 2021 est.)<br>
 
 **Ethnic groups**<br>
-Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)<br><br><strong>note:</strong>  data represent population by country of birth<br>
+Saint Maarten 29.9%, Dominican Republic 10.2%, Haiti 7.8%, Jamaica 6.6%, Saint Martin 5.9%, Guyana 5%, Dominica 4.4%, Curacao 4.1%, Aruba 3.4%, Saint Kitts and Nevis 2.8%, India 2.6%, Netherlands 2.2%, US 1.6%, Suriname 1.4%, Saint Lucia 1.3%, Anguilla 1.1%, other 8%, unspecified 1.7% (2011 est.)<br>
 <strong>note:</strong>  data represent population by country of birth<br>
 
 **Languages**<br>
@@ -191,7 +191,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 <strong>etymology:</strong> founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy<br>
 
 **Administrative divisions**<br>
-<p>none (part of the Kingdom of the Netherlands)</p><br><br><strong>note:</strong> Sint Maarten is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Curacao<br>
+<p>none (part of the Kingdom of the Netherlands)</p><br>
 <strong>note:</strong> Sint Maarten is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Aruba, and Curacao<br>
 
 **Independence**<br>
@@ -243,7 +243,7 @@ none (represented by the Kingdom of the Netherlands)<br>
 _embassy_: the US does not have an embassy in Sint Maarten; the Consul General to Curacao is accredited to Sint Maarten<br>
 
 **Flag description**<br>
-two equal horizontal bands of red (top) and blue with a white isosceles triangle based on the hoist side; the center of the triangle displays the Sint Maarten coat of arms; the arms consist of an orange-bordered  blue shield prominently displaying the white court house in Philipsburg, as well as a bouquet of yellow sage (the national flower) in the upper left,  and the silhouette of a Dutch-French friendship monument in the upper right; the shield is surmounted by a yellow rising sun in front of which is a brown pelican in flight; a yellow scroll below the shield bears the motto: SEMPER PROGREDIENS (Always Progressing); the three main colors are identical to those on the Dutch flag<br><br><strong>note:</strong> the flag somewhat resembles that of the Philippines but with the main red and blue bands reversed; the banner more closely evokes the wartime Philippine flag<br>
+two equal horizontal bands of red (top) and blue with a white isosceles triangle based on the hoist side; the center of the triangle displays the Sint Maarten coat of arms; the arms consist of an orange-bordered  blue shield prominently displaying the white court house in Philipsburg, as well as a bouquet of yellow sage (the national flower) in the upper left,  and the silhouette of a Dutch-French friendship monument in the upper right; the shield is surmounted by a yellow rising sun in front of which is a brown pelican in flight; a yellow scroll below the shield bears the motto: SEMPER PROGREDIENS (Always Progressing); the three main colors are identical to those on the Dutch flag<br>
 <strong>note:</strong> the flag somewhat resembles that of the Philippines but with the main red and blue bands reversed; the banner more closely evokes the wartime Philippine flag<br>
 
 **National symbol(s)**<br>

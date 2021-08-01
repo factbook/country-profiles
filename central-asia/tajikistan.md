@@ -140,7 +140,7 @@ _65 years and over_: 0.7 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23.2 years (2017 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+23.2 years (2017 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -292,7 +292,7 @@ _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time
 <strong>etymology: </strong>today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (du) after Saturday (shambe)<br>
 
 **Administrative divisions**<br>
-2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br><br><strong>note:</strong> the administrative center name follows in parentheses<br>
+2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
 <strong>note:</strong> the administrative center name follows in parentheses<br>
 
 **Independence**<br>
@@ -684,7 +684,7 @@ contributes troops to CSTO's Rapid Reaction Force (2021)<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

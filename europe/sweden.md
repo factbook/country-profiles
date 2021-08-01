@@ -82,7 +82,7 @@ _noun_: Swede(s)<br>
 _adjective_: Swedish<br>
 
 **Ethnic groups**<br>
-<p>Swedish 80.3%, Syrian 1.9%, Iraqi 1.4%, Finnish 1.4%, other 15%</p> (2020 est.)<br><br><strong>note:</strong> data represent the population by country of birth; the indigenous Sami people are estimated to number between 20,000 and 40,000<br>
+<p>Swedish 80.3%, Syrian 1.9%, Iraqi 1.4%, Finnish 1.4%, other 15%</p> (2020 est.)<br>
 <strong>note:</strong> data represent the population by country of birth; the indigenous Sami people are estimated to number between 20,000 and 40,000<br>
 
 **Languages**<br>
@@ -91,7 +91,7 @@ _printed major-language sample_: <br>The World Factbook, den obestridliga källa
 <strong>note:</strong> Finnish, Sami, Romani, Yiddish, and Meankieli are official minority languages<br>
 
 **Religions**<br>
-Church of Sweden (Lutheran) 57.6%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 8.9%, none or unspecified 33.5% (2019 est.)<br><br><strong>note:</strong> estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members) and the Church of Sweden<br>
+Church of Sweden (Lutheran) 57.6%, other (includes Roman Catholic, Orthodox, Baptist, Muslim, Jewish, and Buddhist) 8.9%, none or unspecified 33.5% (2019 est.)<br>
 <strong>note:</strong> estimates reflect registered members of faith communities eligible for state funding (not all religions are state-funded and not all people who identify with a particular religion are registered members) and the Church of Sweden<br>
 
 **Age structure**<br>
@@ -686,7 +686,7 @@ approximately 450 Mali (EUTM, MINUSMA, Task Force Takuba) (Jan 2021)<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

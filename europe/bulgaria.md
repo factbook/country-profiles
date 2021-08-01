@@ -82,7 +82,7 @@ _noun_: Bulgarian(s)<br>
 _adjective_: Bulgarian<br>
 
 **Ethnic groups**<br>
-Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other (unknown) 10% (2011 est.)<br><br><strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population<br>
+Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenian, and Vlach), other (unknown) 10% (2011 est.)<br>
 <strong>note:</strong> Romani populations are usually underestimated in official statistics and may represent 9–11% of Bulgaria's population<br>
 
 **Languages**<br>
@@ -353,7 +353,7 @@ _mailing address_: American Embassy Sofia, US Department of State, 5740 Sofia Pl
 _FAX_: [359] (2) 937-5320<br>
 
 **Flag description**<br>
-three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br><br><strong>note:</strong> the national emblem, formerly on the hoist side of the white stripe, has been removed<br>
+three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>
 <strong>note:</strong> the national emblem, formerly on the hoist side of the white stripe, has been removed<br>
 
 **National symbol(s)**<br>
@@ -433,7 +433,7 @@ electricity, gas, water; food, beverages, tobacco; machinery and equipment, auto
 3.6% (2017 est.)<br>
 
 **Labor force**<br>
-3.113 million (2020 est.)<br><br><strong>note:</strong> number of employed persons<br>
+3.113 million (2020 est.)<br>
 <strong>note:</strong> number of employed persons<br>
 
 **Labor force - by occupation**<br>
@@ -700,7 +700,7 @@ Bulgaria officially became a member of NATO in 2004<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

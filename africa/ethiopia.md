@@ -74,7 +74,7 @@ highest density is found in the highlands of the north and middle areas of the c
 ## People and Society
 
 **Population**<br>
-110,871,031 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+110,871,031 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20 years (2016 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20 years (2016 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -379,7 +379,7 @@ _mailing address_: P.O. Box 1014, Addis Ababa<br>
 _FAX_: [251] 11 124-2401<br>
 
 **Flag description**<br>
-three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br><br><strong>note:</strong> Ethiopia is the oldest independent country in Africa, and the three main colors of her flag (adopted ca. 1895) were so often appropriated by other African countries upon independence that they became known as the Pan-African colors; the emblem in the center of the current flag was added in 1996<br>
+three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br>
 <strong>note:</strong> Ethiopia is the oldest independent country in Africa, and the three main colors of her flag (adopted ca. 1895) were so often appropriated by other African countries upon independence that they became known as the Pan-African colors; the emblem in the center of the current flag was added in 1996<br>
 
 **National symbol(s)**<br>
@@ -687,7 +687,7 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 ## Military and Security
 
 **Military and security forces**<br>
-Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2020)<br><br>note(s): in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard for protecting senior officials; the Republican Guard is a military unit accountable to the Prime Minister<br><br><br>
+Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2020)<br>
 note(s): in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard for protecting senior officials; the Republican Guard is a military unit accountable to the Prime Minister<br><br><br>
 
 **Military expenditures**<br>
@@ -715,7 +715,7 @@ each of the nine states has a regional and/or a "special" paramilitary security 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab; IRGC/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Shabaab; IRGC/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

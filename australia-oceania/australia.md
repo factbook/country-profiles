@@ -83,11 +83,11 @@ _noun_: Australian(s)<br>
 _adjective_: Australian<br>
 
 **Ethnic groups**<br>
-English 25.9%, Australian 25.4%, Irish 7.5%, Scottish 6.4%, Italian 3.3%, German 3.2%, Chinese 3.1%, Indian 1.4%, Greek 1.4%, Dutch 1.2%, other 15.8% (includes Australian Aboriginal .5%), unspecified 5.4% (2011 est.)<br><br><strong>note:</strong> data represent self-identified ancestry, over a third of respondents reported two ancestries<br>
+English 25.9%, Australian 25.4%, Irish 7.5%, Scottish 6.4%, Italian 3.3%, German 3.2%, Chinese 3.1%, Indian 1.4%, Greek 1.4%, Dutch 1.2%, other 15.8% (includes Australian Aboriginal .5%), unspecified 5.4% (2011 est.)<br>
 <strong>note:</strong> data represent self-identified ancestry, over a third of respondents reported two ancestries<br>
 
 **Languages**<br>
-English 72.7%, Mandarin 2.5%, Arabic 1.4%, Cantonese 1.2%, Vietnamese 1.2%, Italian 1.2%, Greek 1%, other 14.8%, unspecified 6.5% (2016 est.)<br><br><strong>note:</strong> data represent language spoken at home<br>
+English 72.7%, Mandarin 2.5%, Arabic 1.4%, Cantonese 1.2%, Vietnamese 1.2%, Italian 1.2%, Greek 1%, other 14.8%, unspecified 6.5% (2016 est.)<br>
 <strong>note:</strong> data represent language spoken at home<br>
 
 **Religions**<br>
@@ -163,7 +163,7 @@ _female_: 85.17 years (2021 est.)<br>
 1.74 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-66.9% (2015/16)<br><br><strong>note:</strong> percent of women aged 18-44<br>
+66.9% (2015/16)<br>
 <strong>note:</strong> percent of women aged 18-44<br>
 
 **Drinking water source**<br>
@@ -191,11 +191,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-30,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+30,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -692,7 +692,7 @@ approximately 700 Middle East (2021)<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

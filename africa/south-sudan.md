@@ -335,7 +335,7 @@ _telephone_: [211] 912-105-188<br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
 
 **Flag description**<br>
-three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan<br><br><strong>note:</strong> resembles the flag of Kenya; one of only two national flags to display six colors as part of its primary design, the other is South Africa's<br>
+three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan<br>
 <strong>note:</strong> resembles the flag of Kenya; one of only two national flags to display six colors as part of its primary design, the other is South Africa's<br>
 
 **National symbol(s)**<br>

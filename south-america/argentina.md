@@ -161,7 +161,7 @@ _female_: 81.36 years (2021 est.)<br>
 2.2 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-81.3% (2013)<br><br><strong>note:</strong>  percent of women aged 14-49<br>
+81.3% (2013)<br>
 <strong>note:</strong>  percent of women aged 14-49<br>
 
 **Drinking water source**<br>
@@ -292,7 +292,7 @@ _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)
 <strong>etymology:</strong> the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)<br>
 
 **Administrative divisions**<br>
-23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br><br><strong>note:</strong> the US does not recognize any claims to Antarctica<br>
+23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
 <strong>note:</strong> the US does not recognize any claims to Antarctica<br>
 
 **Independence**<br>
@@ -434,11 +434,11 @@ maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, 
 food processing, motor vehicles, consumer durables, textiles, chemicals and petrochemicals, printing, metallurgy, steel<br>
 
 **Industrial production growth rate**<br>
-2.7% (2017 est.)<br><br><strong>note:</strong> based on private sector estimates<br>
+2.7% (2017 est.)<br>
 <strong>note:</strong> based on private sector estimates<br>
 
 **Labor force**<br>
-18 million (2017 est.)<br><br><strong>note:</strong> urban areas only<br>
+18 million (2017 est.)<br>
 <strong>note:</strong> urban areas only<br>
 
 **Labor force - by occupation**<br>

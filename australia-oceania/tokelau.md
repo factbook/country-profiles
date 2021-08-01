@@ -82,7 +82,7 @@ _adjective_: Tokelauan<br>
 Tokelauan 64.5%, part Tokelauan/Samoan 9.7%, part Tokelauan/Tuvaluan 2.8%, Tuvaluan 7.5%, Samoan 5.8%, other Pacific Islander 3.4%, other 5.6%, unspecified 0.8% (2016 est.)<br>
 
 **Languages**<br>
-Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 11.2%, Kiribati 1.5%, other 2.8%, none 2.8%, unspecified 0.8% (2016 ests.)<br><br><strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
+Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 11.2%, Kiribati 1.5%, other 2.8%, none 2.8%, unspecified 0.8% (2016 ests.)<br>
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
@@ -276,7 +276,7 @@ $7,711,583 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars.<br>
 
 **GDP (official exchange rate)**<br>
-$12.658 million (2017 est.)<br><br><strong>note:</strong> data uses New Zealand Dollar (NZD) as the currency of exchange.<br>
+$12.658 million (2017 est.)<br>
 <strong>note:</strong> data uses New Zealand Dollar (NZD) as the currency of exchange.<br>
 
 **Real GDP per capita**<br>

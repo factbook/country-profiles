@@ -77,7 +77,7 @@ South Africa completely surrounds Lesotho and almost completely surrounds Eswati
 ## People and Society
 
 **Population**<br>
-56,978,635 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+56,978,635 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -85,7 +85,7 @@ _noun_: South African(s)<br>
 _adjective_: South African<br>
 
 **Ethnic groups**<br>
-Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.5% (2018 est.)<br><br><strong>note:</strong> colored is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
+Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.5% (2018 est.)<br>
 <strong>note:</strong> colored is a term used in South Africa, including on the national census, for persons of mixed race ancestry who developed a distinct cultural identity over several hundred years<br>
 
 **Languages**<br>
@@ -367,7 +367,7 @@ _FAX_: [27] (12) 342-2299<br>
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
 **Flag description**<br>
-two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era<br><br><strong>note:</strong> the South African flag is one of only two national flags to display six colors as part of its primary design, the other is South Sudan's<br>
+two equal width horizontal bands of red (top) and blue separated by a central green band that splits into a horizontal Y, the arms of which end at the corners of the hoist side; the Y embraces a black isosceles triangle from which the arms are separated by narrow yellow bands; the red and blue bands are separated from the green band and its arms by narrow white stripes; the flag colors do not have any official symbolism, but the Y stands for the "convergence of diverse elements within South African society, taking the road ahead in unity"; black, yellow, and green are found on the flag of the African National Congress, while red, white, and blue are the colors in the flags of the Netherlands and the UK, whose settlers ruled South Africa during the colonial era<br>
 <strong>note:</strong> the South African flag is one of only two national flags to display six colors as part of its primary design, the other is South Sudan's<br>
 
 **National symbol(s)**<br>
@@ -710,7 +710,7 @@ the SANDF's inventory consists of a mix of domestically-produced and foreign-sup
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

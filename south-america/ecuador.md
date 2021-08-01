@@ -92,7 +92,7 @@ Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign
 _printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 74%, Evangelical 10.4%, Jehovah's Witness 1.2%, other 6.4% (includes Mormon, Buddhist, Jewish, Spiritualist, Muslim, Hindu, indigenous, African American, Pentecostal), atheist 7.9%, agnostic 0.1% (2012 est.)<br><br><strong>note:</strong> data represent persons at least 16 years of age from five Ecuadoran cities<br>
+Roman Catholic 74%, Evangelical 10.4%, Jehovah's Witness 1.2%, other 6.4% (includes Mormon, Buddhist, Jewish, Spiritualist, Muslim, Hindu, indigenous, African American, Pentecostal), atheist 7.9%, agnostic 0.1% (2012 est.)<br>
 <strong>note:</strong> data represent persons at least 16 years of age from five Ecuadoran cities<br>
 
 **Demographic profile**<br>
@@ -368,7 +368,7 @@ _FAX_: [593] (2) 398-5100<br>
 _consulate(s) general_: Guayaquil<br>
 
 **Flag description**<br>
-three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice<br><br><strong>note:</strong> similar to the flag of Colombia, which is shorter and does not bear a coat of arms<br>
+three horizontal bands of yellow (top, double width), blue, and red with the coat of arms superimposed at the center of the flag; the flag retains the three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; the yellow color represents sunshine, grain, and mineral wealth, blue the sky, sea, and rivers, and red the blood of patriots spilled in the struggle for freedom and justice<br>
 <strong>note:</strong> similar to the flag of Colombia, which is shorter and does not bear a coat of arms<br>
 
 **National symbol(s)**<br>
@@ -445,7 +445,7 @@ sugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, coco
 petroleum, food processing, textiles, wood products, chemicals<br>
 
 **Industrial production growth rate**<br>
--0.6% (2017 est.)<br><br><strong>note:</strong> excludes oil refining<br>
+-0.6% (2017 est.)<br>
 <strong>note:</strong> excludes oil refining<br>
 
 **Labor force**<br>

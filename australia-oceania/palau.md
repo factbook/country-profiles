@@ -84,7 +84,7 @@ _adjective_: Palauan<br>
 Palauan (Micronesian with Malayan and Melanesian admixtures) 73%, Carolinian 2%, Asian 21.7%, Caucasian 1.2%, other 2.1% (2015 est.)<br>
 
 **Languages**<br>
-Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (official) 19.1%, Filipino 9.9%, Chinese 1.2%, other 2.8% (2015 est.)<br><br><strong>note:</strong> Sonsoralese is official in Sonsoral; Tobian is official in Tobi; Angaur and Japanese are official in Angaur<br>
+Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (official) 19.1%, Filipino 9.9%, Chinese 1.2%, other 2.8% (2015 est.)<br>
 <strong>note:</strong> Sonsoralese is official in Sonsoral; Tobian is official in Tobi; Angaur and Japanese are official in Angaur<br>
 
 **Religions**<br>

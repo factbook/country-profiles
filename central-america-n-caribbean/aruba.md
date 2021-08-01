@@ -79,7 +79,7 @@ _noun_: Aruban(s)<br>
 _adjective_: Aruban; Dutch<br>
 
 **Ethnic groups**<br>
-Aruban 66%, Colombian 9.1%, Dutch 4.3%, Dominican 4.1%, Venezuelan 3.2%, Curacaoan 2.2%, Haitian 1.5%, Surinamese 1.2%, Peruvian 1.1%, Chinese 1.1%, other 6.2% (2010 est.)<br><br><strong>note:</strong> data represent population by country of birth<br>
+Aruban 66%, Colombian 9.1%, Dutch 4.3%, Dominican 4.1%, Venezuelan 3.2%, Curacaoan 2.2%, Haitian 1.5%, Surinamese 1.2%, Peruvian 1.1%, Chinese 1.1%, other 6.2% (2010 est.)<br>
 <strong>note:</strong> data represent population by country of birth<br>
 
 **Languages**<br>
@@ -242,7 +242,7 @@ _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<
 <strong>etymology:</strong> translates as "orange town" in Dutch; the city is named after William I (1533-1584), Prince of Orange, the first ruler of the Netherlands<br>
 
 **Administrative divisions**<br>
-none (part of the Kingdom of the Netherlands)<br><br><strong>note:</strong> Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten<br>
+none (part of the Kingdom of the Netherlands)<br>
 <strong>note:</strong> Aruba is one of four constituent countries of the Kingdom of the Netherlands; the other three are the Netherlands, Curacao, and Sint Maarten<br>
 
 **Independence**<br>
@@ -361,7 +361,7 @@ tourism, petroleum transshipment facilities, banking<br>
 NA<br>
 
 **Labor force**<br>
-51,610 (2007 est.)<br><br><strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population<br>
+51,610 (2007 est.)<br>
 <strong>note:</strong> of the 51,610 workers aged 15 and over in the labor force, 32,252 were born in Aruba and 19,353 came from abroad; foreign workers are 38% of the employed population<br>
 
 **Labor force - by occupation**<br>

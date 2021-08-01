@@ -74,7 +74,7 @@ the country's length allows it to stretch through six distinct geographic region
 ## People and Society
 
 **Population**<br>
-8,283,189 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+8,283,189 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -82,7 +82,7 @@ _noun_: Togolese (singular and plural)<br>
 _adjective_: Togolese<br>
 
 **Ethnic groups**<br>
-Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response 0.4% (2013-14 est.)<br><br><strong>note:</strong> Togo has an estimated 37 ethnic groups<br>
+Adja-Ewe/Mina 42.4%, Kabye/Tem 25.9%, Para-Gourma/Akan 17.1%, Akposso/Akebu 4.1%, Ana-Ife 3.2%, other Togolese 1.7%, foreigners 5.2%, no response 0.4% (2013-14 est.)<br>
 <strong>note:</strong> Togo has an estimated 37 ethnic groups<br>
 
 **Languages**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21 years (2013/14 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21 years (2013/14 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -373,7 +373,7 @@ _mailing address_: B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300<br
 _FAX_: [228] 2261-5501<br>
 
 **Flag description**<br>
-five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
+five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia<br>
 
 **National symbol(s)**<br>

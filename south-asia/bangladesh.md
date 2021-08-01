@@ -80,7 +80,7 @@ _noun_: Bangladeshi(s)<br>
 _adjective_: Bangladeshi<br>
 
 **Ethnic groups**<br>
-Bengali at least 98%, other indigenous ethnic groups 1.1% (2011 est.)<br><br><strong>note:</strong> Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups; critics of the 2011 census claim that it underestimates the size of Bangladesh's ethnic population<br>
+Bengali at least 98%, other indigenous ethnic groups 1.1% (2011 est.)<br>
 <strong>note:</strong> Bangladesh's government recognizes 27 indigenous ethnic groups under the 2010 Cultural Institution for Small Anthropological Groups Act; other sources estimate there are about 75 ethnic groups; critics of the 2011 census claim that it underestimates the size of Bangladesh's ethnic population<br>
 
 **Languages**<br>
@@ -137,7 +137,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.5 years (2014 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+18.5 years (2014 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -447,7 +447,7 @@ jute, cotton, garments, paper, leather, fertilizer, iron and steel, cement, petr
 10.2% (2017 est.)<br>
 
 **Labor force**<br>
-66.64 million (2017 est.)<br><br><strong>note:</strong> extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia<br>
+66.64 million (2017 est.)<br>
 <strong>note:</strong> extensive migration of labor to Saudi Arabia, Kuwait, UAE, Oman, Qatar, and Malaysia<br>
 
 **Labor force - by occupation**<br>
@@ -691,7 +691,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion, Ansars, Village Defense Party (VDP) (2021)<br><br>note: the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
+Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion, Ansars, Village Defense Party (VDP) (2021)<br>
 note: the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
 
 **Military expenditures**<br>
@@ -719,7 +719,7 @@ the International Maritime Bureau reports the territorial waters of Bangladesh r
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh; al-Qa'ida; al-Qa'ida in the Indian Subcontinent<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bangladesh; al-Qa'ida; al-Qa'ida in the Indian Subcontinent<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

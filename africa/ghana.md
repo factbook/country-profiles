@@ -76,7 +76,7 @@ Lake Volta is the world's largest artificial lake (manmade reservoir) by surface
 ## People and Society
 
 **Population**<br>
-32,372,889 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+32,372,889 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -87,7 +87,7 @@ _adjective_: Ghanaian<br>
 Akan 47.5%, Mole-Dagbon 16.6%, Ewe 13.9%, Ga-Dangme 7.4%, Gurma 5.7%, Guan 3.7%, Grusi 2.5%, Mande 1.1%, other 1.4% (2010 est.)<br>
 
 **Languages**<br>
-Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)<br><br><strong>note:</strong> English is the official language<br>
+Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)<br>
 <strong>note:</strong> English is the official language<br>
 
 **Religions**<br>
@@ -146,7 +146,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.3 years (2017 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.3 years (2017 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -352,7 +352,7 @@ _judge selection and term of office_: chief justice appointed by the president i
 _subordinate courts_: Court of Appeal; High Court; Circuit Court; District Court; regional tribunals<br>
 
 **Political parties and leaders**<br>
-All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Edmund N. DELLE]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's Action Party or PAP [Imoru AYARNA]<br>People's National Convention or PNC [Edward MAHAMA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br><br><strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
+All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP [Edmund N. DELLE]<br>Ghana Freedom Party or GFP [Akua DONKOR]<br>Ghana Union Movement or GUM [Christian Kwabena ANDREWS]<br>Great Consolidated Popular Party or GCPP [Henry Herbert LARTEY]<br>Liberal Party of Ghana or LPG [Kofi AKPALOO]<br>National Democratic Congress or NDC [John Dramani MAHAMA]<br>National Democratic Party or NDP [Nana Konadu Agyeman RAWLINGS]<br>New Patriotic Party or NPP [Nana Addo Dankwa AKUFO-ADDO]<br>People's Action Party or PAP [Imoru AYARNA]<br>People's National Convention or PNC [Edward MAHAMA]<br>Progressive People's Party or PPP [Paa Kwesi NDUOM]<br>United Front Party or UFP [Dr. Nana A. BOATENG]<br>United Progressive Party or UPP [Akwasi Addai ODIKE]<br>
 <strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
 
 **International organization participation**<br>
@@ -373,7 +373,7 @@ _mailing address_: P.O. Box 194, Accra<br>
 _FAX_: [233] 030-274-1389<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red symbolizes the blood shed for independence, yellow represents the country's mineral wealth, while green stands for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br><br><strong>note:</strong> uses the popular Pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
+three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red symbolizes the blood shed for independence, yellow represents the country's mineral wealth, while green stands for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>
 <strong>note:</strong> uses the popular Pan-African colors of Ethiopia; similar to the flag of Bolivia, which has a coat of arms centered in the yellow band<br>
 
 **National symbol(s)**<br>
@@ -700,7 +700,7 @@ the Ghana Armed Forces consists of approximately 14,000 active personnel (10,000
 the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Western equipment; since 2010, it has received armaments from a variety of suppliers, led by <br>China, Germany, Russia, and Spain (2020)<br>
 
 **Military deployments**<br>
-150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 850 South Sudan (UNMISS) (Jan 2021)<br><br>note: Ghana has pledged to maintain about 1,000 military personnel in readiness for UN peacekeeping missions<br>
+150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 850 South Sudan (UNMISS) (Jan 2021)<br>
 note: Ghana has pledged to maintain about 1,000 military personnel in readiness for UN peacekeeping missions<br>
 
 **Military service age and obligation**<br>

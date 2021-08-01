@@ -65,7 +65,7 @@ strategic location in the North Pacific Ocean; emergency landing location for tr
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (2018 est.)<br><br><strong>note:</strong> approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities<br>
+no indigenous inhabitants (2018 est.)<br>
 <strong>note:</strong> approximately 100 military personnel and civilian contractors maintain and operate the airfield and communications facilities<br>
 
 ## Environment

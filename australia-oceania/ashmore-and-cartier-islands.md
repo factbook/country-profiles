@@ -13,7 +13,7 @@ These uninhabited islands came under Australian authority in 1931; formal admini
 Southeastern Asia, islands in the Indian Ocean, midway between northwestern Australia and Timor island; Ashmore Reef is 840 km west of Darwin and 610 km north of Broome; Cartier Islet is 70 km east of Ashmore Reef<br>
 
 **Geographic coordinates**<br>
-12 25 S, 123 20 E<br><br><strong>note -</strong> Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E<br>
+12 25 S, 123 20 E<br>
 <strong>note -</strong> Ashmore Reef - 12 14 S, 123 05 E; Cartier Islet - 12 32 S, 123 32 E<br>
 
 **Map references**<br>
@@ -65,7 +65,7 @@ Ashmore Reef National Nature Reserve established in August 1983; Cartier Island 
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants (July 2021 est.)<br><br><strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
+no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> Indonesian fishermen are allowed access to the lagoon and fresh water at Ashmore Reef's West Island; access to East and Middle Islands is by permit only<br>
 
 **Population growth rate**<br>

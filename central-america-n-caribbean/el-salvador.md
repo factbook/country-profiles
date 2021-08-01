@@ -144,7 +144,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.92 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.8 years (2008 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+20.8 years (2008 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -366,7 +366,7 @@ _mailing address_: Unit 3450, APO AA 34023; 3450 San Salvador Place, Washington,
 _FAX_: [503] 2501-2150<br>
 
 **Flag description**<br>
-three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity<br><br><strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
+three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity<br>
 <strong>note:</strong> similar to the flag of Nicaragua, which has a different coat of arms centered in the white band; also similar to the flag of Honduras, which has five blue stars arranged in an X pattern centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -679,7 +679,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br><br>note: supporting the National Police (Ministry of Interior) in countering gang violence and drug trafficking is a primary mission for the FAES<br>
+the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br>
 note: supporting the National Police (Ministry of Interior) in countering gang violence and drug trafficking is a primary mission for the FAES<br>
 
 **Military expenditures**<br>

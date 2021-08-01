@@ -75,7 +75,7 @@ most of the inhabitants live along the sandy coastal region; apart from the capi
 ## People and Society
 
 **Population**<br>
-28,088,455 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+28,088,455 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ French (official), 60 native dialects of which Dioula is the most widely spoken<
 _printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian 3.2%, animist 3.6%, other religion 0.5%, none 19.1% (2014 est.)<br><br><strong>note:</strong> the majority of foreign migrant workers are Muslim (72.7%) and Christian (17.7%)<br>
+Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian 3.2%, animist 3.6%, other religion 0.5%, none 19.1% (2014 est.)<br>
 <strong>note:</strong> the majority of foreign migrant workers are Muslim (72.7%) and Christian (17.7%)<br>
 
 **Demographic profile**<br>
@@ -146,7 +146,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.8 years (2011/12 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+19.8 years (2011/12 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -374,7 +374,7 @@ _mailing address_: B. P. 1712, Abidjan 01<br>
 _FAX_: [225] 22 49 43 23<br>
 
 **Flag description**<br>
-three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br><br><strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France<br>
+three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br>
 <strong>note:</strong> similar to the flag of Ireland, which is longer and has the colors reversed - green (hoist side), white, and orange; also similar to the flag of Italy, which is green (hoist side), white, and red; design was based on the flag of France<br>
 
 **National symbol(s)**<br>
@@ -719,7 +719,7 @@ the military has mutinied several times since the late 1990s, most recently in 2
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Qa'ida in the Islamic Maghreb (AQIM)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Qa'ida in the Islamic Maghreb (AQIM)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

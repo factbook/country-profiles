@@ -73,7 +73,7 @@ landlocked; almost the precise center of Africa<br>
 ## People and Society
 
 **Population**<br>
-5,357,984 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+5,357,984 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -87,7 +87,7 @@ Baya 28.8%, Banda 22.9%, Mandjia 9.9%, Sara 7.9%, M'Baka-Bantu 7.9%, Arab-Fulani
 French (official), Sangho (lingua franca and national language), tribal languages<br>
 
 **Religions**<br>
-Christian 89%, Muslim 9%, folk religion 1%, unaffiliated 1% (2020 est.)<br><br><strong>note:</strong> animistic beliefs and practices strongly influence the Christian majority<br>
+Christian 89%, Muslim 9%, folk religion 1%, unaffiliated 1% (2020 est.)<br>
 <strong>note:</strong> animistic beliefs and practices strongly influence the Christian majority<br>
 
 **Demographic profile**<br>
@@ -669,7 +669,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2020)<br><br>note: since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
+the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2020)<br>
 note: since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
 
 **Military service age and obligation**<br>

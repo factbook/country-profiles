@@ -158,7 +158,7 @@ _female_: 79.74 years (2021 est.)<br>
 1.51 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-71.2% (2017)<br><br><strong>note:</strong>  percent of women aged 18-49<br>
+71.2% (2017)<br>
 <strong>note:</strong>  percent of women aged 18-49<br>
 
 **Drinking water source**<br>
@@ -190,11 +190,11 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 0.5% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-28,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+28,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;200 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -287,7 +287,7 @@ _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)
 <strong>etymology: </strong>the origin of the name is disputed; Minsk may originally have been located 16 km to the southwest, on the banks of Menka River; remnants of a 10th-century settlement on the banks of the Menka have been found <br>
 
 **Administrative divisions**<br>
-6 provinces (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian<br>
+6 provinces (voblastsi, singular - voblasts') and 1 municipality* (horad); Brest, Homyel' (Gomel'), Horad Minsk* (Minsk City), Hrodna (Grodno), Mahilyow (Mogilev), Minsk, Vitsyebsk (Vitebsk)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers; Russian spelling provided for reference when different from Belarusian<br>
 
 **Independence**<br>

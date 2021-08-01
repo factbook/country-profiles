@@ -82,7 +82,7 @@ _noun_: Greek(s)<br>
 _adjective_: Greek<br>
 
 **Ethnic groups**<br>
-Greek 91.6%, Albanian 4.4%, other 4% (2011)<br><br><strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity<br>
+Greek 91.6%, Albanian 4.4%, other 4% (2011)<br>
 <strong>note:</strong> data represent citizenship; Greece does not collect data on ethnicity<br>
 
 **Languages**<br>
@@ -189,11 +189,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.2% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-17,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+17,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -354,7 +354,7 @@ _FAX_: [30] (210) 645-6282<br>
 _consulate(s) general_: Thessaloniki<br>
 
 **Flag description**<br>
-nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors<br><br><strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure<br>
+nine equal horizontal stripes of blue alternating with white; a blue square bearing a white cross appears in the upper hoist-side corner; the cross symbolizes Greek Orthodoxy, the established religion of the country; there is no agreed upon meaning for the nine stripes or for the colors<br>
 <strong>note:</strong> Greek legislation states that the flag colors are cyan and white, but cyan can mean "blue" in Greek, so the exact shade of blue has never been set and has varied from a light to a dark blue over time; in general, the hue of blue normally encountered is a form of azure<br>
 
 **National symbol(s)**<br>
@@ -701,7 +701,7 @@ Greece joined NATO in 1952<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

@@ -284,7 +284,7 @@ _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time
 <strong>etymology:</strong> founded in 1868 as a Russian settlement on the site of a previously destroyed fortress named "Pishpek"; the name was retained and overtime became "Bishkek"<br>
 
 **Administrative divisions**<br>
-7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
 **Independence**<br>

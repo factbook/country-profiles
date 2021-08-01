@@ -302,7 +302,7 @@ _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard 
 <strong>etymology:</strong> the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
 
 **Administrative divisions**<br>
-28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br><br><strong>note:</strong> although its status is that of a union territory, the official name of Delhi is National Capital Territory of Delhi<br>
+28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
 <strong>note:</strong> although its status is that of a union territory, the official name of Delhi is National Capital Territory of Delhi<br>
 
 **Independence**<br>
@@ -349,7 +349,7 @@ _subordinate courts_: High Courts; District Courts; Labour Court<br>
 <strong>note:</strong> in mid-2011, India’s Cabinet approved the "National Mission for Justice Delivery and Legal Reform" to eliminate judicial corruption and reduce the backlog of cases<br>
 
 **Political parties and leaders**<br>
-Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Anna Dravida Munnetra Kazhagam or AIADMK [Edappadi PALANISWAMY, Occhaathevar PANNEERSELVAM]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Amit SHAH]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Indian National Congress or INC<br>Lok Janshakti Party (LJP) [Ram Vilas PASWAN]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [Chandrababu NAIDU]<br>YSR Congress or YSRC [Jagan Mohan REDDY]<br><br><strong>note:</strong> India has dozens of national and regional political parties<br>
+Aam Aadmi Party or AAP [Arvind KEJRIWAL]<br>All India Anna Dravida Munnetra Kazhagam or AIADMK [Edappadi PALANISWAMY, Occhaathevar PANNEERSELVAM]<br>All India Trinamool Congress or AITC [Mamata BANERJEE]<br>Bahujan Samaj Party or BSP [MAYAWATI]<br>Bharatiya Janata Party or BJP [Amit SHAH]<br>Biju Janata Dal or BJD [Naveen PATNAIK]<br>Communist Party of India-Marxist or CPI(M) [Sitaram YECHURY]<br>Indian National Congress or INC<br>Lok Janshakti Party (LJP) [Ram Vilas PASWAN]<br>Nationalist Congress Party or NCP [Sharad PAWAR]<br>Rashtriya Janata Dal or RJD [Lalu Prasad YADAV]<br>Samajwadi Party or SP [Akhilesh YADAV]<br>Shiromani Akali Dal or SAD [Sukhbir Singh BADAL]<br>Shiv Sena or SS [Uddhav THACKERAY]<br>Telegana Rashtra Samithi or TRS [K. Chandrashekar RAO]<br>Telugu Desam Party or TDP [Chandrababu NAIDU]<br>YSR Congress or YSRC [Jagan Mohan REDDY]<br>
 <strong>note:</strong> India has dozens of national and regional political parties<br>
 
 **International organization participation**<br>
@@ -371,7 +371,7 @@ _FAX_: [91] (11) 2419-0017<br>
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
 **Flag description**<br>
-three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation<br><br><strong>note:</strong> similar to the flag of Niger, which has a small orange disk centered in the white band<br>
+three equal horizontal bands of saffron (subdued orange) (top), white, and green, with a blue chakra (24-spoked wheel) centered in the white band; saffron represents courage, sacrifice, and the spirit of renunciation; white signifies purity and truth; green stands for faith and fertility; the blue chakra symbolizes the wheel of life in movement and death in stagnation<br>
 <strong>note:</strong> similar to the flag of Niger, which has a small orange disk centered in the white band<br>
 
 **National symbol(s)**<br>
@@ -697,7 +697,7 @@ _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2021)<br><br>note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (Indian Army)<br>
+Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps (provides security for Ministry of Defense sites); Ministry of Home Affairs paramilitary forces: Central Armed Police Forces (includes Assam Rifles, Border Security Force, Central Industrial Security Force, Central Reserve Police Force, Indo-Tibetan Border Police, National Security Guards, Sashastra Seema Bal) (2021)<br>
 note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (Indian Army)<br>
 
 **Military expenditures**<br>
@@ -722,7 +722,7 @@ the inventory of the Indian Armed Forces consists mostly of Russian-origin equip
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; IRGC/Qods Force<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujahedeen; Islamic State of Iraq and ash-Sham – India; Jaish-e-Mohammed;<strong> </strong>Lashkar-e Tayyiba; al-Qa’ida; al-Qa’ida in the Indian Subcontinent; IRGC/Qods Force<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

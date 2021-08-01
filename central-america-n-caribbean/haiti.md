@@ -76,7 +76,7 @@ shares island of Hispaniola with Dominican Republic (western one-third is Haiti,
 ## People and Society
 
 **Population**<br>
-11,198,240 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+11,198,240 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -91,7 +91,7 @@ French (official), Creole (official)<br>
 _printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Protestant/Methodist/Adventist/Jehovah's Witness 51.8%, Roman Catholic 35.4%, Vodou 1.7%, none 11% (2016-17 est.)<br><br><strong>note:</strong> many Haitians practice elements of Vodou in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003<br>
+Protestant/Methodist/Adventist/Jehovah's Witness 51.8%, Roman Catholic 35.4%, Vodou 1.7%, none 11% (2016-17 est.)<br>
 <strong>note:</strong> many Haitians practice elements of Vodou in addition to another religion, most often Roman Catholicism; Vodou was recognized as an official religion in 2003<br>
 
 **Age structure**<br>
@@ -144,7 +144,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.8 years (2016/7 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.8 years (2016/7 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -434,7 +434,7 @@ textiles, sugar refining, flour milling, cement, light assembly using imported p
 0.9% (2017 est.)<br>
 
 **Labor force**<br>
-4.594 million (2014 est.)<br><br><strong>note:</strong> shortage of skilled labor; unskilled labor abundant<br>
+4.594 million (2014 est.)<br>
 <strong>note:</strong> shortage of skilled labor; unskilled labor abundant<br>
 
 **Labor force - by occupation**<br>

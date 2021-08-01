@@ -83,7 +83,7 @@ _noun_: Vietnamese (singular and plural)<br>
 _adjective_: Vietnamese<br>
 
 **Ethnic groups**<br>
-Kinh (Viet) 85.3%, Tay 1.9%, Thai 1.9%, Muong 1.5%, Khmer 1.4%, Mong 1.4%, Nung 1.1%, other 5.5% (2019 est.)<br><br><strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
+Kinh (Viet) 85.3%, Tay 1.9%, Thai 1.9%, Muong 1.5%, Khmer 1.4%, Mong 1.4%, Nung 1.1%, other 5.5% (2019 est.)<br>
 <strong>note:</strong> 54 ethnic groups are recognized by the Vietnamese Government<br>
 
 **Languages**<br>
@@ -341,7 +341,7 @@ _judge selection and term of office_: chief justice elected by the National Asse
 _subordinate courts_: High Courts (administrative, civil, criminal, economic, labor, family, juvenile); provincial courts; district courts; Military Court; note - the National Assembly Standing Committee can establish special tribunals upon the recommendation of the chief justice<br>
 
 **Political parties and leaders**<br>
-Communist Party of Vietnam or CPV [Nguyen Phu TRONG]<br><br><strong>note:</strong> other parties proscribed<br>
+Communist Party of Vietnam or CPV [Nguyen Phu TRONG]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>

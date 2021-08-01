@@ -141,7 +141,7 @@ _65 years and over_: 0.9 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.2 years (2008 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.2 years (2008 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -282,7 +282,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 <strong>etymology:</strong> the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)<br>
 
 **Administrative divisions**<br>
-14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br><br><strong>note:</strong> for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation<br>
+14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br>
 <strong>note:</strong> for local government purposes, Kingston and Saint Andrew were amalgamated in 1923 into the present single corporate body known as the Kingston and Saint Andrew Corporation<br>
 
 **Independence**<br>
@@ -647,7 +647,7 @@ _container port(s) (TEUs)_: Kingston (1,681,706) (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica Constabulary Force (JCF) (2021)<br><br>note - both the JDF and JCF are under the Ministry of National Security<br>
+Jamaica Defense Force (JDF): Jamaica Regiment (Ground Forces), Maritime-Air-Cyber Command (includes Coast Guard, Air Wing, Military Intelligence Unit, Special Activities Regiment, and Military Cyber Corps), Support Brigade (logistics, engineers, health service, and military police); Jamaica Constabulary Force (JCF) (2021)<br>
 note - both the JDF and JCF are under the Ministry of National Security<br>
 
 **Military expenditures**<br>

@@ -678,7 +678,7 @@ the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) re
 ## Terrorism
 
 **Terrorist group(s)**<br>
-al-Shabaab<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+al-Shabaab<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

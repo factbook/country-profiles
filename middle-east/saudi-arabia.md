@@ -75,7 +75,7 @@ Saudi Arabia is the largest country in the world without a river; extensive coas
 ## People and Society
 
 **Population**<br>
-34,783,757 (July 2021 est.)<br><br><strong>note:</strong> immigrants make up 38.3% of the total population, according to UN data (2019)<br>
+34,783,757 (July 2021 est.)<br>
 <strong>note:</strong> immigrants make up 38.3% of the total population, according to UN data (2019)<br>
 
 **Nationality**<br>
@@ -90,7 +90,7 @@ Arabic (official)<br>
 _printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official; citizens are 85-90% Sunni and 10-15% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh) (2012 est.)<br><br><strong>note:</strong> despite having a large expatriate community of various faiths (more than 30% of the population), most forms of public religious expression inconsistent with the government-sanctioned interpretation of Sunni Islam are restricted; non-Muslims are not allowed to have Saudi citizenship and non-Muslim places of worship are not permitted (2013)<br>
+Muslim (official; citizens are 85-90% Sunni and 10-15% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh) (2012 est.)<br>
 <strong>note:</strong> despite having a large expatriate community of various faiths (more than 30% of the population), most forms of public religious expression inconsistent with the government-sanctioned interpretation of Sunni Islam are restricted; non-Muslims are not allowed to have Saudi citizenship and non-Muslim places of worship are not permitted (2013)<br>
 
 **Age structure**<br>
@@ -340,7 +340,7 @@ _FAX_: [966] (11) 488-7360<br>
 _consulate(s) general_: Dhahran, Jiddah (Jeddah)<br>
 
 **Flag description**<br>
-green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as "There is no god but God; Muhammad is the Messenger of God") above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides<br><br><strong>note:</strong> the only national flag to display an inscription as its principal design; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Paraguay<br>
+green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as "There is no god but God; Muhammad is the Messenger of God") above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides<br>
 <strong>note:</strong> the only national flag to display an inscription as its principal design; one of only three national flags that differ on their obverse and reverse sides - the others are Moldova and Paraguay<br>
 
 **National symbol(s)**<br>
@@ -420,7 +420,7 @@ crude oil production, petroleum refining, basic petrochemicals, ammonia, industr
 -2.4% (2017 est.)<br>
 
 **Labor force**<br>
-13.8 million (2017 est.)<br><br><strong>note:</strong> comprised of 3.1 million Saudis and 10.7 million non-Saudis<br>
+13.8 million (2017 est.)<br>
 <strong>note:</strong> comprised of 3.1 million Saudis and 10.7 million non-Saudis<br>
 
 **Labor force - by occupation**<br>
@@ -659,7 +659,7 @@ _container port(s) (TEUs)_: Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdu
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: Border Guard, Facilities Security Force (2021)<br><br>note: SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
+Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: Border Guard, Facilities Security Force (2021)<br>
 note: SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
@@ -670,7 +670,7 @@ note: SANG (also known as the White Army) is a land force separate from the Mini
 10.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2020)<br><br>note: SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
+the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2020)<br>
 note: SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -685,7 +685,7 @@ est. 2,500-5,000 Yemen (varies depending on operations, which continued into 202
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabian Peninsula<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabian Peninsula<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

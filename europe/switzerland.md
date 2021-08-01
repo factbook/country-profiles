@@ -80,7 +80,7 @@ _noun_: Swiss (singular and plural)<br>
 _adjective_: Swiss<br>
 
 **Ethnic groups**<br>
-Swiss 69.3%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1%, Turkish 1%, other 16.6% (2019 est.)<br><br><strong>note:</strong> data represent permanent and non-permanent resident population by country of birth<br>
+Swiss 69.3%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1%, Turkish 1%, other 16.6% (2019 est.)<br>
 <strong>note:</strong> data represent permanent and non-permanent resident population by country of birth<br>
 
 **Languages**<br>
@@ -190,11 +190,11 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.2% (2020)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-17,000 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+17,000 (2020)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;200 (2020)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;200 (2020)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Obesity - adult prevalence rate**<br>
@@ -283,7 +283,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>etymology:</strong> origin of the name is uncertain, but may derive from a 2nd century B.C. Celtic place name, possibly "berna" meaning "cleft," that was subsequently adopted by a Roman settlement  <br>
 
 **Administrative divisions**<br>
-26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br><br><strong>note:</strong> 6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member (instead of two) to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote<br>
+26 cantons (cantons, singular - canton in French; cantoni, singular - cantone in Italian; Kantone, singular - Kanton in German); Aargau, Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Berne/Bern, Fribourg/Freiburg, Geneve (Geneva), Glarus, Graubuenden/Grigioni/Grischun, Jura, Luzern, Neuchatel, Nidwalden, Obwalden, Sankt Gallen, Schaffhausen, Schwyz, Solothurn, Thurgau, Ticino, Uri, Valais/Wallis, Vaud, Zug, Zuerich<br>
 <strong>note:</strong> 6 of the cantons - Appenzell Ausserrhoden, Appenzell Innerrhoden, Basel-Landschaft, Basel-Stadt, Nidwalden, Obwalden - are referred to as half cantons because they elect only one member (instead of two) to the Council of States and, in popular referendums where a majority of popular votes and a majority of cantonal votes are required, these 6 cantons only have a half vote<br>
 
 **Independence**<br>
@@ -349,7 +349,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: [41] (031) 357-73-20<br>
 
 **Flag description**<br>
-red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br><br><strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo, they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
+red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br>
 <strong>note:</strong> in 1863, a newly formed international relief organization convening in Geneva, Switzerland sought to come up with an identifying flag or logo, they chose the inverse of the Swiss flag - a red cross on a white field - as their symbol; today that organization is known throughout the world as the International Red Cross<br>
 
 **National symbol(s)**<br>
@@ -693,7 +693,7 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

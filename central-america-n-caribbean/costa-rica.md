@@ -365,7 +365,7 @@ _mailing address_: APO AA 34020<br>
 _FAX_: [506] 2519-2305<br>
 
 **Flag description**<br>
-five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people<br><br><strong>note:</strong> somewhat resembles the flag of North Korea; similar to the flag of Thailand but with the blue and red colors reversed<br>
+five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people<br>
 <strong>note:</strong> somewhat resembles the flag of North Korea; similar to the flag of Thailand but with the blue and red colors reversed<br>
 
 **National symbol(s)**<br>
@@ -445,7 +445,7 @@ medical equipment, food processing, textiles and clothing, construction material
 1.3% (2017 est.)<br>
 
 **Labor force**<br>
-1.843 million (2020 est.)<br><br><strong>note:</strong> official estimate; excludes Nicaraguans living in Costa Rica<br>
+1.843 million (2020 est.)<br>
 <strong>note:</strong> official estimate; excludes Nicaraguans living in Costa Rica<br>
 
 **Labor force - by occupation**<br>
@@ -677,7 +677,7 @@ Pacific Ocean - Caldera<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), and National Coast Guard Service (Servicio Nacional de Guardacostas) (2021)<br><br>note: Costa Rica's armed forces were constitutionally abolished in 1949<br>
+no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), and National Coast Guard Service (Servicio Nacional de Guardacostas) (2021)<br>
 note: Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>

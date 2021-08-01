@@ -84,7 +84,7 @@ _adjective_: Timorese<br>
 Austronesian (Malayo-Polynesian) (includes Tetun, Mambai, Tokodede, Galoli, Kemak, Baikeno), Melanesian-Papuan (includes Bunak, Fataluku, Bakasai), small Chinese minority<br>
 
 **Languages**<br>
-Tetun Prasa 30.6%, Mambai 16.6%, Makasai 10.5%, Tetun Terik 6.1%, Baikenu 5.9%, Kemak 5.8%, Bunak 5.5%, Tokodede 4%, Fataluku 3.5%, Waima'a 1.8%, Galoli 1.4%, Naueti 1.4%, Idate 1.2%, Midiki 1.2%, other 4.5% (2015 est.)<br><br><strong>note:</strong> data represent population by mother tongue; Tetun and Portuguese are official languages; Indonesian and English are working languages; there are about 32 indigenous languages<br>
+Tetun Prasa 30.6%, Mambai 16.6%, Makasai 10.5%, Tetun Terik 6.1%, Baikenu 5.9%, Kemak 5.8%, Bunak 5.5%, Tokodede 4%, Fataluku 3.5%, Waima'a 1.8%, Galoli 1.4%, Naueti 1.4%, Idate 1.2%, Midiki 1.2%, other 4.5% (2015 est.)<br>
 <strong>note:</strong> data represent population by mother tongue; Tetun and Portuguese are official languages; Indonesian and English are working languages; there are about 32 indigenous languages<br>
 
 **Religions**<br>
@@ -143,7 +143,7 @@ _65 years and over_: 0.94 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.1 years (2009/10 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.1 years (2009/10 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -300,7 +300,7 @@ _geographic coordinates_: 8 35 S, 125 36 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
 
 **Administrative divisions**<br>
-12 municipalities (municipios, singular municipio) and 1 special adminstrative region* (regiao administrativa especial); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque<br><br><strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
+12 municipalities (municipios, singular municipio) and 1 special adminstrative region* (regiao administrativa especial); Aileu, Ainaro, Baucau, Bobonaro (Maliana), Covalima (Suai), Dili, Ermera (Gleno), Lautem (Lospalos), Liquica, Manatuto, Manufahi (Same), Oe-Cusse Ambeno* (Pante Macassar), Viqueque<br>
 <strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses)<br>
 
 **Independence**<br>
@@ -397,7 +397,7 @@ $3.91 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
-$2.775 billion (2017 est.)<br><br><strong>note:</strong> non-oil GDP<br>
+$2.775 billion (2017 est.)<br>
 <strong>note:</strong> non-oil GDP<br>
 
 **Real GDP per capita**<br>

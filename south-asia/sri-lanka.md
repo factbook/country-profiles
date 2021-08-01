@@ -85,7 +85,7 @@ _adjective_: Sri Lankan<br>
 Sinhalese 74.9%, Sri Lankan Tamil 11.2%, Sri Lankan Moors 9.2%, Indian Tamil 4.2%, other 0.5% (2012 est.)<br>
 
 **Languages**<br>
-Sinhala (official and national language) 87%, Tamil (official and national language) 28.5%, English 23.8% (2012 est.)<br><br><strong>note:</strong> data represent main languages spoken by the population aged 10 years and older; shares sum to more than 100% because some respondents gave more than one answer on the census; English is commonly used in government and is referred to as the "link language" in the constitution<br>
+Sinhala (official and national language) 87%, Tamil (official and national language) 28.5%, English 23.8% (2012 est.)<br>
 <strong>note:</strong> data represent main languages spoken by the population aged 10 years and older; shares sum to more than 100% because some respondents gave more than one answer on the census; English is commonly used in government and is referred to as the "link language" in the constitution<br>
 
 **Religions**<br>
@@ -141,7 +141,7 @@ _65 years and over_: 0.73 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-25.6 years (2016 est.)<br><br><strong>note:</strong> median age at first birth among women 30-34<br>
+25.6 years (2016 est.)<br>
 <strong>note:</strong> median age at first birth among women 30-34<br>
 
 **Maternal mortality ratio**<br>
@@ -708,7 +708,7 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTTE)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Liberation Tigers of Tamil Eelam (LTTE)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

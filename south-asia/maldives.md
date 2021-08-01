@@ -140,7 +140,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1.13 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.5 years (2009 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+24.5 years (2009 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -635,7 +635,7 @@ _major seaport(s)_: Male<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defence Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2020)<br><br>note: the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone<br>
+the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defence Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2020)<br>
 note: the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone<br>
 
 **Military and security service personnel strengths**<br>
@@ -650,7 +650,7 @@ India has provided most of the equipment in the MNDF's inventory (2020)<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS) (2020)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS) (2020)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

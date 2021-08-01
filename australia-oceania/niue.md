@@ -72,7 +72,7 @@ one of world's largest coral islands; the only major break in the surrounding co
 ## People and Society
 
 **Population**<br>
-2,000 (July 2021 est.)<br><br><strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand, but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born; this means that there are about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue, possibly the most eccentric population distribution in the world<br>
+2,000 (July 2021 est.)<br>
 <strong>note:</strong> because of the island's limited economic and educational opportunities, Niueans have emigrated for decades - primarily to New Zealand, but also to Australia and other Pacific island states; Niue's population peaked in 1966 at 5,194, but by 2005 had fallen to 1,508; since then it has rebounded slightly; as of 2013, 23,883 people of Niuean ancestry lived in New Zealand - with more than 20% Niue-born; this means that there are about 15 times as many persons of Niuean ancestry living in New Zealand as in Niue, possibly the most eccentric population distribution in the world<br>
 
 **Nationality**<br>
@@ -80,7 +80,7 @@ _noun_: Niuean(s)<br>
 _adjective_: Niuean<br>
 
 **Ethnic groups**<br>
-Niuean 65.4%, part-Niuean 14%, non-Niuean 20.6% (2017 est.)<br><br><strong>note:</strong> data represent the resident population<br>
+Niuean 65.4%, part-Niuean 14%, non-Niuean 20.6% (2017 est.)<br>
 <strong>note:</strong> data represent the resident population<br>
 
 **Languages**<br>

@@ -144,7 +144,7 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.2 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+22.2 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>
@@ -304,7 +304,7 @@ _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 <strong>etymology:</strong> the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
 
 **Administrative divisions**<br>
-25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br><br><strong>note:</strong> Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region<br>
+25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
 <strong>note:</strong> Callao, the largest port in Peru, is also referred to as a constitutional province, the only province of the Callao region<br>
 
 **Independence**<br>
@@ -452,7 +452,7 @@ mining and refining of minerals; steel, metal fabrication; petroleum extraction 
 2.7% (2017 est.)<br>
 
 **Labor force**<br>
-3.421 million (2020 est.)<br><br><strong>note:</strong> individuals older than 14 years of age<br>
+3.421 million (2020 est.)<br>
 <strong>note:</strong> individuals older than 14 years of age<br>
 
 **Labor force - by occupation**<br>
@@ -726,7 +726,7 @@ the International Maritime Bureau reports the territorial waters of Peru are a r
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Shining Path (Sendero Luminoso)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Shining Path (Sendero Luminoso)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

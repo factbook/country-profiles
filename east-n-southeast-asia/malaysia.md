@@ -292,7 +292,7 @@ _former_: Federation of Malaya<br>
 _etymology_: the name means "Land of the Malays"<br>
 
 **Government type**<br>
-federal parliamentary constitutional monarchy<br><br><strong>note:</strong> all Peninsular Malaysian states have hereditary rulers (commonly referred to as sultans) except Melaka (Malacca) and Pulau Pinang (Penang); those two states along with Sabah and Sarawak in East Malaysia have governors appointed by government; powers of state governments are limited by the federal constitution; under terms of federation, Sabah and Sarawak retain certain constitutional prerogatives (e.g., right to maintain their own immigration controls)<br>
+federal parliamentary constitutional monarchy<br>
 <strong>note:</strong> all Peninsular Malaysian states have hereditary rulers (commonly referred to as sultans) except Melaka (Malacca) and Pulau Pinang (Penang); those two states along with Sabah and Sarawak in East Malaysia have governors appointed by government; powers of state governments are limited by the federal constitution; under terms of federation, Sabah and Sarawak retain certain constitutional prerogatives (e.g., right to maintain their own immigration controls)<br>
 
 **Capital**<br>
@@ -367,7 +367,7 @@ _mailing address_: US Embassy Kuala Lumpur, APO AP 96535-8152<br>
 _FAX_: [60] (3) 2142-2207<br>
 
 **Flag description**<br>
-14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers<br><br><strong>note:</strong> the design is based on the flag of the US<br>
+14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers<br>
 <strong>note:</strong> the design is based on the flag of the US<br>
 
 **National symbol(s)**<br>
@@ -690,7 +690,7 @@ _LNG terminal(s) (import)_: Sungei Udang<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM); Ministry of Home Affairs: the Royal Malaysian Police (PRMD, includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency) (2021)<br><br>note: Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the Armed Forces, the Royal Malaysian Police, and the Malaysian Maritime Enforcement Agency (Malaysian Coast Guard, MMEA)<br>
+Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera Darat Malaysia), Royal Malaysian Navy (Tentera Laut Diraja Malaysia, TLDM), Royal Malaysian Air Force (Tentera Udara Diraja Malaysia, TUDM); Ministry of Home Affairs: the Royal Malaysian Police (PRMD, includes the General Operations Force, a paramilitary force with a variety of roles, including patrolling borders, counter-terrorism, maritime security, and counterinsurgency) (2021)<br>
 note: Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the Armed Forces, the Royal Malaysian Police, and the Malaysian Maritime Enforcement Agency (Malaysian Coast Guard, MMEA)<br>
 
 **Military expenditures**<br>
@@ -718,7 +718,7 @@ the Malaysian Armed Forces field a diverse mix of imported weapons systems; the 
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Group (ASG)<br><br><strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Group (ASG)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

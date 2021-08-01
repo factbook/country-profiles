@@ -75,7 +75,7 @@ the Namib Desert, after which the country is named, is considered to be the olde
 ## People and Society
 
 **Population**<br>
-2,678,191 (July 2021 est.)<br><br><strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
+2,678,191 (July 2021 est.)<br>
 <strong>note:</strong> estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected<br>
 
 **Nationality**<br>
@@ -86,7 +86,7 @@ _adjective_: Namibian<br>
 Ovambo 50%, Kavangos 9%, Herero 7%, Damara 7%, mixed European and African ancestry 6.5%, European&nbsp;6%,&nbsp;Nama 5%, Caprivian 4%, San 3%, Baster 2%, Tswana .5%<br>
 
 **Languages**<br>
-Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br><br><strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
+Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9.4% (also a common language), Herero languages 9.2%, Zambezi languages 4.9%, English (official) 2.3%, other African languages 1.5%, other European languages 0.7%, other 1% (2016 est.)<br>
 <strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
 
 **Religions**<br>
@@ -145,7 +145,7 @@ _65 years and over_: 0.74 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.5 years (2013 est.)<br><br><strong>note:</strong> median age at first birth among women 25-29<br>
+21.5 years (2013 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-29<br>
 
 **Maternal mortality ratio**<br>

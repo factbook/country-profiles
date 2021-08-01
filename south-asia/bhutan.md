@@ -400,7 +400,7 @@ cement, wood products, processed fruits, alcoholic beverages, calcium carbide, t
 6.3% (2017 est.)<br>
 
 **Labor force**<br>
-397,900 (2017 est.)<br><br><strong>note:</strong> major shortage of skilled labor<br>
+397,900 (2017 est.)<br>
 <strong>note:</strong> major shortage of skilled labor<br>
 
 **Labor force - by occupation**<br>
@@ -612,7 +612,7 @@ _urban_: 437 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2020)<br><br>note - the Royal Bhutan Army is a lightly armed infantry force focused on border protection and internal security; India is responsible for military training, arms supplies, and the air defense of Bhutan<br>
+Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2020)<br>
 note - the Royal Bhutan Army is a lightly armed infantry force focused on border protection and internal security; India is responsible for military training, arms supplies, and the air defense of Bhutan<br>
 
 **Military and security service personnel strengths**<br>

@@ -83,7 +83,7 @@ _adjective_: Tongan<br>
 Tongan 97%, part-Tongan 0.8%, other 2.2%, unspecified &lt;0.1% (2016 est.)<br>
 
 **Languages**<br>
-Tongan and English 76.8%, Tongan, English, and other language 10.6%, Tongan only (official) 8.7%, English only (official) 0.7%, other 1.7%, none 2.2% (2016 est.)<br><br><strong>note:</strong> data represent persons aged 5 and older who can read and write a simple sentence in Tongan, English, or another language<br>
+Tongan and English 76.8%, Tongan, English, and other language 10.6%, Tongan only (official) 8.7%, English only (official) 0.7%, other 1.7%, none 2.2% (2016 est.)<br>
 <strong>note:</strong> data represent persons aged 5 and older who can read and write a simple sentence in Tongan, English, or another language<br>
 
 **Religions**<br>
@@ -139,7 +139,7 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.9 years (2012 est.)<br><br><strong>note:</strong> median age at first birth among women 25-49<br>
+24.9 years (2012 est.)<br>
 <strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>

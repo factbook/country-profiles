@@ -139,7 +139,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.9 years (2017 est.)<br><br><strong>note:</strong> data refer to the average of the different childbearing ages of first-order births<br>
+28.9 years (2017 est.)<br>
 <strong>note:</strong> data refer to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>

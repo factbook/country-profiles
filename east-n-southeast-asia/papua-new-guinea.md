@@ -86,11 +86,11 @@ _adjective_: Papua New Guinean<br>
 Melanesian, Papuan, Negrito, Micronesian, Polynesian<br>
 
 **Languages**<br>
-Tok Pisin (official), English (official), Hiri Motu (official), some 839 indigenous languages spoken (about 12% of the world's total); many languages have fewer than 1,000 speakers<br><br><strong>note:</strong> Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%<br>
+Tok Pisin (official), English (official), Hiri Motu (official), some 839 indigenous languages spoken (about 12% of the world's total); many languages have fewer than 1,000 speakers<br>
 <strong>note:</strong> Tok Pisin, a creole language, is widely used and understood; English is spoken by 1%-2%; Hiri Motu is spoken by less than 2%<br>
 
 **Religions**<br>
-Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army .4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)<br><br><strong>note:</strong> data represent only the citizen population; roughly .3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
+Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army .4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)<br>
 <strong>note:</strong> data represent only the citizen population; roughly .3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
 
 **Age structure**<br>
@@ -187,11 +187,11 @@ _unimproved: total_: total: 84.8% of population (2017 est.)<br>
 0.9% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-55,000 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+55,000 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;500 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;500 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: Supreme Court chief justice appointed by t
 _subordinate courts_: district, village, and juvenile courts, military courts, taxation courts, coronial courts, mining warden courts, land courts, traffic courts, committal courts, grade five courts<br>
 
 **Political parties and leaders**<br>
-National Alliance Party or NAP [Patrick PRUAITCH]<br>Papua and Niugini Union Party or PANGU [Sam BASIL]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Resources Party or URP [William DUMA]<br><br><strong>note:</strong> as of 8 July 2017, 45 political parties were registered<br>
+National Alliance Party or NAP [Patrick PRUAITCH]<br>Papua and Niugini Union Party or PANGU [Sam BASIL]<br>Papua New Guinea Party or PNGP [Belden NAMAH]<br>People's National Congress Party or PNC [Peter Paire O'NEILL]<br>People's Party or PP [Peter IPATAS]<br>People's Progress Party or PPP [Sir Julius CHAN]<br>Social Democratic Party or SDP [Powes PARKOP]<br>Triumph Heritage Empowerment Party or THE [Don POLYE]<br>United Resources Party or URP [William DUMA]<br>
 <strong>note:</strong> as of 8 July 2017, 45 political parties were registered<br>
 
 **International organization participation**<br>

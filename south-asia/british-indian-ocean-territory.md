@@ -67,7 +67,7 @@ none; located outside routes of Indian Ocean cyclones<br>
 ## People and Society
 
 **Population**<br>
-no indigenous inhabitants<br><br><strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)<br>
+no indigenous inhabitants<br>
 <strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)<br>
 
 ## Environment

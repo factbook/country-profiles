@@ -80,7 +80,7 @@ _noun_: Anguillan(s)<br>
 _adjective_: Anguillan<br>
 
 **Ethnic groups**<br>
-African/Black 85.3%, Hispanic 4.9%, mixed 3.8%, White 3.2%, East Indian/Indian 1%, other 1.6%, unspecified 0.3% (2011 est.)<br><br><strong>note:</strong> data represent population by ethnic origin<br>
+African/Black 85.3%, Hispanic 4.9%, mixed 3.8%, White 3.2%, East Indian/Indian 1%, other 1.6%, unspecified 0.3% (2011 est.)<br>
 <strong>note:</strong> data represent population by ethnic origin<br>
 
 **Languages**<br>

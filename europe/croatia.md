@@ -188,11 +188,11 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 <.1% (2020 est.)<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
-1,700 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+1,700 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **HIV/AIDS - deaths**<br>
-&lt;100 (2020 est.)<br><br><strong>note: </strong>estimate does not include children<br>
+&lt;100 (2020 est.)<br>
 <strong>note: </strong>estimate does not include children<br>
 
 **Major infectious diseases**<br>
@@ -340,7 +340,7 @@ _judge selection and term of office_: president of Supreme Court nominated by th
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
 **Political parties and leaders**<br>
-Bloc for Croatia or BZH [Zlatko HASANBEGOVIC]<br>Bridge of Independent Lists or Most [Bozo PETROV]<br>Center [collective leadership] (formerly Pametno) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Christian Democratic Party or HDS [Goran DODIG]<br>Croatian Conservative Party or HKS [Marijan PAVLICEK]<br>Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian Pensioner Party or HSU [Silvano HRELJA]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Ivan VRDOLJAK]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists coalition (includes HKS, HRAST)<br>FOKUS [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Miloslav SKORO]<br>Homeland Movement-led coalition (includes DP, Croatian Sovereignists coalition, BZH)<br>Istrian Democratic Assembly or IDS [Boris MILETIC]<br>Movement for Successful Croatia or HRAST [Ladislav ILCIC]<br>New Left or NL [Dragan MARKOVINA]<br>Pametno [Marijana PULJAK]<br>Pametno, FOKUS, SSIP coalition<br>Party with a First and Last Name or SSIP [Ivan KOVACIC]<br>People's Party - Reformists [Radimir CACIC]<br>Restart Coalition (includes HSLS, HDS, HDSSB)<br>Social Democratic Party of Croatia or SDP [Zlatko KOMADINA, acting leader]<br>We Can! or MOZEMO! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br><br>HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, Block 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, New Left 1, Reformists 1, SSIP 1, Workers' Front 1, independent 12<br>
+Bloc for Croatia or BZH [Zlatko HASANBEGOVIC]<br>Bridge of Independent Lists or Most [Bozo PETROV]<br>Center [collective leadership] (formerly Pametno) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Christian Democratic Party or HDS [Goran DODIG]<br>Croatian Conservative Party or HKS [Marijan PAVLICEK]<br>Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian Pensioner Party or HSU [Silvano HRELJA]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Ivan VRDOLJAK]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists coalition (includes HKS, HRAST)<br>FOKUS [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Miloslav SKORO]<br>Homeland Movement-led coalition (includes DP, Croatian Sovereignists coalition, BZH)<br>Istrian Democratic Assembly or IDS [Boris MILETIC]<br>Movement for Successful Croatia or HRAST [Ladislav ILCIC]<br>New Left or NL [Dragan MARKOVINA]<br>Pametno [Marijana PULJAK]<br>Pametno, FOKUS, SSIP coalition<br>Party with a First and Last Name or SSIP [Ivan KOVACIC]<br>People's Party - Reformists [Radimir CACIC]<br>Restart Coalition (includes HSLS, HDS, HDSSB)<br>Social Democratic Party of Croatia or SDP [Zlatko KOMADINA, acting leader]<br>We Can! or MOZEMO! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
 HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, Block 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, New Left 1, Reformists 1, SSIP 1, Workers' Front 1, independent 12<br>
 
 **International organization participation**<br>
@@ -361,7 +361,7 @@ _mailing address_: use embassy street address<br>
 _FAX_: [385] (1) 661-2373<br>
 
 **Flag description**<br>
-three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br><br><strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
+three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
 <strong>note:</strong> the Pan-Slav colors were inspired by the 19th-century flag of Russia<br>
 
 **National symbol(s)**<br>
