@@ -695,5 +695,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,191 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 19,353 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 

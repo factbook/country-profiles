@@ -151,7 +151,7 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.7 years (2018 est.)<br>
+28.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2017 est.)<br>
@@ -359,13 +359,13 @@ _FAX_: [1] (202) 944-6166<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jamie D. McCOURT (since 18 December 2017); note - also accredited to Monaco<br>
-_telephone_: [33] (1) 43-12-22-22<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Brian AGGELER (since 20 January 2021); note - also accredited to Monaco<br>
+_telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
 _embassy_: 2 Avenue Gabriel, 75008 Paris<br>
 _mailing address_: PSC 116, APO AE 09777<br>
 _FAX_: [33] (1) 42 66 97 83<br>
 _consulate(s) general_: Marseille, Strasbourg<br>
-_consulate(s)_: Bordeaux, Lyon, Rennes<br>
+_consulate(s)_: Bordeaux, Lyon, Rennes, Toulouse<br>
 
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas<br>

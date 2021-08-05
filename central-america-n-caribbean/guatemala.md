@@ -144,8 +144,8 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.2 years (2014/15 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.6 years (2014/15 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 95 deaths/100,000 live births (2017 est.)<br>
@@ -697,7 +697,7 @@ Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Nava
 0.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-assessments of the size of the Army of Guatemala vary; approximately 21,500 active personnel (19,000 Land Forces; 1,500 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2020)<br>
+information varies; approximately 21,500 active personnel (19,000 Land Forces; 1,500 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2020)<br>

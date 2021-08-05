@@ -144,7 +144,7 @@ _65 years and over_: 0.64 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23.8 years (2017 est.)<br>
+24 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 26 deaths/100,000 live births (2017 est.)<br>
@@ -352,9 +352,9 @@ _FAX_: [1] (202) 337-5911<br>
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Earle LITZENBERGER (since 12 March 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Mario MESQUITA (since 12 July 2021)<br>
 _telephone_: [994] (12) 488-3300<br>
-_embassy_: 111 Azadliq Prospekti, Baku AZ1007<br>
+_embassy_: 111 Azadliq Avenue, AZ1007 Baku<br>
 _mailing address_: American Embassy Baku, US Department of State, 7050 Baku Place, Washington, DC 20521-7050<br>
 _FAX_: [994] (12) 488-3330<br>
 

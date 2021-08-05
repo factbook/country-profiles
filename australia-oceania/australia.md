@@ -144,7 +144,7 @@ _65 years and over_: 0.86 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.7 years (2014 est.)<br>
+28.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 6 deaths/100,000 live births (2017 est.)<br>
@@ -341,7 +341,7 @@ _FAX_: [1] (202) 797-3168<br>
 _consulate(s) general_: Atlanta, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Arthur B. CULVAHOUSE (since 19 February 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Michael GOLDMAN (since 19 January 2021)<br>
 _telephone_: [61] (02) 6214-5600<br>
 _embassy_: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600<br>
 _mailing address_: APO AP 96549<br>

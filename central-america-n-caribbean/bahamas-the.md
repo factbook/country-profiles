@@ -314,9 +314,9 @@ _consulate(s) general_: Atlanta, Miami, New York, Washington, DC<br>
 _honorary consulate(s)_: Aurora (CO), Chicago, Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d' Affaires Stephanie BOWERS (since 1 March 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d' Affaires Usha E. PITTS (since 1 January 2021)<br>
 _telephone_: [1] (242) 322-1181, 328-2206 (after hours)<br>
-_embassy_: 42 Queen Street, Nassau, New Providence<br>
+_embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: local or express mail address: P. O. Box N-8197, Nassau; US Department of State, 3370 Nassau Place, Washington, DC 20521-3370<br>
 _FAX_: [1] (242) 356-7174<br>
 
@@ -625,7 +625,7 @@ _container port(s) (TEUs)_: Freeport (1,116,272)(2011)<br>
 Royal Bahamas Defense Force: includes land, air, maritime elements (2021)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (2020)<br>
+the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most of the RBDF's major equipment inventory is supplied by the Netherlands (2020)<br>

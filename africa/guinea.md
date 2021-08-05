@@ -143,8 +143,8 @@ _65 years and over_: 0.81 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.5 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.9 years (2018 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 576 deaths/100,000 live births (2017 est.)<br>
@@ -349,8 +349,8 @@ _election results_: Alpha CONDE reelected president in the first round; percent 
 
 **Legislative branch**<br>
 _description_: unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 28 September 2013 (next to be held 1 March 2020)<br>
-_election results_: percent of vote by party - NA; seats by party - RPG 53, UFDG 37, UFR 10, PEDN 2, UPG 2, other 10; composition - men 89, women 25, percent of women 21.9%<br>
+_elections_: last held on 21 March 2020 (next to be held 1 March 2027)<br>
+_election results_: In parliamentary elections, the Rally of the Guinean People-Rainbow wins 57.5% of the vote (79 of 114 seats), the Democratic Union of Guinea 5.3% (4), the Democratic Popular Movement of Guinea 4.1% (3), and the New Democratic Forces 2.8% (3). Turnout is 58.0%.<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents,&nbsp;10 councilors, the solicitor general, and NA deputies); Constitutional Court (consists of 9 members)<br>
@@ -387,11 +387,11 @@ _telephone_: [1] (202) 986-4300<br>
 _FAX_: [1] (202) 986-3800<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Simon HENSHAW (since 4 March 2019)<br>
-_telephone_: [224] 655-10-40-00<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Steven KOUTSIS (since September 2020)<br>
+_telephone_: [224] 65-10-40-00<br>
 _embassy_: Transversale #2, Center Administratif de Koloma, Commune de Ratoma, Conakry<br>
 _mailing address_: P.O. Box 603, Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma, Conakry<br>
-_FAX_: [224] 655-10-42-97<br>
+_FAX_: [224] 65-10-42-97<br>
 
 **Flag description**<br>
 three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity<br>

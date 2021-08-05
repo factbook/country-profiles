@@ -143,8 +143,8 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.2 years (2013/14 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.2 years (2018 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 213 deaths/100,000 live births (2017 est.)<br>
@@ -163,7 +163,7 @@ _female_: 67.75 years (2021 est.)<br>
 4.63 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-49.5% (2018)<br>
+49.6% (2018)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 89.5% of population<br>
@@ -706,7 +706,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 58,136 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,964 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 61,570 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,964 (Burundi) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

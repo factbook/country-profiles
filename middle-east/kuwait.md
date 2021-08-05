@@ -639,7 +639,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 ## Military and Security
 
 **Military and security forces**<br>
-Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2020)<br>
+Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2021)<br>
 note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the KNG possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
 
 **Military expenditures**<br>
@@ -650,7 +650,7 @@ note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise in
 5.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); est. 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (est. 500) and the 25th Commando Brigade (N/A) (2020)<br>
+the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (est. 500) and the 25th Commando Brigade (N/A) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Kuwaiti Armed Forces consists of a range of European- and US-sourced weapons systems; the US is the leading supplier of arms to Kuwait since 2010 (2020)<br>

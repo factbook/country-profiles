@@ -140,7 +140,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-27.2 years (2017 est.)<br>
+27 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 7 deaths/100,000 live births (2017 est.)<br>
@@ -159,7 +159,7 @@ _female_: 78.84 years (2021 est.)<br>
 1.51 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-40.2% (2011)<br>
+59.9% (2018/19)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population<br>
@@ -681,7 +681,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 516,060 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 516,781 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

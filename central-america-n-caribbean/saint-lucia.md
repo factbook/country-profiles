@@ -303,7 +303,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Neville CENAC (since 12 January 2018)<br>
-_head of government_: Prime Minister Allen CHASTANET (since 7 June 2016)<br>
+_head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 

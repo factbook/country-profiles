@@ -344,7 +344,7 @@ _FAX_: [1] (202) 319-1304<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Steven C. WALKER (since December 2019)<br>
 _telephone_: [291] (1) 120004<br>
-_embassy_: 179 Ala Street, Asmara<br>
+_embassy_: 179 Alaa Street, Asmara<br>
 _mailing address_: P.O. Box 211, Asmara<br>
 _FAX_: [291] (1) 127584<br>
 

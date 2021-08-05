@@ -656,7 +656,7 @@ Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from
 1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Belize Defense Force (BDF) has approximately 1,300 active personnel; 200 Belize Coast Guard (2020)<br>
+the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the BDF's inventory is limited and consists mostly of UK- and US-origin equipment (2020)<br>

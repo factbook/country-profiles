@@ -144,8 +144,8 @@ _65 years and over_: 0.88 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.7 years (2011 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.1 years (2018 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 529 deaths/100,000 live births (2017 est.)<br>
@@ -369,8 +369,8 @@ _telephone_: [1] (202) 265-8790<br>
 _FAX_: [1] (202) 387-3826<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Peter Henry BARLERIN (since 20 December 2017)<br>
-_telephone_: [237] 22220 1500; Consular: [237] 22220 1603<br>
+_chief of mission_: Ambassador (vacant);&nbsp; Deputy Chief of Mission (currently serving as Charge d'Affaires) Mary E. DASCHBACH<br>
+_telephone_: [237] 22251-4000/[237] 22220 1500; Consular: [237] 22220 1603<br>
 _embassy_: Avenue Rosa Parks, Yaound&eacute;<br>
 _mailing address_: P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520<br>
 _FAX_: [237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752<br>

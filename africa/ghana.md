@@ -146,8 +146,8 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.3 years (2017 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.7 years (2014 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 308 deaths/100,000 live births (2017 est.)<br>
@@ -368,8 +368,8 @@ _consulate(s) general_: New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Stephanie S. SULLIVAN (since 30 November 2018)<br>
 _telephone_: [233] 030-274-1000<br>
-_embassy_: 24 Fourth Circular Rd., Cantonments, Accra<br>
-_mailing address_: P.O. Box 194, Accra<br>
+_embassy_: 24 Fourth Circular Rd., Cantonments, Accra, P.O. Box 2288, Accra<br>
+_mailing address_: P.O. Box GP 2288, Accra<br>
 _FAX_: [233] 030-274-1389<br>
 
 **Flag description**<br>

@@ -658,7 +658,7 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 0.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the JDF has approximately 4,000 total active personnel (2020)<br>
+information varies; approximately 4,000 total active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Jamaica Defense Force is lightly armed with a limited inventory featuring mostly older equipment imported from a variety of foreign suppliers, including the UK and US; since 2010, Jamaica has received limited quantities of military equipment from Australia, Austria, the Netherlands, and the US (2020)<br>

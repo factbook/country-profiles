@@ -682,7 +682,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 1.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Paraguay have approximately 13,000 active personnel (8,000 Army; 3,000 Navy; 2,000 Air Force) (2020)<br>
+the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 Army; 3,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from Argentina, Brazil, Israel, Taiwan, and the US (2020)<br>

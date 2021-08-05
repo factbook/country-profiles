@@ -672,7 +672,7 @@ Tunisian Armed Forces (Forces Armees Tunisiens, FAT): Tunisian Army (includes Tu
 2.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Tunisian Armed Forces (FAT) have approximately 35,000 active personnel (27,000 Army; 4,500 Navy; 3,500 Air Force); est. 10,000 National Guard (2021)<br>
+the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory includes mostly older or secondhand US and European equipment; since 2010, the Netherlands and US are the leading suppliers of arms to Tunisia (2020)<br>

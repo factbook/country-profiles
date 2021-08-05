@@ -143,8 +143,8 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2018 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.4 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.8 years (2013 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 164 deaths/100,000 live births (2017 est.)<br>
@@ -673,7 +673,7 @@ _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Government forces are organized as the Yemeni National Army (YNA); the YNA is supported by a variety of ethnically-based and tribal militias<br><br>prior to the civil war, Yemen's armed forces consisted of Land Forces, Air/Air Defense Forces, Naval Forces/Coastal Defense, Border Guards, and a Strategic Reserve (Presidential Protective Forces, Missile Defense Command, Special Operations Command) (2020)<br>
+Government forces are organized as the Yemeni National Army (YNA); the YNA is supported by a variety of militias<br><br>prior to the civil war, Yemen's armed forces consisted of Land Forces, Air/Air Defense Forces, Naval Forces/Coastal Defense, Border Guards, and a Strategic Reserve (Presidential Protective Forces, Missile Defense Command, Special Operations Command) (2021)<br>
 note: by some estimates, up to 70 percent of Yemen's military, police, and paramilitary forces joined the Houthi-Saleh alliance at the beginning of the civil war in 2014<br>
 
 **Military expenditures**<br>
@@ -685,7 +685,7 @@ note: by some estimates, up to 70 percent of Yemen's military, police, and param
 note - no reliable information exists following the start of renewed conflict in 2015<br>
 
 **Military and security service personnel strengths**<br>
-N/A; note: prior to the civil war, Yemeni Government armed forces had approximately 70,000 active personnel (2020)<br>
+N/A; note: prior to the civil war, Yemeni Government armed forces had approximately 70,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE (2020)<br>

@@ -143,8 +143,8 @@ _65 years and over_: 0.75 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.3 years (2010 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+21.5 years (2016/17 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 548 deaths/100,000 live births (2017 est.)<br>
@@ -364,7 +364,7 @@ _telephone_: [1] (202) 342-2574<br>
 _FAX_: [1] (202) 342-2578<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Eunice S. REDDICK (since May 2019)<br>
+_chief of mission_: Ambassador Melanie Harris HIGGINS (since 2 March 2021)<br>
 _telephone_: [257] 22-207-000<br>
 _embassy_: Avenue Des Etats-Unis, Bujumbura, BP1720<br>
 _mailing address_: B.P. 1720, Bujumbura<br>

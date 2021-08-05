@@ -145,7 +145,7 @@ _total population_: 0.94 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.9 years (2018 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 315 deaths/100,000 live births (2017 est.)<br>
@@ -164,7 +164,7 @@ _female_: 66.14 years (2021 est.)<br>
 3.97 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-27.8% (2017)<br>
+26.9% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 92.3% of population<br>

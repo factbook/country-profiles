@@ -142,8 +142,8 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-17.9 years (2014/15 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+18.1 years (2014/15 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 1,140 deaths/100,000 live births (2017 est.)<br>
@@ -365,7 +365,7 @@ _FAX_: [1] (202) 758-0431<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David GILMOUR (since December 2020)<br>
 _telephone_: [235] 2251-5017<br>
-_embassy_: US Embassy N&rsquo;Djamena, B.P. 413, N&rsquo;Djamena<br>
+_embassy_: US Embassy N&rsquo;Djamena, Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: B. P. 413, N'Djamena<br>
 _FAX_: [235] 2253-9102<br>
 

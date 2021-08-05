@@ -145,7 +145,7 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29 years (2017 est.)<br>
+29.4 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 10 deaths/100,000 live births (2017 est.)<br>
@@ -338,12 +338,12 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los A
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Richard M. MILLS, Jr. (since 23 August 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Arnold CHACON (since 28 May 2021)<br>
 _telephone_: [1] (613) 688-5335<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1<br>
-_FAX_: [1] (613) 688-3082<br>
-_consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver<br>
+_FAX_: [1] (613) 241-7845<br>
+_consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver, Winnipeg<br>
 _consulate(s)_: Winnipeg<br>
 
 **Flag description**<br>

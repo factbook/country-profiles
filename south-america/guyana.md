@@ -669,7 +669,7 @@ the Guyana Defense Force is a unified service with an Army, Air Corps, Coast Gua
 1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Guyana Defense Force has approximately 3,000 active personnel (2020)<br>
+the Guyana Defense Force has approximately 3,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US; since 2000, Guyana has received small amounts of military equipment from Brazil, China, and the UK (2020)<br>

@@ -354,7 +354,7 @@ _chancery_: 2630 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-8518<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mara TEKACH (since 20 June 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
 _telephone_: [53] (7) 839-4100<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: use embassy street address<br>
@@ -676,7 +676,7 @@ Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary
 3.5% of GDP (2014)<br>
 
 **Military and security service personnel strengths**<br>
-the Revolutionary Armed Forces (FAR) of Cuba have approximately 50,000 active personnel (39,000 Army; 3,000 Navy; 8,000 Air Force) (2019 est.)<br>
+limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004 (2020)<br>

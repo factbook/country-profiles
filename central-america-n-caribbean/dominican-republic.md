@@ -144,8 +144,8 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 1.02 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-21.3 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.9 years (2013 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 95 deaths/100,000 live births (2017 est.)<br>
@@ -361,9 +361,9 @@ _consulate(s) general_: Boston, Chicago, Los Angeles, Mayaguez (Puerto Rico), Mi
 _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robin BERNSTEIN (since 6 September 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
 _telephone_: [1] (809) 567-7775<br>
-_embassy_: Av. Republica de Colombia # 57, Santo Domingo<br>
+_embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: Unit 5500, APO AA 34041-5500<br>
 _FAX_: [1] (809) 686-7437<br>
 
@@ -692,7 +692,7 @@ note: in addition to the military, the Ministry of Armed Forces directs the Airp
 0.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Dominican Republic have approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2020)<br>
+information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries; since 2010, Brazil and Israel are the leading suppliers of armaments to the Dominican Republic (2020)<br>

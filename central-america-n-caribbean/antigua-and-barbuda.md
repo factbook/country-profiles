@@ -604,7 +604,7 @@ _major seaport(s)_: Saint John's<br>
 Antigua and Barbuda Defense Force (ABDF): Coast Guard and the Antigua and Barbuda Regiment (2021)<br>
 
 **Military and security service personnel strengths**<br>
-the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2020)<br>
+the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2020)<br>

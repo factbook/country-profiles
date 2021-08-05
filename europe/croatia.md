@@ -141,7 +141,7 @@ _65 years and over_: 0.69 male(s)/female<br>
 _total population_: 0.93 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.9 years (2017 est.)<br>
+28.9 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 8 deaths/100,000 live births (2017 est.)<br>
@@ -354,7 +354,7 @@ _FAX_: [1] (202) 588-8936<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador W. Robert KOHORST (since 12 January 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Mark FLEMING (since May 2021)<br>
 _telephone_: [385] (1) 661-2200<br>
 _embassy_: 2 Thomas Jefferson Street, 10010 Zagreb<br>
 _mailing address_: use embassy street address<br>

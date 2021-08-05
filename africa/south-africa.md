@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,113 (Somalia), 17,726 (Ethiopia), 5,273 (Republic of the Congo) (2019); 59,675 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 27,113 (Somalia), 17,726 (Ethiopia), 5,273 (Republic of the Congo) (2019); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

@@ -139,7 +139,7 @@ _65 years and over_: 0.66 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.8 years (2017 est.)<br>
+25.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 19 deaths/100,000 live births (2017 est.)<br>
@@ -158,7 +158,7 @@ _female_: 76.26 years (2021 est.)<br>
 1.58 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-59.5% (2012)<br>
+56% (2020)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 98.5% of population<br>

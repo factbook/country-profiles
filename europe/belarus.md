@@ -139,7 +139,7 @@ _65 years and over_: 0.48 male(s)/female<br>
 _total population_: 0.87 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-26.5 years (2017 est.)<br>
+26.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 2 deaths/100,000 live births (2017 est.)<br>
@@ -348,10 +348,10 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant; left in 2008 upon insistence of Belarusian Government); Charge d'Affaires Jeffrey GIAUQUE (since July 2020)<br>
-_telephone_: [375] (17) 210-1283<br>
+_telephone_: [375] (17) 210-1283/217-7347/217-7348<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: Unit 7010 Box 100, DPO AE 09769<br>
-_FAX_: [375] (17) 234-7853<br>
+_FAX_: [375] (17) 334-7853<br>
 
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country<br>

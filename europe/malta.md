@@ -139,7 +139,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1.01 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.9 years (2017 est.)<br>
+29 years (2019 est.)<br>
 <strong>note:</strong> data refer to the average of the different childbearing ages of first-order births<br>
 
 **Maternal mortality ratio**<br>
@@ -672,7 +672,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,612 estimated refugee and migrant arrivals by sea (January 2015-July 2021)<br>
+<strong>note:</strong> 7,658 estimated refugee and migrant arrivals by sea (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

@@ -359,7 +359,7 @@ _consulate(s) general_: Atlanta, Boston, Brentwood (NY), Chicago, Dallas, Doral 
 _consulate(s)_: Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Brendan O'BRIEN (since 20 January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jean MANES (since 1 June 2021)<br>
 _telephone_: [503] 2501-2999<br>
 _embassy_: Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador<br>
 _mailing address_: Unit 3450, APO AA 34023; 3450 San Salvador Place, Washington, DC 20521-3450<br>
@@ -690,7 +690,7 @@ note: supporting the National Police (Ministry of Interior) in countering gang v
 1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Force of El Salvador (FAES) has approximately 22,000 active troops (17,500 Army; 1,500 Navy; 2,000 Air Force) (2020)<br>
+the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from Chile, Israel, Spain, and the US (2020)<br>

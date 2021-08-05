@@ -363,11 +363,11 @@ _FAX_: [1] (202) 495-2138<br>
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Charg&eacute; d&rsquo;Affaires Robert W. FORDEN (since 5 October 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David MEALE (since July 2021)<br>
 _telephone_: [86] (10) 8531-3000<br>
-_embassy_: 55 An Jia Lou Lu, 100600 Beijing<br>
+_embassy_: 55 An Jia Lou Lu, Chaoyang District, 100600 Beijing<br>
 _mailing address_: PO AP 96521<br>
-_FAX_: [86] (10) 8531-3300<br>
+_FAX_: [86] (10) 8531-4200<br>
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
 **Flag description**<br>

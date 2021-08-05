@@ -144,8 +144,8 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.8 years (2016/7 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+22.4 years (2016/7 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 480 deaths/100,000 live births (2017 est.)<br>
@@ -657,7 +657,7 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2020)<br>
 
 **Military and security service personnel strengths**<br>
-the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel, possibly by the end of 2021); approximately 16,000 National Police (2020)<br>
+the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 not available<br>

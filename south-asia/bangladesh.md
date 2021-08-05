@@ -137,8 +137,8 @@ _65 years and over_: 0.89 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.5 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+18.6 years (2017/18 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 173 deaths/100,000 live births (2017 est.)<br>
@@ -212,9 +212,9 @@ _animal contact diseases_: rabies<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 73.9%<br>
-_male_: 76.7%<br>
-_female_: 71.2% (2018)<br>
+_total population_: 74.7%<br>
+_male_: 77.4%<br>
+_female_: 72% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -363,7 +363,7 @@ _consulate(s) general_: Los Angeles, New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Earl Robert MILLER (since 29 November 2018)<br>
 _telephone_: [880] (2) 5566-2000<br>
-_embassy_: Madani Avenue, Baridhara, Dhaka 1212<br>
+_embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
 _mailing address_: G. P. O. Box 323, Dhaka 1000<br>
 _FAX_: [880] (2) 5566-2915<br>
 

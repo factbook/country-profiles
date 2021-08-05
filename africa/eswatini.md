@@ -357,9 +357,9 @@ _telephone_: [1] (202) 234-5002<br>
 _FAX_: [1] (202) 234-8254<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lisa J. PETERSON (since February 2016)<br>
-_telephone_: (268)404-6441; EMER: +(268)7602-8414<br>
-_embassy_: 7th Floor, Central Bank Building, Mahlokohla Street, Mbabane<br>
+_chief of mission_: Ambassador Jeanne M. MALONEY (since 4 March 2021)<br>
+_telephone_: (268) 2417-9000<br>
+_embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, The Gables, H106<br>
 _mailing address_: PO Box 199, Mbabane, Eswatini<br>
 _FAX_: [268] 2416-3344<br>
 

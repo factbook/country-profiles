@@ -332,7 +332,7 @@ _consulate(s) general_: New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
 _telephone_: [973] 1724-2700<br>
-_embassy_: Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, Manama<br>
+_embassy_: Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: PSC 451, Box 660, FPO AE 09834-5100 <br>international mail: American Embassy, Box 26431, Manama<br>
 _FAX_: [973] 1727-2594<br>
 
@@ -645,7 +645,7 @@ note: the Royal Guard is officially under the command of the Army, but exercises
 4.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2020)<br>
+information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Bahrain Defense force is comprised mostly of equipment acquired from the US along with a smaller quantity of material from European suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2020)<br>

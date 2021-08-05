@@ -144,7 +144,7 @@ _65 years and over_: 0.76 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.2 years (2017 est.)<br>
+29.2 years (2019 est.)<br>
 <strong>note:</strong> data represent only government-controlled areas<br>
 
 **Maternal mortality ratio**<br>
@@ -356,7 +356,7 @@ _chief of mission_: Ambassador Judith Gail GARBER (since 18 March 2019)<br>
 _telephone_: [357] (22) 393939<br>
 _embassy_: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia<br>
 _mailing address_: P. O. Box 24536, 1385 Nicosia<br>
-_FAX_: [357] (22) 393344<br>
+_FAX_: [357] (22) 780944<br>
 
 **Flag description**<br>
 centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>

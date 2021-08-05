@@ -159,6 +159,9 @@ _female_: 57.7 years (2021 est.)<br>
 **Total fertility rate**<br>
 5.41 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+6.9% (2018/19)<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 98.1% of population<br>
 _improved: rural_: rural: 72.5% of population<br>

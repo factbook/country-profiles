@@ -142,7 +142,7 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.9 years (2017 est.)<br>
+29.9 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 3 deaths/100,000 live births (2017 est.)<br>
@@ -712,7 +712,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,208,826 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,208,833 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

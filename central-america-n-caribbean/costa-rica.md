@@ -358,7 +358,7 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York,
 _consulate(s)_: Saint Paul (MN), San Juan (Puerto Rico), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Sharon DAY (since 5 October 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Gloria BERBENA (since January 2021)<br>
 _telephone_: [506] 2519-2000<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: APO AA 34020<br>

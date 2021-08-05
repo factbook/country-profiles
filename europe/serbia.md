@@ -144,7 +144,7 @@ _65 years and over_: 0.72 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.4 years (2017 est.)<br>
+28.1 years (2019 est.)<br>
 <strong>note:</strong> data do not cover Kosovo or Metohija<br>
 
 **Maternal mortality ratio**<br>
@@ -164,7 +164,7 @@ _female_: 79.64 years (2021 est.)<br>
 1.47 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-58.4% (2014)<br>
+62.3% (2019)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 99.4% of population<br>
@@ -710,7 +710,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 775,251 estimated refugee and migrant arrivals (January 2015-July 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
+<strong>note:</strong> 776,834 estimated refugee and migrant arrivals (January 2015-July 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

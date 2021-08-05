@@ -143,7 +143,7 @@ _65 years and over_: 0.82 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-28.8 years (2017 est.)<br>
+29 years (2018 est.)<br>
 <strong>note:</strong> data represent England and Wales only<br>
 
 **Maternal mortality ratio**<br>
@@ -161,6 +161,10 @@ _female_: 83.7 years (2021 est.)<br>
 
 **Total fertility rate**<br>
 1.86 children born/woman (2021 est.)<br>
+
+**Contraceptive prevalence rate**<br>
+76.1% (2010/12)<br>
+<strong>note:</strong> percent of women aged 16-49<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>

@@ -142,7 +142,7 @@ _65 years and over_: 0.65 male(s)/female<br>
 _total population_: 0.92 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-25.4 years (2017 est.)<br>
+25.9 years (2019 est.)<br>
 <strong>note:</strong> data do not cover Abkhazia and South Ossetia<br>
 
 **Maternal mortality ratio**<br>

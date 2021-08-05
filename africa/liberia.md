@@ -144,8 +144,8 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-19.2 years (2013 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.1 years (2019/20 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 661 deaths/100,000 live births (2017 est.)<br>

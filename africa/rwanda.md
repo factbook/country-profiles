@@ -142,8 +142,8 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-23 years (2014/15 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+22.7 years (2014/15 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 248 deaths/100,000 live births (2017 est.)<br>
@@ -688,5 +688,5 @@ the RDF's inventory includes mostly Soviet-era and older Western - mostly French
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 74,759 (Democratic Republic of the Congo), 47,911 (Burundi) (2021)<br>
+_refugees (country of origin)_: 74,836 (Democratic Republic of the Congo), 47,911 (Burundi) (2021)<br>
 

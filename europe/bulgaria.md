@@ -142,7 +142,7 @@ _65 years and over_: 0.67 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-27.1 years (2017 est.)<br>
+26.3 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 10 deaths/100,000 live births (2017 est.)<br>
@@ -711,7 +711,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,551 (Syria) (2019)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 60,715 estimated refugee and migrant arrivals (January 2015-June 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 61,920 estimated refugee and migrant arrivals (January 2015-July 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions<br>

@@ -143,8 +143,8 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.1 years (2015/16 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 349 deaths/100,000 live births (2017 est.)<br>
@@ -699,5 +699,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,551 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,241 (Burundi) (refugees and asylum seekers), 6,939 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 31,409 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,241 (Burundi) (refugees and asylum seekers), 6,939 (Rwanda) (refugees and asylum seekers) (2021)<br>
 

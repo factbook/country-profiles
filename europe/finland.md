@@ -142,7 +142,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.2 years (2017 est.)<br>
+29.4 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 3 deaths/100,000 live births (2017 est.)<br>
@@ -340,7 +340,7 @@ _FAX_: [1] (202) 298-6030<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert "Bob" Frank PENCE (since 24 May 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Ian CAMPBELL (since 14 January 2021)<br>
 _telephone_: [358] (9) 6162-50<br>
 _embassy_: Itainen Puistotie 14B, 00140 Helsinki<br>
 _mailing address_: APO AE 09723<br>

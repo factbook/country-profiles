@@ -146,7 +146,7 @@ _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
 21.7 years (2015 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 83 deaths/100,000 live births (2017 est.)<br>
@@ -340,9 +340,9 @@ _elections/appointments_: president directly elected by absolute majority vote i
 _election results_: <em>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><br><em>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br> Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
-_elections_: <strong> </strong><br> Senate - last held on 11 March 2018 (next to be held in March 2022)<br> Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)<br>
-_election results_: <br> Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br> Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
+_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
+_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held in March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>
@@ -708,7 +708,7 @@ Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: 
 3.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Military Forces of Colombia (FMC) have approximately 295,000 total active troops (235,000 Army; 45,000 Navy, including about 22,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2020)<br>
+the Military Forces of Colombia (FMC) have approximately 295,000 total active troops (235,000 Army; 45,000 Navy, including about 22,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Brazil, Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2019 est.)<br>

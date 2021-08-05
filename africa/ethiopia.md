@@ -144,8 +144,8 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 1 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20 years (2016 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.3 years (2019 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 401 deaths/100,000 live births (2017 est.)<br>
@@ -372,7 +372,7 @@ _consulate(s) general_: Los Angeles, Seattle<br>
 _consulate(s)_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Deputy Chief of Mission David RENZ (since January 2021)<br> <p> </p><br>
+_chief of mission_: Ambassador Geeta PASI (since 1 March 2021)<br> <p> </p><br>
 _telephone_: [251] 11 130-6000<br>
 _embassy_: Entoto Street, P.O. Box 1014, Addis Ababa<br>
 _mailing address_: P.O. Box 1014, Addis Ababa<br>

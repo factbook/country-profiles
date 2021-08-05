@@ -144,8 +144,8 @@ _65 years and over_: 1 male(s)/female<br>
 _total population_: 1.08 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.3 years (2012 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.6 years (2012 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 252 deaths/100,000 live births (2017 est.)<br>
@@ -351,7 +351,7 @@ _telephone_: [1] (202) 797-1000<br>
 _FAX_: [1] (301) 332-0668<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Robert E. WHITEHEAD (since March 2019); note - also accredited to Sao Tome and Principe<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Samuel R. WATSON; note - also accredited to Sao Tome and Principe<br>
 _telephone_: [241] 01-45-71-00<br>
 _embassy_: Sabliere, B.P. 4000, Libreville<br>
 _mailing address_: Centre Ville, B. P. 4000, Libreville; pouch: 2270 Libreville Place, Washington, DC 20521-2270<br>

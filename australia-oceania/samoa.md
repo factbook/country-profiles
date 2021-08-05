@@ -159,7 +159,7 @@ _female_: 77.98 years (2021 est.)<br>
 2.46 children born/woman (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
-26.9% (2014)<br>
+16.6% (2019/20)<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>

@@ -331,7 +331,7 @@ _consulate(s) general_: Miami, New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Linda S. TAGLIALATELA (since 1 February 2016) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
 _telephone_: [1] (246) 227-4000<br>
-_embassy_: Wildey Business Park, Wildey, St. Michael BB 14006, W.I.<br>
+_embassy_: Wildey Business Park, St. Michael BB 14006, W.I.<br>
 _mailing address_: P. O. Box 302, Bridgetown BB 11000; (Department Name) Unit 3120, DPO AA 34055<br>
 _FAX_: [1] (246) 431-0179<br>
 
@@ -629,7 +629,7 @@ Royal Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2
 0.7% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (2020)<br>
+the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RBDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>

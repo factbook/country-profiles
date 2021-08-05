@@ -142,7 +142,7 @@ _65 years and over_: 0.87 male(s)/female<br>
 _total population_: 0.98 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.8 years (2017/18 est.)<br>
+24.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 15 deaths/100,000 live births (2017 est.)<br>
@@ -349,9 +349,9 @@ _FAX_: [1] (202) 628-7342<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Leyla MOSES-ONES (since August 2018)<br>
+_chief of mission_: Ambassador Yuri KIM (since 27 January 2020)<br>
 _telephone_: [355] (4) 2247-285<br>
-_embassy_: Rruga e Elbasanit, 103, Tirana<br>
+_embassy_: Rruga e Elbasanit, No. 103, Tirana<br>
 _mailing address_: US Department of State, 9510 Tirana Place, Dulles, VA 20189-9510<br>
 _FAX_: [355] (4) 2232-222<br>
 

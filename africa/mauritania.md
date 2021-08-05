@@ -684,7 +684,7 @@ Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic
 2.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2020)<br>
+the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, including Brazil, China, France, and Turkey (2020)<br>

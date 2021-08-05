@@ -711,7 +711,7 @@ note: the National Guard was formed in 2019 and consists of personnel from the F
 0.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 250,000 active personnel (180,000 Army; 60,000 Navy, including 20-25,000 marines; 8,000 Air Force); approximately 90-100,000 National Guard (2020)<br>
+information varies; approximately 250,000 active personnel (180,000 Army; 60,000 Navy, including 20-25,000 marines; 8,000 Air Force); approximately 90-100,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles (2020)<br>

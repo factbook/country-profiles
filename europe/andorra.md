@@ -132,6 +132,9 @@ _55-64 years_: 1.12 male(s)/female<br>
 _65 years and over_: 1.03 male(s)/female<br>
 _total population_: 1.06 male(s)/female (2020 est.)<br>
 
+**Mother's mean age at first birth**<br>
+32.8 years (2019)<br>
+
 **Infant mortality rate**<br>
 _total_: 3.5 deaths/1,000 live births<br>
 _male_: 3.59 deaths/1,000 live births<br>

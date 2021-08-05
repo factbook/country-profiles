@@ -142,7 +142,7 @@ _65 years and over_: 0.79 male(s)/female<br>
 _total population_: 0.96 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.6 years (2017 est.)<br>
+29.8 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 7 deaths/100,000 live births (2017 est.)<br>
@@ -346,7 +346,7 @@ _FAX_: [1] (202) 298-4249<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Robin S. QUINVILLE (since June 2020)<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Woodward "Clark" PRICE (since 1 July 2021)<br>
 _telephone_: [49] (30) 8305-0<br>
 _embassy_: Clayallee 170, 14191 Berlin<br>
 _mailing address_: Clayallee 170, 14191 Berlin<br>

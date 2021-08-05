@@ -576,7 +576,7 @@ _major seaport(s)_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2019)<br>
+no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2020)<br>
 
 **Military - note**<br>
 Dominica participates in the Regional Security System (RSS) an international agreement for the defense and security of the eastern Caribbean region<br>

@@ -143,8 +143,8 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-18.9 years (2011 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+19.2 years (2011 est.)<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 289 deaths/100,000 live births (2017 est.)<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,009 (Democratic Republic of Congo) (refugees and asylum seekers), 8,887 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,383 (Democratic Republic of Congo) (refugees and asylum seekers), 8,887 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

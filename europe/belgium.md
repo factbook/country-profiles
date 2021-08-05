@@ -142,7 +142,7 @@ _65 years and over_: 0.78 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29 years (2018 est.)<br>
+29.2 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 5 deaths/100,000 live births (2017 est.)<br>
@@ -343,7 +343,7 @@ _FAX_: [1] (202) 333-3079<br>
 _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Ronald GIDWITZ (since 4 July 2018)<br>
+_chief of mission_: Ambassador (vacant); Nicholas BERLINER (since 20 January 2021)<br>
 _telephone_: [32] (2) 811-4000<br>
 _embassy_: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels<br>
 _mailing address_: PSC 82, Box 002, APO AE 09710<br>

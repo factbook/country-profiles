@@ -356,7 +356,7 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, Washington, DC<br
 <strong>note:</strong> in September 2008, the US expelled the Bolivian ambassador to the US in reciprocity for Bolivia expelling the US ambassador to Bolivia; in November 2019, the interim Bolivian Government names Oscar SERRATE Cuellar as its temporary special representative to the US<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Bruce WILLIAMSON (since December 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Charisse PHILLIPS (since August 2020)<br>
 _telephone_: [591] (2) 216-8000<br>
 _embassy_: Avenida Arce 2780, Casilla 425, La Paz<br>
 _mailing address_: 3220 La Paz Place, Dulles, VA, 20189-3220<br>
@@ -695,7 +695,7 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 1.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-size assessments for the Bolivian Armed Forces vary; approximately 40,000 active troops, including conscripts (27,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police (2020)<br>
+information varies; approximately 40,000 active troops (27,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2020)<br>

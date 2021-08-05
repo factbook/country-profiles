@@ -369,7 +369,7 @@ _FAX_: [1] (202) 667-1882<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sandra CLARK (since 25 September 2020)<br>
 _telephone_: [226] 25-49-53-00<br>
-_embassy_: Rue 15.873, Avenue Sembene Ousmane, Ouaga 2000, Secteur 15<br>
+_embassy_: Secteur 15, Ouaga 2000, Avenue Sembene Ousmane, Rue 15.873, Ouagadougou<br>
 _mailing address_: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440<br>
 _FAX_: [226] 25-49-56-28<br>
 

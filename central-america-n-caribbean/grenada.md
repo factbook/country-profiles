@@ -317,7 +317,7 @@ _consulate(s) general_: Miami<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada<br>
 _telephone_: [1] (473) 444-1173 through 1176<br>
-_embassy_: Lance-aux-Epines Stretch, Saint George's<br>
+_embassy_: Lance-aux-Epines, Saint George's<br>
 _mailing address_: P. O. Box 54, Saint George's<br>
 _FAX_: [1] (473) 444-4820<br>
 

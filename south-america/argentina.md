@@ -351,7 +351,7 @@ _FAX_: [1] (202) 332-3171<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Edward Charles PRADO (since 16 May 2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires MaryKay CARLSON (since 20 January 2021)<br>
 _telephone_: [54] (11) 5777-4533<br>
 _embassy_: Avenida Colombia 4300, C1425GMN Buenos Aires<br>
 _mailing address_: international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034<br>
@@ -697,7 +697,7 @@ Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica A
 0.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 83,000 active duty personnel (50,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2020)<br>
+information varies; approximately 83,000 active duty personnel (50,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of Argentina's armed forces is a mix of domestically-produced and mostly older imported weapons, largely from Europe and the US; since 2010, France and the US are the leading suppliers of equipment; Argentina has an indigenous defense industry that can produce air, land, and sea systems (2020)<br>

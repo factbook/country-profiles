@@ -146,8 +146,8 @@ _65 years and over_: 0.8 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.4 years (2011/12 est.)<br>
-<strong>note:</strong> median age a first birth among women 25-29<br>
+20.3 years (2011/12 est.)<br>
+<strong>note:</strong> median age a first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 65 deaths/100,000 live births (2017 est.)<br>
@@ -692,7 +692,7 @@ note - the PMOP reports to military authorities, but conducts operations sanctio
 1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2020)<br>
+the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from Colombia, Israel, Netherlands, Taiwan, and the US (2020)<br>

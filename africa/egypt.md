@@ -146,8 +146,8 @@ _65 years and over_: 0.92 male(s)/female<br>
 _total population_: 1.05 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-22.7 years (2014 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+22.6 years (2014 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 37 deaths/100,000 live births (2017 est.)<br>
@@ -365,6 +365,7 @@ _telephone_: [20-2] 2797-3300<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo<br>
 _FAX_: [20-2] 2797-3200<br>
+_consulate(s) general_: Alexandria<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the national emblem (a gold Eagle of Saladin facing the hoist side with a shield superimposed on its chest above a scroll bearing the name of the country in Arabic) centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>
@@ -702,7 +703,7 @@ note: some tribal militias in the Sinai Peninsula cooperate with the Egyptian mi
 1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-size estimates for the Egyptian Armed Forces (EAF) vary; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
+information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2020)<br>

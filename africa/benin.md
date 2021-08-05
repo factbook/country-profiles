@@ -144,8 +144,8 @@ _65 years and over_: 0.84 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-20.4 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+20.5 years (2017/18 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 397 deaths/100,000 live births (2017 est.)<br>
@@ -368,7 +368,7 @@ _FAX_: [1] (202) 265-1996<br>
 _chief of mission_: Ambassador Patricia MAHONEY (since 18 January 2019)<br>
 _telephone_: [229] 21-30-06-50<br>
 _embassy_: Marina Avenue, 01 BP 2012, Cotonou<br>
-_mailing address_: 01 B. P. 2012, Cotonou<br>
+_mailing address_: 01 B.P. 2012, Cotonou<br>
 _FAX_: [229] 21-30-03-84<br>
 
 **Flag description**<br>

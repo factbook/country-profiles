@@ -147,8 +147,8 @@ _65 years and over_: 0.77 male(s)/female<br>
 _total population_: 0.97 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-25 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+24.7 years (2015/16 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 250 deaths/100,000 live births (2017 est.)<br>
@@ -339,8 +339,8 @@ _residency requirement for naturalization_: none<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Commander in Chief Sr. Gen. MIN AUNG HLAING; note - power was given to MIN AUNG HLAING following a military takeover of the government and the declaration of a state of emergency on 1 February 2021; on 2 February, MIN AUG HLAING established a State Administration Council as the executive governing body; the Council is chaired by MIN AUNG HLAING and has 16 members (8 civilian and 8 military)<br>
-_head of government_: Commander in Chief Sr. Gen. MIN AUNG HLAING; note - power was given to MIN AUNG HLAING following a military takeover of the government and the declaration of a state of emergency on 1 February 2021<br>
+_chief of state_: Prime Minister Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - MIN AUNG HLAING assumed the role of prime minister of a caretaker government that replaces the State Administration Council (SAC) on 1 August 2021; the SAC, chaired by MIN AUNG HLAING, had served as the executive governing body since 2 February 2021, following the 1 February 2021 military takeover of the government and the declaration of a state of emergency<br>
+_head of government_: Prime Minister Sr. Gen. MIN AUNG HLAING<br>
 _cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military replaced the cabinet<br>
 _elections/appointments_: president indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice-presidents (president elected for a 5-year term); election last held on 28 March 2018<br>
 _election results_: WIN MYINT elected president; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT was placed under arrest following the military takeover on 1 February 2021<br>
@@ -372,10 +372,10 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Thomas J. VAJDA (since 19 January 2021)<br>
-_telephone_: [95] (1) 536-509, 535-756, 538-038<br>
+_telephone_: [95] (1) 753-6509, 753-5756, 753-8038<br>
 _embassy_: 110 University Avenue, Kamayut Township, Rangoon<br>
 _mailing address_: Box B, APO AP 96546<br>
-_FAX_: [95] (1) 511-069<br>
+_FAX_: [95] (1) 751-1069<br>
 
 **Flag description**<br>
 design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation<br>

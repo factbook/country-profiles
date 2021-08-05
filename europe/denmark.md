@@ -145,7 +145,7 @@ _65 years and over_: 0.85 male(s)/female<br>
 _total population_: 0.99 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-29.2 years (2017 est.)<br>
+29.7 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 4 deaths/100,000 live births (2017 est.)<br>
@@ -341,7 +341,7 @@ _FAX_: [1] (202) 328-1470<br>
 _consulate(s) general_: Chicago, Houston, New York, Palo Alto (CA)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Carla SANDS (since 15 December 2017)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Stuart A. DWYER (since 20 January 2021)<br>
 _telephone_: [45] 33 41 71 00<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Copenhagen 0<br>
 _mailing address_: Unit 5280 ODC, DPO AE 09716<br>

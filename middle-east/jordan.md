@@ -141,8 +141,8 @@ _65 years and over_: 0.96 male(s)/female<br>
 _total population_: 1.11 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-24.8 years (2017/18 est.)<br>
-<strong>note:</strong> median age at first birth among women 30-34<br>
+24.6 years (2017/18 est.)<br>
+<strong>note:</strong> median age at first birth among women 25-49<br>
 
 **Maternal mortality ratio**<br>
 46 deaths/100,000 live births (2017 est.)<br>
@@ -697,7 +697,7 @@ the JAF inventory is comprised of a wide mix of imported weapons, mostly second-
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,272,411 (Palestinian refugees) (2020); 668,332 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
+_refugees (country of origin)_: 2,272,411 (Palestinian refugees) (2020); 669,497 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
 _stateless persons_: 17 (2020)<br>
 
 **Trafficking in persons**<br>

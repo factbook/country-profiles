@@ -143,7 +143,7 @@ _65 years and over_: 0.68 male(s)/female<br>
 _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
-27.1 years (2017 est.)<br>
+26.9 years (2019 est.)<br>
 
 **Maternal mortality ratio**<br>
 19 deaths/100,000 live births (2017 est.)<br>
@@ -704,7 +704,7 @@ Romania officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 7,906 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 7,942 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

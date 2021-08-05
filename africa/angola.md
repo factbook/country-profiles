@@ -144,7 +144,7 @@ _total population_: 0.95 male(s)/female (2020 est.)<br>
 
 **Mother's mean age at first birth**<br>
 19.4 years (2015/16 est.)<br>
-<strong>note:</strong> median age at first birth among women 25-29<br>
+<strong>note:</strong> median age at first birth among women 20-49<br>
 
 **Maternal mortality ratio**<br>
 241 deaths/100,000 live births (2017 est.)<br>
@@ -360,8 +360,8 @@ _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Nina Maria FITE (since 14 February 2018)<br>
-_telephone_: [244] 946440977<br>
-_embassy_: 32 Rua Houari Boumedienne (in the Miramar area of Luanda), Luanda, C.P. 6468<br>
+_telephone_: [222] 641 000<br>
+_embassy_: Rua Houari Boumedienne, 32 (in the Miramar area of Luanda), Luanda, C.P. 6468<br>
 _mailing address_: international mail: Caixa Postal 6468, Luanda; pouch: US Embassy Luanda, US Department of State, 2550 Luanda Place, Washington, DC 20521-2550<br>
 _FAX_: [244] (222) 64-1000<br>
 
@@ -708,7 +708,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,472 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,274 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
+_refugees (country of origin)_: 37,434 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,274 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
 
 **Illicit drugs**<br>
 used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa<br>

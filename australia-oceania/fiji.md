@@ -340,9 +340,9 @@ _telephone_: [1] (202) 466-8320<br>
 _FAX_: [1] (202) 466-8325<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Joseph James CELLA (since 23 December 2019); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Tony GREUBEL (since 20 January 2021); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
 _telephone_: [679] 331-4466<br>
-_embassy_: 158 Princes Rd, Tamavua<br>
+_embassy_: 158 Princes Rd, Tamavua, Suva<br>
 _mailing address_: P. O. Box 218, Suva<br>
 _FAX_: [679] 330-8685<br>
 

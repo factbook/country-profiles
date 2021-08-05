@@ -165,7 +165,7 @@ _female_: 84.19 years (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 79.9% (2014/15)<br>
-<strong>note:</strong> percent of women aged 18-45<br>
+<strong>note:</strong> percent of women aged 16-49<br>
 
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>

@@ -667,7 +667,7 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021
 1.3% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Suriname Army is comprised of approximately 1,800 active personnel (ground, air, naval, and military police) (2020)<br>
+the Suriname Army is comprised of approximately 1,800 active personnel (ground, air, naval, and military police) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from Colombia, France, India, and the US (2020)<br>
