@@ -87,7 +87,7 @@ Arab 90%, Afro-Asian 10%<br>
 
 **Languages**<br>
 Arabic (official)<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official; citizens are 85-90% Sunni and 10-15% Shia), other (includes Eastern Orthodox, Protestant, Roman Catholic, Jewish, Hindu, Buddhist, and Sikh) (2012 est.)<br>
@@ -303,15 +303,15 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; restricted to males; universal for municipal elections<br>
 
+**Legislative branch**<br>
+_description_: unicameral Consultative Council or Majlis al-Shura (150 seats; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
+<strong>note:</strong> composition as of 2013 - men 121, women 30, percent of women 19.9%<br>
+
 **Executive branch**<br>
 _chief of state_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985); note - the monarch is both chief of state and head of government<br>
 _head of government_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
-
-**Legislative branch**<br>
-_description_: unicameral Consultative Council or Majlis al-Shura (150 seats; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
-<strong>note:</strong> composition as of 2013 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>
@@ -335,8 +335,9 @@ _consulate(s) general_: Houston, Los Angeles, New York<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Martina STRONG (since February 2021)<br>
 _telephone_: [966] (11) 488-3800<br>
 _embassy_: P.O. Box 94309, Riyadh 11693<br>
-_mailing address_: American Embassy, Unit 61307, APO AE 09803-1307; International Mail: P. O. Box 94309, Riyadh 11693<br>
+_mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
 _FAX_: [966] (11) 488-7360<br>
+_email address_: RiyadhACS@state.gov<br>
 _consulate(s) general_: Dhahran, Jiddah (Jeddah)<br>
 
 **Flag description**<br>

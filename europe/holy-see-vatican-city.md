@@ -73,7 +73,7 @@ Italian, Swiss, Argentinian, and other nationalities from around the world (2017
 
 **Languages**<br>
 Italian, Latin, French, various other languages<br>
-_printed major-language sample_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic<br>
@@ -177,17 +177,17 @@ _residency requirement for naturalization_: not applicable<br>
 **Suffrage**<br>
 election of the pope is limited to cardinals less than 80 years old<br>
 
+**Legislative branch**<br>
+_description_: unicameral Pontifical Commission for Vatican City State or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; members appointed by the pope to serve 5-year terms)<br>
+_elections_: last held on 11 July 2018<br>
+_election results_: composition - men 7, women 0<br>
+
 **Executive branch**<br>
 _chief of state_: Pope FRANCIS (since 13 March 2013)<br>
 _head of government_: Secretary of State Cardinal Pietro PAROLIN (since 15 October 2013); note - Head of Government of Vatican City is President Cardinal Giuseppe BERTELLO (since 1 October 2011)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
 _elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope<br>
 _election results_: Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>
-
-**Legislative branch**<br>
-_description_: unicameral Pontifical Commission for Vatican City State or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; members appointed by the pope to serve 5-year terms)<br>
-_elections_: last held on 11 July 2018<br>
-_election results_: composition - men 7, women 0<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>
@@ -210,8 +210,8 @@ _FAX_: [1] (202) 337-4036<br>
 _chief of mission_: Ambassador Callista GINGRICH (since 22 December 2017)<br>
 _telephone_: [39] (06) 4674-1<br>
 _embassy_: American Embassy to the Holy See, Via Sallustiana, 49, 00187 Rome<br>
-_mailing address_: Unit 5660, Box 66, DPO AE 09624-0066<br>
-_FAX_: [39] (06) 4674-3412<br>
+_mailing address_: 5660 Holy See Place, Washington DC&nbsp; 20521-5660<br>
+_FAX_: [39] (06) 4674-3411<br>
 
 **Flag description**<br>
 two vertical bands of yellow (hoist side) and white with the arms of the Holy See, consisting of the crossed keys of Saint Peter surmounted by the three-tiered papal tiara, centered in the white band; the yellow color represents the pope's spiritual power, the white his worldly power<br>

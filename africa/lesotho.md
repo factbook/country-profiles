@@ -324,16 +324,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br> National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
+_elections_: Senate - last nominated by the king 11 July 2017 (next NA)<br> National Assembly - last held on 3 June 2017 (next to be held in 2022)<br>
+_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percent of women 24.2%<br> National Assembly - percent of votes by party - ABC 40.5%, DC 25.8%, LCD 9%, AD 7.3%, MEC 5.1%, BNP 4.1, PFD 2.3%, other 5.9%; seats by party - ABC 51, DC 30, LCD 11, AD 9, MEC 6, BNP 5, PFD 3, other 5; composition - men 95, women 27, percent of women 22.5%; note - total Parliament percent of women 22.9%<br>
+
 **Executive branch**<br>
 _chief of state_: King LETSIE III (since 7 February 1996); note - King LETSIE III formerly occupied the throne from November 1990 to February 1995 while his father was in exile&nbsp;<br>
 _head of government_: Prime Minister Moeketsi MAJORO (since 20 May 2020); note - Prime Minister Thomas THABANE resigned on 19 May 2020<br>
 _cabinet_: consists of the prime minister, appointed by the King on the advice of the Council of State, the deputy prime minister, and 26 other ministers&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary, but under the terms of the constitution that came into effect after the March 1993 election, the monarch is a "living symbol of national unity" with no executive or legislative powers; under traditional law, the college of chiefs has the power to depose the monarch, to determine next in line of succession, or to serve as regent in the event that a successor is not of mature age; following legislative elections, the leader of the majority party or majority coalition in the Assembly automatically becomes prime minister<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (33 seats; 22 principal chiefs and 11 other senators nominated by the king with the advice of the Council of State, a 13-member body of key government and non-government officials; members serve 5-year terms)<br> National Assembly (120 seats; 80 members directly elected in single-seat constituencies by simple majority vote and 40 elected through proportional representation; members serve 5-year terms)<br>
-_elections_: Senate - last nominated by the king 11 July 2017 (next NA)<br> National Assembly - last held on 3 June 2017 (next to be held in 2022)<br>
-_election results_: Senate - percent of votes by party - NA, seats by party - NA; composition - men 25, women 8, percent of women 24.2%<br> National Assembly - percent of votes by party - ABC 40.5%, DC 25.8%, LCD 9%, AD 7.3%, MEC 5.1%, BNP 4.1, PFD 2.3%, other 5.9%; seats by party - ABC 51, DC 30, LCD 11, AD 9, MEC 6, BNP 5, PFD 3, other 5; composition - men 95, women 27, percent of women 22.5%; note - total Parliament percent of women 22.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president, such number of justices of appeal as set by Parliament, and the Chief Justice and the puisne judges of the High Court ex officio); High Court (consists of the chief justice and such number of puisne judges as set by Parliament); note - both the Court of Appeal and the High Court have jurisdiction in constitutional issues<br>
@@ -356,8 +356,9 @@ _FAX_: [1] (202) 234-6815<br>
 _chief of mission_: Ambassador Rebecca E. GONZALES (since 8 February 2018)<br>
 _telephone_: [266] 22 312 666<br>
 _embassy_: 254 Kingsway Road, Maseru West<br>
-_mailing address_: P.O. Box 333, Maseru 100, Lesotho<br>
+_mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
 _FAX_: [266] 22 310 116<br>
+_email address_: USConsularMaseru@state.gov<br>
 
 **Flag description**<br>
 three horizontal stripes of blue (top), white, and green in the proportions of 3:4:3; the colors represent rain, peace, and prosperity respectively; centered in the white stripe is a black Basotho hat representing the indigenous people; the flag was unfurled in October 2006 to celebrate 40 years of independence<br>

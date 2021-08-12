@@ -87,7 +87,7 @@ Japanese 97.9%, Chinese 0.6%, Korean 0.4%, other 1.1% (includes Vietnamese, Fili
 
 **Languages**<br>
 Japanese<br>
-_printed major-language sample_: <br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>必要不可欠な基本情報の源、ワールド・ファクトブック(Japanese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Shintoism 69%, Buddhism 66.7%, Christianity 1.5%, other 6.2% (2018 est.)<br>
@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019&nbsp;<br>
-_head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)&nbsp;<br>
-_cabinet_: Cabinet appointed by the prime minister&nbsp;<br>
-_elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-
 **Legislative branch**<br>
 _description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: <br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)<br>
 _election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
+
+**Executive branch**<br>
+_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019&nbsp;<br>
+_head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)&nbsp;<br>
+_cabinet_: Cabinet appointed by the prime minister&nbsp;<br>
+_elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues<br>
@@ -345,8 +345,9 @@ _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Joseph M. YOUNG (since 22 July 2019)<br>
 _telephone_: [81] (03) 3224-5000<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
-_mailing address_: Unit 9800, Box 300, APO AP 96303-0300<br>
+_mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
 _FAX_: [81] (03) 3505-1862<br>
+_email address_: TokyoACS@state.gov<br>
 _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
 _consulate(s)_: Fukuoka, Nagoya<br>
 

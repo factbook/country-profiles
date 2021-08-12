@@ -87,7 +87,7 @@ Khmer 97.6%, Cham 1.2%, Chinese 0.1%, Vietnamese 0.1%, other 0.9% (2013 est.)<br
 
 **Languages**<br>
 Khmer (official) 95.8%, minority languages 2.9%, Chinese .6%, Vietnamese .5%, other .2% (2019 est.)<br>
-_printed major-language sample_: <br>សៀវភៅហេតុការណនៅលើពិភពលោក។ ទីតាំងពត៏មានមូលដានគ្រឹះយាងសំខាន់។. (Khmer)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>សៀវភៅហេតុការណនៅលើពិភពលោក។ ទីតាំងពត៏មានមូលដានគ្រឹះយាងសំខាន់។. (Khmer)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist (official) 97.9%, Muslim 1.1%, Christian 0.5%, other 0.6% (2013 est.)<br>
@@ -329,16 +329,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br> National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br> Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)<br>
+_election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
+
 **Executive branch**<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN SEN (since 14 January 1985); Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992), TEA BANH, Gen., HOR NAMHONG, (since 16 July 2004), BIN CHHIN (since 5 September 2007), YIM CHHAI LY (since 24 September 2008), KE KIMYAN (since 12 March 2009), AUN PORNMONIROTH (since 24 September 2012), Prak SOKONN, CHEA SOPHARA (since 5 April 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br> National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br> Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2019<br>
@@ -361,8 +361,9 @@ _FAX_: [1] (202) 726-8381<br>
 _chief of mission_: Ambassador Patrick MURPHY (since 23 October 2019)<br>
 _telephone_: [855] (23) 728-000<br>
 _embassy_: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh<br>
-_mailing address_: Unit 8166, Box P, APO AP 96546<br>
+_mailing address_: 4540 Phnom Penh Place, Washington DC&nbsp; 20521-4540<br>
 _FAX_: [855] (23) 728-600<br>
+_email address_: ACSPhnomPenh@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>

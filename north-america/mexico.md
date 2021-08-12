@@ -88,7 +88,7 @@ Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, o
 
 **Languages**<br>
 Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%; note -indigenous languages include various Mayan, Nahuatl, and other regional languages (2005 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 82.7%, Pentecostal 1.6%, Jehovah's Witness 1.4%, other Evangelical Churches 5%, other 1.9%, none 4.7%, unspecified 2.7% (2010 est.)<br>
@@ -331,18 +331,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)<br>
+_elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
+_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16<br>
+<strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
+
 **Executive branch**<br>
 _chief of state_: President Andres Manuel LOPEZ OBRADOR (since 1 December 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Andres Manuel LOPEZ OBRADOR (since 1 December 2018)<br>
 _cabinet_: Cabinet appointed by the president; note - appointment of attorney general, the head of the Bank of Mexico, and senior treasury officials require consent of the Senate<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 6-year term; election last held on 1 July 2018 (next to be held in July 2024)<br>
 _election results_: <br><em>2018:</em> Andres Manuel LOPEZ OBRADOR elected president; percent of vote - Andres Manuel LOPEZ OBRADOR (MORENA) 53.2%, Ricardo ANAYA (PAN) 22.3%, Jose Antonio MEADE Kuribrena (PRI) 16.4%, Jaime RODRIGUEZ Calderon 5.2% (independent), other 2.9%<br><br><em>2012:</em> Enrique PENA NIETO elected president; percent of vote - Enrique PENA NIETO (PRI) 38.2%, Andres Manuel LOPEZ OBRADOR (PRD) 31.6%, Josefina Eugenia VAZQUEZ Mota (PAN) 25.4%, other 4.8%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>Senate - last held on 1 July 2018 (next to be held on 1 July 2024)<br>Chamber of Deputies - last held on 1 July 2018 (next to be held on 6 June 2021)<br>
-_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 193, PAN 79, PT 61, PES 58, PRI 42, MC 26, PRD 23, PVEM 17, PNA/PANAL 1; composition - men 259, women 241, percent of women 48.2%; note - total National Congress percent of women 48.4%; note - 6 June 2021 election results pending<br>
-<strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia de la Nacion (consists of the chief justice and 11 justices and organized into civil, criminal, administrative, and labor panels) and the Electoral Tribunal of the Federal Judiciary (organized into the superior court, with 7 judges including the court president, and 5 regional courts, each with 3 judges)<br>
@@ -369,8 +369,9 @@ _consulate(s)_: Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), 
 _chief of mission_: Ambassador (vacant); Charge d'Affaires John S. CREAMER (since 20 January 2021)<br>
 _telephone_: (011) [52]-55-5080-2000<br>
 _embassy_: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal<br>
-_mailing address_: P. O. Box 9000, Brownsville, TX 78520-9000<br>
+_mailing address_: 8700 Mexico City Place, Washington DC&nbsp; 20521-8700<br>
 _FAX_: (011) 52-55-5080-2005<br>
+_email address_: ACSMexicoCity@state.gov<br>
 _consulate(s) general_: Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
 **Flag description**<br>

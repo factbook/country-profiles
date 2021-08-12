@@ -79,7 +79,7 @@ Chinese 88.7%, Portuguese 1.1%, mixed 1.1%, other 9.2% (includes Macanese - mixe
 
 **Languages**<br>
 Cantonese 80.1%, Mandarin 5.5%, other Chinese dialects 5.3%, Tagalog 3%, English 2.8%, Portuguese 0.6%, other 2.8%; note - Chinese and Portuguese are official languages; Macanese, a Portuguese-based Creole, is also spoken (2016 est.)<br>
-_printed major-language sample_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2010 est.)<br>
@@ -247,17 +247,17 @@ see China<br>
 **Suffrage**<br>
 18 years of age in direct elections for some legislative positions, universal for permanent residents living in Macau for the past 7 years; note - indirect elections are limited to organizations registered as "corporate voters" and an election committee for the chief executive drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
+_elections_: last held on 17 September 2017 (next to be held on 12 September 2021)<br>
+_election results_: percent of vote - UMG 10%, UPD 9.7%, ACUM 8.6%, NE 8.3%, UPP 7.2, ANMD 6.6%, NUDM 6.1%, ACDM 5.9%, APMD 5.8%, Civic Watch 5.6%, ABL 5.5%, ANPM 5.3%, other 15.4%; seats by political group - UMG 2, UPD 2, ABL 1, ACDM 1, ACUM 1, ANMD 1, ANPM 1, APMD 1, Civic Watch 1, NE 1, NUDM 1, UPP 1; 12 seats filled by professional and business groups; 7 members appointed by the chief executive; composition - men 27, women 6, percent of women 18.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO Iat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023);chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
 _election results_: Fernando CHUI Sai On reelected chief executive; Election Committee vote - 380 of 396; note - HO Iat Seng was elected chief executive (receiving 392 out of 400 votes) on 24 August 2019 and will take office on 20 December 2019<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: last held on 17 September 2017 (next to be held on 12 September 2021)<br>
-_election results_: percent of vote - UMG 10%, UPD 9.7%, ACUM 8.6%, NE 8.3%, UPP 7.2, ANMD 6.6%, NUDM 6.1%, ACDM 5.9%, APMD 5.8%, Civic Watch 5.6%, ABL 5.5%, ANPM 5.3%, other 15.4%; seats by political group - UMG 2, UPD 2, ABL 1, ACDM 1, ACUM 1, ANMD 1, ANPM 1, APMD 1, Civic Watch 1, NE 1, NUDM 1, UPP 1; 12 seats filled by professional and business groups; 7 members appointed by the chief executive; composition - men 27, women 6, percent of women 18.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>

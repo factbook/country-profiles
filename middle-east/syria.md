@@ -88,7 +88,7 @@ Arab ~50%, Alawite ~15%, Kurd ~10%, Levantine ~10%, other ~15% (includes Druze, 
 
 **Languages**<br>
 Arabic (official), Kurdish, Armenian, Aramaic, Circassian, French, English<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 87% (official; includes Sunni 74% and Alawi, Ismaili, and Shia 13%), Christian 10% (includes Orthodox, Uniate, and Nestorian), Druze 3%<br>
@@ -306,17 +306,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
+_elections_: last held on 19 July 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Bashar al-ASAD (since 17 July 2000); Vice President Najah al-ATTAR (since 23 March 2006)<br>
 _head of government_: Prime Minister Hussein ARNOUS (since 30 August 2020); Deputy Prime Minister Ali Abdullah AYOUB (Gen.) (since 30 August 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021(next to be held in 2028); the president appoints the vice presidents, prime minister, and deputy prime ministers<br>
 _election results_: Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party)95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, Abdullah Sallum ABDULLAH (Socialist Unionist Party) 1.5%<br>
-
-**Legislative branch**<br>
-_description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
-_elections_: last held on 19 July 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -340,8 +340,9 @@ _FAX_: [1] (202) 234-9548<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
 _telephone_: [963] (11) 3391-4444<br>
 _embassy_: Abou Roumaneh, 2 Al Mansour Street, Damascus<br>
-_mailing address_: P. O. Box 29, Damascus<br>
+_mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
 _FAX_: [963] (11) 3391-3999<br>
+_email address_: AmmanACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>

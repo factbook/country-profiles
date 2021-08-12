@@ -88,7 +88,7 @@ Emirati 11.6%, South Asian 59.4% (includes Indian 38.2%, Bangladeshi 9.5%, Pakis
 
 **Languages**<br>
 Arabic (official), English, Hindi, Malayam, Urdu, Pashto, Tagalog, Persian<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 76%, Christian 9%, other (primarily Hindu and Buddhist, less than 5% of the population consists of Parsi, Baha'i, Druze, Sikh, Ahmadi, Ismaili, Dawoodi Bohra Muslim, and Jewish) 15% (2005 est.)<br>
@@ -309,6 +309,11 @@ _residency requirement for naturalization_: 30 years<br>
 **Suffrage**<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
+**Legislative branch**<br>
+_description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
+_elections_: last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)<br>
+_election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
+
 **Executive branch**<br>
 _chief of state_: President KHALIFA bin Zayid Al-Nuhayyan (since&nbsp;2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006)<br>
 _head of government_: Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009)<br>
@@ -316,11 +321,6 @@ _cabinet_: Council of Ministers announced by the prime minister and approved by 
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president<br>
 _election results_: KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA<br>
 <strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
-
-**Legislative branch**<br>
-_description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
-_elections_: last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)<br>
-_election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>
@@ -344,8 +344,9 @@ _consulate(s) general_: Boston, Los Angeles, New York<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Sean MURPHY (since August 2020)<br>
 _telephone_: [971] (2) 414-2200<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
-_mailing address_: P. O. Box 4009, Abu Dhabi<br>
+_mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _FAX_: [971] (2) 414-2603<br>
+_email address_: abudhabiacs@state.gov<br>
 _consulate(s) general_: Dubai<br>
 
 **Flag description**<br>
@@ -669,7 +670,6 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 7% of GDP (2015)<br>
 5.8% of GDP (2014)<br>
 6.1% of GDP (2013)<br>
-no public data available for 2015 or after 2016<br>
 
 **Military and security service personnel strengths**<br>
 the United Arab Emirates Armed Forces have approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>
@@ -678,7 +678,7 @@ the United Arab Emirates Armed Forces have approximately 65,000 total active per
 the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier by far, followed by France and Russia (2020)<br>
 
 **Military deployments**<br>
-est. a few thousand Yemen (2021)<br>
+estimates vary; reportedly a few thousand remain in Yemen (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men; 17 years of age for male volunteers with parental approval; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2019)<br>

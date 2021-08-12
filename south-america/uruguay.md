@@ -88,7 +88,7 @@ White 87.7%, Black 4.6%, Indigenous 2.4%, other 0.3%, none or unspecified 5% (20
 
 **Languages**<br>
 Spanish (official)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 47.1%, non-Catholic Christians 11.1%, nondenominational 23.2%, Jewish 0.3%, atheist or agnostic 17.2%, other 1.1% (2006 est.)<br>
@@ -319,17 +319,17 @@ _residency requirement for naturalization_: 3-5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
+_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percent of women 32.3%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 75, women 24, percent of women 24.2%; note - total General Assembly percent of women 26.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020); the president is both chief of state and head of government<br>
 _head of government_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2019 with a runoff election on 24 November 2019 (next to be held in October 2024, and a runoff if needed in November 2024)<br>
 _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected president - results of the first round of presidential elections: percent of vote - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, and Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; results of the second round: percent of vote - Luis Alberto LACALLE POU (Blanco) 50.6%, Daniel MARTINEZ (FA) 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (Blanco) 43.4%<br>
-
-**Legislative branch**<br>
-_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br> Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
-_election results_: <br>Chamber of Senators - percent of vote by coalition/party - na; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3;<br><br> Chamber of Representatives - percent of vote by coalition/party - na; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of 5 judges)<br>
@@ -353,8 +353,9 @@ _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 _chief of mission_: Ambassador Kenneth S. GEORGE (since 2 September 2019)<br>
 _telephone_: (+598) 1770-2000<br>
 _embassy_: Laura Muller 1776, Montevideo 11200<br>
-_mailing address_: APO AA 34035<br>
+_mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
 _FAX_: [598] (2) 1770-2128<br>
+_email address_: MontevideoACS@state.gov<br>
 
 **Flag description**<br>
 nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br>

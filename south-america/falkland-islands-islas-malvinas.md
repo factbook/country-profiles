@@ -215,16 +215,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 8 members directly elected by majority vote and 2 appointed ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms)<br>
+_elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
+_election results_: percent of vote - NA; seats - independent 8; composition -men 8, women 2, percent of women 20%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel PHILLIPS (since 12 September 2017)<br>
 _head of government_: Chief Executive Barry ROWLAND (since 3 October 2016)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 8 members directly elected by majority vote and 2 appointed ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms)<br>
-_elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition -men 8, women 2, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president, the chief justice as an ex officio, non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

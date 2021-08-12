@@ -227,16 +227,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)<br>
+_elections_: last held on 18 November 2019 (next scheduled for 2024)<br>
+_election results_: percent of vote by party -&nbsp;MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Andrew PEARCE (since 1 February 2018)<br>
 _head of government_: Premier Easton TAYLOR-FARRELL (since&nbsp;19 November 2019); note - effective with The Constitution Order 2010, effective October 2010, the office of premier replaced the office of chief minister<br>
 _cabinet_: Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly (11 seats; 9 members directly elected in a single constituency by absolute majority vote in 2 rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)<br>
-_elections_: last held on 18 November 2019 (next scheduled for 2024)<br>
-_election results_: percent of vote by party -&nbsp;MCAP 42.7%, PDM 29.9%, other 17.1%; seats by party - MCAP 5, PDM 3, independent 1<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 1 assigned to Montserrat; Montserrat is also a member of the Caribbean Court of Justice<br>

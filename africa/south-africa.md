@@ -90,7 +90,7 @@ Black African 80.9%, Colored 8.8%, White 7.8%, Indian/Asian 2.5% (2018 est.)<br>
 
 **Languages**<br>
 isiZulu (official) 25.3%, isiXhosa (official) 14.8%, Afrikaans (official) 12.2%, Sepedi (official) 10.1%, Setswana (official) 9.1%, English (official) 8.1%, Sesotho (official) 7.9%, Xitsonga (official) 3.6%, siSwati (official) 2.8%, Tshivenda (official) 2.5%, isiNdebele (official) 1.6%, other (includes Khoi, Nama, and San languages) 2%; note - data represent language spoken most often at home (2018 est.)<br>
-_printed major-language sample_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
+_major-language sample(s)_: <br>Die Wereld Feite Boek, n’ onontbeerlike bron vir basiese informasie. (Afrikaans)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
 Christian 86%, ancestral, tribal, animist, or other traditional African religions 5.4%, Muslim 1.9%, other 1.5%, nothing in particular 5.2% (2015 est.)<br>
@@ -328,17 +328,17 @@ _residency requirement for naturalization_: 1 year<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br> National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
+_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; note - 36 appointed seats not filled<br> National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 237, women 163, percent of women 40.8%<br>
+
 **Executive branch**<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President David MABUZA (26 February 2018); note - the president is both chief of state and head of government; Jacob ZUMA resigned the presidency on 14 February 2018&nbsp;<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); deputy president David MABUZA (26 February 2018<br>
 _cabinet_: &nbsp;Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024)<br>
 _election results_: Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br> National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
-_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; note - 36 appointed seats not filled<br> National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 237, women 163, percent of women 40.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -362,8 +362,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _chief of mission_: Ambassador Lana MARKS (since 28 January 2020)<br>
 _telephone_: [27] (12) 431-4000<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
-_mailing address_: P.O. Box 9536, Pretoria 0001<br>
+_mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _FAX_: [27] (12) 342-2299<br>
+_email address_: ACSJohannesburg@state.gov<br>
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
 **Flag description**<br>

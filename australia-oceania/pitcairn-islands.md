@@ -187,17 +187,17 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal with three years residency<br>
 
+**Legislative branch**<br>
+_description_: unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; elected members serve 1-year terms)<br>
+_elections_: last held in November 2017 (next to be held not later than December 2019)<br>
+_election results_: percent of vote - NA; seats - 5 independent; composition - men 5, women 5, percent of women 50%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by UK High Commissioner to New Zealand and Governor (nonresident) of the Pitcairn Islands Laura CLARK (since 25 January 2018)<br>
 _head of government_: Mayor and Chairman of the Island Council Charlene WARREN-PEU (since 1 January 2020)<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; governor and commissioner appointed by the monarch; island mayor directly elected by majority popular vote for a 3-year term; election last held on&nbsp;6 November 2019 (next to be held not later than December 2022)<br>
 _election results_: Charlene WARREN-PEU elected mayor and chairman of the Island Council; Island Council vote - NA<br>
-
-**Legislative branch**<br>
-_description_: unicameral Island Council (10 seats; 4 members directly elected by proportional representation vote, 1 nominated by the elected Council members, 2 appointed by the governor, and 3 ex-officio members - the governor, deputy governor, and commissioner; elected members serve 1-year terms)<br>
-_elections_: last held in November 2017 (next to be held not later than December 2019)<br>
-_election results_: percent of vote - NA; seats - 5 independent; composition - men 5, women 5, percent of women 50%<br>
 
 **Judicial branch**<br>
 _highest courts_: Pitcairn Court of Appeal (consists of the court president, 2 judges, and the Supreme Court chief justice, an ex-officio member); Pitcairn Supreme Court (consists of the chief justice and 2 judges); note - appeals beyond the Pitcairn Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

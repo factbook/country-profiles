@@ -87,7 +87,7 @@ Kongo 40.5%, Teke 16.9%, Mbochi 13.1%, foreigner 8.2%, Sangha 5.6%, Mbere/Mbeti/
 
 **Languages**<br>
 French (official), French Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)<br>
-_printed major-language sample_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 33.1%, Awakening Churches/Christian Revival 22.3%, Protestant 19.9%, Salutiste 2.2%, Muslim 1.6%, Kimbanguiste 1.5%, other 8.1%, none 11.3% (2010 est.)<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br> National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: <strong> </strong><br> Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br> National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
+_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br> <br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>
+
 **Executive branch**<br>
 _chief of state_: President Denis SASSOU-Nguesso (since 25 October 1997)<br>
 _head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
 _election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, turnout is 67.6%.<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br> National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br> Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br> National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br> <br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -363,7 +363,8 @@ _FAX_: [1] (202) 726-1860<br>
 _chief of mission_: Ambassador Todd P. HASKELL (since July 2017)<br>
 _telephone_: [242] 06 612-2000<br>
 _embassy_: 70-83 Section D, Maya-Maya Boulevard, Brazzaville<br>
-_mailing address_: B.P. 1015, Brazzaville<br>
+_mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
+_email address_: BrazzavilleACS@state.gov<br>
 
 **Flag description**<br>
 divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence<br>

@@ -85,7 +85,7 @@ Lao 53.2%, Khmou 11%, Hmong 9.2%, Phouthay 3.4%, Tai 3.1%, Makong 2.5%, Katong 2
 
 **Languages**<br>
 Lao (official), French, English, various ethnic languages<br>
-_printed major-language sample_: <br>ແຫລ່ງທີ່ຂາດບໍ່ໄດ້ສຳລັບຂໍ້ມູນຕົ້ນຕໍ່” (Lao)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>ແຫລ່ງທີ່ຂາດບໍ່ໄດ້ສຳລັບຂໍ້ມູນຕົ້ນຕໍ່” (Lao)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 64.7%, Christian 1.7%, none 31.4%, other/not stated 2.1% (2015 est.)<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
+_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President THONGLOUN Sisoulit (since 22 March 2021); Vice President PANI Yathotou; Vice President BOUNTHONG Chitmani (since 22 March 2021)<br>
 _head of government_: Prime Minister PHANKHAM Viphavan (since 22 March 2021); Deputy Prime Ministers CHANSAMON Chan-gnalat, SONXAI Siphandon, KIKEO Khaikhamphithoun (since 22 March 2021)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
 _election results_: THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>
@@ -356,8 +356,9 @@ _consulate(s)_: New York<br>
 _chief of mission_: Ambassador Peter HAYMOND (since 7 February 2020)<br>
 _telephone_: [856] 21-48-7000<br>
 _embassy_: Thadeua Road, Kilometer 9, Ban Somvang Tai, Hatsayfong District, Vientiane<br>
-_mailing address_: American Embassy Vientiane, Unit 46222, APO AP 96546-6222<br>
+_mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
 _FAX_: [856] 21-48-7190<br>
+_email address_: CONSLAO@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>

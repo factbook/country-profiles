@@ -295,17 +295,17 @@ _residency requirement for naturalization_: note - no procedure for naturalizati
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
+_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021); note - the president is both chief of state and head of government<br>
 _head of government_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021)<br>
 _cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held in November 2024)<br>
 _election results_: Surangel WHIPPS, Jr. elected president (in second round); percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>
@@ -331,6 +331,7 @@ _telephone_: [680] 587-2920<br>
 _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
 _mailing address_: P. O. Box 6028, Koror, Republic of Palau 96940<br>
 _FAX_: [680] 587-2911<br>
+_email address_: USEmbassykoror@palaunet.lcom<br>
 
 **Flag description**<br>
 light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility<br>

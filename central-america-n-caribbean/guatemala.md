@@ -86,7 +86,7 @@ Mestizo (mixed Amerindian-Spanish - in local Spanish called Ladino) 56%, Maya 41
 
 **Languages**<br>
 Spanish (official) 69.9%, Maya languages 29.7% (Q'eqchi' 8.3%, K'iche 7.8%, Mam 4.4%, Kaqchikel 3%, Q'anjob'al 1.2%, Poqomchi' 1%, other 4%), other 0.4% (includes Xinca and Garifuna); note - the 2003 Law of National Languages officially recognized 23 indigenous languages, including 21 Maya languages, Xinca, and Garifuna (2018 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 41.7%, Evangelical 38.8%, other 2.7%, atheist 0.1%, none 13.8%, unspecified 2.9% (2018 est.)<br>
@@ -327,18 +327,18 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 **Suffrage**<br>
 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
+**Legislative branch**<br>
+_description_: unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list,&nbsp;proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020<br>
+_elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1<br>
+<strong>note:</strong> current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 16 June 2019 with a runoff on 11 August 2019 (next to be held in June 2023)<br>
 _election results_: <em>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%<br><br><em>2015:</em> Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list,&nbsp;proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020<br>
-_elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1<br>
-<strong>note:</strong> current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates)<br>
@@ -364,8 +364,9 @@ _consulate(s)_: Lake Worth (FL), Tucson (AZ)<br>
 _chief of mission_: Ambassador William W. POPP (since 13 August 2020)<br>
 _telephone_: [502] 2326-4000<br>
 _embassy_: 7-01 Avenida Reforma, Zone 10, Guatemala City<br>
-_mailing address_: DPO AA 34024<br>
+_mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
 _FAX_: [502] 2326-4654<br>
+_email address_: AmCitsGuatemala@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>

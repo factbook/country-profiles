@@ -87,7 +87,7 @@ Belgian 75.2%, Italian 4.1%, Moroccan 3.7%, French 2.4%, Turkish 2%, Dutch 2%, o
 
 **Languages**<br>
 Dutch (official) 60%, French (official) 40%, German (official) less than 1%<br>
-_printed major-language sample_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 50%, Protestant and other Christian 2.5%, Muslim 5%, Jewish 0.4%, Buddhist 0.3%, atheist 9.2%, none 32.6% (2009 est.)<br>
@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Executive branch**<br>
-_chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
-_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van Quickenborne (since 1 October 2020), Sophie Wilmes (since 1 October 2020), Vincent Van Peteghem (since 1 October 2020), Frank Vandenbroucke (since 1 October 2020), Pierre-Yves Dermagne (since 1 October 2020), Petra De Sutter (since 1 October 2020), Georges Gilkinet (since 1 October 2020)<br>
-_cabinet_: Council of Ministers formally appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
-
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
 _election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
+
+**Executive branch**<br>
+_chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
+_head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van Quickenborne (since 1 October 2020), Sophie Wilmes (since 1 October 2020), Vincent Van Peteghem (since 1 October 2020), Frank Vandenbroucke (since 1 October 2020), Pierre-Yves Dermagne (since 1 October 2020), Petra De Sutter (since 1 October 2020), Georges Gilkinet (since 1 October 2020)<br>
+_cabinet_: Council of Ministers formally appointed by the monarch<br>
+_elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)<br>
@@ -346,8 +346,9 @@ _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 _chief of mission_: Ambassador (vacant); Nicholas BERLINER (since 20 January 2021)<br>
 _telephone_: [32] (2) 811-4000<br>
 _embassy_: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels<br>
-_mailing address_: PSC 82, Box 002, APO AE 09710<br>
+_mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _FAX_: [32] (2) 811-4500<br>
+_email address_: uscitizenBrussels@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>

@@ -80,7 +80,7 @@ Dinka (Jieng) 35.8%, Nuer (Naath) 15.6%, Shilluk (Chollo), Azande, Bari, Kakwa, 
 
 **Languages**<br>
 English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br>
 
 **Religions**<br>
 animist, Christian, Muslim<br>
@@ -297,17 +297,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Legislature consists of:<br>Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)<br> Transitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms<br>
+_elections_: <br>Council of States - established and members appointed 1 August 2011<br> National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br> National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Riek MACHAR Teny Dhurgon (since 22 February 2020); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (next election scheduled for 2015 postponed to 2018 and again to 2021)<br>
 _election results_: Salva KIIR Mayardit elected president; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Legislature consists of:<br>Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)<br> Transitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms<br>
-_elections_: <br>Council of States - established and members appointed 1 August 2011<br> National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br> National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of South Sudan (consists of the chief and deputy chief justices, 9 other justices and normally organized into panels of 3 justices, except when sitting as a Constitutional panel of all 9 justices chaired by the chief justice)<br>
@@ -327,9 +327,11 @@ _telephone_: [1] (202) 293-7940<br>
 _FAX_: [1] (202) 293-7941<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires a.i. Jon F. DANILOWICZ (since July 2020)<br><br>
+_chief of mission_: Ambassador (vacant); Chargé d’Affaires Jon F. DANILOWICZ (since July 2020)<br><br>
 _telephone_: [211] 912-105-188<br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
+_mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
+_email address_: ACSJuba@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan<br>

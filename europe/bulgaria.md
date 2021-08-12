@@ -87,7 +87,7 @@ Bulgarian 76.9%, Turkish 8%, Romani 4.4%, other 0.7% (including Russian, Armenia
 
 **Languages**<br>
 Bulgarian (official) 76.8%, Turkish 8.2%, Romani 3.8%, other 0.7%, unspecified 10.5% (2011 est.)<br>
-_printed major-language sample_: <br>Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Светoвен Алманах, незаменимият източник за основна информация. (Bulgarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Eastern Orthodox 59.4%, Muslim 7.8%, other (including Catholic, Protestant, Armenian Apostolic Orthodox, and Jewish) 1.7%, none 3.7%, unspecified 27.4% (2011 est.)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 11 July 2021 (snap election to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
+
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
 _head of government_: Interim Prime Minister Stefan YANEV (since 12 May 2021); note - YANEV is leading a caretaker government until elections are held on 11 July 2021<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13 November 2016 (next to be held in fall 2021); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 11 July 2021 (snap election to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -348,9 +348,10 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Herro MUSTAFA (since&nbsp;18&nbsp;October 2019)<br>
 _telephone_: [359] (2) 937-5100<br>
-_embassy_: 16 Kozyak Street, Sofia 1408<br>
-_mailing address_: American Embassy Sofia, US Department of State, 5740 Sofia Place, Washington, DC 20521-5740<br>
+_embassy_: 16, Kozyak Street, Sofia 1408<br>
+_mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _FAX_: [359] (2) 937-5320<br>
+_email address_: acs_sofia@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>

@@ -85,7 +85,7 @@ Tagalog 24.4%, Bisaya/Binisaya 11.4%, Cebuano 9.9%, Ilocano 8.8%, Hiligaynon/Ilo
 
 **Languages**<br>
 unspecified Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan<br>
-_printed major-language sample_: <br>Ang World Factbook, ang mapagkukunan ng kailangang impormasyon. (Tagalog)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Ang World Factbook, ang mapagkukunan ng kailangang impormasyon. (Tagalog)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 80.6%, Protestant 8.2% (includes Philippine Council of Evangelical Churches 2.7%, National Council of Churches in the Philippines 1.2%, other Protestant 4.3%), other Christian 3.4%, Muslim 5.6%, tribal religion 0.2%, other 1.9%, none 0.1% (2010 est.)<br>
@@ -335,17 +335,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> House of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
+_elections_: <br>Senate - elections last held on 9 May 2016 (next to be held on 13 May 2019)<br> House of Representatives - elections last held on 9 May 2016 (next to be held on 13 May 2019)<br>
+_election results_: <br>Senate - percent of vote by party - LP 31.3%, NPC 10.1%, UNA 7.6%, Akbayan 5.0%, other 30.9%, independent 15.1%; seats by party - LP 6, NPC 3, UNA 4, Akbayan 1, other 10; composition - men 18, women 6, percent of women 25%<br> House of Representatives - percent of vote by party - LP 41.7%, NPC 17.0%, UNA 6.6%, NUP 9.7%, NP 9.4%, independent 6.0%, others 10.1%; seats by party - LP 115, NPC 42, NUP 23, NP 24, UNA 11, other 19, independent 4, party-list 59; composition - men 210, women 87, percent of women 29.8%; note - total Congress percent of women 29.4%<br>
+
 **Executive branch**<br>
 _chief of state_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government<br>
 _head of government_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016)<br>
 _cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president&nbsp;<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held in May 2022)<br>
 _election results_: Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Congress or Kongreso consists of:<br>Senate or Senado (24 seats; members directly elected in multi-seat constituencies by majority vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> House of Representatives or Kapulungan Ng Mga Kinatawan (297 seats; 238 members directly elected in single-seat constituencies by simple majority vote and 59 representing minorities directly elected by party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: <br>Senate - elections last held on 9 May 2016 (next to be held on 13 May 2019)<br> House of Representatives - elections last held on 9 May 2016 (next to be held on 13 May 2019)<br>
-_election results_: <br>Senate - percent of vote by party - LP 31.3%, NPC 10.1%, UNA 7.6%, Akbayan 5.0%, other 30.9%, independent 15.1%; seats by party - LP 6, NPC 3, UNA 4, Akbayan 1, other 10; composition - men 18, women 6, percent of women 25%<br> House of Representatives - percent of vote by party - LP 41.7%, NPC 17.0%, UNA 6.6%, NUP 9.7%, NP 9.4%, independent 6.0%, others 10.1%; seats by party - LP 115, NPC 42, NUP 23, NP 24, UNA 11, other 19, independent 4, party-list 59; composition - men 210, women 87, percent of women 29.8%; note - total Congress percent of women 29.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 14 associate justices)<br>
@@ -369,8 +369,9 @@ _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northe
 _chief of mission_: Ambassador Sung KIM (since 6 December 2016)<br>
 _telephone_: [63] (2) 301-2000<br>
 _embassy_: 1201 Roxas Boulevard, Manila 1000<br>
-_mailing address_: PSC 500, FPO AP 96515-1000<br>
+_mailing address_: 8600 Manila Place, Washington DC&nbsp; 20521-8600<br>
 _FAX_: [63] (2) 301-2017<br>
+_email address_: ACSInfoManila@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br>

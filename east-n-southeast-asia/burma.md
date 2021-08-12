@@ -338,19 +338,19 @@ _residency requirement for naturalization_: none<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: Prime Minister Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - MIN AUNG HLAING assumed the role of prime minister of a caretaker government that replaces the State Administration Council (SAC) on 1 August 2021; the SAC, chaired by MIN AUNG HLAING, had served as the executive governing body since 2 February 2021, following the 1 February 2021 military takeover of the government and the declaration of a state of emergency<br>
-_head of government_: Prime Minister Sr. Gen. MIN AUNG HLAING<br>
-_cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military replaced the cabinet<br>
-_elections/appointments_: president indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice-presidents (president elected for a 5-year term); election last held on 28 March 2018<br>
-_election results_: WIN MYINT elected president; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT was placed under arrest following the military takeover on 1 February 2021<br>
-_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as minister of foreign affairs and minister for the office of the president<br>
-<strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br>
-
 **Legislative branch**<br>
 _description_: bicameral Assembly of the Union or Pyidaungsu consists of:<br>House of Nationalities or Amyotha Hluttaw, (224 seats; 168 members directly elected in single-seat constituencies by absolute majority vote with a second round if needed and 56 appointed by the military; members serve 5-year terms)<br>House of Representatives or Pyithu Hluttaw, (440 seats, currently 433; 330 members directly elected in single-seat constituencies by simple majority vote and 110 appointed by the military; members serve 5-year terms); note - on 1 February, the military dissolved the Assembly of the Union; the State Administration Council governs in place of the Assembly of the Union<br>
 _elections_: House of Nationalities - last held on on 8 November 2020 (next to be held in 2025)<br>House of Representatives - last held on 8 November 2020 (next to be held in 2025); note - the military junta overturned the results of the 8 November legislative elections<br>
 _election results_: House of Nationalities - percent of vote by party - NLD 61.6%, USDP 3.1%, ANP 1.8%, MUP 1.3%, KSDP 1.3%, other 5.9%, military appointees 25%; seats by party - NLD 138, USDP 7, ANP 4, MUP 3, KSPD 3, SNLD 2, TNP 2, other 2, canceled due to insurgency 7, military appointees 56 <br><br>House of Representatives - percent of vote by party - NLD 58.6%, USDP 5.9%, SNLD 3.0%, other 7.5%, military 25%; seats by party - NLD 258, USDP 26, SNLD 13, ANP 4, PNO 3, TNP 3, MUP 2, KSPD 2, other 4, canceled due to insurgency 15, military appointees 110<br>
+
+**Executive branch**<br>
+_chief of state_: Prime Minister Sr. Gen. MIN AUNG HLAING (since 1 August 2021); note - MIN AUNG HLAING assumed the role of prime minister of a caretaker government that replaces the State Administration Council (SAC) on 1 August 2021; the SAC, chaired by MIN AUNG HLAING, had served as the executive governing body since 2 February 2021, following the 1 February 2021 military takeover of the government and the declaration of a state of emergency<br>
+_head of government_: Prime Minister Sr. Gen. MIN AUNG HLAING<br>
+_cabinet_: Cabinet appointments shared by the president and the commander-in-chief; note - after 1 February, the military replaced the cabinet<br>
+_elections/appointments_: president indirectly elected by simple majority vote by the full Assembly of the Union from among 3 vice-presidential candidates nominated by the Presidential Electoral College (consists of members of the lower and upper houses and military members); the other 2 candidates become vice-presidents (president elected for a 5-year term); election last held on 28 March 2018; MIN AUNG HLAING pledged to hold elections in 2023<br>
+_election results_: WIN MYINT elected president; Assembly of the Union vote - WIN MYINT (NLD) 403, MYINT SWE (USDP) 211, HENRY VAN THIO (NLD) 18, 4 votes canceled (636 votes cast); note - WIN MYINT was placed under arrest following the military takeover on 1 February 2021<br>
+_state counsellor_: State Counselor AUNG SAN SUU KYI (since 6 April 2016); note - under arrest since 1 February 2021; formerly served as minister of foreign affairs and minister for the office of the president<br>
+<strong>note:</strong> a parliamentary bill creating the position of "state counsellor" was signed into law by former President HTIN KYAW on 6 April 2016; a state counsellor serves the equivalent term of the president and is similar to a prime minister in that the holder acts as a link between the parliament and the executive branch<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Union (consists of the chief justice and 7-11 judges)<br>
@@ -372,10 +372,11 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Thomas J. VAJDA (since 19 January 2021)<br>
-_telephone_: [95] (1) 753-6509, 753-5756, 753-8038<br>
+_telephone_: [95] (1) 753-6509<br>
 _embassy_: 110 University Avenue, Kamayut Township, Rangoon<br>
-_mailing address_: Box B, APO AP 96546<br>
+_mailing address_: 4250 Rangoon Place, Washington DC&nbsp; 20521-4250<br>
 _FAX_: [95] (1) 751-1069<br>
+_email address_: ACSRangoon@state.gov<br>
 
 **Flag description**<br>
 design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation<br>

@@ -87,7 +87,7 @@ mainland - African 99% (of which 95% are Bantu consisting of more than 130 tribe
 
 **Languages**<br>
 Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages; note - Kiswahili (Swahili) is the mother tongue of the Bantu people living in Zanzibar and nearby coastal Tanzania; although Kiswahili is Bantu in structure and origin, its vocabulary draws on a variety of sources including Arabic and English; it has become the lingua franca of central and eastern Africa; the first language of most people is one of the local languages<br>
-_printed major-language sample_: <br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Christian 63.1%, Muslim 34.1%, folk religion 1.1%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified 1.6% (2020 est.)<br>
@@ -337,6 +337,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
+_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016<br>
+_election results_: National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+
 **Executive branch**<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); note - the president is both chief of state and head of government<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
@@ -344,11 +349,6 @@ _cabinet_: Cabinet appointed by the president from among members of the National
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held 28 October 2020); prime minister appointed by the president<br>
 _election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note:</strong> Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
-_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016<br>
-_election results_: National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -374,6 +374,7 @@ _telephone_: (255) 22-229-4000, dial '1' for an emergency operator<br>
 _embassy_: 686 Old Bagamoyo Road, Msasani, Dar es Salaam<br>
 _mailing address_: P.O. Box 9123, Dar es Salaam<br>
 _FAX_: [255] (22) 229-4970 or 4971<br>
+_email address_: DRSACS@state.gov<br>
 
 **Flag description**<br>
 divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean<br>

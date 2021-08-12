@@ -86,7 +86,7 @@ Mestizo 86.3%, White 12.7%, Amerindian 0.2% (includes Lenca, Kakawira, Nahua-Pip
 
 **Languages**<br>
 Spanish (official), Nawat (among some Amerindians)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 50%, Protestant 36%, other 2%, none 12% (2014 est.)<br>
@@ -327,17 +327,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms)<br>
+_elections_: last held on 28 February 2021 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1<br>
+
 **Executive branch**<br>
 _chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President Felix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President Felix Augusto Antonio ULLOA Garay (since 1 June 2019)<br>
 _cabinet_: Council of Ministers selected by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 5-year term; election last held on 3 February 2019 (next to be held on February 2024)<br>
 _election results_: <br><em>2019:</em> Nayib Armando BUKELE Ortez elected president - Nayib Armando BUKELE Ortez (GANA) 53.1%, Carlos CALLEJA Hakker (ARENA) 31.72%, Hugo MARTINEZ (FMLN) 14.41%, other 0.77%<br><br><em>2014:</em> Salvador SANCHEZ CEREN elected president in second round; percent of vote in first round - Salvador SANCHEZ CEREN (FMLN) 48.9%, Norman QUIJANO (ARENA) 39%, Antonio SACA (CN) 11.4%, other 0.7%; percent of vote in second round - Salvador SANCHEZ CEREN 50.1%, Norman QUIJANO 49.9%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms)<br>
-_elections_: last held on 28 February 2021 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges and 16 substitutes judges organized into Constitutional, Civil, Penal, and Administrative Conflict Chambers)<br>
@@ -362,8 +362,9 @@ _consulate(s)_: Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jean MANES (since 1 June 2021)<br>
 _telephone_: [503] 2501-2999<br>
 _embassy_: Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador<br>
-_mailing address_: Unit 3450, APO AA 34023; 3450 San Salvador Place, Washington, DC 20521-3450<br>
+_mailing address_: 3450 San Salvador Place, Washington, DC 20521-3450<br>
 _FAX_: [503] 2501-2150<br>
+_email address_: ACSSanSal@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity<br>

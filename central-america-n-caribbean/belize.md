@@ -86,7 +86,7 @@ Mestizo 52.9%, Creole 25.9%, Maya 11.3%, Garifuna 6.1%, East Indian 3.9%, Mennon
 
 **Languages**<br>
 English 62.9% (official), Spanish 56.6%, Creole 44.6%, Maya 10.5%, German 3.2%, Garifuna 2.9%, other 1.8%, unknown 0.3%, none 0.2% (cannot speak); note - shares sum to more than 100% because some respondents gave more than one answer on the census (2010 est.)<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br>
 
 **Religions**<br>
 Roman Catholic 40.1%, Protestant 31.5% (includes Pentecostal 8.4%, Seventh Day Adventist 5.4%, Anglican 4.7%, Mennonite 3.7%, Baptist 3.6%, Methodist 2.9%, Nazarene 2.8%), Jehovah's Witness 1.7%, other 10.5% (includes Baha'i, Buddhist, Hindu, Mormon, Muslim, Rastafarian, Salvation Army), unspecified 0.6%, none 15.5% (2010 est.)<br>
@@ -306,17 +306,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
+_election results_: Senate - all members appointed; composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
+<strong> </strong><br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; term of appointment NA<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: <br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5<br>
-<strong> </strong><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>
@@ -339,10 +339,11 @@ _consulate(s)_: Miami<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Keith R. GILGES (since 24 July 2018)<br>
-_telephone_: [011] (501) 822-4011<br>
-_embassy_: Floral Park Road, Belmopan City, Cayo District<br>
-_mailing address_: P.O. Box 497, Belmopan City, Cayo District, Belize<br>
-_FAX_: [011] (501) 822-4012<br>
+_telephone_: (501) 822-4011<br>
+_embassy_: Floral Park Road, Belmopan, Cayo<br>
+_mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
+_FAX_: (501) 822-4012<br>
+_email address_: ACSBelize@state.gov<br>
 
 **Flag description**<br>
 royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br>

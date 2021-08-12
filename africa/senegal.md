@@ -337,17 +337,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: <em></em>unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
+_elections_: National Assembly - last held on 2 July 2017 (next to be held in July 2022)<br>
+_election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
+
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
 _head of government_: President Macky SALL (since 2 April 2012)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
 _election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%<br>
-
-**Legislative branch**<br>
-_description_: <em></em>unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
-_elections_: National Assembly - last held on 2 July 2017 (next to be held in July 2022)<br>
-_election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>
@@ -371,8 +371,9 @@ _consulate(s) general_: Houston, New York<br>
 _chief of mission_: Ambassador Tulinabo S. MUSHINGI (since August 2017); note - also accredited to Guinea-Bissau<br>
 _telephone_: [221] 33-879-4000<br>
 _embassy_: Route des Almadies, Dakar<br>
-_mailing address_: B.P. 49, Dakar<br>
+_mailing address_: 2130 Dakar Place, Washington DC&nbsp; 20521-2130<br>
 _FAX_: [221] 33-822-2991<br>
+_email address_: DakarACS@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope<br>

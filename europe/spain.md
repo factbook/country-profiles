@@ -89,7 +89,7 @@ Spanish 84.8%, Moroccan 1.7%, Romanian 1.2%, other 12.3% (2021 est.)<br>
 
 **Languages**<br>
 Castilian Spanish (official nationwide) 74%, Catalan (official in Catalonia, the Balearic Islands, and the Valencian Community (where it is known as Valencian)) 17%, Galician (official in Galicia) 7%, Basque (official in the Basque Country and in the Basque-speaking area of Navarre) 2%, Aranese (official in the northwest corner of Catalonia (Vall d'Aran) along with Catalan, &lt;5,000 speakers); note - Aragonese, Aranese Asturian, Basque, Calo, Catalan, Galician, and Valencian are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 58.2%, atheist 16.2%, agnostic 10.8%, other 2.7%, non-believer 10.5%, unspecified 1.7% (2021 est.)<br>
@@ -330,6 +330,11 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br> Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
+_elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than November 2023)<br> Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39%<br> Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%<br>
+
 **Executive branch**<br>
 _chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
 _head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018)<br>
@@ -337,11 +342,6 @@ _cabinet_: Council of Ministers designated by the president&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president<br>
 _election results_: percent of National Assembly vote - NA<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
-
-**Legislative branch**<br>
-_description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br> Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
-_elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than November 2023)<br> Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39%<br> Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -366,8 +366,9 @@ _consulate(s)_: Kansas City (MO)<br>
 _chief of mission_: Ambassador Richard Duke BUCHAN III (since 18 January 2018) note - also accredited to Andorra<br>
 _telephone_: [34] (91) 587-2200<br>
 _embassy_: Calle de Serrano 75, 28006 Madrid<br>
-_mailing address_: PSC 61, APO AE 09642<br>
+_mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _FAX_: [34] (91) 587-2303<br>
+_email address_: askacs@state.gov<br>
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>
@@ -731,7 +732,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 76,456 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>223,570 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note: </strong>223,820 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

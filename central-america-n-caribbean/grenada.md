@@ -285,16 +285,16 @@ _residency requirement for naturalization_: 7 years for persons from a non-Carib
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last appointments on 27 April 2018 (next no later than2023)<br> House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
 _head of government_: Prime Minister Keith MITCHELL (since 20 February 2013)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 27 April 2018 (next no later than2023)<br> House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -318,8 +318,9 @@ _consulate(s) general_: Miami<br>
 _chief of mission_: the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada<br>
 _telephone_: [1] (473) 444-1173 through 1176<br>
 _embassy_: Lance-aux-Epines, Saint George's<br>
-_mailing address_: P. O. Box 54, Saint George's<br>
+_mailing address_: 3180 Grenada Place, Washington DC&nbsp; 20521-3180<br>
 _FAX_: [1] (473) 444-4820<br>
+_email address_: StgeorgesACS@state.gov<br>
 
 **Flag description**<br>
 a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; there are seven yellow, five-pointed stars with three centered in the top red border, three centered in the bottom red border, and one on a red disk superimposed at the center of the flag; there is also a symbolic nutmeg pod on the hoist-side triangle (Grenada is a leading nutmeg producer); the seven stars stand for the seven administrative divisions, with the central star denoting the capital, St. George's; yellow represents the sun and the warmth of the people, green stands for vegetation and agriculture, and red symbolizes harmony, unity, and courage<br>

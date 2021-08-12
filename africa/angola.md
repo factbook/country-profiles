@@ -328,17 +328,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 23 August 2017 (next to be held in August 2022)<br>
+_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government<br>
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 2022)<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by the winning party following the 23 August 2017 general election<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 23 August 2017 (next to be held in August 2022)<br>
-_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -360,10 +360,11 @@ _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Nina Maria FITE (since 14 February 2018)<br>
-_telephone_: [222] 641 000<br>
-_embassy_: Rua Houari Boumedienne, 32 (in the Miramar area of Luanda), Luanda, C.P. 6468<br>
-_mailing address_: international mail: Caixa Postal 6468, Luanda; pouch: US Embassy Luanda, US Department of State, 2550 Luanda Place, Washington, DC 20521-2550<br>
-_FAX_: [244] (222) 64-1000<br>
+_telephone_: [244] 222 641 000<br>
+_embassy_: Rua Houari Boumedienne, #32 (in the Miramar area of Luanda), Luanda, C.P. 6468<br>
+_mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
+_FAX_: [244] (222) 641 000<br>
+_email address_: Consularluanda@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants<br>

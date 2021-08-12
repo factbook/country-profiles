@@ -314,16 +314,16 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
+_elections_: last held on 17 October 2020 (next scheduled for 2023)<br>
+_election results_: percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Patricia Lee REDDY (since 28 September 2016)<br>
 _head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party<br>
-
-**Legislative branch**<br>
-_description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: last held on 17 October 2020 (next scheduled for 2023)<br>
-_election results_: percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -347,8 +347,9 @@ _consulate(s) general_: Honolulu (HI), Los Angeles, New York<br>
 _chief of mission_: Ambassador Scott P. BROWN (since 27 June 2017) note - also accredited to Samoa<br>
 _telephone_: [64] (4) 462-6000<br>
 _embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington<br>
-_mailing address_: P. O. Box 1190, Wellington; PSC 467, Box 1, APO AP 96531-1034<br>
+_mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
 _FAX_: [64] (4) 499-0490<br>
+_email address_: AucklandACS@state.gov<br>
 _consulate(s) general_: Auckland<br>
 
 **Flag description**<br>

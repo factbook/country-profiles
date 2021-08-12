@@ -85,7 +85,7 @@ Khalkh 83.8%, Kazak 3.8%, Durvud 2.6%, Bayad 2%, Buriad 1.4%, Zakhchin 1.2%, Dar
 
 **Languages**<br>
 Mongolian 90% (official) (Khalkha dialect is predominant), Turkic, Russian (1999)<br>
-_printed major-language sample_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 53%, Muslim 3%, Shamanist 2.9%, Christian 2.2%, other 0.4%, none 38.6% (2010 est.)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
+_elections_: last held on 24 June 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%; note - the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed Our Coalition for the 2020 election; the Right Person Electorate Coalition was established in 2020 by the National Labor Party, Mongolian Social Democratic Party, and Justice Party<br>
+
 **Executive branch**<br>
 _chief of state_: President Khaltmaa BATTULGA (since 10 July 2017)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 26 June 2017 with a runoff held 7 July 2017 (next to be held in 2021); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
 _election results_: Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%; on 2 July 2020, Prime Minister Ukhnaa KHURELSUKH was reelected prime minister by the State Great Hural<br>
-
-**Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
-_elections_: last held on 24 June 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%; note - the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed Our Coalition for the 2020 election; the Right Person Electorate Coalition was established in 2020 by the National Labor Party, Mongolian Social Democratic Party, and Justice Party<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -350,8 +350,9 @@ _consulate(s) general_: New York, San Francisco<br>
 _chief of mission_: Ambassador Michael S. KLECHESKI (since 22 February 2019)<br>
 _telephone_: [976] 7007-6001<br>
 _embassy_: Denver Street #3, 11th Micro-District, Ulaanbaatar 14190<br>
-_mailing address_: P.O. Box 341, Ulaanbaatar 14192<br>
+_mailing address_: 4410 Ulaanbaatar Place, Washington DC&nbsp; 20521-4410<br>
 _FAX_: [976] 7007-6016<br>
+_email address_: UlaanbaatarACS@state.gov<br>
 
 **Flag description**<br>
 three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem ("soyombo" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity<br>

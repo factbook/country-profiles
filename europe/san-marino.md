@@ -80,7 +80,7 @@ Sammarinese, Italian<br>
 
 **Languages**<br>
 Italian<br>
-_printed major-language sample_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic<br>
@@ -268,6 +268,11 @@ _residency requirement for naturalization_: 30 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: last held on 8 December 2019 (next to be held by December 2024)<br>
+_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition - men 42, women 18, percent of women 30%<br>
+
 **Executive branch**<br>
 _chief of state_: co-chiefs of state Captain Regent Alessandro CARDELLI and Captain Regent Mirko DOLCINI (for the period 1 October 2020 - 31 March 2021)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
@@ -275,11 +280,6 @@ _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2020 (next to be held in September 2020); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
 _election results_: Alessandro MANCINI (PSD)&nbsp;and Grazia ZAFFERANI&nbsp;(RETE Movement) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
-
-**Legislative branch**<br>
-_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on 8 December 2019 (next to be held by December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition - men 42, women 18, percent of women 30%<br>
 
 **Judicial branch**<br>
 _highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>

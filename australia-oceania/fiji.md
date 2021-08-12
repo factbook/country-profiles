@@ -70,7 +70,7 @@ approximately 70% of the population lives on the island of Viti Levu; roughly ha
 cyclonic storms can occur from November to January<br>
 
 **Geography - note**<br>
-includes 332 islands; approximately 110 are inhabited<br>
+consists of 332 islands, approximately 110 of which are inhabited, and more than 500 islets<br>
 
 ## People and Society
 
@@ -310,17 +310,17 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 14 November 2018 (next to be held in 2022)<br>
+_election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Jioji Konousi KONROTE (since 12 November 2015)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 August 2018 (next to be held in 2021); prime minister endorsed by the president<br>
 _election results_: Jioji Konousi KONROTE reelected president (unopposed)<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 14 November 2018 (next to be held in 2022)<br>
-_election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>
@@ -343,8 +343,9 @@ _FAX_: [1] (202) 466-8325<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Tony GREUBEL (since 20 January 2021); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
 _telephone_: [679] 331-4466<br>
 _embassy_: 158 Princes Rd, Tamavua, Suva<br>
-_mailing address_: P. O. Box 218, Suva<br>
+_mailing address_: 4290 Suva Place, Washington DC&nbsp; 20521-4290<br>
 _FAX_: [679] 330-8685<br>
+_email address_: SuvaACS@state.gov<br>
 
 **Flag description**<br>
 light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific Ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace<br>

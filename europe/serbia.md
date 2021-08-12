@@ -86,7 +86,7 @@ Serb 83.3%, Hungarian 3.5%, Romani 2.1%, Bosniak 2%, other 5.7%, undeclared or u
 
 **Languages**<br>
 Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romani 1.4%, other 3.4%, undeclared or unknown 1.8%; note - Serbian, Hungarian, Slovak, Romanian, Croatian, and Ruthenian (Rusyn) are official in the Autonomous Province of Vojvodina; most ethnic Albanians boycotted the 2011 census (2011 est.)<br>
-_printed major-language sample_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox 84.6%, Catholic 5%, Muslim 3.1%, Protestant 1%, atheist 1.1%, other 0.8% (includes agnostics, other Christians, Eastern, Jewish), undeclared or unknown 4.5% (2011 est.)<br>
@@ -333,18 +333,18 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age, 16 if employed; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
+_elections_: last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in 2024)<br>
+_election results_: percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%<br>
+<strong>note:</strong> seats by party as of May 2019  - SNS 91, SRS 22, SPS 20, DS 13, SDPS 10, PUPS 9, Dveri 6, JS 6, LDP 4, SDS 4, SVM 4, other 36, independent 25; composition - men 157, women 93, percent of women 37.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in 2022); prime minister elected by the National Assembly<br>
 _election results_: Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
-_elections_: last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%<br>
-<strong>note:</strong> seats by party as of May 2019  - SNS 91, SRS 22, SPS 20, DS 13, SDPS 10, PUPS 9, Dveri 6, JS 6, LDP 4, SDS 4, SVM 4, other 36, independent 25; composition - men 157, women 93, percent of women 37.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of 36 judges, including the court president); Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -371,6 +371,7 @@ _telephone_: [381] (11) 706-4000<br>
 _embassy_: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade<br>
 _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
 _FAX_: [381] (11) 706-4005<br>
+_email address_: belgradeacs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br>
@@ -710,7 +711,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 776,834 estimated refugee and migrant arrivals (January 2015-July 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
+<strong>note:</strong> 778,038 estimated refugee and migrant arrivals (January 2015-August 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

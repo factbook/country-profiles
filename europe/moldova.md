@@ -84,7 +84,7 @@ Moldovan 75.1%, Romanian 7%, Ukrainian 6.6%, Gagauz 4.6%, Russian 4.1%, Bulgaria
 
 **Languages**<br>
 Moldovan/Romanian 80.2% (official) (56.7% identify their mother tongue as Moldovan, which is virtually the same as Romanian; 23.5% identify Romanian as their mother tongue), Russian 9.7%, Gagauz 4.2% (a Turkish language), Ukrainian 3.9%, Bulgarian 1.5%, Romani 0.3%, other 0.2% (2014 est.); note - data represent mother tongue<br>
-_printed major-language sample_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Moldovan/Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Moldovan/Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox 90.1%, other Christian 2.6%, other 0.1%, agnostic <.1%, atheist 0.2%, unspecified 6.9% (2014 est.)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: President Maia SANDU (since 24 December 2020)<br>
-_head of government_: prime minister (vacant); Acting Prime Minister Aureliu CIOCOI (since 1 January 2021); note - Prime Minister Ion CHICU resigned on 23 December 2020<br>
-_cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
-_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
-_election results_: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br>
-
 **Legislative branch**<br>
 _description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
 _elections_: <p>last held on 11 July 2021 (next scheduled for July 2025)</p><br>
 _election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6</p><br>
+
+**Executive branch**<br>
+_chief of state_: President Maia SANDU (since 24 December 2020)<br>
+_head of government_: Prime Minister Natalia GAVRILITA (since 6 August 2021)<br>
+_cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
+_elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
+_election results_: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>
@@ -349,8 +349,9 @@ _FAX_: [1] (202) 667-1204<br>
 _chief of mission_: Ambassador Dereck J. HOGAN (since 02 November 2018)<br>
 _telephone_: [373] (22) 40-8300<br>
 _embassy_: 103 Mateevici Street, Chisinau MD-2009<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 7080 Chisinau Place, Washington DC&nbsp; 20521-7080<br>
 _FAX_: [373] (22) 23-3044<br>
+_email address_: ChisinauACS@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of Prussian blue (hoist side), chrome yellow, and vermilion red; emblem in center of flag is of a Roman eagle of dark gold (brown) outlined in black with a red beak and talons carrying a yellow cross in its beak and a green olive branch in its right talons and a yellow scepter in its left talons; on its breast is a shield divided horizontally red over blue with a stylized aurochs head, star, rose, and crescent all in black-outlined yellow; based on the color scheme of the flag of Romania - with which Moldova shares a history and culture - but Moldova's blue band is lighter; the reverse of the flag displays a mirrored image of the coat of arms<br>

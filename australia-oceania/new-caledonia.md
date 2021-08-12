@@ -83,7 +83,7 @@ Kanak 39.1%, European 27.1%, Wallisian, Futunian 8.2%, Tahitian 2.1%, Indonesian
 
 **Languages**<br>
 French (official), 33 Melanesian-Polynesian dialects<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 60%, Protestant 30%, other 10%<br>
@@ -264,17 +264,17 @@ see France<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
+_elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held on 24 September 2017 (next to be held not later than 2019)<br><br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
+_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - men 30, women 24, percent of women 44.4%</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
+
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Laurent PREVOST (since 5 August 2019)<br>
 _head of government_: President of the Government Thierry SANTA (since 9 July 2019); Temporary Vice President Gilbert TUIENON (since 9 July 2019); note - Temporary Vice President Gilbert TUIENON was elected so that the new government could take over; Philippe GERMAIN' s government remained caretaker government until the new government was settled<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 13 June 2017 (next to be held in 2022)<br>
 _election results_: Thierry SANTA elected president by Territorial Congress with 6 votes out of 11<br>
-
-**Legislative branch**<br>
-_description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
-_elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held on 24 September 2017 (next to be held not later than 2019)<br><br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - men 30, women 24, percent of women 44.4%</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>

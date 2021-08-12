@@ -87,7 +87,7 @@ Latvian 62.7%, Russian 24.5%, Belarusian 3.1%, Ukrainian 2.2%, Polish 2%, Lithua
 
 **Languages**<br>
 Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4%; note - data represent language usually spoken at home (2011 est.)<br>
-_printed major-language sample_: <br>World Factbook, neaizstājams avots pamata informāciju. (Latvian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>World Factbook, neaizstājams avots pamata informāciju. (Latvian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Lutheran 36.2%, Roman Catholic 19.5%, Orthodox 19.1%, other Christian 1.6%, other 0.1%, unspecified/none 23.5% (2017 est.)<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
+_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%<br>
+
 **Executive branch**<br>
 _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
 _election results_: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes,&nbsp;Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -353,8 +353,9 @@ _FAX_: [1] (202) 328-2860<br>
 _chief of mission_: Ambassador John Leslie CARWILE (since 5 November 2019)<br>
 _telephone_: [371] 6710-7000<br>
 _embassy_: 1 Samnera Velsa St, Riga LV-1510<br>
-_mailing address_: Embassy of the United States of America, 1 Samnera Velsa St, Riga, LV-1510<br>
+_mailing address_: 4520 Riga Place, Washington DC&nbsp; 20521-4520<br>
 _FAX_: [371] 6710-7050<br>
+_email address_: askconsular-riga@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280<br>

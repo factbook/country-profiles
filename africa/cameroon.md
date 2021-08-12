@@ -86,7 +86,7 @@ Bamileke-Bamu 24.3%, Beti/Bassa, Mbam 21.6%, Biu-Mandara 14.6%, Arab-Choa/Hausa/
 
 **Languages**<br>
 24 major African language groups, English (official), French (official)<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
 
 **Religions**<br>
 Roman Catholic 38.3%, Protestant 25.5%, other Christian 6.9%, Muslim 24.4%, animist 2.2%, other 0.5%, none 2.2% (2018 est.)<br>
@@ -339,17 +339,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 20 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
+_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA<br>
+
 **Executive branch**<br>
 _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
-_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -372,8 +372,9 @@ _FAX_: [1] (202) 387-3826<br>
 _chief of mission_: Ambassador (vacant);&nbsp; Deputy Chief of Mission (currently serving as Charge d'Affaires) Mary E. DASCHBACH<br>
 _telephone_: [237] 22251-4000/[237] 22220 1500; Consular: [237] 22220 1603<br>
 _embassy_: Avenue Rosa Parks, Yaound&eacute;<br>
-_mailing address_: P.O. Box 817, Yaounde; pouch: American Embassy, US Department of State, Washington, DC 20521-2520<br>
+_mailing address_: 2520 Yaounde Place, Washington, DC&nbsp; 20521-2520<br>
 _FAX_: [237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752<br>
+_email address_: YaoundeACS@state.gov<br>
 _branch office(s)_: Douala<br>
 
 **Flag description**<br>
@@ -734,7 +735,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 325,366 (Central African Republic), 118,334 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 328,258 (Central African Republic), 118,409 (Nigeria) (2021)<br>
 _IDPs_: 1,032,942 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

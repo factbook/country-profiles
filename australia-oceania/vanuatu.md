@@ -305,18 +305,18 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
+_elections_: last held on 19&ndash;20 March 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - GJP 9, RMC 7, VP 7, LPV 5, UMP 5, NUP 4, other 15; composition - men 52, women 0; percent of women 0%; note - political party associations are fluid<br>
+<strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
+
 **Executive branch**<br>
 _chief of state_: President Tallis Obed MOSES (since 6 July 2017)<br>
 _head of government_: Prime Minister Bob LOUGHMAN (since 20 April 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister, responsible to Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of Parliament and presidents of the 6 provinces; Vanuatu president serves a 5-year term; election last held on 17 June 2017 (next to be held in 2022); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by Parliament from among its members; election for prime minister last held on 20 April 2020 (next to be held following general elections in 2024)<br>
 _election results_: Bob LOUGHMAN elected prime minister on 20 April 2020; Bob LOUGHMAN 31 votes, Ralph REGENVANU 21 votes<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament (52 seats; members directly elected in 8 single-seat and 9 multi-seat constituencies by single non-transferable vote to serve 4-year terms (candidates in multi-seat constituencies can be elected with only 4% of the vote)<br>
-_elections_: last held on 19&ndash;20 March 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - GJP 9, RMC 7, VP 7, LPV 5, UMP 5, NUP 4, other 15; composition - men 52, women 0; percent of women 0%; note - political party associations are fluid<br>
-<strong>note:</strong> the National Council of Chiefs advises on matters of culture and language<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of 2 or more judges of the Supreme Court designated by the chief justice); Supreme Court (consists of the chief justice and 6 puisne judges - 3 local and 3 expatriate)<br>

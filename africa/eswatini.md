@@ -328,16 +328,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (73 seats; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%; members serve 5-year terms)<br>
+_elections_: Senate - last held on 23 October 2018 (next to be held - 31 October 2023)<br>House of Assembly - last held on 21 September 2018 (next to be held in 2023)<br>
+_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 20, women 10, percent of women 33.3% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 60, women 5, percent of women 7.7%; note - total Parliament percent of women 15.8%<br>
+
 **Executive branch**<br>
 _chief of state_: King MSWATI III (since 25 April 1986)<br>
 _head of government_: Prime Minister Cleopas DLAMINI (since since 19 July 2021); Deputy Prime Minister Themba MASUKU (since 6 November 2018)<br>
 _cabinet_: Cabinet recommended by the prime minister, confirmed by the monarch; at least one-half of the cabinet membership must be appointed from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from among members of the House of Assembly<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament (Libandla) consists of:<br> Senate (30 seats; 20 members appointed by the monarch and 10 indirectly elected by simple majority vote by the House of Assembly; members serve 5-year terms)<br>House of Assembly (73 seats; 59 members directly elected in single-seat constituencies or tinkhundla by absolute majority vote in 2 rounds if needed, 10 members appointed by the monarch, 4 women elected by the members if representation of elected women is less than 30%; members serve 5-year terms)<br>
-_elections_: Senate - last held on 23 October 2018 (next to be held - 31 October 2023)<br>House of Assembly - last held on 21 September 2018 (next to be held in 2023)<br>
-_election results_: Senate - percent of seats by party - NA; seats by party - NA; composition - men 20, women 10, percent of women 33.3% <br>House of Assembly - percent of vote by party - NA; seats by party - independent 59; composition - men 60, women 5, percent of women 7.7%; note - total Parliament percent of women 15.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and at least 4 justices) and the High Court (consists of the chief justice - ex officio - and 4 justices); note - the Supreme Court has jurisdiction in all constitutional matters<br>
@@ -360,8 +360,9 @@ _FAX_: [1] (202) 234-8254<br>
 _chief of mission_: Ambassador Jeanne M. MALONEY (since 4 March 2021)<br>
 _telephone_: (268) 2417-9000<br>
 _embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, The Gables, H106<br>
-_mailing address_: PO Box 199, Mbabane, Eswatini<br>
+_mailing address_: 2350 Mbabane Place, Washington DC&nbsp; 20521-2350<br>
 _FAX_: [268] 2416-3344<br>
+_email address_: ConsularMbabane@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence<br>

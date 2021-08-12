@@ -75,7 +75,7 @@ Palestinian Arab<br>
 
 **Languages**<br>
 Arabic, Hebrew (spoken by many Palestinians), English (widely understood)<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 98.0 - 99.0% (predominantly Sunni), Christian &lt;1.0%, other, unaffiliated, unspecified &lt;1.0% (2012 est.)<br>

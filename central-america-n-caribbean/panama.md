@@ -86,7 +86,7 @@ Mestizo (mixed Amerindian and White) 65%, Native American 12.3% (Ngabe 7.6%, Kun
 
 **Languages**<br>
 Spanish (official), indigenous languages (including Ngabere (or Guaymi), Buglere, Kuna, Embera, Wounaan, Naso (or Teribe), and Bri Bri), Panamanian English Creole (similar to Jamaican English Creole; a mixture of English and Spanish with elements of Ngabere; also known as Guari Guari and Colon Creole), English, Chinese (Yue and Hakka), Arabic, French Creole, other (Yiddish, Hebrew, Korean, Japanese); note - many Panamanians are bilingual<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 48.6%, Evangelical 30.2%, other 4.7%, agnostic 0.2%, atheist 0.2%, none 12.3%, unspecified 3.7% (2018 est.)<br>
@@ -325,17 +325,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by plurality vote; members serve 5-year terms)<br>
+_elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
+
 **Executive branch**<br>
 _chief of state_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held in 2024)<br>
 _election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panamenista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%<br><br><em>2014:</em> Juan Carlos VARELA elected president; percent of vote - Juan Carlos VARELA (PP) 39.1%, Jose Domingo ARIAS (CD) 31.4%, Juan Carlos NAVARRO (PRD) 28.2%, other 1.3%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by plurality vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
@@ -358,9 +358,10 @@ _consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Phil
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant), Charge d'Affairs Roxanne CABRAL (since 9 March 2018)<br>
 _telephone_: [507] 317-5000<br>
-_embassy_: Edificio 783, Avenida Demetrio Basilio Lakas Avenue, Clayton<br>
+_embassy_: 9100 Panama City Place, Washington DC&nbsp; 20521-9100<br>
 _mailing address_: American Embassy Panama, Unit 0945, APO AA 34002; American Embassy Panama, 9100 Panama City PL, Washington, DC 20521-9100<br>
 _FAX_: [507] 317-5445 (2018)<br>
+_email address_: Panama-ACS@state.gov<br>
 
 **Flag description**<br>
 divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center; the blue and red colors are those of the main political parties (Conservatives and Liberals respectively) and the white denotes peace between them; the blue star stands for the civic virtues of purity and honesty, the red star signifies authority and law<br>

@@ -280,18 +280,18 @@ _residency requirement for naturalization_: 6-9 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 10 May 2017 (next to be held by May 2022)<br>
+_election results_: <br>Senate - appointed; composition - men 9, women 7, percent of women 43.8%<br>House of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%<br>
+<strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cornelius A. SMITH (since 28 June 2019)<br>
 _head of government_: Prime Minister Hubert MINNIS (since 11 May 2017)<br>
 _cabinet_: Cabinet appointed by governor general on recommendation of prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
 <strong>note:</strong> Prime Minister Hubert MINNIS is only the fourth prime minister in Bahamian history following its independence from the UK; he is also the first prime minister in 25 years besides Perry CHRISTIE and Hubert INGRAHAM, who repeatedly traded the premiership from 1992 to 2017<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 10 May 2017 (next to be held by May 2022)<br>
-_election results_: <br>Senate - appointed; composition - men 9, women 7, percent of women 43.8%<br>House of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%<br>
-<strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>
@@ -315,10 +315,11 @@ _honorary consulate(s)_: Aurora (CO), Chicago, Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d' Affaires Usha E. PITTS (since 1 January 2021)<br>
-_telephone_: [1] (242) 322-1181, 328-2206 (after hours)<br>
+_telephone_: [1] (242) 322-1181<br>
 _embassy_: 42 Queen Street, Nassau<br>
-_mailing address_: local or express mail address: P. O. Box N-8197, Nassau; US Department of State, 3370 Nassau Place, Washington, DC 20521-3370<br>
+_mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _FAX_: [1] (242) 356-7174<br>
+_email address_: acsnassau@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea<br>

@@ -85,7 +85,7 @@ Bahraini 46%, Asian 45.5%, other Arab 4.7%, African 1.6%, European 1%, other 1.2
 
 **Languages**<br>
 Arabic (official), English, Farsi, Urdu<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 73.7%, Christian 9.3%, Jewish 0.1%, other 16.9% (2017 est.)<br>
@@ -299,16 +299,16 @@ _residency requirement for naturalization_: 25 years; 15 years for Arab national
 **Suffrage**<br>
 20 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
+_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)<br>
+_election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
+
 **Executive branch**<br>
 _chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999)<br>
 _head of government_: Prime minister SALMAN bin Hamad Al-Khalifa (since 11 November 2020); first deputy prime minister (vacant); Deputy Prime Ministers MUHAMMAD bin Mubarak Al-Khalifa (since September 2005), Jawad bin Salim al-ARAIDH, ALI bin Khalifa bin Salman Al-Khalifa (since 11 December 2006), KHALID bin Abdallah Al-Khalifa (since November 2010); note - KHALIFA ibn Salman Al Khalifa, who served as prime minister since Bahrain's independence in 1971, died on 11 November 2020<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)<br>
-_election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>
@@ -331,10 +331,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
-_telephone_: [973] 1724-2700<br>
-_embassy_: Building #979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
-_mailing address_: PSC 451, Box 660, FPO AE 09834-5100 <br>international mail: American Embassy, Box 26431, Manama<br>
-_FAX_: [973] 1727-2594<br>
+_telephone_: [973] 17 242700<br>
+_embassy_: Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
+_mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
+_FAX_: [973] 17 272594<br>
+_email address_: ManamaConsular@state.gov<br>
 
 **Flag description**<br>
 red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam<br>

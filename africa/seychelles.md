@@ -297,17 +297,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020 -25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 22-24 Oct 2020 (next to be held&nbsp;October 2025); note - the election was originally scheduled for 2021 but was moved up a year and will be held alongside the presidential election in order to cut election costs<br>
+_election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 25, women 10, percent of women 29%<br>
+
 **Executive branch**<br>
 _chief of state_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020); the president is both chief of state and head of government<br>
 _head of government_: President Wavel RAMKALAWAN (since 26 October 2020); Vice President Ahmed AFIF (since 27 October 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 1 additional term); election last held on 22-24 Oct 2020 (originally scheduled for December 2020 but moved up to coincide with the 22-24 October National Assembly election in order to cut election costs)<br>
 _election results_: Wavel RAMKALAWAN elected president; Wavel RAMKALAWAN (LDS) 54.9%, Danny FAURE (US) 43.5%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (35 seats in the 2020 -25 term; 26 members directly elected in single-seat constituencies by simple majority vote and up to 9 members elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 22-24 Oct 2020 (next to be held&nbsp;October 2025); note - the election was originally scheduled for 2021 but was moved up a year and will be held alongside the presidential election in order to cut election costs<br>
-_election results_: percent of vote by party - LDS 54.8%, US 42.3% , other 2.9%; seats by party - LDS 25, US10; composition - men 25, women 10, percent of women 29%<br>
 
 **Judicial branch**<br>
 _highest courts_: Seychelles Court of Appeal (consists of the court president and 4 justices); Supreme Court of Seychelles (consists of the chief justice and 9 puisne judges); Constitutional Court (consists of 3 Supreme Court judges)<br>

@@ -335,17 +335,17 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 **Suffrage**<br>
 18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
+_elections_: <br>Senate - bye-election held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
+
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
 _head of government_: Prime Minister Imran KHAN (since 18 August 2018)<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018<br>
 _election results_: Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - bye-election held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -373,6 +373,7 @@ _telephone_: [92] 51-201-4000<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _FAX_: [92] 51-227-6427<br>
+_email address_: ACSIslamabad@state.gov<br>
 _consulate(s) general_: Karachi, Lahore, Peshawar<br>
 
 **Flag description**<br>

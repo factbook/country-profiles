@@ -86,7 +86,7 @@ racially homogeneous; there is a small Chinese community and a few ethnic Japane
 
 **Languages**<br>
 Korean<br>
-_printed major-language sample_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 traditionally Buddhist and Confucianist, some Christian and syncretic Chondogyo (Religion of the Heavenly Way)<br>
@@ -299,6 +299,11 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 17 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
+_elections_: last held on 10 March 2019 (next to be held March 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
+
 **Executive branch**<br>
 _chief of state_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 _head of government_: State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive<br>
@@ -306,11 +311,6 @@ _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly 
 _elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next election March 2024)<br>
 _election results_: KIM Jong In reelected unopposed<br>
 <strong>note:</strong> the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively<br>
-
-**Legislative branch**<br>
-_description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
-_elections_: last held on 10 March 2019 (next to be held March 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)<br>

@@ -327,17 +327,17 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly (165 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); note - 6 additional electoral seats were added for the 11 August 2016 election, up from 150 electoral seats in the 2011 election<br>
+_elections_: last held on 11 August 2016 (next to be held on 12 August 2021)<br>
+_election results_: percent of vote by party - PF 42%, UPND 41.7%, MMD 2.7%, FDD 2.2%, other 1.9%,independent 9.5%; seats by party - PF 89, UPND 54, MMD 5, FDD 1, NDC 1, independent 14; composition - men 135, women 30, percent of women 18.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015); note - the president is both chief of state and head of government<br>
 _head of government_: President Edgar LUNGU (since 25 January 2015); Vice President Inonge WINA (since 26 January 2015)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 August 2016 (next to be held in 2021)<br>
 _election results_: Edgar LUNGU reelected president in the first round; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2.0%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly (165 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); note - 6 additional electoral seats were added for the 11 August 2016 election, up from 150 electoral seats in the 2011 election<br>
-_elections_: last held on 11 August 2016 (next to be held on 12 August 2021)<br>
-_election results_: percent of vote by party - PF 42%, UPND 41.7%, MMD 2.7%, FDD 2.2%, other 1.9%,independent 9.5%; seats by party - PF 89, UPND 54, MMD 5, FDD 1, NDC 1, independent 14; composition - men 135, women 30, percent of women 18.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -360,8 +360,9 @@ _FAX_: [1] (202) 332-0826<br>
 _chief of mission_: Charge d'Affaires David J. YOUNG (since 2 March 2020)<br>
 _telephone_: [260] (0) 211-357-000<br> <p class="cityname1"> </p><br>
 _embassy_: Eastern end of Kabulonga Road, Ibex Hill, Lusaka<br>
-_mailing address_: P. O. Box 320065, Lusaka<br>
+_mailing address_: 2310 Lusaka Place, Washington DC 20521-2310<br>
 _FAX_: [260]&nbsp; 211-357-224<br>
+_email address_: ACSLusaka@state.gov<br>
 
 **Flag description**<br>
 green field with a panel of three vertical bands of red (hoist side), black, and orange below a soaring orange eagle, on the outer edge of the flag; green stands for the country's natural resources and vegetation, red symbolizes the struggle for freedom, black the people of Zambia, and orange the country's mineral wealth; the eagle represents the people's ability to rise above the nation's problems<br>

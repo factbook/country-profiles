@@ -85,7 +85,7 @@ Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkme
 
 **Languages**<br>
 Afghan Persian or Dari (official) 78% (Dari functions as the lingua franca), Pashto (official) 50%, Uzbek 10%, English 5%, Turkmen 2%, Urdu 2%, Pashayi 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2017 est.)<br>
-_printed major-language sample_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br>
+_major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br>
 <strong>note 1:</strong> data represent most widely spoken languages; shares sum to more than 100% because there is much bilingualism in the country and because respondents were allowed to select more than one language
 <br><br><strong>note 2:</strong> the Turkic languages Uzbek and Turkmen, as well as Balochi, Pashayi, Nuristani, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
@@ -331,18 +331,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
+_election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
+<strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
+
 **Executive branch**<br>
 _chief of state_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
 _head of government_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
 _cabinet_: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019 (next to be held in 2024)<br>
 _election results_: Ashraf GHANI declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI 50.6%,&nbsp;Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
-_election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
-<strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Stera Mahkama (consists of the supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans)<br>
@@ -364,10 +364,11 @@ _consulate(s) general_: Los Angeles, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Ross WILSON (since 18 January 2020)<br>
-_telephone_: [00 93] 0700 108 001<br>
+_telephone_: [00 93] (0) 700 10 8000<br>
 _embassy_: Bibi Mahru, Kabul<br>
-_mailing address_: U.S. Embassy Kabul, APO AE 09806<br>
-_FAX_: [00 93] 0700 108 564<br>
+_mailing address_: 6180 Kabul Place, Washington DC&nbsp; 20521-6180<br>
+_FAX_: [00 93] (0) 700 108 564<br>
+_email address_: kabulacs@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>

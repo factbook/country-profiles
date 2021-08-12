@@ -263,17 +263,17 @@ see the Netherlands<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
+_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1<br>
+
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Alfonso BOEKHOUDT (since 1 January 2017)<br>
 _head of government_: Prime Minister Evelyn WEVER-CROES (since 17 November 2017)<br>
 _cabinet_: Council of Ministers elected by the Legislature (Staten)<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term; election last held on 22 September 2017 (next to be held by September 2021)<br><strong>note:</strong> on 30 March 2021, Evelyn WEVER-CROES resigned as prime minister and dissolved parliament, an announcement for new elections is expected soon<br>
 _election results_: Evelyn WEVER-CROES (MEP) elected prime minister; percent of legislative vote - NA<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 25 June 2021 (next to be held in June 2025)<br>
-_election results_: percent of vote by party MEP 35.3%, AVP 31.3%, ROOTS 9.4%, MAS 8%, Accion21 5.8%; seats by party - MEP 9, AVP 7, ROOTS 2, MAS 2, Accion21 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court in The Hague, Netherlands<br>

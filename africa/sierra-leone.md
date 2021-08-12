@@ -328,17 +328,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by simple majority vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
+_elections_: last held on 7 March 2018 (next to be held in March 2023)<br>
+_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 131, women 15, percent of women 10.3%<br>
+
 **Executive branch**<br>
 _chief of state_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018) ; note - the president is both chief of state, head of government, and minister of defense&nbsp;<br>
 _head of government_: President Julius Maada BIO (since 4 April 2018); Vice President Mohamed Juldeh JALLOH (since 4 April 2018)<br>
 _cabinet_: Ministers of State appointed by the president, approved by Parliament; the cabinet is responsible to the president&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 4 April 2018&nbsp;(next to be in 2023)<br>
 _election results_: Julius Maada BIO elected president in second round; percent of vote - Julius Maada BIO (SLPP) 51.8%, Samura KAMARA (APC) 48.2%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament (146 seats; 132 members directly elected in single-seat constituencies by simple majority vote and 14 seats filled in separate elections by non-partisan members of Parliament called "paramount chiefs;" members serve 5-year terms)<br>
-_elections_: last held on 7 March 2018 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - n/a; seats by party - APC 68, SLPP 49, C4C 8, other 7; composition - men 131, women 15, percent of women 10.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Superior Court of Judicature (consists of the Supreme Court - at the apex - with the chief justice and 4 other judges, the Court of Appeal with the chief justice and 7 other judges, and the High Court of Justice with the chief justice and 9 other judges); note &ndash; the Judicature has jurisdiction in all civil, criminal, and constitutional matters<br>
@@ -361,8 +361,9 @@ _FAX_: [1] (202) 483-1793<br>
 _chief of mission_: Ambassador Maria E. BREWER (since 20 December 2017)<br>
 _telephone_: [232] 99 105 000<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _FAX_: [232] 99 515 355<br>
+_email address_: consularfreetown@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of light green (top), white, and light blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown<br>

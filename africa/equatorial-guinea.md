@@ -85,7 +85,7 @@ Fang 85.7%, Bubi 6.5%, Mdowe 3.6%, Annobon 1.6%, Bujeba 1.1%, other 1.4% (1994 c
 
 **Languages**<br>
 Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), French (official), Portuguese-based Creoles spoken in Ano Bom) 32.4% (1994 census)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 nominally Christian and predominantly Roman Catholic, Muslim, Baha'i, animist, indigenous<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)<br> Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br> Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PDGE and aligned coalition 70; composition - men 60, women 10, percent of women 14.3%<br><br> Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
+
 **Executive branch**<br>
 _chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue(since 2012)<br>
 _head of government_: Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president<br>
 _election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)<br> Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br> Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PDGE and aligned coalition 70; composition - men 60, women 10, percent of women 14.3%<br><br> Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>
@@ -349,7 +349,8 @@ _consulate(s) general_: Houston<br>
 _chief of mission_: Ambassador Susan N. STEVENSON (since 7 May 2019)<br>
 _telephone_: [240] 333 09 57 41 or 1-301-985-8750<br>
 _embassy_: Malabo II Highway (between the Headquarters of Sonagas and the offices of the United Nations), Malabo<br>
-_mailing address_: US Embassy Malabo, 2320 Malabo Place, Washington, DC 20521-2520<br>
+_mailing address_: 2320 Malabo Place, Washington, DC 20521-2520<br>
+_email address_: Malaboconsular@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence<br>

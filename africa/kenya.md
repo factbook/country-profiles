@@ -87,7 +87,7 @@ Kikuyu 17.1%, Luhya 14.3%, Kalenjin 13.4%, Luo 10.7%, Kamba 9.8%, Somali 5.8%, K
 
 **Languages**<br>
 English (official), Kiswahili (official), numerous indigenous languages<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, Chanzo cha Lazima Kuhusu Habari ya Msingi. (Kiswahili)<br>
 
 **Religions**<br>
 Christian 85.5% (Protestant 33.4%, Catholic 20.6%, Evangelical 20.4%, African Instituted Churches 7%, other Christian 4.1%), Muslim 10.9%, other 1.8%, none 1.6%,&nbsp;don't&nbsp;know/no answer&nbsp;0.2% (2019 est.)<br>
@@ -338,17 +338,17 @@ _residency requirement for naturalization_: 4 out of the previous 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)<br>
+_elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%<br>
+
 **Executive branch**<br>
 _chief of state_: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government<br>
 _head of government_: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - position of the prime minister was abolished after the March 2013 elections&nbsp;<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly&nbsp;<br>
 _elections/appointments_: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in at least 24 of the 47 counties to avoid a runoff; election last held on 26 October 2017 (next to be held in 2022)<br>
 _election results_: Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)<br>
-_elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -373,8 +373,9 @@ _consulate(s)_: New York<br>
 _chief of mission_: Ambassador Kyle MCCARTER (since 12 March 2019)<br>
 _telephone_: [254] (20) 363-6000<br>
 _embassy_: United Nations Avenue, Nairobi; P.O. Box 606 Village Market, Nairobi 00621<br>
-_mailing address_: American Embassy Nairobi, U.S. Department of State, Washington, DC 20521-8900<br>
+_mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _FAX_: [254] (20) 363-6157<br>
+_email address_: kenya_acs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>

@@ -88,7 +88,7 @@ White 47.7%, Mulatto (mixed White and Black) 43.1%, Black 7.6%, Asian 1.1%, Indi
 
 **Languages**<br>
 Portuguese (official and most widely spoken language); note - less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and a large number of minor Amerindian languages<br>
-_printed major-language sample_: <br>O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>O Livro de Fatos Mundiais, a fonte indispensável para informação básica. (Brazilian Portuguese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 64.6%, other Catholic 0.4%, Protestant 22.2% (includes Adventist 6.5%, Assembly of God 2.0%, Christian Congregation of Brazil 1.2%, Universal Kingdom of God 1.0%, other Protestant 11.5%), other Christian 0.7%, Spiritist 2.2%, other 1.4%, none 8%, unspecified 0.4% (2010 est.)<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 voluntary between 16 to 18 years of age, over 70, and if illiterate; compulsory between 18 to 70 years of age; note - military conscripts by law cannot vote<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
+_elections_: <br>Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held in October 2022 for one-third of the Senate)<br>Chamber of Deputies - last held on 7 October 2018 (next to be held in October 2022)<br>
+_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 70, women 11, percent of women 13.6%     <br>Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 462, women 51, percent of women 9.9%; total National Congress percent of women 10.4%<br>
+
 **Executive branch**<br>
 _chief of state_: President Jair BOLSONARO (since 1 January 2019); Vice President Antonio Hamilton Martins MOURAO (since 1 January 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Jair BOLSONARO (since 1 January 2019); Vice President Antonio Hamilton Martins MOURAO (since 1 January 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a single 4-year term (eligible for a second term); election last held on 7 October 2018 with runoff on 28 October 2018 (next to be held in October 2022)<br>
 _election results_: <br><em>2018: </em> Jair BOLSONARO elected president in second round; percent of vote in first round - Jair BOLSONARO (PSL) 46%, Fernando HADDAD (PT) 29.3%, Ciro GOMEZ (PDT) 12.5%, Geraldo ALCKMIN (PSDB) 4.8%, other 7.4%; percent of vote in second round - Jair BOLSONARO (PSL) 55.1%, Fernando HADDAD (PT) 44.9%<br><br><em>2014:  </em>Dilma ROUSSEFF reelected president in second round; percent of vote - Dilma ROUSSEFF (PT) 51.6%, Aecio NEVES (PSDB) 48.4%; note - on 12 May 2016, Brazil's Senate voted to hold an impeachment trial of President Dilma ROUSSEFF, who was then suspended from her executive duties; Vice President Michel TEMER took over as acting president; on 31 August 2016 the Senate voted 61-20 in favor of conviction and her removal from office; TEMER served as president for the remainder of ROUSSEFF's term, which ended 1 January 2019<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held in October 2022 for one-third of the Senate)<br>Chamber of Deputies - last held on 7 October 2018 (next to be held in October 2022)<br>
-_election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 70, women 11, percent of women 13.6%     <br>Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 462, women 51, percent of women 9.9%; total National Congress percent of women 10.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Federal Court or Supremo Tribunal Federal (consists of 11 justices)<br>
@@ -362,9 +362,10 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los An
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Douglas A. KONEFF (since July 2021)<br>
 _telephone_: [55] (61) 3312-7000<br>
-_embassy_: Avenida das Nacoes, Quadra 801, Lote 3, Distrito Federal Cep 70403-900, Brasilia<br>
-_mailing address_: Unit 7500, DPO AA 34030<br>
+_embassy_: SES - Avenida das Nacoes, Quadra 801, Lote 3, 70403-900 - Brasilia, DF<br>
+_mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _FAX_: [55] (61) 3225-9136<br>
+_email address_: BrasilliaACS@state.gov<br>
 _consulate(s) general_: Belo Horizonte, Recife, Porto Alegre, Rio de Janeiro, Sao Paulo<br>
 
 **Flag description**<br>

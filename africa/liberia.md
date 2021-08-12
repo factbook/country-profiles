@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
+_elections_: Senate -general election held on 8 December 2020 with half the seats up for election (next election 2023)<br>House of Representatives - last held on 10 October 2017 (next to be held in October 2023)<br>
+_election results_: Senate - percent of vote by party - Collaborating Political Parties 40.27%, Congress for Democratic Change 28.02%, People's Unification Party 6.40, Movement for Democracy and Reconstructions 4.30%, All Liberia Coalition 1.09%,Rainbow Alliance 1.09%, Liberia Restoration Party 0,82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1   <br> <br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 64, women 9, percent of women 12.3%; total Parliament percent of women 11.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2017 with a run-off on 26 December 2017) (next to be held on 10 October 2023); the runoff originally scheduled for 7 November 2017 was delayed due to allegations of fraud in the first round, which the Supreme Court dismissed<br>
 _election results_: George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br> House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
-_elections_: Senate - last held on 20 December 2014 ; byelection to fill the senate seats vacated by WEAH and HOWARD-TAYLOR was held on 31 July 2018 (next general election to be held on 31 December 2020)<br> House of Representatives - last held on 10 October 2017 (next to be held in October 2023)<br>
-_election results_: Senate - percent of vote by party - CDC 29.8%, UP 10.3%, LP 11.5%, NPP 6.1%, PUP 4.9%, ANC 4.2%, NDC 1.3%, other 7.6%, independent 24.3%; seats by party - UP 4, CDC 2, LP 2, ANC 1, NDC 1, NPP 1, PUP 1, independent 3; composition - men 27, women 3, percent of women 10%<br> House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 64, women 9, percent of women 12.3%; total Parliament percent of women 11.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>
@@ -360,8 +360,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Michael A. MCCARTHY (since 22 January 2021)<br>
 _telephone_: [231] 77-677-7000<br>
 _embassy_: U.S. Embassy, 502 Benson Street, Monrovia<br>
-_mailing address_: P.O. Box 98, Monrovia<br>
+_mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
 _FAX_: [231] 77-677-7370<br>
+_email address_: ACSMonrovia@state.gov<br>
 
 **Flag description**<br>
 11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>

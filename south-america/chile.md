@@ -88,7 +88,7 @@ White and non-Indigenous 88.9%, Mapuche 9.1%, Aymara 0.7%, other indigenous grou
 
 **Languages**<br>
 Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2012 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 66.7%, Evangelical or Protestant 16.4%, Jehovah's Witness 1%, other 3.4%, none 11.5%, unspecified 1.1% (2012 est.)<br>
@@ -319,17 +319,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 19 November 2017 (next to be held on 21 November 2021)<br>Chamber of Deputies - last held on 19 November 2017 (next to be held on 21 November 2021)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Sebastian PINERA Echenique (since 11 March 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held on 21 November 2021 with runoff if need on 19 December)<br>
 _election results_: <br><em>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br><br><em>2013:</em> Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 19 November 2017 (next to be held on 21 November 2021)<br>Chamber of Deputies - last held on 19 November 2017 (next to be held on 21 November 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)<br>
@@ -353,8 +353,9 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Fran
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Richard H. GLENN (since August 2020)<br>
 _telephone_: [56] (2) 2330-3000<br>
 _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
-_mailing address_: APO AA 34033<br>
+_mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
 _FAX_: [56] (2) 2330-3710, 2330-3160<br>
+_email address_: Santiagousa@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence<br>

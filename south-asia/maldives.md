@@ -308,17 +308,17 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: last held on&nbsp;6 April 2019&nbsp;(next to be held in 2023)<br>
+_election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Ibrahim "Ibu" Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17 November 2018); the president is both chief of state and head of government<br>
 _head of government_: President Ibrahim Mohamed SOLIH (since 17 November 2018); Vice President&nbsp;Faisal NASEEM (since 17&nbsp;November 2018)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 September 2018 (next to be held in 2023)<br>
 _election results_: Ibrahim Mohamed SOLIH elected president (in 1 round); Ibrahim Mohamed SOLIH (MDP) 58.3%, Abdulla YAMEEN Abdul Gayoom (PPM) 41.7%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or People's Majlis (87 seats - includes 2 seats added by the Elections Commission in late 2018; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on&nbsp;6 April 2019&nbsp;(next to be held in 2023)<br>
-_election results_: percent of vote - MDP 44.7%, JP 10.8%, PPM 8.7%, PNC 6.4%, MDA 2.8%, other 5.6%, independent 21%; seats by party - MDP 65, JP 5, PPM 5, PNC 3, MDA 2, independent 7; composition - men 83, women 4, percent of women 4.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 4-6 justices; note - 3 justices as of late 2019)<br>

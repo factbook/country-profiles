@@ -87,7 +87,7 @@ Ukrainian 77.8%, Russian 17.3%, Belarusian 0.6%, Moldovan 0.5%, Crimean Tatar 0.
 
 **Languages**<br>
 Ukrainian (official) 67.5%, Russian (regional language) 29.6%, other (includes small Crimean Tatar-, Moldovan/Romanian-, and Hungarian-speaking minorities) 2.9% (2001 est.); note - in February 2018, the Constitutional Court ruled that 2012 language legislation entitling a language spoken by at least 10% of an oblast's population to be given the status of "regional language" - allowing for its use in courts, schools, and other government institutions - was unconstitutional, thus making the law invalid; Ukrainian remains the country's only official nationwide language<br>
-_printed major-language sample_: <br>Свiтова Книга Фактiв – найкраще джерело базової інформації. (Ukrainian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Свiтова Книга Фактiв – найкраще джерело базової інформації. (Ukrainian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox (includes the Orthodox Church of Ukraine (OCU), Ukrainian Autocephalous Orthodox Church (UAOC), and the Ukrainian Orthodox - Moscow Patriarchate (UOC-MP)), Ukrainian Greek Catholic, Roman Catholic, Protestant, Muslim, Jewish (2013 est.)<br>
@@ -319,6 +319,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 21 July 2019 (next to be held in July 2024)<br>
+_election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; seats by party (preliminary) - Servant of the People 254, Oposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Samopomich 1, Svoboda 1, other parties 2, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
+
 **Executive branch**<br>
 _chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
 _head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
@@ -326,11 +331,6 @@ _cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019 (next to be held in March 2024); prime minister selected by the Verkhovna Rada<br>
 _election results_: first round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; second round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 73.2%, Petro POROSHENKO (BPP-Solidarity) 24.5%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br>
 <strong>note:</strong> there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
-
-**Legislative branch**<br>
-_description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 21 July 2019 (next to be held in July 2024)<br>
-_election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; seats by party (preliminary) - Servant of the People 254, Oposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Samopomich 1, Svoboda 1, other parties 2, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber)<br>
@@ -357,6 +357,7 @@ _telephone_: [380] (44) 521-5000<br>
 _embassy_: 4 A. I. Igor Sikorsky Street, 04112 Kyiv<br>
 _mailing address_: 5850 Kyiv Place, Washington, DC 20521-5850<br>
 _FAX_: [380] (44) 521-5155<br>
+_email address_: Kyivacs@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky<br>

@@ -86,7 +86,7 @@ Turkish 70-75%, Kurdish 19%, other minorities 7-12% (2016 est.)<br>
 
 **Languages**<br>
 Turkish (official), Kurdish, other minority languages<br>
-_printed major-language sample_: <br>The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, temel bilgi edinmek için vazgeçilmez bir kaynak. (Turkish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 99.8% (mostly Sunni), other 0.2% (mostly Christians and Jews)<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
+_elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
+_election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats<br>
+
 **Executive branch**<br>
 _chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2019); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2019; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next scheduled for June 2023)<br>
 _election results_: Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
-_elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
-_election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)<br>
@@ -356,7 +356,7 @@ _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<b
 _chief of mission_: Ambassador&nbsp;David M. SATTERFIELD (since 28 August 2019)<br>
 _telephone_: [90] (312) 455-5555<br>
 _embassy_: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara<br>
-_mailing address_: PSC 93, Box 5000, APO AE 09823<br>
+_mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
 _FAX_: [90] (312) 467-0019<br>
 _consulate(s) general_: Istanbul<br>
 _consulate(s)_: Adana<br>
@@ -720,7 +720,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,688,093 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
+_refugees (country of origin)_: 3,692,837 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

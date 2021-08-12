@@ -84,7 +84,7 @@ Tajik 84.3% (includes Pamiri and Yagnobi), Uzbek 13.8%, other 2% (includes Kyrgy
 
 **Languages**<br>
 Tajik (official) 84.4%, Uzbek 11.9%, Kyrgyz 0.8%, Russian 0.5%, other 2.4% (2010 est.)<br>
-_printed major-language sample_: <br>Китоби Фактҳои Ҷаҳонӣ, манбаи бебадали маълумоти асосӣ (Tajik)<br>
+_major-language sample(s)_: <br>Китоби Фактҳои Ҷаҳонӣ, манбаи бебадали маълумоти асосӣ (Tajik)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> Russian widely used in government and business<br>
 
 **Religions**<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
+_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%<br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percent of women 23.8%; note - total Supreme Assembly percent of women 21.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
 _election results_: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, Rustam RAHAMATZODA (PERT) 2.2%, Abduhalim GHAFFOROV (SPT) 1.5%, Miroj ABDULLOEV (CPT) 1.2%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%<br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percent of women 23.8%; note - total Supreme Assembly percent of women 21.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -353,8 +353,9 @@ _FAX_: [1] (202) 223-6091<br>
 _chief of mission_: Ambassador John Mark POMMERSHEIM (since 15 March 2019)<br>
 _telephone_: [992] (37) 229-20-00, 992-37-229-2300 (consular direct line); EMER: 992-98-580-1032<br>
 _embassy_: 109-A Ismoili Somoni Avenue, Dushanbe 734019<br>
-_mailing address_: 7090 Dushanbe Place, Dulles, VA 20189<br>
+_mailing address_: 7090 Dushanbe Place, Washington DC&nbsp; 20521-7090<br>
 _FAX_: [992] (37) 229-20-50<br>
+_email address_: DushanbeConsular@state.gov<br>
 
 **Flag description**<br>
 three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number "seven" - a symbol of perfection and the embodiment of happiness<br>

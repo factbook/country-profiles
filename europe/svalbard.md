@@ -76,7 +76,7 @@ Norwegian 58%, foreign population 42% (consists primarily of Russians, Thais, Sw
 
 **Languages**<br>
 Norwegian, Russian<br>
-_printed major-language sample_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Population growth rate**<br>
 -0.03% (2019 est.)<br>
@@ -153,15 +153,15 @@ the laws of Norway where applicable apply; only the laws of Norway made explicit
 **Citizenship**<br>
 see Norway<br>
 
-**Executive branch**<br>
-_chief of state_: King HARALD V of Norway (since 17 January 1991); Heir Apparent Crown Prince Haakon MAGNUS (son of the king, born 20 July 1973)<br>
-_head of government_: Governor Kjerstin ASKHOLT (since 1 October 2015); Assistant Governor Berit SAGFOSSEN (since 1 April 2016)<br>
-_elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
-
 **Legislative branch**<br>
 _description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state<br>
 _elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
 _election results_: seats by party - Conservatives 5, Labor Party 5, Liberals 3, Green Party 2<br>
+
+**Executive branch**<br>
+_chief of state_: King HARALD V of Norway (since 17 January 1991); Heir Apparent Crown Prince Haakon MAGNUS (son of the king, born 20 July 1973)<br>
+_head of government_: Governor Kjerstin ASKHOLT (since 1 October 2015); Assistant Governor Berit SAGFOSSEN (since 1 April 2016)<br>
+_elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
 
 **Judicial branch**<br>
 _highest courts_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>

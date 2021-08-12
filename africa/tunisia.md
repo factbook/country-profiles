@@ -86,7 +86,7 @@ Arab 98%, European 1%, Jewish and other 1%<br>
 
 **Languages**<br>
 Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight); note - despite having no official status, French plays a major role in the country and is spoken by about two thirds of the population<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن كتاب تتعلم به المعلومات الأساسية (Arabic)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official; Sunni) 99%, other (includes Christian, Jewish, Shia Muslim, and Baha'i) &lt;1%<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal except for active government security forces (including the police and the military), people with mental disabilities, people who have served more than three months in prison (criminal cases only), and people given a suspended sentence of more than six months<br>
 
+**Legislative branch**<br>
+_description_: <br>note: on 25 July 2021, President SAIED suspended the Assembly for 30 days<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies abroad by party-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: initial election held on 6 October 2019 (next to be held in October 2024)<br>
+_election results_: percent of vote by party - Ennahdha 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%;seats by party -&nbsp; Ennahdha 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Tahya Tounes 14, other 25, independent 12; composition - men 139, women 78, percent of women 35.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (elected 13 October, sworn in 23 October 2019)<br>
 _head of government_: prime minister (vacant); on 25 July 2021, President SAIED removed Prime Minister Hichem MECHICHI from office<br>
 _cabinet_: selected by the prime minister and approved by the Assembly of the Representatives of the People<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be&nbsp;held in 2024); following legislative elections, the prime minister is selected by the winning party or winning coalition and appointed by the president<br>
 _election results_: <p>first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; runoff - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
-
-**Legislative branch**<br>
-_description_: <br>note: on 25 July 2021, President SAIED suspended the Assembly for 30 days<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies abroad by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: initial election held on 6 October 2019 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - Ennahdha 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%;seats by party -&nbsp; Ennahdha 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Tahya Tounes 14, other 25, independent 12; composition - men 139, women 78, percent of women 35.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the first president, chamber presidents, and magistrates and organized into 27 civil and 11 criminal chambers)<br>
@@ -349,8 +349,9 @@ _FAX_: [1] (202) 862-1858<br>
 _chief of mission_: Ambassador Donald A. BLOME (since 7 February 2019)<br>
 _telephone_: [216] 71 107-000<br>
 _embassy_: Les Berges du Lac, 1053 Tunis<br>
-_mailing address_: Zone Nord-Est des Berges du Lac Nord de Tunis 1053<br>
+_mailing address_: 6360 Tunis Place, Washington DC&nbsp; 20521-6360<br>
 _FAX_: [216] 71 107-090<br>
+_email address_: tunisacs@state.gov<br>
 
 **Flag description**<br>
 red with a white disk in the center bearing a red crescent nearly encircling a red five-pointed star; resembles the Ottoman flag (red banner with white crescent and star) and recalls Tunisia's history as part of the Ottoman Empire; red represents the blood shed by martyrs in the struggle against oppression, white stands for peace; the crescent and star are traditional symbols of Islam<br>

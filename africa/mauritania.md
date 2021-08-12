@@ -87,7 +87,7 @@ Black Moors (Haratines - Arab-speaking slaves, former slaves, and their descenda
 
 **Languages**<br>
 Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the modern standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 100%<br>
@@ -330,18 +330,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
+_elections_: first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+<strong>note:</strong> a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development<br>
+
 **Executive branch**<br>
 _chief of state_: President Mohamed Cheikh El GHAZOUANI (since 1 August 2019)<br>
 _head of government_: Prime Minister Mohamed Ould BILAL (since 6 August 2020)&nbsp;<br>
 _cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next scheduled for 22 June 2024); prime minister appointed by the president<br>
 _election results_: Mohamed Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
-_elections_: first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition - NA<br>
-<strong>note:</strong> a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors ); Constitutional Council (consists of 6 members)<br>
@@ -364,8 +364,9 @@ _FAX_: [1] (202) 319-2623<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
 _telephone_: [222] 4525-2660 or [222] 2660-2663<br>
 _embassy_: Avenue Al Quds, Nouadhibou, Nouadhibou Road, Nouakchott<br><br>  <br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
 _FAX_: [222] 4525-1592<br>
+_email address_: ConsularNKC@state.gov<br>
 
 **Flag description**<br>
 green with a yellow, five-pointed star between the horns of a yellow, upward-pointing crescent moon; red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara; red symbolizes the blood shed in the struggle for independence<br>

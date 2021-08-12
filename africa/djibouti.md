@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 23 February 2018 (next to be held in February 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 47, women 18, percent of women 26.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Ismail Omar GUELLEH (since 8 May 1999)<br>
 _head of government_: Prime Minister Abdoulkader Kamil MOHAMED (since 1 April 2013)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 9 April 2021 (next to be held in April 2026); prime minister appointed by the president<br>
 _election results_: Ismail Omar GUELLEH reelected president for a fifth term; percent of vote - Ismail Omar GUELLEH (RPP) 97.4%, Zakaria Ismael FARAH (MDEND) 2.7%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale, formerly the Chamber of Deputies (65 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 23 February 2018 (next to be held in February 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UMP 57, UDJ-PDD 7, CDU 1; composition - men 47, women 18, percent of women 26.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA magistrates); Constitutional Council (consists of 6 magistrates)<br>
@@ -353,8 +353,9 @@ _FAX_: [1] (202) 331-0302<br>
 _chief of mission_: Ambassador Jonathan PRATT (since 22 February 2021)<br>
 _telephone_: [253] 21 45 30 00<br>
 _embassy_: Lot 350-B, Haramouss B.P. 185<br>
-_mailing address_: B.P. 185, Djibouti<br>
+_mailing address_: 2150 Djibouti Place, Washington DC&nbsp; 20521-2150<br>
 _FAX_: [253] 21 45 31 29<br>
+_email address_: DjiboutiACS@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity<br>

@@ -230,18 +230,18 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>
+_elections_: last held on 26 July 2017 (next to be held in 2021)<br>
+_election results_: percent of vote - NA; seats by party - independent 12; composition - men 14, women 3, percent women 17.6%<br>
+<strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952)<br>
 _head of government_: Governor Philip RUSHBROOK (since&nbsp;11 May 2019)<br>
 _cabinet_: Executive Council consists of the governor, 3 ex-officio officers, and 5 elected members of the Legislative Council<br>
 _elections/appointments_: none; the monarchy is hereditary; governor appointed by the monarch<br>
 <strong>note:</strong> the constitution order provides for an administrator for Ascension and Tristan da Cunha appointed by the governor<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>
-_elections_: last held on 26 July 2017 (next to be held in 2021)<br>
-_election results_: percent of vote - NA; seats by party - independent 12; composition - men 14, women 3, percent women 17.6%<br>
-<strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and 2 justices); Supreme Court (consists of the chief justice - a nonresident - and NA judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

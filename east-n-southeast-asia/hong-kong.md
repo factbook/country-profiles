@@ -83,7 +83,7 @@ Chinese 92%, Filipino 2.5%, Indonesian 2.1%, other 3.4% (2016 est.)<br>
 
 **Languages**<br>
 Cantonese (official) 88.9%, English (official) 4.3%, Mandarin (official) 1.9%, other Chinese dialects 3.1%, other 1.9% (2016 est.)<br>
-_printed major-language sample_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist or Taoist 27.9%, Protestant 6.7%, Roman Catholic 5.3%, Muslim 4.2%, Hindu 1.4%, Sikh 0.2%, other or none 54.3% (2016 est.)<br>
@@ -269,6 +269,11 @@ see China<br>
 **Suffrage**<br>
 18 years of age in direct elections for half of the Legislative Council seats and all of the seats in 18 district councils; universal for permanent residents living in the territory of Hong Kong for the past 7 years; note - in indirect elections, suffrage is limited to about 220,000 members of functional constituencies for the other half of the legislature and a 1,200-member election committee for the chief executive drawn from broad sectoral groupings, central government bodies, municipal organizations, and elected Hong Kong officials<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large "super-seat" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)<br>
+_elections_: last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office<br>
+_election results_: percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%<br> <p><strong> </strong></p><br>
+
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)&nbsp;<br>
 _head of government_: &nbsp;Chief Executive Carrie LAM (since 1 July 2017)<br>
@@ -276,11 +281,6 @@ _cabinet_: &nbsp;Executive Council or ExCo appointed by the chief executive&nbsp
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023); chief executive indirectly elected by the Election Committee and appointed by the PRC Government for a 5-year term (eligible for a second term); election last held on 26 March 2017 (next to be held in 2022)<br>
 _election results_: Carrie LAM elected chief executive; Election Committee vote - Carrie LAM 777, John TSANG 365, WOO Kwok-hing 21, invalid 23<br>
 <strong>note:</strong> the Legislative Council voted in June 2010 to expand the Election Committee to 1,200 members<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Council or LegCo (70 seats; 35 members directly elected in multi-seat constituencies by party-list proportional representation vote; 30 members indirectly elected by the approximately 220,000 members of various functional constituencies based on a variety of methods; 5 at large "super-seat" members directly elected by all of Hong Kong&rsquo;s eligible voters who do not participate in a functional constituency; members serve 4-year terms)<br>
-_elections_: last held on 4 September 2016; (scheduled for September 2020, but delayed until 19 December 2021); note - byelection held on 11 March and 25 November 2018 to fill 5 seats left vacant after 5 legislators were removed from office<br>
-_election results_: percent of vote by block - pro-democracy 36%; pro-Beijing 40.2%, localist 19%, other 4.8%; seats by block/party - pro-Beijing 40 (DAB 12, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 9); pro-democracy 23 (Democratic Party 7, Civic Party 6, PP-LSD 2, Professional Commons 2, Labor 1, NWSC 1, PTU 1, other democrats 3), localists 6 (ALLinHK 2, CP-PPI-HKRO 1, Demosisto 1, Democracy Groundwork 1, other localist 1), non-aligned independent 1; composition - men 59, women 11, percent of women 15.7%; note - 2 localists were barred from taking office in November 2016 and 4 pro-democracy legislators were removed in July 2017; two pan-democratic, two DAB, and one pro-establishment candidates won the byelections in 2018 to fill the seats vacated by the 5 legislators removed from office; one pro-democracy seat remains unfilled pending a court appeal; percent of vote by block as of March 2019 - pro-Beijing 62% pro-democracy 38%; seats by block/party as of March 2019 - pro-Beijing 43 (DAB 13, BPA 7, FTU 5, Liberal Party 4, NPP 3, other 11); pro-democracy 26 (Democratic Party 7, Civic Party 5, Professional Commons 2, Civic Passion 1, Labor 1 PTU 1, Council Front 6, independent 3); composition as of March 2019 - men 58, women 11; percent of women 15.7%<br> <p><strong> </strong></p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal (consists of the chief justice, 3 permanent judges, and 20 non-permanent judges); note - a sitting bench consists of the chief justice, 3 permanent judges, and 1 non-permanent judge<br>
@@ -302,8 +302,9 @@ _HKETO offices_: New York, San Francisco<br>
 _chief of mission_: Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau<br>
 _telephone_: [852] 2523-9011<br>
 _embassy_: U. S. Consulate General Hong Kong and Macau<br>26 Garden Road<br>Central Hong Kong<br>
-_mailing address_: Unit 8000, Box 1, DPO AP 96521-0006<br>
+_mailing address_: 8000 Hong Kong Place, Washington DC&nbsp; 20521-8000<br>
 _FAX_: [852] 2845-1598<br>
+_email address_: acshk@state.gov<br>
 _consulate(s) general_: 26 Garden Road, Hong Kong<br>
 
 **Flag description**<br>

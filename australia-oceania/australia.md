@@ -311,16 +311,16 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
+_elections_: <br>Senate - last held on 18 May 2019 (next to be held in 2022)<br>House of Representatives - last held on 18 May 2019 (next to be held in 2022)<br>
+_election results_: <br>Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1<br>House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David HURLEY (since 1 July 2019)<br>
 _head of government_: Prime Minister Scott MORRISON (since 24 August 2018)<br>
 _cabinet_: Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
-
-**Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
-_elections_: <br>Senate - last held on 18 May 2019 (next to be held in 2022)<br>House of Representatives - last held on 18 May 2019 (next to be held in 2022)<br>
-_election results_: <br>Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1<br>House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>
@@ -344,8 +344,9 @@ _consulate(s) general_: Atlanta, Chicago, Honolulu, Houston, Los Angeles, New Yo
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Michael GOLDMAN (since 19 January 2021)<br>
 _telephone_: [61] (02) 6214-5600<br>
 _embassy_: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600<br>
-_mailing address_: APO AP 96549<br>
+_mailing address_: 7800 Canberra Place, Washington DC&nbsp; 20512-7800<br>
 _FAX_: [61] (02) 6214-5970<br>
+_email address_: AskEmbassyCanberra@state.gov<br>
 _consulate(s) general_: Melbourne, Perth, Sydney<br>
 
 **Flag description**<br>

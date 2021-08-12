@@ -84,7 +84,7 @@ Slovene 83.1%, Serb 2%, Croat 1.8%, Bosniak 1.1%, other or unspecified 12% (2002
 
 **Languages**<br>
 Slovene (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 est.)<br>
-_printed major-language sample_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 0.9%, unaffiliated 3.5%, other or unspecified 23%, none 10.1% (2002 est.)<br>
@@ -310,17 +310,17 @@ _residency requirement for naturalization_: 10 years, the last 5 of which have b
 **Suffrage**<br>
 18 years of age, 16 if employed; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br> National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br> National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held no later than 2022)<br>
+_election results_: <br> National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%<br>
+
 **Executive branch**<br>
 _chief of state_: &nbsp;President Borut PAHOR (since 22 December 2012)<br>
 _head of government_: Prime Minister Janez JANSA (since 13 March 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second consecutive term); election last held on 22 October with a runoff on 12 November 2017 (next election to be held by November 2022); following National Assembly elections, the leader of the majority party or majority coalition usually nominated prime minister by the president and elected by the National Assembly<br>
 _election results_: Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-31<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br> National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br> National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held no later than 2022)<br>
-_election results_: <br> National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -344,8 +344,9 @@ _consulate(s) general_: Cleveland (OH)<br>
 _chief of mission_: Ambassador Lynda C. BLANCHARD (since 29 August 2019)<br>
 _telephone_: [386] (1) 200-5500<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
-_mailing address_: American Embassy Ljubljana, US Department of State, 7140 Ljubljana Place, Washington, DC 20521-7140<br>
+_mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
 _FAX_: [386] (1) 200-5555<br>
+_email address_: LjubljanaACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands<br>

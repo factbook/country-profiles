@@ -83,7 +83,7 @@ Uzbek 83.8%, Tajik 4.8%, Kazakh 2.5%, Russian 2.3%, Karakalpak 2.2%, Tatar 1.5%,
 
 **Languages**<br>
 Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%<br>
-_printed major-language sample_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Jahon faktlari kitobi, asosiy ma'lumotlar uchun zaruriy manba. (Uzbek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> in the autonomous Karakalpakstan Republic, both the Karakalpak language and Uzbek have official status<br>
 
 **Religions**<br>
@@ -305,18 +305,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
+<strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
+
 **Executive branch**<br>
 _chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016); First Deputy Prime Minister/Minister of Transport Achilbay RAMATOV (since 15 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 4 December 2016 (next to be held in 2021); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
 _election results_: Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (NDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (Milliy Tiklanish/National Revival) 2.4%, other 1.8%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
-<strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)<br>
@@ -340,8 +340,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Daniel ROSENBLUM (since 24 May 2019)<br>
 _telephone_: [998] (71) 120-5450<br>
 _embassy_: 3 Moyqo'rq'on, 5th Block, Yunusobod District, Tashkent 100093<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 7110 Tashkent Place, Washington DC&nbsp; 20521-7110<br>
 _FAX_: [998] (71) 120-6335<br>
+_email address_: ACSTashkent@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a vertical, white crescent moon (closed side to the hoist) and 12 white, five-pointed stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>

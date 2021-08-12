@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 5 out of the previous 7 years includ
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Office of Electoral Commissioner; members serve a 5-year term)<br>
+_elections_: last held on&nbsp;7&nbsp;November 2019&nbsp;(next to be held by late&nbsp;2024)<br>
+_election results_: percent of vote by party - MSM 61%, Labour Party 23%, MMM 13%, OPR 3%; elected seats by party&nbsp;as of - the Militant Socialist Movement (MSM) wins 38 seats, the Labour Party (PTR) or (MLP)&nbsp;14,&nbsp; Mauritian Militant Movement (MMM)&nbsp;8 and the Rodrigues People's Organization (OPR) 2; composition - men&nbsp;49,&nbsp;women 13; percent of women 20% (2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Pritivirajsing ROOPUN (since December 2019); Vice President Marie Cyril Eddy Boiss&eacute;zon (2 December 2019) note - President Ameenah GURIB-FAKIM (since 5 June 2015) resigned on 23 March 2018 amid a credit card scandal<br>
 _head of government_: Prime Minister Pravind JUGNAUTH (since 23 January 2017, remains PM after parliamentary election 7 Nov 2019); note - Prime Minister Sir Anerood JUGNAUTH (since 17 December 2014) stepped down on 23 January 2017 in favor of his son, Pravind Kumar JUGNAUTH, who was then appointed prime minister; 7 Nov 2019 Pravind Jugnauth remains prime minister and home affairs minister and also becomes defense minister (2019)<br>
 _cabinet_: Cabinet of Ministers (Council of Ministers) appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for 5-year renewable terms; election last held on&nbsp;7 Nov 2019&nbsp;(next to be held in&nbsp;2024); prime minister and deputy prime minister appointed by the president, responsible to the National Assembly (2019)<br>
 _election results_: seats&nbsp;by party as of 7/11/2019- (MSM) 38, (PTR) 14, (MMM) 8, (OPR) 2;&nbsp;note - GURIB-FAKIM, Mauritius'- first female president, resigned on 23 March 2018 (2018)<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (70 seats maximum; 62 members directly elected multi-seat constituencies by simple majority vote and up to 8 seats allocated to non-elected party candidates by the Office of Electoral Commissioner; members serve a 5-year term)<br>
-_elections_: last held on&nbsp;7&nbsp;November 2019&nbsp;(next to be held by late&nbsp;2024)<br>
-_election results_: percent of vote by party - MSM 61%, Labour Party 23%, MMM 13%, OPR 3%; elected seats by party&nbsp;as of - the Militant Socialist Movement (MSM) wins 38 seats, the Labour Party (PTR) or (MLP)&nbsp;14,&nbsp; Mauritian Militant Movement (MMM)&nbsp;8 and the Rodrigues People's Organization (OPR) 2; composition - men&nbsp;49,&nbsp;women 13; percent of women 20% (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Mauritius (consists of the chief justice, a senior puisne judge, and 18 puisne judges); note - the Judicial Committee of the Privy Council (in London) serves as the final court of appeal<br>
@@ -344,8 +344,9 @@ _FAX_: [1] (202) 966-0983<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Judes E. DEBAERE (since June 2019); note - also accredited to Seychelles<br>
 _telephone_: [230] 202-4400<br>
 _embassy_: 4th Floor, Rogers House, John Kennedy Avenue, Port Louis<br>
-_mailing address_: international mail: P.O. Box 544, Port Louis; US mail: American Embassy, Port Louis, US Department of State, Washington, DC 20521-2450<br>
+_mailing address_: 2450 Port Louis Place, Washington, DC 20521-2450<br>
 _FAX_: [230] 208-9534<br>
+_email address_: PTLConsular@state.gov<br>
 
 **Flag description**<br>
 four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br>

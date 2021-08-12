@@ -85,7 +85,7 @@ Arab 95%, Armenian 4%, other 1%<br>
 
 **Languages**<br>
 Arabic (official), French, English, Armenian<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 61.1% (30.6% Sunni, 30.5% Shia, smaller percentages of Alawites and Ismailis), Christian 33.7% (Maronite Catholics are the largest Christian group), Druze 5.2%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2018 est.)<br>
@@ -309,18 +309,18 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank<br>
 
-**Executive branch**<br>
-_chief of state_: President Michel AWN (since 21 January 2021)<br>
-_head of government_: Prime Minister Hassan DIAB (since 22 October 2020); note - the Lebanese Government is in "caretaker" status<br>
-_cabinet_: Cabinet chosen by the prime minister in consultation with the president and National Assembly<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with the National Assembly; deputy prime minister determined during cabinet formation<br>
-_election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
-
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
 _elections_: last held on 6 May 2018 (next to be held in 2022)<br>
 _election results_: percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%<br>
 <strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
+
+**Executive branch**<br>
+_chief of state_: President Michel AWN (since 31 October 2016)<br>
+_head of government_: Prime Minister Hassan DIAB (since 22 October 2020); note - the Lebanese Government is in "caretaker" status<br>
+_cabinet_: Cabinet chosen by the prime minister in consultation with the president and National Assembly<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with the National Assembly; deputy prime minister determined during cabinet formation<br>
+_election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)<br>
@@ -344,8 +344,9 @@ _consulate(s) general_: Detroit, New York, Los Angeles<br>
 _chief of mission_: Ambassador Dorothy SHEA (since 11 March 2020)<br>
 _telephone_: [961] (04) 543 600<br>
 _embassy_: Awkar-Facing the Municipality, Main Street, Beirut<br>
-_mailing address_: P. O. Box 70-840, Antelias, Lebanon; from US: US Embassy Beirut, 6070 Beirut Place, Washington, DC 20521-6070<br>
+_mailing address_: 6070 Beirut Place, Washington DC&nbsp; 20521-6070<br>
 _FAX_: [961] (4) 544136<br>
+_email address_: BeirutACS@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band; the red bands symbolize blood shed for liberation, the white band denotes peace, the snow of the mountains, and purity; the green cedar tree is the symbol of Lebanon and represents eternity, steadiness, happiness, and prosperity<br>

@@ -87,7 +87,7 @@ Arab-Berber 99%, European less than 1%<br>
 
 **Languages**<br>
 Arabic (official), French (lingua franca), Berber or Tamazight (official); dialects include Kabyle Berber (Taqbaylit), Shawiya Berber (Tacawit), Mzab Berber, Tuareg Berber (Tamahaq)<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official; predominantly Sunni) 99%, other (includes Christian and Jewish) &lt;1% (2012 est.)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly (lower house with 407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
+_elections_: <br>Council of the Nation - last held on 29 December 2018 (next to be held in December 2021)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
+_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, EL Mostakbel 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
+
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021); note - President TEBBOUNE appointed BENABDERRAHMANE as prime minister following the resignation of Prime Minister Abdelaziz DJERAD on 24 June <h1> </h1> <h1> </h1> Abdelaziz DJERAD (since 28 December 2019)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _election results_: Abdelmadjid TEBBOUNE (NLF) 58.1%, Abdelkader BENGRINA (Movement of National Construction) 17.4%, Ali BENFLIS (Vanguard of Freedoms) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly (lower house with 407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
-_elections_: <br>Council of the Nation - last held on 29 December 2018 (next to be held in December 2021)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, EL Mostakbel 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>
@@ -351,8 +351,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: ambassador (vacant); Charg&eacute; d&rsquo;Affaires Gautam RANA (since 20 January 2021)<br>
 _telephone_: [213] (0) 770-08-2000<br>
 _embassy_: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger<br>
-_mailing address_: B. P. 408, Alger-Gare, 16030 Algiers<br>
-_FAX_: [213] (0) 770-08-2064<br>
+_mailing address_: 6030 Algiers Place, Washington DC&nbsp; 20521-6030<br>
+_FAX_: [213] (0) 770-08-2299<br>
+_email address_: ACSAlgiers@state.gov<br>
 
 **Flag description**<br>
 two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>

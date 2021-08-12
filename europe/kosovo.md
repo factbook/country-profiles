@@ -83,7 +83,7 @@ Albanians 92.9%, Bosniaks 1.6%, Serbs 1.5%, Turk 1.1%, Ashkali 0.9%, Egyptian 0.
 
 **Languages**<br>
 Albanian (official) 94.5%, Bosnian 1.7%, Serbian (official) 1.6%, Turkish 1.1%, other 0.9% (includes Romani), unspecified 0.1%; note - in municipalities where a community's mother tongue is not one of Kosovo's official languages, the language of that community may be given official status according to the 2006 Law on the Use of Languages (2011 est.)<br>
-_printed major-language sample_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 95.6%, Roman Catholic 2.2%, Orthodox 1.5%, other 0.1%, none 0.1%, unspecified 0.6% (2011 est.)<br>
@@ -233,17 +233,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: Vjosa OSMANI (since 4 April 2021); note: President Hashim THACI (since 7 April 2016) resigned 5 November 2020<br>
-_head of government_: Prime Minister Albin KURTI (since 22 February 2021)<br>
-_cabinet_: Cabinet elected by the Assembly<br>
-_elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 26 February 2016 (next to be held in 2021); prime minister indirectly elected by the Assembly<br>
-_election results_: Vjosa OSMANI elected president in the third ballot; Assembly vote - Vjosa OSMANI (VV) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
-
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
 _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
 _election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - NA<br>
+
+**Executive branch**<br>
+_chief of state_: President Vjosa OSMANI (since 4 April 2021); note: President Hashim THACI (since 7 April 2016) resigned 5 November 2020<br>
+_head of government_: Prime Minister Albin KURTI (since 22 February 2021)<br>
+_cabinet_: Cabinet elected by the Assembly<br>
+_elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
+_election results_: Vjosa OSMANI elected president in the third ballot; Assembly vote - Vjosa OSMANI (VV) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -269,8 +269,9 @@ _consulate(s)_: Des Moines (IA)<br>
 _chief of mission_: Ambassador Philip KOSNETT (since 3 December 2018)<br>
 _telephone_: [383] 38 59 59 3000<br>
 _embassy_: Arberia/Dragodan, Nazim Hikmet 30, Pristina<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 9520 Pristina Place, Washington DC&nbsp; 20521-9520<br>
 _FAX_: [383] 38 549 890<br>
+_email address_: PristinaACS@state.gov<br>
 
 **Flag description**<br>
 centered on a dark blue field is a gold-colored silhouette of Kosovo surmounted by six white, five-pointed stars arrayed in a slight arc; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>

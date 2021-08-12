@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br> House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
+_elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br> House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)<br>
+_election results_: <br>House of Lords - composition - men 579, women 217, percent of women 27.3%<br>House of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); Heir Apparent Prince CHARLES (son of the queen, born 14 November 1948)<br>
 _head of government_: Prime Minister Boris JOHNSON (Conservative) (since 24 July 2019)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister; election last held on 12 December 2019 (next to be held by 2 May 2024)<br>
 <strong>note:</strong> in addition to serving as the UK head of state, the British sovereign is the constitutional monarch for 15 additional Commonwealth countries (these 16 states are each referred to as a Commonwealth realm)<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Lords (membership not fixed; as of December 2019, 796 lords were eligible to participate in the work of the House of Lords - 679 life peers, 91 hereditary peers, and 26 clergy; members are appointed by the monarch on the advice of the prime minister and non-party political members recommended by the House of Lords Appointments Commission); note - House of Lords total does not include ineligible members or members on leave of absence<br> House of Commons (650 seats; members directly elected in single-seat constituencies by simple majority popular vote to serve 5-year terms unless the House is dissolved earlier)<br>
-_elections_: <br>House of Lords - no elections; note - in 1999, as provided by the House of Lords Act, elections were held in the House of Lords to determine the 92 hereditary peers who would remain; elections held only as vacancies in the hereditary peerage arise)<br> House of Commons - last held on 12 December 2019 (next to be held by 2 May 2024)<br>
-_election results_: <br>House of Lords - composition - men 579, women 217, percent of women 27.3%<br>House of Commons - percent of vote by party - Conservative 43.6%, Labor 32.1%, Lib Dems 11.6%, SNP 3.9%, Greens 2.7%, Brexit Party 2.0%, other 4.1%; seats by party - Conservative 365, Labor 202, SNP 48, Lib Dems 11, DUP 8, Sinn Fein 7, Plaid Cymru 4, other 9; composition - men 430, women 220, percent of women 34%; total Parliament percent of women 30.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 12 justices, including the court president and deputy president); note - the Supreme Court was established by the Constitutional Reform Act 2005 and implemented in 2009, replacing the Appellate Committee of the House of Lords as the highest court in the United Kingdom<br>
@@ -356,8 +356,9 @@ _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 _chief of mission_: Ambassador Robert Wood "Woody" JOHNSON IV (since 29 August 2017)<br>
 _telephone_: [44] 20-7499-9000<br>
 _embassy_: 33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode)<br>
-_mailing address_: PSC 801, Box 40, FPO AE 09498-4040<br>
+_mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _FAX_: [44] 20-7891-3151<br>
+_email address_: SCSLondon@state.gov<br>
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>
@@ -689,7 +690,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 
 **Military and security forces**<br>
 British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
-<strong>note:</strong> on 1 April 2021, the UK formed a Space Command as a joint command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, intelligence, and information systems across the land, sea, air, space, and cyber domains; it also manages joint overseas operations<br>
+<strong>note:</strong> in 2021 the UK formed a Space Command as a joint command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, intelligence, and information systems across the land, sea, air, space, and cyber domains; it also manages joint overseas operations<br>
 
 **Military expenditures**<br>
 2.32% of GDP (2020 est.)<br>

@@ -87,7 +87,7 @@ Greek 98.8%, other 1% (includes Maronite, Armenian, Turkish-Cypriot), unspecifie
 
 **Languages**<br>
 Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filipino 1.1%, other 4.3%, unspecified 0.6%; note - data represent only the Republic of Cyprus (2011 est.)<br>
-_printed major-language sample_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox Christian 89.1%, Roman Catholic 2.9%, Protestant/Anglican 2%, Muslim 1.8%, Buddhist 1%, other (includes Maronite, Armenian Church, Hindu) 1.4%, unknown 1.1%, none/atheist 0.6% (2011 est.)<br>
@@ -319,6 +319,11 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
+_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)<br>
+_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; percent of vote by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3;&nbsp;area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2<br>
+
 **Executive branch**<br>
 _chief of state_: President Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government&nbsp;<br>
 _head of government_: President Nikos ANASTASIADIS (since 28 February 2013)<br>
@@ -326,11 +331,6 @@ _cabinet_: Council of Ministers appointed by the president; note - under the 196
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023)<br>
 _election results_: Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%<br>
 <strong>note:</strong> the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 202 due to the COVID-19 pandemic; results - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; the second round to be held on 18 October <br>
-
-**Legislative branch**<br>
-_description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
-_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)<br>
-_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; percent of vote by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3;&nbsp;area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -355,8 +355,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Judith Gail GARBER (since 18 March 2019)<br>
 _telephone_: [357] (22) 393939<br>
 _embassy_: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia<br>
-_mailing address_: P. O. Box 24536, 1385 Nicosia<br>
+_mailing address_: 5450 Nicosia Place, Washington DC&nbsp; 20521-5450<br>
 _FAX_: [357] (22) 780944<br>
+_email address_: ACSNicosia@state.gov<br>
 
 **Flag description**<br>
 centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>
@@ -695,6 +696,12 @@ Cypriot National Guard (CNG): 18-50 years of age for compulsory military service
 **Military - note**<br>
 the United Nations Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; as of March 2020, the UNICYP mission consisted of about 830 personnel (2020)<br>
 
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
@@ -704,7 +711,7 @@ the United Nations Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to p
 _refugees (country of origin)_: 7,372 (Syria) (2019)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 56 (2020)<br>
-<strong>note:</strong> 23,470 estimated refugee and migrant arrivals (January 2015-June 2021)<br>
+<strong>note:</strong> 24,053 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for heroin and hashish via air routes and container traffic to Europe, especially from Lebanon and Turkey; some cocaine transits as well; despite a strengthening of anti-money-laundering legislation, remains vulnerable to money laundering; reporting of suspicious transactions in offshore sector remains weak<br>

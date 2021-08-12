@@ -83,7 +83,7 @@ Malay 65.7%, Chinese 10.3%, other 24% (2019 est.)<br>
 
 **Languages**<br>
 Malay (Bahasa Melayu) (official), English, Chinese dialects<br>
-_printed major-language sample_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 78.8%, Christian 8.7%, Buddhist 7.8%, other (includes indigenous beliefs) 4.7% (2011 est.)<br>
@@ -289,16 +289,16 @@ _residency requirement for naturalization_: 12 years<br>
 **Suffrage**<br>
 18 years of age for village elections; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (36 seats; members appointed by the sultan including 3 ex-officio members - the speaker and first and second secretaries; members appointed for 5-year terms)<br>
+_elections_: appointed by the sultan<br>
+_election results_: NA; composition - men 33, women 3, percent of women 8.3%<br>
+
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government<br>
 _head of government_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _cabinet_: Council of Ministers appointed and presided over by the monarch; note(s)- 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade<br>
 _elections/appointments_: none; the monarchy is hereditary<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (36 seats; members appointed by the sultan including 3 ex-officio members - the speaker and first and second secretaries; members appointed for 5-year terms)<br>
-_elections_: appointed by the sultan<br>
-_election results_: NA; composition - men 33, women 3, percent of women 8.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -321,10 +321,11 @@ _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Emily M. FLECKNER&nbsp;(since 20 August 2020)<br>
-_telephone_: [673] 238-7400<br>
+_telephone_: (673) 238-7400<br>
 _embassy_: Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115<br>
-_mailing address_: Unit 4280, Box 40, FPO AP 96507; P.O. Box 2991, Bandar Seri Begawan BS8675, Negara Brunei Darussalam<br>
-_FAX_: [673] 238-7533<br>
+_mailing address_: 4020 Bandar Seri Begawan Place, Washington DC&nbsp; 20521-4020<br>
+_FAX_: (673) 238-7533<br>
+_email address_: ConsularBrunei@state.gov<br>
 
 **Flag description**<br>
 yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei's chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>

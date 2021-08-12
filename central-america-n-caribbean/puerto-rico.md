@@ -85,7 +85,7 @@ White 75.8%, Black/African American 12.4%, other 8.5% (includes American Indian,
 
 **Languages**<br>
 Spanish, English<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 85%, Protestant and other 15%<br>
@@ -276,6 +276,11 @@ see United States<br>
 **Suffrage**<br>
 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
 
+**Legislative branch**<br>
+_description_: bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 14 at-large members directly elected by simple majority vote to serve 4-year terms)<br> House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: <br> Senate - last held on 8 November 2016 (next to be held on 3 November 2020)<br> House of Representatives - last held on 8 November 2016 (next to be held on 3 November 2020)<br>
+_election results_: <br> Senate - percent of vote by party - NA; seats by party - PNP 21, PPD 7, PIP 1, Independent 1; composition - men 23, women 7, percent of women 23.3%<br> House of Representatives - percent of vote by party - NA; seats by party - PNP 34, PPD 16, PIP 1; composition - men 11, women 4, percent of women 26.7%; total Legislative Assembly percent of women 16%<br> <strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)<br>
+
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Pedro PIERLUISI (since 2 January 2021)<br>
@@ -283,11 +288,6 @@ _cabinet_: Cabinet appointed by governor with the consent of the Legislative Ass
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of Puerto Rico do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 3 November 2020 (next to be held on&nbsp; November 2024)<br>
 _election results_: Pedro PIERLUISI elected governor; percent of vote - Pedro PIERLUISI (PNP) 32.9%, Carlos DELGADO (PPD) 31.6%, Alexandra LUGARO (independent) 14.2%, Juan DALMAU (PIP) 13.7%<br>
 <strong>note:</strong> on 24 July 2019, Governor Ricardo ROSSELLO announced his resignation effective 2 August 2019; as Secretary of State, Pedro PIERLUISI succeeded Governor Ricardo ROSSELLO; on 7 August 2019 the Supreme Court of Puerto Rico ruled Pedro PIERLUISI accession was unconstitutional and Wanda VAZQUEZ is sworn in as governor<br>
-
-**Legislative branch**<br>
-_description_: bicameral Legislative Assembly or Asamblea Legislativa consists of:<br>Senate or Senado (30 seats; 16 members directly elected in 8 2-seat constituencies by simple majority vote and 14 at-large members directly elected by simple majority vote to serve 4-year terms)<br> House of Representatives or Camara de Representantes (51 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br> Senate - last held on 8 November 2016 (next to be held on 3 November 2020)<br> House of Representatives - last held on 8 November 2016 (next to be held on 3 November 2020)<br>
-_election results_: <br> Senate - percent of vote by party - NA; seats by party - PNP 21, PPD 7, PIP 1, Independent 1; composition - men 23, women 7, percent of women 23.3%<br> House of Representatives - percent of vote by party - NA; seats by party - PNP 34, PPD 16, PIP 1; composition - men 11, women 4, percent of women 26.7%; total Legislative Assembly percent of women 16%<br> <strong>note: </strong>Puerto Rico directly elects 1 member by simple majority vote to serve a 4-year term as a commissioner to the US House of Representatives; the commissioner can vote when serving on a committee and when the House meets as the Committee of the Whole House but not when legislation is submitted for a 'full floor' House vote; election of commissioner last held on 6 November 2018 (next to be held in November 2022)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 8 associate justices)<br>

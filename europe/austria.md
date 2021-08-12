@@ -85,7 +85,7 @@ Austrian 80.8%, German 2.6%,  Bosnian and Herzegovinian 1.9%, Turkish 1.8%, Ser
 
 **Languages**<br>
 German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in southern Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 est.)<br>
-_printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Catholic 57%, Eastern Orthodox 8.7%, Muslim 7.9%, Evangelical Christian 3.3%, other/none/unspecified 23.1% (2018 est.)<br>
@@ -308,17 +308,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)<br>
+_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)<br>
+_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
 _head of government_: Sebastian KURZ elected chancellor (since 2 January 2020)<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)<br>
-_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)<br>
-_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -340,11 +340,12 @@ _consulate(s) general_: Los Angeles, New York<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Trevor TRAINA (since 24 May 2018)<br>
+_chief of mission_: Ambassador (vacant), Mario MESQUITA (since 12 July 2021)<br>
 _telephone_: [43] (1) 31339-0<br>
-_embassy_: Boltzmanngasse 16, A-1090, Vienna<br>
-_mailing address_: Boltzmanngasse 16, 1090 Vienna, Austria<br>
-_FAX_: [43] (1) 3100682<br>
+_embassy_: Boltzmanngasse 16, 1090, Vienna<br>
+_mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
+_FAX_: [43] (1) 310 06 82<br>
+_email address_: ConsulateVienna@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner<br>

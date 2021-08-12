@@ -244,17 +244,17 @@ see Denmark<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
+_elections_: Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
+_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men<br>
+
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017)<br>
 _head of government_: Prime Minister Bardhur A STEIG NIELSEN (since 16 September 2019)<br>
 _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 31 August 2019 (next to be held in 2023)<br>
 _election results_: Bardhur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br>
-
-**Legislative branch**<br>
-_description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
-_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men<br>
 
 **Judicial branch**<br>
 _highest courts_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>

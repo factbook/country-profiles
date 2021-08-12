@@ -310,16 +310,16 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the opposition leader - 13 seats allocated to the ruling party and 8 to the opposition party; members serve 5-year terms or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms or until Parliament is dissolved)<br>
+_elections_: Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 16, women 5, percent of women 23.8%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 27.4%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
 _head of government_: &nbsp;Prime Minister Andrew HOLNESS (since 3 March 2016)&nbsp;<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general on the recommendation of the prime minister and the opposition leader - 13 seats allocated to the ruling party and 8 to the opposition party; members serve 5-year terms or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms or until Parliament is dissolved)<br>
-_elections_: Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 16, women 5, percent of women 23.8%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 27.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>
@@ -344,8 +344,9 @@ _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Ph
 _chief of mission_: Ambassador Donald R. TAPIA (since 11 September 2019)<br>
 _telephone_: [1] (876) 702-6000 (2018)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
-_mailing address_: P.O. Box 541, Kingston 5<br>
+_mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
 _FAX_: [1] (876) 702-6001 (2018)<br>
+_email address_: KingstonACS@state.gov<br>
 
 **Flag description**<br>
 diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources<br>

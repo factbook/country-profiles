@@ -95,7 +95,7 @@ Celtic and Latin with Teutonic, Slavic, North African, Indochinese, Basque minor
 
 **Languages**<br>
 French (official) 100%, declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish, Occitan, Picard); note - overseas departments: French, Creole patois, Mahorian (a Swahili dialect)<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Buddhist 0.5-0.75%, Jewish 0.5-0.75%, other 0.5-1.0%, none 23-28% (2015 est.)<br>
@@ -327,17 +327,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017)&nbsp;<br>
 _head of government_: Prime Minister Jean CASTEX (since 3 July 2020)&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April with a runoff on 7 May 2017 (next to be held in April 2022); prime minister appointed by the president<br>
 _election results_: Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -362,8 +362,9 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian AGGELER (since 20 January 2021); note - also accredited to Monaco<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
 _embassy_: 2 Avenue Gabriel, 75008 Paris<br>
-_mailing address_: PSC 116, APO AE 09777<br>
+_mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _FAX_: [33] (1) 42 66 97 83<br>
+_email address_: Citizeninfo@state.gov<br>
 _consulate(s) general_: Marseille, Strasbourg<br>
 _consulate(s)_: Bordeaux, Lyon, Rennes, Toulouse<br>
 

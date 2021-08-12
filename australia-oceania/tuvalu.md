@@ -274,17 +274,17 @@ _residency requirement for naturalization_: na<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: last held on 9 September 2019 (next to be held on September 2023)<br>
+_election results_: percent of vote - NA; seats - independent 16 (9 members reelected)<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Acting Governor General Teniku TALESI Honolulu<br>(since 19 August 2019)<br>
 _head of government_: Prime Minister Kausea NATANO (since 19 September 2019)<br>
 _cabinet_: Cabinet appointed by the governor general on recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on recommendation of the prime minister; prime minister and deputy prime minister elected by and from members of House of Assembly following parliamentary elections<br>
 _election results_: Kausea NATANO elected prime minister by House of Assembly; House of Assembly vote count on 19 September 2019 -&nbsp;10 to 6<br>
-
-**Legislative branch**<br>
-_description_: unicameral House of Assembly or Fale I Fono (16 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 9 September 2019 (next to be held on September 2023)<br>
-_election results_: percent of vote - NA; seats - independent 16 (9 members reelected)<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and not less than 3 appeals judges); High Court (consists of the chief justice); appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

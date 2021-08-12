@@ -182,17 +182,17 @@ see Australia<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
-_head of government_: Administrator Eric HUTCHINSON (since 1 April 2017)<br>
-_cabinet_: Executive Council consists of 4 Legislative Assembly members<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
-
 **Legislative branch**<br>
 _description_: unicameral Norfolk Island Regional Council (5 seats; councillors directly elected by simple majority vote to serve 4-year terms); mayor elected annually by the councillors<br>
 _elections_: elections last held 28 May 2016 (next rescheduled to be held in 2022)<br>
 _election results_: seats by party - independent 5; composition - men 4, women 1, percent of women 20%<br>
 <strong>note:</strong> following an administrative restructuring of local government, the Legislative Assembly was dissolved on 18 June 2015 and replaced by an interim Norfolk Island Advisory Council effective 1 July 2015; the Advisory Council consisted of 5 members appointed by the Norfolk Island administrator based on nominations from the community; following elections on 28 May 2016, the new Norfolk Island Regional Council (NIRC) commenced operations on 1 July 2016; on 20 December 2020 the NIRC was suspended for three months following a public audit and this suspension was extended on 3 February 2021 for an additional three months pending the outcome of a public inquiry; the council election previously scheduled for 13 March 2021 has been postponed 12 months<br>
+
+**Executive branch**<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
+_head of government_: Administrator Eric HUTCHINSON (since 1 April 2017)<br>
+_cabinet_: Executive Council consists of 4 Legislative Assembly members<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the governor general of Australia for a 2-year term and represents the monarch and Australia<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Norfolk Island (consists of the chief justice and several justices); note - appeals beyond the Supreme Court of Norfolk Island are heard by the Federal Court and the High Court of Australia<br>

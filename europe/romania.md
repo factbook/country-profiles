@@ -88,7 +88,7 @@ Romanian 83.4%, Hungarian 6.1%, Romani 3.1%, Ukrainian 0.3%, German 0.2%, other 
 
 **Languages**<br>
 Romanian (official) 85.4%, Hungarian 6.3%, Romani 1.2%, other 1%, unspecified 6.1% (2011 est.)<br>
-_printed major-language sample_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Cartea informativa a lumii, sursa indispensabila pentru informatii de baza. (Romanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Eastern Orthodox (including all sub-denominations) 81.9%, Protestant (various denominations including Reformed and Pentecostal) 6.4%, Roman Catholic 4.3%, other (includes Muslim) 0.9%, none or atheist 0.2%, unspecified 6.3% (2011 est.)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
+_election results_: <br>Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men NA, women NA, percent of women NA%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition men NA, women NA, percent of women NA; note - total Parliament percent of women NA%<br>
+
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
 _head of government_: Prime Minister Florin CITU (since 23 December 2020); Deputy Prime Ministers Dan BARNA and Kelemen HUNOR (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
 _election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%,&nbsp;Viorica DANCILA (PSD) 33.9%; Ludovic ORBAN approved as prime minister with 240 votes<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
-_election results_: <br>Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men NA, women NA, percent of women NA%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition men NA, women NA, percent of women NA; note - total Parliament percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)<br>
@@ -349,8 +349,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _chief of mission_: Ambassador Adrian ZUCKERMAN (since 17 December 2019)<br>
 _telephone_: [40] (21) 200-3300<br>
 _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
-_mailing address_: American Embassy Bucharest, US Department of State, 5260 Bucharest Place, Washington, DC 20521-5260 (pouch)<br>
+_mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260&nbsp;<br>
 _FAX_: [40] (21) 200-3442<br>
+_email address_: ACSBucharest@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
@@ -696,6 +697,12 @@ conscription ended 2006; 18 years of age for male and female voluntary service; 
 
 **Military - note**<br>
 Romania officially became a member of NATO in 2004<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

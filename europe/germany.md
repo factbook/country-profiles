@@ -87,7 +87,7 @@ German 86.3%, Turkish 1.8%, Polish 1%, Syrian 1%, Romanian 1%, other/stateless/u
 
 **Languages**<br>
 German (official); note - Danish, Frisian, Sorbian, and Romani are official minority languages; Low German, Danish, North Frisian, Sater Frisian, Lower Sorbian, Upper Sorbian, and Romani are recognized as regional languages under the European Charter for Regional or Minority Languages<br>
-_printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 27.1%, Protestant 24.9%, Muslim 5.2%, Orthodox 2%, other Christian 1%, other 1%, none 38.8% (2019 est.)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal; age 16 for some state and municipal elections<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br> Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br> Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br> Bundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions<br>
+_election results_: <br> Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%<br>
+
 **Executive branch**<br>
 _chief of state_: President Frank-Walter STEINMEIER (since 19 March 2017)<br>
 _head of government_: Chancellor Angela MERKEL (since 22 November 2005)<br>
 _cabinet_: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president<br>
 _elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela MERKEL since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021)<br>
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br> Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br> Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br> Bundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions<br>
-_election results_: <br> Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -349,8 +349,9 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Woodward "Clark" PRICE (since 1 July 2021)<br>
 _telephone_: [49] (30) 8305-0<br>
 _embassy_: Clayallee 170, 14191 Berlin<br>
-_mailing address_: Clayallee 170, 14191 Berlin<br>
+_mailing address_: 5090 Berlin Place, Washington DC&nbsp; 20521-5090<br>
 _FAX_: [49] (30) 8305-1215<br>
+_email address_: BerlinPCO@state.gov<br>
 _consulate(s) general_: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich<br>
 
 **Flag description**<br>

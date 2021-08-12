@@ -85,7 +85,7 @@ Mestizo (mixed White and Amerindian ancestry) 68%, Indigenous 20%, White 5%, Cho
 
 **Languages**<br>
 Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official) 0.6%, other native languages 0.4%, foreign languages 2.4%, none 0.1%; note -&nbsp;Bolivia's 2009 constitution designates Spanish and all indigenous languages as official; 36 indigenous languages are specified, including a few that are extinct (2001 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 70%, Evangelical 14.5%, Adventist 2.5%, Mormon 1.2%, agnostic 0.3%, atheist 0.8%, other 3.5%, none 6.6%, unspecified 0.6% (2018 est.)<br>
@@ -323,17 +323,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
+_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
+
 **Executive branch**<br>
 _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the inauguration of Luis Alberto ARCE Catacora, winner of the 18 October 2020 presidential election<br>
-
-**Legislative branch**<br>
-_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>
@@ -359,8 +359,9 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, Washington, DC<br
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Charisse PHILLIPS (since August 2020)<br>
 _telephone_: [591] (2) 216-8000<br>
 _embassy_: Avenida Arce 2780, Casilla 425, La Paz<br>
-_mailing address_: 3220 La Paz Place, Dulles, VA, 20189-3220<br>
+_mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
 _FAX_: [591] (2) 216-8111<br>
+_email address_: ConsularLaPazACS@state.gov<br>
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
 **Flag description**<br>

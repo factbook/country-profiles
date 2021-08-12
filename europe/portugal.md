@@ -318,6 +318,11 @@ _residency requirement for naturalization_: 10 years; 6 years if from a Portugue
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: last held on 6 October 2019 (next to be held 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
@@ -325,11 +330,6 @@ _cabinet_: Council of Ministers appointed by the president on the recommendation
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 24 January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
 _election results_: Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (independent) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
-
-**Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 6 October 2019 (next to be held 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -354,8 +354,9 @@ _consulate(s)_: New Bedford (MA), Newark (NJ), Providence (RI)<br>
 _chief of mission_: Ambassador George E. GLASS (since 25 August 2017)<br>
 _telephone_: [351] (21) 727-3300<br>
 _embassy_: Avenida das Forcas Armadas, 1600-081 Lisbon<br>
-_mailing address_: Apartado 43033, 1601-301 Lisboa; PSC 83, APO AE 09726<br>
+_mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _FAX_: [351] (21) 726-9109<br>
+_email address_: conslisbon@state.gov<br>
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
 **Flag description**<br>

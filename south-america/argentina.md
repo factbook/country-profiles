@@ -87,7 +87,7 @@ European (mostly Spanish and Italian descent) and Mestizo (mixed European and Am
 
 **Languages**<br>
 Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 62.9%, Evangelical 15.3% (Pentecostal 13%, other Evangelical 2.3%), Jehovah's Witness and Mormon 1.4%, other 1.2%, agnostic 3.2%, atheist 6%, none 9.7%, unspecified 0.3% (2019 est.)<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
+_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
+_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
+
 **Executive branch**<br>
 _chief of state_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the president is both chief of state and head of government (2019)<br>
 _head of government_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019) (2018)<br>
 _cabinet_: Cabinet appointed by the president (2017)<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)<br>
 _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
-_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)<br>
@@ -353,9 +353,10 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York,
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires MaryKay CARLSON (since 20 January 2021)<br>
 _telephone_: [54] (11) 5777-4533<br>
-_embassy_: Avenida Colombia 4300, C1425GMN Buenos Aires<br>
+_embassy_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _mailing address_: international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034<br>
 _FAX_: [54] (11) 5777-4240<br>
+_email address_: buenosaires-acs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>

@@ -84,7 +84,7 @@ Armenian 98.1%, Yezidi (Kurd) 1.2%, other 0.7% (2011 est.)<br>
 
 **Languages**<br>
 Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1%; note - Russian is widely spoken (2011 est.)<br>
-_printed major-language sample_: <br>Աշխարհի Փաստագիրք, Անփոխարինելի Աղբյւր Հիմնական Տեղեկատվւթյան. (Armenian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Աշխարհի Փաստագիրք, Անփոխարինելի Աղբյւր Հիմնական Տեղեկատվւթյան. (Armenian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Armenian Apostolic 92.6%, Evangelical 1%, other 2.4%, none 1.1%, unspecified 2.9% (2011 est.)<br>
@@ -312,18 +312,18 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: President Armen SARKISSIAN (since 9 April 2018)<br>
-_head of government_: Prime Minister (vacant); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021<br>
-_cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019<br>
-_election results_: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections<br>
-<strong>note:</strong> After initially winning election on 8 May 2018, Nikol PASHINYAN resigned his post (but stayed on as acting prime minister) on 16 October 2018 to force a snap election (held on 9 December 2018) in which his bloc won more than 70% of the vote; PASHINYAN was reappointed prime minister on 14 January 2019<br>
-
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, current - 132; members directly elected in single-seat constituencies by closed party-list proportional representation vote; the quota for the proportion of women MPs on each party list must be at least one of three candidates; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; members serve 5-year terms)<br>
 _elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
 _election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21.0%, I Have Honour Alliance 5.2%; seats by party - Civil Contract 72 of 105 seats, Armenia Alliance 27, I Have Honour Alliance 6; composition - men 101, women 31, percent of women 23.5%<br>
+
+**Executive branch**<br>
+_chief of state_: President Armen SARKISSIAN (since 9 April 2018)<br>
+_head of government_: Prime Minister Nikol PASHINYAN (since 2 August 2021); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the President on 02 August 2021<br>
+_cabinet_: Council of Ministers appointed by the prime minister<br>
+_elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019<br>
+_election results_: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections<br>
+<strong>note:</strong> After initially winning election on 8 May 2018, Nikol PASHINYAN resigned his post (but stayed on as acting prime minister) on 16 October 2018 to force a snap election (held on 9 December 2018) in which his bloc won more than 70% of the vote; PASHINYAN was reappointed prime minister on 14 January 2019<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
@@ -337,7 +337,7 @@ Armenian National Congress or ANC (bloc of independent and opposition parties) [
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Varuzhan NERSESSYAN (since 11 January 2019)<br>
+_chief of mission_: Ambassador (vacant since late July 2021)<br>
 _chancery_: 2225 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-1976<br>
 _FAX_: [1] (202) 319-2982<br>
@@ -345,10 +345,11 @@ _consulate(s) general_: Glendale (CA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Lynne M. TRACEY (since 5 March 2019)<br>
-_telephone_: [374](10) 464-700<br>
+_telephone_: [374] (10) 464-700<br>
 _embassy_: <p>1 American Ave., Yerevan 0082</p><br>
-_mailing address_: American Embassy Yerevan, US Department of State, 7020 Yerevan Place, Washington, DC 20521-7020<br>
-_FAX_: [374](10) 464-742<br>
+_mailing address_: 7020 Yerevan Place, Washington, DC&nbsp; 20521-7020<br>
+_FAX_: [374] (10) 464-742<br>
+_email address_: acsyerevan@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it<br>
@@ -658,7 +659,7 @@ Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2
 4.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Armenian Armed Forces have approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2020)<br>
+the Armenian Armed Forces have approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-era equipment; since 2010, almost all of Armenia's weapons imports have come from Russia (2020)<br>
@@ -670,7 +671,7 @@ the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-er
 18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2019)<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
 
 ## Transnational Issues
 

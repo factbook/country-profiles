@@ -85,7 +85,7 @@ Liechtensteiner 65.8%, Swiss 9.6%, Austrian 5.9%, German 4.4%, Italian 3.1%, oth
 
 **Languages**<br>
 German 91.5% (official) (Alemannic is the main dialect), Italian 1.5%, Turkish 1.3%, Portuguese 1.1%, other 4.6% (2015 est.)<br>
-_printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic (official) 73.4%, Protestant Reformed 6.3%, Muslim 5.9%,&nbsp; Christian Orthodox 1.3%, Lutheran 1.2%, other Protestant .7%, other Christian .3%, other .8%, none 7%, unspecified 3.3% (2015 est.)<br>
@@ -263,16 +263,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
+_election results_: percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
+
 **Executive branch**<br>
 _chief of state_: Prince HANS-ADAM II (since 13 November 1989, assumed executive powers on 26 August 1984); Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); note - 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but HANS-ADAM II retains status of chief of state<br>
 _head of government_: Prime Minister Daniel RISCH; Deputy Prime Minister Sabine MONAUNI (both since 25 March 2021)<br>
 _cabinet_: Cabinet elected by the Parliament, confirmed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
-_election results_: percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)<br>

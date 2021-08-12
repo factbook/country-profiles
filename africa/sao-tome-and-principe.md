@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
+_election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 45, women 10, percent of women 18.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br>
 _head of government_: Prime Minister Jorge Bom JESUS (since 3 December 2018)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 July 2016 and 7 August 2016 (next to be held in July 2021); prime minister chosen by the National Assembly and approved by the president<br>
 _election results_: Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 45, women 10, percent of women 18.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
@@ -357,6 +357,7 @@ _FAX_: [1] (212) 651-8117<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe<br>
+_mailing address_: 2290 Sao Tome Place, Washington DC&nbsp; 20521-2290<br>
 
 **Flag description**<br>
 three horizontal bands of green (top), yellow (double width), and green with two black five-pointed stars placed side by side in the center of the yellow band and a red isosceles triangle based on the hoist side; green stands for the country's rich vegetation, red recalls the struggle for independence, and yellow represents cocoa, one of the country's main agricultural products; the two stars symbolize the two main islands<br>

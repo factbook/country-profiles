@@ -86,7 +86,7 @@ Oromo 34.9%, Amhara (Amara) 27.9%, Tigray (Tigrinya) 7.3%, Sidama 4.1%, Welaita 
 
 **Languages**<br>
 Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)<br>
-_printed major-language sample_: <br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional 0.6%, other 0.8% (2016 est.)<br>
@@ -338,6 +338,12 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
+_elections_: House of Federation - last held 24 May 2015 (next originally scheduled on 29 August 2020 but postponed a year due to the COVID-19 pandemic)<br>House of People's Representatives - last held on 24 May 2015 (next election to be held June 2021)<br>
+_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 104, women 49, percent of women 32%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - EPRDF 501, SPDP 24, BGPDUP 9, ANDP 8, GPUDM 3, APDO 1, HNL 1; composition - men 335, women 212, percent of women  38.8%; note - total Parliament percent of women 37.3%<br>
+<strong>note:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation<br>
+
 **Executive branch**<br>
 _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
 _head of government_: Prime Minister ABIY Ahmed (since 2 April 2018); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
@@ -345,12 +351,6 @@ _cabinet_: Council of Ministers selected by the prime minister and approved by t
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); snap election held on 25 October 2018 due to resignation of President MULATA Teshome (next election postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: SAHLE-WORK Zewde elected president; Parliament vote - 659 (unanimous)<br>
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa. Former President Dr. Mulatu TESHOME resigned on 25 October 2018, one year ahead of finishing his six-year term.<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
-_elections_: House of Federation - last held 24 May 2015 (next originally scheduled on 29 August 2020 but postponed a year due to the COVID-19 pandemic)<br>House of People's Representatives - last held on 24 May 2015 (next election to be held June 2021)<br>
-_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 104, women 49, percent of women 32%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - EPRDF 501, SPDP 24, BGPDUP 9, ANDP 8, GPUDM 3, APDO 1, HNL 1; composition - men 335, women 212, percent of women  38.8%; note - total Parliament percent of women 37.3%<br>
-<strong>note:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues<br>
@@ -375,8 +375,9 @@ _consulate(s)_: Houston, New York<br>
 _chief of mission_: Ambassador Geeta PASI (since 1 March 2021)<br> <p> </p><br>
 _telephone_: [251] 11 130-6000<br>
 _embassy_: Entoto Street, P.O. Box 1014, Addis Ababa<br>
-_mailing address_: P.O. Box 1014, Addis Ababa<br>
+_mailing address_: 2030 Addis Ababa Place, Washington DC&nbsp; 20521-2030<br>
 _FAX_: [251] 11 124-2401<br>
+_email address_: AddisACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br>

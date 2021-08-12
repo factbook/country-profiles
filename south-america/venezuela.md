@@ -87,7 +87,7 @@ unspecified Spanish, Italian, Portuguese, Arab, German, African, Indigenous<br>
 
 **Languages**<br>
 Spanish (official), numerous indigenous dialects<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 nominally Roman Catholic 96%, Protestant 2%, other 2%<br>
@@ -303,17 +303,17 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
+_elections_: last held on 6 December 2020 (next to be held in December 2025)<br>
+_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3<br>
+
 **Executive branch**<br>
 _chief of state_: Notification Statement: the United States recognizes Juan GUAIDO as the Interim President of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election scheduled for 2024)<br>
 _election results_: 2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marked by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the chief of the National Electoral Council announced that the number of seats in the National Assembly would increase by two-thirds from 167 to 277 for the 2021-2026 term<br>
-_elections_: last held on 6 December 2020 (next to be held December 2025)<br>
-_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
@@ -337,8 +337,9 @@ _consulate(s) general_: Boston, Chicago, Houston, New Orleans, New York, San Fra
 _chief of mission_: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (since July 2018); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; all consular services, routine and emergency, are suspended<br>
 _telephone_: [58] (212) 975-6411, 907-8400 (after hours)<br>  <br>
 _embassy_: now operating from Bogota, Colombia<br>previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080<br>
-_mailing address_: P. O. Box 62291, Caracas 1060-A; APO AA 34037<br>
+_mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _FAX_: [58] (212) 907-8106<br>
+_email address_: ACSBogota@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; yellow is interpreted as standing for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; the seven stars on the original flag represented the seven provinces in Venezuela that united in the war of independence; in 2006, then President Hugo CHAVEZ ordered an eighth star added to the star arc - a decision that sparked much controversy - to conform with the flag proclaimed by Simon Bolivar in 1827 and to represent the historic province of Guayana<br>

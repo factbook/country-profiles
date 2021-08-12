@@ -86,7 +86,7 @@ Javanese 40.1%, Sundanese 15.5%, Malay 3.7%, Batak 3.6%, Madurese 3%, Betawi 2.9
 
 **Languages**<br>
 Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese); note -&nbsp;more than 700 languages are used in Indonesia<br>
-_printed major-language sample_: <br>Fakta Dunia, sumber informasi dasar yang sangat diperlukan. (Indonesian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Fakta Dunia, sumber informasi dasar yang sangat diperlukan. (Indonesian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 87.2%, Protestant 7%, Roman Catholic 2.9%, Hindu 1.7%, other 0.9% (includes Buddhist and Confucian), unspecified 0.4% (2010 est.)<br>
@@ -333,17 +333,17 @@ _residency requirement for naturalization_: 5 continuous years<br>
 **Suffrage**<br>
 17 years of age; universal and married persons regardless of age<br>
 
+**Legislative branch**<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
+_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government (2019)<br>
 _head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019) (2019)<br>
 _cabinet_: Cabinet appointed by the president&nbsp;<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
 _election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
-
-**Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
-_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>
@@ -367,8 +367,9 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<b
 _chief of mission_: <p>Ambassador Sung Y. KIM (October 2020)</p><br>
 _telephone_: [62] (21) 3435-9000 (2020)<br>
 _embassy_: Jalan Medan Merdeka Selatan 3-5, Jakarta 10110<br>
-_mailing address_: Unit 8129, Box 1, FPO AP 96520<br>
+_mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 8200<br>
 _FAX_: [62] (21) 2395-1697 (2018)<br>
+_email address_: jakartaacs@state.gov<br>
 _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 

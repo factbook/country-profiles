@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 20 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members indirectly elected by the ruling party and 75 directly elected by simple majority vote; members serve 5-year terms)<br>
+_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2020, there was no sitting legislative body<br>
+_election results_: NA<br>
+
 **Executive branch**<br>
 _chief of state_: President ISAIAS Afwerki (since 8 June 1993); note - the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); the only election was held on 8 June 1993, following independence from Ethiopia (next election postponed indefinitely)<br>
 _election results_: ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS &nbsp;Afwerki (PFDJ) 95%, other 5%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members indirectly elected by the ruling party and 75 directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2020, there was no sitting legislative body<br>
-_election results_: NA<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>
@@ -344,9 +344,10 @@ _FAX_: [1] (202) 319-1304<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Steven C. WALKER (since December 2019)<br>
 _telephone_: [291] (1) 120004<br>
-_embassy_: 179 Alaa Street, Asmara<br>
+_embassy_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
 _mailing address_: P.O. Box 211, Asmara<br>
 _FAX_: [291] (1) 127584<br>
+_email address_: ConsularAsmara@state.gov<br>
 
 **Flag description**<br>
 red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>

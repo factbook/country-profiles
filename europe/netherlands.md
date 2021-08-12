@@ -87,7 +87,7 @@ Dutch 76.9%, EU 6.4%, Turkish 2.4%, Moroccan 2.3%, Indonesian 2.1%, German 2.1%,
 
 **Languages**<br>
 Dutch (official); note - Frisian is an official language in Fryslan province; Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status under the European Charter for Regional or Minority Languages; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire<br>
-_printed major-language sample_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 23.6%, Protestant 14.9% (includes Dutch Reformed 6.4%, Protestant Church of The Netherlands 5.6%, Calvinist 2.9%), Muslim 5.1%, other 5.6% (includes Hindu, Buddhist, Jewish), none 50.7% (2017 est.)<br>
@@ -317,16 +317,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral States General or Staten Generaal consists of:<br>First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>Second Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms)<br>
+_elections_: <br>First Chamber - last held on 27 May 2019 (next to be held on NA May 2023)<br>Second Chamber - last held on 15 March 2017 (next to be held on 17 March 2021)<br>
+_election results_: <br>First Chamber - percent of vote by party - NA; seats by party - FvD 12, VVD 12, CDA 9, GL 8, D66 7, MvdA 6, PVV 5, SP 4, CU 4, other 8; composition - men 49, women 26, percent of women 34.7%<br>Second Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6%<br>
+
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
 _head of government_: Prime Minister (vacant); note - Prime Minister Mark RUTTE resigned on 15 January 2021; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
-
-**Legislative branch**<br>
-_description_: bicameral States General or Staten Generaal consists of:<br>First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>Second Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms)<br>
-_elections_: <br>First Chamber - last held on 27 May 2019 (next to be held on NA May 2023)<br>Second Chamber - last held on 15 March 2017 (next to be held on 17 March 2021)<br>
-_election results_: <br>First Chamber - percent of vote by party - NA; seats by party - FvD 12, VVD 12, CDA 9, GL 8, D66 7, MvdA 6, PVV 5, SP 4, CU 4, other 8; composition - men 49, women 26, percent of women 34.7%<br>Second Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -350,8 +350,9 @@ _consulate(s) general_: Chicago, Miami, New York, San Francisco<br>
 _chief of mission_: Ambassador Peter HOEKSTRA (since 10 January 2018)<br>
 _telephone_: [31] (70) 310-2209<br>
 _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
-_mailing address_: PSC 71, Box 1000, APO AE 09715<br>
+_mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
 _FAX_: [31] (70) 310-2207<br>
+_email address_: AmsterdamUSC@state.gov<br>
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>

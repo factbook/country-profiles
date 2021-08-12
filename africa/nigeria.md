@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br> House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br> House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
+
 **Executive branch**<br>
 _chief of state_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces<br>
 _head of government_: President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
 _elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held in February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019<br>
 _election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKER (PDP) 39%, other 8%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br> House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br> House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -370,8 +370,9 @@ _consulate(s) general_: Atlanta, New York<br>
 _chief of mission_: Ambassador Mary Beth LEONARD (since&nbsp;24 December 2019)<br>
 _telephone_: [234] (9) 461-4000<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
-_mailing address_: P. O. Box 5760, Garki, Abuja<br>
+_mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _FAX_: [234] (9) 461-4036<br>
+_email address_: AbujaACS@state.gov<br>
 _consulate(s)_: Lagos<br>
 
 **Flag description**<br>

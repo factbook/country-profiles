@@ -89,7 +89,7 @@ Mestizo (mixed Amerindian and White) 71.9%, Montubio 7.4%, Amerindian 7%, White 
 
 **Languages**<br>
 Spanish (Castilian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%; note - (Quechua and Shuar are official languages of intercultural relations; other indigenous languages are in official use by indigenous peoples in the areas they inhabit) (2010 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 74%, Evangelical 10.4%, Jehovah's Witness 1.2%, other 6.4% (includes Mormon, Buddhist, Jewish, Spiritualist, Muslim, Hindu, indigenous, African American, Pentecostal), atheist 7.9%, agnostic 0.1% (2012 est.)<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18-65 years of age; universal and compulsory; 16-18, over 65, and other eligible voters, voluntary<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
+_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
+_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
+
 **Executive branch**<br>
 _chief of state_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021); the president is both chief of state and head of government<br>
 _head of government_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 February 2021 with a runoff on 11 April 2021 (next to be held in February 2025)<br>
 _election results_: <br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (Independent) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br><br><em>2017:</em> Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
-_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)<br>
@@ -362,9 +362,10 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapol
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael J. FITZPATRICK (since 18 June 2019)<br>
 _telephone_: [593] (2) 398-5000<br>
-_embassy_: Avenida Avigiras E12-170 y Avenida Eloy Alfaro, Quito<br>
-_mailing address_: Avenida Guayacanes N52-205 y Avenida Avigiras<br>
+_embassy_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
+_mailing address_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
 _FAX_: [593] (2) 398-5100<br>
+_email address_: ACSQuito@state.gov<br>
 _consulate(s) general_: Guayaquil<br>
 
 **Flag description**<br>

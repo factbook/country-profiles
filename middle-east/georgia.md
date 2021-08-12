@@ -86,7 +86,7 @@ Georgian 86.8%, Azeri 6.3%, Armenian 4.5%, other 2.3% (includes Russian, Ossetia
 
 **Languages**<br>
 Georgian (official) 87.6%, Azeri 6.2%, Armenian 3.9%, Russian 1.2%, other 1%; note - Abkhaz is the official language in Abkhazia (2014 est.)<br>
-_printed major-language sample_: <br>მსოფლიო ფაქტების წიგნი, ძირითადი ინფორმაციის აუცილებელი წყარო. (Georgian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>მსოფლიო ფაქტების წიგნი, ძირითადი ინფორმაციის აუცილებელი წყარო. (Georgian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox (official) 83.4%, Muslim 10.7%, Armenian Apostolic 2.9%, other 1.2% (includes Catholic, Jehovah's Witness, Yazidi, Protestant, Jewish), none 0.5%, unspecified/no answer 1.2% (2014 est.)<br>
@@ -319,17 +319,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
+_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1<br>
+
 **Executive branch**<br>
 _chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
 _head of government_: Prime Minister Irakli GARIBASHVILI (since 22 February 2021)<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president <br><br>note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
 _election results_: Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
-_elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -353,8 +353,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Kelly C. DEGNAN (since 31 January 2020)<br>
 _telephone_: [995] (32) 227-70-00<br>
 _embassy_: 11 George Balanchine Street, Tbilisi,&nbsp;0131<br>
-_mailing address_: 7060 T'bilisi Place, Washington, DC 20521-7060<br>
+_mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _FAX_: [995] (32) 253-23-10<br>
+_email address_: askconsultbilisi@state.gov<br>
 
 **Flag description**<br>
 white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design is based on a 14th century banner of the Kingdom of Georgia<br>

@@ -84,7 +84,7 @@ Belarusian 83.7%, Russian 8.3%, Polish 3.1%, Ukrainian 1.7%, other 2.4%, unspeci
 
 **Languages**<br>
 Russian (official) 70.2%, Belarusian (official) 23.4%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)<br>
-_printed major-language sample_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox 48.3%, Catholic 7.1%, other 3.5%, non-believers 41.1% (2011 est.)<br>
@@ -315,18 +315,18 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly or Natsionalnoye Sobraniye consists of:<br>Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
+_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKO candidates winning every, or virtually every, seat<br>
+_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%; note - total National Assembly percent of women - NA<br>
+<strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
+
 **Executive branch**<br>
 _chief of state_: President Aleksandr LUKASHENKO (since 20 July 1994)<br>
 _head of government_: Prime Minister Roman GOLOVCHENKO (since 4 June 2020); First Deputy Prime Minister Nikolai SNOPKOV (since 4 June 2020); Deputy Prime Ministers Vladimir KUKHAREV, Igor PETRISHENKO (since 18 August 2018), Yury NAZAROV (since 3 March 2020), Aleksander Subbotin (since 4 June 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); first election took place on 23 June and 10 July 1994; according to the 1994 constitution, the next election should have been held in 1999; however, Aleksandr LUKASHENKO extended his term to 2001 via a November 1996 referendum; subsequent election held on 9 September 2001; an October 2004 referendum ended presidential term limits and allowed the president to run and win in a third (19 March 2006), fourth (19 December 2010), fifth (11 October 2015), and sixth (9 August 2020); next election in 2025; prime minister and deputy prime ministers appointed by the president and approved by the National Assembly<br>
 _election results_: Aleksandr LUKASHENKO reelected president; percent of vote - Aleksandr LUKASHENKO (independent) 80.2%, Sviatana TSIKHANOUSKAYA (independent) 9.9%, other 9.9%; note - widespread street protests erupted following announcement of the election results amid allegations of voter fraud<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly or Natsionalnoye Sobraniye consists of:<br>Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
-_elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKO candidates winning every, or virtually every, seat<br>
-_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%; note - total National Assembly percent of women - NA<br>
-<strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman and deputy chairman and organized into several specialized panels, including economic and military; number of judges set by the president of the republic and the court chairman); Constitutional Court (consists of 12 judges, including a chairman and deputy chairman)<br>
@@ -348,10 +348,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant; left in 2008 upon insistence of Belarusian Government); Charge d'Affaires Jeffrey GIAUQUE (since July 2020)<br>
-_telephone_: [375] (17) 210-1283/217-7347/217-7348<br>
+_telephone_: [375] (17) 210-12-83/217-7347/217-7348<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
-_mailing address_: Unit 7010 Box 100, DPO AE 09769<br>
-_FAX_: [375] (17) 334-7853<br>
+_mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
+_FAX_: [375] (17) 334-78-53<br>
+_email address_: ConsularMinsk@state.gov<br>
 
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country<br>

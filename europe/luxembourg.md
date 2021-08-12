@@ -302,16 +302,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
+_elections_: last held on&nbsp;14 October 2018 (next to be held by October 2023)<br>
+_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%<br>
+
 **Executive branch**<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)<br>
 _head of government_: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Etienne SCHNEIDER (since 4 December 2013); Deputy Prime Minister Felix BRAZ (since 5 December 2018)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
-
-**Legislative branch**<br>
-_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
-_elections_: last held on&nbsp;14 October 2018 (next to be held by October 2023)<br>
-_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>
@@ -335,8 +335,9 @@ _consulate(s) general_: New York, San Francisco<br>
 _chief of mission_: Ambassador James Randolph "Randy" EVANS (since 19 June 2018)<br>
 _telephone_: [352] 46-01-23 00<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
-_mailing address_: Unit 3560, APO AE 09126-3560 (official mail)<br>
+_mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
 _FAX_: [352] 46-14-01<br>
+_email address_: LuxembourgConsular@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)<br>

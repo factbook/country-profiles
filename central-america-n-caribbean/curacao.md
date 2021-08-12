@@ -255,16 +255,16 @@ see the Netherlands<br>
 **Suffrage**<br>
 <p>18 years of age; universal</p><br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition -<br>
+
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
 _head of government_: Prime Minister Gilmar PISAS (since 14 June 2021)<br>
 _cabinet_: Cabinet sworn-in by the governor<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the&nbsp;Parliament of Curacao; next election scheduled for 2016<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition -<br>
 
 **Judicial branch**<br>
 _highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>
@@ -283,8 +283,9 @@ none (represented by the Kingdom of the Netherlands)<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Allen GREENBERG (since June 2019); note - also accredited to Aruba and Sint Maarten<br>
 _telephone_: [599] (9) 4613066<br>
-_mailing address_: P. O. Box 158, J.B. Gorsiraweg #1<br>
+_mailing address_: 3160 Curacao Place, Washington DC&nbsp; 20521-3160<br>
 _FAX_: [599] (9) 4616489<br>
+_email address_: ACSCuracao@state.gov<br>
 
 **Flag description**<br>
 on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive<br>

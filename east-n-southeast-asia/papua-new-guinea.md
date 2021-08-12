@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
+_elections_: last held from 24 June 2017 to 8 July 2017 (next to be held in June 2022)<br>
+_election results_: percent of vote by party - PNC 37%; NA 13%; Pangu 14%; URP 11%; PPP 4%; SDP 4%; Independents 3%; and smaller parties 14%; seats by party - NA; composition - men 108, women 3, percent of women 3%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Grand Chief Sir Bob DADAE (since 28 February 2017)<br>
 _head of government_: Prime Minister James MARAPE&nbsp;(since 30 May 2019); Deputy Prime Minister Charles ABEL (since 4 August 2017)<br>
 _cabinet_: National Executive Council appointed by the governor general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general nominated by the National Parliament and appointed by the chief of state; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general pending the outcome of a National Parliament vote<br>
 _election results_: Peter Paire O'NEILL (PNC) reelected prime minister; National Parliament vote - 60 to 46<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Parliament (111 seats; members directly elected in single-seat constituencies - 89 local, 20 provinicial, the autonomous province of Bouganville, and the National Capital District - by majority preferential vote; members serve 5-year terms); note - the constitution allows up to 126 seats<br>
-_elections_: last held from 24 June 2017 to 8 July 2017 (next to be held in June 2022)<br>
-_election results_: percent of vote by party - PNC 37%; NA 13%; Pangu 14%; URP 11%; PPP 4%; SDP 4%; Independents 3%; and smaller parties 14%; seats by party - NA; composition - men 108, women 3, percent of women 3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, 35 justices, and 5 acting justices); National Courts (consists of 13 courts located in the provincial capitals, with a total of 19 resident judges)<br>
@@ -354,8 +354,9 @@ _FAX_: [1] (202) 745-3679<br>
 _chief of mission_: Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019); note - also accredited to the Solomon Islands and Vanuatu<br>
 _telephone_: [675] 321-1455<br>
 _embassy_: P.O. Box 1492, Port Moresby<br>
-_mailing address_: 4240 Port Moresby Place, US Department of State, Washington DC 20521-4240<br>
+_mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
 _FAX_: [675] 321-3423<br>
+_email address_: ConsularPortMoresby@state.gov<br>
 
 **Flag description**<br>
 divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific<br>

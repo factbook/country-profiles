@@ -88,7 +88,7 @@ Mestizo (mixed Amerindian and European) 90%, Amerindian 7%, African descent 2%, 
 
 **Languages**<br>
 Spanish (official), Amerindian dialects<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 46%, Protestant 41%, atheist 1%, other 2%, none 9% (2014 est.)<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 27 November 2017 (next to be held on 27 November 2021)<br>
+_election results_: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%<br>
+
 **Executive branch**<br>
 _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 26 November 2017 (next to be held in November 2021); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
 _election results_: <br><em>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion conta la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other .9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 27 November 2017 (next to be held on 27 November 2021)<br>
-_election results_: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -364,8 +364,9 @@ _consulate(s)_: Dallas, McAllen (TX)<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen A. HOEY (since August 2019)<br>
 _telephone_: [504] 2236-9320, 2238-5114<br>
 _embassy_: Avenida La Paz, Tegucigalpa M.D.C.<br>
-_mailing address_: American Embassy, APO AA 34022, Tegucigalpa<br>
+_mailing address_: 3480 Tegucigalpa Place, Washington DC&nbsp; 20521-3480<br>
 _FAX_: [504] 2236-9037<br>
+_email address_: usahonduras@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people<br>

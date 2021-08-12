@@ -92,7 +92,7 @@ Arab-Berber 99%, other 1%<br>
 
 **Languages**<br>
 Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy); note - the proportion of Berber speakers is disputed; does not include data from the former Western Sahara<br>
-_printed major-language sample_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 6,000 (2010 est.)<br>
@@ -370,16 +370,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
+_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 7 October 2016 (next to be held on 8 September 2021)<br>
+_election results_: <br>Chamber of Advisors - percent of vote by party - NA; seats by party - NA; composition - men 106, women 14, percent of women 11.7%<br>Chamber of Representatives - percent of vote by party NA; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4; composition - men 314, women 81, percent of women 20.5%; note - total Parliament percent of women 18.4%<br>
+
 **Executive branch**<br>
 _chief of state_: King MOHAMMED VI (since 30 July 1999)<br>
 _head of government_: Prime Minister Saad-Eddine al-OTHMANI (since 17 March 2017)<br>
 _cabinet_: Council of Ministers chosen by the prime minister in consultation with Parliament and appointed by the monarch&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from the majority party following legislative elections<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
-_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 7 October 2016 (next to be held on 8 September 2021)<br>
-_election results_: <br>Chamber of Advisors - percent of vote by party - NA; seats by party - NA; composition - men 106, women 14, percent of women 11.7%<br>Chamber of Representatives - percent of vote by party NA; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4; composition - men 314, women 81, percent of women 20.5%; note - total Parliament percent of women 18.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -403,8 +403,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires David GREENE (since 21 January 2021)<br>
 _telephone_: [212] 537 637 200<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
-_mailing address_: Unit 9400, Box Front Office, DPO AE 09718<br>
+_mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _FAX_: [212] 537 637 201<br>
+_email address_: acscasablanca@state.gov (US Consulate General Casablanca)<br>
 _consulate(s) general_: Casablanca<br>
 
 **Flag description**<br>

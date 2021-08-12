@@ -323,17 +323,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal; age 16 for local elections<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
+_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 72, women 29, percent of women 28.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Kersti KALJULAID (since 10 October 2016)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 29-30 August 2016, but three rounds were inconclusive; two electoral college votes on 24 September 2016 were also indecisive, so the election passed back to Parliament; on 3 October the Parliament elected Kersti KALJULAID as president; prime minister nominated by the president and approved by Parliament<br>
 _election results_: Kersti KALJULAID elected president; Parliament vote - Kersti KALJULAID (independent) 81 of 98 votes; note - KALJULAID is Estonia's first female president; KALLAS is Estonia's first female prime minister<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 72, women 29, percent of women 28.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
@@ -357,8 +357,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian RORAFF (since July 2019)<br>
 _telephone_: [372] 668-8100<br>
 _embassy_: Kentmanni 20, 15099 Tallinn<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _FAX_: [372] 668-8265<br>
+_email address_: ACSTallinn@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun<br>

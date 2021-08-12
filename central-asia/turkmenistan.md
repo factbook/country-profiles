@@ -308,17 +308,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
+_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
+_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
+
 **Executive branch**<br>
 _chief of state_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both chief of state and head of government<br>
 _head of government_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held in February 2024)<br>
 _election results_: Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
-
-**Legislative branch**<br>
-_description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
-_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>
@@ -344,6 +344,7 @@ _telephone_: [993] (12) 94-00-45<br>
 _embassy_: No. 9 1984 Street (formerly Pushkin Street), Ashgabat 744000<br>
 _mailing address_: 7070 Ashgabat Place, Washington, DC 20521-7070<br>
 _FAX_: [993] (12) 94-26-14<br>
+_email address_: ConsularAshgab@state.gov<br>
 
 **Flag description**<br>
 green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life<br>

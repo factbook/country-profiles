@@ -84,7 +84,7 @@ Sara (Ngambaye/Sara/Madjingaye/Mbaye) 30.5%, Kanembu/Bornu/Buduma 9.8%, Arab 9.7
 
 **Languages**<br>
 French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 52.1%, Protestant 23.9%, Roman Catholic 20%, animist 0.3%, other Christian 0.2%, none 2.8%, unspecified 0.7% (2014-15 est.)<br>
@@ -332,18 +332,18 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)<br>
+_elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
+_election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
+<strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
+
 **Executive branch**<br>
 _chief of state_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
 _head of government_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
 _cabinet_: Council of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held on 10 April 2021)<br>
 _election results_: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)<br>
-_elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
-_election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
-<strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)<br>
@@ -366,8 +366,9 @@ _FAX_: [1] (202) 758-0431<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David GILMOUR (since December 2020)<br>
 _telephone_: [235] 2251-5017<br>
 _embassy_: US Embassy N&rsquo;Djamena, Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
-_mailing address_: B. P. 413, N'Djamena<br>
+_mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _FAX_: [235] 2253-9102<br>
+_email address_: NdjamenaACS@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br>
@@ -664,7 +665,7 @@ _total_: 40,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2020)<br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2021)<br>
 note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the US-trained and equipped Special Anti-Terrorist Group (SATG)<br>
 
 **Military expenditures**<br>
@@ -675,7 +676,7 @@ note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential
 2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 35,000 active personnel (30,000 Ground Forces; 300 Air Force; 5,000 General Direction of the Security Services of State Institutions); 5,000 National Gendarmerie; 3,500 National Nomadic Guard of Chad (2020)<br>
+limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); 5,000 National Gendarmerie; 3,500 National Nomadic Guard of Chad (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANT is mostly armed with older or second-hand equipment from Belgium, France, Russia, and the former Soviet Union; since 2010, it has received equipment, including donations, from a variety of countries, including China, Italy, Ukraine, and the US (2020)<br>
@@ -702,7 +703,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 372,722 (Sudan), 118,168 (Central African Republic), 16,294 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 372,722 (Sudan), 119,804 (Central African Republic), 16,634 (Nigeria) (2021)<br>
 _IDPs_: 401,511 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

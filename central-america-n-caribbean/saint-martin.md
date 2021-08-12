@@ -62,7 +62,7 @@ Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asia), White, East Indi
 
 **Languages**<br>
 French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic, Jehovah's Witness, Protestant, Hindu<br>
@@ -177,18 +177,18 @@ see France<br>
 **Suffrage**<br>
 18 years of age, universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and one member (shared with Saint Barthelemy) to the French National Assembly<br>
+_elections_: Territorial Council - last held on 18 and 25 March 2017 (next to be held in March 2022)<br>
+_election results_: Territorial Council - percent of vote by party (first round) - TDG 49.1%, MJP 13.7%, MVP 12.3%, HOPE 8.7%, Continuons pour Saint-Martin 6.5%, other 9.7%; seats by party - NA; percent of vote by party (second round) - TDG 64.3%, MJP 24.2%, MVP 11.5.5%; seats by party - TDG 18, MJP 4, MVP 1; composition - men 13, women 10, percent of women 43.5%<br>
+French Senate - held on 28 September 2014 (next to be held not later than September 2020) French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022) French Senate - 1 seat: UMP 1 French National Assembly - 1 seat: UMP 1<br>
+
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Serge GOUTEYRON (since 16 December 2020)<br>
 _head of government_: President of Territorial Council Daniel GIBBS (since 2 April 2017); First Vice President Valerie DAMASEAU (since 2 April 2017)<br>
 _cabinet_: Executive Council; note - there is also an advisory economic, social, and cultural council<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); prefect appointed by French president on the advice of French Ministry of Interior; president of Territorial Council elected by its members for a 5-year term; election last held on 26 March 2017<br>
 _election results_: Daniel GIBBS (TDG) elected president; Territorial Council vote - 18 votes, 4 blank, 1 invalid<br>
-
-**Legislative branch**<br>
-_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and one member (shared with Saint Barthelemy) to the French National Assembly<br>
-_elections_: Territorial Council - last held on 18 and 25 March 2017 (next to be held in March 2022)<br>
-_election results_: Territorial Council - percent of vote by party (first round) - TDG 49.1%, MJP 13.7%, MVP 12.3%, HOPE 8.7%, Continuons pour Saint-Martin 6.5%, other 9.7%; seats by party - NA; percent of vote by party (second round) - TDG 64.3%, MJP 24.2%, MVP 11.5.5%; seats by party - TDG 18, MJP 4, MVP 1; composition - men 13, women 10, percent of women 43.5%<br>
-French Senate - held on 28 September 2014 (next to be held not later than September 2020) French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022) French Senate - 1 seat: UMP 1 French National Assembly - 1 seat: UMP 1<br>
 
 **Political parties and leaders**<br>
 Continuons pour St. Martin [Aline HANSON]<br>En marche vers le progres or MVP [Alain RICHARDSON]<br>Gereration Hope or HOPE [Jules CHARVILLE]<br>Movement for Justice and Prosperity or MJP [Louis MUSSINGTON]<br>New Direction [Jeanne VANTERPOOL]<br>Rally Responsibility Success (Rassemblement Responsabilite Reussite or RRR [Alain RICHARDSON]<br>Team Daniel Gibbs 2017 or TDG [Daniel GIBBS]<br>Union for Progress (Union Pour le Progres or UPP) [Louis-Constant FLEMING]; affiliated with UMP<br>

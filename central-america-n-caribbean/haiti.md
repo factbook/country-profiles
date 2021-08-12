@@ -88,7 +88,7 @@ Black 95%, mixed and White 5%<br>
 
 **Languages**<br>
 French (official), Creole (official)<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Protestant/Methodist/Adventist/Jehovah's Witness 51.8%, Roman Catholic 35.4%, Vodou 1.7%, none 11% (2016-17 est.)<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br> la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_elections_: <br> Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019) <br> Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019)<br>
+_election results_: <br> Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br> Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
+
 **Executive branch**<br>
 _chief of state_: Interim President Claude JOSEPH (since 7 July 2021); note - Acting Prime Minister Claude JOSEPH assumed the responsibilities of president following the assassination of President Jovenel MOISE on 7 July 2021; an election is expected to be held later this year; MOISE had been president since 7 February 2017<br>
 _head of government_: Acting Prime Minister Claude JOSEPH (since 14 April 2021); note - Joseph JOUTHE resigned as prime minister on 13 April 2021; on 5 July 2021, Ariel HENRY was selected by President MOISE to be the next prime minister, though the assassination of MOISE has delayed the transition<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew<br>
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
-
-**Legislative branch**<br>
-_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br> la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
-_elections_: <br> Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019) <br> Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019)<br>
-_election results_: <br> Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br> Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice<br>
@@ -356,8 +356,9 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York,
 _chief of mission_: Ambassador Michele SISON (since 21 February 2018)<br>
 _telephone_: [509] 229-8000<br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
-_mailing address_: (in Haiti) P.O. Box 1634, Port-au-Prince, Haiti; (from abroad) 3400 Port-au-Prince, State Department, Washington, DC 20521-3400<br>
+_mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _FAX_: [509] 229-8028<br>
+_email address_: acspap@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes<br>

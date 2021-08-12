@@ -75,7 +75,7 @@ sandstorms may occur during spring and summer; droughts; periodic earthquakes<br
 
 **Population**<br>
 8,787,045 (includes populations of the Golan Heights or Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967) (July 2021 est.)<br>
-<strong>note:</strong> approximately 22,900 Israeli settlers live in the Golan Heights (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
+<strong>note:</strong> approximately 23,400 Israeli settlers live in the Golan Heights (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
 
 **Nationality**<br>
 _noun_: Israeli(s)<br>
@@ -86,7 +86,7 @@ Jewish 74.1% (of which Israel-born 78.1%, Europe/America/Oceania-born 15.2%, Afr
 
 **Languages**<br>
 Hebrew (official), Arabic (special status under Israeli law), English (most commonly used foreign language)<br>
-_printed major-language sample_: <br>ספר עובדות העולם, המקור החיוני למידע בסיסי (Hebrew)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>ספר עובדות העולם, המקור החיוני למידע בסיסי (Hebrew)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Jewish 74.1%, Muslim 17.9%, Christian 1.9%, Druze 1.6%, other 4.5% (2019 est.)<br>
@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 **Suffrage**<br>
 18 years of age; universal; 17 years of age for municipal elections<br>
 
+**Legislative branch**<br>
+_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
+_elections_: last held on 23 March 2021 (next to be held in 2025)<br>
+_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA<br>
+
 **Executive branch**<br>
 _chief of state_: President Issac HERZOG (since 7 July 2021)<br>
 _head of government_: Prime Minister Naftali BENNETT (since 13 June 2021)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
-
-**Legislative branch**<br>
-_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
-_elections_: last held on 23 March 2021 (next to be held in 2025)<br>
-_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
@@ -345,7 +345,9 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 _chief of mission_: ambassador (vacant); Charge d'Affaires Michael RATNEY (since 1 June 2021)<br>
 _telephone_: [972] (2) 630-4000<br>
 _embassy_: David Flusser St.14, Jerusalem, 9378322<br>
-_FAX_: NA<br>
+_mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
+_FAX_: [972] (2) 630-4070<br>
+_email address_: JerusalemACS@state.gov<br>
 <strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission<br>
 
 **Flag description**<br>

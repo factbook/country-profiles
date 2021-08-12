@@ -85,7 +85,7 @@ Chhettri 16.6%, Brahman-Hill 12.2%, Magar 7.1%, Tharu 6.6%, Tamang 5.8%, Newar 5
 
 **Languages**<br>
 Nepali (official) 44.6%, Maithali 11.7%, Bhojpuri 6%, Tharu 5.8%, Tamang 5.1%, Newar 3.2%, Bajjika 3%, Magar 3%, Doteli 3%, Urdu 2.6%, Avadhi 1.9%, Limbu 1.3%, Gurung 1.2%, Baitadeli 1%, other 6.4%, unspecified 0.2%; note - 123 languages reported as mother tongue in 2011 national census; many in government and business also speak English (2011 est.)<br>
-_printed major-language sample_: <br>विश्व तथ्य पुस्तक,आधारभूत जानकारीको लागि अपरिहार्य स्रोत (Nepali)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>विश्व तथ्य पुस्तक,आधारभूत जानकारीको लागि अपरिहार्य स्रोत (Nepali)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Hindu 81.3%, Buddhist 9%, Muslim 4.4%, Kirant 3.1%, Christian 1.4%, other 0.5%, unspecified 0.2% (2011 est.)<br>
@@ -323,6 +323,11 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
+_elections_: <br>first election for the National Assembly held on 7 February 2018 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next scheduled for 12, 19 November 2021)<br>
+_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1; composition - men 185, women 90, percent of women 32.7%; note - total Federal Parliament percent of women 33.5%<br>
+
 **Executive branch**<br>
 _chief of state_: President Bidhya Devi BHANDARI (since October 2015)<br>
 _head of government_: Prime Minister Sher Bahadur DEUBA (since 13 July 2021); deputy prime ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018) (an)<br>
@@ -330,11 +335,6 @@ _cabinet_: Council of Ministers appointed by the prime minister; cabinet dominat
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held 13 March 2018 (next to be held in 2023); prime minister indirectly elected by the Federal Parliament<br>
 _election results_: Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
 _head of state_: President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
-
-**Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: <br>first election for the National Assembly held on 7 February 2018 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next scheduled for 12, 19 November 2021)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1; composition - men 185, women 90, percent of women 32.7%; note - total Federal Parliament percent of women 33.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -358,8 +358,9 @@ _consulate(s) general_: Chicago (IL), New York<br>
 _chief of mission_: Ambassador Randy BERRY (since 25 October 2018)<br>
 _telephone_: [977] (1) 423-4000<br>
 _embassy_: Maharajgunj, Kathmandu<br>
-_mailing address_: US Embassy, Maharajgunj Chakrapath, Kathmandu, Nepal 44600<br>
+_mailing address_: 6190 Kathmandu Place, Washington DC&nbsp; 20521-6190<br>
 _FAX_: [977] (1) 400-7272<br>
+_email address_: consktm@state.gov<br>
 
 **Flag description**<br>
 crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies<br>

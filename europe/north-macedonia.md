@@ -85,7 +85,7 @@ Macedonian 64.2%, Albanian 25.2%, Turkish 3.9%, Romani 2.7%, Serb 1.8%, other 2.
 
 **Languages**<br>
 Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Romani 1.9%, Serbian 1.2%, other (includes Aromanian (Vlach) and Bosnian) 1.8% (2002 est.); note - minority languages are co-official with Macedonian in municipalities where they are spoken by at least 20% of the population; Albanian is co-official in Tetovo, Brvenica, Vrapciste, and other municipalities; Turkish is co-official in Centar Zupa and Plasnica; Romani is co-official in Suto Orizari; Aromanian is co-official in Krusevo; Serbian is co-official in Cucer Sandevo<br>
-_printed major-language sample_: <br>Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Книга на Светски Факти, неопходен извор на основни информации. (Macedonian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Macedonian Orthodox 64.8%, Muslim 33.3%, other Christian 0.4%, other and unspecified 1.5% (2002 est.)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
+_elections_: last election was to be held on 12 April 2020 but was postponed until 15 July 2020 due to the COVID-19 pandemic (next to be held in 2024)<br>
+_election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSh 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSh 1<br>
+
 **Executive branch**<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
 _head of government_: Prime Minister Zoran ZAEV (since 31 August 2020); note - Prime Minister ZAEV resigned on 3 January 2019 but was reelected by the Assembly on 31 August 2020 (62-51) following the delayed Assembly general election on 15 July 2020<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Zoran ZAEV reelected prime minister by the Assembly on 31 August 2020; Assembly vote - 62 for, 51 against<br>
 _election results_: Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last election was to be held on 12 April 2020 but was postponed until 15 July 2020 due to the COVID-19 pandemic (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSh 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSh 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>
@@ -350,8 +350,9 @@ _consulate(s) general_: Chicago, Detroit, New York<br>
 _chief of mission_: Ambassador Kate Marie BYRNES (since 12 July 2019)<br>
 _telephone_: [389] (2) 310-2000<br>
 _embassy_: Str. Samoilova, Nr. 21, 1000 Skopje<br>
-_mailing address_: American Embassy Skopje, US Department of State, 7120 Skopje Place, Washington, DC 20521-7120 (pouch)<br>
+_mailing address_: 7120 Skopje Place, Washington, DC 20521-7120<br>
 _FAX_: [389] (2) 310-2499<br>
+_email address_: SkopjeACS@state.gov<br>
 
 **Flag description**<br>
 a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia<br>

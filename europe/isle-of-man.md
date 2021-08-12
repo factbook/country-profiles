@@ -236,18 +236,18 @@ see United Kingdom<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
+_elections_: <br>Legislative Council - last held 28 February 2018 (next to be held 12 March 2020)<br> House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)<br>
+_election results_: <strong> </strong><br> Legislative Council - composition - men 6, women 5, percent of women 45.5%<br>House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%<br>
+<strong>note:</strong> as of January 2019, seats by party - Liberal Vannin 2, independent 22<br>
+
 **Executive branch**<br>
 _chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Richard GOZNEY (since 27 May 2016)<br>
 _head of government_: Chief Minister Howard QUAYLE (since 4 October 2016)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 4 October 2016 (next to be held in 2021)<br>
 _election results_: Howard QUAYLE (independent) elected chief minister; Tynwald vote - 21 of 33<br>
-
-**Legislative branch**<br>
-_description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
-_elections_: <br>Legislative Council - last held 28 February 2018 (next to be held 12 March 2020)<br> House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)<br>
-_election results_: <strong> </strong><br> Legislative Council - composition - men 6, women 5, percent of women 45.5%<br>House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%<br>
-<strong>note:</strong> as of January 2019, seats by party - Liberal Vannin 2, independent 22<br>
 
 **Judicial branch**<br>
 _highest courts_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

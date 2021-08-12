@@ -87,7 +87,7 @@ Arab, Baluchi, South Asian (Indian, Pakistani, Sri Lankan, Bangladeshi), African
 
 **Languages**<br>
 Arabic (official), English, Baluchi, Swahili, Urdu, Indian dialects<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish &lt;0.1%, other 1%, unaffiliated 0.2% (2010 est.)<br>
@@ -313,16 +313,16 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 21 years of age; universal; note - members of the military and security forces by law cannot vote<br>
 
+**Legislative branch**<br>
+_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br> Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
+_elections_: Council of State - last appointments on 11 July 2019 (next - NA)<br> Consultative Assembly - last held on 27 October 2019 (next to be held in October 2023)<br>
+_election results_: <br> Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
+
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
 _head of government_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan<br>
-
-**Legislative branch**<br>
-_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br> Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
-_elections_: Council of State - last appointments on 11 July 2019 (next - NA)<br> Consultative Assembly - last held on 27 October 2019 (next to be held in October 2023)<br>
-_election results_: <br> Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 5 judges)<br>
@@ -345,8 +345,9 @@ _FAX_: [1] (202) 745-4933<br>
 _chief of mission_: Ambassador Leslie M. TSOU (since 19 January 2020)<br>
 _telephone_: [968] 24-643-400<br>
 _embassy_: P.C. 115, Madinat Al Sultan Qaboos, Muscat<br>
-_mailing address_: P.O. Box 202, P.C. 115, Madinat Al Sultan Qaboos, Muscat<br>
+_mailing address_: 6220 Muscat Place, Washington DC&nbsp; 20521<br>
 _FAX_: [968] 24-643-740<br>
+_email address_: ConsularMuscat@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of white (top), red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band; white represents peace and prosperity, red recalls battles against foreign invaders, and green symbolizes the Jebel al Akhdar (Green Mountains) and fertility<br>

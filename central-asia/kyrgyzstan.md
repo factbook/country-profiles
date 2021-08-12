@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists; winning parties limited to no more than 65 seats; members&nbsp;serve 5-year terms)<br>
+_elections_: last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
+_election results_: percent of vote by party - NA; seats by party - NA<br>
+
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _head of government_: Prime Minister Ulukbek MARIPOV (since 3 February 2021)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister, appointed by the president upon approval by the Supreme Council; defense and security committee chairs appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 6-year term; election last held on 10 January 2021 (next to be held in 2027); prime minister nominated by the majority party or majority coalition in the Supreme Council, appointed by the president upon approval by the Supreme Council<br>
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists; winning parties limited to no more than 65 seats; members&nbsp;serve 5-year terms)<br>
-_elections_: last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
-_election results_: percent of vote by party - NA; seats by party - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -346,8 +346,9 @@ _honorary consulate(s)_: Maple Valley (WA)<br>
 _chief of mission_: Ambassador Donald LU (since 20 September 2018)<br>
 _telephone_: [996] (312) 597-000<br>
 _embassy_: 171 Prospect Mira, Bishkek 720016<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 7040 Bishkek Place, Washington DC&nbsp; 20521-7040<br>
 _FAX_: [996] (312) 597-744<br>
+_email address_: ConsularBishkek@state.gov<br>
 
 **Flag description**<br>
 red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a "tunduk" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth<br>

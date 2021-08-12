@@ -84,7 +84,7 @@ Chinese 74.3%, Malay 13.5%, Indian 9%, other 3.2% (2020 est.)<br>
 
 **Languages**<br>
 English (official) 48.3%, Mandarin (official) 29.9%, other Chinese dialects (includes Hokkien, Cantonese, Teochew, Hakka) 8.7%, Malay (official) 9.2%, Tamil (official) 2.5%, other 1.4%; note - data represent language most frequently spoken at home (2020 est.)<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br>
 
 **Religions**<br>
 Buddhist 31.1%, Christian 18.9%, Muslim 15.6%, Taoist 8.8%, Hindu 5%, other 0.6%, none 20% (2020 est.)<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 21 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)<br>
+_elections_: last held on 10 July 2020 (next must be held by 2025)<br>
+_election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
+
 **Executive branch**<br>
 _chief of state_: President HALIMAH Yacob (since 14 September 2017); note - President TAN's term ended on 31 August 2017; HALIMAH is Singapore's first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
 _election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)<br>
-_elections_: last held on 10 July 2020 (next must be held by 2025)<br>
-_election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -344,8 +344,9 @@ _consulate(s)_: New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Rafik MANSOUR (since July 2019)<br>
 _telephone_: [65] 6476-9100<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
-_mailing address_: FPO AP 96507-0001<br>
+_mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _FAX_: [65] 6476-9340<br>
+_email address_: singaporeacs@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality<br>

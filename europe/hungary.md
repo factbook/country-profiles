@@ -82,7 +82,7 @@ Hungarian 85.6%, Romani 3.2%, German 1.9%, other 2.6%, unspecified 14.1% (2011 e
 
 **Languages**<br>
 Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census; Hungarian is the mother tongue of 98.9% of Hungarian speakers (2011 est.)<br>
-_printed major-language sample_: <br>A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>A World Factbook nélkülözhetetlen forrása az alapvető információnak.  (Hungarian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 37.2%, Calvinist 11.6%, Lutheran 2.2%, Greek Catholic 1.8%, other 1.9%, none 18.2%, no response 27.2% (2011 est.)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age, 16 if married and marriage is registered in Hungary; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Janos ADER (since 10 May 2012)&nbsp;<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)&nbsp;<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held by spring 2022)<br>
 _election results_: Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and approximately 91 judges and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -346,11 +346,12 @@ _FAX_: [1] (202) 966-8135<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: &nbsp; Ambassador (vacant); Charge d'Affaires Marc DILLARD (since 30 October 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Marc DILLARD (since 30 October 2020)<br>
 _telephone_: [36] (1) 475-4400<br>
 _embassy_: Szabadsag ter 12, H-1054 Budapest<br>
-_mailing address_: pouch: American Embassy Budapest, 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
+_mailing address_: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
 _FAX_: [36] (1) 475-4248<br>
+_email address_: acs.budapest@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country<br>

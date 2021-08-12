@@ -90,7 +90,7 @@ Danish (includes Greenlandic (who are predominantly Inuit) and Faroese) 86.3%, T
 
 **Languages**<br>
 Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority); note - English is the predominant second language<br>
-_printed major-language sample_: <br>Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Mormon, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
@@ -311,16 +311,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
+_elections_: last held on 5 June 2019 (next to be held on June 2023)<br>
+_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK (elder son of the monarch, born on 26 May 1968)<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
-
-**Legislative branch**<br>
-_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 5 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -344,8 +344,9 @@ _consulate(s) general_: Chicago, Houston, New York, Palo Alto (CA)<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Stuart A. DWYER (since 20 January 2021)<br>
 _telephone_: [45] 33 41 71 00<br>
 _embassy_: Dag Hammarskjolds Alle 24, 2100 Copenhagen 0<br>
-_mailing address_: Unit 5280 ODC, DPO AE 09716<br>
+_mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
 _FAX_: [45] 35 43 02 23<br>
+_email address_: CopenhagenACS@state.gov<br>
 
 **Flag description**<br>
 red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>

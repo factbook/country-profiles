@@ -307,17 +307,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 21 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: last held on 3 April 2019 (next to be held in 2023)<br>
+_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 49, women 1, percent of women 2%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David VUNAGI (since&nbsp;8 July 2019)<br>
 _head of government_: Prime Minister Rick HOU (since 16 November 2017)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the National Parliament for up to 5 years (eligible for a second term); following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the National Parliament; deputy prime minister appointed by the governor general on the advice of the prime minister from among members of the National Parliament<br>
 _election results_: Manasseh SOGAVARE (independent) defeated in no-confidence vote on 6 November 2017; Rick HOU elected prime minister on 15 November 2017<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Parliament (50 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 3 April 2019 (next to be held in 2023)<br>
-_election results_: percent of vote by party - UDP 10.7%, DAP 7.8%, PAP 4.4%, other 20.8%, independent 56.3%; seats by party - DAP 7, UDP 5, PAP 3, KPSI 1, SIPFP 1, SIPRA 1, independent 32; composition - men 49, women 1, percent of women 2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and ex officio members including the High Court chief justice and its puisne judges); High Court (consists of the chief justice and puisne judges, as prescribed by the National Parliament)<br>

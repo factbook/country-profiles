@@ -87,7 +87,7 @@ Finn, Swede, Russian, Estonian, Romani, Sami<br>
 
 **Languages**<br>
 Finnish (official) 86.9%, Swedish (official) 5.2%, Russian 1.5%, other 6.4% (2020 est.)<br>
-_printed major-language sample_: <br>World Factbook, korvaamaton perustietolähde. (Finnish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>World Factbook, korvaamaton perustietolähde. (Finnish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Lutheran 67.8%, Greek Orthodox 1.1%, other 1.7%, unspecified 29.4% (2020 est.)<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 6 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
 _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -343,8 +343,9 @@ _consulate(s) general_: Los Angeles, New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Ian CAMPBELL (since 14 January 2021)<br>
 _telephone_: [358] (9) 6162-50<br>
 _embassy_: Itainen Puistotie 14B, 00140 Helsinki<br>
-_mailing address_: APO AE 09723<br>
+_mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
 _FAX_: [358] (9) 6162-5135<br>
+_email address_: HelsinkiACS@state.gov<br>
 
 **Flag description**<br>
 white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter<br>

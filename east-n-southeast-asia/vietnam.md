@@ -88,7 +88,7 @@ Kinh (Viet) 85.3%, Tay 1.9%, Thai 1.9%, Muong 1.5%, Khmer 1.4%, Mong 1.4%, Nung 
 
 **Languages**<br>
 Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)<br>
-_printed major-language sample_: <br>Dữ kiện thế giới, là nguồn thông tin cơ bản không thể thiếu. (Vietnamese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Dữ kiện thế giới, là nguồn thông tin cơ bản không thể thiếu. (Vietnamese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 7.9%, Catholic 6.6%, Hoa Hao 1.7%, Cao Dai 0.9%, Protestant 0.9%, Muslim 0.1%, none 81.8% (2009 est.)<br>
@@ -323,17 +323,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: President Nguyen Xuan PHUC (since 5 April 2021)<br>
-_head of government_: Prime Minister &nbsp;Pham Minh CHINH (since 5 April 2021); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Le Minh KHAI (since 8 April 2021), Vu Duc DAM (since 13 November 2013), Le Van THANH (since 8 April 2021), Pham Binh MINH (since 13 November 2013<br>
-_cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
-_elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 26 July 2021 (next to be held in spring 2026); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
-_election results_: Pham Minh CHINH (CPV) reelected president; percent of National Assembly vote - 99.8%; Nguyen Xuan PHUC (CPV) reelected prime minister; percent of National Assembly vote - 100%<br>
-
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2016 election - 494; number of current serving members - 484; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
 _elections_: last held on 22 May 2016 (next to be held in May 2021)<br>
 _election results_: percent of vote by party -CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
+
+**Executive branch**<br>
+_chief of state_: President Nguyen Xuan PHUC (since 26 July 2021)<br>
+_head of government_: Prime Minister &nbsp;Pham Minh CHINH (since 26 July 2021); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Le Minh KHAI (since 8 April 2021), Vu Duc DAM (since 13 November 2013), Le Van THANH (since 8 April 2021), Pham Binh MINH (since 13 November 2013<br>
+_cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
+_elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 26 July 2021 (next to be held in spring 2026); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
+_election results_: Pham Minh CHINH (CPV) reelected president; percent of National Assembly vote - 99.8%; Nguyen Xuan PHUC (CPV) reelected prime minister; percent of National Assembly vote - 100%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -356,11 +356,12 @@ _consulate(s) general_: Houston, San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Daniel KRITENBRINK (since 6 November 2017)<br>
+_chief of mission_: Charg&eacute; d&rsquo;Affaires Christopher KLEIN (since 16 April 2021)<br>
 _telephone_: [84] (24) 3850-5000<br>
 _embassy_: 7 Lang Ha Street, Hanoi<br>
-_mailing address_: 7 Lang Ha Street, Ba Dinh District, Hanoi; 4550 Hanoi Place, Washington, DC 20521-4550<br>
+_mailing address_: 4550 Hanoi Place, Washington, DC 20521-4550<br>
 _FAX_: [84] (24) 3850-5010<br>
+_email address_: ACShanoi@state.gov<br>
 _consulate(s) general_: Ho Chi Minh City<br>
 
 **Flag description**<br>

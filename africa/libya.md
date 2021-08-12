@@ -87,7 +87,7 @@ Berber and Arab 97%, other 3% (includes Egyptian, Greek, Indian, Italian, Maltes
 
 **Languages**<br>
 Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist 0.3%, Hindu &lt;0.1, Jewish &lt;0.1, folk religion &lt;0.1, unafilliated 0.2%, other &lt;0.1 (2010 est.)<br>
@@ -301,17 +301,17 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 **Suffrage**<br>
 18 years of age, universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR<br>
+_elections_: last held on 25 June 2014 ( next election to be held on 24 December 2021); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014&nbsp;election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
+
 **Executive branch**<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
 _head of government_: Prime Minister Abdul Hamid DBEIBEH (since 5 February 2021)<br>
 _cabinet_: GNA Presidency Council (pending approval by the House of Representatives - as of December 2018)<br>
 _elections/appointments_: <p>direct presidential election to be held pending election-related legislation and constitutional referendum law</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DBEIBEH, prime minister<br>
-
-**Legislative branch**<br>
-_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR<br>
-_elections_: last held on 25 June 2014 ( next election to be held on 24 December 2021); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014&nbsp;election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
 _highest courts_: NA; note - government is in transition<br>
@@ -332,7 +332,8 @@ _FAX_: [1] (202) 944-9606<br>
 _chief of mission_: Ambassador Richard B. NORLAND (since 22 August 2019)<br>
 _telephone_: [218] (0) 91-220-3239<br>
 _embassy_: Sidi Slim Area/Walie Al-Ahed Road, Tripoli (temporarily closed); please direct inquiries regarding US citizens in Libya to LibyaEmergencyUSC@state.gov<br>
-_mailing address_: US Embassy, 8850 Tripoli Place, Washington, DC 20521-8850<br>
+_mailing address_: 8850 Tripoli Place, Washington, DC&nbsp; 20521-8850<br>
+_email address_: LibyaACS@state.gov<br>
 <strong>note:</strong> the US Embassy in Tripoli closed in July 2014 due to fighting near the embassy related to Libyan civil unrest; embassy staff and operations temporarily first relocated to Valetta, Malta and currently are temporarily relocated to Tunis, Tunisia<br>
 
 **Flag description**<br>

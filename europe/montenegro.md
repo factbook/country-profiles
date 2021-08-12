@@ -85,7 +85,7 @@ Montenegrin 45%, Serbian 28.7%, Bosniak 8.7%, Albanian 4.9%, Muslim 3.3%, Romani
 
 **Languages**<br>
 Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)<br>
-_printed major-language sample_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian) <br><br>Knjiga svjetskih činjenica, neophodan izvor osnovnih informacija. (Montenegrin/Bosnian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Knjiga svetskih činjenica, neophodan izvor osnovnih informacija. (Serbian) <br><br>Knjiga svjetskih činjenica, neophodan izvor osnovnih informacija. (Montenegrin/Bosnian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Orthodox 72.1%, Muslim 19.1%, Catholic 3.4%, atheist 1.2%, other 1.5%, unspecified 2.6% (2011 est.)<br>
@@ -325,17 +325,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 30 August 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Zdravko KRIVOKAPIC (since 4 December 2020)<br>
 _cabinet_: Ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
-
-**Legislative branch**<br>
-_description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 August 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -359,8 +359,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Judy Rising REINKE (since 20 December 2018)<br>
 _telephone_: +382 (0)20 410 500<br>
 _embassy_: Dzona Dzeksona 2, 81000 Podgorica<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 5570 Podgorica Place, Washington DC&nbsp; 20521-5570<br>
 _FAX_: [382]&nbsp; 20-241-358<br>
+_email address_: PodgoricaACS@state.gov<br>
 
 **Flag description**<br>
 a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy<br>
@@ -695,5 +696,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,353 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 19,434 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 

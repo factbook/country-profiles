@@ -86,7 +86,7 @@ Polish 96.9%, Silesian 1.1%, German 0.2%, Ukrainian 0.1%, other and unspecified 
 
 **Languages**<br>
 Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - data represent the language spoken at home; shares sum to more than 100% because some respondents gave more than one answer on the census; Poland ratified the European Charter for Regional or Minority Languages in 2009 recognizing Kashub as a regional language, Czech, Hebrew, Yiddish, Belarusian, Lithuanian, German, Armenian, Russian, Slovak, and Ukrainian as national minority languages, and Karaim, Lemko, Romani (Polska Roma and Bergitka Roma), and Tatar as ethnic minority languages (2011 est.)<br>
-_printed major-language sample_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon), unspecified 12.1% (2017 est.)<br>
@@ -325,18 +325,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%<br>
+<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
+
 **Executive branch**<br>
 _chief of state_: &nbsp;President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Jacek SASIN (since 4 June 2019)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm<br>
 _election results_: Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br>
-
-**Legislative branch**<br>
-_description_: bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%<br>
-<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
@@ -360,8 +360,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires B. Bix ALIU (since January 2021)<br>
 _telephone_: [48] (22) 504-2000<br>
 _embassy_: Aleje Ujazdowskie 29/31 00-540 Warsaw<br>
-_mailing address_: American Embassy Warsaw, US Department of State, Washington, DC 20521-5010 (pouch)<br>
+_mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _FAX_: [48] (22) 504-2226<br>
+_email address_: ACSWarsaw@state.gov<br>
 _consulate(s) general_: Krakow<br>
 
 **Flag description**<br>
@@ -714,6 +715,12 @@ note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukrain
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

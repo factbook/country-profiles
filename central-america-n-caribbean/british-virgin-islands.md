@@ -241,16 +241,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
+_elections_: last held on 25 February 2019 (next to be held in 2023)<br>
+_election results_: percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition - men 12, women 3, percent of women 20%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor John J. RANKIN (since 29 January 2021)<br>
 _head of government_: Premier Andrew FAHIE (since 26 February 2019)<br>
 _cabinet_: Executive Council appointed by the governor from members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (15 seats; 13 members - 9 in single-seat constituencies and 4 at-large seats directly elected by simple majority vote and 2 ex-officio members - the attorney general and the speaker - chosen from outside the House; members serve 4-year terms)<br>
-_elections_: last held on 25 February 2019 (next to be held in 2023)<br>
-_election results_: percent of vote by party - VIP 46.5%, NDP 28.2%, PVIM 17.4%, PU 8%; seats by party - VIP 8, NDP 3, PVIM 1, PU 1; composition - men 12, women 3, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 3 in the British Virgin Islands<br>

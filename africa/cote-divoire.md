@@ -87,7 +87,7 @@ Akan 28.9%, Voltaique or Gur 16.1%, Northern Mande 14.5%, Kru 8.5%, Southern Man
 
 **Languages**<br>
 French (official), 60 native dialects of which Dioula is the most widely spoken<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 42.9%, Catholic 17.2%, Evangelical 11.8%, Methodist 1.7%, other Christian 3.2%, animist 3.6%, other religion 0.5%, none 19.1% (2014 est.)<br>
@@ -336,18 +336,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br> National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br> Senate - first ever held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 18 December 2016 (next to be held in 2021)<br>
+_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br> National Assembly - percent of vote by party - RHDP 50.3%, FPI 5.8%, UDPCI 1%, other 1.4%, independent 38.5%; seats by party - RHDP, 167, UDPCI 6, FPI 3, UPCI 3, independent 76; composition - men 228, women 27, percent of women 10.6%; note - total Parliament percent of women 13%<br>
+<br><br><br>
+
 **Executive branch**<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president<br>
 _head of government_: Prime Minister Patrick ACHI (since 10 March 2021); note - ACHI was acting prime minister from 8-10 March 2021 and became prime minister upon former Prime Minister Hamed BAKAYOKO's death on 10 March 2021<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br> National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br> Senate - first ever held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 18 December 2016 (next to be held in 2021)<br>
-_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br> National Assembly - percent of vote by party - RHDP 50.3%, FPI 5.8%, UDPCI 1%, other 1.4%, independent 38.5%; seats by party - RHDP, 167, UDPCI 6, FPI 3, UPCI 3, independent 76; composition - men 228, women 27, percent of women 10.6%; note - total Parliament percent of women 13%<br>
-<br><br><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)<br>
@@ -370,8 +370,9 @@ _FAX_: [1] (202) 462-9444<br>
 _chief of mission_: Ambassador Richard K. BELL (since 3 September 2019)<br>
 _telephone_: [225] 22 49 40 00<br>
 _embassy_: Cocody Rivi&eacute;ra Golf, 01 BP 1712 Abidjan 01, Abidjan<br>
-_mailing address_: B. P. 1712, Abidjan 01<br>
+_mailing address_: 2010 Abidjan Place, Washington DC&nbsp; 20521-2010<br>
 _FAX_: [225] 22 49 43 23<br>
+_email address_: AbjAmCit@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br>

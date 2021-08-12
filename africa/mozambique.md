@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
+_elections_: last held on 15 October 2019 (next to be held on 15 October 2024) (2019)<br>
+_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition - men 151, women 99, percent of women 39.6% (2019)<br>
+
 **Executive branch**<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015, re-elected 15 Oct 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Carlos Agostinho DO ROSARIO (since 17 January 2015; reconfirmed DO ROSARIO 17 January 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote (in 2 rounds, if needed) for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president (2019)<br>
 _election results_: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&nbsp;Ossufo MOMADE&nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1% (2019)<br>
-
-**Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
-_elections_: last held on 15 October 2019 (next to be held on 15 October 2024) (2019)<br>
-_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition - men 151, women 99, percent of women 39.6% (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>
@@ -369,8 +369,9 @@ _FAX_: [1] (202) 835-0245<br>
 _chief of mission_: Ambassador&nbsp;Dennis W. HEARNE&nbsp;(since&nbsp;22 February 2019)<br>
 _telephone_: [258] (21) 49 2797<br>
 _embassy_: Avenida Kenneth Kuanda 193, Caixa Postal, 783, Maputo<br>
-_mailing address_: P.O. Box 783, Maputo<br>
+_mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
 _FAX_: [258] (21) 49 0114<br>
+_email address_: consularmaputos@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>
@@ -710,7 +711,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of early 2021, the fighting had left an estimated 2,500 dead and nearly 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency (2020)<br>
+the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency<br>
 
 ## Terrorism
 

@@ -86,7 +86,7 @@ Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2
 
 **Languages**<br>
 Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
-_printed major-language sample_: <br>Dünya fakt kitabı, əsas məlumatlar üçün əvəz olunmaz mənbədir (Azerbaijani)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Dünya fakt kitabı, əsas məlumatlar üçün əvəz olunmaz mənbədir (Azerbaijani)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> Russian is widely spoken<br>
 
 **Religions**<br>
@@ -320,6 +320,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 70, CSP 3, AVP 1, CUP 1, Democratic Enlightenment 1, PDR 1, Great Order 1, VP 1, Whole Azerbaijan Popular Front 1, independent 41, vacant 4; composition - men 103, women 22, percent of women 17.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006)<br>
@@ -327,11 +332,6 @@ _cabinet_: Council of Ministers appointed by the president and confirmed by the 
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for unlimited terms); election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum expanded presidential terms from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president<br>
 _election results_: Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 70, CSP 3, AVP 1, CUP 1, Democratic Enlightenment 1, PDR 1, Great Order 1, VP 1, Whole Azerbaijan Popular Front 1, independent 41, vacant 4; composition - men 103, women 22, percent of women 17.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -352,11 +352,12 @@ _FAX_: [1] (202) 337-5911<br>
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mario MESQUITA (since 12 July 2021)<br>
+_chief of mission_: Ambassador Lee LITZENBERGER (since 12 March 2019)<br>
 _telephone_: [994] (12) 488-3300<br>
-_embassy_: 111 Azadliq Avenue, AZ1007 Baku<br>
-_mailing address_: American Embassy Baku, US Department of State, 7050 Baku Place, Washington, DC 20521-7050<br>
+_embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
+_mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _FAX_: [994] (12) 488-3330<br>
+_email address_: BakuACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band recalls Azerbaijan's Turkic heritage, red stands for modernization and progress, and green refers to Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>
@@ -689,7 +690,7 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
 
 ## Terrorism
 

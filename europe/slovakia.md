@@ -85,7 +85,7 @@ Slovak 80.7%, Hungarian 8.5%, Romani 2%, other 1.8% (includes Czech, Ruthenian, 
 
 **Languages**<br>
 Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)<br>
-_printed major-language sample_: <br>Svetova Kniha Faktov, nenahraditelny zdroj zakladnej informacie. (Slovak)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Svetova Kniha Faktov, nenahraditelny zdroj zakladnej informacie. (Slovak)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 62%, Protestant 8.2%, Greek Catholic 3.8%, other or unspecified 12.5%, none 13.4% (2011 est.)<br>
@@ -303,17 +303,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 29 February 2020 (next to be held March 2024)<br>
+_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition - men 120, women 30, percent of women 20%<br>
+
 **Executive branch**<br>
 _chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
 _head of government_: Prime Minister Eduard HEGER (since 1 April 2021); Deputy Prime Ministers Stefan HOLY, Veronika REMISOVA, Richard SULIK (all since 21 March 2020)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
 _election results_: Zuzana CAPUTOVA reelected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 29 February 2020 (next to be held March 2024)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition - men 120, women 30, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -337,8 +337,9 @@ _consulate(s) general_: Los Angeles, New York<br>
 _chief of mission_: Ambassador Bridget A. BRINK (since 20 August 2019)<br>
 _telephone_: [421] (2) 5443-3338<br>
 _embassy_: P.O. Box 309, 814 99 Bratislava<br>
-_mailing address_: P.O. Box 309, 814 99 Bratislava<br>
+_mailing address_: 5840 Bratislava Place, Washington DC&nbsp; 20521-5840<br>
 _FAX_: [421] (2) 5441-5148<br>
+_email address_: consulbratislava@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side<br>

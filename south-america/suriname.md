@@ -85,7 +85,7 @@ Hindustani (also known locally as "East Indians"; their ancestors emigrated from
 
 **Languages**<br>
 Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is the native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese<br>
-_printed major-language sample_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
+_major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information. (English)<br>
 
 **Religions**<br>
 Protestant 23.6% (includes Evangelical 11.2%, Moravian 11.2%, Reformed .7%, Lutheran .5%), Hindu 22.3%, Roman Catholic 21.6%, Muslim 13.8%, other Christian 3.2%, Winti 1.8%, Jehovah's Witness 1.2%, other 1.7%, none 7.5%, unspecified 3.2% (2012 est.)<br>
@@ -318,17 +318,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
+_elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
+_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 35, women 16, percent of women 31.4%<br>
+
 **Executive branch**<br>
 _chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
 _election results_: Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: last held on 25 May 2020 (next to be held May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>
@@ -352,8 +352,9 @@ _consulate(s) general_: Miami<br>
 _chief of mission_: Ambassador Karen Lynn WILLIAMS (since 20 November 2018)<br>
 _telephone_: [597] 472-900<br>
 _embassy_: 165 Kristalstraat, Paramaribo<br>
-_mailing address_: US Department of State, PO Box 1821, Paramaribo<br>
+_mailing address_: 3390 Paramaribo Place, Washington DC&nbsp; 20521-3390<br>
 _FAX_: [597] 410-972<br>
+_email address_: caparamar@state.gov<br>
 
 **Flag description**<br>
 five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future<br>

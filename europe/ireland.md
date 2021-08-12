@@ -304,17 +304,17 @@ _residency requirement for naturalization_: 4 of the previous 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 43 members indirectly elected from 5 vocational panels of nominees by an electoral college consisting of members from the House of Representatives, outgoing Senate members, and city and county council members, 11 appointed by the prime minister, and 6 elected by 2 university constituencies - 3 each from the University of Dublin (Trinity College) and the National University of Ireland)<br> House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
+_elections_: <br> Senate - last held in April and May 2016 (next to be held no later than 2021)<br> House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
+_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14; composition - men 42, women 18, percent of women 30%  <br> House of Representatives - percent of vote by party - Sinn Fein 23%, Fianna Fail 23%, Fine Gael 22%, Green Party 8%, Labor Party 4%, Social Democrats 4%, AAA-PBD 3%, Aontu 0.6%, Independents for Change 0.6%, Ceann Comhairle 0.6%, Independents 12%; seats by party - Sinn Fein 37, Fianna Fail 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, AAA-PBD 5, Aontu l, Independents for Change 1, Ceann Comhairle 1, Independents 19; composition - men 123, women 35, percent of women 22.2%; note - total Parliament percent of women 24.3%<br>
+
 **Executive branch**<br>
 _chief of state_: President Michael D. HIGGINS (since 11 November 2011)<br>
 _head of government_: Taoiseach (Prime Minister) Miche&aacute;l MARTIN (since 27 June 2020); note - MARTIN will serve through December 2022 and will then be succeeded by Leo VARADKAR&nbsp;<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president, approved by the Dali Eireann (lower house of Parliament)&nbsp;<br>
 _elections/appointments_: president directly elected by majority popular vote for a 7-year term (eligible for a second term); election last held on 26 October 2018 (next to be held no later than November 2025); taoiseach (prime minister) nominated by the House of Representatives (Dail Eireann), appointed by the president<br>
 _election results_: Michael D. HIGGINS reelected president; percent of vote - Michael D. HIGGINS (independent) 55.8%, Peter CASEY (independent) 23.3%, Sean GALLAGHER (independent) 6.4%, Liadh NI RIADA (Sinn Fein) 6.4%, Joan FREEMAN (independent) 6%, Gavin DUFFY (independent) 2.2%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Oireachtas consists of:<br>Senate or Seanad Eireann (60 seats; 43 members indirectly elected from 5 vocational panels of nominees by an electoral college consisting of members from the House of Representatives, outgoing Senate members, and city and county council members, 11 appointed by the prime minister, and 6 elected by 2 university constituencies - 3 each from the University of Dublin (Trinity College) and the National University of Ireland)<br> House of Representatives or Dail Eireann (158 seats; members directly elected in multi-seat constituencies by proportional representation vote; all Parliament members serve 5-year terms)<br>
-_elections_: <br> Senate - last held in April and May 2016 (next to be held no later than 2021)<br> House of Representatives - last held on 8 February 2020 (next to be held no later than 2025)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - Fine Gael 19, Fianna Fail 14, Sinn Fein 7, Labor Party 5, Green Party 1, independent 14; composition - men 42, women 18, percent of women 30%  <br> House of Representatives - percent of vote by party - Sinn Fein 23%, Fianna Fail 23%, Fine Gael 22%, Green Party 8%, Labor Party 4%, Social Democrats 4%, AAA-PBD 3%, Aontu 0.6%, Independents for Change 0.6%, Ceann Comhairle 0.6%, Independents 12%; seats by party - Sinn Fein 37, Fianna Fail 37, Fine Gael 35, Green Party 12, Labor Party 6, Social Democrats 6, AAA-PBD 5, Aontu l, Independents for Change 1, Ceann Comhairle 1, Independents 19; composition - men 123, women 35, percent of women 22.2%; note - total Parliament percent of women 24.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Ireland (consists of the chief justice, 9 judges, 2 ex-officio members - the presidents of the High Court and Court of Appeal - and organized in 3-, 5-, or 7-judge panels, depending on the importance or complexity of an issue of law)<br>
@@ -338,8 +338,9 @@ _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, New York, San Fra
 _chief of mission_: Ambassador&nbsp;Edward F. CRAWFORD&nbsp;(since&nbsp;1 July 2019)<br>
 _telephone_: [353] (1) 668-8777<br>
 _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
 _FAX_: [353] (1) 688-9946<br>
+_email address_: ACSDublin@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br>
@@ -685,7 +686,7 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Continuity Irish Republican Army; New Irish Republican Army (2019)<br>
+Continuity Irish Republican Army; New Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS) (2019)<br>
 <strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues

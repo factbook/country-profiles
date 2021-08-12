@@ -283,17 +283,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
+_election results_: percent of vote - NA; seats - independent 14; composition - men 14, women 0<br>
+
 **Executive branch**<br>
 _chief of state_: President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015); note - the president is both chief of state and head of government<br>
 _head of government_: President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
 _elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 11 May 2019 (next to be held in 2023)<br>
 _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br>
-
-**Legislative branch**<br>
-_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
-_election results_: percent of vote - NA; seats - independent 14; composition - men 14, women 0<br>
 
 **Judicial branch**<br>
 _highest courts_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>
@@ -319,6 +319,7 @@ _telephone_: [691] 320-2187<br>
 _embassy_: US Embassy in Kolonia, PO Box 1286, Kolonia, Pohnpei, FSM 96941<br>
 _mailing address_: P. O. Box 1286, Kolonia, Pohnpei, 96941; U.S. Embassy in Micronesia, 4120 Kolonia Place, Washington, D.C. 20521-4120<br>
 _FAX_: [691] 320-2186<br>
+_email address_: KoloniaACS@state.gov<br>
 
 **Flag description**<br>
 light blue with four white five-pointed stars centered; the stars are arranged in a diamond pattern; blue symbolizes the Pacific Ocean, the stars represent the four island groups of Chuuk, Kosrae, Pohnpei, and Yap<br>

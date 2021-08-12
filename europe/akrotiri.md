@@ -45,7 +45,7 @@ approximately 18,195 on the Sovereign Base Areas of Akrotiri and Dhekelia includ
 
 **Languages**<br>
 English, Greek<br>
-_printed major-language sample_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>

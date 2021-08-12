@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
+_elections_: last held on 20 December 2018 (next to be held in 2023)<br>
+_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 75, women 16, percent of women 17.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Faure GNASSINGBE (since 4 May 2005)&nbsp;<br>
 _head of government_: Prime Minister Victoire Tomegah DOGBE (since 28 September 2020)<br>
 _cabinet_: Council of Ministers appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 22 February 2020 (next to be held&nbsp; February 2025); prime minister appointed by the president<br>
 _election results_: Faure GNASSINGBE reelected president; percent of vote - Faure GNASSINGBE (UNIR) 72.4%, Agbeyome KODJO (MPDD) 18.4%, Jean-Pierre FABRE (ANC) 4.4%, other 5%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (91 seats; members directly elected in multi-seat constituencies by closed, party-list proportional representation vote to serve 5-year terms)<br>
-_elections_: last held on 20 December 2018 (next to be held in 2023)<br>
-_election results_: percent of vote by coalition/party - NA; seats by party - UNIR 59, UFC 6, NET 3, MPDD 3, other 2, independent 18; composition - men 75, women 16, percent of women 17.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into criminal and administrative chambers, each with a chamber president and advisors); Constitutional Court (consists of 9 judges, including the court president)<br>
@@ -369,8 +369,9 @@ _FAX_: [1] (202) 232-3190<br>
 _chief of mission_: Ambassador Eric W. STROHMAYER (since 11 April 2019)<br>
 _telephone_: [228] 2261-5470<br>
 _embassy_: 4332 Blvd.&nbsp;Eyadema,&nbsp;Lome<br>
-_mailing address_: B.P. 852, Lome; 2300 Lome Place, Washington, DC 20521-2300<br>
+_mailing address_: 2300 Lome Place, Washington, DC 20521-2300<br>
 _FAX_: [228] 2261-5501<br>
+_email address_: Consularlome@state.gov<br>
 
 **Flag description**<br>
 five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br>

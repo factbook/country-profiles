@@ -303,17 +303,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela<br>
+_elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - independent 33<br>
+
 **Executive branch**<br>
 _chief of state_: President David KABUA&nbsp;(since&nbsp; 13 January 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President David KABUA&nbsp;(since&nbsp;13 January 2020)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
 _elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on&nbsp;6 January 2020 (next to be held in 2024)<br>
 _election results_: David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela<br>
-_elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 33<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 2 associate justices)<br>
@@ -338,8 +338,9 @@ _consulate(s)_: Agana (Guam)<br>
 _chief of mission_: Ambassador Roxanne CABRAL (since 6 February 2020)<br>
 _telephone_: [692] 247-4011<br>
 _embassy_: Oceanside, Mejen Weto, Long Island, Majuro<br>
-_mailing address_: P. O. Box 1379, Majuro, Republic of the Marshall Islands 96960-1379<br>
+_mailing address_: 4380 Majuro Place, Washington DC&nbsp; 20521-4380<br>
 _FAX_: [692] 247-4012<br>
+_email address_: MAJConsular@state.gov<br>
 
 **Flag description**<br>
 blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north<br>

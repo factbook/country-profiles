@@ -253,16 +253,16 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
+_elections_: <br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
+_election results_: Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Rena LALGIE (since 14 December 2020)<br>
 _head of government_: Premier David BURT (since 19 July 2017)<br>
 _cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
-_elections_: <br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
-_election results_: Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -281,10 +281,10 @@ none (overseas territory of the UK)<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Karen GRISSETTE (since 6 July 2021)<br>
 _telephone_: (441) 295-1342<br>
-_embassy_: 16 Middle Road Devonshire, DV 03<br>
 _mailing address_: P. O. Box HM325, Hamilton HMBX; American Consulate General Hamilton, US Department of State, 5300 Hamilton Place, Washington, DC 20520-5300<br>
-_FAX_: [1] (441) 295-1592, 296-9233<br>
-_consulate(s) general_: Crown Hill, 16 Middle Road, Devonshire DVO3<br>
+_FAX_: (441) 295-1592<br>
+_email address_: HamiltonConsulate@state.gov<br>
+_consulate(s) general_: 16 Middle Road, Devonshire DV O3<br>
 
 **Flag description**<br>
 red, with the flag of the UK in the upper hoist-side quadrant and the Bermudian coat of arms (a white shield with a red lion standing on a green grassy field holding a scrolled shield showing the sinking of the ship Sea Venture off Bermuda in 1609) centered on the outer half of the flag; it was the shipwreck of the vessel, filled with English colonists originally bound for Virginia, that led to the settling of Bermuda<br>
@@ -403,7 +403,7 @@ $19 million (2016 est.)<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 
 **Exports - commodities**<br>
-reexports of pharmaceuticals<br>
+re-exports of pharmaceuticals<br>
 
 **Imports**<br>
 $1.094 billion (2017 est.)<br>

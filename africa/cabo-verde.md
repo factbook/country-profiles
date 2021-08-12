@@ -308,17 +308,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 20 March 2016 (next to be held on 18 April 2021)<br>
+_election results_: percent of vote by party MPD 54.5%, PAICV 38.2%, UCID 7%, other 0.3%; seats by party - MPD 40, PAICV 29, UCID 3; composition - men 57, women 15, percent of women 20.8%<br>
+
 **Executive branch**<br>
 _chief of state_: President Jorge Carlos FONSECA (since 9 September 2011)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 October 2016 (next to be held on 17 October 2021); prime minister nominated by the National Assembly and appointed by the president<br>
 _election results_: Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74%, Albertino GRACA (independent) 23%, other 3%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 20 March 2016 (next to be held on 18 April 2021)<br>
-_election results_: percent of vote by party MPD 54.5%, PAICV 38.2%, UCID 7%, other 0.3%; seats by party - MPD 40, PAICV 29, UCID 3; composition - men 57, women 15, percent of women 20.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -339,11 +339,12 @@ _FAX_: [1] (202) 965-1207<br>
 _consulate(s) general_: Boston<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador John "Jeff" DAIGLE (since 28 June 2019)<br>
-_telephone_: [238] 260-89-00<br>
+_chief of mission_: Ambassador John "Jeff" DAIGLE (since 10 September 2019)<br>
+_telephone_: [238] 260-8900<br>
 _embassy_: Rua Abilio Macedo 6, Praia<br>
-_mailing address_: C. P. 201, Praia<br>
-_FAX_: [238] 261-13-55<br>
+_mailing address_: 2460 Praia Place, Washington DC&nbsp; 20521-2460<br>
+_FAX_: [238] 261-1355<br>
+_email address_: PraiaConsular@state.gov<br>
 
 **Flag description**<br>
 five unequal horizontal bands; the top-most band of blue - equal to one half the width of the flag - is followed by three bands of white, red, and white, each equal to 1/12 of the width, and a bottom stripe of blue equal to one quarter of the flag width; a circle of 10 yellow, five-pointed stars is centered on the red stripe and positioned 3/8 of the length of the flag from the hoist side; blue stands for the sea and the sky, the circle of stars represents the 10 major islands united into a nation, the stripes symbolize the road to formation of the country through peace (white) and effort (red)<br>

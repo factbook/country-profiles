@@ -87,7 +87,7 @@ Greek 91.6%, Albanian 4.4%, other 4% (2011)<br>
 
 **Languages**<br>
 Greek (official) 99%, other (includes English and French) 1%<br>
-_printed major-language sample_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Το Παγκόσμιο Βιβλίο Δεδομένων, η απαραίτητη πηγή βασικών πληροφοριών. (Greek)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Greek Orthodox 81-90%, Muslim 2%, other 3%, none 4-15%, unspecified 1% (2015 est.)<br>
@@ -314,17 +314,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 17 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
+_elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
+_election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister&nbsp;<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _election results_: Katerina SAKELLAROPOULOU&nbsp;(independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU&nbsp;is Greece's first woman president<br>
-
-**Legislative branch**<br>
-_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
-_election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
@@ -349,8 +349,9 @@ _consulate(s)_: Atlanta, Houston<br>
 _chief of mission_: Ambassador Geoffrey R. PYATT (since 24 October 2016)<br>
 _telephone_: [30] (210) 721-2951<br>
 _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
-_mailing address_: PSC 108, APO AE 09842-0108<br>
+_mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
 _FAX_: [30] (210) 645-6282<br>
+_email address_: athensamericancitizenservices@state.gov<br>
 _consulate(s) general_: Thessaloniki<br>
 
 **Flag description**<br>
@@ -712,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,208,833 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,208,843 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

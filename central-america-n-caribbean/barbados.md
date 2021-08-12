@@ -298,17 +298,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sandra MASON (since 8 January 2018)<br>
-_head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
-_cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
-
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 24 May 2018 (next to be held in 2023)<br>
 _election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
 <strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
+
+**Executive branch**<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sandra MASON (since 8 January 2018)<br>
+_head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
+_cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -330,10 +330,11 @@ _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Linda S. TAGLIALATELA (since 1 February 2016) note - also accredited to Antigua and Barbuda, Dominica, Grenada, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines<br>
-_telephone_: [1] (246) 227-4000<br>
-_embassy_: Wildey Business Park, St. Michael BB 14006, W.I.<br>
-_mailing address_: P. O. Box 302, Bridgetown BB 11000; (Department Name) Unit 3120, DPO AA 34055<br>
-_FAX_: [1] (246) 431-0179<br>
+_telephone_: (246) 227-4000<br>
+_embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
+_mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
+_FAX_: (246) 431-0179<br>
+_email address_: BridgetownACS@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)<br>

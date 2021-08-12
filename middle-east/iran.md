@@ -87,7 +87,7 @@ Persian, Azeri, Kurd, Lur, Baloch, Arab, Turkmen and Turkic tribes<br>
 
 **Languages**<br>
 Persian Farsi&nbsp;(official), Azeri&nbsp;and other&nbsp;Turkic dialects, Kurdish, Gilaki and Mazandarani, Luri, Balochi, Arabic<br>
-_printed major-language sample_: <br>چکیده نامه جهان، منبعی ضروری برای کسب اطلاعات کلی جهان (Persian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>چکیده نامه جهان، منبعی ضروری برای کسب اطلاعات کلی جهان (Persian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 99.4% (Shia 90-95%, Sunni 5-10%), other (includes Zoroastrian, Jewish, and Christian) 0.3%, unspecified 0.4% (2011 est.)<br>
@@ -327,6 +327,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by 2-round vote, and 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms); note - all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
+_elections_: first round held on 21 February 2020 and second round for 11 remaining seats held on 11 September 2020 (next full Majles election to be held in 2024)<br>
+_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives 219, reformists 20, independents 35, religious minorities 5; remaining 11 seats to be decided in April 2020<br>
+
 **Executive branch**<br>
 _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
 _head of government_: President-elect Ebrahim RAISI (since 18 June 2021); First Vice President Eshagh JAHANGIRI (since 5 August 2013)<br>
@@ -334,11 +339,6 @@ _cabinet_: Council of Ministers selected by the president with legislative appro
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 18 June 2012 (next to be held in June 2025)<br>
 _election results_: Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (CCA) 72.4%, Mohsen Rezaee MIRGHA'ED (RFII) 13.8%, Abbdolnaser HEMMATI (ECP) 9.8%, Amir Hossein Hossein Ghazizadegh HASHEMI (Islamic Law Party) 4%<br>
 <strong>note:</strong> 3 oversight bodies are also considered part of the executive branch of government<br>
-
-**Legislative branch**<br>
-_description_: unicameral Islamic Consultative Assembly or Majles-e Shura-ye Eslami or Majles (290 seats; 285 members directly elected in single- and multi-seat constituencies by 2-round vote, and 1 seat each for Zoroastrians, Jews, Assyrian and Chaldean Christians, Armenians in the north of the country and Armenians in the south; members serve 4-year terms); note - all candidates to the Majles must be approved by the Council of Guardians, a 12-member group of which 6 are appointed by the supreme leader and 6 are jurists nominated by the judiciary and elected by the Majles<br>
-_elections_: first round held on 21 February 2020 and second round for 11 remaining seats held on 11 September 2020 (next full Majles election to be held in 2024)<br>
-_election results_: percent of vote by coalition (first round) - NA; seats by coalition (first round) - conservatives 219, reformists 20, independents 35, religious minorities 5; remaining 11 seats to be decided in April 2020<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and organized into 42 two-bench branches, each with a justice and a judge)<br>

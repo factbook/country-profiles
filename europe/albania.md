@@ -86,7 +86,7 @@ Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Monte
 
 **Languages**<br>
 Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Romani, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)<br>
-_printed major-language sample_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br>
@@ -318,6 +318,11 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 25 April 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - NA, percent of women NA%<br>
+
 **Executive branch**<br>
 _chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Senida MESI (since 13 September 2017)<br>
@@ -325,18 +330,13 @@ _cabinet_: Council of Ministers proposed by the prime minister, nominated by the
 _elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 19, 20, 27, and 28 April 2017 (next election to be held in 2022); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
 _election results_: Ilir META elected president; Assembly vote - 87 - 2 in fourth round<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 25 June 2017 (next to be held on 25 April 2021)<br>
-_election results_: percent of vote by party - PS 48.3%, PD 28.9%, LSI 14.3%, PDIU 4.8%, PSD 1%, other 2.7%; seats by party - PS 74, PD 43, LSI 19, PDIU 3, PSD 1; composition - men 108, women 32, percent of women 22.9%<br>
-
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
 _judge selection and term of office_: Supreme Court judges appointed by the High Judicial Council with the consent of the president&nbsp;to serve single 9-year terms; Supreme Court chairman&nbsp;is elected for a single 3-year term by the court members; appointments of Constitutional Court judges are rotated among the president, Parliament, and Supreme Court from a list of pre-qualified candidates (each institution selects 3 judges), to serve single 9-year terms; candidates are pre-qualified by a randomly selected body of experienced judges and prosecutors; Constitutional Court chairman is elected by the court members for a single, renewable 3-year term<br>
 _subordinate courts_: Courts of Appeal; Courts of First Instance; specialized courts: Court for Corruption and Organized Crime, Appeals Court for Corruption and Organized Crime (responsible for corruption, organized crime, and crimes of high officials)<br>
 
 **Political parties and leaders**<br>
-Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (formerly part of APMI)<br>Social Democratic Party or PSD [Paskal MILO]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
+Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [Lulzim BASHA]<br>Party for Justice, Integration and Unity or PDIU [Shpetim IDRIZI] (part of the Alliance for Change; formerly part of APMI)<br>Social Democratic Party or PSD [Tom DOSHI]<br>Socialist Movement for Integration or LSI [Monika KRYEMADHI]<br>Socialist Party or PS [Edi RAMA]<br>
 
 **International organization participation**<br>
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -350,10 +350,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Yuri KIM (since 27 January 2020)<br>
-_telephone_: [355] (4) 2247-285<br>
-_embassy_: Rruga e Elbasanit, No. 103, Tirana<br>
-_mailing address_: US Department of State, 9510 Tirana Place, Dulles, VA 20189-9510<br>
-_FAX_: [355] (4) 2232-222<br>
+_telephone_: [355] 4 2247-285<br>
+_embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
+_mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
+_FAX_: [355] 4 2232-222<br>
+_email address_: ACSTirana@state.gov<br>
 
 **Flag description**<br>
 red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br>

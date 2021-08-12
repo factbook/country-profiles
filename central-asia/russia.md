@@ -88,7 +88,7 @@ Russian 77.7%, Tatar 3.7%, Ukrainian 1.4%, Bashkir 1.1%, Chuvash 1%, Chechen 1%,
 
 **Languages**<br>
 Russian (official) 85.7%, Tatar 3.2%, Chechen 1%, other 10.1%; note - data represent native language spoken (2010 est.)<br>
-_printed major-language sample_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Книга фактов о мире – незаменимый источник базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Russian Orthodox 15-20%, Muslim 10-15%, other Christian 2% (2006 est.)<br>
@@ -332,6 +332,12 @@ _residency requirement for naturalization_: 3-5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br> State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br>State Duma - last held on 18 September 2016 (next to be held in fall 2021)<br>
+_election results_: <br>Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%<br><br>State Duma - United Russia 54.2%, CPRF 13.3%, LDPR 13.1%, A Just Russia 6.2%, Rodina 1.5%, CP 0.2%, other minor parties 11.5%; seats by party - United Russia 343, CPRF 42, LDPR 39, A Just Russia 23, Rodina 1, CP 1, independent 1<br>
+<strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br><br><strong>note 2:</strong> seats by party as of December 2018 - United Russia 341, CPRF 43, LDPR 39, A Just Russia 23, independent 2, vacant 2; composition as of October 2018 - men 393, women 57, percent of women 12.7%; note - total Federal Assembly percent of women 13.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
 _head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Yuriy Ivanovich BORISOV, Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020)<br>
@@ -339,12 +345,6 @@ _cabinet_: the "Government" is composed of the premier, his deputies, and minist
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president; premier appointed by the president with the approval of the Duma<br>
 _election results_: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 5.8%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br>
 <strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president<br>
-
-**Legislative branch**<br>
-_description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br> State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>State Duma - last held on 18 September 2016 (next to be held in fall 2021)<br>
-_election results_: <br>Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%<br><br>State Duma - United Russia 54.2%, CPRF 13.3%, LDPR 13.1%, A Just Russia 6.2%, Rodina 1.5%, CP 0.2%, other minor parties 11.5%; seats by party - United Russia 343, CPRF 42, LDPR 39, A Just Russia 23, Rodina 1, CP 1, independent 1<br>
-<strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br><br><strong>note 2:</strong> seats by party as of December 2018 - United Russia 341, CPRF 43, LDPR 39, A Just Russia 23, independent 2, vacant 2; composition as of October 2018 - men 393, women 57, percent of women 12.7%; note - total Federal Assembly percent of women 13.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Russian Federation (consists of 170 members organized into the Judicial Panel for Civil Affairs, the Judicial Panel for Criminal Affairs, and the Military Panel); Constitutional Court (consists of 11 members, including the chairperson and deputy); note - in February 2014, Russia&rsquo;s Higher Court of Arbitration was abolished and its former authorities transferred to the Supreme Court, which in addition is the country&rsquo;s highest judicial authority for appeals, civil, criminal, administrative, and military cases, and the disciplinary judicial board, which has jurisdiction over economic disputes<br>
@@ -369,8 +369,9 @@ _consulate(s) general_: Houston, New York, Seattle<br>
 _chief of mission_: Ambassador John J. SULLIVAN (since 5 February 2021)<br>
 _telephone_: [7] (495) 728-5000<br>
 _embassy_: Bolshoy Deviatinskiy Pereulok No. 8, 121099 Moscow<br>
-_mailing address_: PSC-77, APO AE 09721<br>
+_mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _FAX_: [7] (495) 728-5090<br>
+_email address_: moscowacs@state.gov<br>
 _consulate(s) general_: Saint Petersburg, Vladivostok, Yekaterinburg<br>
 
 **Flag description**<br>

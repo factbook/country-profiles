@@ -337,17 +337,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)<br>
+_elections_: last held on 22 November 2020 (next to be held in November 2025)<br>
+_election results_: percent of vote by party - NA; seats by party (preliminary results) - MPP 56, CDP 20, NTD 13, UPC 12<br>
+
 **Executive branch**<br>
 _chief of state_: President Roch Marc Christian KABORE (since 29 December 2015; re-elected 22 November 2020)<br>
 _head of government_: Prime Minister Christophe DABIRE (since 24 January 2019)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); last held on 22 November 2020 (next to be held in November 2025); prime minister appointed by the president with consent of the National Assembly<br>
 _election results_: Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly (127 seats; 111 members directly elected in 13 multi-seat constituencies by party-list proportional representation vote and 26 members elected in a nationwide constituency by proportional representation vote; all member serve 5-year terms)<br>
-_elections_: last held on 22 November 2020 (next to be held in November 2025)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary results) - MPP 56, CDP 20, NTD 13, UPC 12<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeals or Cour de Cassation (consists of NA judges); Council of State (consists of NA judges); Constitutional Council or Conseil Constitutionnel (consists of the council president and 9 members)<br>
@@ -367,11 +367,12 @@ _telephone_: [1] (202) 332-5577<br>
 _FAX_: [1] (202) 667-1882<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Sandra CLARK (since 25 September 2020)<br>
-_telephone_: [226] 25-49-53-00<br>
+_chief of mission_: Ambassador Sandra E. CLARK (since 25 September 2020)<br>
+_telephone_: (226) 25-49-53-00<br>
 _embassy_: Secteur 15, Ouaga 2000, Avenue Sembene Ousmane, Rue 15.873, Ouagadougou<br>
-_mailing address_: 01 B. P. 35, Ouagadougou 01; pouch mail - US Department of State, 2440 Ouagadougou Place, Washington, DC 20521-2440<br>
-_FAX_: [226] 25-49-56-28<br>
+_mailing address_: 2440 Ouagadougou Place, Washington, DC&nbsp; 20521-2440<br>
+_FAX_: (226) 25-49-56-28<br>
+_email address_: ouagaACS@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth<br>
@@ -502,7 +503,7 @@ $3.954 billion (2017 est.)<br>
 Switzerland 59%, India 21% (2019)<br>
 
 **Exports - commodities**<br>
-gold, cotton, zinc, cashews, sesame seeds, (2019)<br>
+gold, cotton, zinc, cashews, sesame seeds (2019)<br>
 
 **Imports**<br>
 $5.294 billion (2019 est.)<br>

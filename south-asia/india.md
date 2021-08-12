@@ -87,7 +87,7 @@ Indo-Aryan 72%, Dravidian 25%, Mongoloid and other 3% (2000)<br>
 
 **Languages**<br>
 Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
-_printed major-language sample_: <br>विश्व फेसबुक, आधारभूत जानकारी का एक अपरिहार्य स्रोत (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>विश्व फेसबुक, आधारभूत जानकारी का एक अपरिहार्य स्रोत (Hindi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Hindu 79.8%, Muslim 14.2%, Christian 2.3%, Sikh 1.7%, other and unspecified 2% (2011 est.)<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
+_elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic and rescheduled throughout 2021 to fill expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
+
 **Executive branch**<br>
 _chief of state_: President Ram Nath KOVIND (since 25 July 2017); Vice President M. Venkaiah NAIDU (since 11 August 2017)&nbsp;<br>
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)&nbsp;<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 17 July 2017 (next to be held in July 2022); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2017 (next to be held in August 2022); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
 _election results_: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.7% Meira KUMAR (INC) 34.3%; M. Venkaiah NAIDU elected vice president; electoral college vote - M. Venkaiah NAIDU (BJP) 516, Gopalkrishna GANDHI (independent) 244<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
-_elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic and rescheduled throughout 2021 to fill expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges, including the chief justice)<br>
@@ -370,8 +370,9 @@ _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Ambassador Daniel B. SMITH (since May 2021)<br>
 _telephone_: [91] (11) 2419-8000<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi 110021<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _FAX_: [91] (11) 2419-0017<br>
+_email address_: acsnd@state.gov<br>
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
 **Flag description**<br>

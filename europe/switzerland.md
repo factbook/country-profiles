@@ -85,7 +85,7 @@ Swiss 69.3%, German 4.2%, Italian 3.2%, Portuguese 2.5%, French 2.1%, Kosovo 1.1
 
 **Languages**<br>
 German (or Swiss German) (official) 62.1%, French (official) 22.8%, Italian (official) 8%, English 5.7%, Portuguese 3.5%, Albanian 3.3%, Serbo-Croatian 2.3%, Spanish 2.3%, Romansh (official) 0.5%, other 7.9%; note - German, French, Italian, and Romansh are all national and official languages; shares sum to more than 100% because respondents could indicate more than one main language (2019 est.)<br>
-_printed major-language sample_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>L'Almanacco dei fatti del mondo, l'indispensabile fonte per le informazioni di base. (Italian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 34.4%, Protestant 22.5%, other Christian 5.7%, Muslim 5.5%, other 1.6%, none 29.5%, unspecified 0.8% (2019 est.)<br>
@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br> National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA <br> National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)<br>
+
 **Executive branch**<br>
 _chief of state_: <p>President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President  Ignazio CASSIS (since 1 January 2021); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president</p><br>
 _head of government_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2021; Vice President Ignazio CASSIS (since 1 January 2021)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
 _elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on&nbsp;11 December 2019 (next to be held in December 2020)<br>
 _election results_: Guy PARMELIN elected president; Federal Assembly vote - 192 of 205; Ignazio CASSIS elected vice president; Federal Assembly vote - 162 of 199<br>
-
-**Legislative branch**<br>
-_description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br> National Council - last held on 20 October 2019 (next to be held in 2023) (e.g. 2019)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition - NA <br> National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition - men 116, women 84, percent of women 42% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -345,7 +345,7 @@ _consulate(s) general_: Atlanta, Chicago, Los Angeles, New York, San Francisco<b
 _chief of mission_: Ambassador Edward "Ed" MCMULLEN, Jr. (since 21 November 2017) note - also accredited to Liechtenstein<br>
 _telephone_: [41] (031) 357-70-11<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _FAX_: [41] (031) 357-73-20<br>
 
 **Flag description**<br>

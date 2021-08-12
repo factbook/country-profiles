@@ -89,7 +89,7 @@ mixed 70.4% (Mestizo/Indio 58%, Mulatto 12.4%), Black 15.8%, White 13.5%, other 
 
 **Languages**<br>
 Spanish (official)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 44.3%, Evangelical 13%, Protestant 7.9%, Adventist 1.4%, other 1.8%, atheist 0.2%, none 29.4%, unspecified 2% (2018 est.)<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)<br>House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
+
 **Executive branch**<br>
 _chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet nominated by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
 _election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNANDEZ Reyna (FP) 8.9% other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)<br>House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>
@@ -364,8 +364,9 @@ _consulate(s)_: San Francisco<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
 _telephone_: [1] (809) 567-7775<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
-_mailing address_: Unit 5500, APO AA 34041-5500<br>
+_mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _FAX_: [1] (809) 686-7437<br>
+_email address_: SDOAmericans@state.gov<br>
 
 **Flag description**<br>
 a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>

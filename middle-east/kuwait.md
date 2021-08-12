@@ -85,7 +85,7 @@ Kuwaiti 30.4%, other Arab 27.4%, Asian 40.3%, African 1%, other .9% (includes Eu
 
 **Languages**<br>
 Arabic (official), English widely spoken<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)<br>
@@ -299,17 +299,17 @@ _residency requirement for naturalization_: not specified<br>
 **Suffrage**<br>
 21 years of age and at least 20-year citizenship<br>
 
-**Executive branch**<br>
-_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince Sheikh MESHAAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
-_head of government_: &nbsp;Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah (since 30 November 2011); First Deputy Prime Minister NASIR Sabah al-Ahmad al-Sabah (since 11 December 2017); Deputy Prime Ministers SABAH KHALID al-Hamid al-Sabah (since 13 December 2011), KHALID al-Jarrah al-Sabah (since 4 August 2013), Anas Khalid al-SALEH (since 4 August 2013); note - on 14 November 2019, the government of Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah resigned&nbsp;<br>
-_cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
-_elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
-
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
 _elections_: last held on 5 December 2020 (next to be held in 2024)<br>
 _election results_: all candidates ran as independents, though nearly half were oppositionists; composition - men 50, women 0, percent of women 0%<br>
 note: seats as of May 2019 - &nbsp;oppositionists and independents, including populists, Islamists, and liberals 25, pro-government loyalists 25; composition as of May 2019&nbsp;for elected members only - men 49, women 1, percent of women 2%&nbsp;<br>
+
+**Executive branch**<br>
+_chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince Sheikh MESHAAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
+_head of government_: &nbsp;Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah (since 30 November 2011); First Deputy Prime Minister NASIR Sabah al-Ahmad al-Sabah (since 11 December 2017); Deputy Prime Ministers SABAH KHALID al-Hamid al-Sabah (since 13 December 2011), KHALID al-Jarrah al-Sabah (since 4 August 2013), Anas Khalid al-SALEH (since 4 August 2013); note - on 14 November 2019, the government of Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah resigned&nbsp;<br>
+_cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
+_elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>
@@ -331,11 +331,12 @@ _consulate(s) general_: New York City<br>
 _consulate(s)_: Lost Angeles<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Alina L. Romanowski (since 6 January 2020)<br>
+_chief of mission_: Alina L. ROMANOWSKI (since 6 January 2020)<br>
 _telephone_: [965] 2259-1001<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
-_mailing address_: P. O. Box 77 Safat 13001 Kuwait; or PSC 1280 APO AE 09880-9000<br>
+_mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
 _FAX_: [965] 2538-6562<br>
+_email address_: KuwaitACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green represents fertile fields, white stands for purity, red denotes blood on Kuwaiti swords, black signifies the defeat of the enemy<br>

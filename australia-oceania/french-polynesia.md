@@ -83,7 +83,7 @@ Polynesian 78%, Chinese 12%, local French 6%, metropolitan French 4%<br>
 
 **Languages**<br>
 French (official) 70%, Polynesian (official) 28.2%, other 1.8% (2012 est.)<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Protestant 54%, Roman Catholic 30%, other 10%, no religion 6%<br>
@@ -257,16 +257,16 @@ see France<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)<br> <br> <br> <br> <br>French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
+_elections_: <p>Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)<br>French Senate - last held in September 2017 (next to be held in September 2020)<br>French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)</p><br>
+_election results_: <p>Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%<br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%<br>French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%</p><br>
+
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Dominique SORAIN (since 10 July 2019)<br>
 _head of government_: President of French Polynesia Edouard FRITCH (since 12 September 2014)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
-
-**Legislative branch**<br>
-_description_: unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)<br> <br> <br> <br> <br>French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
-_elections_: <p>Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)<br>French Senate - last held in September 2017 (next to be held in September 2020)<br>French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)</p><br>
-_election results_: <p>Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%<br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%<br>French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>

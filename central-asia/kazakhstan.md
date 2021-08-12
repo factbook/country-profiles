@@ -84,7 +84,7 @@ Kazakh (Qazaq) 68%, Russian 19.3%, Uzbek 3.2%, Ukrainian 1.5%, Uighur 1.5%, Tata
 
 **Languages**<br>
 Kazakh (official, Qazaq) 83.1% (understand spoken language) and trilingual (Kazakh, Russian, English) 22.3% (2017 est.); Russian (official, used in everyday business, designated the "language of interethnic communication") 94.4% (understand spoken language) (2009 est.)<br>
-_printed major-language sample_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник  базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Әлемдік деректер кітабы, негізгі ақпараттың таптырмайтын көзі. (Kazakh)<br><br>Книга фактов о мире – незаменимый источник  базовой информации. (Russian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 70.2%, Christian 26.2% (mainly Russian Orthodox), other 0.2%, atheist 2.8%, unspecified 0.5% (2009 est.)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (49 seats; 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
+_elections_: <br>Senate - last held on 12 August 2020 (next to be held in 2026)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition - men 78, women 29, percent of women 27%<br>
+
 **Executive branch**<br>
 _chief of state_: &nbsp;President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory&nbsp;<br>
 _head of government_: Prime Minister Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019)&nbsp;<br>
 _cabinet_: &nbsp;the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (49 seats; 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
-_elections_: <br>Senate - last held on 12 August 2020 (next to be held in 2026)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition - men 78, women 29, percent of women 27%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)<br>
@@ -350,8 +350,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador William MOSER (since 27 March 2019)<br>
 _telephone_: [7] (7172) 70-21-00<br>
 _embassy_: Rakhymzhan Koshkarbayev Ave. No 3, Astana 010010<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 2230 Astana Place, Washington DC&nbsp; 20521-2230<br>
 _FAX_: [7] (7172) 54-09-14<br>
+_email address_: USAKZ@state.gov<br>
 _consulate(s) general_: Almaty<br>
 
 **Flag description**<br>

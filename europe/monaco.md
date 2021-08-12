@@ -86,7 +86,7 @@ Monegasque 32.1%, French 19.9%, Italian 15.3%, British 5%, Belgian 2.3%, Swiss 2
 
 **Languages**<br>
 French (official), English, Italian, Monegasque<br>
-_printed major-language sample_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 90% (official), other 10%<br>
@@ -272,16 +272,16 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 11 February 2018 (next to be held in February 2023)<br>
+_election results_: percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%<br>
+
 **Executive branch**<br>
 _chief of state_: Prince ALBERT II (since 6 April 2005)<br>
 _head of government_: Minister of State Pierre DARTOUT (since 1 September 2020)<br>
 _cabinet_: Council of Government under the authority of the monarch<br>
 _elections/appointments_: the monarchy is hereditary; minister of state appointed by the monarch from a list of three French national candidates presented by the French Government<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Council or Conseil National (24 seats; 16 members directly elected in multi-seat constituencies by simple majority vote and 8 directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 11 February 2018 (next to be held in February 2023)<br>
-_election results_: percent of vote by party - Priorite Monaco 57.7%, Horizon Monaco 26.1%, Union Monegasque 16.2%; seats by party - Priorite Monaco 21, Horizon Monaco 2, Union Monegasque 1; composition - men 16, women 8, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 5 permanent members and 2 substitutes)<br>

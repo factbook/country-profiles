@@ -88,7 +88,7 @@ White 64.1%, Mulatto or mixed 26.6%, Black 9.3% (2012 est.)<br>
 
 **Languages**<br>
 Spanish (official)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Christian 58.9%, folk religion 17.6%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, Muslim &lt;1%, other &lt;1%, none 23.2% (2020 est.)<br>
@@ -324,6 +324,11 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in july 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
+_elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
+_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition - men 283, women 322, percent of women 53.2%<br>
+
 **Executive branch**<br>
 _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 10 October 2019); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019); note - the president is both chief of state and head of government<br>
 _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Roberto MORALES Ojeda, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019)<br>
@@ -331,11 +336,6 @@ _cabinet_: Council of Ministers proposed by the president and appointed by the N
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held in 2024)<br>
 _election results_: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Council of State; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Council of State<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in july 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
-_elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition - men 283, women 322, percent of women 53.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>
@@ -357,8 +357,9 @@ _telephone_: [1] (202) 797-8518<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
 _telephone_: [53] (7) 839-4100<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
 _FAX_: NA<br>
+_email address_: acshavana@state.gov<br>
 
 **Flag description**<br>
 five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br>

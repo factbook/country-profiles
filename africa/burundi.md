@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%<br>
+
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Alain-Guillaume BUNYONI (since 24 June 2020)<br>
 _cabinet_: Council of Ministers appointed by president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
 _election results_: Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
@@ -366,9 +366,10 @@ _FAX_: [1] (202) 342-2578<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Melanie Harris HIGGINS (since 2 March 2021)<br>
 _telephone_: [257] 22-207-000<br>
-_embassy_: Avenue Des Etats-Unis, Bujumbura, BP1720<br>
-_mailing address_: B.P. 1720, Bujumbura<br>
+_embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
+_mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _FAX_: [257] 22-222-926<br>
+_email address_: BujumburaC@state.gov<br>
 
 **Flag description**<br>
 divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress<br>

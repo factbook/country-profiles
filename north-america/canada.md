@@ -90,7 +90,7 @@ Canadian 32.3%, English 18.3%, Scottish 13.9%, French 13.6%, Irish 13.4%, German
 
 **Languages**<br>
 English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)<br>
-_printed major-language sample_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
+_major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br>
 
 **Religions**<br>
 Catholic 39% (includes Roman Catholic 38.8%, other Catholic .2%), Protestant 20.3% (includes United Church 6.1%, Anglican 5%, Baptist 1.9%, Lutheran 1.5%, Pentecostal 1.5%, Presbyterian 1.4%, other Protestant 2.9%), Orthodox 1.6%, other Christian 6.3%, Muslim 3.2%, Hindu 1.5%, Sikh 1.4%, Buddhist 1.1%, Jewish 1%, other 0.6%, none 23.9% (2011 est.)<br>
@@ -306,17 +306,17 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br> House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
+_elections_: Senate - appointed; latest appointments in December 2018<br> House of Commons - last held on 21 October 2019 (next to be held in October 2023)<br>
+_election results_: <br> Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Mary SIMON (since 6 July 2021)<br>
 _head of government_: Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
 <strong>note:</strong> the governor general position is largely ceremonial; Julie PAYETTE, Canada's fourth female governor general, resigned on 21 January 2021; Richard WAGNER, chief justice of the Supreme Court, will be Acting Governor General in the interim<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br> House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - appointed; latest appointments in December 2018<br> House of Commons - last held on 21 October 2019 (next to be held in October 2023)<br>
-_election results_: <br> Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -339,10 +339,11 @@ _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade of
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Arnold CHACON (since 28 May 2021)<br>
-_telephone_: [1] (613) 688-5335<br>
+_telephone_: [1] (613) 238-5335<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
-_mailing address_: P. O. Box 5000, Ogdensburg, NY 13669-0430; P.O. Box 866, Station B, Ottawa, Ontario K1P 5T1<br>
+_mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _FAX_: [1] (613) 241-7845<br>
+_email address_: OttawaACS@state.gov<br>
 _consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver, Winnipeg<br>
 _consulate(s)_: Winnipeg<br>
 

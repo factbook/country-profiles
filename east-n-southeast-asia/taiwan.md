@@ -85,7 +85,7 @@ Han Chinese (including Holo, who compose approximately 70% of Taiwan's populatio
 
 **Languages**<br>
 Mandarin Chinese (official), Taiwanese (Min Nan), Hakka dialects, approximately 16 indigenous languages<br>
-_printed major-language sample_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 35.3%, Taoist 33.2%, Christian 3.9%, folk religion (includes Confucian) approximately 10%, none or unspecified 18.2% (2005 est.)<br>
@@ -239,17 +239,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 20 years of age; universal; note - in mid-2016, the Legislative Yuan drafted a constitutional amendment to reduce the voting age to 18, but it has not passed as of December 2017<br>
 
+**Legislative branch**<br>
+_description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
+_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%; seats by party - DPP 61, KMT 38, TPP 5<br>
+
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016; re-elected on 11 Jan 2020); Vice President LAI Ching-te (since 20 May 2020)<br>
 _head of government_: Premier SU Tseng-chang (President of the Executive Yuan) (since 11 January 2019); Vice Premier SHEN Jong-chin, Vice President of the Executive Yuan (since 19 June 2020)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%; note - TSAI is the first woman elected president of Taiwan<br>
-
-**Legislative branch**<br>
-_description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
-_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%; seats by party - DPP 61, KMT 38, TPP 5<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -270,6 +270,8 @@ _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicag
 **Diplomatic representation from the US**<br>
 _chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director William Brent CHRISTENSEN (since 11 August 2018); telephone [886] 7-335-5006; FAX [886] 7-338-0551<br>
 _telephone_: (+886) (02) 2162-2000<br>
+_mailing address_: 4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170<br>
+_email address_: TaipeiACS@state.gov<br>
 _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neihu District 11461, Taipei City<br>
 _other offices_: Kaohsiung (Branch Office)<br>
 

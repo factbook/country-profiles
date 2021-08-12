@@ -87,7 +87,7 @@ homogeneous<br>
 
 **Languages**<br>
 Korean, English (widely taught in elementary, junior high, and high school)<br>
-_printed major-language sample_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>월드 팩트북, 필수적인 기본 정보 제공처 (Korean)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Protestant 19.7%, Buddhist 15.5%, Catholic 7.9%, none 56.9% (2015 est.)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 15 April 2020 (next to be held in April 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%<br>
+
 **Executive branch**<br>
 _chief of state_: President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 _head of government_: President MOON Jae-in (since 10 May 2017)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly<br>
 _election results_: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 15 April 2020 (next to be held in April 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -350,8 +350,10 @@ _consulate(s) general_: Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, 
 _chief of mission_: Ambassador (vacant);&nbsp; Charg&eacute; d&rsquo;Affaires Rob RAPSON (since 20 January 2021)<br>
 _telephone_: [82] (2) 397-4114<br>
 _embassy_: 188 Sejong-daero, Jongno-gu, Seoul 03141<br>
-_mailing address_: US Embassy Seoul, 9600 Seoul Place Washington, D.C., 20521-9600<br>
+_mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _FAX_: [82] (2) 725-0152<br>
+_email address_: seoulinfoACS@state.gov<br>
+_consulate(s)_: Busan<br>
 
 **Flag description**<br>
 white with a red (top) and blue yin-yang symbol in the center; there is a different black trigram from the ancient I Ching (Book of Changes) in each corner of the white field; the South Korean national flag is called Taegukki; white is a traditional Korean color and represents peace and purity; the blue section represents the negative cosmic forces of the yin, while the red symbolizes the opposite positive forces of the yang; each trigram (kwae) denotes one of the four universal elements, which together express the principle of movement and harmony<br>

@@ -85,7 +85,7 @@ Bengali at least 98%, other indigenous ethnic groups 1.1% (2011 est.)<br>
 
 **Languages**<br>
 Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
-_printed major-language sample_: <br>বিশ্ব ফেসবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>বিশ্ব ফেসবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 89.1%, Hindu 10%, other 0.9% (includes Buddhist, Christian) (2013 est.)<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
+_elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
+_election results_: percent of vote by party - NA; seats by party as of January 2020 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013<br>
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _election results_: President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018<br>
-
-**Legislative branch**<br>
-_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
-_elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
-_election results_: percent of vote by party - NA; seats by party as of January 2020 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -364,8 +364,9 @@ _consulate(s) general_: Los Angeles, New York<br>
 _chief of mission_: Ambassador Earl Robert MILLER (since 29 November 2018)<br>
 _telephone_: [880] (2) 5566-2000<br>
 _embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
-_mailing address_: G. P. O. Box 323, Dhaka 1000<br>
+_mailing address_: 6120 Dhaka Place, Washington DC&nbsp; 20521-6120<br>
 _FAX_: [880] (2) 5566-2915<br>
+_email address_: DhakaACS@state.gov<br>
 
 **Flag description**<br>
 green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>

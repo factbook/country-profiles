@@ -87,7 +87,7 @@ Thai 97.5%, Burmese 1.3%, other 1.1%, unspecified &lt;.1% (2015 est.)<br>
 
 **Languages**<br>
 Thai (official) only 90.7%, Thai and other languages 6.4%, only other languages 2.9% (includes Malay, Burmese); note - data represent population by language(s) spoken at home; English is a secondary language of the elite (2010 est.)<br>
-_printed major-language sample_: <br>สารานุกรมโลก - แหล่งข้อมูลพื้นฐานที่สำคัญ (Thai)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>สารานุกรมโลก - แหล่งข้อมูลพื้นฐานที่สำคัญ (Thai)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist 94.6%, Muslim 4.3%, Christian 1%, other &lt;0.1%, none &lt;0.1% (2015 est.)<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Assembly or Rathhasapha consists of:<br>Senate or Wuthissapha (250 seats; members appointed by the Royal Thai Army to serve 5-year terms)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: Senate - last held on 14 May 2019 (next to be held in 2024)<br> <br>House of Representatives - last held on 24 March 2019 (next to be held in 2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br>House of Representatives - percent of vote by party - PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note - total National Assembly percent of women 14%<br>
+
 **Executive branch**<br>
 _chief of state_: King WACHIRALONGKON, also spelled Vajiralongkorn, (since 1 December 2016); note - King PHUMIPHON Adunyadet, also spelled BHUMIBOL Adulyadej (since 9 June 1946) died 13 October 2016&nbsp;<br>
 _head of government_: &nbsp;Prime Minister PRAYUT Chan-ocha (since 25 August 2014); Deputy Prime Ministers PRAWIT Wongsuwan (since 31 August 2014), WITSANU Kruea-ngam (since 31 August 2014), SUPHATTHANAPHONG Phanmichao (since August 2020), CHURIN Laksanawisit (since November 2019), ANUTHIN Chanwirakun (since November 2019), DON Pramudwinai (since August 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the king; a Privy Council advises the king&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; the House of Representatives and Senate approves a person for Prime Minister who must then be appointed by the King (as stated in the transitory provision of the 2017 constitution); the office of prime minister can be held for up to a total of 8 years<br>
 <strong>note:</strong>  PRAYUT Chan-ocha was appointed interim prime minister in August 2014, three months after he staged the coup that removed the previously elected government of Prime Minister YINGLAK Chinnawat; on 5 June 2019 PRAYUT (independent) was approved as prime minister by the parliament - 498 votes to 244 for THANATHON Chuengrungrueangkit (FFP)<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Assembly or Rathhasapha consists of:<br>Senate or Wuthissapha (250 seats; members appointed by the Royal Thai Army to serve 5-year terms)<br>House of Representatives or Saphaphuthan Ratsadon (500 seats; 375 members directly elected in single-seat constituencies by simple majority vote and 150 members elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: Senate - last held on 14 May 2019 (next to be held in 2024)<br> <br>House of Representatives - last held on 24 March 2019 (next to be held in 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 224, women 26, percent of women 10.4%<br>House of Representatives - percent of vote by party - PPRP 23.7%, PTP 22.2%, FFP 17.8%, DP 11.1%, PJT 10.5%, TLP 2.3%, CTP 2.2%, NEP 1.4%, PCC 1.4%, ACT 1.2%, PCP 1.2%,  other 5.1%; seats by party - PTP 136, PPRP 116, FFP 81, DP 53, PJT 51, CTP 10, TLP 10, PCC 7, PCP 5, NEP 6, ACT 5, other 20; composition - men 421, women 79, percent of women 15.8%; note - total National Assembly percent of women 14%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the court president, 6 vice presidents, 60-70 judges, and organized into 10 divisions); Constitutional Court (consists of the court president and 8 judges); Supreme Administrative Court (number of judges determined by Judicial Commission of the Administrative Courts)<br>
@@ -365,8 +365,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Michael HEATH (since August 2019)<br>
 _telephone_: [66] 2-205-4000<br>
 _embassy_: 95 Wireless Road, Bangkok 10330<br>
-_mailing address_: APO AP 96546<br>
+_mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
 _FAX_: [66] 2-205-4306<br>
+_email address_: ACSBkk@state.gov<br>
 _consulate(s) general_: Chiang Mai<br>
 
 **Flag description**<br>

@@ -328,17 +328,17 @@ _residency requirement for naturalization_: na<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
+
 **Executive branch**<br>
 _chief of state_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020); Prime Minister Mark PHILLIPS (since 2 August 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
 _elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president<br>
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>
@@ -362,8 +362,9 @@ _consulate(s) general_: New York<br>
 _chief of mission_: Ambassador Sarah-Ann LYNCH (since 13 March 2019)<br>
 _telephone_: [592] 225-4900 through 4909<br>
 _embassy_: US Embassy, 100 Young and Duke Streets, Kingston, Georgetown<br>
-_mailing address_: P. O. Box 10507, Georgetown; US Embassy, 3170 Georgetown Place, Washington DC 20521-3170<br>
+_mailing address_: 3170 Georgetown Place, Washington DC 20521-3170<br>
 _FAX_: [592] 225-8497<br>
+_email address_: acsgeorge@state.gov<br>
 
 **Flag description**<br>
 green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance; also referred to by its nickname The Golden Arrowhead<br>

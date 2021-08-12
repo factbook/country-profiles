@@ -86,7 +86,7 @@ Mestizo (mixed Amerindian and White) 69%, White 17%, Black 9%, Amerindian 5%<br>
 
 **Languages**<br>
 Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%; note - English and indigenous languages found on the Caribbean coast (2005 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 50%, Evangelical 33.2%, other 2.9%, none 0.7%, unspecified 13.2% (2017 est.)<br>
@@ -322,17 +322,17 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies and 20 members in a single nationwide constituency directly elected by proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
+_elections_: last held on 6 November 2016 (next to be held on 7 November 2021)<br>
+_election results_: percent of vote by party - NA; seats by party - FSLN 71, PLC 14, ALN 2, PLI 2, APRE 1, PC 1, YATAMA 1; composition - men 50, women 42, percent of women 45.7%<br>
+
 **Executive branch**<br>
 _chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017); note - the president is both chief of state and head of government<br>
 _head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits as of 2014); election last held on 6 November 2016 (next to be held on 7 November 2021)<br>
 _election results_: <br><em>2016:</em> Jose Daniel ORTEGA Saavedra reelected president; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br><br><em>2011:</em> Jose Daniel ORTEGA Saavedra reelected president; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 62.5%, Fabio GADEA Mantilla (PLI) 31%, Arnoldo ALEMAN (PLC) 5.9%, other 0.6%<br>
-
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies and 20 members in a single nationwide constituency directly elected by proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
-_elections_: last held on 6 November 2016 (next to be held on 7 November 2021)<br>
-_election results_: percent of vote by party - NA; seats by party - FSLN 71, PLC 14, ALN 2, PLI 2, APRE 1, PC 1, YATAMA 1; composition - men 50, women 42, percent of women 45.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
@@ -356,8 +356,9 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 _chief of mission_: Ambassador Kevin K. SULLIVAN (since 18 December 2018)<br>
 _telephone_: [505] 2252-7100, 2252-7888; 2252-7100 or 8767-7100 (after hours)<br>
 _embassy_: Kilometer 5.5 Carretera Sur, Managua<br>
-_mailing address_: American Embassy Managua, APO AA 34021<br>
+_mailing address_: 3240 Managua Place, Washington DC&nbsp; 20521-3240<br>
 _FAX_: [505] 2252-7250<br>
+_email address_: ACS.Managua@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br>

@@ -86,7 +86,7 @@ more than 200 African ethnic groups of which the majority are Bantu; the four la
 
 **Languages**<br>
 French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba<br>
-_printed major-language sample_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Buku oyo ya bosembo ya Mokili Mobimba Ezali na Makanisi ya Liboso Mpenza. (Lingala)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 29.9%, Protestant 26.7%, other Christian 36.5%, Kimbanguist 2.8%, Muslim 1.3%, other (includes syncretic sects and indigenous beliefs) 1.2%, none 1.3%, unspecified .2% (2014 est.)<br>
@@ -337,17 +337,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (108 seats; members indirectly elected by provincial assemblies by proportional representation vote; members serve 5-year terms)<br> <br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: Senate - last held on 19 January 2007 (follow-on election has been delayed)<br> National Assembly - last held on 30 December 2018<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition - men 103, women 5, percent of women 4.6%<br><br> National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 456, women 44, percent of women  8.8%; total Parliament percent of women 8.1%;note - the November 2011 election was marred by violence including the destruction of ballots in 2 constituencies resulting in the closure of polling sites; election results were delayed 3 months, strongly contested, and continue to be unresolved<br>
+
 **Executive branch**<br>
 _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Jean-Michel Sama Lukonde KYENGE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
 _election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (108 seats; members indirectly elected by provincial assemblies by proportional representation vote; members serve 5-year terms)<br> <br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 19 January 2007 (follow-on election has been delayed)<br> National Assembly - last held on 30 December 2018<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition - men 103, women 5, percent of women 4.6%<br><br> National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 456, women 44, percent of women  8.8%; total Parliament percent of women 8.1%;note - the November 2011 election was marred by violence including the destruction of ballots in 2 constituencies resulting in the closure of polling sites; election results were delayed 3 months, strongly contested, and continue to be unresolved<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
@@ -370,9 +370,10 @@ _representative office_: New York New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael A. HAMMER (since 22 December 2018)<br>
 _telephone_: [243] 081 556-0151<br>
-_embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
+_embassy_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _mailing address_: Unit 2220, DPO AE 09828<br>
 _FAX_: [243] 81 556-0175<br>
+_email address_: ACSKinshasa@state.gov<br>
 
 **Flag description**<br>
 sky blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow, five-pointed star appears in the upper hoist corner; blue represents peace and hope, red the blood of the country's martyrs, and yellow the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>

@@ -88,7 +88,7 @@ Han Chinese 91.6%, Zhuang 1.3%, other (includes Hui, Manchu, Uighur, Miao, Yi, T
 
 **Languages**<br>
 Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages (see Ethnic groups entry); note - Zhuang is official in Guangxi Zhuang, Yue is official in Guangdong, Mongolian is official in Nei Mongol, Uighur is official in Xinjiang Uygur, Kyrgyz is official in Xinjiang Uygur, and Tibetan is official in Xizang (Tibet)<br>
-_printed major-language sample_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 folk religion 21.9%, Buddhist 18.3%, Christian 5.2%, Muslim 2%, Hindu &lt; 0.1%, Jewish &lt; 0.1%, other 0.7% (includes Daoist (Taoist)), unaffiliated 51.8% (2020 est.)<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: while naturalization is theoreticall
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
+_elections_: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)<br>
+_election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President XI Jinping (since 14 March 2013); Vice President WANG Qishan (since 17 March 2018)<br>
 _head of government_: Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers HAN Zheng (since 19 March 2018), SUN Chunlan (since 19 March 2018), LIU He (since 19 March 2018), HU Chunhua (since 19 March 2018)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
 _elections/appointments_: president and vice president indirectly elected by National People's Congress for a 5-year term (no term limits); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress<br>
 _election results_: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
-
-**Legislative branch**<br>
-_description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
-_elections_: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)<br>
-_election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
@@ -366,8 +366,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - th
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David MEALE (since July 2021)<br>
 _telephone_: [86] (10) 8531-3000<br>
 _embassy_: 55 An Jia Lou Lu, Chaoyang District, 100600 Beijing<br>
-_mailing address_: PO AP 96521<br>
+_mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _FAX_: [86] (10) 8531-4200<br>
+_email address_: BeijingACS@state.gov<br>
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
 **Flag description**<br>

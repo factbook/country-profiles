@@ -86,7 +86,7 @@ non-Qatari 88.4%, Qatari 11.6% (2015 est.)<br>
 
 **Languages**<br>
 Arabic (official), English commonly used as a second language<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 65.2%, Christian 13.7%, Hindu 15.9%, Buddhist 3.8%, folk religion &lt;.1%, Jewish &lt;.1%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
@@ -302,16 +302,16 @@ _residency requirement for naturalization_: 20 years; 15 years if an Arab nation
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members&nbsp;appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura<br>
+_elections_: last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections<br>
+_election results_: NA; composition - men 41, women 4, percent of women 8.9%<br>
+
 **Executive branch**<br>
 _chief of state_: Amir TAMIM bin Hamad Al Thani (since 25 June 2013)<br>
 _head of government_: Prime Minister and Minister of Interior Sheikh KHALID ibn Khalifa ibn Abdul Aziz Al Thani (since 28 January 2020);&nbsp; Deputy Prime Minister and Minister of State for Defense Affairs KHALID bin Mohamed&nbsp;AL Attiyah (since 14 November 2017); Deputy Prime Minister and Minister of Foreign Affairs MOHAMED bin Abdulrahman Al Thani (since 14 November 2017)<br>
 _cabinet_: Council of Ministers appointed by the amir<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister appointed by the amir<br>
-
-**Legislative branch**<br>
-_description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members&nbsp;appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura<br>
-_elections_: last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections<br>
-_election results_: NA; composition - men 41, women 4, percent of women 8.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
@@ -335,8 +335,9 @@ _consulate(s) general_: Houston, Los Angeles<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Ambassador John DESROCHER (since 1 June 2021)<br>
 _telephone_: [974] 4496-6000<br>
 _embassy_: 22 February Street, Al Luqta District, P. O. Box 2399, Doha<br>
-_mailing address_: P. O. Box 2399, Doha<br>
+_mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _FAX_: [974] 4488-4298<br>
+_email address_: ACSDoha@state.gov<br>
 
 **Flag description**<br>
 maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br>

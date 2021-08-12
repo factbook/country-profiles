@@ -84,7 +84,7 @@ Mestizo (mixed Spanish and Amerindian) 95%, other 5%<br>
 
 **Languages**<br>
 Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other indigenous languages) 4.1% , no response 0.4%; note - data represent predominant household language (2012 est.)<br>
-_printed major-language sample_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 89.6%, Protestant 6.2%, other Christian 1.1%, other or unspecified 1.9%, none 1.1% (2002 est.)<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023)<br>Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023)<br>
+_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 36, women 9, percent of women 20%<br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 18.4%<br>
+
 **Executive branch**<br>
 _chief of state_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023)<br>
 _election results_: <br><em>2018:</em> Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 46.4%, Efrain ALEGRE (PLRA) 42.7%, Juan Bautista YBANEZ 3.3%, other 7.6%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
-
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br> Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023)<br> Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 36, women 9, percent of women 20%<br> Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 18.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -360,8 +360,9 @@ _consulate(s) general_: Los Angeles, Miami, New York<br>
 _chief of mission_: Ambassador Lee MCCLENNY (since&nbsp;20 February&nbsp;2018)<br>
 _telephone_: [595] (21) 213-715<br>
 _embassy_: 1776 Avenida Mariscal Lopez, Casilla Postal 402, Asuncion<br>
-_mailing address_: Unit 4711, DPO AA 34036-0001<br>
+_mailing address_: 3020 Asuncion Place, Washington DC&nbsp; 20521-3020<br>
 _FAX_: [595] (21) 213-728<br>
+_email address_: ParaguayACS@state.gov<br>
 
 **Flag description**<br>
 three equal, horizontal bands of red (top), white, and blue with an emblem centered in the white band; unusual flag in that the emblem is different on each side; the obverse (hoist side at the left) bears the national coat of arms (a yellow five-pointed star within a green wreath capped by the words REPUBLICA DEL PARAGUAY, all within two circles); the reverse (hoist side at the right) bears a circular seal of the treasury (a yellow lion below a red Cap of Liberty and the words PAZ Y JUSTICIA (Peace and Justice)); red symbolizes bravery and patriotism, white represents integrity and peace, and blue denotes liberty and generosity<br>

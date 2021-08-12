@@ -84,7 +84,7 @@ Czech 64.3%, Moravian 5%, Slovak 1.4%, other 1.8%, unspecified 27.5% (2011 est.)
 
 **Languages**<br>
 Czech (official) 95.4%, Slovak 1.6%, other 3% (2011 est.)<br>
-_printed major-language sample_: <br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>World Fackbook, nepostradatelný zdroj základních informací. (Czech)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 10.4%, Protestant (includes Czech Brethren and Hussite) 1.1%, other and unspecified 54%, none 34.5% (2011 est.)<br>
@@ -308,17 +308,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br><br>Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%<br>
+
 **Executive branch**<br>
 _chief of state_: President Milos ZEMAN (since 8 March 2013)<br>
 _head of government_: Prime Minister Andrej BABIS (since 13 December 2017); First Deputy Prime Minister Jan HAMACEK (since 27 June 2018), Deputy Prime Minister Alena SCHILLEROVA (since 30 April 2019)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term<br>
 _election results_: Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br><br>Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -342,8 +342,9 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer BACHUS (since January 2020)<br>
 _telephone_: [420] 257 022 000<br>
 _embassy_: Trziste 15, 118 01 Prague 1 - Mala Strana<br>
-_mailing address_: use embassy street address<br>
+_mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _FAX_: [420] 257 022 809<br>
+_email address_: ACSPrg@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>

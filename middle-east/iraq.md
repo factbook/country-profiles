@@ -86,7 +86,7 @@ Arab 75-80%, Kurdish 15-20%, other 5% (includes Turkmen, Yezidi, Shabak, Kaka'i,
 
 **Languages**<br>
 Arabic (official), Kurdish (official), Turkmen (a Turkish dialect), Syriac (Neo-Aramaic), and Armenian are official in areas where native speakers of these languages constitute a majority of the population<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، أحسن مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 95-98% (Shia 64-69%, Sunni 29-34%), Christian 1% (includes Catholic, Orthodox, Protestant, Assyrian Church of the East), other 1-4% (2015 est.)<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system<br>
+_elections_: last held on 12 May 2018 (next to be held on 10 October 2021)<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al&nbsp;Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%<br>
+
 **Executive branch**<br>
 _chief of state_: President Barham SALIH (since 2 October 2018); vice presidents (vacant)<br>
 _head of government_: Prime Minister Mustafa al-KADHIMI (since 7 May 2020)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives<br>
 _elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term);&nbsp;COR election last held on 12 May 2018 (next NA)<br>
 _election results_: <p>COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October</p><br>
-
-**Legislative branch**<br>
-_description_: unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system<br>
-_elections_: last held on 12 May 2018 (next to be held on 10 October 2021)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al&nbsp;Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
@@ -354,8 +354,9 @@ _consulate(s) general_: Detroit, Los Angeles<br>
 _chief of mission_: Ambassador Matthew TUELLER (since&nbsp;9&nbsp;June&nbsp;2019)<br>
 _telephone_: 0760-030-3000<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
-_mailing address_: APO AE 09316<br>
+_mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _FAX_: NA<br>
+_email address_: baghdadacs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>

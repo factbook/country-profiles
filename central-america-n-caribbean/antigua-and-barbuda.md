@@ -286,16 +286,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)<br>
+_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Rodney WILLIAMS (since 14 August 2014)<br>
 _head of government_: Prime Minister Gaston BROWNE (since 13 June 2014)<br>
 _cabinet_: Council of Ministers appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>
@@ -316,7 +316,7 @@ _FAX_: [1] (202) 362-5525<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda<br>
+_embassy_: the US does not have an embassy in Antigua and Barbuda; the US Ambassador to Barbados is accredited to Antigua and Barbuda; [1] (246) 227-4000<br>
 
 **Flag description**<br>
 red, with an inverted isosceles triangle based on the top edge of the flag; the triangle contains three horizontal bands of black (top), light blue, and white, with a yellow rising sun in the black band; the sun symbolizes the dawn of a new era, black represents the African heritage of most of the population, blue is for hope, and red is for the dynamism of the people; the "V" stands for victory; the successive yellow, blue, and white coloring is also meant to evoke the country's tourist attractions of sun, sea, and sand<br>

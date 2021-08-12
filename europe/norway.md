@@ -87,7 +87,7 @@ Norwegian 83.2% (includes about 60,000 Sami), other European 8.3%, other 8.5% (2
 
 **Languages**<br>
 Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities; note - Sami has three dialects: Lule, North Sami, and South Sami; Sami is an official language in nine municipalities in Norway's three northernmost counties: Finnmark, Nordland, and Troms<br>
-_printed major-language sample_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Church of Norway (Evangelical Lutheran - official) 68.1%, Muslim 3.4%, Roman Catholic 3.1%, other Christian 3.8%, other 9.6%, unspecified 15.4% (2020 est.)<br>
@@ -313,16 +313,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 11 September 2017 (next to be held on 13 September 2021)<br>
+_election results_: percent of vote by party - Ap 27.4%, H 25%, FrP 15.2%, SP 10.3%, SV 6%, V 4.4%, KrF 4.2%, MDG 3.2%, R 2.4%, other/invalid 1.9%; seats by party - Ap 49, H 45, FrP 27, SP 19, SV 11, V 8, KrF 8, MDG 1, R 1; composition - men 99, women 70, percent of women 41.4%<br>
+
 **Executive branch**<br>
 _chief of state_: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)<br>
 _head of government_: Prime Minister Erna SOLBERG (since 16 October 2013)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 September 2017 (next to be held on 13 September 2021)<br>
-_election results_: percent of vote by party - Ap 27.4%, H 25%, FrP 15.2%, SP 10.3%, SV 6%, V 4.4%, KrF 4.2%, MDG 3.2%, R 2.4%, other/invalid 1.9%; seats by party - Ap 49, H 45, FrP 27, SP 19, SV 11, V 8, KrF 8, MDG 1, R 1; composition - men 99, women 70, percent of women 41.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -346,8 +346,9 @@ _consulate(s) general_: Houston, New York, San Francisco<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Richard RILEY (since 17 September 2018)<br>
 _telephone_: [47] 21-30-85-40<br>
 _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
-_mailing address_: PO Box 4075 AMB 0244 Oslo<br>
+_mailing address_: 5460 Oslo Place,&nbsp; Washington DC&nbsp; 20521-5460<br>
 _FAX_: [47] 22-44-33-63, 22-56-27-51<br>
+_email address_: osloacs@state.gov<br>
 
 **Flag description**<br>
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>
@@ -676,7 +677,6 @@ Norwegian Armed Forces:&nbsp; Norwegian Army (Haeren), Royal Norwegian Navy (Kon
 
 **Military and security service personnel strengths**<br>
 the Norwegian Armed Forces have approximately 23,000 active personnel (8,500 Army; 3,500 Navy; 3,500 Air Force; 7,500 other, including special operations, cyber, joint staff, intelligence, logistics support, active Home Guard, etc.); 40,000 Home Guard (2021)<br>
-note: the Home Guard has approximately 40,000 total personnel<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Norwegian Armed Forces inventory includes mostly imported European and US weapons systems, as well as a limited mix of domestically-produced equipment, particularly small naval craft; since 2010, the US is the leading supplier of weapons systems to Norway, followed by a variety of other countries, including France, Italy, South Korea, and Spain (2020)<br>

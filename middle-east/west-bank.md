@@ -75,7 +75,7 @@ landlocked; highlands are main recharge area for Israel's coastal aquifers; ther
 
 **Population**<br>
 2,949,246 (July 2021 est.)<br>
-<strong>note:</strong> approximately 418,600 Israeli settlers live in the West Bank (2018); approximately 215,900 Israeli settlers live in East Jerusalem (2017)<br>
+<strong>note:</strong> approximately 432,000 Israeli settlers live in the West Bank (2019); approximately 227,100 Israeli settlers live in East Jerusalem (2019)<br>
 
 **Nationality**<br>
 _noun_: NA<br>
@@ -86,7 +86,7 @@ Palestinian Arab, Jewish, other<br>
 
 **Languages**<br>
 Arabic, Hebrew (spoken by Israeli settlers and many Palestinians), English (widely understood)<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 80-85% (predominantly Sunni), Jewish 12-14%, Christian 1-2.5% (mainly Greek Orthodox), other, unaffiliated, unspecified &lt;1% (2012 est.)<br>

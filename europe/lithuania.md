@@ -84,7 +84,7 @@ Lithuanian 84.1%, Polish 6.6%, Russian 5.8%, Belarusian 1.2%, other 1.1%, unspec
 
 **Languages**<br>
 Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.)<br>
-_printed major-language sample_: <br>Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Pasaulio enciklopedija – naudingas bendrosios informacijos šaltinis. (Lithuanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Roman Catholic 77.2%, Russian Orthodox 4.1%, Old Believer 0.8%, Evangelical Lutheran 0.6%, Evangelical Reformist 0.2%, other (including Sunni Muslim, Jewish, Greek Catholic, and Karaite) 0.8%, none 6.1%, unspecified 10.1% (2011 est.)<br>
@@ -317,17 +317,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 103, women 38, percent of women 27%<br>
+
 **Executive branch**<br>
 _chief of state_: President Gitanas NAUSEDA (since 12 July 2019)<br>
 _head of government_: Prime Minister Ingrida SIMONYTE (since 24 November 2020)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, appointed by the president, and approved by Parliament<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 12 and 26 May 2019 (next to be held in May 2024); prime minister appointed by the president, approved by Parliament<br>
 _election results_: Gitanas NAUSEDA elected president in second round; percent of vote - Gitanas NAUSEDA (independent) 66.7%, Ingrida SIMONYTE (independent) 33.3%; Saulius SKVERNELIS (LVZS) approved as prime minister by Parliament vote - 62 to 10<br>
-
-**Legislative branch**<br>
-_description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 103, women 38, percent of women 27%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>
@@ -350,9 +350,10 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Robert S. GILCHRIST (since 4 February 2020)<br>
 _telephone_: [370] (5) 266-5500<br>
-_embassy_: Akmenu gatve 6, Vilnius, LT-03106<br>
+_embassy_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
 _mailing address_: American Embassy, Akmenu Gatve 6, Vilnius LT-03106<br>
 _FAX_: [370] (5) 266-5510<br>
+_email address_: consec@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>

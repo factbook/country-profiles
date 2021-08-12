@@ -88,7 +88,7 @@ predominantly Arab; but also Afro-Arab, South Asian, European<br>
 
 **Languages**<br>
 Arabic (official); note - a distinct Socotri language is widely used on Socotra Island and Archipelago; Mahri is still fairly widely spoken in eastern Yemen<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 99.1% (official; virtually all are citizens, an estimated 65% are Sunni and 35% are Shia), other 0.9% (includes Jewish, Baha'i, Hindu, and Christian; many are refugees or temporary foreign residents) (2020 est.)<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br> House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
+_elections_: <br>House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)<br>
+_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
+
 **Executive branch**<br>
 _chief of state_: President Abd Rabuh Mansur HADI (since 21 February 2012); Vice President ALI MUHSIN al-Ahmar, Lt. Gen. (since 3 April 2016)<br>
 _head of government_: Prime Minister Maeen Abd al-Malik SAEED (since 15 October 2018)<br>
 _cabinet_: appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: Abd Rabuh Mansur HADI (GPC) elected as a consensus president with about 50% popular participation; no other candidates<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br> House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
-_elections_: <br>House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)<br>
-_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, 2 deputies, and nearly 50 judges; court organized into constitutional, civil, commercial, family, administrative, criminal, military, and appeals scrutiny divisions)<br>
@@ -368,8 +368,9 @@ _FAX_: [1] (202) 337-2017<br>
 _chief of mission_: ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cathy WESTLEY; note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh<br>
 _telephone_: US Embassy Riyadh [966] 11-488-3800<br>previously - [967] 1 755-2000<br>
 _embassy_: previously - Sa'awan Street, Sanaa<br>
-_mailing address_: US Embassy Riyadh<br>previously - US Embassy in Sana'a<br>Address: Sa’awan Street<br>P.O. Box 22347<br>
+_mailing address_: 6330 Sanaa Place, Washington DC&nbsp; 20521-6330<br>
 _FAX_: US Embassy Riyadh [966] 11-488-7360<br>
+_email address_: YemenEmergencyUSC@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>

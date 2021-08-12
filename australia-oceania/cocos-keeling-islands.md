@@ -81,7 +81,7 @@ Europeans, Cocos Malays<br>
 
 **Languages**<br>
 Malay (Cocos dialect) 68.8%, English 22.3%, unspecified 8.9%; note - data represent language spoken at home (2016 est.)<br>
-_printed major-language sample_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (predominantly Sunni) 75%, Anglican 3.5%, Roman Catholic 2.2%, none 12.9%, unspecified 6.3% (2016 est.)<br>
@@ -176,16 +176,16 @@ see Australia<br>
 **Suffrage**<br>
 18 years of age<br>
 
+**Legislative branch**<br>
+_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)<br>
+_elections_: last held in October 2017 (next to be held on 31 October 2019)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%<br>
+
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
 _head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia<br>
-
-**Legislative branch**<br>
-_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)<br>
-_elections_: last held in October 2017 (next to be held on 31 October 2019)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>

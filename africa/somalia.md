@@ -86,7 +86,7 @@ Somali 85%, Bantu and other non-Somali 15% (including 30,000 Arabs)<br>
 
 **Languages**<br>
 Somali (official, according to the 2012 Transitional Federal Charter), Arabic (official, according to the 2012 Transitional Federal Charter), Italian, English<br>
-_printed major-language sample_: <br>Buugga Xaqiiqda Aduunka, waa laga maarmaanka macluumaadka assasiga. (Somali)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Buugga Xaqiiqda Aduunka, waa laga maarmaanka macluumaadka assasiga. (Somali)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Sunni Muslim (Islam) (official, according to the 2012 Transitional Federal Charter)<br>
@@ -306,18 +306,18 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Legislative branch**<br>
+_description_: bicameral Federal Parliament to consist of:<br>Upper House (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
+_elections_: <br>Upper House - first held on 10 October 2016 (next to be held in November 2020)<br>House of the People - first held 23 October - 10 November 2016 (next to be held in November 2020)<br>
+_election results_: <br>Upper House - percent of vote by party - NA; seats by party - NA; composition - men 41, women 13, percent of women 24.1%<br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 208, women 67, percent of women 24.4%; note - total Parliament percent of women 24.3%<br>
+<strong>note:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with elections scheduled for 10 October 2016 for the Upper House and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People members were sworn in<br>
+
 **Executive branch**<br>
 _chief of state_: President Mohamed ABDULLAHI Mohamed "Farmaajo" (since 8 February 2017)<br>
 _head of government_: Prime Minister Mohamed Hussein ROBLE (since 27 September 2020)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by the House of the People<br>
 _elections/appointments_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 8 February 2017 (next election delayed until 10 October 2021); prime minister appointed by the president, approved by the House of the People<br>
 _election results_: Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament second round vote - Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 184, HASSAN SHEIKH Mohamud (PDP) 97, Sheikh SHARIF Sheikh Ahmed (ARS) 46<br>
-
-**Legislative branch**<br>
-_description_: bicameral Federal Parliament to consist of:<br>Upper House (54 seats; senators indirectly elected by state assemblies to serve 4-year terms)<br>House of the People (275 seats; members indirectly elected by electoral colleges, each consisting of 51 delegates selected by the 136 Traditional Elders in consultation with sub-clan elders; members serve 4-year terms)<br>
-_elections_: <br>Upper House - first held on 10 October 2016 (next to be held in November 2020)<br>House of the People - first held 23 October - 10 November 2016 (next to be held in November 2020)<br>
-_election results_: <br>Upper House - percent of vote by party - NA; seats by party - NA; composition - men 41, women 13, percent of women 24.1%<br>House of the People - percent of vote by party - NA; seats by party - NA; composition - men 208, women 67, percent of women 24.4%; note - total Parliament percent of women 24.3%<br>
-<strong>note:</strong> the inaugural House of the People was appointed in September 2012 by clan elders; in 2016 and 2017, the Federal Parliament became bicameral with elections scheduled for 10 October 2016 for the Upper House and 23 October to 10 November 2016 for the House of the People; while the elections were delayed, they were eventually held in most regions despite voting irregularities; on 27 December 2016, 41 Upper House senators and 242 House of the People members were sworn in<br>
 
 **Judicial branch**<br>
 _highest courts_: the provisional constitution stipulates the establishment of the Constitutional Court (consists of 5 judges, including the chief judge and deputy chief judge); note - under the terms of the 2004 Transitional National Charter, a Supreme Court based in Mogadishu and the Appeal Court were established; yet most regions have reverted to local forms of conflict resolution, either secular, traditional Somali customary law, or Islamic law<br>

@@ -88,7 +88,7 @@ Egyptian 99.7%, other 0.3% (2006 est.)<br>
 
 **Languages**<br>
 Arabic (official), English, and French widely understood by educated classes<br>
-_printed major-language sample_: <br>كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10% (2015 est.)<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (Majlis Al-Shiyoukh) (300 seats; 100 members elected in single seat constituencies, 100 elected by closed party-list system, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 <br>House of Representatives (Majlis Al-Nowaab) (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
+_elections_: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round to be held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held from 17 October to 2 December 2015 (next to be held 24-25 October and 7-8 November 2020)<br>
+_election results_: Senate first round results - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - NA  <br>House of Representatives (2015) - percent of vote by party - NA; seats by party - Free Egyptians Party 65, Future of the Nation 53, New Wafd Party 36, Homeland's Protector Party 18, Republican People's Party 13, Congress Party 12, Al-Nour Party 11, Conservative Party 6, Democratic Peace Party 5, Egyptian National Movement 4, Egyptian Social Democratic Party 4, Modern Egypt Party 4, Freedom Party 3, My Homeland Egypt Party 3, Reform and Development Party 3, National Progressive Unionist Party 2, Arab Democratic Nasserist Party 1, El Serh El Masry el Hor 1, Revolutionary Guards Party 1, independent 351; composition - men 507, women 89, percent of women 14.9%<br>
+
 **Executive branch**<br>
 _chief of state_: President Abdelfattah ELSISI (since 8 June 2014)<br>
 _head of government_: Prime Minister Mostafa MADBOULY (since 7 June 2018)<br>
 _cabinet_: Cabinet ministers nominated by the executive branch and approved by the House of Representatives<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for 3 consecutive terms); election last held on 26-28 March 2018 (next to be held in 2024); prime minister appointed by the president, approved by the House of Representatives; note - following&nbsp; a constitutional amendment approved by referendum in April 2019, the presidential term was extended from 4 to 6 years and eligibility extended to 3 consecutive terms<br>
 _election results_: Abdelfattah ELSISI reelected president in first round; percent of valid votes cast - Abdelfattah ELSISI (independent) 97.1%, Moussa Mostafa MOUSSA (El Ghad Party) 2.9%; note - more than 7% of ballots cast were deemed invalid<br>
-
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (Majlis Al-Shiyoukh) (300 seats; 100 members elected in single seat constituencies, 100 elected by closed party-list system, and 100 appointed by the president; note - the upper house, previously the Shura Council, was eliminated in the 2014 constitution, reestablished as the Senate, following passage in a 2019 constitutional referendum and approved by the House of Representatives in June 2020 <br>House of Representatives (Majlis Al-Nowaab) (596 seats; 448 members directly elected by individual candidacy system, 120 members - with quotas for women, youth, Christians and workers - elected in party-list constituencies by simple majority popular vote, and 28 members appointed by the president; members of both houses serve 5-year terms<br>
-_elections_: Senate - first round held on 11-12 August 2020 (9-10 August for diaspora); second round to be held on 8-9 September (6-7 September for diaspora) (next to be held in 2025)<br>House of Representatives - last held from 17 October to 2 December 2015 (next to be held 24-25 October and 7-8 November 2020)<br>
-_election results_: Senate first round results - percent of vote by party - NA; seats by party - Nation's Future Party 100, independent 100; composition - NA  <br>House of Representatives (2015) - percent of vote by party - NA; seats by party - Free Egyptians Party 65, Future of the Nation 53, New Wafd Party 36, Homeland's Protector Party 18, Republican People's Party 13, Congress Party 12, Al-Nour Party 11, Conservative Party 6, Democratic Peace Party 5, Egyptian National Movement 4, Egyptian Social Democratic Party 4, Modern Egypt Party 4, Freedom Party 3, My Homeland Egypt Party 3, Reform and Development Party 3, National Progressive Unionist Party 2, Arab Democratic Nasserist Party 1, El Serh El Masry el Hor 1, Revolutionary Guards Party 1, independent 351; composition - men 507, women 89, percent of women 14.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Constitutional Court (SCC) (consists of the court president and 10 justices); the SCC serves as the final court of arbitration on the constitutionality of laws and conflicts between lower courts regarding jurisdiction and rulings; Court of Cassation (CC) (consists of the court president and 550 judges organized in circuits with cases heard by panels of 5 judges); the CC is the highest appeals body for civil and criminal cases, also known as "ordinary justices"; Supreme Administrative Court (SAC) (consists of the court president and NA judges and organized in circuits with cases heard by panels of 5 judges); the SAC is the highest court of the State Council<br>
@@ -363,8 +363,9 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 _chief of mission_: Ambassador Jonathan R. COHEN (since 17 November 2019)<br>
 _telephone_: [20-2] 2797-3300<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
-_mailing address_: Unit 64900, Box 15, APO AE 09839-4900; 5 Tawfik Diab Street, Garden City, Cairo<br>
+_mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _FAX_: [20-2] 2797-3200<br>
+_email address_: ConsularCairoACS@state.gov<br>
 _consulate(s) general_: Alexandria<br>
 
 **Flag description**<br>
@@ -715,7 +716,7 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 18-30 years of age for male conscript military service; service obligation - 18-36 months, followed by a 9-year reserve obligation; voluntary enlistment possible from age 15 (2019)<br>
 
 **Military - note**<br>
-<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of early 2020, Egypt reportedly had over 40,000 troops plus thousands of police and other security personnel deployed to the Sinai for internal security duties<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing</p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between the Arab Republic of Egypt and the State of Israel; it is composed of about 1,150 troops from 13 countries (2020)<br>
+<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of early 2020, Egypt reportedly had over 40,000 troops plus thousands of police and other security personnel deployed to the Sinai for internal security duties<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing</p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between the Arab Republic of Egypt and the State of Israel; it is composed of about 1,150 troops from 13 countries<br>
 
 ## Terrorism
 
