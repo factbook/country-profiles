@@ -373,11 +373,11 @@ _consulate(s)_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Geeta PASI (since 1 March 2021)<br> <p> </p><br>
-_telephone_: [251] 11 130-6000<br>
 _embassy_: Entoto Street, P.O. Box 1014, Addis Ababa<br>
 _mailing address_: 2030 Addis Ababa Place, Washington DC&nbsp; 20521-2030<br>
-_FAX_: [251] 11 124-2401<br>
-_email address_: AddisACS@state.gov<br>
+_telephone_: [251] 111-30-60-00<br>
+_FAX_: [251] 111-24-24-01<br>
+_email address and website_: AddisACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br>
@@ -725,7 +725,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 372,961 (South Sudan), 211,092 (Somalia), 172,768 (Eritrea), 45,648 (Sudan) (2021)<br>
+_refugees (country of origin)_: 374,680 (South Sudan), 212,236 (Somalia), 172,768 (Eritrea), 45,648 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

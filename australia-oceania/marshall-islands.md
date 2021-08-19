@@ -336,11 +336,11 @@ _consulate(s)_: Agana (Guam)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Roxanne CABRAL (since 6 February 2020)<br>
-_telephone_: [692] 247-4011<br>
-_embassy_: Oceanside, Mejen Weto, Long Island, Majuro<br>
+_embassy_: Mejen Weto, Ocean Side, Majuro<br>
 _mailing address_: 4380 Majuro Place, Washington DC&nbsp; 20521-4380<br>
+_telephone_: [692] 247-4011<br>
 _FAX_: [692] 247-4012<br>
-_email address_: MAJConsular@state.gov<br>
+_email address and website_: MAJConsular@state.gov<br>
 
 **Flag description**<br>
 blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north<br>

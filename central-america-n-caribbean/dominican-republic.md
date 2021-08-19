@@ -362,11 +362,10 @@ _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Robert W. THOMAS (since 20 January 2021)<br>
-_telephone_: [1] (809) 567-7775<br>
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
-_FAX_: [1] (809) 686-7437<br>
-_email address_: SDOAmericans@state.gov<br>
+_telephone_: (809) 567-7775<br>
+_email address and website_: SDOAmericans@state.gov<br>
 
 **Flag description**<br>
 a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>

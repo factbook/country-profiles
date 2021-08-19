@@ -345,11 +345,11 @@ _consulate(s) general_: Glendale (CA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Lynne M. TRACEY (since 5 March 2019)<br>
-_telephone_: [374] (10) 464-700<br>
 _embassy_: <p>1 American Ave., Yerevan 0082</p><br>
 _mailing address_: 7020 Yerevan Place, Washington, DC&nbsp; 20521-7020<br>
+_telephone_: [374] (10) 464-700<br>
 _FAX_: [374] (10) 464-742<br>
-_email address_: acsyerevan@state.gov<br>
+_email address and website_: acsyerevan@state.gov<br><br>https://am.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), blue, and orange; the color red recalls the blood shed for liberty, blue the Armenian skies as well as hope, and orange the land and the courage of the workers who farm it<br>

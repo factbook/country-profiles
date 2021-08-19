@@ -356,12 +356,12 @@ _FAX_: [1] (202) 483-8413<br>
 _consulate(s) general_: Houston, Miami, Los Angeles, New Orleans, New York, Philadelphia, Tampa, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant), Charge d'Affairs Roxanne CABRAL (since 9 March 2018)<br>
+_chief of mission_: Ambassador (vacant), Charge d'Affairs Steward TUTTLE (since August 2020)<br>
+_embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
+_mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
-_embassy_: 9100 Panama City Place, Washington DC&nbsp; 20521-9100<br>
-_mailing address_: American Embassy Panama, Unit 0945, APO AA 34002; American Embassy Panama, 9100 Panama City PL, Washington, DC 20521-9100<br>
-_FAX_: [507] 317-5445 (2018)<br>
-_email address_: Panama-ACS@state.gov<br>
+_FAX_: [507] 317-5568 (2018)<br>
+_email address and website_: Panama-ACS@state.gov<br>
 
 **Flag description**<br>
 divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center; the blue and red colors are those of the main political parties (Conservatives and Liberals respectively) and the white denotes peace between them; the blue star stands for the civic virtues of purity and honesty, the red star signifies authority and law<br>

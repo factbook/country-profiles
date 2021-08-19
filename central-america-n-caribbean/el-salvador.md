@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Asamblea Legislativa (84 seats; members directly elected in multi-seat constituencies and a single nationwide constituency by proportional representation vote to serve 3-year terms)<br>
 _elections_: last held on 28 February 2021 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1<br>
+_election results_: percent of vote by party - NI 66.46%, ARENA 12.18%, FMLN 6.91%, GANA 5.29%, PCN 4.08%, NT 1.7%, PDC 1.7%, V 1.01%; seats by party - NI 56, ARENA 14, GANA 5, FMLN 4, PCN 2, PDC 1, NT 1, V 1; composition - men 61, women 23, percent of women 27.4%<br>
 
 **Executive branch**<br>
 _chief of state_: President Nayib Armando BUKELE Ortez (since 1 June 2019); Vice President Felix Augusto Antonio ULLOA Garay (since 1 June 2019); note - the president is both chief of state and head of government<br>
@@ -360,11 +360,11 @@ _consulate(s)_: Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jean MANES (since 1 June 2021)<br>
-_telephone_: [503] 2501-2999<br>
 _embassy_: Final Boulevard Santa Elena, Antiguo Cuscatlan, La Libertad, San Salvador<br>
 _mailing address_: 3450 San Salvador Place, Washington, DC 20521-3450<br>
+_telephone_: [503] 2501-2999<br>
 _FAX_: [503] 2501-2150<br>
-_email address_: ACSSanSal@state.gov<br>
+_email address and website_: ACSSanSal@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of cobalt blue (top), white, and cobalt blue with the national coat of arms centered in the white band; the coat of arms features a round emblem encircled by the words REPUBLICA DE EL SALVADOR EN LA AMERICA CENTRAL; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water, as well as peace and prosperity<br>

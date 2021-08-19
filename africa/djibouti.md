@@ -350,12 +350,12 @@ _telephone_: [1] (202) 331-0270<br>
 _FAX_: [1] (202) 331-0302<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jonathan PRATT (since 22 February 2021)<br>
-_telephone_: [253] 21 45 30 00<br>
-_embassy_: Lot 350-B, Haramouss B.P. 185<br>
+_chief of mission_: Ambassador Jonathan Goodale PRATT (since 22 February 2021)<br>
+_embassy_: Lot 350-B Haramouss, B.P. 185<br>
 _mailing address_: 2150 Djibouti Place, Washington DC&nbsp; 20521-2150<br>
-_FAX_: [253] 21 45 31 29<br>
-_email address_: DjiboutiACS@state.gov<br>
+_telephone_: [253] 21-45-30-00<br>
+_FAX_: [253] 21-45-31-29<br>
+_email address and website_: DjiboutiACS@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity<br>

@@ -352,11 +352,11 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York,
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires MaryKay CARLSON (since 20 January 2021)<br>
+_embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
+_mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
-_embassy_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
-_mailing address_: international mail: use embassy street address; APO address: US Embassy Buenos Aires, Unit 4334, APO AA 34034<br>
 _FAX_: [54] (11) 5777-4240<br>
-_email address_: buenosaires-acs@state.gov<br>
+_email address and website_: buenosaires-acs@state.gov<br><br>https://ar.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>

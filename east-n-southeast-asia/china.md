@@ -356,7 +356,7 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D'Affaires Ad Interim LI Kexin (since 24 June 2021)<br>
+_chief of mission_: Ambassador QIN Gangas (since August 2021)<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>
@@ -364,11 +364,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - th
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires David MEALE (since July 2021)<br>
-_telephone_: [86] (10) 8531-3000<br>
-_embassy_: 55 An Jia Lou Lu, Chaoyang District, 100600 Beijing<br>
+_embassy_: 55 An Jia Lou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
+_telephone_: [86] (10) 8531-3000<br>
 _FAX_: [86] (10) 8531-4200<br>
-_email address_: BeijingACS@state.gov<br>
+_email address and website_: BeijingACS@state.gov<br>
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
 **Flag description**<br>

@@ -354,11 +354,11 @@ _FAX_: [1] (202) 234-6815<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Rebecca E. GONZALES (since 8 February 2018)<br>
-_telephone_: [266] 22 312 666<br>
-_embassy_: 254 Kingsway Road, Maseru West<br>
+_embassy_: 254 Kingsway Avenue, Maseru<br>
 _mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
-_FAX_: [266] 22 310 116<br>
-_email address_: USConsularMaseru@state.gov<br>
+_telephone_: [266] 22312666<br>
+_FAX_: [266] 22310116<br>
+_email address and website_: USConsularMaseru@state.gov<br>
 
 **Flag description**<br>
 three horizontal stripes of blue (top), white, and green in the proportions of 3:4:3; the colors represent rain, peace, and prosperity respectively; centered in the white stripe is a black Basotho hat representing the indigenous people; the flag was unfurled in October 2006 to celebrate 40 years of independence<br>

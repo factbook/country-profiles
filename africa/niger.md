@@ -368,11 +368,11 @@ _FAX_: [1] (202) 483-3169<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric P. WHITAKER (since 26 January 2018)<br>
-_telephone_: [227] 20-72-26-61<br>
-_embassy_: BP 11201, Rue Des Ambassades, Niamey<br>
+_embassy_: BP 11201, Niamey<br>
 _mailing address_: 2420 Niamey Place, Washington DC&nbsp; 20521-2420<br>
+_telephone_: [227] 20-72-26-61<br>
 _FAX_: [227] 20-73-55-60<br>
-_email address_: consulateniamey@state.gov<br>
+_email address and website_: consulateniamey@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of orange (top), white, and green with a small orange disk centered in the white band; the orange band denotes the drier northern regions of the Sahara; white stands for purity and innocence; green symbolizes hope and the fertile and productive southern and western areas, as well as the Niger River; the orange disc represents the sun and the sacrifices made by the people<br>

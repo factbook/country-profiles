@@ -366,11 +366,11 @@ _consulate(s)_: Boston, Chicago, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Philip S. GOLDBERG (since 19 September 2019)<br>
-_telephone_: [57] (1) 275-2000<br>
 _embassy_: Carrera 45, No. 24B-27, Bogota<br>
 _mailing address_: 3030 Bogota Place, Washington DC&nbsp; 20521-3030<br>
+_telephone_: [57] (1) 275-2000<br>
 _FAX_: [57] (1) 275-4600<br>
-_email address_: ACSBogota@state.gov<br>
+_email address and website_: ACSBogota@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity<br>

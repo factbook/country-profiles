@@ -364,12 +364,12 @@ _FAX_: [1] (202) 775-5365<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: <p>Ambassador Sung Y. KIM (October 2020)</p><br>
-_telephone_: [62] (21) 3435-9000 (2020)<br>
-_embassy_: Jalan Medan Merdeka Selatan 3-5, Jakarta 10110<br>
+_chief of mission_: <p>Ambassador Sung Y. KIM (since 21 October 2020)</p><br>
+_embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 8200<br>
-_FAX_: [62] (21) 2395-1697 (2018)<br>
-_email address_: jakartaacs@state.gov<br>
+_telephone_: [62] (21) 5083-1000 (2020)<br>
+_FAX_: [62] (21) 385-7189 (2018)<br>
+_email address and website_: jakartaacs@state.gov<br>
 _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 

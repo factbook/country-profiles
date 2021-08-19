@@ -366,12 +366,12 @@ _telephone_: [1] (202) 293-7146<br>
 _FAX_: [1] (202) 835-0245<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;Dennis W. HEARNE&nbsp;(since&nbsp;22 February 2019)<br>
-_telephone_: [258] (21) 49 2797<br>
-_embassy_: Avenida Kenneth Kuanda 193, Caixa Postal, 783, Maputo<br>
+_chief of mission_: Ambassador Dennis Walter HEARNE (since 3 April 2019)<br>
+_embassy_: Avenida Kenneth Kaunda, 193, Caixa Postal, 783, Maputo<br>
 _mailing address_: 2330 Maputo Place, Washington DC&nbsp; 20521-2330<br>
-_FAX_: [258] (21) 49 0114<br>
-_email address_: consularmaputos@state.gov<br>
+_telephone_: [258] (21) 49-27-97<br>
+_FAX_: [258] (21) 49-01-14<br>
+_email address and website_: consularmaputos@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), black, and yellow with a red isosceles triangle based on the hoist side; the black band is edged in white; centered in the triangle is a yellow five-pointed star bearing a crossed rifle and hoe in black superimposed on an open white book; green represents the riches of the land, white peace, black the African continent, yellow the country's minerals, and red the struggle for independence; the rifle symbolizes defense and vigilance, the hoe refers to the country's agriculture, the open book stresses the importance of education, and the star represents Marxism and internationalism<br>

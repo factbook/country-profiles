@@ -341,11 +341,11 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Ian CAMPBELL (since 14 January 2021)<br>
-_telephone_: [358] (9) 6162-50<br>
-_embassy_: Itainen Puistotie 14B, 00140 Helsinki<br>
+_embassy_: Itainen Puistotie 14 B, 00140 Helsinki<br>
 _mailing address_: 5310 Helsinki Place, Washington DC&nbsp; 20521-5310<br>
-_FAX_: [358] (9) 6162-5135<br>
-_email address_: HelsinkiACS@state.gov<br>
+_telephone_: [358] (9) 616-250<br>
+_FAX_: [358] (9) 174-681<br>
+_email address and website_: HelsinkiACS@state.gov<br>
 
 **Flag description**<br>
 white with a blue cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the blue represents the thousands of lakes scattered across the country, while the white is for the snow that covers the land in winter<br>

@@ -355,11 +355,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Mark FLEMING (since May 2021)<br>
-_telephone_: [385] (1) 661-2200<br>
-_embassy_: 2 Thomas Jefferson Street, 10010 Zagreb<br>
+_embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
-_FAX_: [385] (1) 661-2373<br>
-_email address_: ZagrebACS@state.gov<br>
+_telephone_: [385] (1) 661-2200<br>
+_FAX_: [385] (1) 661-8933<br>
+_email address and website_: ZagrebACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>

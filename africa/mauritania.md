@@ -362,11 +362,11 @@ _FAX_: [1] (202) 319-2623<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>
-_telephone_: [222] 4525-2660 or [222] 2660-2663<br>
-_embassy_: Avenue Al Quds, Nouadhibou, Nouadhibou Road, Nouakchott<br><br>  <br>
+_embassy_: Nouadhibou Road, Avenue Al Quds, NOT PRTZ, Nouakchott<br><br>  <br>
 _mailing address_: 2430 Nouakchott Place, Washington DC&nbsp; 20521-2430<br>
+_telephone_: [222] 4525-2660<br>
 _FAX_: [222] 4525-1592<br>
-_email address_: ConsularNKC@state.gov<br>
+_email address and website_: consularnkc@state.gov<br>
 
 **Flag description**<br>
 green with a yellow, five-pointed star between the horns of a yellow, upward-pointing crescent moon; red stripes along the top and bottom edges; the crescent, star, and color green are traditional symbols of Islam; green also represents hope for a bright future; the yellow color stands for the sands of the Sahara; red symbolizes the blood shed in the struggle for independence<br>

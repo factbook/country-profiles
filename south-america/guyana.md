@@ -360,11 +360,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sarah-Ann LYNCH (since 13 March 2019)<br>
-_telephone_: [592] 225-4900 through 4909<br>
-_embassy_: US Embassy, 100 Young and Duke Streets, Kingston, Georgetown<br>
+_embassy_: 100 Young and Duke Streets, Kingston, Georgetown<br>
 _mailing address_: 3170 Georgetown Place, Washington DC 20521-3170<br>
+_telephone_: [592] 225-4900 through 4909<br>
 _FAX_: [592] 225-8497<br>
-_email address_: acsgeorge@state.gov<br>
+_email address and website_: acsgeorge@state.gov<br>
 
 **Flag description**<br>
 green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance; also referred to by its nickname The Golden Arrowhead<br>

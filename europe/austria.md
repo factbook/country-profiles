@@ -341,11 +341,11 @@ _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant), Mario MESQUITA (since 12 July 2021)<br>
-_telephone_: [43] (1) 31339-0<br>
 _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
-_FAX_: [43] (1) 310 06 82<br>
-_email address_: ConsulateVienna@state.gov<br>
+_telephone_: [43] (1) 31339-0<br>
+_FAX_: [43] (1) 310-06-82<br>
+_email address and website_: ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner<br>

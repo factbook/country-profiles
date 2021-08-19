@@ -361,12 +361,13 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los An
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Douglas A. KONEFF (since July 2021)<br>
-_telephone_: [55] (61) 3312-7000<br>
 _embassy_: SES - Avenida das Nacoes, Quadra 801, Lote 3, 70403-900 - Brasilia, DF<br>
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
+_telephone_: [55] (61) 3312-7000<br>
 _FAX_: [55] (61) 3225-9136<br>
-_email address_: BrasilliaACS@state.gov<br>
-_consulate(s) general_: Belo Horizonte, Recife, Porto Alegre, Rio de Janeiro, Sao Paulo<br>
+_email address and website_: BrasilliaACS@state.gov<br><br>https://br.usembassy.gov/<br>
+_consulate(s) general_: Recife, Porto Alegre, Rio de Janeiro, Sao Paulo<br>
+_branch office(s)_: Belo Horizonte<br>
 
 **Flag description**<br>
 green with a large yellow diamond in the center bearing a blue celestial globe with 27 white five-pointed stars; the globe has a white equatorial band with the motto ORDEM E PROGRESSO (Order and Progress); the current flag was inspired by the banner of the former Empire of Brazil (1822-1889); on the imperial flag, the green represented the House of Braganza of Pedro I, the first Emperor of Brazil, while the yellow stood for the Habsburg Family of his wife; on the modern flag the green represents the forests of the country and the yellow rhombus its mineral wealth (the diamond shape roughly mirrors that of the country); the blue circle and stars, which replaced the coat of arms of the original flag, depict the sky over Rio de Janeiro on the morning of 15 November 1889 - the day the Republic of Brazil was declared; the number of stars has changed with the creation of new states and has risen from an original 21 to the current 27 (one for each state and the Federal District)<br>

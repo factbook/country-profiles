@@ -327,8 +327,8 @@ _elections_: <br> Senate - last held on 20 November 2016 with runoff on 29 Janua
 _election results_: <br> Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br> Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Claude JOSEPH (since 7 July 2021); note - Acting Prime Minister Claude JOSEPH assumed the responsibilities of president following the assassination of President Jovenel MOISE on 7 July 2021; an election is expected to be held later this year; MOISE had been president since 7 February 2017<br>
-_head of government_: Acting Prime Minister Claude JOSEPH (since 14 April 2021); note - Joseph JOUTHE resigned as prime minister on 13 April 2021; on 5 July 2021, Ariel HENRY was selected by President MOISE to be the next prime minister, though the assassination of MOISE has delayed the transition<br>
+_chief of state_: Acting President Ariel HENRY (since 20 July 2021); note - Prime Minister Ariel HENRY has assumed the responsibilities of president following the assassination of President Jovenel MOISE on 7 July 2021; an election is expected to be held on 7 November 2021; MOISE had been president since 7 February 2017<br>
+_head of government_: Prime Minister Ariel HENRY (since 20 July 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew<br>
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
@@ -354,11 +354,11 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York,
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michele SISON (since 21 February 2018)<br>
-_telephone_: [509] 229-8000<br>
 _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
-_FAX_: [509] 229-8028<br>
-_email address_: acspap@state.gov<br>
+_telephone_: [011] (509) 2229-8000<br>
+_FAX_: [011] (529) 2229-8027<br>
+_email address and website_: acspap@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes<br>

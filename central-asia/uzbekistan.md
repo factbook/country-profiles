@@ -338,11 +338,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Daniel ROSENBLUM (since 24 May 2019)<br>
-_telephone_: [998] (71) 120-5450<br>
-_embassy_: 3 Moyqo'rq'on, 5th Block, Yunusobod District, Tashkent 100093<br>
+_embassy_: 3 Moyqorghon, 5th Block, Yunusobod District, 100093 Tashkent<br>
 _mailing address_: 7110 Tashkent Place, Washington DC&nbsp; 20521-7110<br>
-_FAX_: [998] (71) 120-6335<br>
-_email address_: ACSTashkent@state.gov<br>
+_telephone_: [998] 78-120-5450<br>
+_FAX_: [998] 78-120-6335<br>
+_email address and website_: ACSTashkent@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a vertical, white crescent moon (closed side to the hoist) and 12 white, five-pointed stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>

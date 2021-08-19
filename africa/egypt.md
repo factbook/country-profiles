@@ -361,11 +361,11 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jonathan R. COHEN (since 17 November 2019)<br>
-_telephone_: [20-2] 2797-3300<br>
 _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
+_telephone_: [20-2] 2797-3300<br>
 _FAX_: [20-2] 2797-3200<br>
-_email address_: ConsularCairoACS@state.gov<br>
+_email address and website_: ConsularCairoACS@state.gov<br>
 _consulate(s) general_: Alexandria<br>
 
 **Flag description**<br>

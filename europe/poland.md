@@ -358,11 +358,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires B. Bix ALIU (since January 2021)<br>
-_telephone_: [48] (22) 504-2000<br>
-_embassy_: Aleje Ujazdowskie 29/31 00-540 Warsaw<br>
+_embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
-_FAX_: [48] (22) 504-2226<br>
-_email address_: ACSWarsaw@state.gov<br>
+_telephone_: [48] (22) 504-2000<br>
+_FAX_: [48] (22) 504-2088<br>
+_email address and website_: acswarsaw@state.gov<br>
 _consulate(s) general_: Krakow<br>
 
 **Flag description**<br>

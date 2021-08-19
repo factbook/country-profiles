@@ -334,7 +334,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)<br>
 _elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
-_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16<br>
+_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - NA<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Executive branch**<br>
@@ -366,12 +366,12 @@ _consulate(s)_: Albuquerque (NM), Anchorage (AK), Boise (ID), Brownsville (TX), 
 <strong> </strong><br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires John S. CREAMER (since 20 January 2021)<br>
-_telephone_: (011) [52]-55-5080-2000<br>
-_embassy_: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, Distrito Federal<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Stephanie SYPTAK-RAMNATH (since 20 July 2021)<br>
+_embassy_: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, CDMX<br>
 _mailing address_: 8700 Mexico City Place, Washington DC&nbsp; 20521-8700<br>
+_telephone_: (011) [52]-55-5080-2000<br>
 _FAX_: (011) 52-55-5080-2005<br>
-_email address_: ACSMexicoCity@state.gov<br>
+_email address and website_: ACSMexicoCity@state.gov<br>
 _consulate(s) general_: Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
 **Flag description**<br>

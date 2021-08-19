@@ -353,11 +353,11 @@ _consulate(s) general_: Chicago, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Kristina KVIEN (since January 2020)<br>
-_telephone_: [380] (44) 521-5000<br>
 _embassy_: 4 A. I. Igor Sikorsky Street, 04112 Kyiv<br>
 _mailing address_: 5850 Kyiv Place, Washington, DC 20521-5850<br>
-_FAX_: [380] (44) 521-5155<br>
-_email address_: Kyivacs@state.gov<br>
+_telephone_: [380] (44) 521-5000<br>
+_FAX_: [380] (44) 521-5544<br>
+_email address and website_: kyivacs@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky<br>

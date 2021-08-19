@@ -328,10 +328,9 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
 **Legislative branch**<br>
-_description_: unicameral Congress of the Republic or Congreso de la Republica (158 seats; 127 members directly elected in multi-seat constituencies in the country's 22 departments by simple majority vote and 31 directly elected in a single nationwide constituency by closed-list,&nbsp;proportional representation vote; members serve 4-year terms); note - two additional seats will be added to the new congress when it is seated in January 2020<br>
+_description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1<br>
-<strong>note:</strong> current seats by party as of 1 June 2019 - FCN 37, UNE 32, MR 20, TODOS 17, AC 12, EG 7, UCN 6, CREO 5, LIDER 5, VIVA 4, Convergence 3, PAN 3, PP 2, FUERZA 1, PU 1, URNG 1, Winaq 1, independent 1; composition - men 136, women 22, percent of women 13.9%<br>
+_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
 
 **Executive branch**<br>
 _chief of state_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020); note - the president is both chief of state and head of government<br>
@@ -362,11 +361,11 @@ _consulate(s)_: Lake Worth (FL), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador William W. POPP (since 13 August 2020)<br>
-_telephone_: [502] 2326-4000<br>
-_embassy_: 7-01 Avenida Reforma, Zone 10, Guatemala City<br>
+_embassy_: Avenida Reforma 7-01, Zone 10, Guatemala City<br>
 _mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
+_telephone_: [502] 2326-4000<br>
 _FAX_: [502] 2326-4654<br>
-_email address_: AmCitsGuatemala@state.gov<br>
+_email address and website_: AmCitsGuatemala@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>

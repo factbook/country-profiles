@@ -310,7 +310,7 @@ _telephone_: [1] (212) 750-8064<br>
 _FAX_: [1] (212) 750-6630<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Spain; telephone: [34] (93) 280-2227; FAX: [34] (93) 280-6175; email address: BarcelonaACS@state.gov<br>
+_embassy_: the US does not have an embassy in Andorra; the US ambassador to Spain is accredited to Andorra; US interests in Andorra are represented by the US Consulate General's office in Barcelona (Spain); mailing address: Paseo Reina Elisenda de Montcada, 23, 08034 Barcelona, Espana; telephone: [34] (93) 280-22-27; FAX: [34] (93) 280-61-75; email address: Barcelonaacs@state.gov<br>
 
 **Flag description**<br>
 three vertical bands of blue (hoist side), yellow, and red, with the national coat of arms centered in the yellow band; the latter band is slightly wider than the other 2 so that the ratio of band widths is 8:9:8; the coat of arms features a quartered shield with the emblems of (starting in the upper left and proceeding clockwise): Urgell, Foix, Bearn, and Catalonia; the motto reads VIRTUS UNITA FORTIOR (Strength United is Stronger); the flag combines the blue and red French colors with the red and yellow of Spain to show Franco-Spanish protection<br>

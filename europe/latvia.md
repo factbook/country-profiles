@@ -351,11 +351,11 @@ _FAX_: [1] (202) 328-2860<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John Leslie CARWILE (since 5 November 2019)<br>
-_telephone_: [371] 6710-7000<br>
-_embassy_: 1 Samnera Velsa St, Riga LV-1510<br>
+_embassy_: 1 Samnera Velsa Street (former Remtes), Riga LV-1510<br>
 _mailing address_: 4520 Riga Place, Washington DC&nbsp; 20521-4520<br>
+_telephone_: [371] 6710-7000<br>
 _FAX_: [371] 6710-7050<br>
-_email address_: askconsular-riga@state.gov<br>
+_email address and website_: askconsular-riga@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of maroon (top), white (half-width), and maroon; the flag is one of the older banners in the world; a medieval chronicle mentions a red standard with a white stripe being used by Latvian tribes in about 1280<br>

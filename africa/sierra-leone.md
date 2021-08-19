@@ -358,12 +358,11 @@ _telephone_: [1] (202) 939-9261 through 9263<br>
 _FAX_: [1] (202) 483-1793<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Maria E. BREWER (since 20 December 2017)<br>
-_telephone_: [232] 99 105 000<br>
+_chief of mission_: Ambassador David REIMER (since 24 March 2021)<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
 _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
-_FAX_: [232] 99 515 355<br>
-_email address_: consularfreetown@state.gov<br>
+_telephone_: [232] 99 105 000<br>
+_email address and website_: consularfreetown@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of light green (top), white, and light blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown<br>

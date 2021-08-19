@@ -336,11 +336,11 @@ _chancery_: 1705 DeSales Street NW, Suite 300,Washington, DC 20036<br>
 _telephone_: [1] (202) 296-0570, [1] (202) 833-1523<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Donald YAMAMOTO (since 17 Nov 2018)<br>
-_telephone_: [254] 20 363-6000<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen CRENWELGE (since July 2021)<br>
 _embassy_: Mogadishu, (reopened October 2019 on the grounds of the Mogadishu Airport)<br>
 _mailing address_: P.O. Box 606 Village Market<br>00621 Nairobi, Kenya<br>
-_FAX_: 254 20 363-6157<br>
+_telephone_: [254] 20 363-6451<br>
+_email address and website_: Kenya_ACS@state.gov<br>
 
 **Flag description**<br>
 light blue with a large white five-pointed star in the center; the blue field was originally influenced by the flag of the UN but today is said to denote the sky and the neighboring Indian Ocean; the five points of the star represent the five regions in the horn of Africa that are inhabited by Somali people: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the North East Province (Kenya)<br>

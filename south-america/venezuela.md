@@ -335,11 +335,10 @@ _consulate(s) general_: Boston, Chicago, Houston, New Orleans, New York, San Fra
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (since July 2018); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; all consular services, routine and emergency, are suspended<br>
-_telephone_: [58] (212) 975-6411, 907-8400 (after hours)<br>  <br>
-_embassy_: now operating from Bogota, Colombia<br>previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080<br>
+_embassy_: now operating from Bogota, Colombia<br>Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
-_FAX_: [58] (212) 907-8106<br>
-_email address_: ACSBogota@state.gov<br>
+_telephone_: 1-888-407-4747<br>  <br>
+_email address and website_: ACSBogota@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; yellow is interpreted as standing for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; the seven stars on the original flag represented the seven provinces in Venezuela that united in the war of independence; in 2006, then President Hugo CHAVEZ ordered an eighth star added to the star arc - a decision that sparked much controversy - to conform with the flag proclaimed by Simon Bolivar in 1827 and to represent the historic province of Guayana<br>

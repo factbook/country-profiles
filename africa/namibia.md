@@ -333,9 +333,9 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br> National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
-_elections_: National Council - elections for regional councils to determine members of the National Council held on 27 November 2015 (next to be held on 27 November 2020)<br> National Assembly - last held on 27 November 2019 (next to be held in 2024)<br>
-_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 40, NUDO 1, DPM 1; composition - men 32, women 10, percent of women 23.8%<br> National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
+_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
+_elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in 2024)<br>
+_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  Independent 1; composition - men 36, women 6, percent of women 16.6%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
 
 **Executive branch**<br>
 _chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
@@ -362,12 +362,12 @@ _telephone_: [1] (202) 986-0540<br>
 _FAX_: [1] (202) 986-0443<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lisa A. JOHNSON (since 3 February 2018)<br>
-_telephone_: [264] (061) 295-8500<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jessica LONG (since 2 July 2021)<br>
 _embassy_: 14 Lossen Street, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
+_telephone_: [264] (061) 295-8500<br>
 _FAX_: [264] (061) 295-8603<br>
-_email address_: consularwindhoek@state.gov<br>
+_email address and website_: ConsularWindhoek@state.gov<br>
 
 **Flag description**<br>
 a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a golden-yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the golden-yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources<br>

@@ -352,11 +352,10 @@ _FAX_: [1] (202) 745-3679<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019); note - also accredited to the Solomon Islands and Vanuatu<br>
-_telephone_: [675] 321-1455<br>
 _embassy_: P.O. Box 1492, Port Moresby<br>
 _mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
-_FAX_: [675] 321-3423<br>
-_email address_: ConsularPortMoresby@state.gov<br>
+_telephone_: [675] 308-2100<br>
+_email address and website_: ConsularPortMoresby@state.gov<br>
 
 **Flag description**<br>
 divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific<br>

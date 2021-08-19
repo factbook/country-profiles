@@ -349,11 +349,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Robert S. GILCHRIST (since 4 February 2020)<br>
+_embassy_: Akmenu gatve 6, Vilnius, LT-03106<br>
+_mailing address_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
 _telephone_: [370] (5) 266-5500<br>
-_embassy_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
-_mailing address_: American Embassy, Akmenu Gatve 6, Vilnius LT-03106<br>
 _FAX_: [370] (5) 266-5510<br>
-_email address_: consec@state.gov<br>
+_email address and website_: consec@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>

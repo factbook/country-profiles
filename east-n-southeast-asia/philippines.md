@@ -366,12 +366,12 @@ _FAX_: [1] (202) 328-7614<br>
 _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Sung KIM (since 6 December 2016)<br>
-_telephone_: [63] (2) 301-2000<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires John C. LAW (since 4 October 2020)<br>
 _embassy_: 1201 Roxas Boulevard, Manila 1000<br>
 _mailing address_: 8600 Manila Place, Washington DC&nbsp; 20521-8600<br>
-_FAX_: [63] (2) 301-2017<br>
-_email address_: ACSInfoManila@state.gov<br>
+_telephone_: [63] (2) 5301-2000<br>
+_FAX_: [63] (2) 5301-2017<br>
+_email address and website_: acsinfomanila@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br>

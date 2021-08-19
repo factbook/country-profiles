@@ -336,9 +336,9 @@ _election results_: <br>Senate - appointed; composition - men 54, women 14, perc
 <strong>note:</strong> as of 16 November 2019, seats by party - PH 129, BN 41, GS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
 
 **Executive branch**<br>
-_chief of state_: King Sultan ABDULLAH Sultan Ahmad Shah (since 24 January 2019); note - King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016) resigned on 6 January 2019; the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister&nbsp;<br>
-_head of government_: Prime Minister Tan Sri MUHYIDDIN Yassin (since 1 March 2020); note - Prime Minister MAHATHIR resigned on 24 February 2020 but King ABDULLAH asked that he stay on as interim prime minister until Malaysian's King ABDULLAH picked MUHYIDDIN to step in as Prime Minister; note - previous Deputy Prime Minister WAN AZIZAH Wan Ismail (21 May 2018 - 24 February 2020) was the first female in this position (2019)<br>
-_cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king; note - cabinet dissolved 24 February 2020 with Prime Minister MAHATHIR resignation&nbsp;<br>
+_chief of state_: King Sultan ABDULLAH Sultan Ahmad Shah (since 24 January 2019); note - King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016) resigned on 6 January 2019; the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
+_head of government_: Prime Minister Tan Sri MUHYIDDIN Yassin (since 1 March 2020); note - MUHYIDDIN resigned on 16 August 2021, but will stay on until King ABDULLAH appoints a successor; MUHYIDEEN will not have a cabinet, but will perform executive functions and advise the king until a new prime minister is appointed<br>
+_cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king; note - cabinet dissolved 24 February 2020 with Prime Minister MAHATHIR resignation<br>
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 January 2019 (next to be held in 2024); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>
 
 **Judicial branch**<br>
@@ -361,11 +361,11 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Brian D. McFeeters (since 26 February 2021)<br>
-_telephone_: [60] (3) 2168-5000<br>
 _embassy_: 376 Jalan Tun Razak, 50400 Kuala Lumpur<br>
 _mailing address_: 4210 Kuala Lumpur, Washington DC&nbsp; 20521-4210<br>
+_telephone_: [60] (3) 2168-5000<br>
 _FAX_: [60] (3) 2142-2207<br>
-_email address_: klacs@state.gov<br>
+_email address and website_: KLACS@state.gov<br>
 
 **Flag description**<br>
 14 equal horizontal stripes of red (top) alternating with white (bottom); there is a dark blue rectangle in the upper hoist-side corner bearing a yellow crescent and a yellow 14-pointed star; the flag is often referred to as Jalur Gemilang (Stripes of Glory); the 14 stripes stand for the equal status in the federation of the 13 member states and the federal government; the 14 points on the star represent the unity between these entities; the crescent is a traditional symbol of Islam; blue symbolizes the unity of the Malay people and yellow is the royal color of Malay rulers<br>

@@ -354,11 +354,11 @@ _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Peter HAYMOND (since 7 February 2020)<br>
-_telephone_: [856] 21-48-7000<br>
-_embassy_: Thadeua Road, Kilometer 9, Ban Somvang Tai, Hatsayfong District, Vientiane<br>
+_embassy_: Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vientiane<br>
 _mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
-_FAX_: [856] 21-48-7190<br>
-_email address_: CONSLAO@state.gov<br>
+_telephone_: [856] 21-48-7000<br>
+_FAX_: [856] 21-48-7040<br>
+_email address and website_: CONSLAO@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>

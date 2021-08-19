@@ -342,10 +342,10 @@ _FAX_: [1] (202) 387-2564<br>
 _consulate(s) general_: Atlanta, Chicago, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Edward "Ed" MCMULLEN, Jr. (since 21 November 2017) note - also accredited to Liechtenstein<br>
-_telephone_: [41] (031) 357-70-11<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Eva Weigold SCHULTZ (since 17 January 2021) note - also accredited to Liechtenstein<br>
 _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
+_telephone_: [41] (031) 357-70-11<br>
 _FAX_: [41] (031) 357-73-20<br>
 
 **Flag description**<br>

@@ -364,11 +364,11 @@ _FAX_: [1] (202) 483-9326<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Brian A. NICHOLS (since 19 July 2018)<br>
-_telephone_: [263] (0) 867-701-1000<br>
 _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
-_FAX_: [263] (4) 796-488<br>
-_email address_: consularharare@state.gov<br>
+_telephone_: [263] 867-701-1000<br>
+_FAX_: [263] 24-233-4320<br>
+_email address and website_: consularharare@state.gov<br>
 
 **Flag description**<br>
 seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green represents agriculture, yellow mineral wealth, red the blood shed to achieve independence, and black stands for the native people<br>

@@ -355,11 +355,11 @@ _telephone_: [1] (202) 797-8518<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
-_telephone_: [53] (7) 839-4100<br>
 _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
-_FAX_: NA<br>
-_email address_: acshavana@state.gov<br>
+_telephone_: [53] (7) 839-4100<br>
+_FAX_: [53] (7) 839-4247<br>
+_email address and website_: acshavana@state.gov<br>
 
 **Flag description**<br>
 five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br>

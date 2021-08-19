@@ -360,13 +360,13 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian AGGELER (since 20 January 2021); note - also accredited to Monaco<br>
-_telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
-_embassy_: 2 Avenue Gabriel, 75008 Paris<br>
+_embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
-_FAX_: [33] (1) 42 66 97 83<br>
-_email address_: Citizeninfo@state.gov<br>
+_telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
+_FAX_: [33] (1) 42-66-97-83<br>
+_email address and website_: Citizeninfo@state.gov<br>
 _consulate(s) general_: Marseille, Strasbourg<br>
-_consulate(s)_: Bordeaux, Lyon, Rennes, Toulouse<br>
+_consulate(s)_: Bordeaux, Lyon, Rennes<br>
 
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), white, and red; known as the "Le drapeau tricolore" (French Tricolor), the origin of the flag dates to 1790 and the French Revolution when the "ancient French color" of white was combined with the blue and red colors of the Parisian militia; the official flag for all French dependent areas<br>

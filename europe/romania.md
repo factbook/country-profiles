@@ -346,12 +346,12 @@ _FAX_: [1] (202) 232-4748<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Adrian ZUCKERMAN (since 17 December 2019)<br>
-_telephone_: [40] (21) 200-3300<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires David MUNIZ (since 20 January 2021)<br>
 _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
-_mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260&nbsp;<br>
+_mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260<br>
+_telephone_: [40] (21) 200-3300<br>
 _FAX_: [40] (21) 200-3442<br>
-_email address_: ACSBucharest@state.gov<br>
+_email address and website_: ACSBucharest@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>

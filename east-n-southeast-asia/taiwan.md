@@ -268,10 +268,11 @@ _chief of mission_: none; commercial and cultural relations with its citizens in
 _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director William Brent CHRISTENSEN (since 11 August 2018); telephone [886] 7-335-5006; FAX [886] 7-338-0551<br>
-_telephone_: (+886) (02) 2162-2000<br>
+_chief of mission_: the US does not have an embassy in Taiwan; commercial and cultural relations with the people of Taiwan are maintained through an unofficial instrumentality, the American Institute in Taiwan (AIT), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts; it is managed by Director Sandra OUDKIRK (since July 2021)<br>
 _mailing address_: 4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170<br>
-_email address_: TaipeiACS@state.gov<br>
+_telephone_: [886] 2-2162-2000<br>
+_FAX_: [886] 2-2162-2251<br>
+_email address and website_: TaipeiACS@state.gov<br>
 _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neihu District 11461, Taipei City<br>
 _other offices_: Kaohsiung (Branch Office)<br>
 

@@ -356,12 +356,12 @@ _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los 
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lewis EISENBERG (since 4 October 2017); note - also accredited to San Marino<br>
-_telephone_: [39] 06-4674-1<br>
-_embassy_: Via Vittorio Veneto 121, 00187-Rome<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Thomas D. SMITHAM (since 4 January 2021); note - also accredited to San Marino<br>
+_embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
-_FAX_: [39] 06-488-2672<br>
-_email address_: uscitizenrome@state.gov<br>
+_telephone_: [39] 06-46741<br>
+_FAX_: [39] 06-4674-2244<br>
+_email address and website_: uscitizenrome@state.gov<br>
 _consulate(s) general_: Florence, Milan, Naples<br>
 
 **Flag description**<br>

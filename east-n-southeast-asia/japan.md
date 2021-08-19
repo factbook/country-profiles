@@ -342,12 +342,12 @@ _FAX_: [1] (202) 328-2187<br>
 _consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver (CO), Detroit (MI), Honolulu, Houston, Las Vegas (NV), Los Angeles, Miami, Nashville (TN), New Orleans, New York, Oklahoma City (OK), Orlando (FL), Philadelphia, Phoenix (AZ), Portland (OR), San Francisco, Seattle, Saipan (Northern Mariana Islands), Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Joseph M. YOUNG (since 22 July 2019)<br>
-_telephone_: [81] (03) 3224-5000<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Raymond GREENE (since 17 July 2021)<br>
 _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
-_FAX_: [81] (03) 3505-1862<br>
-_email address_: TokyoACS@state.gov<br>
+_telephone_: (03) 3224-5000<br>
+_FAX_: [81] (03) 3224-5856<br>
+_email address and website_: TokyoACS@state.gov<br>
 _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
 _consulate(s)_: Fukuoka, Nagoya<br>
 

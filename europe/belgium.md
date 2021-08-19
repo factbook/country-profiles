@@ -344,11 +344,11 @@ _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Nicholas BERLINER (since 20 January 2021)<br>
-_telephone_: [32] (2) 811-4000<br>
 _embassy_: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
+_telephone_: [32] (2) 811-4000<br>
 _FAX_: [32] (2) 811-4500<br>
-_email address_: uscitizenBrussels@state.gov<br>
+_email address and website_: uscitizenBrussels@state.gov<br><br>https://be.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>

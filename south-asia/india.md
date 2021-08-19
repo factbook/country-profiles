@@ -367,12 +367,12 @@ _FAX_: [1] (202) 265-4351<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Ambassador Daniel B. SMITH (since May 2021)<br>
-_telephone_: [91] (11) 2419-8000<br>
-_embassy_: Shantipath, Chanakyapuri, New Delhi 110021<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Atul KESHAP (since 1 July 2021)<br>
+_embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
+_telephone_: [91] (11) 2419-8000<br>
 _FAX_: [91] (11) 2419-0017<br>
-_email address_: acsnd@state.gov<br>
+_email address and website_: acsnd@state.gov<br>
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
 **Flag description**<br>

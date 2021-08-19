@@ -363,11 +363,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Michael HEATH (since August 2019)<br>
-_telephone_: [66] 2-205-4000<br>
 _embassy_: 95 Wireless Road, Bangkok 10330<br>
 _mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
-_FAX_: [66] 2-205-4306<br>
-_email address_: ACSBkk@state.gov<br>
+_telephone_: [66] 2-205-4000<br>
+_FAX_: [66] 2-205-4103<br>
+_email address and website_: acsbkk@state.gov<br>
 _consulate(s) general_: Chiang Mai<br>
 
 **Flag description**<br>

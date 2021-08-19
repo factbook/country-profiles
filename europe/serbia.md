@@ -367,11 +367,11 @@ _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Anthony GODFREY (since 24 October 2019)<br>
-_telephone_: [381] (11) 706-4000<br>
 _embassy_: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade<br>
 _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
-_FAX_: [381] (11) 706-4005<br>
-_email address_: belgradeacs@state.gov<br>
+_telephone_: [381] (11) 706-4000<br>
+_FAX_: [381] (11) 706-4481<br>
+_email address and website_: belgradeacs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br>

@@ -332,11 +332,11 @@ _consulate(s)_: Lost Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Alina L. ROMANOWSKI (since 6 January 2020)<br>
-_telephone_: [965] 2259-1001<br>
 _embassy_: P.O. Box 77, Safat 13001<br>
 _mailing address_: 6200 Kuwait Place, Washington DC&nbsp; 20521-6200<br>
-_FAX_: [965] 2538-6562<br>
-_email address_: KuwaitACS@state.gov<br>
+_telephone_: [00] (965) 2259-1001<br>
+_FAX_: [00] (965) 2538-0282<br>
+_email address and website_: KuwaitACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side; colors and design are based on the Arab Revolt flag of World War I; green represents fertile fields, white stands for purity, red denotes blood on Kuwaiti swords, black signifies the defeat of the enemy<br>

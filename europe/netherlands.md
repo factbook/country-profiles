@@ -347,12 +347,12 @@ _FAX_: [1] (202) 362-3430<br>
 _consulate(s) general_: Chicago, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Peter HOEKSTRA (since 10 January 2018)<br>
-_telephone_: [31] (70) 310-2209<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Marja VERLOOP (since 17 January 2021)<br>
 _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
 _mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
+_telephone_: [31] (70) 310-2209<br>
 _FAX_: [31] (70) 310-2207<br>
-_email address_: AmsterdamUSC@state.gov<br>
+_email address and website_: AmsterdamUSC@state.gov<br>
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>

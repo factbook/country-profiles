@@ -356,12 +356,12 @@ _consulate(s) general_: Houston, San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Charg&eacute; d&rsquo;Affaires Christopher KLEIN (since 16 April 2021)<br>
-_telephone_: [84] (24) 3850-5000<br>
+_chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Christopher KLEIN (since 16 April 2021)<br>
 _embassy_: 7 Lang Ha Street, Hanoi<br>
 _mailing address_: 4550 Hanoi Place, Washington, DC 20521-4550<br>
+_telephone_: [84] (24) 3850-5000<br>
 _FAX_: [84] (24) 3850-5010<br>
-_email address_: ACShanoi@state.gov<br>
+_email address and website_: ACShanoi@state.gov<br>
 _consulate(s) general_: Ho Chi Minh City<br>
 
 **Flag description**<br>

@@ -333,11 +333,11 @@ _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Ambassador John DESROCHER (since 1 June 2021)<br>
-_telephone_: [974] 4496-6000<br>
-_embassy_: 22 February Street, Al Luqta District, P. O. Box 2399, Doha<br>
+_embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
+_telephone_: [974] 4496-6000<br>
 _FAX_: [974] 4488-4298<br>
-_email address_: ACSDoha@state.gov<br>
+_email address and website_: PasDoha@state.gov<br>
 
 **Flag description**<br>
 maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br>

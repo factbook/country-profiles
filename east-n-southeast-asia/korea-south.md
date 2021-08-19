@@ -347,12 +347,12 @@ _FAX_: [1] (202) 797-0595<br>
 _consulate(s) general_: Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant);&nbsp; Charg&eacute; d&rsquo;Affaires Rob RAPSON (since 20 January 2021)<br>
-_telephone_: [82] (2) 397-4114<br>
-_embassy_: 188 Sejong-daero, Jongno-gu, Seoul 03141<br>
+_chief of mission_: Ambassador (vacant);&nbsp; Charg&eacute; d&rsquo;Affaires Christopher DEL CORSO (since 16 July 2021)<br>
+_embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
-_FAX_: [82] (2) 725-0152<br>
-_email address_: seoulinfoACS@state.gov<br>
+_telephone_: [82] (2) 397-4114<br>
+_FAX_: [82] (2) 397-4101<br>
+_email address and website_: seoulinfoACS@state.gov<br>
 _consulate(s)_: Busan<br>
 
 **Flag description**<br>

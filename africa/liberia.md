@@ -358,11 +358,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael A. MCCARTHY (since 22 January 2021)<br>
-_telephone_: [231] 77-677-7000<br>
-_embassy_: U.S. Embassy, 502 Benson Street, Monrovia<br>
+_embassy_: 502 Benson Street, Monrovia<br>
 _mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
+_telephone_: [231] 77-677-7000<br>
 _FAX_: [231] 77-677-7370<br>
-_email address_: ACSMonrovia@state.gov<br>
+_email address and website_: ACSMonrovia@state.gov<br>
 
 **Flag description**<br>
 11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>
@@ -694,7 +694,7 @@ the AFL has almost no significant combat hardware as nearly all aircraft, equipm
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,303 (Cote d'Ivoire) (2021)<br>
+_refugees (country of origin)_: 8,194 (Cote d'Ivoire) (2021)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southeast and Southwest Asian heroin and South American cocaine for the European and US markets; corruption, criminal activity, arms-dealing, and diamond trade provide significant potential for money laundering, but the lack of well-developed financial system limits the country's utility as a major money-laundering center<br>

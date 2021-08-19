@@ -341,12 +341,12 @@ _consulate(s) general_: Miami, New York<br>
 _consulate(s)_: Atlanta, Boston, Chicago, Concord (MA), Houston, Los Angeles, Philadelphia, Richmond (VA), San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Donald R. TAPIA (since 11 September 2019)<br>
-_telephone_: [1] (876) 702-6000 (2018)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Scott FEEKEN (since 9 August 2021)<br>
 _embassy_: 142 Old Hope Road, Kingston 6<br>
 _mailing address_: 3210 Kingston Place, Washington DC&nbsp; 20521-3210<br>
-_FAX_: [1] (876) 702-6001 (2018)<br>
-_email address_: KingstonACS@state.gov<br>
+_telephone_: (876) 702-6000 (2018)<br>
+_FAX_: (876) 702-6348 (2018)<br>
+_email address and website_: KingstonACS@state.gov<br>
 
 **Flag description**<br>
 diagonal yellow cross divides the flag into four triangles - green (top and bottom) and black (hoist side and fly side); green represents hope, vegetation, and agriculture, black reflects hardships overcome and to be faced, and yellow recalls golden sunshine and the island's natural resources<br>

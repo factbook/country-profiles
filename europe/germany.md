@@ -347,11 +347,11 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Woodward "Clark" PRICE (since 1 July 2021)<br>
-_telephone_: [49] (30) 8305-0<br>
 _embassy_: Clayallee 170, 14191 Berlin<br>
 _mailing address_: 5090 Berlin Place, Washington DC&nbsp; 20521-5090<br>
+_telephone_: [49] (30) 8305-0<br>
 _FAX_: [49] (30) 8305-1215<br>
-_email address_: BerlinPCO@state.gov<br>
+_email address and website_: BerlinPCO@state.gov<br>
 _consulate(s) general_: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich<br>
 
 **Flag description**<br>

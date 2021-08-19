@@ -344,12 +344,12 @@ _FAX_: [1] (202) 667-5227<br>
 _consulate(s) general_: Honolulu (HI), Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Scott P. BROWN (since 27 June 2017) note - also accredited to Samoa<br>
-_telephone_: [64] (4) 462-6000<br>
-_embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Kevin COVERT (20 December 2020) note - also accredited to Samoa<br>
+_embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington 6011<br>
 _mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
+_telephone_: [64] (4) 462-6000<br>
 _FAX_: [64] (4) 499-0490<br>
-_email address_: AucklandACS@state.gov<br>
+_email address and website_: AucklandACS@state.gov<br>
 _consulate(s) general_: Auckland<br>
 
 **Flag description**<br>

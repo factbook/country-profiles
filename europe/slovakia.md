@@ -335,11 +335,11 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Bridget A. BRINK (since 20 August 2019)<br>
-_telephone_: [421] (2) 5443-3338<br>
 _embassy_: P.O. Box 309, 814 99 Bratislava<br>
 _mailing address_: 5840 Bratislava Place, Washington DC&nbsp; 20521-5840<br>
-_FAX_: [421] (2) 5441-5148<br>
-_email address_: consulbratislava@state.gov<br>
+_telephone_: [421] (2) 5443-3338<br>
+_FAX_: [421] (2) 5441-8861<br>
+_email address and website_: consulbratislava@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red derive from the Pan-Slav colors; the Slovakian coat of arms (consisting of a red shield bordered in white and bearing a white double-barred cross of St. Cyril and St. Methodius surmounting three blue hills) is centered over the bands but offset slightly to the hoist side<br>

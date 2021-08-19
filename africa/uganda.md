@@ -363,11 +363,11 @@ _FAX_: [1] (202) 726-1727<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Natalie E. BROWN (since 17 November 2020)<br>
-_telephone_: (256)-414-259791<br>
 _embassy_: 1577 Ggaba Road, Kampala<br>
 _mailing address_: 2190 Kampala Place, Washington DC&nbsp; 20521-2190<br>
-_FAX_: [256] 414-306-009<br>
-_email address_: KampalaUScitizen@state.gov<br>
+_telephone_: [256] (0) 312-306-001<br>
+_FAX_: [256] (0) 414-259-794<br>
+_email address and website_: KampalaUScitizen@state.gov<br>
 
 **Flag description**<br>
 six equal horizontal bands of black (top), yellow, red, black, yellow, and red; a white disk is superimposed at the center and depicts a grey crowned crane (the national symbol) facing the hoist side; black symbolizes the African people, yellow sunshine and vitality, red African brotherhood; the crane was the military badge of Ugandan soldiers under the UK<br>

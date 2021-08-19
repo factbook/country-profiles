@@ -352,11 +352,11 @@ _FAX_: [1] (301) 332-0668<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Samuel R. WATSON; note - also accredited to Sao Tome and Principe<br>
-_telephone_: [241] 01-45-71-00<br>
 _embassy_: Sabliere, B.P. 4000, Libreville<br>
 _mailing address_: 2270 Libreville Place, Washington, DC 20521-2270<br>
-_FAX_: [241] 01-74-55-07<br>
-_email address_: ACSLibreville@state.gov<br>
+_telephone_: [241] 011-45-71-00<br>
+_FAX_: [241] 011-45-71-05<br>
+_email address and website_: ACSLibreville@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and blue; green represents the country's forests and natural resources, gold represents the equator (which transects Gabon) as well as the sun, blue represents the sea<br>

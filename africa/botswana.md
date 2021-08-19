@@ -353,11 +353,11 @@ _consulate(s) general_: Atlanta<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Craig Lewis CLOUD (since 2 April 2019)<br>
-_telephone_: [267] 395-3982<br>
 _embassy_: Embassy Drive, Government Enclave (off Khama Crescent), Gaborone<br>
 _mailing address_: 2170 Gabarone Place, Washington DC&nbsp; 20521-2170<br>
+_telephone_: [267] 395-3982<br>
 _FAX_: [267] 318-0232<br>
-_email address_: ConsularGabarone@state.gov<br>
+_email address and website_: ConsularGabarone@state.gov<br><br>https://bw.usembassy.gov/<br>
 
 **Flag description**<br>
 light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony<br>

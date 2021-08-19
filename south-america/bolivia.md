@@ -357,11 +357,11 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, Washington, DC<br
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Charisse PHILLIPS (since August 2020)<br>
-_telephone_: [591] (2) 216-8000<br>
-_embassy_: Avenida Arce 2780, Casilla 425, La Paz<br>
+_embassy_: Avenida Arce 2780, La Paz<br>
 _mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
+_telephone_: [591] (2) 216-8000<br>
 _FAX_: [591] (2) 216-8111<br>
-_email address_: ConsularLaPazACS@state.gov<br>
+_email address and website_: ConsularLaPazACS@state.gov<br><br>https://bo.usembassy.gov/<br>
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
 **Flag description**<br>

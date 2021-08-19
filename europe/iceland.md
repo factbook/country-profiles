@@ -335,12 +335,12 @@ _FAX_: [1] (202) 265-6656<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Jeffrey Ross GUNTER (since 2 July 2019)<br>
-_telephone_: [354] 595-2200<br>
-_embassy_: Laufasvegur 21, 101 Reykjavik<br>
+_chief of mission_: Ambassador (vacant); Michelle YERKIN (since June 2021)<br>
+_embassy_: Engjateigur 7, 105 Reykjavik<br>
 _mailing address_: 5640 Reykjavik Place, Washington, D.C. 20521-5640<br>
+_telephone_: [354] 595-2200<br>
 _FAX_: [354] 562-9118<br>
-_email address_: reykjavikconsular@state.gov<br>
+_email address and website_: ReykjavikConsular@state.gov<br>
 
 **Flag description**<br>
 blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean<br>

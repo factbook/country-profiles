@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 5 years<br>
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - NA, percent of women NA%<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition -men 93, women 47, percent of women 33.6%%<br>
 
 **Executive branch**<br>
 _chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
@@ -350,11 +350,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Yuri KIM (since 27 January 2020)<br>
-_telephone_: [355] 4 2247-285<br>
 _embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
 _mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
+_telephone_: [355] 4 2247-285<br>
 _FAX_: [355] 4 2232-222<br>
-_email address_: ACSTirana@state.gov<br>
+_email address and website_: ACSTirana@state.gov<br><br>https://al.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br>

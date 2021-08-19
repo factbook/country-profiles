@@ -331,11 +331,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
-_telephone_: [973] 17 242700<br>
 _embassy_: Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
-_FAX_: [973] 17 272594<br>
-_email address_: ManamaConsular@state.gov<br>
+_telephone_: [973] 17-242700<br>
+_FAX_: [973] 17-272594<br>
+_email address and website_: ManamaConsular@state.gov<br><br>https://bh.usembassy.gov/<br>
 
 **Flag description**<br>
 red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam<br>

@@ -315,11 +315,11 @@ _honorary consulate(s)_: Aurora (CO), Chicago, Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d' Affaires Usha E. PITTS (since 1 January 2021)<br>
-_telephone_: [1] (242) 322-1181<br>
 _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
+_telephone_: [1] (242) 322-1181<br>
 _FAX_: [1] (242) 356-7174<br>
-_email address_: acsnassau@state.gov<br>
+_email address and website_: acsnassau@state.gov<br><br>https://bs.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea<br>

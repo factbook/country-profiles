@@ -343,11 +343,11 @@ _FAX_: [1] (202) 745-4933<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Leslie M. TSOU (since 19 January 2020)<br>
-_telephone_: [968] 24-643-400<br>
 _embassy_: P.C. 115, Madinat Al Sultan Qaboos, Muscat<br>
 _mailing address_: 6220 Muscat Place, Washington DC&nbsp; 20521<br>
-_FAX_: [968] 24-643-740<br>
-_email address_: ConsularMuscat@state.gov<br>
+_telephone_: [968] 2464-3400<br>
+_FAX_: [968] 2464-3740<br>
+_email address and website_: ConsularMuscat@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of white (top), red, and green of equal width with a broad, vertical, red band on the hoist side; the national emblem (a khanjar dagger in its sheath superimposed on two crossed swords in scabbards) in white is centered near the top of the vertical band; white represents peace and prosperity, red recalls battles against foreign invaders, and green symbolizes the Jebel al Akhdar (Green Mountains) and fertility<br>

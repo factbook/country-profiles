@@ -352,11 +352,10 @@ _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Matthew TUELLER (since&nbsp;9&nbsp;June&nbsp;2019)<br>
-_telephone_: 0760-030-3000<br>
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
-_FAX_: NA<br>
-_email address_: baghdadacs@state.gov<br>
+_telephone_: 0760-030-3000<br>
+_email address and website_: BaghdadACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>
@@ -709,7 +708,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p>Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,167 (Turkey), 7,858 (West Bank and Gaza Strip), 5,041 (Iran) (2018); 247,305 (Syria) (2021)<br>
+_refugees (country of origin)_: 15,167 (Turkey), 7,858 (West Bank and Gaza Strip), 5,041 (Iran) (2018); 247,044 (Syria) (2021)<br>
 _IDPs_: 1,198,940 (displacement in central and northern Iraq since January 2014) (2021)<br>
 _stateless persons_: 47,253 (2020); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

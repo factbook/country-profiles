@@ -327,7 +327,7 @@ _residency requirement for naturalization_: 7 years<br>
 18 years of age; universal and compulsory<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed list proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 4 February 2018 (next to be held in February 2022)<br>
 _election results_: percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%<br>
 
@@ -359,11 +359,11 @@ _consulate(s)_: Saint Paul (MN), San Juan (Puerto Rico), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Gloria BERBENA (since January 2021)<br>
-_telephone_: [506] 2519-2000<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
+_telephone_: [506] 2519-2000<br>
 _FAX_: [506] 2519-2305<br>
-_email address_: acssanjose@state.gov<br>
+_email address and website_: acssanjose@state.gov<br>
 
 **Flag description**<br>
 five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people<br>

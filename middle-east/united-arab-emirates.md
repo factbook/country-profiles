@@ -342,11 +342,11 @@ _consulate(s) general_: Boston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Sean MURPHY (since August 2020)<br>
-_telephone_: [971] (2) 414-2200<br>
 _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dhabi<br>
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
-_FAX_: [971] (2) 414-2603<br>
-_email address_: abudhabiacs@state.gov<br>
+_telephone_: [971] (2) 414-2200<br>
+_FAX_: [971] (2) 414-2241<br>
+_email address and website_: abudhabiacs@state.gov<br>
 _consulate(s) general_: Dubai<br>
 
 **Flag description**<br>

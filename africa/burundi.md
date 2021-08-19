@@ -365,11 +365,11 @@ _FAX_: [1] (202) 342-2578<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Melanie Harris HIGGINS (since 2 March 2021)<br>
-_telephone_: [257] 22-207-000<br>
 _embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
+_telephone_: [257] 22-207-000<br>
 _FAX_: [257] 22-222-926<br>
-_email address_: BujumburaC@state.gov<br>
+_email address and website_: BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br><br>
 
 **Flag description**<br>
 divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress<br>

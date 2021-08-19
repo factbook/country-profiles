@@ -341,11 +341,11 @@ _FAX_: [1] (202) 466-8325<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Tony GREUBEL (since 20 January 2021); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>
-_telephone_: [679] 331-4466<br>
-_embassy_: 158 Princes Rd, Tamavua, Suva<br>
+_embassy_: 158 Princes Road, Tamavua, Suva<br>
 _mailing address_: 4290 Suva Place, Washington DC&nbsp; 20521-4290<br>
-_FAX_: [679] 330-8685<br>
-_email address_: SuvaACS@state.gov<br>
+_telephone_: [679] 331-4466<br>
+_FAX_: [679] 330-2267<br>
+_email address and website_: SuvaACS@state.gov<br>
 
 **Flag description**<br>
 light blue with the flag of the UK in the upper hoist-side quadrant and the Fijian shield centered on the outer half of the flag; the blue symbolizes the Pacific Ocean and the Union Jack reflects the links with Great Britain; the shield - taken from Fiji's coat of arms - depicts a yellow lion, holding a coconut pod between its paws, above a white field quartered by the cross of Saint George; the four quarters depict stalks of sugarcane, a palm tree, a banana bunch, and a white dove of peace<br>

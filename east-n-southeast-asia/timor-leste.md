@@ -359,12 +359,12 @@ _telephone_: [1] (202) 966-3202<br>
 _FAX_: [1] (202) 966-3205<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador C. Kevin BLACKSTONE (since 22 December 2020)<br>
-_telephone_: (670) 332-4684, EMER: +(670) 7723-1328<br>
+_chief of mission_: Ambassador (vacant), Charge d'Affaires Thomas DALEY (since August 2021)<br>
 _embassy_: Avenida de Portugal, Praia dos Coqueiros, Dili<br>
 _mailing address_: 8250 Dili Place, Washington, DC 20521-8250<br>
+_telephone_: (670) 332-4684, (670) 330-2400<br>
 _FAX_: (670) 331-3206<br>
-_email address_: ConsDili@state.gov<br>
+_email address and website_: ConsDili@state.gov<br>
 
 **Flag description**<br>
 red with a black isosceles triangle (based on the hoist side) superimposed on a slightly longer yellow arrowhead that extends to the center of the flag; a white star - pointing to the upper hoist-side corner of the flag - is in the center of the black triangle; yellow denotes the colonialism in Timor-Leste's past, black represents the obscurantism that needs to be overcome, red stands for the national liberation struggle; the white star symbolizes peace and serves as a guiding light<br>

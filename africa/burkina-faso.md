@@ -368,11 +368,11 @@ _FAX_: [1] (202) 667-1882<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Sandra E. CLARK (since 25 September 2020)<br>
-_telephone_: (226) 25-49-53-00<br>
 _embassy_: Secteur 15, Ouaga 2000, Avenue Sembene Ousmane, Rue 15.873, Ouagadougou<br>
 _mailing address_: 2440 Ouagadougou Place, Washington, DC&nbsp; 20521-2440<br>
-_FAX_: (226) 25-49-56-28<br>
-_email address_: ouagaACS@state.gov<br>
+_telephone_: (226) 25-49-53-00<br>
+_FAX_: (226) 25-49-56-23<br>
+_email address and website_: ouagaACS@state.gov<br><br>https://bf.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a yellow five-pointed star in the center; red recalls the country's struggle for independence, green is for hope and abundance, and yellow represents the country's mineral wealth<br>

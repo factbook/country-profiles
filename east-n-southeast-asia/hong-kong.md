@@ -300,12 +300,11 @@ _HKETO offices_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Hanscom SMITH (since July 2019); note - also accredited to Macau<br>
-_telephone_: [852] 2523-9011<br>
-_embassy_: U. S. Consulate General Hong Kong and Macau<br>26 Garden Road<br>Central Hong Kong<br>
+_embassy_: 26 Garden Road, Central, Hong Kong<br>
 _mailing address_: 8000 Hong Kong Place, Washington DC&nbsp; 20521-8000<br>
+_telephone_: [852] 2523-9011<br>
 _FAX_: [852] 2845-1598<br>
-_email address_: acshk@state.gov<br>
-_consulate(s) general_: 26 Garden Road, Hong Kong<br>
+_email address and website_: acshk@state.gov<br>
 
 **Flag description**<br>
 red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China<br>

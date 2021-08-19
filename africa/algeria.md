@@ -349,11 +349,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charg&eacute; d&rsquo;Affaires Gautam RANA (since 20 January 2021)<br>
-_telephone_: [213] (0) 770-08-2000<br>
 _embassy_: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger<br>
 _mailing address_: 6030 Algiers Place, Washington DC&nbsp; 20521-6030<br>
+_telephone_: [213] (0) 770-08-2000<br>
 _FAX_: [213] (0) 770-08-2299<br>
-_email address_: ACSAlgiers@state.gov<br>
+_email address and website_: ACSAlgiers@state.gov<br><br>https://dz.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>

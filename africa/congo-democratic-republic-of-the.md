@@ -369,11 +369,11 @@ _representative office_: New York New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael A. HAMMER (since 22 December 2018)<br>
+_embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
+_mailing address_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _telephone_: [243] 081 556-0151<br>
-_embassy_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
-_mailing address_: Unit 2220, DPO AE 09828<br>
 _FAX_: [243] 81 556-0175<br>
-_email address_: ACSKinshasa@state.gov<br>
+_email address and website_: ACSKinshasa@state.gov<br>
 
 **Flag description**<br>
 sky blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow, five-pointed star appears in the upper hoist corner; blue represents peace and hope, red the blood of the country's martyrs, and yellow the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
@@ -705,7 +705,7 @@ note - the Republican Guard is under the direct control of the president<br>
 1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies widely because of inconsistent and unreliable data, as well as the ongoing integration of various non-state armed groups/militias; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2020)<br>
+limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; since 2010, Ukraine is the largest supplier of arms to the FARDC (2020)<br>
@@ -714,7 +714,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary and compulsory military service (2019)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of January 2021, MONUSCO comprised around 17,500 personnel, including about 12,500 military troops and 1,400 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,500 personnel, including about 14,500 military troops and 600 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 

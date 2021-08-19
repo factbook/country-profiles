@@ -353,12 +353,12 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, 
 _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Robert Wood "Woody" JOHNSON IV (since 29 August 2017)<br>
-_telephone_: [44] 20-7499-9000<br>
-_embassy_: 33 Nine Elms Lane, London, SW11 7US or SW8 5DB (driving/GPS postcode)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Philip T. REEKER (since 1 August 2021)<br>
+_embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
-_FAX_: [44] 20-7891-3151<br>
-_email address_: SCSLondon@state.gov<br>
+_telephone_: [44] (0) 20-7499-9000<br>
+_FAX_: [44] (0) 20-7891-3845<br>
+_email address and website_: SCSLondon@state.gov<br>
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>

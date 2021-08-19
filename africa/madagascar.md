@@ -366,12 +366,12 @@ _FAX_: [1] (202) 265-3034<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael PELLETIER (since 14 February&nbsp;2019)<br>
-_telephone_: [261] 20 23 480 00<br>
-_embassy_: Lot 207A, Point Liberty, Andranoro, Antehiroka, 105 Antananarivo<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Amy J. HYATT (since June 2021)<br>
+_embassy_: Lot 207A, Andranoro, Antehiroka, 105 Antananarivo<br>
 _mailing address_: 2040 Antananarivo Place, Washington&nbsp; DC 20521-2040<br>
-_FAX_: [261] 20 23 480 35 or [261] 33 44 328 17<br>
-_email address_: AntanACS@state.gov<br>
+_telephone_: [261] 20-23-480-00<br>
+_FAX_: [261] 20-23-480-35<br>
+_email address and website_: antanACS@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity<br>

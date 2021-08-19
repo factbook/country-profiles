@@ -353,11 +353,11 @@ _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Lee LITZENBERGER (since 12 March 2019)<br>
-_telephone_: [994] (12) 488-3300<br>
 _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
+_telephone_: [994] (12) 488-3300<br>
 _FAX_: [994] (12) 488-3330<br>
-_email address_: BakuACS@state.gov<br>
+_email address and website_: BakuACS@state.gov<br><br>https://az.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band recalls Azerbaijan's Turkic heritage, red stands for modernization and progress, and green refers to Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>

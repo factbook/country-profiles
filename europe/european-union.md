@@ -263,10 +263,9 @@ _FAX_: [1] (202) 429-1766<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (Vacant); Charge D' Affaires Kelly Adams-Smith (since 1 July 2021)<br>
-_telephone_: [32] (2) 811-4100<br>
-_embassy_: 13 Zinnerstraat/Rue Zinner, B-1000 Brussels<br>
+_embassy_: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br>
 _mailing address_: use embassy street address<br>
-_FAX_: [32] (2) 811-5154<br>
+_telephone_: [32] (2) 811-4100<br>
 
 **Flag description**<br>
 a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars are the peoples of Europe in a circle, a symbol of unity; the number of stars is fixed<br>

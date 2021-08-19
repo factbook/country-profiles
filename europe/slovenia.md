@@ -341,12 +341,12 @@ _FAX_: [1] (202) 386-6633<br>
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lynda C. BLANCHARD (since 29 August 2019)<br>
-_telephone_: [386] (1) 200-5500<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Susan K. Falatko&nbsp; (since 20 January 2021)<br>
 _embassy_: Presernova 31, 1000 Ljubljana<br>
 _mailing address_: 7140 Ljubljana Place, Washington, DC 20521-7140<br>
+_telephone_: [386] (1) 200-5500<br>
 _FAX_: [386] (1) 200-5555<br>
-_email address_: LjubljanaACS@state.gov<br>
+_email address and website_: LjubljanaACS@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red, derive from the medieval coat of arms of the Duchy of Carniola; the Slovenian seal (a shield with the image of Triglav, Slovenia's highest peak, in white against a blue background at the center; beneath it are two wavy blue lines depicting seas and rivers, and above it are three six-pointed stars arranged in an inverted triangle, which are taken from the coat of arms of the Counts of Celje, the prominent Slovene dynastic house of the late 14th and early 15th centuries) appears in the upper hoist side of the flag centered on the white and blue bands<br>
@@ -692,7 +692,7 @@ Slovenia officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>521,676 estimated refugee and migrant arrivals (January 2015-June 2021)<br>
+<strong>note:  </strong>522,757 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

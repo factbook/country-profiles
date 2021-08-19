@@ -351,11 +351,11 @@ _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Fran
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Richard H. GLENN (since August 2020)<br>
-_telephone_: [56] (2) 2330-3000<br>
 _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
 _mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
-_FAX_: [56] (2) 2330-3710, 2330-3160<br>
-_email address_: Santiagousa@state.gov<br>
+_telephone_: [56] (2) 2330-3000<br>
+_FAX_: [56] (2) 2330-3710<br>
+_email address and website_: SantiagoUSA@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence<br>

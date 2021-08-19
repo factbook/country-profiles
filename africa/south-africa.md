@@ -359,12 +359,12 @@ _FAX_: [1] (202) 265-1607<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Lana MARKS (since 28 January 2020)<br>
-_telephone_: [27] (12) 431-4000<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Todd P. HASKELL (since March 2021)<br>
 _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
+_telephone_: [27] (12) 431-4000<br>
 _FAX_: [27] (12) 342-2299<br>
-_email address_: ACSJohannesburg@state.gov<br>
+_email address and website_: ACSJohannesburg@state.gov<br>
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
 **Flag description**<br>

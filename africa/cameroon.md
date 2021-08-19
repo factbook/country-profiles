@@ -370,11 +370,11 @@ _FAX_: [1] (202) 387-3826<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant);&nbsp; Deputy Chief of Mission (currently serving as Charge d'Affaires) Mary E. DASCHBACH<br>
-_telephone_: [237] 22251-4000/[237] 22220 1500; Consular: [237] 22220 1603<br>
 _embassy_: Avenue Rosa Parks, Yaound&eacute;<br>
 _mailing address_: 2520 Yaounde Place, Washington, DC&nbsp; 20521-2520<br>
-_FAX_: [237] 22220 1500 Ext. 4531; Consular FAX: [237] 22220 1752<br>
-_email address_: YaoundeACS@state.gov<br>
+_telephone_: [237] 22251-4000/[237] 22220-1500<br>
+_FAX_: [237] 22220-1500, Ext. 4531<br>
+_email address and website_: YaoundeACS@state.gov<br><br>https://cm.usembassy.gov/<br>
 _branch office(s)_: Douala<br>
 
 **Flag description**<br>

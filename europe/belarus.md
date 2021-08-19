@@ -348,11 +348,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant; left in 2008 upon insistence of Belarusian Government); Charge d'Affaires Jeffrey GIAUQUE (since July 2020)<br>
-_telephone_: [375] (17) 210-12-83/217-7347/217-7348<br>
 _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
+_telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
 _FAX_: [375] (17) 334-78-53<br>
-_email address_: ConsularMinsk@state.gov<br>
+_email address and website_: ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/<br>
 
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country<br>

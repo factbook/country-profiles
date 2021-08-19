@@ -253,7 +253,7 @@ Caricom, CDB, Interpol (subbureau), OECS, UPU<br>
 none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy in Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI<br>
+_embassy_: none (overseas territory of the UK); alternate contact is the US Embassy in Barbados [1] (246) 227-4000; US Embassy Bridgetown, Wildey Business Park, St. Michael BB 14006, Barbados, WI<br>
 
 **Flag description**<br>
 blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness<br>

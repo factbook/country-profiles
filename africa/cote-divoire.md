@@ -337,9 +337,9 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br> National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br> Senate - first ever held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 18 December 2016 (next to be held in 2021)<br>
-_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br> National Assembly - percent of vote by party - RHDP 50.3%, FPI 5.8%, UDPCI 1%, other 1.4%, independent 38.5%; seats by party - RHDP, 167, UDPCI 6, FPI 3, UPCI 3, independent 76; composition - men 228, women 27, percent of women 10.6%; note - total Parliament percent of women 13%<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - first ever held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 6 March 2021 (next to be held in 2026)<br>
+_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%<br>
 <br><br><br>
 
 **Executive branch**<br>
@@ -367,12 +367,12 @@ _telephone_: [1] (202) 797-0300<br>
 _FAX_: [1] (202) 462-9444<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Richard K. BELL (since 3 September 2019)<br>
-_telephone_: [225] 22 49 40 00<br>
-_embassy_: Cocody Rivi&eacute;ra Golf, 01 BP 1712 Abidjan 01, Abidjan<br>
+_chief of mission_: Ambassador Richard K. BELL (since 10 October 2019)<br>
+_embassy_: B.P. 730 Abidjan Cidex 03<br>
 _mailing address_: 2010 Abidjan Place, Washington DC&nbsp; 20521-2010<br>
-_FAX_: [225] 22 49 43 23<br>
-_email address_: AbjAmCit@state.gov<br>
+_telephone_: [225] 27-22-49-40-00<br>
+_FAX_: [225] 27-22-49-43-23<br>
+_email address and website_: AbjAmCit@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br>

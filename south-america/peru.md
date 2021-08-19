@@ -364,12 +364,12 @@ _FAX_: [1] (202) 659-8124<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Krishna R. URS (since 18 October 2017)<br>
-_telephone_: [51] (1) 618-2000<br>
+_chief of mission_: Ambassador Lisa Suzanne KENNA (since 18 March 2021)<br>
 _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
-_FAX_: [51] (1) 618-2397<br>
-_email address_: LimaACS@state.gov<br>
+_telephone_: [51] (1) 618-2000<br>
+_FAX_: [51] (1) 618-2724<br>
+_email address and website_: LimaACS@state.gov<br>
 
 **Flag description**<br>
 three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace<br>

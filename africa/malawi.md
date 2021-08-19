@@ -365,11 +365,11 @@ _FAX_: [1] (202) 721-0288<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Robert SCOTT (since&nbsp;6 August&nbsp;2019)<br>
-_telephone_: +(265) 1-773-166, 1-773-342 and 1-773-367 (Dial "0" before the "1" within Malawi); EMER: +(265) (0) 999-591-024 or +(265) (0) 888-734-826<br>
 _embassy_: 16 Jomo Kenyatta Road, Lilongwe 3<br>
 _mailing address_: 2280 Lilongwe Place, Washington DC&nbsp; 20521-2280<br>
-_FAX_: 265 (0) 1770471<br>
-_email address_: LilongweConsular@state.gov<br>
+_telephone_: [265] (0) 177-3166<br>
+_FAX_: [265] (0) 177-0471<br>
+_email address and website_: LilongweConsular@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered on the black band; black represents the native peoples, red the blood shed in their struggle for freedom, and green the color of nature; the rising sun represents the hope of freedom for the continent of Africa<br>

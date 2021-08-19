@@ -340,11 +340,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer BACHUS (since January 2020)<br>
-_telephone_: [420] 257 022 000<br>
-_embassy_: Trziste 15, 118 01 Prague 1 - Mala Strana<br>
+_embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
-_FAX_: [420] 257 022 809<br>
-_email address_: ACSPrg@state.gov<br>
+_telephone_: [420] 257-022-000<br>
+_FAX_: [420] 257-022-809<br>
+_email address and website_: ACSPrg@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>

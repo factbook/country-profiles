@@ -341,8 +341,9 @@ _election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by
 _chief of state_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
 _head of government_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
 _cabinet_: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019 (next to be held in 2024)<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
 _election results_: Ashraf GHANI declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI 50.6%,&nbsp;Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
+<strong>note:</strong> Ashraf GHANI left the country on 15 August 2021; no new leader has been announced<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Stera Mahkama (consists of the supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans)<br>
@@ -364,11 +365,11 @@ _consulate(s) general_: Los Angeles, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Ross WILSON (since 18 January 2020)<br>
-_telephone_: [00 93] (0) 700 10 8000<br>
 _embassy_: Bibi Mahru, Kabul<br>
 _mailing address_: 6180 Kabul Place, Washington DC&nbsp; 20521-6180<br>
-_FAX_: [00 93] (0) 700 108 564<br>
-_email address_: kabulacs@state.gov<br>
+_telephone_: [00 93] (0) 700-10-8000<br>
+_FAX_: [00 93] (0) 700-108-564<br>
+_email address and website_: KabulACS@state.gov<br><br>https://af.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
@@ -677,7 +678,7 @@ _river port(s)_: Kheyrabad, Shir Khan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Afghan National Defense and Security Forces (ANDSF) are comprised of military, police, and other security elements:<br><br>Ministry of Defense: Afghan National Army ((ANA), Afghan Air Force, Afghan Army Special Security Forces (ASSF; includes ANA Special Operations Command, General Command Police Special Units (GCPSU), and the Special Mission Wing (SMW)), Afghanistan National Army Territorial Forces (ANA-TF, lightly-armed local security forces); Afghan Border Force (ABF); Afghan National Civil Order Force (ANCOF)<br><br>Ministry of Interior: Afghan Uniform (National) Police (AUP); Public Security Police (PSP); Afghan Border Police (ABP); Afghan Anti-Crime Police; Afghan Local Police; Afghan Public Protection Force; Special Security Forces<br><br>National Directorate of Security ((NDS), intelligence service) (2021)<br>
+prior to August 2021, the Afghan National Defense and Security Forces (ANDSF) were comprised of military, police, and other security elements:<br><br>Ministry of Defense: Afghan National Army ((ANA), Afghan Air Force, Afghan Army Special Security Forces (ASSF; includes ANA Special Operations Command, General Command Police Special Units (GCPSU), and the Special Mission Wing (SMW)), Afghanistan National Army Territorial Forces (ANA-TF, lightly-armed local security forces); Afghan Border Force (ABF); Afghan National Civil Order Force (ANCOF)<br><br>Ministry of Interior: Afghan Uniform (National) Police (AUP); Public Security Police (PSP); Afghan Border Police (ABP); Afghan Anti-Crime Police; Afghan Local Police; Afghan Public Protection Force; Special Security Forces<br><br>National Directorate of Security ((NDS), intelligence service) (2021)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019)<br>
@@ -687,17 +688,13 @@ Afghan National Defense and Security Forces (ANDSF) are comprised of military, p
 1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-Afghan National Defense and Security Forces (ANDSF) have approximately 307,000 active personnel; Ministry of Defense: 186,000; Ministry of Interior: 121,000 (Jan 2021)<br>
-<strong>note:</strong> the authorized strength of the ANDSF, the force level that the international community is willing to fund, is 352,000 personnel<br>
+not available; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Afghan Army and Air Force inventory is mostly a mix of Soviet-era and more modern US equipment; since 2010, the US is the leading supplier of arms to Afghanistan, followed by Russia (2020)<br>
+the Afghan military inventory was mostly a mix of Soviet-era and more modern US and other foreign equipment; since 2010, the US was the leading supplier of arms to Afghanistan, followed by Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
-
-**Military - note**<br>
-<p>the Afghan military focuses on internal security threats from several armed groups, particularly the Taliban and militants from the Islamic State of Iraq and ash-Sham (ISIS), al-Qa’ida, and Haqqani Network terrorist groups (see the Terrorist Organizations Appendix); the primary threat to the Afghan Government and its security forces is the Taliban, which has conducted an insurgency since the early 2000s and conducted thousands of attacks against government forces, including widespread assassinations of government employees, security officials, and society leaders; the Taliban calls itself the Islamic Emirate of Afghanistan; its political and military decisions are made by a leadership council (Rahbari Shura) currently led by HAIBATULLAH Akhundzada; as of mid-2020, the group had an estimated 60-80,000 full-time fighters; in addition to their strongholds in the provinces of Helmond and Kandahar, the Taliban has conducted attacks in nearly every Afghanistan province; the Taliban has close ties to al-Qaida and the Haqqani Network<br><br><br></p><br>
+not available<br>
 
 ## Terrorism
 

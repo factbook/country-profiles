@@ -360,11 +360,11 @@ _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Nina Maria FITE (since 14 February 2018)<br>
-_telephone_: [244] 222 641 000<br>
-_embassy_: Rua Houari Boumedienne, #32 (in the Miramar area of Luanda), Luanda, C.P. 6468<br>
+_embassy_: Rua Houari Boumedienne, #32, Luanda<br>
 _mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
-_FAX_: [244] (222) 641 000<br>
-_email address_: Consularluanda@state.gov<br>
+_telephone_: [244] (222) 64-1000<br>
+_FAX_: [244] (222) 64-1000<br>
+_email address and website_: Consularluanda@state.gov<br><br>https://ao.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants<br>

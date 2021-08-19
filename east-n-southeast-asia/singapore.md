@@ -342,11 +342,11 @@ _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Rafik MANSOUR (since July 2019)<br>
-_telephone_: [65] 6476-9100<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
+_telephone_: [65] 6476-9100<br>
 _FAX_: [65] 6476-9340<br>
-_email address_: singaporeacs@state.gov<br>
+_email address and website_: singaporeusembassy@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and white; near the hoist side of the red band, there is a vertical, white crescent (closed portion is toward the hoist side) partially enclosing five white five-pointed stars arranged in a circle; red denotes brotherhood and equality; white signifies purity and virtue; the waxing crescent moon symbolizes a young nation on the ascendancy; the five stars represent the nation's ideals of democracy, peace, progress, justice, and equality<br>

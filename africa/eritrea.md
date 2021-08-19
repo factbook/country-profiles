@@ -343,11 +343,11 @@ _FAX_: [1] (202) 319-1304<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Steven C. WALKER (since December 2019)<br>
-_telephone_: [291] (1) 120004<br>
-_embassy_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
-_mailing address_: P.O. Box 211, Asmara<br>
-_FAX_: [291] (1) 127584<br>
-_email address_: ConsularAsmara@state.gov<br>
+_embassy_: 179 Alaa Street, Asmara<br>
+_mailing address_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
+_telephone_: [291] (1) 12-00-04<br>
+_FAX_: [291] (1) 12-75-84<br>
+_email address and website_: consularasmara@state.gov<br>
 
 **Flag description**<br>
 red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>

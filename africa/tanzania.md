@@ -370,11 +370,11 @@ _FAX_: [1] (202) 797-7408<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Donald J. WRIGHT (since 2 April 2020)<br>
-_telephone_: (255) 22-229-4000, dial '1' for an emergency operator<br>
-_embassy_: 686 Old Bagamoyo Road, Msasani, Dar es Salaam<br>
-_mailing address_: P.O. Box 9123, Dar es Salaam<br>
-_FAX_: [255] (22) 229-4970 or 4971<br>
-_email address_: DRSACS@state.gov<br>
+_embassy_: 686 Old Bagamoyo Road, Msasani, P.O. Box 9123, Dar es Salaam<br>
+_mailing address_: 2140 Dar es Salaam Place, Washington, DC&nbsp; 20521-2140<br>
+_telephone_: [255] (22) 229-4000<br>
+_FAX_: [255] (22) 229-4721<br>
+_email address and website_: DRSACS@state.gov<br>
 
 **Flag description**<br>
 divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean<br>

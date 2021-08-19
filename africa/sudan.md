@@ -363,11 +363,10 @@ _FAX_: [1] (202) 667-2406<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian SHUKAN (since October 2019)<br>
-_telephone_: [249] 18702-2000<br>
-_embassy_: Kilo 10, Soba, Khartoum<br>
+_embassy_: P.O. Box 699, Kilo 10, Soba, Khartoum<br>
 _mailing address_: 2200 Khartoum Place, Washington DC&nbsp; 20521-2200<br>
-_FAX_: [249] 18702-2547<br>
-_email address_: ACSKhartoum@state.gov<br>
+_telephone_: [249] 187-0-22000<br>
+_email address and website_: ACSKhartoum@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black with a green isosceles triangle based on the hoist side; colors and design based on the Arab Revolt flag of World War I, but the meanings of the colors are expressed as follows: red signifies the struggle for freedom, white is the color of peace, light, and love, black represents the people of Sudan (in Arabic 'Sudan' means black), green is the color of Islam, agriculture, and prosperity<br>

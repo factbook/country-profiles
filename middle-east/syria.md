@@ -338,11 +338,9 @@ _FAX_: [1] (202) 234-9548<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
-_telephone_: [963] (11) 3391-4444<br>
 _embassy_: Abou Roumaneh, 2 Al Mansour Street, Damascus<br>
 _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
-_FAX_: [963] (11) 3391-3999<br>
-_email address_: AmmanACS@state.gov<br>
+_email address and website_: USIS_damascus@embassy.mzv.cz<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>
@@ -654,7 +652,7 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Syrian Armed Forces: Syrian Arab Army, Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
+Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
 note: the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
 
 **Military and security service personnel strengths**<br>

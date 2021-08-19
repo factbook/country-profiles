@@ -365,12 +365,12 @@ _telephone_: [1] (202) 232-6656<br>
 _FAX_: [1] (202) 265-1996<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Patricia MAHONEY (since 18 January 2019)<br>
-_telephone_: [229] 21-30-06-50<br>
+_chief of mission_: Ambassador Patricia MAHONEY (since 4 July 2019)<br>
 _embassy_: 01 BP 2012, Cotonou<br>
-_mailing address_: 01 BP 2012, Cotonou<br>
+_mailing address_: <p>2120 Cotonou Place, Washington DC  20521-2120</p><br>
+_telephone_: [229] 21-30-06-50<br>
 _FAX_: [229] 21-30-03-84<br>
-_email address_: ConsularCotonou@state.gov<br>
+_email address and website_: ACSCotonou@state.gov<br><br>https://bj.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of yellow (top) and red (bottom) with a vertical green band on the hoist side; green symbolizes hope and revival, yellow wealth, and red courage<br>

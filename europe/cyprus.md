@@ -353,11 +353,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Judith Gail GARBER (since 18 March 2019)<br>
-_telephone_: [357] (22) 393939<br>
-_embassy_: corner of Metochiou and Ploutarchou Streets, 2407 Engomi, Nicosia<br>
+_embassy_: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia<br>
 _mailing address_: 5450 Nicosia Place, Washington DC&nbsp; 20521-5450<br>
+_telephone_: [357] (22) 393939<br>
 _FAX_: [357] (22) 780944<br>
-_email address_: ACSNicosia@state.gov<br>
+_email address and website_: ACSNicosia@state.gov<br>
 
 **Flag description**<br>
 centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>

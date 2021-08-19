@@ -332,12 +332,12 @@ _FAX_: [1] (202) 328-8270<br>
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador James Randolph "Randy" EVANS (since 19 June 2018)<br>
-_telephone_: [352] 46-01-23 00<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Casey MACE (since 20 January 2021)<br>
 _embassy_: 22 Boulevard Emmanuel Servais, L-2535 Luxembourg City<br>
 _mailing address_: 5380 Luxembourg Place, Washington DC&nbsp; 20521-5380<br>
+_telephone_: [352] 46-01-23-00<br>
 _FAX_: [352] 46-14-01<br>
-_email address_: LuxembourgConsular@state.gov<br>
+_email address and website_: Luxembourgconsular@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and light blue; similar to the flag of the Netherlands, which uses a darker blue and is shorter; the coloring is derived from the Grand Duke's coat of arms (a red lion on a white and blue striped field)<br>

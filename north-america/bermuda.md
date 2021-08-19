@@ -280,10 +280,10 @@ none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Karen GRISSETTE (since 6 July 2021)<br>
+_mailing address_: 5300 Hamilton Place, Washington, DC 20520-5300<br>
 _telephone_: (441) 295-1342<br>
-_mailing address_: P. O. Box HM325, Hamilton HMBX; American Consulate General Hamilton, US Department of State, 5300 Hamilton Place, Washington, DC 20520-5300<br>
 _FAX_: (441) 295-1592<br>
-_email address_: HamiltonConsulate@state.gov<br>
+_email address and website_: HamiltonConsulate@state.gov<br><br>https://bm.usconsulate.gov/<br>
 _consulate(s) general_: 16 Middle Road, Devonshire DV O3<br>
 
 **Flag description**<br>

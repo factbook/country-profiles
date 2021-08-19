@@ -254,7 +254,7 @@ _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 
 **Food insecurity**<br>
-_widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60 percent of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60&minus;85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2021)<br>
+_widespread lack of access_: due to economic downturn, civil insecurity, lingering impact of floods and prolonged conflict - despite sustained humanitarian assistance, food insecurity still affects large segments of the population, driven by insufficient food supplies, an economic downturn, high food prices and the lingering impact of widespread floods in 2020; about 7.2 million people (about 60% of the total population) are estimated to be severely food insecure in the April&minus;July 2021 period; particular concern exists for households in Jonglei, Northern Bahr-el-Ghazal and Warrap states and in neighboring Pibor Administrative Area, where 60-85% of the&nbsp; population is estimated to be severely food insecure, with a total of 108,000 people facing &ldquo;Catastrophe&rdquo; levels of food insecurity (2021)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
@@ -327,11 +327,11 @@ _telephone_: [1] (202) 293-7940<br>
 _FAX_: [1] (202) 293-7941<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Chargé d’Affaires Jon F. DANILOWICZ (since July 2020)<br><br>
-_telephone_: [211] 912-105-188<br>
+_chief of mission_: Ambassador (vacant); Deputy Chief of Mission Jon F. DANILOWICZ (since September 2020)<br><br>
 _embassy_: Kololo Road adjacent to the EU's compound, Juba<br>
 _mailing address_: 4420 Juba Place, Washington DC&nbsp; 20521-4420<br>
-_email address_: ACSJuba@state.gov<br>
+_telephone_: [211] 912-105-188<br>
+_email address and website_: ACSJuba@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a blue isosceles triangle based on the hoist side contains a gold, five-pointed star; black represents the people of South Sudan, red the blood shed in the struggle for freedom, green the verdant land, and blue the waters of the Nile; the gold star represents the unity of the states making up South Sudan<br>

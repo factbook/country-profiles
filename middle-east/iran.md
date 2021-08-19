@@ -355,7 +355,7 @@ CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national commi
 _chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Pakistani Embassy, 2209 Wisconsin Avenue NW, Washington, DC 20007; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: none; the US Interests Section is located in the Embassy of Switzerland; Embassy of Switzerland, US Foreign Interests Section No. 39, Shahid Mousavi (Golestan 5th), Pasdaran Ave., Tehran, Iran<br>
+_embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red; the national emblem (a stylized representation of the word Allah in the shape of a tulip, a symbol of martyrdom) in red is centered in the white band; ALLAH AKBAR (God is Great) in white Arabic script is repeated 11 times along the bottom edge of the green band and 11 times along the top edge of the red band; green is the color of Islam and also represents growth, white symbolizes honesty and peace, red stands for bravery and martyrdom<br>

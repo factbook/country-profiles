@@ -350,12 +350,12 @@ _FAX_: [1] (202) 331-8142<br>
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kenneth S. GEORGE (since 2 September 2019)<br>
-_telephone_: (+598) 1770-2000<br>
-_embassy_: Laura Muller 1776, Montevideo 11200<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jennifer SAVAGE (since 20 January 2021)<br>
+_embassy_: Lauro Muller 1776, Montevideo 11200<br>
 _mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
-_FAX_: [598] (2) 1770-2128<br>
-_email address_: MontevideoACS@state.gov<br>
+_telephone_: (+598) 1770-2000<br>
+_FAX_: [+598] 1770-2128<br>
+_email address and website_: MontevideoACS@state.gov<br>
 
 **Flag description**<br>
 nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br>

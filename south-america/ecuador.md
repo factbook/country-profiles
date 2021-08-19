@@ -360,12 +360,11 @@ _FAX_: [1] (202) 667-3482<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis, New Haven (CT), New Orleans, New York, Newark (NJ), Phoenix, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Michael J. FITZPATRICK (since 18 June 2019)<br>
-_telephone_: [593] (2) 398-5000<br>
-_embassy_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
+_chief of mission_: Ambassador Michael J. FITZPATRICK (since 3 July 2019)<br>
+_embassy_: E12-170 Avenida Avigiras y Avenida Eloy Alfaro, Quito<br>
 _mailing address_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
-_FAX_: [593] (2) 398-5100<br>
-_email address_: ACSQuito@state.gov<br>
+_telephone_: [593] (2) 398-5000<br>
+_email address and website_: ACSQuito@state.gov<br>
 _consulate(s) general_: Guayaquil<br>
 
 **Flag description**<br>

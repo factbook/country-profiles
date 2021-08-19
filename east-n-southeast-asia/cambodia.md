@@ -358,12 +358,12 @@ _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Patrick MURPHY (since 23 October 2019)<br>
-_telephone_: [855] (23) 728-000<br>
+_chief of mission_: Ambassador W. Patrick MURPHY (since 23 October 2019)<br>
 _embassy_: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh<br>
 _mailing address_: 4540 Phnom Penh Place, Washington DC&nbsp; 20521-4540<br>
-_FAX_: [855] (23) 728-600<br>
-_email address_: ACSPhnomPenh@state.gov<br>
+_telephone_: [855] (23) 728-000<br>
+_FAX_: [855] (23) 728-700<br>
+_email address and website_: ACSPhnomPenh@state.gov<br><br>https://kh.usembassy.gov/<br><br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>

@@ -348,11 +348,11 @@ _consulate(s) general_: Chicago, Detroit, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Kate Marie BYRNES (since 12 July 2019)<br>
-_telephone_: [389] (2) 310-2000<br>
 _embassy_: Str. Samoilova, Nr. 21, 1000 Skopje<br>
 _mailing address_: 7120 Skopje Place, Washington, DC 20521-7120<br>
+_telephone_: [389] (2) 310-2000<br>
 _FAX_: [389] (2) 310-2499<br>
-_email address_: SkopjeACS@state.gov<br>
+_email address and website_: SkopjeACS@state.gov<br>
 
 **Flag description**<br>
 a yellow sun (the Sun of Liberty) with eight broadening rays extending to the edges of the red field; the red and yellow colors have long been associated with Macedonia<br>
@@ -682,7 +682,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 516,781 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 517,455 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

@@ -305,7 +305,7 @@ _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)
 etymology: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"&nbsp;<br>
 
 **Administrative divisions**<br>
-23 regions (regions, singular - region); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
+23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
 
 **Independence**<br>
 11 August 1960 (from France)<br>
@@ -364,11 +364,11 @@ _FAX_: [1] (202) 758-0431<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David GILMOUR (since December 2020)<br>
-_telephone_: [235] 2251-5017<br>
-_embassy_: US Embassy N&rsquo;Djamena, Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
+_embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
+_telephone_: [235] 2251-5017<br>
 _FAX_: [235] 2253-9102<br>
-_email address_: NdjamenaACS@state.gov<br>
+_email address and website_: NdjamenaACS@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br>

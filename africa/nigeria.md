@@ -368,12 +368,12 @@ _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Mary Beth LEONARD (since&nbsp;24 December 2019)<br>
-_telephone_: [234] (9) 461-4000<br>
 _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
+_telephone_: [234] (9) 461-4000<br>
 _FAX_: [234] (9) 461-4036<br>
-_email address_: AbujaACS@state.gov<br>
-_consulate(s)_: Lagos<br>
+_email address and website_: AbujaACS@state.gov<br>
+_consulate(s) general_: Lagos<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and green; the color green represents the forests and abundant natural wealth of the country, white stands for peace and unity<br>

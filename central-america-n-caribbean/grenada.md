@@ -316,11 +316,11 @@ _consulate(s) general_: Miami<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: the US does not have an official embassy in Grenada; the US Ambassador to Barbados is accredited to Grenada<br>
-_telephone_: [1] (473) 444-1173 through 1176<br>
 _embassy_: Lance-aux-Epines, Saint George's<br>
 _mailing address_: 3180 Grenada Place, Washington DC&nbsp; 20521-3180<br>
+_telephone_: [1] (473) 444-1173<br>
 _FAX_: [1] (473) 444-4820<br>
-_email address_: StgeorgesACS@state.gov<br>
+_email address and website_: StgeorgesACS@state.gov<br>
 
 **Flag description**<br>
 a rectangle divided diagonally into yellow triangles (top and bottom) and green triangles (hoist side and outer side), with a red border around the flag; there are seven yellow, five-pointed stars with three centered in the top red border, three centered in the bottom red border, and one on a red disk superimposed at the center of the flag; there is also a symbolic nutmeg pod on the hoist-side triangle (Grenada is a leading nutmeg producer); the seven stars stand for the seven administrative divisions, with the central star denoting the capital, St. George's; yellow represents the sun and the warmth of the people, green stands for vegetation and agriculture, and red symbolizes harmony, unity, and courage<br>

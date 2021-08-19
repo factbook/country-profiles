@@ -326,12 +326,12 @@ _FAX_: [1] (202) 452-6281<br>
 _consulate(s)_: Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Amy HYATT (since 9 March 2015)<br>
-_telephone_: [680] 587-2920<br>
+_chief of mission_: Ambassador John HENNESSEY-NILAND (since 6 March 2020)<br>
 _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
-_mailing address_: P. O. Box 6028, Koror, Republic of Palau 96940<br>
+_mailing address_: 4260 Koror Place, Washington, DC&nbsp; 20521-4260<br>
+_telephone_: [680] 587-2920<br>
 _FAX_: [680] 587-2911<br>
-_email address_: USEmbassykoror@palaunet.lcom<br>
+_email address and website_: ConsularKoror@state.gov<br>
 
 **Flag description**<br>
 light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility<br>

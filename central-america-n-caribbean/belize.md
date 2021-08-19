@@ -338,12 +338,12 @@ _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: Miami<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Keith R. GILGES (since 24 July 2018)<br>
-_telephone_: (501) 822-4011<br>
+_chief of mission_: Ambassador (vacant); Charge d&rsquo;Affaires Leyla MOSES-ONES(since August 2021)<br>
 _embassy_: Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
+_telephone_: (501) 822-4011<br>
 _FAX_: (501) 822-4012<br>
-_email address_: ACSBelize@state.gov<br>
+_email address and website_: ACSBelize@state.gov<br><br>https://bz.usembassy.gov/<br>
 
 **Flag description**<br>
 royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br>

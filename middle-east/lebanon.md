@@ -342,11 +342,11 @@ _consulate(s) general_: Detroit, New York, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Dorothy SHEA (since 11 March 2020)<br>
-_telephone_: [961] (04) 543 600<br>
 _embassy_: Awkar-Facing the Municipality, Main Street, Beirut<br>
 _mailing address_: 6070 Beirut Place, Washington DC&nbsp; 20521-6070<br>
-_FAX_: [961] (4) 544136<br>
-_email address_: BeirutACS@state.gov<br>
+_telephone_: [961] (04) 543-600<br>
+_FAX_: [961] (4) 544-019<br>
+_email address and website_: BeirutACS@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands consisting of red (top), white (middle, double width), and red (bottom) with a green cedar tree centered in the white band; the red bands symbolize blood shed for liberation, the white band denotes peace, the snow of the mountains, and purity; the green cedar tree is the symbol of Lebanon and represents eternity, steadiness, happiness, and prosperity<br>

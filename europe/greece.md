@@ -347,11 +347,11 @@ _consulate(s)_: Atlanta, Houston<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Geoffrey R. PYATT (since 24 October 2016)<br>
-_telephone_: [30] (210) 721-2951<br>
 _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
 _mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
-_FAX_: [30] (210) 645-6282<br>
-_email address_: athensamericancitizenservices@state.gov<br>
+_telephone_: [30] (210) 721-2951<br>
+_FAX_: [30] (210) 724-5313<br>
+_email address and website_: athensamericancitizenservices@state.gov<br>
 _consulate(s) general_: Thessaloniki<br>
 
 **Flag description**<br>

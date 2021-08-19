@@ -333,12 +333,12 @@ _consulate(s) general_: Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Martina STRONG (since February 2021)<br>
-_telephone_: [966] (11) 488-3800<br>
-_embassy_: P.O. Box 94309, Riyadh 11693<br>
+_embassy_: Riyadh 11564<br>
 _mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
+_telephone_: [966] (11) 835-4000<br>
 _FAX_: [966] (11) 488-7360<br>
-_email address_: RiyadhACS@state.gov<br>
-_consulate(s) general_: Dhahran, Jiddah (Jeddah)<br>
+_email address and website_: RiyadhACS@state.gov<br>
+_consulate(s) general_: Dhahran, Jeddah<br>
 
 **Flag description**<br>
 green, a traditional color in Islamic flags, with the Shahada or Muslim creed in large white Arabic script (translated as "There is no god but God; Muhammad is the Messenger of God") above a white horizontal saber (the tip points to the hoist side); design dates to the early twentieth century and is closely associated with the Al Saud family, which established the kingdom in 1932; the flag is manufactured with differing obverse and reverse sides so that the Shahada reads - and the sword points - correctly from right to left on both sides<br>

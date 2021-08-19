@@ -342,11 +342,11 @@ _consulate(s) general_: Chicago, Houston, New York, Palo Alto (CA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Stuart A. DWYER (since 20 January 2021)<br>
-_telephone_: [45] 33 41 71 00<br>
-_embassy_: Dag Hammarskjolds Alle 24, 2100 Copenhagen 0<br>
+_embassy_: Dag Hammarskjolds Alle 24, 2100 Kobenhavn 0<br>
 _mailing address_: 5280 Copenhagen Place, Washington DC&nbsp; 20521-5280<br>
-_FAX_: [45] 35 43 02 23<br>
-_email address_: CopenhagenACS@state.gov<br>
+_telephone_: [45] 33-41-71-00<br>
+_FAX_: [45] 35-43-02-23<br>
+_email address and website_: CopenhagenACS@state.gov<br>
 
 **Flag description**<br>
 red with a white cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side; the banner is referred to as the Dannebrog (Danish flag) and is one of the oldest national flags in the world; traditions as to the origin of the flag design vary, but the best known is a legend that the banner fell from the sky during an early-13th century battle; caught up by the Danish king before it ever touched the earth, this heavenly talisman inspired the royal army to victory; in actuality, the flag may derive from a crusade banner or ensign<br>

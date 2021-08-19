@@ -361,11 +361,11 @@ _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Alaina B.&nbsp;TEPLITZ (since 1 November 2018); note - also accredited to Maldives<br>
-_telephone_: [94] (11) 249-8500<br>
 _embassy_: 210 Galle Road, Colombo 03<br>
 _mailing address_: 6100 Colombo Place, Washington DC&nbsp; 20521-6100<br>
+_telephone_: [94] (11) 249-8500<br>
 _FAX_: [94] (11) 243-7345<br>
-_email address_: colomboacs@state.gov<br>
+_email address and website_: colomboacs@state.gov<br>
 
 **Flag description**<br>
 yellow with two panels; the smaller hoist-side panel has two equal vertical bands of green (hoist side) and orange; the other larger panel depicts a yellow lion holding a sword on a maroon rectangular field that also displays a yellow bo leaf in each corner; the yellow field appears as a border around the entire flag and extends between the two panels; the lion represents Sinhalese ethnicity, the strength of the nation, and bravery; the sword demonstrates the sovereignty of the nation; the four bo leaves - symbolizing Buddhism and its influence on the country - stand for the four virtues of kindness, friendliness, happiness, and equanimity; orange signifies Sri Lankan Tamils, green Sri Lankan Moors, and maroon the Sinhalese majority; yellow denotes other ethnic groups; also referred to as the Lion Flag<br>

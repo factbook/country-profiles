@@ -342,11 +342,11 @@ _consulate(s) general_: Atlanta, Chicago, Honolulu, Houston, Los Angeles, New Yo
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Michael GOLDMAN (since 19 January 2021)<br>
-_telephone_: [61] (02) 6214-5600<br>
-_embassy_: Moonah Place, Yarralumla, Canberra, Australian Capital Territory 2600<br>
+_embassy_: Moonah Place, Yarralumla, Australian Capital Territory 2600<br>
 _mailing address_: 7800 Canberra Place, Washington DC&nbsp; 20512-7800<br>
-_FAX_: [61] (02) 6214-5970<br>
-_email address_: AskEmbassyCanberra@state.gov<br>
+_telephone_: [61] (02) 6214-5600<br>
+_FAX_: [61] (02) 9373-9184<br>
+_email address and website_: AskEmbassyCanberra@state.gov<br><br>https://au.usembassy.gov/<br><br>
 _consulate(s) general_: Melbourne, Perth, Sydney<br>
 
 **Flag description**<br>

@@ -367,12 +367,12 @@ _consulate(s) general_: Houston, New York, Seattle<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John J. SULLIVAN (since 5 February 2021)<br>
-_telephone_: [7] (495) 728-5000<br>
-_embassy_: Bolshoy Deviatinskiy Pereulok No. 8, 121099 Moscow<br>
+_embassy_: Bolshoy Deviatinsky Pereulok No. 8, Moscow 121099<br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
+_telephone_: [7] (495) 728-5000<br>
 _FAX_: [7] (495) 728-5090<br>
-_email address_: moscowacs@state.gov<br>
-_consulate(s) general_: Saint Petersburg, Vladivostok, Yekaterinburg<br>
+_email address and website_: MoscowACS@state.gov<br>
+_consulate(s) general_: Vladivostok, Yekaterinburg<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), blue, and red<br>

@@ -357,11 +357,11 @@ _FAX_: [1] (202) 232-4544<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Peter H. VROOMAN (since 5 April 2018)<br>
-_telephone_: [250] 252 596-400<br>
-_embassy_: 2657 Avenue de la Gendarmerie, P. O. Box 28, Kigali<br>
+_embassy_: 2657 Avenue de la Gendarmerie (Kaciyiru), P. O. Box 28 Kigali<br>
 _mailing address_: 2210 Kigali Place, Washington DC&nbsp; 20521-2210<br>
-_FAX_: [250] 252 580 325<br>
-_email address_: consularkigali@state.gov<br>
+_telephone_: [250] 252 596-400<br>
+_FAX_: [250] 252 580-325<br>
+_email address and website_: consularkigali@state.gov<br>
 
 **Flag description**<br>
 three horizontal bands of sky blue (top, double width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue represents happiness and peace, yellow economic development and mineral wealth, green hope of prosperity and natural resources; the sun symbolizes unity, as well as enlightenment and transparency from ignorance<br>

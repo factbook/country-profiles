@@ -335,12 +335,12 @@ _FAX_: [1] (202) 232-5993<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador&nbsp;Edward F. CRAWFORD&nbsp;(since&nbsp;1 July 2019)<br>
-_telephone_: [353] (1) 668-8777<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Alexandra MCKNIGHT (since 19 January 2021)<br>
 _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
 _mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
-_FAX_: [353] (1) 688-9946<br>
-_email address_: ACSDublin@state.gov<br>
+_telephone_: [353] (1) 668-8777<br>
+_FAX_: [353] (1) 688-8056<br>
+_email address and website_: ACSDublin@state.gov<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br>

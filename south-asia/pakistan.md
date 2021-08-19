@@ -369,11 +369,11 @@ _consulate(s)_: Louisville (KY), San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Angela AGGELER<br>
-_telephone_: [92] 51-201-4000<br>
 _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
-_FAX_: [92] 51-227-6427<br>
-_email address_: ACSIslamabad@state.gov<br>
+_telephone_: [92] 051-201-4000<br>
+_FAX_: [92] 51-2338071<br>
+_email address and website_: ACSIslamabad@state.gov<br>
 _consulate(s) general_: Karachi, Lahore, Peshawar<br>
 
 **Flag description**<br>

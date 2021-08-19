@@ -307,9 +307,9 @@ _residency requirement for naturalization_: minimum of 3 of last 5 years residen
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br> House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - appointed; latest appointments in December 2018<br> House of Commons - last held on 21 October 2019 (next to be held in October 2023)<br>
-_election results_: <br> Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
+_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 21 October 2019 (next to be held 20 September 2021)<br>
+_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Mary SIMON (since 6 July 2021)<br>
@@ -339,12 +339,12 @@ _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade of
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Arnold CHACON (since 28 May 2021)<br>
-_telephone_: [1] (613) 238-5335<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
+_telephone_: [1] (613) 238-5335<br>
 _FAX_: [1] (613) 241-7845<br>
-_email address_: OttawaACS@state.gov<br>
-_consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver, Winnipeg<br>
+_email address and website_: OttawaNIV@state.gov<br>
+_consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver<br>
 _consulate(s)_: Winnipeg<br>
 
 **Flag description**<br>

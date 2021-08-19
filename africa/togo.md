@@ -367,11 +367,11 @@ _FAX_: [1] (202) 232-3190<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric W. STROHMAYER (since 11 April 2019)<br>
-_telephone_: [228] 2261-5470<br>
-_embassy_: 4332 Blvd.&nbsp;Eyadema,&nbsp;Lome<br>
+_embassy_: Boulevard Eyadema, B.P. 852, Lome<br>
 _mailing address_: 2300 Lome Place, Washington, DC 20521-2300<br>
+_telephone_: [228] 2261-5470<br>
 _FAX_: [228] 2261-5501<br>
-_email address_: Consularlome@state.gov<br>
+_email address and website_: consularLome@state.gov<br>
 
 **Flag description**<br>
 five equal horizontal bands of green (top and bottom) alternating with yellow; a white five-pointed star on a red square is in the upper hoist-side corner; the five horizontal stripes stand for the five different regions of the country; the red square is meant to express the loyalty and patriotism of the people, green symbolizes hope, fertility, and agriculture, while yellow represents mineral wealth and faith that hard work and strength will bring prosperity; the star symbolizes life, purity, peace, dignity, and Togo's independence<br>

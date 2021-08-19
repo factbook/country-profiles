@@ -350,11 +350,11 @@ _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric NELSON (since 19 February 2019)<br>
-_telephone_: [387] (33) 704-000<br>
 _embassy_: 1 Robert C. Frasure Street, 71000 Sarajevo<br>
 _mailing address_: 7130 Sarajevo Place, Washington DC&nbsp; 20521-7130<br>
+_telephone_: [387] (33) 704-000<br>
 _FAX_: [387] (33) 659-722<br>
-_email address_: sarajevoacs@state.gov<br>
+_email address and website_: sarajevoACS@state.gov<br><br>https://ba.usembassy.gov/<br>
 _branch office(s)_: Banja Luka, Mostar<br>
 
 **Flag description**<br>

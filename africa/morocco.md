@@ -401,11 +401,11 @@ _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires David GREENE (since 21 January 2021)<br>
-_telephone_: [212] 537 637 200<br>
 _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
-_FAX_: [212] 537 637 201<br>
-_email address_: acscasablanca@state.gov (US Consulate General Casablanca)<br>
+_telephone_: [212] 0537-637-200<br>
+_FAX_: [212] 0537-637-201<br>
+_email address and website_: ACSCasablanca@state.gov (US Consulate General Casablanca)<br>
 _consulate(s) general_: Casablanca<br>
 
 **Flag description**<br>

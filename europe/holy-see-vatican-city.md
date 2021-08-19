@@ -207,10 +207,10 @@ _telephone_: [1] (202) 333-7121<br>
 _FAX_: [1] (202) 337-4036<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Callista GINGRICH (since 22 December 2017)<br>
-_telephone_: [39] (06) 4674-1<br>
-_embassy_: American Embassy to the Holy See, Via Sallustiana, 49, 00187 Rome<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Patrick CONNELL (since January 2021)<br>
+_embassy_: Via Sallustiana, 49, 00187 Rome<br>
 _mailing address_: 5660 Holy See Place, Washington DC&nbsp; 20521-5660<br>
+_telephone_: [39] (06) 4674-1<br>
 _FAX_: [39] (06) 4674-3411<br>
 
 **Flag description**<br>

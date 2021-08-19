@@ -340,11 +340,10 @@ _FAX_: [1] (202) 387-5470<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Gwendolyn "Wendy" GREEN (since August 2020)<br>
-_telephone_: [356] 2561-4000<br>
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
-_FAX_: [356] 2561-4183<br>
-_email address_: ConsularMalta@state.gov<br>
+_telephone_: [356] 2561-4000<br>
+_email address and website_: ACSMalta@state.gov<br>
 
 **Flag description**<br>
 two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field<br>

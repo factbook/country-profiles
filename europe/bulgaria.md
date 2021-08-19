@@ -347,11 +347,11 @@ _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Herro MUSTAFA (since&nbsp;18&nbsp;October 2019)<br>
-_telephone_: [359] (2) 937-5100<br>
 _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
+_telephone_: [359] (2) 937-5100<br>
 _FAX_: [359] (2) 937-5320<br>
-_email address_: acs_sofia@state.gov<br>
+_email address and website_: acs_sofia@state.gov<br><br>https://bg.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>
@@ -688,9 +688,6 @@ the Bulgarian Armed Forces have approximately 30,000 active duty personnel (16,0
 
 **Military equipment inventories and acquisitions**<br>
 the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, Italy, Norway, and the US (2020)<br>
-
-**Military deployments**<br>
-120 Afghanistan (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2019)<br>

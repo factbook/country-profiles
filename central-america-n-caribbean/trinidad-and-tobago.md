@@ -330,12 +330,12 @@ _FAX_: [1] (202) 785-3130<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Joseph MONDELLO (since 22 October 2018)<br>
-_telephone_: [1] (868) 622-6371 through 6376<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Shante MOORE (since 20 January 2021)<br>
 _embassy_: 15 Queen's Park West, Port of Spain<br>
 _mailing address_: 3410 Port of Spain Place, Washington DC&nbsp; 20521-3410<br>
-_FAX_: [1] (868) 822-5905<br>
-_email address_: acspos@state.gov<br>
+_telephone_: (868) 622-6371<br>
+_FAX_: (868) 822-5905<br>
+_email address and website_: acspos@state.gov<br>
 
 **Flag description**<br>
 red with a white-edged black diagonal band from the upper hoist side to the lower fly side; the colors represent the elements of earth, water, and fire; black stands for the wealth of the land and the dedication of the people; white symbolizes the sea surrounding the islands, the purity of the country's aspirations, and equality; red symbolizes the warmth and energy of the sun, the vitality of the land, and the courage and friendliness of its people<br>

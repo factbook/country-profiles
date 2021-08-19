@@ -370,12 +370,12 @@ _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador Kyle MCCARTER (since 12 March 2019)<br>
-_telephone_: [254] (20) 363-6000<br>
-_embassy_: United Nations Avenue, Nairobi; P.O. Box 606 Village Market, Nairobi 00621<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Eric W. Kneedler (since 20 January 2021)<br>
+_embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
+_telephone_: [254] (20) 363-6000<br>
 _FAX_: [254] (20) 363-6157<br>
-_email address_: kenya_acs@state.gov<br>
+_email address and website_: kenya_acs@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>
@@ -736,7 +736,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 269,870 (Somalia), 130,619 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,560 (Ethiopia), 7,081 (Burundi) (2021)<br>
+_refugees (country of origin)_: 269,870 (Somalia), 133,320 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,560 (Ethiopia), 7,081 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

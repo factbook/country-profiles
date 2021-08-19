@@ -354,11 +354,11 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Kevin K. SULLIVAN (since 18 December 2018)<br>
-_telephone_: [505] 2252-7100, 2252-7888; 2252-7100 or 8767-7100 (after hours)<br>
 _embassy_: Kilometer 5.5 Carretera Sur, Managua<br>
 _mailing address_: 3240 Managua Place, Washington DC&nbsp; 20521-3240<br>
+_telephone_: [505] 2252-7100,&nbsp;<br>
 _FAX_: [505] 2252-7250<br>
-_email address_: ACS.Managua@state.gov<br>
+_email address and website_: ACS.Managua@state.gov<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br>

@@ -345,7 +345,7 @@ _chief of mission_: none; note - Guinea-Bissau does not have official representa
 **Diplomatic representation from the US**<br>
 _embassy_: the US Embassy suspended operations on 14 June 1998; the US Ambassador to Senegal is accredited to Guinea-Bissau<br>
 _mailing address_: 2080 Bissau Place, Washington DC&nbsp; 20521-2080<br>
-_email address_: DakarACS@state.gov<br>
+_email address and website_: dakarACS@state.gov<br>
 
 **Flag description**<br>
 two equal horizontal bands of yellow (top) and green with a vertical red band on the hoist side; there is a black five-pointed star centered in the red band; yellow symbolizes the sun; green denotes hope; red represents blood shed during the struggle for independence; the black star stands for African unity<br>

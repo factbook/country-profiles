@@ -267,11 +267,11 @@ _consulate(s)_: Des Moines (IA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Philip KOSNETT (since 3 December 2018)<br>
-_telephone_: [383] 38 59 59 3000<br>
-_embassy_: Arberia/Dragodan, Nazim Hikmet 30, Pristina<br>
+_embassy_: Arberia/Dragodan, Rr.&nbsp; 4 KORRIKU Nr. 25, Pristina<br>
 _mailing address_: 9520 Pristina Place, Washington DC&nbsp; 20521-9520<br>
-_FAX_: [383] 38 549 890<br>
-_email address_: PristinaACS@state.gov<br>
+_telephone_: [383] 38-59-59-3000<br>
+_FAX_: [383] 38-604-890<br>
+_email address and website_: PristinaACS@state.gov<br>
 
 **Flag description**<br>
 centered on a dark blue field is a gold-colored silhouette of Kosovo surmounted by six white, five-pointed stars arrayed in a slight arc; each star represents one of the major ethnic groups of Kosovo: Albanians, Serbs, Turks, Gorani, Roma, and Bosniaks<br>
@@ -583,5 +583,5 @@ service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 6,605 estimated refugee and migrant arrivals (January 2015-June 2021)<br>
+<strong>note:</strong> 6,761 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
 
