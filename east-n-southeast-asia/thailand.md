@@ -367,7 +367,7 @@ _embassy_: 95 Wireless Road, Bangkok 10330<br>
 _mailing address_: 7200 Bangkok Place, Washington DC&nbsp; 20521-7200<br>
 _telephone_: [66] 2-205-4000<br>
 _FAX_: [66] 2-205-4103<br>
-_email address and website_: acsbkk@state.gov<br>
+_email address and website_: <br>acsbkk@state.gov<br><br>https://th.usembassy.gov/<br>
 _consulate(s) general_: Chiang Mai<br>
 
 **Flag description**<br>
@@ -686,7 +686,7 @@ _by type_: bulk carrier 26, container ship 28, general cargo 87, oil tanker 257,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bangkok, Laem Chabang, Map Ta Phut, Prachuap Port, Si Racha<br>
-_container port(s) (TEUs)_: Laem Chabang (7,227,431) (2017)<br>
+_container port(s) (TEUs)_: Laem Chabang (8,106,928) (2019)<br>
 _LNG terminal(s) (import)_: Map Ta Phut<br>
 
 ## Military and Security

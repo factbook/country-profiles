@@ -338,7 +338,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (
 _embassy_: now operating from Bogota, Colombia<br>Venezuela Affairs Unit, Carrera 45 N. 24B-27, Bogota<br><br>previously - F St. and Suapure St.; Urb . Colinas de Valle Arriba; Caracas 1080<br>
 _mailing address_: 3140 Caracas Place, Washington DC&nbsp; 20521-3140<br>
 _telephone_: 1-888-407-4747<br>  <br>
-_email address and website_: ACSBogota@state.gov<br>
+_email address and website_: <br>ACSBogota@state.gov<br><br>https://ve.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), blue, and red with the coat of arms on the hoist side of the yellow band and an arc of eight white five-pointed stars centered in the blue band; the flag retains the three equal horizontal bands and three main colors of the banner of Gran Colombia, the South American republic that broke up in 1830; yellow is interpreted as standing for the riches of the land, blue for the courage of its people, and red for the blood shed in attaining independence; the seven stars on the original flag represented the seven provinces in Venezuela that united in the war of independence; in 2006, then President Hugo CHAVEZ ordered an eighth star added to the star arc - a decision that sparked much controversy - to conform with the flag proclaimed by Simon Bolivar in 1827 and to represent the historic province of Guayana<br>

@@ -342,7 +342,7 @@ _embassy_: 3 Moyqorghon, 5th Block, Yunusobod District, 100093 Tashkent<br>
 _mailing address_: 7110 Tashkent Place, Washington DC&nbsp; 20521-7110<br>
 _telephone_: [998] 78-120-5450<br>
 _FAX_: [998] 78-120-6335<br>
-_email address and website_: ACSTashkent@state.gov<br>
+_email address and website_: <br>ACSTashkent@state.gov<br><br>https://uz.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and green separated by red fimbriations with a vertical, white crescent moon (closed side to the hoist) and 12 white, five-pointed stars shifted to the hoist on the top band; blue is the color of the Turkic peoples and of the sky, white signifies peace and the striving for purity in thoughts and deeds, while green represents nature and is the color of Islam; the red stripes are the vital force of all living organisms that links good and pure ideas with the eternal sky and with deeds on earth; the crescent represents Islam and the 12 stars the months and constellations of the Uzbek calendar<br>

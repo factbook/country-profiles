@@ -356,7 +356,7 @@ _embassy_: Avenida das Forcas Armadas, 1600-081 Lisboa<br>
 _mailing address_: 5320 Lisbon Place, Washington DC&nbsp; 20521-5320<br>
 _telephone_: [351] (21) 727-3300<br>
 _FAX_: [351] (21) 726-9109<br>
-_email address and website_: conslisbon@state.gov<br>
+_email address and website_: <br>conslisbon@state.gov<br><br>https://pt.usembassy.gov/<br>
 _consulate(s)_: Ponta Delgada (Azores)<br>
 
 **Flag description**<br>
@@ -672,7 +672,7 @@ _by type_: bulk carrier 74, container ship 255, general cargo 122, oil tanker 23
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>
-_container port(s) (TEUs)_: Sines (1,669,057) (2017)<br>
+_container port(s) (TEUs)_: Sines (1,420,000) (2019)<br>
 _LNG terminal(s) (import)_: Sines<br>
 
 ## Military and Security

@@ -331,7 +331,7 @@ _embassy_: Omsangel/Beklelachieb, Airai 96940<br>
 _mailing address_: 4260 Koror Place, Washington, DC&nbsp; 20521-4260<br>
 _telephone_: [680] 587-2920<br>
 _FAX_: [680] 587-2911<br>
-_email address and website_: ConsularKoror@state.gov<br>
+_email address and website_: <br>ConsularKoror@state.gov<br><br>https://pw.usembassy.gov/<br>
 
 **Flag description**<br>
 light blue with a large yellow disk shifted slightly to the hoist side; the blue color represents the ocean, the disk represents the moon; Palauans consider the full moon to be the optimum time for human activity; it is also considered a symbol of peace, love, and tranquility<br>

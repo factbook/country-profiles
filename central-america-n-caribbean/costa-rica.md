@@ -352,10 +352,12 @@ BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committe
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Fernando LLORCA Castro (since 17 September 2018)<br>
 _chancery_: 2114 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 499-2980<br>
+_telephone_: [1] (202) 499-2984<br>
 _FAX_: [1] (202) 265-4795<br>
+_email address and website_: <br>embcr-us@rree.go.cr<br><br>http://www.costarica-embassy.org/index.php?q=node/21<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington DC<br>
 _consulate(s)_: Saint Paul (MN), San Juan (Puerto Rico), Tucson (AZ)<br>
+_honorary consulate(s)_: San Juan (Puerto Rico), Saint Paul (MN), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Gloria BERBENA (since January 2021)<br>
@@ -363,7 +365,7 @@ _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>
 _FAX_: [506] 2519-2305<br>
-_email address and website_: acssanjose@state.gov<br>
+_email address and website_: <br>acssanjose@state.gov<br><br>https://cr.usembassy.gov/<br>
 
 **Flag description**<br>
 five horizontal bands of blue (top), white, red (double width), white, and blue, with the coat of arms in a white elliptical disk placed toward the hoist side of the red band; Costa Rica retained the earlier blue-white-blue flag of Central America until 1848 when, in response to revolutionary activity in Europe, it was decided to incorporate the French colors into the national flag and a central red stripe was added; today the blue color is said to stand for the sky, opportunity, and perseverance, white denotes peace, happiness, and wisdom, while red represents the blood shed for freedom, as well as the generosity and vibrancy of the people<br>
@@ -700,7 +702,7 @@ the Public Force is lightly armed with an inventory that includes mostly second-
 <p>Costa Rica and Nicaragua regularly file border dispute cases over the delimitations of the San Juan River and the northern tip of Calero Island to the International Court of Justice (ICJ); in 2009, the ICJ ruled that Costa Rican vessels carrying out police activities could not use the river, but official Costa Rican vessels providing essential services to riverside inhabitants and Costa Rican tourists could travel freely on the river; in 2011, the ICJ provisionally ruled that both countries must remove personnel from the disputed area; in 2013, the ICJ rejected Nicaragua's 2012 suit to halt Costa Rica's construction of a highway paralleling the river on the grounds of irreparable environmental damage; in 2013, the ICJ, regarding the disputed territory, ordered that Nicaragua should refrain from dredging or canal construction and refill and repair damage caused by trenches connecting the river to the Caribbean and upheld its 2010 ruling that Nicaragua must remove all personnel; in early 2014, Costa Rica brought Nicaragua to the ICJ over offshore oil concessions in the disputed region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,199 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 29,820 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
 _stateless persons_: 199 (2020)<br>
 
 **Illicit drugs**<br>

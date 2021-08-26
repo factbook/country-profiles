@@ -345,6 +345,7 @@ _chief of mission_: Ambassador Madjid BOUGUERRA (since 23 February 2015)<br>
 _chancery_: 2118 Kalorama Road NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-2800<br>
 _FAX_: [1] (202) 986-5906<br>
+_email address and website_: <br>mail@algerianembassy.org<br><br>https://www.algerianembassy.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -353,7 +354,7 @@ _embassy_: 05 Chemin Cheikh Bachir, Ibrahimi, El-Biar 16030, Alger<br>
 _mailing address_: 6030 Algiers Place, Washington DC&nbsp; 20521-6030<br>
 _telephone_: [213] (0) 770-08-2000<br>
 _FAX_: [213] (0) 770-08-2299<br>
-_email address and website_: ACSAlgiers@state.gov<br><br>https://dz.usembassy.gov/<br>
+_email address and website_: <br>ACSAlgiers@state.gov<br><br>https://dz.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary; the colors represent Islam (green), purity and peace (white), and liberty (red); the crescent and star are also Islamic symbols, but the crescent is more closed than those of other Muslim countries because Algerians believe the long crescent horns bring happiness<br>

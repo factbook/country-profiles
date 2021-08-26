@@ -348,6 +348,7 @@ _chief of mission_: Ambassador Jorge Martin Arturo ARGUELLO (since 6 February 20
 _chancery_: 1600 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 238-6400<br>
 _FAX_: [1] (202) 332-3171<br>
+_email address and website_: <br>eeeuu@mrecic.gov.ar<br><br>https://eeeuu.cancilleria.gob.ar/en<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -356,7 +357,7 @@ _embassy_: <br>Avenida Colombia 4300, (C1425GMN) Buenos Aires<br>
 _mailing address_: 3130 Buenos Aires Place, Washington DC&nbsp; 20521-3130<br>
 _telephone_: [54] (11) 5777-4533<br>
 _FAX_: [54] (11) 5777-4240<br>
-_email address and website_: buenosaires-acs@state.gov<br><br>https://ar.usembassy.gov/<br>
+_email address and website_: <br>buenosaires-acs@state.gov<br><br>https://ar.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), white, and sky blue; centered in the white band is a radiant yellow sun with a human face (delineated in brown) known as the Sun of May; the colors represent the clear skies and snow of the Andes; the sun symbol commemorates the appearance of the sun through cloudy skies on 25 May 1810 during the first mass demonstration in favor of independence; the sun features are those of Inti, the Inca god of the sun<br>
@@ -681,7 +682,7 @@ _by type_: container ship 1, general cargo 8, oil tanker 32, other 158 (2020)<br
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>
-_container port(s) (TEUs)_: Buenos Aires (1,851,701)<br>
+_container port(s) (TEUs)_: Buenos Aires (1,485,328) (2019)<br>
 _LNG terminal(s) (import)_: Bahia Blanca<br>
 _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
 
@@ -720,7 +721,7 @@ the Argentine military focuses primarily on border security and counter-narcotic
 <p>Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks; territorial claim in Antarctica partially overlaps UK and Chilean claims; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur); contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 226,484 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 174,333 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 a transshipment country for cocaine headed for Europe, heroin headed for the US, and ephedrine and pseudoephedrine headed for Mexico; some money-laundering activity, especially in the Tri-Border Area; law enforcement corruption; a source for precursor chemicals; increasing domestic consumption of drugs in urban centers, especially cocaine base and synthetic drugs<br>

@@ -371,7 +371,7 @@ _embassy_: 1201 Roxas Boulevard, Manila 1000<br>
 _mailing address_: 8600 Manila Place, Washington DC&nbsp; 20521-8600<br>
 _telephone_: [63] (2) 5301-2000<br>
 _FAX_: [63] (2) 5301-2017<br>
-_email address and website_: acsinfomanila@state.gov<br>
+_email address and website_: <br>acsinfomanila@state.gov<br><br>https://ph.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red; a white equilateral triangle is based on the hoist side; the center of the triangle displays a yellow sun with eight primary rays; each corner of the triangle contains a small, yellow, five-pointed star; blue stands for peace and justice, red symbolizes courage, the white equal-sided triangle represents equality; the rays recall the first eight provinces that sought independence from Spain, while the stars represent the three major geographical divisions of the country: Luzon, Visayas, and Mindanao; the design of the flag dates to 1897<br>
@@ -691,7 +691,7 @@ _by type_: bulk carrier 69, container ship 45, general cargo 682, oil tanker 203
 
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
-_container port(s) (TEUs)_: Manila (4,782,240) (2017)<br>
+_container port(s) (TEUs)_: Manila (5,315,500) (2019)<br>
 
 ## Military and Security
 

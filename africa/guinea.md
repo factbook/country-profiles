@@ -385,6 +385,7 @@ _chief of mission_: Ambassador Kerfalla YANSANE (since 24 January 2018)<br>
 _chancery_: 2112 Leroy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 986-4300<br>
 _FAX_: [1] (202) 986-3800<br>
+_email address and website_: <br>http://guineaembassyusa.org/en/welcome-to-the-embassy-of-guinea-washington-usa/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Steven KOUTSIS (since September 2020)<br>
@@ -392,7 +393,7 @@ _embassy_: Transversale No. 2, Centre Administratif de Koloma, Commune de Ratoma
 _mailing address_: 2110 Conakry Place, Washington DC&nbsp; 20521-2110<br>
 _telephone_: [224] 65-10-40-00<br>
 _FAX_: [224] 65-10-42-97<br>
-_email address and website_: ConakryACS@state.gov<br>
+_email address and website_: <br>ConakryACS@state.gov<br><br>https://gn.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of red (hoist side), yellow, and green; red represents the people's sacrifice for liberation and work; yellow stands for the sun, for the riches of the earth, and for justice; green symbolizes the country's vegetation and unity<br>

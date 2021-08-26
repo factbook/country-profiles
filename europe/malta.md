@@ -343,7 +343,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Gwendolyn "Wendy" GRE
 _embassy_: Ta' Qali National Park, Attard, ATD 4000<br>
 _mailing address_: 5800 Valletta Place, Washington DC&nbsp; 20521-5800<br>
 _telephone_: [356] 2561-4000<br>
-_email address and website_: ACSMalta@state.gov<br>
+_email address and website_: <br>ACSMalta@state.gov<br><br>https://mt.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal vertical bands of white (hoist side) and red; in the upper hoist-side corner is a representation of the George Cross, edged in red; according to legend, the colors are taken from the red and white checkered banner of Count Roger of Sicily who removed a bi-colored corner and granted it to Malta in 1091; an uncontested explanation is that the colors are those of the Knights of Saint John who ruled Malta from 1530 to 1798; in 1942, King George VI of the UK awarded the George Cross to the islanders for their exceptional bravery and gallantry in World War II; since independence in 1964, the George Cross bordered in red has appeared directly on the white field<br>
@@ -642,7 +642,7 @@ _by type_: bulk carrier 617, container ship 315, general cargo 240, oil tanker 4
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>
-_container port(s) (TEUs)_: Marsaxlokk (3,150,000) (2017)<br>
+_container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
 
 ## Military and Security
 

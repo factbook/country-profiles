@@ -348,7 +348,7 @@ _embassy_: Morgedalsvegen 36, 0378 Oslo<br>
 _mailing address_: 5460 Oslo Place,&nbsp; Washington DC&nbsp; 20521-5460<br>
 _telephone_: [47] 21-30-85-40<br>
 _FAX_: [47] 22-56-27-51<br>
-_email address and website_: OsloACS@state.gov<br>
+_email address and website_: <br>OsloACS@state.gov<br><br>https://no.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a blue cross outlined in white that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors recall Norway's past political unions with Denmark (red and white) and Sweden (blue)<br>

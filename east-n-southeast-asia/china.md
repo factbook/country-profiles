@@ -356,10 +356,11 @@ Chinese Communist Party or CCP [XI Jinping]<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), BIS, BRICS, CDB, CICA, EAS, FAO, FATF, G-20, G-24 (observer), G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAIA (observer), MIGA, MINURSO, MINUSMA, MONUSCO, NAM (observer), NSG, OAS (observer), OPCW, Pacific Alliance (observer), PCA, PIF (partner), SAARC (observer), SCO, SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMISS, UNOCI, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador QIN Gangas (since August 2021)<br>
+_chief of mission_: Ambassador QIN Gangas (since 29 July 2021)<br>
 _chancery_: 3505 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 495-2266<br>
 _FAX_: [1] (202) 495-2138<br>
+_email address and website_: <br>chinaemppress_us@mfa.gov.cn<br><br>http://www.china-embassy.org/eng/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York, San Francisco; note - the US ordered closure of the Houston consulate in late July 2020<br>
 
 **Diplomatic representation from the US**<br>
@@ -368,7 +369,7 @@ _embassy_: 55 An Jia Lou Road, Chaoyang District, Beijing 100600<br>
 _mailing address_: 7300 Beijing Place, Washington DC&nbsp; 20521-7300<br>
 _telephone_: [86] (10) 8531-3000<br>
 _FAX_: [86] (10) 8531-4200<br>
-_email address and website_: BeijingACS@state.gov<br>
+_email address and website_: <br>BeijingACS@state.gov<br><br>https://china.usembassy-china.org.cn/<br>
 _consulate(s) general_: Guangzhou, Shanghai, Shenyang, Wuhan; note - the Chinese Government ordered closure of the US consulate in Chengdu in late July 2020<br>
 
 **Flag description**<br>
@@ -691,7 +692,7 @@ _by type_: bulk carrier 1,515, container ship 322, general cargo 862, oil tanker
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dalian, Ningbo, Qingdao, Qinhuangdao, Shanghai, Shenzhen, Tianjin<br>
-_container port(s) (TEUs)_: Dalian (9,707,000), Guangzhou (18,858,000), Ningbo (24,607,000), Qingdao (18,262,000), Shanghai (40,233,000), Shenzhen (25,208,000), Tianjin (15,040,000) (2017)<br>
+_container port(s) (TEUs)_: Dalian (8,760,000), Guangzhou (23,236,200), Ningbo (27,530,000), Qingdao (21,010,000), Shanghai (43,303,000), Shenzhen (25,770,000), Tianjin (17,264,000) (2019)<br>
 _LNG terminal(s) (import)_: Fujian, Guangdong, Jiangsu, Shandong, Shanghai, Tangshan, Zhejiang<br>
 _river port(s)_: Guangzhou (Pearl)<br>
 

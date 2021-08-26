@@ -336,10 +336,11 @@ _subordinate courts_: Courts of Appeal; regional courts; specialized courts for 
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Jean Arthur REGIBEAU (since 17 September 2020)<br>
-_chancery_: 3330 Garfield Street NW, Washington, DC 20008<br>
+_chief of mission_: Ambassador Jean-Arthur REGIBEAU (since 17 September 2020)<br>
+_chancery_: 1430 K Street NW, Washington DC 20005<br>
 _telephone_: [1] (202) 333-6900<br>
-_FAX_: [1] (202) 333-3079<br>
+_FAX_: [1] (202) 338-4960<br>
+_email address and website_: <br>Washington@diplobel.fed.be<br><br>https://unitedstates.diplomatie.belgium.be/en<br>
 _consulate(s) general_: Atlanta, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -348,7 +349,7 @@ _embassy_: 27 Boulevard du Regent [Regentlaan], B-1000 Brussels<br>
 _mailing address_: 7600 Brussels Place, Washington DC&nbsp; 20521-7600<br>
 _telephone_: [32] (2) 811-4000<br>
 _FAX_: [32] (2) 811-4500<br>
-_email address and website_: uscitizenBrussels@state.gov<br><br>https://be.usembassy.gov/<br>
+_email address and website_: <br>uscitizenBrussels@state.gov<br><br>https://be.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), yellow, and red; the vertical design was based on the flag of France; the colors are those of the arms of the duchy of Brabant (yellow lion with red claws and tongue on a black field)<br>
@@ -662,7 +663,7 @@ _by type_: bulk carrier 21, container ship 5, general cargo 16, oil tanker 25, o
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>
-_container port(s) (TEUs)_: Antwerp (10,450,000) (2017)<br>
+_container port(s) (TEUs)_: Antwerp (11,860,204) (2019)<br>
 _LNG terminal(s) (import)_: Zeebrugge<br>
 _river port(s)_: Antwerp, Gent (Schelde River)<br>
 Brussels (Senne River) Liege (Meuse River)<br>

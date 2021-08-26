@@ -361,7 +361,8 @@ _chief of mission_: Ambassador Francisco SANTOS Calderon (since 17 September 201
 _chancery_: 1724 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-8338<br>
 _FAX_: [1] (202) 232-8643<br>
-_consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico)<br>
+_email address and website_: <br>eestadosunidos@cancilleria.gov.co<br><br>https://www.colombiaemb.org/<br>
+_consulate(s) general_: Atlanta, Houston, Los Angeles, Miami, New York, Newark (NJ), Orlando, San Juan (Puerto Rico), Washington, DC<br>
 _consulate(s)_: Boston, Chicago, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -370,7 +371,7 @@ _embassy_: Carrera 45, No. 24B-27, Bogota<br>
 _mailing address_: 3030 Bogota Place, Washington DC&nbsp; 20521-3030<br>
 _telephone_: [57] (1) 275-2000<br>
 _FAX_: [57] (1) 275-4600<br>
-_email address and website_: ACSBogota@state.gov<br>
+_email address and website_: <br>ACSBogota@state.gov<br><br>https://co.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of yellow (top, double-width), blue, and red; the flag retains the three main colors of the banner of Gran Colombia, the short-lived South American republic that broke up in 1830; various interpretations of the colors exist and include: yellow for the gold in Colombia's land, blue for the seas on its shores, and red for the blood spilled in attaining freedom; alternatively, the colors have been described as representing more elemental concepts such as sovereignty and justice (yellow), loyalty and vigilance (blue), and valor and generosity (red); or simply the principles of liberty, equality, and fraternity<br>
@@ -689,9 +690,9 @@ _total_: 120<br>
 _by type_: general cargo 22, oil tanker 8, other 90 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>
+_major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>
 _oil terminal(s)_: Covenas offshore terminal<br>
-_container port(s) (TEUs)_: Cartagena (2,663,415) (2017)<br>
+_container port(s) (TEUs)_: Buenaventura (1,121,267), Cartagena (2,995,031) (2019)<br>
 _river port(s)_: Barranquilla (Rio Magdalena)<br>
 _dry bulk cargo port(s)_: Puerto Bolivar (coal)<br>
 Pacific Ocean - Buenaventura<br>

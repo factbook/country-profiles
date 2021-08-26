@@ -342,7 +342,8 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 _chief of mission_: Ambassador Emily Margarethe HABER (since 22 June 2018)<br>
 _chancery_: 4645 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 298-4000<br>
-_FAX_: [1] (202) 298-4249<br>
+_FAX_: [1] (202) 298-4261<br>
+_email address and website_: <br>info@washington.diplo.de<br><br>https://www.germany.info/us-en<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -351,7 +352,7 @@ _embassy_: Clayallee 170, 14191 Berlin<br>
 _mailing address_: 5090 Berlin Place, Washington DC&nbsp; 20521-5090<br>
 _telephone_: [49] (30) 8305-0<br>
 _FAX_: [49] (30) 8305-1215<br>
-_email address and website_: BerlinPCO@state.gov<br>
+_email address and website_: <br>BerlinPCO@state.gov<br><br>https://de.usembassy.gov/<br>
 _consulate(s) general_: Dusseldorf, Frankfurt am Main, Hamburg, Leipzig, Munich<br>
 
 **Flag description**<br>
@@ -673,7 +674,7 @@ _by type_: bulk carrier 1, container ship 84, general cargo 86, oil tanker 37, o
 **Ports and terminals**<br>
 _major seaport(s)_: Baltic Sea - Rostock<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
-_container port(s) (TEUs)_: Bremen/Bremerhaven (5,510,000), Hamburg (8,860,000) (2017)<br>
+_container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
 _LNG terminal(s) (import)_: Hamburg<br>
 _river port(s)_: Bremen (Weser)<br>
 North Sea - Wilhelmshaven Bremerhaven (Geeste) Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine) Brunsbuttel, Hamburg (Elbe) Lubeck (Wakenitz)<br>

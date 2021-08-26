@@ -352,7 +352,8 @@ _chief of mission_: Ambassador (vacant); Alejandro Roberto BILBAO LA VIEJA RUIZ,
 _chancery_: 3014 Massachusetts Ave., NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4410<br>
 _FAX_: [1] (202) 328-3712<br>
-_consulate(s) general_: Houston, Los Angeles, Miami, New York, Washington, DC<br>
+_email address and website_: <br>embolivia.wdc@gmail.com<br>
+_consulate(s) general_: Houston, Los Angeles, Maple Grove (MN), Miami, New York, Washington, DC<br>
 <strong>note:</strong> in September 2008, the US expelled the Bolivian ambassador to the US in reciprocity for Bolivia expelling the US ambassador to Bolivia; in November 2019, the interim Bolivian Government names Oscar SERRATE Cuellar as its temporary special representative to the US<br>
 
 **Diplomatic representation from the US**<br>
@@ -361,7 +362,7 @@ _embassy_: Avenida Arce 2780, La Paz<br>
 _mailing address_: 3220 La Paz Place, Washington DC&nbsp; 20512-3220<br>
 _telephone_: [591] (2) 216-8000<br>
 _FAX_: [591] (2) 216-8111<br>
-_email address and website_: ConsularLaPazACS@state.gov<br><br>https://bo.usembassy.gov/<br>
+_email address and website_: <br>ConsularLaPazACS@state.gov<br><br>https://bo.usembassy.gov/<br>
 <strong>note:</strong> in September 2008, the Bolivian Government expelled the US Ambassador to Bolivia, Philip GOLDBERG, and both countries have yet to reinstate their ambassadors<br>
 
 **Flag description**<br>

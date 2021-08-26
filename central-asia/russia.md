@@ -371,7 +371,7 @@ _embassy_: Bolshoy Deviatinsky Pereulok No. 8, Moscow 121099<br>
 _mailing address_: 5430 Moscow Place, Washington DC&nbsp; 20521-5430<br>
 _telephone_: [7] (495) 728-5000<br>
 _FAX_: [7] (495) 728-5090<br>
-_email address and website_: MoscowACS@state.gov<br>
+_email address and website_: <br>MoscowACS@state.gov<br><br>https://ru.usembassy.gov/<br>
 _consulate(s) general_: Vladivostok, Yekaterinburg<br>
 
 **Flag description**<br>
@@ -695,7 +695,7 @@ _by type_: bulk carrier 15, container ship 16, general cargo 923, oil tanker 406
 **Ports and terminals**<br>
 _major seaport(s)_: Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy<br>
 _oil terminal(s)_: Kavkaz oil terminal<br>
-_container port(s) (TEUs)_: Saint Petersburg (1,848,700) (2017)<br>
+_container port(s) (TEUs)_: Saint Petersburg (2,221,724) (2019)<br>
 _LNG terminal(s) (export)_: Sakhalin Island<br>
 _river port(s)_: Saint Petersburg (Neva River)<br>
 

@@ -360,7 +360,7 @@ _embassy_: Maharajgunj, Kathmandu<br>
 _mailing address_: 6190 Kathmandu Place, Washington DC&nbsp; 20521-6190<br>
 _telephone_: [977] (1) 423-4000<br>
 _FAX_: [977] (1) 400-7272<br>
-_email address and website_: usembktm@state.gov<br>
+_email address and website_: <br>usembktm@state.gov<br><br>https://np.usembassy.gov/<br>
 
 **Flag description**<br>
 crimson red with a blue border around the unique shape of two overlapping right triangles; the smaller, upper triangle bears a white stylized moon and the larger, lower triangle displays a white 12-pointed sun; the color red represents the rhododendron (Nepal's national flower) and is a sign of victory and bravery, the blue border signifies peace and harmony; the two right triangles are a combination of two single pennons (pennants) that originally symbolized the Himalaya Mountains while their charges represented the families of the king (upper) and the prime minister, but today they are understood to denote Hinduism and Buddhism, the country's two main religions; the moon represents the serenity of the Nepalese people and the shade and cool weather in the Himalayas, while the sun depicts the heat and higher temperatures of the lower parts of Nepal; the moon and the sun are also said to express the hope that the nation will endure as long as these heavenly bodies<br>

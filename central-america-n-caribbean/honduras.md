@@ -354,9 +354,10 @@ BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IB
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Luis Fernando SUAZO BARAHONA (since 17 September 2020)<br>
-_chancery_: Suite 700, 1250 Connecticut Avenue NW, Washington, DC 20036<br>
+_chancery_: 1220 19th Street NW, Suite #320, Washington, DC 20036<br>
 _telephone_: [1] (202) 966-7702<br>
 _FAX_: [1] (202) 966-9751<br>
+_email address and website_: <br>https://hondurasembusa.org/<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco<br>
 _consulate(s)_: Dallas, McAllen (TX)<br>
 
@@ -364,9 +365,9 @@ _consulate(s)_: Dallas, McAllen (TX)<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen A. HOEY (since August 2019)<br>
 _embassy_: Avenida La Paz, Tegucigalpa M.D.C.<br>
 _mailing address_: 3480 Tegucigalpa Place, Washington DC&nbsp; 20521-3480<br>
-_telephone_: [504] 2236-9320,&nbsp;<br>
+_telephone_: [504] 2236-9320,<br>
 _FAX_: [504] 2236-9037<br>
-_email address and website_: usahonduras@state.gov<br>
+_email address and website_: <br>usahonduras@state.gov<br><br>https://hn.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of cerulean blue (top), white, and cerulean blue, with five cerulean, five-pointed stars arranged in an X pattern centered in the white band; the stars represent the members of the former Federal Republic of Central America: Costa Rica, El Salvador, Guatemala, Honduras, and Nicaragua; the blue bands symbolize the Pacific Ocean and the Caribbean Sea; the white band represents the land between the two bodies of water and the peace and prosperity of its people<br>

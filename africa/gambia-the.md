@@ -359,8 +359,9 @@ ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, I
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dawda D. FADERA (since 24 January 2018)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
-_telephone_: [1] (202) 785-1399<br>
-_FAX_: [1] (202) 342-0240<br>
+_telephone_: [1] (202) 785-1399/(202) 785-1428<br>
+_FAX_: [1] (202) 785-1430<br>
+_email address and website_: <br>info@gambiaembassy.us<br><br>https://www.gambiaembassydc.us/home<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Richard Carlton "Carl" PASCHALL (since 9 April 2019)<br>
@@ -368,7 +369,7 @@ _embassy_: Kairaba Avenue, Fajara, P.M.B. 19, Banjul<br>
 _mailing address_: 2070 Banjul Place, Washington DC&nbsp; 20521-2070<br>
 _telephone_: [220] 439-2856<br>
 _FAX_: [220] 439-2475<br>
-_email address and website_: ConsularBanjul@state.gov<br>
+_email address and website_: <br>ConsularBanjul@state.gov<br><br>https://gm.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), blue with white edges, and green; red stands for the sun and the savannah, blue represents the Gambia River, and green symbolizes forests and agriculture; the white stripes denote unity and peace<br>

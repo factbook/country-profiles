@@ -317,6 +317,7 @@ _chief of mission_: Ambassador Dato Paduka Haji Serbini bin Haji ALI (since 28 J
 _chancery_: 3520 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1838<br>
 _FAX_: [1] (202) 885-0560<br>
+_email address and website_: <br>info@bruneiembassy.org<br><br>http://www.bruneiembassy.org/index.html<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -325,7 +326,7 @@ _embassy_: Simpang 336-52-16-9, Jalan Duta, Bandar Seri Begawan, BC4115<br>
 _mailing address_: 4020 Bandar Seri Begawan Place, Washington DC&nbsp; 20521-4020<br>
 _telephone_: (673) 238-7400<br>
 _FAX_: (673) 238-7533<br>
-_email address and website_: ConsularBrunei@state.gov<br><br>https://bn.usembassy.gov/<br>
+_email address and website_: <br>ConsularBrunei@state.gov<br><br>https://bn.usembassy.gov/<br>
 
 **Flag description**<br>
 yellow with two diagonal bands of white (top, almost double width) and black starting from the upper hoist side; the national emblem in red is superimposed at the center; yellow is the color of royalty and symbolizes the sultanate; the white and black bands denote Brunei's chief ministers; the emblem includes five main components: a swallow-tailed flag, the royal umbrella representing the monarchy, the wings of four feathers symbolizing justice, tranquility, prosperity, and peace, the two upraised hands signifying the government's pledge to preserve and promote the welfare of the people, and the crescent moon denoting Islam, the state religion; the state motto "Always render service with God's guidance" appears in yellow Arabic script on the crescent; a ribbon below the crescent reads "Brunei, the Abode of Peace"<br>

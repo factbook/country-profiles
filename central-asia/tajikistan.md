@@ -355,7 +355,7 @@ _embassy_: 109-A Ismoili Somoni Avenue, Dushanbe 734019<br>
 _mailing address_: 7090 Dushanbe Place, Washington DC&nbsp; 20521-7090<br>
 _telephone_: [992] (37) 229-20-00<br>
 _FAX_: [992] (37) 229-20-50<br>
-_email address and website_: DushanbeConsular@state.gov<br>
+_email address and website_: <br>DushanbeConsular@state.gov<br><br>https://tj.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal stripes of red (top), a wider stripe of white, and green; a gold crown surmounted by seven gold, five-pointed stars is located in the center of the white stripe; red represents the sun, victory, and the unity of the nation, white stands for purity, cotton, and mountain snows, while green is the color of Islam and the bounty of nature; the crown symbolizes the Tajik people; the seven stars signify the Tajik magic number "seven" - a symbol of perfection and the embodiment of happiness<br>

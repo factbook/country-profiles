@@ -347,6 +347,7 @@ _chief of mission_: Ambassador Oscar Alfonso Sebastian SILVA Navarro (since 17 S
 _chancery_: 1732 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 785-1746<br>
 _FAX_: [1] (202) 887-5579<br>
+_email address and website_: <br>echile.eeuu@minrel.gob.cl<br><br>https://chile.gob.cl/estados-unidos/en/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -355,7 +356,7 @@ _embassy_: Avenida Andres Bello 2800, Las Condes, Santiago<br>
 _mailing address_: 3460 Santiago Place, Washington DC&nbsp; 20521-3460<br>
 _telephone_: [56] (2) 2330-3000<br>
 _FAX_: [56] (2) 2330-3710<br>
-_email address and website_: SantiagoUSA@state.gov<br>
+_email address and website_: <br>SantiagoUSA@state.gov<br><br>https://cl.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red; a blue square the same height as the white band at the hoist-side end of the white band; the square bears a white five-pointed star in the center representing a guide to progress and honor; blue symbolizes the sky, white is for the snow-covered Andes, and red represents the blood spilled to achieve independence<br>
@@ -669,7 +670,7 @@ _by type_: bulk carrier 8, container ship 5, general cargo 56, oil tanker 13, ot
 
 **Ports and terminals**<br>
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>
-_container port(s) (TEUs)_: San Antonio (1,296,890), Valparaiso (1,073,734) (2017)<br>
+_container port(s) (TEUs)_: San Antonio (1,709,635), Valparaiso (898,715) (2019)<br>
 _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 
 ## Military and Security
@@ -700,7 +701,7 @@ the Chilean military inventory is comprised of a wide mix of mostly Western equi
 <p>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile has offered instead unrestricted but not sovereign maritime access through Chile to Bolivian natural gas; Chile rejects Peru's unilateral legislation to change its latitudinal maritime boundary with Chile to an equidistance line with a southwestern axis favoring Peru; in October 2007, Peru took its maritime complaint with Chile to the ICJ; territorial claim in Antarctica (Chilean Antarctic Territory) partially overlaps Argentine and British claims; the joint boundary commission, established by Chile and Argentina in 2001, has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur)</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 612,009 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 457,324 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 transshipment country for cocaine destined for Europe and the region; some money laundering activity, especially through the Iquique Free Trade Zone; imported precursors passed on to Bolivia; domestic cocaine consumption is rising, making Chile a significant consumer of cocaine<br>

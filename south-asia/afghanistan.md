@@ -85,7 +85,7 @@ Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkme
 
 **Languages**<br>
 Afghan Persian or Dari (official) 78% (Dari functions as the lingua franca), Pashto (official) 50%, Uzbek 10%, English 5%, Turkmen 2%, Urdu 2%, Pashayi 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2017 est.)<br>
-_major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br>
+_major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note 1:</strong> data represent most widely spoken languages; shares sum to more than 100% because there is much bilingualism in the country and because respondents were allowed to select more than one language
 <br><br><strong>note 2:</strong> the Turkic languages Uzbek and Turkmen, as well as Balochi, Pashayi, Nuristani, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
@@ -338,8 +338,8 @@ _election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by
 <strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
 
 **Executive branch**<br>
-_chief of state_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
-_head of government_: President of the Islamic Republic of Afghanistan Ashraf GHANI (since 29 September 2014); CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
+_chief of state_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
+_head of government_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
 _cabinet_: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
 _election results_: Ashraf GHANI declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI 50.6%,&nbsp;Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
@@ -357,10 +357,11 @@ _subordinate courts_: Appeals Courts; Primary Courts; Special Courts for issues 
 ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Roya RAHMANI (since 24 November 2018)<br>
+_chief of mission_: Ambassador Adela RAZ (since July 2021)<br>
 _chancery_: 2341 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-6410<br>
 _FAX_: [1] (202) 483-6488<br>
+_email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
 _consulate(s) general_: Los Angeles, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -369,7 +370,7 @@ _embassy_: Bibi Mahru, Kabul<br>
 _mailing address_: 6180 Kabul Place, Washington DC&nbsp; 20521-6180<br>
 _telephone_: [00 93] (0) 700-10-8000<br>
 _FAX_: [00 93] (0) 700-108-564<br>
-_email address and website_: KabulACS@state.gov<br><br>https://af.usembassy.gov/<br>
+_email address and website_: <br>KabulACS@state.gov<br><br>https://af.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>

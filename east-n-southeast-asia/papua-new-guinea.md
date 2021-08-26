@@ -355,7 +355,7 @@ _chief of mission_: Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019
 _embassy_: P.O. Box 1492, Port Moresby<br>
 _mailing address_: 4240 Port Moresby Place, Washington DC&nbsp; 20521-4240<br>
 _telephone_: [675] 308-2100<br>
-_email address and website_: ConsularPortMoresby@state.gov<br>
+_email address and website_: <br>ConsularPortMoresby@state.gov<br><br>https://pg.usembassy.gov/<br>
 
 **Flag description**<br>
 divided diagonally from upper hoist-side corner; the upper triangle is red with a soaring yellow bird of paradise centered; the lower triangle is black with five, white, five-pointed stars of the Southern Cross constellation centered; red, black, and yellow are traditional colors of Papua New Guinea; the bird of paradise - endemic to the island of New Guinea - is an emblem of regional tribal culture and represents the emergence of Papua New Guinea as a nation; the Southern Cross, visible in the night sky, symbolizes Papua New Guinea's connection with Australia and several other countries in the South Pacific<br>

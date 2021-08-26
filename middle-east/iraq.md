@@ -344,10 +344,11 @@ _subordinate courts_: Courts of Appeal (governorate level); civil courts, includ
 ABEDA, AFESD, AMF, CAEU, CICA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, OPEC, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Farid YASIN (since 18 January 2017)<br>
+_chief of mission_: Ambassador Fareed Mustafa Kamil YASSEEN (since 18 January 2017)<br>
 _chancery_: 3421 Massachusetts Avenue, NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 742-1600<br>
 _FAX_: [1] (202) 333-1129<br>
+_email address and website_: <br>http://www.iraqiembassy.us/<br>
 _consulate(s) general_: Detroit, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
@@ -355,7 +356,7 @@ _chief of mission_: Ambassador Matthew TUELLER (since&nbsp;9&nbsp;June&nbsp;2019
 _embassy_: Al-Kindi Street, International Zone, Baghdad; note - consulate in Al Basrah closed as of 28 September 2018<br>
 _mailing address_: 6060 Baghdad Place, Washington DC&nbsp; 20521-6060<br>
 _telephone_: 0760-030-3000<br>
-_email address and website_: BaghdadACS@state.gov<br>
+_email address and website_: <br>BaghdadACS@state.gov<br><br>https://iq.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the Takbir (Arabic expression meaning "God is great") in green Arabic script is centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); the Council of Representatives approved this flag in 2008 as a compromise replacement for the Ba'thist SADDAM-era flag<br>

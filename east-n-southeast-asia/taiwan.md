@@ -272,7 +272,7 @@ _chief of mission_: the US does not have an embassy in Taiwan; commercial and cu
 _mailing address_: 4170 AIT Taipei Place, Washington DC&nbsp; 20521-4170<br>
 _telephone_: [886] 2-2162-2000<br>
 _FAX_: [886] 2-2162-2251<br>
-_email address and website_: TaipeiACS@state.gov<br>
+_email address and website_: <br>TaipeiACS@state.gov<br><br>https://www.ait.org.tw/<br>
 _branch office(s)_: American Institute in Taiwan<br>No. 100, Jinhu Road,<br>Neihu District 11461, Taipei City<br>
 _other offices_: Kaohsiung (Branch Office)<br>
 
@@ -585,7 +585,7 @@ _by type_: bulk carrier 36, container ship 49, general cargo 57, oil tanker 31, 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Keelung (Chi-lung), Kaohsiung, Hualian, Taichung<br>
-_container port(s) (TEUs)_: Kaohsiung (10,271,018), Taichung (1,660,663), Taipei (1,561,743) (2017)<br>
+_container port(s) (TEUs)_: Kaohsiung (10,428,634), Taichung (1,793,966), Taipei (1,620,392) (2019)<br>
 _LNG terminal(s) (import)_: Yung An (Kaohsiung), Taichung<br>
 
 ## Military and Security

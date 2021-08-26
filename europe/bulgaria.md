@@ -341,8 +341,9 @@ Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 387-0174<br>
+_telephone_: [1] (202) 387-0174/(202) 299-0273/(202) 483-1386<br>
 _FAX_: [1] (202) 234-7973<br>
+_email address and website_: <br>office@bulgaria-embassy.org; Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -351,7 +352,7 @@ _embassy_: 16, Kozyak Street, Sofia 1408<br>
 _mailing address_: 5740 Sofia Place, Washington, DC&nbsp; 20521-5740<br>
 _telephone_: [359] (2) 937-5100<br>
 _FAX_: [359] (2) 937-5320<br>
-_email address and website_: acs_sofia@state.gov<br><br>https://bg.usembassy.gov/<br>
+_email address and website_: <br>acs_sofia@state.gov<br><br>https://bg.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of white (top), green, and red; the pan-Slavic white-blue-red colors were modified by substituting a green band (representing freedom) for the blue<br>

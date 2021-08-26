@@ -357,10 +357,11 @@ Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDAR]<br
 ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ngote Gali KOUTOU (since 22 June 2018)<br>
+_chief of mission_: Ambassador NGOTE GALI Koutou (since 22 June 2018)<br>
 _chancery_: 2401 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 652-1312<br>
-_FAX_: [1] (202) 758-0431<br>
+_FAX_: [1] (202) 265-1937<br>
+_email address and website_: <br>info@chadembassy.us<br><br>https://chadembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David GILMOUR (since December 2020)<br>
@@ -368,7 +369,7 @@ _embassy_: Rond-Point Chagoua, B.P. 413, N&rsquo;Djamena<br>
 _mailing address_: 2410 N'Djamena Place, Washington DC&nbsp; 20521-2410<br>
 _telephone_: [235] 2251-5017<br>
 _FAX_: [235] 2253-9102<br>
-_email address and website_: NdjamenaACS@state.gov<br>
+_email address and website_: <br>NdjamenaACS@state.gov<br><br>https://td.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of blue (hoist side), gold, and red; the flag combines the blue and red French (former colonial) colors with the red and yellow (gold) of the Pan-African colors; blue symbolizes the sky, hope, and the south of the country, which is relatively well-watered; gold represents the sun, as well as the desert in the north of the country; red stands for progress, unity, and sacrifice<br>
@@ -666,7 +667,7 @@ _total_: 40,000 km (2018)<br>
 
 **Military and security forces**<br>
 Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2021)<br>
-note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the US-trained and equipped Special Anti-Terrorist Group (SATG)<br>
+note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the Special Anti-Terrorist Group (SATG; aka Division of Special Anti-Terrorist Groups (DGSAT))<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2019 est.)<br>

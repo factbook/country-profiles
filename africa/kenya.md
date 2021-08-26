@@ -375,7 +375,7 @@ _embassy_: P.O. Box 606 Village Market, 00621 Nairobi<br>
 _mailing address_: 8900 Nairobi Place, Washington, DC&nbsp; 20521-8900<br>
 _telephone_: [254] (20) 363-6000<br>
 _FAX_: [254] (20) 363-6157<br>
-_email address and website_: kenya_acs@state.gov<br>
+_email address and website_: <br>kenya_acs@state.gov<br><br>https://ke.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green; the red band is edged in white; a large Maasai warrior's shield covering crossed spears is superimposed at the center; black symbolizes the majority population, red the blood shed in the struggle for freedom, green stands for natural wealth, and white for peace; the shield and crossed spears symbolize the defense of freedom<br>

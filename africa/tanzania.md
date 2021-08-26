@@ -374,7 +374,7 @@ _embassy_: 686 Old Bagamoyo Road, Msasani, P.O. Box 9123, Dar es Salaam<br>
 _mailing address_: 2140 Dar es Salaam Place, Washington, DC&nbsp; 20521-2140<br>
 _telephone_: [255] (22) 229-4000<br>
 _FAX_: [255] (22) 229-4721<br>
-_email address and website_: DRSACS@state.gov<br>
+_email address and website_: <br>DRSACS@state.gov<br><br>https://tz.usembassy.gov/<br>
 
 **Flag description**<br>
 divided diagonally by a yellow-edged black band from the lower hoist-side corner; the upper triangle (hoist side) is green and the lower triangle is blue; the banner combines colors found on the flags of Tanganyika and Zanzibar; green represents the natural vegetation of the country, gold its rich mineral deposits, black the native Swahili people, and blue the country's many lakes and rivers, as well as the Indian Ocean<br>

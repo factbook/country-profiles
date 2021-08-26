@@ -346,7 +346,7 @@ _embassy_: Dag Hammarskjolds Vag 31, SE-115 89 Stockholm<br>
 _mailing address_: 5750 Stockholm Place, Washington, DC&nbsp; 20521-5750<br>
 _telephone_: [46] (08) 783-53-00<br>
 _FAX_: [46] (08) 661-19-64<br>
-_email address and website_: STKACSinfo@state.gov<br>
+_email address and website_: <br>STKACSinfo@state.gov<br><br>https://se.usembassy.gov/<br>
 
 **Flag description**<br>
 blue with a golden yellow cross extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors reflect those of the Swedish coat of arms - three gold crowns on a blue field<br>

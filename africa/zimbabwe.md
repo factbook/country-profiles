@@ -368,7 +368,7 @@ _embassy_: 2 Lorraine Drive, Bluffhill, Harare<br>
 _mailing address_: 2180 Harare Place, Washington DC&nbsp; 20521-2180<br>
 _telephone_: [263] 867-701-1000<br>
 _FAX_: [263] 24-233-4320<br>
-_email address and website_: consularharare@state.gov<br>
+_email address and website_: <br>consularharare@state.gov<br><br>https://zw.usembassy.gov/<br>
 
 **Flag description**<br>
 seven equal horizontal bands of green (top), yellow, red, black, red, yellow, and green with a white isosceles triangle edged in black with its base on the hoist side; a yellow Zimbabwe bird representing the long history of the country is superimposed on a red five-pointed star in the center of the triangle, which symbolizes peace; green represents agriculture, yellow mineral wealth, red the blood shed to achieve independence, and black stands for the native people<br>

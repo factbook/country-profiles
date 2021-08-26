@@ -357,10 +357,10 @@ _embassy_: 4 A. I. Igor Sikorsky Street, 04112 Kyiv<br>
 _mailing address_: 5850 Kyiv Place, Washington, DC 20521-5850<br>
 _telephone_: [380] (44) 521-5000<br>
 _FAX_: [380] (44) 521-5544<br>
-_email address and website_: kyivacs@state.gov<br>
+_email address and website_: <br>kyivacs@state.gov<br><br>https://ua.usembassy.gov/<br>
 
 **Flag description**<br>
-two equal horizontal bands of azure (top) and golden yellow represent grain fields under a blue sky<br>
+two equal horizontal bands of azure (top) and golden yellow; although the colors date back to medieval heraldry, in modern times they are sometimes claimed to represent grain fields under a blue sky<br>
 
 **National symbol(s)**<br>
 tryzub (trident); national colors: blue, yellow<br>

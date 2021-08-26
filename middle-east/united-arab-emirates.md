@@ -346,7 +346,7 @@ _embassy_: Embassies District, Plot 38, Sector W59-02, Street No. 4,&nbsp;Abu Dh
 _mailing address_: 6010 Abu Dhabi Place, Washington DC 20521-6010<br>
 _telephone_: [971] (2) 414-2200<br>
 _FAX_: [971] (2) 414-2241<br>
-_email address and website_: abudhabiacs@state.gov<br>
+_email address and website_: <br>abudhabiacs@state.gov<br><br>https://ae.usembassy.gov/<br>
 _consulate(s) general_: Dubai<br>
 
 **Flag description**<br>
@@ -656,7 +656,7 @@ _by type_: container ship 3, general cargo 120, oil tanker 19, other 498 (2020)<
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>
-_container port(s) (TEUs)_: Dubai Port (15,368,000), Khor Fakkan (Khawr Fakkan) (Sharjah) (2,321,000) (2017)<br>
+_container port(s) (TEUs)_: Dubai Port (14,111,000) (2019)<br>
 _LNG terminal(s) (export)_: Das Island<br>
 
 ## Military and Security

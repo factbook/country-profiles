@@ -354,10 +354,11 @@ BCIE, CACM, CD, CELAC, EITI (compliant country), FAO, G-24, G-77, IADB, IAEA, IB
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alfonso Jose QUINONEZ LEMUS (since 17 July 2020)<br>
 _chancery_: 2220 R Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 745-4952<br>
+_telephone_: [1] (202) 745-4953<br>
 _FAX_: [1] (202) 745-1908<br>
+_email address and website_: <br>infoembaguateeuu@minex.gob.gt<br>
 _consulate(s) general_: Atlanta, Chicago, Del Rio (TX), Denver, Houston, Los Angeles, McAllen (TX), Miami, New York, Oklahoma City, Philadelphia, Phoenix, Providence (RI), Raleigh (NC), San Bernardino (CA), San Francisco, Seattle<br>
-_consulate(s)_: Lake Worth (FL), Tucson (AZ)<br>
+_consulate(s)_: Lake Worth (FL), Silver Spring (MD), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador William W. POPP (since 13 August 2020)<br>
@@ -365,7 +366,7 @@ _embassy_: Avenida Reforma 7-01, Zone 10, Guatemala City<br>
 _mailing address_: 3190 Guatemala Place, Washington DC&nbsp; 20521-3190<br>
 _telephone_: [502] 2326-4000<br>
 _FAX_: [502] 2326-4654<br>
-_email address and website_: AmCitsGuatemala@state.gov<br>
+_email address and website_: <br>AmCitsGuatemala@state.gov<br><br>https://gt.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of light blue (hoist side), white, and light blue, with the coat of arms centered in the white band; the coat of arms includes a green and red quetzal (the national bird) representing liberty and a scroll bearing the inscription LIBERTAD 15 DE SEPTIEMBRE DE 1821 (the original date of independence from Spain) all superimposed on a pair of crossed rifles signifying Guatemala's willingness to defend itself and a pair of crossed swords representing honor and framed by a laurel wreath symbolizing victory; the blue bands represent the Pacific Ocean and Caribbean Sea; the white band denotes peace and purity<br>

@@ -340,7 +340,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen CRENWELGE (si
 _embassy_: Mogadishu, (reopened October 2019 on the grounds of the Mogadishu Airport)<br>
 _mailing address_: P.O. Box 606 Village Market<br>00621 Nairobi, Kenya<br>
 _telephone_: [254] 20 363-6451<br>
-_email address and website_: Kenya_ACS@state.gov<br>
+_email address and website_: <br>Kenya_ACS@state.gov<br><br>https://so.usembassy.gov/<br>
 
 **Flag description**<br>
 light blue with a large white five-pointed star in the center; the blue field was originally influenced by the flag of the UN but today is said to denote the sky and the neighboring Indian Ocean; the five points of the star represent the five regions in the horn of Africa that are inhabited by Somali people: the former British Somaliland and Italian Somaliland (which together make up Somalia), Djibouti, Ogaden (Ethiopia), and the North East Province (Kenya)<br>

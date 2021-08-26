@@ -330,10 +330,10 @@ _FAX_: [1] (202) 944-9606<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Richard B. NORLAND (since 22 August 2019)<br>
-_embassy_: Sidi Slim Area/Walie Al-Ahed Road, Tripoli (temporarily closed)&nbsp;<br>
+_embassy_: Sidi Slim Area/Walie Al-Ahed Road, Tripoli (temporarily closed)<br>
 _mailing address_: 8850 Tripoli Place, Washington, DC&nbsp; 20521-8850<br>
 _telephone_: [216] 71-107-000<br>
-_email address and website_: LibyaACS@state.gov<br>
+_email address and website_: <br>LibyaACS@state.gov<br><br>https://ly.usembassy.gov/<br>
 <strong>note:</strong> the US Embassy in Tripoli closed in July 2014 due to fighting near the embassy related to Libyan civil unrest; embassy staff and operations temporarily first relocated to Valetta, Malta and currently are temporarily relocated to Tunis, Tunisia<br>
 
 **Flag description**<br>

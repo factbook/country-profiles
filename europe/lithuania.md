@@ -353,7 +353,7 @@ _embassy_: Akmenu gatve 6, Vilnius, LT-03106<br>
 _mailing address_: 4510 Vilnius Place, Washington DC&nbsp; 20521-4510<br>
 _telephone_: [370] (5) 266-5500<br>
 _FAX_: [370] (5) 266-5510<br>
-_email address and website_: consec@state.gov<br>
+_email address and website_: <br>consec@state.gov<br><br>https://lt.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of yellow (top), green, and red; yellow symbolizes golden fields, as well as the sun, light, and goodness; green represents the forests of the countryside, in addition to nature, freedom, and hope; red stands for courage and the blood spilled in defense of the homeland<br>

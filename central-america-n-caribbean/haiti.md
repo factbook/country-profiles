@@ -322,9 +322,9 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats, 29 filled as of June 2019; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br> la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
-_elections_: <br> Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next scheduled for 27 October 2019) <br> Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next scheduled for 27 October 2019)<br>
-_election results_: <br> Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br> Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
+_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats; 10 filled as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
 
 **Executive branch**<br>
 _chief of state_: Acting President Ariel HENRY (since 20 July 2021); note - Prime Minister Ariel HENRY has assumed the responsibilities of president following the assassination of President Jovenel MOISE on 7 July 2021; an election is expected to be held on 7 November 2021; MOISE had been president since 7 February 2017<br>
@@ -350,6 +350,7 @@ _chief of mission_: Ambassador Bocchit EDMOND (since 23 December 2020)<br>
 _chancery_: 2311 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4090<br>
 _FAX_: [1] (202) 745-7215<br>
+_email address and website_: <br>amb.washington@diplomatie.ht<br><br>https://www.haiti.org/<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Miami, Orlando (FL), New York, San Juan (Puerto Rico)<br>
 
 **Diplomatic representation from the US**<br>
@@ -358,7 +359,7 @@ _embassy_: Tabarre 41, Route de Tabarre, Port-au-Prince<br>
 _mailing address_: 3400 Port-au-Prince Place, Washington, DC 20521-3400<br>
 _telephone_: [011] (509) 2229-8000<br>
 _FAX_: [011] (529) 2229-8027<br>
-_email address and website_: acspap@state.gov<br>
+_email address and website_: <br>acspap@state.gov<br><br>https://ht.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of blue (top) and red with a centered white rectangle bearing the coat of arms, which contains a palm tree flanked by flags and two cannons above a scroll bearing the motto L'UNION FAIT LA FORCE (Union Makes Strength); the colors are taken from the French Tricolor and represent the union of blacks and mulattoes<br>

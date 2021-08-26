@@ -358,7 +358,7 @@ _embassy_: Ban Somvang Tai, Thadeua Road, Km 9,&nbsp;Hatsayfong District, Vienti
 _mailing address_: 4350 Vientiane Place, Washington DC&nbsp; 20521-4350<br>
 _telephone_: [856] 21-48-7000<br>
 _FAX_: [856] 21-48-7040<br>
-_email address and website_: CONSLAO@state.gov<br>
+_email address and website_: <br>CONSLAO@state.gov<br><br>https://la.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of red (top), blue (double width), and red with a large white disk centered in the blue band; the red bands recall the blood shed for liberation; the blue band represents the Mekong River and prosperity; the white disk symbolizes the full moon against the Mekong River, but also signifies the unity of the people under the Lao People's Revolutionary Party, as well as the country's bright future<br>

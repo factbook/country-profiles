@@ -320,7 +320,7 @@ Bhutan Kuen-Nyam Party or BKP<br>Bhutan Peace and Prosperity Party (Druk Phuensu
 ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none;&nbsp;the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is Doma TSHERING (since 13 September 2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551<br>
+_chief of mission_: none; the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is Doma TSHERING (since 13 September 2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551; email consulate.pmbny@mfa.gov.bt<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

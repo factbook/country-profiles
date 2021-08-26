@@ -330,7 +330,7 @@ _residency requirement for naturalization_: 2 years<br>
 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)<br>House of Representatives or Camara de Diputados (190 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; members elected in single-seat constituencies by simple majority vote to serve 4-year terms; note - electoral system changes by the Central Election Commission are being challenged by the ruling party and opposition)<br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
 
@@ -365,7 +365,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Robert W. THOMAS (sin
 _embassy_: Av. Republica de Colombia #57, Santo Domingo<br>
 _mailing address_: 3470 Santo Domingo Place, Washington DC&nbsp; 20521-3470<br>
 _telephone_: (809) 567-7775<br>
-_email address and website_: SDOAmericans@state.gov<br>
+_email address and website_: <br>SDOAmericans@state.gov<br><br>https://do.usembassy.gov/<br>
 
 **Flag description**<br>
 a centered white cross that extends to the edges divides the flag into four rectangles - the top ones are ultramarine blue (hoist side) and vermilion red, and the bottom ones are vermilion red (hoist side) and ultramarine blue; a small coat of arms featuring a shield supported by a laurel branch (left) and a palm branch (right) is at the center of the cross; above the shield a blue ribbon displays the motto, DIOS, PATRIA, LIBERTAD (God, Fatherland, Liberty), and below the shield, REPUBLICA DOMINICANA appears on a red ribbon; in the shield a bible is opened to a verse that reads "Y la verdad nos hara libre" (And the truth shall set you free); blue stands for liberty, white for salvation, and red for the blood of heroes<br>
@@ -709,7 +709,7 @@ the military's primary focuses are countering illegal immigration and refugees a
 <p>Haitian migrants cross the porous border into the Dominican Republic to find work; illegal migrants from the Dominican Republic cross the Mona Passage each year to Puerto Rico to find better work</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,192 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2019)<br>
+_refugees (country of origin)_: 114,050 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2020)<br>
 _stateless persons_: 133,770 (2016); note - a September 2013 Constitutional Court ruling revoked the citizenship of those born after 1929 to immigrants without proper documentation, even though the constitution at the time automatically granted citizenship to children born in the Dominican Republic and the 2010 constitution provides that constitutional provisions cannot be applied retroactively; the decision overwhelmingly affected people of Haitian descent whose relatives had come to the Dominican Republic since the 1890s as a cheap source of labor for sugar plantations; a May 2014 law passed by the Dominican Congress regularizes the status of those with birth certificates but will require those without them to prove they were born in the Dominican Republic and to apply for naturalization; the government has issued documents to thousands of individuals who may claim citizenship under this law, but no official estimate has been released<br>
 <strong>note:</strong> revised estimate includes only individuals born to parents who were both born abroad; it does not include individuals born in the country to one Dominican-born and one foreign-born parent or subsequent generations of individuals of foreign descent; the estimate, as such, does not include all stateless persons (2015)<br>
 

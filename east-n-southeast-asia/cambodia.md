@@ -356,6 +356,7 @@ _chief of mission_: Ambassador CHUM SOUNRY (since 17 September 2018)<br>
 _chancery_: 4530 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7742<br>
 _FAX_: [1] (202) 726-8381<br>
+_email address and website_: <br>camemb.usa@mfaic.gov<br><br>https://www.embassyofcambodiadc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador W. Patrick MURPHY (since 23 October 2019)<br>
@@ -363,7 +364,7 @@ _embassy_: #1, Street 96, Sangkat Wat Phnom, Khan Daun Penh, Phnom Penh<br>
 _mailing address_: 4540 Phnom Penh Place, Washington DC&nbsp; 20521-4540<br>
 _telephone_: [855] (23) 728-000<br>
 _FAX_: [855] (23) 728-700<br>
-_email address and website_: ACSPhnomPenh@state.gov<br><br>https://kh.usembassy.gov/<br><br>
+_email address and website_: <br>ACSPhnomPenh@state.gov<br><br>https://kh.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (double width), and blue with a white, three-towered temple, representing Angkor Wat, outlined in black in the center of the red band; red and blue are traditional Cambodian colors<br>
@@ -690,10 +691,10 @@ Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, R
 1.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 110,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2020)<br>
+information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider, followed by Ukraine (2020)<br>
+the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider (2020)<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA); 175 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2021)<br>

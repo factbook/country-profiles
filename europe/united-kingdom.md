@@ -358,7 +358,7 @@ _embassy_: 33 Nine Elms Lane, London, SW11 7US<br>
 _mailing address_: 8400 London Place, Washington DC&nbsp; 20521-8400<br>
 _telephone_: [44] (0) 20-7499-9000<br>
 _FAX_: [44] (0) 20-7891-3845<br>
-_email address and website_: SCSLondon@state.gov<br>
+_email address and website_: <br>SCSLondon@state.gov<br><br>https://uk.usembassy.gov/<br>
 _consulate(s) general_: Belfast, Edinburgh<br>
 
 **Flag description**<br>
@@ -680,7 +680,7 @@ _by type_: bulk carrier 147, container ship 59, general cargo 116, oil tanker 99
 **Ports and terminals**<br>
 _major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>
 _oil terminal(s)_: Fawley Marine terminal, Liverpool Bay terminal (England); Braefoot Bay terminal, Finnart oil terminal, Hound Point terminal (Scotland)<br>
-_container port(s) (TEUs)_: Felixstowe (3,849,700), London (2,431,000), Southampton (2,040,000) (2017)<br>
+_container port(s) (TEUs)_: Felixstowe (3,584,000), London (2,790,000), Southampton (1,924,847) (2019)<br>
 _LNG terminal(s) (import)_: Isle of Grain, Milford Haven, Teesside<br>
 
 **Transportation - note**<br>

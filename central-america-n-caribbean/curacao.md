@@ -286,7 +286,7 @@ _embassy_: P.O. Box 158, J.B. Gorsiraweg 1<br>
 _mailing address_: 3160 Curacao Place, Washington DC&nbsp; 20521-3160<br>
 _telephone_: [599] (9) 461-3066<br>
 _FAX_: [599] (9) 461-6489<br>
-_email address and website_: ACSCuracao@state.gov<br>
+_email address and website_: <br>ACSCuracao@state.gov<br><br>https://cw.usconsulate.gov/<br>
 
 **Flag description**<br>
 on a blue field a horizontal yellow band somewhat below the center divides the flag into proportions of 5:1:2; two five-pointed white stars - the smaller above and to the left of the larger - appear in the canton; the blue of the upper and lower sections symbolizes the sky and sea respectively; yellow represents the sun; the stars symbolize Curacao and its uninhabited smaller sister island of Klein Curacao; the five star points signify the five continents from which Curacao's people derive<br>

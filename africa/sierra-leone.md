@@ -362,7 +362,7 @@ _chief of mission_: Ambassador David REIMER (since 24 March 2021)<br>
 _embassy_: Southridge-Hill Station, Freetown<br>
 _mailing address_: 2160 Freetown Place, Washington DC&nbsp; 20521-2160<br>
 _telephone_: [232] 99 105 000<br>
-_email address and website_: consularfreetown@state.gov<br>
+_email address and website_: <br>consularfreetown@state.gov<br><br>https://sl.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of light green (top), white, and light blue; green symbolizes agriculture, mountains, and natural resources, white represents unity and justice, and blue the sea and the natural harbor in Freetown<br>

@@ -347,10 +347,11 @@ Ahrar al-Urdun (Free People of Jordan) Party [Samir al-ZU'BI]<br>Al-Awn al-Watan
 ABEDA, AFESD, AMF, CAEU, CD, CICA, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MINUSTAH, MINUSMA, MONUSCO, NAM, OIC, OPCW, OSCE (partner), PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Dina Khalil Tawiq KAWAR (since 27 June 2016)<br>
+_chief of mission_: Ambassador Dina Khalil Tawfiq KAWAR (since 27 June 2016)<br>
 _chancery_: 3504 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-2664<br>
 _FAX_: [1] (202) 966-3110<br>
+_email address and website_: <br>hkjconsular@jordanembassyus.org<br><br>http://www.jordanembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Henry T. WOOSTER (since 8 October 2020)<br>
@@ -358,7 +359,7 @@ _embassy_: Abdoun, Al-Umawyeen St., Amman<br>
 _mailing address_: 6050 Amman Place, Washington DC&nbsp; 20521-6050<br>
 _telephone_: [962] (6) 590-6000<br>
 _FAX_: [962] (6) 592-0163<br>
-_email address and website_: Amman-ACS@state.gov<br>
+_email address and website_: <br>Amman-ACS@state.gov<br><br>https://jo.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), representing the Abbassid Caliphate, white, representing the Ummayyad Caliphate, and green, representing the Fatimid Caliphate; a red isosceles triangle on the hoist side, representing the Great Arab Revolt of 1916, and bearing a small white seven-pointed star symbolizing the seven verses of the opening Sura (Al-Fatiha) of the Holy Koran; the seven points on the star represent faith in One God, humanity, national spirit, humility, social justice, virtue, and aspirations; design is based on the Arab Revolt flag of World War I<br>

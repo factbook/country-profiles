@@ -358,7 +358,7 @@ _embassy_: 254 Kingsway Avenue, Maseru<br>
 _mailing address_: 2340 Maseru Place, Washington DC&nbsp; 20521-2340<br>
 _telephone_: [266] 22312666<br>
 _FAX_: [266] 22310116<br>
-_email address and website_: USConsularMaseru@state.gov<br>
+_email address and website_: <br>USConsularMaseru@state.gov<br><br>https://ls.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal stripes of blue (top), white, and green in the proportions of 3:4:3; the colors represent rain, peace, and prosperity respectively; centered in the white stripe is a black Basotho hat representing the indigenous people; the flag was unfurled in October 2006 to celebrate 40 years of independence<br>

@@ -352,7 +352,7 @@ _embassy_: Denver Street #3, 11th Micro-District, Ulaanbaatar 14190<br>
 _mailing address_: 4410 Ulaanbaatar Place, Washington DC&nbsp; 20521-4410<br>
 _telephone_: [976] 7007-6001<br>
 _FAX_: [976] 7007-6174<br>
-_email address and website_: UlaanbaatarACS@state.gov<br>
+_email address and website_: <br>UlaanbaatarACS@state.gov<br><br>https://mn.usembassy.gov/<br>
 
 **Flag description**<br>
 three, equal vertical bands of red (hoist side), blue, and red; centered on the hoist-side red band in yellow is the national emblem ("soyombo" - a columnar arrangement of abstract and geometric representation for fire, sun, moon, earth, water, and the yin-yang symbol); blue represents the sky, red symbolizes progress and prosperity<br>

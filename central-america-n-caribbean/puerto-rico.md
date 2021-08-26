@@ -570,7 +570,7 @@ _total_: 26,862 km (includes 454 km of expressways) (2012)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ensenada Honda, Mayaguez, Playa de Guayanilla, Playa de Ponce, San Juan<br>
-_container port(s) (TEUs)_: San Juan (1,210,503) (2015)<br>
+_container port(s) (TEUs)_: San Juan (2,142,662) (2019)<br>
 _LNG terminal(s) (import)_: Guayanilla Bay<br>
 
 ## Military and Security

@@ -357,7 +357,8 @@ ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO,
 _chief of mission_: Ambassador M Shahidul ISLAM (since 17 February 2021)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
-_FAX_: [1] (202) 244-2771<br>
+_FAX_: [1] (202) 244-2771/(202) 244 7830<br>
+_email address and website_: <br>mission.washington@mofa.gov.bd<br><br>http://www.bdembassyusa.org/<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -366,7 +367,7 @@ _embassy_: Madani Avenue, Baridhara, Dhaka - 1212<br>
 _mailing address_: 6120 Dhaka Place, Washington DC&nbsp; 20521-6120<br>
 _telephone_: [880] (2) 5566-2000<br>
 _FAX_: [880] (2) 5566-2907<br>
-_email address and website_: DhakaACS@state.gov<br><br>https://bd.usembassy.gov/<br>
+_email address and website_: <br>DhakaACS@state.gov<br><br>https://bd.usembassy.gov/<br>
 
 **Flag description**<br>
 green field with a large red disk shifted slightly to the hoist side of center; the red disk represents the rising sun and the sacrifice to achieve independence; the green field symbolizes the lush vegetation of Bangladesh<br>
@@ -685,8 +686,8 @@ _total_: 427<br>
 _by type_: bulk carrier 46, container ship 4, general cargo 118, oil tanker 142, other 117 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Chattogram<br>
-_container port(s) (TEUs)_: Chattogram (2,566,597) (2017)<br>
+_major seaport(s)_: Chattogram (Chittagong)<br>
+_container port(s) (TEUs)_: Chattogram (Chittagong) (3,088,187) (2019)<br>
 _river port(s)_: Mongla Port (Sela River)<br>
 
 ## Military and Security

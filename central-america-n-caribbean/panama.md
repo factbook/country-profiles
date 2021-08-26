@@ -326,7 +326,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by plurality vote; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
 _elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
 _election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
 
@@ -361,7 +361,7 @@ _embassy_: Building 783, Demetrio Basilio Lakas Avenue, Clayton<br>
 _mailing address_: 9100 Panama City PL, Washington, DC 20521-9100<br>
 _telephone_: [507] 317-5000<br>
 _FAX_: [507] 317-5568 (2018)<br>
-_email address and website_: Panama-ACS@state.gov<br>
+_email address and website_: <br>Panama-ACS@state.gov<br><br>https://pa.usembassy.gov/<br>
 
 **Flag description**<br>
 divided into four, equal rectangles; the top quadrants are white (hoist side) with a blue five-pointed star in the center and plain red; the bottom quadrants are plain blue (hoist side) and white with a red five-pointed star in the center; the blue and red colors are those of the main political parties (Conservatives and Liberals respectively) and the white denotes peace between them; the blue star stands for the civic virtues of purity and honesty, the red star signifies authority and law<br>
@@ -674,7 +674,7 @@ _by type_: bulk carrier 2,604, container ship 615, general cargo 1,347, oil tank
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>
-_container port(s) (TEUs)_: Balboa (2,905,049), Colon (3,891,209) (2017)<br>
+_container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
 
 ## Military and Security
 
@@ -701,7 +701,7 @@ Panama's security forces are lightly armed; Canada, Italy and the US have provid
 <p>organized illegal narcotics operations in Colombia operate within the remote border region with Panama</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 80,024 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 major cocaine transshipment point and primary money-laundering center for narcotics revenue; money-laundering activity is especially heavy in the Colon Free Zone; offshore financial center; negligible signs of coca cultivation; monitoring of financial transactions is improving; official corruption remains a major problem<br>

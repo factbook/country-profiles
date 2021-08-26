@@ -346,7 +346,7 @@ _embassy_: 4th Floor, Rogers House, John Kennedy Avenue, Port Louis<br>
 _mailing address_: 2450 Port Louis Place, Washington, DC 20521-2450<br>
 _telephone_: [230] 202-4400<br>
 _FAX_: [230] 208-9534<br>
-_email address and website_: PTLConsular@state.gov<br>
+_email address and website_: <br>PTLConsular@state.gov<br><br>https://mu.usembassy.gov/<br>
 
 **Flag description**<br>
 four equal horizontal bands of red (top), blue, yellow, and green; red represents self-determination and independence, blue the Indian Ocean surrounding the island, yellow has been interpreted as the new light of independence, golden sunshine, or the bright future, and green can symbolize either agriculture or the lush vegetation of the island<br>

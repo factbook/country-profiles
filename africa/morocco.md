@@ -405,7 +405,7 @@ _embassy_: Km 5.7 Avenue Mohammed VI, Souissi, Rabat 10170<br>
 _mailing address_: 9400 Rabat Place, Washington DC&nbsp; 20521-9400<br>
 _telephone_: [212] 0537-637-200<br>
 _FAX_: [212] 0537-637-201<br>
-_email address and website_: ACSCasablanca@state.gov (US Consulate General Casablanca)<br>
+_email address and website_: <br>ACSCasablanca@state.gov (US Consulate General Casablanca)<br><br>https://ma.usembassy.gov/<br>
 _consulate(s) general_: Casablanca<br>
 
 **Flag description**<br>
@@ -721,7 +721,7 @@ _by type_: container ship 7, general cargo 4, oil tanker 2, other 75 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>
-_container port(s) (TEUs)_: Tangier (3,312,409) (2017)<br>
+_container port(s) (TEUs)_: Tangier (4,801,713) (2019)<br>
 _LNG terminal(s) (import)_: Jorf Lasfar<br>
 
 ## Military and Security

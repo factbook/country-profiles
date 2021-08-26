@@ -363,6 +363,7 @@ _chief of mission_: Ambassador Alima MAHAMA (since 7 July 2021)<br>
 _chancery_: 3512 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 686-4520<br>
 _FAX_: [1] (202) 686-4527<br>
+_email address and website_: <br>info@ghanaembassydc.org<br><br>https://ghanaembassydc.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -370,7 +371,7 @@ _chief of mission_: Ambassador Stephanie S. SULLIVAN (since 23 January 2019)<br>
 _embassy_: No.24, Fourth Circular Road, Cantonments, Accra, P.O. Box 2288, Accra<br>
 _mailing address_: 2020 Accra Place, Washington DC&nbsp; 20521-2020<br>
 _telephone_: [233] (0) 30-274-1000<br>
-_email address and website_: ACSAccra@state.gov<br>
+_email address and website_: <br>ACSAccra@state.gov<br><br>https://gh.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), yellow, and green, with a large black five-pointed star centered in the yellow band; red symbolizes the blood shed for independence, yellow represents the country's mineral wealth, while green stands for its forests and natural wealth; the black star is said to be the lodestar of African freedom<br>

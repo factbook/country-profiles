@@ -91,7 +91,7 @@ Vietnamese (official), English (increasingly favored as a second language), some
 _major-language sample(s)_: <br>Dữ kiện thế giới, là nguồn thông tin cơ bản không thể thiếu. (Vietnamese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Buddhist 7.9%, Catholic 6.6%, Hoa Hao 1.7%, Cao Dai 0.9%, Protestant 0.9%, Muslim 0.1%, none 81.8% (2009 est.)<br>
+Catholic 6.1%, Buddhist 5.8%, Protestant 1%, other 0.8%, none 86.3% (2009 est.)<br>
 
 **Demographic profile**<br>
 <p>When Vietnam was reunified in 1975, the country had a youthful age structure and a high fertility rate.  The population growth rate slowed dramatically during the next 25 years, as fertility declined and infant mortality and life expectancy improved.  The country’s adoption of a one-or-two-child policy in 1988 led to increased rates of contraception and abortion.  The total fertility rate dropped rapidly from nearly 5 in 1979 to 2.1 or replacement level in 1990, and at 1.8 is below replacement level today.  Fertility is higher in the more rural central highlands and northern uplands, which are inhabited primarily by poorer ethnic minorities, and is lower among the majority Kinh, ethnic Chinese, and a few other ethnic groups, particularly in urban centers.  With more than two-thirds of the population of working age (15-64), Vietnam has the potential to reap a demographic dividend for approximately three decades (between 2010 and 2040).  However, its ability to do so will depend on improving the quality of education and training for its workforce and creating jobs.  The Vietnamese Government is also considering changes to the country’s population policy because if the country’s fertility rate remains below replacement level, it could lead to a worker shortage in the future.</p> <p>Vietnam has experienced both internal migration and net emigration, both for humanitarian and economic reasons, for the last several decades.  Internal migration – rural-rural and rural-urban, temporary and permanent – continues to be a means of coping with Vietnam’s extreme weather and flooding.  Although Vietnam’s population is still mainly rural, increasing numbers of young men and women have been drawn to the country’s urban centers where they are more likely to find steady jobs and higher pay in the growing industrial and service sectors.</p> <p>The aftermath of the Vietnam War in 1975 resulted in an outpouring of approximately 1.6 million Vietnamese refugees over the next two decades.  Between 1975 and 1997, programs such as the Orderly Departure Program and the Comprehensive Plan of Action resettled hundreds of thousands of Vietnamese refugees abroad, including the United States (880,000), China (260,000, mainly ethnic Chinese Hoa), Canada (160,000), Australia (155,000), and European countries (150,000). </p> In the 1980s, some Vietnamese students and workers began to migrate to allied communist countries, including the Soviet Union, Czechoslovakia, Bulgaria, and East Germany.  The vast majority returned home following the fall of communism in Eastern Europe in the early 1990s.  Since that time, Vietnamese labor migrants instead started to pursue opportunities in Asia and the Middle East.  They often perform low-skilled jobs under harsh conditions for low pay and are vulnerable to forced labor, including debt bondage to the private brokers who arrange the work contracts.  Despite Vietnam’s current labor surplus, the country has in recent years attracted some foreign workers, mainly from China and other Asian countries.<br>
@@ -361,7 +361,7 @@ _embassy_: 7 Lang Ha Street, Hanoi<br>
 _mailing address_: 4550 Hanoi Place, Washington, DC 20521-4550<br>
 _telephone_: [84] (24) 3850-5000<br>
 _FAX_: [84] (24) 3850-5010<br>
-_email address and website_: ACShanoi@state.gov<br>
+_email address and website_: <br>ACShanoi@state.gov<br><br>https://vn.usembassy.gov/<br>
 _consulate(s) general_: Ho Chi Minh City<br>
 
 **Flag description**<br>
@@ -678,7 +678,7 @@ _by type_: bulk carrier 102, container ship 40, general cargo 1,196, oil tanker 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon<br>
-_container port(s) (TEUs)_: Saigon (6,155,535), Cai Mep (3,065,014) (2017)<br>
+_container port(s) (TEUs)_: Saigon (7,220,377), Cai Mep (3,742,384), Haiphong (5,133,150) (2019)<br>
 _river port(s)_: Ho Chi Minh (Mekong)<br>
 
 ## Military and Security

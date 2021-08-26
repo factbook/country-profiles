@@ -364,9 +364,10 @@ ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, I
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
-_chancery_: 2349 Massachusetts Avenue, Washington, DC 20008<br>
+_chancery_: 2349 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-8790<br>
 _FAX_: [1] (202) 387-3826<br>
+_email address and website_: <br>cs@cameroonembassyusa.org<br><br>https://www.cameroonembassyusa.org/mainFolder/index.html<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant);&nbsp; Deputy Chief of Mission (currently serving as Charge d'Affaires) Mary E. DASCHBACH<br>
@@ -374,7 +375,7 @@ _embassy_: Avenue Rosa Parks, Yaound&eacute;<br>
 _mailing address_: 2520 Yaounde Place, Washington, DC&nbsp; 20521-2520<br>
 _telephone_: [237] 22251-4000/[237] 22220-1500<br>
 _FAX_: [237] 22220-1500, Ext. 4531<br>
-_email address and website_: YaoundeACS@state.gov<br><br>https://cm.usembassy.gov/<br>
+_email address and website_: <br>YaoundeACS@state.gov<br><br>https://cm.usembassy.gov/<br>
 _branch office(s)_: Douala<br>
 
 **Flag description**<br>

@@ -371,7 +371,7 @@ _embassy_: Lot 207A, Andranoro, Antehiroka, 105 Antananarivo<br>
 _mailing address_: 2040 Antananarivo Place, Washington&nbsp; DC 20521-2040<br>
 _telephone_: [261] 20-23-480-00<br>
 _FAX_: [261] 20-23-480-35<br>
-_email address and website_: antanACS@state.gov<br>
+_email address and website_: <br>antanACS@state.gov<br><br>https://mg.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and green with a vertical white band of the same width on hoist side; by tradition, red stands for sovereignty, green for hope, white for purity<br>

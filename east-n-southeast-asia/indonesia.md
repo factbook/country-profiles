@@ -357,10 +357,11 @@ Democrat Party or PD [Susilo Bambang YUDHOYONO]<br>Functional Groups Party or GO
 ADB, APEC, ARF, ASEAN, BIS, CD, CICA (observer), CP, D-8, EAS, EITI (compliant country), FAO, G-11, G-15, G-20, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IORA, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSTAH, MONUSCO, MSG (associate member), NAM, OECD (enhanced engagement), OIC, OPCW, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Muhammad LUTFI (since 17 September 2020)<br>
+_chief of mission_: Ambassador (vacant); Iwan Freddy Hari SUSANTO, Minister (since 1 April 2021)<br>
 _chancery_: 2020 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 775-5200<br>
 _FAX_: [1] (202) 775-5365<br>
+_email address and website_: <br>http://www.embassyofindonesia.org/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -369,7 +370,7 @@ _embassy_: Jl. Medan Merdeka Selatan No. 3-5, Jakarta 10110<br>
 _mailing address_: 8200 Jakarta Place, Washington DC&nbsp; 8200<br>
 _telephone_: [62] (21) 5083-1000 (2020)<br>
 _FAX_: [62] (21) 385-7189 (2018)<br>
-_email address and website_: jakartaacs@state.gov<br>
+_email address and website_: <br>jakartaacs@state.gov<br><br>https://id.usembassy.gov/<br>
 _consulate(s) general_: Surabaya<br>
 _consulate(s)_: Medan<br>
 
@@ -690,7 +691,7 @@ _by type_: bulk carrier 129, container ship 226, general cargo 2,213, oil tanker
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>
-_container port(s) (TEUs)_: Tanjung Perak (3,553,370), Tanjung Priok (6,090,000) (2017)<br>
+_container port(s) (TEUs)_: Tanjung Perak (3,900,000), Tanjung Priok (7,600,000) (2019)<br>
 _LNG terminal(s) (export)_: Bontang, Tangguh<br>
 _LNG terminal(s) (import)_: Arun, Lampung, West Java<br>
 

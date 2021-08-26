@@ -358,7 +358,7 @@ _embassy_: 110 Ataturk Boulevard, Kavaklidere, 06100 Ankara<br>
 _mailing address_: 7000 Ankara Place, Washington&nbsp; DC 20512-7000<br>
 _telephone_: [90] (312) 455-5555<br>
 _FAX_: [90] (312) 467-0019<br>
-_email address and website_: Ankara-ACS@state.gov<br>
+_email address and website_: <br>Ankara-ACS@state.gov<br><br>https://tr.usembassy.gov/<br>
 _consulate(s) general_: Istanbul<br>
 _consulate(s)_: Adana<br>
 
@@ -677,7 +677,7 @@ _by type_: bulk carrier 50, container ship 42, general cargo 338, oil tanker 121
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>
-_container port(s) (TEUs)_: Ambarli (3,131,621), Mersin (Icel) (1,592,000) (2017)<br>
+_container port(s) (TEUs)_: Ambarli (3,104,882), Mersin (Icel) (1,854,312), Izmet (1,715,193) (2019)<br>
 _LNG terminal(s) (import)_: Izmir Aliaga, Marmara Ereglisi<br>
 
 ## Military and Security

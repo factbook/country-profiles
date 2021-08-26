@@ -328,10 +328,11 @@ Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON]<br>Independe
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Geir Hilmar HAARDE (since 23 February 2015)<br>
+_chief of mission_: Ambassador Bergdis ELLERTSDOTTIR (since 16 September 2019)<br>
 _chancery_: House of Sweden, 2900 K Street NW, #509, Washington, DC 20007<br>
 _telephone_: [1] (202) 265-6653<br>
 _FAX_: [1] (202) 265-6656<br>
+_email address and website_: <br>washington@mfa.is<br><br>https://www.government.is/diplomatic-missions/embassy-of-iceland-in-washington-d.c/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -340,7 +341,7 @@ _embassy_: Engjateigur 7, 105 Reykjavik<br>
 _mailing address_: 5640 Reykjavik Place, Washington, D.C. 20521-5640<br>
 _telephone_: [354] 595-2200<br>
 _FAX_: [354] 562-9118<br>
-_email address and website_: ReykjavikConsular@state.gov<br>
+_email address and website_: <br>ReykjavikConsular@state.gov<br><br>https://is.usembassy.gov/<br>
 
 **Flag description**<br>
 blue with a red cross outlined in white extending to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag); the colors represent three of the elements that make up the island: red is for the island's volcanic fires, white recalls the snow and ice fields of the island, and blue is for the surrounding ocean<br>

@@ -357,6 +357,7 @@ _chief of mission_: Ambassador Martial NDOUBOU (since 17 September 2018)<br>
 _chancery_: 2704 Ontario Road NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 483-7800<br>
 _FAX_: [1] (202) 332-9893<br>
+_email address and website_: <br>pc@usrcaembassy.org<br><br>https://www.usrcaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Lucy TAMLYN (since 11 January 2019)<br>
@@ -364,6 +365,7 @@ _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>
 _FAX_: [236] 2161-4494<br>
+_email address and website_: <br>https://cf.usembassy.gov/<br>
 
 **Flag description**<br>
 four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band; banner combines the Pan-African and French flag colors; red symbolizes the blood spilled in the struggle for independence, blue represents the sky and freedom, white peace and dignity, green hope and faith, and yellow tolerance; the star represents aspiration towards a vibrant future<br>

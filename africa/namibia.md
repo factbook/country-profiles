@@ -367,7 +367,7 @@ _embassy_: 14 Lossen Street, Windhoek<br>
 _mailing address_: 2540 Windhoek Place, Washington DC&nbsp; 20521-2540<br>
 _telephone_: [264] (061) 295-8500<br>
 _FAX_: [264] (061) 295-8603<br>
-_email address and website_: ConsularWindhoek@state.gov<br>
+_email address and website_: <br>ConsularWindhoek@state.gov<br><br>https://na.usembassy.gov/<br>
 
 **Flag description**<br>
 a wide red stripe edged by narrow white stripes divides the flag diagonally from lower hoist corner to upper fly corner; the upper hoist-side triangle is blue and charged with a golden-yellow, 12-rayed sunburst; the lower fly-side triangle is green; red signifies the heroism of the people and their determination to build a future of equal opportunity for all; white stands for peace, unity, tranquility, and harmony; blue represents the Namibian sky and the Atlantic Ocean, the country's precious water resources and rain; the golden-yellow sun denotes power and existence; green symbolizes vegetation and agricultural resources<br>

@@ -339,7 +339,8 @@ _chief of mission_: Ambassador Gilad Menashe ERDAN (since 17 February 2021)<br>
 _chancery_: 3514 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-5500<br>
 _FAX_: [1] (202) 364-5607<br>
-_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, Philadelphia, San Francisco<br>
+_email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://embassies.gov.il/washington/Pages/default.aspx<br>
+_consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charge d'Affaires Michael RATNEY (since 1 June 2021)<br>
@@ -347,7 +348,7 @@ _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
 _FAX_: [972] (2) 630-4070<br>
-_email address and website_: JerusalemACS@state.gov<br>
+_email address and website_: <br>JerusalemACS@state.gov<br><br>https://il.usembassy.gov/<br>
 _branch office(s)_: Tel Aviv<br>
 <strong>note:</strong> on 14 May 2018, the US Embassy relocated to Jerusalem from Tel Aviv; on 4 March 2019, Consulate General Jerusalem merged into US Embassy Jerusalem to form a single diplomatic mission<br>
 
@@ -669,7 +670,7 @@ _by type_: container ship 6, general cargo 3, oil tanker 3, other 29 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>
-_container port(s) (TEUs)_: Ashdod (1,443,000) (2016)<br>
+_container port(s) (TEUs)_: Ashdod (1,584,000) (2019)<br>
 
 ## Military and Security
 

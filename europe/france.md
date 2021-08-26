@@ -364,7 +364,7 @@ _embassy_: 2 avenue Gabriel, 75008 Paris<br>
 _mailing address_: 9200 Paris Place, Washington DC&nbsp; 20521-9200<br>
 _telephone_: [33] (1) 43-12-22-22, [33] (1) 42-66-97-83<br>
 _FAX_: [33] (1) 42-66-97-83<br>
-_email address and website_: Citizeninfo@state.gov<br>
+_email address and website_: <br>Citizeninfo@state.gov<br><br>https://fr.usembassy.gov/<br>
 _consulate(s) general_: Marseille, Strasbourg<br>
 _consulate(s)_: Bordeaux, Lyon, Rennes<br>
 
@@ -688,7 +688,7 @@ _by type_: container ship 30, general cargo 50, oil tanker 28, other 437 (2020)<
 
 **Ports and terminals**<br>
 _major seaport(s)_: Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,<br>
-_container port(s) (TEUs)_: Le Havre (2,870,000) (2017)<br>
+_container port(s) (TEUs)_: Le Havre (2,822,910) (2019)<br>
 _LNG terminal(s) (import)_: Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
 _river port(s)_: Paris, Rouen (Seine)<br>
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>

@@ -365,7 +365,7 @@ _embassy_: 5 Tawfik Diab St., Garden City, Cairo<br>
 _mailing address_: 7700 Cairo Place, Washington DC 20512-7700<br>
 _telephone_: [20-2] 2797-3300<br>
 _FAX_: [20-2] 2797-3200<br>
-_email address and website_: ConsularCairoACS@state.gov<br>
+_email address and website_: <br>ConsularCairoACS@state.gov<br><br>https://eg.usembassy.gov/<br>
 _consulate(s) general_: Alexandria<br>
 
 **Flag description**<br>
@@ -686,7 +686,7 @@ _by type_: bulk carrier 14, container ship 8, general cargo 28, oil tanker 37, o
 **Ports and terminals**<br>
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>
 _oil terminal(s)_: Ain Sukhna terminal, Sidi Kerir terminal<br>
-_container port(s) (TEUs)_: Alexandria (1,613,000), Port Said (East) (2,968,308) (2017)<br>
+_container port(s) (TEUs)_: Port Said (East) (3,816,084) (2019)<br>
 _LNG terminal(s) (export)_: Damietta, Idku (Abu Qir Bay)<br>
 Gulf of Suez - Suez<br>
 

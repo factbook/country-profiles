@@ -358,10 +358,11 @@ Front for Democracy in Burundi-Nyakuri or FRODEBU-Nyakuri [Keffa NIBIZI]<br>Fron
 ACP, AfDB, AU, CEMAC, CEPGL, CICA, COMESA, EAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Aimable NIYONKURU (since 24 December 2020)<br>
-_chancery_: 2233 Wisconsin Avenue NW, Suite 408, Washington, DC 20007<br>
+_chief of mission_: Ambassador Jean de Dieu NDIKUMANA (since 7 July 2021)<br>
+_chancery_: 2233 Wisconsin Avenue NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2574<br>
 _FAX_: [1] (202) 342-2578<br>
+_email address and website_: <br>burundiembusadc@gmail.com<br><br>https://burundiembassy-usa.com/index.php<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Melanie Harris HIGGINS (since 2 March 2021)<br>
@@ -369,7 +370,7 @@ _embassy_: B.P. 1720, Avenue Des Etats-Unis, Bujumbura<br>
 _mailing address_: 2100 Bujumbura Place, Washington DC&nbsp; 20521-2100<br>
 _telephone_: [257] 22-207-000<br>
 _FAX_: [257] 22-222-926<br>
-_email address and website_: BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br><br>
+_email address and website_: <br>BujumburaC@state.gov<br><br>https://bi.usembassy.gov/<br>
 
 **Flag description**<br>
 divided by a white diagonal cross into red panels (top and bottom) and green panels (hoist side and fly side) with a white disk superimposed at the center bearing three red six-pointed stars outlined in green arranged in a triangular design (one star above, two stars below); green symbolizes hope and optimism, white purity and peace, and red the blood shed in the struggle for independence; the three stars in the disk represent the three major ethnic groups: Hutu, Twa, Tutsi, as well as the three elements in the national motto: unity, work, progress<br>

@@ -348,10 +348,11 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Armando VARRICCHIO (since 2 March 2016)<br>
+_chief of mission_: Ambassador (vacant); Maurizio GREGANTI, Minister (since 15 June 2021)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
-_FAX_: [1] (202) 518-2151<br>
+_FAX_: [1] (202) 518-2154<br>
+_email address and website_: <br>amb.washington@cert.esteri.it<br><br>https://ambwashingtondc.esteri.it/ambasciata_washington/en/<br>
 _consulate(s) general_: Boston, Chicago, Detroit, Houston, Miami, New York, Los Angeles, Philadelphia, San Francisco<br>
 _consulate(s)_: Charlotte (NC), Cleveland (OH), Detroit (MI), Hattiesburg (MS), Honolulu (HI), New Orleans, Newark (NJ), Norfolk (VA), Pittsburgh (PA), Portland (OR), Seattle<br>
 
@@ -361,7 +362,7 @@ _embassy_: via Vittorio Veneto 121, 00187 Roma<br>
 _mailing address_: 9500 Rome Place, Washington DC&nbsp; 20521-9500<br>
 _telephone_: [39] 06-46741<br>
 _FAX_: [39] 06-4674-2244<br>
-_email address and website_: uscitizenrome@state.gov<br>
+_email address and website_: <br>uscitizenrome@state.gov<br><br>https://it.usembassy.gov/<br>
 _consulate(s) general_: Florence, Milan, Naples<br>
 
 **Flag description**<br>
@@ -682,7 +683,7 @@ _by type_: bulk carrier 42, container ship 7, general cargo 114, oil tanker 107,
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
 _oil terminal(s)_: Melilli (Santa Panagia) oil terminal, Sarroch oil terminal<br>
-_container port(s) (TEUs)_: Genoa (2,622,200), Gioia Tauro (2,448,600) (2017)<br>
+_container port(s) (TEUs)_: Genoa (2,621,472), Gioia Tauro (2,523,000) (2019)<br>
 _LNG terminal(s) (import)_: La Spezia, Panigaglia, Porto Levante<br>
 
 ## Military and Security
@@ -726,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 553,966 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 558,676 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

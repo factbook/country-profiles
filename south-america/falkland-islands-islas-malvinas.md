@@ -216,9 +216,9 @@ see United Kingdom<br>
 18 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 8 members directly elected by majority vote and 2 appointed ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -  the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br><br>
 _elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition -men 8, women 2, percent of women 20%<br>
+_election results_: percent of vote - NA; seats - independent 8; composition (elected members) -men 8, women 2, percent of women 20%<br>
 
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel PHILLIPS (since 12 September 2017)<br>

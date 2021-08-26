@@ -362,7 +362,7 @@ _embassy_: Aleje Ujazdowskie 29/31, 00-540 Warsaw<br>
 _mailing address_: 5010 Warsaw Place, Washington, DC 20521-5010<br>
 _telephone_: [48] (22) 504-2000<br>
 _FAX_: [48] (22) 504-2088<br>
-_email address and website_: acswarsaw@state.gov<br>
+_email address and website_: <br>acswarsaw@state.gov<br><br>https://pl.usembassy.gov/<br>
 _consulate(s) general_: Krakow<br>
 
 **Flag description**<br>
@@ -682,7 +682,7 @@ _by type_: general cargo 6, oil tanker 7, other 129 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>
-_container port(s) (TEUs)_: Gdansk (1,593,761) (2017)<br>
+_container port(s) (TEUs)_: Gdansk (2,073,215) (2019)<br>
 _LNG terminal(s) (import)_: Swinoujscie<br>
 _river port(s)_: Szczecin (River Oder)<br>
 

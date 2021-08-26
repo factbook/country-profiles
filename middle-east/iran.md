@@ -352,7 +352,7 @@ Combatant Clergy Association (an active political group)<br>Council for Coordina
 CICA, CP, D-8, ECO, FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OPEC, PCA, SAARC (observer), SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Pakistani Embassy, 2209 Wisconsin Avenue NW, Washington, DC 20007; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073<br>
+_chief of mission_: none; Iran has an Interests Section in the Pakistani Embassy; address: Iranian Interests Section, Embassy of Pakistan, 1250 23rd Street NW, Washington, DC 20037; telephone: [1] (202) 965-4990; FAX [1] (202) 965-1073; info@daftar.org<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none; the US Interests Section is located in the Embassy of Switzerland; US Foreign Interests Section, Embassy of Switzerland, Pasdaran, Shahid Mousavi Street (Golestan 5th), Corner of Paydarfard Street, No. 55, Tehran<br>
@@ -669,7 +669,7 @@ _by type_: bulk carrier 32, container ship 26, general cargo 373, oil tanker 83,
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni<br>
-_container port(s) (TEUs)_: Bandar Abbas (2,607,000) (2017)<br>
+_container port(s) (TEUs)_: Bandar Abbas<br>
 
 ## Military and Security
 

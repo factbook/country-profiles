@@ -371,7 +371,7 @@ _embassy_: Paseo de la Reforma 305, Colonia Cuauhtemoc, 06500 Mexico, CDMX<br>
 _mailing address_: 8700 Mexico City Place, Washington DC&nbsp; 20521-8700<br>
 _telephone_: (011) [52]-55-5080-2000<br>
 _FAX_: (011) 52-55-5080-2005<br>
-_email address and website_: ACSMexicoCity@state.gov<br>
+_email address and website_: <br>ACSMexicoCity@state.gov<br><br>https://mx.usembassy.gov/<br>
 _consulate(s) general_: Ciudad Juarez, Guadalajara, Hermosillo, Matamoros, Merida, Monterrey, Nogales, Nuevo Laredo, Tijuana<br>
 
 **Flag description**<br>
@@ -695,7 +695,7 @@ _by type_: bulk carrier 6, general cargo 10, oil tanker 34, other 618 (2020)<br>
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>
 _oil terminal(s)_: Cayo Arcas terminal, Dos Bocas terminal<br>
 _cruise port(s)_: Cancun, Cozumel, Ensenada<br>
-_container port(s) (TEUs)_: Manzanillo (2,830,370), Lazaro Cardenas (1,149,079) (2017)<br>
+_container port(s) (TEUs)_: Lazaro Cardenas (1,318,732), Manzanillo (3,069,189), Veracruz (1,144,156) (2019)<br>
 _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 
 ## Military and Security
@@ -729,7 +729,7 @@ the Mexican military under President LOPEZ OBRADOR has expanded its role in publ
 <p>abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,257 (Honduras) (2019); 62,044 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 9,257 (Honduras) (2019); 102,223 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
 _IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2020)<br>
 _stateless persons_: 13 (2020)<br>
 

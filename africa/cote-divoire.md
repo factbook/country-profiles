@@ -365,6 +365,7 @@ _chief of mission_: Ambassador Mamadou HAIDARA (since 28 March 2018)<br>
 _chancery_: 2424 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-0300<br>
 _FAX_: [1] (202) 462-9444<br>
+_email address and website_: <br>info@ambacidc.org<br><br>https://ambaciusa.org/#<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Richard K. BELL (since 10 October 2019)<br>
@@ -372,7 +373,7 @@ _embassy_: B.P. 730 Abidjan Cidex 03<br>
 _mailing address_: 2010 Abidjan Place, Washington DC&nbsp; 20521-2010<br>
 _telephone_: [225] 27-22-49-40-00<br>
 _FAX_: [225] 27-22-49-43-23<br>
-_email address and website_: AbjAmCit@state.gov<br>
+_email address and website_: <br>AbjAmCit@state.gov<br><br>https://ci.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of orange (hoist side), white, and green; orange symbolizes the land (savannah) of the north and fertility, white stands for peace and unity, green represents the forests of the south and the hope for a bright future<br>

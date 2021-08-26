@@ -347,7 +347,7 @@ _embassy_: 179 Alaa Street, Asmara<br>
 _mailing address_: 7170 Asmara Place, Washington DC&nbsp; 20521-7170<br>
 _telephone_: [291] (1) 12-00-04<br>
 _FAX_: [291] (1) 12-75-84<br>
-_email address and website_: consularasmara@state.gov<br>
+_email address and website_: <br>consularasmara@state.gov<br><br>https://er.usembassy.gov/<br>
 
 **Flag description**<br>
 red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle; green stands for the country's agriculture economy, red signifies the blood shed in the fight for freedom, and blue symbolizes the bounty of the sea; the wreath-olive branch symbol is similar to that on the first flag of Eritrea from 1952; the shape of the red triangle broadly mimics the shape of the country<br>
@@ -658,7 +658,7 @@ Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air For
 5% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Eritrean Defense Forces are comprised of an estimated 200,000 personnel, including about 2,000 in the naval and air forces; note &ndash; it is unclear how many of the EDF&rsquo;s&nbsp; personnel are on active duty; the force includes significant numbers of conscripts, many of which are reportedly not under arms (2021)<br>
+limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Eritrean Defense Forces inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, followed by Belarus; in 2019, Eritrea expressed interest in purchasing Russian arms, including missile boats, helicopters, and small arms; in January 2020, Russia announced it would provide two helicopters by the end of the year (2020)<br>

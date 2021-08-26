@@ -347,6 +347,7 @@ _embassy_: Sulgeneckstrasse 19, CH-3007 Bern<br>
 _mailing address_: 5110 Bern Place, Washington DC&nbsp; 20521-5110<br>
 _telephone_: [41] (031) 357-70-11<br>
 _FAX_: [41] (031) 357-73-20<br>
+_email address and website_: <br>https://ch.usembassy.gov/<br>
 
 **Flag description**<br>
 red square with a bold, equilateral white cross in the center that does not extend to the edges of the flag; various medieval legends purport to describe the origin of the flag; a white cross used as identification for troops of the Swiss Confederation is first attested at the Battle of Laupen (1339)<br>

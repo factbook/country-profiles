@@ -332,6 +332,7 @@ _chief of mission_: Ambassador Daniel Gerard MULHALL (since 8 September 2017)<br
 _chancery_: 2234 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-3939<br>
 _FAX_: [1] (202) 232-5993<br>
+_email address and website_: <br>https://www.dfa.ie/irish-embassy/usa/<br>
 _consulate(s) general_: Atlanta, Austin (TX), Boston, Chicago, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -340,7 +341,7 @@ _embassy_: 42 Elgin Road, Ballsbridge, Dublin 4<br>
 _mailing address_: 5290 Dublin Place, Washington DC&nbsp; 20521-5290<br>
 _telephone_: [353] (1) 668-8777<br>
 _FAX_: [353] (1) 688-8056<br>
-_email address and website_: ACSDublin@state.gov<br>
+_email address and website_: <br>ACSDublin@state.gov<br><br>https://ie.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), white, and orange; officially the flag colors have no meaning, but a common interpretation is that the green represents the Irish nationalist (Gaelic) tradition of Ireland; orange represents the Orange tradition (minority supporters of William of Orange); white symbolizes peace (or a lasting truce) between the green and the orange<br>
@@ -655,7 +656,7 @@ _by type_: bulk carrier 11, general cargo 37, oil tanker 1, other 46 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dublin, Shannon Foynes<br>
-_cruise port(s)_: Cork, Dublin<br>
+_cruise port(s)_: Cork (250,000), Dublin (359,966) (2020)<br>
 _container port(s) (TEUs)_: Dublin (529,563) (2016)<br>
 _river port(s)_: Cork (Lee), Waterford (Suir)<br>
 

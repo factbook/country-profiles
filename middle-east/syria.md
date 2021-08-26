@@ -340,7 +340,7 @@ _FAX_: [1] (202) 234-9548<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
 _embassy_: Abou Roumaneh, 2 Al Mansour Street, Damascus<br>
 _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
-_email address and website_: USIS_damascus@embassy.mzv.cz<br>
+_email address and website_: <br>USIS_damascus@embassy.mzv.cz<br><br>https://sy.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; two small, green, five-pointed stars in a horizontal line centered in the white band; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white); identical to the former flag of the United Arab Republic (1958-1961) where the two stars represented the constituent states of Syria and Egypt; the current design dates to 1980<br>

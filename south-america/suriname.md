@@ -354,7 +354,7 @@ _embassy_: 165 Kristalstraat, Paramaribo<br>
 _mailing address_: 3390 Paramaribo Place, Washington DC&nbsp; 20521-3390<br>
 _telephone_: [597] 556-700<br>
 _FAX_: [597] 551-524<br>
-_email address and website_: caparamar@state.gov<br>
+_email address and website_: <br>caparamar@state.gov<br><br>https://sr.usembassy.gov/<br>
 
 **Flag description**<br>
 five horizontal bands of green (top, double width), white, red (quadruple width), white, and green (double width); a large, yellow, five-pointed star is centered in the red band; red stands for progress and love, green symbolizes hope and fertility, white signifies peace, justice, and freedom; the star represents the unity of all ethnic groups; from its yellow light the nation draws strength to bear sacrifices patiently while working toward a golden future<br>

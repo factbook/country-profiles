@@ -359,7 +359,7 @@ _embassy_: Kentmanni 20, 15099 Tallinn<br>
 _mailing address_: 4530 Tallinn Place, Washington DC&nbsp; 20521-4530<br>
 _telephone_: [372] 668-8100<br>
 _FAX_: [372] 668-8265<br>
-_email address and website_: acstallinn@state.gov<br>
+_email address and website_: <br>acstallinn@state.gov<br><br>https://ee.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), black, and white; various interpretations are linked to the flag colors; blue represents faith, loyalty, and devotion, while also reminiscent of the sky, sea, and lakes of the country; black symbolizes the soil of the country and the dark past and suffering endured by the Estonian people; white refers to the striving towards enlightenment and virtue, and is the color of birch bark and snow, as well as summer nights illuminated by the midnight sun<br>

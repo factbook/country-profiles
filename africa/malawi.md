@@ -369,7 +369,7 @@ _embassy_: 16 Jomo Kenyatta Road, Lilongwe 3<br>
 _mailing address_: 2280 Lilongwe Place, Washington DC&nbsp; 20521-2280<br>
 _telephone_: [265] (0) 177-3166<br>
 _FAX_: [265] (0) 177-0471<br>
-_email address and website_: LilongweConsular@state.gov<br>
+_email address and website_: <br>LilongweConsular@state.gov<br><br>https://mw.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of black (top), red, and green with a radiant, rising, red sun centered on the black band; black represents the native peoples, red the blood shed in their struggle for freedom, and green the color of nature; the rising sun represents the hope of freedom for the continent of Africa<br>

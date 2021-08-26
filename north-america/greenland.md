@@ -286,6 +286,7 @@ Arctic Council, ICC, NC, NIB, UPU<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: none (self-governing overseas administrative division of Denmark); note - Greenland has an office in the Danish Embassy in the US; it also has offices in the Danish consulates in Chicago and New York<br>
+_email address and website_: <br>washington@nanoq.gl<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: none (self-governing overseas administrative division of Denmark)<br>

@@ -364,6 +364,7 @@ _chief of mission_: Ambassador Taranjit Singh SANDHU (since 6 February 2020)<br>
 _chancery_: 2107 Massachusetts Avenue NW, Washington, DC 20008; Consular Wing located at 2536 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-7000<br>
 _FAX_: [1] (202) 265-4351<br>
+_email address and website_: <br>minca@washington@mea.gov.in (community affairs)<br><br>https://www.indianembassyusa.gov.in/<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -372,7 +373,7 @@ _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>
 _FAX_: [91] (11) 2419-0017<br>
-_email address and website_: acsnd@state.gov<br>
+_email address and website_: <br>acsnd@state.gov<br><br>https://in.usembassy.gov/<br>
 _consulate(s) general_: Chennai (Madras), Hyderabad, Kolkata (Calcutta), Mumbai (Bombay)<br>
 
 **Flag description**<br>
@@ -696,7 +697,7 @@ _by type_: bulk carrier 63, container ship 23, general cargo 579, oil tanker 141
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>
-_container port(s) (TEUs)_: Chennai (1,549,457), Jawaharal Nehru Port (4,833,397), Mundra&nbsp;(4,240,260) (2017)<br>
+_container port(s) (TEUs)_: Jawaharal Nehru Port (5,100,891), Mundra (4,732,699) (2019)<br>
 _LNG terminal(s) (import)_: Dabhol, Dahej, Hazira<br>
 
 ## Military and Security

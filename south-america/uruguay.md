@@ -355,7 +355,7 @@ _embassy_: Lauro Muller 1776, Montevideo 11200<br>
 _mailing address_: 3360 Montevideo Place, Washington DC&nbsp; 20521-3360<br>
 _telephone_: (+598) 1770-2000<br>
 _FAX_: [+598] 1770-2128<br>
-_email address and website_: MontevideoACS@state.gov<br>
+_email address and website_: <br>MontevideoACS@state.gov<br><br>https://uy.usembassy.gov/<br>
 
 **Flag description**<br>
 nine equal horizontal stripes of white (top and bottom) alternating with blue; a white square in the upper hoist-side corner with a yellow sun bearing a human face (delineated in black) known as the Sun of May with 16 rays that alternate between triangular and wavy; the stripes represent the nine original departments of Uruguay; the sun symbol evokes the legend of the sun breaking through the clouds on 25 May 1810 as independence was first declared from Spain (Uruguay subsequently won its independence from Brazil); the sun features are said to represent those of Inti, the Inca god of the sun<br>
@@ -696,7 +696,7 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 <p>in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,016 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 15,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 small-scale transit country for drugs mainly bound for Europe, often through sea-borne containers; law enforcement corruption; money laundering because of strict banking secrecy laws; weak border control along Brazilian frontier; increasing consumption of cocaine base and synthetic drugs<br>

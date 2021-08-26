@@ -337,7 +337,7 @@ _embassy_: Riyadh 11564<br>
 _mailing address_: 6300 Riyadh Place, Washington DC&nbsp; 20521-6300<br>
 _telephone_: [966] (11) 835-4000<br>
 _FAX_: [966] (11) 488-7360<br>
-_email address and website_: RiyadhACS@state.gov<br>
+_email address and website_: <br>RiyadhACS@state.gov<br><br>https://sa.usembassy.gov/<br>
 _consulate(s) general_: Dhahran, Jeddah<br>
 
 **Flag description**<br>
@@ -655,7 +655,7 @@ _by type_: bulk carrier 5, container ship 1, general cargo 22, oil tanker 61, ot
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>
-_container port(s) (TEUs)_: Ad Dammam (1,582,388), Jeddah (4,150,000), King Abdulla&nbsp;(1,695,322) (2017)<br>
+_container port(s) (TEUs)_: Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdulla (2,020,683) (2019)<br>
 
 ## Military and Security
 

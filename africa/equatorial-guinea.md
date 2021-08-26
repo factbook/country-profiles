@@ -350,7 +350,7 @@ _chief of mission_: Ambassador Susan N. STEVENSON (since 11 April 2019)<br>
 _embassy_: Malabo II Highway (between the Headquarters of Sonagas and the offices of the United Nations), Malabo<br>
 _mailing address_: 2320 Malabo Place, Washington, DC 20521-2520<br>
 _telephone_: [240] 333 09-57-41<br>
-_email address and website_: Malaboconsular@state.gov<br>
+_email address and website_: <br>Malaboconsular@state.gov<br><br>https://gq.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), white, and red, with a blue isosceles triangle based on the hoist side and the coat of arms centered in the white band; the coat of arms has six yellow six-pointed stars (representing the mainland and five offshore islands) above a gray shield bearing a silk-cotton tree and below which is a scroll with the motto UNIDAD, PAZ, JUSTICIA (Unity, Peace, Justice); green symbolizes the jungle and natural resources, blue represents the sea that connects the mainland to the islands, white stands for peace, and red recalls the fight for independence<br>

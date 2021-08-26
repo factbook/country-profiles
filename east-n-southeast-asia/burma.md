@@ -366,8 +366,9 @@ ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IB
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador AUNG LYNN (since 16 September 2016)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-3344<br>
+_telephone_: [1] (202) 332-3344/(202) 332-4250<br>
 _FAX_: [1] (202) 332-4351<br>
+_email address and website_: <br>pyi.thayar@verizon.net; washington-embassy@mofa.gov.mm<br><br>http://www.mewashingtondc.com/wordpress/<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -376,7 +377,7 @@ _embassy_: 110 University Avenue, Kamayut Township, Rangoon<br>
 _mailing address_: 4250 Rangoon Place, Washington DC&nbsp; 20521-4250<br>
 _telephone_: [95] (1) 753-6509<br>
 _FAX_: [95] (1) 751-1069<br>
-_email address and website_: ACSRangoon@state.gov<br><br>https://mm.usembassy.gov/<br>
+_email address and website_: <br>ACSRangoon@state.gov<br><br>https://mm.usembassy.gov/<br>
 
 **Flag description**<br>
 design consists of three equal horizontal stripes of yellow (top), green, and red; centered on the green band is a large white five-pointed star that partially overlaps onto the adjacent colored stripes; the design revives the triband colors used by Burma from 1943-45, during the Japanese occupation<br>

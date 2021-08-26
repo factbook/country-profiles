@@ -353,10 +353,11 @@ Avante [Luis TIBE] (formerly Labor Party of Brazil or PTdoB) <br>Brazilian Comm
 AfDB (nonregional member), BIS, BRICS, CAN (associate), CD, CELAC, CPLP, FAO, FATF, G-15, G-20, G-24, G-5, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), NSG, OAS, OECD (enhanced engagement), OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, Union Latina, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nestor Jose FORSTER (since 23 December 2020)<br>
+_chief of mission_: Ambassador Nestor Jose FORSTER, Jr. (since 23 December 2020)<br>
 _chancery_: 3006 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-2700<br>
 _FAX_: [1] (202) 238-2827<br>
+_email address and website_: <br>http://washington.itamaraty.gov.br/en-us/Main.xml<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Hartford (CT), Houston, Los Angeles, Miami, New York, San Francisco, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
@@ -365,7 +366,7 @@ _embassy_: SES - Avenida das Nacoes, Quadra 801, Lote 3, 70403-900 - Brasilia, D
 _mailing address_: 7500 Brasilia Place, Washington DC&nbsp; 20521-7500<br>
 _telephone_: [55] (61) 3312-7000<br>
 _FAX_: [55] (61) 3225-9136<br>
-_email address and website_: BrasilliaACS@state.gov<br><br>https://br.usembassy.gov/<br>
+_email address and website_: <br>BrasilliaACS@state.gov<br><br>https://br.usembassy.gov/<br>
 _consulate(s) general_: Recife, Porto Alegre, Rio de Janeiro, Sao Paulo<br>
 _branch office(s)_: Belo Horizonte<br>
 
@@ -687,9 +688,9 @@ _total_: 875<br>
 _by type_: bulk carrier 12, container ship 18, general cargo 45, oil tanker 38, other 762 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Belem, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>
+_major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>
 _oil terminal(s)_: DTSE/Gegua oil terminal, Ilha Grande (Gebig), Guaiba Island terminal, Guamare oil terminal<br>
-_container port(s) (TEUs)_: Santos (3,853,719) (2017)<br>
+_container port(s) (TEUs)_: Itajai (1,223,262), Paranagua (865,110), Santos (4,165,248) (2019)<br>
 _LNG terminal(s) (import)_: Pecem, Rio de Janiero<br>
 _river port(s)_: Manaus (Amazon)<br>
 _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
@@ -724,7 +725,7 @@ the military's primary role is enforcing border security, particularly in the Am
 <p>uncontested boundary dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; smuggling of firearms and narcotics continues to be an issue along the Uruguay-Brazil border; Colombian-organized illegal narcotics and paramilitary activities penetrate Brazil's border region with Venezuela</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 288,361 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 261,441 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
 _stateless persons_: 14 (2020)<br>
 
 **Illicit drugs**<br>

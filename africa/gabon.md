@@ -345,10 +345,11 @@ Circle of Liberal Reformers or CLR [Gen. Jean-Boniface ASSELE]<br>Democratic and
 ACP, AfDB, AU, BDEAC, CEMAC, FAO, FZ, G-24, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D'Affaires AD Interim- Rod Ciangillan REMBENDAMBYA, Counselor (3 March 2021)<br>
+_chief of mission_: Charge D'Affaires Rod Ciangillan REMBENDAMBYA, Counselor (17 March 2021)<br>
 _chancery_: 2034 20th Street NW, Suite 200, Washington, DC 20009<br>
 _telephone_: [1] (202) 797-1000<br>
 _FAX_: [1] (301) 332-0668<br>
+_email address and website_: <br>info@gaboneembassyusa.org<br><br>https://gabonembassyusa.org/en/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Samuel R. WATSON; note - also accredited to Sao Tome and Principe<br>
@@ -356,7 +357,7 @@ _embassy_: Sabliere, B.P. 4000, Libreville<br>
 _mailing address_: 2270 Libreville Place, Washington, DC 20521-2270<br>
 _telephone_: [241] 011-45-71-00<br>
 _FAX_: [241] 011-45-71-05<br>
-_email address and website_: ACSLibreville@state.gov<br>
+_email address and website_: <br>ACSLibreville@state.gov<br><br>https://ga.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and blue; green represents the country's forests and natural resources, gold represents the equator (which transects Gabon) as well as the sun, blue represents the sea<br>

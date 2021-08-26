@@ -352,7 +352,7 @@ _embassy_: Rakhymzhan Koshkarbayev Avenue, No. 3, Nur-Sultan 010010<br>
 _mailing address_: 2230 Astana Place, Washington DC&nbsp; 20521-2230<br>
 _telephone_: [7] (7172) 70-21-00<br>
 _FAX_: [7] (7172) 54-09-14<br>
-_email address and website_: USAKZ@state.gov<br>
+_email address and website_: <br>USAKZ@state.gov<br><br>https://kz.usembassy.gov/<br>
 _consulate(s) general_: Almaty<br>
 
 **Flag description**<br>

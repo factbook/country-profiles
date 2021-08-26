@@ -361,7 +361,7 @@ _embassy_: Dzona Dzeksona 2, 81000 Podgorica<br>
 _mailing address_: 5570 Podgorica Place, Washington DC&nbsp; 20521-5570<br>
 _telephone_: +382 (0)20-410-500<br>
 _FAX_: [382]&nbsp; (0)20-241-358<br>
-_email address and website_: PodgoricaACS@state.gov<br>
+_email address and website_: <br>PodgoricaACS@state.gov<br><br>https://me.usembassy.gov/<br>
 
 **Flag description**<br>
 a red field bordered by a narrow golden-yellow stripe with the Montenegrin coat of arms centered; the arms consist of a double-headed golden eagle - symbolizing the unity of church and state - surmounted by a crown; the eagle holds a golden scepter in its right claw and a blue orb in its left; the breast shield over the eagle shows a golden lion passant on a green field in front of a blue sky; the lion is a symbol of episcopal authority and harkens back to the three and a half centuries when Montenegro was ruled as a theocracy<br>
@@ -696,5 +696,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,434 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 19,599 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 

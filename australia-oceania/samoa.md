@@ -349,7 +349,7 @@ _embassy_: 5th Floor, Accident Corporation Building, Matafele Apia<br>
 _mailing address_: 4400 Apia Place, Washington DC 20521-4400<br>
 _telephone_: [685] 21-436 (2018)<br>
 _FAX_: [685] 22-030 (2018)<br>
-_email address and website_: ApiaConsular@state.gov<br>
+_email address and website_: <br>ApiaConsular@state.gov<br><br>https://ws.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a blue rectangle in the upper hoist-side quadrant bearing five white, five-pointed stars representing the Southern Cross constellation; red stands for courage, blue represents freedom, and white signifies purity<br>

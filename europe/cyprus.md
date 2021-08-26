@@ -346,9 +346,11 @@ Australia Group, C, CD, CE, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marios LYSIOTIS (since 17 September 2018)<br>
 _chancery_: 2211 R Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 462-5772, 462-0873<br>
+_telephone_: [1] (202) 462-5772<br>
 _FAX_: [1] (202) 483-6710<br>
+_email address and website_: <br>info@cyprusembassy.net<br><br>https://www.cyprusembassy.net/<br>
 _consulate(s) general_: New York<br>
+_honorary consulate(s)_: Atlanta, Chicago, Houston, Kirkland (WA), Los Angeles, New Orleans, San Francisco<br>
 <strong>note:</strong> representative of the Turkish Cypriot community in the US is Mustafa LAKADAMYALI; office at 1667 K Street NW, Washington, DC; telephone [1] (202) 887-6198<br>
 
 **Diplomatic representation from the US**<br>
@@ -357,7 +359,7 @@ _embassy_: Metochiou and Ploutarchou Street, 2407, Engomi, Nicosia<br>
 _mailing address_: 5450 Nicosia Place, Washington DC&nbsp; 20521-5450<br>
 _telephone_: [357] (22) 393939<br>
 _FAX_: [357] (22) 780944<br>
-_email address and website_: ACSNicosia@state.gov<br>
+_email address and website_: <br>ACSNicosia@state.gov<br><br>https://cy.usembassy.gov/<br>
 
 **Flag description**<br>
 centered on a white field is a copper-colored silhouette of the island (the island has long been famous for its copper deposits) above two olive-green-colored, crossed olive branches; the branches symbolize the hope for peace and reconciliation between the Greek and Turkish communities<br>

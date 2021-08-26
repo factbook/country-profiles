@@ -337,7 +337,7 @@ _embassy_: 22 February Street, Al Luqta District, P.O. Box 2399, Doha<br>
 _mailing address_: 6130 Doha Place, Washington DC&nbsp; 20521-6130<br>
 _telephone_: [974] 4496-6000<br>
 _FAX_: [974] 4488-4298<br>
-_email address and website_: PasDoha@state.gov<br>
+_email address and website_: <br>PasDoha@state.gov<br><br>https://qa.usembassy.gov/<br>
 
 **Flag description**<br>
 maroon with a broad white serrated band (nine white points) on the hoist side; maroon represents the blood shed in Qatari wars, white stands for peace; the nine-pointed serrated edge signifies Qatar as the ninth member of the "reconciled emirates" in the wake of the Qatari-British treaty of 1916<br>
@@ -651,7 +651,7 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 information varies; approximately 14,000 active personnel (10,000 Land Force, including Emiri Guard; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; the leading providers of armaments to Qatar since 2010 include Brazil, France, Germany, Turkey, the UK, and US; Qatar is scheduled to receive several ships from Italy beginning in 2021 and a large shipment of fighter aircraft from the UK in 2022 (2020)<br>
+the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; around 2015, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases from European countries and Turkey (2021)<br>
 
 **Military service age and obligation**<br>
 conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2019)<br>

@@ -295,7 +295,7 @@ _subordinate courts_: High Court (consists of the Court of Appeal and Court of F
 ADB, APEC, BIS, FATF, ICC (national committees), IHO, IMF, IMO (associate), Interpol (subbureau), IOC, ISO (correspondent), ITUC (NGOs), UNWTO (associate), UPU, WCO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] 202 331-8947; FAX: [1] 202 331-8958<br>
+_chief of mission_: none (Special Administrative Region of China); Hong Kong Economic and Trade Office (HKETO) carries out normal liaison activities and communication with the US Government and other US entities; Eddie MAK, JP (since 3 July 2018) is the Hong Kong Commissioner to the US Government of the Hong Kong Special Administrative Region; address: 1520 18th Street NW, Washington, DC 20036; telephone: [1] 202 331-8947; FAX: [1] 202 331-8958; hketo@hketowashington.gov.hk<br>
 _HKETO offices_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -304,7 +304,7 @@ _embassy_: 26 Garden Road, Central, Hong Kong<br>
 _mailing address_: 8000 Hong Kong Place, Washington DC&nbsp; 20521-8000<br>
 _telephone_: [852] 2523-9011<br>
 _FAX_: [852] 2845-1598<br>
-_email address and website_: acshk@state.gov<br>
+_email address and website_: <br>acshk@state.gov<br><br>https://hk.usconsulate.gov/<br>
 
 **Flag description**<br>
 red with a stylized, white, five-petal Bauhinia flower in the center; each petal contains a small, red, five-pointed star in its middle; the red color is the same as that on the Chinese flag and represents the motherland; the fragrant Bauhinia - developed in Hong Kong the late 19th century - has come to symbolize the region; the five stars echo those on the flag of China<br>
@@ -602,7 +602,7 @@ _by type_: bulk carrier 1,157, container ship 551, general cargo 188, oil tanker
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hong Kong<br>
-_container port(s) (TEUs)_: Hong Kong (20,770,000) (2017)<br>
+_container port(s) (TEUs)_: Hong Kong (18,361,000) (2019)<br>
 
 ## Military and Security
 

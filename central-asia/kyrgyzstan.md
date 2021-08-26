@@ -348,7 +348,7 @@ _embassy_: 171 Prospect Mira, Bishkek 720016<br>
 _mailing address_: 7040 Bishkek Place, Washington DC&nbsp; 20521-7040<br>
 _telephone_: [996] (312) 597-000<br>
 _FAX_: [996] (312) 597-744<br>
-_email address and website_: ConsularBishkek@state.gov<br>
+_email address and website_: <br>ConsularBishkek@state.gov<br><br>https://kg.usembassy.gov/<br>
 
 **Flag description**<br>
 red field with a yellow sun in the center having 40 rays representing the 40 Kyrgyz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of a "tunduk" - the crown of a traditional Kyrgyz yurt; red symbolizes bravery and valor, the sun evinces peace and wealth<br>

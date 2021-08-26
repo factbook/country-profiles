@@ -356,6 +356,7 @@ _chief of mission_: Ambassador Samuel Archibald HINDS (since 7 July 2021)<br>
 _chancery_: 2490 Tracy Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-6900<br>
 _FAX_: [1] (202) 232-1297<br>
+_email address and website_: <br>guyanaembassydc@verizon.net<br><br>http://www.guyanaembassyusa.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -364,7 +365,7 @@ _embassy_: 100 Young and Duke Streets, Kingston, Georgetown<br>
 _mailing address_: 3170 Georgetown Place, Washington DC 20521-3170<br>
 _telephone_: [592] 225-4900 through 4909<br>
 _FAX_: [592] 225-8497<br>
-_email address and website_: acsgeorge@state.gov<br>
+_email address and website_: <br>acsgeorge@state.gov<br><br>https://gy.usembassy.gov/<br>
 
 **Flag description**<br>
 green with a red isosceles triangle (based on the hoist side) superimposed on a long, yellow arrowhead; there is a narrow, black border between the red and yellow, and a narrow, white border between the yellow and the green; green represents forest and foliage; yellow stands for mineral resources and a bright future; white symbolizes Guyana's rivers; red signifies zeal and the sacrifice of the people; black indicates perseverance; also referred to by its nickname The Golden Arrowhead<br>
@@ -684,7 +685,7 @@ limited information; 18 years of age or older for voluntary military service; no
 <p>all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,881 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2019)<br>
+_refugees (country of origin)_: 23,300 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
 
 **Illicit drugs**<br>
 transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling<br>

@@ -331,10 +331,11 @@ ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lynn Raymond YOUNG (since 7 July 2021)<br>
-_chancery_: 2535 Massachusetts Avenue NW, Washington, DC 20008<br>
+_chancery_: 2535 Massachusetts Avenue NW, Washington, DC 20008-2826<br>
 _telephone_: [1] (202) 332-9636<br>
 _FAX_: [1] (202) 332-6888<br>
-_consulate(s) general_: Los Angeles<br>
+_email address and website_: <br>reception.usa@mfa.gov.bz<br><br>https://www.belizeembassyusa.mfa.gov.bz/<br>
+_consulate(s) general_: Los Angeles, New York (consular services temporarily suspended beginning 18 December 2020)<br>
 _consulate(s)_: Miami<br>
 
 **Diplomatic representation from the US**<br>
@@ -343,7 +344,7 @@ _embassy_: Floral Park Road, Belmopan, Cayo<br>
 _mailing address_: 3050 Belmopan Place, Washington DC&nbsp; 20521-3050<br>
 _telephone_: (501) 822-4011<br>
 _FAX_: (501) 822-4012<br>
-_email address and website_: ACSBelize@state.gov<br><br>https://bz.usembassy.gov/<br>
+_email address and website_: <br>ACSBelize@state.gov<br><br>https://bz.usembassy.gov/<br>
 
 **Flag description**<br>
 royal blue with a narrow red stripe along the top and the bottom edges; centered is a large white disk bearing the coat of arms; the coat of arms features a shield flanked by two workers in front of a mahogany tree with the related motto SUB UMBRA FLOREO (I Flourish in the Shade) on a scroll at the bottom, all encircled by a green garland of 50 mahogany leaves; the colors are those of the two main political parties: blue for the PUP and red for the UDP; various elements of the coat of arms - the figures, the tools, the mahogany tree, and the garland of leaves - recall the logging industry that led to British settlement of Belize<br>

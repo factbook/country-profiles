@@ -344,7 +344,7 @@ _embassy_: 9 1984 Street (formerly Pushkin Street), Ashgabat 744000<br>
 _mailing address_: 7070 Ashgabat Place, Washington, DC 20521-7070<br>
 _telephone_: [993] (12) 94-00-45<br>
 _FAX_: [993] (12) 94-26-14<br>
-_email address and website_: ConsularAshgab@state.gov<br>
+_email address and website_: <br>ConsularAshgab@state.gov<br><br>https://tm.usembassy.gov/<br>
 
 **Flag description**<br>
 green field with a vertical red stripe near the hoist side, containing five tribal guls (designs used in producing carpets) stacked above two crossed olive branches; five white, five-pointed stars and a white crescent moon appear in the upper corner of the field just to the fly side of the red stripe; the green color and crescent moon represent Islam; the five stars symbolize the regions or welayats of Turkmenistan; the guls reflect the national identity of Turkmenistan where carpet-making has long been a part of traditional nomadic life<br>

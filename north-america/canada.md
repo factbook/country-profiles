@@ -332,8 +332,9 @@ ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kirsten HILLMAN (since 17 July 2020)<br>
 _chancery_: 501 Pennsylvania Avenue NW, Washington, DC 20001<br>
-_telephone_: [1] (202) 682-1740<br>
-_FAX_: [1] (202) 682-7726<br>
+_telephone_: [1] (844) 880-6519<br>
+_FAX_: [1] (202) 682-7738<br>
+_email address and website_: <br>ccs.scc@international.gc.ca<br><br>https://www.international.gc.ca/country-pays/us-eu/washington.aspx?lang=eng<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los Angeles, Miami, Minneapolis, New York, San Francisco/Silicon Valley, Seattle<br>
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
@@ -343,7 +344,7 @@ _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _telephone_: [1] (613) 238-5335<br>
 _FAX_: [1] (613) 241-7845<br>
-_email address and website_: OttawaNIV@state.gov<br>
+_email address and website_: <br>OttawaNIV@state.gov<br><br>https://ca.usembassy.gov/<br>
 _consulate(s) general_: Calgary, Halifax, Montreal, Quebec City, Toronto, Vancouver<br>
 _consulate(s)_: Winnipeg<br>
 
@@ -666,7 +667,7 @@ _by type_: bulk carrier 20, container ship 1, general cargo 76, oil tanker 15, o
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>
 _oil terminal(s)_: Lower Lakes terminal<br>
-_container port(s) (TEUs)_: Montreal (1,537,669), Vancouver (3,252,225) (2017)<br>
+_container port(s) (TEUs)_: Montreal (1,745,244), Vancouver (3,398,860) (2019)<br>
 _LNG terminal(s) (import)_: Saint John<br>
 _river and lake port(s)_: Montreal, Quebec City, Sept-Isles (St. Lawrence)<br>
 _dry bulk cargo port(s)_: Port-Cartier (iron ore and grain),<br>

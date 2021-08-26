@@ -336,7 +336,8 @@ _chief of mission_: Ambassador Martin WEISS (since 6 January 2020)<br>
 _chancery_: 3524 International Court NW, Washington, DC 20008-3035<br>
 _telephone_: [1] (202) 895-6700<br>
 _FAX_: [1] (202) 895-6750<br>
-_consulate(s) general_: Los Angeles, New York<br>
+_email address and website_: <br>washington-ka@bmeia.gv.at<br><br>https://www.austria.org/<br>
+_consulate(s) general_: Los Angeles, New York, Washington<br>
 _consulate(s)_: Chicago<br>
 
 **Diplomatic representation from the US**<br>
@@ -345,7 +346,7 @@ _embassy_: Boltzmanngasse 16, 1090, Vienna<br>
 _mailing address_: 9900 Vienna Place, Washington DC&nbsp; 20521-9900<br>
 _telephone_: [43] (1) 31339-0<br>
 _FAX_: [43] (1) 310-06-82<br>
-_email address and website_: ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
+_email address and website_: <br>ConsulateVienna@state.gov<br><br>https://at.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and red; the flag design is certainly one of the oldest - if not the oldest - national banners in the world; according to tradition, in 1191, following a fierce battle in the Third Crusade, Duke Leopold V of Austria's white tunic became completely blood-spattered; upon removal of his wide belt or sash, a white band was revealed; the red-white-red color combination was subsequently adopted as his banner<br>

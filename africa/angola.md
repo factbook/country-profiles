@@ -356,6 +356,7 @@ _chief of mission_: Ambassador Joaquim do Espirito SANTO (since 16 September 201
 _chancery_: 2100-2108 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 785-1156<br>
 _FAX_: [1] (202) 822-9049<br>
+_email address and website_: <br>info@angola.org<br><br>https://angola.org/<br>
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -364,7 +365,7 @@ _embassy_: Rua Houari Boumedienne, #32, Luanda<br>
 _mailing address_: 2550 Luanda Place, Washington, DC 20521-2550<br>
 _telephone_: [244] (222) 64-1000<br>
 _FAX_: [244] (222) 64-1000<br>
-_email address and website_: Consularluanda@state.gov<br><br>https://ao.usembassy.gov/<br>
+_email address and website_: <br>Consularluanda@state.gov<br><br>https://ao.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of red (top) and black with a centered yellow emblem consisting of a five-pointed star within half a cogwheel crossed by a machete (in the style of a hammer and sickle); red represents liberty and black the African continent; the symbols characterize workers and peasants<br>

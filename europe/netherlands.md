@@ -352,7 +352,7 @@ _embassy_: John Adams Park 1, 2244 BZ Wassenaar<br>
 _mailing address_: 5780 Amsterdam Place, Washington DC&nbsp; 20521-5780<br>
 _telephone_: [31] (70) 310-2209<br>
 _FAX_: [31] (70) 310-2207<br>
-_email address and website_: AmsterdamUSC@state.gov<br>
+_email address and website_: <br>AmsterdamUSC@state.gov<br><br>https://nl.usembassy.gov/<br>
 _consulate(s) general_: Amsterdam<br>
 
 **Flag description**<br>
@@ -668,7 +668,7 @@ _by type_: bulk carrier 10, container ship 45, general cargo 557, oil tanker 23,
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>
-_container port(s) (TEUs)_: Rotterdam (13,734,000) (2017)<br>
+_container port(s) (TEUs)_: Rotterdam (14,810,804) (2019)<br>
 _LNG terminal(s) (import)_: Rotterdam<br>
 _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rotterdam (Rhine River); Terneuzen (Western Scheldt River)<br>
 

@@ -361,7 +361,7 @@ _embassy_: 2657 Avenue de la Gendarmerie (Kaciyiru), P. O. Box 28 Kigali<br>
 _mailing address_: 2210 Kigali Place, Washington DC&nbsp; 20521-2210<br>
 _telephone_: [250] 252 596-400<br>
 _FAX_: [250] 252 580-325<br>
-_email address and website_: consularkigali@state.gov<br>
+_email address and website_: <br>consularkigali@state.gov<br><br>https://rw.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of sky blue (top, double width), yellow, and green, with a golden sun with 24 rays near the fly end of the blue band; blue represents happiness and peace, yellow economic development and mineral wealth, green hope of prosperity and natural resources; the sun symbolizes unity, as well as enlightenment and transparency from ignorance<br>
@@ -672,10 +672,10 @@ Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (F
 1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Rwanda Defense Force (RDF) has approximately 31,000 active personnel (30,000 Army; 1,000 Air Force) (2020)<br>
+the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including Israel, Russia, and Turkey (2020)<br>
+the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2020)<br>
 
 **Military deployments**<br>
 1,370 Central African Republic (MINUSCA); 1,125 Sudan (UNAMID); 2,750 South Sudan (UNMISS) (2021)<br>

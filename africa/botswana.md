@@ -349,6 +349,7 @@ _chief of mission_: Ambassador Onkokame Kitso MOKAILA (since 17 September 2020)<
 _chancery_: 1531-1533 New Hampshire Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 244-4990<br>
 _FAX_: [1] (202) 244-4164<br>
+_email address and website_: <br>info@botswanaembassy.org<br><br>http://www.botswanaembassy.org/<br>
 _consulate(s) general_: Atlanta<br>
 
 **Diplomatic representation from the US**<br>
@@ -357,7 +358,7 @@ _embassy_: Embassy Drive, Government Enclave (off Khama Crescent), Gaborone<br>
 _mailing address_: 2170 Gabarone Place, Washington DC&nbsp; 20521-2170<br>
 _telephone_: [267] 395-3982<br>
 _FAX_: [267] 318-0232<br>
-_email address and website_: ConsularGabarone@state.gov<br><br>https://bw.usembassy.gov/<br>
+_email address and website_: <br>ConsularGabarone@state.gov<br><br>https://bw.usembassy.gov/<br>
 
 **Flag description**<br>
 light blue with a horizontal white-edged black stripe in the center; the blue symbolizes water in the form of rain, while the black and white bands represent racial harmony<br>

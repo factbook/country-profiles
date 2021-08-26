@@ -369,7 +369,7 @@ _embassy_: Avenida La Encalada, Cuadra 17 s/n, Surco, Lima 33<br>
 _mailing address_: 3230 Lima Place, Washington DC&nbsp; 20521-3230<br>
 _telephone_: [51] (1) 618-2000<br>
 _FAX_: [51] (1) 618-2724<br>
-_email address and website_: LimaACS@state.gov<br>
+_email address and website_: <br>LimaACS@state.gov<br><br>https://pe.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal, vertical bands of red (hoist side), white, and red with the coat of arms centered in the white band; the coat of arms features a shield bearing a vicuna (representing fauna), a cinchona tree (the source of quinine, signifying flora), and a yellow cornucopia spilling out coins (denoting mineral wealth); red recalls blood shed for independence, white symbolizes peace<br>
@@ -693,7 +693,7 @@ _by type_: general cargo 1, oil tanker 10, other 86 (2020)<br>
 **Ports and terminals**<br>
 _major seaport(s)_: Callao, Matarani, Paita<br>
 _oil terminal(s)_: Conchan oil terminal, La Pampilla oil terminal<br>
-_container port(s) (TEUs)_: Callao (2,250,200) (2017)<br>
+_container port(s) (TEUs)_: Callao (2,313,907) (2019)<br>
 _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 
 ## Military and Security
@@ -735,7 +735,7 @@ Shining Path (Sendero Luminoso)<br>
 <p>Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 961,953 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 1,049,970 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2020)<br>
 
 **Illicit drugs**<br>

@@ -323,7 +323,7 @@ _residency requirement for naturalization_: 4 years<br>
 16 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies and 20 members in a single nationwide constituency directly elected by proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
+_description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
 _elections_: last held on 6 November 2016 (next to be held on 7 November 2021)<br>
 _election results_: percent of vote by party - NA; seats by party - FSLN 71, PLC 14, ALN 2, PLI 2, APRE 1, PC 1, YATAMA 1; composition - men 50, women 42, percent of women 45.7%<br>
 
@@ -356,9 +356,9 @@ _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 _chief of mission_: Ambassador Kevin K. SULLIVAN (since 18 December 2018)<br>
 _embassy_: Kilometer 5.5 Carretera Sur, Managua<br>
 _mailing address_: 3240 Managua Place, Washington DC&nbsp; 20521-3240<br>
-_telephone_: [505] 2252-7100,&nbsp;<br>
+_telephone_: [505] 2252-7100,<br>
 _FAX_: [505] 2252-7250<br>
-_email address and website_: ACS.Managua@state.gov<br>
+_email address and website_: <br>ACS.Managua@state.gov<br><br>https://ni.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of blue (top), white, and blue with the national coat of arms centered in the white band; the coat of arms features a triangle encircled by the words REPUBLICA DE NICARAGUA on the top and AMERICA CENTRAL on the bottom; the banner is based on the former blue-white-blue flag of the Federal Republic of Central America; the blue bands symbolize the Pacific Ocean and the Caribbean Sea, while the white band represents the land between the two bodies of water<br>

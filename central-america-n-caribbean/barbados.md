@@ -326,6 +326,7 @@ _chief of mission_: Ambassador Noel Anderson LYNCH (since&nbsp;11 January 2019)<
 _chancery_: 2144 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-9200<br>
 _FAX_: [1] (202) 332-7467<br>
+_email address and website_: <br>washington@foreign.gov.bb<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -334,7 +335,7 @@ _embassy_: Wildey Business Park, St. Michael BB 14006, Barbados, W.I.<br>
 _mailing address_: 3120 Bridgetown Place, Washington DC&nbsp; 20521-3120<br>
 _telephone_: (246) 227-4000<br>
 _FAX_: (246) 431-0179<br>
-_email address and website_: BridgetownACS@state.gov<br><br>https://bb.usembassy.gov/<br><br>
+_email address and website_: <br>BridgetownACS@state.gov<br><br>https://bb.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of ultramarine blue (hoist side), gold, and ultramarine blue with the head of a black trident centered on the gold band; the band colors represent the blue of the sea and sky and the gold of the beaches; the trident head represents independence and a break with the past (the colonial coat of arms contained a complete trident)<br>

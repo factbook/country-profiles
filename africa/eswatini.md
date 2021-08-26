@@ -362,7 +362,7 @@ _embassy_: Corner of MR 103 and Cultural Center Drive, Ezulwini, P.O. Box D202, 
 _mailing address_: 2350 Mbabane Place, Washington DC&nbsp; 20521-2350<br>
 _telephone_: (268) 2417-9000<br>
 _FAX_: [268] 2416-3344<br>
-_email address and website_: ConsularMbabane@state.gov<br>
+_email address and website_: <br>ConsularMbabane@state.gov<br><br>https://sz.usembassy.gov/<br>
 
 **Flag description**<br>
 three horizontal bands of blue (top), red (triple width), and blue; the red band is edged in yellow; centered in the red band is a large black and white shield covering two spears and a staff decorated with feather tassels, all placed horizontally; blue stands for peace and stability, red represents past struggles, and yellow the mineral resources of the country; the shield, spears, and staff symbolize protection from the country's enemies, while the black and white of the shield are meant to portray black and white people living in peaceful coexistence<br>

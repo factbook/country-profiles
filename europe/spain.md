@@ -368,7 +368,7 @@ _embassy_: Calle de Serrano, 75, 28006 Madrid<br>
 _mailing address_: 8500 Madrid Place, Washington DC&nbsp; 20521-8500<br>
 _telephone_: [34] (91) 587-2200<br>
 _FAX_: [34] (91) 587-2303<br>
-_email address and website_: askACS@state.gov<br>
+_email address and website_: <br>askACS@state.gov<br><br>https://es.usembassy.gov/<br>
 _consulate(s) general_: Barcelona<br>
 
 **Flag description**<br>
@@ -687,7 +687,7 @@ _by type_: bulk carrier 1, general cargo 36, oil tanker 25, other 412 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br>
-_container port(s) (TEUs)_: Algeciras (4,389,836), Barcelona (2,968,757), Valencia (4,832,156) (2017)<br>
+_container port(s) (TEUs)_: Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)<br>
 _LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto<br>
 
 ## Military and Security
@@ -730,9 +730,9 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,133 (Syria) (2019); 76,456 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>223,820 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note: </strong>226,489 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

@@ -340,10 +340,11 @@ _subordinate courts_: oblast courts; Minsk City Court; town courts; Minsk city a
 BSEC (observer), CBSS (observer), CEI, CIS, CSTO, EAEC, EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFC, IFRCS, ILO, IMF, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NAM, NSG, OPCW, OSCE, PCA, PFP, SCO (dialogue member), UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer), ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Dmitriy BASIK (since July 2019)<br>
+_chief of mission_: Ambassador (vacant; recalled by Belarus in 2008); Charge d'Affaires Dmitry BASIK (since 9 July 2019)<br>
 _chancery_: 1619 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-1606<br>
 _FAX_: [1] (202) 986-1805<br>
+_email address and website_: <br>usa@mfa.gov.by<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -352,7 +353,7 @@ _embassy_: 46 Starovilenskaya Street, Minsk 220002<br>
 _mailing address_: 7010 Minsk Place, Washington DC&nbsp; 20521-7010<br>
 _telephone_: [375] (17) 210-12-83/217-73-47/217-73-48<br>
 _FAX_: [375] (17) 334-78-53<br>
-_email address and website_: ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/<br>
+_email address and website_: <br>ConsularMinsk@state.gov<br><br>https://by.usembassy.gov/<br>
 
 **Flag description**<br>
 red horizontal band (top) and green horizontal band one-half the width of the red band; a white vertical stripe on the hoist side bears Belarusian national ornamentation in red; the red band color recalls past struggles from oppression, the green band represents hope and the many forests of the country<br>

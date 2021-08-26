@@ -364,7 +364,7 @@ _embassy_: 877 Pretorius Street, Arcadia, Pretoria<br>
 _mailing address_: 9300 Pretoria Place, Washington DC&nbsp; 20521-9300<br>
 _telephone_: [27] (12) 431-4000<br>
 _FAX_: [27] (12) 342-2299<br>
-_email address and website_: ACSJohannesburg@state.gov<br>
+_email address and website_: <br>ACSJohannesburg@state.gov<br><br>https://za.usembassy.gov/<br>
 _consulate(s) general_: Cape Town, Durban, Johannesburg<br>
 
 **Flag description**<br>
@@ -681,7 +681,7 @@ _by type_: bulk carrier 3, general cargo 1, oil tanker 6, other 93 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
-_container port(s) (TEUs)_: Durban (2,699,978) (2017)<br>
+_container port(s) (TEUs)_: Durban (2,769,869) (2019)<br>
 _LNG terminal(s) (import)_: Mossel Bay<br>
 
 ## Military and Security

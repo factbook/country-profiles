@@ -371,7 +371,7 @@ _embassy_: 92 Bulevar kneza Aleksandra Karadjordjevica, 11040 Belgrade<br>
 _mailing address_: 5070 Belgrade Place, Washington, DC 20521-5070<br>
 _telephone_: [381] (11) 706-4000<br>
 _FAX_: [381] (11) 706-4481<br>
-_email address and website_: belgradeacs@state.gov<br>
+_email address and website_: <br>belgradeacs@state.gov<br><br>https://rs.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal stripes of red (top), blue, and white - the Pan-Slav colors representing freedom and revolutionary ideals; charged with the coat of arms of Serbia shifted slightly to the hoist side; the principal field of the coat of arms represents the Serbian state and displays a white two-headed eagle on a red shield; a smaller red shield on the eagle represents the Serbian nation, and is divided into four quarters by a white cross; interpretations vary as to the meaning and origin of the white, curved symbols resembling firesteels (fire strikers) or Cyrillic "C's" in each quarter; a royal crown surmounts the coat of arms<br>
@@ -711,7 +711,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 778,038 estimated refugee and migrant arrivals (January 2015-August 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
+<strong>note:</strong> 779,905 estimated refugee and migrant arrivals (January 2015-August 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

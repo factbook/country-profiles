@@ -310,6 +310,7 @@ _chief of mission_: Ambassador Sidney Stanley COLLIE (since 29 November 2017)<br
 _chancery_: 2220 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-2660<br>
 _FAX_: [1] (202) 319-2668<br>
+_email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bahamasembdc.org/<br>
 _consulate(s) general_: Atlanta, Miami, New York, Washington, DC<br>
 _honorary consulate(s)_: Aurora (CO), Chicago, Houston, Los Angeles<br>
 
@@ -319,7 +320,7 @@ _embassy_: 42 Queen Street, Nassau<br>
 _mailing address_: 3370 Nassau Place, Washington, DC 20521-3370<br>
 _telephone_: [1] (242) 322-1181<br>
 _FAX_: [1] (242) 356-7174<br>
-_email address and website_: acsnassau@state.gov<br><br>https://bs.usembassy.gov/<br>
+_email address and website_: <br>acsnassau@state.gov<br><br>https://bs.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of aquamarine (top), gold, and aquamarine, with a black equilateral triangle based on the hoist side; the band colors represent the golden beaches of the islands surrounded by the aquamarine sea; black represents the vigor and force of a united people, while the pointing triangle indicates the enterprise and determination of the Bahamian people to develop the rich resources of land and sea<br>
@@ -618,7 +619,7 @@ _by type_: bulk carrier 345, container ship 53, general cargo 70, oil tanker 240
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>
 _cruise port(s)_: Nassau<br>
-_container port(s) (TEUs)_: Freeport (1,116,272)(2011)<br>
+_container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
 
 ## Military and Security
 

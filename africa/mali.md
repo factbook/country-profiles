@@ -370,7 +370,7 @@ _embassy_: ACI 2000, Rue 243, (located off the Roi Bin Fahad Aziz Bridge west of
 _mailing address_: 2050 Bamako Place, Washington DC&nbsp; 20521-2050<br>
 _telephone_: [223] 20-70-23-00<br>
 _FAX_: [223] 20-70-24-79<br>
-_email address and website_: ACSBamako@state.gov<br>
+_email address and website_: <br>ACSBamako@state.gov<br><br>https://ml.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red<br>

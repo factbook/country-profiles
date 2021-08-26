@@ -362,7 +362,7 @@ _embassy_: 502 Benson Street, Monrovia<br>
 _mailing address_: 8800 Monrovia Place, Washington DC&nbsp; 20521-8800<br>
 _telephone_: [231] 77-677-7000<br>
 _FAX_: [231] 77-677-7370<br>
-_email address and website_: ACSMonrovia@state.gov<br>
+_email address and website_: <br>ACSMonrovia@state.gov<br><br>https://lr.usembassy.gov/<br>
 
 **Flag description**<br>
 11 equal horizontal stripes of red (top and bottom) alternating with white; a white five-pointed star appears on a blue square in the upper hoist-side corner; the stripes symbolize the signatories of the Liberian Declaration of Independence; the blue square represents the African mainland, and the star represents the freedom granted to the ex-slaves; according to the constitution, the blue color signifies liberty, justice, and fidelity, the white color purity, cleanliness, and guilelessness, and the red color steadfastness, valor, and fervor<br>

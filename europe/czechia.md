@@ -333,9 +333,10 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hynek KMONICEK (since 24 April 2017)<br>
-_chancery_: 3900 Spring of Freedom Street NW, Washington, DC 20008<br>
+_chancery_: 3900 Spring of Freedom Lane NW, Washington, DC 20008-3803<br>
 _telephone_: [1] (202) 274-9100<br>
 _FAX_: [1] (202) 966-8540<br>
+_email address and website_: <br>washington@embassy.mzv.cz<br><br>https://www.mzv.cz/washington/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -344,7 +345,7 @@ _embassy_: Trziste 15, 118 01 Praha 1 - Mala Strana<br>
 _mailing address_: 5630 Prague Place, Washington DC&nbsp; 20521-5630<br>
 _telephone_: [420] 257-022-000<br>
 _FAX_: [420] 257-022-809<br>
-_email address and website_: ACSPrg@state.gov<br>
+_email address and website_: <br>ACSPrg@state.gov<br><br>https://cz.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side<br>

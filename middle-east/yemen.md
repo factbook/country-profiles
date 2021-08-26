@@ -370,7 +370,7 @@ _embassy_: previously - Sa'awan Street, Sanaa<br>
 _mailing address_: 6330 Sanaa Place, Washington DC&nbsp; 20521-6330<br>
 _telephone_: US Embassy Riyadh [966] 11-488-3800<br>previously - [967] 1 755-2000<br>
 _FAX_: US Embassy Riyadh [966] 11-488-7360<br>
-_email address and website_: YemenEmergencyUSC@state.gov<br>
+_email address and website_: <br>YemenEmergencyUSC@state.gov<br><br>https://ye.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and black; the band colors derive from the Arab Liberation flag and represent oppression (black), overcome through bloody struggle (red), to be replaced by a bright future (white)<br>

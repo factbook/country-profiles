@@ -343,10 +343,11 @@ Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Democratic
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Bocchit EDMOND (since 23 December 2020)<br>
-_chancery_: Mission to the US, 866 United Nations Plaza, Suite 418, New York, NY 10017<br>
+_chief of mission_: Ambassador Issimail CHANFI (since 23 December 2020)<br>
+_chancery_: Mission to the UN, 866 United Nations Plaza, Suite 495, New York, NY 10017<br>
 _telephone_: [1] (212) 750-1637<br>
 _FAX_: [1] (212) 750-1657<br>
+_email address and website_: <br>comoros@un.int<br><br>https://www.un.int/comoros/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Comoros; the US Ambassador to Madagascar is accredited to Comoros<br>

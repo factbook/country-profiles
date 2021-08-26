@@ -345,10 +345,11 @@ Azerbaijan Democratic Enlightenment Party <br>Civil Solidarity Party or CSP [Sab
 ADB, BSEC, CD, CE, CICA, CIS, EAPC, EBRD, ECO, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Elin SULEYMANOV (since 5 December 2011)<br>
+_chief of mission_: Ambassador (vacant); note - Ambassador Elin SULEYMANOV left in early August 2021<br>
 _chancery_: 2741 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 337-3500<br>
 _FAX_: [1] (202) 337-5911<br>
+_email address and website_: <br>azerbaijan@azembassy.us; consul@azembassy.us<br><br>https://washington.mfa.gov.az/en<br>
 _consulate(s) general_: Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
@@ -357,7 +358,7 @@ _embassy_: 111 Azadlig Avenue, AZ1007 Baku<br>
 _mailing address_: 7050 Baku Place, Washington, DC 20521-7050<br>
 _telephone_: [994] (12) 488-3300<br>
 _FAX_: [994] (12) 488-3330<br>
-_email address and website_: BakuACS@state.gov<br><br>https://az.usembassy.gov/<br>
+_email address and website_: <br>BakuACS@state.gov<br><br>https://az.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of sky blue (top), red, and green; a vertical crescent moon and an eight-pointed star in white are centered in the red band; the blue band recalls Azerbaijan's Turkic heritage, red stands for modernization and progress, and green refers to Islam; the crescent moon and star are a Turkic insignia; the eight star points represent the eight Turkic peoples of the world<br>

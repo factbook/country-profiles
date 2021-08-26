@@ -347,6 +347,7 @@ _chief of mission_: Ambassador David BAKRADZE (since 18 January 2017)<br>
 _chancery_: 1824 R Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 387-2390<br>
 _FAX_: [1] (202) 387-0864<br>
+_email address and website_: <br>embgeo.usa@mfa.gov.ge<br><br>https://georgiaembassyusa.org/contact/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -355,7 +356,7 @@ _embassy_: 11 Georgian-American Friendship Avenue, Didi Dighomi, Tbilisi, 0131<b
 _mailing address_: 7060 Tbilisi Place, Washington, DC&nbsp; 20521-7060<br>
 _telephone_: [995] (32) 227-70-00<br>
 _FAX_: [995] (32) 253-23-10<br>
-_email address and website_: askconsultbilisi@state.gov<br>
+_email address and website_: <br>askconsultbilisi@state.gov<br><br>https://ge.usembassy.gov/<br>
 
 **Flag description**<br>
 white rectangle with a central red cross extending to all four sides of the flag; each of the four quadrants displays a small red bolnur-katskhuri cross; sometimes referred to as the Five-Cross Flag; although adopted as the official Georgian flag in 2004, the five-cross design is based on a 14th century banner of the Kingdom of Georgia<br>

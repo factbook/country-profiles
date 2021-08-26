@@ -377,7 +377,7 @@ _embassy_: Entoto Street, P.O. Box 1014, Addis Ababa<br>
 _mailing address_: 2030 Addis Ababa Place, Washington DC&nbsp; 20521-2030<br>
 _telephone_: [251] 111-30-60-00<br>
 _FAX_: [251] 111-24-24-01<br>
-_email address and website_: AddisACS@state.gov<br>
+_email address and website_: <br>AddisACS@state.gov<br><br>https://et.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of green (top), yellow, and red, with a yellow pentagram and single yellow rays emanating from the angles between the points on a light blue disk centered on the three bands; green represents hope and the fertility of the land, yellow symbolizes justice and harmony, while red stands for sacrifice and heroism in the defense of the land; the blue of the disk symbolizes peace and the pentagram represents the unity and equality of the nationalities and peoples of Ethiopia<br>
@@ -699,7 +699,7 @@ note(s): in January 2020 the Ethiopian Government announced it had re-establishe
 0.7% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 140,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2020)<br>
+information varies; approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, Russia and Ukraine are the leading suppliers of largely second-hand weapons and equipment to the ENDF, followed by China and Hungary; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2020)<br>

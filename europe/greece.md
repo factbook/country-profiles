@@ -338,10 +338,11 @@ Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leader
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Theocharis LALAKOS (since 27 June 2016)<br>
+_chief of mission_: Ambassador Alexandra PAPADOPOULOU (since 6 February 2021)<br>
 _chancery_: 2217 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-1300<br>
 _FAX_: [1] (202) 939-1324<br>
+_email address and website_: <br>gremb.was@mfa.gr<br><br>https://www.mfa.gr/usa/en/the-embassy/<br>
 _consulate(s) general_: Boston, Chicago, Los Angeles, New York, Tampa (FL), San Francisco<br>
 _consulate(s)_: Atlanta, Houston<br>
 
@@ -351,7 +352,7 @@ _embassy_: 91 Vasillisis Sophias Avenue, 10160 Athens<br>
 _mailing address_: 7100 Athens Place, Washington DC&nbsp; 20521-7100<br>
 _telephone_: [30] (210) 721-2951<br>
 _FAX_: [30] (210) 724-5313<br>
-_email address and website_: athensamericancitizenservices@state.gov<br>
+_email address and website_: <br>athensamericancitizenservices@state.gov<br><br>https://gr.usembassy.gov/<br>
 _consulate(s) general_: Thessaloniki<br>
 
 **Flag description**<br>
@@ -669,7 +670,7 @@ _by type_: bulk carrier 165, container ship 6, general cargo 95, oil tanker 379,
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
 _oil terminal(s)_: Agioi Theodoroi<br>
-_container port(s) (TEUs)_: Piraeus (4,145,079) (2017)<br>
+_container port(s) (TEUs)_: Piraeus (5,648,000) (2019)<br>
 _LNG terminal(s) (import)_: Revithoussa<br>
 
 ## Military and Security
@@ -713,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,208,843 estimated refugee and migrant arrivals (January 2015-July 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,209,491 estimated refugee and migrant arrivals (January 2015-August 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

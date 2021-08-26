@@ -335,11 +335,12 @@ Constitutional Democratic Party of Japan or CDP [Yukio EDANO]<br>Democratic Part
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Koji TOMITA (since 17 February 2021) (2018)<br>
+_chief of mission_: Ambassador TOMITA Koji (since 17 February 2021) (2018)<br>
 _chancery_: 2520 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 238-6700<br>
 _FAX_: [1] (202) 328-2187<br>
-_consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas, Denver (CO), Detroit (MI), Honolulu, Houston, Las Vegas (NV), Los Angeles, Miami, Nashville (TN), New Orleans, New York, Oklahoma City (OK), Orlando (FL), Philadelphia, Phoenix (AZ), Portland (OR), San Francisco, Seattle, Saipan (Northern Mariana Islands), Tamuning (Guam)<br>
+_email address and website_: <br>https://www.us.emb-japan.go.jp/itprtop_en/index.html<br>
+_consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Denver (CO), Detroit (MI), Hagatna (Guam), Honolulu, Houston, Los Angeles, Miami, Nashville (TN), New York, Portland (OR), San Francisco, Saipan (Northern Mariana Islands), Seattle (WA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Raymond GREENE (since 17 July 2021)<br>
@@ -347,7 +348,7 @@ _embassy_: 1-10-5 Akasaka, Minato-ku, Tokyo 107-8420<br>
 _mailing address_: 9800 Tokyo Place, Washington DC&nbsp; 20521-9800<br>
 _telephone_: (03) 3224-5000<br>
 _FAX_: [81] (03) 3224-5856<br>
-_email address and website_: TokyoACS@state.gov<br>
+_email address and website_: <br>TokyoACS@state.gov<br><br>https://jp.usembassy.gov/<br>
 _consulate(s) general_: Naha (Okinawa), Osaka-Kobe, Sapporo<br>
 _consulate(s)_: Fukuoka, Nagoya<br>
 
@@ -667,7 +668,7 @@ _by type_: bulk carrier 161, container ship 43, general cargo 1,789, oil tanker 
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>
-_container port(s) (TEUs)_: Kobe (2,924,179), Nagoya (2,784,109), Osaka (2,326,852), Tokyo (4,500,156), Yokohama (2,926,698) (2017)<br>
+_container port(s) (TEUs)_: Kobe (2,871,642), Nagoya (2,844,004), Osaka (2,456,028), Tokyo (4,510,000), Yokohama (2,990,000) (2019)<br>
 _LNG terminal(s) (import)_: Chita, Fukwoke, Futtsu, Hachinone, Hakodate, Hatsukaichi, Higashi Ohgishima, Higashi Niigata, Himeiji, Joetsu, Kagoshima, Kawagoe, Kita Kyushu, Mizushima, Nagasaki, Naoetsu, Negishi, Ohgishima, Oita, Sakai, Sakaide, Senboku, Shimizu, Shin Minato, Sodegaura, Tobata, Yanai, Yokkaichi<br>
 Okinawa - Nakagusuku<br>
 

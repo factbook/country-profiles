@@ -361,10 +361,11 @@ Christian Democrat Party or PDC [Jose ENDUNDO]<br>Congolese Rally for Democracy 
 ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, PCA, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francois Nkuna BALUMUENE (since 23 September 2015)<br>
+_chief of mission_: Ambassador Francois Nkuna BALUMUENE (since 17 September 2015)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
 _telephone_: [1] (202) 234-7690 through 7691<br>
 _FAX_: [1] (202) 234-2609<br>
+_email address and website_: <br>https://www.ambardcusa.org/<br>
 _representative office_: New York New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -373,7 +374,7 @@ _embassy_: 310 Avenue des Aviateurs, Kinshasa, Gombe<br>
 _mailing address_: 2220 Kinshasa Place, Washington DC&nbsp; 20521-2220<br>
 _telephone_: [243] 081 556-0151<br>
 _FAX_: [243] 81 556-0175<br>
-_email address and website_: ACSKinshasa@state.gov<br>
+_email address and website_: <br>ACSKinshasa@state.gov<br><br>https://cd.usembassy.gov/<br>
 
 **Flag description**<br>
 sky blue field divided diagonally from the lower hoist corner to upper fly corner by a red stripe bordered by two narrow yellow stripes; a yellow, five-pointed star appears in the upper hoist corner; blue represents peace and hope, red the blood of the country's martyrs, and yellow the country's wealth and prosperity; the star symbolizes unity and the brilliant future for the country<br>
@@ -728,7 +729,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 213,329 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,819 (South Sudan) (refugees and asylum seekers), 44,158 (Burundi) (2021)<br>
+_refugees (country of origin)_: 213,329 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,819 (South Sudan) (refugees and asylum seekers), 42,725 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

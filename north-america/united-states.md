@@ -672,7 +672,7 @@ _by type_: bulk carrier 5, container ship 63, general cargo 104, oil tanker 68, 
 
 **Ports and terminals**<br>
 _oil terminal(s)_: LOOP terminal, Haymark terminal<br>
-_container port(s) (TEUs)_: Charleston (2,177,000), Hampton Roads (2,841,000), Houston (2,459,000), Long Beach (7,544,000), Los Angeles (9,343,000), New York/New Jersey (6,710,000), Oakland (2,420,000), Savannah (4,046,000), Seattle/Tacoma (3,665,000) (2017)<br>
+_container port(s) (TEUs)_: Charleston (2,436,185), Hampton Roads (2,937,962), Houston (2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)<br>
 _LNG terminal(s) (export)_: Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)<br>note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024<br>
 _LNG terminal(s) (import)_: Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX)<br>
 _cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>

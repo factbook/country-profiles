@@ -364,7 +364,7 @@ _chief of mission_: Ambassador Michael J. FITZPATRICK (since 3 July 2019)<br>
 _embassy_: E12-170 Avenida Avigiras y Avenida Eloy Alfaro, Quito<br>
 _mailing address_: 3420 Quito Place, Washington DC&nbsp; 20521-3420<br>
 _telephone_: [593] (2) 398-5000<br>
-_email address and website_: ACSQuito@state.gov<br>
+_email address and website_: <br>ACSQuito@state.gov<br><br>https://ec.usembassy.gov/<br>
 _consulate(s) general_: Guayaquil<br>
 
 **Flag description**<br>
@@ -685,7 +685,7 @@ _by type_: container ship 1, general cargo 7, oil tanker 29, other 110 (2020)<br
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>
-_container port(s) (TEUs)_: Guayaquil (1,871,591) (2017)<br>
+_container port(s) (TEUs)_: Guayaquil (1,680,751) (2019)<br>
 _river port(s)_: Guayaquil (Guayas)<br>
 
 ## Military and Security
@@ -718,7 +718,7 @@ the International Maritime Bureau continues to report the territorial and offsho
 <p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 429,685 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 451,093 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
 
 **Illicit drugs**<br>
 significant transit country for cocaine originating in Colombia and Peru, with much of the US-bound cocaine passing through Ecuadorian Pacific waters; importer of precursor chemicals used in production of illicit narcotics; attractive location for cash-placement by drug traffickers laundering money because of dollarization and weak anti-money-laundering regime; increased activity on the northern frontier by trafficking groups and Colombian insurgents<br>

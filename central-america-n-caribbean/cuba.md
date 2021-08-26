@@ -325,9 +325,9 @@ _residency requirement for naturalization_: unknown<br>
 16 years of age; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in july 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
+_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; (586 seats filled in 2021); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in July 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
 _elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition - men 283, women 322, percent of women 53.2%<br>
+_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
 
 **Executive branch**<br>
 _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 10 October 2019); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019); note - the president is both chief of state and head of government<br>
@@ -351,7 +351,9 @@ ACP, ALBA, AOSIS, CELAC, FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
 _chancery_: 2630 16th Street NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 797-8518<br>
+_telephone_: [1] (202) 797-8515 through 8518<br>
+_FAX_: [1] (202) 797-8521<br>
+_email address and website_: <br>recepcion@usadc.embacuba.cu<br><br>http://misiones.minrex.gob.cu/en/usa<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Timothy ZUNIGA-BROWN (since 31 July 2020)<br>
@@ -359,7 +361,7 @@ _embassy_: Calzada between L &amp; M Streets, Vedado, Havana<br>
 _mailing address_: 3200 Havana Place, Washington DC&nbsp; 20521-3200<br>
 _telephone_: [53] (7) 839-4100<br>
 _FAX_: [53] (7) 839-4247<br>
-_email address and website_: acshavana@state.gov<br>
+_email address and website_: <br>acshavana@state.gov<br><br>https://cu.usembassy.gov/<br>
 
 **Flag description**<br>
 five equal horizontal bands of blue (top, center, and bottom) alternating with white; a red equilateral triangle based on the hoist side bears a white, five-pointed star in the center; the blue bands refer to the three old divisions of the island: central, occidental, and oriental; the white bands describe the purity of the independence ideal; the triangle symbolizes liberty, equality, and fraternity, while the red color stands for the blood shed in the independence struggle; the white star, called La Estrella Solitaria (the Lone Star) lights the way to freedom and was taken from the flag of Texas<br>

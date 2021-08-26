@@ -350,8 +350,10 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FA
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
-_FAX_: [1] (202) 588-8936<br>
-_consulate(s) general_: Chicago, Los Angeles, New York<br>
+_FAX_: [1] (202) 588-8936/(202) 588-8936<br>
+_email address and website_: <br>washington@mvep.hr<br><br>http://us.mvep.hr/en/<br>
+_consulate(s) general_: Chicago, Los Angeles, New York, Washington, DC<br>
+_honorary consulate(s)_: Houston, New Orleans, Seattle, Pittsburgh, Kansas City (MO)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Mark FLEMING (since May 2021)<br>
@@ -359,7 +361,7 @@ _embassy_: Ulica Thomasa Jeffersona 2, 10010 Zagreb<br>
 _mailing address_: 5080 Zagreb Place, Washington DC&nbsp; 20521-5080<br>
 _telephone_: [385] (1) 661-2200<br>
 _FAX_: [385] (1) 661-8933<br>
-_email address and website_: ZagrebACS@state.gov<br>
+_email address and website_: <br>ZagrebACS@state.gov<br><br>https://hr.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and blue - the Pan-Slav colors - superimposed by the Croatian coat of arms; the coat of arms consists of one main shield (a checkerboard of 13 red and 12 silver (white) fields) surmounted by five smaller shields that form a crown over the main shield; the five small shields represent five historic regions (from left to right): Croatia, Dubrovnik, Dalmatia, Istria, and Slavonia<br>
@@ -708,7 +710,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,900 (2020)<br>
-<strong>note: </strong>729,079 estimated refugee and migrant arrivals (January 2015-May 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>727,610 estimated refugee and migrant arrivals (January 2015-May 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 primarily a transit country along the Balkan route for maritime shipments of South American cocaine bound for Western Europe and other illicit drugs and chemical precursors to and from Western Europe; no significant domestic production of illicit drugs<br>

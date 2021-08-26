@@ -351,7 +351,7 @@ _embassy_: 4-6, Dr. Liviu Librescu Blvd., District 1, Bucharest, 015118<br>
 _mailing address_: 5260 Bucharest Place, Washington, DC&nbsp; 20521-5260<br>
 _telephone_: [40] (21) 200-3300<br>
 _FAX_: [40] (21) 200-3442<br>
-_email address and website_: ACSBucharest@state.gov<br>
+_email address and website_: <br>ACSBucharest@state.gov<br><br>https://ro.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of cobalt blue (hoist side), chrome yellow, and vermilion red; modeled after the flag of France, the colors are those of the principalities of Walachia (red and yellow) and Moldavia (red and blue), which united in 1862 to form Romania; the national coat of arms that used to be centered in the yellow band has been removed<br>
@@ -711,7 +711,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 7,942 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 7,988 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

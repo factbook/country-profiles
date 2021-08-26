@@ -352,7 +352,7 @@ _embassy_: 188 Sejong-daero, Jongno-gu, Seoul<br>
 _mailing address_: 9600 Seoul Place, Washington, DC&nbsp; 20521-9600<br>
 _telephone_: [82] (2) 397-4114<br>
 _FAX_: [82] (2) 397-4101<br>
-_email address and website_: seoulinfoACS@state.gov<br>
+_email address and website_: <br>seoulinfoACS@state.gov<br><br>https://kr.usembassy.gov/<br>
 _consulate(s)_: Busan<br>
 
 **Flag description**<br>
@@ -668,7 +668,7 @@ _by type_: bulk carrier 88, container ship 84, general cargo 357, oil tanker 187
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
-_container port(s) (TEUs)_: Busan (20,493,000), Incheon (3,050,000), Kwangyang (2,230,000) (2017)<br>
+_container port(s) (TEUs)_: Busan (21,992,001), Incheon (3,091,955), Kwangyang (2,378,337) (2019)<br>
 _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong, Yeosu<br>
 
 ## Military and Security

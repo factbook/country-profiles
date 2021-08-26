@@ -358,13 +358,15 @@ _chief of mission_: Ambassador Serge MOMBOULI (since 31 July 2001)<br>
 _chancery_: 1720 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 726-5500<br>
 _FAX_: [1] (202) 726-1860<br>
+_email address and website_: <br>info@ambacongo-us.org<br><br>http://www.ambacongo-us.org/en-us/home.aspx<br>
+_consulate(s)_: New Orleans<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Ellen B. THORBURN (since January 2021)<br>
 _embassy_: 70-83 Section D, Boulevard Denis Sassou N'Guesso, Brazzaville<br>
 _mailing address_: 2090 Brazzaville Place, Washington DC 20521-2090<br>
 _telephone_: [242] 06 612-2000, [242] 05 387-9700<br>
-_email address and website_: BrazzavilleACS@state.gov<br>
+_email address and website_: <br>BrazzavilleACS@state.gov<br><br>https://cg.usembassy.gov/<br>
 
 **Flag description**<br>
 divided diagonally from the lower hoist side by a yellow band; the upper triangle (hoist side) is green and the lower triangle is red; green symbolizes agriculture and forests, yellow the friendship and nobility of the people, red is unexplained but has been associated with the struggle for independence<br>

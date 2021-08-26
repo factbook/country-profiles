@@ -372,7 +372,7 @@ _chief of mission_: Ambassador Tulinabo S. MUSHINGI (since August 2017); note - 
 _embassy_: Route des Almadies, Dakar<br>
 _mailing address_: 2130 Dakar Place, Washington DC&nbsp; 20521-2130<br>
 _telephone_: [221] 33-879-4000<br>
-_email address and website_: DakarACS@state.gov<br>
+_email address and website_: <br>DakarACS@state.gov<br><br>https://sn.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal vertical bands of green (hoist side), yellow, and red with a small green five-pointed star centered in the yellow band; green represents Islam, progress, and hope; yellow signifies natural wealth and progress; red symbolizes sacrifice and determination; the star denotes unity and hope<br>

@@ -355,7 +355,7 @@ _embassy_: Lot 350-B Haramouss, B.P. 185<br>
 _mailing address_: 2150 Djibouti Place, Washington DC&nbsp; 20521-2150<br>
 _telephone_: [253] 21-45-30-00<br>
 _FAX_: [253] 21-45-31-29<br>
-_email address and website_: DjiboutiACS@state.gov<br>
+_email address and website_: <br>DjiboutiACS@state.gov<br><br>https://dj.usembassy.gov/<br>
 
 **Flag description**<br>
 two equal horizontal bands of light blue (top) and light green with a white isosceles triangle based on the hoist side bearing a red five-pointed star in the center; blue stands for sea and sky and the Issa Somali people; green symbolizes earth and the Afar people; white represents peace; the red star recalls the struggle for independence and stands for unity<br>

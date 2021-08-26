@@ -372,7 +372,7 @@ _embassy_: Plot 1075 Diplomatic Drive, Central District Area, Abuja<br>
 _mailing address_: 8320 Abuja Place, Washington DC&nbsp; 20521-8320<br>
 _telephone_: [234] (9) 461-4000<br>
 _FAX_: [234] (9) 461-4036<br>
-_email address and website_: AbujaACS@state.gov<br>
+_email address and website_: <br>AbujaACS@state.gov<br><br>https://ng.usembassy.gov/<br>
 _consulate(s) general_: Lagos<br>
 
 **Flag description**<br>
@@ -692,6 +692,7 @@ _by type_: general cargo 15, oil tanker 110, other 603 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>
+_oil terminal(s)_: Bonny Terminal, Brass Terminal, Escravos Terminal, Forcados Terminal, Pennington Terminal, Qua Iboe Terminal<br>
 _LNG terminal(s) (export)_: Bonny Island<br>
 
 ## Military and Security

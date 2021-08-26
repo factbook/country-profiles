@@ -266,6 +266,7 @@ _chief of mission_: Ambassador (Vacant); Charge D' Affaires Kelly Adams-Smith (s
 _embassy_: Zinnerstraat - 13 - Rue Zinner, B-1000 Brussels<br>
 _mailing address_: use embassy street address<br>
 _telephone_: [32] (2) 811-4100<br>
+_email address and website_: <br>https://useu.usmission.gov/<br>
 
 **Flag description**<br>
 a blue field with 12 five-pointed gold stars arranged in a circle in the center; blue represents the sky of the Western world, the stars are the peoples of Europe in a circle, a symbol of unity; the number of stars is fixed<br>

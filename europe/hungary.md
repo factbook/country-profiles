@@ -343,6 +343,7 @@ _chief of mission_: Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)<b
 _chancery_: 3910 Shoemaker Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 362-6730<br>
 _FAX_: [1] (202) 966-8135<br>
+_email address and website_: <br>info@mfa.gov.hu<br><br>https://washington.mfa.gov.hu/eng<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -351,7 +352,7 @@ _embassy_: Szabadsag ter 12, H-1054 Budapest<br>
 _mailing address_: 5270 Budapest Place, US Department of State, Washington, DC 20521-5270<br>
 _telephone_: [36] (1) 475-4400<br>
 _FAX_: [36] (1) 475-4248<br>
-_email address and website_: acs.budapest@state.gov<br>
+_email address and website_: <br>acs.budapest@state.gov<br><br>https://hu.usembassy.gov/<br>
 
 **Flag description**<br>
 three equal horizontal bands of red (top), white, and green; the flag dates to the national movement of the 18th and 19th centuries, and fuses the medieval colors of the Hungarian coat of arms with the revolutionary tricolor form of the French flag; folklore attributes virtues to the colors: red for strength, white for faithfulness, and green for hope; alternatively, the red is seen as being for the blood spilled in defense of the land, white for freedom, and green for the pasturelands that make up so much of the country<br>

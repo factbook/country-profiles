@@ -373,7 +373,7 @@ _embassy_: Diplomatic Enclave, Ramna 5, Islamabad<br>
 _mailing address_: 8100 Islamabad Place, Washington, DC 20521-8100<br>
 _telephone_: [92] 051-201-4000<br>
 _FAX_: [92] 51-2338071<br>
-_email address and website_: ACSIslamabad@state.gov<br>
+_email address and website_: <br>ACSIslamabad@state.gov<br><br>https://pk.usembassy.gov/<br>
 _consulate(s) general_: Karachi, Lahore, Peshawar<br>
 
 **Flag description**<br>
@@ -696,7 +696,7 @@ _by type_: bulk carrier 5, oil tanker 7, other 45 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>
-_container port(s) (TEUs)_: Karachi (2,224,000) (2017)<br>
+_container port(s) (TEUs)_: Karachi (2,097,855) (2019)<br>
 _LNG terminal(s) (import)_: Port Qasim<br>
 
 ## Military and Security

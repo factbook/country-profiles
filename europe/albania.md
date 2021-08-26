@@ -86,7 +86,7 @@ Albanian 82.6%, Greek 0.9%, other 1% (including Vlach, Romani, Macedonian, Monte
 
 **Languages**<br>
 Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Romani, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)<br>
-_major-language sample(s)_: <br>Libri i Fakteve Boterore, burimi vital per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Libri i fakteve boterore, burim i pa zevendesueshem  per informacione elementare. (Albanian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 56.7%, Roman Catholic 10%, Orthodox 6.8%, atheist 2.5%, Bektashi (a Sufi order) 2.1%, other 5.7%, unspecified 16.2% (2011 est.)<br>
@@ -342,10 +342,11 @@ Alliance for Change (electoral coalition led by PD)<br>Democratic Party or PD [L
 BSEC, CD, CE, CEI, EAPC, EBRD, EITI (compliant country), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, OAS (observer), OIC, OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Yuri KIM (since&nbsp;27 January&nbsp;2020)<br>
+_chief of mission_: Ambassador Floreta LULI-FABER (since 18 May 2015)<br>
 _chancery_: 2100 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 223-4942<br>
 _FAX_: [1] (202) 628-7342<br>
+_email address and website_: <br>embassy.washington@mfa.gov.al<br><br>http://www.ambasadat.gov.al/usa/en<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -354,7 +355,7 @@ _embassy_: Rruga Stavro Vinjau, No. 14, Tirana<br>
 _mailing address_: 9510 Tirana Place, Washington DC&nbsp; 20521-9510<br>
 _telephone_: [355] 4 2247-285<br>
 _FAX_: [355] 4 2232-222<br>
-_email address and website_: ACSTirana@state.gov<br><br>https://al.usembassy.gov/<br>
+_email address and website_: <br>ACSTirana@state.gov<br><br>https://al.usembassy.gov/<br>
 
 **Flag description**<br>
 red with a black two-headed eagle in the center; the design is claimed to be that of 15th-century hero Georgi Kastrioti SKANDERBEG, who led a successful uprising against the Ottoman Turks that resulted in a short-lived independence for some Albanian regions (1443-78); an unsubstantiated explanation for the eagle symbol is the tradition that Albanians see themselves as descendants of the eagle; they refer to themselves as "Shqiptare," which translates as "sons of the eagle"<br>
