@@ -311,7 +311,8 @@ _chief of mission_: Ambassador Akillino Harris SUSAIA (since 24 April 2017)<br>
 _chancery_: 1725 N Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 223-4383<br>
 _FAX_: [1] (202) 223-4391<br>
-_consulate(s) general_: Honolulu, Tamuning (Guam)<br>
+_email address and website_: <br>dcmission@fsmembassy.fm<br><br>https://fsmembassy.fm/<br>
+_consulate(s) general_: Honolulu, Portland (OR), Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador&nbsp;Carmen G. CANTOR&nbsp;(since 31 January 2020)<br>

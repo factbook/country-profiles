@@ -345,10 +345,11 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Domingos Teixeira de Abreu FEZAS VITAL (since 28 January 2016)<br>
 _chancery_: 2012 Massachusetts Avenue NW, Washington, DC 20036<br>
-_telephone_: [1] (202) 332-3007<br>
-_FAX_: [1] (202) 223-3926<br>
-_consulate(s) general_: Boston, New York, San Francisco<br>
-_consulate(s)_: New Bedford (MA), Newark (NJ), Providence (RI)<br>
+_telephone_: [1] (202) 350-5400; [1] (202) 332-3007<br>
+_FAX_: [1] (202) 462-3726; [1] (202) 387-2768<br>
+_email address and website_: <br>info.washington@mne.pt; sconsular.washington@mne.pt<br><br>https://washingtondc.embaixadaportugal.mne.gov.pt/en/<br>
+_consulate(s) general_: Boston, Newark (NJ), New York, San Francisco<br>
+_consulate(s)_: New Bedford (MA), Providence (RI)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Kristin M. KANE (since January 2021)<br>

@@ -364,6 +364,7 @@ _chief of mission_: Ambassador Asad Majeed KHAN (since 11 January 2019)<br>
 _chancery_: 3517 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-6500<br>
 _FAX_: [1] (202) 686-1534<br>
+_email address and website_: <br>consularsection@embassyofpakistanusa.org<br><br>https://embassyofpakistanusa.org/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 _consulate(s)_: Louisville (KY), San Francisco<br>
 
@@ -702,7 +703,7 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Pakistan Army (includes National Guard), Pakistan Navy (includes marines, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior paramilitary forces: Frontier Corps, Pakistan Rangers (2021)<br><br>note:  the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
+Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior paramilitary forces: Frontier Corps, Pakistan Rangers (2021)<br><br>note:  the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
 note:&nbsp; the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
 
 **Military expenditures**<br>
@@ -713,7 +714,7 @@ note:&nbsp; the National Guard is a paramilitary force and one of the Army's res
 3.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-estimates of the size of the Pakistan military&rsquo;s active force vary; approximately 640,000 active personnel (550,000 Army; 30,000 Navy; 60,000 Air Force) (2020)<br>
+information varies; approximately 640,000 active personnel (550,000 Army; 30,000 Navy; 60,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Ukraine, the UK, and the US; since 2010, China and the US are the leading suppliers of arms to Pakistan; Pakistan also has a large domestic defense industry (2020)<br>
@@ -725,7 +726,7 @@ the Pakistan military inventory includes a broad mix of equipment, primarily fro
 16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2019)<br>
 
 **Military - note**<br>
-the military has carried out three coups since Pakistan's independence in 1947 and remains politically active<br>
+the military has carried out three coups since Pakistan's independence in 1947 and remains the most influential political actor in the country<br>
 
 ## Terrorism
 

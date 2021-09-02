@@ -675,7 +675,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command; National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades; Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate; Popular Mobilization Commission and Affiliated Forces (PMF); Ministry of Pershmerga (Kurdistan Regional Government) (2020)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br><br>Popular Mobilization Commission and Affiliated Forces (PMF); Ministry of Pershmerga (Kurdistan Regional Government) (2020)<br>
 note: the PMF is a collection of approximately 50 paramilitary militias of different sizes and with varying political interests<br>
 
 **Military expenditures**<br>
@@ -686,7 +686,7 @@ note: the PMF is a collection of approximately 50 paramilitary militias of diffe
 5.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 personnel under the Ministry of Defense&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); est. 100-160,000 Popular Mobilization Forces; est. 150,000-200,000 Peshmerga Forces (2020-21)<br>
+information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); est. 100-160,000 Popular Mobilization Forces; est. 150,000-200,000 Peshmerga Forces (2020-21)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military inventory is comprised of Russian and Soviet-era equipment combined with newer European- and US-sourced platforms; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2020)<br>

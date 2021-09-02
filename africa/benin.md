@@ -361,7 +361,7 @@ ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean Claude Felix DO REGO (since 17 July 2020)<br>
 _chancery_: 2124 Kalorama Road NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 232-6656/(202) 232-2611<br>
+_telephone_: [1] (202) 232-6656; [1] (202) 232-2611<br>
 _FAX_: [1] (202) 265-1996<br>
 _email address and website_: <br>ambassade.washington@gouv.bj<br><br>https://beninembassy.us/<br>
 

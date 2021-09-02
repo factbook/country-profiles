@@ -280,6 +280,7 @@ none (overseas territory of the UK)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Consul General Karen GRISSETTE (since 6 July 2021)<br>
+_embassy_: US Consulate Bermuda, 16 Middle Road, Devonshire, DV 03, Bermuda<br>
 _mailing address_: 5300 Hamilton Place, Washington, DC 20520-5300<br>
 _telephone_: (441) 295-1342<br>
 _FAX_: (441) 295-1592<br>

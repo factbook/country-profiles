@@ -332,8 +332,9 @@ ACP, AfDB, AFESD, AMF, AU, CAEU (candidate), FAO, G-77, IBRD, ICAO, ICRM, IDA, I
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Ali Sharif AHMED (since 16 September 2019)<br>
-_chancery_: 1705 DeSales Street NW, Suite 300,Washington, DC 20036<br>
-_telephone_: [1] (202) 296-0570, [1] (202) 833-1523<br>
+_chancery_: 1609 22nd Street NW, Washington, DC 20008<br>
+_telephone_: [1] (202) 853-9164<br>
+_email address and website_: <br>info@somaliembassydc.net<br><br>https://somaliembassydc.net/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Colleen CRENWELGE (since July 2021)<br>
@@ -629,8 +630,8 @@ note: Somalia has numerous militia formations operating throughout the country; 
 1.1% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
-estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2020)<br>
-note(s): a significant portion of the SNA is comprised of local militia forces that lack the discipline, structure, weapons, and overall capabilities for effective military operations; two effective SNA units are the US-trained Danab ("Lightning") Brigade and the Turkish-trained Gorgor "Eagle" Special Division; in December of 2020, the Danab Brigade numbered about 1,150 personnel with plans for it to eventually have as many as 3,000 troops; the Gorgor Division was estimated to have 4,500-5,000 trained troops in early 2021<br><br>--in 2017, the Somali Government announced a plan for the SNA to eventually number about 18,000 troops; the same plan called for 32,000 federal and regional police<br>
+estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2021)<br>
+note(s): a significant portion of the SNA is comprised of local militia forces that lack the discipline, structure, weapons, and overall capabilities for effective military operations; two effective SNA units are the US-trained Danab ("Lightning") Brigade and the Turkish-trained Gorgor "Eagle" Special Division; in December of 2020, the Danab Brigade numbered about 1,150 personnel with plans for it to eventually have as many as 3,000 troops; the Gorgor Division was estimated to have 4,500-5,000 trained troops in early 2021; in 2017, the Government of Turkey said it intended to provide training for 10,000 Somalis<br><br>--in 2017, the Somali Government announced a plan for the SNA to eventually number about 18,000 troops; the same plan called for 32,000 federal and regional police<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SNA is lightly armed with an inventory that includes a variety of older, second-hand equipment largely from Italy, Russia, South Africa, and the UK; since 2015, it has received small quantities of second-hand equipment from up to 10 different countries, usually as aid/donations (2020)<br>

@@ -361,10 +361,11 @@ Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHI
 ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Mahamane Bachir FIFI (since 16 December 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Mahamane Bachir FIFI, Minister (since 16 December 2020)<br>
 _chancery_: 2204 R Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 483-4224 through 4227<br>
+_telephone_: [1] (202) 483-4224<br>
 _FAX_: [1] (202) 483-3169<br>
+_email address and website_: <br>communication@embassyofniger.org<br><br>http://www.embassyofniger.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric P. WHITAKER (since 26 January 2018)<br>

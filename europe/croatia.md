@@ -350,10 +350,10 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FA
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
-_FAX_: [1] (202) 588-8936/(202) 588-8936<br>
+_FAX_: [1] (202) 588-8936; [1] (202) 588-8936<br>
 _email address and website_: <br>washington@mvep.hr<br><br>http://us.mvep.hr/en/<br>
-_consulate(s) general_: Chicago, Los Angeles, New York, Washington, DC<br>
-_honorary consulate(s)_: Houston, New Orleans, Seattle, Pittsburgh, Kansas City (MO)<br>
+_consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington, DC<br>
+_consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Mark FLEMING (since May 2021)<br>

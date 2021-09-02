@@ -343,9 +343,10 @@ ACP, AOSIS, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IBRD, ICAO, ICCt, ICRM, ID
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Niermala Sakoentala BADRISING (since 21 July 2017)<br>
-_chancery_: 4301 Connecticut Avenue NW, Suite 460, Washington, DC 20008<br>
-_telephone_: [1] (202) 244-7488<br>
-_FAX_: [1] (202) 244-5878<br>
+_chancery_: 4301 Connecticut Avenue NW, Suite 400, Washington, DC 20008<br>
+_telephone_: [1] (202) 629-4302<br>
+_FAX_: [1] (202) 629-4769<br>
+_email address and website_: <br>amb.vs@gov.sr<br><br>https://www.surinameembassy.org/<br>
 _consulate(s) general_: Miami<br>
 
 **Diplomatic representation from the US**<br>

@@ -330,7 +330,7 @@ _subordinate courts_: courts of first instance; magistrates' courts; religious a
 ABEDA, AFESD, AMF, CAEU, FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, ICSID, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OAPEC, OIC, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNRWA, UNWTO, UPU, WBG, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant)<br>
+_chief of mission_: Ambassador (vacant); note &ndash; embassy closed in March 2014<br>
 _chancery_: 2215 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-6313<br>
 _FAX_: [1] (202) 234-9548<br>

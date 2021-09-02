@@ -354,6 +354,7 @@ _chief of mission_: Ambassador Carlos Filomeno Azevedo Agostinho das NEVES (sinc
 _chancery_: 675 Third Avenue, Suite 1807, New York, NY 10017<br>
 _telephone_: [1] (212) 651-8116<br>
 _FAX_: [1] (212) 651-8117<br>
+_email address and website_: <br>rdstppmun@gmail.com<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Sao Tome and Principe; the US Ambassador to Gabon is accredited to Sao Tome and Principe<br>

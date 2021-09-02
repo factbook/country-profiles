@@ -363,10 +363,11 @@ _subordinate courts_: Resident Magistrates Courts; Kadhi courts (for Islamic fam
 ACP, AfDB, AU, C, CD, EAC, EADB, EITI, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge D'Affaires Ad Interim Jean Abel MSABILA (since 21 May 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jean Abel MSABILA, Counselor (since 21 May 2021)<br>
 _chancery_: 1232 22nd Street NW, Washington, DC 20037<br>
-_telephone_: [1] (202) 939-6125<br>
+_telephone_: [1] (202) 884-1080, [1] (202) 939-6125, [1] (202) 939-6127<br>
 _FAX_: [1] (202) 797-7408<br>
+_email address and website_: <br>ubalozi@tanzaniaembassy-us.org<br><br>https://tanzaniaembassy-us.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Donald J. WRIGHT (since 2 April 2020)<br>

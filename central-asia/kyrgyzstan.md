@@ -340,6 +340,7 @@ _chief of mission_: Ambassador Baktybek AMANBAYEV (since 7 July 2021)<br>
 _chancery_: 2360 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 449-9822<br>
 _FAX_: [1] (202) 449-8275<br>
+_email address and website_: <br>kgembassy.usa@mfa.gov.kg; kgconsulate.washington@mfa.gov.kg<br><br>https://mfa.gov.kg/en/dm/-Embassy-of-the-Kyrgyz-Republic-in-the-USA-and-Canada<br>
 _honorary consulate(s)_: Maple Valley (WA)<br>
 
 **Diplomatic representation from the US**<br>

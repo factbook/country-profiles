@@ -332,10 +332,11 @@ _subordinate courts_: High Court; Criminal, Civil, Family, Juvenile, and Drug Co
 ADB, AOSIS, C, CP, FAO, G-77, IBRD, ICAO, ICC (NGOs), ICCt, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OIC, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador THILMEEZA Hussain (since 8 July 2019); There is currently no Maldives Embassy in Washington, DC, but its permanent representative to the United Nations in New York is accredited currently as <strong>ambassador</strong> to the United States. Jul 27, 2020 (2020)<br>
-_chancery_: 801 Second Avenue, Suite 400E, New York, NY 10017<br>
-_telephone_: [1] (212) 599-6194 and 599-6195<br>
+_chief of mission_: <p>Maldives has no embassy in the US, but its Permanent Representative to the UN in New York, THILMEEZA Hussain (since 8 July 2019), is accredited to the US</p> (2020)<br>
+_chancery_: 801 Second Avenue, Suite 202E, New York, NY 10017<br>
+_telephone_: [1] (212) 599-6194; [1] (212) 599-6195<br>
 _FAX_: [1] (212) 661-6405<br>
+_email address and website_: <br>info@maldivesmission.com<br><br>http://www.maldivesmission.com/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Maldives; US Ambassador to Sri Lanka and Maldives, Alaina TEPLITZ (since 1 November 2018), is accredited to both countries<br>

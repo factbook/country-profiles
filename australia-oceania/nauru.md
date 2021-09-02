@@ -300,9 +300,10 @@ ACP, ADB, AOSIS, C, FAO, G-77, ICAO, ICCt, IFAD, Interpol, IOC, IOM, ITU, OPCW, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marlene Inemwin MOSES (since 13 March 2006)<br>
-_chancery_: 800 2nd Avenue, Suite 400 D, New York, NY 10017<br>
+_chancery_: 800 2nd Avenue, Third Floor, New York, NY 10017<br>
 _telephone_: [1] (212) 937-0074<br>
 _FAX_: [1] (212) 937-0079<br>
+_email address and website_: <br>nauru@onecommonwealth.org<br><br>https://www.un.int/nauru/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Nauru; the US Ambassador to Fiji is accredited to Nauru<br>

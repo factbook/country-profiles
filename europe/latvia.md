@@ -293,7 +293,7 @@ _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in O
 <strong>etymology:</strong> of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word "rija," meaning "warehouse," where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century<br>
 
 **Administrative divisions**<br>
-<p>35 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
+<p>36 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
 
 **Independence**<br>
 18 November 1918 (from Soviet Russia); 4 May 1990 (declared from the Soviet Union); 6 September 1991 (recognized by the Soviet Union)<br>
@@ -344,10 +344,11 @@ Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>National Alliance "All 
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Andris TEIKMANIS (since 16 September 2016)<br>
+_chief of mission_: Ambassador Maris SELGA (since 16 September 2019)<br>
 _chancery_: 2306 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-2840<br>
 _FAX_: [1] (202) 328-2860<br>
+_email address and website_: <br>embassy.usa@mfa.gov.lv<br><br>https://www2.mfa.gov.lv/en/usa<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John Leslie CARWILE (since 5 November 2019)<br>

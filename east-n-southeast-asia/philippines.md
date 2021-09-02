@@ -363,6 +363,7 @@ _chief of mission_: Ambassador Jose Manuel del Gallego ROMUALDEZ (since 29 Novem
 _chancery_: 1600 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 467-9300<br>
 _FAX_: [1] (202) 328-7614<br>
+_email address and website_: <br>washington.pe@dfa.gov.ph; consular@phembassy-us.org<br>
 _consulate(s) general_: Chicago, Honolulu, Los Angeles, New York, Saipan (Northern Mariana Islands), San Francisco, Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>

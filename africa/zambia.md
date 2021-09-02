@@ -333,11 +333,11 @@ _elections_: last held on 12 August 2021 (next to be held on 12 August 2026)<br>
 _election results_: percent of vote by party - United Party for National Development 49%, Patriotic Front 37%, Party of National Unity and Progress .59%, independent 5.98% seats by party - UPND 82, PF 61, PNUP 1,  independent 11; composition - men 135, women 20, percent of women 13.5%<br>155 seats were filled, one seat vacant,  a by-election will be held.<br>
 
 **Executive branch**<br>
-_chief of state_: President Hakainde Hichilema (since 16 August 2021); Vice President Mutale Nalumango (since 16 August 2021) note - the president is both chief of state and head of government<br>
-_head of government_: President Hakainde Hichilema (since 16 August 2021); Vice President Mutale Nalumango (since 16 August 2021)<br>
+_chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
+_head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: Hakainde Hichilema (United Party for National Development) wins 57.9% of the vote and incumbent Edgar Lungu (Patriotic Front) 37.3% <br><br>
+_election results_: Hakainde HICHILEMA (UPND) wins 57.9% of the vote and incumbent Edgar LUNGU (PF) 37.3%, other 4.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>

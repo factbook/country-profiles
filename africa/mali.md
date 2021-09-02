@@ -361,8 +361,9 @@ ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mahamadou NIMAGA (since 22 June 2018)<br>
 _chancery_: 2130 R Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-2249, 939-8950<br>
+_telephone_: [1] (202) 332-2249<br>
 _FAX_: [1] (202) 332-6603<br>
+_email address and website_: <br>infos@mali.embassy.us<br><br>https://www.maliembassy.us/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Dennis B. HANKINS (since 15 March 2019)<br>

@@ -348,7 +348,7 @@ BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco Obadiah CAMPBELL Hooker (since 28 June 2010)<br>
 _chancery_: 1627 New Hampshire Avenue NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 939-6570, 6573<br>
+_telephone_: [1] (202) 939-6570; [1] (202) 939-6573<br>
 _FAX_: [1] (202) 939-6545<br>
 _consulate(s) general_: Houston, Los Angeles, Miami, New York, San Francisco<br>
 

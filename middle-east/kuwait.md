@@ -327,8 +327,8 @@ _chief of mission_: Ambassador SALIM al-Abdallah al-Jabir al-Sabah (since 10 Oct
 _chancery_: 2940 Tilden Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-0702<br>
 _FAX_: [1] (202) 966-8468<br>
-_consulate(s) general_: New York City<br>
-_consulate(s)_: Lost Angeles<br>
+_email address and website_: <br>https://www.kuwaitembassy.us/<br>
+_consulate(s) general_: Beverly Hills (CA), New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Alina L. ROMANOWSKI (since 6 January 2020)<br>

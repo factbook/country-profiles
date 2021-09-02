@@ -321,10 +321,11 @@ Lafors Seselwa Demokratik  or LSD [Martin AGLAE]<br>One Seychelles [Alain St. A
 ACP, AfDB, AOSIS, AU, C, CD, COMESA, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, InOC, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OIF, OPCW, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Ronald Jean JUMEAU (since 8 September 2017)       <br>       <br>
+_chief of mission_: Ambassador Ronald Jean JUMEAU (since 8 September 2017) &nbsp; &nbsp; &nbsp;&nbsp;<br>
 _chancery_: 800 Second Avenue, Suite 400C, New York, NY 10017<br>
 _telephone_: [1] (212) 972-1785<br>
 _FAX_: [1] (212) 972-1786<br>
+_email address and website_: <br>seychelles@un.int<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

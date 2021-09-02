@@ -366,7 +366,7 @@ ADB, ARF, ASEAN, BIMSTEC, CP, EAS, EITI (candidate country), FAO, G-77, IAEA, IB
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador AUNG LYNN (since 16 September 2016)<br>
 _chancery_: 2300 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-3344/(202) 332-4250<br>
+_telephone_: [1] (202) 332-3344; [1] (202) 332-4250<br>
 _FAX_: [1] (202) 332-4351<br>
 _email address and website_: <br>pyi.thayar@verizon.net; washington-embassy@mofa.gov.mm<br><br>http://www.mewashingtondc.com/wordpress/<br>
 _consulate(s) general_: Los Angeles, New York<br>

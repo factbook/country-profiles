@@ -306,7 +306,7 @@ CE, FAO, ICAO, ICC (NGOs), ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITU, OIF, OPCW
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Elisenda VIVES BALMANA (since 2 March 2016)<br>
 _chancery_: 2 United Nations Plaza, 27th Floor, New York, NY 10017<br>
-_telephone_: [1] (212) 750-8064/8065<br>
+_telephone_: [1] (212) 750-8064; [1] (212) 750-8065<br>
 _FAX_: [1] (212) 750-6630<br>
 _email address and website_: <br>contact@andorraun.org<br>
 

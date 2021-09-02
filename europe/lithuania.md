@@ -345,6 +345,7 @@ _chief of mission_: Ambassador Audra PLEPYTE (since 7 July 2021)<br>
 _chancery_: 2622 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-5860<br>
 _FAX_: [1] (202) 328-0466<br>
+_email address and website_: <br>info@usa.mfa.lt<br><br>https://usa.mfa.lt/usa/en/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

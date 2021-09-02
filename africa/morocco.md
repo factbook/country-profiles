@@ -397,6 +397,7 @@ _chief of mission_: Ambassador Lalla Joumala ALAOUI (since 24 April 2017)<br>
 _chancery_: 3508 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 462-7979<br>
 _FAX_: [1] (202) 462-7643<br>
+_email address and website_: <br>Washingtonembbmorocco@maec.gov.ma<br><br>https://www.embassyofmorocco.us/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -730,11 +731,11 @@ _LNG terminal(s) (import)_: Jorf Lasfar<br>
 Royal Armed Forces: Royal Moroccan Army, Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Morroccan Royal Guard (provides security for the royal family; officially part of the Royal Army); Royal Morroccan Gendarmerie (Ministry of Defense); Mobile Intervention Corps (a motorized paramilitary security force under the Ministry of Interior that supplements the military and the police as needed) (2020)<br>
 
 **Military expenditures**<br>
+3.8% of GDP (2020 est.)<br>
 3.1% of GDP (2019)<br>
 3.1% of GDP (2018)<br>
 3.2% of GDP (2017)<br>
 3.2% of GDP (2016)<br>
-3.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Armed Forces have approximately 200,000 active personnel (175,000 Army; 10,000 Navy; 15,000 Air Force); est. 25,000 Gendarmerie (2021)<br>

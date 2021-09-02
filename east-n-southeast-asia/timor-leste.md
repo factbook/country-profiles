@@ -353,10 +353,11 @@ Alliance for Change and Progress or AMP [Xanana GUSMAO] (alliance includes CNRT,
 ACP, ADB, AOSIS, ARF, ASEAN (observer), CPLP, EITI (compliant country), FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, MIGA, NAM, OPCW, PIF (observer), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WHO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Domingos Sarmento ALVES (since May 2014)<br>
+_chief of mission_: Ambassador Isilio Antonio De Fatima COELHO DA SILVA (since 6 January 2020)<br>
 _chancery_: 4201 Connecticut Avenue NW, Suite 504, Washington, DC 20008<br>
 _telephone_: [1] (202) 966-3202<br>
 _FAX_: [1] (202) 966-3205<br>
+_email address and website_: <br>info@timorlesteembassy.org<br><br>http://www.timorlesteembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant), Charge d'Affaires Thomas DALEY (since August 2021)<br>

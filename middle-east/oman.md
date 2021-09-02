@@ -340,6 +340,7 @@ _chief of mission_: Ambassador Moosa Hamdan Moosa AL TAI (since 17 February 2021
 _chancery_: 2535 Belmont Road, NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 387-1980<br>
 _FAX_: [1] (202) 745-4933<br>
+_email address and website_: <br>washington@fm.gov.om<br><br>https://www.culturaloffice.info/aboutomaniembassy<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Leslie M. TSOU (since 19 January 2020)<br>

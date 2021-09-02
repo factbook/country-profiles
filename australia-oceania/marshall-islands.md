@@ -328,11 +328,11 @@ ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IM
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Gerald M. ZACKIOS (since 16 September 2016)<br>
-_chancery_: 2433 Massachusetts Avenue NW, 1st Floor, Washington, DC 20008<br>
+_chancery_: 2433 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-5414<br>
 _FAX_: [1] (202) 232-3236<br>
+_email address and website_: <br>info@rmiembassyus.org<br><br>https://www.rmiembassyus.org/<br>
 _consulate(s) general_: Honolulu, Springdale (AR)<br>
-_consulate(s)_: Agana (Guam)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Roxanne CABRAL (since 6 February 2020)<br>

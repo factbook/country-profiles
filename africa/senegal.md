@@ -361,10 +361,11 @@ Alliance for the Republic-Yakaar or APR-Yakaar [Macky SALL]<br>Alliance of Force
 ACP, AfDB, AU, CD, CPLP (associate), ECOWAS, EITI (candidate country), FAO, FZ, G-15, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mansour KANE&nbsp;(since 6 January 2020)<br>
+_chief of mission_: Ambassador Mansour Elimane KANE (since 6 January 2020)<br>
 _chancery_: 2215 M Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 234-0540<br>
 _FAX_: [1] (202) 629-2961<br>
+_email address and website_: <br>contact@ambasenegal-us.org<br><br>http://www.ambasenegal-us.org/index.php<br>
 _consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>

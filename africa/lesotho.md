@@ -347,10 +347,11 @@ All Basotho Convention or ABC [Thomas Motsoahae THABANE]<br>Alliance of Democrat
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Charge D'Affaires AD Interim- Masopha Phoofolo Moses KAO, Counselor (28 May 2021)<br>
+_chief of mission_: Ambassador (vacant); Masopha Phoofolo Moses KAO,&nbsp; Counselor (28 May 2021)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>
+_email address and website_: <br>lesothoembassy@verizon.net<br><br>https://www.gov.ls/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Rebecca E. GONZALES (since 8 February 2018)<br>

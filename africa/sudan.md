@@ -360,6 +360,7 @@ _chief of mission_: Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 338-8565<br>
 _FAX_: [1] (202) 667-2406<br>
+_email address and website_: <br>consular@sudanembassy.org<br><br>https://www.sudanembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian SHUKAN (since October 2019)<br>

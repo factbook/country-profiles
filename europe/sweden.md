@@ -334,11 +334,12 @@ Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemo
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Karin Ulrika OLOFSDOTTER (since 17 September 2017)<br>
-_chancery_: The House of Sweden, 2900 K Street NW, Washington, DC 20007<br>
-_telephone_: [1] (202) 536-1500<br>
-_FAX_: [1] (202) 536-1501<br>
-_consulate(s) general_: New York, San Francisco<br>
+_chief of mission_: Ambassador Karin Ulrika OLOFSDOTTER (since 8 September 2017)<br>
+_chancery_: 2900 K Street NW, Washington, DC 20007<br>
+_telephone_: [1] (202) 467-2600<br>
+_FAX_: [1] (202) 467-2699<br>
+_email address and website_: <br>ambassaden.washington@gov.se<br><br>https://www.swedenabroad.se/en/embassies/usa-washington/<br>
+_consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Pamela M. TREMONT (since 20 January 2021)<br>

@@ -352,7 +352,8 @@ _chief of mission_: Ambassador Yuba Raj KHATIWADA (since 17 February 2021)<br>
 _chancery_: 2730 34th Place NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 667-4550<br>
 _FAX_: [1] (202) 667-5534<br>
-_consulate(s) general_: Chicago (IL), New York<br>
+_email address and website_: <br>info@nepalembassyusa.org<br><br>https://us.nepalembassy.gov.np/<br>
+_consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Randy BERRY (since 25 October 2018)<br>
@@ -675,7 +676,7 @@ the Nepal Army has approximately 95,000 active troops (including a small air win
 the Army's inventory includes a mix of older equipment largely of British, Chinese, Indian, Russian, and South African origin; since 2010, Nepal has received limited amounts of newer hardware from several countries, including China, Italy, and Russia (2020)<br>
 
 **Military deployments**<br>
-725 Central African Republic (MINUSCA); 880 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 870 Lebanon (UNIFIL); 230 Liberia (UNSMIL); 150 Mali (MINUSMA); 1,725 South Sudan (UNMISS) (Jan 2021)<br>
+Nepal has about 5,500 total troops deployed on UN peacekeeping missions, including: 725 Central African Republic (MINUSCA); 880 Democratic Republic of the Congo (MONUSCO); 400 Golan Heights (UNDOF); 870 Lebanon (UNIFIL); 230 Liberia (UNSMIL); 150 Mali (MINUSMA); 1,725 South Sudan (UNMISS) (Jan 2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (including women); no conscription (2019)<br>

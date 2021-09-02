@@ -345,10 +345,11 @@ National Alliance Party or NAP [Patrick PRUAITCH]<br>Papua and Niugini Union Par
 ACP, ADB, AOSIS, APEC, ARF, ASEAN (observer), C, CD, CP, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge D&rsquo;Affaires Cephas KAYO (since 31 January 2018)<br>
-_chancery_: 1779 Massachusetts Avenue NW, Suite 805, Washington, DC 20036<br>
+_chief of mission_: Ambassador (vacant); Charge D&rsquo;Affaires Cephas KAYO, Minister (since 31 January 2018)<br>
+_chancery_: 1825 K Street NW, Suite 1010, Washington, DC 20006<br>
 _telephone_: [1] (202) 745-3680<br>
 _FAX_: [1] (202) 745-3679<br>
+_email address and website_: <br>info@pngembassy.org<br><br>http://www.pngembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Erin Elizabeth MCKEE (since 27&nbsp;November 2019); note - also accredited to the Solomon Islands and Vanuatu<br>

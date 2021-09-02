@@ -353,8 +353,9 @@ Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, 
 _chief of mission_: Ambassador Piotr Antoni WILCZEK (since 18 January 2017)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
-_FAX_: [1] (202) 328-6271<br>
-_consulate(s) general_: Chicago, Los Angeles, New York<br>
+_FAX_: [1] (202) 328-2152<br>
+_email address and website_: <br>washington.amb.sekretariat@msz.gov.pl<br><br>https://www.gov.pl/web/usa-en/embassy-washington<br>
+_consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires B. Bix ALIU (since January 2021)<br>

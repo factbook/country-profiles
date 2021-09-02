@@ -296,9 +296,10 @@ CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maguy MACCARIO-DOYLE (since 3 December 2013)<br>
-_chancery_: 3400 International Drive NW, Suite 2K-100, Washington, DC 20008<br>
-_telephone_: (202) 234-1530<br>
-_FAX_: (202) 244-7656<br>
+_chancery_: 888 17th Street NW, Washington, DC 20006<br>
+_telephone_: [1] (202) 234-1530<br>
+_FAX_: [1] (202) 244-7656<br>
+_email address and website_: <br>info@monacodc.org<br><br>https://monacodc.org/index.html<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

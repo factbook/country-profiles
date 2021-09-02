@@ -338,6 +338,7 @@ _chief of mission_: Ambassador Tone KAJZER (since 23 December 2020)<br>
 _chancery_: 2410 California Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 386-6601<br>
 _FAX_: [1] (202) 386-6633<br>
+_email address and website_: <br>vwa@gov.si<br><br>http://www.washington.embassy.si/index.php?id=51&amp;L=1<br>
 _consulate(s) general_: Cleveland (OH)<br>
 
 **Diplomatic representation from the US**<br>

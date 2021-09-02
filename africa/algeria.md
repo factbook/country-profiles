@@ -669,7 +669,7 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard; Ministry of National Defense: National Gendarmerie, Municipal Guard; Ministry of Interior: General Directorate of National Security (2021)<br>
+Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP, but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (2021)<br>
 
 **Military expenditures**<br>
 6% of GDP (2019)<br>
@@ -679,10 +679,10 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 6.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Algerian People's National Army (ANP) has approximately 130,000 total active personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); est. 50,000 Gendarmerie; est. 90,000 Municipal Guard (2021)<br>
+the Algerian People's National Army (ANP) has approximately 130,000 total active personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); estimated 140,000 National Gendarmerie (information varies widely) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Russia is by far the leading supplier of armaments to Algeria, followed by China and Germany (2020)<br>
+the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Russia is the leading supplier of armaments to Algeria, followed by China and Germany (2020)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; 19-30 years of age for compulsory service; conscript service obligation reduced from 18 to 12 months in 2014 (2019)<br>

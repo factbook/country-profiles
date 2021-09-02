@@ -351,9 +351,10 @@ ACP, AfDB, AU, C, CEPGL, COMESA, EAC, EADB, FAO, G-77, IAEA, IBRD, ICAO, ICRM, I
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Mathilde MUKANTABANA (since 18 July 2013)<br>
-_chancery_: 1875 Connecticut Avenue NW, Suite 418, Washington, DC 20009<br>
+_chancery_: 1714 New Hampshire Avenue NW,&nbsp; Washington, DC 20009<br>
 _telephone_: [1] (202) 232-2882<br>
 _FAX_: [1] (202) 232-4544<br>
+_email address and website_: <br>info@rwandaembassy.org<br><br>https://rwandaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Peter H. VROOMAN (since 5 April 2018)<br>

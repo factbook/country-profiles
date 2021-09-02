@@ -350,10 +350,11 @@ Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanz
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Luis Jose GONZALEZ FERNANDEZ (since 12 April 2021)<br>
-_chancery_: 2400 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 483-6960 through 6962<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Luis Jose GONZALEZ FERNANDEZ, Minister (since 12 April 2021)<br>
+_chancery_: 2400 Massachusetts Avenue, NW, Washington DC&nbsp; 20008&nbsp;&nbsp;<br>
+_telephone_: [1] (202) 483-6960<br>
 _FAX_: [1] (202) 234-4508<br>
+_email address and website_: <br>eeuuembaparsc@mre.gov.py; secretaria@embaparusa.gov.py<br>
 _consulate(s) general_: Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>

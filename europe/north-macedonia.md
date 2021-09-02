@@ -340,10 +340,11 @@ Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim 
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO,&nbsp;OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Vilma PETKOVSKA (since 16 March 2020)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Vilma PETKOVSKA, Minister Counselor (since 16 March 2020)<br>
 _chancery_: 2129 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-0501<br>
 _FAX_: [1] (202) 667-2131<br>
+_email address and website_: <br>washington@mfa.gov.mk<br>
 _consulate(s) general_: Chicago, Detroit, New York<br>
 
 **Diplomatic representation from the US**<br>

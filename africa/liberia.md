@@ -350,10 +350,11 @@ Alliance for Peace and Democracy or APD [Marcus S. G. DAHN]<br>All Liberian Part
 ACP, AfDB, AU, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador George PATTEN (since 11 January 2019)<br>
+_chief of mission_: Ambassador George S.W. PATTEN, Sr. (since 11 January 2019)<br>
 _chancery_: 5201 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 723-0437<br>
 _FAX_: [1] (202) 723-0436<br>
+_email address and website_: <br>info@liberiaemb.org<br><br>http://www.liberianembassyus.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

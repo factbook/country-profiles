@@ -361,6 +361,7 @@ _chief of mission_: Ambassador Hugo DE ZELA Mart&iacute;nez (since 8 July 2019)<
 _chancery_: 1700 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 833-9860 through 9869<br>
 _FAX_: [1] (202) 659-8124<br>
+_email address and website_: <br>Webadmin@embassyofperu.us<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Hartford (CT), Houston, Los Angeles, Miami, New York, Paterson (NJ), San Francisco, Washington DC<br>
 
 **Diplomatic representation from the US**<br>

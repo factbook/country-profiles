@@ -322,9 +322,10 @@ AU, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOM,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Philip Jada NATANA (since 17 September 2018)<br>
-_chancery_: 1015 31st Street NW, Third Floor, Washington, DC 20007<br>
-_telephone_: [1] (202) 293-7940<br>
-_FAX_: [1] (202) 293-7941<br>
+_chancery_: 1015 31st Street NW, Suite 300, Washington, DC 20007<br>
+_telephone_: [1] (202) 600-2238<br>
+_FAX_: [1] (202) 644-9910<br>
+_email address and website_: <br>info.ssdembassy@gmail.com<br><br>https://www.southsudanembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Deputy Chief of Mission Jon F. DANILOWICZ (since September 2020)<br><br>

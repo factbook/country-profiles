@@ -360,6 +360,7 @@ _chief of mission_: Ambassador Margaret Natalie MENSAH-WILLIAMS (since 18 Januar
 _chancery_: 1605 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 986-0540<br>
 _FAX_: [1] (202) 986-0443<br>
+_email address and website_: <br>info@namibiaembassyusa.org<br><br>https://namibiaembassyusa.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Jessica LONG (since 2 July 2021)<br>

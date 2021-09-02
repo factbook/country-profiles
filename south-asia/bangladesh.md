@@ -357,7 +357,7 @@ ADB, ARF, BIMSTEC, C, CD, CICA (observer), CP, D-8, FAO, G-77, IAEA, IBRD, ICAO,
 _chief of mission_: Ambassador M Shahidul ISLAM (since 17 February 2021)<br>
 _chancery_: 3510 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 244-0183<br>
-_FAX_: [1] (202) 244-2771/(202) 244 7830<br>
+_FAX_: [1] (202) 244-2771; [1] (202) 244 7830<br>
 _email address and website_: <br>mission.washington@mofa.gov.bd<br><br>http://www.bdembassyusa.org/<br>
 _consulate(s) general_: Los Angeles, New York<br>
 

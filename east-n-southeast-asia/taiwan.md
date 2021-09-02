@@ -264,7 +264,7 @@ ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observ
 note - separate customs territory of Taiwan, Penghu, Kinmen, and Matsu<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] 202 895-1800<br>
+_chief of mission_: none; commercial and cultural relations with its citizens in the US are maintained through an unofficial instrumentality, the Taipei Economic and Cultural Representative Office in the United States (TECRO), a private nonprofit corporation that performs citizen and consular services similar to those at diplomatic posts, represented by HSIAO Bi-khim (since 20 July 2020); office: 4201 Wisconsin Avenue NW, Washington, DC 20016; telephone: [1] (202) 895-1800<br>
 _Taipei Economic and Cultural Offices (branch offices)_: Atlanta, Boston, Chicago, Denver (CO), Houston, Honolulu, Los Angeles, Miami, New York, San Francisco, Seattle<br>
 
 **Diplomatic representation from the US**<br>

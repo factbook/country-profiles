@@ -324,9 +324,10 @@ ABEDA, AfDB, AFESD, AMF, AMU, AU, BDEAC, CAEU, COMESA, FAO, G-77, IAEA, IBRD, IC
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: <p>Ambassador Wafa M.T. BUGHAIGHIS (since 29 November 2017)</p><br>
-_chancery_: <p>1460 Dahlia Street NW, Washington, DC</p><br>
+_chancery_: <p>1460 Dahlia Street NW, Washington, DC 20012</p><br>
 _telephone_: [1] (202) 944-9601<br>
 _FAX_: [1] (202) 944-9606<br>
+_email address and website_: <br>info@embassyoflibyadc.com<br><br>https://www.embassyoflibyadc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Richard B. NORLAND (since 22 August 2019)<br>

@@ -360,9 +360,10 @@ BIS, BSEC, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, G-9, IAEA, IBRD
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Marko DJURIC (since 18 January 2021)<br>
-_chancery_: 2233 Wisconsin Ave NW, #410, Washington, DC 20007<br>
+_chancery_: 2233 Wisconsin Ave NW, Suite 410, Washington, DC 20007<br>
 _telephone_: [1] (202) 332-0333<br>
 _FAX_: [1] (202) 332-3933<br>
+_email address and website_: <br>info@serbiaembusa.org<br><br>http://www.washington.mfa.gov.rs/<br>
 _consulate(s) general_: Chicago, New York<br>
 
 **Diplomatic representation from the US**<br>

@@ -336,10 +336,12 @@ ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, C
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jacques PITTELOUD (since 16 September 2019)<br>
-_chancery_: 2900 Cathedral Avenue NW, Washington, DC 20008<br>
+_chancery_: 2201 Wisconsin Avenue NW, Suite 300, Washington, DC 20007-4105<br>
 _telephone_: [1] (202) 745-7900<br>
 _FAX_: [1] (202) 387-2564<br>
-_consulate(s) general_: Atlanta, Chicago, Los Angeles, New York, San Francisco<br>
+_email address and website_: <br>washington@eda.admin.ch<br><br>https://www.eda.admin.ch/washington<br>
+_consulate(s) general_: Atlanta, Chicago, New York, San Francisco<br>
+_consulate(s)_: Boston<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Eva Weigold SCHULTZ (since 17 January 2021) note - also accredited to Liechtenstein<br>

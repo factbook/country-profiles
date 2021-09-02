@@ -359,7 +359,7 @@ ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, I
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dawda D. FADERA (since 24 January 2018)<br>
 _chancery_: 5630 16th Street NW, Washington, DC 20011<br>
-_telephone_: [1] (202) 785-1399/(202) 785-1428<br>
+_telephone_: [1] (202) 785-1399; [1] (202) 785-1428<br>
 _FAX_: [1] (202) 785-1430<br>
 _email address and website_: <br>info@gambiaembassy.us<br><br>https://www.gambiaembassydc.us/home<br>
 

@@ -340,8 +340,9 @@ ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP
 _chief of mission_: Ambassador Rosemary&nbsp;BANKS (since&nbsp;11 January 2019)<br>
 _chancery_: 37 Observatory Circle NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 328-4800<br>
-_FAX_: [1] (202) 667-5227<br>
-_consulate(s) general_: Honolulu (HI), Los Angeles, New York<br>
+_FAX_: [1] (202) 667-5277<br>
+_email address and website_: <br>wshinfo@mfat.govt.nz<br><br>https://www.mfat.govt.nz/en/countries-and-regions/americas/united-states-of-america/<br>
+_consulate(s) general_: Honolulu, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Kevin COVERT (20 December 2020) note - also accredited to Samoa<br>

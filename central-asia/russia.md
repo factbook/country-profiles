@@ -361,9 +361,10 @@ APEC, Arctic Council, ARF, ASEAN (dialogue partner), BIS, BRICS, BSEC, CBSS, CD,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anatoliy Ivanovich ANTONOV (since 8 September 2017)<br>
 _chancery_: 2650 Wisconsin Avenue NW, Washington, DC 20007<br>
-_telephone_: [1] (202) 298-5700, 5701, 5704, 5708<br>
+_telephone_: [1] (202) 298-5700<br>
 _FAX_: [1] (202) 298-5735<br>
-_consulate(s) general_: Houston, New York, Seattle<br>
+_email address and website_: <br>rusembusa@mid.ru<br><br>https://washington.mid.ru/en/<br>
+_consulate(s) general_: Houston, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John J. SULLIVAN (since 5 February 2021)<br>

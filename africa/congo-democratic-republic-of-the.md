@@ -363,10 +363,10 @@ ACP, AfDB, AU, CEMAC, CEPGL, COMESA, EITI (compliant country), FAO, G-24, G-77, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francois Nkuna BALUMUENE (since 17 September 2015)<br>
 _chancery_: 1100 Connecticut Avenue NW, Suite 725, Washington DC 20036<br>
-_telephone_: [1] (202) 234-7690 through 7691<br>
+_telephone_: [1] (202) 234-7690; [1] (202) 234-7691<br>
 _FAX_: [1] (202) 234-2609<br>
 _email address and website_: <br>https://www.ambardcusa.org/<br>
-_representative office_: New York New York<br>
+_representative office_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Michael A. HAMMER (since 22 December 2018)<br>

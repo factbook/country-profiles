@@ -344,6 +344,7 @@ _chief of mission_: <p>Ambassador Yerzhan ASHIKBAYEV (since 7 July 2021)</p><br>
 _chancery_: 1401 16th Street NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 232-5488<br>
 _FAX_: [1] (202) 232-5845<br>
+_email address and website_: <br>washington@mfa.kz<br><br>https://www.gov.kz/memleket/entities/mfa-washington?lang=en<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

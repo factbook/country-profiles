@@ -343,7 +343,8 @@ BSEC, CD, CE, CEI, CIS, EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD
 _chief of mission_: Ambassador Eugen CARAS (since 17 July 2020)<br>
 _chancery_: 2101 S Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 667-1130<br>
-_FAX_: [1] (202) 667-1204<br>
+_FAX_: [1] (202) 667-2624<br>
+_email address and website_: <br>washington@mfa.gov.md<br><br>https://sua.mfa.gov.md/en<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Laura HRUBY (since 21 July 2021)<br>

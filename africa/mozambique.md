@@ -362,8 +362,9 @@ ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICA
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Carlos DOS SANTOS (since 28 January 2016)<br>
 _chancery_: 1525 New Hampshire Avenue NW, Washington, DC 20036<br>
-_telephone_: [1] (202) 293-7146<br>
+_telephone_: [1] (202) 293-7147<br>
 _FAX_: [1] (202) 835-0245<br>
+_email address and website_: <br>washington.dc@embamoc.gov.mz<br><br>https://usa.embamoc.gov.mz/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Dennis Walter HEARNE (since 3 April 2019)<br>

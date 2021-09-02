@@ -352,10 +352,11 @@ All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C 
 ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 4 April 2008)<br>
-_chancery_: 1701 19th Street NW, Washington, DC 20009<br>
-_telephone_: [1] (202) 939-9261 through 9263<br>
+_chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>
+_chancery_: 1701 19th Street NW, Washington, DC 20009-1605<br>
+_telephone_: [1] (202) 939-9261<br>
 _FAX_: [1] (202) 483-1793<br>
+_email address and website_: <br>info@embassyofsierraleone.net<br><br>https://embassyofsierraleone.net/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador David REIMER (since 24 March 2021)<br>

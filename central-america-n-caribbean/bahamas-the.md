@@ -312,7 +312,6 @@ _telephone_: [1] (202) 319-2660<br>
 _FAX_: [1] (202) 319-2668<br>
 _email address and website_: <br>embassy@bahamasembdc.org<br><br>https://www.bahamasembdc.org/<br>
 _consulate(s) general_: Atlanta, Miami, New York, Washington, DC<br>
-_honorary consulate(s)_: Aurora (CO), Chicago, Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d' Affaires Usha E. PITTS (since 1 January 2021)<br>

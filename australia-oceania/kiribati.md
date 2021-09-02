@@ -330,9 +330,10 @@ ABEDA, ACP, ADB, AOSIS, C, FAO, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IM
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: <p>Ambassador Teburoro TITO (since 24 January 2018)</p><br>
-_chancery_: 800 Second Avenue, Suite 400A, New York, NY 10017<br>
-_telephone_: [1](212)867-3310<br>
-_FAX_: [1](212)867-3320<br>
+_chancery_: 685 Third Avenue, Suite 1109, New York, NY 10017<br>
+_telephone_: [1] (212) 867-3310<br>
+_FAX_: [1] (212) 867-3320<br>
+_email address and website_: <br>Kimission.newyork@mfa.gov.ki<br>
 note -&nbsp;the Kiribati Permanent Mission to the UN serves as the embassy<br>
 
 **Diplomatic representation from the US**<br>

@@ -355,10 +355,11 @@ Alliance for Justice and Democracy/Movement for Renewal or AJD/MR [Ibrahima Moct
 ABEDA, ACP, AfDB, AFESD, AMF, AMU, AU, CAEU (candidate), EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAS, MIGA, MIUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge D'Affaires Ad Interim Jiddou JIDDOU (since 24 June 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Jiddou JIDDOU, First Secretary (since 24 June 2021)<br>
 _chancery_: 2129 Leroy Place NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 232-5700 through 5701<br>
+_telephone_: [1] (202) 232-5700<br>
 _FAX_: [1] (202) 319-2623<br>
+_email address and website_: <br>office@mauritaniaembassyus.com<br><br>http://mauritaniaembassyus.com/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Cynthia KIERSCHT (since 27 January 2021)<br>

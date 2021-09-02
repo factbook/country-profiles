@@ -331,6 +331,7 @@ _chief of mission_: Ambassador Radovan JAVORCIK (since 18 January 2021)<br>
 _chancery_: 3523 International Court NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 237-1054<br>
 _FAX_: [1] (202) 237-6438<br>
+_email address and website_: <br>emb.washington@mzv.sk<br><br>https://www.mzv.sk/web/washington-en<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

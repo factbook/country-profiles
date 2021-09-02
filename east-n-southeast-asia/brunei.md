@@ -290,9 +290,9 @@ _residency requirement for naturalization_: 12 years<br>
 18 years of age for village elections; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (36 seats; members appointed by the sultan including 3 ex-officio members - the speaker and first and second secretaries; members appointed for 5-year terms)<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan&nbsp; from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
 _elections_: appointed by the sultan<br>
-_election results_: NA; composition - men 33, women 3, percent of women 8.3%<br>
+_election results_: NA; composition (as of July 2021) - men 30, women 3, percent of women 9.1%<br>
 
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government<br>

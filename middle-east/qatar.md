@@ -329,6 +329,7 @@ _chief of mission_: Ambassador MISHAL bin Hamad bin Muhammad Al Thani (since 24 
 _chancery_: 2555 M Street NW, Washington, DC 20037<br>
 _telephone_: [1] (202) 274-1600<br>
 _FAX_: [1] (202) 237-0682<br>
+_email address and website_: <br>info.dc@mofa.gov.qa<br><br>https://washington.embassy.qa/en<br>
 _consulate(s) general_: Houston, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>

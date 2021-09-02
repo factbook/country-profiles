@@ -355,10 +355,11 @@ Action Coalition of Thailand Party or ACT [TAWEESAK Na Takuathung (acting); CHAT
 ADB, APEC, ARF, ASEAN, BIMSTEC, BIS, CD, CICA, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE (partner), PCA, PIF (partner), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMOGIP, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador MANATSAWI Sisodaphon (February 2021)<br>
+_chief of mission_: Ambassador MANATSAWI Sisodaphon (since 17 February 2021)<br>
 _chancery_: 1024 Wisconsin Avenue NW, Suite 401, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-3600<br>
 _FAX_: [1] (202) 944-3611<br>
+_email address and website_: <br>https://thaiembdc.org<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

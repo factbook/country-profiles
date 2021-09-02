@@ -341,9 +341,10 @@ Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Cristian GAGINSKY (since 19 June 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-4846, 4848, 4851, 4852<br>
+_telephone_: [1] (202) 332-4829; [1] (202) 332-4846<br>
 _FAX_: [1] (202) 232-4748<br>
-_consulate(s) general_: Chicago, Los Angeles, New York<br>
+_email address and website_: <br>washington@mae.ro (chancery)<br>contact@informatiiconsulare.ro (consular section)<br><br>https://washington.mae.ro/en<br>
+_consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David MUNIZ (since 20 January 2021)<br>

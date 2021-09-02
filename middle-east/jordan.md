@@ -672,7 +672,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Navy, Royal Jordanian Air Force; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2020)<br>
+Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2020)<br>
 
 **Military expenditures**<br>
 4.7% of GDP (2019)<br>
@@ -682,7 +682,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 4.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Jordanian Armed Forces (JAF) have approximately 100,000 active personnel (86,000 Army; 500 Navy; 14,000 Air Force); est. 15,000 Gendarmerie Forces (2021)<br>
+the Jordanian Armed Forces (JAF) have approximately 90,000 active personnel (77,000 Army; 500 Navy; 12,500 Air Force); est. 15,000 Gendarmerie Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported weapons, mostly second-hand equipment from Europe, the Gulf States, and the US; since 2010, the Netherlands and the US are the leading suppliers of military hardware to Jordan (2020)<br>
@@ -691,7 +691,7 @@ the JAF inventory is comprised of a wide mix of imported weapons, mostly second-
 100 Mali (MINUSMA) (Jan 2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male military service; initial service term 2 years, with option to reenlist for 18 years; conscription at age 18 suspended in 1999; women are not conscripted, but can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF (2013)<br>
+17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of three months of military training and nine months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least six months; service would include one month for military training with the remaining three months dedicated to vocational training in the sectors of construction and tourism (2020)<br>
 
 ## Terrorism
 

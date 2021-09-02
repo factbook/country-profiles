@@ -340,6 +340,7 @@ _chief of mission_: Ambassador Anniken Ramberg KRUTNES (since 17 September 2020)
 _chancery_: 2720 34th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 333-6000<br>
 _FAX_: [1] (202) 469-3990<br>
+_email address and website_: <br>emb.washington@mfa.no<br><br>https://www.norway.no/en/usa/<br>
 _consulate(s) general_: Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

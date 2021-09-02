@@ -344,7 +344,8 @@ _chief of mission_: Ambassador&nbsp;LEE Soo-hyuck&nbsp;(since 6 January 2020)<br
 _chancery_: 2450 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-5600<br>
 _FAX_: [1] (202) 797-0595<br>
-_consulate(s) general_: Agana (Guam), Anchorage (AK), Atlanta, Boston, Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle<br>
+_email address and website_: <br>generalusa@mofa.go.kr<br><br>https://overseas.mofa.go.kr/us-en/index.do<br>
+_consulate(s) general_: Anchorage (AK), Atlanta, Boston, Chicago, Dallas (TX), Hagatna (Guam), Honolulu, Houston, Los Angeles, New York, San Francisco, Seattle, Washington DC<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant);&nbsp; Charg&eacute; d&rsquo;Affaires Christopher DEL CORSO (since 16 July 2021)<br>

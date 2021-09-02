@@ -325,10 +325,11 @@ Alternative Democratic Reform Party or ADR [Jean SCHOOS]<br>Christian Social Peo
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Sylvie LUCAS (since 16 September 2016)<br>
+_chief of mission_: Ambassador Gaston Pierre Jean STRONCK (since 16 September 2019)<br>
 _chancery_: 2200 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-4171<br>
 _FAX_: [1] (202) 328-8270<br>
+_email address and website_: <br>washington.amb@mae.etat.lu<br><br>https://washington.mae.lu/en.html<br>
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

@@ -363,9 +363,10 @@ ACP, AfDB, AU, C, CD, COMESA, EAC, EADB, FAO, G-15, G-77, IAEA, IBRD, ICAO, ICCt
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lazarus Ombai AMAYO (since 17 July 2020)<br>
-_chancery_: 2249 R Street NW, Washington, DC 20008<br>
+_chancery_: 1616 P Street NW, Suite 340, Washington, DC 20036<br>
 _telephone_: [1] (202) 387-6101<br>
 _FAX_: [1] (202) 462-3829<br>
+_email address and website_: <br>information@kenyaembassydc.org<br><br>https://kenyaembassydc.org/#<br>
 _consulate(s) general_: Los Angeles<br>
 _consulate(s)_: New York<br>
 

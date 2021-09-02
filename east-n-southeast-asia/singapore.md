@@ -337,6 +337,7 @@ _chief of mission_: Ambassador Ashok KUMAR Mirpuri (since 30 July 2012)<br>
 _chancery_: 3501 International Place NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 537-3100<br>
 _FAX_: [1] (202) 537-0876<br>
+_email address and website_: <br>singemb_was@mfa.sg<br><br>https://www.mfa.gov.sg/washington/<br>
 _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
@@ -674,7 +675,7 @@ the SAF has a diverse and largely modern mix of domestically-produced and import
 maintains permanent training bases and detachments of military personnel in Australia, France, and the US (2020)<br>
 
 **Military service age and obligation**<br>
-18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers) (2019)<br>
+18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2020)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents<br>

@@ -325,9 +325,10 @@ ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, 
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anton Edsel EDMUNDS (since 8 September 2017)<br>
-_chancery_: 1628 K Street NW, Suite 1250, Washington, DC 20006<br>
-_telephone_: [1] (202) 364-6792 through 6795<br>
+_chancery_: 1629 K Street NW, Suite 1250, Washington, DC 20006<br>
+_telephone_: [1] (202) 364-6792<br>
 _FAX_: [1] (202) 364-6723<br>
+_email address and website_: <br>embassydc@gosl.gov.lc<br><br>https://www.embassyofstlucia.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

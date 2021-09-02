@@ -320,9 +320,10 @@ ACP, ADB, AOSIS, FAO, IAEA, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IM
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hersey KYOTA (since 12 November 1997)<br>
-_chancery_: 1701 Pennsylvania Avenue NW, Suite 300, Washington, DC 20036<br>
-_telephone_: [1] (202) 452-6814<br>
+_chancery_: 1701 Pennsylvania Avenue NW, Suite 200, Washington, DC 20006<br>
+_telephone_: [1] (202) 349-8598<br>
 _FAX_: [1] (202) 452-6281<br>
+_email address and website_: <br>info@palauembassy.org<br><br>https://www.palauembassy.org/<br>
 _consulate(s)_: Tamuning (Guam)<br>
 
 **Diplomatic representation from the US**<br>

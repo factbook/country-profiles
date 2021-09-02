@@ -687,7 +687,7 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2020)<br>
 
 **Military expenditures**<br>
-2.3% of GDP (2018 est.)<br>
+2.36% of GDP (2018 est.)<br>
 2.3% of GDP (2017)<br>
 2.5% of GDP (2016)<br>
 2.4% of GDP (2015)<br>

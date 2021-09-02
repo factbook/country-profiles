@@ -357,10 +357,10 @@ ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Santiago CABANAS Ansorena (since 17 September 2018)<br>
 _chancery_: 2375 Pennsylvania Avenue NW, Washington, DC 20037<br>
-_telephone_: [1] (202) 452-0100, 728-2340<br>
+_telephone_: [1] (202) 452-0100<br>
 _FAX_: [1] (202) 833-5670<br>
+_email address and website_: <br>emb.washington@maec.es<br><br>http://www.exteriores.gob.es/embajadas/washington/en/pages/inicio2.aspx<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco, San Juan (Puerto Rico)<br>
-_consulate(s)_: Kansas City (MO)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Conrad TRIBBLE (since 20 January 2021) note - also accredited to Andorra<br>
@@ -732,7 +732,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>226,489 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note: </strong>227,332 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

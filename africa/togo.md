@@ -364,6 +364,7 @@ _chief of mission_: Ambassador Frederic Edem HEGBE (since 24 April 2017)<br>
 _chancery_: 2208 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4212<br>
 _FAX_: [1] (202) 232-3190<br>
+_email address and website_: <br>embassyoftogo@hotmail.com<br><br>https://embassyoftogousa.com/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Eric W. STROHMAYER (since 11 April 2019)<br>

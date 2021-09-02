@@ -335,8 +335,9 @@ Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Keith AZZOPARDI (since 17 September 2018)<br>
 _chancery_: 2017 Connecticut Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 462-3611 through 3612<br>
+_telephone_: [1] (202) 462-3611; [1] (202) 462-3612<br>
 _FAX_: [1] (202) 387-5470<br>
+_email address and website_: <br>maltaembassy.washington@gov.mt<br><br>https://foreignandeu.gov.mt/en/Embassies/ME_United_States/Pages/ME_United_States.aspx<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Gwendolyn "Wendy" GREEN (since August 2020)<br>
@@ -672,7 +673,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,658 estimated refugee and migrant arrivals by sea (January 2015-July 2021)<br>
+<strong>note:</strong> 7,751 estimated refugee and migrant arrivals by sea (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

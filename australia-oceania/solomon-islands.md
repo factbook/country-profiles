@@ -332,10 +332,11 @@ Democratic Alliance Party or DAP [Steve ABANA]<br>Kadere Party of Solomon Island
 ACP, ADB, AOSIS, C, EITI (candidate country), ESCAP, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IOC, ITU, MIGA, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UPU, WFTU, WHO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Janice MOSE<br>
-_chancery_: 800 Second Avenue, Suite 400L, New York, NY 10017<br>
-_telephone_: [1] (212) 599-6192, 6193<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Janice Mose KEMAKEZA<br>
+_chancery_: 685 Third Avenue, 11th Floor, Suite 1102, New York, NY 10017<br>
+_telephone_: [1] (212) 599-6192; [1] (212) 599-6193<br>
 _FAX_: [1] (212) 661-8925<br>
+_email address and website_: <br>simun@solomons.com<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in the Solomon Islands; the US Ambassador to Papua New Guinea is accredited to the Solomon Islands<br>

@@ -346,8 +346,9 @@ ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
 _chancery_: 1005 New Hampshire Avenue NW, Washington, DC 20037<br>
-_telephone_: [1] (202) 223-6090<br>
+_telephone_: [1] (202) 223-6090; [1] (202) 223-2666<br>
 _FAX_: [1] (202) 223-6091<br>
+_email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>https://mfa.tj/en/washington<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John Mark POMMERSHEIM (since 15 March 2019)<br>

@@ -357,6 +357,7 @@ _chief of mission_: Ambassador Ravinatha ARYASINHA (since 23 December 2020)<br>
 _chancery_: 3025 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-4025 through 4028<br>
 _FAX_: [1] (202) 232-7181<br>
+_email address and website_: <br>slembassy@slembassyusa.org<br><br>https://slembassyusa.org/new/<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

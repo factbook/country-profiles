@@ -360,10 +360,11 @@ Accord Party or ACC [Mohammad Lawal MALADO]<br>All Progressives Congress or APC 
 ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Jane Bassey ADAMS (since 2 December 2020)<br>
+_chief of mission_: Ambassador Uzoma Elizabeth EMENIKE (since 7 July 2021)<br>
 _chancery_: 3519 International Court NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 516-4277<br>
+_telephone_: [1] (202) 800-7201 (ext. 100)<br>
 _FAX_: [1] (202) 362-6541<br>
+_email address and website_: <br>info@nigeriaembassyusa.org<br><br>https://www.nigeriaembassyusa.org/<br>
 _consulate(s) general_: Atlanta, New York<br>
 
 **Diplomatic representation from the US**<br>

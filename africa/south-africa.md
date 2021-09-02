@@ -355,7 +355,8 @@ ACP, AfDB, AU, BIS, BRICS, C, CD, FAO, FATF, G-20, G-24, G-5, G-77, IAEA, IBRD, 
 _chief of mission_: Ambassador Nomaindiya MFEKETO (since 8 April 2020)<br>
 _chancery_: 3051 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 232-4400<br>
-_FAX_: [1] (202) 265-1607<br>
+_FAX_: [1] (202) 265-1607; [1] (202) 387-9854<br>
+_email address and website_: <br>https://www.saembassy.org/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

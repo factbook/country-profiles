@@ -337,8 +337,9 @@ ACP, AfDB, AOSIS, AU, C, CD, COMESA, CPLP (associate), FAO, G-77, IAEA, IBRD, IC
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Purmanund JHUGROO (since 7 July 2021)<br>
 _chancery_: 1709 N Street NW, Washington, DC 20036; administrative offices at 3201 Connecticut Avenue NW, Suite 441, Washington, DC 20036<br>
-_telephone_: [1] (202) 244-1491 through 1492<br>
+_telephone_: [1] (202) 244-1491; [1] (202) 244-1492<br>
 _FAX_: [1] (202) 966-0983<br>
+_email address and website_: <br>mauritius.embassy@verizon.net; washingtonemb@govmu.org<br><br>https://mauritius-washington.govmu.org/Pages/index.aspx<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Judes E. DEBAERE (since June 2019); note - also accredited to Seychelles<br>

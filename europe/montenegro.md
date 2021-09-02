@@ -353,6 +353,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Marija STJEPCEVIC (si
 _chancery_: 1610 New Hampshire Avenue NW, Washington, DC, 20009<br>
 _telephone_: [1] (202) 234-6108<br>
 _FAX_: [1] (202) 234-6109<br>
+_email address and website_: <br>usa@mfa.gov.me<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -696,5 +697,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,599 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 19,643 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 

@@ -363,6 +363,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Amielle Pelenne NIRIN
 _chancery_: 2374 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-5525<br>
 _FAX_: [1] (202) 265-3034<br>
+_email address and website_: <br>contact@us-madagascar-embassy.org<br><br>https://www.us-madagascar-embassy.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

@@ -324,9 +324,10 @@ ACP, AOSIS, C, Caricom, CDB, CELAC, EITI (compliant country), FAO, G-24, G-77, I
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Anthony Wayne Jerome PHILLIPS-SPENCER, Brig. Gen. (Ret.) (since 27 June 2016)<br>
-_chancery_: 1708 Massachusetts Avenue NW, Washington, DC 20036<br>
+_chancery_: 1708 Massachusetts Avenue NW, Washington, DC 20036-1975<br>
 _telephone_: [1] (202) 467-6490<br>
 _FAX_: [1] (202) 785-3130<br>
+_email address and website_: <br>embdcinfo@foreign.gov.tt<br><br>https://foreign.gov.tt/missions-consuls/tt-missions-abroad/diplomatic-missions/embassy-washington-dc-us/<br>
 _consulate(s) general_: Miami, New York<br>
 
 **Diplomatic representation from the US**<br>

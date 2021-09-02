@@ -341,7 +341,7 @@ Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G-
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)<br>
 _chancery_: 1621 22nd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 387-0174/(202) 299-0273/(202) 483-1386<br>
+_telephone_: [1] (202) 387-0174; [1] (202) 299-0273, [1] (202) 483-1386<br>
 _FAX_: [1] (202) 234-7973<br>
 _email address and website_: <br>office@bulgaria-embassy.org; Embassy.Washington@mfa.bg<br><br>https://www.bulgaria-embassy.org/en/homepage/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York<br>

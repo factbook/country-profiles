@@ -338,6 +338,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Wael HACHEM (since 15
 _chancery_: 2560 28th Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 939-6300<br>
 _FAX_: [1] (202) 939-6324<br>
+_email address and website_: <br>info@lebanonembassyus.org<br><br>http://www.lebanonembassyus.org/<br>
 _consulate(s) general_: Detroit, New York, Los Angeles<br>
 
 **Diplomatic representation from the US**<br>
@@ -661,7 +662,7 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 
 **Military and security forces**<br>
 Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Lebanese Internal Security Forces Directorate (includes Mobile Gendarmerie); Directorate for General Security (DGS); Directorate General for State Security (2021)<br>
-note - the commander of the LAF is also the commander of the Army<br>
+note(s) - the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official checkpoints are under the authority of Customs and Internal Security Forces<br>
 
 **Military expenditures**<br>
 4.2% of GDP (2019)<br>
@@ -671,7 +672,7 @@ note - the commander of the LAF is also the commander of the Army<br>
 4.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
-the Lebanese Armed Forces (LAF) have approximately 60,000 active troops (57,000 Army; 1,500 Navy; 1,500 AF) (2021)<br>
+the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 AF) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2019 est.)<br>

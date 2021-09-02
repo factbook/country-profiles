@@ -346,10 +346,11 @@ Lao People's Revolutionary Party or LPRP [BOUNNYANG Vorachit]; Prime Minister TH
 ADB, ARF, ASEAN, CP, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IPU, ISO (subscriber), ITU, MIGA, NAM, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador KHAMPHAN Anlavan (since January 2019)<br>
+_chief of mission_: Ambassador KHAMPHAN Anlavan (since 21 July 2019)<br>
 _chancery_: 2222 S Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-6416<br>
+_telephone_: [1] (202) 328-9148; [1] (202) 332-6416<br>
 _FAX_: [1] (202) 332-4923<br>
+_email address and website_: <br>embasslao@gmail.com; laoemb@verizon.net<br><br>https://laoembassy.com/<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>

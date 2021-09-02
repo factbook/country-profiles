@@ -308,6 +308,7 @@ _chief of mission_: Ambassador Lou-Anne Gaylene GILCHRIST (since 18 January 2017
 _chancery_: 1627 K Street, NW, Suite 1202, Washington, DC 20006<br>
 _telephone_: [1] (202) 364-6730<br>
 _FAX_: [1] (202) 364-6730<br>
+_email address and website_: <br>mail@embsvg.com<br><br>http://wa.embassy.gov.vc/washington/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

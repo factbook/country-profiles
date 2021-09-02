@@ -344,6 +344,7 @@ _chief of mission_: Ambassador Yondon OTGONBAYAR (since 28 March 2018)<br>
 _chancery_: 2833 M Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 333-7117<br>
 _FAX_: [1] (202) 298-9227<br>
+_email address and website_: <br>washington@mfa.gov.mn<br><br>http://mongolianembassy.us/<br>
 _consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -667,14 +668,14 @@ _by type_: bulk carrier 3, container ship 4, general cargo 113, oil tanker 70, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops (2020)<br>
+Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br> (2020)<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2019)<br>
-0.7% of GDP (2018)<br>
-0.8% of GDP (2017)<br>
-0.9% of GDP (2016)<br>
-0.9% of GDP (2015)<br>
+0.7% of GDP (2019 est.)<br>
+0.7% of GDP (2018 est.)<br>
+0.8% of GDP (2017 est.)<br>
+0.9% of GDP (2016 est.)<br>
+0.9% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 size estimates for the the Mongolian Armed Forces (MAF) vary; approximately 9,000 active duty troops (2020)<br>
@@ -683,7 +684,8 @@ size estimates for the the Mongolian Armed Forces (MAF) vary; approximately 9,00
 the MAF are armed with Soviet-era equipment supplemented by deliveries of second-hand Russian weapons (2020)<br>
 
 **Military deployments**<br>
-860 South Sudan (UNMISS); 230 Afghanistan (NATO) (Jan 2021)<br>
+860 South Sudan (UNMISS) (Jan 2021)<br><br>note - from 2003 to July 2021, about 3,300 Mongolian troops served in Afghanistan, including about 1,300 since 2015 under the NATO-led mission Resolute Support Mission <br>
+note - from 2003 to July 2021, about 3,300 Mongolian troops served in Afghanistan, including about 1,300 since 2015 under the NATO-led mission Resolute Support Mission&nbsp;<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in army or air forces or police for males only (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2020)<br>

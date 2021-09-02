@@ -290,6 +290,7 @@ _chief of mission_: Ambassador Kurt JAEGER (since 16 September 2016)<br>
 _chancery_: 2900 K Street NW, Suite 602B, Washington, DC 20007<br>
 _telephone_: [1] (202) 331-0590<br>
 _FAX_: [1] (202) 331-3221<br>
+_email address and website_: <br>info@embassyli.org<br><br>https://www.liechtensteinusa.org/<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Liechtenstein; the US Ambassador to Switzerland is accredited to Liechtenstein<br>

@@ -262,6 +262,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires Valdet SADIKU (since 
 _chancery_: 2175 K Street NW, Suite 300, Washington, DC 20037<br>
 _telephone_: [1] (202) 450-2130<br>
 _FAX_: [1] (202) 735-0609<br>
+_email address and website_: <br>https://www.ambasada-ks.net/us/?page=2,1<br>
 _consulate(s) general_: New York<br>
 _consulate(s)_: Des Moines (IA)<br>
 
