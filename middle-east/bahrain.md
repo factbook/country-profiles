@@ -327,7 +327,7 @@ _chief of mission_: Ambassador Abdulla bin Rashid AL KHALIFA (since 21 July 2017
 _chancery_: 3502 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 342-1111<br>
 _FAX_: [1] (202) 362-2192<br>
-_email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>Home (mofa.gov.bh)<br>
+_email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>mofa.gov.bh<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -640,11 +640,11 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
 
 **Military expenditures**<br>
+4% of GDP (2020 est.)<br>
 3.7% of GDP (2019)<br>
 4.1% of GDP (2018)<br>
 4.3% of GDP (2017)<br>
 4.7% of GDP (2016)<br>
-4.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>

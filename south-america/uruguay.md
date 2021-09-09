@@ -347,6 +347,7 @@ _chief of mission_: Ambassador Andres Augusto DURAN HAREAU (since 23 December 20
 _chancery_: 1913 I Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 331-1313<br>
 _FAX_: [1] (202) 331-8142<br>
+_email address and website_: <br>urueeuu@mrree.gub.uy<br>
 _consulate(s) general_: Chicago, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>

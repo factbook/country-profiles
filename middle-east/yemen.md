@@ -363,6 +363,7 @@ _chief of mission_: Ambassador Ahmad Awadh BIN MUBARAK (since 3 August 2015)<br>
 _chancery_: 2319 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 965-4760<br>
 _FAX_: [1] (202) 337-2017<br>
+_email address and website_: <br>Information@yemenembassy.org<br><br>https://www.yemenembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: ambassador (vacant); Charg&eacute; d&rsquo;Affaires Cathy WESTLEY (since 23 May 2021); note - the embassy closed in March 2015; Yemen Affairs Unit currently operates out of US Embassy Riyadh<br>

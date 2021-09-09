@@ -290,7 +290,7 @@ _residency requirement for naturalization_: 12 years<br>
 18 years of age for village elections; universal<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan&nbsp; from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
 _elections_: appointed by the sultan<br>
 _election results_: NA; composition (as of July 2021) - men 30, women 3, percent of women 9.1%<br>
 

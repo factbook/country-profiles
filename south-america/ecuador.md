@@ -353,10 +353,11 @@ Alianza PAIS movement [Lenin Voltaire MORENO Garces]<br>Avanza Party or AVANZA [
 CAN, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OPANAL, OPCW, OPEC, Pacific Alliance (observer), PCA, SICA (observer), UN, UNAMID, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Francisco Benjamin Esteban CARRION Mena (since 24 January 2018)<br>
+_chief of mission_: Ambassador Ivonne Leila Juez De A-BAKI (since 6 February 2020)<br>
 _chancery_: 2535 15th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 234-7200<br>
-_FAX_: [1] (202) 667-3482<br>
+_FAX_: [1] (202) 333-2893<br>
+_email address and website_: <br>embassy@ecuador.org<br><br>http://www.ecuador.org/<br>
 _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, Minneapolis, New Haven (CT), New Orleans, New York, Newark (NJ), Phoenix, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

@@ -352,10 +352,11 @@ Presidential majority Parties [Edouard PHILIPPE]<br>     Democratic Movement
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BDEAC, BIS, BSEC (observer), CBSS (observer), CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, FZ, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MINUSTAH, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMIL, UNOCI, UNRWA, UN Security Council (permanent), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Philippe ETIENNE (since 8 July 2019)<br>
+_chief of mission_: Ambassador Philippe Noel Marie Marc ETIENNE (since 8 July 2019)<br>
 _chancery_: 4101 Reservoir Road NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 944-6000<br>
 _FAX_: [1] (202) 944-6166<br>
+_email address and website_: <br>info@ambafrance-us.org<br><br>https://franceintheus.org/<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New Orleans, New York, San Francisco, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>

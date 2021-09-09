@@ -347,9 +347,10 @@ Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (parti
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Oksana Serhiyivna MARKAROVA (since 7 July 2021)<br>
 _chancery_: 3350 M Street NW, Washington, DC 20007<br>
-_telephone_: [1] (202) 349-2920<br>
+_telephone_: [1] (202) 349-2963<br>
 _FAX_: [1] (202) 333-0817<br>
-_consulate(s) general_: Chicago, New York, San Francisco, Seattle<br>
+_email address and website_: <br>emb_us@mfa.gov.ua; consul_us@mfa.gov.ua<br><br>https://usa.mfa.gov.ua/en<br>
+_consulate(s) general_: Chicago, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Kristina KVIEN (since January 2020)<br>

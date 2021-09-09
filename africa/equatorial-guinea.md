@@ -343,6 +343,7 @@ _chief of mission_: Ambassador Miguel Ntutumu EVUNA ANDEME (since 23 February 20
 _chancery_: 2020 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 518-5700<br>
 _FAX_: [1] (202) 518-5252<br>
+_email address and website_: <br>info@egembassydc.com<br><br>https://www.egembassydc.com/<br>
 _consulate(s) general_: Houston<br>
 
 **Diplomatic representation from the US**<br>

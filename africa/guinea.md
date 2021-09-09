@@ -346,9 +346,9 @@ _elections_: last held on 21 March 2020 (next to be held 1 March 2027)<br>
 _election results_: In parliamentary elections, the Rally of the Guinean People-Rainbow wins 57.5% of the vote (79 of 114 seats), the Democratic Union of Guinea 5.3% (4), the Democratic Popular Movement of Guinea 4.1% (3), and the New Democratic Forces 2.8% (3). Turnout is 58.0%.<br>
 
 **Executive branch**<br>
-_chief of state_: President Alpha CONDE (since 21 December 2010)<br>
-_head of government_: Prime Minister Ibrahima FOFANA (since 22 May 2018)<br>
-_cabinet_: &nbsp;Council of Ministers appointed by the president<br>
+_chief of state_: President Alpha CONDE (since 21 December 2010)<br><br>note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government<br>
+_head of government_: Prime Minister Ibrahima FOFANA (since 22 May 2018)<br><br>note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government<br>
+_cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
 

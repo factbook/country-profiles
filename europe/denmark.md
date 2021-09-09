@@ -334,11 +334,12 @@ The Alternative A or AP (Franciska ROSENKILDE)<br>Conservative People's Party or
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Lone Dencker WISBORG (since 17 September 2015)<br>
+_chief of mission_: Ambassador Lone Dencker WISBORG (since 8 April 2019)<br>
 _chancery_: 3200 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 234-4300<br>
 _FAX_: [1] (202) 328-1470<br>
-_consulate(s) general_: Chicago, Houston, New York, Palo Alto (CA)<br>
+_email address and website_: <br>wasamb@um.dk<br><br>https://usa.um.dk/en<br>
+_consulate(s) general_: Chicago, Houston, New York, Silicon Valley (CA)<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Stuart A. DWYER (since 20 January 2021)<br>

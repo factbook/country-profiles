@@ -344,6 +344,7 @@ _chief of mission_: Ambassador Nejmeddin LAKHAL (since 18 January 2021)<br>
 _chancery_: 1515 Massachusetts Avenue NW, Washington, DC 20005<br>
 _telephone_: [1] (202) 862-1850<br>
 _FAX_: [1] (202) 862-1858<br>
+_email address and website_: <br>AT.Washington@Tunisiaembassy.org<br><br>https://www.tunisianembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Donald A. BLOME (since 7 February 2019)<br>

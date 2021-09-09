@@ -692,7 +692,7 @@ prior to August 2021, the Afghan National Defense and Security Forces (ANDSF) we
 not available; prior to August 2021, the ANDSF had approximately 300,000 personnel (180,000 Ministry of Defense; 120,000 Ministry of Interior)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Afghan military inventory was mostly a mix of Soviet-era and more modern US and other foreign equipment; since 2010, the US was the leading supplier of arms to Afghanistan, followed by Russia (2021)<br>
+prior to August 2021, the Afghan military inventory was mostly a mix of Soviet-era and more modern US and other foreign equipment; since 2010, the US was the leading supplier of arms to Afghanistan, followed by Russia (2021)<br>
 
 **Military service age and obligation**<br>
 not available<br>

@@ -360,6 +360,7 @@ _chief of mission_: Ambassador Mull Sebujja KATENDE (since 8 September 2017)<br>
 _chancery_: 5911 16th Street NW, Washington, DC 20011<br>
 _telephone_: [1] (202) 726-7100<br>
 _FAX_: [1] (202) 726-1727<br>
+_email address and website_: <br>washington@mofa.go.ug; info@ugandaembassysus.org; ambauganda@aol.com<br><br>https://washington.mofa.go.ug/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Natalie E. BROWN (since 17 November 2020)<br>

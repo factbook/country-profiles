@@ -330,10 +330,11 @@ Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Boriy ALIKHANOV
 ADB, CICA, CIS, EAPC, EBRD, ECO, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Javlon VAHOBOV (since 29 November 2017)<br>
+_chief of mission_: Ambassador Javlon VAKHABOV (since 29 November 2017)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 887-5300<br>
 _FAX_: [1] (202) 293-6804<br>
+_email address and website_: <br>info.washington@mfa.uz<br><br>https://www.uzbekistan.org/<br>
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>

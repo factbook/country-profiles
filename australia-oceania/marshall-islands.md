@@ -86,6 +86,7 @@ Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006 est.)<br>
 
 **Languages**<br>
 Marshallese (official) 98.2%, other languages 1.8% (1999 est.)<br>
+_major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jikin ebōk melele ko raurōk. (Marshallese)<br><br>The World Factbook, the indispensable source for basic information.</p><br>
 <strong>note:</strong> English (official), widely spoken as a second language<br>
 
 **Religions**<br>

@@ -710,7 +710,7 @@ information varies; approximately 165,000 total active personnel (135,000 Army; 
 the Bangladesh Defense Force inventory is comprised of mostly Chinese and Russian equipment; since 2010, China is the leading supplier of arms to Bangladesh; Bangladesh is currently undertaking a significant defense modernization program, with a focus on naval acquisitions (2020)<br>
 
 **Military deployments**<br>
-1,300 Central African Republic (MINUSCA); 1,675 Democratic Republic of the Congo (MONUSCO); 115 Lebanon (UNIFIL); 1,350 Mali (MINUSMA); 1,550 South Sudan (UNMISS) (Jan 2021)<br>
+Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had about 5,300 troops deployed, including: 1,225 Central African Republic (MINUSCA); 1,400 Democratic Republic of the Congo (MONUSCO); 115 Lebanon (UNIFIL); 1,330 Mali (MINUSMA); 1,450 South Sudan (UNMISS) ( mid-2021)<br>
 
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)<br>

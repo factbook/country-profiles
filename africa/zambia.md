@@ -329,15 +329,15 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 11 are appointed<br>
-_elections_: last held on 12 August 2021 (next to be held on 12 August 2026)<br>
-_election results_: percent of vote by party - United Party for National Development 49%, Patriotic Front 37%, Party of National Unity and Progress .59%, independent 5.98% seats by party - UPND 82, PF 61, PNUP 1,  independent 11; composition - men 135, women 20, percent of women 13.5%<br>155 seats were filled, one seat vacant,  a by-election will be held.<br>
+_elections_: last held on 12 August 2021 (next to be held 2026)<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%<br><br>note: 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency has yet to conducted.<br>
 
 **Executive branch**<br>
 _chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
 _head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: Hakainde HICHILEMA (UPND) wins 57.9% of the vote and incumbent Edgar LUNGU (PF) 37.3%, other 4.8%<br>
+_election results_: 2021: Hakainde HICHILEMA elected president; percent of the vote-Hakainde HICHILEMA (UPND) 57.9%,Edgar LUNGU (PF) 37.3%, other 4.8%<br><br>2016: Edgar LUNGU re-elected president; percent of vote- Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -345,7 +345,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Court jud
 _subordinate courts_: Court of Appeal; High Court; Industrial Relations Court; subordinate courts (3 levels, based on upper limit of money involved); Small Claims Court; local courts (2 grades, based on upper limit of money involved)<br>
 
 **Political parties and leaders**<br>
-Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Felix MUTATI]<br>National Democratic Congress or NDC [Chishimba KAMBWILI]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>
+Alliance for Democracy and Development or ADD [Charles MILUPI]<br>Forum for Democracy and Development or FDD [Edith NAWAKWI]<br>Movement for Multiparty Democracy or MMD [Felix MUTATI]<br>National Democratic Congress or NDC [Chishimba KAMBWILI]<br>Patriotic Front or PF [Edgar LUNGU]<br>United Party for National Development or UPND [Hakainde HICHILEMA]<br>Party of National Unity and Progress or PNUP [Highvie HAMUDUDU]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OPCW, PCA, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -353,8 +353,9 @@ ACP, AfDB, AU, C, COMESA, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lazarous KAPAMBWE (since 8 April 2020)<br>
 _chancery_: 2200 R Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 265-9717 through 9719<br>
+_telephone_: [1] (202) 234-4009<br>
 _FAX_: [1] (202) 332-0826<br>
+_email address and website_: <br>info@zambiaembassy.org<br><br>https://www.zambiaembassy.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires David J. YOUNG (since 2 March 2020)<br>

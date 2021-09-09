@@ -352,6 +352,7 @@ _chief of mission_: Ambassador Ha Kim NGOC (since 17 September 2018)<br>
 _chancery_: 1233 20th Street NW, Suite 400, Washington, DC 20036<br>
 _telephone_: [1] (202) 861-0737<br>
 _FAX_: [1] (202) 861-0917<br>
+_email address and website_: <br>vanphong@vietnamembassy.us<br><br>http://vietnamembassy-usa.org/<br>
 _consulate(s) general_: Houston, San Francisco<br>
 _consulate(s)_: New York<br>
 

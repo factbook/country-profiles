@@ -298,7 +298,7 @@ there are no political parties but members of parliament usually align themselve
 ACP, ADB, AOSIS, C, FAO, IBRD, IDA, IFAD, IFRCS (observer), ILO, IMF, IMO, IOC, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; the Tuvalu Permanent Mission to the UN serves as the Embassy; it is headed by Samuelu LALONIU (since 21 July 2017); address: 685 Third Avenue, Suite 1104, New York, NY 10017; telephone: [1] (212) 490-0534; FAX: [1] (212) 808-4975<br>
+_chief of mission_: none; the Tuvalu Permanent Mission to the UN serves as the Embassy; it is headed by Samuelu LALONIU (since 21 July 2017); address: 685 Third Avenue, Suite 1104, New York, NY 10017; telephone: [1] (212) 490-0534; FAX: [1] (212) 808-4975; email: tuvalumission.un@gmail.com<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Tuvalu; the US Ambassador to Fiji is accredited to Tuvalu<br>

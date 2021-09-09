@@ -344,10 +344,11 @@ Center for United Democrats or CDU [Ahmed Mohamed YOUSSOUF, chairman]<br>Democra
 ACP, AfDB, AFESD, AMF, AU, CAEU (candidates), COMESA, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ITU, ITUC (NGOs), LAS, MIGA, MINURSO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Mohamed Said DOUALEH (28 December 2016)<br>
+_chief of mission_: Ambassador Mohamed Siad DOUALEH (28 January 2016)<br>
 _chancery_: 1156 15th Street NW, Suite 515, Washington, DC 20005<br>
 _telephone_: [1] (202) 331-0270<br>
 _FAX_: [1] (202) 331-0302<br>
+_email address and website_: <br>info@djiboutiembassyus.org<br><br>https://www.djiboutiembassyus.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Jonathan Goodale PRATT (since 22 February 2021)<br>

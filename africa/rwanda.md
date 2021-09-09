@@ -85,6 +85,7 @@ Hutu, Tutsi, Twa (Pygmy)<br>
 
 **Languages**<br>
 Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) &lt;0.1, English (official) &lt;0.1, Swahili/Kiswahili (official, used in commercial centers) &lt;0.1, more than one language, other 6.3%, unspecified 0.3% (2002 est.)<br>
+_major-language sample(s)_: <br>Inkoranya nzimbuzi y'isi, isoko fatizo y'amakuru y'ibanze. (Kinyarwanda)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Protestant 49.5% (includes Adventist 11.8% and other Protestant 37.7%), Roman Catholic 43.7%, Muslim 2%, other 0.9% (includes Jehovah's Witness), none 2.5%, unspecified 1.3% (2012 est.)<br>
@@ -680,6 +681,7 @@ the RDF's inventory includes mostly Soviet-era and older Western - mostly French
 
 **Military deployments**<br>
 1,370 Central African Republic (MINUSCA); 1,125 Sudan (UNAMID); 2,750 South Sudan (UNMISS) (2021)<br>
+note - in mid-2021, Rwanda sent about 1,000 combat troops to Mozambique to assist the Mozambique Government in combating an insurgency<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2019)<br>

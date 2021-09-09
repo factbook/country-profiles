@@ -327,11 +327,11 @@ _subordinate courts_: Superior or Appeals Courts (Tribunales Superiores); Distri
 Caricom (observer), CD, CDB, CELAC, FAO, G-15, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt (signatory), ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LAES, LAIA, LAS (observer), MIGA, NAM, OAS, OPANAL, OPCW, OPEC, PCA, Petrocaribe, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Carlos Lissett M. HERNANDEZ Marquez (since May 2018)<br>
+_chief of mission_: Ambassador Carlos Alfredo VECCHIO (since 8 April 2019)<br>
 _chancery_: 1099 30th Street NW, Washington, DC 20007<br>
 _telephone_: [1] (202) 342-2214<br>
 _FAX_: [1] (202) 342-6820<br>
-_consulate(s) general_: Boston, Chicago, Houston, New Orleans, New York, San Francisco, San Juan (Puerto Rico)<br>
+_email address and website_: <br>despacho.embveus@mppre.gob.ve<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires James "Jimmy" STORY (since July 2018); note - on 11 March 2019, the Department of State announced the temporary suspension of operations of the US Embassy in Caracas and the withdrawal of diplomatic personnel; all consular services, routine and emergency, are suspended<br>

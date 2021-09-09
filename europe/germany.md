@@ -348,7 +348,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, N
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charg&eacute; d&rsquo;Affaires Woodward "Clark" PRICE (since 1 July 2021)<br>
-_embassy_: Clayallee 170, 14191 Berlin<br>
+_embassy_: Pariser Platz 2, 10117 Berlin<br><br>Clayallee 170, 14191 Berlin (administrative services)<br>
 _mailing address_: 5090 Berlin Place, Washington DC&nbsp; 20521-5090<br>
 _telephone_: [49] (30) 8305-0<br>
 _FAX_: [49] (30) 8305-1215<br>
@@ -672,12 +672,11 @@ _total_: 607<br>
 _by type_: bulk carrier 1, container ship 84, general cargo 86, oil tanker 37, other 399 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Baltic Sea - Rostock<br>
+_major seaport(s)_: Baltic Sea - Kiel, Rostock<br>North Sea - Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
 _container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
 _LNG terminal(s) (import)_: Hamburg<br>
-_river port(s)_: Bremen (Weser)<br>
-North Sea - Wilhelmshaven Bremerhaven (Geeste) Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine) Brunsbuttel, Hamburg (Elbe) Lubeck (Wakenitz)<br>
+_river port(s)_: Bremen (Weser); Bremerhaven (Geeste); Duisburg, Karlsruhe, Neuss-Dusseldorf (Rhine); Lubeck (Wakenitz); Brunsbuttel, Hamburg (Elbe)<br>
 
 ## Military and Security
 

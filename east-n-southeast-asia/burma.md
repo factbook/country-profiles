@@ -88,6 +88,7 @@ Burman (Bamar) 68%, Shan 9%, Karen 7%, Rakhine 4%, Chinese 3%, Indian 2%, Mon 2%
 
 **Languages**<br>
 Burmese (official)<br>
+_major-language sample(s)_: <br>ကမ္ဘာ့အချက်အလက်စာအုပ်- အခြေခံအချက်အလက်တွေအတွက် မရှိမဖြစ်တဲ့ အရင်းအမြစ် (Burmese)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> minority ethnic groups use their own languages<br>
 
 **Religions**<br>

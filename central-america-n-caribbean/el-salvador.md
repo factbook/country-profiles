@@ -354,7 +354,8 @@ BCIE, CACM, CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national co
 _chief of mission_: Ambassador Carmen Milena MAYORGA VALERA (since 23 December 2020)<br>
 _chancery_: 1400 16th Street NW, Suite 100, Washington, DC 20036<br>
 _telephone_: [1] (202) 595-7500<br>
-_FAX_: [1] (202) 232-1928<br>
+_FAX_: [1] (202) 232-3763<br>
+_email address and website_: <br>correo@elsalvador.org<br>
 _consulate(s) general_: Atlanta, Boston, Brentwood (NY), Chicago, Dallas, Doral (FL), Doraville (GA), Houston, Las Vegas (NV), Los Angeles, McAllen (TX), New York, Nogales (AZ), San Francisco, Silver Spring (MD), Tucson (AZ), Washington, DC, Woodbridge (VA)<br>
 _consulate(s)_: Elizabeth (NJ), Newark (NJ), Seattle, Woodbridge (VA)<br>
 
@@ -681,7 +682,6 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 
 **Military and security forces**<br>
 the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br>
-note: supporting the National Police (Ministry of Interior) in countering gang violence and drug trafficking is a primary mission for the FAES<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019)<br>
@@ -703,7 +703,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)<br>
 
 **Military - note**<br>
-in recent years, about half of the Army was reportedly deployed on internal security duties in support of the National Civil Police to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security (2021)<br>
+in recent years, about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security (2021)<br>
 
 ## Transnational Issues
 

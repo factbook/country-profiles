@@ -317,7 +317,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 11 July 2021 (snap election to be held in 2025)<br>
+_elections_: last held on 11 July 2021 (next election to be held in 2025)<br>
 _election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
 
 **Executive branch**<br>

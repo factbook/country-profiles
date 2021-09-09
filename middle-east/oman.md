@@ -663,11 +663,11 @@ _LNG terminal(s) (export)_: Qalhat<br>
 Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police Coast Guard (2021)<br>
 
 **Military expenditures**<br>
+10.5% of GDP (2020 est.)<br>
 8.8% of GDP (2019)<br>
 8.2% of GDP (2018)<br>
 12.8% of GDP (2017)<br>
 16% of GDP (2016)<br>
-14.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Sultan's Armed Forces (SAF) have approximately 40,000 total active troops (26,000 Army, 4,000 Navy; 4,000 Air Force; 6,000 Royal Guard) (2021)<br>

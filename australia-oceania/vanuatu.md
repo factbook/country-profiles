@@ -330,7 +330,7 @@ Greens Confederation or GC [Moana CARCASSES Kalosil]<br>Iauko Group or IG [Tony 
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, IMSO, IOC, IOM, ITU, ITUC (NGOs), MIGA, NAM, OAS (observer), OIF, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none; the Vanuatu Permanent Mission to the UN serves as the embassy; it is headed by Odo TEVI (since 8 September 2017); address: 800 Second Avenue, Suite 400B, New York, NY 10017; telephone: [1] (212) 661-4303; FAX: [1] (212) 422-2437<br>
+_chief of mission_: none; the Vanuatu Permanent Mission to the UN serves as the embassy; it is headed by Odo TEVI (since 8 September 2017); address: 800 Second Avenue, Suite 400B, New York, NY 10017; telephone: [1] (212) 661-4303; FAX: [1] (212) 422-3427; email: vanunmis@aol.com<br>
 
 **Diplomatic representation from the US**<br>
 _embassy_: the US does not have an embassy in Vanuatu; the US Ambassador to Papua New Guinea is accredited to Vanuatu<br>

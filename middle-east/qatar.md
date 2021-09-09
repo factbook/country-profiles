@@ -652,7 +652,7 @@ Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, in
 information varies; approximately 14,000 active personnel (10,000 Land Force, including Emiri Guard; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; around 2015, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases from European countries and Turkey (2021)<br>
+the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases from European countries, Turkey, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2019)<br>

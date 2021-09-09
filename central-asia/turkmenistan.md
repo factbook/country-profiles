@@ -85,6 +85,7 @@ Turkmen 85%, Uzbek 5%, Russian 4%, other 6% (2003 est.)<br>
 
 **Languages**<br>
 Turkmen (official) 72%, Russian 12%, Uzbek 9%, other 7%<br>
+_major-language sample(s)_: <br>Dünýä Facebooky, esasy maglumat üçin aýrylmaz bir çeşme dir. (Turkmen)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 93%, Christian 6.4%, Buddhist &lt;1%, folk religion &lt;1%, Jewish &lt;1%, other &lt;1%, unspecified &lt;1% (2020 est.)<br>
@@ -336,7 +337,8 @@ ADB, CIS (associate member, has not ratified the 1993 CIS charter although it pa
 _chief of mission_: Ambassador Meret ORAZOW (since 14 February 2001)<br>
 _chancery_: 2207 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-1500<br>
-_FAX_: [1] (202) 588-0697<br>
+_FAX_: [1] (202) 588-1500<br>
+_email address and website_: <br>turkmenembassyus@verizon.net<br><br>https://usa.tmembassy.gov.tm/en<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Matthew S. KLIMOW (since 26 June 2019)<br>

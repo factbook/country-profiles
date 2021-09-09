@@ -665,11 +665,11 @@ Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, 
 note(s) - the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official checkpoints are under the authority of Customs and Internal Security Forces<br>
 
 **Military expenditures**<br>
+3% of GDP (2020 est.)<br>
 4.2% of GDP (2019)<br>
 4.9% of GDP (2018)<br>
 4.5% of GDP (2017)<br>
 5.1% of GDP (2016)<br>
-4.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 AF) (2021)<br>

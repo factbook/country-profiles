@@ -85,6 +85,7 @@ Hutu, Tutsi, Twa (Pygmy)<br>
 
 **Languages**<br>
 Kirundi only 29.7% (official); French only .3% (official); Swahili only .2%; English only .1% (official); Kirundi and French 8.4%; Kirundi, French, and English 2.4%, other language combinations 2%, unspecified 56.9% (2008 est.)<br>
+_major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, isoko ntabanduka ku nkuru z'urufatiro. (Kirundi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
 **Religions**<br>

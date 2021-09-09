@@ -337,6 +337,7 @@ _chief of mission_: Ambassador Mikko Tapani HAUTALA (since 17 September 2020)<br
 _chancery_: 3301 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 298-5800<br>
 _FAX_: [1] (202) 298-6030<br>
+_email address and website_: <br>sanomat.was@formin.fi<br><br>https://finlandabroad.fi/web/usa/mission<br>
 _consulate(s) general_: Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

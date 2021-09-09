@@ -683,8 +683,8 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Public Order Military Police (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2021)<br><br>note - the PMOP reports to military authorities, but conducts operations sanction by civilian security officials as well as by military leaders <br>
-note - the PMOP reports to military authorities, but conducts operations sanction by civilian security officials as well as by military leaders&nbsp;<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Public Order Military Police (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2021)<br>
+note - the PMOP reports to military authorities, but conducts operations sanctioned by civilian security officials as well as by military leaders<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2019)<br>

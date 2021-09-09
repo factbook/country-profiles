@@ -88,6 +88,7 @@ Punjabi 44.7%, Pashtun (Pathan) 15.4%, Sindhi 14.1%, Saraiki 8.4%, Muhajirs 7.6%
 
 **Languages**<br>
 Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%<br>
+_major-language sample(s)_: <br>ਸੰਸਾਰ ਦੀ ਤੱਥ ਕਿਤਾਬ, ਆਧਾਰੀ ਜਾਣਕਾਰੀ ਲਈ ਜ਼ਰੂਰੀ ਸਰੋਤ ਹੈ (Punjabi)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim (official) 96.5% (Sunni 85-90%, Shia 10-15%), other (includes Christian and Hindu) 3.5% (2020 est.)<br>

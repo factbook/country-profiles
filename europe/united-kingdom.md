@@ -349,6 +349,7 @@ _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
 _chancery_: 3100 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-6500<br>
 _FAX_: [1] (202) 588-7870<br>
+_email address and website_: <br>britishembassyenquiries@gmail.com<br><br>https://www.gov.uk/world/organisations/british-embassy-washington<br>
 _consulate(s) general_: Atlanta, Boston, Chicago, Denver, Houston, Los Angeles, Miami, New York, San Francisco<br>
 _consulate(s)_: Orlando (FL), San Juan (Puerto Rico)<br>
 

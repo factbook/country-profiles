@@ -86,7 +86,7 @@ Oromo 34.9%, Amhara (Amara) 27.9%, Tigray (Tigrinya) 7.3%, Sidama 4.1%, Welaita 
 
 **Languages**<br>
 Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)<br>
-_major-language sample(s)_: <br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br>Kitaaba Addunyaa Waan Qabataamaatiif - Kan Madda Odeeffannoo bu’uraawaatiif baay’ee barbaachisaa ta’e. (Oromo)<br><br>የአለም እውነታ መጽሐፍ፣ ለመሠረታዊ መረጃ እጅግ አስፈላጊ የሆነ ምንጭ። (Amharic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Ethiopian Orthodox 43.8%, Muslim 31.3%, Protestant 22.8%, Catholic 0.7%, traditional 0.6%, other 0.8% (2016 est.)<br>
@@ -368,8 +368,9 @@ _chief of mission_: Ambassador FISTUM Arega Gebrekidan (since 9 April 2019)<br>
 _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-1200<br>
 _FAX_: [1] (202) 587-0195<br>
-_consulate(s) general_: Los Angeles, Seattle<br>
-_consulate(s)_: Houston, New York<br>
+_email address and website_: <br>ethiopia@ethiopianembassy.org<br><br>https://ethiopianembassy.org/<br>
+_consulate(s) general_: Los Angeles<br>
+_consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Geeta PASI (since 1 March 2021)<br> <p> </p><br>
@@ -711,7 +712,7 @@ estimated 10,000 Somalia (4,500 for AMISOM); 800 Sudan (UNAMID); 3,200 Sudan (UN
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
 
 **Military - note**<br>
-each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>Ethiopia faces considerable ethnic violence in some regions, including Oromo, where the Oromo Liberation Army (OLA) has conducted numerous attacks targeting the Amhara ethnic group; the OLA, assessed to number in the low thousands, broke off from the Oromo Liberation Front (OLF), an opposition party that spent years in exile but was allowed to return to Ethiopia after ABIY took office in 2018</p> <p>in November 2020, the Ethiopian Government launched military operations against the Tigray People’s Liberation Front (TPLF) – an ethnically-based political entity that runs the Tigray regional government and had its own paramilitary security forces; the TPLF had increasingly challenged the authority of the Federal Government; the TPLF’s security forces date back to the 1980s when it led the guerrilla movement that brought the Ethiopian People's Revolutionary Democratic Front coalition to power; during the fighting, the Ethiopian Government allowed ethnic Amhara and Afar militias to attack the TLPF (now merged into the Tigray Defense Forces, TDF); in addition, it invited Eritrean military forces to join in the fighting; Ethiopian and Eritrean military forces, as well as ethnic militias, have all been accused of committing atrocities against Tigrayan civilians during the fighting, which continued into 2021</p><br>
+each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p> </p><br>
 
 ## Terrorism
 

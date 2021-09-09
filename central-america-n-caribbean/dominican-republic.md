@@ -355,9 +355,10 @@ ACP, AOSIS, BCIE, Caricom (observer), CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, IC
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sonia GUZMAN (since 18 January 2021)<br>
 _chancery_: 1715 22nd Street NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 332-6280, [1] (202) 660-2263<br>
+_telephone_: [1] (202) 332-6280<br>
 _FAX_: [1] (202) 265-8057<br>
-_consulate(s) general_: Boston, Chicago, Los Angeles, Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico)<br>
+_email address and website_: <br>embassy@drembassyusa.org<br><br>http://drembassyusa.org/<br>
+_consulate(s) general_: Boston, Chicago, Glendale (CA), Mayaguez (Puerto Rico), Miami, New Orleans, New York, San Juan (Puerto Rico)<br>
 _consulate(s)_: San Francisco<br>
 
 **Diplomatic representation from the US**<br>
@@ -701,7 +702,7 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2019)<br>
 
 **Military - note**<br>
-the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking<br>
+the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief<br>
 
 ## Transnational Issues
 

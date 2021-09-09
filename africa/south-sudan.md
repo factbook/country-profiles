@@ -606,7 +606,8 @@ South Sudan People&rsquo;s Defence Force (SSPDF): Ground Force (includes Preside
 10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the South Sudan People&rsquo;s Defense Force (SSPDF) has an estimated 200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>
+the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>
+note - some active SSPDF personnel may be militia<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2020)<br>

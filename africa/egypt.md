@@ -355,8 +355,9 @@ ABEDA, AfDB, AFESD, AMF, AU, BSEC (observer), CAEU, CD, CICA, COMESA, D-8, EBRD,
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Motaz Mounir ZAHRAN (since 17 September 2020)<br>
 _chancery_: 3521 International Court NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 895-5400<br>
+_telephone_: [1] (202) 895-5400; [1] (202) 895-5408<br>
 _FAX_: [1] (202) 244-5131<br>
+_email address and website_: <br>consulate@egyptembassy.net<br><br>https://www.egyptembassy.net/<br>
 _consulate(s) general_: Chicago, Houston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -697,11 +698,11 @@ Egyptian Armed Forces (EAF): Army (includes surface-to-surface missile forces, s
 note: some tribal militias in the Sinai Peninsula cooperate with the Egyptian military against insurgent/terrorist groups such as the Islamic State<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.4% of GDP (2017)<br>
 1.7% of GDP (2016)<br>
-1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 450,000 total active personnel (325,000 Army; 18,000 Navy; 30,000 Air Force; 75,000 Air Defense Command); approximately 300,000 Central Security Forces (2021)<br>

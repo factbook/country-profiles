@@ -332,8 +332,8 @@ _election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pr
 _chief of state_: President Kersti KALJULAID (since 10 October 2016)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
-_elections/appointments_: president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 29-30 August 2016, but three rounds were inconclusive; two electoral college votes on 24 September 2016 were also indecisive, so the election passed back to Parliament; on 3 October the Parliament elected Kersti KALJULAID as president; prime minister nominated by the president and approved by Parliament<br>
-_election results_: Kersti KALJULAID elected president; Parliament vote - Kersti KALJULAID (independent) 81 of 98 votes; note - KALJULAID is Estonia's first female president; KALLAS is Estonia's first female prime minister<br>
+_elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021; in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS will be inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament</p><br>
+_election results_: <p>Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>
@@ -348,10 +348,11 @@ Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperat
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>
-_chancery_: 2131 Massachusetts Avenue NW, Washington, DC 20008<br>
+_chancery_: 1990 K Street NW, Washington, DC 20006<br>
 _telephone_: [1] (202) 588-0101<br>
 _FAX_: [1] (202) 588-0108<br>
-_consulate(s) general_: New York<br>
+_email address and website_: <br>Embassy.Washington@mfa.ee<br><br>https://washington.mfa.ee/<br>
+_consulate(s) general_: New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Brian RORAFF (since July 2019)<br>

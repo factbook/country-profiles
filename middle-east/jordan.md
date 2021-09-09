@@ -675,11 +675,11 @@ _major seaport(s)_: Al 'Aqabah<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2020)<br>
 
 **Military expenditures**<br>
+5% of GDP (2020 est.)<br>
 4.7% of GDP (2019)<br>
 4.7% of GDP (2018)<br>
 4.8% of GDP (2017)<br>
 4.6% of GDP (2016)<br>
-4.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Jordanian Armed Forces (JAF) have approximately 90,000 active personnel (77,000 Army; 500 Navy; 12,500 Air Force); est. 15,000 Gendarmerie Forces (2021)<br>

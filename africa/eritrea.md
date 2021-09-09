@@ -340,6 +340,7 @@ _chief of mission_: Ambassador (vacant); Charge d'Affaires BERHANE Gebrehiwet So
 _chancery_: 1708 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 319-1991<br>
 _FAX_: [1] (202) 319-1304<br>
+_email address and website_: <br>embassyeritrea@embassyeritrea.org<br><br>https://us.embassyeritrea.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Steven C. WALKER (since December 2019)<br>

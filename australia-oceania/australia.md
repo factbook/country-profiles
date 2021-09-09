@@ -338,6 +338,7 @@ _chief of mission_: Ambassador Arthur SINODINOS (since 6 February 2020)<br>
 _chancery_: 1601 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 797-3000<br>
 _FAX_: [1] (202) 797-3168<br>
+_email address and website_: <br>https://usa.embassy.gov.au/<br>
 _consulate(s) general_: Chicago, Honolulu, Houston, Los Angeles, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>

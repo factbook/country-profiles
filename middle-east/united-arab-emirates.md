@@ -338,6 +338,7 @@ _chief of mission_: Ambassador Yusif bin Mani bin Said al-UTAYBA (since 28 July 
 _chancery_: 3522 International Court NW, Suite 400, Washington, DC 20008<br>
 _telephone_: [1] (202) 243-2400<br>
 _FAX_: [1] (202) 243-2432<br>
+_email address and website_: <br>info@uaeembassy-usa.org<br><br>https://www.uae-embassy.org/<br>
 _consulate(s) general_: Boston, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>

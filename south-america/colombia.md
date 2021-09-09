@@ -703,17 +703,17 @@ Pacific Ocean - Buenaventura<br>
 Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (civilian force that is part of the Ministry of Defense) (2021)<br>
 
 **Military expenditures**<br>
+3.4% of GDP (2020 est.)<br>
 3.2% of GDP (2019)<br>
 3.1% of GDP (2018 est.)<br>
 3.2% of GDP (2017)<br>
 3.1% of GDP (2016)<br>
-3.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Military Forces of Colombia (FMC) have approximately 295,000 total active troops (235,000 Army; 45,000 Navy, including about 22,000 marines; 14,000 Air Force); approximately 185,000 Colombian National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Brazil, Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2019 est.)<br>
+the Colombian military inventory includes a wide mix of equipment from a variety of suppliers, including Brazil, Canada, Europe, Israel, South Korea, and the US; Germany, Israel, and the US are the leading suppliers of military hardware since 2010; Colombia's defense industry is active in producing air, land, and naval platforms (2020)<br>
 
 **Military deployments**<br>
 275 Egypt (MFO) (2021)<br>
@@ -722,7 +722,7 @@ the Colombian military inventory includes a wide mix of equipment from a variety
 18-24 years of age for compulsory and voluntary military service; conscript service obligation is 18 months (2019)<br>
 
 **Military - note**<br>
-the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2021; the military is also focused on the security challenges posed by its neighbor, Venezuela<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2021 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
 
 ## Terrorism
 

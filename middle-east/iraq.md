@@ -679,11 +679,11 @@ Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Fo
 note: the PMF is a collection of approximately 50 paramilitary militias of different sizes and with varying political interests<br>
 
 **Military expenditures**<br>
+4% of GDP (2020 est.)<br>
 3.9% of GDP (2019)<br>
 2.9% of GDP (2018)<br>
 3.9% of GDP (2017)<br>
 3.5% of GDP (2016)<br>
-5.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); est. 100-160,000 Popular Mobilization Forces; est. 150,000-200,000 Peshmerga Forces (2020-21)<br>

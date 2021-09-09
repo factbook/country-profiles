@@ -348,8 +348,9 @@ ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, C
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hasan MURAT MERCAN (since 20 April 2021)<br>
 _chancery_: 2525 Massachusetts Avenue NW, Washington, DC 20008<br>
-_telephone_: [1] (202) 612-6700<br>
+_telephone_: [1] (202) 612-6700; [1] (202) 612-6701<br>
 _FAX_: [1] (202) 612-6744<br>
+_email address and website_: <br>embassy.washingtondc@mfa.gov.tr<br><br>http://washington.emb.mfa.gov.tr/Mission<br>
 _consulate(s) general_: Boston, Chicago, Houston, Los Angeles, Miami, New York<br>
 
 **Diplomatic representation from the US**<br>
@@ -700,7 +701,7 @@ information varies; approximately 425,000 active duty personnel (325,000 Army; 5
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2020)<br>
 
 **Military deployments**<br>
-est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
+est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); est. 1,500-2,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
 note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br>
 
 **Military service age and obligation**<br>

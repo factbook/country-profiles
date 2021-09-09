@@ -335,9 +335,10 @@ ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC,
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Akuila VUIRA<br>
-_chancery_: 2000 M Street NW, Suite 710, Washington, DC 20036<br>
+_chancery_: 1707 L Street NW, Suite 200, Washington, DC 20036<br>
 _telephone_: [1] (202) 466-8320<br>
 _FAX_: [1] (202) 466-8325<br>
+_email address and website_: <br>info@FijiEmbassyDC.com<br><br>https://www.fijiembassydc.com/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Tony GREUBEL (since 20 January 2021); note - also accredited to Kiribati, Nauru, Tonga, and Tuvalu<br>

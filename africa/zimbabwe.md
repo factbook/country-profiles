@@ -361,6 +361,7 @@ _chief of mission_: Ambassador Tadeous Tafirenyika CHIFAMBA (since 7 July 2021);
 _chancery_: 1608 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 332-7100<br>
 _FAX_: [1] (202) 483-9326<br>
+_email address and website_: <br>general@zimembassydc.org<br><br>https://zimembassydc.org/<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador Brian A. NICHOLS (since 19 July 2018)<br>
