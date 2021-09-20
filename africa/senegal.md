@@ -713,7 +713,7 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 <p>cross-border trafficking in persons, timber, wildlife, and cannabis; rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,195 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 14,196 (Mauritania) (2021)<br>
 _IDPs_: 8,400 (2020)<br>
 
 **Trafficking in persons**<br>

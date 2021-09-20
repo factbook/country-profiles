@@ -330,7 +330,7 @@ _chief of state_: President Barham SALIH (since 2 October 2018); vice presidents
 _head of government_: Prime Minister Mustafa al-KADHIMI (since 7 May 2020)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives<br>
 _elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term);&nbsp;COR election last held on 12 May 2018 (next NA)<br>
-_election results_: <p>COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October</p><br>
+_election results_: <p><em>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October<br><br><em>2014:</em> Fuad MASUM elected president; Council of Representatives vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>
@@ -691,11 +691,11 @@ information varies; approximately 200,000 personnel under the Ministry of Defens
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military inventory is comprised of Russian and Soviet-era equipment combined with newer European- and US-sourced platforms; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2020)<br>
 
-**Military service age and obligation**<br>
-18-40 years of age for voluntary military service; no conscription (2019)<br>
-
 **Military - note**<br>
 <p>as of early 2021, Iraqi military and security forces continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq</p> <p>Shia militia and paramilitary units from the Popular Mobilization Committee and Affiliated Forces (PMF) have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps</p> <p>the Kurdish Peshmerga are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; the Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p><br>
+
+**Military service age and obligation**<br>
+18-40 years of age for voluntary military service; no conscription (2019)<br>
 
 ## Terrorism
 
@@ -709,7 +709,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p>Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,167 (Turkey), 7,858 (West Bank and Gaza Strip), 5,041 (Iran) (2018); 247,044 (Syria) (2021)<br>
+_refugees (country of origin)_: 15,167 (Turkey), 7,858 (West Bank and Gaza Strip), 5,041 (Iran) (2018); 248,721 (Syria) (2021)<br>
 _IDPs_: 1,198,940 (displacement in central and northern Iraq since January 2014) (2021)<br>
 _stateless persons_: 47,253 (2020); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

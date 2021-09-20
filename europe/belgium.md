@@ -671,7 +671,7 @@ Brussels (Senne River) Liege (Meuse River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Belgian Armed Forces: Land Component, Naval Component, Air Component, Medical Service (2021)<br>
+Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, Medical Service (2021)<br>
 
 **Military expenditures**<br>
 1.07% of GDP (2020 est.)<br>
@@ -681,19 +681,19 @@ Belgian Armed Forces: Land Component, Naval Component, Air Component, Medical Se
 0.89% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Navy; 5,000 Air Force; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>
+the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, France, Germany, and Switzerland are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2020)<br>
 
 **Military deployments**<br>
-125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); est. 260 Baltic States (NATO) (2020)<br>
-
-**Military service age and obligation**<br>
-18 years of age for male and female voluntary military service; conscription abolished in 1995 (2019)<br>
+125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); est. 260 Baltic States (NATO) (2021)<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+
+**Military service age and obligation**<br>
+18 years of age for male and female voluntary military service; conscription abolished in 1995 (2019)<br>
 
 ## Terrorism
 

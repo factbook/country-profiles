@@ -682,7 +682,7 @@ _river port(s)_: Vukovar (Danube)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH) consists of five major commands directly subordinate to a General Staff: Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Command (Hrvatsko Ratno Zrakoplovstvo I Protuzracna Obrana), Joint Education and Training Command, Logistics Command; Military Police Force supports each of the three Croatian military forces (2021)<br>
+Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH): Ground Forces (Hrvatska Kopnena Vojska, HKoV), Naval Forces (Hrvatska Ratna Mornarica, HRM, includes Coast Guard), Air Force and Air Defense Forces; Military Police Force supports each of the three Croatian military forces (2021)<br>
 
 **Military expenditures**<br>
 1.83% of GDP (2020 est.)<br>
@@ -697,11 +697,11 @@ the Armed Forces of the Republic of Croatia have approximately 15,000 active dut
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including Finland, Germany, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription abolished in 2008 (2019)<br>
-
 **Military - note**<br>
 Croatia officially became a member of NATO in 2009<br>
+
+**Military service age and obligation**<br>
+18-27 years of age for voluntary military service; conscription abolished in 2008 (2019)<br>
 
 ## Transnational Issues
 
@@ -710,7 +710,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,900 (2020)<br>
-<strong>note: </strong>727,610 estimated refugee and migrant arrivals (January 2015-May 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>729,392 estimated refugee and migrant arrivals (January 2015-August 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 primarily a transit country along the Balkan route for maritime shipments of South American cocaine bound for Western Europe and other illicit drugs and chemical precursors to and from Western Europe; no significant domestic production of illicit drugs<br>

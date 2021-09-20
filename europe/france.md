@@ -333,11 +333,11 @@ _elections_: <br>Senate - last held on 24 September 2017 (next to be held on 24 
 _election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%<br>
 
 **Executive branch**<br>
-_chief of state_: President Emmanuel MACRON (since 14 May 2017)&nbsp;<br>
-_head of government_: Prime Minister Jean CASTEX (since 3 July 2020)&nbsp;<br>
-_cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister&nbsp;<br>
+_chief of state_: President Emmanuel MACRON (since 14 May 2017)<br>
+_head of government_: Prime Minister Jean CASTEX (since 3 July 2020)<br>
+_cabinet_: Council of Ministers appointed by the president at the suggestion of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April with a runoff on 7 May 2017 (next to be held in April 2022); prime minister appointed by the president<br>
-_election results_: Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br>
+_election results_: <br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br><br><em>2012:</em> Francois HOLLANDE elected president; percent of vote in first round - Francois HOLLANDE (PS) 28.6%, Nicolas SARKOZY (UMP) 27.2%, Marine LE PEN (FN) 17.9%, Jean-Luc MELENCHON (PG) 11.1%, Francois BAYROU (moDem) 9.1%, other 6.1%; percent of vote in second round - HOLLANDE 51.6%, SARKOZY 48.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -688,12 +688,11 @@ _by type_: container ship 30, general cargo 50, oil tanker 28, other 437 (2020)<
 <strong>note:</strong> includes Monaco<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Brest, Calais, Dunkerque, Le Havre, Marseille, Nantes,<br>
+_major seaport(s)_: <br><em>Atlantic Ocean:</em> Brest, Calais, Dunkerque, Le Havre, Nantes<br><em>Mediterranean Sea:</em> Marseille<br>
 _container port(s) (TEUs)_: Le Havre (2,822,910) (2019)<br>
 _LNG terminal(s) (import)_: Fos Cavaou, Fos Tonkin, Montoir de Bretagne<br>
-_river port(s)_: Paris, Rouen (Seine)<br>
+_river port(s)_: Bordeaux (Garronne); Nantes - Saint Nazaire (Loire); Paris, Rouen (Seine); Strasbourg (Rhine)<br>
 _cruise/ferry port(s)_: Calais, Cherbourg, Le Havre<br>
-Strasbourg (Rhine) Bordeaux (Garronne)<br>
 
 **Transportation - note**<br>
 begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) is a 50.5-km (31.4-mi) rail tunnel&nbsp;beneath the English Channel at the Strait of Dover that runs from Folkestone, Kent, England to Coquelles, Pas-de-Calais in northern France; it is the only fixed link between the island of Great Britain and mainland Europe<br>
@@ -720,11 +719,11 @@ the French military's inventory consists almost entirely of domestically-produce
 5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force by the beginning of 2022); approximately 300 Central African Republic; 900 Cote D'Ivoire; 1,400 Djibouti; 300 Baltics (NATO); 2,000 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,400-1,500 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2020-2021)<br>
 note - France has been a contributing member of the EuroCorps since 1992<br>
 
-**Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2019)<br>
-
 **Military - note**<br>
 France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO&rsquo;s integrated military structure, reflecting his desire for greater military independence, particularly vis-&agrave;-vis the US, and the refusal to integrate France&rsquo;s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO&rsquo;s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br>
+
+**Military service age and obligation**<br>
+18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2019)<br>
 
 ## Terrorism
 

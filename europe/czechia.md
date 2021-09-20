@@ -678,11 +678,11 @@ the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2020)<br>
 
-**Military service age and obligation**<br>
-18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2019)<br>
-
 **Military - note**<br>
 Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
+
+**Military service age and obligation**<br>
+18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2019)<br>
 
 ## Transnational Issues
 

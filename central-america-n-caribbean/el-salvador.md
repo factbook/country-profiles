@@ -699,11 +699,11 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 **Military deployments**<br>
 170 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)<br>
-
 **Military - note**<br>
 in recent years, about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security (2021)<br>
+
+**Military service age and obligation**<br>
+18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)<br>
 
 ## Transnational Issues
 

@@ -695,7 +695,7 @@ the AFL has almost no significant combat hardware as nearly all aircraft, equipm
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,194 (Cote d'Ivoire) (2021)<br>
+_refugees (country of origin)_: 8,067 (Cote d'Ivoire) (2021)<br>
 
 **Illicit drugs**<br>
 transshipment point for Southeast and Southwest Asian heroin and South American cocaine for the European and US markets; corruption, criminal activity, arms-dealing, and diamond trade provide significant potential for money laundering, but the lack of well-developed financial system limits the country's utility as a major money-laundering center<br>

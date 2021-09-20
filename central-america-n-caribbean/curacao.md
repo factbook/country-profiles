@@ -525,11 +525,11 @@ _bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
 **Military and security forces**<br>
 no regular military forces; Curaçao Militia (CURMIL) (2021)<br>
 
-**Military service age and obligation**<br>
-no conscription (2010)<br>
-
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>
+
+**Military service age and obligation**<br>
+no conscription (2010)<br>
 
 ## Transnational Issues
 

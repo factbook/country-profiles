@@ -683,8 +683,7 @@ the Moldovan National Army has approximately 6,000 active troops (2020)<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2020)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2019)<br>
-note: Moldova intends to abolish military conscription by 2021<br>
+18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2020)<br>
 
 ## Transnational Issues
 

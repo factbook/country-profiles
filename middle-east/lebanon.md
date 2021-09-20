@@ -677,11 +677,11 @@ the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 
 **Military equipment inventories and acquisitions**<br>
 the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2019 est.)<br>
 
-**Military service age and obligation**<br>
-17-25 years of age for voluntary military service (including women); no conscription (2019)<br>
-
 **Military - note**<br>
 the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 military personnel deployed in the country as of December 2020<br>
+
+**Military service age and obligation**<br>
+17-25 years of age for voluntary military service (including women); no conscription (2019)<br>
 
 ## Terrorism
 

@@ -692,11 +692,11 @@ the Cypriot National Guard has approximately 15,000 total active duty personnel 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Cypriot National Guard is a mix of Soviet-era and some more modern weapons systems; since 2010, it has received equipment from France, Israel, Italy, Oman, and Russia (2020)<br>
 
-**Military service age and obligation**<br>
-Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 12-month service obligation (2019)<br>
-
 **Military - note**<br>
-the United Nations Peacekeeping Force in Cyprus (UNICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; as of March 2020, the UNICYP mission consisted of about 830 personnel (2020)<br>
+the United Nations Peacekeeping Force in Cyprus (UNFICYP) was set up in 1964 to prevent further fighting between the Greek Cypriot and Turkish Cypriot communities on the island and bring about a return to normal conditions; the UNFICYP mission had about 1,000 personnel, including some 800 military troops as of July 2021<br>
+
+**Military service age and obligation**<br>
+Cypriot National Guard (CNG): 18-50 years of age for compulsory military service for all Greek Cypriot males; 17 years of age for voluntary service; 14-month service obligation (2019)<br>
 
 ## Terrorism
 
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 7,372 (Syria) (2019)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 56 (2020)<br>
-<strong>note:</strong> 24,053 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 24,651 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for heroin and hashish via air routes and container traffic to Europe, especially from Lebanon and Turkey; some cocaine transits as well; despite a strengthening of anti-money-laundering legislation, remains vulnerable to money laundering; reporting of suspicious transactions in offshore sector remains weak<br>

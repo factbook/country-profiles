@@ -690,11 +690,11 @@ the Bulgarian Armed Forces have approximately 30,000 active duty personnel (16,0
 **Military equipment inventories and acquisitions**<br>
 the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, Italy, Norway, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2019)<br>
-
 **Military - note**<br>
 Bulgaria officially became a member of NATO in 2004<br>
+
+**Military service age and obligation**<br>
+18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2019)<br>
 
 ## Terrorism
 
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 17,551 (Syria) (2019)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 61,920 estimated refugee and migrant arrivals (January 2015-July 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 63,543 estimated refugee and migrant arrivals (January 2015-August 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions<br>

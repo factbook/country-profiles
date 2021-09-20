@@ -368,7 +368,7 @@ _email address and website_: <br>minca@washington@mea.gov.in (community affairs)
 _consulate(s) general_: Atlanta, Chicago, Houston, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Atul KESHAP (since 1 July 2021)<br>
+_chief of mission_: ambassador (vacant); Charge d'Affaires Patricia A. LACINA (since 9 September 2021)<br>
 _embassy_: Shantipath, Chanakyapuri, New Delhi - 110021<br>
 _mailing address_: 9000 New Delhi Place, Washington DC&nbsp; 20521-9000<br>
 _telephone_: [91] (11) 2419-8000<br>

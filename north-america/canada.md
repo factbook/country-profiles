@@ -695,11 +695,11 @@ the CAF's inventory is a mix of domestically-produced equipment and imported wea
 **Military deployments**<br>
 540 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)<br>
 
-**Military service age and obligation**<br>
-17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
-
 **Military - note**<br>
 Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+
+**Military service age and obligation**<br>
+17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
 
 ## Terrorism
 

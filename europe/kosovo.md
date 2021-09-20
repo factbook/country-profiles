@@ -584,5 +584,5 @@ service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 6,761 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 6,940 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 

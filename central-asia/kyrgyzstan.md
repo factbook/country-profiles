@@ -670,7 +670,7 @@ Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Bord
 the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Kyrgyz Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2020)<br>
+the Kyrgyz Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2021)<br>
 
 **Military deployments**<br>
 contributes forces to CSTO's Rapid Reaction Force (2021)<br>

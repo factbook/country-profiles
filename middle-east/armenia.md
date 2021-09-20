@@ -319,7 +319,7 @@ _election results_: percent of vote by party - Civil Contract 53.9%, Armenia All
 
 **Executive branch**<br>
 _chief of state_: President Armen SARKISSIAN (since 9 April 2018)<br>
-_head of government_: Prime Minister Nikol PASHINYAN (since 2 August 2021); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the President on 02 August 2021<br>
+_head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the President on 02 August 2021 and sworn in on 10 September 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019<br>
 _election results_: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections<br>
@@ -668,11 +668,11 @@ the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-er
 **Military deployments**<br>
 120 Afghanistan (NATO); contributes troops to CSTO's Rapid Reaction Force (2021)<br>
 
-**Military service age and obligation**<br>
-18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2019)<br>
-
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
+
+**Military service age and obligation**<br>
+18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2019)<br>
 
 ## Transnational Issues
 

@@ -664,11 +664,11 @@ the Army of the Republic of North Macedonia (ARSM) has approximately 7,000 activ
 **Military equipment inventories and acquisitions**<br>
 the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2020)<br>
 
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription abolished in 2007 (2019)<br>
-
 **Military - note**<br>
 North Macedonia officially became the 30th member of NATO in 2020<br>
+
+**Military service age and obligation**<br>
+18 years of age for voluntary military service; conscription abolished in 2007 (2019)<br>
 
 ## Terrorism
 
@@ -683,7 +683,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 518,354 estimated refugee and migrant arrivals (January 2015-July 2021)<br>
+<strong>note:</strong> 519,001 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

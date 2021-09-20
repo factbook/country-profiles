@@ -671,12 +671,14 @@ _total_: 3,652<br>
 _by type_: bulk carrier 5, container ship 63, general cargo 104, oil tanker 68, other 3,412 (2020)<br>
 
 **Ports and terminals**<br>
+_major seaport(s)_: <em><br>Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New Jersey, Savannah<br><em>Pacific Ocean:</em> Long Beach, Los Angele, Oakland, Seattle/Tacoma<br><em>Gulf of Mexico:</em> Houston<br>
 _oil terminal(s)_: LOOP terminal, Haymark terminal<br>
 _container port(s) (TEUs)_: Charleston (2,436,185), Hampton Roads (2,937,962), Houston (2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)<br>
 _LNG terminal(s) (export)_: Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)<br>note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024<br>
 _LNG terminal(s) (import)_: Cove Point (MD), Elba Island (GA), Everett (MA), Freeport (TX), Golden Pass (TX), Hackberry (LA), Lake Charles (LA), Neptune (offshore), Northeast Gateway (offshore), Pascagoula (MS), Sabine Pass (TX)<br>
+_river port(s)_: Baton Rouge, Plaquemines, New Orleans (Mississippi River)<br>
 _cargo ports_: Baton Rouge, Corpus Christi, Hampton Roads, Houston, Long Beach, Los Angeles, New Orleans, New York, Plaquemines (LA), Tampa, Texas City<br>
-_cruise departure ports (passengers)_: Miami (2,032,000), Port Everglades (1,277,000), Port Canaveral (1,189,000), Seattle (430,000), Long Beach (415,000) (2009)<br>
+_cruise departure ports (passengers)_: Miami, Port Everglades, Port Canaveral, Seattle, Long Beach<br>
 
 ## Military and Security
 
@@ -701,11 +703,11 @@ the US military's inventory is comprised almost entirely of domestically-produce
 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany; 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 630 Kosovo (NATO/KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2021)<br>
 US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, in 2019, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
-**Military service age and obligation**<br>
-18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2020)<br>
-
 **Military - note**<br>
 the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+
+**Military service age and obligation**<br>
+18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2020)<br>
 
 ## Terrorism
 

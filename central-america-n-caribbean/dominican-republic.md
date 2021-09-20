@@ -698,11 +698,11 @@ information varies; approximately 60,000 active personnel (30,000 Army; 13,000 N
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries; since 2010, Brazil and Israel are the leading suppliers of armaments to the Dominican Republic (2020)<br>
 
-**Military service age and obligation**<br>
-17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2019)<br>
-
 **Military - note**<br>
 the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief<br>
+
+**Military service age and obligation**<br>
+17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2019)<br>
 
 ## Transnational Issues
 

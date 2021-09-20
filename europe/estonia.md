@@ -698,11 +698,11 @@ the Estonian Defense Forces have a limited inventory of Soviet-era and more rece
 **Military deployments**<br>
 approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
-**Military service age and obligation**<br>
-18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2019)<br>
-
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br>
+
+**Military service age and obligation**<br>
+18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2019)<br>
 
 ## Transnational Issues
 

@@ -682,11 +682,11 @@ the Armed Forces of the Republic of Montenegro have approximately 2,000 total ac
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2019)<br>
-
 **Military - note**<br>
 Montenegro officially became a member of NATO in 2017<br>
+
+**Military service age and obligation**<br>
+18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2019)<br>
 
 ## Terrorism
 
@@ -697,5 +697,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,643 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 19,759 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 

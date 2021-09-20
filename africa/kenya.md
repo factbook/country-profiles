@@ -716,14 +716,14 @@ the KDF's inventory traditionally carried mostly older or second-hand Western we
 **Military deployments**<br>
 3,650 Somalia (AMISOM) (2021)<br>
 
-**Military service age and obligation**<br>
-no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2020)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>
 
 **Military - note**<br>
 the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies (2020)<br>
+
+**Military service age and obligation**<br>
+no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2020)<br>
 
 ## Terrorism
 
@@ -737,7 +737,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 269,870 (Somalia), 133,320 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,560 (Ethiopia), 7,081 (Burundi) (2021)<br>
+_refugees (country of origin)_: 269,870 (Somalia), 133,320 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,579 (Ethiopia), 7,108 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

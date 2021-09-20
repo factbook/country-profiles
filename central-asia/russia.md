@@ -694,11 +694,11 @@ _total_: 2,808<br>
 _by type_: bulk carrier 15, container ship 16, general cargo 923, oil tanker 406, other 1,448 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Kaliningrad, Nakhodka, Novorossiysk, Primorsk, Vostochnyy<br>
-_oil terminal(s)_: Kavkaz oil terminal<br>
+_major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>
+_oil terminal(s)_: Kavkaz oil terminal, Primorsk<br>
 _container port(s) (TEUs)_: Saint Petersburg (2,221,724) (2019)<br>
-_LNG terminal(s) (export)_: Sakhalin Island<br>
-_river port(s)_: Saint Petersburg (Neva River)<br>
+_LNG terminal(s) (export)_: Sabetta, Sakhalin Island<br>
+_river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Saint Petersburg (Neva River)<br>
 
 ## Military and Security
 
@@ -719,12 +719,12 @@ information varies; approximately 800,000 total active duty troops (350,000 Grou
 the Russian Federation's military and paramilitary services are equipped with domestically-produced weapons systems, although since 2010 Russia has imported limited amounts of military hardware from several countries, including Czechia, France, Israel, Italy, Turkey, and Ukraine; the Russian defense industry is capable of designing, developing, and producing a full range of advanced air, land, missile, and naval systems; Russia is the world's second largest exporter of military hardware (2020)<br>
 
 **Military deployments**<br>
-est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100-200 Central African Republic; est. 500 Kyrgyzstan; est. 1,500 Moldova; est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (includes Crimea) (2020)<br>
-note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of the Fall of 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; in addition, there were approximately 2,000 Russian-backed Syrian fighters in Libya<br><br>Russia contributes approximately 8,000 personnel to CSTO's Rapid Reaction Force<br>
+est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100-200 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (including Crimea) (2020)<br>
+note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; <br><br>Russia is a leader of CSTO contributes approximately 8,000 personnel to its Rapid Reaction Force<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)<br>
-<strong>note:</strong> in April of 2019, the Russian government pledged its intent to end conscription<br>
+note: in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force<br>
 
 ## Terrorism
 

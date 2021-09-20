@@ -681,7 +681,7 @@ the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-
 contributes troops to CSTO's Rapid Reaction Force (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service; 12-18 month conscript service obligation (2019)<br>
+18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay the equivalent of $2,200 in order to avoid conscription (2021)<br>
 
 ## Terrorism
 

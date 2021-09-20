@@ -687,10 +687,7 @@ _by type_: general cargo 4, oil tanker 2, other 15 (2020)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banana<br>
-_river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Congo)<br>
-Kindu (Lualaba)
-Bukavu, Goma (Lake Kivu)
-Kalemie (Lake Tanganyika)<br>
+_river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Congo); Kindu (Lualaba); Bukavu, Goma (Lake Kivu); Kalemie (Lake Tanganyika)<br>
 
 ## Military and Security
 
@@ -711,11 +708,11 @@ limited and widely varied information; approximately 100,000 active troops (most
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; since 2010, Ukraine is the largest supplier of arms to the FARDC (2020)<br>
 
-**Military service age and obligation**<br>
-18-45 years of age for voluntary and compulsory military service (2019)<br>
-
 **Military - note**<br>
 <p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,500 personnel, including about 14,500 military troops and 600 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+
+**Military service age and obligation**<br>
+18-45 years of age for voluntary and compulsory military service (2019)<br>
 
 ## Terrorism
 
@@ -729,7 +726,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 213,329 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,819 (South Sudan) (refugees and asylum seekers), 42,725 (Burundi) (2021)<br>
+_refugees (country of origin)_: 213,133 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,819 (South Sudan) (refugees and asylum seekers), 42,725 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

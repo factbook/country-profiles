@@ -708,11 +708,11 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 **Military deployments**<br>
 120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 1,200 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
 
-**Military service age and obligation**<br>
-18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2019)<br>
-
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+
+**Military service age and obligation**<br>
+18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2019)<br>
 
 ## Terrorism
 
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 560,848 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 564,472 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

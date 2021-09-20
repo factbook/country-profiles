@@ -45,7 +45,7 @@ about 98% thick continental ice sheet and 2% barren rock, with average elevation
 _highest point_: Vinson Massif 4,892 m<br>
 _lowest point_: Denman Glacier more than -3,500 m (-11,500 ft) below sea level<br>
 _mean elevation_: 2,300 m<br>
-<strong>note:</strong> the lowest known land point in Antarctica is hidden in the Denman Galcier; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater<br>
+<strong>note:</strong> the lowest known land point in Antarctica is hidden in the Denman Glacier; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater<br>
 
 **Natural resources**<br>
 iron ore, chromium, copper, gold, nickel, platinum and other minerals, and coal and hydrocarbons have been found in small noncommercial quantities; mineral exploitation except for scientific research is banned by the Environmental Protocol to the Antarctic Treaty; krill, icefish, toothfish, and crab have been taken by commercial fisheries, which are managed through the Commission for the Conservation of Antarctic Living Marine Resources (CCAMLR)<br>

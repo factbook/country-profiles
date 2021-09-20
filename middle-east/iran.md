@@ -337,7 +337,7 @@ _chief of state_: Supreme Leader Ali Hoseini-KHAMENEI (since 4 June 1989)<br>
 _head of government_: President-elect Ebrahim RAISI (since 18 June 2021); First Vice President Eshagh JAHANGIRI (since 5 August 2013)<br>
 _cabinet_: Council of Ministers selected by the president with legislative approval; the supreme leader has some control over appointments to several ministries<br>
 _elections/appointments_: supreme leader appointed for life by Assembly of Experts; president directly elected by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term and an additional nonconsecutive term); election last held on 18 June 2012 (next to be held in June 2025)<br>
-_election results_: Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (CCA) 72.4%, Mohsen Rezaee MIRGHA'ED (RFII) 13.8%, Abbdolnaser HEMMATI (ECP) 9.8%, Amir Hossein Hossein Ghazizadegh HASHEMI (Islamic Law Party) 4%<br>
+_election results_: <br><em>2021:</em> Ebrahim RAISI elected president; percent of vote - Ebrahim RAISI (CCA) 72.4%, Mohsen Rezaee MIRGHA'ED (RFII) 13.8%, Abbdolnaser HEMMATI (ECP) 9.8%, Amir Hossein Hossein Ghazizadegh HASHEMI (Islamic Law Party) 4%<br><br><em>2017:</em> Hasan Fereidun RUHANI reelected president; percent of vote - Hasan Fereidun RUHANI (Moderation and Development Party) 58.8%, Ebrahim RAISI (Combat Clergy Association) 39.4% , Mostafa Mir-SALIM Islamic Coalition Party) 1.2%, Mostafa HASHEMI-TABA(Executives of Construction Party) 0.5%<br>
 <strong>note:</strong> 3 oversight bodies are also considered part of the executive branch of government<br>
 
 **Judicial branch**<br>
@@ -695,11 +695,11 @@ the Iranian military's inventory includes a mix of domestically-produced and mos
 est. 1,000 Syria (2020)<br>
 note: Iran has recruited, trained, and funded thousands of Syrian and foreign fighters to support the ASAD regime during the Syrian civil war<br>
 
-**Military service age and obligation**<br>
-18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months; women exempt from military service (2019)<br>
-
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region;" Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
+
+**Military service age and obligation**<br>
+18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months; women exempt from military service (2019)<br>
 
 ## Terrorism
 

@@ -34,7 +34,7 @@ _total_: 0 km<br>
 29,751 km<br>
 
 **Maritime claims**<br>
-_territorial sea_: 12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and Eastern and Western Channels of the Korea or Tsushima Strait<br>
+_territorial sea_: 12 nm; between 3 nm and 12 nm in the international straits - La Perouse or Soya, Tsugaru, Osumi, and the Korea and Tsushima Straits<br>
 _contiguous zone_: 24 nm<br>
 _exclusive economic zone_: 200 nm<br>
 
@@ -318,9 +318,9 @@ _election results_: <br>House of Councillors - percent of vote by party - NA; se
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Executive branch**<br>
-_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019&nbsp;<br>
-_head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012)&nbsp;<br>
-_cabinet_: Cabinet appointed by the prime minister&nbsp;<br>
+_chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019<br>
+_head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012); note - Prime Minister SUGA announced his resignation on 3 September 2021 pending a party leadership vote scheduled for 29 September 2021<br>
+_cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
 
 **Judicial branch**<br>

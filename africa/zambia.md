@@ -330,14 +330,14 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 **Legislative branch**<br>
 _description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 11 are appointed<br>
 _elections_: last held on 12 August 2021 (next to be held 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%<br><br>note: 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency has yet to conducted.<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%<br><br>note - 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency is scheduled for 21 October 2021.<br>
 
 **Executive branch**<br>
-_chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
-_head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021) note - the president is both chief of state and head of government<br>
+_chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021); note - the president is both chief of state and head of government<br>
+_head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021)&nbsp;<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: 2021: Hakainde HICHILEMA elected president; percent of the vote-Hakainde HICHILEMA (UPND) 57.9%,Edgar LUNGU (PF) 37.3%, other 4.8%<br><br>2016: Edgar LUNGU re-elected president; percent of vote- Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - <br>Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -708,7 +708,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 61,570 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,964 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 61,570 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,615 (Burundi) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

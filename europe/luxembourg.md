@@ -667,11 +667,11 @@ the Luxembourg Army has approximately 900 active personnel (2021)<br>
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of European and US equipment; since 2010, it has received small quantities of equipment from Germany, Norway, and Sweden (2020)<br>
 
-**Military service age and obligation**<br>
-18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
-
 **Military - note**<br>
 Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+
+**Military service age and obligation**<br>
+18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
 
 ## Transnational Issues
 

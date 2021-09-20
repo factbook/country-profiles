@@ -693,11 +693,11 @@ the FABF has a mix of foreign-supplied weapons; since 2010, it has received limi
 **Military deployments**<br>
 1,075 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2019)<br>
-
 **Military - note**<br>
 since at least 2016, the Armed Forces of Burkina Faso have been actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS; military operations have occurred in the Centre‐Est, Centre‐Nord, Est, Nord, and Sahel administrative regions<br><br>Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries (2021)<br>
+
+**Military service age and obligation**<br>
+18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2019)<br>
 
 ## Terrorism
 
@@ -711,6 +711,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 21,601 (Mali) (2021)<br>
+_refugees (country of origin)_: 22,334 (Mali) (2021)<br>
 _IDPs_: <p>1,218,754 (2021)</p><br>
 

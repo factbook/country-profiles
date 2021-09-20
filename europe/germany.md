@@ -672,7 +672,7 @@ _total_: 607<br>
 _by type_: bulk carrier 1, container ship 84, general cargo 86, oil tanker 37, other 399 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Baltic Sea - Kiel, Rostock<br>North Sea - Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
+_major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>
 _oil terminal(s)_: Brunsbuttel Canal terminals<br>
 _container port(s) (TEUs)_: Bremen/Bremerhaven (4,856,900), Hamburg (9,274,215) (2019)<br>
 _LNG terminal(s) (import)_: Hamburg<br>
@@ -700,11 +700,11 @@ the German Federal Armed Forces inventory is mostly comprised of weapons systems
 **Military deployments**<br>
 approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 500 Lithuania (NATO); 800 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
 
-**Military service age and obligation**<br>
-17-23 years of age for male and female voluntary military service; conscription ended July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2019)<br>
-
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br>
+
+**Military service age and obligation**<br>
+17-23 years of age for male and female voluntary military service; conscription ended July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2019)<br>
 
 ## Terrorism
 

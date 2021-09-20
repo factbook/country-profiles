@@ -658,13 +658,13 @@ Armed Forces of Turkmenistan: National Army, Navy, Air and Air Defense Forces; F
 1.2% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; estimated 35,000 active troops (est. 30,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2020)<br>
+information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory for Turkmenistan's military is comprised almost entirely of older Russian and Soviet-era weapons systems, although in recent years, Turkmenistan has opened itself up to equipment from other countries; since 2010, China, Russia, and Turkey are the leading arms suppliers to Turkmenistan (2020)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory male military service; 2-year conscript service obligation; 20 years of age for voluntary service; males may enroll in military schools from age 15 (2019)<br>
+18-30 years of age for compulsory male military service; 2-year conscript service obligation (2.5 years for the Navy); 20 years of age for voluntary service; males may enroll in military schools from age 15 (2019)<br>
 
 ## Transnational Issues
 

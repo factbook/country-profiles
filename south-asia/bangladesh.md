@@ -712,11 +712,11 @@ the Bangladesh Defense Force inventory is comprised of mostly Chinese and Russia
 **Military deployments**<br>
 Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had about 5,300 troops deployed, including: 1,225 Central African Republic (MINUSCA); 1,400 Democratic Republic of the Congo (MONUSCO); 115 Lebanon (UNIFIL); 1,330 Mali (MINUSMA); 1,450 South Sudan (UNMISS) ( mid-2021)<br>
 
-**Military service age and obligation**<br>
-16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>
+
+**Military service age and obligation**<br>
+16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)<br>
 
 ## Terrorism
 
@@ -730,7 +730,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p>Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 884,041 (Burma) (2021) (includes an estimated 733,343 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 890,276 (Burma) (2021) (includes an estimated 738,817 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 866,457 (2020)<br>
 

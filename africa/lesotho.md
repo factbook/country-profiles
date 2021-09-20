@@ -665,11 +665,11 @@ the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2020)<br>
 **Military equipment inventories and acquisitions**<br>
 the LDF has a small inventory of older equipment from a variety of countries; the only reported delivery to the LDF since 2007 was two second-hand helicopters from France in 2017 and 2019 (2019 est.)<br>
 
-**Military service age and obligation**<br>
-18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2019)<br>
-
 **Military - note**<br>
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa<br>
+
+**Military service age and obligation**<br>
+18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2019)<br>
 
 ## Transnational Issues
 

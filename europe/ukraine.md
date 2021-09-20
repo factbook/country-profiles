@@ -682,6 +682,7 @@ _by type_: container ship 1, general cargo 85, oil tanker 15, other 308 (2020)<b
 
 **Ports and terminals**<br>
 _major seaport(s)_: Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, Odesa, Yuzhnyy<br>
+_river port(s)_: Kherson, Kyiv (Dnieper River), Mykolayiv (Buh River)<br>
 
 ## Military and Security
 
@@ -705,11 +706,11 @@ the Ukrainian military is equipped mostly with older Russian and Soviet-era weap
 250 Democratic Republic of the Congo (MONUSCO) (2021)<br>
 note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
 
-**Military service age and obligation**<br>
-conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months (2019)<br>
-
 **Military - note**<br>
 the Ukrainian military&rsquo;s primary concern is Russia&rsquo;s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, Ukrainian military casualties along the front line have fallen significantly despite continued sporadic exchanges of fire through 2020 and into 2021<br>
+
+**Military service age and obligation**<br>
+conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months; note - the Ukrainian military has a mix of conscript and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service<br> (2020)<br>
 
 ## Transnational Issues
 

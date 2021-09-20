@@ -686,9 +686,10 @@ _total_: 474<br>
 _by type_: bulk carrier 1, general cargo 36, oil tanker 25, other 412 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Algeciras, Barcelona, Bilbao, Cartagena, Huelva, Tarragona, Valencia (all in Spain); Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br>
+_major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia <br>
 _container port(s) (TEUs)_: Algeciras (5,125,385), Barcelona (3,324,650), Valencia (5,439,827) (2019)<br>
 _LNG terminal(s) (import)_: Barcelona, Bilbao, Cartagena, Huelva, Mugardos, Sagunto<br>
+_river port(s)_: Seville (Guadalquivir River)<br>
 
 ## Military and Security
 
@@ -712,11 +713,11 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 **Military deployments**<br>
 approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 625 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021)<br>
 
-**Military service age and obligation**<br>
-18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2019)<br>
-
 **Military - note**<br>
 Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br>
+
+**Military service age and obligation**<br>
+18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2019)<br>
 
 ## Terrorism
 
@@ -732,7 +733,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>227,332 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note: </strong>229,740 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

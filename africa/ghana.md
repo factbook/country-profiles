@@ -704,11 +704,11 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 150 Mali (MINUSMA); 875 Lebanon (UNIFIL); 850 South Sudan (UNMISS) (Jan 2021)<br>
 note: Ghana has pledged to maintain about 1,000 military personnel in readiness for UN peacekeeping missions<br>
 
-**Military service age and obligation**<br>
-18-26 years of age for voluntary military service, with basic education certificate; no conscription (2019)<br>
-
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
+
+**Military service age and obligation**<br>
+18-26 years of age for voluntary military service, with basic education certificate; no conscription (2019)<br>
 
 ## Transnational Issues
 
@@ -716,7 +716,7 @@ note: Ghana has pledged to maintain about 1,000 military personnel in readiness 
 <p>disputed maritime border between Ghana and Cote d'Ivoire</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 6,398 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
+_refugees (country of origin)_: 6,425 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
 
 **Illicit drugs**<br>
 illicit producer of cannabis for the international drug trade; major transit hub for Southwest and Southeast Asian heroin and, to a lesser extent, South American cocaine destined for Europe and the US; widespread crime and money-laundering problem, but the lack of a well-developed financial infrastructure limits the country's utility as a money-laundering center; significant domestic cocaine and cannabis use<br>

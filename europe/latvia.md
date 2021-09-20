@@ -691,11 +691,11 @@ the National Armed Forces of Latvia have approximately 6,000 active duty troops 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2020)<br>
 
-**Military service age and obligation**<br>
-18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2019)<br>
-
 **Military - note**<br>
 Latvia officially became a member of NATO in 2004<br>
+
+**Military service age and obligation**<br>
+18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2019)<br>
 
 ## Transnational Issues
 

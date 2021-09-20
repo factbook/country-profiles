@@ -662,7 +662,7 @@ _total_: 581<br>
 _by type_: bulk carrier 3, general cargo 78, oil tanker 6, other 494 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Brisbane, Cairns, Darwin, Fremantle, Geelong, Gladstone, Hobart, Melbourne, Newcastle, Port Adelaide, Port Kembla, Sydney<br>
+_major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>
 _container port(s) (TEUs)_: Melbourne (2,967,315), Sydney (2,572,714) (2019)<br>
 _LNG terminal(s) (export)_: Australia Pacific, Barrow Island, Burrup (Pluto), Curtis Island, Darwin, Karratha, Bladin Point (Ichthys), Gladstone,&nbsp;Prelude (offshore FLNG), Wheatstone<br>
 _dry bulk cargo port(s)_: Dampier (iron ore), Dalrymple Bay (coal), Hay Point (coal), Port Hedland (iron ore), Port Walcott (iron ore)<br>

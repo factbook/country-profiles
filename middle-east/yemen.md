@@ -692,11 +692,11 @@ note - no reliable information exists following the start of renewed conflict in
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Yemeni Government forces consists primarily of Russian and Soviet-era equipment, although much of it has been lost in the current conflict; since the start of the civil war in 2014, it has received limited amounts of donated equipment from some Gulf States, including Saudi Arabia and UAE (2020)<br>
 
-**Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2019)<br>
-
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued Maritime Advisory 2020-017 (Red Sea, Gulf of Aden, Arabian Sea, and Indian Ocean-Violence Due to Regional Conflict and Piracy) effective 14 December 2020, which states in part the "Conflict in Yemen continues to pose potential risk to US flagged commercial vessels transiting the southern Red Sea, Bab al Mandeb Strait, and Gulf of Aden. Threats may come from a variety of different sources including, but not limited to, missiles, rockets, projectiles, mines, small arms, unmanned aerial vehicles, unmanned surface vessels, or waterborne improvised explosive devices. These threat vectors continue to pose a direct or collateral risk to US flagged commercial vessels operating in the region. Additionally, piracy poses a threat in the Gulf of Aden, Western Arabian Sea, and Western Indian Ocean."</p><br>
+
+**Military service age and obligation**<br>
+18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2019)<br>
 
 ## Terrorism
 
@@ -710,6 +710,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 112,865 (Somalia), 16,193 (Ethiopia) (2021)<br>
+_refugees (country of origin)_: 112,865 (Somalia), 16,447 (Ethiopia) (2021)<br>
 _IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
 

@@ -681,7 +681,7 @@ the Austrian Armed Forces have approximately 23,000 total active duty personnel 
 the Austrian military's inventory includes a mix of domestically-produced and imported weapons systems from European countries and the US; since 2010, Germany and Italy are the leading suppliers of armaments to Austria; the Austrian defense industry produces a range of equipment and partners with other countries (2020)<br>
 
 **Military deployments**<br>
-300 Bosnia-Herzegovina (EUFOR stabilization force); 320 Kosovo (NATO); 180 Lebanon (UNIFIL) (March 2021)<br>
+290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO); 180 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2015)<br>

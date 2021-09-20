@@ -324,7 +324,7 @@ _election results_: <br>First Chamber - percent of vote by party - NA; seats by 
 
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
-_head of government_: Prime Minister (vacant); note - Prime Minister Mark RUTTE resigned on 15 January 2021; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017<br>
+_head of government_: Prime Minister (vacant); note - Prime Minister Mark RUTTE resigned on 15 January 2021 and is acting Prime Minister; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
 
@@ -695,11 +695,11 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 **Military deployments**<br>
 270 Lithuania (NATO) (2021)<br>
 
-**Military service age and obligation**<br>
-17 years of age for an all-volunteer force; conscription abolished in 1996 (2019)<br>
-
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
+
+**Military service age and obligation**<br>
+17 years of age for an all-volunteer force; conscription abolished in 1996 (2019)<br>
 
 ## Terrorism
 

@@ -364,7 +364,7 @@ Afar National Democratic Party or ANDP [Taha AHMED]<br>Argoba People Democratic 
 ACP, AfDB, AU, COMESA, EITI (candidate country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UN Security Council (temporary), UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador FISTUM Arega Gebrekidan (since 9 April 2019)<br>
+_chief of mission_: Ambassador FITSUM Arega Gebrekidan (since 9 April 2019)<br>
 _chancery_: 3506 International Drive NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 364-1200<br>
 _FAX_: [1] (202) 587-0195<br>
@@ -708,11 +708,11 @@ the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s;
 **Military deployments**<br>
 estimated 10,000 Somalia (4,500 for AMISOM); 800 Sudan (UNAMID); 3,200 Sudan (UNISFA); 2,100 South Sudan (UNMISS) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
-
 **Military - note**<br>
 each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p> </p><br>
+
+**Military service age and obligation**<br>
+18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
 
 ## Terrorism
 
@@ -726,7 +726,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,680 (South Sudan), 212,236 (Somalia), 172,768 (Eritrea), 45,648 (Sudan) (2021)<br>
+_refugees (country of origin)_: 374,680 (South Sudan), 212,236 (Somalia), 146,771 (Eritrea), 45,924 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

@@ -671,11 +671,11 @@ the FAD is armed largely with older French and Soviet-era weapons systems; since
 **Military deployments**<br>
 960 Somalia (AMISOM) (2021)<br>
 
-**Military service age and obligation**<br>
-18 years of age for voluntary military service; 16-25 years of age for voluntary military training; no conscription (2020)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) received zero incidents of piracy and armed robbery in 2020 for the Horn of Africa; while there were no recorded incidents, the IMB PRC warns that Somalia pirates continue to possess the capacity to carry out attacks in the Somali basin and wider Indian Ocean; in particular, the report warns that, "Masters and crew must remain vigilant and cautious when transiting these waters."; the presence of several naval task forces in the Gulf of Aden and additional anti-piracy measures on the part of ship operators, including the use of on-board armed security teams, contributed to the drop in incidents; the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from China, India, Japan, Pakistan, South Korea, the US, and other countries also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br>
+
+**Military service age and obligation**<br>
+18 years of age for voluntary military service; 16-25 years of age for voluntary military training; no conscription (2020)<br>
 
 ## Terrorism
 

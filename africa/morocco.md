@@ -721,9 +721,9 @@ _total_: 88<br>
 _by type_: container ship 7, general cargo 4, oil tanker 2, other 75 (2020)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Ad Dakhla, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>
+_major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>
 _container port(s) (TEUs)_: Tangier (4,801,713) (2019)<br>
-_LNG terminal(s) (import)_: Jorf Lasfar<br>
+_LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 
 ## Military and Security
 

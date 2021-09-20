@@ -113,7 +113,7 @@ _male_: 23 years<br>
 _female_: 24 years (2020 est.)<br>
 
 **Population growth rate**<br>
-5.32% NA (2021 est.)<br>
+NA (2021 est.)<br>
 
 **Birth rate**<br>
 23.25 births/1,000 population (2021 est.)<br>
@@ -661,11 +661,11 @@ N/A; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) hav
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory is comprised mostly of Russian and Soviet-era equipment; since 2010, Russia has supplied nearly all of Syria's imported weapons systems, although China and Iran have also provided military equipment (2020)<br>
 
-**Military service age and obligation**<br>
-18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18 months; women are not conscripted but may volunteer to serve (2019)<br>
-
 **Military - note**<br>
 the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of late 2020, UNDOF consisted of about 1,100 military personnel<br>
+
+**Military service age and obligation**<br>
+18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18 months; women are not conscripted but may volunteer to serve (2019)<br>
 
 ## Terrorism
 

@@ -658,7 +658,7 @@ _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-General Staff, Land Forces Command, Navy Force Command (includes Coast Guard), Air Forces Command, Support Command, Training and Doctrination Command (2021)<br>
+Republic of Albania Armed Forces (Forcat e Armatosura t&euml; Republik&euml;s s&euml; Shqip&euml;ris&euml; (FARSH)): Land Forces, Navy Forces (includes Coast Guard), Air Forces (2021)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
@@ -673,11 +673,11 @@ information varies; approximately 8,000 total active duty personnel (6,000 Army;
 **Military equipment inventories and acquisitions**<br>
 the Albanian military was previously equipped with mostly Soviet-era weapons that were sold or destroyed; its inventory now includes a mix of mostly donated and second-hand European and US equipment; since 2010, it has received limited amounts of equipment from France, Germany, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2019)<br>
-
 **Military - note**<br>
 Albania officially became a member of NATO in 2009<br>
+
+**Military service age and obligation**<br>
+19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2019)<br>
 
 ## Terrorism
 

@@ -332,11 +332,11 @@ _elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
 _election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 45, women 10, percent of women 18.2%<br>
 
 **Executive branch**<br>
-_chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br>
+_chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br><br>note - President Evaristo Carvalho, whose term expires on 3 September  (ahead of the postponed presidential runoff on 5 September), announced he will remain in office until the inauguration of the new president, scheduled for 29 September.<br>
 _head of government_: Prime Minister Jorge Bom JESUS (since 3 December 2018)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 July 2016 and 7 August 2016 (next to be held in July 2021); prime minister chosen by the National Assembly and approved by the president<br>
-_election results_: Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
+_election results_: <br><em>2021</em> - In the 5 September runoff, Carlos Vila NOVA elected president; percent of the vote - Carlos Vila NOVA (IDA) 57.5%, Guilherme Posser DA COSTA (MLSTP-SDP) 42.5%<br><br><em>2016 </em>- Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>
@@ -657,11 +657,11 @@ the FASTP has approximately 4-500 personnel (2020)<br>
 **Military equipment inventories and acquisitions**<br>
 the FASTP is lightly and poorly armed (2020)<br>
 
-**Military service age and obligation**<br>
-18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2019)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
+
+**Military service age and obligation**<br>
+18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2019)<br>
 
 ## Transnational Issues
 

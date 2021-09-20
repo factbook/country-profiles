@@ -712,7 +712,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 779,905 estimated refugee and migrant arrivals (January 2015-August 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
+<strong>note:</strong> 787,266 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 6,165 migrants and refugees as of April 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

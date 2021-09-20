@@ -711,11 +711,11 @@ the Malaysian Armed Forces field a diverse mix of imported weapons systems; the 
 **Military deployments**<br>
 825 Lebanon (UNIFIL) (March 2021)<br>
 
-**Military service age and obligation**<br>
-17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2019)<br>
-
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents</p><br>
+
+**Military service age and obligation**<br>
+17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2019)<br>
 
 ## Terrorism
 

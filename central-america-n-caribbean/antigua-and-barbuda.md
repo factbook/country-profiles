@@ -610,11 +610,11 @@ the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active person
 **Military equipment inventories and acquisitions**<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2020)<br>
 
-**Military service age and obligation**<br>
-18-23 years of age for voluntary military service for both males and females; no conscription (2021)<br>
-
 **Military - note**<br>
 member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region<br>
+
+**Military service age and obligation**<br>
+18-23 years of age for voluntary military service for both males and females; no conscription (2021)<br>
 
 ## Transnational Issues
 

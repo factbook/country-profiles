@@ -685,11 +685,11 @@ information varies; approximately 25,000 troops, including active National Guard
 **Military equipment inventories and acquisitions**<br>
 the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from Bulgaria, France, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-conscription abolished in 2016, but reinstated in 2017; 18 to 27 years of age for compulsory and voluntary active duty military service; conscript service obligation is 12 months (2019)<br>
-
 **Military - note**<br>
-Georgia does not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but large numbers of Russian servicemen have been stationed in these regions since the 2008 Russia-Georgia War (2019)<br>
+Georgia does not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War (2020)<br>
+
+**Military service age and obligation**<br>
+conscription abolished in 2016, but reinstated in 2017; 18 to 27 years of age for compulsory and voluntary active duty military service; conscript service obligation is 12 months (2020)<br>
 
 ## Transnational Issues
 

@@ -313,7 +313,7 @@ _chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
 _head of government_: Prime Minister Eduard HEGER (since 1 April 2021); Deputy Prime Ministers Stefan HOLY, Veronika REMISOVA, Richard SULIK (all since 21 March 2020)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
-_election results_: Zuzana CAPUTOVA reelected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br>
+_election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -673,11 +673,11 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2019)<br>
-
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br>
+
+**Military service age and obligation**<br>
+18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2019)<br>
 
 ## Transnational Issues
 

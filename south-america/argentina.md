@@ -707,11 +707,11 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 **Military deployments**<br>
 250 Cyprus (UNFICYP) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18-24 years of age for voluntary military service; conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2019)<br>
-
 **Military - note**<br>
 the Argentine military focuses primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br>
+
+**Military service age and obligation**<br>
+18-24 years of age for voluntary military service; conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2019)<br>
 
 ## Terrorism
 

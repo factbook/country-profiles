@@ -693,11 +693,11 @@ the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and
 **Military deployments**<br>
 up to 120 Poland (NATO) (2021)<br>
 
-**Military service age and obligation**<br>
-conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2019)<br>
-
 **Military - note**<br>
 Romania officially became a member of NATO in 2004<br>
+
+**Military service age and obligation**<br>
+conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2019)<br>
 
 ## Terrorism
 
@@ -712,7 +712,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 7,988 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 8,046 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>
