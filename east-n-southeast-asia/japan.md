@@ -281,7 +281,7 @@ parliamentary constitutional monarchy<br>
 _name_: Tokyo<br>
 _geographic coordinates_: 35 41 N, 139 45 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868<br>
+_etymology_: originally known as Edo, meaning "estuary" in Japanese, the name was changed to Tokyo, meaning "eastern capital," in 1868<br>
 
 **Administrative divisions**<br>
 47 prefectures; Aichi, Akita, Aomori, Chiba, Ehime, Fukui, Fukuoka, Fukushima, Gifu, Gunma, Hiroshima, Hokkaido, Hyogo, Ibaraki, Ishikawa, Iwate, Kagawa, Kagoshima, Kanagawa, Kochi, Kumamoto, Kyoto, Mie, Miyagi, Miyazaki, Nagano, Nagasaki, Nara, Niigata, Oita, Okayama, Okinawa, Osaka, Saga, Saitama, Shiga, Shimane, Shizuoka, Tochigi, Tokushima, Tokyo, Tottori, Toyama, Wakayama, Yamagata, Yamaguchi, Yamanashi<br>
@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22<br>
-<strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
-
 **Executive branch**<br>
 _chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019<br>
 _head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012); note - Prime Minister SUGA announced his resignation on 3 September 2021 pending a party leadership vote scheduled for 29 September 2021<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
+
+**Legislative branch**<br>
+_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: <br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22<br>
+<strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Saiko saibansho (consists of the chief justice and 14 associate justices); note - the Supreme Court has jurisdiction in constitutional issues<br>

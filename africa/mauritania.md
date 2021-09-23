@@ -300,7 +300,7 @@ presidential republic<br>
 _name_: Nouakchott<br>
 _geographic coordinates_: 18 04 N, 15 58 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>may derive from the Berber "nawakshut" meaning "place of the winds"<br>
+_etymology_: may derive from the Berber "nawakshut" meaning "place of the winds"<br>
 
 **Administrative divisions**<br>
 15 regions (wilayas, singular - wilaya); Adrar, Assaba, Brakna, Dakhlet Nouadhibou, Gorgol, Guidimaka, Hodh ech Chargui, Hodh El Gharbi, Inchiri, Nouakchott Nord, Nouakchott Ouest, Nouakchott Sud, Tagant, Tiris Zemmour, Trarza<br>
@@ -330,18 +330,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
-_elections_: first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)<br>
-_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition - NA<br>
-<strong>note:</strong> a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development<br>
-
 **Executive branch**<br>
 _chief of state_: President Mohamed Cheikh El GHAZOUANI (since 1 August 2019)<br>
 _head of government_: Prime Minister Mohamed Ould BILAL (since 6 August 2020)&nbsp;<br>
 _cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next scheduled for 22 June 2024); prime minister appointed by the president<br>
 _election results_: Mohamed Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
+_elections_: first held as the unicameral National Assembly in 2 rounds on 1 and 15 September 2018 (next to be held in 2023)<br>
+_election results_: National Assembly - percent of vote by party - NA; seats by party - NA; composition - NA<br>
+<strong>note:</strong> a referendum held in August 2017 approved a constitutional amendment to change the Parliament structure from bicameral to unicameral by abolishing the Senate and creating Regional Councils for local development<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (subdivided into 7 chambers: 2 civil, 2 labor, 1 commercial, 1 administrative, and 1 criminal, each with a chamber president and 2 councilors ); Constitutional Council (consists of 6 members)<br>
@@ -679,11 +679,11 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); National Guard (Ministry of Interior) (2021)<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2020 est.)<br>
 2.8% of GDP (2019 est.)<br>
 3% of GDP (2018)<br>
 2.9% of GDP (2017)<br>
 2.9% of GDP (2016)<br>
-2.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>

@@ -299,7 +299,7 @@ federal parliamentary constitutional monarchy<br>
 _name_: Kuala Lumpur; note - nearby Putrajaya is referred to as a federal government administrative center but not the capital; Parliament meets in Kuala Lumpur<br>
 _geographic coordinates_: 3 10 N, 101 42 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the Malay word for "river junction or estuary" is "kuala" and "lumpur" means "mud"; together the words render the meaning of "muddy confluence"<br>
+_etymology_: the Malay word for "river junction or estuary" is "kuala" and "lumpur" means "mud"; together the words render the meaning of "muddy confluence"<br>
 
 **Administrative divisions**<br>
 13 states (negeri-negeri, singular - negeri); Johor, Kedah, Kelantan, Melaka, Negeri Sembilan, Pahang, Perak, Perlis, Pulau Pinang, Sabah, Sarawak, Selangor, Terengganu; and 1 federal territory (Wilayah Persekutuan) with 3 components, Kuala Lumpur, Labuan, and Putrajaya<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 10 out 12 years preceding applicatio
 **Suffrage**<br>
 18&nbsp;years of age; universal (2019)<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)<br>
-_elections_: Senate - appointed<br>House of Representatives - last held on 9 May 2018 (next to be held no later than May 2023)<br>
-_election results_: <br>Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br>House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
-<strong>note:</strong> as of 16 November 2019, seats by party - PH 129, BN 41, GS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
-
 **Executive branch**<br>
 _chief of state_: King Sultan ABDULLAH Sultan Ahmad Shah (since 24 January 2019); note - King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016) resigned on 6 January 2019; the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
 _head of government_: Prime Minister Ismail SABRI Yaakob (since 21 August 2021); note - Tan Sri MUHYIDDIN Yassin resigned on 16 August 2021<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king; note - cabinet dissolved 24 February 2020 with Prime Minister MAHATHIR resignation<br>
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 January 2019 (next to be held in 2024); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)<br>
+_elections_: Senate - appointed<br>House of Representatives - last held on 9 May 2018 (next to be held no later than May 2023)<br>
+_election results_: <br>Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br>House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
+<strong>note:</strong> as of 16 November 2019, seats by party - PH 129, BN 41, GS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court (consists of the chief justice, president of the Court of Appeal, chief justice of the High Court of Malaya, chief judge of the High Court of Sabah and Sarawak, 8 judges, and 1 "additional" judge); note - Malaysia has a dual judicial hierarchy of civil and religious (sharia) courts<br>

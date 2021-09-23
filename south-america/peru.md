@@ -301,7 +301,7 @@ presidential republic<br>
 _name_: Lima<br>
 _geographic coordinates_: 12 03 S, 77 03 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
+_etymology_: the word "Lima" derives from the Spanish pronunciation of "Limaq," the native name for the valley in which the city was founded in 1535; "limaq" means "talker" in coastal Quechua and referred to an oracle that was situated in the valley but which was eventually destroyed by the Spanish and replaced with a church<br>
 
 **Administrative divisions**<br>
 25 regions (regiones, singular - region) and 1 province* (provincia); Amazonas, Ancash, Apurimac, Arequipa, Ayacucho, Cajamarca, Callao, Cusco, Huancavelica, Huanuco, Ica, Junin, La Libertad, Lambayeque, Lima, Lima*, Loreto, Madre de Dios, Moquegua, Pasco, Piura, Puno, San Martin, Tacna, Tumbes, Ucayali<br>
@@ -332,11 +332,6 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory until the age of 70<br>
 
-**Legislative branch**<br>
-_description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
-_elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
-_election results_: percent of vote by party/coalition - Free Peru 14.02%, Popular Force 11.17%, AP 9.22%, Popular Renewal 9.13%, APP 7.61%, Avanza Pais 7.40%, JP 6.63%, We Are Peru 6.02%, We Can Peru 5.73%, Purple Party 5.31%; seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 4, Purple Party 4; composition - men 96, women 34, percent of women 26.2%<br>
-
 **Executive branch**<br>
 _chief of state_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); First Vice President Dina Ercilia BOLUARTE Zegarra (since 28 July 2021); Second Vice President (vacant); note - the president is both chief of state and head of government<br>
 _head of government_: President Jose Pedro CASTILLO Terrones (since 28 July 2021); First Vice President Dina Ercilia BOLUARTE Zegarra (since 28 July 2021); Second Vice President (vacant)<br>
@@ -344,6 +339,11 @@ _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 11 April 2021 with a runoff on 6 June 2021 (next to be held in April 2026)<br>
 _election results_: <br><em>2021: </em>Jose Pedro CASTILLO Terrones elected president in second round; percent of vote in first round - Jose Pedro CASTILLO Terrones (Free Peru) 18.9%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 13.4%, Rafael LOPEZ ALIAGA Cazorla (Popular Renewal) 11.8%, Hernando DE SOTO Polar (Social Integration Party) 11.6%, Yonhy LESCANO Ancieta (Popular Action) 9.1%, Veronika MENDOZA Frisch (JP) 7.9%, Cesar ACUNA Peralta (APP) 6%, George FORSYTH Sommer (VN) 5.7%, Daniel Belizario URRESTI Elera (We Can Peru) 5.6%, other 10%; percent of vote second round - Jose Pedro CASTILLO Terrones (Free Peru) 50.1%, Keiko Sofia FUJIMORI Higuchi (Popular Force) 49.9%<br><br><em>2016:</em> Pedro Pablo KUCZYNSKI Godard elected president in second round; percent of vote in first round - Keiko FUJIMORI Higuchi (Popular Force) 39.9%, Pedro Pablo KUCZYNSKI Godard (PPK) 21.1%, Veronika MENDOZA (Broad Front) 18.7%, Alfredo BARNECHEA (Popular Action) 7%, Alan GARCIA (APRA) 5.8%, other 7.5%; percent of vote in second round - Pedro Pablo KUCZYNSKI Godard 50.1%, Keiko FUJIMORI Higuchi 49.9%<br>
 <strong>note: </strong>President Martin Alberto VIZCARRA Cornejo assumed office after President Pedro Pablo KUCZYNSKI Godard resigned from office on 21 March 2018; after VIZCARRA was impeached on 9 November 2020, the constitutional line of succession led to the inauguration of the President of the Peruvian Congress, Manuel Arturo MERINO, as President of Peru on 10 November 2020; following his resignation only days later on 15 November 2020, Francisco Rafael SAGASTI Hochhausler - who had been elected by the legislature to be the new President of Congress on 16 November 2020 - was then sworn in as President of Peru on 17 November 2020 by line of succession and remained president until the inauguration of Jose Pedro CASTILLO Terrones, winner of the 2021 presidential election<strong><br><br>note:</strong> Prime Minister Guido BELLIDO Ugarte (since 29 July 2021) does not exercise executive power; this power rests with the president<br>
+
+**Legislative branch**<br>
+_description_: unicameral Congress of the Republic of Peru or Congreso de la Republica del Peru (130 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve single 5-year terms)<br>
+_elections_: last held on 11 April 2021 (next to be held in April 2026)<br>
+_election results_: percent of vote by party/coalition - Free Peru 14.02%, Popular Force 11.17%, AP 9.22%, Popular Renewal 9.13%, APP 7.61%, Avanza Pais 7.40%, JP 6.63%, We Are Peru 6.02%, We Can Peru 5.73%, Purple Party 5.31%; seats by party/coalition - Free Peru 37, Popular Force 24, AP 16, APP 15, Popular Renewal 13, Avanza Pais 7, We Are Peru 5, We Can Peru 5, JP 4, Purple Party 4; composition - men 96, women 34, percent of women 26.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 16 judges and divided into civil, criminal, and constitutional-social sectors)<br>
@@ -718,11 +718,11 @@ the Peruvian military's inventory is a mix of mostly older equipment from a wide
 **Military deployments**<br>
 200 Central African Republic (MINUSCA) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (2019)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2020, eight attacks against a commercial vessels were reported, down from 10 attacks in 2019; all of these occurred in the main port of Callao<br>
+
+**Military service age and obligation**<br>
+18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (2019)<br>
 
 ## Terrorism
 

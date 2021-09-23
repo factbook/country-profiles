@@ -295,7 +295,7 @@ _name_: Podgorica; note - Cetinje retains the status of "Old Royal Capital"<br>
 _geographic coordinates_: 42 26 N, 19 16 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1 hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name translates as "beneath Gorica"; the meaning of Gorica is "hillock"; the reference is to the small hill named Gorica that the city is built around<br>
+_etymology_: the name translates as "beneath Gorica"; the meaning of Gorica is "hillock"; the reference is to the small hill named Gorica that the city is built around<br>
 
 **Administrative divisions**<br>
 24 municipalities (opstine, singular - opstina); Andrijevica, Bar, Berane, Bijelo Polje, Budva, Cetinje, Danilovgrad, Gusinje, Herceg Novi, Kolasin, Kotor, Mojkovac, Niksic, Petnijica, Plav, Pljevlja, Pluzine, Podgorica, Rozaje, Savnik, Tivat, Tuzi, Ulcinj, Zabljak<br>
@@ -325,17 +325,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 30 August 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Milo DJUKANOVIC (since 20 May 2018)<br>
 _head of government_: Prime Minister Zdravko KRIVOKAPIC (since 4 December 2020)<br>
 _cabinet_: Ministers act as cabinet<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 15 April 2018 (next to be held in 2023); prime minister nominated by the president, approved by the Assembly<br>
 _election results_: Milo DJUKANOVIC elected president in the first round; percent of vote - Milo DJUKANOVIC (DPS) 53.9%, Mladen BOJANIC (independent) 33.4%, Draginja VUKSANOVIC (SDP) 8.2%, Marko MILACIC (PRAVA) 2.8%, other 1.7%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly or Skupstina (81 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 30 August 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party/coalition - DPS 35.1%, ZBCG 32.6%, MNIM 12.5%, URA 5.5%, SD 4.1%, BS 3.9%, SDP 3.1%, AL 1.6%, AK 1.1%, other 0.4%; seats by party/coalition - DPS 30, ZBCG 27, MNIM 10, URA 4, BS 3, SD 3, SDP 2, AL 1, AK 1.; composition - men 57, women 24, percent of women 29.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Vrhovni Sud (consists of the court president, deputy president, and 15 judges); Constitutional Court or Ustavni Sud (consists of the court president and 7 judges)<br>
@@ -667,7 +667,7 @@ _major seaport(s)_: Bar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Armed Forces of the Republic of Montenegro are a joint force with land, air, and naval elements (2020)<br>
+the Armed Forces of the Republic of Montenegro: joint force with land, air, and naval elements (2021)<br>
 
 **Military expenditures**<br>
 1.72% of GDP (2020 est.)<br>
@@ -697,5 +697,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,759 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 19,792 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 

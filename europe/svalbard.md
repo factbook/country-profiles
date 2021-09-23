@@ -131,18 +131,18 @@ _conventional long form_: none<br>
 _conventional short form_: Svalbard (sometimes referred to as Spitsbergen, the largest island in the archipelago)<br>
 _etymology_: 12th century Norse accounts speak of the discovery of a "Svalbard" - literally "cold shores" - but they may have referred to Jan Mayen Island or eastern Greenland; the archipelago was traditionally known as Spitsbergen, but Norway renamed it Svalbard in the 1920s when it assumed sovereignty of the islands<br>
 
-**Dependency status**<br>
-territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920), sovereignty was awarded to Norway<br>
-
 **Government type**<br>
 non-self-governing territory of Norway<br>
+
+**Dependency status**<br>
+territory of Norway; administered by the Polar Department of the Ministry of Justice, through a governor (sysselmann) residing in Longyearbyen, Spitsbergen; by treaty (9 February 1920), sovereignty was awarded to Norway<br>
 
 **Capital**<br>
 _name_: Longyearbyen<br>
 _geographic coordinates_: 78 13 N, 15 38 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906<br>
+_etymology_: the name in Norwegian means Longyear Town; the site was established by and named after John LONGYEAR, whose Arctic Coal Company began mining operations there in 1906<br>
 
 **Independence**<br>
 none (territory of Norway)<br>
@@ -153,15 +153,15 @@ the laws of Norway where applicable apply; only the laws of Norway made explicit
 **Citizenship**<br>
 see Norway<br>
 
-**Legislative branch**<br>
-_description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state<br>
-_elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
-_election results_: seats by party - Conservatives 5, Labor Party 5, Liberals 3, Green Party 2<br>
-
 **Executive branch**<br>
 _chief of state_: King HARALD V of Norway (since 17 January 1991); Heir Apparent Crown Prince Haakon MAGNUS (son of the king, born 20 July 1973)<br>
 _head of government_: Governor Kjerstin ASKHOLT (since 1 October 2015); Assistant Governor Berit SAGFOSSEN (since 1 April 2016)<br>
 _elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
+
+**Legislative branch**<br>
+_description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state<br>
+_elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
+_election results_: seats by party - Conservatives 5, Labor Party 5, Liberals 3, Green Party 2<br>
 
 **Judicial branch**<br>
 _highest courts_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>

@@ -285,7 +285,7 @@ _name_: Berlin<br>
 _geographic coordinates_: 52 31 N, 13 24 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp"<br>
+_etymology_: the origin of the name is unclear but may be related to the old West Slavic (Polabian) word "berl" or "birl," meaning "swamp"<br>
 
 **Administrative divisions**<br>
 16 states (Laender, singular - Land); Baden-Wuerttemberg, Bayern (Bavaria), Berlin, Brandenburg, Bremen, Hamburg, Hessen (Hesse), Mecklenburg-Vorpommern (Mecklenburg-Western Pomerania), Niedersachsen (Lower Saxony), Nordrhein-Westfalen (North Rhine-Westphalia), Rheinland-Pfalz (Rhineland-Palatinate), Saarland, Sachsen (Saxony), Sachsen-Anhalt (Saxony-Anhalt), Schleswig-Holstein, Thueringen (Thuringia); note - Bayern, Sachsen, and Thueringen refer to themselves as free states (Freistaaten, singular - Freistaat), while Bremen calls itself a Free Hanseatic City (Freie Hansestadt) and Hamburg considers itself a Free and Hanseatic City (Freie und Hansestadt)<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal; age 16 for some state and municipal elections<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br> Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br> Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br> Bundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions<br>
-_election results_: <br> Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Frank-Walter STEINMEIER (since 19 March 2017)<br>
 _head of government_: Chancellor Angela MERKEL (since 22 November 2005)<br>
 _cabinet_: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president<br>
 _elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela MERKEL since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021)<br>
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br> Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br> Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br> Bundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions<br>
+_election results_: <br> Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -691,14 +691,14 @@ Federal Armed Forces (Bundeswehr): Army (Heer), Navy (Deutsche Marine, includes 
 1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the German Federal Armed Forces have approximately 180,000 active duty personnel (62,000 Army; 16,000 Navy; 28,000 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 13,000 Cyber and Information Space Command; 14,000 other) (2020)<br>
-note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2024<br>
+approximately 184,000 active duty personnel (63,500 Army; 16,500 Navy; 27,500 Air Force; 27,000 Joint Support Service; 20,000 Medical Service, 14,500 Cyber and Information Space Command; 15,000 other) (2021)<br>
+note - Germany in 2020 announced it planned to increase the size of the military to about 200,000 troops by 2025<br>
 
 **Military equipment inventories and acquisitions**<br>
-the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports; since 2010, the US is the leading foreign supplier of armaments to Germany; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2020)<br>
+the German Federal Armed Forces inventory is mostly comprised of weapons systems produced domestically or jointly with other European countries and Western imports; since 2010, the US is the leading foreign supplier of armaments to Germany; Germany's defense industry is capable of manufacturing the full spectrum of air, land, and naval military weapons systems, and is one of the world's leading arms exporters (2021)<br>
 
 **Military deployments**<br>
-approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 500 Lithuania (NATO); 800 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
+approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); 800 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
 
 **Military - note**<br>
 the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br>

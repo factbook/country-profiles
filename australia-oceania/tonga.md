@@ -284,7 +284,7 @@ _name_: Nuku'alofa<br>
 _geographic coordinates_: 21 08 S, 175 12 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in November; ends second Sunday in January<br>
-<strong>etymology:</strong> composed of the words "nuku," meaning "residence or abode," and "alofa," meaning "love," to signify "abode of love"<br>
+_etymology_: composed of the words "nuku," meaning "residence or abode," and "alofa," meaning "love," to signify "abode of love"<br>
 
 **Administrative divisions**<br>
 5 island divisions; 'Eua, Ha'apai, Ongo Niua, Tongatapu, Vava'u<br>
@@ -314,11 +314,6 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 21 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2017-19 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 3-year terms)<br>
-_elections_: last held on 16 November 2017 (next to be held in 2020)<br>
-_election results_: percent of vote - NA; seats by party - Democratic Party 14, nobles' representatives 9,&nbsp; independent 3; composition - men 24, women 2, percent of women 7.7%<br>
-
 **Executive branch**<br>
 _chief of state_: King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI<br>
 _head of government_: Prime Minister Pohiva TU'I'ONETOA (since 27 September 2019)<br>
@@ -326,6 +321,11 @@ _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 27 September 2019 (next to be held in November 2020)<br>
 _election results_: Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15of 23 votes cast<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2017-19 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 3-year terms)<br>
+_elections_: last held on 16 November 2017 (next to be held in 2020)<br>
+_election results_: percent of vote - NA; seats by party - Democratic Party 14, nobles' representatives 9,&nbsp; independent 3; composition - men 24, women 2, percent of women 7.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>

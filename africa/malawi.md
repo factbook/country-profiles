@@ -304,7 +304,7 @@ presidential republic<br>
 _name_: Lilongwe<br>
 _geographic coordinates_: 13 58 S, 33 47 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after the Lilongwe River that flows through the city<br>
+_etymology_: named after the Lilongwe River that flows through the city<br>
 
 **Administrative divisions**<br>
 28 districts; Balaka, Blantyre, Chikwawa, Chiradzulu, Chitipa, Dedza, Dowa, Karonga, Kasungu, Likoma, Lilongwe, Machinga, Mangochi, Mchinji, Mulanje, Mwanza, Mzimba, Neno, Ntcheu, Nkhata Bay, Nkhotakota, Nsanje, Ntchisi, Phalombe, Rumphi, Salima, Thyolo, Zomba<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition - men 161, women 32, percent of women 16.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020); note - the president is both chief of state and head of government&nbsp;<br>
 _head of government_: President Lazarus CHAKWERA (since 28 June 2020); Vice President Saulos CHILIMA (since 3 February 2020)&nbsp;<br>
 _cabinet_: Cabinet named by the president&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 23 June 2020 (next to be held in 2025)<br>
 _election results_: Lazarus CHAKWERA elected president; Lazarus CHAKWERA (MCP) 59.3%, Peter Mutharika (DPP) 39.9%, other 0.7%<br> <table class="wikitable" style="text-align: right; height: 25px;" width="5"> <tbody> <tr> <td align="left"> </td> <td align="left"> </td> <td> </td> <td> </td> </tr> </tbody> </table><br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (193 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: last held on 21 May 2019 (next to be held in May 2024)<br>
+_election results_: percent of vote by party - n/a; seats by party - DPP 62, MCP 55, UDF 10, PP 5, other 5, independent 55, vacant 1; composition - men 161, women 32, percent of women 16.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeal (consists of the chief justice and at least 3 judges)<br>
@@ -677,11 +677,11 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2021)<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2020 est.)<br>
 0.9% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 0.7% of GDP (2017)<br>
 0.6% of GDP (2016)<br>
-0.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 8,000 total personnel (including about 200 air and 200 marine forces) (2021)<br>

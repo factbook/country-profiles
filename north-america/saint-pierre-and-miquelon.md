@@ -190,18 +190,18 @@ _local long form_: Departement de Saint-Pierre et Miquelon<br>
 _local short form_: Saint-Pierre et Miquelon<br>
 _etymology_: Saint-Pierre is named after Saint PETER, the patron saint of fishermen; Miquelon may be a corruption of the Basque name Mikelon<br>
 
-**Dependency status**<br>
-overseas collectivity of France<br>
-
 **Government type**<br>
 parliamentary democracy (Territorial Council); overseas collectivity of France<br>
+
+**Dependency status**<br>
+overseas collectivity of France<br>
 
 **Capital**<br>
 _name_: Saint-Pierre<br>
 _geographic coordinates_: 46 46 N, 56 11 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-<strong>etymology:</strong> named after Saint Peter, the patron saint of fisherman<br>
+_etymology_: named after Saint Peter, the patron saint of fisherman<br>
 
 **Administrative divisions**<br>
 none (territorial overseas collectivity of France); note - there are no first-order administrative divisions as defined by the US Government, but there are 2 communes at the second order - Saint Pierre, Miquelon<br>
@@ -225,16 +225,16 @@ see France<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>
-_elections_: Territorial Council - last held on 19 March 2017 (next to be held in March 2023)<br>French Senate - last held on 24 September 2017 (next to be held no later than September 2020)<br>French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: Territorial Council - percent of vote by party - AD 70.2%, Cap sur l'Avenir 29.8%; seats by party - AD 17, Cap sur l'Avenir 2; composition - men 10, women 9, percent of women 47.4%<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1<br>
-
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Christian POUGET (since 6 January 2021)<br>
 _head of government_: President of Territorial Council Stephane LENORMAND (since 24 October 2017)<br>
 _cabinet_: Le Cabinet du Prefet<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April and 6 May 2017 (next to be held in 2022); prefect appointed by French president on the advice of French Ministry of Interior<br>
+
+**Legislative branch**<br>
+_description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>
+_elections_: Territorial Council - last held on 19 March 2017 (next to be held in March 2023)<br>French Senate - last held on 24 September 2017 (next to be held no later than September 2020)<br>French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
+_election results_: Territorial Council - percent of vote by party - AD 70.2%, Cap sur l'Avenir 29.8%; seats by party - AD 17, Cap sur l'Avenir 2; composition - men 10, women 9, percent of women 47.4%<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Superior Tribunal of Appeals or Tribunal Superieur d'Appel (composition NA)<br>

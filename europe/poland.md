@@ -295,7 +295,7 @@ _name_: Warsaw<br>
 _geographic coordinates_: 52 15 N, 21 00 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the origin of the name is unknown; the Polish designation "Warszawa" was the name of a fishing village and several legends/traditions link the city's founding to a man named Wars or Warsz<br>
+_etymology_: the origin of the name is unknown; the Polish designation "Warszawa" was the name of a fishing village and several legends/traditions link the city's founding to a man named Wars or Warsz<br>
 
 **Administrative divisions**<br>
 16 voivodships [provinces] (wojewodztwa, singular - wojewodztwo); Dolnoslaskie (Lower Silesia), Kujawsko-Pomorskie (Kuyavia-Pomerania), Lodzkie (Lodz), Lubelskie (Lublin), Lubuskie (Lubusz), Malopolskie (Lesser Poland), Mazowieckie (Masovia), Opolskie (Opole), Podkarpackie (Subcarpathia), Podlaskie, Pomorskie (Pomerania), Slaskie (Silesia), Swietokrzyskie (Holy Cross), Warminsko-Mazurskie (Warmia-Masuria), Wielkopolskie (Greater Poland), Zachodniopomorskie (West Pomerania)<br>
@@ -325,18 +325,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%<br>
-<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
-
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
 _head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Jacek SASIN (since 4 June 2019)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm<br>
 _election results_: <em><br>2020:</em> Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%<br>
+<strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
@@ -691,7 +691,7 @@ _river port(s)_: Szczecin (River Oder)<br>
 
 **Military and security forces**<br>
 Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of the Interior: Border Guard (includes coast guard duties) (2021)<br>
-note: the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces, Military Police, and the Warsaw Garrison Command<br>
+note: the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>

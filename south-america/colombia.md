@@ -302,7 +302,7 @@ presidential republic<br>
 _name_: Bogota<br>
 _geographic coordinates_: 4 36 N, 74 05 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> originally referred to as "Bacata," meaning "enclosure outside of the farm fields," by the indigenous Muisca<br>
+_etymology_: originally referred to as "Bacata," meaning "enclosure outside of the farm fields," by the indigenous Muisca<br>
 
 **Administrative divisions**<br>
 32 departments (departamentos, singular - departamento) and 1 capital district* (distrito capital); Amazonas, Antioquia, Arauca, Atlantico, Bogota*, Bolivar, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cordoba, Cundinamarca, Guainia, Guaviare, Huila, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, Archipielago de San Andres, Providencia y Santa Catalina (colloquially San Andres y Providencia), Santander, Sucre, Tolima, Valle del Cauca, Vaupes, Vichada<br>
@@ -332,17 +332,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
-_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held in March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
-
 **Executive branch**<br>
 _chief of state_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government<br>
 _head of government_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held in 2022); note - political reform in 2015 eliminated presidential reelection<br>
-_election results_: <em>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><br><em>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0%<br>
+_election results_: <em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><br><em>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
+_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held in March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of the Civil-Agrarian and Labor Chambers each with 7 judges, and the Penal Chamber with 9 judges); Constitutional Court (consists of 9 magistrates); Council of State (consists of 27 judges); Superior Judiciary Council (consists of 13 magistrates)<br>

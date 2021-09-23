@@ -309,7 +309,7 @@ presidential republic<br>
 _name_: Yaounde<br>
 _geographic coordinates_: 3 52 N, 11 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>founded as a German colonial settlement of Jaunde in 1888 and named after the local Yaunde (Ewondo) people<br>
+_etymology_: founded as a German colonial settlement of&nbsp;Jaunde in 1888 and named after the local Yaunde (Ewondo) people<br>
 
 **Administrative divisions**<br>
 10 regions (regions, singular - region); Adamaoua, Centre, East (Est), Far North (Extreme-Nord), Littoral, North (Nord), North-West (Nord-Ouest), West (Ouest), South (Sud), South-West (Sud-Ouest)<br>
@@ -339,17 +339,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 20 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
-_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Paul BIYA (since 6 November 1982)<br>
 _head of government_: Prime Minister Joseph Dion NGUTE (since 4 January 2019); Deputy Prime Minister Amadou ALI (since 2014)<br>
 _cabinet_: Cabinet proposed by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 7 October 2018 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Paul BIYA reelected president; percent of vote - Paul BIYA (CPDM) 71.3%, Maurice KAMTO (MRC) 14.2%, Cabral LIBII (Univers) 6.3%, other 8.2%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (100 seats; 70 members indirectly elected by regional councils and 30 appointed by the president; members serve 5-year terms)<br> National Assembly or Assemblee Nationale (180 seats; members directly elected in multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 25 March 2018 (next to be held in 2023)<br> National Assembly - last held on 9 February 2020 (current term extended by President); note - the constitutional court has ordered a partial rerun of elections in the English speaking areas; date to be determined<br>
+_election results_: Senate - percent of vote by party - CDPM 81.1%, SDF 8.6%, UNDP 5.8%, UDC 1.16%, other 2.8%; seats by party - CPDM 63, SDF 7 <br>National Assembly - percent of vote by party - NA; seats by party - CPDM 139, UNDP 7, SDF 5, PCRN 5, UDC 4, FSNC 3, MDR 2, Union of Socialist Movements 2; 13 vacant; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cameroon (consists of 9 titular and 6 surrogate judges and organized into judicial, administrative, and audit chambers); Constitutional Council (consists of 11 members)<br>
@@ -699,11 +699,11 @@ Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre
 note - the Rapid Intervention Battalion, a brigade-sized force comprised of several high-readiness land units, maintains its own command and control structure and reports directly to the President, rather than the Defense Minister<br>
 
 **Military expenditures**<br>
+1% of GDP (2020 est.)<br>
 1.1% of GDP (2019)<br>
 1.1% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 40,000 active duty troops; (25,000 ground forces, including the BIR and Presidential Guard; 2,000 Navy; 1,000 Air Force; 12,000 Gendarmerie) (2020)<br>

@@ -299,7 +299,7 @@ presidential republic<br>
 _name_: Tegucigalpa; note - article eight of the Honduran constitution states that the twin cities of Tegucigalpa and Comayaguela, jointly, constitute the capital of the Republic of Honduras; however, virtually all governmental institutions are on the Tegucigalpa side, which in practical terms makes Tegucigalpa the capital<br>
 _geographic coordinates_: 14 06 N, 87 13 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC during Standard Time)<br>
-<strong>etymology: </strong>while most sources agree that Tegucigalpa is of Nahuatl derivation, there is no consensus on its original meaning<br>
+_etymology_: while most sources agree that Tegucigalpa is of Nahuatl derivation, there is no consensus on its original meaning<br>
 
 **Administrative divisions**<br>
 18 departments (departamentos, singular - departamento); Atlantida, Choluteca, Colon, Comayagua, Copan, Cortes, El Paraiso, Francisco Morazan, Gracias a Dios, Intibuca, Islas de la Bahia, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, Valle, Yoro<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 27 November 2017 (next to be held on 27 November 2021)<br>
-_election results_: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%<br>
-
 **Executive branch**<br>
 _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 26 November 2017 (next to be held in November 2021); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion conta la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other .9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+_election results_: <br><em>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 27 November 2017 (next to be held on 27 November 2021)<br>
+_election results_: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -347,7 +347,7 @@ _judge selection and term of office_: court president elected by his peers; judg
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Alliance against the Dictatorship or Alianza de Oposicion conta la Dictadura [Salvador NASRALLA] (electoral coalition) <br>Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Freedom and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Liberal Party or PL [Luis Orlando ZELAYA Medrano] <br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>
+Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Freedom and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Luis Orlando ZELAYA Medrano] <br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

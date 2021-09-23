@@ -285,7 +285,8 @@ presidential republic<br>
 _name_: Nur-Sultan<br>
 _geographic coordinates_: 51 10 N, 71 25 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note:</strong> Kazakhstan has two time zones <br><br><strong>etymology:</strong> on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998<br>
+_time zone note_: Kazakhstan has two time zones<br>
+_etymology_: on 20 March 2019, Kazakhstan changed the name of its capital city from Astana to Nur-Sultan in honor of its long-serving, recently retired president, Nursultan NAZARBAYEV; this was not the first time the city had its name changed; founded in 1830 as Akmoly, it became Akmolinsk in 1832, Tselinograd in 1961, Akmola (Aqmola) in 1992, and Astana in 1998<br>
 
 **Administrative divisions**<br>
 14 provinces (oblyslar, singular - oblys) and 4 cities* (qalalar, singular - qala); Almaty (Taldyqorghan), Almaty*, Aqmola (Kokshetau), Aqtobe, Atyrau, Batys Qazaqstan [West Kazakhstan] (Oral), Bayqongyr*, Mangghystau (Aqtau), Nur-Sultan*, Pavlodar, Qaraghandy, Qostanay, Qyzylorda, Shyghys Qazaqstan [East Kazakhstan] (Oskemen), Shymkent*, Soltustik Qazaqstan [North Kazakhstan] (Petropavl), Turkistan, Zhambyl (Taraz)<br>
@@ -316,17 +317,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (49 seats; 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
-_elections_: <br>Senate - last held on 12 August 2020 (next to be held in 2026)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition - men 78, women 29, percent of women 27%<br>
-
 **Executive branch**<br>
 _chief of state_: &nbsp;President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory&nbsp;<br>
 _head of government_: Prime Minister Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019)&nbsp;<br>
 _cabinet_: &nbsp;the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (49 seats; 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
+_elections_: <br>Senate - last held on 12 August 2020 (next to be held in 2026)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition - men 78, women 29, percent of women 27%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)<br>
@@ -680,11 +681,11 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Guard, Border Service (includes Coast Guard), State Security Service (2021)<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2020 est.)<br>
 1.1% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 0.9% of GDP (2016)<br>
-1.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 45,000 active duty personnel (30,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2020)<br>

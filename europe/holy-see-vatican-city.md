@@ -177,17 +177,17 @@ _residency requirement for naturalization_: not applicable<br>
 **Suffrage**<br>
 election of the pope is limited to cardinals less than 80 years old<br>
 
-**Legislative branch**<br>
-_description_: unicameral Pontifical Commission for Vatican City State or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; members appointed by the pope to serve 5-year terms)<br>
-_elections_: last held on 11 July 2018<br>
-_election results_: composition - men 7, women 0<br>
-
 **Executive branch**<br>
 _chief of state_: Pope FRANCIS (since 13 March 2013)<br>
 _head of government_: Secretary of State Cardinal Pietro PAROLIN (since 15 October 2013); note - Head of Government of Vatican City is President Cardinal Giuseppe BERTELLO (since 1 October 2011)<br>
 _cabinet_: Pontifical Commission for the State of Vatican City appointed by the pope<br>
 _elections/appointments_: pope elected by the College of Cardinals, usually for life or until voluntary resignation; election last held on 13 March 2013 (next to be held after the death or resignation of the current pope); Secretary of State appointed by the pope<br>
 _election results_: Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>
+
+**Legislative branch**<br>
+_description_: unicameral Pontifical Commission for Vatican City State or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; members appointed by the pope to serve 5-year terms)<br>
+_elections_: last held on 11 July 2018<br>
+_election results_: composition - men 7, women 0<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supreme Tribunal of the Apostolic Signatura (consists of the cardinal prefect, who serves as ex-officio president of the court, and 2 other cardinals of the Prefect Signatura); note - judicial duties were established by the Motu Proprio, papal directive, of Pope PIUS XII on 1 May 1946; most Vatican City criminal matters are handled by the Republic of Italy courts<br>

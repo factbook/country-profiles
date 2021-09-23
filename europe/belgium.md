@@ -281,7 +281,7 @@ _name_: Brussels<br>
 _geographic coordinates_: 50 50 N, 4 20 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> may derive from the Old Dutch "bruoc/broek," meaning "marsh" and "sella/zele/sel" signifying "home" to express the meaning "home in the marsh"<br>
+_etymology_: may derive from the Old Dutch "bruoc/broek," meaning "marsh" and "sella/zele/sel" signifying "home" to express the meaning "home in the marsh"<br>
 
 **Administrative divisions**<br>
 3 regions (French: regions, singular - region; Dutch: gewesten, singular - gewest); Brussels-Capital Region, also known as Brussels Hoofdstedelijk Gewest (Dutch), Region de Bruxelles-Capitale (French long form), Bruxelles-Capitale (French short form); Flemish Region (Flanders), also known as Vlaams Gewest (Dutch long form), Vlaanderen (Dutch short form), Region Flamande (French long form), Flandre (French short form); Walloon Region (Wallonia), also known as Region Wallone (French long form), Wallonie (French short form), Waals Gewest (Dutch long form), Wallonie (Dutch short form)<br>
@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
-<strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
-
 **Executive branch**<br>
 _chief of state_: King PHILIPPE (since 21 July 2013); Heir Apparent Princess ELISABETH (daughter of the monarch, born 25 October 2001)<br>
 _head of government_: Prime Minister Alexander DE CROO (since 1 October 2020); Deputy Prime Ministers Vincent Van Quickenborne (since 1 October 2020), Sophie Wilmes (since 1 October 2020), Vincent Van Peteghem (since 1 October 2020), Frank Vandenbroucke (since 1 October 2020), Pierre-Yves Dermagne (since 1 October 2020), Petra De Sutter (since 1 October 2020), Georges Gilkinet (since 1 October 2020)<br>
 _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
+<strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court or Grondwettelijk Hof (in Dutch) and Cour Constitutionelle (in French) (consists of 12 judges - 6 Dutch-speaking and 6 French-speaking); Supreme Court of Justice or Hof van Cassatie (in Dutch) and Cour de Cassation (in French) (court organized into 3 chambers: civil and commercial; criminal; social, fiscal, and armed forces; each chamber includes a Dutch division and a French division, each with a chairperson and 5-6 judges)<br>
@@ -687,7 +687,7 @@ the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000
 the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, France, Germany, and Switzerland are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2020)<br>
 
 **Military deployments**<br>
-125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); est. 260 Baltic States (NATO) (2021)<br>
+125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>

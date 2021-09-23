@@ -284,7 +284,7 @@ _name_: Athens<br>
 _geographic coordinates_: 37 59 N, 23 44 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language<br>
+_etymology_: Athens is the oldest European capital city; according to tradition, the city is named after Athena, the Greek goddess of wisdom; in actuality, the appellation probably derives from a lost name in a pre-Hellenic language<br>
 
 **Administrative divisions**<br>
 13 regions (perifereies, singular - perifereia) and 1 autonomous monastic state* (aftonomi monastiki politeia); Agion Oros* (Mount Athos), Anatoliki Makedonia kai Thraki (East Macedonia and Thrace), Attiki (Attica), Dytiki Ellada (West Greece), Dytiki Makedonia (West Macedonia), Ionia Nisia (Ionian Islands), Ipeiros (Epirus), Kentriki Makedonia (Central Macedonia), Kriti (Crete), Notio Aigaio (South Aegean), Peloponnisos (Peloponnese), Sterea Ellada (Central Greece), Thessalia (Thessaly), Voreio Aigaio (North Aegean)<br>
@@ -314,17 +314,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 17 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
-_elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
-_election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
-
 **Executive branch**<br>
 _chief of state_: President Ekaterini SAKELLAROPOULOU (since 13 March 2020)<br>
 _head of government_: Prime Minister Kyriakos MITSOTAKIS (since 8 July 2019)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister&nbsp;<br>
 _elections/appointments_: president elected by Hellenic Parliament for a 5-year term (eligible for a second term); election last held on&nbsp;22 January 2020&nbsp;(next to be held by February 2025); president appoints as prime minister the leader of the majority party or coalition in the Hellenic Parliament<br>
 _election results_: Katerina SAKELLAROPOULOU&nbsp;(independent) elected president by Parliament - 261 of 300 votes; note - SAKELLAROPOULOU&nbsp;is Greece's first woman president<br>
+
+**Legislative branch**<br>
+_description_: unicameral Hellenic Parliament or Vouli ton Ellinon (300 seats; 280 members in multi-seat constituencies and 12 members in a single nationwide constituency directly elected by open party-list proportional representation vote; 8 members in single-seat constituencies elected by simple majority vote; members serve up to 4 years); &nbsp;note - only parties surpassing a 3% threshold are entitled to parliamentary seats; parties need 10 seats to become formal parliamentary groups but can retain that status if the party participated in the last election and received the minimum 3% threshold<br>
+_elections_: last held on 7 July 2019 (next to be held&nbsp;by July 2023)<br>
+_election results_: percent of vote by party - ND 39.9%, SYRIZA 31.5%, KINAL 8.1%, KKE 5.3%, Greek Solution 3.7%, MeRA25 3.4%, other 8.1%; seats by party - ND 158, SYRIZA 86, KINAL 22, KKE 15, Greek Solution 10, MeRA25 9; composition - men 244, women 56, percent of women 18.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Civil and Criminal Court or Areios Pagos (consists of 56 judges, including the court presidents); Council of State (supreme administrative court) (consists of the president, 7 vice presidents, 42 privy councilors, 48 associate councilors and 50 reporting judges, organized into six 5- and 7-member chambers; Court of Audit (government audit and enforcement) consists of the president, 5 vice presidents, 20 councilors, and 90 associate and reporting judges<br>
@@ -690,6 +690,7 @@ the Hellenic Armed Forces have approximately 130,000 active duty personnel (90,0
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hellenic Armed Forces consists mostly of a mix of imported weapons from Europe and the US, as well as a limited number of domestically produced systems, particularly naval vessels; Germany is the leading supplier of weapons systems to Greece since 2010, followed by France and the US; Greece's defense industry is capable of producing naval vessels and associated subsystems (2020)<br>
+note - Greece in 2020 announced plans to boost military acquisitions and its defense industry following tensions with Turkey in the Eastern Mediterranean<br>
 
 **Military deployments**<br>
 approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Jan 2021)<br>
@@ -714,7 +715,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,210,208 estimated refugee and migrant arrivals (January 2015-September 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,210,227 estimated refugee and migrant arrivals (January 2015-September 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

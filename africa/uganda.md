@@ -301,7 +301,7 @@ presidential republic<br>
 _name_: Kampala<br>
 _geographic coordinates_: 0 19 N, 32 33 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the site of the original British settlement was referred to by its native name as Akasozi ke'Empala ("hill of the impala" [plural]); over time this designation was shortened to K'empala and finally Kampala<br>
+_etymology_: the site of the original British settlement was referred to by its native name as Akasozi ke'Empala ("hill of the impala" [plural]); over time this designation was shortened to K'empala and finally Kampala<br>
 
 **Administrative divisions**<br>
 134 districts and 1 capital city*; Abim, Adjumani, Agago, Alebtong, Amolatar, Amudat, Amuria, Amuru, Apac, Arua, Budaka, Bududa, Bugiri, Bugweri, Buhweju, Buikwe, Bukedea, Bukomansimbi, Bukwo, Bulambuli, Buliisa, Bundibugyo, Bunyangabu, Bushenyi, Busia, Butaleja, Butambala, Butebo, Buvuma, Buyende, Dokolo, Gomba, Gulu, Hoima, Ibanda, Iganga, Isingiro, Jinja, Kaabong, Kabale, Kabarole, Kaberamaido, Kagadi, Kakumiro, Kalaki, Kalangala, Kaliro, Kalungu, Kampala*, Kamuli, Kamwenge, Kanungu, Kapchorwa, Kapelebyong, Karenga, Kasese, Kasanda, Katakwi, Kayunga, Kazo, Kibaale, Kiboga, Kibuku, Kikuube, Kiruhura, Kiryandongo, Kisoro, Kitagwenda, Kitgum, Koboko, Kole, Kotido, Kumi, Kwania, Kween, Kyankwanzi, Kyegegwa, Kyenjojo, Kyotera, Lamwo, Lira, Luuka, Luwero, Lwengo, Lyantonde, Madi-Okollo, Manafwa, Maracha, Masaka, Masindi, Mayuge, Mbale, Mbarara, Mitooma, Mityana, Moroto, Moyo, Mpigi, Mubende, Mukono, Nabilatuk, Nakapiripirit, Nakaseke, Nakasongola, Namayingo, Namisindwa, Namutumba, Napak, Nebbi, Ngora, Ntoroko, Ntungamo, Nwoya, Obongi, Omoro, Otuke, Oyam, Pader, Pakwach, Pallisa, Rakai, Rubanda, Rubirizi, Rukiga, Rukungiri, Rwampara, Sembabule, Serere, Sheema, Sironko, Soroti, Tororo, Wakiso, Yumbe, Zombo<br>
@@ -331,18 +331,17 @@ _residency requirement for naturalization_: an aggregate of 20 years and continu
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)<br>
-_elections_: last held on 18 February 2016 (next to be held in February 2021)<br>
-_election results_: percent of vote by party - NA; seats by party - NRM 292, FDC 37, DP 5, UPDF 10, UPC 6, independent 66 (excludes 19 ex-officio members)<br>
-
 **Executive branch**<br>
 _chief of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021); note - the president is both chief of state and head of government<br>
 _head of government_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986; re-elected for sixth term on 14 January 2021); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); Prime Minister Robinah NABBANJA (since 21 June 2021); First Deputy Prime Minister Rebecca KADAGA (since 24 June 2021); Second Deputy Prime Minister Moses ALI (since 21 June 2021)<br>
 _cabinet_: Cabinet appointed by the president from among elected members of the National Assembly or persons who qualify to be elected as members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 14 January 2021 (next to be held in 2026)<br>
-_election results_: Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br>
-_head of state_: President Yoweri Kaguta MUSEVENI (since seizing power on 26 January 1986); Vice President Jessica Rose Epel ALUPO (since 21 June 2021); note - the president is both head of state and head of government<br>
+_election results_: <em><br>2021: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 58.6%, Bobi WINE (NUP) 34.8%, Patrick Oboi AMURIAT (FDC) 3.2%, other 3.4%<br><br><em>2016: </em>Yoweri Kaguta MUSEVENI reelected president in the first round; percent of vote - Yoweri Kaguta MUSEVENI (NRM) 60.6%, Kizza BESIGYE (FDC) 35.6%, other 3.8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Parliament (445 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 112 for women directly elected in single-seat districts by simple majority vote, and 25 "representatives" reserved for special interest groups - army 10, disabled 5, youth 5, labor 5; up to 18 ex officio members appointed by the president; members serve 5-year terms)<br>
+_elections_: last held on 18 February 2016 (next to be held in February 2021)<br>
+_election results_: percent of vote by party - NA; seats by party - NRM 292, FDC 37, DP 5, UPDF 10, UPC 6, independent 66 (excludes 19 ex-officio members)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Uganda (consists of the chief justice and at least 6 justices)<br>
@@ -686,11 +685,11 @@ _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
 Uganda People's Defense Force (UPDF): Land Forces, Air Forces, Marine Forces, Special Forces Command, Reserve Force (2021)<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2020 est.)<br>
 2.1% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.5% of GDP (2017)<br>
 1.6% of GDP (2016)<br>
-1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 45-50,000 troops, including about 1,000-1,500 air and marine personnel (2021)<br>

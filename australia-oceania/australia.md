@@ -278,7 +278,8 @@ _name_: Canberra<br>
 _geographic coordinates_: 35 16 S, 149 08 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends first Sunday in April<br>
-<strong>note: </strong>Australia has four time zones, including Lord Howe Island (UTC+10:30)<strong><br><br>etymolgy: </strong>the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area "Nganbra" or "Nganbira"<br><strong><br><br></strong><br>
+_time zone note_: Australia has four time zones, including Lord Howe Island (UTC+10:30)<br>
+_etymology_: the name is claimed to derive from either Kambera or Camberry, which are names corrupted from the original native designation for the area "Nganbra" or "Nganbira"<br>
 
 **Administrative divisions**<br>
 6 states and 2 territories*; Australian Capital Territory*, New South Wales, Northern Territory*, Queensland, South Australia, Tasmania, Victoria, Western Australia<br>
@@ -311,16 +312,16 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
-_elections_: <br>Senate - last held on 18 May 2019 (next to be held in 2022)<br>House of Representatives - last held on 18 May 2019 (next to be held in 2022)<br>
-_election results_: <br>Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1<br>House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General David HURLEY (since 1 July 2019)<br>
 _head of government_: Prime Minister Scott MORRISON (since 24 August 2018)<br>
 _cabinet_: Cabinet nominated by the prime minister from among members of Parliament and sworn in by the governor general<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition is sworn in as prime minister by the governor general<br>
+
+**Legislative branch**<br>
+_description_: bicameral Federal Parliament consists of:<br>Senate (76 seats; 12 members from each of the 6 states and 2 each from the 2 mainland territories; members directly elected in multi-seat constituencies by proportional representation vote; members serve 6-year terms with one-half of state membership renewed every 3 years and territory membership renewed every 3 years)<br>House of Representatives (151 seats; members directly elected in single-seat constituencies by majority preferential vote; members serve terms of up to 3 years)<br>
+_elections_: <br>Senate - last held on 18 May 2019 (next to be held in 2022)<br>House of Representatives - last held on 18 May 2019 (next to be held in 2022)<br>
+_election results_: <br>Senate - percent of vote by party - Liberal/National coalition 37.99%, ALP 28.79%, The Greens 10.19%, One Nation 5.4%, Centre Alliance .19%, Lambie Network .21%, other 17.23%; seats by party - Liberal/National coalition 35, ALP 26, The Greens 9, One Nation 2, Centre Alliance 2, Lambie Network 1, independents 1<br>House of Representatives - percent of vote by party - Liberal/National coalition 41.4%, ALP 33.3%, The Greens 10.4%, Katter's Australian Party .49%, Centre Alliance .33%, independents 3.37%, other 10.63%; seats by party - Liberal/National Coalition 77, ALP 68, The Greens 1, Katter's Australian Party 1, Centre Alliance 1, independent 3<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Australia (consists of 7 justices, including the chief justice); note - each of the 6 states, 2 territories, and Norfolk Island has a Supreme Court; the High Court is the final appellate court beyond the state and territory supreme courts<br>

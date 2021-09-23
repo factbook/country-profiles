@@ -294,7 +294,7 @@ _name_: Havana<br>
 _geographic coordinates_: 23 07 N, 82 21 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November; note - Cuba has been known to alter the schedule of DST on short notice in an attempt to conserve electricity for lighting<br>
-<strong>etymology:</strong> the sites of Spanish colonial cities often retained their original Taino names; Habana, the Spanish name for the city, may be based on the name of a local Taino chief, HABAGUANEX<br>
+_etymology_: the sites of Spanish colonial cities often retained their original Taino names; Habana, the Spanish name for the city, may be based on the name of a local Taino chief, HABAGUANEX<br>
 
 **Administrative divisions**<br>
 15 provinces (provincias, singular - provincia) and 1 special municipality* (municipio especial); Artemisa, Camaguey, Ciego de Avila, Cienfuegos, Granma, Guantanamo, Holguin, Isla de la Juventud*, La Habana, Las Tunas, Matanzas, Mayabeque, Pinar del Rio, Sancti Spiritus, Santiago de Cuba, Villa Clara<br>
@@ -324,11 +324,6 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; (586 seats filled in 2021); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in July 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
-_elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
-_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Miguel DIAZ-CANEL Bermudez (since 10 October 2019); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019); note - the president is both chief of state and head of government<br>
 _head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Roberto MORALES Ojeda, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019)<br>
@@ -336,6 +331,11 @@ _cabinet_: Council of Ministers proposed by the president and appointed by the N
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held in 2024)<br>
 _election results_: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
 <em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Council of State; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Council of State<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; (586 seats filled in 2021); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in July 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
+_elections_: last held on 11 March 2018 (next to be held in early 2023)<br>
+_election results_: Cuba's Communist Party is the only legal party, and officially sanctioned candidates run unopposed; composition (as of June 2021) - men 273, women 313, percent of women 53.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: People's Supreme Court (consists of court president, vice president, 41 professional justices, and NA lay judges); organization includes the State Council, criminal, civil, administrative, labor, crimes against the state, and military courts)<br>

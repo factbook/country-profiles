@@ -272,7 +272,7 @@ federal presidential republic<br>
 _name_: Caracas<br>
 _geographic coordinates_: 10 29 N, 66 52 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>named for the native Caracas tribe that originally settled in the city's valley site near the Caribbean coast<br>
+_etymology_: named for the native Caracas tribe that originally settled in the city's valley site near the Caribbean coast<br>
 
 **Administrative divisions**<br>
 23 states (estados, singular - estado), 1 capital district* (distrito capital), and 1 federal dependency** (dependencia federal); Amazonas, Anzoategui, Apure, Aragua, Barinas, Bolivar, Carabobo, Cojedes, Delta Amacuro, Dependencias Federales (Federal Dependencies)**, Distrito Capital (Capital District)*, Falcon, Guarico, La Guaira, Lara, Merida, Miranda, Monagas, Nueva Esparta, Portuguesa, Sucre, Tachira, Trujillo, Yaracuy, Zulia<br>
@@ -303,17 +303,17 @@ _residency requirement for naturalization_: 10 years; reduced to five years in t
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
-_elections_: last held on 6 December 2020 (next to be held in December 2025)<br>
-_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3<br>
-
 **Executive branch**<br>
 _chief of state_: Notification Statement: the United States recognizes Juan GUAIDO as the Interim President of Venezuela<br><br>President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Nicolas MADURO Moros (since 19 April 2013); Executive Vice President Delcy RODRIGUEZ Gomez (since 14 June 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 6-year term (no term limits); election last held on 20 May 2018 (next election scheduled for 2024)<br>
 _election results_: 2018: Nicolas MADURO Moros reelected president; percent of vote - Nicolas MADURO Moros (PSUV) 68%, Henri FALCON (AP) 21%, Javier BERTUCCI 11%; note - the election was marked by serious shortcomings and electoral fraud; voter turnout was approximately 46% due largely to an opposition boycott of the election<br><br>2013: Nicolas MADURO Moros elected president; percent of vote - Nicolas MADURO Moros (PSUV) 50.6%, Henrique CAPRILES Radonski (PJ) 49.1%, other 0.3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (277 seats; 3 seats reserved for indigenous peoples of Venezuela; members serve 5-year terms); note - in 2020, the National Electoral Council increased the number of seats in the National Assembly from 167 to 277 for the 6 December 2020 election<br>
+_elections_: last held on 6 December 2020 (next to be held in December 2025)<br>
+_election results_: percent of vote by party - GPP (pro-government) 69.32%, Democratic Alliance (opposition coalition) 17.68%, other 13%; seats by party - GPP 253, Democratic Alliance 18, indigenous peoples 3, other 3<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Tribunal of Justice (consists of 32 judges organized into constitutional, political-administrative, electoral, civil appeals, criminal appeals, and social divisions)<br>
@@ -673,14 +673,14 @@ note - at the end of 2018, the Venezuelan Government claimed the Bolivarian Mili
 **Military equipment inventories and acquisitions**<br>
 the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries such as France, Germany, Italy, the Netherlands, Spain, the UK, and the US; since 2010, Russia is by far the top supplier of military hardware to Venezuela, followed by China, Spain, and Ukraine (2020)<br>
 
-**Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2019)<br>
-
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2020, no attacks were reported which was a decrease from the six attacks in 2019<br>
 
 **Military - note**<br>
 between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of mid-2019, military officers reportedly led at least 60 state-owned companies<br>
+
+**Military service age and obligation**<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2019)<br>
 
 ## Terrorism
 

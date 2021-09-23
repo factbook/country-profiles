@@ -287,7 +287,8 @@ _name_: Kyiv (Kiev)<br>
 _geographic coordinates_: 50 26 N, 30 31 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> pronounced KAY-yiv<br><br><strong>etymology:</strong> the name is associated with that of Kyi, who along with his brothers Shchek and Khoryv, and their sister Lybid, are the legendary founders of the medieval city of Kyiv; Kyi being the eldest brother, the city was named after him<br>
+_etymology_: the name is associated with that of Kyi, who along with his brothers Shchek and Khoryv, and their sister Lybid, are the legendary founders of the medieval city of Kyiv; Kyi being the eldest brother, the city was named after him<br>
+<strong>note:</strong> pronounced KAY-yiv<br>
 
 **Administrative divisions**<br>
 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
@@ -319,18 +320,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Executive branch**<br>
+_chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
+_head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
+_cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019 (next to be held in March 2024); prime minister selected by the Verkhovna Rada<br>
+_election results_: <br><em>2019:</em> Volodymyr ZELENSKYY elected president; first round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; second round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 73.2%, Petro POROSHENKO (BPP-Solidarity) 24.5%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br><br><em>2014: </em>Petro POROSHENKO elected president in the first round; percent of vote - Petro POROSHENKO (independent) 54.5%, Yuliya TYMOSHENKO (Fatherland) 12.9%, Oleh LYASHKO (Radical Party) 8.4%, other 24.2%; Volodymyr HROYSMAN (BPP) elected prime minister; Verkhovna Rada vote - 257-50<br>
+<strong>note:</strong> there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
+
 **Legislative branch**<br>
 _description_: unicameral Supreme Council or Verkhovna Rada (450 seats; 225 members directly elected in single-seat constituencies by simple majority vote and 225 directly elected in a single nationwide constituency by closed, party-list proportional representation vote; members serve 5-year terms)<br>
 _elections_: last held on 21 July 2019 (next to be held in July 2024)<br>
 _election results_: percent of vote by party - Servant of the People 43.2%, Opposition Platform-For Life 13.1%, Batkivshchyna 8.2%, European Solidarity 8.1%, Voice 5.8%, other 21.6%; seats by party (preliminary) - Servant of the People 254, Oposition Platform for Life 43, Batkivshchyna 26, European Solidarity 25, Voice 20, Opposition Bloc 6, Samopomich 1, Svoboda 1, other parties 2, independent 46; note - voting not held in Crimea and parts of two Russian-occupied eastern oblasts leaving 26 seats vacant; although this brings the total to 424 elected members (of 450 potential), article 83 of the constitution mandates that a parliamentary majority consists of 226 seats<br>
-
-**Executive branch**<br>
-_chief of state_: President Volodymyr ZELENSKYY (since 20 May 2019)<br>
-_head of government_: Prime Minister Denys SHMYHAL (since 4 March 2020)<br>
-_cabinet_: Cabinet of Ministers nominated by the prime minister, approved by the Verkhovna Rada&nbsp;<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 31 March and 21 April 2019 (next to be held in March 2024); prime minister selected by the Verkhovna Rada<br>
-_election results_: first round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 30.2%, Petro POROSHENKO (BPP-Solidarity) 15.6%, Yuliya TYMOSHENKO (Fatherland) 13.4%, Yuriy BOYKO (Opposition Platform-For Life) 11.7%, 35 other candidates 29.1%; second round results: percent of vote - Volodymyr ZELENSKYY (Servant of the People) 73.2%, Petro POROSHENKO (BPP-Solidarity) 24.5%; Denys SHMYHAL (independent) elected prime minister; Verkhovna Rada vote - 291-59<br>
-<strong>note:</strong> there is also a National Security and Defense Council or NSDC originally created in 1992 as the National Security Council; the NSDC staff is tasked with developing national security policy on domestic and international matters and advising the president; a presidential administration helps draft presidential edicts and provides policy support to the president<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Ukraine or SCU (consists of 100 judges, organized into civil, criminal, commercial and administrative chambers, and a grand chamber); Constitutional Court (consists of 18 justices); High Anti-Corruption Court (consists of 39 judges, including 12 in the Appeals Chamber)<br>
@@ -690,7 +691,7 @@ _river port(s)_: Kherson, Kyiv (Dnieper River), Mykolayiv (Buh River)<br>
 Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni Viys&rsquo;ka), Naval Forces (Viys&rsquo;kovo-Mors&rsquo;ki Syly, VMS), Air Forces (Povitryani Syly, PS), Air Assault Forces (Desantno-shturmovi Viyska, DShV), Ukrainian Special Operations Forces (UASOF), Territorial Defense Forces (Reserves);&nbsp; Ministry of Internal Affairs: National Guard of Ukraine, State Border Guard Service of Ukraine (includes Maritime Border Guard) (2021)<br>
 
 **Military expenditures**<br>
-3% of GDP (2020 est.)<br>
+3.2% of GDP (2020 est.)<br>
 3.9% of GDP (2019)<br>
 3.7% of GDP (2018)<br>
 3.1% of GDP (2017)<br>

@@ -291,7 +291,7 @@ _name_: Zagreb<br>
 _geographic coordinates_: 45 48 N, 16 00 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name seems to be related to "digging"; archeologists suggest that the original settlement was established beyond a water-filled hole or "graba" and that the name derives from this; "za" in Slavic means "beyond"; the overall meaning may be "beyond the trench (fault, channel, ditch)"<br>
+_etymology_: the name seems to be related to "digging"; archeologists suggest that the original settlement was established beyond a water-filled hole or "graba" and that the name derives from this; "za" in Slavic means "beyond"; the overall meaning may be "beyond the trench (fault, channel, ditch)"<br>
 
 **Administrative divisions**<br>
 20 counties (zupanije, zupanija - singular) and 1 city* (grad - singular) with special county status; Bjelovarsko-Bilogorska (Bjelovar-Bilogora), Brodsko-Posavska (Brod-Posavina), Dubrovacko-Neretvanska (Dubrovnik-Neretva), Istarska (Istria), Karlovacka (Karlovac), Koprivnicko-Krizevacka (Koprivnica-Krizevci), Krapinsko-Zagorska (Krapina-Zagorje), Licko-Senjska (Lika-Senj), Medimurska (Medimurje), Osjecko-Baranjska (Osijek-Baranja), Pozesko-Slavonska (Pozega-Slavonia), Primorsko-Goranska (Primorje-Gorski Kotar), Sibensko-Kninska (Sibenik-Knin), Sisacko-Moslavacka (Sisak-Moslavina), Splitsko-Dalmatinska (Split-Dalmatia), Varazdinska (Varazdin), Viroviticko-Podravska (Virovitica-Podravina), Vukovarsko-Srijemska (Vukovar-Syrmia), Zadarska (Zadar), Zagreb*, Zagrebacka (Zagreb county)<br>
@@ -321,18 +321,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Executive branch**<br>
+_chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
+_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Damir KRSTICEVIC (since 19 October 2016), Predrag STROMAR (since 9 June 2017), Marija Pejcinovic BURIC (since 19 June 2017), and Tomislav TOLUSIC (since 25 May 2018)<br>
+_cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 December 2019 with a runoff on 5 January 2020 (next to be held in 2024); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly<br>
+_election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in second round; percent of vote - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br><br><em>2015:</em> Kolinda GRABAR-KITAROVIC elected president in second round; percent of vote - Kolinda GRABAR-KITAROVIC (HDZ) 50.7%, Ivo JOSIPOVIC (Forward Croatia Progressive Alliance) 49.3%<br>
+
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: early election held on 5 July 2020 (next to be held by 2024)<br>
 _election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, People's Party - Reformists 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, People's Party - Reformists - 1, national minorities 8; composition - men 116, women 35, percent of women 23.2%<br>
 <strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, WF 1, independent 12<br>
-
-**Executive branch**<br>
-_chief of state_: President Zoran MILANOVIC (since 18 February 2020)<br>
-_head of government_: Prime Minister Andrej PLENKOVIC (since 19 October 2016); Deputy Prime Ministers Damir KRSTICEVIC (since 19 October 2016), Predrag STROMAR (since 9 June 2017), Marija Pejcinovic BURIC (since 19 June 2017), and Tomislav TOLUSIC (since 25 May 2018)&nbsp;<br>
-_cabinet_: Council of Ministers named by the prime minister and approved by the Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 December 2019 with a runoff on 5 January 2020 (next to be held in 2024); the leader of the majority party or majority coalition usually appointed prime minister by the president and approved by the Assembly<br>
-_election results_: Zoran MILANOVIC elected president in second round; percent of vote - Zoran MILANOVIC (SDP) 52.7%, Kolinda GRABAR-KITAROVIC (HDZ) 47.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and vice president, 25 civil department justices, and 16 criminal department justices)<br>

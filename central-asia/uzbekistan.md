@@ -274,7 +274,7 @@ presidential republic; highly authoritarian<br>
 _name_: Tashkent (Toshkent)<br>
 _geographic coordinates_: 41 19 N, 69 15 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> "tash" means "stone" and "kent" means "city" in Turkic languages, so the name simply denotes "stone city"<br>
+_etymology_: "tash" means "stone" and "kent" means "city" in Turkic languages, so the name simply denotes "stone city"<br>
 
 **Administrative divisions**<br>
 12 provinces (viloyatlar, singular - viloyat), 1 autonomous republic* (avtonom respublikasi), and 1 city** (shahar); Andijon Viloyati, Buxoro Viloyati [Bukhara Province], Farg'ona Viloyati [Fergana Province], Jizzax Viloyati, Namangan Viloyati, Navoiy Viloyati, Qashqadaryo Viloyati (Qarshi), Qoraqalpog'iston Respublikasi [Karakalpakstan Republic]* (Nukus), Samarqand Viloyati [Samarkand Province], Sirdaryo Viloyati (Guliston), Surxondaryo Viloyati (Termiz), Toshkent Shahri [Tashkent City]**, Toshkent Viloyati [Tashkent Province], Xorazm Viloyati (Urganch)<br>
@@ -305,18 +305,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
-<strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
-
 **Executive branch**<br>
 _chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)<br>
 _head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016); First Deputy Prime Minister/Minister of Transport Achilbay RAMATOV (since 15 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 4 December 2016 (next to be held in 2021); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
 _election results_: Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (NDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (Milliy Tiklanish/National Revival) 2.4%, other 1.8%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
+<strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 67 judges organized into administrative, civil, criminal, and economic sections); Constitutional Court (consists of 7 judges)<br>
@@ -657,8 +657,9 @@ _river port(s)_: Termiz (Amu Darya)<br>
 Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Security Troops (2021)<br>
 
 **Military expenditures**<br>
-4% of GDP (2018)<br>
-3.5% of GDP (2010)<br>
+1.2% of GDP (2020 est.)<br>
+1.2% of GDP (2019 est.)<br>
+4% of GDP (2018 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 50-60,000 total active troops (2021)<br>

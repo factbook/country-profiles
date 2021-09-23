@@ -283,7 +283,7 @@ absolute monarchy<br>
 _name_: Muscat<br>
 _geographic coordinates_: 23 37 N, 58 35 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name, whose meaning is uncertain, traces back almost two millennia; two 2nd century A.D. scholars, the geographer Ptolemy and the historian Arrian, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat<br>
+_etymology_: the name, whose meaning is uncertain, traces back almost two millennia; two 2nd century A.D. scholars, the geographer Ptolemy and the historian Arrian, both mention an Arabian Sea coastal town of Moscha, which most likely referred to Muscat<br>
 
 **Administrative divisions**<br>
 11 governorates (muhafazat, singular - muhafaza); Ad Dakhiliyah, Al Buraymi, Al Wusta, Az Zahirah, Janub al Batinah (Al Batinah South), Janub ash Sharqiyah (Ash Sharqiyah South), Masqat (Muscat), Musandam, Shamal al Batinah (Al Batinah North), Shamal ash Sharqiyah (Ash Sharqiyah North), Zufar (Dhofar)<br>
@@ -313,16 +313,16 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 21 years of age; universal; note - members of the military and security forces by law cannot vote<br>
 
-**Legislative branch**<br>
-_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br> Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
-_elections_: Council of State - last appointments on 11 July 2019 (next - NA)<br> Consultative Assembly - last held on 27 October 2019 (next to be held in October 2023)<br>
-_election results_: <br> Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
-
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020); note - the monarch is both chief of state and head of government<br>
 _head of government_: Sultan and Prime Minister HAYTHAM bin Tariq bin Taimur Al-Said (since 11 January 2020)<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: members of the Ruling Family Council determine a successor from the sultan's extended family; if the Council cannot form a consensus within 3 days of the sultan's death or incapacitation, the Defense Council will relay a predetermined heir as chosen by the sultan<br>
+
+**Legislative branch**<br>
+_description_: bicameral Council of Oman or Majlis Oman consists of:<br>Council of State or Majlis al-Dawla (85 seats including the chairman; members appointed by the sultan from among former government officials and prominent educators, businessmen, and citizens)<br> Consultative Council or Majlis al-Shura (86 seats; members directly elected in single- and 2-seat constituencies by simple majority popular vote to serve renewable 4-year terms); note - since political reforms in 2011, legislation from the Consultative Council is submitted to the Council of State for review by the Royal Court<br>
+_elections_: Council of State - last appointments on 11 July 2019 (next - NA)<br> Consultative Assembly - last held on 27 October 2019 (next to be held in October 2023)<br>
+_election results_: <br> Council of State - composition - men 70, women 15, percent of women 17.6%<br>Consultative Council percent of vote by party - NA; seats by party - NA (organized political parties in Oman are legally banned); composition men 84, women 2, percent of women 2.3%; note - total Council of Oman percent of women 9.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 5 judges)<br>
@@ -675,11 +675,11 @@ the Sultan's Armed Forces (SAF) have approximately 40,000 total active troops (2
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK is the leading provider of armaments to Oman, followed by the US (2020)<br>
 
-**Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription (2019)<br>
-
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
+
+**Military service age and obligation**<br>
+18-30 years of age for voluntary military service; no conscription (2019)<br>
 
 ## Transnational Issues
 

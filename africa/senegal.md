@@ -307,7 +307,7 @@ presidential republic<br>
 _name_: Dakar<br>
 _geographic coordinates_: 14 44 N, 17 38 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists<br>
+_etymology_: the Atlantic coast trading settlement of Ndakaaru came to be called "Dakar" by French colonialists<br>
 
 **Administrative divisions**<br>
 14 regions (regions, singular - region); Dakar, Diourbel, Fatick, Kaffrine, Kaolack, Kedougou, Kolda, Louga, Matam, Saint-Louis, Sedhiou, Tambacounda, Thies, Ziguinchor<br>
@@ -337,17 +337,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: <em></em>unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
-_elections_: National Assembly - last held on 2 July 2017 (next to be held in July 2022)<br>
-_election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
-
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
 _head of government_: President Macky SALL (since 2 April 2012)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
 _election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%<br>
+
+**Legislative branch**<br>
+_description_: <em></em>unicameral National Assembly or <em>Assemblée</em> Nationale (165 seats; 105 members including 15 representing Senegalese diaspora directly elected by plurality vote in single- and multi-seat constituencies and 60 members directly elected by proportional representation vote in single- and multi-seat constituencies)<br>
+_elections_: National Assembly - last held on 2 July 2017 (next to be held in July 2022)<br>
+_election results_: National Assembly results - percent of vote by party/coalition - BBK 49.5%, CGWS 16.7%, MTS 11.7%, PUR 4.7%, CP-Kaddu Askan Wi 2%, other 15.4%; seats by party/coalition - BBY 125, CGWS 19, MTS 7, PUR 3, CP-Kaddu Askan Wi 2, other 9; composition - men 96, women 69, percent of women 41.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of the court president and 12 judges and organized into civil and commercial, criminal, administrative, and social chambers); Constitutional Council or Conseil Constitutionel (consists of 7 members, including the court president, vice president, and 5 judges)<br>
@@ -689,11 +689,11 @@ _major seaport(s)_: Dakar<br>
 Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components) (2021)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2020)<br>
 1.5% of GDP (2019 est.)<br>
 1.6% of GDP (2018)<br>
 1.5% of GDP (2017)<br>
 1.6% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Senegalese Armed Forces consist of approximately 19,000 active personnel (12,000 Army; 1,000 Navy/Coast Guard; 1,000 Air Force; 5,000 National Gendarmerie) (2021)<br>

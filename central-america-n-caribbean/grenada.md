@@ -255,7 +255,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Saint George's<br>
 _geographic coordinates_: 12 03 N, 61 45 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's<br>
+_etymology_: the 1763 Treaty of Paris transferred possession of Grenada from France to Great Britain; the new administration renamed Ville de Fort Royal (Fort Royal Town) to Saint George's Town, after the patron saint of England; eventually the name became simply Saint George's<br>
 
 **Administrative divisions**<br>
 6 parishes and 1 dependency*; Carriacou and Petite Martinique*, Saint Andrew, Saint David, Saint George, Saint John, Saint Mark, Saint Patrick<br>
@@ -285,16 +285,16 @@ _residency requirement for naturalization_: 7 years for persons from a non-Carib
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 27 April 2018 (next no later than2023)<br> House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cecile LA GRENADE (since 7 May 2013)<br>
 _head of government_: Prime Minister Keith MITCHELL (since 20 February 2013)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (13 seats; members appointed by the governor general - 10 on the advice of the prime minister and 3 on the advice of the leader of the opposition party; members serve 5-year terms)<br> House of Representatives (15 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last appointments on 27 April 2018 (next no later than2023)<br> House of Representatives - last held on 13 March 2018 (next no later than 2023)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 11, women 2 percent of women 15.4%<br> House of Representatives - percent of vote by party - NNP 58.9%, NDC 40.5%; other 0.6% seats by party - NNP 15; composition - men 8, women 7, percent of women 46.7%; note - total Parliament percent of women 32.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: regionally, the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Grenada; appeals beyond the ECSC in civil and criminal matters are heard by the Judicial Committee of the Privy Council (in London)<br>

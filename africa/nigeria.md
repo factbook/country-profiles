@@ -306,7 +306,7 @@ federal presidential republic<br>
 _name_: Abuja<br>
 _geographic coordinates_: 9 05 N, 7 32 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Abuja is a planned capital city, it replaced Lagos in 1991; situated in the center of the country, Abuja takes its name from a nearby town, now renamed Suleja<br>
+_etymology_: Abuja is a planned capital city, it replaced Lagos in 1991; situated in the center of the country, Abuja takes its name from a nearby town, now renamed Suleja<br>
 
 **Administrative divisions**<br>
 36 states and 1 territory*; Abia, Adamawa, Akwa Ibom, Anambra, Bauchi, Bayelsa, Benue, Borno, Cross River, Delta, Ebonyi, Edo, Ekiti, Enugu, Federal Capital Territory*, Gombe, Imo, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Lagos, Nasarawa, Niger, Ogun, Ondo, Osun, Oyo, Plateau, Rivers, Sokoto, Taraba, Yobe, Zamfara<br>
@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br> House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br> House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
-
 **Executive branch**<br>
 _chief of state_: President Maj. Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015); note - the president is both chief of state, head of government, and commander-in-chief of the armed forces<br>
 _head of government_: President Maj.Gen. (ret.) Muhammadu BUHARI (since 29 May 2015); Vice President Oluyemi "Yemi" OSINBAJO (since 29 May 2015)<br>
 _cabinet_: Federal Executive Council appointed by the president but constrained constitutionally to include at least one member from each of the 36 states<br>
 _elections/appointments_: president directly elected by qualified majority popular vote and at least 25% of the votes cast in 24 of Nigeria's 36 states; president elected for a 4-year term (eligible for a second term); election last held on 23 February 2019 (next to be held in February 2023); note: the election was scheduled for 16 February 2019, but postponed on 16 February 2019<br>
 _election results_: Muhammadu BUHARI elected president; percent of vote - Muhammadu BUHARI (APC) 53%, Atiku ABUBAKER (PDP) 39%, other 8%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Senate (109 seats - 3 each for the 36 states and 1 for Abuja-Federal Capital Territory; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> House of Representatives (360 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: Senate - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br> House of Representatives - last held on 23 February 2019 (next to be held on 23 February 2023); note: election was scheduled for 16 February 2019 but was postponed on 15 February 2019<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - APC 65, PDP 39, YPP 1, TBD 3; composition - men 103, women 6, percent of women 5.5%<br> House of Representatives - percent of vote by party - NA; seats by party - APC 217, PDP 115, other 20, TBD 8; composition - men 346, women 14, percent of women 3.9%; note - total National Assembly percent of women 4.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 15 justices)<br>
@@ -702,11 +702,11 @@ _LNG terminal(s) (export)_: Bonny Island<br>
 Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of Interior: Nigeria Security and Civil Defence Corps (NSCDC, a paramilitary agency commissioned to assist the military in the management of threats to internal security, including attacks and natural disasters) (2021)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
 0.4% of GDP (2017)<br>
 0.4% of GDP (2016)<br>
-0.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 size estimates for the Nigerian Armed Forces vary; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2020)<br>

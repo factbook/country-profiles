@@ -287,7 +287,7 @@ semi-presidential republic<br>
 _name_: Tbilisi<br>
 _geographic coordinates_: 41 41 N, 44 50 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name in Georgian means "warm place," referring to the numerous sulfuric hot springs in the area<br>
+_etymology_: the name in Georgian means "warm place," referring to the numerous sulfuric hot springs in the area<br>
 
 **Administrative divisions**<br>
 <p>9 regions (mkharebi, singular - mkhare), 1 city (kalaki), and 2 autonomous republics (avtomnoy respubliki, singular - avtom respublika)</p> <p><strong>regions:</strong> Guria, Imereti, Kakheti, Kvemo Kartli, Mtskheta Mtianeti, Racha-Lechkhumi and Kvemo Svaneti, Samegrelo and Zemo Svaneti, Samtskhe-Javakheti, Shida Kartli; note - the breakaway region of South Ossetia consists of the northern part of Shida Kartli, eastern slivers of the Imereti region and Racha-Lechkhumi and Kvemo Svaneti, and part of western Mtskheta-Mtianeti</p> <p><strong>city:</strong> Tbilisi</p> <p><strong>autonomous republics:</strong> Abkhazia or Ap'khazet'is Avtonomiuri Respublika (Sokhumi), Ajaria or Acharis Avtonomiuri Respublika (Bat'umi)</p><br>
@@ -319,17 +319,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
-_elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1<br>
-
 **Executive branch**<br>
 _chief of state_: President Salome ZOURABICHVILI (since 16 December 2018)<br>
 _head of government_: Prime Minister Irakli GARIBASHVILI (since 22 February 2021)<br>
 _cabinet_: Cabinet of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2018 (next to be held in 2024); prime minister nominated by Parliament, appointed by the president <br><br>note - 2017 constitutional amendments made the 2018 election the last where the president was directly elected; future presidents will be elected by a 300-member College of Electors; in light of these changes, ZOURABICHVILI was allowed a six-year term<br>
 _election results_: Salome ZOURABICHVILI elected president in runoff; percent of vote - Salome ZOURABICHVILI (independent, backed by Georgian Dream) 59.5%, Grigol VASHADZE (UNM) 40.5%; Irakli GARIBASHVILI approved as prime minister by Parliamentary vote 89-2<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Sakartvelos Parlamenti (150 seats; 120 members directly elected in a single nationwide constituency by closed, party-list proportional representation vote and 30 directly elected in single-seat constituencies by at least 50% majority vote, with a runoff if needed; no party earning less than 40% of total votes may claim a majority; members serve 4-year terms)<br>
+_elections_: last held on 31 October and 21 November 2020 (next to be held in October 2024)<br>
+_election results_: percent of vote by party - Georgian Dream 48.2%, UNM 27.2%, European Georgia 3.8%, Lelo 3.2%, Strategy 3.2%, Alliance of Patriots 3.1%, Girchi 2.9%, Citizens 1.3%, Labor 1%; seats by party - Georgian Dream 90, UNM 36, European Georgia 5, Lelo 4, Strategy 4, Alliance of Patriots 4, Girchi 4, Citizens 2, Labor 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges organized into several specialized judicial chambers; number of judges determined by the president of Georgia); Constitutional Court (consists of 9 judges); note - the Abkhazian and Ajarian Autonomous republics each have a supreme court and a hierarchy of lower courts<br>
@@ -673,11 +673,11 @@ _major seaport(s)_: Black Sea - Bat'umi, P'ot'i<br>
 Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of the Interior: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2021)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2020 est.)<br>
 2.3% of GDP (2019)<br>
 2.1% of GDP (2018)<br>
 2.1% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
-2.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 25,000 troops, including active National Guard forces (2020)<br>

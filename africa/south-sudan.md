@@ -273,7 +273,7 @@ presidential republic<br>
 _name_: Juba<br>
 _geographic coordinates_: 04 51 N, 31 37 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name derives from Djouba, another name for the Bari people of South Sudan<br>
+_etymology_: the name derives from Djouba, another name for the Bari people of South Sudan<br>
 
 **Administrative divisions**<br>
 10 states; Central Equatoria, Eastern Equatoria, Jonglei, Lakes, Northern Bahr el Ghazal, Unity, Upper Nile, Warrap, Western Bahr el Ghazal, Western Equatoria; note - in 2015, the creation of 28 new states was announced and in 2017 four additional; following the February 2020 peace agreement, the country was reportedly again reorganized into the 10 original states,&nbsp;plus 2 administrative areas, Pibor and Ruweng, and 1 special administrative status area, Abyei; this latest administrative revision has not yet been vetted by the US Board on Geographic Names<br>
@@ -297,17 +297,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Legislature consists of:<br>Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)<br> Transitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms<br>
-_elections_: <br>Council of States - established and members appointed 1 August 2011<br> National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br> National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Riek MACHAR Teny Dhurgon (since 22 February 2020); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Salva KIIR Mayardit (since 9 July 2011); First Vice President Taban Deng GAI (since 26 July 2016); Vice President James Wani IGGA (since 26 April 2016); Vice President TABAN Deng Gai (since 22 February 2020); Vice President Rebecca Nyandeng Chol GARANG de Mabior (since 22 February 2020); Vice President Hussein ABDELBAGI Ayii (since 22 February 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: National Council of Ministers appointed by the president, approved by the Transitional National Legislative Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11-15 April 2010 (next election scheduled for 2015 postponed to 2018 and again to 2021)<br>
 _election results_: Salva KIIR Mayardit elected president; percent of vote - Salva KIIR Mayardit (SPLM) 93%, Lam AKOL (SPLM-DC) 7%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Legislature consists of:<br>Council of States, established by presidential decree in August 2011 (50 seats; 20 former members of the Council of States and 30 appointed representatives)<br> Transitional National Legislative Assembly, established on 4 August 2016, in accordance with the August 2015 Agreement on the Resolution of the Conflict in the Republic of South Sudan (400 seats; 170 members elected in April 2010, 96 members of the former National Assembly, 66 members appointed after independence, and 68 members added as a result of the 2016 Agreement); the TNLA will be expanded to 550 members after the transitional government forms<br>
+_elections_: <br>Council of States - established and members appointed 1 August 2011<br> National Legislative Assembly - last held 11-15 April 2010 but did not take office until July 2011; current parliamentary term extended until 2021)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - SPLM 20, unknown 30; composition - men 44, women 6, percent of women 12%<br> National Legislative Assembly - percent of vote by party - NA; seats by party - SPLM 251, DCP 10, independent 6, unknown 133; composition - men 291, women 109, percent of women 27.3%; note - total National Legislature percent of women 25.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of South Sudan (consists of the chief and deputy chief justices, 9 other justices and normally organized into panels of 3 justices, except when sitting as a Constitutional panel of all 9 justices chaired by the chief justice)<br>
@@ -599,11 +599,11 @@ see entry for Sudan<br>
 South Sudan People&rsquo;s Defence Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces (2021)<br>
 
 **Military expenditures**<br>
+2.3% of GDP (2020 est.)<br>
 3.5% of GDP (2019 est.)<br>
 3.7% of GDP (2018 est.)<br>
 2.8% of GDP (2017 est.)<br>
 4.6% of GDP (2016 est.)<br>
-10.6% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the South Sudan People’s Defense Force (SSPDF) has an estimated 150-200,000 active personnel, mostly ground forces with small contingents of air and riverine forces (2021)<br>
@@ -612,11 +612,11 @@ note - some active SSPDF personnel may be militia<br>
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2020)<br>
 
-**Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service; the Government of South Sudan signed agreements in March 2012 and August 2015 that included the demobilization of all child soldiers within the armed forces and opposition, but the recruitment of child soldiers by the warring parties continues; as of July 2019, UNICEF estimated that more than 19,000 child soldiers had been used in the country's civil war since it began in December 2013 (2019)<br>
-
 **Military - note**<br>
 the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of early 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had more than 19,000 personnel, including about 14,000 troops, deployed in the country as of March 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
+
+**Military service age and obligation**<br>
+18 is the legal minimum age for compulsory and voluntary military service; the Government of South Sudan signed agreements in March 2012 and August 2015 that included the demobilization of all child soldiers within the armed forces and opposition, but the recruitment of child soldiers by the warring parties continues; as of July 2019, UNICEF estimated that more than 19,000 child soldiers had been used in the country's civil war since it began in December 2013 (2019)<br>
 
 ## Transnational Issues
 

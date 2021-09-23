@@ -285,7 +285,7 @@ _name_: Budapest<br>
 _geographic coordinates_: 47 30 N, 19 05 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name<br>
+_etymology_: the Hungarian capital city was formed in 1873 from the merger of three cities on opposite banks of the Danube: Buda and Obuda (Old Buda) on the western shore and Pest on the eastern; the origins of the original names are obscure, but according to the second century A.D. geographer, Ptolemy, the settlement that would become Pest was called "Pession" in ancient times; "Buda" may derive from either a Slavic or Turkic personal name<br>
 
 **Administrative divisions**<br>
 <p>19 counties (megyek, singular - megye), 23 cities with county rights (megyei jogu varosok, singular - megyei jogu varos), and 1 capital city (fovaros)</p> <p><strong>counties:</strong> Bacs-Kiskun, Baranya, Bekes, Borsod-Abauj-Zemplen, Csongrad-Csanad, Fejer, Gyor-Moson-Sopron, Hajdu-Bihar, Heves, Jasz-Nagykun-Szolnok, Komarom-Esztergom, Nograd, Pest, Somogy, Szabolcs-Szatmar-Bereg, Tolna, Vas, Veszprem, Zala</p> <p><strong>cities with county rights:</strong> Bekescsaba, Debrecen, Dunaujvaros, Eger, Erd, Gyor, Hodmezovasarhely, Kaposvar, Kecskemet, Miskolc, Nagykanizsa, Nyiregyhaza, Pecs, Salgotarjan, Sopron, Szeged, Szekesfehervar, Szekszard, Szolnok, Szombathely, Tatabanya, Veszprem, Zalaegerszeg</p> <p><strong>capital city:</strong> Budapest</p><br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age, 16 if married and marriage is registered in Hungary; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Janos ADER (since 10 May 2012)&nbsp;<br>
 _head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)&nbsp;<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held by spring 2022)<br>
 _election results_: Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and approximately 91 judges and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
@@ -686,7 +686,8 @@ note: the Hungarian Defense Forces are organized into a joint force structure wi
 1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Hungarian Defense Forces have approximately 25,000 active duty troops (20,000 Army; 5,000 Air Force) (2020)<br>
+the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2021)<br>
+note - in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2020)<br>

@@ -300,7 +300,7 @@ presidential republic<br>
 _name_: Brazzaville<br>
 _geographic coordinates_: 4 15 S, 15 17 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who promoted French colonial interests in central Africa and worked against slavery and the abuse of African laborers<br>
+_etymology_: named after the Italian-born French explorer and humanitarian, Pierre Savorgnan de BRAZZA (1852-1905), who promoted French colonial interests in central Africa and worked against slavery and the abuse of African laborers<br>
 
 **Administrative divisions**<br>
 12 departments (departments, singular - department); Bouenza, Brazzaville, Cuvette, Cuvette-Ouest, Kouilou, Lekoumou, Likouala, Niari, Plateaux, Pointe-Noire, Pool, Sangha<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br> National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <strong> </strong><br> Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br> National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br> <br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>
-
 **Executive branch**<br>
 _chief of state_: President Denis SASSOU-Nguesso (since 25 October 1997)<br>
 _head of government_: Prime Minister Clement MOUAMBA (since 24 April 2016); note - a constitutional referendum held in 2015 approved the change of the head of government from the president to the prime minister (2019)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for 2 additional terms); election last held on 21 March 2021 (next to be held on 21 March 2026)<br>
 _election results_: Denis SASSOU-Nguesso reelected president in the first round; percent of vote - Denis SASSOU-Nguesso (PCT) 88.4%, Guy Price Parfait KOLELAS (MCDDI) 8.0%, turnout is 67.6%.<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (72 seats; members indirectly elected by regional councils by simple majority vote to serve 6-year terms with one-half of membership renewed every 3 years)<br> National Assembly (151 seats; members directly elected in single-seat constituencies by absolute majority popular vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: <strong> </strong><br> Senate - last held on 31 August 2017 for expiry of half the seats (next to be held in 2020)<br> National Assembly - last held on 16 and 30 July 2017 (next to be held in July 2022)<br>
+_election results_: <strong> </strong><br> Senate - percent of vote by party - NA; seats by party - PCT 46, independent 12, MAR 2, RDPS 2, UPADS 2, DRD 1, FP 1, MCDDI 1, PRL 1, Pulp 1, PUR 1, RC 1; composition - men 58, women 14, percent of women 19.4%<br> <br>National Assembly - percent of vote by party - NA; seats by party - PCT 96, UPADS 8, MCDDI 4, other 23 (less than 4 seats) independent 20; composition - men 134, women 17, percent of women 11.3%; note - total Parliament percent of women 13.9%<br><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 members); note - a High Court of Justice, outside the judicial authority, tries cases involving treason by the president of the republic<br>
@@ -685,6 +685,7 @@ Oyo (Alima)<br>
 Congolese Armed Forces (Forces Armees Congolaises, FAC): Army (Armee de Terre), Navy, Congolese Air Force (Armee de l'Air Congolaise), Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
+3.2% of GDP (2020 est.)<br>
 2.7% of GDP (2019)<br>
 2.5% of GDP (2018)<br>
 4.3% of GDP (2017)<br>

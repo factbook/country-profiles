@@ -282,7 +282,7 @@ parliamentary democracy; note - constitutional changes adopted in December 2015 
 _name_: Yerevan<br>
 _geographic coordinates_: 40 10 N, 44 30 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name likely derives from the ancient Urartian fortress of Erebuni established on the current site of Yerevan in 782 B.C. and whose impresive ruins still survive<br>
+_etymology_: name likely derives from the ancient Urartian fortress of Erebuni established on the current site of Yerevan in 782 B.C. and whose impresive ruins still survive<br>
 
 **Administrative divisions**<br>
 11 provinces (marzer, singular - marz); Aragatsotn, Ararat, Armavir, Geghark'unik', Kotayk', Lorri, Shirak, Syunik', Tavush, Vayots' Dzor, Yerevan<br>
@@ -312,11 +312,6 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, current - 132; members directly elected in single-seat constituencies by closed party-list proportional representation vote; the quota for the proportion of women MPs on each party list must be at least one of three candidates; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; members serve 5-year terms)<br>
-_elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
-_election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21.0%, I Have Honour Alliance 5.2%; seats by party - Civil Contract 72 of 105 seats, Armenia Alliance 27, I Have Honour Alliance 6; composition - men 101, women 31, percent of women 23.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Armen SARKISSIAN (since 9 April 2018)<br>
 _head of government_: Prime Minister Nikol PASHINYAN (since 10 September 2021); Deputy Prime Ministers Mher GRIGORYAN and Tigran AVINYAN (since 16 January 2019); note - Prime Minister Nikol PASHINYAN resigned on 25 April 2021; he was reappointed by the President on 02 August 2021 and sworn in on 10 September 2021<br>
@@ -324,6 +319,11 @@ _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president indirectly elected by the National Assembly in 3 rounds if needed for a single 7-year term; election last held on 2 March 2018; prime minister elected by majority vote in 2 rounds if needed by the National Assembly; election last held on 14 January 2019<br>
 _election results_: Armen SARKISSIAN elected president in first round; note - Armen SARKISSIAN ran unopposed and won the Assembly vote 90-10; Nikol PASHINYAN was chosen as prime minister by the parliament automatically after his party won a landslide victory in the December 2018 elections<br>
 <strong>note:</strong> After initially winning election on 8 May 2018, Nikol PASHINYAN resigned his post (but stayed on as acting prime minister) on 16 October 2018 to force a snap election (held on 9 December 2018) in which his bloc won more than 70% of the vote; PASHINYAN was reappointed prime minister on 14 January 2019<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (Parliament) or Azgayin Zhoghov (minimum 101 seats, current - 132; members directly elected in single-seat constituencies by closed party-list proportional representation vote; the quota for the proportion of women MPs on each party list must be at least one of three candidates; political parties must meet a 5% threshold and alliances a 7% threshold to win seats; members serve 5-year terms)<br>
+_elections_: last held early on 20 June 2021 (next to be held in June 2026)<br>
+_election results_: percent of vote by party - Civil Contract 53.9%, Armenia Alliance 21.0%, I Have Honour Alliance 5.2%; seats by party - Civil Contract 72 of 105 seats, Armenia Alliance 27, I Have Honour Alliance 6; composition - men 101, women 31, percent of women 23.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the Criminal Chamber with a chairman and 5 judges and the Civil and Administrative Chamber with a chairman and 10 judges – with both civil and administrative specializations); Constitutional Court (consists of 9 judges)<br>
@@ -337,7 +337,7 @@ Armenian National Congress or ANC (bloc of independent and opposition parties) [
 ADB, BSEC, CD, CE, CIS, CSTO, EAEC (observer), EAEU, EAPC, EBRD, FAO, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, MIGA, NAM (observer), OAS (observer), OIF, OPCW, OSCE, PFP, UN, UNCTAD, UNESCO, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant since late July 2021)<br>
+_chief of mission_: Ambassador (vacant since late July 2021); note: President Armen SARKISSIAN appointed Lilit MAKUNTS as the Armenian Ambassador to the U.S. on 05 August 2021<br>
 _chancery_: 2225 R Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 319-1976<br>
 _FAX_: [1] (202) 319-2982<br>
@@ -653,11 +653,11 @@ _non-urban_: 3,920 km<br>
 Armenian Armed Forces: Armenian Army (includes land, air, air defense forces) (2021)<br>
 
 **Military expenditures**<br>
+5% of GDP (2020 est.)<br>
 4.3% of GDP (2019)<br>
 4.3% of GDP (2018)<br>
 3.8% of GDP (2017)<br>
 4.1% of GDP (2016)<br>
-4.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armenian Armed Forces have approximately 45,000 active troops (42,000 ground; 3,000 air/defense) (2021)<br>

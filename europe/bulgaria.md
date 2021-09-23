@@ -285,7 +285,7 @@ _name_: Sofia<br>
 _geographic coordinates_: 42 41 N, 23 19 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D.<br>
+_etymology_: named after the Saint Sofia Church in the city, parts of which date back to the 4th century A.D.<br>
 
 **Administrative divisions**<br>
 28 provinces (oblasti, singular - oblast); Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Montana, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Ruse, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia-Grad (Sofia City), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 11 July 2021 (next election to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
-
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
 _head of government_: Interim Prime Minister Stefan YANEV (since 12 May 2021); note - YANEV is leading a caretaker government until elections are held on 11 July 2021<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13 November 2016 (next to be held in fall 2021); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
 _election results_: Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 11 July 2021 (next election to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>

@@ -256,7 +256,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Saint John's<br>
 _geographic coordinates_: 17 07 N, 61 51 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Saint John the Apostle<br>
+_etymology_: named after Saint John the Apostle<br>
 
 **Administrative divisions**<br>
 6 parishes and 2 dependencies*; Barbuda*, Redonda*, Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip<br>
@@ -286,16 +286,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Rodney WILLIAMS (since 14 August 2014)<br>
 _head of government_: Prime Minister Gaston BROWNE (since 13 June 2014)<br>
 _cabinet_: Council of Ministers appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (17 seats; members appointed by the governor general)<br>House of Representatives (18 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointed on 26 March 2018 (next NA)<br>House of Representatives - last held on 21 March 2018 (next to be held in March 2023)<br>
+_election results_: <br>Senate -  composition - men 8, women 9, percent of women 52.9%<br>House of Representatives - percent of vote by party - ABLP 59.4%, UPP 37.2%, BPM 1.4%, other 1.9% ; seats by party - ABLP 15, UPP 1, BPM 1; composition - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 31.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Antigua and Barbuda<br>

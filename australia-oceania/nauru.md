@@ -275,17 +275,17 @@ has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
 **Suffrage**<br>
 20 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
-_elections_: last held on 24 August 2019 (next to be held in 2022)<br>
-_election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Lionel AINGIMEA (since 27 August 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Lionel AINGIMEA (since 27 August 2019)<br>
 _cabinet_: Cabinet appointed by the president from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament (eligible for a second term); election last held on 27 August 2019 (next to be held in 2022)<br>
 _election results_: Lionel AINGIMEA elected president; Parliament vote - Lionel AINGIMEA (independent) 12, David ADEANG (Nauru First) 6<br>
+
+**Legislative branch**<br>
+_description_: unicameral parliament (19 seats; members directly elected in multi-seat constituencies by majority vote using the "Dowdall" counting system by which voters rank candidates on their ballots; members serve 3-year terms)<br>
+_elections_: last held on 24 August 2019 (next to be held in 2022)<br>
+_election results_: percent of vote - NA; seats - independent 19; composition - men 17, women 2, percent of women 10.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and several justices); note - in late 2017, the Nauruan Government revoked the 1976 High Court Appeals Act, which had allowed appeals beyond the Nauruan Supreme Court, and in early 2018, the government formed its own appeals court<br>

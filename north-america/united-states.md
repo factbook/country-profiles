@@ -285,7 +285,8 @@ _name_: Washington, DC<br>
 _geographic coordinates_: 38 53 N, 77 02 W<br>
 _time difference_: UTC-5 (during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-<strong>note:</strong> the 50 United States cover six time zones<br><br><strong>etymology:</strong> named after George Washington (1732-1799), the first president of the United States<br>
+_time zone note_: the 50 United States cover six time zones<br>
+_etymology_: named after George Washington (1732-1799), the first president of the United States<br>
 
 **Administrative divisions**<br>
 50 states and 1 district*; Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, District of Columbia*, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming<br>
@@ -319,18 +320,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held on 8 November 2022)<br>House of Representatives - last held on 3 November 2020 (next to be held on 8 November 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - Republican Party 50, Democratic Party 50; composition - men 76, women 24, percent of women 24% <br>House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 221, Republican Party 211, 3 seats vacant; composition - men 312, women 120, percent of women 27.8%; note - total US Congress percent of women 27.1%<br>
-<strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 3 November 2020 (next to be held on 8 November 2022)<br>
-
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021); note - the president is both chief of state and head of government<br>
 _head of government_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
 _election results_: Joseph R. BIDEN Jr. elected president; electoral vote - Joseph R. BIDEN Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>
+_elections_: <br>Senate - last held on 3 November 2020 (next to be held on 8 November 2022)<br>House of Representatives - last held on 3 November 2020 (next to be held on 8 November 2022)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - Republican Party 50, Democratic Party 50; composition - men 76, women 24, percent of women 24% <br>House of Representatives - percent of vote by party - NA; seats by party - Democratic Party 221, Republican Party 211, 3 seats vacant; composition - men 312, women 120, percent of women 27.8%; note - total US Congress percent of women 27.1%<br>
+<strong>note:</strong> in addition to the regular members of the House of Representatives there are 6 non-voting delegates elected from the District of Columbia and the US territories of American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands; these are single seat constituencies directly elected by simple majority vote to serve a 2-year term (except for the resident commissioner of Puerto Rico who serves a 4-year term); the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegates last held on 3 November 2020 (next to be held on 8 November 2022)<br>
 
 **Judicial branch**<br>
 _highest courts_: US Supreme Court (consists of 9 justices - the chief justice and 8 associate justices)<br>

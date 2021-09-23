@@ -72,7 +72,7 @@ _name_: Episkopi Cantonment (base administrative center for Akrotiri and Dhekeli
 _geographic coordinates_: 34 40 N, 32 51 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese<br>
+_etymology_: "Episkopi" means "episcopal" in Greek and stems from the fact that the site previously served as the bishop's seat of an Orthodox diocese<br>
 
 **Constitution**<br>
 _history_: presented 3 August 1960, effective 16 August 1960 (The Sovereign Base Areas of Akrotiri and Dhekelia Order in Council 1960, serves as a basic legal document); amended 1966 (2021)<br>

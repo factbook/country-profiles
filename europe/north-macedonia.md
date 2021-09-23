@@ -286,7 +286,7 @@ _name_: Skopje<br>
 _geographic coordinates_: 42 00 N, 21 26 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> Skopje derives from its ancient name Scupi, the Latin designation of a classical era Greco-Roman frontier fortress town; the name may go back even further to a pre-Greek, Illyrian name<br>
+_etymology_: Skopje derives from its ancient name Scupi, the Latin designation of a classical era Greco-Roman frontier fortress town; the name may go back even further to a pre-Greek, Illyrian name<br>
 
 **Administrative divisions**<br>
 70 municipalities (opstini, singular - opstina) and 1 city* (grad); Aracinovo, Berovo, Bitola, Bogdanci, Bogovinje, Bosilovo, Brvenica, Caska, Centar Zupa, Cesinovo-Oblesevo, Cucer Sandevo, Debar, Debarca, Delcevo, Demir Hisar, Demir Kapija, Dojran, Dolneni, Gevgelija, Gostivar, Gradsko, Ilinden, Jegunovce, Karbinci, Kavadarci, Kicevo, Kocani, Konce, Kratovo, Kriva Palanka, Krivogastani, Krusevo, Kumanovo, Lipkovo, Lozovo, Makedonska Kamenica, Makedonski Brod, Mavrovo i Rostusa, Mogila, Negotino, Novaci, Novo Selo, Ohrid, Pehcevo, Petrovec, Plasnica, Prilep, Probistip, Radovis, Rankovce, Resen, Rosoman, Skopje*, Sopiste, Staro Nagoricane, Stip, Struga, Strumica, Studenicani, Sveti Nikole, Tearce, Tetovo, Valandovo, Vasilevo, Veles, Vevcani, Vinica, Vrapciste, Zelenikovo, Zelino, Zrnovci<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
-_elections_: last election was to be held on 12 April 2020 but was postponed until 15 July 2020 due to the COVID-19 pandemic (next to be held in 2024)<br>
-_election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSh 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSh 1<br>
-
 **Executive branch**<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
 _head of government_: Prime Minister Zoran ZAEV (since 31 August 2020); note - Prime Minister ZAEV resigned on 3 January 2019 but was reelected by the Assembly on 31 August 2020 (62-51) following the delayed Assembly general election on 15 July 2020<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Zoran ZAEV reelected prime minister by the Assembly on 31 August 2020; Assembly vote - 62 for, 51 against<br>
 _election results_: Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly -&nbsp;Sobraine in Macedonian, Kuvend in Albanian (between 120 and 140 seats, currently 120; members directly elected in multi-seat constituencies by closed-list proportional representation vote; possibility of 3 directly elected in diaspora constituencies by simple majority vote provided there is sufficient voter turnout; members serve 4-year terms)<br>
+_elections_: last election was to be held on 12 April 2020 but was postponed until 15 July 2020 due to the COVID-19 pandemic (next to be held in 2024)<br>
+_election results_: percent of vote by party/coalition - We Can 35.9%, Renewal 34.6%, BDI 11.5%, AfA-Alternative 9%, The Left 4.1%, PDSh 1.5%, other 3.4%; seats by party/coalition - We Can 46, Renewal 44, BDI 15, AfA-Alternative 12, The Left 2, PDSh 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 22 judges); Constitutional Court (consists of 9 judges)<br>

@@ -290,7 +290,7 @@ federal parliamentary republic<br>
 _name_: Baghdad<br>
 _geographic coordinates_: 33 20 N, 44 24 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-although the origin of the name is disputed, it likely has compound Persian roots with "bagh" and "dad" meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
+_etymology_: although the origin of the name is disputed, it likely has compound Persian roots with "bagh" and "dad" meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
 
 **Administrative divisions**<br>
 18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Kurdistan Regional Government*; Maysan; Ninawa; Salah ad Din; Wasit<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system<br>
-_elections_: last held on 12 May 2018 (next to be held on 10 October 2021)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al&nbsp;Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Barham SALIH (since 2 October 2018); vice presidents (vacant)<br>
 _head of government_: Prime Minister Mustafa al-KADHIMI (since 7 May 2020)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, approved by Council of Representatives<br>
 _elections/appointments_: president indirectly elected by Council of Representatives (COR) to serve a 4-year term (eligible for a second term);&nbsp;COR election last held on 12 May 2018 (next NA)<br>
 _election results_: <p><em>2018:</em> COR vote in first round - Barham SALIH (PUK) 165, Fuad HUSAYN (KDP) 90; Barham SALIH elected president in second round - Barham SALIH 219, Fuad HUSAYN 22; note - the COR vote on 1 October 2018 failed due to a lack of quorum, and a new session was held on 2 October<br><br><em>2014:</em> Fuad MASUM elected president; Council of Representatives vote - Fuad MASUM (PUK) 211, Barham SALIH (PUK) 17; Haydar al-ABADI (Da'wa Party) approved as prime minister</p><br>
+
+**Legislative branch**<br>
+_description_: unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system<br>
+_elections_: last held on 12 May 2018 (next to be held on 10 October 2021)<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al&nbsp;Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>

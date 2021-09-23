@@ -285,7 +285,8 @@ _name_: Ulaanbaatar<br>
 _geographic coordinates_: 47 55 N, 106 55 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Saturday in March; ends last Saturday in September<br>
-<strong>note:</strong> Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)<br><br><strong>etymology:</strong> the name means "red hero" in Mongolian and honors national hero Damdin Sukhbaatar, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s<br>
+_time zone note_: Mongolia has two time zones - Ulaanbaatar Time (8 hours in advance of UTC) and Hovd Time (7 hours in advance of UTC)<br>
+_etymology_: the name means "red hero" in Mongolian and honors national hero Damdin Sukhbaatar, leader of the partisan army that with Soviet Red Army help, liberated Mongolia from Chinese occupation in the early 1920s<br>
 
 **Administrative divisions**<br>
 21 provinces (aymguud, singular - aymag) and 1 municipality* (singular - hot); Arhangay, Bayanhongor, Bayan-Olgiy, Bulgan, Darhan-Uul, Dornod, Dornogovi, Dundgovi, Dzavhan (Zavkhan), Govi-Altay, Govisumber, Hentiy, Hovd, Hovsgol, Omnogovi, Orhon, Ovorhangay, Selenge, Suhbaatar, Tov, Ulaanbaatar*, Uvs<br>
@@ -315,17 +316,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
-_elections_: last held on 24 June 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%; note - the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed Our Coalition for the 2020 election; the Right Person Electorate Coalition was established in 2020 by the National Labor Party, Mongolian Social Democratic Party, and Justice Party<br>
-
 **Executive branch**<br>
 _chief of state_: President Khaltmaa BATTULGA (since 10 July 2017)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
 _elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 26 June 2017 with a runoff held 7 July 2017 (next to be held in 2021); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
 _election results_: Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%; on 2 July 2020, Prime Minister Ukhnaa KHURELSUKH was reelected prime minister by the State Great Hural<br>
+
+**Legislative branch**<br>
+_description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
+_elections_: last held on 24 June 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - MPP 44.9%, DP 24.5%, Our Coalition 8.1%, independent 8.7%, Right Person Electorate Coalition 5.2%, other 8.5%; seats by party - MPP 62, DP 11, Our Coalition 1, Right Person Electorate Coalition 1; independent 1; composition -&nbsp; 63 men, 13 women; percent of women 17.1%; note - the MPRP, Civil Will-Green Party, and Mongolian Traditionally United Party formed Our Coalition for the 2020 election; the Right Person Electorate Coalition was established in 2020 by the National Labor Party, Mongolian Social Democratic Party, and Justice Party<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Chief Justice and 24 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tsets (consists of the chairman and 8 members)<br>
@@ -671,11 +672,11 @@ _by type_: bulk carrier 3, container ship 4, general cargo 113, oil tanker 70, o
 Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br> (2020)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
 0.7% of GDP (2018 est.)<br>
 0.8% of GDP (2017 est.)<br>
 0.9% of GDP (2016 est.)<br>
-0.9% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 size estimates for the the Mongolian Armed Forces (MAF) vary; approximately 9,000 active duty troops (2020)<br>

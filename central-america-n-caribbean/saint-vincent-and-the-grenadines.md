@@ -251,7 +251,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Kingstown<br>
 _geographic coordinates_: 13 08 N, 61 13 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is George III (r. 1760-1820)<br>
+_etymology_: an earlier French settlement was renamed Kingstown by the British in 1763 when they assumed control of the island; the king referred to in the name is George III (r. 1760-1820)<br>
 
 **Administrative divisions**<br>
 6 parishes; Charlotte, Grenadines, Saint Andrew, Saint David, Saint George, Saint Patrick<br>
@@ -281,16 +281,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)<br>
-_elections_: last held on 5 November 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Susan DOUGAN (since&nbsp;1 August 2019)<br>
 _head of government_: Prime Minister Ralph E. GONSALVES (since 29 March 2001)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party usually appointed prime minister by the governor general; deputy prime minister appointed by the governor general on the advice of the prime minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Assembly (23 seats; 15 representatives directly elected in single-seat constituencies by simple majority vote, 6 senators appointed by the governor general, and 2 ex officio members - the speaker of the house and the attorney general; members serve 5-year terms)<br>
+_elections_: last held on 5 November 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - ULP 49.58%, NDP 50.34%, other 0.8%; seats by party - ULP 9, NDP 6<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Vincent and the Grenadines; note - Saint Vincent and the Grenadines is also a member of the Caribbean Court of Justice<br>

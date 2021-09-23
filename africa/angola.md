@@ -298,7 +298,8 @@ _name_: Luanda<br>
 _geographic coordinates_: 8 50 S, 13 13 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-<strong>etymology:</strong> originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda<br>
+_etymology_: originally named "Sao Paulo da Assuncao de Loanda" (Saint Paul of the Assumption of Loanda), which over time was shortened and corrupted to just Luanda<br>
+&nbsp;<br>
 
 **Administrative divisions**<br>
 18 provinces (provincias, singular - provincia); Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Huila, Luanda, Lunda-Norte, Lunda-Sul, Malanje, Moxico, Namibe, Uige, Zaire<br>
@@ -328,17 +329,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 23 August 2017 (next to be held in August 2022)<br>
-_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%<br>
-
 **Executive branch**<br>
 _chief of state_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017); note - the president is both chief of state and head of government<br>
 _head of government_: President Joao Manuel Goncalves LOURENCO (since 26 September 2017); Vice President Bornito De Sousa Baltazar DIOGO (since 26 September 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: the candidate of the winning party or coalition in the last legislative election becomes the president; president serves a 5-year term (eligible for a second consecutive or discontinuous term); last held on 23 August 2017 (next to be held in 2022)<br>
 _election results_: Joao Manuel Goncalves LOURENCO (MPLA) elected president by the winning party following the 23 August 2017 general election<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assembleia Nacional (220 seats; members directly elected in a single national constituency and in multi-seat constituencies by closed list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 23 August 2017 (next to be held in August 2022)<br>
+_election results_: percent of vote by party - MPLA 61.1%, UNITA 26.7%, CASA-CE 9.5%, PRS 1.4%, FNLA 0.9%, other 0.5%; seats by party - MPLA 150, UNITA 51, CASA-CE 16, PRS 2, FNLA 1; composition - men 136, women 84, percent of women 38.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of the court president, vice president, and a minimum of 16 judges); Constitutional Court or Tribunal Constitucional (consists of 11 judges)<br>
@@ -689,11 +690,11 @@ _LNG terminal(s) (export)_: Angola Soyo<br>
 Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Guerra Angola, MGA), Angolan National Air Force (Forca Aerea Nacional Angolana, FANA; under operational control of the Army); Rapid Reaction Police (paramilitary) (2021)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2020 est.)<br>
 1.7% of GDP (2019)<br>
 1.8% of GDP (2018)<br>
 2.4% of GDP (2017)<br>
 3% of GDP (2016)<br>
-3.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Angolan Armed Forces (FAA) are comprised of approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2020)<br>

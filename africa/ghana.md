@@ -304,7 +304,7 @@ presidential republic<br>
 _name_: Accra<br>
 _geographic coordinates_: 5 33 N, 0 13 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name derives from the Akan word "nkran" meaning "ants," and refers to the numerous anthills in the area around the capital<br>
+_etymology_: the name derives from the Akan word "nkran" meaning "ants," and refers to the numerous anthills in the area around the capital<br>
 
 **Administrative divisions**<br>
 16 regions; Ahafo, Ashanti, Bono, Bono East, Central, Eastern, Greater Accra, North East, Northern, Oti, Savannah, Upper East, Upper West, Volta, Western, Western North<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary) - NPC 137, NDC 136, other 1, independent 1; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017); the president is both chief of state and head of government<br>
 _head of government_: President Nana Addo Dankwa AKUFO-ADDO (since 7 January 2017); Vice President Mahamudu BAWUMIA (since 7 January 2017)<br>
 _cabinet_: Council of Ministers; nominated by the president, approved by Parliament<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 December 2020 (next to be held in December 2024)<br>
 _election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first round; percent of vote - Nana Addo Dankwa AKUFO-ADDO (NPP) 51.3%, John Dramani MAHAMA (NDC) 47.4%, other 1.3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
+_election results_: percent of vote by party - NA; seats by party (preliminary) - NPC 137, NDC 136, other 1, independent 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -688,11 +688,11 @@ _major seaport(s)_: Takoradi, Tema<br>
 Ghana Armed Forces: Army, Navy, Air Force (2021)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019)<br>
 0.4% of GDP (2018)<br>
 0.3% of GDP (2017)<br>
 0.3% of GDP (2016)<br>
-0.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Ghana Armed Forces consists of approximately 14,000 active personnel (10,000 Army; 2,000 Navy; 2,000 Air Force) (2020)<br>

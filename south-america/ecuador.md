@@ -299,7 +299,8 @@ presidential republic<br>
 _name_: Quito<br>
 _geographic coordinates_: 0 13 S, 78 30 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>note: </strong>Ecuador has two time zones, including the Galapagos Islands (UTC-6)<strong><br><br>etymology:</strong> named after the Quitus, a Pre-Columbian indigenous people credited with founding the city<br>
+_time zone note_: Ecuador has two time zones, including the Galapagos Islands (UTC-6)<br>
+_etymology_: named after the Quitus, a Pre-Columbian indigenous people credited with founding the city<br>
 
 **Administrative divisions**<br>
 24 provinces (provincias, singular - provincia); Azuay, Bolivar, Canar, Carchi, Chimborazo, Cotopaxi, El Oro, Esmeraldas, Galapagos, Guayas, Imbabura, Loja, Los Rios, Manabi, Morona-Santiago, Napo, Orellana, Pastaza, Pichincha, Santa Elena, Santo Domingo de los Tsachilas, Sucumbios, Tungurahua, Zamora-Chinchipe<br>
@@ -329,17 +330,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18-65 years of age; universal and compulsory; 16-18, over 65, and other eligible voters, voluntary<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
-_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
-
 **Executive branch**<br>
 _chief of state_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021); the president is both chief of state and head of government<br>
 _head of government_: President Guillermo LASSO Mendoza (since 24 May 2021); Vice President Alfredo Enrique BORRERO Vega (since 24 May 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 7 February 2021 with a runoff on 11 April 2021 (next to be held in February 2025)<br>
 _election results_: <br><em>2021:</em> Guillermo LASSO Mendoza elected president; first round election results: percent of vote - Andres ARAUZ (UNES) 32.72%, Guillermo LASSO Mendoza (CREO) 19.74%, Yaku PEREZ Guartambel (MUPP) 19.38%, Xavier HERVAS Mora (Independent) 15.68%, other 12.48%; second round election results: percent of vote - Guillermo LASSO Mendoza (CREO) 52.5%, Andres ARAUZ (UNES) 47.5%<br><br><em>2017:</em> Lenin MORENO Garces elected president in second round; percent of vote - Lenin MORENO Garces (Alianza PAIS Movement) 51.1%, Guillermo LASSO (CREO) 48.9%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (137 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 15 members directly elected in a single nationwide constituency by proportional representation vote, and 6 directly elected in multi-seat constituencies for Ecuadorians living abroad by simple majority vote; members serve 4-year terms)<br>
+_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
+_election results_: percent of vote by party - UNES 32.21%, MUPP 16.81%, ID 11.98%, PSC 9.73%, CREO 9.65%, MC-PSE 3.76%, other 15.86%; seats by party - UNES 49, MUPP 27, ID 18, PSC 18, CREO 12, MC-PSE 2, independents 3, other 8; composition - men 85, women 52, percent of women 38%; note - defections by members of National Assembly are commonplace, resulting in frequent changes in the numbers of seats held by the various parties<br>
 
 **Judicial branch**<br>
 _highest courts_: National Court of Justice or Corte Nacional de Justicia (consists of 21 judges, including the chief justice and organized into 5 specialized chambers); Constitutional Court or Corte Constitucional (consists of 9 judges)<br>

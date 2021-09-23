@@ -280,7 +280,7 @@ _name_: Jerusalem; note - the US recognized Jerusalem as Israel&rsquo;s capital 
 _geographic coordinates_: 31 46 N, 35 14 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, Friday before the last Sunday in March; ends the last Sunday in October<br>
-<strong>etymology:</strong> Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; "uru-shalim" likely means "foundation of [by] the god Shalim", and derives from Hebrew/Semitic "yry", "to found or lay a cornerstone", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for "peace" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as "The City of Peace" or "The Abode of Peace"<br>
+_etymology_: Jerusalem's settlement may date back to 2800 B.C.; it is named Urushalim in Egyptian texts of the 14th century B.C.; "uru-shalim" likely means "foundation of [by] the god Shalim", and derives from Hebrew/Semitic "yry", "to found or lay a cornerstone", and Shalim, the Canaanite god of dusk and the nether world; Shalim was associated with sunset and peace and the name is based on the same S-L-M root from which Semitic words for "peace" are derived (Salam or Shalom in modern Arabic and Hebrew); this confluence has thus led to naming interpretations such as "The City of Peace" or "The Abode of Peace"<br>
 
 **Administrative divisions**<br>
 6 districts (mehozot, singular - mehoz); Central, Haifa, Jerusalem, Northern, Southern, Tel Aviv<br>
@@ -311,17 +311,17 @@ _residency requirement for naturalization_: 3 out of the 5 years preceding the a
 **Suffrage**<br>
 18 years of age; universal; 17 years of age for municipal elections<br>
 
-**Legislative branch**<br>
-_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
-_elections_: last held on 23 March 2021 (next to be held in 2025)<br>
-_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA<br>
-
 **Executive branch**<br>
-_chief of state_: President Issac HERZOG (since 7 July 2021)<br>
+_chief of state_: President Isaac HERZOG (since 7 July 2021)<br>
 _head of government_: Prime Minister Naftali BENNETT (since 13 June 2021)<br>
 _cabinet_: Cabinet selected by prime minister and approved by the Knesset<br>
 _elections/appointments_: president indirectly elected by the Knesset for a single 7-year term; election last held on 2 June 2021 (next to be held in June 2028); following legislative elections, the president, in consultation with party leaders, tasks a Knesset member (usually the member of the largest party) with forming a new government<br>
 _election results_: Issac HERZOG elected president; Knesset vote - Issac HERZOG (independent) 87, Miriam PERETZ (independent) 26, invalid/blank 7<br>
+
+**Legislative branch**<br>
+_description_: unicameral Knesset (120 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a 3.25% vote threshold to gain representation; members serve 4-year terms)<br>
+_elections_: last held on 23 March 2021 (next to be held in 2025)<br>
+_election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, Blue and White 6.6%, Yamina 6.2%, Labor 6.1%, UTJ 5.6%, Yisrael Beiteinu 5.6%, Religious Zionist Party 5.1%, Joint List 4.8%, New Hope 4.7%, Meretz 4.6%, Ra'am 3.8%, other 0.5%; seats by party - Likud 30, Yesh Atid 17, Shas 9, Blue and White 8, Yamina 7, Labor 7, UTJ 7, Yisrael Beiteinu 7, Religious Zionist Party 6, Joint List 6, New Hope 6, Meretz 6, Ra'am 4 - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>

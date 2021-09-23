@@ -291,7 +291,7 @@ communist state<br>
 _name_: Vientiane (Viangchan)<br>
 _geographic coordinates_: 17 58 N, 102 36 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the meaning in Pali, a Buddhist liturgical language, is "city of sandalwood"<br>
+_etymology_: the meaning in Pali, a Buddhist liturgical language, is "city of sandalwood"<br>
 
 **Administrative divisions**<br>
 17 provinces (khoueng, singular and plural) and 1 prefecture* (kampheng nakhon); Attapu, Bokeo, Bolikhamxai, Champasak, Houaphan, Khammouan, Louangnamtha, Louangphabang, Oudomxai, Phongsali, Salavan, Savannakhet, Viangchan (Vientiane)*, Viangchan, Xaignabouli, Xaisomboun, Xekong, Xiangkhouang<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President THONGLOUN Sisoulit (since 22 March 2021); Vice President PANI Yathotou; Vice President BOUNTHONG Chitmani (since 22 March 2021)<br>
 _head of government_: Prime Minister PHANKHAM Viphavan (since 22 March 2021); Deputy Prime Ministers CHANSAMON Chan-gnalat, SONXAI Siphandon, KIKEO Khaikhamphithoun (since 22 March 2021)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
 _election results_: THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>
+_elections_: last held on 21 February 2021 (next to be held in 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - LPRP 158, independent 6; composition - men 128, women 36, percent of women 21.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: People's Supreme Court (consists of the court president and organized into criminal, civil, administrative, commercial, family, and juvenile chambers, each with a vice president and several judges)<br>

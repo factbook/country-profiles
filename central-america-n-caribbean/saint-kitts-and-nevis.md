@@ -252,7 +252,7 @@ federal parliamentary democracy under a constitutional monarchy; a Commonwealth 
 _name_: Basseterre<br>
 _geographic coordinates_: 17 18 N, 62 43 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the French name translates as "low land" in English; the reference is to the city's low-lying location within a valley, as well as to the fact that the city is on the leeward (downwind) part of the island, and is thus a safe anchorage<br>
+_etymology_: the French name translates as "low land" in English; the reference is to the city's low-lying location within a valley, as well as to the fact that the city is on the leeward (downwind) part of the island, and is thus a safe anchorage<br>
 
 **Administrative divisions**<br>
 14 parishes; Christ Church Nichola Town, Saint Anne Sandy Point, Saint George Basseterre, Saint George Gingerland, Saint James Windward, Saint John Capesterre, Saint John Figtree, Saint Mary Cayon, Saint Paul Capesterre, Saint Paul Charlestown, Saint Peter Basseterre, Saint Thomas Lowland, Saint Thomas Middle Island, Trinity Palmetto Point<br>
@@ -282,16 +282,16 @@ _residency requirement for naturalization_: 14 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
-_elections_: last held on 5 June 2020 (next to be held on 2025)<br>
-_election results_: percent of vote by party - Team Unity (PAM, CCM,PLP) 56.4%, SKNLP 34.5%, NRP 9%; seats by party - PAM 4, SKNLP&nbsp;2, CCM 3, PLP 2<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Samuel W.T. SEATON (since 2 September 2015); note - SEATON was acting Governor General from 20 May to 2 September 2015<br>
 _head of government_: Prime Minister Timothy HARRIS (since 18 February 2015); Deputy Prime Minister Shawn RICHARDS (since 22 February 2015)<br>
 _cabinet_: Cabinet appointed by governor general in consultation with prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (14 or 15 seats, depending on inclusion of attorney general; 11 members directly elected in single-seat constituencies by simple majority vote and 3 appointed by the governor general - 2 on the advice of the prime minister and the third on the advice of the opposition leader; members serve 5-year terms)<br>
+_elections_: last held on 5 June 2020 (next to be held on 2025)<br>
+_election results_: percent of vote by party - Team Unity (PAM, CCM,PLP) 56.4%, SKNLP 34.5%, NRP 9%; seats by party - PAM 4, SKNLP&nbsp;2, CCM 3, PLP 2<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 assigned to Saint Kitts and Nevis; note - the ECSC in 2003 replaced the Judicial Committee of the Privy Council (in London) as the final court of appeal on Saint Kitts and Nevis; Saint Kitts and Nevis is also a member of the Caribbean Court of Justice<br>

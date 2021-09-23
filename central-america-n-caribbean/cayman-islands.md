@@ -222,17 +222,17 @@ _conventional long form_: none<br>
 _conventional short form_: Cayman Islands<br>
 _etymology_: the islands' name comes from the native Carib word "caiman," describing the marine crocodiles living there<br>
 
-**Dependency status**<br>
-overseas territory of the UK<br>
-
 **Government type**<br>
 parliamentary democracy; self-governing overseas territory of the UK<br>
+
+**Dependency status**<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: George Town (on Grand Cayman)<br>
 _geographic coordinates_: 19 18 N, 81 23 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after English King George III (1738-1820)<br>
+_etymology_: named after English King George III (1738-1820)<br>
 
 **Administrative divisions**<br>
 6 districts; Bodden Town, Cayman Brac and Little Cayman, East End, George Town, North Side, West Bay<br>
@@ -256,16 +256,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
-_elections_: last held on 14 April 2021 (next to be held on 2025)<br>
-_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; seats by party - independent 12, PPM 7<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Martyn&nbsp;ROPER (since 29 October 2018)<br>
 _head of government_: Premier Wayne PANTON (since 21 April 2021)<br>
 _cabinet_: Cabinet selected from the Parliament and appointed by the governor on the advice of the premier<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition appointed premier by the governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (21 seats; 19 members directly elected by majority vote and 2 ex officio members - the deputy governor and attorney general - appointed by the governor; members serve 4-year terms)<br>
+_elections_: last held on 14 April 2021 (next to be held on 2025)<br>
+_election results_: percent of vote by party - independent 79.1%, PPM 19.6%; seats by party - independent 12, PPM 7<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and at least 2 judges); Grand Court (consists of the court president and at least 2 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

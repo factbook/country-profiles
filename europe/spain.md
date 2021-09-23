@@ -299,7 +299,8 @@ _name_: Madrid<br>
 _geographic coordinates_: 40 24 N, 3 41 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> Spain has two time zones, including the Canary Islands (UTC 0)<br><br><strong>etymology:</strong> the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid"<br>
+_time zone note_: Spain has two time zones, including the Canary Islands (UTC 0)<br>
+_etymology_: the Romans named the original settlement "Matrice" after the river that ran through it; under Arab rule it became "Majerit," meaning "source of water"; in medieval Romance dialects (Mozarabic) it became "Matrit," which over time changed to "Madrid"<br>
 
 **Administrative divisions**<br>
 17 autonomous communities (comunidades autonomas, singular - comunidad autonoma) and 2 autonomous cities* (ciudades autonomas, singular - ciudad autonoma); Andalucia; Aragon; Asturias; Canarias (Canary Islands); Cantabria; Castilla-La Mancha; Castilla-Leon; Cataluna (Castilian), Catalunya (Catalan), Catalonha (Aranese) [Catalonia]; Ceuta*; Comunidad Valenciana (Castilian), Comunitat Valenciana (Valencian) [Valencian Community]; Extremadura; Galicia; Illes Baleares (Balearic Islands); La Rioja; Madrid; Melilla*; Murcia; Navarra (Castilian), Nafarroa (Basque) [Navarre]; Pais Vasco (Castilian), Euskadi (Basque) [Basque Country]<br>
@@ -330,11 +331,6 @@ _residency requirement for naturalization_: 10 years for persons with no ties to
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br> Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
-_elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than November 2023)<br> Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39%<br> Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%<br>
-
 **Executive branch**<br>
 _chief of state_: King FELIPE VI (since 19 June 2014); Heir Apparent Princess LEONOR, Princess of Asturias (daughter of the monarch, born 31 October 2005)<br>
 _head of government_: President of the Government (Prime Minister-equivalent) Pedro SANCHEZ Perez-Castejon (since 2 June 2018); Vice President (and Minister of the President's Office) Maria del Carmen CALVO Poyato (since 7 June 2018)<br>
@@ -342,6 +338,11 @@ _cabinet_: Council of Ministers designated by the president&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the monarch usually proposes as president the leader of the party or coalition with the largest majority of seats, who is then indirectly elected by the Congress of Deputies; election last held on 10 November 2019 (next to be held November 2023); vice president and Council of Ministers appointed by the president<br>
 _election results_: percent of National Assembly vote - NA<br>
 <strong>note:</strong> there is also a Council of State that is the supreme consultative organ of the government, but its recommendations are non-binding<br>
+
+**Legislative branch**<br>
+_description_: bicameral General Courts or Las Cortes Generales consists of:<br>Senate or Senado (266 seats; 208 members directly elected in multi-seat constituencies by simple majority vote and 58 members indirectly elected by the legislatures of the autonomous communities; members serve 4-year terms)<br> Congress of Deputies or Congreso de los Diputados (350 seats; 348 members directly elected in 50 multi-seat constituencies by closed-list proportional representation vote, with a 3% threshold needed to gain a seat, and 2 directly elected from the North African Ceuta and Melilla enclaves by simple majority vote; members serve 4-year terms or until the government is dissolved)<br>
+_elections_: <br>Senate - last held on 10 November 2019 (next to be held no later than November 2023)<br> Congress of Deputies - last held on 10 November 2019 (next to be held no later than November 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PSOE 113, PP 97, ERC 15, EAJ/PNV 10, C's 9, other 22; composition - men 163, women 103; percent of women 39%<br> Congress of Deputies - percent of vote by party - PSOE 28.7%, PP 20.8%,Vox 15.1%, Unidos Podemos 12.8%, C's 6.8%, ERC 3.6%, other 12.8%; seats by party - PSOE 120, PP 88, Vox 52,  Unidos Podemos 35, C's 10, ERC 13, other 23; composition - men 184, women 166; percent of women 47.4%; note - total  General Courts percent of women 43.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo (consists of the court president and organized into the Civil Room, with a president and 9 judges; the Penal Room, with a president and 14 judges; the Administrative Room, with a president and 32 judges; the Social Room, with a president and 12 judges; and the Military Room, with a president and 7 judges); Constitutional Court or Tribunal Constitucional de Espana (consists of 12 judges)<br>
@@ -695,7 +696,7 @@ _river port(s)_: Seville (Guadalquivir River)<br>
 
 **Military and security forces**<br>
 Spanish Armed Forces: Army (Ejercito de Tierra), Spanish Navy (Armada Espanola, AE, includes Marine Corps), Spanish Air Force (Ejercito del Aire Espanola, EdA); Civil Guard (Guardia Civil) (2021)<br>
-note: the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defence and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
+note - the Civil Guard is a military force with police duties (including coast guard) under both the Ministry of Defence and the Ministry of the Interior; it also responds to the needs of the Ministry of Finance<br>
 
 **Military expenditures**<br>
 1.17% of GDP (2020 est.)<br>
@@ -733,7 +734,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>229,740 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note: 193,257</strong> estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

@@ -286,7 +286,7 @@ semi-presidential republic<br>
 _name_: Bissau<br>
 _geographic coordinates_: 11 51 N, 15 35 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the meaning of Bissau is uncertain, it might be an alternative name for the Papel people who live in the area of the city of Bissau<br>
+_etymology_: the meaning of Bissau is uncertain, it might be an alternative name for the Papel people who live in the area of the city of Bissau<br>
 
 **Administrative divisions**<br>
 9 regions (regioes, singular - regiao); Bafata, Biombo, Bissau, Bolama/Bijagos, Cacheu, Gabu, Oio, Quinara, Tombali<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (1 for Africa, 1 for Europe); all members serve 4-year terms)<br>
-_elections_: last held on 10 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
-
 **Executive branch**<br>
 _chief of state_: &nbsp;President Umaro Cissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission; however, on 28 February 2020, Cipriano CASSAMA was appointed as interim president by the parliament until the Supreme Court rules on the legitimacy of the elections due to alleged irregularities in voting; CASSAMA resigned the following day stating he had received death threats&nbsp;<br>
 _head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term<br>
 _election results_: Umaro Sissoco EMBALO elected president in second round; percent of vote in first round - Domingos Simoes PEREIRA (PAIGC) 40.1%, Umaro Sissoco EMBALO (Madem G15) 27.7%, Nuno Gomez NABIAM (APU-PDGB) 13.2%, Jose Mario VAZ (independent) 12.4%, other 6.6%; percent of vote in second round - Umaro Sissoco EMBALO 53.6%, Domingos Simoes PEREIRA 46.5%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National People's Assembly or Assembleia Nacional Popular (102 seats; 100 members directly elected in 27 multi-seat constituencies by closed party-list proportional representation vote and 2 elected in single-seat constituencies for citizens living abroad (1 for Africa, 1 for Europe); all members serve 4-year terms)<br>
+_elections_: last held on 10 March 2019 (next to be held in March 2023)<br>
+_election results_: percent of vote by party - PAIGC 35.2%, Madem G-15 21.1%, PRS 21.1%, other 22.6%; seats by party - PAIGC 47, Madem G-15 27, PRS 21, other 7; composition - men 88, women 14, percent of women 13.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 9 judges and organized into Civil, Criminal, and Social and Administrative Disputes Chambers); note - the Supreme Court has both appellate and constitutional jurisdiction<br>

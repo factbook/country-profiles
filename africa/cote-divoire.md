@@ -306,7 +306,7 @@ presidential republic<br>
 _name_: Yamoussoukro (legislative capital), Abidjan (administrative capital); note - although Yamoussoukro has been the official capital since 1983, Abidjan remains the administrative capital as well as the officially designated economic capital; the US, like other countries, maintains its Embassy in Abidjan<br>
 _geographic coordinates_: 6 49 N, 5 16 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m’bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response<br>
+_etymology_: Yamoussoukro is named after Queen YAMOUSSOU, who ruled in the village of N'Gokro in 1929 at the time of French colonization; the village was renamed Yamoussoukro, the suffix "-kro" meaning "town" in the native Baoule language; Abidjan's name supposedly comes from a misunderstanding; tradition states that an old man carrying branches met a European explorer who asked for the name of the nearest village; the man, not understanding and terrified by this unexpected encounter, fled shouting "min-chan m&rsquo;bidjan," which in the Ebrie language means: "I return from cutting leaves"; the explorer, thinking that his question had been answered, recorded the name of the locale as Abidjan; a different version has the first colonists asking native women the name of the place and getting a similar response<br>
 
 **Administrative divisions**<br>
 12 districts and 2 autonomous districts*; Abidjan*, Bas-Sassandra, Comoe, Denguele, Goh-Djiboua, Lacs, Lagunes, Montagnes, Sassandra-Marahoue, Savanes, Vallee du Bandama, Woroba, Yamoussoukro*, Zanzan<br>
@@ -336,18 +336,18 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - first ever held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 6 March 2021 (next to be held in 2026)<br>
-_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%<br>
-<br><br><br>
-
 **Executive branch**<br>
 _chief of state_: President Alassane Dramane OUATTARA (since 4 December 2010); Vice President (vacant); note - Vice President Daniel Kablan DUNCAN resigned 8 July 2020; note - the 2016 constitution calls for the establishment of the position of vice-president<br>
 _head of government_: Prime Minister Patrick ACHI (since 10 March 2021); note - ACHI was acting prime minister from 8-10 March 2021 and became prime minister upon former Prime Minister Hamed BAKAYOKO's death on 10 March 2021<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term ; election last held on 31 October 2020 (next to be held in October 2025); vice president elected on same ballot as president; prime minister appointed by the president; note &ndash; because President OUATTARA promulgated the new constitution during his second term, he has claimed that the clock is reset on term limits, allowing him to run for up to two additional terms<br>
 _election results_: Alassane OUATTARA reelected president; percent of vote - Alassane OUATTARA (RDR) 94.3%, Kouadio Konan BERTIN (PDCI-RDA) 2.0%, other 3.7%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (99 seats; 66 members indirectly elected by the National Assembly and members of municipal, autonomous districts, and regional councils, and 33 members appointed by the president; members serve 5-year terms)<br>National Assembly (255 seats; members directly elected in single- and multi-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - first ever held on 25 March 2018 (next to be held in 2023)<br>National Assembly - last held on 6 March 2021 (next to be held in 2026)<br>
+_election results_: <strong><br></strong>Senate - percent by party NA; seats by party - RHDP 50, independent 16; composition - men 80, women 19, percent of women 19.2%<br>National Assembly - percent of vote by party - RHDP 49.18%, PDCI-RRA-EDS 16.53%, DPIC 6.01%, TTB 2.017%  IPF 1.96%  seats by party - RHDP, 137, PDCI-RRA-EDS 50, DPIC 23, TTB 8, IPF 2; composition - men 217, women 32, percent of women 13%; note - total Parliament percent of women 32%<br>
+<br><br><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into Judicial, Audit, Constitutional, and Administrative Chambers; consists of the court president, 3 vice presidents for the Judicial, Audit, and Administrative chambers, and 9 associate justices or magistrates)<br>
@@ -694,11 +694,11 @@ _oil terminal(s)_: Espoir Offshore Terminal<br>
 Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); National Police (under the Ministry of Security and Civil Protection); Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2020)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019 est.)<br>
 1.4% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.7% of GDP (2016)<br>
-1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Cote d&rsquo;Ivoire have approximately 25,000 active troops (23,000 Army, including about 2,000 Special Forces; 1,000 Navy; 1,000 Air Force); est. 5-10,000 Gendarmerie (2020)<br>

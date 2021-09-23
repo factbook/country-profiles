@@ -205,17 +205,17 @@ _former_: Danish West Indies<br>
 _abbreviation_: VI<br>
 _etymology_: the myriad islets, cays, and rocks surrounding the major islands reminded Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)<br>
 
-**Dependency status**<br>
-unincorporated organized territory of the US with policy relations between the Virgin Islands and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
-
 **Government type**<br>
 republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
+
+**Dependency status**<br>
+unincorporated organized territory of the US with policy relations between the Virgin Islands and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
 
 **Capital**<br>
 _name_: Charlotte Amalie<br>
 _geographic coordinates_: 18 21 N, 64 56 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> originally called Taphus in Danish - meaning "tap house" or "beer house" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V’s wife, Charlotte Amalie of Hesse-Kassel (1650–1714)<br>
+_etymology_: originally called Taphus in Danish - meaning "tap house" or "beer house" because of its many beer halls - the town received a more dignified name in 1691 when it was named Charlotte Amalie in honor of Danish King Christian V&rsquo;s wife, Charlotte Amalie of Hesse-Kassel (1650&ndash;1714)<br>
 
 **Administrative divisions**<br>
 none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas<br>
@@ -239,18 +239,18 @@ see United States<br>
 **Suffrage**<br>
 18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: Legislature of the Virgin Islands last held on 6 November 2018 (next to be held in November 2020)<br>US House of Representatives last held on 6 November 2018 (next to be held in November 2020)<br>
-_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman<br>
-<strong>note:</strong> the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
-
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Albert BRYAN, Jr. (since 7 January 2019), Lieutenant Governor Tregenza ROACH (since 7 January 2019)<br>
 _cabinet_: Territorial Cabinet appointed by the governor and confirmed by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on&nbsp;6 November 2018 with a runoff on 20 November 2018 (next to be held in November 2022)<br>
 _election results_: <p>Albert BRYAN, Jr. elected governor in the second round; percent of vote in first round - Albert BRYAN, Jr. (Democratic Party) 38.1%, Kenneth MAPP (independent) 33.5%, Adlah "Foncie" DONASTORG, Jr. (independent) 16.5%, other 11.9%; percent of vote in second round- Albert BRYAN, Jr. (Democratic Party) 54.5%, Kenneth MAPP (independent) 45.2%, other .3%</p><br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislature of the Virgin Islands (15 seats; senators directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)<br><br>the Virgin Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
+_elections_: Legislature of the Virgin Islands last held on 6 November 2018 (next to be held in November 2020)<br>US House of Representatives last held on 6 November 2018 (next to be held in November 2020)<br>
+_election results_: Legislature of the Virgin Islands - percent of vote by party - NA; seats by party - Democratic Party 13, independents 2; composition - men 11, women 4, percent of women 26.7%<br><br>delegate to US House of Representatives - seat by party - Democratic Party 1; composition - 1 woman<br>
+<strong>note:</strong> the Virgin Islands to the US House of Representatives can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices); note - court established by the US Congress in 2004 and assumed appellate jurisdiction in 2007<br>

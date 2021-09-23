@@ -285,8 +285,8 @@ _name_: Chisinau in Moldovan (Kishinev in Russian)<br>
 _geographic coordinates_: 47 00 N, 28 51 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)
-<strong>etymology:</strong> origin unclear but may derive from the archaic Romanian word "chisla" ("spring" or "water source") and "noua" ("new") because the original settlement was built at the site of a small spring<br>
+_etymology_: origin unclear but may derive from the archaic Romanian word "chisla" ("spring" or "water source") and "noua" ("new") because the original settlement was built at the site of a small spring<br>
+<strong>note:</strong> pronounced KEE-shee-now (KIH-shi-nyov)<br>
 
 **Administrative divisions**<br>
 <p>32 raions (raioane, singular - raion), 3 municipalities (municipii, singular - municipiul), 1 autonomous territorial unit (unitatea teritoriala autonoma), and 1 territorial unit (unitatea teritoriala)</p> <p><strong>raions:</strong> Anenii Noi, Basarabeasca, Briceni, Cahul, Cantemir, Calarasi, Causeni, Cimislia, Criuleni, Donduseni, Drochia, Dubasari, Edinet, Falesti, Floresti, Glodeni, Hincesti, Ialoveni, Leova, Nisporeni, Ocnita, Orhei, Rezina, Riscani, Singerei, Soldanesti, Soroca, Stefan Voda, Straseni, Taraclia, Telenesti, Ungheni</p> <p><strong>municipalities:</strong> Balti, Bender, Chisinau</p> <p><strong>autonomous territorial unit:</strong> Gagauzia</p> <p><strong>territorial unit:</strong> Stinga Nistrului (Transnistria)</p><br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
-_elections_: <p>last held on 11 July 2021 (next scheduled for July 2025)</p><br>
-_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6</p><br>
-
 **Executive branch**<br>
 _chief of state_: President Maia SANDU (since 24 December 2020)<br>
 _head of government_: Prime Minister Natalia GAVRILITA (since 6 August 2021)<br>
 _cabinet_: Cabinet proposed by the prime minister-designate, nominated by the president, approved through a vote of confidence in Parliament<br>
 _elections/appointments_: president directly elected for a 4-year term (eligible for a second term); election last held on 15 November 2020 (next to be held in fall 2024); prime minister designated by the president upon consultation with Parliament; within 15 days from designation, the prime minister-designate must request a vote of confidence for his/her proposed work program from the Parliament<br>
 _election results_: Maia SANDU elected president; percent of vote (second round results) - Maia SANDU (PAS) 57.7%, Igor DODON (PSRM) 42.3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (101 seats; 51 members directly elected in single-seat constituencies by simple majority vote and 50 members directly elected in a single, nationwide constituency by closed party-list proportional representation vote; all members serve 4-year terms<br>
+_elections_: <p>last held on 11 July 2021 (next scheduled for July 2025)</p><br>
+_election results_: <p>percent of vote by party - PAS 52.8%, BECS (PSRM+PCRM) 27.1%, SOR 5.7%; seats by party - PAS 63, BECS 32, SOR 6</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief judge, 3 deputy-chief judges, 45 judges, and 7 assistant judges); Constitutional Court (consists of the court president and 6 judges); note - the Constitutional Court is autonomous to the other branches of government; the Court interprets the Constitution and reviews the constitutionality of parliamentary laws and decisions, decrees of the president, and acts of the government<br>

@@ -225,17 +225,17 @@ _conventional short form_: Cook Islands<br>
 _former_: Hervey Islands<br>
 _etymology_: named after Captain James COOK, the British explorer who visited the islands in 1773 and 1777<br>
 
-**Dependency status**<br>
-self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands<br>
-
 **Government type**<br>
 parliamentary democracy<br>
+
+**Dependency status**<br>
+self-governing in free association with New Zealand; Cook Islands is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense in consultation with the Cook Islands<br>
 
 **Capital**<br>
 _name_: Avarua<br>
 _geographic coordinates_: 21 12 S, 159 46 W<br>
 _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> translates as "two harbors" in Maori<br>
+_etymology_: translates as "two harbors" in Maori<br>
 
 **Administrative divisions**<br>
 none<br>
@@ -259,16 +259,16 @@ has not submitted an ICJ jurisdiction declaration (New Zealand normally retains 
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament<br>
-_elections_: last held on 14 June 2018 (next to be held by 2022)<br>
-_election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Sir Tom J. MARSTERS (since 9 August 2013); New Zealand Acting High Commissioner Ms Rachel BENNETT (since 9 December 2019)<br>
 _head of government_: Prime Minister Mark BROWN (since 1 October 2020)<br>
 _cabinet_: Cabinet chosen by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; UK representative appointed by the monarch; New Zealand high commissioner appointed by the New Zealand Government; following legislative elections, the leader of the majority party or majority coalition usually becomes prime minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament, formerly the Legislative Assembly (24 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms); note - the House of Ariki, a 24-member parliamentary body of traditional leaders appointed by the Queen's representative serves as a consultative body to the Parliament<br>
+_elections_: last held on 14 June 2018 (next to be held by 2022)<br>
+_election results_: percent of vote by party - NA; seats by party - Demo 11, CIP 10, One Cook Islands Movement 1, independent 2; composition - men 15, women 9, percent of women 37.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and 3 judges of the High Court); High Court (consists of the chief justice and at least 4 judges and organized into civil, criminal, and land divisions); note - appeals beyond the Cook Islands Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

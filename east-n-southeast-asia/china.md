@@ -299,7 +299,8 @@ communist party-led state<br>
 _name_: Beijing<br>
 _geographic coordinates_: 39 55 N, 116 23 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note:</strong> China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five<br><br><strong>etymology: </strong>the Chinese meaning is "Northern Capital"<strong><br></strong><br>
+_time zone note_: China is the largest country (in terms of area) with just one time zone; before 1949 it was divided into five<br>
+_etymology_: the Chinese meaning is "Northern Capital"<br>
 
 **Administrative divisions**<br>
 <p>23 provinces (sheng, singular and plural), 5 autonomous regions (zizhiqu, singular and plural), and 4 municipalities (shi, singular and plural)</p> <p><strong>provinces:</strong> Anhui, Fujian, Gansu, Guangdong, Guizhou, Hainan, Hebei, Heilongjiang, Henan, Hubei, Hunan, Jiangsu, Jiangxi, Jilin, Liaoning, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Yunnan, Zhejiang; (see note on Taiwan)</p> <p><strong>autonomous regions:</strong> Guangxi, Nei Mongol (Inner Mongolia), Ningxia, Xinjiang Uyghur, Xizang (Tibet)</p> <p><strong>municipalities:</strong> Beijing, Chongqing, Shanghai, Tianjin</p><br>
@@ -330,17 +331,17 @@ _residency requirement for naturalization_: while naturalization is theoreticall
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
-_elections_: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)<br>
-_election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President XI Jinping (since 14 March 2013); Vice President WANG Qishan (since 17 March 2018)<br>
 _head of government_: Premier LI Keqiang (since 16 March 2013); Executive Vice Premiers HAN Zheng (since 19 March 2018), SUN Chunlan (since 19 March 2018), LIU He (since 19 March 2018), HU Chunhua (since 19 March 2018)<br>
 _cabinet_: State Council appointed by National People's Congress<br>
 _elections/appointments_: president and vice president indirectly elected by National People's Congress for a 5-year term (no term limits); election last held on 17 March 2018 (next to be held in March 2023); premier nominated by president, confirmed by National People's Congress<br>
 _election results_: XI Jinping reelected president; National People's Congress vote - 2,970 (unanimously); WANG Qishan elected vice president with 2,969 votes<br>
+
+**Legislative branch**<br>
+_description_: unicameral National People's Congress or Quanguo Renmin Daibiao Dahui (maximum of 3,000 seats; members indirectly elected by municipal, regional, and provincial people's congresses, and the People's Liberation Army; members serve 5-year terms); note - in practice, only members of the Chinese Communist Party (CCP), its 8 allied independent parties, and CCP-approved independent candidates are elected<br>
+_elections_: last held in December 2017-February 2018 (next to be held in late 2022 to early 2023)<br>
+_election results_: percent of vote - NA; seats by party - NA; composition - men 2,238, women 742, percent of women 24.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme People's Court (consists of over 340 judges, including the chief justice and 13 grand justices organized into a civil committee and tribunals for civil, economic, administrative, complaint and appeal, and communication and transportation cases)<br>
@@ -707,7 +708,7 @@ note(s): the PAP is a paramilitary police component of China’s armed forces th
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
-1.9% of GDP (2019)<br>
+1.7% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 1.9% of GDP (2017)<br>
 1.9% of GDP (2016)<br>

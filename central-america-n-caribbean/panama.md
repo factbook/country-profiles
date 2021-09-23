@@ -295,7 +295,7 @@ presidential republic<br>
 _name_: Panama City<br>
 _geographic coordinates_: 8 58 N, 79 32 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "Panama" meaning "an abundance of fish"<br>
+_etymology_: according to tradition, the name derives from a former fishing area near the present capital - an indigenous village and its adjacent beach - that were called "Panama" meaning "an abundance of fish"<br>
 
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia) and 4 indigenous regions* (comarcas); Bocas del Toro, Chiriqui, Cocle, Colon, Darien, Embera-Wounaan*, Guna Yala*, Herrera, Los Santos, Naso Tjer Di*, Ngobe-Bugle*, Panama, Panama Oeste, Veraguas<br>
@@ -325,17 +325,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Laurentino "Nito" CORTIZO Cohen (since 1 July 2019); Vice President Jose Gabriel CARRIZO Jaen (since 1 July 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term; president eligible for a single non-consecutive term); election last held on 5 May 2019 (next to be held in 2024)<br>
 _election results_: <br><em>2019:</em> Laurentino "Nito" CORTIZO Cohen elected president; percent of vote - Laurentino CORTIZO Cohen (PRD) 33.3%, Romulo ROUX (CD) 31%, Ricardo LOMBANA (independent) 18.8%, Jose BLANDON (Panamenista Party) 10.8%, Ana Matilde GOMEZ Ruiloba (independent) 4.8%, other 1.3%<br><br><em>2014:</em> Juan Carlos VARELA elected president; percent of vote - Juan Carlos VARELA (PP) 39.1%, Jose Domingo ARIAS (CD) 31.4%, Juan Carlos NAVARRO (PRD) 28.2%, other 1.3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Asamblea Nacional (71 seats; 45 members directly elected in multi-seat constituencies - populous towns and cities - by open list proportional representation vote and 26 directly elected in single-seat constituencies - outlying rural districts - by simple majority vote; members serve 5-year terms)<br>
+_elections_: last held on 5 May 2019 (next to be held in May 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - PRD 35, CD 18, Panamenista 8, MOLIRENA 5, independent 5; composition - men 55, women 16, percent of women 22.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 magistrates and 9 alternates and divided into civil, criminal, administrative, and general business chambers)<br>
@@ -681,7 +681,6 @@ _container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2021)<br>
-note: on 10 February 1990, the government of then President Guillermo ENDARA abolished Panama's military and reformed the security apparatus by creating the Panamanian Public Forces; in October 1994, Panama's National Assembly approved a constitutional amendment prohibiting the creation of a standing military force but allowing the temporary establishment of special police units to counter acts of "external aggression"<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2017)<br>
@@ -695,6 +694,9 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 
 **Military equipment inventories and acquisitions**<br>
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2020)<br>
+
+**Military - note**<br>
+on 10 February 1990, the government of then President Guillermo ENDARA abolished Panama's military and reformed the security apparatus by creating the Panamanian Public Forces; in October 1994, Panama's National Assembly approved a constitutional amendment prohibiting the creation of a standing military force but allowing the temporary establishment of special police units to counter acts of "external aggression"<br>
 
 ## Transnational Issues
 

@@ -305,7 +305,7 @@ semi-presidential republic<br>
 _name_: Antananarivo<br>
 _geographic coordinates_: 18 55 S, 47 31 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name, which means "City of the Thousand," was bestowed by 17th century King Adrianjakaking to honor the soldiers assigned to guard the city<br>
+_etymology_: the name, which means "City of the Thousand," was bestowed by 17th century King Adrianjakaking to honor the soldiers assigned to guard the city<br>
 
 **Administrative divisions**<br>
 6 provinces (faritany); Antananarivo, Antsiranana, Fianarantsoa, Mahajanga, Toamasina, Toliara<br>
@@ -335,17 +335,17 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Antenimieran-Doholona (reestablished on 22 January 2016, following the December 2015 senatorial election) (63 seats; 42 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 21 appointed by the president of the republic; members serve 5-year terms); <strong>note </strong>- in December 2020 Pres RAJOELINA ordered that the senate now have only 18 seats, 6 of which are appointed by the president, the remaining 12 indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders; opposition parties' boycotted this legislative election <br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held 29 December 2015 (next to be held in 2021)<br>National Assembly - last held on 27 May 2019 (next to be held in 2024)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - HVM 34, TIM 3, MAPAR 2, LEADER-Fanilo 1, independent 2, appointed by the president 21; composition - men 51, women 12, percent of women 19%<br>National Assembly - percent of vote by party -Independent Pro-HVM 18%, MAPAR 17%, MAPAR pro-HVM 16%, VPM-MMM 10%, VERTS 3%, LEADER FANILO 3%, HIARAKA ISIKA 3%, GPS/ARD 7%,  INDEPENDENT 9%, TAMBATRA 1%, TIM 13%;  composition - men 120, women 31, percent of women 20.5%; note - total National Assembly percent of women 20.1%<br>
-
 **Executive branch**<br>
 _chief of state_: President Andry RAJOELINA (since 21 January 2019)<br>
 _head of government_: Prime Minister Christian NTSAY (since 6 June 2018 and re-appointed 19 July 2019)&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the prime minister&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 7 November and&nbsp;19 December 2018 (next to be held in 2023); prime minister nominated by the National Assembly, appointed by the president<br>
 _election results_: Andry RAJOELINA elected President in second round;&nbsp;percent of vote - Andry RAJOELINA&nbsp;(TGV) 55.7%, Marc RAVALOMANANA 44.3% (TIM)<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate or Antenimieran-Doholona (reestablished on 22 January 2016, following the December 2015 senatorial election) (63 seats; 42 members indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders and 21 appointed by the president of the republic; members serve 5-year terms); <strong>note </strong>- in December 2020 Pres RAJOELINA ordered that the senate now have only 18 seats, 6 of which are appointed by the president, the remaining 12 indirectly elected by an electoral college of municipal, communal, regional, and provincial leaders; opposition parties' boycotted this legislative election <br>National Assembly or Antenimierampirenena (151 seats; 87 members directly elected in single-seat constituencies by simple majority vote and 64 directly elected in multi-seat constituencies by closed-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: Senate - last held 29 December 2015 (next to be held in 2021)<br>National Assembly - last held on 27 May 2019 (next to be held in 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - HVM 34, TIM 3, MAPAR 2, LEADER-Fanilo 1, independent 2, appointed by the president 21; composition - men 51, women 12, percent of women 19%<br>National Assembly - percent of vote by party -Independent Pro-HVM 18%, MAPAR 17%, MAPAR pro-HVM 16%, VPM-MMM 10%, VERTS 3%, LEADER FANILO 3%, HIARAKA ISIKA 3%, GPS/ARD 7%,  INDEPENDENT 9%, TAMBATRA 1%, TIM 13%;  composition - men 120, women 31, percent of women 20.5%; note - total National Assembly percent of women 20.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of 11 members; addresses judicial administration issues only); High Constitutional Court or Haute Cour Constitutionnelle (consists of 9 members); note - the judiciary includes a High Court of Justice responsible for adjudicating crimes and misdemeanors by government officials, including the president<br>
@@ -679,11 +679,11 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020 est.)<br>
 0.6% of GDP (2019)<br>
 0.6% of GDP (2018)<br>
 0.6% of GDP (2017)<br>
 0.6% of GDP (2016)<br>
-0.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Peoples Armed Forces (PAF) have approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2020)<br>

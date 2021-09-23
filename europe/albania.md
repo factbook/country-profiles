@@ -288,7 +288,7 @@ _name_: Tirana (Tirane)<br>
 _geographic coordinates_: 41 19 N, 19 49 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name Tirana first appears in a 1418 Venetian document; the origin of the name is unclear, but may derive from Tirkan Fortress, whose ruins survive on the slopes of Dajti mountain and which overlooks the city<br>
+_etymology_: the name Tirana first appears in a 1418 Venetian document; the origin of the name is unclear, but may derive from Tirkan Fortress, whose ruins survive on the slopes of Dajti mountain and which overlooks the city<br>
 
 **Administrative divisions**<br>
 12 counties (qarqe, singular - qark); Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane, Vlore<br>
@@ -318,17 +318,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition -men 93, women 47, percent of women 33.6%%<br>
-
 **Executive branch**<br>
 _chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
 _head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Senida MESI (since 13 September 2017)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
 _elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 19, 20, 27, and 28 April 2017 (next election to be held in 2022); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
 _election results_: Ilir META elected president; Assembly vote - 87 - 2 in fourth round<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 25 April 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition -men 93, women 47, percent of women 33.6%%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>

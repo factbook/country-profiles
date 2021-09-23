@@ -291,7 +291,7 @@ presidential republic<br>
 _name_: Libreville<br>
 _geographic coordinates_: 0 23 N, 9 27 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> original site settled by freed slaves and the name means "free town" in French; named in imitation of Freetown, the capital of Sierra Leone<br>
+_etymology_: original site settled by freed slaves and the name means "free town" in French; named in imitation of Freetown, the capital of Sierra Leone<br>
 
 **Administrative divisions**<br>
 9 provinces; Estuaire, Haut-Ogooue, Moyen-Ogooue, Ngounie, Nyanga, Ogooue-Ivindo, Ogooue-Lolo, Ogooue-Maritime, Woleu-Ntem<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 13 December 2014 (next to be held on 31 December 2020)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - men 84, women 18, percent of women 17.6%<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 123, women 20, percent of women 14%; note - total Parliament percent of women 15.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Ali BONGO Ondimba (since 16 October 2009)<br>
 _head of government_: Prime Minister Rose Christiane Ossouka RAPONDA (since 16 July 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister in consultation with the president&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (no term limits); election last held on 27 August 2016 (next to be held in August 2023); prime minister appointed by the president<br>
 _election results_: Ali BONGO Ondimba reelected president; percent of vote - Ali BONGO Ondimba (PDG) 49.8%, Jean PING (UFC) 48.2%, other 2.0%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (102 seats; members indirectly elected by municipal councils and departmental assemblies by absolute majority vote in 2 rounds if needed; members serve 6-year terms)<br>National Assembly or Assemblee Nationale (143 seats; members elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 13 December 2014 (next to be held on 31 December 2020)<br>National Assembly - held in 2 rounds on 6 and 27 October 2018 (next to be held in 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PDG 81, CLR 7, PSD 2, ADERE-UPG 1, UPG 1, PGCI 1, independent 7; composition - men 84, women 18, percent of women 17.6%<br>National Assembly - percent of vote by party - NA; seats by party - PDG 98, The Democrats or LD 11, RV 8, Social Democrats of Gabon 5, RH&amp;M 4, other 9, independent 8; composition - men 123, women 20, percent of women 14%; note - total Parliament percent of women 15.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 4 permanent specialized supreme courts - Supreme Court or Cour de Cassation, Administrative Supreme Court or Conseil d'Etat, Accounting Supreme Court or Cour des Comptes, Constitutional Court or Cour Constitutionnelle, and the non-permanent Court of State Security, initiated only for cases of high treason by the president and criminal activity by executive branch officials)<br>
@@ -677,11 +677,11 @@ _oil terminal(s)_: Gamba, Lucina<br>
 Gabonese Defense Forces (Forces de Defense Gabonaise): Land Forces (Army), Navy, Air Forces, National Gendarmerie; Republican Guard (land forces under direct presidential control) (2021)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2020 est.)<br>
 1.6% of GDP (2019)<br>
 1.5% of GDP (2018)<br>
 1.8% of GDP (2017)<br>
 1.5% of GDP (2016)<br>
-1.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Gabonese Defense Forces (FDG) are comprised of approximately 6,500 active duty troops including the Republican Guard and Gendarmerie (2021)<br>

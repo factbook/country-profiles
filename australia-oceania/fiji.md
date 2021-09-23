@@ -281,6 +281,7 @@ _name_: Suva (on Viti Levu)<br>
 _geographic coordinates_: 18 08 S, 178 25 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in November; ends second Sunday in January<br>
+_etymology_: the name means "little hill" in the native Fijian (iTaukei) language and refers to a mound where a temple once stood<br>
 
 **Administrative divisions**<br>
 14 provinces and 1 dependency*; Ba, Bua, Cakaudrove, Kadavu, Lau, Lomaiviti, Macuata, Nadroga and Navosa, Naitasiri, Namosi, Ra, Rewa, Rotuma*, Serua, Tailevu<br>
@@ -310,17 +311,17 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 14 November 2018 (next to be held in 2022)<br>
-_election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Jioji Konousi KONROTE (since 12 November 2015)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 August 2018 (next to be held in 2021); prime minister endorsed by the president<br>
 _election results_: Jioji Konousi KONROTE reelected president (unopposed)<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 14 November 2018 (next to be held in 2022)<br>
+_election results_: percent of vote by party - FijiFirst 50%, SODELPA 39.6%, NFP 7.4%; seats by party - FijiFirst 27, SODELPA 21, NFP 3; composition - men 41, women 10, percent of women 19.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, all justices of the Court of Appeal, and judges appointed specifically as Supreme Court judges); Court of Appeal (consists of the court president, all puisne judges of the High Court, and judges specifically appointed to the Court of Appeal); High Court (chaired by the chief justice and includes a minimum of 10 puisne judges; High Court organized into civil, criminal, family, employment, and tax divisions)<br>

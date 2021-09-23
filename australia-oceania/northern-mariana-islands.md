@@ -201,17 +201,17 @@ _former_: Trust Territory of the Pacific Islands, Mariana Islands District<br>
 _abbreviation_: CNMI<br>
 _etymology_: formally claimed and named by Spain in 1667 in honor of the Spanish Queen, MARIANA of Austria<br>
 
-**Dependency status**<br>
-commonwealth in political union with and under the sovereignty of&nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs<br>
-
 **Government type**<br>
 republican form of government with separate executive, legislative, and judicial branches; a commonwealth in political union with and under the sovereignty of the US<br>
+
+**Dependency status**<br>
+commonwealth in political union with and under the sovereignty of&nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs<br>
 
 **Capital**<br>
 _name_: Saipan<br>
 _geographic coordinates_: 15 12 N, 145 45 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island "saay" meaning "a voyage," and "peel" meaning "empty"; over time Saaypeel - "island of the empty voyage" - became Saipan<br>
+_etymology_: the entire island of Saipan is organized as a single municipality and serves as the capital; according to legend, when the first native voyagers arrived in their outrigger canoes they found an uninhabited island; to them it was like an empty voyage, so they named the island "saay" meaning "a voyage," and "peel" meaning "empty"; over time Saaypeel - "island of the empty voyage" - became Saipan<br>
 
 **Administrative divisions**<br>
 none (commonwealth in political union with the US); there are no first-order administrative divisions as defined by the US Government, but there are 4 municipalities at the second order: Northern Islands, Rota, Saipan, Tinian<br>
@@ -235,18 +235,18 @@ see United States<br>
 **Suffrage**<br>
 18 years of age; universal; note - indigenous inhabitants are US citizens but do not vote in US presidential elections<br>
 
-**Legislative branch**<br>
-_description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
-_elections_: <br>CNMI Senate - last held on 3 November 2020 (next to be held in November 2024)<br>CNMI House of Representatives - last held on 3 November 2020 (next to be held in November 2022)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives  - last held on 3 November 2020 (next to be held in November 2022)<br>
-_election results_: <br>CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1%<br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3<br><br>delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
-<strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
-
 **Executive branch**<br>
 _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _head of government_: Governor Ralph TORRES (since 29 December 2015); Lieutenant Governor Victor HOCOG (since 29 December 2015)<br>
 _cabinet_: Cabinet appointed by the governor with the advice and consent of the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Northern Mariana Islands do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican party presidential primary elections; governor directly elected by absolute majority vote in 2 rounds if needed; election last held on&nbsp;13 November 2018 (next to be held in 2022)<br>
 _election results_: Ralph TORRES&nbsp;elected governor; percent of vote - Ralph TORRES (Republican) 62.2%, Juan BABAUTA (Independent) 37.8%;&nbsp;&nbsp;Arnold PALACIOS elected Lieutenant Governor<br>
+
+**Legislative branch**<br>
+_description_: bicameral Northern Marianas Commonwealth Legislature consists of:<br>Senate (9 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>House of Representatives (20 seats; members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms)<br><br>the Northern Mariana Islands directly elects 1 delegate to the US House of Representatives by simple majority vote to serve a 2-year term<br>
+_elections_: <br>CNMI Senate - last held on 3 November 2020 (next to be held in November 2024)<br>CNMI House of Representatives - last held on 3 November 2020 (next to be held in November 2022)<br>Commonwealth of Northern Mariana Islands delegate to the US House of Representatives  - last held on 3 November 2020 (next to be held in November 2022)<br>
+_election results_: <br>CNMI Senate - percent of vote by party - NA; seats by party - Republican Party 6, independent 3; composition - men 8, women 1, percent of women 11.1%<br>CNMI House of Representatives - percent of vote by party - NA; seats by party - Republican Party 9, Democrat Party 8, independent 3<br><br>delegate to US House of Representatives - seat won by independent; composition - 1 man<br>
+<strong id="tinymce" class="mce-content-body " style="font-size: 18px;" contenteditable="true" spellcheck="false" data-id="field_notes">note:</strong> the Northern Mariana Islands delegate to the US House of Representatives can vote when serving on a committee and when the House meets as the "Committee of the Whole House" but not when legislation is submitted for a “full floor” House vote<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Commonwealth of the Northern Mariana Islands (CNMI) (consists of the chief justice and 2 associate justices); US Federal District Court (consists of 1 judge); note - US Federal District Court jurisdiction limited to US federal laws; appeals beyond the CNMI Supreme Court are referred to the US Supreme Court<br>

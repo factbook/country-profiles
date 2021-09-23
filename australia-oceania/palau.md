@@ -265,7 +265,8 @@ presidential republic in free association with the US<br>
 _name_: Ngerulmud<br>
 _geographic coordinates_: 7 30 N, 134 37 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the Palauan meaning is "place of fermented 'mud'" ('mud' being the native name for the keyhole angelfish); the site of the new capitol (established in 2006) had been a large hill overlooking the ocean, Ngerulmud, on which women would communally gather to offer fermented angelfish to the gods<br><br><strong>note: </strong>Ngerulmud, on Babeldaob Island, is the smallest national capital on earth by population, with only a few hundred people; the name is pronounced en-jer-al-mud; Koror, on Koror Island, with over 11,000 residents is by far the largest settlement in Palau; it served as the country's capital from independence in 1994 to 2006<br>
+_etymology_: the Palauan meaning is "place of fermented 'mud'" ('mud' being the native name for the keyhole angelfish); the site of the new capitol (established in 2006) had been a large hill overlooking the ocean,&nbsp;Ngerulmud, on which women would communally gather to offer fermented angelfish to the gods<br>
+<strong>note: </strong>Ngerulmud, on Babeldaob Island, is the smallest national capital on earth by population, with only a few hundred people; the name is pronounced en-jer-al-mud; Koror, on Koror Island, with over 11,000 residents is by far the largest settlement in Palau; it served as the country's capital from independence in 1994 to 2006<br>
 
 **Administrative divisions**<br>
 16 states; Aimeliik, Airai, Angaur, Hatohobei, Kayangel, Koror, Melekeok, Ngaraard, Ngarchelong, Ngardmau, Ngatpang, Ngchesar, Ngeremlengui, Ngiwal, Peleliu, Sonsorol<br>
@@ -295,17 +296,17 @@ _residency requirement for naturalization_: note - no procedure for naturalizati
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
-_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021); note - the president is both chief of state and head of government<br>
 _head of government_: President Surangel WHIPPS Jr. (since 21 January 2021); Vice President Jerrlyn Uduch Sengebau SENIOR (since 21 January 2021)<br>
 _cabinet_: Cabinet appointed by the president with the advice and consent of the Senate; also includes the vice president; the Council of Chiefs consists of chiefs from each of the states who advise the president on issues concerning traditional laws, customs, and their relationship to the constitution and laws of Palau<br>
 _elections/appointments_: president and vice president directly elected on separate ballots by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held in November 2024)<br>
 _election results_: Surangel WHIPPS, Jr. elected president (in second round); percent of vote - Surangel WHIPPS, Jr. (independent) 56.7%, Raynold OILUCH (independent) 43.3%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Congress or Olbiil Era Kelulau consists of:<br>Senate (13 seats; members directly elected in single-seat constituencies by majority vote to serve 4-year terms)<br>House of Delegates (16 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 3 November 2020 (next to be held in November 2024)<br>House of Delegates - last held on 3 November 2020 (next to be held in November 2024)<br>
+_election results_: <br>Senate - percent of vote - NA; seats - independent 13; composition - men 12, women 1; percent of women 7.7%<br>House of Delegates - percent of vote - NA; seats - independent 16; composition - men 15, women 1; percent of women 6.3%; note - overall percent of women in National Congress 6.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 3 associate justices organized into appellate trial divisions; the Supreme Court organization also includes the Common Pleas and Land Courts)<br>

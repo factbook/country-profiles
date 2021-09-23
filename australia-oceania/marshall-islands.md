@@ -274,7 +274,7 @@ mixed presidential-parliamentary system in free association with the US<br>
 _name_: Majuro; note - the capital is an atoll of 64 islands; governmental buildings are housed on three fused islands on the eastern side of the atoll: Djarrit, Uliga, and Delap<br>
 _geographic coordinates_: 7 06 N, 171 23 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Majuro means "two openings" or "two eyes" and refers to the two major northern passages through the atoll into the Majuro lagoon<br>
+_etymology_: Majuro means "two openings" or "two eyes" and refers to the two major northern passages through the atoll into the Majuro lagoon<br>
 
 **Administrative divisions**<br>
 24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini &amp; Kili, Ebon, Enewetak &amp; Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namorik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje<br>
@@ -304,17 +304,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela<br>
-_elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 33<br>
-
 **Executive branch**<br>
 _chief of state_: President David KABUA&nbsp;(since&nbsp; 13 January 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President David KABUA&nbsp;(since&nbsp;13 January 2020)<br>
 _cabinet_: Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker<br>
 _elections/appointments_: president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on&nbsp;6 January 2020 (next to be held in 2024)<br>
 _election results_: David KABUA&nbsp;elected president; Parliament vote - David KABUA&nbsp;20, Hilda C. HEINE&nbsp;12<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Parliament consists of:<br>Council of Iroij, a 12-member group of tribal leaders advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice); members appointed to serve 1-year terms<br>Nitijela (33 seats; members in 19 single- and 5 multi-seat constituencies directly elected by simple majority vote to serve 4-year terms); note - legislative power resides in the Nitijela<br>
+_elections_: last held on 18 November 2019 (next to be held by November 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - independent 33<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 2 associate justices)<br>

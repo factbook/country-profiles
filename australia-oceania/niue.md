@@ -193,11 +193,11 @@ _former_: Savage Island<br>
 _etymology_: the origin of the name is obscure; in Niuean, the word supposedly translates as "behold the coconut"<br>
 <strong>note:</strong> pronunciation falls between nyu-way and new-way, but not like new-wee<br>
 
-**Dependency status**<br>
-self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue<br>
-
 **Government type**<br>
 parliamentary democracy<br>
+
+**Dependency status**<br>
+self-governing in free association with New Zealand since 1974; Niue is fully responsible for internal affairs; New Zealand retains responsibility for external affairs and defense; however, these responsibilities confer no rights of control and are only exercised at the request of the Government of Niue<br>
 
 **Capital**<br>
 _name_: Alofi<br>
@@ -223,17 +223,17 @@ English common law<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
-_elections_: last held on 30 May 2020 (next to be held on 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - independent 20<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General of New Zealand Dame Patricia Lee REDDY (since 28 September 2016); the UK and New Zealand are represented by New Zealand High Commissioner Kirk YATES (since May 2018)<br>
 _head of government_: Premier Dalton TAGELAGI (since 10 June 2020)<br>
 _cabinet_: Cabinet chosen by the premier<br>
 _elections/appointments_: the monarchy is hereditary; premier indirectly elected by the Legislative Assembly for a 3-year term; election last held on 10 June 2020 (next to be held in 2023)<br>
 _election results_: Dalton TAGELAGI elected premier; Legislative Assembly vote - Dalton TAGELAGI (independent) 13, O'Love JACOBSEN (independent) 7; Toke TALAGI&nbsp;lost his seat in election<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly or Fono Ekepule (20 seats; 14 members directly elected in single-seat constituencies by simple majority vote and 6 directly elected from the National Register or "common roll" by majority vote; members serve 3-year terms)<br>
+_elections_: last held on 30 May 2020 (next to be held on 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - independent 20<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and up to 3 judges); note - the Judicial Committee of the Privy Council (in London) is the final appeal court beyond the Niue Court of Appeal<br>

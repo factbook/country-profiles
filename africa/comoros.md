@@ -285,7 +285,7 @@ federal presidential republic<br>
 _name_: Moroni<br>
 _geographic coordinates_: 11 42 S, 43 14 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Moroni derives from "mroni," which means "at the river" in Shingazidja, the Comorian language spoken on Grande Comore (N'gazidja)<br>
+_etymology_: Moroni derives from "mroni," which means "at the river" in Shingazidja, the Comorian language spoken on Grande Comore (N'gazidja)<br>
 
 **Administrative divisions**<br>
 3 islands; Anjouan (Ndzuwani), Grande Comore (N'gazidja), Moheli (Mwali)<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
-_elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025) (2020)<br>
-_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition as of 23 January 2020 men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
-
 **Executive branch**<br>
 _chief of state_: President AZALI Assoumani (since 26 May 2016); note - the president is both chief of state and head of government; note - AZALI takes oath of office 2 June 2019 after 24 March 2019 reelection (2019)<br>
 _head of government_: President AZALI Assoumani (since 26 May 2016)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote in 2 rounds for a 5-year term (eligible for a second term); election last held on 24&nbsp;March 2019 (next to be held in 2024)<br>
 _election results_: AZALI Assoumani (CRC) elected president in first round; with a 59% of the vote; - AZALI Assoumani (CRC) 60.8%, Ahamada MAHAMOUDOU (PJ) 14.6%, and Mouigni Baraka Said SOILIHI (Independent) 5.6%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly of the Union (33 seats; 24 members directly elected by absolute majority vote in 2 rounds if needed and 9 members indirectly elected by the 3 island assemblies; members serve 5-year terms) (2017)<br>
+_elections_: last held on&nbsp;19 January 2020 with a runoff on 23&nbsp;February 2020 (next to be held in 2025) (2020)<br>
+_election results_: seats by party -1st round - Boycotting parties 16, Independent 3, CRC 2, RDC 2, RADHI 1, Orange party 0; note -  9 additional seats filled by the 3 island assemblies; 2nd round - CRC 20, Orange Party 2, Independents 2; composition as of 23 January 2020 men 20, women 4, percent of women 16.7%<br> <h3> </h3> (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of 7 judges)<br>
@@ -648,11 +648,11 @@ Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal P
 **Military equipment inventories and acquisitions**<br>
 the defense forces are lightly armed with a mix of equipment from a variety of countries, including France, Italy, Russia, and the US<br>
 
-**Military service age and obligation**<br>
-18 years of age for 2-year voluntary male and female military service; no conscription (2019)<br>
-
 **Military - note**<br>
 the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte<br>
+
+**Military service age and obligation**<br>
+18 years of age for 2-year voluntary male and female military service; no conscription (2019)<br>
 
 ## Transnational Issues
 

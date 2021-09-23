@@ -303,7 +303,7 @@ presidential republic<br>
 _name_: Banjul<br>
 _geographic coordinates_: 13 27 N, 16 34 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul<br>
+_etymology_: Banjul is located on Saint Mary's Island at the mouth of the Gambia River; the Mandinka used to gather fibrous plants on the island for the manufacture of ropes; "bang julo" is Mandinka for "rope fiber"; mispronunciation over time caused the term became the word Banjul<br>
 
 **Administrative divisions**<br>
 5 regions, 1 city*, and 1 municipality**; Banjul*, Central River, Kanifing**, Lower River, North Bank, Upper River, West Coast<br>
@@ -333,17 +333,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
-_elections_: last held on 6 April 2017 (next to be held in 2022)<br>
-_election results_: percent of vote by party - UDP 37.5%, GDC 17.4%, APRC 16%, PDOIS 9%, NRP 6.3%, PPP 2.5%, other 1.7%, independent 9.6%; seats by party - UDP 31, APRC 5, GDC 5, NRP 5, PDOIS 4, PPP 2, independent 1; composition - men 52, women 6, percent of women 10.3%<br>
-
 **Executive branch**<br>
 _chief of state_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 1 December 2016 (next to be held in 2021); vice president appointed by the president<br>
 _election results_: Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
+_elections_: last held on 6 April 2017 (next to be held in 2022)<br>
+_election results_: percent of vote by party - UDP 37.5%, GDC 17.4%, APRC 16%, PDOIS 9%, NRP 6.3%, PPP 2.5%, other 1.7%, independent 9.6%; seats by party - UDP 31, APRC 5, GDC 5, NRP 5, PDOIS 4, PPP 2, independent 1; composition - men 52, women 6, percent of women 10.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of The Gambia (consists of the chief justice and 6 justices; court sessions held with 5 justices)<br>
@@ -666,11 +666,11 @@ _major seaport(s)_: Banjul<br>
 Gambia Armed Forces: the Gambian National Army (GNA; includes a small air wing), Navy, Republican National Guard (responsible for VIP protection, riot control, and presidential security) (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020 est.)<br>
 0.8% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 1% of GDP (2015)<br>
 1.2% of GDP (2014)<br>
-0.8% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 2,000 total active troops (2020)<br>

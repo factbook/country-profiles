@@ -278,7 +278,7 @@ presidential republic; authoritarian<br>
 _name_: Ashgabat (Ashkhabad)<br>
 _geographic coordinates_: 37 57 N, 58 23 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> derived from the Persian words "eshq" meaning "love" and "abad" meaning "inhabited place" or "city," and so loosely translates as "the city of love" <br>
+_etymology_: derived from the Persian words "eshq" meaning "love" and "abad" meaning "inhabited place" or "city," and so loosely translates as "the city of love"<br>
 
 **Administrative divisions**<br>
 5 provinces (welayatlar, singular - welayat) and 1 independent city*: Ahal Welayaty (Anew), Ashgabat*, Balkan Welayaty (Balkanabat), Dasoguz Welayaty, Lebap Welayaty (Turkmenabat), Mary Welayaty<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
-_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
-
 **Executive branch**<br>
 _chief of state_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007); note - the president is both chief of state and head of government<br>
 _head of government_: President Gurbanguly BERDIMUHAMEDOW (since 14 February 2007)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (no term limits); election last held on 12 February 2017 (next to be held in February 2024)<br>
-_election results_: Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br>
+_election results_: <br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected president in the first round; percent of vote - Gurbanguly BERDIMUHAMEDOW (DPT) 97.7%, other 2.3%<br><br><em>2012:</em> Gurbanguly BERDIMUHAMEDOW reelected president; percent of vote - Gurbanguly BERDIMUHAMEDOW 97.1%, Annageldi YAZMYRADOW 1.1%, other candidates 1.8%<br>
+
+**Legislative branch**<br>
+_description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
+_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
+_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>
@@ -651,11 +651,11 @@ _major seaport(s)_: Caspian Sea - Turkmenbasy<br>
 Armed Forces of Turkmenistan: National Army, Navy, Air and Air Defense Forces; Federal Border Guard Service (2021)<br>
 
 **Military expenditures**<br>
-1.8% of GDP (2017)<br>
-1.7% of GDP (2016)<br>
-1.5% of GDP (2015)<br>
-1.3% of GDP (2014)<br>
-1.2% of GDP (2013)<br>
+0.9% of GDP (2020 est.)<br>
+0.9% of GDP (2019 est.)<br>
+1% of GDP (2018 est.)<br>
+1.8% of GDP (2017 est.)<br>
+1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; estimated 30,000 active troops (est. 25,000 National Army; 1,000 Navy; 4,000 Air and Air Defense Forces) (2020)<br>

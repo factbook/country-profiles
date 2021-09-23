@@ -268,7 +268,7 @@ constitutional monarchy<br>
 _name_: Manama<br>
 _geographic coordinates_: 26 14 N, 50 34 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name derives from the Arabic "al-manama" meaning "place of rest" or "place of dreams"<br>
+_etymology_: name derives from the Arabic "al-manama" meaning "place of rest" or "place of dreams"<br>
 
 **Administrative divisions**<br>
 4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)<br>
@@ -299,16 +299,16 @@ _residency requirement for naturalization_: 25 years; 15 years for Arab national
 **Suffrage**<br>
 20 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
-_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)<br>
-_election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
-
 **Executive branch**<br>
 _chief of state_: King HAMAD bin Isa Al-Khalifa (since 6 March 1999)<br>
 _head of government_: Prime minister SALMAN bin Hamad Al-Khalifa (since 11 November 2020); first deputy prime minister (vacant); Deputy Prime Ministers MUHAMMAD bin Mubarak Al-Khalifa (since September 2005), Jawad bin Salim al-ARAIDH, ALI bin Khalifa bin Salman Al-Khalifa (since 11 December 2006), KHALID bin Abdallah Al-Khalifa (since November 2010); note - KHALIFA ibn Salman Al Khalifa, who served as prime minister since Bahrain's independence in 1971, died on 11 November 2020<br>
 _cabinet_: Cabinet appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Consultative Council or Majlis al-Shura (40 seats; members appointed by the king)<br>Council of Representatives or Majlis al-Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year renewable terms)<br>
+_elections_: <br>Consultative Council - last appointments on 12 December 2018 (next NA)<br>Council of Representatives - first round for 9 members held on 24 November 2018; second round for remaining 31 members held on 1 December 2018 (next to be held in 2022)<br>
+_election results_: <br>Consultative Council - composition - men 31, women 9, percent of women 22.5%<br><br>Council of Representatives (for 2018 election)  - percent of vote by society - NA; seats by society - Islamic Al-Asalah (Sunni Salafi) 3, Minbar al-Taqadumi (Communist) 2, National Unity Gathering (Sunni progovernment) 1, National Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 33; composition - men 34, women 6, percent of women 15%; note - total National Assembly percent of women 19%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (consists of the chairman and 3 judges); Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal (court sittings include the president and at least one judge)<br>

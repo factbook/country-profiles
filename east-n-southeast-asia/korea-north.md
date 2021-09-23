@@ -268,7 +268,8 @@ dictatorship, single-party state; official state ideology of "Juche" or "nationa
 _name_: Pyongyang<br>
 _geographic coordinates_: 39 01 N, 125 45 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note:</strong> on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea<br><br><strong>etymology:</strong> the name translates as "flat land" in Korean<br>
+_time zone note_: on 5 May 2018, North Korea reverted to UTC+9, the same time zone as South Korea<br>
+_etymology_: the name translates as "flat land" in Korean<br>
 
 **Administrative divisions**<br>
 <p>9 provinces (do, singular and plural) and 3 cities (si, singular and plural)</p> <p><strong>provinces:</strong> Chagang, Hambuk (North Hamgyong), Hamnam (South Hamgyong), Hwangbuk (North Hwanghae), Hwangnam (South Hwanghae), Kangwon, P'yongbuk (North Pyongan), P'yongnam (South Pyongan), Ryanggang</p> <p><strong>major cities:</strong> Nampo, P'yongyang, Rason</p><br>
@@ -299,11 +300,6 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 17 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
-_elections_: last held on 10 March 2019 (next to be held March 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
-
 **Executive branch**<br>
 _chief of state_: Supreme People's Assembly President CHOE Ryong Hae (since 11 April 2019); note - functions as the technical head of state and performs related duties, such as receiving ambassadors' credentials<br>
 _head of government_: State Affairs Commission Chairman KIM Jong Un (since 17 December 2011); note - functions as the commander-in-chief and chief executive<br>
@@ -311,6 +307,11 @@ _cabinet_: Cabinet or Naegak members appointed by the Supreme People's Assembly 
 _elections/appointments_: chief of state and premier indirectly elected by the Supreme People's Assembly; election last held on 10 March 2019 (next election March 2024)<br>
 _election results_: KIM Jong In reelected unopposed<br>
 <strong>note:</strong> the Korean Workers' Party continues to list deceased leaders KIM Il Sung and KIM Jong Il as Eternal President and Eternal General Secretary respectively<br>
+
+**Legislative branch**<br>
+_description_: unicameral Supreme People's Assembly or Ch'oego Inmin Hoeui (687 seats; members directly elected by majority vote in 2 rounds if needed to serve 5-year terms); note - the Korean Workers' Party selects all candidates<br>
+_elections_: last held on 10 March 2019 (next to be held March 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - KWP 607, KSDP 50, Chondoist Chongu Party 22, General Association of Korean Residents in Japan (Chongryon) 5, religious associations 3; ruling party approves a list of candidates who are elected without opposition; composition - men 575, women 112, percent of women 16.3%<br><br><strong>note:</strong> KWP, KSDP, Chondoist Chongu Party, and Chongryon are under the KWP's control; a token number of seats reserved for minor parties<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Central Court (consists of one judge and 2 "People's Assessors" or, for some cases, 3 judges)<br>

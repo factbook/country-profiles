@@ -304,7 +304,7 @@ presidential republic<br>
 _name_: Porto-Novo (constitutional capital); Cotonou (seat of government)<br>
 _geographic coordinates_: 6 29 N, 2 37 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-etymology: the name Porto-Novo is Portuguese for "new port"; Cotonou means "by the river of death" in the native Fon language<br>
+_etymology_: the name Porto-Novo is Portuguese for "new port"; Cotonou means "by the river of death" in the native Fon language<br>
 
 **Administrative divisions**<br>
 12 departments; Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Littoral, Mono, Oueme, Plateau, Zou<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%<br>
-
 **Executive branch**<br>
 _chief of state_: President Patrice TALON (since 6 April 2016); note - the president is both chief of state and head of government<br>
 _head of government_: President Patrice TALON (since 6 April 2016); prime minister position abolished<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 11 April 2021 (next to be held in April 2026)<br>
 _election results_: Patrice TALON elected to a second term; percent of vote - Patrice TALON (independent) 86.4%, Alassane SOUMANOU (FCBE) 11.3%, other 2.3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (83 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 28 April 2019 (next to be held in April 2023)<br>
+_election results_: percent of vote by party - Union Progressiste 56.2%, Bloc Republicain 43.8%; seats by party - Union Progressiste 47, Bloc Republicain 36; composition - men 77, women 6, percent of women 7.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of the chief justice and 16 justices organized into an administrative division, judicial chamber, and chamber of accounts); Constitutional Court or Cour Constitutionnelle (consists of 7 members, including the court president); High Court of Justice (consists of the Constitutional Court members, 6 members appointed by the National Assembly, and the Supreme Court president); note - jurisdiction of the High Court of Justice is limited to cases of high treason by the national president or members of the government while in office<br>
@@ -682,11 +682,11 @@ _LNG terminal(s) (import)_: Cotonou<br>
 Benin Armed Forces (Forces Armees Beninoises, FAB): Army, Navy, Air Force; Ministry of Interior and Public Security: Republican Police (Police Republicaine, DGPR) (2021)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.1% of GDP (2016)<br>
-1.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Benin Armed Forces (FAB) are comprised of approximately 7,000 active duty troops; est. 5,000 Republican Police (2021)<br>
@@ -697,14 +697,14 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 **Military deployments**<br>
 250 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)<br>
-
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
 
 **Military - note**<br>
 Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2020)<br>
+
+**Military service age and obligation**<br>
+18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)<br>
 
 ## Terrorism
 

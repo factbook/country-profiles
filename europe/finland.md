@@ -279,7 +279,7 @@ _name_: Helsinki<br>
 _geographic coordinates_: 60 10 N, 24 56 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name may derive from the Swedish "helsing," an archaic name for "neck" ("hals"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; "fors" refers to "rapids," so "helsing fors" meaning becomes "the narrows' rapids"<br>
+_etymology_: the name may derive from the Swedish "helsing," an archaic name for "neck" ("hals"), and which may refer to a narrowing of the Vantaa River that flows into the Gulf of Finland at Helsinki; "fors" refers to "rapids," so "helsing fors" meaning becomes "the narrows' rapids"<br>
 
 **Administrative divisions**<br>
 19 regions (maakunnat, singular - maakunta (Finnish); landskapen, singular - landskapet (Swedish)); Aland (Swedish), Ahvenanmaa (Finnish); Etela-Karjala (Finnish), Sodra Karelen (Swedish) [South Karelia]; Etela-Pohjanmaa (Finnish), Sodra Osterbotten (Swedish) [South Ostrobothnia]; Etela-Savo (Finnish), Sodra Savolax (Swedish) [South Savo]; Kanta-Hame (Finnish), Egentliga Tavastland (Swedish); Kainuu (Finnish), Kajanaland (Swedish); Keski-Pohjanmaa (Finnish), Mellersta Osterbotten (Swedish) [Central Ostrobothnia]; Keski-Suomi (Finnish), Mellersta Finland (Swedish) [Central Finland]; Kymenlaakso (Finnish), Kymmenedalen (Swedish); Lappi (Finnish), Lappland (Swedish); Paijat-Hame (Finnish), Paijanne-Tavastland (Swedish); Pirkanmaa (Finnish), Birkaland (Swedish) [Tampere]; Pohjanmaa (Finnish), Osterbotten (Swedish) [Ostrobothnia]; Pohjois-Karjala (Finnish), Norra Karelen (Swedish) [North Karelia]; Pohjois-Pohjanmaa (Finnish), Norra Osterbotten (Swedish) [North Ostrobothnia]; Pohjois-Savo (Finnish), Norra Savolax (Swedish) [North Savo]; Satakunta (Finnish and Swedish); Uusimaa (Finnish), Nyland (Swedish) [Newland]; Varsinais-Suomi (Finnish), Egentliga Finland (Swedish) [Southwest Finland]<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 6 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)<br>
-
 **Executive branch**<br>
 _chief of state_: President Sauli NIINISTO (since 1 March 2012)<br>
 _head of government_: Prime Minister Sanna MARIN (since 10 December 2019)<br>
 _cabinet_: Council of State or Valtioneuvosto appointed by the president, responsible to Parliament&nbsp;<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 28 January 2018 (next to be held in January 2024); prime minister appointed by Parliament<br>
 _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -671,7 +671,7 @@ note: the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
-1.4% of GDP (2020 est.)<br>
+1.5% of GDP (2020)<br>
 1.5% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.4% of GDP (2017)<br>

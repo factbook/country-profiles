@@ -221,17 +221,17 @@ _local short form_: Curacao (Dutch); Korsou (Papiamento)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
 _etymology_: the most plausible name derivation is that the island was designated Isla de la Curacion (Spanish meaning "Island of the Cure" or "Island of Healing") or Ilha da Curacao (Portuguese meaning the same) to reflect the locale's function as a recovery stop for sick crewmen<br>
 
-**Dependency status**<br>
-<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
-
 **Government type**<br>
 <p>parliamentary democracy</p><br>
+
+**Dependency status**<br>
+<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
 
 **Capital**<br>
 _name_: Willemstad<br>
 _geographic coordinates_: 12 06 N, 68 55 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology</strong> - named after Prince William II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
+_etymology_: named after Prince William II of Orange (1626-1650), who served as stadtholder (Dutch head of state) from 1647 to 1650, shortly after the the Dutch captured Curacao from the Spanish in 1634<br>
 
 **Administrative divisions**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>
@@ -255,16 +255,16 @@ see the Netherlands<br>
 **Suffrage**<br>
 <p>18 years of age; universal</p><br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition -<br>
-
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor Lucille A. GEORGE-WOUT (since 4 November 2013)<br>
 _head of government_: Prime Minister Gilmar PISAS (since 14 June 2021)<br>
 _cabinet_: Cabinet sworn-in by the governor<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually elected prime minister by the&nbsp;Parliament of Curacao; next election scheduled for 2016<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament of Curacao (21 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 19 March 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party - MFK 28.1%, PAR 14.1%, PNP 12.6%, MAN 6.5%, KEM 5.4%, TPK 5.3%; seats by party - MFK 9, PAR 4, PNP 4, MAN 2, KEM 1, TPK 1; composition -<br>
 
 **Judicial branch**<br>
 _highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (sits as a 3-judge panel); final appeals heard by the Supreme Court, in The Hague, Netherlands<br>

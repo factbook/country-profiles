@@ -307,7 +307,8 @@ semi-presidential republic<br>
 _name_: Kinshasa<br>
 _geographic coordinates_: 4 19 S, 15 18 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note: </strong>the DRC has two time zones<strong><br><br>etymology: </strong>founded as a trading post in 1881 and named Leopoldville in honor of King Leopold II of the Belgians, who controlled the Congo Free State, the vast central African territory that became the Democratic Republic of the Congo in 1960; in 1966, Leopoldville was renamed Kinshasa, after a village of that name that once stood near the site<strong> <br><br><br></strong><br>
+_time zone note_: the DRC has two time zones<br>
+_etymology_: founded as a trading post in 1881 and named Leopoldville in honor of King Leopold II of the Belgians, who controlled the Congo Free State, the vast central African territory that became the Democratic Republic of the Congo in 1960; in 1966, Leopoldville was renamed Kinshasa, after a village of that name that once stood near the site<br>
 
 **Administrative divisions**<br>
 26 provinces (provinces, singular - province); Bas-Uele (Lower Uele), Equateur, Haut-Katanga (Upper Katanga), Haut-Lomami (Upper Lomami), Haut-Uele (Upper Uele), Ituri, Kasai, Kasai-Central, Kasai-Oriental (East Kasai), Kinshasa, Kongo Central, Kwango, Kwilu, Lomami, Lualaba, Mai-Ndombe, Maniema, Mongala, Nord-Kivu (North Kivu), Nord-Ubangi (North Ubangi), Sankuru, Sud-Kivu (South Kivu), Sud-Ubangi (South Ubangi), Tanganyika, Tshopo, Tshuapa<br>
@@ -337,17 +338,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate (108 seats; members indirectly elected by provincial assemblies by proportional representation vote; members serve 5-year terms)<br> <br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: Senate - last held on 19 January 2007 (follow-on election has been delayed)<br> National Assembly - last held on 30 December 2018<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition - men 103, women 5, percent of women 4.6%<br><br> National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 456, women 44, percent of women  8.8%; total Parliament percent of women 8.1%;note - the November 2011 election was marred by violence including the destruction of ballots in 2 constituencies resulting in the closure of polling sites; election results were delayed 3 months, strongly contested, and continue to be unresolved<br>
-
 **Executive branch**<br>
 _chief of state_: President Felix TSHISEKEDI (since 24 January 2019)<br>
 _head of government_: Prime Minister Jean-Michel Sama Lukonde KYENGE (since 15 February 2021); Deputy Prime Ministers Jose MAKILA, Leonard She OKITUNDU, Henri MOVA Sankanyi (since February 2018)<br>
 _cabinet_: Ministers of State appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); election last held on 30 December 2018 (next to be held in December 2023); prime minister appointed by the president<br>
 _election results_: Felix TSHISEKEDI elected president; percent of vote - Felix TSHISEKEDI (UDPS) 38.6%, Martin FAYULU (Lamuka coalition) 34.8%, Emmanuel Ramazani SHADARY (PPRD) 23.9%, other 2.7%; note - election marred by serious voting irregularities<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate (108 seats; members indirectly elected by provincial assemblies by proportional representation vote; members serve 5-year terms)<br> <br>National Assembly (500 seats; 439 members directly elected in multi-seat constituencies by proportional representation vote and 61 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: Senate - last held on 19 January 2007 (follow-on election has been delayed)<br> National Assembly - last held on 30 December 2018<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PPRD 22, MLC 14, FR 7, RCD 7, PDC 6, CDC 3, MSR 3, PALU 2, other 18, independent 26; composition - men 103, women 5, percent of women 4.6%<br><br> National Assembly - percent of vote by party - NA; seats by party - PPRD 62, UDPS 41, PPPD 29, MSR 27, MLC 22, PALU 19, UNC 17, ARC 16, AFDC 15, ECT 11, RRC 11, other 214 (includes numerous political parties that won 10 or fewer seats and 2 constituencies where voting was halted), independent 16; composition - men 456, women 44, percent of women  8.8%; total Parliament percent of women 8.1%;note - the November 2011 election was marred by violence including the destruction of ballots in 2 constituencies resulting in the closure of polling sites; election results were delayed 3 months, strongly contested, and continue to be unresolved<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of 26 justices and organized into legislative and judiciary sections); Constitutional Court (consists of 9 judges)<br>
@@ -696,11 +697,11 @@ Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Repu
 note - the Republican Guard is under the direct control of the president<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
 0.7% of GDP (2018)<br>
 0.7% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 limited and widely varied information; approximately 100,000 active troops (mostly Army, but includes several thousand Navy and Air Force personnel, as well as about 10,000 Republican Guard; note -&nbsp; Navy personnel includes naval infantry) (2021)<br>
@@ -709,7 +710,7 @@ limited and widely varied information; approximately 100,000 active troops (most
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; since 2010, Ukraine is the largest supplier of arms to the FARDC (2020)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,500 personnel, including about 14,500 military troops and 600 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,500 personnel, including about 14,500 military troops and 600 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary and compulsory military service (2019)<br>
@@ -726,7 +727,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 213,133 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,819 (South Sudan) (refugees and asylum seekers), 42,725 (Burundi) (2021)<br>
+_refugees (country of origin)_: 213,133 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,953 (South Sudan) (refugees and asylum seekers), 41,796 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

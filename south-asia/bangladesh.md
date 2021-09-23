@@ -300,7 +300,7 @@ parliamentary republic<br>
 _name_: Dhaka<br>
 _geographic coordinates_: 23 43 N, 90 24 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the origins of the name are unclear, but some sources state that the city's site was originally called "dhakka," meaning "watchtower," and that the area served as a watch-station for Bengal rulers<br>
+_etymology_: the origins of the name are unclear, but some sources state that the city's site was originally called "dhakka," meaning "watchtower," and that the area served as a watch-station for Bengal rulers<br>
 
 **Administrative divisions**<br>
 8 divisions; Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet<br>
@@ -330,17 +330,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
-_elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
-_election results_: percent of vote by party - NA; seats by party as of January 2020 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President Abdul HAMID (since 24 April 2013); note - Abdul HAMID served as acting president following the death of Zillur RAHMAN in March 2013; HAMID was subsequently indirectly elected by the National Parliament and sworn in 24 April 2013<br>
 _head of government_: Prime Minister Sheikh HASINA Wazed (since 6 January 2009)<br>
 _cabinet_: Cabinet selected by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Parliament for a 5-year term (eligible for a second term); election last held on 7 February 2018 (next to be held by 2023); the president appoints as prime minister the majority party leader in the National Parliament<br>
 _election results_: President Abdul HAMID (AL) reelected by the National Parliament unopposed for a second term; Sheikh HASINA reappointed prime minister as leader of the majority AL party following parliamentary elections in 2018<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of the Nation or Jatiya Sangsad (350 seats; 300 members in single-seat territorial constituencies directly elected by simple majority vote; 50 members - reserved for women only - indirectly elected by the elected members by proportional representation vote using single transferable vote; all members serve 5-year terms)<br>
+_elections_: last held on 30 December 2018 (next to be held in December 2023)<br>
+_election results_: percent of vote by party - NA; seats by party as of January 2020 - AL 299, JP 27, BNP 7, other 10, independent 4; composition - men 277, women 73, percent of women 20.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Bangladesh (organized into the Appellate Division with 7 justices and the High Court Division with 99 justices)<br>
@@ -697,11 +697,11 @@ Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force
 note: the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020 est.)<br>
 1.3% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.4% of GDP (2016)<br>
-1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 165,000 total active personnel (135,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>

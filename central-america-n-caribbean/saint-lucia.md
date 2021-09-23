@@ -271,7 +271,7 @@ parliamentary democracy under a constitutional monarchy; a Commonwealth realm<br
 _name_: Castries<br>
 _geographic coordinates_: 14 00 N, 61 00 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies<br>
+_etymology_: in 1785, the village of Carenage was renamed Castries, after Charles Eugene Gabriel de La Croix de Castries (1727-1801), who was then the French Minister of the Navy and Colonies<br>
 
 **Administrative divisions**<br>
 10 districts; Anse-la-Raye, Canaries, Castries, Choiseul, Dennery, Gros-Islet, Laborie, Micoud, Soufriere, Vieux-Fort<br>
@@ -301,16 +301,16 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 12 July 2016 (next in 2021)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - NA, percent of women NA; note - total Parliament percent of women NA<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Neville CENAC (since 12 January 2018)<br>
 _head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: Senate - last appointments on 12 July 2016 (next in 2021)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - NA, percent of women NA; note - total Parliament percent of women NA<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>

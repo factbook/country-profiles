@@ -306,7 +306,7 @@ federal parliamentary republic<br>
 _name_: Islamabad<br>
 _geographic coordinates_: 33 41 N, 73 03 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> derived from two words: "Islam," an Urdu word referring to the religion of Islam, and "-abad," a Persian suffix indicating an "inhabited place" or "city," to render the meaning "City of Islam"<br>
+_etymology_: derived from two words: "Islam," an Urdu word referring to the religion of Islam, and "-abad," a Persian suffix indicating an "inhabited place" or "city," to render the meaning "City of Islam"<br>
 
 **Administrative divisions**<br>
 4 provinces, 2 Pakistan-administered areas*, and 1 capital territory**; Azad Kashmir*, Balochistan, Gilgit-Baltistan*, Islamabad Capital Territory**, Khyber Pakhtunkhwa, Punjab, Sindh<br>
@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 4 out of the previous 7 years and in
 **Suffrage**<br>
 18 years of age; universal; note - there are joint electorates and reserved parliamentary seats for women and non-Muslims<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
-_elections_: <br>Senate - bye-election held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
-
 **Executive branch**<br>
 _chief of state_: President Arif ALVI (since 9 September 2018)<br>
 _head of government_: Prime Minister Imran KHAN (since 18 August 2018)<br>
 _cabinet_: Cabinet appointed by the president upon the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the Electoral College consisting of members of the Senate, National Assembly, and provincial assemblies for a 5-year term (limited to 2 consecutive terms); election last held on 4 September 2018 (next to be held in 2023); prime minister elected by the National Assembly on 17 August 2018<br>
 _election results_: Arif ALVI elected president; Electoral College vote - Arif ALVI (PTI) 352, Fazl-ur-REHMAN (MMA) 184, Aitzaz AHSAN (PPP) 124; Imran KHAN elected prime minister; National Assembly vote - Imran KHAN (PTI) 176, Shehbaz SHARIF (PML-N) 96<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Majlis-e-Shoora consists of:<br>Senate (100 seats; members indirectly elected by the 4 provincial assemblies and the territories' representatives by proportional representation vote; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly (342 seats; 272 members directly elected in single-seat constituencies by simple majority vote and 70 members - 60 women and 10 non-Muslims - directly elected by proportional representation vote; all members serve 5-year terms)<br>
+_elections_: <br>Senate - bye-election held on 3 March 2021 (next to be held in March 2024)<br>National Assembly - last held on 25 July 2018 (next to be held on 25 July 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PTI 25, PPP 21, PML-N 18, BAP 13, JU-F 5, other 13, independent 5; composition - men 80, women 20, percent of women 20%<br><br>National Assembly - percent of votes by party NA; seats by party as of December 2019 - PTI 156, PML-N 84, PPP 55, MMA 16, MQM-P 7, BAP 5, PML-Q 5, BNP 4, GDA 3, AML 1, ANP 1, JWP 1, independent 4; composition - men 273, women 69, percent of women 20.2%; note - total Parliament percent of women 20.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Pakistan (consists of the chief justice and 16 judges)<br>
@@ -708,11 +708,11 @@ Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, 
 note:&nbsp; the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
 
 **Military expenditures**<br>
+4.3% of GDP (2020 est.)<br>
 4% of GDP (2019)<br>
 4.1% of GDP (2018)<br>
 3.8% of GDP (2017)<br>
 3.6% of GDP (2016)<br>
-3.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 640,000 active personnel (550,000 Army; 30,000 Navy; 60,000 Air Force) (2021)<br>
@@ -723,11 +723,11 @@ the Pakistan military inventory includes a broad mix of equipment, primarily fro
 **Military deployments**<br>
 1,240 Central African Republic (MINUSCA); 1,950 Democratic Republic of the Congo (MONUSCO); 150 Mali (MINUSMA); 900 Sudan (UNAMID) (Jan 2021)<br>
 
-**Military service age and obligation**<br>
-16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2019)<br>
-
 **Military - note**<br>
 the military has carried out three coups since Pakistan's independence in 1947 and remains the most influential political actor in the country<br>
+
+**Military service age and obligation**<br>
+16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2019)<br>
 
 ## Terrorism
 

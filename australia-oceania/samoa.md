@@ -283,7 +283,7 @@ _name_: Apia<br>
 _geographic coordinates_: 13 49 S, 171 46 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in September; ends first Sunday in April<br>
-<strong>etymology:</strong> name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital<br>
+_etymology_: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital<br>
 
 **Administrative divisions**<br>
 11 districts; A'ana, Aiga-i-le-Tai, Atua, Fa'asaleleaga, Gaga'emauga, Gagaifomauga, Palauli, Satupa'itea, Tuamasaga, Va'a-o-Fonoti, Vaisigano<br>
@@ -313,17 +313,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 21 years of age; universal<br>
 
+**Executive branch**<br>
+_chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
+_head of government_: Prime Minister FIAME Naomi Mata&rsquo;afa (since 24 May 2021)<br>
+_cabinet_: Cabinet appointed by the chief of state on the prime minister's advice<br>
+_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2- term limit); election last held on 4 July 2017 (next to be held in 2022); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly<br>
+_election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017<br>
+
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Fono (51 seats for 2021-2026 term); members from 51 single-seat constituencies directly elected by simple majority vote, with a minimum 10% representation of women in the Assembly required; members serve 5-year terms)<br>
 _elections_: election last held on 9 April 2021 (next election to be held in 2026)<br>note - head of state TUIMALEALI'IFANO Va’aletoa Sualauvi II declared 9 April 2021 election void on 4 May 2021, new elections set for 21 May 2021; on 17 May 2021, the Supreme Court invalidated the head of state's order allowing the 9 April 2021 election results to stand<br>
 _election results_: percent of vote by party - HRPP 55%, FAST 37%, TSP 3%, independents 5%; seats by party – initial election results - FAST 25, HRPP 25, independents 1; composition - men 46, women 5, percent of women 9.8% <br>note - on 2 June 2021, the Court of Appeals declared that a sixth seat for women is required to meet the minimum 10% representation for women, but that the seat would not be filled until after all election petitions and by-elections are settled<br>
-
-**Executive branch**<br>
-_chief of state_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi II (since 21 July 2017)<br>
-_head of government_: Prime Minister TUILA'EPA Lupesoliai Sailele Malielegaoi (since 23 November 1998); Deputy Prime Minister FIAME Naomi Mata&rsquo;afa (since 2016)<br>
-_cabinet_: Cabinet appointed by the chief of state on the prime minister's advice<br>
-_elections/appointments_: chief of state indirectly elected by the Legislative Assembly to serve a 5-year term (2- term limit); election last held on 4 July 2017 (next to be held in 2022); following legislative elections, the leader of the majority party is usually appointed prime minister by the chief of state, approved by the Legislative Assembly<br>
-_election results_: TUIMALEALI'IFANO Va&rsquo;aletoa Sualauvi unanimously elected by the Legislative Assembly on 5 July 2017<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the chief justice and 2 Supreme Court judges and meets once or twice a year); Supreme Court (consists of the chief justice and several judges)<br>

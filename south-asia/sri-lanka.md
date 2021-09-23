@@ -299,7 +299,7 @@ presidential republic<br>
 _name_: Colombo (commercial capital); Sri Jayewardenepura Kotte (legislative capital)<br>
 _geographic coordinates_: 6 55 N, 79 50 E<br>
 _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Colombo may derive from the Sinhala "kolon thota," meaning "port on the river" (referring to the Kelani River that empties into the Indian Ocean at Colombo); alternatively, the name may derive from the Sinhala "kola amba thota" meaning "harbor with mango trees"; it is also possible that the Portuguese named the city after Christopher COLUMBUS, who lived in Portugal for many years (as Cristovao COLOMBO) before discovering the Americas for the Spanish crown in 1492 - not long before the Portuguese made their way to Sri Lanka in 1505; Sri Jayewardenepura Kotte translates as "Resplendent City of Growing Victory" in Sinhala<br>
+_etymology_: Colombo may derive from the Sinhala "kolon thota," meaning "port on the river" (referring to the Kelani River that empties into the Indian Ocean at Colombo); alternatively, the name may derive from the Sinhala "kola amba thota" meaning "harbor with mango trees"; it is also possible that the Portuguese named the city after Christopher COLUMBUS, who lived in Portugal for many years (as Cristovao COLOMBO) before discovering the Americas for the Spanish crown in 1492 - not long before the Portuguese made their way to Sri Lanka in 1505; Sri Jayewardenepura Kotte translates as "Resplendent City of Growing Victory" in Sinhala<br>
 
 **Administrative divisions**<br>
 9 provinces; Central, Eastern, North Central, Northern, North Western, Sabaragamuwa, Southern, Uva, Western<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according the the island wide proportional vote the party obtains; members serve 5-year terms)<br>
-_elections_: last held on 17 August 2015 (next originally scheduled for 25 April 2020 but postponed to due to the COVID-19 pandemic)<br>
-_election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%,&nbsp; other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Gotabaya RAJAPAKSA (since 18 November 2019); note - the president is both chief of state and head of government; Prime Minister Mahinda RAJAPAKSA (since 21 November 2019)<br>
 _head of government_: President Gotabaya RAJAPAKSA (since 18 November 2019)<br>
 _cabinet_: Cabinet appointed by the president in consultation with the prime minister<br>
 _elections/appointments_: president directly elected by preferential majority popular vote for a 5-year term (eligible for a second term); election last held on 16 November 2019 (next to be held in 2024); prime minister appointed by the president from among members of Parliament for a 5-year term)<br>
 _election results_: Gotabaya RAJAPAKSA elected president; percent of vote - Gotabaya RAJAPAKSA (SLPP) 52.2%, Sajith PREMADASA (UNP) 42%, other 5.8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (225 seats; 196 members directly elected in multi-seat district constituencies by proportional representation vote using a preferential method in which voters select 3 candidates in order of preference; remaining 29 seats, referred to as the "national list" are allocated by each party secretary according the the island wide proportional vote the party obtains; members serve 5-year terms)<br>
+_elections_: last held on 17 August 2015 (next originally scheduled for 25 April 2020 but postponed to due to the COVID-19 pandemic)<br>
+_election results_: percent of vote by coalition/party - SLFPA 59.1%, SJB 23.9%, JVP 3.8%, TNA 2.8%, UNP 2.2%, TNPF 0.6%, EPDP 0.5%,&nbsp; other 7.1%; seats by coalition/party - SLFPA 145, SJB 54, TNA 10, JVP 3, other 13; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of the chief justice and 9 justices); note - the court has exclusive jurisdiction to review legislation<br>
@@ -689,11 +689,11 @@ _container port(s) (TEUs)_: Colombo (7,228,337) (2019)<br>
 Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy (includes Marine Corps), Sri Lanka Air Force, Sri Lanka Coast Guard; Civil Security Department (Home Guard); Sri Lanka National Police: Special Task Force (counter-terrorism and counter-insurgency) (2021)<br>
 
 **Military expenditures**<br>
+2% of GDP (2020 est.)<br>
 1.9% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2.1% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
-2.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force) (2020)<br>

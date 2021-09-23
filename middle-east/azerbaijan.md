@@ -289,8 +289,8 @@ _name_: Baku (Baki, Baky)<br>
 _geographic coordinates_: 40 23 N, 49 52 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-<strong>etymology:</strong> the name derives from the Persian designation of the city "bad-kube" meaning "wind-pounded city" and refers to the harsh winds and severe snow storms that can hit the city
-<br><br><strong>note: </strong>at approximately 28 m below sea level, Baku's elevation makes it the lowest capital city in the world<br>
+_etymology_: the name derives from the Persian designation of the city "bad-kube" meaning "wind-pounded city" and refers to the harsh winds and severe snow storms that can hit the city<br>
+<strong>note: </strong>at approximately 28 m below sea level, Baku's elevation makes it the lowest capital city in the world<br>
 
 **Administrative divisions**<br>
 <p>66 districts (rayonlar; rayon - singular), 11 cities (saharlar; sahar - singular);</p> <p><strong>rayons:</strong> Abseron, Agcabadi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lankaran, Lerik, Masalli, Neftcala, Oguz, Ordubad, Qabala, Qax, Qazax, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sadarak, Sahbuz, Saki, Salyan, Samaxi, Samkir, Samux, Sarur, Siyazan, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xizi, Xocali, Xocavand, Yardimli, Yevlax, Zangilan, Zaqatala, Zardab</p> <p><strong>cities:</strong> Baku, Ganca, Lankaran, Mingacevir, Naftalan, Naxcivan (Nakhichevan), Saki, Sirvan, Sumqayit, Xankandi, Yevlax</p><br>
@@ -320,11 +320,6 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 70, CSP 3, AVP 1, CUP 1, Democratic Enlightenment 1, PDR 1, Great Order 1, VP 1, Whole Azerbaijan Popular Front 1, independent 41, vacant 4; composition - men 103, women 22, percent of women 17.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Ilham ALIYEV (since 31 October 2003); First Vice President Mehriban ALIYEVA (since 21 February 2017)<br>
 _head of government_: Prime Minister Ali ASADOV (since 8 October 2019); First Deputy Prime Minister Yaqub EYYUBOV (since June 2006)<br>
@@ -332,6 +327,11 @@ _cabinet_: Council of Ministers appointed by the president and confirmed by the 
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for unlimited terms); election last held on 11 April 2018 (next to be held in 2025); prime minister and first deputy prime minister appointed by the president and confirmed by the National Assembly; note - a constitutional amendment approved in a September 2016 referendum expanded presidential terms from 5 to 7 years; a separate constitutional amendment approved in the same referendum also introduced the post of first vice-president and additional vice-presidents, who are directly appointed by the president<br>
 _election results_: Ilham ALIYEV reelected president in first round; percent of vote - Ilham ALIYEV (YAP) 86%, Zahid ORUJ (independent) 3.1%, other 10.9%<br>
 <strong>note:</strong> OSCE observers noted shortcomings in the election, including a restrictive political environment, limits on fundamental freedoms, a lack of genuine competition, and ballot box stuffing<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 70, CSP 3, AVP 1, CUP 1, Democratic Enlightenment 1, PDR 1, Great Order 1, VP 1, Whole Azerbaijan Popular Front 1, independent 41, vacant 4; composition - men 103, women 22, percent of women 17.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>
@@ -672,11 +672,11 @@ _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
 Land Forces (Combined Arms Army), Air Forces, Navy Forces; Ministry of Internal Affairs: State Border Service (includes Coast Guard), Internal Security Troops (2021)<br>
 
 **Military expenditures**<br>
+5.4% of GDP (2020 est.)<br>
 4% of GDP (2019)<br>
 3.6% of GDP (2018)<br>
 3.8% of GDP (2017)<br>
 3.7% of GDP (2016)<br>
-5.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 65,000 total active troops (55,000 Army; 2,000 Navy; 8,000 Air Force); approximately 15,000 Ministry of Internal Affairs troops (2020)<br>
@@ -687,11 +687,11 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 **Military deployments**<br>
 120 Afghanistan (NATO) (2021)<br>
 
-**Military service age and obligation**<br>
-18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
-
 **Military - note**<br>
 since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
+
+**Military service age and obligation**<br>
+18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
 
 ## Terrorism
 

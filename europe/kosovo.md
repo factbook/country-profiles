@@ -203,7 +203,7 @@ _name_: Pristina (Prishtine, Prishtina)<br>
 _geographic coordinates_: 42 40 N, 21 10 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name may derive from a Proto-Slavic word reconstructed as "pryshchina," meaning "spring (of water)"<br>
+_etymology_: the name may derive from a Proto-Slavic word reconstructed as "pryshchina," meaning "spring (of water)"<br>
 
 **Administrative divisions**<br>
 38 municipalities (komunat, singular - komuna (Albanian); opstine, singular - opstina (Serbian)); Decan (Decani), Dragash (Dragas), Ferizaj (Urosevac), Fushe Kosove (Kosovo Polje), Gjakove (Dakovica), Gjilan (Gnjilane), Gllogovc (Glogovac), Gracanice (Gracanica), Hani i Elezit (Deneral Jankovic), Istog (Istok), Junik, Kacanik, Kamenice (Kamenica), Kline (Klina), Kllokot (Klokot), Leposaviq (Leposavic), Lipjan (Lipljan), Malisheve (Malisevo), Mamushe (Mamusa), Mitrovice e Jugut (Juzna Mitrovica) [South Mitrovica], Mitrovice e Veriut (Severna Mitrovica) [North Mitrovica], Novoberde (Novo Brdo), Obiliq (Obilic), Partesh (Partes), Peje (Pec), Podujeve (Podujevo), Prishtine (Pristina), Prizren, Rahovec (Orahovac), Ranillug (Ranilug), Shterpce (Strpce), Shtime (Stimlje), Skenderaj (Srbica), Suhareke (Suva Reka), Viti (Vitina), Vushtrri (Vucitrn), Zubin Potok, Zvecan<br>
@@ -233,17 +233,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
-_elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Vjosa OSMANI (since 4 April 2021); note: President Hashim THACI (since 7 April 2016) resigned 5 November 2020<br>
 _head of government_: Prime Minister Albin KURTI (since 22 February 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
 _election results_: Vjosa OSMANI elected president in the third ballot; Assembly vote - Vjosa OSMANI (VV) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
+_elections_: last held on 14 February 2021 (next to be held in 2025)<br>
+_election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -573,6 +573,9 @@ the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo
 
 **Military equipment inventories and acquisitions**<br>
 the KSF is equipped with small arms and light vehicles only; it relies on donations and since 2013 has received donated equipment from Turkey and the US (2020)<br>
+
+**Military - note**<br>
+the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; as of 2021, it numbered about 3,500 troops; KFOR also assists in developing the Kosovo Security Force<br>
 
 **Military service age and obligation**<br>
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2019)<br>

@@ -273,7 +273,7 @@ absolute monarchy<br>
 _name_: Riyadh<br>
 _geographic coordinates_: 24 39 N, 46 42 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name derives from the Arabic word "riyadh," meaning "gardens," and refers to various oasis towns in the area that merged to form the city<br>
+_etymology_: the name derives from the Arabic word "riyadh," meaning "gardens," and refers to various oasis towns in the area that merged to form the city<br>
 
 **Administrative divisions**<br>
 13 regions (manatiq, singular - mintaqah); Al Bahah, Al Hudud ash Shamaliyah (Northern Border), Al Jawf, Al Madinah al Munawwarah (Medina), Al Qasim, Ar Riyad (Riyadh), Ash Sharqiyah (Eastern), 'Asir, Ha'il, Jazan, Makkah al Mukarramah (Mecca), Najran, Tabuk<br>
@@ -303,15 +303,15 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; restricted to males; universal for municipal elections<br>
 
-**Legislative branch**<br>
-_description_: unicameral Consultative Council or Majlis al-Shura (150 seats; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
-<strong>note:</strong> composition as of 2013 - men 121, women 30, percent of women 19.9%<br>
-
 **Executive branch**<br>
 _chief of state_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985); note - the monarch is both chief of state and head of government<br>
 _head of government_: King and Prime Minister SALMAN bin Abd al-Aziz Al Saud (since 23 January 2015); Crown Prince MUHAMMAD BIN SALMAN bin Abd al-Aziz Al Saud (born 31 August 1985)<br>
 _cabinet_: Council of Ministers appointed by the monarch every 4 years and includes many royal family members<br>
 _elections/appointments_: none; the monarchy is hereditary; an Allegiance Council created by royal decree in October 2006 established a committee of Saudi princes for a voice in selecting future Saudi kings<br>
+
+**Legislative branch**<br>
+_description_: unicameral Consultative Council or Majlis al-Shura (150 seats; members appointed by the monarch to serve 4-year terms); note - in early 2013, the monarch granted women 30 seats on the Council<br>
+<strong>note:</strong> composition as of 2013 - men 121, women 30, percent of women 19.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court (consists of the court chief and organized into circuits with 3-judge panels, except for the criminal circuit, which has a 5-judge panel for cases involving major punishments)<br>

@@ -273,7 +273,7 @@ _name_: Bratislava<br>
 _geographic coordinates_: 48 09 N, 17 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke Bretislav I; alternatively, the name may derive from the Slovak words "brat" (brother) and "slava" (glory)<br>
+_etymology_: the name was adopted in 1919 after Czechoslovakia gained its independence and may derive from later transliterations of the 9th century military commander, Braslav, or the 11th century Bohemian Duke Bretislav I; alternatively, the name may derive from the Slovak words "brat" (brother) and "slava" (glory)<br>
 
 **Administrative divisions**<br>
 8 regions (kraje, singular - kraj); Banska Bystrica, Bratislava, Kosice, Nitra, Presov, Trencin, Trnava, Zilina<br>
@@ -303,17 +303,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 29 February 2020 (next to be held March 2024)<br>
-_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition - men 120, women 30, percent of women 20%<br>
-
 **Executive branch**<br>
 _chief of state_: President Zuzana CAPUTOVA (since 15 June 2019)<br>
 _head of government_: Prime Minister Eduard HEGER (since 1 April 2021); Deputy Prime Ministers Stefan HOLY, Veronika REMISOVA, Richard SULIK (all since 21 March 2020)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 16 March and 30 March 2019 (next to be held March 2024); following National Council elections (every 4 years), the president designates a prime minister candidate, usually the leader of the party or coalition that wins the most votes, who must win a vote of confidence in the National Council<br>
 _election results_: <em><br>2019:</em> Zuzana CAPUTOVA reelected president in second round; percent of vote - Zuzana CAPUTOVA (PS) 58.4%, Maros SEFCOVIC (independent) 41.6%<br><br><em>2014:</em> Andrej KISKA elected president in second round; percent of vote - Andrej KISKA (independent) 59.4%, Robert FICO (Smer-SD) 40.6%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Council or Narodna Rada (150 seats; members directly elected in a single- and multi-seat constituencies by closed, party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 29 February 2020 (next to be held March 2024)<br>
+_election results_: percent of vote by party - OLaNO-NOVA 25%, Smer-SD 18.3%, Sme-Rodina 8.2%, LSNS 8%, PS-SPOLU 7%, SaS 6.2%, Za Ludi 5.8%, other 21.5%; seats by party - OLaNO-NOVA 53, Smer-SD 38, Sme-Rodina 17, LSNS 17, SaS 13, Za Ludi 12, PS-SPOLU 0; composition - men 120, women 30, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Slovak Republic (consists of the court president, vice president, and approximately 80 judges organized into criminal, civil, commercial, and administrative divisions with 3- and 5-judge panels); Constitutional Court of the Slovak Republic (consists of 13 judges organized into 3-judge panels)<br>
@@ -671,7 +671,7 @@ the Armed Forces of the Slovak Republic have approximately 13,000 active duty pe
 the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2020)<br>
 
 **Military deployments**<br>
-240 Cyprus (UNFICYP); up to 150 Latvia (NATO) (Jan 2021)<br>
+240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
 
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br>

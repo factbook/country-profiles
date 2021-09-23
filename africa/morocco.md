@@ -339,7 +339,7 @@ _name_: Rabat<br>
 _geographic coordinates_: 34 01 N, 6 49 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1 hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> name derives from the Arabic title "Ribat el-Fath," meaning "stronghold of victory," applied to the newly constructed citadel in 1170<br>
+_etymology_: name derives from the Arabic title "Ribat el-Fath," meaning "stronghold of victory," applied to the newly constructed citadel in 1170<br>
 
 **Administrative divisions**<br>
 12 regions; Beni Mellal-Khenifra, Casablanca-Settat, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Fes-Meknes, Guelmim-Oued Noun, Laayoune-Sakia El Hamra, Marrakech-Safi, Oriental, Rabat-Sale-Kenitra, Souss-Massa, Tanger-Tetouan-Al Hoceima<br>
@@ -370,16 +370,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
-_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 7 October 2016 (next to be held on 8 September 2021)<br>
-_election results_: <br>Chamber of Advisors - percent of vote by party - NA; seats by party - NA; composition - men 106, women 14, percent of women 11.7%<br>Chamber of Representatives - percent of vote by party NA; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4; composition - men 314, women 81, percent of women 20.5%; note - total Parliament percent of women 18.4%<br>
-
 **Executive branch**<br>
 _chief of state_: King MOHAMMED VI (since 30 July 1999)<br>
 _head of government_: Prime Minister Saad-Eddine al-OTHMANI (since 17 March 2017)<br>
 _cabinet_: Council of Ministers chosen by the prime minister in consultation with Parliament and appointed by the monarch&nbsp;<br>
 _elections/appointments_: the monarchy is hereditary; prime minister appointed by the monarch from the majority party following legislative elections<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
+_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 7 October 2016 (next to be held on 8 September 2021)<br>
+_election results_: <br>Chamber of Advisors - percent of vote by party - NA; seats by party - NA; composition - men 106, women 14, percent of women 11.7%<br>Chamber of Representatives - percent of vote by party NA; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4; composition - men 314, women 81, percent of women 20.5%; note - total Parliament percent of women 18.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>

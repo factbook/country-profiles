@@ -303,7 +303,7 @@ presidential republic<br>
 _name_: Harare<br>
 _geographic coordinates_: 17 49 S, 31 02 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, Ne-harawa, whose name meant "he who does not sleep"<br>
+_etymology_: named after a village of Harare at the site of the present capital; the village name derived from a Shona chieftain, Ne-harawa, whose name meant "he who does not sleep"<br>
 
 **Administrative divisions**<br>
 8 provinces and 2 cities* with provincial status; Bulawayo*, Harare*, Manicaland, Mashonaland Central, Mashonaland East, Mashonaland West, Masvingo, Matabeleland North, Matabeleland South, Midlands<br>
@@ -333,17 +333,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br> National Assembly - last held on 30 July 2018 (next to be held in 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br> National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 185, women 25, percent of women 31.5%; note - total Parliament percent of women 34.3%<br>
-
 **Executive branch**<br>
 _chief of state_: President Emmerson Dambudzo MNANGAGWA (since 24 November 2017); First Vice President Constantino CHIWENGA (since 28 December 2017); note - Robert Gabriel MUGABE resigned on 21 November 2017, after ruling for 37 years<br>
 _head of government_: President Emmerson Dambudzo MNANGAGWA (since 24 November 2017); Vice President Constantino CHIWENGA (since 28 December 2017); Vice President (vacant)<br>
 _cabinet_: Cabinet appointed by president, responsible to National Assembly<br>
 _elections/appointments_: each presidential candidate nominated with a nomination paper signed by at least 10 registered voters (at least 1 candidate from each province) and directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 3 July 2018 (next to be held in 2023); co-vice presidents drawn from party leadership<br>
 _election results_: Emmerson MNANGAGWA reelected president in 1st round of voting; percent of vote - Emmerson MNANGAGWA (ZANU-PF) 50.8%, Nelson CHAMISA (MDC-T) 44.3%, Thokozani KHUPE (MDC-N) .9%, other 3%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (80 seats; 60 members directly elected in multi-seat constituencies - 6 seats in each of the 10 provinces - by proportional representation vote, 16 indirectly elected by the regional governing councils, 2 reserved for the National Council Chiefs, and 2 reserved for members with disabilities; members serve 5-year terms)<br>National Assembly (270 seats; 210 members directly elected in single-seat constituencies by simple majority vote and 60 seats reserved for women directly elected by proportional representation vote; members serve 5-year terms)<br>
+_elections_: Senate - last held for elected member on 30 July 2018 (next to be held in 2023)<br> National Assembly - last held on 30 July 2018 (next to be held in 2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - ZANU-PF 34, MDC Alliance 25, Chiefs 18, people with disabilities 2, MDC-T 1; composition - men 45, women 35, percent of women 43.8%<br> National Assembly - percent of vote by party - NA; seats by party - ZANU-PF 179, MDC Alliance 88, MDC-T 1, NPF 1, independent 1; composition - men 185, women 25, percent of women 31.5%; note - total Parliament percent of women 34.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 4 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -680,11 +680,11 @@ _river port(s)_: Binga, Kariba (Zambezi)<br>
 Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbabwe (AFZ) (2021)<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2019)<br>
-1.2% of GDP (2018)<br>
-1.5% of GDP (2017)<br>
-1.8% of GDP (2016)<br>
-1.9% of GDP (2015)<br>
+0.7% of GDP (2019 est.)<br>
+1.2% of GDP (2018 est.)<br>
+1.5% of GDP (2017 est.)<br>
+1.8% of GDP (2016 est.)<br>
+1.9% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>
@@ -692,11 +692,11 @@ information varies; approximately 30,000 active duty troops, including about 4,0
 **Military equipment inventories and acquisitions**<br>
 the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equipment; since 2000, China is the leading arms supplier to the ZDF, although there are no recorded deliveries of weapons since 2006; since the early 2000s, Zimbabwe has been under an arms embargo from the European Union, as well as targeted sanctions from Australia, Canada, New Zealand, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>
-
 **Military - note**<br>
 the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017<br>
+
+**Military service age and obligation**<br>
+18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>
 
 ## Transnational Issues
 

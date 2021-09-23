@@ -208,17 +208,17 @@ _conventional short form_: Turks and Caicos Islands<br>
 _abbreviation_: TCI<br>
 _etymology_: the Turks Islands are named after the Turk's cap cactus (native to the islands and appearing on the flag and coat of arms), while the Caicos Islands derive from the native term "caya hico" meaning "string of islands"<br>
 
-**Dependency status**<br>
-overseas territory of the UK<br>
-
 **Government type**<br>
 parliamentary democracy<br>
+
+**Dependency status**<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: Grand Turk (Cockburn Town)<br>
 _geographic coordinates_: 21 28 N, 71 08 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844<br>
+_etymology_: named after Sir Francis Cockburn, who served as governor of the Bahamas from 1837 to 1844<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
@@ -242,16 +242,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
-_elections_: last held on 19 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote (preliminary) - PNP 56.2%, PDM 39%, other 4.8%; seats by party - PNP 14, PDM 1; composition (of elected members) - men 12, women 3; percent of women 20%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel DAKIN (since 15 July 2019)<br>
 _head of government_: Premier Washington MISICK (since 19 February 2021)<br>
 _cabinet_: Cabinet appointed by the governor from among members of the House of Assembly<br>
 _elections/appointments_: the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Assembly (21 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote, 1 member nominated by the premier and appointed by the governor, 1 nominated by the opposition party leader and appointed by the governor, and 2 from the Turks and Caicos Islands Civic Society directly appointed by the governor, and 2 ex-officio members; members serve 4-year terms)<br>
+_elections_: last held on 19 February 2021 (next to be held in 2025)<br>
+_election results_: percent of vote (preliminary) - PNP 56.2%, PDM 39%, other 4.8%; seats by party - PNP 14, PDM 1; composition (of elected members) - men 12, women 3; percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and other judges, as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are referred to the Judicial Committee of the Privy Council (in London)<br>

@@ -178,17 +178,17 @@ _local short form_: Sint Maarten (Dutch and English)<br>
 _former_: Netherlands Antilles; Curacao and Dependencies<br>
 _etymology_: explorer Christopher COLUMBUS named the island after Saint MARTIN of Tours because the 11 November 1493 day of discovery was the saint's feast day<br>
 
-**Dependency status**<br>
-<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
-
 **Government type**<br>
 <p>parliamentary democracy under a constitutional monarchy</p><br>
+
+**Dependency status**<br>
+<p>constituent country within the Kingdom of the Netherlands; full autonomy in internal affairs granted in 2010; Dutch Government responsible for defense and foreign affairs</p><br>
 
 **Capital**<br>
 _name_: Philipsburg<br>
 _geographic coordinates_: 18 1 N, 63 2 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy<br>
+_etymology_: founded and named in 1763 by John PHILIPS, a Scottish captain in the Dutch navy<br>
 
 **Administrative divisions**<br>
 <p>none (part of the Kingdom of the Netherlands)</p><br>
@@ -213,17 +213,17 @@ see the Netherlands<br>
 **Suffrage**<br>
 <p>18 years of age; universal</p><br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1<br>
-
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Eugene HOLIDAY (since 10 October 2010)<br>
 _head of government_: Interim Prime Minister Silveria JACOBS (since 16 January 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the governor-general<br>
 _elections/appointments_: the monarch is hereditary; governor general appointed by the monarch for a 6-year term; following parliamentary elections, the leader of the majority party usually elected prime minister by Parliament<br>
 note - on 16 January 2020, Governor Eugene HOLIDAY appoints Silveria JACOBS as <em>formateur</em> of a new government<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament&nbsp;of Sint Maarten&nbsp;(15 seats; members directly elected by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held&nbsp;9 January 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NA 35.2%, UP 24.2%, US Party 13.2%, PFP 10.6%, UD 8.7%, other 8.1%; seats by party - NA 6, UP 4, PFP 2, US Party 2, UD 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Joint Court of Justice of Aruba, Curacao, Sint Maarten, and of Bonaire, Sint Eustatius and Saba or "Joint Court of Justice" (consists of the presiding judge, other members, and their substitutes); final appeals heard by the Supreme Court (in The Hague, Netherlands); note - prior to 2010, the Joint Court of Justice was the Common Court of Justice of the Netherlands Antilles and Aruba<br>

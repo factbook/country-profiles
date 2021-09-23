@@ -302,7 +302,7 @@ presidential republic<br>
 _name_: N'Djamena<br>
 _geographic coordinates_: 12 06 N, 15 02 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-etymology: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"&nbsp;<br>
+_etymology_: name taken from the Arab name of a nearby village, Nijamina, meaning "place of rest"<br>
 
 **Administrative divisions**<br>
 23 provinces (provinces, singular - province); Barh-El-Gazel, Batha, Borkou, Chari-Baguirmi, Ennedi-Est, Ennedi-Ouest, Guera, Hadjer-Lamis, Kanem, Lac, Logone Occidental, Logone Oriental, Mandoul, Mayo-Kebbi-Est, Mayo-Kebbi-Ouest, Moyen-Chari, N'Djamena, Ouaddai, Salamat, Sila, Tandjile, Tibesti, Wadi-Fira<br>
@@ -332,18 +332,18 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)<br>
-_elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
-_election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
-<strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
-
 **Executive branch**<br>
 _chief of state_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
 _head of government_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
 _cabinet_: Council of Ministers<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held on 10 April 2021)<br>
 _election results_: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)<br>
+_elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
+_election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
+<strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, 3 chamber presidents, and 12 judges or councilors and divided into 3 chambers); Constitutional Council (consists of 3 judges and 6 jurists)<br>
@@ -670,11 +670,11 @@ Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de
 note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the Special Anti-Terrorist Group (SATG; aka Division of Special Anti-Terrorist Groups (DGSAT))<br>
 
 **Military expenditures**<br>
-2.2% of GDP (2019 est.)<br>
+2.9% of GDP (2020 est.)<br>
+2.2% of GDP (2019)<br>
 2.3% of GDP (2018)<br>
 2.2% of GDP (2017)<br>
 1.8% of GDP (2016)<br>
-2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 limited and varied information; approximately 30,000 active personnel (20-25,000 Ground Forces; 300 Air Force; 5-10,000 General Direction of the Security Services of State Institutions); 5,000 National Gendarmerie; 3,500 National Nomadic Guard of Chad (2021)<br>
@@ -687,7 +687,7 @@ the ANT is mostly armed with older or second-hand equipment from Belgium, France
 note(s): Chad is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Niger; Chad has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; Chad hosts the headquarters of Operation Barkhane in N’Djamena<br><br>Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight BH as part of the MNJTF mission<br>
 
 **Military - note**<br>
-the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); the ANT&nbsp; has frequently conducted counter-insurgency operations (COIN) against internal anti-government militias and armed dissident groups<br>
+the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); the ANT has frequently conducted counter-insurgency operations against internal anti-government militias and armed dissident groups<br>
 
 **Military service age and obligation**<br>
 20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2019)<br>

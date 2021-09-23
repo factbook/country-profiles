@@ -281,7 +281,7 @@ _name_: Stockholm<br>
 _geographic coordinates_: 59 20 N, 18 03 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> "stock" and "holm" literally mean "log" and "islet" in Swedish, but there is no consensus as to what the words refer to<br>
+_etymology_: "stock" and "holm" literally mean "log" and "islet" in Swedish, but there is no consensus as to what the words refer to<br>
 
 **Administrative divisions**<br>
 21 counties (lan, singular and plural); Blekinge, Dalarna, Gavleborg, Gotland, Halland, Jamtland, Jonkoping, Kalmar, Kronoberg, Norrbotten, Orebro, Ostergotland, Skane, Sodermanland, Stockholm, Uppsala, Varmland, Vasterbotten, Vasternorrland, Vastmanland, Vastra Gotaland<br>
@@ -311,16 +311,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by closed, party-list proportional representation vote and 39 members in "at-large" seats directly elected by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 9 September 2018 (next to be held in 2022)<br>
-_election results_: percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition - men 188, women 161, percent of women 46.1%<br>
-
 **Executive branch**<br>
 _chief of state_: King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)<br>
 _head of government_: Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Isabella LOVIN (since 25 May 2016); note - Prime Minister Stefan LOFVEN was ousted in a no-confidence vote on 25 September 2018 and headed a caretaker government until the next government was formed; LOFVEN was reelected as Prime Minister and took office on 21 January 2019&nbsp;<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Riksdag (349 seats; 310 members directly elected in multi-seat constituencies by closed, party-list proportional representation vote and 39 members in "at-large" seats directly elected by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 9 September 2018 (next to be held in 2022)<br>
+_election results_: percent of vote by party - SAP 28.3%, M 19.8%, SD 17.5%, C 8.6%, V 8%, KD 6.3%, L 5.5%, MP 4.4%, other 1.6%; seats by party - SAP 100, M 70, SD 62, C 31, V 28, KD 22, L 20, MP 16; composition - men 188, women 161, percent of women 46.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Sweden (consists of 16 justices, including the court chairman); Supreme Administrative Court (consists of 18 justices, including the court president)<br>

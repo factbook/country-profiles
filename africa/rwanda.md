@@ -296,7 +296,7 @@ presidential republic<br>
 _name_: Kigali<br>
 _geographic coordinates_: 1 57 S, 30 03 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the city takes its name from nearby Mount Kigali; the name "Kigali" is composed of the Bantu prefix "ki" and the Rwandan "gali" meaning "broad" and likely refers to the broad, sprawling hill that has been dignified with the title of "mount"<br>
+_etymology_: the city takes its name from nearby Mount Kigali; the name "Kigali" is composed of the Bantu prefix "ki" and the Rwandan "gali" meaning "broad" and likely refers to the broad, sprawling hill that has been dignified with the title of "mount"<br>
 
 **Administrative divisions**<br>
 4 provinces (in French - provinces, singular - province; in Kinyarwanda - intara for singular and plural) and 1 city* (in French - ville; in Kinyarwanda - umujyi); Est (Eastern), Kigali*, Nord (Northern), Ouest (Western), Sud (Southern)<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br> Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br> Chamber of Deputies - last held on 3 September 2018 (next to be held in September 2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 16, women 10, percent of women 38.5%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 26, women 54, percent of women 67.5%; note - total Parliament percent of women 60.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Paul KAGAME (since 22 April 2000)<br>
 _head of government_: Prime Minister Edouard NGIRENTE (since 30 August 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority vote for a 5-year term (eligible for a second term); note - a constitutional amendment approved in December 2016 reduced the presidential term from 7 to 5 years but included an exception that allowed President KAGAME to serve another 7-year term in 2017, potentially followed by two additional 5-year terms; election last held on 4 August 2017 (next to be held in August 2024); prime minister appointed by the president<br>
 _election results_: Paul KAGAME reelected president; Paul KAGAME (RPF) 98.8%, Philippe MPAYIMANA (independent) 0.7%, Frank HABINEZA (DGPR)0.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (26 seats; 12 members indirectly elected by local councils, 8 appointed by the president, 4 appointed by the Political Organizations Forum - a body of registered political parties, and 2 selected by institutions of higher learning; members serve 8-year terms)<br> Chamber of Deputies or Chambre des Deputes (80 seats; 53 members directly elected by proportional representation vote, 24 women selected by special interest groups, and 3 selected by youth and disability organizations; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 16-18 September 2019 (next to be held in 2027)<br> Chamber of Deputies - last held on 3 September 2018 (next to be held in September 2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 16, women 10, percent of women 38.5%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - Rwandan Patriotic Front Coalition 40, PSD 5, PL 4, other 4 indirectly elected 27; composition - men 26, women 54, percent of women 67.5%; note - total Parliament percent of women 60.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief and deputy chief justices and 15 judges; normally organized into 3-judge panels); High Court (consists of the court president, vice president, and a minimum of 24 judges and organized into 5 chambers)<br>
@@ -667,11 +667,11 @@ _lake port(s)_: Cyangugu, Gisenyi, Kibuye (Lake Kivu)<br>
 Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (Force Aerienne Rwandaise, FAR), Rwanda Reserve Force (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020)<br>
 1.2% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.2% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>

@@ -276,7 +276,7 @@ _name_: Damascus<br>
 _geographic coordinates_: 33 30 N, 36 18 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins midnight on the last Friday in March; ends at midnight on the last Friday in October<br>
-<strong>etymology:</strong> Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain<br>
+_etymology_: Damascus is a very old city; its earliest name, Temeseq, first appears in an Egyptian geographical list of the 15th century B.C., but the meaning is uncertain<br>
 
 **Administrative divisions**<br>
 14 provinces (muhafazat, singular - muhafazah); Al Hasakah, Al Ladhiqiyah (Latakia), Al Qunaytirah, Ar Raqqah, As Suwayda', Dar'a, Dayr az Zawr, Dimashq (Damascus), Halab (Aleppo), Hamah, Hims (Homs), Idlib, Rif Dimashq (Damascus Countryside), Tartus<br>
@@ -306,17 +306,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
-_elections_: last held on 19 July 2020 (next to be held in 2024)<br>
-_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%<br>
-
 **Executive branch**<br>
 _chief of state_: President Bashar al-ASAD (since 17 July 2000); Vice President Najah al-ATTAR (since 23 March 2006)<br>
 _head of government_: Prime Minister Hussein ARNOUS (since 30 August 2020); Deputy Prime Minister Ali Abdullah AYOUB (Gen.) (since 30 August 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 26 May 2021(next to be held in 2028); the president appoints the vice presidents, prime minister, and deputy prime ministers<br>
 _election results_: Bashar al-ASAD elected president; percent of vote - Bashar al-ASAD (Ba'th Party)95.2%, Mahmoud Ahmad MAREI (Democratic Arab Socialist Union) 3.3%, Abdullah Sallum ABDULLAH (Socialist Unionist Party) 1.5%<br>
+
+**Legislative branch**<br>
+_description_: unicameral People's Assembly or Majlis al-Shaab (250 seats; members directly elected in multi-seat constituencies by simple majority preferential vote to serve 4-year terms)<br>
+_elections_: last held on 19 July 2020 (next to be held in 2024)<br>
+_election results_: percent of vote by party - NPF 80%, other 20%; seats by party - NPF 200, other 50; composition - men 217, women 33, percent of women 13.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation (organized into civil, criminal, religious, and military divisions, each with 3 judges); Supreme Constitutional Court (consists of 7 members)<br>
@@ -338,7 +338,6 @@ _FAX_: [1] (202) 234-9548<br>
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador (vacant); note - on 6 February 2012, the US closed its embassy in Damascus; Czechia serves as a protecting power for US interests in Syria<br>
-_embassy_: Abou Roumaneh, 2 Al Mansour Street, Damascus<br>
 _mailing address_: 6110 Damascus Place, Washington DC&nbsp; 20521-6110<br>
 _email address and website_: <br>USIS_damascus@embassy.mzv.cz<br><br>https://sy.usembassy.gov/<br>
 

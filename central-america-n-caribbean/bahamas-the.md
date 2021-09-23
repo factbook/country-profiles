@@ -250,7 +250,7 @@ _name_: Nassau<br>
 _geographic coordinates_: 25 05 N, 77 21 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-<strong>etymology:</strong> named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau<br>
+_etymology_: named after William III (1650-1702), king of England, Scotland, and Ireland, who was a member of the House of Nassau<br>
 
 **Administrative divisions**<br>
 31 districts; Acklins Islands, Berry Islands, Bimini, Black Point, Cat Island, Central Abaco, Central Andros, Central Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long Island, Mangrove Cay, Mayaguana, Moore's Island, North Abaco, North Andros, North Eleuthera, Ragged Island, Rum Cay, San Salvador, South Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand Bahama<br>
@@ -280,18 +280,17 @@ _residency requirement for naturalization_: 6-9 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 10 May 2017 (next to be held by May 2022)<br>
-_election results_: <br>Senate - appointed; composition - men 9, women 7, percent of women 43.8%<br>House of Assembly - percent of vote by party - FNM 57%, PLP 36.9%, other 6.1%; seats by party - FNM 35, PLP 4; composition - men 34, women 5, percent of women 12.8%; note - total Parliament percent of women 21.8%<br>
-<strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Cornelius A. SMITH (since 28 June 2019)<br>
-_head of government_: Prime Minister Hubert MINNIS (since 11 May 2017)<br>
+_head of government_: Prime Minister Philip DAVIS (since 17 September 2021)<br>
 _cabinet_: Cabinet appointed by governor general on recommendation of prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
-<strong>note:</strong> Prime Minister Hubert MINNIS is only the fourth prime minister in Bahamian history following its independence from the UK; he is also the first prime minister in 25 years besides Perry CHRISTIE and Hubert INGRAHAM, who repeatedly traded the premiership from 1992 to 2017<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (16 seats; members appointed by the governor general upon the advice of the prime minister and the opposition leader to serve 5-year terms)<br>House of Assembly (39 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointments on 24 May 2017 (next appointments in 2022)<br>House of Assembly - last held on 16 September 2021 (next to be held by September 2026)<br>
+_election results_: <br>Senate - appointed; composition - men 9, women 7, percent of women 43.8%<br>House of Assembly - percent of vote by party - PLP 52.5%, FNM 36.2%; seats by party - PLP 32, FNM 7; composition <br>
+<strong>note:</strong> the government may dissolve the parliament and call elections at any time<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and 4 justices, organized in 3-member panels); Supreme Court (consists of the chief justice and a maximum of 11 and a minimum of 2 justices)<br>

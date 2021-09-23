@@ -289,7 +289,7 @@ presidential republic<br>
 _name_: Buenos Aires<br>
 _geographic coordinates_: 34 36 S, 58 22 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)<br>
+_etymology_: the name translates as "fair winds" in Spanish and derives from the original designation of the settlement that would become the present-day city, "Santa Maria del Buen Aire" (Saint Mary of the Fair Winds)<br>
 
 **Administrative divisions**<br>
 23 provinces (provincias, singular - provincia) and 1 autonomous city*; Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires*, Cordoba, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, La Rioja, Mendoza, Misiones, Neuquen, Rio Negro, Salta, San Juan, San Luis, Santa Cruz, Santa Fe, Santiago del Estero, Tierra del Fuego - Antartida e Islas del Atlantico Sur (Tierra del Fuego - Antarctica and the South Atlantic Islands), Tucuman<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18-70 years of age; universal and compulsory; 16-17 years of age - optional for national elections<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
-_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
-
 **Executive branch**<br>
 _chief of state_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019); note - the president is both chief of state and head of government (2019)<br>
 _head of government_: President Alberto Angel FERNANDEZ (since 10 December 2019); Vice President Cristina FERNANDEZ DE KIRCHNER (since 10 December 2019) (2018)<br>
 _cabinet_: Cabinet appointed by the president (2017)<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified majority vote (to win, a candidate must receive at least 45% of votes or 40% of votes and a 10-point lead over the second place candidate; if neither occurs, a second round is held ); the president serves a 4-year term (eligible for a second consecutive term); election last held on 27 October 2019 (next to be held in October 2023)<br>
 _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president; percent of vote - Alberto Angel FERNANDEZ (TODOS) 48.1%, Mauricio MACRI (PRO) 40.4%, Roberto LAVAGNA (independent) 6.2%, other 5.3%<br><br><em>2015:</em> Mauricio MACRI elected president in second round; percent of vote in first round - Daniel SCIOLI (PJ) 37.1%, Mauricio MACRI (PRO) 34.2%, Sergio MASSA (FR/PJ) 21.4%, other 7.3%; percent of vote in second round - Mauricio MACRI (PRO) 51.4%, Daniel SCIOLI (PJ) 48.6%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
+_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
+_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)<br>
@@ -692,11 +692,11 @@ _river port(s)_: Arroyo Seco, Rosario, San Lorenzo-San Martin (Parana)<br>
 Armed Forces of the Argentine Republic (Fuerzas Armadas de la Rep&uacute;blica Argentina): Argentine Army (Ejercito Argentino), Navy of the Argentine Republic (Armada Republica; includes naval aviation and naval infantry), Argentine Air Force (Fuerza Aerea Argentina, FAA); Ministry of Security: Gendarmer&iacute;a Nacional Argentina (National Gendarmerie), Prefectura Naval (Coast Guard) (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 0.8% of GDP (2016)<br>
-0.9% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 83,000 active duty personnel (50,000 Army; 18,000 Navy (includes about 3,000 marines); 15,000 Air Force); est. 20,000 Gendarmerie (2021)<br>

@@ -267,7 +267,7 @@ constitutional monarchy<br>
 _name_: Thimphu<br>
 _geographic coordinates_: 27 28 N, 89 38 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that "thim" means "dissolve" and "phu" denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
+_etymology_: the origins of the name are unclear; the traditional explanation, dating to the 14th century, is that "thim" means "dissolve" and "phu" denotes "high ground" to express the meaning of "dissolving high ground," in reference to a local deity that dissolved before a traveler's eyes, becoming a part of the rock on which the present city stands<br>
 
 **Administrative divisions**<br>
 20 districts (dzongkhag, singular and plural); Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Mongar, Paro, Pemagatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashigang, Trashi Yangtse, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang<br>
@@ -297,16 +297,16 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
-_elections_: <br>National Council election last held on 20 April 2018 (next to be held in 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
-_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
-
 **Executive branch**<br>
 _chief of state_: King Jigme Khesar Namgyel WANGCHUCK (since 14 December 2006); note - King Jigme Singye WANGCHUCK abdicated the throne on 14 December 2006 to his son<br>
 _head of government_: Prime Minister Lotay TSHERING (since 7 November 2018)<br>
 _cabinet_: Council of Ministers or Lhengye Zhungtshog members nominated by the monarch in consultation with the prime minister and approved by the National Assembly; members serve 5-year terms<br>
 _elections/appointments_: the monarchy is hereditary but can be removed by a two-thirds vote of Parliament; leader of the majority party in Parliament is nominated as the prime minister, appointed by the monarch<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Chi Tshog consists of:<br>non-partisan National Council or Gyelyong Tshogde (25 seats; 20 members directly elected in single-seat constituencies by simple majority vote and 5 members appointed by the king; members serve 5-year terms)<br>National Assembly or Tshogdu (47 seats; members directly elected in single-seat constituencies in a two-round majoritarian voting system; members serve 5-year terms)<br>
+_elections_: <br>National Council election last held on 20 April 2018 (next to be held in 2023)<br>National Assembly - first round held on 15 September 2018 and second round held on 18 October 2018 (next to be held in 2023)<br>
+_election results_: <br>National Council - seats by party - independent 20 (all candidates ran as independents); composition - men 23, women 2, percent of women 8%<br>National Assembly - first round - percent of vote by party - DNT 31.9%, DPT 30.9%, PDP 27.4%, BKP 9.8%; second round - percent of vote by party -  NA; seats by party - DNT 30, DPT 17; composition - men 40, women 7, percent of women 14.9%; note - total Parliament percent of women 12.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 4 associate&nbsp;justices); note - the Supreme Court has sole jurisdiction in constitutional matters<br>

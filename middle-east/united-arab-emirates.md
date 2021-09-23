@@ -279,7 +279,7 @@ federation of monarchies<br>
 _name_: Abu Dhabi<br>
 _geographic coordinates_: 24 28 N, 54 22 E<br>
 _time difference_: UTC+4 (9 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> in Arabic, "abu" means "father" and "dhabi" refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
+_etymology_: in Arabic, "abu" means "father" and "dhabi" refers to "gazelle"; the name may derive from an abundance of gazelles that used to live in the area, as well as a folk tale involving the "Father of the Gazelle," Shakhbut bin Dhiyab al Nahyan, whose hunting party tracked a gazelle to a spring on the island where Abu Dhabi was founded<br>
 
 **Administrative divisions**<br>
 7 emirates (imarat, singular - imarah); Abu Zaby (Abu Dhabi), 'Ajman, Al Fujayrah, Ash Shariqah (Sharjah), Dubayy (Dubai), Ra's al Khaymah, Umm al Qaywayn<br>
@@ -309,11 +309,6 @@ _residency requirement for naturalization_: 30 years<br>
 **Suffrage**<br>
 limited; note - rulers of the seven emirates each select a proportion of voters for the Federal National Council (FNC) that together account for about 12 percent of Emirati citizens<br>
 
-**Legislative branch**<br>
-_description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
-_elections_: last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)<br>
-_election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
-
 **Executive branch**<br>
 _chief of state_: President KHALIFA bin Zayid Al-Nuhayyan (since&nbsp;2 November 2004), ruler of Abu Zaby (Abu Dhabi) (since 4 November 2004); Vice President and Prime Minister MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006)<br>
 _head of government_: Prime Minister Vice President MUHAMMAD BIN RASHID Al-Maktum (since 5 January 2006); Deputy Prime Ministers SAIF bin Zayid Al-Nuhayyan, MANSUR bin Zayid Al-Nuhayyan (both since 11 May 2009)<br>
@@ -321,6 +316,11 @@ _cabinet_: Council of Ministers announced by the prime minister and approved by 
 _elections/appointments_: president and vice president indirectly elected by the Federal Supreme Council - composed of the rulers of the 7 emirates - for a 5-year term (no term limits); election last held 3 November 2009 (next election NA); prime minister and deputy prime minister appointed by the president<br>
 _election results_: KHALIFA bin Zayid Al-Nuhayyan reelected president; FSC vote NA<br>
 <strong>note:</strong> there is also a Federal Supreme Council (FSC) composed of the 7 emirate rulers; the FSC is the highest constitutional authority in the UAE; establishes general policies and sanctions federal legislation; meets 4 times a year; Abu Zaby (Abu Dhabi) and Dubayy (Dubai) rulers have effective veto power<br>
+
+**Legislative branch**<br>
+_description_: unicameral Federal National Council (FNC) or Majlis al-Ittihad al-Watani (40 seats; 20 members indirectly elected using single non-transferable vote by an electoral college whose members are selected by each emirate ruler proportional to its FNC membership, and 20 members appointed by the rulers of the 7 constituent states; members serve 4-year terms)<br>
+_elections_: last held for indirectly elected members on 5 October 2019 (next to be held in October 2023)<br>
+_election results_: all candidates ran as independents; seats by emirate - Abu Dhabi 4, Dubai 4, Sharjah 3, Ras al-Khaimah 3, Ajman 2, Fujairah 2, Umm al-Quwain 2; composition (preliminary) - 13 men, 7 women, percent of elected women 35%; note - to attain overall FNC gender parity, 13 women and 7 men will be appointed; overall FNC percent of women 50%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of the court president and 4 judges; jurisdiction limited to federal cases)<br>

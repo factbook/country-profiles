@@ -298,7 +298,7 @@ parliamentary republic<br>
 _name_: Georgetown<br>
 _geographic coordinates_: 6 48 N, 58 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King George III (1738-1820)<br>
+_etymology_: when the British took possession of the town from the Dutch in 1812, they renamed it Georgetown in honor of King George III (1738-1820)<br>
 
 **Administrative divisions**<br>
 10 regions; Barima-Waini, Cuyuni-Mazaruni, Demerara-Mahaica, East Berbice-Corentyne, Essequibo Islands-West Demerara, Mahaica-Berbice, Pomeroon-Supenaam, Potaro-Siparuni, Upper Demerara-Berbice, Upper Takutu-Upper Essequibo<br>
@@ -328,17 +328,17 @@ _residency requirement for naturalization_: na<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
-
 **Executive branch**<br>
 _chief of state_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020); Prime Minister Mark PHILLIPS (since 2 August 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Mohammed Irfaan ALI (since 2 August 2020); First Vice President Mark PHILLIPS (since 2 August 2020); Vice President Bharrat JAGDEO (since 2 August 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president, responsible to the National Assembly<br>
 _elections/appointments_: the predesignated candidate of the winning party in the last National Assembly election becomes president for a 5-year term (no term limits); election last held on 2 March 2020 (next to be held in 2025); prime minister appointed by the president<br>
 _election results_: <br><em>2020:</em> Mohammed Irfaan ALI (PPP/C) designated president by the majority party in the National Assembly<br><br><em>2015:</em> David GRANGER (APNU-AFC) designated president by the majority party in the National Assembly<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (65 seats; 40 members directly elected in a single nationwide constituency and 25 directly elected in multi-seat constituencies - all by closed-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 2 March 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - PPP/C 50.69%, APNU-AFC 47.34%, LJP 0.58%, ANUG 0.5%, TNM 0.05%, other 0.84%; seats by party - PPP/C 33, APNU-AFC 31, LJP-ANUG-TNM 1; composition - men 43, women 22, percent of women 33.8%; note - the initial results were declared invalid and a partial recount was conducted from 6 May to 8 June 2020, in which PPP/C was declared the winner<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with a chief justice and 3 justices, and the High Court with a chief justice and 10 justices organized into 3- or 5-judge panels); note - in 2009, Guyana acceded to the Caribbean Court of Justice as the final court of appeal in civil and criminal cases, replacing that of the Judicial Committee of the Privy Council (in London)<br>

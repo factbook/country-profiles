@@ -230,17 +230,17 @@ _local long form_: Territoire des Nouvelle-Caledonie et Dependances<br>
 _local short form_: Nouvelle-Caledonie<br>
 _etymology_: British explorer Captain James COOK discovered and named New Caledonia in 1774; he used the appellation because the northeast of the island reminded him of Scotland (Caledonia is the Latin designation for Scotland)<br>
 
-**Dependency status**<br>
-special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018 and 4 October 2020 with a majority voting to reject independence in favor of maintaining the status quo; an additional referenda, still unsceheduled, may occur in 2022<br>
-
 **Government type**<br>
 parliamentary democracy (Territorial Congress); an overseas collectivity of France<br>
+
+**Dependency status**<br>
+special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018 and 4 October 2020 with a majority voting to reject independence in favor of maintaining the status quo; an additional referenda, still unsceheduled, may occur in 2022<br>
 
 **Capital**<br>
 _name_: Noumea<br>
 _geographic coordinates_: 22 16 S, 166 27 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea<br>
+_etymology_: established in 1854 as Port-de-France, the settlement was renamed Noumea in 1866, in order to avoid any confusion with Fort-de-France in Martinique; the New Caledonian language of Ndrumbea (also spelled Ndumbea, Dubea, and Drubea) spoken in the area gave its name to the capital city, Noumea, as well as to the neighboring town (suburb) of Dumbea<br>
 
 **Administrative divisions**<br>
 3 provinces; Province Iles (Islands Province), Province Nord (North Province), and Province Sud (South Province)<br>
@@ -264,17 +264,17 @@ see France<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
-_elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held on 24 September 2017 (next to be held not later than 2019)<br><br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
-_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - men 30, women 24, percent of women 44.4%</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
-
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by High Commissioner Laurent PREVOST (since 5 August 2019)<br>
 _head of government_: President of the Government Thierry SANTA (since 9 July 2019); Temporary Vice President Gilbert TUIENON (since 9 July 2019); note - Temporary Vice President Gilbert TUIENON was elected so that the new government could take over; Philippe GERMAIN' s government remained caretaker government until the new government was settled<br>
 _cabinet_: Cabinet elected from and by the Territorial Congress<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; president of New Caledonia elected by Territorial Congress for a 5-year term (no term limits); election last held on 13 June 2017 (next to be held in 2022)<br>
 _election results_: Thierry SANTA elected president by Territorial Congress with 6 votes out of 11<br>
+
+**Legislative branch**<br>
+_description_: unicameral Territorial Congress or Congrès du Territoire (54 seats; members indirectly selected proportionally by the partisan makeup of the 3 Provincial Assemblies or Assemblés Provinciales; members of the 3 Provincial Assemblies directly elected by proportional representation vote; members serve 5-year terms); note - the Customary Senate is the assembly of the various traditional councils of the Kanaks, the indigenous population, which rules on laws affecting the indigenous population<br>New Caledonia indirectly elects 2 members to the French Senate by an electoral colleges for a 6-year term with one seat renewed every 3 years and directly elects 2 members to the French National Assembly by absolute majority vote in 2 rounds if needed for a 5-year term<br>
+_elections_: <br>Territorial Congress - last held on 12 May 2019 (next to be held in May 2024)<br>French Senate - election last held on 24 September 2017 (next to be held not later than 2019)<br><br>French National Assembly - election last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
+_election results_: <p>Territorial Congress - percent of vote by party - N/A; seats by party -Future With Confidence 18, UNI 9, UC 9, CE 7, FLNKS 6, Oceanic Awakening 3, PT 1, LKS 1 (Anti-Independence 28, Pro-Independence 26); composition - men 30, women 24, percent of women 44.4%</p> <br>French Senate - percent of vote by party - NA; seats by party - UMP 2<br><br>French National Assembly - percent of vote by party - NA; seats by party - CE 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal in Noumea or Cour d'Appel; organized into civil, commercial, social, and pre-trial investigation chambers; court bench normally includes the court president and 2 counselors); Administrative Court (number of judges NA); note - final appeals beyond the Court of Appeal are referred to the Court of Cassation or Cour de Cassation (in Paris); final appeals beyond the Administrative Court are referred to the Administrative Court of Appeal (in Paris)<br>

@@ -226,18 +226,19 @@ _local long form_: none<br>
 _local short form_: Kalaallit Nunaat<br>
 <strong>note:</strong> named by Norwegian adventurer Erik THORVALDSSON (Erik the Red) in A.D. 985 in order to entice settlers to the island<br>
 
-**Dependency status**<br>
-part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979<br>
-
 **Government type**<br>
 parliamentary democracy (Parliament of Greenland or Inatsisartut)<br>
+
+**Dependency status**<br>
+part of the Kingdom of Denmark; self-governing overseas administrative division of Denmark since 1979<br>
 
 **Capital**<br>
 _name_: Nuuk (Godthaab)<br>
 _geographic coordinates_: 64 11 N, 51 45 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> Greenland has four time zones<br><br><strong>etymology:</strong> "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
+_time zone note_: Greenland has four time zones<br>
+_etymology_: "nuuk" is the Inuit word for "cape" and refers to the city's position at the end of the Nuup Kangerlua fjord<br>
 
 **Administrative divisions**<br>
 5 municipalities (kommuner, singular kommune); Avannaata, Kujalleq, Qeqertalik, Qeqqata, Sermersooq<br>
@@ -261,17 +262,17 @@ see Denmark<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
-_elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
-_election results_: Greenland Parliament percent of vote by party - IA 37.4%, S 30.1%, PN 12.3%, D 9.3%, A 7.1%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
-
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Mikaela ENGELL (since April 2011)<br>
 _head of government_: Premier Mute B. EGEDE (since 23 April 2021)<br>
 _cabinet_: Self-rule Government (Naalakkersuisut) elected by the Parliament (Inatsisartut) on the basis of the strength of parties<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; premier indirectly elected by Parliament for a 4-year term<br>
 _election results_: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (S) 27.2%, Sara OLSVIG (IA) 25.5%, Randi Vestergaard EVALDSEN (D) 19.5%, other 27.8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
+_elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
+_election results_: Greenland Parliament percent of vote by party - IA 37.4%, S 30.1%, PN 12.3%, D 9.3%, A 7.1%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>

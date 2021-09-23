@@ -84,7 +84,7 @@ _noun_: Portuguese (singular and plural)<br>
 _adjective_: Portuguese<br>
 
 **Ethnic groups**<br>
-white homogeneous Mediterranean population; citizens of African descent who immigrated to mainland during decolonization number less than 100,000; since 1990, Eastern Europeans have migrated to Portugal<br>
+white homogeneous Mediterranean population; citizens from Portugal&rsquo;s former colonies in Africa and Asia and other foreign born<br>
 
 **Languages**<br>
 Portuguese (official), Mirandese (official, but locally used)<br>
@@ -288,7 +288,8 @@ _name_: Lisbon<br>
 _geographic coordinates_: 38 43 N, 9 08 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> Portugal has two time zones, including the Azores (UTC-1)<br><br><strong>etymology:</strong> Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city "Olisippo" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became "Ulixbona," under the Arabs it was "al-Ushbuna"; the medieval version of "Lissabona" became today's Lisboa<br>
+_time zone note_: Portugal has two time zones, including the Azores (UTC-1)<br>
+_etymology_: Lisbon is one of Europe's oldest cities (the second oldest capital city after Athens) and the origin of the name is lost in time; it may have been founded as an ancient Celtic settlement that subsequently maintained close commercial relations with the Phoenicians (beginning about 1200 B.C.); the name of the settlement may have been derived from the pre-Roman appellation for the Tagus River that runs through the city, Lisso or Lucio; the Romans named the city "Olisippo" when they took it from the Carthaginians in 205 B.C.; under the Visigoths the city name became "Ulixbona," under the Arabs it was "al-Ushbuna"; the medieval version of "Lissabona" became today's Lisboa<br>
 
 **Administrative divisions**<br>
 18 districts (distritos, singular - distrito) and 2 autonomous regions* (regioes autonomas, singular - regiao autonoma); Aveiro, Acores (Azores)*, Beja, Braga, Braganca, Castelo Branco, Coimbra, Evora, Faro, Guarda, Leiria, Lisboa (Lisbon), Madeira*, Portalegre, Porto, Santarem, Setubal, Viana do Castelo, Vila Real, Viseu<br>
@@ -318,11 +319,6 @@ _residency requirement for naturalization_: 10 years; 6 years if from a Portugue
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 6 October 2019 (next to be held 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)<br>
-
 **Executive branch**<br>
 _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
@@ -330,6 +326,11 @@ _cabinet_: Council of Ministers appointed by the president on the recommendation
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held on 24 January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
 _election results_: Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (independent) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: last held on 6 October 2019 (next to be held 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>
@@ -698,11 +699,11 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 **Military deployments**<br>
 200 Central African Republic (MINUSCA/EUTM); up to 120 Baltic States (NATO) (2021)<br>
 
-**Military service age and obligation**<br>
-18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service. Voluntary military service lasts 12 months; reserve obligation to age 35 (2019)<br>
-
 **Military - note**<br>
 Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+
+**Military service age and obligation**<br>
+18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service. Voluntary military service lasts 12 months; reserve obligation to age 35 (2019)<br>
 
 ## Terrorism
 

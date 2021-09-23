@@ -275,7 +275,8 @@ presidential republic<br>
 _name_: Tarawa<br>
 _geographic coordinates_: 1 21 N, 173 02 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note:</strong> Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14<br><br><strong>etymology:</strong> in Kiribati creation mythology, "tarawa" was what the spider Nareau named the land to distinguish it from "karawa" (the sky) and "marawa" (the ocean)<br>
+_time zone note_: Kiribati has three time zones: the Gilbert Islands group at UTC+12, the Phoenix Islands at UTC+13, and the Line Islands at UTC+14<br>
+_etymology_: in Kiribati creation mythology, "tarawa" was what the spider Nareau named the land to distinguish it from "karawa" (the sky) and "marawa" (the ocean)<br>
 
 **Administrative divisions**<br>
 3 geographical units: Gilbert Islands, Line Islands, Phoenix Islands; note - there are no first-order administrative divisions, but there are 6 districts (Banaba, Central Gilberts, Line Islands, Northern Gilberts, Southern Gilberts, Tarawa) and 21 island councils - one for each of the inhabited islands (Abaiang, Abemama, Aranuka, Arorae, Banaba, Beru, Butaritari, Kanton, Kiritimati, Kuria, Maiana, Makin, Marakei, Nikunau, Nonouti, Onotoa, Tabiteuea, Tabuaeran, Tamana, Tarawa, Teraina)<br>
@@ -305,17 +306,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two-rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
-_elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April (next to be held in 2024)<br>
-_election results_: percent of vote by party (second round) - NA; seats by party (second round) - TKB 22, BKM 22, 1 independent<br>
-
 **Executive branch**<br>
 _chief of state_: President Taneti MAAMAU (since 11 March 2016); Vice President Teuea TOATU (since 19 June 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Taneti MAAMAU (since 11 March 2016); Vice President Teuea TOATU (since 19 June 2019)<br>
 _cabinet_: Cabinet appointed by the president from among House of Assembly members<br>
 _elections/appointments_: president directly elected by simple majority popular vote following nomination of candidates from among House of Assembly members; term is 4 years (eligible for 2 additional terms); election last held on 22 June 2020 (next to be held in 2024); vice president appointed by the president<br>
 _election results_: Taneti MAAMAU reelected president; percent of vote - Taneti MAAMAU (TKB) 59.3%,&nbsp;Banuera BERINA (BKM) 40.7%.<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Assembly or Maneaba Ni Maungatabu (46 seats; 44 members directly elected in single- and multi-seat constituencies by absolute majority vote in two-rounds if needed; 1 member appointed by the Rabi Council of Leaders - representing Banaba Island, and 1 ex officio member - the attorney general; members serve 4-year terms)<br>
+_elections_: legislative elections originally scheduled to be held in two rounds on 7 and 15 April 2020 but rescheduled for 14 and 21 April (next to be held in 2024)<br>
+_election results_: percent of vote by party (second round) - NA; seats by party (second round) - TKB 22, BKM 22, 1 independent<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court (consists of a chief justice and other judges as prescribed by the president); note - the High Court has jurisdiction on constitutional issues<br>

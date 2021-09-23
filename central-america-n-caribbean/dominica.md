@@ -235,7 +235,7 @@ parliamentary republic<br>
 _name_: Roseau<br>
 _geographic coordinates_: 15 18 N, 61 24 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name is French for "reed"; the first settlement was named after the river reeds that grew in the area<br>
+_etymology_: the name is French for "reed"; the first settlement was named after the river reeds that grew in the area<br>
 
 **Administrative divisions**<br>
 10 parishes; Saint Andrew, Saint David, Saint George, Saint John, Saint Joseph, Saint Luke, Saint Mark, Saint Patrick, Saint Paul, Saint Peter<br>
@@ -265,17 +265,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
-_elections_: last held on&nbsp;6 December 2019 (next to be held in 2024); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
-_election results_: percent of vote by party - DLP 59.0%, UWP 41.0%; seats by party - DLP 18, UWP 3<br>
-
 **Executive branch**<br>
 _chief of state_: President Charles A. SAVARIN (since 2 October 2013)<br>
 _head of government_: Prime Minister Roosevelt SKERRIT (since 8 January 2004)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president nominated by the prime minister and leader of the opposition party and elected by the House of Assembly for a 5-year term (eligible for a second term); election last held on 1 October 2018 (next to be held in October 2023); prime minister appointed by the president<br>
 _election results_: Charles A. SAVARIN (DLP) reelected president unopposed<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Assembly (32 seats; 21 representatives directly elected in single-seat constituencies by simple majority vote, 9 senators appointed by the president - 5 on the advice of the prime minister, and 4 on the advice of the leader of the opposition party, plus 2 ex-officio members - the house speaker and the attorney general; members serve 5-year terms)<br>
+_elections_: last held on&nbsp;6 December 2019 (next to be held in 2024); note - tradition dictates that the election is held within 5 years of the last election, but technically it is 5 years from the first seating of parliament plus a 90-day grace period<br>
+_election results_: percent of vote by party - DLP 59.0%, UWP 41.0%; seats by party - DLP 18, UWP 3<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, with 2 in Dominica; note - in 2015, Dominica acceded to the Caribbean Court of Justice as final court of appeal, replacing that of the Judicial Committee of the Privy Council, in London<br>

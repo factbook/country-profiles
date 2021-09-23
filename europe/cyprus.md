@@ -289,7 +289,7 @@ _name_: Nicosia (Lefkosia/Lefkosa)<br>
 _geographic coordinates_: 35 10 N, 33 22 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")<br>
+_etymology_: a mispronunciation of the city's Greek name Lefkosia and its Turkish name Lefkosa, both of which mean "White City"; the Greek name may derive from the Greek phrase "leuke ousia" ("white estate")<br>
 
 **Administrative divisions**<br>
 6 districts; Ammochostos (Famagusta); (all but a small part located in the Turkish Cypriot community), Keryneia (Kyrenia; the only district located entirely in the Turkish Cypriot community), Larnaka (Larnaca; with a small part located in the Turkish Cypriot community), Lefkosia (Nicosia; a small part administered by Turkish Cypriots), Lemesos (Limassol), Pafos (Paphos); note - the 5 "districts" of the "TRNC" are Gazimagusa (Famagusta), Girne (Kyrenia), Guzelyurt (Morphou), Iskele (Trikomo), Lefkosa (Nicosia)<br>
@@ -319,11 +319,6 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
-_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)<br>
-_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; percent of vote by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3;&nbsp;area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2<br>
-
 **Executive branch**<br>
 _chief of state_: President Nikos ANASTASIADIS (since 28 February 2013); the president is both chief of state and head of government; note - vice presidency reserved for a Turkish Cypriot, but vacant since 1974 because Turkish Cypriots do not participate in the Republic of Cyprus Government&nbsp;<br>
 _head of government_: President Nikos ANASTASIADIS (since 28 February 2013)<br>
@@ -331,6 +326,11 @@ _cabinet_: Council of Ministers appointed by the president; note - under the 196
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 28 January 2018 with a runoff on 4 February 2018 (next to be held in February 2023)<br>
 _election results_: Nikos ANASTASIADIS reelected president in second round; percent of vote in first round - Nikos ANASTASIADIS (DISY) 35.5%, Stavros MALAS (AKEL) 30.2%, Nicolas PAPADOPOULOS (DIKO) 25.7%, other 8.6%; percent of vote in second round - Nikos ANASTASIADIS 56%, Savros MALAS 44%<br>
 <strong>note:</strong> the first round of the TRNC presidential election, originally scheduled for 26 April 2020, was postponed to 11 October 202 due to the COVID-19 pandemic; results - Ersin TATAR (UBP) 32.4%, Mustafa AKINCI (independent) 29.8%, Tufan ERHURMAN (RTP) 21.7%, Kudret OZERSAY (independent) 5.7%, Erhan ARIKLI (YDP) 5.4%, Serdar DENKTAS (independent) 4.2%, other 0.8%; the second round to be held on 18 October <br>
+
+**Legislative branch**<br>
+_description_: area under government control: unicameral House of Representatives or Vouli Antiprosopon (80 seats; 56 assigned to Greek Cypriots, 24 to Turkish Cypriots, but only those assigned to Greek Cypriots are filled; members directly elected by both proportional representation and preferential vote; members serve 5-year terms); area administered by Turkish Cypriots: unicameral "Assembly of the Republic" or Cumhuriyet Meclisi (50 seats; members directly elected to 5-year terms by proportional representation system using a&nbsp;hybrid d'Hondt method&nbsp;with voter preferences for individual candidates<br>
+_elections_: area under government control: last held on 30 May 2021 (next to be held in 2026); area administered by Turkish Cypriots: last held on 7 January 2018 (next to be held in 2023, unless early election called)<br>
+_election results_: area under government control: House of Representatives - percent of vote by party/coalition - DISY 27.8%, AKEL 22.3%, DIKO 11.3%, ELAM 6.8%, EDEK-SP 6.7%, DiPa 6.1%, Movement of Ecologists - Citizens' Cooperation 4.4%, other 14.6%; percent of vote by party/coalition - DISY 17, AKEL 15, DIKO 9, ELAM 4, EDEK-SP 4, DiPa 4, Movement of Ecologists - Citizens' Cooperation 3;&nbsp;area administered by Turkish Cypriots: "Assembly of the Republic" - percent of vote by party - UBP 35.6%, CTP 20.9%, HP 17.1%, TDP 8.6%, DP 7.8%, YDP 7%, 3%; seats by party - UBP 21, CTP 12, HP 9, DP 3, TDP 3, YDP 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cyprus (consists of 13 judges, including the court president); note - the highest court in the "TRNC" is the "Supreme Court" (consists of 8 "judges," including the "court president")<br>
@@ -680,11 +680,11 @@ area administered by Turkish Cypriots: Famagusta, Kyrenia<br>
 Republic of Cyprus: Cypriot National Guard (Ethniki Froura, EF, includes Army Land Forces, Naval Command, Air Command) (2021)<br>
 
 **Military expenditures**<br>
+1.75% of GDP (2020)<br>
 1.6% of GDP (2019)<br>
 1.8% of GDP (2018)<br>
 1.6% of GDP (2017)<br>
 1.4% of GDP (2016)<br>
-1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Cypriot National Guard has approximately 15,000 total active duty personnel (2020)<br>

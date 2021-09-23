@@ -293,7 +293,7 @@ _name_: Tallinn<br>
 _geographic coordinates_: 59 26 N, 24 43 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the Estonian name is generally believed to be derived from "Taani-linn" (originally meaning "Danish castle", now "Danish town") after a stronghold built in the area by the Danes; it could also have come from "tali-linn" ("winter castle" or "winter town") or "talu-linn" ("home castle" or "home town")<br>
+_etymology_: the Estonian name is generally believed to be derived from "Taani-linn" (originally meaning "Danish castle", now "Danish town") after a stronghold built in the area by the Danes; it could also have come from "tali-linn" ("winter castle" or "winter town") or "talu-linn" ("home castle" or "home town")<br>
 
 **Administrative divisions**<br>
 15 urban municipalities (linnad, singular - linn), 64 rural municipalities (vallad, singular vald)<br><br> <strong>urban municipalities:</strong> Haapsalu, Keila, Kohtla-Jarve, Loksa, Maardu, Narva, Narva-Joesuu, Paide, Parnu, Rakvere, Sillamae, Tallinn, Tartu, Viljandi, Voru<br><br><strong>rural municipalities:</strong> Alutaguse, Anija, Antsla, Elva, Haademeeste, Haljala, Harku, Hiiumaa, Jarva, Joelahtme, Jogeva, Johvi, Kadrina, Kambja, Kanepi, Kastre, Kehtna, Kihnu, Kiili, Kohila, Kose, Kuusalu, Laane-Harju, Laane-Nigula, Laaneranna, Luganuse, Luunja, Marjamaa, Muhu, Mulgi, Mustvee, Noo, Otepaa, Peipsiaare, Pohja-Parnumaa, Pohja-Sakala, Poltsamaa, Polva, Raasiku, Rae, Rakvere, Räpina, Rapla, Rouge, Ruhnu, Saarde, Saaremaa, Saku, Saue, Setomaa, Tapa, Tartu, Toila, Tori, Torva, Turi, Vaike-Maarja, Valga, Viimsi, Viljandi, Vinni, Viru-Nigula, Vormsi, Voru<br>
@@ -323,17 +323,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal; age 16 for local elections<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 72, women 29, percent of women 28.7%<br>
-
 **Executive branch**<br>
 _chief of state_: President Kersti KALJULAID (since 10 October 2016)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
 _elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021; in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS will be inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament</p><br>
 _election results_: <p>Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister</p><br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
+_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 72, women 29, percent of women 28.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>

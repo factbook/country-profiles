@@ -268,7 +268,7 @@ parliamentary republic<br>
 _name_: Port of Spain<br>
 _geographic coordinates_: 10 39 N, 61 31 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name dates to the period of Spanish colonial rule (16th to late 18th centuries) when the city was referred to as "Puerto de Espana"; the name was anglicized following the British capture of Trinidad in 1797<br>
+_etymology_: the name dates to the period of Spanish colonial rule (16th to late 18th centuries) when the city was referred to as "Puerto de Espana"; the name was anglicized following the British capture of Trinidad in 1797<br>
 
 **Administrative divisions**<br>
 <p>9 regions, 3 boroughs, 2 cities, 1 ward</p> <p><strong>regions:</strong> Couva/Tabaquite/Talparo, Diego Martin, Mayaro/Rio Claro, Penal/Debe, Princes Town, Sangre Grande, San Juan/Laventille, Siparia, Tunapuna/Piarco</p> <p><strong>borough:</strong> Arima, Chaguanas, Point Fortin</p> <p><strong>cities:</strong> Port of Spain, San Fernando</p> <p><strong>ward:</strong> Tobago</p><br>
@@ -298,18 +298,18 @@ _residency requirement for naturalization_: 8 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
-_elections_: Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
-<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councillors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
-
 **Executive branch**<br>
 _chief of state_: President Paula-Mae WEEKES (since 19 March 2018)<br>
 _head of government_: Prime Minister Keith ROWLEY (since 9 September 2015)<br>
 _cabinet_: Cabinet appointed from among members of Parliament<br>
 _elections/appointments_: president indirectly elected by an electoral college of selected Senate and House of Representatives members for a 5-year term (eligible for a second term); election last held on 19 January 2018 (next to be held by February 2023); the president usually appoints the leader of the majority party in the House of Representatives as prime minister<br>
 _election results_: Paula-Mae WEEKES (independent) elected president; ran unopposed and was elected without a vote; she is Trinidad and Tabago's first female head of state<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (31 seats; 16 members appointed by the ruling party, 9 by the president, and 6 by the opposition party; members serve 5-year terms;)<br>House of Representatives 42 seats; 41 members directly elected in single-seat constituencies by simple majority vote and the house speaker - usually designated from outside Parliament; members serve 5-year terms)<br>
+_elections_: Senate - last appointments on 23 September 2015 (next in 2020)<br>House of Representatives - last held on 10 August 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition - men 21, women 10, percent of women 32.3%<br>House of Representatives - percent by party - NA; seats by party - PNM 22, UNC 19; composition - NA<br>
+<strong>note:</strong> Tobago has a unicameral House of Assembly (19 seats; 15 assemblymen directly elected by simple majority vote and 4 appointed councillors - 3 on the advice of the chief secretary and 1 on the advice of the minority leader; members serve 4-year terms)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Judicature (consists of a chief justice for both the Court of Appeal with 12 judges and the High Court with 24 judges); note - Trinidad and Tobago can file appeals beyond its Supreme Court to the Caribbean Court of Justice, with final appeal to the Judicial Committee of the Privy Council (in London)<br>

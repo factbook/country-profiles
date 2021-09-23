@@ -290,7 +290,7 @@ _name_: Riga<br>
 _geographic coordinates_: 56 57 N, 24 06 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word "rija," meaning "warehouse," where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century<br>
+_etymology_: of the several theories explaining the name's origin, the one relating to the city's role in Baltic and North Sea commerce is the most probable; the name is likely related to the Latvian word "rija," meaning "warehouse," where the 'j' became a 'g' under the heavy German influence in the city from the late Middle Ages to the early 20th century<br>
 
 **Administrative divisions**<br>
 <p>36 municipalities (novadi, singular - novads) and 7 state cities (valstpilsetu pasvaldibas, singular valstspilsetas pasvaldiba)</p> <p><strong>municipalities:</strong> Adazi, Aizkraukle, Aluksne, Augsdaugava, Balvi, Bauska, Cesis, Dienvidkurzeme, Dobele, Gulbene, Jekabpils, Jelgava, Kekava, Kraslava, Kuldiga, Limbazi, Livani, Ludza, Madona, Marupe, Ogre, Olaine, Preili, Rezekne, Ropazi, Salaspils, Saldus, Saulkrasti, Sigulda, Smiltene, Talsi, Tukums, Valka, Valmiera, Varaklani, Ventspils</p> <p><strong>cities:</strong> Daugavpils, Jelgava, Jurmala, Liepaja, Rezekne, Riga, Ventspils</p><br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%<br>
-
 **Executive branch**<br>
 _chief of state_: President Egils LEVITS (since 8 July 2019)<br>
 _head of government_: Prime Minister Krisjanis KARINS (since 23 January 2019)<br>
 _cabinet_: Cabinet of Ministers nominated by the prime minister, appointed by Parliament<br>
 _elections/appointments_: president indirectly elected by Parliament for a 4-year term (eligible for a second term); election last held on 29 May 2019 (next to be held in 2023); prime minister appointed by the president, confirmed by Parliament<br>
 _election results_: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes,&nbsp;Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
+_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -686,7 +686,7 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 1.44% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the National Armed Forces of Latvia have approximately 6,000 active duty troops (5,000 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force) (2021)<br>
+the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2020)<br>

@@ -308,7 +308,7 @@ presidential republic<br>
 _name_: Nairobi<br>
 _geographic coordinates_: 1 17 S, 36 49 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name derives from the Maasai expression meaning "cool waters" and refers to a cold water stream that flowed through the area in the late 19th century<br>
+_etymology_: the name derives from the Maasai expression meaning "cool waters" and refers to a cold water stream that flowed through the area in the late 19th century<br>
 
 **Administrative divisions**<br>
 47 counties; Baringo, Bomet, Bungoma, Busia, Elgeyo/Marakwet, Embu, Garissa, Homa Bay, Isiolo, Kajiado, Kakamega, Kericho, Kiambu, Kilifi, Kirinyaga, Kisii, Kisumu, Kitui, Kwale, Laikipia, Lamu, Machakos, Makueni, Mandera, Marsabit, Meru, Migori, Mombasa, Murang'a, Nairobi City, Nakuru, Nandi, Narok, Nyamira, Nyandarua, Nyeri, Samburu, Siaya, Taita/Taveta, Tana River, Tharaka-Nithi, Trans Nzoia, Turkana, Uasin Gishu, Vihiga, Wajir, West Pokot<br>
@@ -338,17 +338,17 @@ _residency requirement for naturalization_: 4 out of the previous 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)<br>
-_elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)<br>
-_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%<br>
-
 **Executive branch**<br>
 _chief of state_: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - the president is both chief of state and head of government<br>
 _head of government_: President Uhuru KENYATTA (since 9 April 2013); Deputy President William RUTO (since 9 April 2013); note - position of the prime minister was abolished after the March 2013 elections&nbsp;<br>
 _cabinet_: Cabinet appointed by the president, subject to confirmation by the National Assembly&nbsp;<br>
 _elections/appointments_: president and deputy president directly elected on the same ballot by qualified majority popular vote for a 5-year term (eligible for a second term); in addition to receiving an absolute majority popular vote, the presidential candidate must also win at least 25% of the votes cast in at least 24 of the 47 counties to avoid a runoff; election last held on 26 October 2017 (next to be held in 2022)<br>
 _election results_: Uhuru KENYATTA reelected president; percent of vote - Uhuru KENYATTA (Jubilee Party) 98.3%, Raila ODINGA (ODM) 1%, other 0.7%; note - Kenya held a previous presidential election on 8 August 2017, but Kenya's Supreme Court on 1 September 2017 nullified the results, citing irregularities; the political opposition boycotted the October vote<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (67 seats; 47 members directly elected in single-seat constituencies by simple majority vote and 20 directly elected by proportional representation vote - 16 women, 2 representing youth, and 2 representing the disabled; members serve 5-year terms)<br> National Assembly (349 seats; 290 members directly elected in single-seat constituencies by simple majority vote, 47 women in single-seat constituencies elected by simple majority vote, and 12 members nominated by the National Assembly - 6 representing youth and 6 representing the disabled; members serve 5-year terms)<br>
+_elections_: Senate - last held on 8 August 2017 (next to be held in August 2022)<br> National Assembly - last held on 8 August 2017 (next to be held in August 2022)<br>
+_election results_: Senate - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 24; National Super Alliance 28, other 14, independent 1; composition - men 46, women 41, percent of women is 31.3%<br><br> National Assembly - percent of vote by party/coalition - NA; seats by party/coalition - Jubilee Party 165, National Super Alliance 119, other 51, independent 13; composition - men 273, women 76, percent of women 21.8%; note - total Parliament percent of women is 23%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of chief and deputy chief justices and 5 judges)<br>
@@ -701,11 +701,11 @@ Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br>
 note: the National Police Service includes a paramilitary General Service Unit<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Kenyan Defense Forces (KDF) are comprised of approximately 24,000 personnel (20,000 Army; 1,500 Navy; 2,500 Air Force) (2020)<br>

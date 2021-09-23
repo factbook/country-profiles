@@ -81,7 +81,7 @@ _noun_: Kuwaiti(s)<br>
 _adjective_: Kuwaiti<br>
 
 **Ethnic groups**<br>
-Kuwaiti 30.4%, other Arab 27.4%, Asian 40.3%, African 1%, other .9% (includes European, North American, South American, and Australian) (2018 est.)<br>
+Kuwaiti 30.4%, other Arab 27.4%, Asian 40.3%, African 1%, other 0.9% (includes European, North American, South American, and Australian) (2018 est.)<br>
 
 **Languages**<br>
 Arabic (official), English widely spoken<br>
@@ -269,7 +269,7 @@ constitutional monarchy (emirate)<br>
 _name_: Kuwait City<br>
 _geographic coordinates_: 29 22 N, 47 58 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name derives from Arabic "al-Kuwayt" a diminutive of "kut" meaning "fortress," possibly a reference to a small castle built on the current location of Kuwait City by the Beni Khaled tribe in the 17th century<br>
+_etymology_: the name derives from Arabic "al-Kuwayt" a diminutive of "kut" meaning "fortress," possibly a reference to a small castle built on the current location of Kuwait City by the Beni Khaled tribe in the 17th century<br>
 
 **Administrative divisions**<br>
 6 governorates (muhafazat, singular - muhafazah); Al Ahmadi, Al 'Asimah, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir<br>
@@ -299,17 +299,17 @@ _residency requirement for naturalization_: not specified<br>
 **Suffrage**<br>
 21 years of age and at least 20-year citizenship<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
-_elections_: last held on 5 December 2020 (next to be held in 2024)<br>
-_election results_: all candidates ran as independents, though nearly half were oppositionists; composition - men 50, women 0, percent of women 0%<br>
-note: seats as of May 2019 - &nbsp;oppositionists and independents, including populists, Islamists, and liberals 25, pro-government loyalists 25; composition as of May 2019&nbsp;for elected members only - men 49, women 1, percent of women 2%&nbsp;<br>
-
 **Executive branch**<br>
 _chief of state_: Amir NAWAF al-Ahmad al-Jabir al-Sabah (since 30 September 2020); Crown Prince Sheikh MESHAAL Al Ahmad Al Sabah, born in 1940, is the brother of Amir NAWAF al-Ahmad al-Jabir al-Sabah<br>
 _head of government_: &nbsp;Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah (since 30 November 2011); First Deputy Prime Minister NASIR Sabah al-Ahmad al-Sabah (since 11 December 2017); Deputy Prime Ministers SABAH KHALID al-Hamid al-Sabah (since 13 December 2011), KHALID al-Jarrah al-Sabah (since 4 August 2013), Anas Khalid al-SALEH (since 4 August 2013); note - on 14 November 2019, the government of Prime Minister JABIR AL-MUBARAK al-Hamad al-Sabah resigned&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the prime minister, approved by the amir<br>
 _elections/appointments_: amir chosen from within the ruling family, confirmed by the National Assembly; prime minister and deputy prime ministers appointed by the amir; crown prince appointed by the amir and approved by the National Assembly<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Majlis al-Umma (65 seats; 50 members directly elected from 5 multi-seat constituencies by simple majority vote and 15 ex-officio members (cabinet ministers)&nbsp;appointed by the amir; members serve 4-year terms)<br>
+_elections_: last held on 5 December 2020 (next to be held in 2024)<br>
+_election results_: all candidates ran as independents, though nearly half were oppositionists; composition - men 50, women 0, percent of women 0%<br>
+note: seats as of May 2019 - &nbsp;oppositionists and independents, including populists, Islamists, and liberals 25, pro-government loyalists 25; composition as of May 2019&nbsp;for elected members only - men 49, women 1, percent of women 2%&nbsp;<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 5 judges); Supreme Court or Court of Cassation (organized into several circuits, each with 5 judges)<br>

@@ -288,7 +288,7 @@ presidential republic<br>
 _name_: Paramaribo<br>
 _geographic coordinates_: 5 50 N, 55 10 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo<br>
+_etymology_: the name may be the corruption of a Carib (Kalina) village or tribe named Parmirbo<br>
 
 **Administrative divisions**<br>
 10 districts (distrikten, singular - distrikt); Brokopondo, Commewijne, Coronie, Marowijne, Nickerie, Para, Paramaribo, Saramacca, Sipaliwini, Wanica<br>
@@ -318,17 +318,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
-_elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
-_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 35, women 16, percent of women 31.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Chandrikapersad SANTOKHI (since 16 July 2020); Vice President Ronnie BRUNSWIJK (since 16 July 2020)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly; president and vice president serve a 5-year term (no term limits); election last held on 13 July 2020 (next to be held in May 2025)<br>
 _election results_: Chandrikapersad SANTOKHI elected president unopposed; National Assembly vote - NA<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Nationale Assemblee (51 seats; members directly elected in 10 multi-seat constituencies by party-list proportional representation vote using the D'Hondt method to serve 5-year terms)<br>
+_elections_: last held on 25 May 2020 (next to be held in May 2025)<br>
+_election results_: percent of vote by party - VHP 41.1%, NDP 29.4%, ABOP 17.6%, NPS 7.8%, other 3.9%; seats by party - VHP 21, NDP 15, ABOP 9, NPS 4, other 2; composition - men 35, women 16, percent of women 31.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Justice of Suriname (consists of the court president, vice president, and 4 judges); note - appeals beyond the High Court are referred to the Caribbean Court of Justice; human rights violations can be appealed to the Inter-American Commission on Human Rights with judgments issued by the Inter-American Court on Human Rights<br>

@@ -285,7 +285,7 @@ _name_: Bucharest<br>
 _geographic coordinates_: 44 26 N, 26 06 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> related to the Romanian word "bucura" that is believed to be of Dacian origin and whose meaning is "to be glad (happy)"; Bucharest's meaning is thus akin to "city of joy"<br>
+_etymology_: related to the Romanian word "bucura" that is believed to be of Dacian origin and whose meaning is "to be glad (happy)"; Bucharest's meaning is thus akin to "city of joy"<br>
 
 **Administrative divisions**<br>
 41 counties (judete, singular - judet) and 1 municipality* (municipiu); Alba, Arad, Arges, Bacau, Bihor, Bistrita-Nasaud, Botosani, Braila, Brasov, Bucuresti (Bucharest)*, Buzau, Calarasi, Caras-Severin, Cluj, Constanta, Covasna, Dambovita, Dolj, Galati, Gorj, Giurgiu, Harghita, Hunedoara, Ialomita, Iasi, Ilfov, Maramures, Mehedinti, Mures, Neamt, Olt, Prahova, Salaj, Satu Mare, Sibiu, Suceava, Teleorman, Timis, Tulcea, Vaslui, Valcea, Vrancea<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
-_election results_: <br>Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men NA, women NA, percent of women NA%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition men NA, women NA, percent of women NA; note - total Parliament percent of women NA%<br>
-
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
 _head of government_: Prime Minister Florin CITU (since 23 December 2020); Deputy Prime Ministers Dan BARNA and Kelemen HUNOR (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
 _election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%,&nbsp;Viorica DANCILA (PSD) 33.9%; Ludovic ORBAN approved as prime minister with 240 votes<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 6 December 2020 (next to be held in 2024)<br>Chamber of Deputies - last held on 6 December 2020 (next to be held in 2024)<br>
+_election results_: <br>Senate - percent of vote by party - PSD 29.3%, PNL 25.6%, 2020 USR-PLUS Alliance 15.9%, AUR 9.2%, UDMR 5.9%, other 14.1%; seats by party - PSD 47, PNL 41, 2020 USR-PLUS Alliance 25, AUR 14, UDMR 9; composition - men NA, women NA, percent of women NA%<br><br>Chamber of Deputies - percent of vote by party - PSD 28.9%, PNL 25.2%, 2020 USR-PLUS Alliance 15.4%, AUR 9.1%, UDMR 5.7%, other 15.7%; seats by party - PSD 110, PNL 93, 2020 USR-PLUS Alliance 55, AUR 33, UDMR 21, other 18; composition men NA, women NA, percent of women NA; note - total Parliament percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Cassation and Justice (consists of 111 judges organized into civil, penal, commercial, contentious administrative and fiscal business, and joint sections); Supreme Constitutional Court (consists of 9 members)<br>

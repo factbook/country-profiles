@@ -305,7 +305,7 @@ presidential republic<br>
 _name_: Gitega (political capital), Bujumbura (commercial capital); note - in January 2019, the Burundian parliament voted to make Gitega the political capital of the country while Bujumbura would remain its economic capital; all branches of the government are expected to have moved from Bujumbura to Gitega by 2022<br>
 _geographic coordinates_: 3 25 S, 29 55 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura<br>
+_etymology_: the naming origins for both Gitega and Bujumbura are obscure; Bujumbura's name prior to independence in 1962 was Usumbura<br>
 
 **Administrative divisions**<br>
 18 provinces; Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi<br>
@@ -335,17 +335,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%<br>
-
 **Executive branch**<br>
 _chief of state_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Evariste NDAYISHIMIYE (since 18 June 2020); Vice President Prosper BAZOMBANZA (since 24 June 2020); Prime Minister Alain-Guillaume BUNYONI (since 24 June 2020)<br>
 _cabinet_: Council of Ministers appointed by president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 20 May 2020 (next to be held in 2025); vice presidents nominated by the president, endorsed by Parliament; note - a 2018 constitutional referendum effective for the 2020 election, increased the presidential term from 5 to 7 years with a 2-consecutive-term limit, reinstated the position of the prime minister position, and reduced the number of vice presidents from 2 to 1<br>
 _election results_: Evariste NDAYISHIMIYE elected president; percent of vote - Evariste NDAYISHIMIYE (CNDD-FDD) 71.5%, Agathon RWASA (CNL) 25.2%, Gaston SINDIMWO (UPRONA) 1.7%, OTHER 1.6%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Inama Nkenguzamateka (39 seats in the July 2020 election); 36 members indirectly elected by an electoral college of provincial councils using a three-round voting system, which requires a two-thirds majority vote in the first two rounds and simple majority vote for the two leading candidates in the final round; 3 seats reserved for Twas, and 30% of all votes reserved for women; members serve 5-year terms)<br>National Assembly or Inama Nshingamateka (123 seats in the May 2020 election; 100 members directly elected in multi-seat constituencies by proportional representation vote and 23 co-opted members; 60% of seats allocated to Hutu and 40% to Tutsi; 3 seats reserved for Twas; 30% of total seats reserved for women; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 20 July 2020 (next to be held in 2025)<br>National Assembly - last held on 20 May 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent of vote by party - CNDD-FDD 87.2%, Twa 7.7%, CNL 2.6%, UPRONA 2.6%; seats by party - CNDD-FDD 34, CNL 1, UPRONA 1, Twa 3; composition - men 23, women 16, percent of women 37.2% <br>National Assembly - percent of vote by party - CNDD-FDD 70.9%, CNL 23.4%, UPRONA 2.5%, other (co-opted Twa) 3.2%; seats by party - CNDD-FDD 86, CNL 32, UPRONA 2, Twa 3; composition - men 76, women 47, percent of women 38.2%; note - total Parliament percent of women 38%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 9 judges and organized into judicial, administrative, and cassation chambers); Constitutional Court (consists of 7 members)<br>
@@ -667,11 +667,11 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2020)<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2020 est.)<br>
 1.8% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 1.8% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
-2.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the National Defense Forces (FDN) have approximately 25,000 active duty troops, the majority of which are ground forces (2020)<br>

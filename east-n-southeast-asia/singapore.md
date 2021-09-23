@@ -279,7 +279,7 @@ parliamentary republic<br>
 _name_: Singapore<br>
 _geographic coordinates_: 1 17 N, 103 51 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name derives from the Sanskrit words "simha" (lion) and "pura" (city), thus creating the city's epithet "lion city"<br>
+_etymology_: name derives from the Sanskrit words "simha" (lion) and "pura" (city), thus creating the city's epithet "lion city"<br>
 
 **Administrative divisions**<br>
 no first order administrative divisions; there are five community development councils: Central Singapore Development Council, North East Development Council, North West Development Council, South East Development Council, South West Development Council (2019)<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 21 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)<br>
-_elections_: last held on 10 July 2020 (next must be held by 2025)<br>
-_election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
-
 **Executive branch**<br>
 _chief of state_: President HALIMAH Yacob (since 14 September 2017); note - President TAN's term ended on 31 August 2017; HALIMAH is Singapore's first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
 _election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)<br>
+_elections_: last held on 10 July 2020 (next must be held by 2025)<br>
+_election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (although the number of judges varies - as of April 2019,&nbsp;the court&nbsp;totaled 20 judges, 7 judicial commissioners, 4 judges of appeal, and 16 international judges); the court is organized into an upper tier Appeal Court and a lower tier High Court<br>
@@ -674,11 +674,11 @@ the SAF has a diverse and largely modern mix of domestically-produced and import
 **Military deployments**<br>
 maintains permanent training bases and detachments of military personnel in Australia, France, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2020)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents<br>
+
+**Military service age and obligation**<br>
+18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2020)<br>
 
 ## Terrorism
 

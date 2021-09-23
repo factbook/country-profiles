@@ -276,7 +276,7 @@ parliamentary democracy (National Assembly) under a constitutional monarchy; a C
 _name_: Belmopan<br>
 _geographic coordinates_: 17 15 N, 88 46 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>the decision to move the capital of the country inland to higher and more stable land was made in the 1960s; the name chosen for the new city was formed from the union of two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area of the new capital that empties into the Belize River<br>
+_etymology_: the decision to move the capital of the country inland to higher and more stable land was made in the 1960s; the name chosen for the new city was formed from the union of two words: "Belize," the name of the longest river in the country, and "Mopan," one of the rivers in the area of the new capital that empties into the Belize River<br>
 
 **Administrative divisions**<br>
 6 districts; Belize, Cayo, Corozal, Orange Walk, Stann Creek, Toledo<br>
@@ -306,17 +306,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
-_election results_: Senate - all members appointed; composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
-<strong> </strong><br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Froyla TZALAM (since 27 May 2021)<br>
 _head of government_: Prime Minister Juan Antonio BRICENO (since 12 November 2020); Deputy Prime Minister Cordel HYDE (since 16 November 2020)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister from among members of the National Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor general; prime minister recommends the deputy prime minister<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Senate (14 seats, including the president); members appointed by the governor general - 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 1 each on the advice of the Belize Council of Churches and Evangelical Association of Churches, the Belize Chamber of Commerce and Industry and the Belize Better Business Bureau, non-governmental organizations in good standing, and the National Trade Union Congress and the Civil Society Steering Committee; Senate president elected from among the Senate members or from outside the Senate; members serve 5-year terms<br>House of Representatives (31 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate -  last appointed 11 November 2020 (next appointments in November 2025)<br>House of Representatives - last held on 11 November 2020 (next to be held in November 2025)<br>
+_election results_: Senate - all members appointed; composition - men 9, women 5, percent of women 35.7%<br>House of Representatives - percent of vote by party - PUP 59.6%, UDP 38.8%, other 1.6%; seats by party - PUP 26, UDP 5; composition -  men 27, women 4, percent of women 12.9%; note - total percent of women in the National Assembly 20%<br>
+<strong> </strong><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Judicature (consists of the Court of Appeal with the court president and 3 justices, and the Supreme Court with the chief justice and 10 justices); note - in 2010, Belize acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council in London<br>

@@ -281,7 +281,7 @@ parliamentary republic<br>
 _name_: Bishkek<br>
 _geographic coordinates_: 42 52 N, 74 36 E<br>
 _time difference_: UTC+6 (11 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> founded in 1868 as a Russian settlement on the site of a previously destroyed fortress named "Pishpek"; the name was retained and overtime became "Bishkek"<br>
+_etymology_: founded in 1868 as a Russian settlement on the site of a previously destroyed fortress named "Pishpek"; the name was retained and overtime became "Bishkek"<br>
 
 **Administrative divisions**<br>
 7 provinces (oblustar, singular - oblus) and 2 cities* (shaarlar, singular - shaar); Batken Oblusu, Bishkek Shaary*, Chuy Oblusu (Bishkek), Jalal-Abad Oblusu, Naryn Oblusu, Osh Oblusu, Osh Shaary*, Talas Oblusu, Ysyk-Kol Oblusu (Karakol)<br>
@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists; winning parties limited to no more than 65 seats; members&nbsp;serve 5-year terms)<br>
-_elections_: last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
-_election results_: percent of vote by party - NA; seats by party - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Sadyr JAPAROV (since 28 January 2021)<br>
 _head of government_: Prime Minister Ulukbek MARIPOV (since 3 February 2021)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister, appointed by the president upon approval by the Supreme Council; defense and security committee chairs appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 6-year term; election last held on 10 January 2021 (next to be held in 2027); prime minister nominated by the majority party or majority coalition in the Supreme Council, appointed by the president upon approval by the Supreme Council<br>
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists; winning parties limited to no more than 65 seats; members&nbsp;serve 5-year terms)<br>
+_elections_: last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
+_election results_: percent of vote by party - NA; seats by party - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 25 judges); Constitutional Chamber of the Supreme Court (consists of the chairperson, deputy chairperson, and 9 judges)<br>
@@ -660,11 +660,11 @@ _lake port(s)_: Balykchy (Ysyk-Kol or Rybach'ye)(Lake Ysyk-Kol)<br>
 Kyrgyz Armed Forces: Land Forces, Air Defense Forces, National Guard; State Border Service; Internal Troops (2021)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2020 est.)<br>
 1.5% of GDP (2019)<br>
 1.6% of GDP (2018)<br>
 1.6% of GDP (2017)<br>
 1.7% of GDP (2016)<br>
-1.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land Forces; 2,500 Air Force/Air Defense; 1,000 National Guard) (2021)<br>

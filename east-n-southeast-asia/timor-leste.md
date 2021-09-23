@@ -328,17 +328,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 17 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>
-_elections_: last held on 12 May 2018 (next to be held in July 2023)<br>
-_election results_: percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%<br>
-
 **Executive branch**<br>
 _chief of state_: President Francisco GUTERRES (since 20 May 2017); note - the president is commander in chief of the military and is able to veto legislation, dissolve parliament, and call national elections<br>
 _head of government_: Prime Minister Taur Matan RUAK (since 22 June 2018); note - President GUTERRES dissolved parliament because of an impasse over passing the country's budget on 26 January 2018, with then Prime Minister Mari ALKATIRI assuming the role of caretaker prime minister until a new prime minister was appointed; note - on 25 February 2020, Prime Minister RUAK offered his resignation due to inability to pass 2020 budget in parliament, but the president refused his offer; on 8 April, RUAK withdrew his resignation<br>
 _cabinet_: the governing coalition in the Parliament proposes cabinet member candidates to the Prime Minister, who presents these recommendations to the President of the Republic for swearing in<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 20 March 2017 (next to be held in 2022); following parliamentary elections, the president appoints the leader of the majority party or majority coalition as the prime minister<br>
 _election results_: Francisco GUTERRES elected president; percent of vote - Francisco GUTERRES (FRETILIN) 57.1%, Antonio DA CONCEICAO (PD) 32.5%, Jose Luis GUTERRES (Frenti-Mudanca) 2.6%, Jose NEVES (independent) 2.3%, Luis Alves TILMAN (independent) 2.2%, other 3.4%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Parliament (65 seats; members directly elected in a single nationwide constituency by proportional representation vote to serve 5-year terms)<br>
+_elections_: last held on 12 May 2018 (next to be held in July 2023)<br>
+_election results_: percent of vote by party - AMP - 49.6%, FRETILIN 34.2%, PD 8.1%, DDF 5.5%, other 2.6%; seats by party - AMP 34, FRETILIN 23, PD 5, DDF 3; composition - men 39, women 26, percent of women 40%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeals (consists of the court president and NA judges)<br>

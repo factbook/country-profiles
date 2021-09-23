@@ -296,7 +296,7 @@ presidential republic<br>
 _name_: San Jose<br>
 _geographic coordinates_: 9 56 N, 84 05 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named in honor of Saint Joseph<br>
+_etymology_: named in honor of Saint Joseph<br>
 
 **Administrative divisions**<br>
 7 provinces (provincias, singular - provincia); Alajuela, Cartago, Guanacaste, Heredia, Limon, Puntarenas, San Jose<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 4 February 2018 (next to be held on 6 February 2022)<br>
-_election results_: percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Carlos ALVARADO Quesada (since 8 May 2018); First Vice President Epsy CAMPBELL Barr (since 8 May 2018); Second Vice President Marvin RODRIGUEZ Cordero (since 8 May 2018)<br>
 _cabinet_: Cabinet selected by the president<br>
 _elections/appointments_: president and vice presidents directly elected on the same ballot by modified majority popular vote (40% threshold) for a 4-year term (eligible for non-consecutive terms); election last held on 4 February 2018 with a runoff on 1 April 2018 (next to be held on 6 February 2022)<br>
 _election results_: <br><em>2018:</em> Carlos ALVARADO Quesada elected president in second round; percent of vote in first round - Fabricio ALVARADO Munoz (PRN) 25%; Carlos ALVARADO Quesada (PAC) 21.6%; Antonio ALVAREZ (PLN) 18.6%; Rodolfo PIZA (PUSC) 16%; Juan Diego CASTRO (PIN) 9.5%; Rodolfo HERNANDEZ (PRS) 4.9%, other 4.4%; percent of vote in second round - Carlos ALVARADO Quesada (PAC) 60.7%; Fabricio ALVARADO Munoz (PRN) 39.3%<br><br><em>2014:</em> Luis Guillermo SOLIS Rivera elected president; percent of vote - Luis Guillermo SOLIS Rivera (PAC) 77.8%; Johnny ARAYA (PLN) 22.2%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly or Asamblea Legislativa (57 seats; members directly elected in multi-seat constituencies - corresponding to the country's 7 provinces - by closed party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 4 February 2018 (next to be held on 6 February 2022)<br>
+_election results_: percent of vote by party - PLN 19.5%, PRN 18.2%, PAC 16.3%, PUSC 14.6%, PIN 7.7%, PRS 4.2%, PFA 4%, ADC 2.5%, ML 2.3%, PASE 2.3%, PNG 2.2%, other 6.2%; seats by party - PLN 17, PRN 14, PAC 10, PUSC 9, PIN 4, PRS 2, PFA 1; composition - men 31, women 26, percent of women 45.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of 22 judges organized into 3 cassation chambers each with 5 judges and the Constitutional Chamber with 7 judges)<br>

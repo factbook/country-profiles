@@ -293,7 +293,8 @@ presidential republic<br>
 _name_: La Paz (administrative capital); Sucre (constitutional [legislative and judicial] capital)<br>
 _geographic coordinates_: 16 30 S, 68 09 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> La Paz is a shortening of the original name of the city, Nuestra Senora de La Paz (Our Lady of Peace); Sucre is named after Antonio Jose de Sucre (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br><strong><br>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
+_etymology_: La Paz is a shortening of the original name of the city, Nuestra Senora de La Paz (Our Lady of Peace); Sucre is named after Antonio Jose de Sucre (1795-1830), military hero in the independence struggle from Spain and the second president of Bolivia<br>
+<strong>note:</strong> at approximately 3,630 m above sea level, La Paz's elevation makes it the highest capital city in the world<br>
 
 **Administrative divisions**<br>
 9 departments (departamentos, singular - departamento); Beni, Chuquisaca, Cochabamba, La Paz, Oruro, Pando, Potosi, Santa Cruz, Tarija<br>
@@ -323,17 +324,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
-
 **Executive branch**<br>
 _chief of state_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Luis Alberto ARCE Catacora (since 8 November 2020); Vice President David CHOQUEHUANCA Cespedes (since 8 November 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot one of 3 ways: candidate wins at least 50% of the vote, or at least 40% of the vote and 10% more than the next highest candidate; otherwise a second round is held and the winner determined by simple majority vote; president and vice president are elected by majority vote to serve a 5-year term; no term limits (changed from two consecutive term limit by Constitutional Court in late 2017); election last held on 18 October 2020 (next to be held in October 2025)<br>
 _election results_: <br><em>2020:</em> Luis Alberto ARCE Catacora elected president; percent of vote - Luis Alberto ARCE Catacora (MAS) 55.1%; Carlos Diego MESA Gisbert (CC) 28.8%; Luis Fernando CAMACHO Vaca (Creemos) 14%; other 2.1%<br><br><em>2018:</em> Juan Evo MORALES Ayma reelected president; percent of vote - Juan Evo MORALES Ayma (MAS) 61%; Samuel DORIA MEDINA Arana (UN) 24.5%; Jorge QUIROGA Ramirez (POC) 9.1%; other 5.4%; note - MORALES resigned from office on 10 November 2019 over alleged election rigging; resignations of all his constitutionally designated successors followed, including the Vice President, President of the Senate, President of the Chamber of Deputies, and First Vice President of the Senate, leaving the Second Vice President of the Senate, Jeanine ANEZ Chavez, the highest-ranking official still in office; her appointment to the presidency was endorsed by Bolivia's Constitutional Court, and she served as interim president until the inauguration of Luis Alberto ARCE Catacora, winner of the 18 October 2020 presidential election<br>
+
+**Legislative branch**<br>
+_description_: bicameral Plurinational Legislative Assembly or Asamblea Legislativa Plurinacional consists of:<br>Chamber of Senators or Camara de Senadores (36 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (130 seats; 70 members directly elected in single-seat constituencies by simple majority vote, 53 directly elected in single-seat constituencies by closed party-list proportional representation vote, and 7 (apportioned to non-contiguous, rural areas in 7 of the 9 states) directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 18 October 2020 (next to be held in 2025)<br>Chamber of Deputies - last held on 18 October 2020 (next to be held in 2025)<br>
+_election results_: <br>Chamber of Senators - percent of vote by party - NA; seats by party - MAS 21, ACC 11, Creemos 4; <br>Chamber of Deputies - percent of vote by party - NA; seats by party - MAS 75, ACC 39, Creemos 16<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Tribunal Supremo de Justicia (consists of 12 judges or ministros organized into civil, penal, social, and administrative chambers); Plurinational Constitutional Tribunal (consists of 7 primary and 7 alternate magistrates); Plurinational Electoral Organ (consists of 7 members and 6 alternates); National Agro-Environment Court (consists of 5 primary and 5 alternate judges; Council of the Judiciary (consists of 3 primary and 3 alternate judges)<br>

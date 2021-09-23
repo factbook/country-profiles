@@ -301,7 +301,7 @@ _name_: Kabul<br>
 _geographic coordinates_: 34 31 N, 69 11 E<br>
 _time difference_: UTC+4.5 (9.5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: does not observe daylight savings time<br>
-<strong>etymology:</strong> named for the Kabul River, but the river's name is of unknown origin<br>
+_etymology_: named for the Kabul River, but the river's name is of unknown origin<br>
 
 **Administrative divisions**<br>
 34 provinces (welayat, singular - welayat); Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunar, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshir, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul<br>
@@ -331,19 +331,19 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
-_election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
-<strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
-
 **Executive branch**<br>
 _chief of state_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
 _head of government_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
 _cabinet_: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
 _election results_: Ashraf GHANI declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI 50.6%,&nbsp;Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
-<strong>note:</strong> Ashraf GHANI left the country on 15 August 2021; no new leader has been announced<br>
+<strong>note:</strong> Ashraf GHANI left the country on 15 August 2021; on 7 September 2021, Mullah Mohammad HASSAN was announced as the head of an interim government<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
+_election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
+<strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Stera Mahkama (consists of the supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans)<br>

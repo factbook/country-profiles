@@ -289,7 +289,7 @@ presidential republic<br>
 _name_: Dushanbe<br>
 _geographic coordinates_: 38 33 N, 68 46 E<br>
 _time difference_: UTC+5 (10 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (du) after Saturday (shambe)<br>
+_etymology_: today's city was originally at the crossroads where a large bazaar occurred on Mondays, hence the name Dushanbe, which in Persian means Monday, i.e., the second day (du) after Saturday (shambe)<br>
 
 **Administrative divisions**<br>
 2 provinces (viloyatho, singular - viloyat), 1 autonomous province* (viloyati mukhtor), 1 capital region** (viloyati poytakht), and 1 area referred to as Districts Under Republic Administration***; Dushanbe**, Khatlon (Bokhtar), Kuhistoni Badakhshon [Gorno-Badakhshan]* (Khorugh), Nohiyahoi Tobei Jumhuri***, Sughd (Khujand)<br>
@@ -320,17 +320,17 @@ _residency requirement for naturalization_: 5 years or 3 years of continuous res
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%<br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percent of women 23.8%; note - total Supreme Assembly percent of women 21.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Emomali RAHMON (since 6 November 1994; head of state and Supreme Assembly chairman since 19 November 1992)<br>
 _head of government_: Prime Minister Qohir RASULZODA (since 23 November 2013)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the Supreme Assembly<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term for a maximum of two terms; however, as the "Leader of the Nation" President RAHMON can run an unlimited number of times; election last held on 11 October 2020 (next to be held in 2027); prime minister appointed by the president<br>
 _election results_: Emomali RAHMON reelected president; percent of vote - Emomali RAHMON (PDPT) 92.1%, Rustam LATIFZODA (APT) 3.1%, Rustam RAHAMATZODA (PERT) 2.2%, Abduhalim GHAFFOROV (SPT) 1.5%, Miroj ABDULLOEV (CPT) 1.2%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Supreme Assembly or Majlisi Oli consists of:<br>National Assembly or Majlisi Milli (34 seats; 25 members indirectly elected by local representative assemblies or majlisi, 8 appointed by the president, and 1 reserved for each living former president; members serve 5-year terms)<br>Assembly of Representatives or Majlisi Namoyandagon (63 seats; 41 members directly elected in single-seat constituencies by 2-round absolute majority vote and 22 directly elected in a single nationwide constituency by closed-list proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br>National Assembly - last held on 1 March 2020 (next to be held in 2025)<br>Assembly of Representatives - last held on 1 March 2020 (next to be held in 2025)<br>
+_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NA; composition - men 28, women 6, percent of women 17.6%<br>Assembly of Representatives - percent of vote by party - PDPT 50.4%, PERT 16.6%, APT 16.5%, SPT 5.2%, DPT 5.1%, CPT 3.1%, other 3.1%; seats by party - PDPT 47, APT 7, PERT 5, CPT 2, SPT 1, DPT 1; composition - men 48, women 15, percent of women 23.8%; note - total Supreme Assembly percent of women 21.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman, deputy chairmen, and 34 judges organized into civil, family, criminal, administrative offense, and military chambers); Constitutional Court (consists of the court chairman, deputy chairman, and 5 judges); High Economic Court (consists of 16 judicial positions)<br>
@@ -352,7 +352,7 @@ _email address and website_: <br>tajemus@mfa.tj; tajikistan@verizon.net<br><br>h
 
 **Diplomatic representation from the US**<br>
 _chief of mission_: Ambassador John Mark POMMERSHEIM (since 15 March 2019)<br>
-_embassy_: 109-A Ismoili Somoni Avenue, Dushanbe 734019<br>
+_embassy_: 109-A Ismoili Somoni Avenue (Zarafshon district), Dushanbe 734019<br>
 _mailing address_: 7090 Dushanbe Place, Washington DC&nbsp; 20521-7090<br>
 _telephone_: [992] (37) 229-20-00<br>
 _FAX_: [992] (37) 229-20-50<br>
@@ -665,11 +665,11 @@ _total_: 30,000 km (2018)<br>
 Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces (airborne, mountain infantry troops), Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2020)<br>
 
 **Military expenditures**<br>
+1.1% of GDP (2020 est.)<br>
+1.1% of GDP (2019 est.)<br>
+1.1% of GDP (2018)<br>
 2.2% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
-2.2% of GDP (2015)<br>
-2.1% of GDP (2014)<br>
-2.3% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Republic of Tajikistan have approximately 9,500 active troops (8,000 Land and Mobile Forces; 1,500 Air and Air Defense Forces) (2020)<br>

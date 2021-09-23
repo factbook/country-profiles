@@ -272,7 +272,7 @@ _name_: Luxembourg<br>
 _geographic coordinates_: 49 36 N, 6 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
+_etymology_: the name derives from the Celtic "lucilem" (little) and the German "burg" (castle or fortress) to produce the meaning of the "little castle"; the name is actually ironic, since for centuries the Fortress of Luxembourg was one of Europe's most formidable fortifications; the name passed to the city that grew around the fortress<br>
 
 **Administrative divisions**<br>
 12 cantons (cantons, singular - canton); Capellen, Clervaux, Diekirch, Echternach, Esch-sur-Alzette, Grevenmacher, Luxembourg, Mersch, Redange, Remich, Vianden, Wiltz<br>
@@ -302,16 +302,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
-_elections_: last held on&nbsp;14 October 2018 (next to be held by October 2023)<br>
-_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%<br>
-
 **Executive branch**<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)<br>
 _head of government_: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Etienne SCHNEIDER (since 4 December 2013); Deputy Prime Minister Felix BRAZ (since 5 December 2018)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
+
+**Legislative branch**<br>
+_description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
+_elections_: last held on&nbsp;14 October 2018 (next to be held by October 2023)<br>
+_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>

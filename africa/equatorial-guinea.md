@@ -285,7 +285,7 @@ presidential republic<br>
 _name_: Malabo; note - a new capital of Cuidad de la Paz (formerly referred to as Oyala) is being built on the mainland near Djibloho; Malabo is on the island of Bioko<br>
 _geographic coordinates_: 3 45 N, 8 47 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Malabo Lopelo Melaka (1837–1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Cuidad de la Paz, translates to "City of Peace" in Spanish<br>
+_etymology_: named after Malabo Lopelo Melaka (1837&ndash;1937), the last king of the Bubi, the ethnic group indigenous to the island of Bioko; the name of the new capital, Cuidad de la Paz, translates to "City of Peace" in Spanish<br>
 
 **Administrative divisions**<br>
 8 provinces (provincias, singular - provincia); Annobon, Bioko Norte, Bioko Sur, Centro Sur, Djibloho, Kie-Ntem, Litoral, Wele-Nzas<br>
@@ -315,17 +315,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)<br> Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
-_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br> Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - PDGE and aligned coalition 70; composition - men 60, women 10, percent of women 14.3%<br><br> Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
-
 **Executive branch**<br>
 _chief of state_: President Brig. Gen. (Ret.) Teodoro OBIANG Nguema Mbasogo (since 3 August 1979 when he seized power in a military coup); Vice President Teodoro Nguema OBIANG Mangue(since 2012)<br>
 _head of government_: Prime Minister Francisco Pascual Eyegue OBAMA Asue (since 23 June 2016); First Deputy Prime Minister Clemente Engonga NGUEMA Onguene (since 23 June 2016); Second Deputy Prime Minister Angel MESIE Mibuy (since 5 February 2018); Third Deputy Prime Minister Alfonso Nsue MOKUY (since 23 June 2016)&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president and overseen by the prime minister&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 7-year term (eligible for a second term); election last held on 24 April 2016 (next to be held in 2023); prime minister and deputy prime ministers appointed by the president<br>
 _election results_: Teodoro OBIANG Nguema Mbasogo reelected president; percent of vote - Teodoro OBIANG Nguema Mbasogo (PDGE) 93.5%, other 6.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly or Asemblea Nacional consists of:<br>Senate or Senado (70 seats; 55 members directly elected in multi-seat constituencies by closed party-list proportional representation vote and 15 appointed by the president)<br> Chamber of Deputies or Camara de los Diputados (100 seats; members directly elected in multi-seat constituencies by closed paryt-list proportional representation vote to serve 5-year terms)<br>
+_elections_: Senate - last held on 12 November 2017 (next to be held in 2022/2023)<br> Chamber of Deputies - last held on 12 November 2017 (next to be held in 2022/2023)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - PDGE and aligned coalition 70; composition - men 60, women 10, percent of women 14.3%<br><br> Chamber of Deputies - percent of vote by party - NA; seats by party - PDGE 99, CI 1; composition - men 78, women 22, percent of women 22%; note - total National Assembly percent of women 18.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice - who is also chief of state - and 9 judges&nbsp; organized into civil, criminal, commercial, labor, administrative, and customary sections); Constitutional Court (consists of the court president and 4 members)<br>

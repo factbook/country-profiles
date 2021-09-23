@@ -274,7 +274,7 @@ unitary parliamentary republic<br>
 _name_: Reykjavik<br>
 _geographic coordinates_: 64 09 N, 21 57 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name means "smoky bay" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area<br>
+_etymology_: the name means "smoky bay" in Icelandic and refers to the steamy, smoke-like vapors discharged by hot springs in the area<br>
 
 **Administrative divisions**<br>
 69 municipalities (sveitarfelog, singular - sveitarfelagidh); Akrahreppur, Akranes, Akureyri, Arneshreppur, Asahreppur, Blaskogabyggdh, Blonduosbaer, Bolungarvik, Borgarbyggdh, Dalabyggdh, Dalvikurbyggdh, Eyjafjardharsveit, Eyja-og Miklaholtshreppur, Fjallabyggdh, Fjardhabyggdh, Fljotsdalshreppur, Floahreppur, Gardhabaer, Grimsnes-og Grafningshreppur, Grindavikurbaer, Grundarfjardharbaer, Grytubakkahreppur, Hafnarfjordhur, Helgafellssveit, Horgarsveit, Hrunamannahreppur, Hunathing Vestra, Hunavatnshreppur, Hvalfjardharsveit, Hveragerdhi, Isafjardharbaer, Kaldrananeshreppur, Kjosarhreppur, Kopavogur, Langanesbyggdh, Mosfellsbaer, Mulathing, Myrdalshreppur, Nordhurthing, Rangarthing Eystra, Rangarthing Ytra, Reykholahreppur, Reykjanesbaer, Reykjavik, Seltjarnarnes, Skaftarhreppur, Skagabyggdh, Skeidha-og Gnupverjahreppur, Skorradalshreppur, Skutustadhahreppur, Snaefellsbaer, Strandabyggdh, Stykkisholmur, Sudhavikurhreppur, Sudhurnesjabaer, Svalbardhshreppur, Svalbardhsstrandarhreppur, Sveitarfelagidh Arborg, Sveitarfelagidh Hornafjordhur, Sveitarfelagidh Olfus, Sveitarfelagidh Skagafjordhur, Sveitarfelagidh Skagastrond, Sveitarfelagidh Vogar, Talknafjardharhreppur, Thingeyjarsveit, Tjorneshreppur, Vestmannaeyjar, Vesturbyggdh, Vopnafjardharhreppur<br>
@@ -304,17 +304,17 @@ _residency requirement for naturalization_: 3 to 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 28 October 2017 (next to be held in 2021)<br>
-_election results_: percent of vote by party - IP 25.2%, LGM 16.9%, SDA 12.1%, CP 10.9%, PP 10.7%, Pirate Party 9.2%, People's Party 6.9%, Reform Party 6.7%. other 1.5%; seats by party - IP 16, LGM 11, SDA 7, CP 7, PP 8, Pirate Party 6, Reform Party 4, People's Party 4<br>
-
 **Executive branch**<br>
 _chief of state_: President Gudni Thorlacius JOHANNESSON (since 1 August 2016)<br>
 _head of government_: Prime Minister Katrin JAKOBSDOTTIR (since 30 November 2017)<br>
 _cabinet_: Cabinet appointed by the president upon the recommendation of the prime minister&nbsp;<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term (no term limits); election last held on 27 June 2020 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition becomes prime minister<br>
 _election results_: Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 28 October 2017 (next to be held in 2021)<br>
+_election results_: percent of vote by party - IP 25.2%, LGM 16.9%, SDA 12.1%, CP 10.9%, PP 10.7%, Pirate Party 9.2%, People's Party 6.9%, Reform Party 6.7%. other 1.5%; seats by party - IP 16, LGM 11, SDA 7, CP 7, PP 8, Pirate Party 6, Reform Party 4, People's Party 4<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Haestirettur (consists of 9 judges)<br>

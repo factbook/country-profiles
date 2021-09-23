@@ -219,11 +219,11 @@ _official long form_: Aomen Tebie Xingzhengqu (Chinese); Regiao Administrativa E
 _official short form_: Aomen (Chinese); Macau (Portuguese)<br>
 _etymology_: name is thought to derive from the A-Ma Temple - built in 1488 and dedicated to Mazu, the goddess of seafarers and fishermen - which is referred to locally as "Maa Gok" - and in Portuguese became "Macau"; the Chinese name Aomen means "inlet gates"<br>
 
-**Dependency status**<br>
-special administrative region of the People's Republic of China<br>
-
 **Government type**<br>
 executive-led limited democracy; a special administrative region of the People's Republic of China<br>
+
+**Dependency status**<br>
+special administrative region of the People's Republic of China<br>
 
 **Administrative divisions**<br>
 none (special administrative region of the People's Republic of China)<br>
@@ -247,17 +247,17 @@ see China<br>
 **Suffrage**<br>
 18 years of age in direct elections for some legislative positions, universal for permanent residents living in Macau for the past 7 years; note - indirect elections are limited to organizations registered as "corporate voters" and an election committee for the chief executive drawn from broad regional groupings, municipal organizations, central government bodies, and elected Macau officials<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: last held on 17 September 2017 (next to be held on 12 September 2021)<br>
-_election results_: percent of vote - UMG 10%, UPD 9.7%, ACUM 8.6%, NE 8.3%, UPP 7.2, ANMD 6.6%, NUDM 6.1%, ACDM 5.9%, APMD 5.8%, Civic Watch 5.6%, ABL 5.5%, ANPM 5.3%, other 15.4%; seats by political group - UMG 2, UPD 2, ABL 1, ACDM 1, ACUM 1, ANMD 1, ANPM 1, APMD 1, Civic Watch 1, NE 1, NUDM 1, UPP 1; 12 seats filled by professional and business groups; 7 members appointed by the chief executive; composition - men 27, women 6, percent of women 18.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President of China XI Jinping (since 14 March 2013)<br>
 _head of government_: Chief Executive HO Iat Seng (since 20 December 2019)<br>
 _cabinet_: Executive Council appointed by the chief executive<br>
 _elections/appointments_: president indirectly elected by National People's Congress for a 5-year term (eligible for a second term); election last held on 17 March 2018 (next to be held in March 2023);chief executive chosen by a 400-member Election Committee for a 5-year term (eligible for a second term); election last held on 24 August 2019 (next to be held in 2024)<br>
 _election results_: Fernando CHUI Sai On reelected chief executive; Election Committee vote - 380 of 396; note - HO Iat Seng was elected chief executive (receiving 392 out of 400 votes) on 24 August 2019 and will take office on 20 December 2019<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
+_elections_: last held on 17 September 2017 (next to be held on 12 September 2021)<br>
+_election results_: percent of vote - UMG 10%, UPD 9.7%, ACUM 8.6%, NE 8.3%, UPP 7.2, ANMD 6.6%, NUDM 6.1%, ACDM 5.9%, APMD 5.8%, Civic Watch 5.6%, ABL 5.5%, ANPM 5.3%, other 15.4%; seats by political group - UMG 2, UPD 2, ABL 1, ACDM 1, ACUM 1, ANMD 1, ANPM 1, APMD 1, Civic Watch 1, NE 1, NUDM 1, UPP 1; 12 seats filled by professional and business groups; 7 members appointed by the chief executive; composition - men 27, women 6, percent of women 18.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Multiple waves of Bantu-speaking groups moved into and through what is now Zambia over the past thousand years. In the 1880s, the British began securing mineral and other economic concessions from various local leaders and the territory that is now Zambia eventually came under the control of the former British South Africa Company and was incorporated as the protectorate of Northern Rhodesia in 1911. Administrative control was taken over by the UK in 1924. During the 1920s and 1930s, advances in mining spurred development and immigration. <br><br>The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement, and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule and propelled the Movement for Multiparty Democracy (MMD) to government. The subsequent vote in 1996, however, saw increasing harassment of opposition parties and abuse of state media and other resources. The election in 2001 was marked by administrative problems, with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who won a special presidential byelection later that year. The MMD and BANDA lost to the Patriotic Front (PF) and Michael SATA in the 2011 general elections. SATA, however, presided over a period of haphazard economic management and attempted to silence opposition to PF policies. SATA died in October 2014 and was succeeded by his vice president, Guy SCOTT, who served as interim president until January 2015, when Edgar LUNGU won the presidential byelection and completed SATA's term. LUNGU then won a full term in August 2016 presidential elections.<br>
+Multiple waves of Bantu-speaking groups moved into and through what is now Zambia over the past thousand years. In the 1880s, the British began securing mineral and other economic concessions from various local leaders and the territory that is now Zambia eventually came under the control of the former British South Africa Company and was incorporated as the protectorate of Northern Rhodesia in 1911. Administrative control was taken over by the UK in 1924. During the 1920s and 1930s, advances in mining spurred development and immigration. <br><br>The name was changed to Zambia upon independence in 1964. In the 1980s and 1990s, declining copper prices, economic mismanagement, and a prolonged drought hurt the economy. Elections in 1991 brought an end to one-party rule and propelled the Movement for Multiparty Democracy (MMD) to government. The subsequent vote in 1996, however, saw increasing harassment of opposition parties and abuse of state media and other resources. The election in 2001 was marked by administrative problems, with three parties filing a legal petition challenging the election of ruling party candidate Levy MWANAWASA. MWANAWASA was reelected in 2006 in an election that was deemed free and fair. Upon his death in August 2008, he was succeeded by his vice president, Rupiah BANDA, who won a special presidential byelection later that year. The MMD and BANDA lost to the Patriotic Front (PF) and Michael SATA in the 2011 general elections. SATA, however, presided over a period of haphazard economic management and attempted to silence opposition to PF policies. SATA died in October 2014 and was succeeded by his vice president, Guy SCOTT, who served as interim president until January 2015, when Edgar LUNGU won the presidential byelection and completed SATA's term. LUNGU then won a full term in August 2016 presidential elections. Hakainde HICHILEMA was elected president in August 2021.<br>
 
 ## Geography
 
@@ -297,7 +297,7 @@ presidential republic<br>
 _name_: Lusaka; note - a proposal to build a new capital city in Ngabwe was announced in May 2017<br>
 _geographic coordinates_: 15 25 S, 28 17 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after a village called Lusaka, located at Manda Hill, near where Zambia's National Assembly building currently stands; the village was named after a headman (chief) Lusakasa<br>
+_etymology_: named after a village called Lusaka, located at Manda Hill, near where Zambia's National Assembly building currently stands; the village was named after a headman (chief) Lusakasa<br>
 
 **Administrative divisions**<br>
 10 provinces; Central, Copperbelt, Eastern, Luapula, Lusaka, Muchinga, Northern, North-Western, Southern, Western<br>
@@ -327,17 +327,17 @@ _residency requirement for naturalization_: 5 years for those with an ancestor w
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 11 are appointed<br>
-_elections_: last held on 12 August 2021 (next to be held 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%<br><br>note - 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency is scheduled for 21 October 2021.<br>
-
 **Executive branch**<br>
 _chief of state_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021); note - the president is both chief of state and head of government<br>
-_head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021)&nbsp;<br>
+_head of government_: President Hakainde HICHILEMA (since 24 August 2021); Vice President Mutale NALUMANGO (since 24 August 2021)<br>
 _cabinet_: Cabinet appointed by president from among members of the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - <br>Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+_election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 11 are appointed<br>
+_elections_: last held on 12 August 2021 (next to be held in 2026)<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%; 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency is scheduled for 21 October 2021.<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -684,11 +684,11 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization that also does public work projects); Defense Force Medical Service; the Zambia Police includes a paramilitary battalion (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.5% of GDP (2016)<br>
-1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2020)<br>

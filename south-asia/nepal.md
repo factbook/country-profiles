@@ -293,7 +293,7 @@ federal parliamentary republic<br>
 _name_: Kathmandu<br>
 _geographic coordinates_: 27 43 N, 85 19 E<br>
 _time difference_: UTC+5.75 (10.75 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, "kastha" means "wood" and "mandapa" means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
+_etymology_: name derives from the Kasthamandap temple that stood in Durbar Square; in Sanskrit, "kastha" means "wood" and "mandapa" means "pavilion"; the three-story structure was made entirely of wood, without iron nails or supports, and dated to the late 16th century; it collapsed during a 2015 earthquake<br>
 
 **Administrative divisions**<br>
 7 provinces (pradesh, singular - pradesh); Bagmati, Gandaki, Karnali, Lumbini, Province No. One, Province No. Two, Sudurpashchim<br>
@@ -323,18 +323,17 @@ _residency requirement for naturalization_: 15 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
-_elections_: <br>first election for the National Assembly held on 7 February 2018 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next scheduled for 12, 19 November 2021)<br>
-_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1; composition - men 185, women 90, percent of women 32.7%; note - total Federal Parliament percent of women 33.5%<br>
-
 **Executive branch**<br>
-_chief of state_: President Bidhya Devi BHANDARI (since October 2015)<br>
+_chief of state_: President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
 _head of government_: Prime Minister Sher Bahadur DEUBA (since 13 July 2021); deputy prime ministers Ishwar POKHREL, Upendra YADAV (since 1 June 2018) (an)<br>
 _cabinet_: Council of Ministers appointed by the prime minister; cabinet dominated by the Nepal Communist Party<br>
 _elections/appointments_: president indirectly elected by an electoral college of the Federal Parliament and of the state assemblies for a 5-year term (eligible for a second term); election last held 13 March 2018 (next to be held in 2023); prime minister indirectly elected by the Federal Parliament<br>
 _election results_: Bidhya Devi BHANDARI reelected president; electoral vote - Bidhya Devi BHANDARI (CPN-UML) 39,275, Kumari Laxmi RAI (NC) 11,730<br>
-_head of state_: President Bidhya Devi BHANDARI (since 29 October 2015); Vice President Nanda Bahadar PUN (since 31 October 2015)<br>
+
+**Legislative branch**<br>
+_description_: bicameral Federal Parliament consists of:<br>National Assembly (59 seats; 56 members, including at least 3 women, 1 Dalit, 1 member with disabilities, or 1 minority indirectly elected by an electoral college of state and municipal government leaders, and 3 members, including 1 woman, nominated by the president of Nepal on the recommendation of the government; members serve 6-year terms with renewal of one-third of the membership every 2 years)<br>House of Representatives (275 seats; 165 members directly elected in single-seat constituencies by simple majority vote and 110 members directly elected in a single nationwide constituency by closed-list proportional representation vote, with a threshold of 3% overall valid vote to be allocated a seat; members serve 5-year terms); note - the House of Representatives was dissolved on 22 May 2021, but on 13 July, the Supreme Court directed its reinstatement<br>
+_elections_: <br>first election for the National Assembly held on 7 February 2018 (next to be held in 2024)<br>first election for House of Representatives held on 26 November and 7 December 2017 (next scheduled for 12, 19 November 2021)<br>
+_election results_: <br>National Assembly - percent of vote by party - NA; seats by party - NCP 42, NC 13, FSFN 2, RJPN 2; composition - men 37, women 22, percent of women 37.3%<br>House of Representatives - percent of vote by party - NA; seats by party - NCP 174, NC 63, RJPN 17, FSFN 16, other 4, independent 1; composition - men 185, women 90, percent of women 32.7%; note - total Federal Parliament percent of women 33.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and up to 20 judges)<br>
@@ -663,11 +662,11 @@ _unpaved_: 16,100 km (2016)<br>
 Nepal Army (includes Air Wing); Nepal Armed Police Force (under the Ministry of Home Affairs; paramilitary force responsible for border and internal security, including counter-insurgency, and assisting the Army in the event of an external invasion) (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020 est.)<br>
 1.6% of GDP (2019)<br>
 1.6% of GDP (2018)<br>
 1.7% of GDP (2017)<br>
 1.7% of GDP (2016)<br>
-1.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Nepal Army has approximately 95,000 active troops (including a small air wing of about 500 personnel) (2021)<br>

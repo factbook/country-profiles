@@ -278,7 +278,7 @@ parliamentary republic<br>
 _name_: Praia<br>
 _geographic coordinates_: 14 55 N, 23 31 W<br>
 _time difference_: UTC-1 (4 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it became just Praia in 1974 (prior to full independence in 1975)<br>
+_etymology_: the earlier Portuguese name was Villa de Praia ("Village of the Beach"); it became just Praia in 1974 (prior to full independence in 1975)<br>
 
 **Administrative divisions**<br>
 22 municipalities (concelhos, singular - concelho); Boa Vista, Brava, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina, Santa Catarina do Fogo, Santa Cruz, Sao Domingos, Sao Filipe, Sao Lourenco dos Orgaos, Sao Miguel, Sao Salvador do Mundo, Sao Vicente, Tarrafal, Tarrafal de Sao Nicolau<br>
@@ -308,17 +308,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: last held on 18 April 2021 (next to be held on 18 April 2026)<br>
-_election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5%<br>
-
 **Executive branch**<br>
 _chief of state_: President Jorge Carlos FONSECA (since 9 September 2011)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 October 2016 (next to be held on 17 October 2021); prime minister nominated by the National Assembly and appointed by the president<br>
 _election results_: Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74%, Albertino GRACA (independent) 23%, other 3%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: last held on 18 April 2021 (next to be held on 18 April 2026)<br>
+_election results_: percent of vote by party Monument for Democracy 50.2%, African Party for Independence in Cape Verde 39.55%, Democratic and Independent Cape Verdean Union 9.0%; seats by party - MD 38, APICV 30, DICVU 4; composition - men 44, women 28, percent of women 37.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of the chief justice and at least 7 judges and organized into civil, criminal, and administrative sections)<br>
@@ -641,11 +641,11 @@ _major seaport(s)_: Porto Grande<br>
 Cabo Verdean Armed Forces (FACV): Army (also called the National Guard, GN; includes a small air component), Cabo Verde Coast Guard (Guardia Costeira de Cabo Verde, GCCV) (2021)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2020 est.)<br>
 0.5% of GDP (2019)<br>
 0.6% of GDP (2018)<br>
 0.5% of GDP (2017)<br>
 0.6% of GDP (2016)<br>
-0.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Cabo Verdean Armed Forces (FACV) consist of approximately 1,200 personnel including about 100 in the Coast Guard (2021)<br>

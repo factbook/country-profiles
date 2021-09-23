@@ -291,7 +291,7 @@ _name_: Port-au-Prince<br>
 _geographic coordinates_: 18 32 N, 72 20 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-<strong>etymology:</strong> according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince"<br>
+_etymology_: according to tradition, in 1706, a Captain de Saint-Andre named the bay and its surrounding area after his ship Le Prince; the name of the town that grew there means, "the Port of The Prince"<br>
 
 **Administrative divisions**<br>
 10 departments (departements, singular - departement); Artibonite, Centre, Grand'Anse, Nippes, Nord, Nord-Est, Nord-Ouest, Ouest, Sud, Sud-Est<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats; 10 filled as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
-_elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
-
 **Executive branch**<br>
 _chief of state_: Acting President Ariel HENRY (since 20 July 2021); note - Prime Minister Ariel HENRY has assumed the responsibilities of president following the assassination of President Jovenel MOISE on 7 July 2021; an election is expected to be held on 7 November 2021; MOISE had been president since 7 February 2017<br>
 _head of government_: Prime Minister Ariel HENRY (since 20 July 2021)<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president; parliament must ratify the Cabinet and Prime Minister's governing policy<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a single non-consecutive term); last election originally scheduled for 9 October 2016 but postponed until 20 November 2016 due to Hurricane Matthew<br>
 _election results_: <br><em>2016:</em> Jovenel MOISE elected president in first round; percent of vote - Jovenel MOISE (PHTK) 55.6%, Jude CELESTIN (LAPEH) 19.6%, Jean-Charles MOISE (PPD) 11%, Maryse NARCISSE (FL) 9%; other 4.8%<br><br><em>2011:</em> Michel MARTELLY elected president in runoff; percent of vote - Michel MARTELLY (Peasant's Response) 68%, Mirlande MANIGAT (RDNP) 32%<br>
+
+**Legislative branch**<br>
+_description_: bicameral legislature or le Corps l'egislatif ou le Parlement consists of:<br>le S'enat or Senate (30 seats; 10 filled as of July 2021; members directly elected in multi-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms (2-term limit) with one-third of the membership renewed every 2 years)<br>la Chambre de deput'es or Chamber of Deputies (119 seats; 116 filled as of June 2019; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms; no term limits); note - when the 2 chambers meet collectively it is known as L'Assembl'ee nationale or the National Assembly and is convened for specific purposes spelled out in the constitution<br>
+_elections_: <br>Senate - last held on 20 November 2016 with runoff on 29 January 2017 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021) <br>Chamber of Deputies - last held on 9 August 2015 with runoff on 25 October 2015 and 20 November 2016 (next originally scheduled for 27 October 2019, but postponed to 26 September 2021)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 27, women 1, percent of women 3.6%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - NA; composition - men 115, women 3, percent of women 2.5%; note - total legislature percent of women 2.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour de cassation (consists of a chief judge and other judges); note - Haiti is a member of the Caribbean Court of Justice<br>

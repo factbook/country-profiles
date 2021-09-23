@@ -298,7 +298,7 @@ parliamentary republic<br>
 _name_: Pretoria (administrative capital); Cape Town (legislative capital); Bloemfontein (judicial capital)<br>
 _geographic coordinates_: 25 42 S, 28 13 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Pretoria is named in honor of Andries PRETORIUS, the father of voortrekker (pioneer) leader Marthinus PRETORIUS; Cape Town reflects its location on the Cape of Good Hope; Bloemfontein is a combination of the Dutch words "bloem" (flower) and "fontein" (fountain) meaning "fountain of flowers"<br>
+_etymology_: Pretoria is named in honor of Andries PRETORIUS, the father of voortrekker (pioneer) leader Marthinus PRETORIUS; Cape Town reflects its location on the Cape of Good Hope; Bloemfontein is a combination of the Dutch words "bloem" (flower) and "fontein" (fountain) meaning "fountain of flowers"<br>
 
 **Administrative divisions**<br>
 9 provinces; Eastern Cape, Free State, Gauteng, KwaZulu-Natal, Limpopo, Mpumalanga, Northern Cape, North West, Western Cape<br>
@@ -328,17 +328,17 @@ _residency requirement for naturalization_: 1 year<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br> National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
-_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; note - 36 appointed seats not filled<br> National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 237, women 163, percent of women 40.8%<br>
-
 **Executive branch**<br>
 _chief of state_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); Deputy President David MABUZA (26 February 2018); note - the president is both chief of state and head of government; Jacob ZUMA resigned the presidency on 14 February 2018&nbsp;<br>
 _head of government_: President Matamela Cyril RAMAPHOSA (since 15 February 2018); deputy president David MABUZA (26 February 2018<br>
 _cabinet_: &nbsp;Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 22 May 2019 (next to be held in May 2024)<br>
 _election results_: Matamela Cyril RAMAPHOSA (ANC) elected president by the National Assembly unopposed<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>National Council of Provinces (90 seats; 10-member delegations appointed by each of the 9 provincial legislatures to serve 5-year terms; note - the Council has special powers to protect regional interests, including safeguarding cultural and linguistic traditions among ethnic minorities)<br> National Assembly (400 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: National Council of Provinces and National Assembly - last held on 8 May 2019 (next to be held in 2024)<br>
+_election results_: National Council of Provinces - percent of vote by party - NA; seats by party - ANC 29, DA 13, EFF 9, FF+ 2, IFP 1; note - 36 appointed seats not filled<br> National Assembly - percent of vote by party - ANC 57.5%, DA 20.8%, EFF 10.8%, IFP 3.8%, FF+ 2.4%, other 4.7%; seats by party - ANC 230, DA 84, EFF 44, IFP 14, FF+ 10, other 18; composition - men 237, women 163, percent of women 40.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Appeals (consists of the court president, deputy president, and 21 judges); Constitutional Court (consists of the chief and deputy chief justices and 9 judges)<br>
@@ -692,7 +692,7 @@ South African National Defence Force (SANDF): South African Army (includes Reser
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
-1% of GDP (2020 est.)<br>
+1.1% of GDP (2020 est.)<br>
 1% of GDP (2019)<br>
 1% of GDP (2018)<br>
 1% of GDP (2017)<br>

@@ -289,7 +289,7 @@ presidential republic<br>
 _name_: Montevideo<br>
 _geographic coordinates_: 34 51 S, 56 10 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name "Montevidi" was originally applied to the hill that overlooked the bay upon which the city of Montevideo was founded; the earliest meaning may have been "[the place where we] saw the hill"<br>
+_etymology_: the name "Montevidi" was originally applied to the hill that overlooked the bay upon which the city of Montevideo was founded; the earliest meaning may have been "[the place where we] saw the hill"<br>
 
 **Administrative divisions**<br>
 19 departments (departamentos, singular - departamento); Artigas, Canelones, Cerro Largo, Colonia, Durazno, Flores, Florida, Lavalleja, Maldonado, Montevideo, Paysandu, Rio Negro, Rivera, Rocha, Salto, San Jose, Soriano, Tacuarembo, Treinta y Tres<br>
@@ -319,17 +319,17 @@ _residency requirement for naturalization_: 3-5 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory<br>
 
-**Legislative branch**<br>
-_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
-_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percent of women 32.3%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 75, women 24, percent of women 24.2%; note - total General Assembly percent of women 26.2%<br>
-
 **Executive branch**<br>
 _chief of state_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020); the president is both chief of state and head of government<br>
 _head of government_: President Luis Alberto LACALLE POU (since 1 March 2020); Vice President Beatriz ARGIMON Cedeira (since 1 March 2020)<br>
 _cabinet_: Council of Ministers appointed by the president with approval of the General Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 5-year term (eligible for nonconsecutive terms); election last held on 27 October 2019 with a runoff election on 24 November 2019 (next to be held in October 2024, and a runoff if needed in November 2024)<br>
 _election results_: <br><em>2019:</em> Luis Alberto LACALLE POU elected president - results of the first round of presidential elections: percent of vote - Daniel MARTINEZ (FA) 40.7%, Luis Alberto LACALLE POU (Blanco) 29.7%, Ernesto TALVI (Colorado Party) 12.8%, and Guido MANINI RIOS (Open Cabildo) 11.3%, other 5.5%; results of the second round: percent of vote - Luis Alberto LACALLE POU (Blanco) 50.6%, Daniel MARTINEZ (FA) 49.4%<br><br><em>2014:</em> Tabare VAZQUEZ elected president in second round; percent of vote - Tabare VAZQUEZ (Socialist Party) 56.5%, Luis Alberto LACALLE Pou (Blanco) 43.4%<br>
+
+**Legislative branch**<br>
+_description_: bicameral General Assembly or Asamblea General consists of:<br>Chamber of Senators or Camara de Senadores (31 seats; members directly elected in a single nationwide constituency by proportional representation vote; the vice-president serves as the presiding ex-officio member; elected members serve 5-year terms)<br>Chamber of Representatives or Camara de Representantes (99 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 27 October 2019 (next to be held in October 2024) <br>Chamber of Representatives - last held on 27 October 2019 (next to be held in October 2024)<br>
+_election results_: <br>Chamber of Senators - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 13, National Party 10, Colorado Party 4, Open Cabildo 3; composition - men 21, women 10, percent of women 32.3%<br><br>Chamber of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - Frente Amplio 42, National Party 30, Colorado Party 13, Open Cabildo 11, Independent Party 1, other 2; composition - men 75, women 24, percent of women 24.2%; note - total General Assembly percent of women 26.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice (consists of 5 judges)<br>

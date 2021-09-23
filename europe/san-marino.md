@@ -238,7 +238,7 @@ _name_: San Marino (city)<br>
 _geographic coordinates_: 43 56 N, 12 25 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> named after Saint MARINUS, who in A.D. 301 founded a monastic settlement around which the city and later the state of San Marino coalesced<br>
+_etymology_: named after Saint MARINUS, who in A.D. 301 founded a monastic settlement around which the city and later the state of San Marino coalesced<br>
 
 **Administrative divisions**<br>
 9 municipalities (castelli, singular - castello); Acquaviva, Borgo Maggiore, Chiesanuova, Domagnano, Faetano, Fiorentino, Montegiardino, San Marino Citta, Serravalle<br>
@@ -268,18 +268,18 @@ _residency requirement for naturalization_: 30 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on 8 December 2019 (next to be held by December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition - men 42, women 18, percent of women 30%<br>
-
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captain Regent Alessandro CARDELLI and Captain Regent Mirko DOLCINI (for the period 1 October 2020 - 31 March 2021)<br>
+_chief of state_: co-chiefs of state Captain Regent Giancarlo VENTURINI and Captain Regent Marco NICOLINI (for the period 1 April 2021 - 1 October 2021)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
 _elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2020 (next to be held in September 2020); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
 _election results_: Alessandro MANCINI (PSD)&nbsp;and Grazia ZAFFERANI&nbsp;(RETE Movement) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
+
+**Legislative branch**<br>
+_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: last held on 8 December 2019 (next to be held by December 2024)<br>
+_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition - men 42, women 18, percent of women 30%<br>
 
 **Judicial branch**<br>
 _highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -495,11 +495,11 @@ _paved_: 292 km (2006)<br>
 **Military and security forces**<br>
 No regular military forces; Voluntary Military Corps (Corpi Militari), which includes a Uniformed Militia (performs ceremonial duties and limited police support functions) and Guard of the Great and General Council (defends the Captains Regent and the Great and General Council, participates in official ceremonies, cooperates with the maintenance of public order on special occasions, and performs guard duties during parliamentary sittings); the Police Corps includes the Gendarmerie, which is responsible for maintaining public order, protecting citizens and their property, and providing assistance during disasters (2021)<br>
 
-**Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2012)<br>
-
 **Military - note**<br>
 defense is the responsibility of Italy<br>
+
+**Military service age and obligation**<br>
+18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2012)<br>
 
 ## Transnational Issues
 

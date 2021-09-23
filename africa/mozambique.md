@@ -306,7 +306,7 @@ presidential republic<br>
 _name_: Maputo<br>
 _geographic coordinates_: 25 57 S, 32 35 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> reputedly named after the Maputo River, which drains into Maputo Bay south of the city<br>
+_etymology_: reputedly named after the Maputo River, which drains into Maputo Bay south of the city<br>
 
 **Administrative divisions**<br>
 10 provinces (provincias, singular - provincia), 1 city (cidade)*; Cabo Delgado, Gaza, Inhambane, Manica, Maputo, Cidade de Maputo*, Nampula, Niassa, Sofala, Tete, Zambezia<br>
@@ -336,17 +336,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
-_elections_: last held on 15 October 2019 (next to be held on 15 October 2024) (2019)<br>
-_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition - men 151, women 99, percent of women 39.6% (2019)<br>
-
 **Executive branch**<br>
 _chief of state_: President Filipe Jacinto NYUSI (since 15 January 2015, re-elected 15 Oct 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Filipe Jacinto NYUSI (since 15 January 2015); Prime Minister Carlos Agostinho DO ROSARIO (since 17 January 2015; reconfirmed DO ROSARIO 17 January 2020)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president elected directly by absolute majority popular vote (in 2 rounds, if needed) for a 5-year term (eligible for 2 consecutive terms); election last held on 15 October 2019 (next to be held on 15 October 2024); prime minister appointed by the president (2019)<br>
 _election results_: Filipe NYUSI elected president in first round; percent of vote - Filipe NYUSI (FRELIMO) 73.0%,&nbsp;Ossufo MOMADE&nbsp;(RENAMO) 21.9%, Daviz SIMANGO (MDM) 5.1% (2019)<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly of the Republic or Assembleia da Republica (250 seats; 248 members elected in multi-seat constituencies by party-list proportional&nbsp;representation vote and 2 single members representing Mozambicans abroad directly elected by simple majority vote; members serve 5-year terms) (2019)<br>
+_elections_: last held on 15 October 2019 (next to be held on 15 October 2024) (2019)<br>
+_election results_: percent of vote by party - FRELIMO 71%, RENAMO 23%, MDM 4%; seats by party - FRELIMO 184, RENAMO 60, MDM 6; composition - men 151, women 99, percent of women 39.6% (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, vice president, and 5 judges); Constitutional Council (consists of 7 judges); note - the Higher Council of the Judiciary Magistracy is responsible for judiciary management and discipline<br>
@@ -696,11 +696,11 @@ Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM
 note: the FADM and Ministry of Interior forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
+1% of GDP (2020 est.)<br>
 0.9% of GDP (2019)<br>
 1% of GDP (2018)<br>
 1% of GDP (2017)<br>
 1% of GDP (2016)<br>
-0.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 11,000 personnel (10,000 Army; 200 Navy; 1,000 Air Force) (2020)<br>
@@ -709,7 +709,7 @@ information varies; approximately 11,000 personnel (10,000 Army; 200 Navy; 1,000
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2020)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency<br>
+the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of September 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
 
 **Military service age and obligation**<br>
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>

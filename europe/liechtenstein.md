@@ -233,7 +233,7 @@ _name_: Vaduz<br>
 _geographic coordinates_: 47 08 N, 9 31 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> may be a conflation from the Latin "vallis" (valley) and the High German "diutisk" (meaning "German") to produce "Valdutsch" (German valley), which over time simplified and came to refer specifically to Vaduz, the town<br>
+_etymology_: may be a conflation from the Latin "vallis" (valley) and the High German "diutisk" (meaning "German") to produce "Valdutsch" (German valley), which over time simplified and came to refer specifically to Vaduz, the town<br>
 
 **Administrative divisions**<br>
 11 communes (Gemeinden, singular - Gemeinde); Balzers, Eschen, Gamprin, Mauren, Planken, Ruggell, Schaan, Schellenberg, Triesen, Triesenberg, Vaduz<br>
@@ -263,16 +263,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
-_election results_: percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
-
 **Executive branch**<br>
 _chief of state_: Prince HANS-ADAM II (since 13 November 1989, assumed executive powers on 26 August 1984); Heir Apparent and Regent of Liechtenstein Prince ALOIS (son of the monarch, born 11 June 1968); note - 15 August 2004, HANS-ADAM II transferred the official duties of the ruling prince to ALOIS, but HANS-ADAM II retains status of chief of state<br>
 _head of government_: Prime Minister Daniel RISCH; Deputy Prime Minister Sabine MONAUNI (both since 25 March 2021)<br>
 _cabinet_: Cabinet elected by the Parliament, confirmed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party in the Parliament usually appointed the head of government by the monarch, and the leader of the largest minority party in the Landtag usually appointed the deputy head of government by the monarch if there is a coalition government<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
+_election results_: percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Oberster Gerichtshof (consists of 5 judges); Constitutional Court or Verfassungsgericht (consists of 5 judges and 5 alternates)<br>

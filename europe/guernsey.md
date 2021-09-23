@@ -188,18 +188,18 @@ _conventional short form_: Guernsey<br>
 _former_: Norman Isles<br>
 _etymology_: the name is of Old Norse origin, but the meaning of the root "Guern(s)" is uncertain; the "-ey" ending means "island"<br>
 
-**Dependency status**<br>
-British crown dependency<br>
-
 **Government type**<br>
 parliamentary democracy (States of Deliberation)<br>
+
+**Dependency status**<br>
+British crown dependency<br>
 
 **Capital**<br>
 _name_: Saint Peter Port<br>
 _geographic coordinates_: 49 27 N, 2 32 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island<br>
+_etymology_: Saint Peter Port is the name of the town and its surrounding parish; the "port" distinguishes this parish from that of Saint Peter on the other side of the island<br>
 
 **Administrative divisions**<br>
 none (British Crown dependency); there are no first-order administrative divisions as defined by the US Government, but there are 10 parishes: Castel, Forest, Saint Andrew, Saint Martin, Saint Peter Port, Saint Pierre du Bois, Saint Sampson, Saint Saviour, Torteval, Vale<br>
@@ -224,17 +224,17 @@ see United Kingdom<br>
 **Suffrage**<br>
 16 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
-_elections_: last held on 27 April 2016 (next to be held in June 2020)<br>
-_election results_: percent of vote - NA; seats - independent 38; composition - men 27, women 13, percent of women 32.5%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant-Governor Vice Admiral Ian CORDER (since 14 March 2016)<br>
 _head of government_: Chief Minister Peter FERBRACHE (since 16 October 2020); Bailiff Richard MCMAHON (since 11 May 2020); note - the chief minister is the president of the Policy and Resources Committee and is the de facto head of government; the Policy and Resources Committee, elected by the States of Deliberation, functions as the executive; the 5 members all have equal voting rights<br>
 _cabinet_: none<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor and bailiff appointed by the monarch; chief minister, who is the president of the Policy and Resources Committee indirectly elected by the States of Deliberation for a 4-year term; last held on 6 May 2016 (next to be held in June 2020)<br>
 _election results_: Gavin ST PIER (independent) elected president of the Policy and Resources Committee and chief minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
+_elections_: last held on 27 April 2016 (next to be held in June 2020)<br>
+_election results_: percent of vote - NA; seats - independent 38; composition - men 27, women 13, percent of women 32.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>

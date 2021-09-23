@@ -143,11 +143,11 @@ _conventional long form_: Territory of Cocos (Keeling) Islands<br>
 _conventional short form_: Cocos (Keeling) Islands<br>
 _etymology_: the name refers to the abundant coconut trees on the islands and to English Captain William KEELING, the first European to sight the islands in 1609<br>
 
-**Dependency status**<br>
-non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
-
 **Government type**<br>
 non-self-governing overseas territory of Australia<br>
+
+**Dependency status**<br>
+non-self governing territory of Australia; administered from Canberra by the Department of Infrastructure, Transport, Cities &amp; Regional Development<br>
 
 **Capital**<br>
 _name_: West Island<br>
@@ -176,16 +176,16 @@ see Australia<br>
 **Suffrage**<br>
 18 years of age<br>
 
-**Legislative branch**<br>
-_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)<br>
-_elections_: last held in October 2017 (next to be held on 31 October 2019)<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of the Commonwealth of Australia General David HURLEY (since 1 July 2019)<br>
 _head of government_: Administrator Natasha GRIGGS (since 5 October 2017)<br>
 _cabinet_: NA<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the Australian prime minister; administrator appointed by the governor general for a 2-year term and represents the monarch and Australia<br>
+
+**Legislative branch**<br>
+_description_: unicameral Cocos (Keeling) Islands Shire Council (7 seats; members directly elected by simple majority vote to serve 4-year terms with half the membership renewed every 2 years)<br>
+_elections_: last held in October 2017 (next to be held on 31 October 2019)<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 5, women 2, percent of women 28.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: under the terms of the Territorial Law Reform Act 1992, Western Australia provides court services as needed for the island including the Supreme Court and subordinate courts (District Court, Magistrate Court, Family Court, Children's Court, and Coroners' Court)<br>

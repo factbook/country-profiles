@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
+<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in early September 2021 and will be inaugurated 29 September 2021. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
 
 ## Geography
 
@@ -296,7 +296,7 @@ semi-presidential republic<br>
 _name_: Sao Tome<br>
 _geographic coordinates_: 0 20 N, 6 44 E<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Saint Thomas the Apostle<br>
+_etymology_: named after Saint Thomas the Apostle<br>
 
 **Administrative divisions**<br>
 6 districts (distritos, singular - distrito), 1 autonomous region* (regiao autonoma); Agua Grande, Cantagalo, Caue, Lemba, Lobata, Me-Zochi, Principe*<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
+**Executive branch**<br>
+_chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br>
+_head of government_: Prime Minister Jorge BOM JESUS (since 3 December 2018)<br>
+_cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president; note - President Evaristo CARVALHO, whose term expires on 3 September (ahead of the postponed presidential runoff on 5 September 2021), announced he will remain in office until the inauguration of the new president, scheduled for 29 September 2021.<br>
+_election results_: <br><em>2021:</em> Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in the second round - Carlos Manuel VILA NOVA (IDA) 57.5%, Guilherme POSSER DA COSTA (MLSTP-PSD) 42.5%; note - VILA NOVA is scheduled to take office 29 September 2021 <br><br><em>2016:</em> Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
+
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (55 seats; members directly elected in multi-seat constituencies by closed party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 7 October 2018 (next to be held in October 2022)<br>
 _election results_: percent of vote by party - ADI 41.8%, MLSTP/PSD 40.3%, PCD-GR 9.5%, MCISTP 2.1%, other 6.3%; seats by party - ADI 25, MLSTP-PSD 23, PCD-MDFM-UDD 5, MCISTP 2; composition - men 45, women 10, percent of women 18.2%<br>
-
-**Executive branch**<br>
-_chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br><br>note - President Evaristo Carvalho, whose term expires on 3 September  (ahead of the postponed presidential runoff on 5 September), announced he will remain in office until the inauguration of the new president, scheduled for 29 September.<br>
-_head of government_: Prime Minister Jorge Bom JESUS (since 3 December 2018)<br>
-_cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president<br>
-_election results_: <br><em>2021</em> - In the 5 September runoff, Carlos Vila NOVA elected president; percent of the vote - Carlos Vila NOVA (IDA) 57.5%, Guilherme Posser DA COSTA (MLSTP-SDP) 42.5%<br><br><em>2016 </em>- Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal Justica (consists of 5 judges); Constitutional Court or Tribunal Constitucional (consists of 5 judges, 3 of whom are from the Supreme Court)<br>

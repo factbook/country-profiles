@@ -304,7 +304,7 @@ in transition<br>
 _name_: Sanaa<br>
 _geographic coordinates_: 15 21 N, 44 12 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name is reputed to mean "well-fortified" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D.<br>
+_etymology_: the name is reputed to mean "well-fortified" in Sabaean, the South Arabian language that went extinct in Yemen in the 6th century A.D.<br>
 
 **Administrative divisions**<br>
 22 governorates (muhafazat, singular - muhafazah); Abyan, 'Adan (Aden), Ad Dali', Al Bayda', Al Hudaydah, Al Jawf, Al Mahrah, Al Mahwit, Amanat al 'Asimah (Sanaa City), 'Amran, Arkhabil Suqutra (Socotra Archipelago), Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Sa'dah, San'a' (Sanaa), Shabwah, Ta'izz<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br> House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
-_elections_: <br>House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)<br>
-_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
-
 **Executive branch**<br>
 _chief of state_: President Abd Rabuh Mansur HADI (since 21 February 2012); Vice President ALI MUHSIN al-Ahmar, Lt. Gen. (since 3 April 2016)<br>
 _head of government_: Prime Minister Maeen Abd al-Malik SAEED (since 15 October 2018)<br>
 _cabinet_: appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 7-year term (eligible for a second term); election last held on 21 February 2012 (next election NA); note - a special election was held on 21 February 2012 to remove Ali Abdallah SALIH under the terms of a Gulf Cooperation Council-mediated deal during the political crisis of 2011; vice president appointed by the president; prime minister appointed by the president<br>
 _election results_: Abd Rabuh Mansur HADI (GPC) elected as a consensus president with about 50% popular participation; no other candidates<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Majlis consists of:<br>Shura Council or Majlis Alshoora (111 seats; members appointed by the president; member tenure NA)<br> House of Representatives or Majlis al Nuwaab (301 seats; members directly elected in single-seat constituencies by simple majority vote to serve 6-year terms)<br>
+_elections_: <br>House of Representatives - last held on 27 April 2003 (next scheduled for April 2009 but postponed indefinitely)<br>
+_election results_: <br>percent of vote by party - GPC 58.0%, Islah 22.6%, YSP 3.8%, Unionist Party 1.9%, other 13.7%; seats by party - GPC 238, Islah 46, YSP 8, Nasserist Unionist Party 3, National Arab Socialist Ba'ath Party 2, independent 4<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, 2 deputies, and nearly 50 judges; court organized into constitutional, civil, commercial, family, administrative, criminal, military, and appeals scrutiny divisions)<br>

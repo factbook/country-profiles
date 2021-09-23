@@ -272,7 +272,7 @@ in transition<br>
 _name_: Tripoli (Tarabulus)<br>
 _geographic coordinates_: 32 53 N, 13 10 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning "region of the three cities" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of "Tripoli" came to refer to just Oea, which derives from the Greek words "tria" and "polis" meaning "three cities"<br>
+_etymology_: originally founded by the Phoenicians as Oea in the 7th century B.C., the city changed rulers many times over the successive centuries; by the beginning of the 3rd century A.D. the region around the city was referred to as Regio Tripolitana by the Romans, meaning "region of the three cities" - namely Oea (i.e., modern Tripoli), Sabratha (to the west), and Leptis Magna (to the east); over time, the shortened name of "Tripoli" came to refer to just Oea, which derives from the Greek words "tria" and "polis" meaning "three cities"<br>
 
 **Administrative divisions**<br>
 22 governorates (muhafazah, singular - muhafazat); Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi (Benghazi), Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus (Tripoli), Wadi al Hayat, Wadi ash Shati<br>
@@ -301,17 +301,17 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 **Suffrage**<br>
 18 years of age, universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR<br>
-_elections_: last held on 25 June 2014 ( next election to be held on 24 December 2021); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014&nbsp;election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
-
 **Executive branch**<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
 _head of government_: Prime Minister Abdul Hamid DBEIBEH (since 5 February 2021)<br>
 _cabinet_: GNA Presidency Council (pending approval by the House of Representatives - as of December 2018)<br>
 _elections/appointments_: <p>direct presidential election to be held pending election-related legislation and constitutional referendum law</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DBEIBEH, prime minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR<br>
+_elections_: last held on 25 June 2014 ( next election to be held on 24 December 2021); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling<br>
+_election results_: percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014&nbsp;election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
 _highest courts_: NA; note - government is in transition<br>

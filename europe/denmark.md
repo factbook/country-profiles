@@ -281,7 +281,7 @@ _name_: Copenhagen<br>
 _geographic coordinates_: 55 40 N, 12 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October; note - applies to continental Denmark only, not to its North Atlantic components<br>
-<strong>etymology: </strong>name derives from the city's Danish appellation Kobenhavn, meaning "Merchant's Harbor" <strong><br></strong><br>
+_etymology_: name derives from the city's Danish appellation Kobenhavn, meaning "Merchant's Harbor"<br>
 
 **Administrative divisions**<br>
 metropolitan Denmark - 5 regions (regioner, singular - region); Hovedstaden (Capital), Midtjylland (Central Jutland), Nordjylland (North Jutland), Sjaelland (Zealand), Syddanmark (Southern Denmark)<br>
@@ -311,16 +311,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 5 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II (since 14 January 1972); Heir Apparent Crown Prince FREDERIK (elder son of the monarch, born on 26 May 1968)<br>
 _head of government_: Prime Minister Mette FREDERIKSEN (since 27 June 2019)<br>
 _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
+
+**Legislative branch**<br>
+_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
+_elections_: last held on 5 June 2019 (next to be held on June 2023)<br>
+_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -668,8 +668,8 @@ North Sea - Esbjerg,<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br>
-note: the Danish military also maintains a Joint Arctic Command<br>
+Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br>
+note: the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
 1.43% of GDP (2020 est.)<br>

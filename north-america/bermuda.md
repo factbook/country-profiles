@@ -212,18 +212,18 @@ _conventional short form_: Bermuda<br>
 _former_: Somers Islands<br>
 _etymology_: the islands making up Bermuda are named after Juan de BERMUDEZ, an early 16th century Spanish sea captain and the first European explorer of the archipelago<br>
 
-**Dependency status**<br>
-overseas territory of the UK<br>
-
 **Government type**<br>
 Overseas Territory of the UK with limited self-government; parliamentary democracy<br>
+
+**Dependency status**<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: Hamilton<br>
 _geographic coordinates_: 32 17 N, 64 47 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in March; ends first Sunday in November<br>
-<strong>etymology:</strong> named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794<br>
+_etymology_: named after Henry HAMILTON (ca. 1734-1796) who served as governor of Bermuda from 1788-1794<br>
 
 **Administrative divisions**<br>
 9 parishes and 2 municipalities*; Devonshire, Hamilton, Hamilton*, Paget, Pembroke, Saint George*, Saint George's, Sandys, Smith's, Southampton, Warwick<br>
@@ -253,16 +253,16 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
-_elections_: <br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
-_election results_: Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Rena LALGIE (since 14 December 2020)<br>
 _head of government_: Premier David BURT (since 19 July 2017)<br>
 _cabinet_: Cabinet nominated by the premier, appointed by the governor<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (11 seats; 3 members appointed by the governor, 5 by the premier, and 3 by the opposition party; members serve 5-year terms) and the House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>House of Assembly (36 seats; members directly elected in single-seat constituencies by simple majority vote to serve up to 5-year terms)<br>
+_elections_: <br>Senate - last appointments in August 2017 (next appointments in 2022)<br>House of Assembly - last held on 1 October 2020 (next to be held not later than 2025)<br>
+_election results_: Senate - composition - men 7, women 4, percent of women 36.4%<br>House of Assembly - percent of vote by party - PLP 62.1%, OBA 32.3%, other 5.4%, independent 0.2%; seats by party - PLP 30, OBA 6; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and at least 2 justices); Supreme Court (consists of the chief justice, 4 puisne judges, and 1 associate justice); note - the Judicial Committee of the Privy Council (in London) is the court of final appeal<br>
@@ -562,11 +562,11 @@ the Royal Bermuda Regiment has about 350 troops (2021)<br>
 **Military equipment inventories and acquisitions**<br>
 the Regiment is equipped with small arms<br>
 
-**Military service age and obligation**<br>
-females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)<br>
-
 **Military - note**<br>
 defense is the responsibility of the UK<br>
+
+**Military service age and obligation**<br>
+females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)<br>
 
 ## Transnational Issues
 

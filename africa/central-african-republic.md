@@ -298,7 +298,7 @@ presidential republic<br>
 _name_: Bangui<br>
 _geographic coordinates_: 4 22 N, 18 35 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> established as a French settlement in 1889 and named after its location on the northern bank of the Ubangi River; the Ubangi itself was named from the native word for the "rapids" located beside the outpost, which marked the end of navigable water north from from Brazzaville<br>
+_etymology_: established as a French settlement in 1889 and named after its location on the northern bank of the Ubangi River; the Ubangi itself was named from the native word for the "rapids" located beside the outpost, which marked the end of navigable water north from from Brazzaville<br>
 
 **Administrative divisions**<br>
 14 prefectures (prefectures, singular - prefecture), 2 economic prefectures* (prefectures economiques, singular - prefecture economique), and 1 commune**; Bamingui-Bangoran, Bangui**, Basse-Kotto, Haute-Kotto, Haut-Mbomou, Kemo, Lobaye, Mambere-Kadei, Mbomou, Nana-Grebizi*, Nana-Mambere, Ombella-Mpoko, Ouaka, Ouham, Ouham-Pende, Sangha-Mbaere*, Vakaga<br>
@@ -328,11 +328,6 @@ _residency requirement for naturalization_: 35 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and and second round on 14 March<br>
-_election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition - men 129, women 11, percent of women 7.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President Faustin-Archange TOUADERA (since 30 March 2016; reelected 27 December 2020)<br>
 _head of government_: Prime Minister Henri-Marie DONDRA (since 11 June 2021); note - Prime Minister Firmin NGREBADA resigned on 10 June 2021<br>
@@ -340,6 +335,11 @@ _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: under the 2015 constitution, the president is elected by universal direct suffrage for a period of 5 years (eligible for a second term); election last held 27 December 2020 (next to be held in December 2025)<br>
 _election results_: Faustin-Archange TOUADERA reelected president in first round; percent of vote - Faustin-Archange TOUADERA (independent) 59.3%, Anicet Georges DOLOGUELE (URCA) 21%, other 19.7%<br>
 <strong>note:</strong> rebel forces seized the capital in March 2013, forcing former President BOZIZE to flee the country; Interim President Michel DJOTODIA assumed the presidency, reinstated the prime minister, and established a National Transitional Council (CNT) in April 2013; the NTC elected Catherine SAMBA-PANZA interim president in January 2014 to serve until February 2015, when new elections were to be held; her term was extended because instability delayed new elections and the transition did not take place until the end of March 2016<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (140 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
+_elections_: first round last held on 27 December 2020; note - on election day, voting in many electoral areas was disrupted by armed groups; on 13 February 2021, President TOUADERA announced that a new first round of elections will be held on 27 February for those areas controlled by armed groups and and second round on 14 March<br>
+_election results_: December 2015 election: percent of vote by party - NA; seats by party - UNDP 16, URCA 11, RDC 8, MLPC 10, KNK 7, other 28, independent 60; composition - men 129, women 11, percent of women 7.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of NA judges); Constitutional Court (consists of 9 judges, at least 3 of whom are women)<br>
@@ -661,11 +661,11 @@ Nola (Sangha)<br>
 Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine), General Directorate of Gendarmerie Inspection (DGIG); National Police (2020)<br>
 
 **Military expenditures**<br>
+1.8% of GDP (2020 est.)<br>
 1.5% of GDP (2019 est.)<br>
 1.4% of GDP (2018 est.)<br>
 1.4% of GDP (2017 est.)<br>
 1.5% of GDP (2016 est.)<br>
-1.7% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie (2020)<br>

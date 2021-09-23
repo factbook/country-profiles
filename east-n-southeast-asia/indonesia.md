@@ -302,7 +302,8 @@ presidential republic<br>
 _name_: Jakarta<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note:</strong> Indonesia has three time zones<br><br><strong>etymology:</strong> "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
+_time zone note_: Indonesia has three time zones<br>
+_etymology_: "Jakarta" derives from the Sanscrit "Jayakarta" meaning "victorious city" and refers to a successful defeat and expulsion of the Portuguese in 1527; previously the port had been named "Sunda Kelapa"<br>
 
 **Administrative divisions**<br>
 31 provinces (provinsi-provinsi, singular - provinsi), 1 autonomous province*, 1 special region** (daerah-daerah istimewa, singular - daerah istimewa), and 1 national capital district*** (daerah khusus ibukota); Aceh*, Bali, Banten, Bengkulu, Gorontalo, Jakarta***, Jambi, Jawa Barat (West Java), Jawa Tengah (Central Java), Jawa Timur (East Java), Kalimantan Barat (West Kalimantan), Kalimantan Selatan (South Kalimantan), Kalimantan Tengah (Central Kalimantan), Kalimantan Timur (East Kalimantan), Kalimantan Utara (North Kalimantan), Kepulauan Bangka Belitung (Bangka Belitung Islands), Kepulauan Riau (Riau Islands), Lampung, Maluku, Maluku Utara (North Maluku), Nusa Tenggara Barat (West Nusa Tenggara), Nusa Tenggara Timur (East Nusa Tenggara), Papua, Papua Barat (West Papua), Riau, Sulawesi Barat (West Sulawesi), Sulawesi Selatan (South Sulawesi), Sulawesi Tengah (Central Sulawesi), Sulawesi Tenggara (Southeast Sulawesi), Sulawesi Utara (North Sulawesi), Sumatera Barat (West Sumatra), Sumatera Selatan (South Sumatra), Sumatera Utara (North Sumatra), Yogyakarta**<br>
@@ -333,17 +334,17 @@ _residency requirement for naturalization_: 5 continuous years<br>
 **Suffrage**<br>
 17 years of age; universal and married persons regardless of age<br>
 
-**Legislative branch**<br>
-_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
-_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
-_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
-
 **Executive branch**<br>
 _chief of state_: President Joko WIDODO (since 20 October 2014, reelected 17 April 2019, inauguration 19 October 2019); Vice President Ma'ruf AMIN (since 20 October 2019); note - the president is both chief of state and head of government (2019)<br>
 _head of government_: President Joko WIDODO (since 20 October 2014); Vice President Ma'ruf AMIN (since 20 October 2019) (2019)<br>
 _cabinet_: Cabinet appointed by the president&nbsp;<br>
 _elections/appointments_: president and vice president directly elected by absolute majority popular vote for a 5-year term (eligible for a second term); election last held on&nbsp;17 April 2019 (next election 2024)<br>
 _election results_: Joko WIDODO elected president; percent of vote - Joko WIDODO (PDI-P) 55.5%, PRABOWO Subianto Djojohadikusumo (GERINDRA) 44.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral People's Consultative Assembly or Majelis Permusyawaratan Rakyat consists of:<br>Regional Representative Council or Dewan Perwakilan Daerah (136 seats; non-partisan members directly elected in multi-seat constituencies - 4 each from the country's 34 electoral districts - by proportional representation vote to serve 5-year terms); note - the Regional Representative Council has no legislative authority<br> House of Representatives or Dewan Perwakilan Rakyat (575 seats; members directly elected in multi-seat constituencies by single non-transferable vote to serve 5-year terms) (2019)<br>
+_elections_: Regional Representative Council - last held 17 April 2019 (next to be held 2024)<br> House of Representatives - last held on 17 April 2019 (next to be held 2024) (2019)<br>
+_election results_: Regional Representative Council - all seats elected on a non-partisan basis; compostion - NA<br> House of Representatives - percent of vote by party - PDI-P 19.3%, Gerindra 12.6%, Golkar 12.3%,  PKB 9.7%, Nasdem 9.1%, PKS 8.2%, PD 7.8%, PAN 6.8%, PPP 4.5%, other 9.6%; seats by party - PDI-P 128, Golkar 85, Gerindra 78, Nasdem 59, PKB 58, PD 54, PKS 50, PAN 44, PPP 19; composition - men 475, women 100, percent of women 17.9%; total People's Consultative Assembly percent of women NA (2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Mahkamah Agung (51 judges divided into 8 chambers); Constitutional Court or Mahkamah Konstitusi (consists of 9 judges)<br>

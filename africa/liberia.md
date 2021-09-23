@@ -296,7 +296,7 @@ presidential republic<br>
 _name_: Monrovia<br>
 _geographic coordinates_: 6 18 N, 10 48 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after James Monroe (1758-1831), the fifth president of the United States and supporter of the colonization of Liberia by freed slaves; one of two national capitals named for a US president, the other is Washington, D.C.<br>
+_etymology_: named after James Monroe (1758-1831), the fifth president of the United States and supporter of the colonization of Liberia by freed slaves; one of two national capitals named for a US president, the other is Washington, D.C.<br>
 
 **Administrative divisions**<br>
 15 counties; Bomi, Bong, Gbarpolu, Grand Bassa, Grand Cape Mount, Grand Gedeh, Grand Kru, Lofa, Margibi, Maryland, Montserrado, Nimba, River Cess, River Gee, Sinoe<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
-_elections_: Senate -general election held on 8 December 2020 with half the seats up for election (next election 2023)<br>House of Representatives - last held on 10 October 2017 (next to be held in October 2023)<br>
-_election results_: Senate - percent of vote by party - Collaborating Political Parties 40.27%, Congress for Democratic Change 28.02%, People's Unification Party 6.40, Movement for Democracy and Reconstructions 4.30%, All Liberia Coalition 1.09%,Rainbow Alliance 1.09%, Liberia Restoration Party 0,82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1   <br> <br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 64, women 9, percent of women 12.3%; total Parliament percent of women 11.7%<br>
-
 **Executive branch**<br>
 _chief of state_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President George WEAH (since 22 January 2018); Vice President Jewel HOWARD-TAYLOR (since 22 January 2018)<br>
 _cabinet_: Cabinet appointed by the president, confirmed by the Senate<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); election last held on 10 October 2017 with a run-off on 26 December 2017) (next to be held on 10 October 2023); the runoff originally scheduled for 7 November 2017 was delayed due to allegations of fraud in the first round, which the Supreme Court dismissed<br>
 _election results_: George WEAH elected president in second round; percent of vote in first round - George WEAH (Coalition for Democratic Change) 38.4%, Joseph BOAKAI (UP) 28.8%, Charles BRUMSKINE (LP) 9.6%, Prince JOHNSON (MDR) 8.2%, Alexander B. CUMMINGS (ANC) 7.2%, other 7.8%; percentage of vote in second round - George WEAH 61.5%, Joseph BOAKAI 38.5%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Assembly consists of:<br>The Liberian Senate (30 seats; members directly elected in 15 2-seat districts by simple majority vote to serve 9-year staggered terms; each district elects 1 senator and elects the second senator 3 years later, followed by a 6-year hiatus, after which the first Senate seat is up for election)<br>House of Representatives (73 seats; members directly elected in single-seat districts by simple majority vote to serve 6-year terms; eligible for a second term)<br>
+_elections_: Senate - general election held on 8 December 2020 with half the seats up for election (next election 2023)<br>House of Representatives - last held on 10 October 2017 (next to be held in October 2023)<br>
+_election results_: Senate - percent of vote by party - Collaborating Political Parties 40.27%, Congress for Democratic Change 28.02%, People's Unification Party 6.40, Movement for Democracy and Reconstructions 4.30%, All Liberia Coalition 1.09%,Rainbow Alliance 1.09%, Liberia Restoration Party 0,82%, Liberia National Union 0.77%, Movement for Progressive Change 0.74%, United People's Party 0.66%, Liberia Transformation Party 0.16%, National Democratic Coalition 0.07%, Movement for One Liberia 0.01; seats by coalition/party- CPP 13, CDC 5, PUP 2, MDR 1, NDC 1   <br> <br>House of Representatives - percent of vote by party/coalition - Coalition for Democratic Change 15.6%, UP 14%, LP 8.7%, ANC 6.1%, PUP 5.9%, ALP 5.1%, MDR 3.4%, other 41.2%; seats by coalition/party - Coalition for Democratic Change 21, UP 20, PUP 5, LP 3, ALP 3, MDR 2, independent 13, other 6; composition - men 64, women 9, percent of women 12.3%; total Parliament percent of women 11.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 4 associate justices); note - the Supreme Court has jurisdiction for all constitutional cases<br>

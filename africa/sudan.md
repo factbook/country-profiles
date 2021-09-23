@@ -301,7 +301,7 @@ presidential republic<br>
 _name_: Khartoum<br>
 _geographic coordinates_: 15 36 N, 32 32 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> several explanations of the name exist; two of the more plausible are that it is derived from Arabic "al-jartum" meaning "elephant's trunk" or "hose," and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words "khar-tuom," indicating a "place where rivers meet"<br>
+_etymology_: several explanations of the name exist; two of the more plausible are that it is derived from Arabic "al-jartum" meaning "elephant's trunk" or "hose," and likely referring to the narrow strip of land extending between the Blue and White Niles; alternatively, the name could derive from the Dinka words "khar-tuom," indicating a "place where rivers meet"<br>
 
 **Administrative divisions**<br>
 18 states (wilayat, singular - wilayah); Blue Nile, Central Darfur, East Darfur, Gedaref, Gezira, Kassala, Khartoum, North Darfur, North Kordofan, Northern, Red Sea, River Nile, Sennar, South Darfur, South Kordofan, West Darfur, West Kordofan, White Nile<br>
@@ -332,17 +332,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 17 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held in 2022; as of early December 2019, the TLC had not been established<br>
-_elections_: <p>Council of State - last held 1 June 2015 <br> National Assembly - last held on 13-15 April 2015 <br>note - elections for an as yet defined new legislature to be held in 2022 at the expiry of the Transnational Legislative Council</p><br>
-_election results_: <br> Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%<br>
-
 **Executive branch**<br>
 _chief of state_: president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the "Sovereignty Council," chaired by&nbsp; General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held; General BURHAN serves as both chief of state and head of government<br>
 _head of government_: president (vacant); note - in August 2019, the ruling military council and civilian opposition alliance signed a power-sharing deal as the "Sovereignty Council," chaired by&nbsp; General Abd-al-Fatah al-BURHAN Abd-al-Rahman and consisting of 6 civilians and 5 generals; the Council is currently led by the military but is intended to transition to civilian leadership in May 2021 until elections can be held (Abd-al-Rahman)<br>
 _cabinet_: Council of Ministers appointed by the prime minister (2019)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed; last held on 13-16 April 2015 (next to be held in 2022 at the end of the transitional period); prime minister typically appointed by the president; note - the position of prime minister was reinstated in December 2016 as a result of the 2015-16 national dialogue process, and President al-BASHIR appointed BAKRI Hassan Salih to the position on 2 March 2017; on 21 August 2019, the Forces for Freedom and Change, the civilian opposition alliance, named Abdallah HANDOUK as prime minister of Sudan for the transitional period<br>
 _election results_: Umar Hassan Ahmad al-BASHIR reelected president; percent of vote - Umar Hassan Ahmad al-BASHIR (NCP) 94.1%, other (15 candidates) 5.9%<br>
+
+**Legislative branch**<br>
+_description_: according to the August 2019 Constitutional Decree, which established Sudan's transitional government, the Transitional Legislative Council (TLC) will serve as the national legislature during the transitional period until elections can be held in 2022; as of early December 2019, the TLC had not been established<br>
+_elections_: <p>Council of State - last held 1 June 2015 <br> National Assembly - last held on 13-15 April 2015 <br>note - elections for an as yet defined new legislature to be held in 2022 at the expiry of the Transnational Legislative Council</p><br>
+_election results_: <br> Council of State - percent of vote by party - NA; seats by party - NA; composition - men 35, women 19, percent of women 35.2%<br>National Assembly - percent of vote by party - NA; seats by party - NCP 323, DUP 25, Democratic Unionist Party 15, other 44, independent 19; composition - men 296 women 130, percent of women 30.5%; note - total National Legislature percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: National Supreme Court (consists of 70 judges organized into panels of 3 judges and includes 4 circuits that operate outside the capital); Constitutional Court (consists of 9 justices including the court president); note - the Constitutional Court resides outside the national judiciary<br>

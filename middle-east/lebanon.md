@@ -279,7 +279,7 @@ _name_: Beirut<br>
 _geographic coordinates_: 33 52 N, 35 30 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> derived from the Canaanite or Phoenician word "ber'ot," meaning "the wells" or "fountain," which referred to the site's accessible water table<br>
+_etymology_: derived from the Canaanite or Phoenician word "ber'ot," meaning "the wells" or "fountain," which referred to the site's accessible water table<br>
 
 **Administrative divisions**<br>
 8 governorates (mohafazat, singular - mohafazah); Aakkar, Baalbek-Hermel, Beqaa (Bekaa), Beyrouth (Beirut), Liban-Nord (North Lebanon), Liban-Sud (South Lebanon), Mont-Liban (Mount Lebanon), Nabatiye<br>
@@ -309,18 +309,18 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 21 years of age; authorized for all men and women regardless of religion; excludes persons convicted of felonies and other crimes or those imprisoned; excludes all military and security service personnel regardless of rank<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
-_elections_: last held on 6 May 2018 (next to be held in 2022)<br>
-_election results_: percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%<br>
-<strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
-
 **Executive branch**<br>
 _chief of state_: President Michel AWN (since 31 October 2016)<br>
 _head of government_: Prime Minister Hassan DIAB (since 22 October 2020); note - the Lebanese Government is in "caretaker" status<br>
 _cabinet_: Cabinet chosen by the prime minister in consultation with the president and National Assembly<br>
 _elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in the first round and if needed absolute majority vote in a second round for a 6-year term (eligible for non-consecutive terms); last held on 31 October 2016 (next to be held in 2022); prime minister appointed by the president in consultation with the National Assembly; deputy prime minister determined during cabinet formation<br>
 _election results_: Michel AWN elected president in second round; National Assembly vote - Michel AWN (FPM) 83 votes; note - in the initial election held on 23 April 2014, no candidate received the required two-thirds vote, and subsequent attempts failed because the Assembly lacked the necessary quorum to hold a vote; the president was finally elected in its 46th attempt on 31 October 2016<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Majlis al-Nuwab in Arabic or Assemblee Nationale in French (128 seats; members directly elected by listed-based proportional representation vote; members serve 4-year terms); prior to 2017, the electoral system was by majoritarian vote<br>
+_elections_: last held on 6 May 2018 (next to be held in 2022)<br>
+_election results_: percent of vote by coalition - NA; seats by coalition &ndash; Strong Lebanon Bloc (Free Patriotic Movement-led) 25; Future Bloc (Future Movement-led) 20; Development and Liberation Bloc (Amal Movement-led) 16; Loyalty to the Resistance Bloc (Hizballah-led) 15; Strong Republic Bloc (Lebanese Forces-led) 15; Democratic Gathering (Progressive Socialist Party-led) 9; Independent Centre Bloc 4; National Bloc (Marada Movement-led) 3; Syrian Social Nationalist Party 3; Tashnaq 3; Kata&rsquo;ib 3; other 8; independent 4; &nbsp;composition - men 122, women 6, percent of women 4.6%<br>
+<strong>note:</strong> Lebanon’s constitution states the National Assembly cannot conduct regular business until it elects a president when the position is vacant<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Supreme Court (organized into 8 chambers, each with a presiding judge and 2 associate judges); Constitutional Council (consists of 10 members)<br>

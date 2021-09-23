@@ -288,7 +288,8 @@ _name_: Santiago; note - Valparaiso is the seat of the national legislature<br>
 _geographic coordinates_: 33 27 S, 70 40 W<br>
 _time difference_: UTC-3 (2 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins second Sunday in August; ends second Sunday in May; note - Punta Arenas observes DST throughout the year<br>
-<strong>note: </strong>Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5<strong><br><br>etymology: </strong>Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; "Santiago" derives from the local Galician evolution of the Vulgar Latin "Sanctu Iacobu"; Valparaiso derives from the Spanish "Valle Paraiso" meaning "Paradise Valley"<br><strong><br><br></strong><br>
+_time zone note_: Chile has three time zones: the continental portion at UTC-3; the southern Magallanes region, which does not use daylight savings time and remains at UTC-3 for the summer months; and Easter Island at UTC-5<strong><br></strong><br>
+_etymology_: Santiago is named after the biblical figure Saint James (ca. A.D. 3-44), patron saint of Spain, but especially revered in Galicia; "Santiago" derives from the local Galician evolution of the Vulgar Latin "Sanctu Iacobu"; Valparaiso derives from the Spanish "Valle Paraiso" meaning "Paradise Valley"<br>
 
 **Administrative divisions**<br>
 16 regions (regiones, singular - region); Aysen, Antofagasta, Araucania, Arica y Parinacota, Atacama, Biobio, Coquimbo, Libertador General Bernardo O'Higgins, Los Lagos, Los Rios, Magallanes y de la Antartica Chilena (Magallanes and Chilean Antarctica), Maule, Nuble, Region Metropolitana (Santiago), Tarapaca, Valparaiso<br>
@@ -319,17 +320,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 19 November 2017 (next to be held on 21 November 2021)<br>Chamber of Deputies - last held on 19 November 2017 (next to be held on 21 November 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%<br>
-
 **Executive branch**<br>
 _chief of state_: President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Sebastian PINERA Echenique (since 11 March 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held on 21 November 2021 with runoff if need on 19 December)<br>
 _election results_: <br><em>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br><br><em>2013:</em> Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 19 November 2017 (next to be held on 21 November 2021)<br>Chamber of Deputies - last held on 19 November 2017 (next to be held on 21 November 2021)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)<br>

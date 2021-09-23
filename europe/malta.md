@@ -279,7 +279,7 @@ _name_: Valletta<br>
 _geographic coordinates_: 35 53 N, 14 30 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565<br>
+_etymology_: named in honor of Jean de Valette, the Grand Master of the Order of Saint John (crusader knights), who successfully led a defense of the island from an Ottoman invasion in 1565<br>
 
 **Administrative divisions**<br>
 68 localities (Il-lokalita); Attard, Balzan, Birgu, Birkirkara, Birzebbuga, Bormla, Dingli, Fgura, Floriana, Fontana, Ghajnsielem, Gharb, Gharghur, Ghasri, Ghaxaq, Gudja, Gzira, Hamrun, Iklin, Imdina, Imgarr, Imqabba, Imsida, Imtarfa, Isla, Kalkara, Kercem, Kirkop, Lija, Luqa, Marsa, Marsaskala, Marsaxlokk, Mellieha, Mosta, Munxar, Nadur, Naxxar, Paola, Pembroke, Pieta, Qala, Qormi, Qrendi, Rabat, Rabat (Ghawdex), Safi, San Giljan/Saint Julian, San Gwann/Saint John, San Lawrenz/Saint Lawrence, Sannat, San Pawl il-Bahar/Saint Paul's Bay, Santa Lucija/Saint Lucia, Santa Venera/Saint Venera, Siggiewi, Sliema, Swieqi, Tarxien, Ta' Xbiex, Valletta, Xaghra, Xewkija, Xghajra, Zabbar, Zebbug, Zebbug (Ghawdex), Zejtun, Zurrieq<br>
@@ -309,17 +309,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age (16 in local council elections); universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
-_elections_: last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
-_election results_: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%<br>
-
 **Executive branch**<br>
 _chief of state_: President George VELLA (since 4 April 2019)&nbsp;<br>
 _head of government_: &nbsp;Prime Minister Robert ABELA (13 January 2020)&nbsp;<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
 _election results_: George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
+_elections_: last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
+_election results_: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of either 1 or 3 judges); Constitutional Court (consists of 3 judges); Court of Criminal Appeal (consists of either 1 or 3 judges)<br>
@@ -651,11 +651,11 @@ _container port(s) (TEUs)_: Marsaxlokk (2,722,889) (2019)<br>
 Armed Forces of Malta (AFM, includes land, maritime, and air elements, plus a Volunteer Reserve Force) (2021)<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2020)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
 0.5% of GDP (2017)<br>
 0.5% of GDP (2016)<br>
-0.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Malta have approximately 2,000 active duty personnel (2021)<br>

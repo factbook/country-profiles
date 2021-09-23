@@ -219,17 +219,17 @@ _local short form_: Guahan<br>
 _abbreviation_: GU<br>
 _etymology_: the native Chamorro name for the island "Guahan" (meaning "we have" or "ours") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US<br>
 
-**Dependency status**<br>
-unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
-
 **Government type**<br>
 republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
+
+**Dependency status**<br>
+unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
 
 **Capital**<br>
 _name_: Hagatna (Agana)<br>
 _geographic coordinates_: 13 28 N, 144 44 E<br>
 _time difference_: UTC+10 (15 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name is derived from the Chamoru word "haga," meaning "blood", and may refer to the bloodlines of the various families that established the original settlement<br>
+_etymology_: the name is derived from the Chamoru word "haga," meaning "blood", and may refer to the bloodlines of the various families that established the original settlement<br>
 
 **Administrative divisions**<br>
 none (territory of the US)<br>
@@ -253,18 +253,18 @@ see United States<br>
 **Suffrage**<br>
 18 years of age; universal; note - Guamanians are US citizens but do not vote in US presidential elections<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>
-_elections_: last held on 6 November 2018 (next to be held on 3 November 2020)<br>
-_election results_: percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>
-<strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man<br>
-
 **Executive branch**<br>
 _chief of state_: <p>President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)</p><br>
 _head of government_: Governor Lourdes LEON GUERRERO (since 7 January 2019); Lieutenant Governor Josh TENORIO (since 7 January 2019)<br>
 _cabinet_: Cabinet appointed by the governor with the consent of the Legislature<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as Guam, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for 2 consecutive terms); election last held on 6 November 2018 (next to be held in November 2022)<br>
 _election results_: Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>
+_elections_: last held on 6 November 2018 (next to be held on 3 November 2020)<br>
+_election results_: percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>
+<strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>

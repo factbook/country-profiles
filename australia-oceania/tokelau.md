@@ -185,11 +185,11 @@ _conventional short form_: Tokelau<br>
 _former_: Union Islands, Tokelau Islands<br>
 _etymology_: "tokelau" is a Polynesian word meaning "north wind"<br>
 
-**Dependency status**<br>
-self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status<br>
-
 **Government type**<br>
 <p>parliamentary democracy under a constitutional monarchy</p><br>
+
+**Dependency status**<br>
+self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not meet the two-thirds majority vote necessary for changing the political status<br>
 
 **Capital**<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC during Standard Time)<br>
@@ -217,17 +217,17 @@ see New Zealand<br>
 **Suffrage**<br>
 21 years of age; universal<br>
 
+**Executive branch**<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Patricia Lee REDDY (since 28 September 2016); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
+_head of government_: (Ulu o Tokelau) Kelihiano KALOLO (since 8 March 2021); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
+_cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
+<strong>note:</strong> the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
+
 **Legislative branch**<br>
 _description_: unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono<br>
 _elections_: last held on 23 January 2020 depending on island (next to be held in January 2023)<br>
 _election results_: percent of vote by party - NA; seats by party - independent 20; composition - men 17, women 3, percent of women 15%<br>
-
-**Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Governor General Dame Patricia Lee REDDY (since 28 September 2016); New Zealand is represented by Administrator Ross ARDERN (since May 2018)<br>
-_head of government_: (Ulu o Tokelau) Fofo Filipo TUISANO (since 9 March 2020); note - position rotates annually among the three Faipule (village leaders) of the atolls<br>
-_cabinet_: Council for the Ongoing Government of Tokelau (or Tokelau Council) functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term<br>
-<strong>note:</strong> the meeting place of the Tokelau Council rotates annually among the three atolls; this tradition has given rise to the somewhat misleading description that the capital rotates yearly between the three atolls; in actuality, it is the seat of the government councilors that rotates since Tokelau has no capital<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (in New Zealand) (consists of the court president and 8 judges sitting in 3- or 5-judge panels, depending on the case)<br>

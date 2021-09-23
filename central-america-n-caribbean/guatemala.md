@@ -297,7 +297,7 @@ presidential republic<br>
 _name_: Guatemala City<br>
 _geographic coordinates_: 14 37 N, 90 31 W<br>
 _time difference_: UTC-6 (1 hour behind Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country<br>
+_etymology_: the Spanish conquistadors used many native Americans as allies in their conquest of Guatemala; the site of their first capital (established in 1524), a former Maya settlement, was called "Quauhtemallan" by their Nahuatl-speaking Mexican allies, a name that means "land of trees" or "forested land", but which the Spanish pronounced "Guatemala"; the Spanish applied that name to a re founded capital city three years later and eventually it became the name of the country<br>
 
 **Administrative divisions**<br>
 22 departments (departamentos, singular - departamento); Alta Verapaz, Baja Verapaz, Chimaltenango, Chiquimula, El Progreso, Escuintla, Guatemala, Huehuetenango, Izabal, Jalapa, Jutiapa, Peten, Quetzaltenango, Quiche, Retalhuleu, Sacatepequez, San Marcos, Santa Rosa, Solola, Suchitepequez, Totonicapan, Zacapa<br>
@@ -327,17 +327,17 @@ _residency requirement for naturalization_: 5 years with no absences of six cons
 **Suffrage**<br>
 18 years of age; universal; note - active duty members of the armed forces and police by law cannot vote and are restricted to their barracks on election day<br>
 
-**Legislative branch**<br>
-_description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
-_elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Alejandro GIAMMATTEI (since 14 January 2020); Vice President&nbsp;Cesar Guillermo CASTILLO Reyes&nbsp;(since 14 January 2020)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (not eligible for consecutive terms); election last held on 16 June 2019 with a runoff on 11 August 2019 (next to be held in June 2023)<br>
-_election results_: <em>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%<br><br><em>2015:</em> Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6%<br>
+_election results_: <em><br>2019:</em> Alejandro GIAMMATTEI elected president; percent of vote in first round - Sandra TORRES (UNE) 25.54%, Alejandro GIAMMATTEI (VAMOS) 13.95%, Edmond MULET (PHG) 11.21%, Thelma CABRERA (MLP) 10.37%, Roberto ARZU (PAN-PODEMOS) 6.08%; percent of vote in second round - Alejandro GIAMMATTEI (VAMOS) 58%, Sandra TORRES (UNE) 42%<br><br><em>2015:</em> Jimmy Ernesto MORALES Cabrera elected president in second round; percent of vote in first round - Jimmy Ernesto MORALES Cabrera (FNC) 23.9%, Sandra TORRES (UNE) 19.8%, Manuel BALDIZON (LIDER) 19.6%, other 36.7%; percent of vote in second round - Jimmy Ernesto MORALES Cabrera 67.4%, Sandra TORRES 32.6%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Congress of the Republic or Congreso de la Republica (160 seats; 128 members directly elected in multi-seat constituencies in the country's 22 departments and 32 directly elected in a single nationwide constituency by closed party-list proportional representation vote, using the D'Hondt method; members serve 4-year terms)<br>
+_elections_: last held on 16 June 2019 (next to be held on June 2023)<br>
+_election results_: percent of vote by party - NA; seats by party - UNE 53, VAMOS 16, UCN 12, VALOR 9, BIEN 8, FCN-NACION 8, SEMILLA 7, TODOS 7, VIVA 7, CREO 6, PHG 6, VICTORIA 4, Winaq 4, PC 3, PU 3, URNG 3, PAN 2, MLP 1, PODEMOS 1; composition - men 129, women 31, percent of women 19.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 13 magistrates, including the court president and organized into 3 chambers); note - the court president also supervises trial judges countrywide; Constitutional Court or Corte de Constitucionalidad (consists of 5 titular magistrates and 5 substitute magistrates)<br>

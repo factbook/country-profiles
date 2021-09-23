@@ -259,7 +259,7 @@ absolute monarchy or sultanate<br>
 _name_: Bandar Seri Begawan<br>
 _geographic coordinates_: 4 53 N, 114 56 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The Father of Independence") who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" in Malay means "town" or "city"; the capital had previously been called Bandar Brunei (Brunei Town)<br>
+_etymology_: named in 1970 after Sultan Omar Ali SAIFUDDIEN III (1914-1986; "The Father of Independence") who adopted the title of "Seri Begawan" (approximate meaning "honored lord") upon his abdication in 1967; "bandar" in Malay means "town" or "city"; the capital had previously been called Bandar Brunei (Brunei Town)<br>
 
 **Administrative divisions**<br>
 4 districts (daerah-daerah, singular - daerah); Belait, Brunei dan Muara, Temburong, Tutong<br>
@@ -289,16 +289,16 @@ _residency requirement for naturalization_: 12 years<br>
 **Suffrage**<br>
 18 years of age for village elections; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
-_elections_: appointed by the sultan<br>
-_election results_: NA; composition (as of July 2021) - men 30, women 3, percent of women 9.1%<br>
-
 **Executive branch**<br>
 _chief of state_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967); note - the monarch is both chief of state and head of government<br>
 _head of government_: Sultan and Prime Minister Sir HASSANAL Bolkiah (since 5 October 1967)<br>
 _cabinet_: Council of Ministers appointed and presided over by the monarch; note(s)- 4 additional advisory councils appointed by the monarch are the Religious Council, Privy Council for constitutional issues, Council of Succession, and Legislative Council; Sultan and Prime Minister Sir HASSANAL Bolkiah is also Minister of Finance, Defense, and Foreign Affairs and Trade<br>
 _elections/appointments_: none; the monarchy is hereditary<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Council or Majlis Mesyuarat Negara Brunei (33 seats; 20 members appointed by the sultan from ex-officio cabinet ministers, titled people, and prominent citizens in public service and various professional fields and 13 members from 4 multi-seat constituencies, and 3 ex-officio members - the speaker and first and second secretaries<br>
+_elections_: appointed by the sultan<br>
+_election results_: NA; composition (as of July 2021) - men 30, women 3, percent of women 9.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Court of Appeal and the High Court, each with a chief justice and 2 judges); Sharia Court (consists the Court of Appeals and the High Court); note - Brunei has a dual judicial system of secular and sharia (religious) courts; the Judicial Committee of Privy Council (in London) serves as the final appellate court for civil cases only<br>
@@ -638,11 +638,11 @@ the Royal Brunei Armed Forces is comprised of approximately 6,500 total active t
 **Military equipment inventories and acquisitions**<br>
 the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; the top supplier since 2010 is Germany (2020)<br>
 
-**Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2019)<br>
-
 **Military - note**<br>
 Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2020)<br>
+
+**Military service age and obligation**<br>
+17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2019)<br>
 
 ## Transnational Issues
 

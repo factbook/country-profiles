@@ -211,7 +211,7 @@ semi-presidential republic<br>
 _name_: Taipei<br>
 _geographic coordinates_: 25 02 N, 121 31 E<br>
 _time difference_: UTC+8 (13 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the Chinese meaning is "Northern Taiwan," reflecting the city's position in the far north of the island<br>
+_etymology_: the Chinese meaning is "Northern Taiwan," reflecting the city's position in the far north of the island<br>
 
 **Administrative divisions**<br>
 <p>includes main island of Taiwan plus smaller islands nearby and off coast of China's Fujian Province; Taiwan is divided into 13 counties (xian, singular and plural), 3 cities (shi, singular and plural), and 6 special municipalities directly under the jurisdiction of the Executive Yuan</p> <p><strong>counties:</strong> Changhua, Chiayi, Hsinchu, Hualien, Kinmen, Lienchiang, Miaoli, Nantou, Penghu, Pingtung, Taitung, Yilan, Yunlin</p> <p><strong>cities:</strong> Chiayi, Hsinchu, Keelung</p> <p><strong>special municipalities:</strong> Kaohsiung (city), New Taipei (city), Taichung (city), Tainan (city), Taipei (city), Taoyuan (city)</p><br>
@@ -239,17 +239,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 20 years of age; universal; note - in mid-2016, the Legislative Yuan drafted a constitutional amendment to reduce the voting age to 18, but it has not passed as of December 2017<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
-_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%; seats by party - DPP 61, KMT 38, TPP 5<br>
-
 **Executive branch**<br>
 _chief of state_: President TSAI Ing-wen (since 20 May 2016; re-elected on 11 Jan 2020); Vice President LAI Ching-te (since 20 May 2020)<br>
 _head of government_: Premier SU Tseng-chang (President of the Executive Yuan) (since 11 January 2019); Vice Premier SHEN Jong-chin, Vice President of the Executive Yuan (since 19 June 2020)<br>
 _cabinet_: Executive Yuan - ministers appointed by president on recommendation of premier<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 11 January 2020 (next to be held on 11 January 2024); premier appointed by the president; vice premiers appointed by the president on the recommendation of the premier<br>
 _election results_: TSAI Ing-wen elected president; percent of vote - TSAI Ing-wen (DPP) 57.1%, HAN Kuo-yu (KMT) 38.6%; note - TSAI is the first woman elected president of Taiwan<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
+_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%; seats by party - DPP 61, KMT 38, TPP 5<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>

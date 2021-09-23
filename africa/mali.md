@@ -305,7 +305,7 @@ semi-presidential republic<br>
 _name_: Bamako<br>
 _geographic coordinates_: 12 39 N, 8 00 W<br>
 _time difference_: UTC 0 (5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal<br>
+_etymology_: the name in the Bambara language can mean either "crocodile tail" or "crocodile river" and three crocodiles appear on the city seal<br>
 
 **Administrative divisions**<br>
 10 regions (regions, singular - region), 1 district*; District de Bamako*, Gao, Kayes, Kidal, Koulikoro, Menaka, Mopti, Segou, Sikasso, Taoudenni, Tombouctou (Timbuktu); note - Menaka and Taoudenni were legislated in 2016, but implementation has not been confirmed by the US Board on Geographic Names<br>
@@ -335,17 +335,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br><br>note - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA<br>
-_elections_: last held on 30 March and 19 April 2020 (prior to the August 2020 coup, the next election was scheduled to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - NA composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: Transitional President Assimi GOITA (since 7 June 2021)<br><br>note: an August 2020 coup d'etat deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transitional president; GOITA served as vice president of the transitional government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021<br>
 _head of government_: Transitional Prime Minister Choguel MAIGA (appointed by Transitional President Assimi GOITA on 7 June 2021)<br><br>note: former Prime Minister Moctar OUANE was arrested and detained by the military on 24 May 2021 and resigned on 26 May 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with a runoff on 12 August 2018 (next to be held February 2022); prime minister appointed by the president<br>
 _election results_: Ibrahim Boubacar KEITA elected president in second round; percent of vote - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br><br>note - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA<br>
+_elections_: last held on 30 March and 19 April 2020 (prior to the August 2020 coup, the next election was scheduled to be held in 2025)<br>
+_election results_: percent of vote by party - NA; seats by party - NA composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (consists of 19 judges organized into judicial, administrative, and accounting sectons); Constitutional Court (consists of 9 judges)<br>
@@ -679,11 +679,11 @@ Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol for
 note(s): the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; it has special units on camels (the Camel Corps) for patrolling the deserts and borders of northern Mali<br>
 
 **Military expenditures**<br>
+3.4% of GDP (2020 est.)<br>
 2.7% of GDP (2019)<br>
 2.9% of GDP (2018)<br>
 3% of GDP (2017)<br>
 2.6% of GDP (2016)<br>
-2.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 18,000 total troops (13,000 Army; 800 Air Force; 2,000 Gendarmerie; 2,000 National Guard) (2020)<br>

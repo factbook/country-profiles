@@ -268,7 +268,7 @@ parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth rea
 _name_: Bridgetown<br>
 _geographic coordinates_: 13 06 N, 59 37 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown<br>
+_etymology_: named after a bridge constructed over the swampy area (known as the Careenage) around the Constitution River that flows through the center of Bridgetown<br>
 
 **Administrative divisions**<br>
 11 parishes and 1 city*; Bridgetown*, Christ Church, Saint Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint Lucy, Saint Michael, Saint Peter, Saint Philip, Saint Thomas<br>
@@ -298,17 +298,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 24 May 2018 (next to be held in 2023)<br>
-_election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
-<strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sandra MASON (since 8 January 2018)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 24 May 2018 (next to be held in 2023)<br>
+_election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
+<strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>

@@ -302,7 +302,7 @@ _name_: Windhoek<br>
 _geographic coordinates_: 22 34 S, 17 05 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in September; ends first Sunday in April<br>
-<strong>etymology:</strong> may derive from the Afrikaans word "wind-hoek" meaning "windy corner"<br>
+_etymology_: may derive from the Afrikaans word "wind-hoek" meaning "windy corner"<br>
 
 **Administrative divisions**<br>
 14 regions; Erongo, Hardap, //Karas, Kavango East, Kavango West, Khomas, Kunene, Ohangwena, Omaheke, Omusati, Oshana, Oshikoto, Otjozondjupa, Zambezi; note - the Karas Region was renamed //Karas in September 2013 to include the alveolar lateral click of the Khoekhoegowab language<br>
@@ -332,17 +332,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
-_elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in 2024)<br>
-_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  Independent 1; composition - men 36, women 6, percent of women 16.6%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Hage GEINGOB (since 21 March 2015); Vice President Nangola MBUMBA (since 8 February 2018); Prime Minister Saara KUUGONGELWA-AMADHILA (since 21 March 2015)&nbsp;<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 November 2019 (next to be held in 2024)<br>
 _election results_: Hage GEINGOB elected president in the first round; percent of vote - Hage GEINGOB (SWAPO) 56.3%, Panduleni ITULA (Independent) 29.4%, McHenry VENAANI (PDM) 5.3%, Bernadus SWARTBOOI (LPM) 2.7%, Apius AUCHAB (UDF) 2.7%, Esther MUINJANGUE (NUDO) 1.5%, other 2%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
+_elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in 2024)<br>
+_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  Independent 1; composition - men 36, women 6, percent of women 16.6%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
@@ -683,11 +683,11 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 Namibian Defense Force (NDF): Army, Navy, Air Force; Namibian Police Force: Special Field Force (paramilitary unit responsible for protecting borders and government installations) (2021)<br>
 
 **Military expenditures**<br>
+3.4% of GDP (2020 est.)<br>
 3% of GDP (2019)<br>
 3.2% of GDP (2018)<br>
 3.4% of GDP (2017)<br>
 3.9% of GDP (2016)<br>
-4.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2020)<br>

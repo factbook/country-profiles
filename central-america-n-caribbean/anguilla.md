@@ -196,17 +196,17 @@ _conventional long form_: none<br>
 _conventional short form_: Anguilla<br>
 _etymology_: the name Anguilla means "eel" in various Romance languages (Spanish, Italian, Portuguese, French) and likely derives from the island's lengthy shape<br>
 
-**Dependency status**<br>
-overseas territory of the UK<br>
-
 **Government type**<br>
 parliamentary democracy (House of Assembly); self-governing overseas territory of the UK<br>
+
+**Dependency status**<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: The Valley<br>
 _geographic coordinates_: 18 13 N, 63 03 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name derives from the capital's location between several hills<br>
+_etymology_: name derives from the capital's location between several hills<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
@@ -230,16 +230,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex officio members - the attorney general and deputy governor; members serve five-year terms)<br>
-_elections_: last held on 29 June 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Dileeni DANIEL-SELVARATNAM<br>(since 18 January 2021)<br>
 _head of government_: Premier Dr. Ellis WEBSTER (since 30 June 2020); note -&nbsp; starting in 2019, the title of head of government was changed to premier from chief minister of Anguilla<br>
 _cabinet_: Executive Council appointed by the governor from among elected members of the House of Assembly<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Assembly (11 seats; 7 members directly elected in single-seat constituencies by simple majority vote, 2 appointed by the governor, and 2 ex officio members - the attorney general and deputy governor; members serve five-year terms)<br>
+_elections_: last held on 29 June 2020 (next to be held in 2025)<br>
+_election results_: percent of vote by party - NA; seats by party - APM 7, AUF 4; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, travelling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states, though none on Anguilla<br>

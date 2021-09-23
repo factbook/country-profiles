@@ -286,7 +286,7 @@ presidential republic<br>
 _name_: Algiers<br>
 _geographic coordinates_: 36 45 N, 3 03 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast but joined to the mainland since 1525<br>
+_etymology_: name derives from the Arabic "al-Jazair" meaning "the islands" and refers to the four islands formerly off the coast but joined to the mainland since 1525<br>
 
 **Administrative divisions**<br>
 58 provinces (wilayas, singular - wilaya); Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Beni Abbes, Biskra, Blida, Bordj Badji Mokhtar, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djanet, Djelfa, El Bayadh, El Meghaier, El Meniaa, El Oued, El Tarf, Ghardaia, Guelma, Illizi, In Guezzam, In Salah, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'Sila, Naama, Oran, Ouargla, Ouled Djellal, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Timimoun, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen, Touggourt<br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly (lower house with 407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
-_elections_: <br>Council of the Nation - last held on 29 December 2018 (next to be held in December 2021)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
-_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, EL Mostakbel 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021); note - President TEBBOUNE appointed BENABDERRAHMANE as prime minister following the resignation of Prime Minister Abdelaziz DJERAD on 24 June <h1> </h1> <h1> </h1> Abdelaziz DJERAD (since 28 December 2019)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
 _election results_: Abdelmadjid TEBBOUNE (NLF) 58.1%, Abdelkader BENGRINA (Movement of National Construction) 17.4%, Ali BENFLIS (Vanguard of Freedoms) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly (lower house with 407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
+_elections_: <br>Council of the Nation - last held on 29 December 2018 (next to be held in December 2021)<br>National People's Assembly - snap election held on 12 June 2021 (next to be held on 12 June 2026)<br>
+_election results_: <br>Council of the Nation - percent of vote by party - NA; seats by party - NA; composition - men 137, women 7, percent of women 5%,<br>National People's Assembly - percent of vote by party - NA; seats by party - FLN 98, MSP 65, RND 58, EL Mostakbel 48, Movement of National Construction 39, other 15, independent 84; composition - men 373, women 34, percent of women 8.4%; note - total Parliament percent of women 7.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Suprême, (consists of 150 judges organized into 8 chambers: Civil, Commercial and Maritime, Criminal, House of Offenses and Contraventions, House of Petitions, Land, Personal Status, and Social; Constitutional Council (consists of 12 members including the court chairman and deputy chairman); note - Algeria's judicial system does not include sharia courts<br>

@@ -296,7 +296,7 @@ _name_: Asuncion<br>
 _geographic coordinates_: 25 16 S, 57 40 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins first Sunday in October; ends last Sunday in March<br>
-<strong>etymology:</strong> the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)<br>
+_etymology_: the name means "assumption" and derives from the original name given to the city at its founding in 1537, Nuestra Senora Santa Maria de la Asuncion (Our Lady Saint Mary of the Assumption)<br>
 
 **Administrative divisions**<br>
 17 departments (departamentos, singular - departamento) and 1 capital city*; Alto Paraguay, Alto Parana, Amambay, Asuncion*, Boqueron, Caaguazu, Caazapa, Canindeyu, Central, Concepcion, Cordillera, Guaira, Itapua, Misiones, Neembucu, Paraguari, Presidente Hayes, San Pedro<br>
@@ -326,17 +326,17 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory until the age of 75<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
-_elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023)<br>Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 36, women 9, percent of women 20%<br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 18.4%<br>
-
 **Executive branch**<br>
 _chief of state_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023)<br>
 _election results_: <br><em>2018:</em> Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 46.4%, Efrain ALEGRE (PLRA) 42.7%, Juan Bautista YBANEZ 3.3%, other 7.6%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
+_elections_: <br>Chamber of Senators - last held on 22 April 2018 (next to be held in April 2023)<br>Chamber of Deputies - last held on 22 April 2018 (next to be held in April 2023)<br>
+_election results_: <br>Chamber of Senators - percent of vote by party/coalition - ANR 32.52%, PLRA 24.18%, FG 11.83%, PPQ 6.77%, MH 4.47%, PDP 3.66%, MCN 2.48%, UNACE 2.12%, other 11.97%; seats by party/coalition - ANR 17, PLRA 13, FG 6, PPQ 3, MH 2, PDP 2, MCN 1, UNACE 1; composition - men 36, women 9, percent of women 20%<br>Chamber of Deputies - percent of vote by party/coalition - ANR 39.1%, PLRA 17.74%, Ganar Alliance 12.08%, PPQ 4.46%, MH 3.19%; other 23.43%; seats by party/coalition - ANR 42, PLRA 17, Ganar Alliance 13, PPQ 3, MH 2, other 3; composition - men 66, women 14, percent of women 17.5%; note - total National Congress percent of women 18.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (consists of 9 justices divided 3 each into the Constitutional Court, Civil and Commercial Chamber, and Criminal Division)<br>
@@ -689,11 +689,11 @@ the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 A
 **Military equipment inventories and acquisitions**<br>
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from Argentina, Brazil, Israel, Taiwan, and the US (2020)<br>
 
-**Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2016)<br>
-
 **Military - note**<br>
 as of late 2020, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country<br>
+
+**Military service age and obligation**<br>
+18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2016)<br>
 
 ## Transnational Issues
 

@@ -303,7 +303,7 @@ federal parliamentary republic<br>
 _name_: New Delhi<br>
 _geographic coordinates_: 28 36 N, 77 12 E<br>
 _time difference_: UTC+5.5 (10.5 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
+_etymology_: he city's name is associated with various myths and legends; the original name for the city may have been Dhilli or Dhillika; alternatively, the name could be a corruption of the Hindustani words "dehleez" or "dehali" - both terms meaning "threshold" or "gateway" - and indicative of the city as a gateway to the Gangetic Plain; after the British decided to move the capital of their Indian Empire from Calcutta to Delhi in 1911, they created a new governmental district south of the latter designated as New Delhi; the new capital was not formally inaugurated until 1931<br>
 
 **Administrative divisions**<br>
 28 states and 8 union territories*; Andaman and Nicobar Islands*, Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chandigarh*, Chhattisgarh, Dadra and Nagar Haveli and Daman and Diu*, Delhi*, Goa, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir*, Jharkhand, Karnataka, Kerala, Ladakh*, Lakshadweep*, Madhya Pradesh, Maharashtra, Manipur, Meghalaya, Mizoram, Nagaland, Odisha, Puducherry*, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttar Pradesh, Uttarakhand, West Bengal<br>
@@ -334,17 +334,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
-_elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic and rescheduled throughout 2021 to fill expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
-_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
-
 **Executive branch**<br>
 _chief of state_: President Ram Nath KOVIND (since 25 July 2017); Vice President M. Venkaiah NAIDU (since 11 August 2017)&nbsp;<br>
 _head of government_: Prime Minister Narendra MODI (since 26 May 2014)&nbsp;<br>
 _cabinet_: Union Council of Ministers recommended by the prime minister, appointed by the president<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 17 July 2017 (next to be held in July 2022); vice president indirectly elected by an electoral college consisting of elected members of both houses of Parliament for a 5-year term (no term limits); election last held on 5 August 2017 (next to be held in August 2022); following legislative elections, the prime minister is elected by Lok Sabha members of the majority party<br>
 _election results_: Ram Nath KOVIND elected president; percent of electoral college vote - Ram Nath KOVIND (BJP) 65.7% Meira KUMAR (INC) 34.3%; M. Venkaiah NAIDU elected vice president; electoral college vote - M. Venkaiah NAIDU (BJP) 516, Gopalkrishna GANDHI (independent) 244<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Sansad consists of:<br>Council of States or Rajya Sabha (245 seats; 233 members indirectly elected by state and territorial assemblies by proportional representation vote and 12 members appointed by the president; members serve 6-year terms)<br>House of the People or Lok Sabha (545 seats; 543 members directly elected in single-seat constituencies by simple majority vote and 2 appointed by the president; members serve 5-year terms)<br>
+_elections_: Council of States - last held by state and territorial assemblies at various dates in 2019 (next originally scheduled for March, June, and November 2020 but were postponed due to the COVID-19 pandemic and rescheduled throughout 2021 to fill expiry seats)<br><br>House of the People - last held April-May 2019 in 7 phases (next to be held in 2024)<br>
+_election results_: Council of States - percent of vote by party - NA; seats by party - BJP 83, INC 46, AITC 13, DMK 11, SP, other 77, independent 6; composition - men 220, women 25, percent of women 10.2%<br><br>House of the People - percent of vote by party - BJP 55.8%, INC 9.6%, AITC 4.4%, YSRC 4.4%, DMK 4.2%, SS 3.3%, JDU 2.9%, BJD 2.2%, BSP 1.8%, TRS 1.7%, LJP 1.1%, NCP 0.9%, SP 0.9%, other 6.4%, independent 0.7%; seats by party - BJP 303, INC 52, DMK 24, AITC 22, YSRC 22, SS 18, JDU 16, BJD 12, BSP 10, TRS 9, LJP 6, NCP 5, SP 5, other 35, independent 4, vacant 2; composition - men 465, women 78, percent of women 14.3%; note - total Parliament percent of women 11.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 28 judges, including the chief justice)<br>
@@ -707,7 +707,7 @@ Indian Armed Forces: Army, Navy, Air Force, Coast Guard; Defense Security Corps 
 note - the Assam Rifles are under the administrative control of the Ministry of Home Affairs, while operational control falls under the Ministry of Defense (Indian Army)<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2020 est.)<br>
+2.6% of GDP (2020 est.)<br>
 2.4% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
 2.5% of GDP (2017)<br>

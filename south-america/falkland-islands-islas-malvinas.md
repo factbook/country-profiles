@@ -182,17 +182,17 @@ _conventional long form_: none<br>
 _conventional short form_: Falkland Islands (Islas Malvinas)<br>
 _etymology_: the archipelago takes its name from the Falkland Sound, the strait separating the two main islands; the channel itself was named after the Viscount of Falkland, who sponsored an expedition to the islands in 1690; the Spanish name for the archipelago derives from the French "Iles Malouines," the name applied to the islands by French explorer Louis-Antoine de BOUGAINVILLE in 1764<br>
 
-**Dependency status**<br>
-overseas territory of the UK; also claimed by Argentina<br>
-
 **Government type**<br>
 parliamentary democracy (Legislative Assembly); self-governing overseas territory of the UK<br>
+
+**Dependency status**<br>
+overseas territory of the UK; also claimed by Argentina<br>
 
 **Capital**<br>
 _name_: Stanley<br>
 _geographic coordinates_: 51 42 S, 57 51 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands<br>
+_etymology_: named after Edward SMITH-STANLEY (1799-1869), the 14th Earl of Derby, a British statesman and three-time prime minister of the UK who never visited the islands<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK; also claimed by Argentina)<br>
@@ -215,16 +215,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -  the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br><br>
-_elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
-_election results_: percent of vote - NA; seats - independent 8; composition (elected members) -men 8, women 2, percent of women 20%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Nigel PHILLIPS (since 12 September 2017)<br>
 _head of government_: Chief Executive Barry ROWLAND (since 3 October 2016)<br>
 _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -  the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br><br>
+_elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
+_election results_: percent of vote - NA; seats - independent 8; composition (elected members) -men 8, women 2, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president, the chief justice as an ex officio, non-resident member, and 2 justices of appeal); Supreme Court (consists of the chief justice); note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>

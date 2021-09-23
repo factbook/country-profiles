@@ -307,7 +307,7 @@ presidential republic<br>
 _name_: Dar es Salaam (administrative capital), Dodoma (legislative capital); note - Dodoma was designated the national capital in 1996 and serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation; the government contends that it will complete the transfer of the executive branch to Dodoma by 2020<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
+_etymology_: Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>
 
 **Administrative divisions**<br>
 31 regions; Arusha, Dar es Salaam, Dodoma, Geita, Iringa, Kagera, Kaskazini Pemba (Pemba North), Kaskazini Unguja (Zanzibar North), Katavi, Kigoma, Kilimanjaro, Kusini Pemba (Pemba South), Kusini Unguja (Zanzibar Central/South), Lindi, Manyara, Mara, Mbeya, Mjini Magharibi (Zanzibar Urban/West), Morogoro, Mtwara, Mwanza, Njombe, Pwani (Coast), Rukwa, Ruvuma, Shinyanga, Simiyu, Singida, Songwe, Tabora, Tanga<br>
@@ -337,11 +337,6 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
-_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016<br>
-_election results_: National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); note - the president is both chief of state and head of government<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
@@ -349,6 +344,11 @@ _cabinet_: Cabinet appointed by the president from among members of the National
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held 28 October 2020); prime minister appointed by the president<br>
 _election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note:</strong> Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
+_elections_: Tanzania National Assembly and Zanzibar House of Representatives - elections last held on 25 October 2015 (next National Assembly election to be held in October 2020; next Zanzibar election either October 2020 or March 2021); note the Zanzibar Electoral Commission annulled the 2015 election; repoll held on 20 March 2016<br>
+_election results_: National Assembly - percent of vote by party - CCM 55%, Chadema 31.8%, CUF 8.6%, other 4.6%; seats by party - CCM 253, Chadema 70, CUF 42, other 2; composition as of September 2018 - men 245, women 145, percent of women 37.2%<br><br>Zanzibar House of Representatives - percent of vote by party - NA; seats by party - NA; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal of the United Republic of Tanzania (consists of the chief justice and 14 justices); High Court of the United Republic for Mainland Tanzania (consists of the principal judge and 30 judges organized into commercial, land, and labor courts); High Court of Zanzibar (consists of the chief justice and 10 justices)<br>
@@ -695,11 +695,11 @@ Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): 
 note: the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020 est.)<br>
 1.3% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
 1.1% of GDP (2017)<br>
 1.1% of GDP (2016)<br>
-1.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Tanzania People's Defense Forces (TPDF) have an estimated 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2020)<br>

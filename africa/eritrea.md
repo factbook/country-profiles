@@ -282,7 +282,7 @@ presidential republic<br>
 _name_: Asmara<br>
 _geographic coordinates_: 15 20 N, 38 56 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name means "they [women] made them unite," which according to Tigrinya oral tradition refers to the women of the four clans in the Asmara area who persuaded their menfolk to unite and defeat their common enemy; the name has also been translated as "live in peace"<br>
+_etymology_: the name means "they [women] made them unite," which according to Tigrinya oral tradition refers to the women of the four clans in the Asmara area who persuaded their menfolk to unite and defeat their common enemy; the name has also been translated as "live in peace"<br>
 
 **Administrative divisions**<br>
 6 regions (zobatat, singular - zoba); Anseba, Debub (South), Debubawi K'eyih Bahri (Southern Red Sea), Gash Barka, Ma'akel (Central), Semenawi K'eyih Bahri (Northern Red Sea)<br>
@@ -312,17 +312,17 @@ _residency requirement for naturalization_: 20 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members indirectly elected by the ruling party and 75 directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2020, there was no sitting legislative body<br>
-_election results_: NA<br>
-
 **Executive branch**<br>
 _chief of state_: President ISAIAS Afwerki (since 8 June 1993); note - the president is both chief of state and head of government and is head of the State Council and National Assembly<br>
 _head of government_: President ISAIAS Afwerki (since 8 June 1993)<br>
 _cabinet_: State Council appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); the only election was held on 8 June 1993, following independence from Ethiopia (next election postponed indefinitely)<br>
 _election results_: ISAIAS Afwerki elected president by the transitional National Assembly; percent of National Assembly vote - ISAIAS &nbsp;Afwerki (PFDJ) 95%, other 5%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members indirectly elected by the ruling party and 75 directly elected by simple majority vote; members serve 5-year terms)<br>
+_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2020, there was no sitting legislative body<br>
+_election results_: NA<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court (consists of 20 judges and organized into civil, commercial, criminal, labor, administrative, and customary sections)<br>
@@ -336,7 +336,7 @@ People's Front for Democracy and Justice or PFDJ [ISAIAS Afwerki] (the only part
 ACP, AfDB, AU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), IDA, IFAD, IFC, IFRCS (observer), ILO, IMF, IMO, Interpol, IOC, ISO (correspondent), ITU, ITUC (NGOs), LAS (observer), MIGA, NAM, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires BERHANE Gebrehiwet Solomon (since 15 March 2011)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Berhane Gebrehiwet SOLOMON (since 15 March 2011)<br>
 _chancery_: 1708 New Hampshire Avenue NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 319-1991<br>
 _FAX_: [1] (202) 319-1304<br>

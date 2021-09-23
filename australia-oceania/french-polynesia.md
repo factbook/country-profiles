@@ -223,17 +223,17 @@ _local short form_: Polynesie Francaise<br>
 _former_: Establishments in Oceania, French Establishments in Oceania<br>
 _etymology_: the term "Polynesia" is an 18th-century construct composed of two Greek words, "poly" (many) and "nesoi" (islands), and refers to the more than 1,000 islands scattered over the central and southern Pacific Ocean<br>
 
-**Dependency status**<br>
-overseas country of France; note - overseas territory of France from 1946-2003; overseas collectivity of France since 2003, though it is often referred to as an overseas country due to its degree of autonomy<br>
-
 **Government type**<br>
 parliamentary democracy (Assembly of French Polynesia); an overseas collectivity of France<br>
+
+**Dependency status**<br>
+overseas country of France; note - overseas territory of France from 1946-2003; overseas collectivity of France since 2003, though it is often referred to as an overseas country due to its degree of autonomy<br>
 
 **Capital**<br>
 _name_: Papeete (located on Tahiti)<br>
 _geographic coordinates_: 17 32 S, 149 34 W<br>
 _time difference_: UTC-10 (5 hours behind Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name means "water basket" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area<br>
+_etymology_: the name means "water basket" and refers to the fact that the islanders originally used calabashes enclosed in baskets to fetch water at a spring in the area<br>
 
 **Administrative divisions**<br>
 5 administrative subdivisions (subdivisions administratives, singular - subdivision administrative): Iles Australes (Austral Islands), Iles du Vent (Windward Islands), Iles Marquises (Marquesas Islands), Iles Sous-le-Vent (Leeward Islands), Iles Tuamotu-Gambier; note - the Leeward Islands and the Windward Islands together make up the Society Islands (Iles de la Societe)<br>
@@ -257,16 +257,16 @@ see France<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)<br> <br> <br> <br> <br>French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
-_elections_: <p>Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)<br>French Senate - last held in September 2017 (next to be held in September 2020)<br>French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)</p><br>
-_election results_: <p>Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%<br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%<br>French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%</p><br>
-
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017), represented by High Commissioner of the Republic Dominique SORAIN (since 10 July 2019)<br>
 _head of government_: President of French Polynesia Edouard FRITCH (since 12 September 2014)<br>
 _cabinet_: Council of Ministers approved by the Assembly from a list of its members submitted by the president<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); high commissioner appointed by the French president on the advice of the French Ministry of Interior; French Polynesia president indirectly elected by Assembly of French Polynesia for a 5-year term (no term limits)<br>
+
+**Legislative branch**<br>
+_description_: unicameral Assembly of French Polynesia or Assemblée de la Polynésie française (57 seats; elections held in 2 rounds; in the second round, 38 members directly elected in multi-seat constituencies by a closed-list proportional representation vote; the party receiving the most votes gets an additional 19 seats; members serve 5-year terms)<br> <br> <br> <br> <br>French Polynesia indirectly elects 2 senators to the French Senate via an electoral college by absolute majority vote for 6-year terms with one-half the membership renewed every 3 years and directly elects 3 deputies to the French National Assembly by absolute majority vote in 2 rounds if needed for 5-year terms<br>
+_elections_: <p>Assembly of French Polynesia - last held on 22 April 2018 and 6 May 2018 (next to be held in 2023)<br>French Senate - last held in September 2017 (next to be held in September 2020)<br>French National Assembly - last held in 2 rounds on 3 and 17 June 2017 (next to be held in 2022)</p><br>
+_election results_: <p>Assembly of French Polynesia - percent of vote by party - Tapura Huiraatira 45.1%, Popular Rally 29.3%, Tavini Huiraatira 25.6%; seats by party - Tapura Huiraatira 38, Popular Rally 11, Tavini Huiraatira 8; composition - men 27, women 30, percent of women 52.6%<br>French Senate - percent of vote by party - NA; seats by party - Popular Rally 1, People's Servant Party 1; composition - men 246, women 102, percent of women 29.3%<br>French National Assembly - percent of vote by party - NA; seats by party - Tapura Huiractura 2, Tavini Huiraatura 1; composition - men 353, women 224, percent of women 38.8%; note - total Parliament percent of women 20%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal or Cour d'Appel (composition NA); note - appeals beyond the French Polynesia Court of Appeal are heard by the Court of Cassation (in Paris)<br>

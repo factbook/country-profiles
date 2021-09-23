@@ -306,7 +306,7 @@ semi-presidential republic<br>
 _name_: Niamey<br>
 _geographic coordinates_: 13 31 N, 2 07 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"<br>
+_etymology_: according to tradition, the site was originally a fishing village named after a prominent local tree referred to as "nia niam"<br>
 
 **Administrative divisions**<br>
 7 regions (regions, singular - region) and 1 capital district* (communaute urbaine); Agadez, Diffa, Dosso, Maradi, Niamey*, Tahoua, Tillaberi, Zinder<br>
@@ -336,17 +336,17 @@ _residency requirement for naturalization_: unknown<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Assemblee Nationale (171 seats; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
-_elections_: last held on 21 February 2016 (next to be held on 27 December 2020)<br>
-_election results_: percent of vote by party - PNDS-Tarrayya 44.1%, MODEN/FA Lumana 14.7%, MNSD-Nassara 11.8%, MPR-Jamhuriya 7.1%, MNRD Hankuri-PSDN Alheri 3.5%, MPN-Kishin Kassa 2.9%, ANDP-Zaman Lahiya 2.4%, RSD-Gaskiya 2.4%, CDS-Rahama 1.8%, CPR-Inganci 1.8%, RDP-Jama'a 1.8%, AMEN AMIN 1.8%, other 3.9%; seats by party - PNDS-Tarrayya 75, MODEN/FA Lumana 25, MNSD-Nassara 20, MPR-Jamhuriya 12, MNRD Hankuri-PSDN Alheri 6, MPN-Kishin Kassa 5, ANDP-Zaman Lahiya 4, RSD-Gaskiya 4, CDS-Rahama 3, CPR-Inganci 3, RDP-Jama'a 3, RDP-Jama'a 3, AMEN AMIN 3, other 8; composition - men 146, women 24 percent of women 14.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Mohamed BAZOUM (since 2 April 2021)<br>
 _head of government_: Prime Minister Ouhoumoudou MAHAMADOU (since 3 April 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff scheduled for 21 February 2021; prime minister appointed by the president, authorized by the National Assembly<br>
 _election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.33%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 8.95%, Albade ABOUDA (MPR-Jamhuriya) 7.07%<br><br>2016 results: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Assemblee Nationale (171 seats; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
+_elections_: last held on 21 February 2016 (next to be held on 27 December 2020)<br>
+_election results_: percent of vote by party - PNDS-Tarrayya 44.1%, MODEN/FA Lumana 14.7%, MNSD-Nassara 11.8%, MPR-Jamhuriya 7.1%, MNRD Hankuri-PSDN Alheri 3.5%, MPN-Kishin Kassa 2.9%, ANDP-Zaman Lahiya 2.4%, RSD-Gaskiya 2.4%, CDS-Rahama 1.8%, CPR-Inganci 1.8%, RDP-Jama'a 1.8%, AMEN AMIN 1.8%, other 3.9%; seats by party - PNDS-Tarrayya 75, MODEN/FA Lumana 25, MNSD-Nassara 20, MPR-Jamhuriya 12, MNRD Hankuri-PSDN Alheri 6, MPN-Kishin Kassa 5, ANDP-Zaman Lahiya 4, RSD-Gaskiya 4, CDS-Rahama 3, CPR-Inganci 3, RDP-Jama'a 3, RDP-Jama'a 3, AMEN AMIN 3, other 8; composition - men 146, women 24 percent of women 14.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court (consists of 7 judges); High Court of Justice (consists of 7 members)<br>
@@ -685,11 +685,11 @@ Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force
 note: the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2020 est.)<br>
 1.8% of GDP (2019)<br>
 2.5% of GDP (2018)<br>
 2.5% of GDP (2017)<br>
 2.2% of GDP (2016)<br>
-2.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2020)<br>

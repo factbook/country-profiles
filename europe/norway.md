@@ -280,7 +280,7 @@ _name_: Oslo<br>
 _geographic coordinates_: 59 55 N, 10 45 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> the medieval name was spelt "Aslo"; the "as" component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); "lo" refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
+_etymology_: the medieval name was spelt "Aslo"; the "as" component refered either to the Ekeberg ridge southeast of the town ("as" in modern Norwegian), or to the Aesir (Norse gods); "lo" refered to "meadow," so the most likely interpretations would have been either "the meadow beneath the ridge" or "the meadow of the gods"; both explanations are considered equally plausible<br>
 
 **Administrative divisions**<br>
 18 counties (fylker, singular - fylke); Akershus, Aust-Agder, Buskerud, Finnmark, Hedmark, Hordaland, More og Romsdal, Nordland, Oppland, Oslo, Ostfold, Rogaland, Sogn og Fjordane, Telemark, Troms, Trondelag, Vest-Agder, Vestfold<br>
@@ -313,16 +313,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 September 2021 (next to be held in September 2025)<br>
-_election results_: percent of vote by party - Ap 27.4%, H 25%, FrP 15.2%, SP 10.3%, SV 6%, V 4.4%, KrF 4.2%, MDG 3.2%, R 2.4%, other/invalid 1.9%; seats by party - Ap 49, H 45, FrP 27, SP 19, SV 11, V 8, KrF 8, MDG 1, R 1; composition - men 99, women 70, percent of women 41.4%<br>
-
 **Executive branch**<br>
 _chief of state_: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)<br>
 _head of government_: Prime Minister Erna SOLBERG (since 16 October 2013)<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 13 September 2021 (next to be held in September 2025)<br>
+_election results_: <p>percent of vote by party - Ap 26.3%, H 20.4%, SP 13.5%, FrP 11.6%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF .2%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, V 8, R 8, KrF 3, MDG 3, PF 1</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -330,7 +330,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Kjell Ingolf ROPSTADT]<br>Conservative Party or H [Erna SOLBERG]<br>Green Party or MDG [Rasmus HANSSON and Une Aina BASTHOLM]<br>Labor Party or Ap [Jonas Gahr STORE]<br>Liberal Party or V [Trine SKEI GRANDE]<br>Progress Party or FrP [Siv JENSEN]<br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]<br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Kjell Ingolf ROPSTADT] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>

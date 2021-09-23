@@ -308,7 +308,7 @@ federal parliamentary republic<br>
 _name_: Addis Ababa<br>
 _geographic coordinates_: 9 02 N, 38 42 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding<br>
+_etymology_: the name in Amharic means "new flower" and was bestowed on the city in 1889, three years after its founding<br>
 
 **Administrative divisions**<br>
 10 ethnically based regional states (kililoch, singular - kilil) and 2 self-governing administrations* (astedaderoch, singular - astedader); Adis Abeba* (Addis Ababa), Afar, Amara (Amhara), Binshangul Gumuz, Dire Dawa*, Gambela Hizboch (Gambela Peoples), Hareri Hizb (Harari People), Oromiya (Oromia), Sidama, Sumale (Somali), Tigray, Ye Debub Biheroch Bihereseboch na Hizboch (Southern Nations, Nationalities and Peoples)<br>
@@ -338,12 +338,6 @@ _residency requirement for naturalization_: 4 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
-_elections_: House of Federation - last held 24 May 2015 (next originally scheduled on 29 August 2020 but postponed a year due to the COVID-19 pandemic)<br>House of People's Representatives - last held on 24 May 2015 (next election to be held June 2021)<br>
-_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 104, women 49, percent of women 32%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - EPRDF 501, SPDP 24, BGPDUP 9, ANDP 8, GPUDM 3, APDO 1, HNL 1; composition - men 335, women 212, percent of women  38.8%; note - total Parliament percent of women 37.3%<br>
-<strong>note:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation<br>
-
 **Executive branch**<br>
 _chief of state_: President SAHLE-WORK Zewde (since 25 October 2018)<br>
 _head of government_: Prime Minister ABIY Ahmed (since 2 April 2018); Deputy Prime Minister DEMEKE Mekonnen Hassen (since 29 November 2012)<br>
@@ -351,6 +345,12 @@ _cabinet_: Council of Ministers selected by the prime minister and approved by t
 _elections/appointments_: president indirectly elected by both chambers of Parliament for a 6-year term (eligible for a second term); snap election held on 25 October 2018 due to resignation of President MULATA Teshome (next election postponed by Prime Minister ABIY due to the COVID-19 pandemic); prime minister designated by the majority party following legislative elections<br>
 _election results_: SAHLE-WORK Zewde elected president; Parliament vote - 659 (unanimous)<br>
 <strong>note:</strong> SAHLE-WORK Zewde is the first female elected head of state in Ethiopia; she is currently the only female president in Africa. Former President Dr. Mulatu TESHOME resigned on 25 October 2018, one year ahead of finishing his six-year term.<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>House of Federation or Yefedereshein Mikir Bete (153 seats; members indirectly elected by state assemblies to serve 5-year terms)<br>House of People's Representatives or Yehizb Tewokayoch Mekir Bete (547 seats; members directly elected in single-seat constituencies by simple majority vote; 22 seats reserved for minorities; all members serve 5-year terms)<br>
+_elections_: House of Federation - last held 24 May 2015 (next originally scheduled on 29 August 2020 but postponed a year due to the COVID-19 pandemic)<br>House of People's Representatives - last held on 24 May 2015 (next election to be held June 2021)<br>
+_election results_: House of Federation - percent of vote by coalition/party - NA; seats by coalition/party - NA; composition - men 104, women 49, percent of women 32%<br>House of Representatives - percent of vote by coalition/party - NA; seats by coalition/party - EPRDF 501, SPDP 24, BGPDUP 9, ANDP 8, GPUDM 3, APDO 1, HNL 1; composition - men 335, women 212, percent of women  38.8%; note - total Parliament percent of women 37.3%<br>
+<strong>note:</strong> House of Federation is responsible for interpreting the constitution and federal-regional issues and the House of People's Representatives is responsible for passing legislation<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of 11 judges); note - the House of Federation has jurisdiction for all constitutional issues<br>
@@ -693,11 +693,11 @@ Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye 
 note(s): in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard for protecting senior officials; the Republican Guard is a military unit accountable to the Prime Minister<br><br><br>
 
 **Military expenditures**<br>
+0.5% of GDP (2020 est.)<br>
 0.7% of GDP (2019 est.)<br>
 0.7% of GDP (2018 est.)<br>
 0.7% of GDP (2017 est.)<br>
 0.7% of GDP (2016 est.)<br>
-0.7% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2020)<br>
@@ -726,7 +726,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,680 (South Sudan), 212,236 (Somalia), 146,771 (Eritrea), 45,924 (Sudan) (2021)<br>
+_refugees (country of origin)_: 377,792 (South Sudan), 214,047 (Somalia), 146,771 (Eritrea), 45,924 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

@@ -187,18 +187,18 @@ _conventional long form_: none<br>
 _conventional short form_: Gibraltar<br>
 _etymology_: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar<br>
 
-**Dependency status**<br>
-overseas territory of the UK<br>
-
 **Government type**<br>
 parliamentary democracy (Parliament); self-governing overseas territory of the UK<br>
+
+**Dependency status**<br>
+overseas territory of the UK<br>
 
 **Capital**<br>
 _name_: Gibraltar<br>
 _geographic coordinates_: 36 08 N, 5 21 W<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar<br>
+_etymology_: from the Spanish derivation of the Arabic "Jabal Tariq," which means "Mountain of Tariq" and which refers to the Rock of Gibraltar<br>
 
 **Administrative divisions**<br>
 none (overseas territory of the UK)<br>
@@ -222,16 +222,16 @@ see United Kingdom<br>
 **Suffrage**<br>
 18 years of age; universal; and British citizens with six months residence or more<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 17 October 2019 (next to be held in 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party - GSLP-Liberal Alliance 52.5% (GSLP 37.0%, LPG 15.5%), GSD 25.6%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6; composition of elected members -&nbsp;men 15, women 2, percent of women 11.8% (e.g. 2019)<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor Sir David STEEL (since 11 June 2020)<br>
 _head of government_: Chief Minister Fabian PICARDO (since 9 December 2011)<br>
 _cabinet_: Council of Ministers appointed from among the 17 elected members of Parliament by the governor in consultation with the chief minister<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed chief minister by the governor<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament (18 seats; 17 members directly elected in a single nationwide constituency by majority vote and 1 appointed by Parliament as speaker; members serve 4-year terms) (e.g. 2019)<br>
+_elections_: last held on 17 October 2019 (next to be held in 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party - GSLP-Liberal Alliance 52.5% (GSLP 37.0%, LPG 15.5%), GSD 25.6%; seats by party - GSLP-Liberal Alliance 10 (GSLP 7, LPG 3), GSD 6; composition of elected members -&nbsp;men 15, women 2, percent of women 11.8% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of at least 3 judges, including the court president); Supreme Court of Gibraltar (consists of the chief justice and 3 judges); note - appeals beyond the Court of Appeal are heard by the Judicial Committee of the Privy Council (in London)<br>

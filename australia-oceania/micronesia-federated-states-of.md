@@ -253,7 +253,8 @@ federal republic in free association with the US<br>
 _name_: Palikir<br>
 _geographic coordinates_: 6 55 N, 158 09 E<br>
 _time difference_: UTC+11 (16 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>note 1:</strong> Micronesia has two time zones <br><br><strong>note 2:</strong> Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital <br>
+_time zone note_: Micronesia has two time zones<br>
+<strong>note:</strong> Palikir became the new capital of the country in 1989, three years after independence; Kolonia, the former capital, remains the site for many foreign embassies; it also serves as the Pohnpei state capital<br>
 
 **Administrative divisions**<br>
 4 states; Chuuk (Truk), Kosrae (Kosaie), Pohnpei (Ponape), Yap<br>
@@ -283,17 +284,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
-_election results_: percent of vote - NA; seats - independent 14; composition - men 14, women 0<br>
-
 **Executive branch**<br>
 _chief of state_: President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015); note - the president is both chief of state and head of government<br>
 _head of government_: President David W. PANUELO (since 11 May 2019); Vice President Yosiwo P. GEORGE (since 11 May 2015)<br>
 _cabinet_: Cabinet includes the vice president and the heads of the 8 executive departments<br>
 _elections/appointments_: president and vice president indirectly elected by Congress from among the 4 'at large' senators for a 4-year term (eligible for a second term); election last held on 11 May 2019 (next to be held in 2023)<br>
 _election results_: David W. PANUELO elected president by Congress; Yosiwo P. GEORGE reelected vice president<br>
+
+**Legislative branch**<br>
+_description_: unicameral Congress (14 seats; 10 members directly elected in single-seat constituencies by simple majority vote to serve 2-year terms and 4 at- large members directly elected from each of the 4 states by proportional representation vote to serve 4-year terms)<br>
+_elections_: last held on 2 March 2021 (next to be held on March 2023)<br>
+_election results_: percent of vote - NA; seats - independent 14; composition - men 14, women 0<br>
 
 **Judicial branch**<br>
 _highest courts_: Federated States of Micronesia (FSM) Supreme Court (consists of the chief justice and not more than 5 associate justices and organized into appellate and criminal divisions)<br>

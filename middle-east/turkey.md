@@ -291,7 +291,7 @@ presidential republic<br>
 _name_: Ankara<br>
 _geographic coordinates_: 39 56 N, 32 52 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara<br>
+_etymology_: Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara<br>
 
 **Administrative divisions**<br>
 81 provinces (iller, singular - ili); Adana, Adiyaman, Afyonkarahisar, Agri, Aksaray, Amasya, Ankara, Antalya, Ardahan, Artvin, Aydin, Balikesir, Bartin, Batman, Bayburt, Bilecik, Bingol, Bitlis, Bolu, Burdur, Bursa, Canakkale, Cankiri, Corum, Denizli, Diyarbakir, Duzce, Edirne, Elazig, Erzincan, Erzurum, Eskisehir, Gaziantep, Giresun, Gumushane, Hakkari, Hatay, Igdir, Isparta, Istanbul, Izmir (Smyrna), Kahramanmaras, Karabuk, Karaman, Kars, Kastamonu, Kayseri, Kilis, Kirikkale, Kirklareli, Kirsehir, Kocaeli, Konya, Kutahya, Malatya, Manisa, Mardin, Mersin, Mugla, Mus, Nevsehir, Nigde, Ordu, Osmaniye, Rize, Sakarya, Samsun, Sanliurfa, Siirt, Sinop, Sirnak, Sivas, Tekirdag, Tokat, Trabzon (Trebizond), Tunceli, Usak, Van, Yalova, Yozgat, Zonguldak<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
-_elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
-_election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats<br>
-
 **Executive branch**<br>
 _chief of state_: President Recep Tayyip ERDOGAN (chief of state since 28 August 2014; head of government since 9 July 2019); Vice President Fuat OKTAY (since 9 July 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Recep Tayyip ERDOGAN (head of government since 9 July 2019; chief of state since 28 August 2014); note - a 2017 constitutional referendum eliminated the post of prime minister after the 2018 general election&nbsp;<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 June 2018 (next scheduled for June 2023)<br>
 _election results_: Recep Tayyip ERDOGAN reelected president in the first round; Recep Tayyip ERDOGAN (AKP) 52.6%, Muharrem INCE (CHP) 30.6%, Selahattin DEMIRTAS (HDP) 8.4%, Meral AKSENER (IYI) 7.3%, other 1.1%<br>
+
+**Legislative branch**<br>
+_description_: unicameral Grand National Assembly of Turkey or Turkiye Buyuk Millet Meclisi (600 seats - increased from 550 seats beginning with June 2018 election; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms - increased from 4 to 5 years beginning with June 2018 election)<br>
+_elections_: last held on 24 June 2018 (next to be held in June 2023)<br>
+_election results_: percent of vote by party - People's Alliance 53.7% (AKP 42.6%, MHP 11.1%), Nation Alliance 33.9% (CHP 22.6%, IYI 10%, SP 1.3%), HDP 11.7%, other 0.7%; seats by party - People's Alliance 344 (AKP 295, MHP 49), National Alliance 189 (CHP 146, IYI 43), HDP 67; composition - men 496, women 104, percent of women 17.3%; note - only parties surpassing a 10% threshold can win parliamentary seats<br>
 
 **Judicial branch**<br>
 _highest courts_: Constitutional Court or Anayasa Mahkemesi (consists of the president, 2 vice presidents, and 12 judges); Court of Cassation (consists of about 390 judges and is organized into civil and penal chambers); Council of State (organized into 15 divisions - 14 judicial and 1 consultative - each with a division head and at least 5 members)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,710,532 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
+_refugees (country of origin)_: 3,710,497 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

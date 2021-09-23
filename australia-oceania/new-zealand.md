@@ -281,7 +281,8 @@ _name_: Wellington<br>
 _geographic coordinates_: 41 18 S, 174 47 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in September; ends first Sunday in April<br>
-<strong>note:</strong> New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br><br><strong>etymology:</strong> named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo<br>
+_time zone note_: New Zealand has two time zones: New Zealand standard time (UTC+12) and Chatham Islands time (45 minutes in advance of New Zealand standard time; UTC+12:45)<br>
+_etymology_: named in 1840 after Arthur Wellesley, the first Duke of Wellington and victorious general at the Battle of Waterloo<br>
 
 **Administrative divisions**<br>
 16 regions and 1 territory*; Auckland, Bay of Plenty, Canterbury, Chatham Islands*, Gisborne, Hawke's Bay, Manawatu-Wanganui, Marlborough, Nelson, Northland, Otago, Southland, Taranaki, Tasman, Waikato, Wellington, West Coast<br>
@@ -314,16 +315,16 @@ _residency requirement for naturalization_: 3 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
-_elections_: last held on 17 October 2020 (next scheduled for 2023)<br>
-_election results_: percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Patricia Lee REDDY (since 28 September 2016)<br>
 _head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party<br>
+
+**Legislative branch**<br>
+_description_: unicameral House of Representatives - commonly called Parliament (120 seats for 2020-23 term); 72 members directly elected in 65 single-seat constituencies and 7 Maori constituencies by simple majority vote and 48 directly elected by closed party-list proportional representation vote; members serve 3-year terms)<br>
+_elections_: last held on 17 October 2020 (next scheduled for 2023)<br>
+_election results_: percent of vote by party - Labor Party 49.1%, National Party 26.8%, ACT Party 8%, Green Party 6.3%, Maori Party 1%; seats by party - Labor Party 64, National Party 35, Green Party 10, ACT Party 10, Maori Party 1; composition - men 63, women 57, percent of women 47.5%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 5 justices, including the chief justice); note - the Supreme Court in 2004 replaced the Judicial Committee of the Privy Council (in London) as the final appeals court<br>
@@ -685,6 +686,12 @@ up to 220 Antarctica (summer season only) (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2021)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
+<strong>note:</strong> details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix-T<br>
 
 ## Transnational Issues
 

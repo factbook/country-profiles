@@ -293,7 +293,7 @@ _name_: Rome<br>
 _geographic coordinates_: 41 54 N, 12 29 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>etymology:</strong> by tradition, named after Romulus, one of the legendary founders of the city and its first king<br>
+_etymology_: by tradition, named after Romulus, one of the legendary founders of the city and its first king<br>
 
 **Administrative divisions**<br>
 <p>15 regions (regioni, singular - regione) and 5 autonomous regions (regioni autonome, singular - regione autonoma)</p> <p><strong>regions:</strong> Abruzzo, Basilicata, Calabria, Campania, Emilia-Romagna, Lazio (Latium), Liguria, Lombardia, Marche, Molise, Piemonte (Piedmont), Puglia (Apulia), Toscana (Tuscany), Umbria, Veneto;</p> <p><strong>autonomous regions:</strong> Friuli Venezia Giulia, Sardegna (Sardinia), Sicilia (Sicily), Trentino-Alto Adige (Trentino-South Tyrol) or Trentino-Suedtirol (German), Valle d'Aosta (Aosta Valley) or Vallee d'Aoste (French)</p><br>
@@ -323,18 +323,18 @@ _residency requirement for naturalization_: 4 years for EU nationals, 5 years fo
 **Suffrage**<br>
 18 years of age; universal except in senatorial elections, where minimum age is 25<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (321 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 6 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 4 March 2018 (next to be held in March 2023)<br>Chamber of Deputies - last held on 4 March 2018 (next to be held in March 2023)<br>
-_election results_: <br>Senate - percent of vote by party - center-right coalition 37.5% (L 17.6%, FI 14.4%, FdI 4.3%, UdC 1.2%), M5S 32.2%, center-left coalition (PD 19.1%, +E 2.3%, I 0.5%, CP 0.5%, SVP-PATT 0.4%), LeU 3.3%; seats by party - center-right coalition 77(L 37, FI 33, FdI 7), M5S 68, center-left coalition 44(PD 43, SVP-PATT 1), LeU 4; composition - men 208, women 113, percent of women 35.2%<br><br>Chamber of Deputies - percent of vote by party - center-right coalition 37% (L 17.4%, FI 14%, FdI 4.4%, UdC 1.3%), M5S 33%, center-left coalition 22.9% (PD 18.8%, E+ 2.6%, I 0.6%, CP 0.5%, SVP-PATT 0.4%); seats by party - center-right coalition 151 (L73, FI 59, FdI 19), M5S 133, center-left coalition 88 (PD 86, SVP 2), LeU 14; composition - men 405, women 225, percent of women 35.7%; note - total Parliament percent of women 35.5%<br>
-<strong>Note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the 2023 election<br>
-
 **Executive branch**<br>
 _chief of state_: President Sergio MATTARELLA (since 3 February 2015)<br>
 _head of government_: Prime Minister Mario DRAGHI (since 13 February 2021); the prime minister's official title is President of the Council of Ministers; note - Prime Minister Giuseppe CONTE resigned on 26 January 2021<br>
 _cabinet_: Council of Ministers proposed by the prime minister, known officially as the President of the Council of Ministers and locally as the Premier; nominated by the president; the current deputy prime ministers, known officially as vice-presidents of the Council of Ministers, are Matteo Salvini (L) and Luigi Di Maio (M5S) (since 1 June 2018)<br>
 _elections/appointments_: president indirectly elected by an electoral college consisting of both houses of Parliament and 58 regional representatives for a 7-year term (no term limits); election last held on 31 January 2015 (next to be held in 2022); prime minister appointed by the president, confirmed by parliament<br>
 _election results_: Sergio MATTARELLA (independent) elected president; electoral college vote count in fourth round - 665 out of 1,009 (505-vote threshold)<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament or Parlamento consists of:<br>Senate or Senato della Repubblica (321 seats; 116 members directly elected in single-seat constituencies by simple majority vote, 193 members in multi-seat constituencies and 6 members in multi-seat constituencies abroad directly elected by party-list proportional representation vote to serve 5-year terms and 6 ex-officio members appointed by the president of the Republic to serve for life)<br>Chamber of Deputies or Camera dei Deputati (630 seats; 629 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member from Valle d'Aosta elected by simple majority vote; members serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 4 March 2018 (next to be held in March 2023)<br>Chamber of Deputies - last held on 4 March 2018 (next to be held in March 2023)<br>
+_election results_: <br>Senate - percent of vote by party - center-right coalition 37.5% (L 17.6%, FI 14.4%, FdI 4.3%, UdC 1.2%), M5S 32.2%, center-left coalition (PD 19.1%, +E 2.3%, I 0.5%, CP 0.5%, SVP-PATT 0.4%), LeU 3.3%; seats by party - center-right coalition 77(L 37, FI 33, FdI 7), M5S 68, center-left coalition 44(PD 43, SVP-PATT 1), LeU 4; composition - men 208, women 113, percent of women 35.2%<br><br>Chamber of Deputies - percent of vote by party - center-right coalition 37% (L 17.4%, FI 14%, FdI 4.4%, UdC 1.3%), M5S 33%, center-left coalition 22.9% (PD 18.8%, E+ 2.6%, I 0.6%, CP 0.5%, SVP-PATT 0.4%); seats by party - center-right coalition 151 (L73, FI 59, FdI 19), M5S 133, center-left coalition 88 (PD 86, SVP 2), LeU 14; composition - men 405, women 225, percent of women 35.7%; note - total Parliament percent of women 35.5%<br>
+<strong>Note</strong>: in October 2019, Italy's Parliament voted to reduce the number of Senate seats from 315 to 200 and the number of Chamber of Deputies seats from 630 to 400; a referendum to reduce the membership of Parliament held on 20-21 September 2020 was approved, effective for the 2023 election<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation or Corte Suprema di Cassazione (consists of the first president (chief justice), deputy president, 54 justices presiding over 6 civil and 7 criminal divisions, and 288 judges; an additional 30 judges of lower courts serve as supporting judges; cases normally heard by 5-judge panels; more complex cases heard by 9-judge panels); Constitutional Court or Corte Costituzionale (consists of the court president and 14 judges)<br>
@@ -727,7 +727,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 564,472 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 566,393 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

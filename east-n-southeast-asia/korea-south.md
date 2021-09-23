@@ -286,7 +286,7 @@ presidential republic<br>
 _name_: Seoul; note - Sejong, located some 120 km (75 mi) south of Seoul, is serving as an administrative capital for segments of the South Korean Government<br>
 _geographic coordinates_: 37 33 N, 126 59 E<br>
 _time difference_: UTC+9 (14 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla<br>
+_etymology_: the name originates from the Korean word meaning "capital city" and which is believed to be derived from Seorabeol, the name of the capital of the ancient Korean Kingdom of Silla<br>
 
 **Administrative divisions**<br>
 <p>9 provinces (do, singular and plural), 6 metropolitan cities (gwangyeoksi, singular and plural), 1 special city (teugbyeolsi), and 1 special self-governing city (teukbyeoljachisi)</p> <p><strong>provinces:</strong> Chungbuk (North Chungcheong), Chungnam (South Chungcheong), Gangwon, Gyeongbuk (North Gyeongsang), Gyeonggi, Gyeongnam (South Gyeongsang), Jeju, Jeonbuk (North Jeolla), Jeonnam (South Jeolla)</p> <p><strong>metropolitan cities:</strong> Busan (Pusan), Daegu (Taegu), Daejeon (Taejon), Gwangju (Kwangju), Incheon (Inch'on), Ulsan</p> <p><strong>special city:</strong> Seoul</p> <p><strong>special self-governing city:</strong> Sejong</p><br>
@@ -316,17 +316,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18years of age; universal; note - the voting age was lowered from 19 to 18 beginning with the 2020 national election<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 15 April 2020 (next to be held in April 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%<br>
-
 **Executive branch**<br>
 _chief of state_: President MOON Jae-in (since 10 May 2017); the president is both chief of state and head of government; Prime Minister KIM Boo-kyum (since 14 May 2021) serves as the principal executive assistant to the president, similar to the role of a vice president<br>
 _head of government_: President MOON Jae-in (since 10 May 2017)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly<br>
 _election results_: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 15 April 2020 (next to be held in April 2024)<br>
+_election results_: percent of vote by party - NA; seats by party - DP/TCP 180, UFP/FKP 103, JP 6, ODP 3, PP 3, independent 5; composition - men 249, women 51, percent of women 17%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of a chief justice and 13 justices); Constitutional Court (consists of a court head and 8 justices)<br>
@@ -678,7 +678,7 @@ _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong,
 Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard (2021)<br>
 
 **Military expenditures**<br>
-2.7% of GDP (2020 est.)<br>
+2.8% of GDP (2020 est.)<br>
 2.7% of GDP (2019)<br>
 2.6% of GDP (2018)<br>
 2.6% of GDP (2017)<br>

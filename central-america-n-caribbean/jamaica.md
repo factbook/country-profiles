@@ -279,7 +279,7 @@ parliamentary democracy (Parliament) under a constitutional monarchy; a Commonwe
 _name_: Kingston<br>
 _geographic coordinates_: 18 00 N, 76 48 W<br>
 _time difference_: UTC-5 (same time as Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)<br>
+_etymology_: the name is a blending of the words "king's" and "town"; the English king at the time of the city's founding in 1692 was William III (r. 1689-1702)<br>
 
 **Administrative divisions**<br>
 14 parishes; Clarendon, Hanover, Kingston, Manchester, Portland, Saint Andrew, Saint Ann, Saint Catherine, Saint Elizabeth, Saint James, Saint Mary, Saint Thomas, Trelawny, Westmoreland<br>
@@ -310,16 +310,16 @@ _residency requirement for naturalization_: 4 out of the previous 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
-_elections_: Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
-_election results_: Senate - percent by party - NA; seats by party - NA; composition (as of June 2021) - men 13, women 8, percent of women 38.1%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition (as of June 2021) - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 31%<br>
-
 **Executive branch**<br>
 _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sir Patrick L. ALLEN (since 26 February 2009)<br>
 _head of government_: &nbsp;Prime Minister Andrew HOLNESS (since 3 March 2016)&nbsp;<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the recommendation of the prime minister; following legislative elections, the leader of the majority party or majority coalition in the House of Representatives is appointed prime minister by the governor general<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats; 13 members appointed by the governor general on the advice of the prime minister and 8 members appointed by the governor general on the advice of the opposition party leader; members serve 5-year terms (no term limits) or until Parliament is dissolved)<br>House of Representatives (63 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms (no term limits) or until Parliament is dissolved)<br>
+_elections_: Senate - last full slate of appointments on 10 March 2016 (next full slate early on 3 September 2020, following dissolution in mid-August)<br>House of Representatives - last held on 3 September 2020 (next to be held in 2025)<br>
+_election results_: Senate - percent by party - NA; seats by party - NA; composition (as of June 2021) - men 13, women 8, percent of women 38.1%<br>House of Representatives - percent of vote by party - JLP 57%, PNP 42.8%, independent 0.2%; seats by party - JLP 48, PNP 15; composition (as of June 2021) - men 45, women 18; percent of women 28.6%; note - total Parliament percent of women 31%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of president of the court and a minimum of 4 judges); Supreme Court (40 judges organized in specialized divisions); note - appeals beyond Jamaica's highest courts are referred to the Judicial Committee of the Privy Council (in London) rather than to the Caribbean Court of Justice (the appellate court for member states of the Caribbean Community)<br>

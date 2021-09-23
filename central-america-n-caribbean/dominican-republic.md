@@ -299,7 +299,7 @@ presidential republic<br>
 _name_: Santo Domingo<br>
 _geographic coordinates_: 18 28 N, 69 54 W<br>
 _time difference_: UTC-4 (1 hour ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order<br>
+_etymology_: named after Saint Dominic de Guzman (1170-1221), founder of the Dominican Order<br>
 
 **Administrative divisions**<br>
 10 regions (regiones, singular - region); Cibao Nordeste, Cibao Noroeste, Cibao Norte, Cibao Sur, El Valle, Enriquillo, Higuamo, Ozama, Valdesia, Yuma<br>
@@ -329,17 +329,17 @@ _residency requirement for naturalization_: 2 years<br>
 **Suffrage**<br>
 18 years of age; universal and compulsory; married persons regardless of age can vote; note - members of the armed forces and national police by law cannot vote<br>
 
-**Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in26 constituencies to direct simple majority but retained indirect election for the remaining 6 constituencies; previously all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
-
 **Executive branch**<br>
 _chief of state_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
 _head of government_: President Luis Rodolfo ABINADER Corona (since 16 August 2020); Vice President Raquel PENA de Antuna (since 16 August 2020); note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet nominated by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by absolute vote in 2 rounds if needed for a 4-year term (eligible for a maximum of two consecutive terms); election last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
 _election results_: <br><em>2020:</em> Luis Rodolfo ABINADER Corona elected president in first round; percent of vote - Luis Rodolfo ABINADER Corona (PRM) 52.5%, Gonzalo CASTILLO Terrero (PLD) 37.5%, Leonel Antonio FERNANDEZ Reyna (FP) 8.9% other 1.1%<br><br><em>2016:</em> Danilo MEDINA Sanchez reelected president; percent of vote - Danilo MEDINA Sanchez (PLD) 61.7%, Luis Rodolfo ABINADER Corona (PRM) 35%, other 3.3%; Margarita CEDENO DE FERNANDEZ (PLD) reelected vice president<br>
+
+**Legislative branch**<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (32 seats; 26 members directly elected in single-seat constituencies by simple majority vote, and 6 members indirectly elected based upon province-wide party plurality votes for its candidates to the Chamber of Deputies; all members serve 4-year terms; note - in 2019, the Central Election Commission changed the electoral system for seats in26 constituencies to direct simple majority but retained indirect election for the remaining 6 constituencies; previously all 32 members were indirectly elected; the change had been challenged by the ruling and opposition parties)<br>House of Representatives or Camara de Diputados (190 seats; 178 members directly elected in multi-seat constituencies by closed party-list proportional representation vote using the D'Hondt method, 5 members in a nationwide constituency and 7 diaspora members directly elected by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 5 July 2020 (next to be held 2024)<br>House of Representatives - last held on 5 July 2020 (next to be held in 2024); note - the 2020 election was rescheduled from 17 May to 5 July 2020 due to COVID-19 pandemic<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PRM 17, PLD 6, PRSC 6, BIS 1, DXC 1, FP 1<br>House of Representatives - percent of vote by party - NA; seats by party - PRM 86, PLD 75,  PRSC 6, PRD 4, Broad Front 3, FP 3, AP 2, APD 2, BIS 2, DXC 2, other 5<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Suprema Corte de Justicia (consists of a minimum of 16 magistrates); Constitutional Court or Tribunal Constitucional (consists of 13 judges); note - the Constitutional Court was established in 2010 by constitutional amendment<br>

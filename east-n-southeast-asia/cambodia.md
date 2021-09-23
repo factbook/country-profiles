@@ -299,7 +299,7 @@ parliamentary constitutional monarchy<br>
 _name_: Phnom Penh<br>
 _geographic coordinates_: 11 33 N, 104 55 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology: </strong>Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH<br>
+_etymology_: Phnom Penh translates as "Penh's Hill" in Khmer; the city takes its name from the present Wat Phnom (Hill Temple), the tallest religious structure in the city, whose establishment, according to legend, was inspired in the 14th century by a pious nun, Daun PENH<br>
 
 **Administrative divisions**<br>
 <p>24 provinces (khett, singular and plural) and 1 municipality (krong, singular and plural)</p> <p><strong>provinces:</strong> Banteay Meanchey, Battambang, Kampong Cham, Kampong Chhnang, Kampong Speu, Kampong Thom, Kampot, Kandal, Kep, Koh Kong, Kratie, Mondolkiri, Oddar Meanchey, Pailin, Preah Sihanouk, Preah Vihear, Prey Veng, Pursat, Ratanakiri, Siem Reap, Stung Treng, Svay Rieng, Takeo, Tbong Khmum</p> <p><strong>municipalities:</strong> Phnom Penh (Phnum Penh)</p><br>
@@ -329,16 +329,16 @@ _residency requirement for naturalization_: 7 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br> National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br> Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)<br>
-_election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
-
 **Executive branch**<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
 _head of government_: Prime Minister HUN SEN (since 14 January 1985); Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992), TEA BANH, Gen., HOR NAMHONG, (since 16 July 2004), BIN CHHIN (since 5 September 2007), YIM CHHAI LY (since 24 September 2008), KE KIMYAN (since 12 March 2009), AUN PORNMONIROTH (since 24 September 2012), Prak SOKONN, CHEA SOPHARA (since 5 April 2016)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
+
+**Legislative branch**<br>
+_description_: bicameral Parliament of Cambodia consists of:<br>Senate (62 seats; 58 indirectly elected by parliamentarians and commune councils, 2 indirectly elected by the National Assembly, and 2 appointed by the monarch; members serve 6-year terms)<br> National Assembly (125 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br> Senate - last held on 25 February 2018 (next to be held in 2024); National Assembly - last held on 29 July 2018 (next to be held in 2023)<br>
+_election results_: <strong> </strong><br> Senate - percent of vote by party - CPP 96%, FUNCINPEC 2.4%, KNUP 1.6%; seats by party - CPP 58; composition - men 53, women 9, percent of women 14.5%<br> National Assembly - percent of vote by party - CPP 76.9%, FUNCINPEC 5.9%, LDP 4.9%, Khmer Will Party 3.4%, other 8.9%; seats by party - CPP 125; composition - men 100, women 25, percent of women 20%; note - total Parliament of Cambodia percent of women 18.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Council (organized into 5- and 9-judge panels and includes a court chief and deputy chief); Constitutional Court (consists of 9 members); note - in 1997, the Cambodian Government requested UN assistance in establishing trials to prosecute former Khmer Rouge senior leaders for crimes against humanity committed during the 1975-1979 Khmer Rouge regime; the Extraordinary Chambers of the Courts of Cambodia (also called the Khmer Rouge Tribunal) was established in 2006 and began hearings for the first case in 2009; court proceedings remain ongoing in 2019<br>

@@ -293,7 +293,7 @@ communist state<br>
 _name_: Hanoi (Ha Noi)<br>
 _geographic coordinates_: 21 02 N, 105 51 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> the city has had many names in its history going back to A.D. 1010 when it first became the capital of imperial Vietnam; in 1831, it received its current name of Ha Noi, meaning "between the rivers," which refers to its geographic location<br>
+_etymology_: the city has had many names in its history going back to A.D. 1010 when it first became the capital of imperial Vietnam; in 1831, it received its current name of Ha Noi, meaning "between the rivers," which refers to its geographic location<br>
 
 **Administrative divisions**<br>
 <p>58 provinces (tinh, singular and plural) and 5 municipalities (thanh pho, singular and plural)</p> <p><strong>provinces:</strong> An Giang, Bac Giang, Bac Kan, Bac Lieu, Bac Ninh, Ba Ria-Vung Tau, Ben Tre, Binh Dinh, Binh Duong, Binh Phuoc, Binh Thuan, Ca Mau, Cao Bang, Dak Lak, Dak Nong, Dien Bien, Dong Nai, Dong Thap, Gia Lai, Ha Giang, Ha Nam, Ha Tinh, Hai Duong, Hau Giang, Hoa Binh, Hung Yen, Khanh Hoa, Kien Giang, Kon Tum, Lai Chau, Lam Dong, Lang Son, Lao Cai, Long An, Nam Dinh, Nghe An, Ninh Binh, Ninh Thuan, Phu Tho, Phu Yen, Quang Binh, Quang Nam, Quang Ngai, Quang Ninh, Quang Tri, Soc Trang, Son La, Tay Ninh, Thai Binh, Thai Nguyen, Thanh Hoa, Thua Thien-Hue, Tien Giang, Tra Vinh, Tuyen Quang, Vinh Long, Vinh Phuc, Yen Bai</p> <p><strong>municipalities:</strong> Can Tho, Da Nang, Ha Noi (Hanoi), Hai Phong, Ho Chi Minh City (Saigon)</p><br>
@@ -323,17 +323,17 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2016 election - 494; number of current serving members - 484; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
-_elections_: last held on 22 May 2016 (next to be held in May 2021)<br>
-_election results_: percent of vote by party -CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
-
 **Executive branch**<br>
 _chief of state_: President Nguyen Xuan PHUC (since 26 July 2021)<br>
 _head of government_: Prime Minister &nbsp;Pham Minh CHINH (since 26 July 2021); Deputy Prime Ministers Truong Hoa BINH (since 9 April 2016), Le Minh KHAI (since 8 April 2021), Vu Duc DAM (since 13 November 2013), Le Van THANH (since 8 April 2021), Pham Binh MINH (since 13 November 2013<br>
 _cabinet_: Cabinet proposed by prime minister confirmed by the National Assembly and appointed by the president<br>
 _elections/appointments_: president indirectly elected by National Assembly from among its members for a single 5-year term; election last held on 26 July 2021 (next to be held in spring 2026); prime minister recommended by the president and confirmed by National Assembly; deputy prime ministers confirmed by the National Assembly and appointed by the president<br>
 _election results_: Pham Minh CHINH (CPV) reelected president; percent of National Assembly vote - 99.8%; Nguyen Xuan PHUC (CPV) reelected prime minister; percent of National Assembly vote - 100%<br>
+
+**Legislative branch**<br>
+_description_: unicameral National Assembly or Quoc Hoi &nbsp;(500 seats - number following 2016 election - 494; number of current serving members - 484; members directly elected in multi-seat constituencies by absolute majority vote; members serve 5-year terms)<br>
+_elections_: last held on 22 May 2016 (next to be held in May 2021)<br>
+_election results_: percent of vote by party -CPV 95.8%, non-party members 4.2%; seats by party - CPV 474, non-party CPV-approved 20, self-nominated 2; note - 494 candidates elected, 2 CPV candidates-elect were disqualified; composition - men 364, women 122, percent of women 26.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme People's Court (consists of the chief justice and 13 judges)<br>
@@ -700,11 +700,11 @@ information is limited and estimates of the size of the People&rsquo;s Army of V
 **Military equipment inventories and acquisitions**<br>
 the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, South Korea, and Ukraine (2020)<br>
 
-**Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2019)<br>
-
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents increased from two in 2019 to four in 2020, primarily near the port of Vung Tau<br>
+
+**Military service age and obligation**<br>
+18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2019)<br>
 
 ## Transnational Issues
 

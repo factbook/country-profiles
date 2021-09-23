@@ -282,7 +282,8 @@ _name_: Amsterdam; note - The Hague is the seat of government<br>
 _geographic coordinates_: 52 21 N, 4 55 E<br>
 _time difference_: UTC+1 (6 hours ahead of Washington, DC, during Standard Time)<br>
 _daylight saving time_: +1hr, begins last Sunday in March; ends last Sunday in October<br>
-<strong>note:</strong> time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4<br><br><strong>etymology:</strong> the original Dutch name, Amstellerdam, meaning "a dam on the Amstel River," dates to the 13th century; over time the name simplified to Amsterdam<br>
+_time zone note_: time descriptions apply to the continental Netherlands only, for the constituent countries in the Caribbean, the time difference is UTC-4<br>
+_etymology_: the original Dutch name, Amstellerdam, meaning "a dam on the Amstel River," dates to the 13th century; over time the name simplified to Amsterdam<br>
 
 **Administrative divisions**<br>
 12 provinces (provincies, singular - provincie), 3 public entities* (openbare lichamen, singular - openbaar lichaam (Dutch); entidatnan publiko, singular - entidat publiko (Papiamento)); Bonaire*, Drenthe, Flevoland, Fryslan (Friesland), Gelderland, Groningen, Limburg, Noord-Brabant (North Brabant), Noord-Holland (North Holland), Overijssel, Saba*, Sint Eustatius*, Utrecht, Zeeland (Zealand), Zuid-Holland (South Holland)<br>
@@ -317,16 +318,16 @@ _residency requirement for naturalization_: 5 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: bicameral States General or Staten Generaal consists of:<br>First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>Second Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms)<br>
-_elections_: <br>First Chamber - last held on 27 May 2019 (next to be held on NA May 2023)<br>Second Chamber - last held on 15 March 2017 (next to be held on 17 March 2021)<br>
-_election results_: <br>First Chamber - percent of vote by party - NA; seats by party - FvD 12, VVD 12, CDA 9, GL 8, D66 7, MvdA 6, PVV 5, SP 4, CU 4, other 8; composition - men 49, women 26, percent of women 34.7%<br>Second Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6%<br>
-
 **Executive branch**<br>
 _chief of state_: King WILLEM-ALEXANDER (since 30 April 2013); Heir Apparent Princess Catharina-Amalia (daughter of King WILLEM-ALEXANDER, born 7 December 2003)<br>
 _head of government_: Prime Minister (vacant); note - Prime Minister Mark RUTTE resigned on 15 January 2021 and is acting Prime Minister; Deputy Prime Ministers (since 26 October 2017) Hugo DE JONGE, Karin Kajsa OLLONGREN, and Carola SCHOUTEN (since 26 October 2017); note - Mark RUTTE heads his third cabinet put in place since 26 October 2017<br>
 _cabinet_: Council of Ministers appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following Second Chamber elections, the leader of the majority party or majority coalition is usually appointed prime minister by the monarch; deputy prime ministers are appointed by the monarch<br>
+
+**Legislative branch**<br>
+_description_: bicameral States General or Staten Generaal consists of:<br>First Chamber or Eerste Kamer (75 seats; members indirectly elected by the country's 12 provincial council members by proportional representation vote; members serve 4-year terms)<br>Second Chamber or Tweede Kamer (150 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve up to 4-year terms)<br>
+_elections_: <br>First Chamber - last held on 27 May 2019 (next to be held on NA May 2023)<br>Second Chamber - last held on 15 March 2017 (next to be held on 17 March 2021)<br>
+_election results_: <br>First Chamber - percent of vote by party - NA; seats by party - FvD 12, VVD 12, CDA 9, GL 8, D66 7, MvdA 6, PVV 5, SP 4, CU 4, other 8; composition - men 49, women 26, percent of women 34.7%<br>Second Chamber - percent of vote by party - VVD 21.3%, PVV 13.1%, CDA 12.4%, D66 12.2%, GL 9.1%, SP 9.1%, PvdA 5.7%, CU 3.4%, PvdD 3.2%, 50 Plus 3.1%, other 7.4%; seats by party - VVD 33, PVV 20, CDA 19, D66 19, GL 14, SP 14, PvdA 9, CU 5, PvdD 5, 50 Plus 4, other 8; composition - men 96, women 54, percent of women 36%; note - total States General percent of women 35.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoge Raad (consists of 41 judges: the president, 6 vice presidents, 31 justices or raadsheren, and 3 justices in exceptional service, referred to as buitengewone dienst); the court is divided into criminal, civil, tax, and ombuds chambers<br>
@@ -688,6 +689,7 @@ note: the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civili
 
 **Military and security service personnel strengths**<br>
 the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2020)<br>
+note - the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands, followed by several European countries; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2020)<br>

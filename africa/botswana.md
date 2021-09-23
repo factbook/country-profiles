@@ -291,7 +291,7 @@ parliamentary republic<br>
 _name_: Gaborone<br>
 _geographic coordinates_: 24 38 S, 25 54 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-<strong>etymology:</strong> named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of the Tlokwa tribe, part of the larger Tswana ethnic group<br>
+_etymology_: named after GABORONE (ca. 1825-1931), a revered kgosi (chief) of the Tlokwa tribe, part of the larger Tswana ethnic group<br>
 
 **Administrative divisions**<br>
 10 districts and 6 town councils*; Central, Chobe, Francistown*, Gaborone*, Ghanzi, Jwaneng*, Kgalagadi, Kgatleng, Kweneng, Lobatse*, North East, North West, Selebi-Phikwe*, South East, Southern, Sowa Town*<br>
@@ -321,17 +321,17 @@ _residency requirement for naturalization_: 10 years<br>
 **Suffrage**<br>
 18 years of age; universal<br>
 
-**Legislative branch**<br>
-_description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
-_elections_: last held on 23 October 2019 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition - NA<br>
-
 **Executive branch**<br>
 _chief of state_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Mokgweetse Eric MASISI (since 1 April 2018); Vice President Slumber TSOGWANE (since 4 April 2018); note - the president is both chief of state and head of government<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president indirectly elected by the National Assembly for a 5-year term (eligible for a second term); election last held on 24 October 2014 (next to be held on 31 October 2019); vice president appointed by the president<br>
 _election results_: President Seretse Khama Ian KHAMA (since 1 April 2008) stepped down on 1 April 2018 having completed the constitutionally mandated 10-year term limit; upon his retirement, then Vice President MASISI became president; national elections held on 23 October 2019 gave MASISI'S BPD 38 seats in the National Assembly which then selected MASISI as President<br>
+
+**Legislative branch**<br>
+_description_: unicameral Parliament consists of the National Assembly (63 seats; 57 members directly elected in single-seat constituencies by simple majority vote,&nbsp;4 nominated by the president and indirectly elected by simple majority vote by the rest of the National Assembly, and 2 ex-officio members - the president and attorney general; elected members serve 5-year terms); note - the House of Chiefs (Ntlo ya Dikgosi), an advisory body to the National Assembly, consists of 35 members - 8 hereditary chiefs from Botswana's principal tribes, 22 indirectly elected by the chiefs, and 5 appointed by the president; the House of Chiefs consults on issues including powers of chiefs, customary courts, customary law, tribal property, and constitutional amendments<br>
+_elections_: last held on 23 October 2019 (next to be held in October 2024)<br>
+_election results_: percent of vote by party - BDP 52.7%, UDC 35.9%, BPF 4.4%, AP 5.1%, other 1.7%; seats by party - BDP 38, UDC 15, BPF 3, AP 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal, High Court (each consists of a chief justice and a number of other judges as prescribed by the Parliament)<br>
@@ -663,11 +663,11 @@ _unpaved_: 21,937 km (2017)<br>
 Botswana Defence Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2021)<br>
 
 **Military expenditures**<br>
+3% of GDP (2020 est.)<br>
 2.8% of GDP (2019)<br>
 2.8% of GDP (2018)<br>
 3% of GDP (2017)<br>
 3.4% of GDP (2016)<br>
-2.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Botswana Defense Force (BDF) has approximately 9,000 active personnel (2021)<br>
