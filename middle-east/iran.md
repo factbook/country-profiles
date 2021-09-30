@@ -373,24 +373,16 @@ _lyrics/music_: multiple authors/Hassan RIAHI<br>
 **Economic overview**<br>
 <p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p><p></p><p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p><p></p><p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p><p></p><p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
 
-**Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-12.5% (2016 est.)<br>
--1.6% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-9.6% (2017 est.)<br>
-9.1% (2016 est.)<br>
-<strong>note:</strong> official Iranian estimate<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1,027,238,000,000 (2019 est.)<br>
 $1.102 trillion (2018 est.)<br>
 $1,172,665,000,000 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$581.252 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+3.7% (2017 est.)<br>
+12.5% (2016 est.)<br>
+-1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $12,389 (2019 est.)<br>
@@ -398,10 +390,13 @@ $13,472 (2018 est.)<br>
 $14,536 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-37.9% of GDP (2017 est.)<br>
-37.6% of GDP (2016 est.)<br>
-35.2% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$581.252 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+9.6% (2017 est.)<br>
+9.1% (2016 est.)<br>
+<strong>note:</strong> official Iranian estimate<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.6% (2016 est.)<br>
@@ -415,12 +410,6 @@ _investment in fixed capital_: 20.6% (2017 est.)<br>
 _investment in inventories_: 14.5% (2017 est.)<br>
 _exports of goods and services_: 26% (2017 est.)<br>
 _imports of goods and services_: -24.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 58.5 (2020)<br>
-_Starting a Business score_: 67.8 (2020)<br>
-_Trading score_: 66.2 (2020)<br>
-_Enforcement score_: 58.2 (2020)<br>
 
 **Agricultural products**<br>
 wheat, sugar cane, milk, sugar beet, tomatoes, barley, potatoes, oranges, poultry, apples<br>
@@ -459,9 +448,6 @@ _highest 10%_: 29.6% (2005)<br>
 _revenues_: 74.4 billion (2017 est.)<br>
 _expenditures_: 84.45 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.3% (of GDP) (2017 est.)<br>
 
@@ -469,6 +455,9 @@ _expenditures_: 84.45 billion (2017 est.)<br>
 39.5% of GDP (2017 est.)<br>
 47.5% of GDP (2016 est.)<br>
 <strong>note:</strong> includes publicly guaranteed debt<br>
+
+**Taxes and other revenues**<br>
+17.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 21 March - 20 March<br>
@@ -678,11 +667,11 @@ Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes 
 note: the Iranian Navy operates Iran&rsquo;s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br>
 
 **Military expenditures**<br>
+2.1% of GDP (2020 est.)<br>
 3.8% of GDP (2019 est.)<br>
 6.1% of GDP (2018 est.)<br>
 5.3% of GDP (2017 est.)<br>
 4.1% of GDP (2016 est.)<br>
-4.3% of GDP (2015 est.)<br>
 (Estimates)<br>
 
 **Military and security service personnel strengths**<br>

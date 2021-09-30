@@ -168,6 +168,9 @@ _female_: 79.29 years (2021 est.)<br>
 _improved: total_: total: 98.5% of population<br>
 _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **Physicians density**<br>
 2.09 physicians/1,000 population (2017)<br>
 
@@ -353,23 +356,16 @@ _lyrics/music_: Al Bashir AL AREBI/Mohamad Abdel WAHAB<br>
 **Economic overview**<br>
 <p>Libya's economy, almost entirely dependent on oil and gas exports, has struggled since 2014 given security and political instability, disruptions in oil production, and decline in global oil prices. The Libyan dinar has lost much of its value since 2014 and the resulting gap between official and black market exchange rates has spurred the growth of a shadow economy and contributed to inflation. The country suffers from widespread power outages, caused by shortages of fuel for power generation. Living conditions, including access to clean drinking water, medical services, and safe housing have all declined since 2011. Oil production in 2017 reached a five-year high, driving GDP growth, with daily average production rising to 879,000 barrels per day. However, oil production levels remain below the average pre-Revolution highs of 1.6 million barrels per day.</p><p></p><p>The Central Bank of Libya continued to pay government salaries to a majority of the Libyan workforce and to fund subsidies for fuel and food, resulting in an estimated budget deficit of about 17% of GDP in 2017. Low consumer confidence in the banking sector and the economy as a whole has driven a severe liquidity shortage.</p><br>
 
-**Real GDP growth rate**<br>
-64% (2017 est.)<br>
--7.4% (2016 est.)<br>
--13% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-28.5% (2017 est.)<br>
-25.9% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $102.842 billion (2019 est.)<br>
 $100.298 billion (2018 est.)<br>
 $87.115 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$52.259 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+64% (2017 est.)<br>
+-7.4% (2016 est.)<br>
+-13% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $15,174 (2019 est.)<br>
@@ -377,10 +373,12 @@ $15,018 (2018 est.)<br>
 $13,238 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-5% of GDP (2017 est.)<br>
--9% of GDP (2016 est.)<br>
--25.1% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$52.259 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+28.5% (2017 est.)<br>
+25.9% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -394,12 +392,6 @@ _investment in fixed capital_: 2.7% (2017 est.)<br>
 _investment in inventories_: 1.3% (2016 est.)<br>
 _exports of goods and services_: 38.8% (2017 est.)<br>
 _imports of goods and services_: -33.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 32.7 (2020)<br>
-_Starting a Business score_: 73.1 (2020)<br>
-_Trading score_: 64.7 (2020)<br>
-_Enforcement score_: 48.4 (2020)<br>
 
 **Agricultural products**<br>
 potatoes, watermelons, tomatoes, onions, dates, milk, olives, wheat, poultry, vegetables<br>
@@ -432,15 +424,15 @@ _highest 10%_: NA<br>
 _revenues_: 15.78 billion (2017 est.)<br>
 _expenditures_: 23.46 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-51.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -25.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 4.7% of GDP (2017 est.)<br>
 7.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+51.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -641,6 +633,9 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 
 **Military and security forces**<br>
 note - in transition; the Government of National Accord (GNA) has various ground, air, and naval/coast guard forces under its command; the forces are comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>forces under Khalifa HAFTER, known as the Libyan National Army (LNA), also include various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries (2020)<br>
+
+**Military expenditures**<br>
+not available<br>
 
 **Military and security service personnel strengths**<br>
 not available<br>

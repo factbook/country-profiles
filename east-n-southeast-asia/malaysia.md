@@ -385,10 +385,25 @@ _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br
 **Economic overview**<br>
 <p>Malaysia, an upper middle-income country, has transformed itself since the 1970s from a producer of raw materials into a multi-sector economy. Under current Prime Minister NAJIB, Malaysia is attempting to achieve high-income status by 2020 and to move further up the value-added production chain by attracting investments in high technology, knowledge-based industries and services. NAJIB's Economic Transformation Program is a series of projects and policy measures intended to accelerate the country's economic growth. The government has also taken steps to liberalize some services sub-sectors. Malaysia is vulnerable to a fall in world commodity prices or a general slowdown in global economic activity.</p><p></p><p>The NAJIB administration is continuing efforts to boost domestic demand and reduce the economy's dependence on exports. Domestic demand continues to anchor economic growth, supported mainly by private consumption, which accounts for 53% of GDP. Nevertheless, exports - particularly of electronics, oil and gas, and palm oil - remain a significant driver of the economy. In 2015, gross exports of goods and services were equivalent to 73% of GDP. The oil and gas sector supplied about 22% of government revenue in 2015, down significantly from prior years amid a decline in commodity prices and diversification of government revenues. Malaysia has embarked on a fiscal reform program aimed at achieving a balanced budget by 2020, including rationalization of subsidies and the 2015 introduction of a 6% value added tax. Sustained low commodity prices throughout the period not only strained government finances, but also shrunk Malaysia’s current account surplus and weighed heavily on the Malaysian ringgit, which was among the region’s worst performing currencies during 2013-17. The ringgit hit new lows following the US presidential election amid a broader selloff of emerging market assets.</p><p></p><p>Bank Negara Malaysia (the central bank) maintains adequate foreign exchange reserves; a well-developed regulatory regime has limited Malaysia's exposure to riskier financial instruments, although it remains vulnerable to volatile global capital flows. In order to increase Malaysia’s competitiveness, Prime Minister NAJIB raised possible revisions to the special economic and social preferences accorded to ethnic Malays under the New Economic Policy of 1970, but retreated in 2013 after he encountered significant opposition from Malay nationalists and other vested interests. In September 2013 NAJIB launched the new Bumiputra Economic Empowerment Program, policies that favor and advance the economic condition of ethnic Malays.</p><p></p><p>Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$906.239 billion (2019 est.)<br>
+$868.853 billion (2018 est.)<br>
+$829.296 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.31% (2019 est.)<br>
 4.77% (2018 est.)<br>
 5.81% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$28,364 (2019 est.)<br>
+$27,558 (2018 est.)<br>
+$26,661 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$364.631 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.6% (2019 est.)<br>
@@ -400,26 +415,6 @@ _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br
 _Fitch rating_: BBB+ (2020)<br>
 _Moody's rating_: A3 (2004)<br>
 _Standard & Poors rating_: A- (2003)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$906.239 billion (2019 est.)<br>
-$868.853 billion (2018 est.)<br>
-$829.296 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$364.631 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$28,364 (2019 est.)<br>
-$27,558 (2018 est.)<br>
-$26,661 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.2% of GDP (2018 est.)<br>
-28.3% of GDP (2017 est.)<br>
-28.2% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.8% (2017 est.)<br>
@@ -433,12 +428,6 @@ _investment in fixed capital_: 25.3% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 71.4% (2017 est.)<br>
 _imports of goods and services_: -64.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 81.5 (2020)<br>
-_Starting a Business score_: 83.3 (2020)<br>
-_Trading score_: 88.5 (2020)<br>
-_Enforcement score_: 68.2 (2020)<br>
 
 **Agricultural products**<br>
 oil palm fruit, rice, poultry, eggs, vegetables, rubber, coconuts, bananas, pineapples, pork<br>
@@ -476,9 +465,6 @@ _highest 10%_: 34.7% (2009 est.)<br>
 _revenues_: 51.25 billion (2017 est.)<br>
 _expenditures_: 60.63 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
 
@@ -486,6 +472,9 @@ _expenditures_: 60.63 billion (2017 est.)<br>
 54.1% of GDP (2017 est.)<br>
 56.2% of GDP (2016 est.)<br>
 <strong>note:</strong> this figure is based on the amount of federal government debt, RM501.6 billion ($167.2 billion) in 2012; this includes Malaysian Treasury bills and other government securities, as well as loans raised externally and bonds and notes issued overseas; this figure excludes debt issued by non-financial public enterprises and guaranteed by the federal government, which was an additional $47.7 billion in 2012<br>
+
+**Taxes and other revenues**<br>
+16.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -696,7 +685,7 @@ Malaysian Armed Forces (Angkatan Tentera Malaysia, ATM): Malaysian Army (Tentera
 note: Malaysia created a National Special Operations Force in 2016 for combating terrorism threats; the force is comprised of personnel from the Armed Forces, the Royal Malaysian Police, and the Malaysian Maritime Enforcement Agency (Malaysian Coast Guard, MMEA)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2020 est.)<br>
+1.1% of GDP (2020 est.)<br>
 1% of GDP (2019)<br>
 1% of GDP (2018)<br>
 1.1% of GDP (2017)<br>

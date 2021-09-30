@@ -144,9 +144,15 @@ _female_: 81.03 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.34 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.5% of population<br>
@@ -163,6 +169,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -283,25 +292,25 @@ zenaida dove, white cedar flower; national colors: yellow, green, red, white, bl
 **Economic overview**<br>
 <p>The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism, which generates an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959.</p><p></p><p>Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements.</p><p></p><p>In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business.</p><br>
 
-**Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.9% (2016 est.)<br>
-1.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.1% (2017 est.)<br>
-1.1% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $500 million (2017 est.)<br>
 $490.2 million (2016 est.)<br>
 $481.1 million (2015 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$1.028 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+2% (2017 est.)<br>
+1.9% (2016 est.)<br>
+1.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $34,200 (2017 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$1.028 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.1% (2017 est.)<br>
+1.1% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2017 est.)<br>
@@ -347,11 +356,11 @@ _highest 10%_: NA<br>
 _revenues_: 400 million (2017 est.)<br>
 _expenditures_: 400 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-38.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>
+
+**Taxes and other revenues**<br>
+38.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

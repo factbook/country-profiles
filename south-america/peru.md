@@ -388,10 +388,25 @@ _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
 **Economic overview**<br>
 <p>Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.</p><p></p><p>The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.</p><p></p><p>Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.</p><p></p><p>Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$417.69 billion (2019 est.)<br>
+$408.898 billion (2018 est.)<br>
+$393.259 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.18% (2019 est.)<br>
 3.97% (2018 est.)<br>
 2.48% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$12,848 (2019 est.)<br>
+$12,782 (2018 est.)<br>
+$12,507 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$230.707 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.1% (2019 est.)<br>
@@ -403,26 +418,6 @@ _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
 _Fitch rating_: BBB+ (2013)<br>
 _Moody's rating_: A3 (2014)<br>
 _Standard & Poors rating_: BBB+ (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$417.69 billion (2019 est.)<br>
-$408.898 billion (2018 est.)<br>
-$393.259 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$230.707 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$12,848 (2019 est.)<br>
-$12,782 (2018 est.)<br>
-$12,507 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-19.8% of GDP (2018 est.)<br>
-19.7% of GDP (2017 est.)<br>
-19% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.6% (2017 est.)<br>
@@ -436,12 +431,6 @@ _investment in fixed capital_: 21.7% (2017 est.)<br>
 _investment in inventories_: -0.2% (2017 est.)<br>
 _exports of goods and services_: 24% (2017 est.)<br>
 _imports of goods and services_: -22% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 68.7 (2020)<br>
-_Starting a Business score_: 82.1 (2020)<br>
-_Trading score_: 71.3 (2020)<br>
-_Enforcement score_: 59.1 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, potatoes, rice, plantains, milk, poultry, maize, cassava, oil palm fruit, grapes<br>
@@ -481,9 +470,6 @@ _highest 10%_: 36.1% (2010 est.)<br>
 _revenues_: 58.06 billion (2017 est.)<br>
 _expenditures_: 64.81 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-27.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.1% (of GDP) (2017 est.)<br>
 
@@ -491,6 +477,9 @@ _expenditures_: 64.81 billion (2017 est.)<br>
 25.4% of GDP (2017 est.)<br>
 24.5% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
+
+**Taxes and other revenues**<br>
+27.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -703,11 +692,11 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 Joint Command of the Armed Forces of Peru: Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2021)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 95,000 active personnel (55,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 15,000 Air Force) (2021)<br>

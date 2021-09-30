@@ -151,9 +151,15 @@ _female_: 82.71 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.87 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 2.22 physicians/1,000 population (2009)<br>
@@ -175,6 +181,9 @@ NA<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -309,28 +318,28 @@ _lyrics/music_: Chorale Melodia (a local choir)<br>
 **Economic overview**<br>
 <p>New Caledonia has 11% of the world's nickel reserves, representing the second largest reserves on the planet. Only a small amount of the land is suitable for cultivation, and food accounts for about 20% of imports. In addition to nickel, substantial financial support from France - equal to more than 15% of GDP - and tourism are keys to the health of the economy.</p><p></p><p>With the gradual increase in the production of two new nickel plants in 2015, average production of metallurgical goods stood at a record level of 94 thousand tons. However, the sector is exposed to the high volatility of nickel prices, which have been in decline since 2016. In 2017, one of the three major mining firms on the island, Vale, put its operations up for sale, triggering concerns of layoffs ahead of the 2018 independence referendum.</p><br>
 
-**Real GDP growth rate**<br>
-2% (2017 est.)<br>
-1.1% (2016 est.)<br>
-3.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.4% (2017 est.)<br>
-0.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $11.11 billion (2017 est.)<br>
 $10.89 billion (2016 est.)<br>
 $10.77 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$9.77 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+2% (2017 est.)<br>
+1.1% (2016 est.)<br>
+3.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $31,100 (2015 est.)<br>
 $32,100 (2014 est.)<br>
 $29,800 (2012 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$9.77 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.4% (2017 est.)<br>
+0.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.4% (2017 est.)<br>
@@ -377,15 +386,15 @@ _highest 10%_: NA<br>
 _revenues_: 1.995 billion (2015 est.)<br>
 _expenditures_: 1.993 billion (2015 est.)<br>
 
-**Taxes and other revenues**<br>
-20.4% (of GDP) (2015 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2015 est.)<br>
 
 **Public debt**<br>
 6.5% of GDP (2015 est.)<br>
 6.5% of GDP (2014 est.)<br>
+
+**Taxes and other revenues**<br>
+20.4% (of GDP) (2015 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

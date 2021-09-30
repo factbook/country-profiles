@@ -90,8 +90,21 @@ English (official) 44.9%, Norfolk (also known as Norfuk or Norf'k, which is a mi
 **Religions**<br>
 Protestant 46.8% (Anglican 29.2%, Uniting Church in Australia 9.8%, Presbyterian 2.9%, Seventh Day Adventist 2.7%, other 2.2%), Roman Catholic 12.6%, other Christian 2.9%, other 1.4%, none 26.7%, unspecified 9.5% (2016 est.)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
 
 **Population distribution**<br>
 population concentrated around the capital of Kingston<br>
@@ -112,6 +125,12 @@ _female_: NA<br>
 **Total fertility rate**<br>
 NA<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -119,6 +138,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>

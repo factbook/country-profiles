@@ -141,6 +141,9 @@ _female_: 74.41 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.31 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population<br>
 _improved: rural_: rural: 99% of population<br>
@@ -149,6 +152,9 @@ _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 1% of population<br>
 _unimproved: total_: total: 1% of population (2015 est.)<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -156,6 +162,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -266,9 +275,22 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Montserrat
 **Economic overview**<br>
 <p>Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops.</p><p></p><p>Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management. Montserrat is tied to the EU through the UK. Although the UK is leaving the EU, Montserrat’s aid will not be affected as Montserrat maintains a direct agreement with the EU regarding aid.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$167.4 billion (2011 est.)<br>
+$155.9 billion (2010 est.)<br>
+$162.7 billion (2009 est.)<br>
+
 **Real GDP growth rate**<br>
 7.4% (2011 est.)<br>
 -4.2% (2010 est.)<br>
+
+**Real GDP per capita**<br>
+$34,000 (2011 est.)<br>
+$31,100 (2010 est.)<br>
+$32,300 (2009 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$167.4 million (2011 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.2% (2017 est.)<br>
@@ -276,19 +298,6 @@ blue with the flag of the UK in the upper hoist-side quadrant and the Montserrat
 
 **Credit ratings**<br>
 _Standard & Poors rating_: BBB- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$167.4 billion (2011 est.)<br>
-$155.9 billion (2010 est.)<br>
-$162.7 billion (2009 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$167.4 million (2011 est.)<br>
-
-**Real GDP per capita**<br>
-$34,000 (2011 est.)<br>
-$31,100 (2010 est.)<br>
-$32,300 (2009 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.9% (2017 est.)<br>

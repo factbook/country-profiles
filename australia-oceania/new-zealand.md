@@ -206,6 +206,9 @@ _unimproved: total_: total: 0% of population (2017)<br>
 **Obesity - adult prevalence rate**<br>
 30.8% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 6.3% of GDP (2017)<br>
 
@@ -370,10 +373,25 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 **Economic overview**<br>
 <p>Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector.</p><p></p><p>Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many.</p><p></p><p>Expanding New Zealand’s network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States’ withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand’s most important trading partners.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$210.877 billion (2019 est.)<br>
+$205.112 billion (2018 est.)<br>
+$198.913 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.22% (2019 est.)<br>
 3.22% (2018 est.)<br>
 3.8% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$42,888 (2019 est.)<br>
+$42,370 (2018 est.)<br>
+$41,493 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$205.202 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.6% (2019 est.)<br>
@@ -384,26 +402,6 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 _Fitch rating_: AA (2011)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AA (2011)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$210.877 billion (2019 est.)<br>
-$205.112 billion (2018 est.)<br>
-$198.913 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$205.202 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$42,888 (2019 est.)<br>
-$42,370 (2018 est.)<br>
-$41,493 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-21.4% of GDP (2018 est.)<br>
-21% of GDP (2017 est.)<br>
-20.2% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.7% (2017 est.)<br>
@@ -417,12 +415,6 @@ _investment in fixed capital_: 23.4% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 27% (2017 est.)<br>
 _imports of goods and services_: -26.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 86.8 (2020)<br>
-_Starting a Business score_: 100 (2020)<br>
-_Trading score_: 84.6 (2020)<br>
-_Enforcement score_: 71.5 (2020)<br>
 
 **Agricultural products**<br>
 milk, beef, kiwi fruit, apples, potatoes, mutton, grapes, wheat, barley, green onions/shallots<br>
@@ -459,15 +451,15 @@ _highest 10%_: NA<br>
 _revenues_: 74.11 billion (2017 est.)<br>
 _expenditures_: 70.97 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-36.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 31.7% of GDP (2017 est.)<br>
 33.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+36.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -669,11 +661,11 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 New Zealand Defence Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2021)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2020)<br>
 1.5% of GDP (2019)<br>
 1.3% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.2% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>

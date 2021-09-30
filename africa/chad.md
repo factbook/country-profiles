@@ -388,24 +388,16 @@ _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
 **Economic overview**<br>
 <p>Chad’s landlocked location results in high transportation costs for imported goods and dependence on neighboring countries. Oil and agriculture are mainstays of Chad’s economy. Oil provides about 60% of export revenues, while cotton, cattle, livestock, and gum arabic provide the bulk of Chad's non-oil export earnings. The services sector contributes less than one-third of GDP and has attracted foreign investment mostly through telecommunications and banking.</p><p></p><p>Nearly all of Chad’s fuel is provided by one domestic refinery, and unanticipated shutdowns occasionally result in shortages. The country regulates the price of domestic fuel, providing an incentive for black market sales.</p><p></p><p>Although high oil prices and strong local harvests supported the economy in the past, low oil prices now stress Chad’s fiscal position and have resulted in significant government cutbacks. Chad relies on foreign assistance and foreign capital for most of its public and private sector investment. Investment in Chad is difficult due to its limited infrastructure, lack of trained workers, extensive government bureaucracy, and corruption. Chad obtained a three-year extended credit facility from the IMF in 2014 and was granted debt relief under the Heavily Indebted Poor Countries Initiative in April 2015.</p><p></p><p>In 2018, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Chad’s national development plan (NDP) cost just over $9 billion with a financing gap of $6.7 billion. The NDP emphasized the importance of private sector participation in Chad’s development, as well as the need to improve the business environment, particularly in priority sectors such as mining and agriculture.</p><p></p><p>The Government of Chad reached a deal with Glencore and four other banks on the restructuring of a $1.45 billion oil-backed loan in February 2018, after a long negotiation. The new terms include an extension of the maturity to 2030 from 2022, a two-year grace period on principal repayments, and a lower interest rate of the London Inter-bank Offer Rate (Libor) plus 2% - down from Libor plus 7.5%. The original Glencore loan was to be repaid with crude oil assets, however, Chad's oil sales were hit by the downturn in the price of oil. Chad had secured a $312 million credit from the IMF in June 2017, but release of those funds hinged on restructuring the Glencore debt. Chad had already cut public spending to try to meet the terms of the IMF program, but that prompted strikes and protests in a country where nearly 40% of the population lives below the poverty line. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2018, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security.</p><br>
 
-**Real GDP growth rate**<br>
--3.1% (2017 est.)<br>
--6.4% (2016 est.)<br>
-1.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
--0.9% (2019 est.)<br>
-4.2% (2018 est.)<br>
--1.5% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $25.19 billion (2019 est.)<br>
 $24.397 billion (2018 est.)<br>
 $23.832 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$10.912 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+-3.1% (2017 est.)<br>
+-6.4% (2016 est.)<br>
+1.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,580 (2019 est.)<br>
@@ -413,10 +405,13 @@ $1,576 (2018 est.)<br>
 $1,587 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-15.5% of GDP (2017 est.)<br>
-7.5% of GDP (2016 est.)<br>
-13.3% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$10.912 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+-0.9% (2019 est.)<br>
+4.2% (2018 est.)<br>
+-1.5% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 52.3% (2017 est.)<br>
@@ -430,12 +425,6 @@ _investment in fixed capital_: 24.1% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 35.1% (2017 est.)<br>
 _imports of goods and services_: -39.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 36.9 (2020)<br>
-_Starting a Business score_: 52.5 (2020)<br>
-_Trading score_: 37 (2020)<br>
-_Enforcement score_: 45.5 (2020)<br>
 
 **Agricultural products**<br>
 sorghum, groundnuts, millet, yams, cereals, sugar cane, beef, maize, cotton, cassava<br>
@@ -470,15 +459,15 @@ _highest 10%_: 30.8% (2003)<br>
 _revenues_: 1.337 billion (2017 est.)<br>
 _expenditures_: 1.481 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-13.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 52.5% of GDP (2017 est.)<br>
 52.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+13.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -704,7 +693,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 373,080 (Sudan), 121,036 (Central African Republic), 16,895 (Nigeria) (2021), 7,956 (Cameroon)<br>
+_refugees (country of origin)_: 373,080 (Sudan), 121,036 (Central African Republic), 16,895 (Nigeria), 7,956 (Cameroon) (2021)<br>
 _IDPs_: 401,511 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

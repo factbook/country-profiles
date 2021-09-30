@@ -144,9 +144,15 @@ _female_: 83.8 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.9 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -155,6 +161,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -245,9 +254,8 @@ _election results_: Howard QUAYLE (independent) elected chief minister; Tynwald 
 
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>
-_elections_: <br>Legislative Council - last held 28 February 2018 (next to be held 12 March 2020)<br> House of Keys - last held on 22 September 2016 (next to be held on 23 September 2021)<br>
-_election results_: <strong> </strong><br> Legislative Council - composition - men 6, women 5, percent of women 45.5%<br>House of Keys - percent of vote by party - Liberal Vannin 6.4%, independent 92.3%, other 1.3%; seats by party - Liberal Vannin 3, independent 21; composition - men 19, women 5, percent of women 20.8%; note - total Tynwald percent of women 28.6%<br>
-<strong>note:</strong> as of January 2019, seats by party - Liberal Vannin 2, independent 22<br>
+_elections_: <br>Legislative Council - last held 29 February 2020 (next to be held on 28 February 2022)<br>House of Keys - last held on 23 September 2021 (next to be held in September 2026)<br>
+_election results_: <p>Legislative Council - composition - men 6, women 5; percent of women 45.5%</p> <p>House of Keys - percent of vote by party - Liberal Vannin 5.3%, Manx Labour Prty 5.1%, Green Party 3.3% independent 86.3%; seats by party - independent 21; Manx Labour Party 2, Liberal Vannin 1, Green Party 0; composition – men 14, women 10, percent of women 41.7%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Isle of Man High Court of Justice (consists of 3 permanent judges or "deemsters" and 1 judge of appeal; organized into the Staff of Government Division or Court of Appeal and the Civil Division); the Court of General Gaol Delivery is not formally part of the High Court but is administered as though part of the High Court and deals with serious criminal cases; note - appeals beyond the Court of Appeal are referred to the Judicial Committee of the Privy Council (in London)<br>
@@ -255,7 +263,7 @@ _judge selection and term of office_: deemsters appointed by the Lord Chancellor
 _subordinate courts_: High Court; Court of Summary Gaol Delivery; Summary Courts; Magistrate's Court; specialized courts<br>
 
 **Political parties and leaders**<br>
-Liberal Vannin Party [Kate BEECROFT]<br>Manx Labor Party<br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)<br>
+<p>Green Party [Andrew LANGAN-NEWTON]<br>Liberal Vannin Party [Lawrie HOOPER]<br>Manx Labor Party [Joney FARAGHER] <br>Mec Vannin [Mark KERMODE] (sometimes referred to as the Manx Nationalist Party)</p><br>
 <strong>note:</strong> most members sit as independents<br>
 
 **International organization participation**<br>
@@ -283,10 +291,24 @@ _lyrics/music_: William Henry GILL [English], John J. KNEEN [Manx]/traditional<b
 **Economic overview**<br>
 Financial services, manufacturing, and tourism are key sectors of the economy. The government offers low taxes and other incentives to high-technology companies and financial institutions to locate on the island; this has paid off in expanding employment opportunities in high-income industries. As a result, agriculture and fishing, once the mainstays of the economy, have declined in their contributions to GDP. The Isle of Man also attracts online gambling sites and the film industry. Online gambling sites provided about 10% of the islands income in 2014. The Isle of Man currently enjoys free access to EU markets and trade is mostly with the UK. The Isle of Man’s trade relationship with the EU derives from the United Kingdom’s EU membership and will need to be renegotiated in light of the United Kingdom’s decision to withdraw from the bloc. A transition period is expected to allow the free movement of goods and agricultural products to the EU until the end of 2020 or until a new settlement is negotiated.<br>
 
+**Real GDP (purchasing power parity)**<br>
+$6.792 billion (2015 est.)<br>
+$7.428 billion (2014 est.)<br>
+$6.298 billion (2013 est.)<br>
+<strong>note:</strong> data are in 2014 US dollars<br>
+
 **Real GDP growth rate**<br>
 -8.6% (2015 est.)<br>
 17.9% (2014 est.)<br>
 2.1% (2010 est.)<br>
+
+**Real GDP per capita**<br>
+$84,600 (2014 est.)<br>
+$86,200 (2013 est.)<br>
+$73,700 (2012 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$6.792 billion (2015 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2017 est.)<br>
@@ -295,20 +317,6 @@ Financial services, manufacturing, and tourism are key sectors of the economy. T
 **Credit ratings**<br>
 _Moody's rating_: Aa3 (2020)<br>
 _Standard & Poors rating_: N/A (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$6.792 billion (2015 est.)<br>
-$7.428 billion (2014 est.)<br>
-$6.298 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2014 US dollars<br>
-
-**GDP (official exchange rate)**<br>
-$6.792 billion (2015 est.)<br>
-
-**Real GDP per capita**<br>
-$84,600 (2014 est.)<br>
-$86,200 (2013 est.)<br>
-$73,700 (2012 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (FY12/13 est.)<br>
@@ -353,11 +361,11 @@ _highest 10%_: NA<br>
 _revenues_: 965 million (FY05/06 est.)<br>
 _expenditures_: 943 million (FY05/06 est.)<br>
 
-**Taxes and other revenues**<br>
-14.2% (of GDP) (FY05/06 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (FY05/06 est.)<br>
+
+**Taxes and other revenues**<br>
+14.2% (of GDP) (FY05/06 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

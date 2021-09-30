@@ -377,10 +377,25 @@ _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 **Economic overview**<br>
 <p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p><p></p><p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p><p></p><p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$101.738 billion (2019 est.)<br>
+$99.786 billion (2018 est.)<br>
+$97.893 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2% (2019 est.)<br>
 1.94% (2018 est.)<br>
 2.12% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$10,071 (2019 est.)<br>
+$10,023 (2018 est.)<br>
+$10,010 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$44.568 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2019 est.)<br>
@@ -391,26 +406,6 @@ _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 _Fitch rating_: BB- (2019)<br>
 _Moody's rating_: B1 (2013)<br>
 _Standard & Poors rating_: B+ (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$101.738 billion (2019 est.)<br>
-$99.786 billion (2018 est.)<br>
-$97.893 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$44.568 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$10,071 (2019 est.)<br>
-$10,023 (2018 est.)<br>
-$10,010 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-15.8% of GDP (2019 est.)<br>
-12% of GDP (2018 est.)<br>
-8.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.5% (2017 est.)<br>
@@ -424,12 +419,6 @@ _investment in fixed capital_: 22.8% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 34.2% (2017 est.)<br>
 _imports of goods and services_: -58% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69 (2020)<br>
-_Starting a Business score_: 84.5 (2020)<br>
-_Trading score_: 79 (2020)<br>
-_Enforcement score_: 55.6 (2020)<br>
 
 **Agricultural products**<br>
 tomatoes, poultry, olives, milk, potatoes, cucumbers, vegetables, watermelons, green chillies/peppers, peaches/nectarines<br>
@@ -468,9 +457,6 @@ _highest 10%_: 28.7% (2010 est.)<br>
 _revenues_: 9.462 billion (2017 est.)<br>
 _expenditures_: 11.51 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.1% (of GDP) (2017 est.)<br>
 
@@ -478,6 +464,9 @@ _expenditures_: 11.51 billion (2017 est.)<br>
 95.9% of GDP (2017 est.)<br>
 95.1% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+23.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -675,7 +664,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2020)<br>
 
 **Military expenditures**<br>
-5% of GDP (2020 est.)<br>
+4.7% of GDP (2020 est.)<br>
 4.7% of GDP (2019)<br>
 4.7% of GDP (2018)<br>
 4.8% of GDP (2017)<br>

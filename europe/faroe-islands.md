@@ -143,9 +143,15 @@ _female_: 83.77 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.3 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 99% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 2.62 physicians/1,000 population (2016)<br>
@@ -164,6 +170,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 ## Environment
@@ -289,30 +298,25 @@ _lyrics/music_: Simun av SKAROI/Peter ALBERG<br>
 **Economic overview**<br>
 <p>The Faroese economy has experienced a period of significant growth since 2011, due to higher fish prices and increased salmon farming and catches in the pelagic fisheries. Fishing has been the main source of income for the Faroe Islands since the late 19th century, but dependence on fishing makes the economy vulnerable to price fluctuations. Nominal GDP, measured in current prices, grew 5.6% in 2015 and 6.8% in 2016. GDP growth was forecast at 6.2% in 2017, slowing to 0.5% in 2018, due to lower fisheries quotas, higher oil prices and fewer farmed salmon combined with lower salmon prices. The fisheries sector accounts for about 97% of exports, and half of GDP. Unemployment is low, estimated at 2.1% in early 2018. Aided by an annual subsidy from Denmark, which amounts to about 11% of Faroese GDP , Faroese have a standard of living equal to that of Denmark. The Faroe Islands have bilateral free trade agreements with the EU, Iceland, Norway, Switzerland, and Turkey.</p><p></p><p>For the first time in 8 years, the Faroe Islands managed to generate a public budget surplus in 2016, a trend which continued in 2017. The local government intends to use this to reduce public debt, which reached 38% of GDP in 2015. A fiscal sustainability analysis of the Faroese economy shows that a long-term tightening of fiscal policy of 5% of GDP is required for fiscal sustainability.</p><p></p><p>Increasing public infrastructure investments are likely to lead to continued growth in the short term, and the Faroese economy is becoming somewhat more diversified. Growing industries include financial services, petroleum-related businesses, shipping, maritime manufacturing services, civil aviation, IT, telecommunications, and tourism.</p><br>
 
-**Real GDP growth rate**<br>
-5.9% (2017 est.)<br>
-7.5% (2016 est.)<br>
-2.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
--0.3% (2016)<br>
--1.7% (2015)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.001 billion (2014 est.)<br>
 $1.89 billion (2013 est.)<br>
 $1.608 billion (2012 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$2.765 billion (2014 est.)<br>
+**Real GDP growth rate**<br>
+5.9% (2017 est.)<br>
+7.5% (2016 est.)<br>
+2.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $40,000 (2014 est.)<br>
 
-**Gross national saving**<br>
-25.7% of GDP (2012 est.)<br>
-25.2% of GDP (2011 est.)<br>
-25.9% of GDP (2010 est.)<br>
+**GDP (official exchange rate)**<br>
+$2.765 billion (2014 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+-0.3% (2016)<br>
+-1.7% (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 18% (2013 est.)<br>
@@ -361,14 +365,14 @@ _revenues_: 835.6 million (2014 est.)<br>
 _expenditures_: 883.8 million (2014)<br>
 <strong>note:</strong> Denmark supplies the Faroe Islands with almost one-third of its public funds<br>
 
-**Taxes and other revenues**<br>
-30.2% (of GDP) (2014 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.7% (of GDP) (2014 est.)<br>
 
 **Public debt**<br>
 35% of GDP (2014 est.)<br>
+
+**Taxes and other revenues**<br>
+30.2% (of GDP) (2014 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

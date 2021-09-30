@@ -154,6 +154,9 @@ _female_: 80.43 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.82 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 96.2% of population<br>
 _unimproved: total_: total: 3.8% of population (2017 est.)<br>
@@ -347,10 +350,25 @@ _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 **Economic overview**<br>
 <p>Since independence in 1976, per capita output in this Indian Ocean archipelago has expanded to roughly seven times the pre-independence, near-subsistence level, moving the island into the high income group of countries. Growth has been led by the tourism sector, which directly employs about 26% of the labor force and directly and indirectly accounts for more than 55% of GDP, and by tuna fishing. In recent years, the government has encouraged foreign investment to upgrade hotels and tourism industry services. At the same time, the government has moved to reduce the dependence on tourism by promoting the development of the offshore financial, information, and communication sectors and renewable energy.</p> <p>In 2008, having depleted its foreign exchange reserves, Seychelles defaulted on interest payments due on a $230 million Eurobond, requested assistance from the IMF, and immediately enacted a number of significant structural reforms, including liberalization of the exchange rate, reform of the public sector to include layoffs, and the sale of some state assets. In December 2013, the IMF declared that Seychelles had successfully transitioned to a market-based economy with full employment and a fiscal surplus. However, state-owned enterprises still play a prominent role in the economy. Effective 1 January 2017, Seychelles was no longer eligible for trade benefits under the US African Growth and Opportunities Act after having gained developed country status. Seychelles grew at 5% in 2017 because of a strong tourism sector and low commodity prices. The Seychellois Government met the IMF’s performance criteria for 2017 but recognizes a need to make additional progress to reduce high income inequality, represented by a Gini coefficient of 46.8.</p> <p>As a very small open economy dependent on tourism, Seychelles remains vulnerable to developments such as economic downturns in countries that supply tourists, natural disasters, and changes in local climatic conditions and ocean temperature. One of the main challenges facing the government is implementing strategies that will increase Seychelles' long-term resilience to climate change without weakening economic growth.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2.852 billion (2019 est.)<br>
+$2.709 billion (2018 est.)<br>
+$2.611 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5.3% (2017 est.)<br>
 4.5% (2016 est.)<br>
 4.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$29,223 (2019 est.)<br>
+$27,997 (2018 est.)<br>
+$27,243 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1.748 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2019 est.)<br>
@@ -359,26 +377,6 @@ _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2.852 billion (2019 est.)<br>
-$2.709 billion (2018 est.)<br>
-$2.611 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1.748 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$29,223 (2019 est.)<br>
-$27,997 (2018 est.)<br>
-$27,243 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-12.4% of GDP (2019 est.)<br>
-13.1% of GDP (2018 est.)<br>
-13.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -392,12 +390,6 @@ _investment in fixed capital_: 26.7% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 79.4% (2017 est.)<br>
 _imports of goods and services_: -93.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.7 (2020)<br>
-_Starting a Business score_: 78.8 (2020)<br>
-_Trading score_: 71.8 (2020)<br>
-_Enforcement score_: 51.2 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, vegetables, bananas, fruit, eggs, poultry, tomatoes, pork, tropical fruit, cassava<br>
@@ -434,15 +426,15 @@ _highest 10%_: 15.4% (2007)<br>
 _revenues_: 593.4 million (2017 est.)<br>
 _expenditures_: 600.7 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
 69.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+39.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -634,7 +626,7 @@ _major seaport(s)_: Victoria<br>
 Seychelles People&rsquo;s Defence Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force (2020)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2020)<br>
+1.6% of GDP (2020 est.)<br>
 1.3% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.5% of GDP (2017)<br>

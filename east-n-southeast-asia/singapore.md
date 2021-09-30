@@ -161,6 +161,9 @@ _female_: 89.05 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.15 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: total_: total: 100% of population<br>
@@ -195,6 +198,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.1% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 2.9% of GDP (2013)<br>
@@ -365,10 +371,25 @@ _lyrics/music_: ZUBIR Said<br>
 **Economic overview**<br>
 <p>Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.</p><p></p><p>The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.</p><p></p><p>The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$555.193 billion (2019 est.)<br>
+$551.152 billion (2018 est.)<br>
+$532.832 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.73% (2019 est.)<br>
 3.48% (2018 est.)<br>
 4.34% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$97,341 (2019 est.)<br>
+$97,745 (2018 est.)<br>
+$94,941 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$372.088 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.5% (2019 est.)<br>
@@ -379,26 +400,6 @@ _lyrics/music_: ZUBIR Said<br>
 _Fitch rating_: AAA (2003)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AAA (1995)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$555.193 billion (2019 est.)<br>
-$551.152 billion (2018 est.)<br>
-$532.832 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$372.088 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$97,341 (2019 est.)<br>
-$97,745 (2018 est.)<br>
-$94,941 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-42.8% of GDP (2019 est.)<br>
-43.9% of GDP (2018 est.)<br>
-45.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2017 est.)<br>
@@ -412,12 +413,6 @@ _investment in fixed capital_: 24.8% (2017 est.)<br>
 _investment in inventories_: 2.8% (2017 est.)<br>
 _exports of goods and services_: 173.3% (2017 est.)<br>
 _imports of goods and services_: -149.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 86.2 (2020)<br>
-_Starting a Business score_: 98.2 (2020)<br>
-_Trading score_: 89.6 (2020)<br>
-_Enforcement score_: 84.5 (2020)<br>
 
 **Agricultural products**<br>
 poultry, eggs, vegetables, pork, duck meat, spinach, pig offals, bird eggs, pig fat, cabbages<br>
@@ -458,9 +453,6 @@ _revenues_: 50.85 billion (2017 est.)<br>
 _expenditures_: 51.87 billion (2017 est.)<br>
 <strong>note:</strong> expenditures include both operational and development expenditures<br>
 
-**Taxes and other revenues**<br>
-15.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
 
@@ -468,6 +460,9 @@ _expenditures_: 51.87 billion (2017 est.)<br>
 111.1% of GDP (2017 est.)<br>
 106.8% of GDP (2016 est.)<br>
 <strong>note:</strong> Singapore's public debt consists largely of Singapore Government Securities (SGS) issued to assist the Central Provident Fund (CPF), which administers Singapore's defined contribution pension fund; special issues of SGS are held by the CPF, and are non-tradable; the government has not borrowed to finance deficit expenditures since the 1980s; Singapore has no external public debt<br>
+
+**Taxes and other revenues**<br>
+15.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

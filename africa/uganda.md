@@ -385,10 +385,25 @@ _lyrics/music_: George Wilberforce KAKOMOA<br>
 **Economic overview**<br>
 <p>Uganda has substantial natural resources, including fertile soils, regular rainfall, substantial reserves of recoverable oil, and small deposits of copper, gold, and other minerals. Agriculture is one of the most important sectors of the economy, employing 72% of the work force. The country’s export market suffered a major slump following the outbreak of conflict in South Sudan, but has recovered lately, largely due to record coffee harvests, which account for 16% of exports, and increasing gold exports, which account for 10% of exports. Uganda has a small industrial sector that is dependent on imported inputs such as refined oil and heavy equipment. Overall, productivity is hampered by a number of supply-side constraints, including insufficient infrastructure, lack of modern technology in agriculture, and corruption.</p><p></p><p>Uganda’s economic growth has slowed since 2016 as government spending and public debt has grown. Uganda’s budget is dominated by energy and road infrastructure spending, while Uganda relies on donor support for long-term drivers of growth, including agriculture, health, and education. The largest infrastructure projects are externally financed through concessional loans, but at inflated costs. As a result, debt servicing for these loans is expected to rise.</p><p></p><p>Oil revenues and taxes are expected to become a larger source of government funding as oil production starts in the next three to 10 years. Over the next three to five years, foreign investors are planning to invest $9 billion in production facilities projects, $4 billion in an export pipeline, as well as in a $2-3 billion refinery to produce petroleum products for the domestic and East African Community markets. Furthermore, the government is looking to build several hundred million dollars’ worth of highway projects to the oil region.</p><p></p><p>Uganda faces many economic challenges. Instability in South Sudan has led to a sharp increase in Sudanese refugees and is disrupting Uganda's main export market. Additional economic risks include: poor economic management, endemic corruption, and the government’s failure to invest adequately in the health, education, and economic opportunities for a burgeoning young population. Uganda has one of the lowest electrification rates in Africa - only 22% of Ugandans have access to electricity, dropping to 10% in rural areas.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$96.838 billion (2019 est.)<br>
+$90.669 billion (2018 est.)<br>
+$85.406 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.8% (2017 est.)<br>
 2.3% (2016 est.)<br>
 5.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$2,187 (2019 est.)<br>
+$2,122 (2018 est.)<br>
+$2,075 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$34.683 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.8% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: George Wilberforce KAKOMOA<br>
 _Fitch rating_: B+ (2015)<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$96.838 billion (2019 est.)<br>
-$90.669 billion (2018 est.)<br>
-$85.406 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$34.683 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$2,187 (2019 est.)<br>
-$2,122 (2018 est.)<br>
-$2,075 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22.2% of GDP (2019 est.)<br>
-21.3% of GDP (2018 est.)<br>
-23.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.2% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 23.9% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 18.8% (2017 est.)<br>
 _imports of goods and services_: -25.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60 (2020)<br>
-_Starting a Business score_: 71.4 (2020)<br>
-_Trading score_: 66.7 (2020)<br>
-_Enforcement score_: 60.6 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, plantains, cassava, maize, sweet potatoes, milk, vegetables, beans, bananas, sorghum<br>
@@ -474,15 +463,15 @@ _highest 10%_: 36.1% (2009 est.)<br>
 _revenues_: 3.848 billion (2017 est.)<br>
 _expenditures_: 4.928 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 40% of GDP (2017 est.)<br>
 37.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

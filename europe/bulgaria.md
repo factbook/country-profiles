@@ -160,6 +160,9 @@ _female_: 78.73 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.49 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 98% of population<br>
@@ -371,10 +374,25 @@ _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 **Economic overview**<br>
 <p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p><p></p><p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p><p></p><p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p><p></p><p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$161.654 billion (2019 est.)<br>
+$155.894 billion (2018 est.)<br>
+$151.218 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 3.39% (2019 est.)<br>
 3.2% (2018 est.)<br>
 3.5% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$23,174 (2019 est.)<br>
+$22,191 (2018 est.)<br>
+$21,371 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$68.49 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.1% (2019 est.)<br>
@@ -385,26 +403,6 @@ _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa1 (2020)<br>
 _Standard & Poors rating_: BBB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$161.654 billion (2019 est.)<br>
-$155.894 billion (2018 est.)<br>
-$151.218 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$68.49 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$23,174 (2019 est.)<br>
-$22,191 (2018 est.)<br>
-$21,371 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.1% of GDP (2019 est.)<br>
-24.2% of GDP (2018 est.)<br>
-25.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.3% (2017 est.)<br>
@@ -418,12 +416,6 @@ _investment in fixed capital_: 19.2% (2017 est.)<br>
 _investment in inventories_: 1.7% (2017 est.)<br>
 _exports of goods and services_: 66.3% (2017 est.)<br>
 _imports of goods and services_: -64.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 72 (2020)<br>
-_Starting a Business score_: 85.4 (2020)<br>
-_Trading score_: 97.4 (2020)<br>
-_Enforcement score_: 67 (2020)<br>
 
 **Agricultural products**<br>
 wheat, maize, sunflower seed, milk, barley, rapeseed, potatoes, grapes, tomatoes, watermelons<br>
@@ -462,9 +454,6 @@ _highest 10%_: 31.2% (2017)<br>
 _revenues_: 20.35 billion (2017 est.)<br>
 _expenditures_: 19.35 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.8% (of GDP) (2017 est.)<br>
 
@@ -472,6 +461,9 @@ _expenditures_: 19.35 billion (2017 est.)<br>
 23.9% of GDP (2017 est.)<br>
 27.4% of GDP (2016 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+35.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

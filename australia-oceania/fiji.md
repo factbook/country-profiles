@@ -156,6 +156,9 @@ _female_: 76.82 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.28 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 97.8% of population<br>
 _improved: rural_: rural: 88.7% of population<br>
@@ -197,6 +200,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 30.2% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2013)<br>
@@ -365,10 +371,25 @@ _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by M
 **Economic overview**<br>
 <p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p><p></p><p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p><p></p><p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$12.178 billion (2019 est.)<br>
+$12.232 billion (2018 est.)<br>
+$11.783 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3% (2017 est.)<br>
 0.7% (2016 est.)<br>
 3.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$13,684 (2019 est.)<br>
+$13,846 (2018 est.)<br>
+$13,429 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$4.891 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.4% (2017 est.)<br>
@@ -377,26 +398,6 @@ _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by M
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: BB- (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$12.178 billion (2019 est.)<br>
-$12.232 billion (2018 est.)<br>
-$11.783 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$4.891 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$13,684 (2019 est.)<br>
-$13,846 (2018 est.)<br>
-$13,429 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-19% of GDP (2018 est.)<br>
-18.9% of GDP (2017 est.)<br>
-16.1% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.5% (2017 est.)<br>
@@ -410,12 +411,6 @@ _investment in fixed capital_: 16.9% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 29% (2017 est.)<br>
 _imports of goods and services_: -51.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.5 (2020)<br>
-_Starting a Business score_: 73.6 (2020)<br>
-_Trading score_: 77.9 (2020)<br>
-_Enforcement score_: 57.1 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, cassava, taro, poultry, vegetables, coconuts, eggs, milk, ginger, sweet potatoes<br>
@@ -452,15 +447,15 @@ _highest 10%_: 34.9% (2009 est.)<br>
 _revenues_: 1.454 billion (2017 est.)<br>
 _expenditures_: 1.648 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 48.9% of GDP (2017 est.)<br>
 47.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+29.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -659,11 +654,11 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command (2021)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2020 est.)<br>
 1.6% of GDP (2019)<br>
 1.6% of GDP (2018)<br>
 1.5% of GDP (2017)<br>
 1.2% of GDP (2016)<br>
-1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2020)<br>

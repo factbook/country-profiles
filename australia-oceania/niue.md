@@ -89,8 +89,21 @@ Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoa
 **Religions**<br>
 Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Mormon 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 -0.03% (2021 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA (2021 est.)<br>
 
 **Population distribution**<br>
 population distributed around the peripheral coastal areas of the island<br>
@@ -117,6 +130,9 @@ _female_: NA (2021 est.)<br>
 
 **Total fertility rate**<br>
 NA (2021 est.)<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
 
 **Drinking water source**<br>
 _improved: total_: total: 98.2% of population<br>
@@ -145,6 +161,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 50% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -269,20 +288,20 @@ _lyrics/music_: unknown/unknown, prepared by Sioeli FUSIKATA<br>
 **Economic overview**<br>
 <p>The economy suffers from the typical Pacific island problems of geographic isolation, few resources, and a small population. The agricultural sector consists mainly of subsistence gardening, although some cash crops are grown for export. Industry consists primarily of small factories for processing passion fruit, lime oil, honey, and coconut cream. The sale of postage stamps to foreign collectors is an important source of revenue.</p><p></p><p>Government expenditures regularly exceed revenues, and the shortfall is made up by critically needed grants from New Zealand that are used to pay wages to public employees. Economic aid allocation from New Zealand in FY13/14 was US$10.1 million. Niue has cut government expenditures by reducing the public service by almost half.</p><p></p><p>The island in recent years has suffered a serious loss of population because of emigration to New Zealand. Efforts to increase GDP include the promotion of tourism and financial services, although the International Banking Repeal Act of 2002 resulted in the termination of all offshore banking licenses.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$10.01 million (2003 est.)<br>
+
 **Real GDP growth rate**<br>
 6.2% (2003 est.)<br>
 
-**Inflation rate (consumer prices)**<br>
-4% (2005)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$10.01 million (2003 est.)<br>
+**Real GDP per capita**<br>
+$5,800 (2003 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $10.01 million (2003) (2003)<br>
 
-**Real GDP per capita**<br>
-$5,800 (2003 est.)<br>
+**Inflation rate (consumer prices)**<br>
+4% (2005)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.5% (2003)<br>

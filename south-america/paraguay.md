@@ -382,10 +382,25 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
 **Economic overview**<br>
 <p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p><p></p><p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p><p></p><p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p><p></p><p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$89.362 billion (2019 est.)<br>
+$89.388 billion (2018 est.)<br>
+$86.486 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.8% (2017 est.)<br>
 4.3% (2016 est.)<br>
 3.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$12,685 (2019 est.)<br>
+$12,850 (2018 est.)<br>
+$12,594 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$38.94 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.6% (2017 est.)<br>
@@ -395,26 +410,6 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
 _Fitch rating_: BB+ (2018)<br>
 _Moody's rating_: Ba1 (2015)<br>
 _Standard & Poors rating_: BB (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$89.362 billion (2019 est.)<br>
-$89.388 billion (2018 est.)<br>
-$86.486 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$38.94 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$12,685 (2019 est.)<br>
-$12,850 (2018 est.)<br>
-$12,594 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-21.3% of GDP (2019 est.)<br>
-22.6% of GDP (2018 est.)<br>
-24.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.9% (2017 est.)<br>
@@ -428,12 +423,6 @@ _investment in fixed capital_: 17.3% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 46.6% (2017 est.)<br>
 _imports of goods and services_: -42.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.1 (2020)<br>
-_Starting a Business score_: 76 (2020)<br>
-_Trading score_: 65.1 (2020)<br>
-_Enforcement score_: 61.6 (2020)<br>
 
 **Agricultural products**<br>
 soybeans, sugar cane, maize, cassava, wheat, rice, beef, milk, oranges, oil palm fruit<br>
@@ -471,15 +460,15 @@ _highest 10%_: 37.6% (2013 est.)<br>
 _revenues_: 5.524 billion (2017 est.)<br>
 _expenditures_: 5.968 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 19.5% of GDP (2017 est.)<br>
 18.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -677,11 +666,11 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea) (2021)<br>
 
 **Military expenditures**<br>
+1% of GDP (2020 est.)<br>
 1% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 1% of GDP (2016)<br>
-1.1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 Army; 3,000 Navy; 2,000 Air Force) (2021)<br>

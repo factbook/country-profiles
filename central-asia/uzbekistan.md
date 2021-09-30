@@ -157,6 +157,9 @@ _female_: 78.25 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.73 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 96.1% of population<br>
@@ -361,10 +364,25 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 **Economic overview**<br>
 <p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p><p></p><p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p><p></p><p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$235.021 billion (2019 est.)<br>
+$222.634 billion (2018 est.)<br>
+$211.134 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 5.3% (2017 est.)<br>
 7.8% (2016 est.)<br>
 7.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$6,999 (2019 est.)<br>
+$6,755 (2018 est.)<br>
+$6,519 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$57.789 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 12.5% (2017 est.)<br>
@@ -375,26 +393,6 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 _Fitch rating_: BB- (2018)<br>
 _Moody's rating_: B1 (2019)<br>
 _Standard & Poors rating_: BB- (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$235.021 billion (2019 est.)<br>
-$222.634 billion (2018 est.)<br>
-$211.134 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$57.789 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$6,999 (2019 est.)<br>
-$6,755 (2018 est.)<br>
-$6,519 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-40.1% of GDP (2019 est.)<br>
-41.3% of GDP (2018 est.)<br>
-36.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.9% (2017 est.)<br>
@@ -408,12 +406,6 @@ _investment in fixed capital_: 25.3% (2017 est.)<br>
 _investment in inventories_: 3% (2017 est.)<br>
 _exports of goods and services_: 19% (2017 est.)<br>
 _imports of goods and services_: -20% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69.9 (2020)<br>
-_Starting a Business score_: 96.2 (2020)<br>
-_Trading score_: 58.2 (2020)<br>
-_Enforcement score_: 71.9 (2020)<br>
 
 **Agricultural products**<br>
 milk, wheat, potatoes, carrots/turnips, cotton, tomatoes, vegetables, grapes, onions, watermelons<br>
@@ -452,15 +444,15 @@ _highest 10%_: 29.6% (2003)<br>
 _revenues_: 15.22 billion (2017 est.)<br>
 _expenditures_: 15.08 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-31.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 24.3% of GDP (2017 est.)<br>
 10.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+31.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -385,10 +385,25 @@ _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADIL
 **Economic overview**<br>
 <p>The Republic of the Congo’s economy is a mixture of subsistence farming, an industrial sector based largely on oil and support services, and government spending. Oil has supplanted forestry as the mainstay of the economy, providing a major share of government revenues and exports. Natural gas is increasingly being converted to electricity rather than being flared, greatly improving energy prospects. New mining projects, particularly iron ore, which entered production in late 2013, may add as much as $1 billion to annual government revenue. The Republic of the Congo is a member of the Central African Economic and Monetary Community (CEMAC) and shares a common currency – the Central African Franc – with five other member states in the region.</p><p></p><p>The current administration faces difficult economic challenges of stimulating recovery and reducing poverty. The drop in oil prices that began in 2014 has constrained government spending; lower oil prices forced the government to cut more than $1 billion in planned spending. The fiscal deficit amounted to 11% of GDP in 2017. The government’s inability to pay civil servant salaries has resulted in multiple rounds of strikes by many groups, including doctors, nurses, and teachers. In the wake of a multi-year recession, the country reached out to the IMF in 2017 for a new program; the IMF noted that the country’s continued dependence on oil, unsustainable debt, and significant governance weakness are key impediments to the country’s economy. In 2018, the country’s external debt level will approach 120% of GDP. The IMF urged the government to renegotiate debts levels to sustainable levels before it agreed to a new macroeconomic adjustment package.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$19.763 billion (2019 est.)<br>
+$20.489 billion (2018 est.)<br>
+$21.844 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -3.1% (2017 est.)<br>
 -2.8% (2016 est.)<br>
 2.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,673 (2019 est.)<br>
+$3,907 (2018 est.)<br>
+$4,274 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$8.718 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.2% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Jacques TONDRA and Georges KIBANGHI/Jean ROYER and Joseph SPADIL
 _Fitch rating_: CCC (2019)<br>
 _Moody's rating_: Caa2 (2018)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$19.763 billion (2019 est.)<br>
-$20.489 billion (2018 est.)<br>
-$21.844 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$8.718 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$3,673 (2019 est.)<br>
-$3,907 (2018 est.)<br>
-$4,274 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-19.5% of GDP (2017 est.)<br>
--12.8% of GDP (2016 est.)<br>
-6.6% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.3% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 42.5% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 62.9% (2017 est.)<br>
 _imports of goods and services_: -62.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 39.5 (2020)<br>
-_Starting a Business score_: 65.8 (2020)<br>
-_Trading score_: 19.7 (2020)<br>
-_Enforcement score_: 44 (2020)<br>
 
 **Agricultural products**<br>
 cassava, sugar cane, oil palm fruit, cassava leaves, bananas, plantains, roots/tubers, game meat, vegetables, mangoes/guavas<br>
@@ -473,15 +462,15 @@ _highest 10%_: 37.1% (2005)<br>
 _revenues_: 1.965 billion (2017 est.)<br>
 _expenditures_: 2.578 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-22.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 130.8% of GDP (2017 est.)<br>
 128.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+22.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

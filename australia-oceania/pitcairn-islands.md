@@ -84,8 +84,21 @@ English (official), Pitkern (mixture of an 18th century English dialect and a Ta
 **Religions**<br>
 Seventh Day Adventist 100%<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 0% (2014 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
 
 **Population distribution**<br>
 less than 50 inhabitants on Pitcairn Island, most reside near the village of Adamstown<br>
@@ -110,6 +123,12 @@ _female_: NA (2021 est.)<br>
 **Total fertility rate**<br>
 NA<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -123,6 +142,9 @@ NA<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 ## Environment
 

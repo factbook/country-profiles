@@ -384,10 +384,25 @@ _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
 **Economic overview**<br>
 <p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p><p></p><p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p><p></p><p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$197.735 billion (2019 est.)<br>
+$188.225 billion (2018 est.)<br>
+$175.94 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.6% (2017 est.)<br>
 6.6% (2016 est.)<br>
 7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$18,413 (2019 est.)<br>
+$17,712 (2018 est.)<br>
+$16,735 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$88.956 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2019 est.)<br>
@@ -398,26 +413,6 @@ _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
 _Fitch rating_: BB- (2016)<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: BB- (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$197.735 billion (2019 est.)<br>
-$188.225 billion (2018 est.)<br>
-$175.94 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$88.956 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$18,413 (2019 est.)<br>
-$17,712 (2018 est.)<br>
-$16,735 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-23.8% of GDP (2019 est.)<br>
-23.5% of GDP (2018 est.)<br>
-22% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.6% (2017 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 21.9% (2017 est.)<br>
 _investment in inventories_: -0.1% (2017 est.)<br>
 _exports of goods and services_: 24.8% (2017 est.)<br>
 _imports of goods and services_: -28.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60 (2020)<br>
-_Starting a Business score_: 85.4 (2020)<br>
-_Trading score_: 83.5 (2020)<br>
-_Enforcement score_: 50.6 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, bananas, papayas, rice, plantains, milk, avocados, fruit, pineapples, coconuts<br>
@@ -474,15 +463,15 @@ _highest 10%_: 37.4% (2013 est.)<br>
 _revenues_: 11.33 billion (2017 est.)<br>
 _expenditures_: 13.62 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 37.2% of GDP (2017 est.)<br>
 34.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -686,11 +675,11 @@ Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Mari
 note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.7% of GDP (2017)<br>
 0.7% of GDP (2016)<br>
-0.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active personnel (30,000 Army; 13,000 Navy; 17,000 Air Force); approximately 30,000 National Police (2021)<br>

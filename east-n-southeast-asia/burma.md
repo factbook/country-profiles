@@ -396,24 +396,16 @@ _lyrics/music_: SAYA TIN<br>
 **Economic overview**<br>
 <p>Since Burma began the transition to a civilian-led government in 2011, the country initiated economic reforms aimed at attracting foreign investment and reintegrating into the global economy. Burma established a managed float of the Burmese kyat in 2012, granted the Central Bank operational independence in July 2013, enacted a new anti-corruption law in September 2013, and granted licenses to 13 foreign banks in 2014-16. State Counsellor AUNG SAN SUU KYI and the ruling National League for Democracy, who took power in March 2016, have sought to improve Burma’s investment climate following the US sanctions lift in October 2016 and reinstatement of Generalized System of Preferences trade benefits in November 2016. In October 2016, Burma passed a foreign investment law that consolidates investment regulations and eases rules on foreign ownership of businesses.</p> <p>Burma’s economic growth rate recovered from a low growth under 6% in 2011 but has been volatile between 6% and 8% between 2014 and 2018. Burma’s abundant natural resources and young labor force have the potential to attract foreign investment in the energy, garment, information technology, and food and beverage sectors. The government is focusing on accelerating agricultural productivity and land reforms, modernizing and opening the financial sector, and developing transportation and electricity infrastructure. The government has also taken steps to improve transparency in the mining and oil sectors through publication of reports under the Extractive Industries Transparency Initiative (EITI) in 2016 and 2018.</p> <p>Despite these improvements, living standards have not improved for the majority of the people residing in rural areas. Burma remains one of the poorest countries in Asia – approximately 26% of the country’s 51 million people live in poverty. The isolationist policies and economic mismanagement of previous governments have left Burma with poor infrastructure, endemic corruption, underdeveloped human resources, and inadequate access to capital, which will require a major commitment to reverse. The Burmese Government has been slow to address impediments to economic development such as unclear land rights, a restrictive trade licensing system, an opaque revenue collection system, and an antiquated banking system.</p><br>
 
-**Real GDP growth rate**<br>
-6.8% (2017 est.)<br>
-5.9% (2016 est.)<br>
-7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-8.8% (2019 est.)<br>
-6.8% (2018 est.)<br>
-4.6% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $277.909 billion (2019 est.)<br>
 $270.109 billion (2018 est.)<br>
 $253.028 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$76.606 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+6.8% (2017 est.)<br>
+5.9% (2016 est.)<br>
+7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $5,142 (2019 est.)<br>
@@ -421,10 +413,13 @@ $5,029 (2018 est.)<br>
 $4,740 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-29.4% of GDP (2018 est.)<br>
-26.2% of GDP (2017 est.)<br>
-17.6% of GDP (2016 est.)<br>
+**GDP (official exchange rate)**<br>
+$76.606 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+8.8% (2019 est.)<br>
+6.8% (2018 est.)<br>
+4.6% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.1% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 33.5% (2017 est.)<br>
 _investment in inventories_: 1.5% (2017 est.)<br>
 _exports of goods and services_: 21.4% (2017 est.)<br>
 _imports of goods and services_: -28.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 46.8 (2020)<br>
-_Starting a Business score_: 89.3 (2020)<br>
-_Trading score_: 47.7 (2020)<br>
-_Enforcement score_: 26.4 (2020)<br>
 
 **Agricultural products**<br>
 rice, sugar cane, beans, vegetables, milk, maize, poultry, groundnuts, fruit, plantains<br>
@@ -480,15 +469,15 @@ _highest 10%_: 32.4% (1998)<br>
 _revenues_: 9.108 billion (2017 est.)<br>
 _expenditures_: 11.23 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-13.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 33.6% of GDP (2017 est.)<br>
 35.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+13.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -699,11 +688,11 @@ Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Ai
 note: the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br>
 
 **Military expenditures**<br>
+3% of GDP (2020 est.)<br>
 2.7% of GDP (2019 est.)<br>
 2.9% of GDP (2018 est.)<br>
 3.2% of GDP (2017 est.)<br>
 3.7% of GDP (2016 est.)<br>
-4.1% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely; approximately 400,000 total active troops (est. 360,000 Army; 20,000 Navy; 20,000 Air Force) (2021)<br>

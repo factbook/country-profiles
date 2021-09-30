@@ -212,6 +212,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.5% of GDP (2017)<br>
 
@@ -387,10 +390,25 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 **Economic overview**<br>
 <p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p><p></p><p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p><p></p><p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p><p></p><p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3,097,061,000,000 (2019 est.)<br>
+$3,051,034,000,000 (2018 est.)<br>
+$2,997,296,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.49% (2019 est.)<br>
 1.81% (2018 est.)<br>
 2.42% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$46,184 (2019 est.)<br>
+$45,561 (2018 est.)<br>
+$44,827 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$2,715,574,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2019 est.)<br>
@@ -401,26 +419,6 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 _Fitch rating_: AA (2014)<br>
 _Moody's rating_: Aa2 (2015)<br>
 _Standard & Poors rating_: AA (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3,097,061,000,000 (2019 est.)<br>
-$3,051,034,000,000 (2018 est.)<br>
-$2,997,296,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2,715,574,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$46,184 (2019 est.)<br>
-$45,561 (2018 est.)<br>
-$44,827 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-23.4% of GDP (2019 est.)<br>
-23.1% of GDP (2018 est.)<br>
-22.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.7% (2017 est.)<br>
@@ -434,12 +432,6 @@ _investment in fixed capital_: 22.5% (2017 est.)<br>
 _investment in inventories_: 0.9% (2017 est.)<br>
 _exports of goods and services_: 30.9% (2017 est.)<br>
 _imports of goods and services_: -32% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.8 (2020)<br>
-_Starting a Business score_: 93.1 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 73.5 (2020)<br>
 
 **Agricultural products**<br>
 wheat, sugar beet, milk, barley, maize, potatoes, grapes, rapeseed, pork, apples<br>
@@ -478,9 +470,6 @@ _highest 10%_: 25.4% (2013)<br>
 _revenues_: 1.392 trillion (2017 est.)<br>
 _expenditures_: 1.459 trillion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-53.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
 
@@ -488,6 +477,9 @@ _expenditures_: 1.459 trillion (2017 est.)<br>
 96.8% of GDP (2017 est.)<br>
 96.6% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+53.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -157,6 +157,9 @@ _female_: 81.29 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.61 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 92.8% of population<br>
@@ -197,6 +200,9 @@ _vectorborne diseases_: tickborne encephalitis<br>
 
 **Obesity - adult prevalence rate**<br>
 26.3% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.8% of GDP (2017)<br>
@@ -372,10 +378,25 @@ _lyrics/music_: Vincas KUDIRKA<br>
 **Economic overview**<br>
 <p>After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.</p><p></p><p>The Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.</p><p></p><p>Lithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$103.756 billion (2019 est.)<br>
+$99.442 billion (2018 est.)<br>
+$95.675 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.33% (2019 est.)<br>
 3.99% (2018 est.)<br>
 4.37% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$37,231 (2019 est.)<br>
+$35,496 (2018 est.)<br>
+$33,827 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$54.597 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.3% (2019 est.)<br>
@@ -386,26 +407,6 @@ _lyrics/music_: Vincas KUDIRKA<br>
 _Fitch rating_: A (2020)<br>
 _Moody's rating_: A3 (2015)<br>
 _Standard & Poors rating_: A+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$103.756 billion (2019 est.)<br>
-$99.442 billion (2018 est.)<br>
-$95.675 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$54.597 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$37,231 (2019 est.)<br>
-$35,496 (2018 est.)<br>
-$33,827 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-20.8% of GDP (2019 est.)<br>
-20.8% of GDP (2018 est.)<br>
-20% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.5% (2017 est.)<br>
@@ -419,12 +420,6 @@ _investment in fixed capital_: 18.8% (2017 est.)<br>
 _investment in inventories_: -1.3% (2017 est.)<br>
 _exports of goods and services_: 81.6% (2017 est.)<br>
 _imports of goods and services_: -79.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 81.6 (2020)<br>
-_Starting a Business score_: 93.3 (2020)<br>
-_Trading score_: 97.8 (2020)<br>
-_Enforcement score_: 78.8 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, sugar beet, rapeseed, barley, triticale, potatoes, oats, peas, beans<br>
@@ -462,9 +457,6 @@ _highest 10%_: 28.8% (2015)<br>
 _revenues_: 15.92 billion (2017 est.)<br>
 _expenditures_: 15.7 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-33.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.5% (of GDP) (2017 est.)<br>
 
@@ -472,6 +464,9 @@ _expenditures_: 15.7 billion (2017 est.)<br>
 39.7% of GDP (2017 est.)<br>
 40.1% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+33.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

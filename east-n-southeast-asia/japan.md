@@ -200,6 +200,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 3.2% of GDP (2017)<br>
 
@@ -368,10 +371,25 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 **Economic overview**<br>
 <p>Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (slightly less than 1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features have significantly eroded under the dual pressures of global competition and domestic demographic change.</p><p></p><p>Measured on a purchasing power parity basis that adjusts for price differences, Japan in 2017 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. For three postwar decades, overall real economic growth was impressive - averaging 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and the collapse of an asset price bubble in the late 1980s, which resulted in several years of economic stagnation as firms sought to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008.</p><p></p><p>Japan enjoyed an uptick in growth since 2013, supported by Prime Minister Shinzo ABE’s "Three Arrows" economic revitalization agenda - dubbed "Abenomics" - of monetary easing, "flexible" fiscal policy, and structural reform. Led by the Bank of Japan’s aggressive monetary easing, Japan is making modest progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy. The government currently faces the quandary of balancing its efforts to stimulate growth and institute economic reforms with the need to address its sizable public debt, which stands at 235% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate. However, the first such increase, in April 2014, led to a sharp contraction, so Prime Minister ABE has twice postponed the next increase, which is now scheduled for October 2019. Structural reforms to unlock productivity are seen as central to strengthening the economy in the long-run.</p><p></p><p>Scarce in critical natural resources, Japan has long been dependent on imported energy and raw materials. After the complete shutdown of Japan’s nuclear reactors following the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. However, ABE’s government is seeking to restart nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy’s importance as a base-load electricity source. In August 2015, Japan successfully restarted one nuclear reactor at the Sendai Nuclear Power Plant in Kagoshima prefecture, and several other reactors around the country have since resumed operations; however, opposition from local governments has delayed several more restarts that remain pending. Reforms of the electricity and gas sectors, including full liberalization of Japan’s energy market in April 2016 and gas market in April 2017, constitute an important part of Prime Minister Abe’s economic program.</p><p></p><p>Under the Abe Administration, Japan’s government sought to open the country’s economy to greater foreign competition and create new export opportunities for Japanese businesses, including by joining 11 trading partners in the Trans-Pacific Partnership (TPP). Japan became the first country to ratify the TPP in December 2016, but the United States signaled its withdrawal from the agreement in January 2017. In November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also reached agreement with the European Union on an Economic Partnership Agreement in July 2017, and is likely seek to ratify both agreements in the Diet this year.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$5,231,066,000,000 (2019 est.)<br>
+$5,197,069,000,000 (2018 est.)<br>
+$5,180,326,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.7% (2019 est.)<br>
 0.29% (2018 est.)<br>
 2.19% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$41,429 (2019 est.)<br>
+$41,074 (2018 est.)<br>
+$40,859 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$5,078,679,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.4% (2019 est.)<br>
@@ -382,26 +400,6 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 _Fitch rating_: A (2015)<br>
 _Moody's rating_: A1 (2014)<br>
 _Standard & Poors rating_: A+ (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$5,231,066,000,000 (2019 est.)<br>
-$5,197,069,000,000 (2018 est.)<br>
-$5,180,326,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$5,078,679,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$41,429 (2019 est.)<br>
-$41,074 (2018 est.)<br>
-$40,859 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-27.8% of GDP (2018 est.)<br>
-28.1% of GDP (2017 est.)<br>
-27.1% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -415,12 +413,6 @@ _investment in fixed capital_: 24% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 17.7% (2017 est.)<br>
 _imports of goods and services_: -16.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 78 (2020)<br>
-_Starting a Business score_: 86.1 (2020)<br>
-_Trading score_: 85.9 (2020)<br>
-_Enforcement score_: 65.3 (2020)<br>
 
 **Agricultural products**<br>
 rice, milk, sugar beet, vegetables, eggs, poultry, potatoes, cabbages, onions, pork<br>
@@ -458,15 +450,15 @@ _highest 10%_: 24.8% (2008)<br>
 _revenues_: 1.714 trillion (2017 est.)<br>
 _expenditures_: 1.885 trillion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-35.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 237.6% of GDP (2017 est.)<br>
 235.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+35.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

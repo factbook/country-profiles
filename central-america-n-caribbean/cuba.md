@@ -380,27 +380,16 @@ _lyrics/music_: Pedro FIGUEREDO<br>
 **Economic overview**<br>
 <p>The government continues to balance the need for loosening its socialist economic system against a desire for firm political control. In April 2011, the government held the first Cuban Communist Party Congress in almost 13 years, during which leaders approved a plan for wide-ranging economic changes. Since then, the government has slowly and incrementally implemented limited economic reforms, including allowing Cubans to buy electronic appliances and cell phones, stay in hotels, and buy and sell used cars. The government has cut state sector jobs as part of the reform process, and it has opened up some retail services to "self-employment," leading to the rise of so-called "cuentapropistas" or entrepreneurs. More than 500,000 Cuban workers are currently registered as self-employed.</p> <p>The Cuban regime has updated its economic model to include permitting the private ownership and sale of real estate and new vehicles, allowing private farmers to sell agricultural goods directly to hotels, allowing the creation of non-agricultural cooperatives, adopting a new foreign investment law, and launching a "Special Development Zone" around the Mariel port.</p> <p>Since 2016, Cuba has attributed slowed economic growth in part to problems with petroleum product deliveries from Venezuela. Since late 2000, Venezuela provided petroleum products to Cuba on preferential terms, supplying at times nearly 100,000 barrels per day. Cuba paid for the oil, in part, with the services of Cuban personnel in Venezuela, including some 30,000 medical professionals.</p><br>
 
-**Real GDP growth rate**<br>
-1.6% (2017 est.)<br>
-0.5% (2016 est.)<br>
-4.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-5.5% (2017 est.)<br>
-4.5% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Caa2 (2014)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $137 billion (2017 est.)<br>
 $134.8 billion (2016 est.)<br>
 $134.2 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$93.79 billion (2017 est.)<br>
-<strong>note:</strong> data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate<br>
+**Real GDP growth rate**<br>
+1.6% (2017 est.)<br>
+0.5% (2016 est.)<br>
+4.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $12,300 (2016 est.)<br>
@@ -408,10 +397,16 @@ $12,200 (2015 est.)<br>
 $12,100 (2014 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
-**Gross national saving**<br>
-11.4% of GDP (2017 est.)<br>
-12.3% of GDP (2016 est.)<br>
-12.1% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$93.79 billion (2017 est.)<br>
+<strong>note:</strong> data are in Cuban Pesos at 1 CUP = 1 US$; official exchange rate<br>
+
+**Inflation rate (consumer prices)**<br>
+5.5% (2017 est.)<br>
+4.5% (2016 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: Caa2 (2014)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4% (2017 est.)<br>
@@ -460,15 +455,15 @@ _highest 10%_: NA<br>
 _revenues_: 54.52 billion (2017 est.)<br>
 _expenditures_: 64.64 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-58.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -10.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 47.7% of GDP (2017 est.)<br>
 42.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+58.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -672,10 +667,10 @@ _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, N
 Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security (2020)<br>
 
 **Military expenditures**<br>
-2.9% of GDP (2018)<br>
-2.9% of GDP (2017)<br>
-3.1% of GDP (2016)<br>
-3.1% of GDP (2015)<br>
+2.9% of GDP (2018 est.)<br>
+2.9% of GDP (2017 est.)<br>
+3.1% of GDP (2016 est.)<br>
+3.1% of GDP (2015 est.)<br>
 3.5% of GDP (2014)<br>
 
 **Military and security service personnel strengths**<br>

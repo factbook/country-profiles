@@ -379,23 +379,16 @@ _lyrics/music_: Pradeep Kumar RAI/Ambar GURUNG<br>
 **Economic overview**<br>
 <p>Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.</p><p></p><p>Nepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.</p><p></p><p>Massive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.</p><br>
 
-**Real GDP growth rate**<br>
-7.9% (2017 est.)<br>
-0.6% (2016 est.)<br>
-3.3% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-4.5% (2017 est.)<br>
-9.9% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $97.749 billion (2019 est.)<br>
 $91.362 billion (2018 est.)<br>
 $85.624 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$24.88 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+7.9% (2017 est.)<br>
+0.6% (2016 est.)<br>
+3.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,417 (2019 est.)<br>
@@ -403,10 +396,12 @@ $3,253 (2018 est.)<br>
 $3,099 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-48.9% of GDP (2019 est.)<br>
-48.2% of GDP (2018 est.)<br>
-46.7% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$24.88 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+4.5% (2017 est.)<br>
+9.9% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27% (2017 est.)<br>
@@ -420,12 +415,6 @@ _investment in fixed capital_: 33.8% (2017 est.)<br>
 _investment in inventories_: 8.7% (2017 est.)<br>
 _exports of goods and services_: 9.8% (2017 est.)<br>
 _imports of goods and services_: -42% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 63.2 (2020)<br>
-_Starting a Business score_: 81.7 (2020)<br>
-_Trading score_: 85.1 (2020)<br>
-_Enforcement score_: 46 (2020)<br>
 
 **Agricultural products**<br>
 rice, vegetables, sugar cane, potatoes, maize, wheat, buffalo milk, milk, fruit, mangoes/guavas<br>
@@ -464,15 +453,15 @@ _highest 10%_: 29.5% (2011)<br>
 _revenues_: 5.925 billion (2017 est.)<br>
 _expenditures_: 5.945 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 26.4% of GDP (2017 est.)<br>
 27.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+23.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 16 July - 15 July<br>

@@ -380,10 +380,25 @@ _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 **Economic overview**<br>
 <p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p><p></p><p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p><p></p><p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p><p></p><p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$13.357 billion (2019 est.)<br>
+$12.835 billion (2018 est.)<br>
+$12.215 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.3% (2017 est.)<br>
 2.9% (2016 est.)<br>
 3.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$21,470 (2019 est.)<br>
+$20,629 (2018 est.)<br>
+$19,627 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$5.486 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2019 est.)<br>
@@ -393,26 +408,6 @@ _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2016)<br>
 _Standard & Poors rating_: B+ (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$13.357 billion (2019 est.)<br>
-$12.835 billion (2018 est.)<br>
-$12.215 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$5.486 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$21,470 (2019 est.)<br>
-$20,629 (2018 est.)<br>
-$19,627 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-16.9% of GDP (2019 est.)<br>
-14.9% of GDP (2018 est.)<br>
-14.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2016 est.)<br>
@@ -426,12 +421,6 @@ _investment in fixed capital_: 23.2% (2016 est.)<br>
 _investment in inventories_: 2.9% (2016 est.)<br>
 _exports of goods and services_: 40.5% (2016 est.)<br>
 _imports of goods and services_: -63% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 73.8 (2020)<br>
-_Starting a Business score_: 86.7 (2020)<br>
-_Trading score_: 91.9 (2020)<br>
-_Enforcement score_: 66.8 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbages, barley<br>
@@ -469,9 +458,6 @@ _highest 10%_: 25.7% (2014 est.)<br>
 _revenues_: 1.78 billion (2017 est.)<br>
 _expenditures_: 2.05 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-37.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.6% (of GDP) (2017 est.)<br>
 
@@ -479,6 +465,9 @@ _expenditures_: 2.05 billion (2017 est.)<br>
 67.2% of GDP (2017 est.)<br>
 66.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+37.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -697,5 +686,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,792 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 19,887 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 

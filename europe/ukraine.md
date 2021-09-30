@@ -202,6 +202,9 @@ _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 24.1% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.4% of GDP (2017)<br>
 
@@ -377,10 +380,25 @@ _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
 **Economic overview**<br>
 <p>After Russia, the Ukrainian Republic was the most important economic component of the former Soviet Union, producing about four times the output of the next-ranking republic. Its fertile black soil accounted for more than one fourth of Soviet agricultural output, and its farms provided substantial quantities of meat, milk, grain, and vegetables to other republics. Likewise, its diversified heavy industry supplied unique equipment such as large diameter pipes and vertical drilling apparatus, and raw materials to industrial and mining sites in other regions of the former USSR.</p> <p> </p> <p>Shortly after independence in August 1991, the Ukrainian Government liberalized most prices and erected a legal framework for privatization, but widespread resistance to reform within the government and the legislature soon stalled reform efforts and led to some backtracking. Output by 1999 had fallen to less than 40% of the 1991 level. Outside institutions - particularly the IMF encouraged Ukraine to quicken the pace and scope of reforms to foster economic growth. Ukrainian Government officials eliminated most tax and customs privileges in a March 2005 budget law, bringing more economic activity out of Ukraine's large shadow economy. From 2000 until mid-2008, Ukraine's economy was buoyant despite political turmoil between the prime minister and president. The economy contracted nearly 15% in 2009, among the worst economic performances in the world. In April 2010, Ukraine negotiated a price discount on Russian gas imports in exchange for extending Russia's lease on its naval base in Crimea.</p> <p> </p> <p>Ukraine’s oligarch-dominated economy grew slowly from 2010 to 2013 but remained behind peers in the region and among Europe’s poorest. After former President YANUKOVYCH fled the country during the Revolution of Dignity, Ukraine’s economy fell into crisis because of Russia’s annexation of Crimea, military conflict in the eastern part of the country, and a trade war with Russia, resulting in a 17% decline in GDP, inflation at nearly 60%, and dwindling foreign currency reserves. The international community began efforts to stabilize the Ukrainian economy, including a March 2014 IMF assistance package of $17.5 billion, of which Ukraine has received four disbursements, most recently in April 2017, bringing the total disbursed as of that date to approximately $8.4 billion. Ukraine has made progress on reforms designed to make the country prosperous, democratic, and transparent, including creation of a national anti-corruption agency, overhaul of the banking sector, establishment of a transparent VAT refund system, and increased transparency in government procurement. But more improvements are needed, including fighting corruption, developing capital markets, improving the business environment to attract foreign investment, privatizing state-owned enterprises, and land reform. The fifth tranche of the IMF program, valued at $1.9 billion, was delayed in mid-2017 due to lack of progress on outstanding reforms, including adjustment of gas tariffs to import parity levels and adoption of legislation establishing an independent anti-corruption court.</p> <p> </p> <p>Russia’s occupation of Crimea in March 2014 and ongoing Russian aggression in eastern Ukraine have hurt economic growth. With the loss of a major portion of Ukraine’s heavy industry in Donbas and ongoing violence, the economy contracted by 6.6% in 2014 and by 9.8% in 2015, but it returned to low growth in in 2016 and 2017, reaching 2.3% and 2.0%, respectively, as key reforms took hold. Ukraine also redirected trade activity towards the EU following the implementation of a bilateral Deep and Comprehensive Free Trade Agreement, displacing Russia as its largest trading partner. A prohibition on commercial trade with separatist-controlled territories in early 2017 has not impacted Ukraine’s key industrial sectors as much as expected, largely because of favorable external conditions. Ukraine returned to international debt markets in September 2017, issuing a $3 billion sovereign bond.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$538.388 billion (2019 est.)<br>
+$521.524 billion (2018 est.)<br>
+$504.35 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 3.24% (2019 est.)<br>
 3.41% (2018 est.)<br>
 2.48% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$12,810 (2019 est.)<br>
+$12,338 (2018 est.)<br>
+$11,871 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$155.082 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 7.9% (2019 est.)<br>
@@ -392,26 +410,6 @@ _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
 _Fitch rating_: B (2019)<br>
 _Moody's rating_: B3 (2020)<br>
 _Standard & Poors rating_: B (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$538.388 billion (2019 est.)<br>
-$521.524 billion (2018 est.)<br>
-$504.35 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$155.082 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$12,810 (2019 est.)<br>
-$12,338 (2018 est.)<br>
-$11,871 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-12.1% of GDP (2019 est.)<br>
-15.2% of GDP (2018 est.)<br>
-17.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12.2% (2017 est.)<br>
@@ -425,12 +423,6 @@ _investment in fixed capital_: 16% (2017 est.)<br>
 _investment in inventories_: 4.7% (2017 est.)<br>
 _exports of goods and services_: 47.9% (2017 est.)<br>
 _imports of goods and services_: -55.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 70.2 (2020)<br>
-_Starting a Business score_: 91.1 (2020)<br>
-_Trading score_: 80.1 (2020)<br>
-_Enforcement score_: 63.6 (2020)<br>
 
 **Agricultural products**<br>
 maize, wheat, potatoes, sunflower seed, sugar beet, milk, barley, soybeans, rapeseed, tomatoes<br>
@@ -470,9 +462,6 @@ _revenues_: 29.82 billion (2017 est.)<br>
 _expenditures_: 31.55 billion (2017 est.)<br>
 <strong>note:</strong> this is the planned, consolidated budget<br>
 
-**Taxes and other revenues**<br>
-26.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>
 
@@ -480,6 +469,9 @@ _expenditures_: 31.55 billion (2017 est.)<br>
 71% of GDP (2017 est.)<br>
 81.2% of GDP (2016 est.)<br>
 <strong>note:</strong> the total public debt of $64.5 billion consists of: domestic public debt ($23.8 billion); external public debt ($26.1 billion); and sovereign guarantees ($14.6 billion)<br>
+
+**Taxes and other revenues**<br>
+26.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

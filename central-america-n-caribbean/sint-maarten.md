@@ -131,9 +131,15 @@ _female_: 81.51 years (2021 est.)<br>
 **Total fertility rate**<br>
 2 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98.8% of population<br>
@@ -146,6 +152,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -259,23 +268,16 @@ _lyrics/music_: Gerard KEMPS<br>
 **Economic overview**<br>
 The economy of Sint Maarten centers around tourism with nearly four-fifths of the labor force engaged in this sector. Nearly 1.8 million visitors came to the island by cruise ship and roughly 500,000 visitors arrived through Princess Juliana International Airport in 2013. Cruise ships and yachts also call on Sint Maarten's numerous ports and harbors. Limited agriculture and local fishing means that almost all food must be imported. Energy resources and manufactured goods are also imported. Sint Maarten had the highest per capita income among the five islands that formerly comprised the Netherlands Antilles.<br>
 
-**Real GDP growth rate**<br>
-3.6% (2014 est.)<br>
-4.1% (2013 est.)<br>
-1.9% (2012 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-4% (2012 est.)<br>
-0.7% (2009 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.436 billion (2018 est.)<br>
 $1.538 billion (2017 est.)<br>
 $365.8 million (2014 est.)<br>
 <strong>note: </strong>data are in 2014 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$304.1 million (2014 est.)<br>
+**Real GDP growth rate**<br>
+3.6% (2014 est.)<br>
+4.1% (2013 est.)<br>
+1.9% (2012 est.)<br>
 
 **Real GDP per capita**<br>
 $35,342 (2018 est.)<br>
@@ -283,9 +285,12 @@ $37,914 (2017 est.)<br>
 $66,800 (2014 est.)<br>
 <strong>note: </strong>data are in 2015 US dollars<br>
 
-**Gross national saving**<br>
-44.6% of GDP (2018 est.)<br>
-25.5% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$304.1 million (2014 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+4% (2012 est.)<br>
+0.7% (2009 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2008 est.)<br>

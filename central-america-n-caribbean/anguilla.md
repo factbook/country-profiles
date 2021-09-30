@@ -145,11 +145,17 @@ _female_: 84.7 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.72 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 97.5% of population<br>
 _improved: total_: total: 97.5% of population<br>
 _unimproved: urban_: urban: 2.5% of population<br>
 _unimproved: total_: total: 2.5% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.1% of population<br>
@@ -164,6 +170,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -274,23 +283,23 @@ _lyrics/music_: Alex RICHARDSON<br>
 **Economic overview**<br>
 Anguilla has few natural resources, is unsuited for agriculture, and the economy depends heavily on luxury tourism, offshore banking, lobster fishing, and remittances from emigrants. Increased activity in the tourism industry has spurred the growth of the construction sector contributing to economic growth. Anguillan officials have put substantial effort into developing the offshore financial sector, which is small but growing. In the medium term, prospects for the economy will depend largely on the recovery of the tourism sector and, therefore, on revived income growth in the industrialized nations as well as on favorable weather conditions.<br>
 
-**Real GDP growth rate**<br>
--8.5% (2009 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.3% (2017 est.)<br>
--0.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $175.4 million (2009 est.)<br>
 $191.7 million (2008 est.)<br>
 $108.9 million (2004 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$175.4 million (2009 est.)<br>
+**Real GDP growth rate**<br>
+-8.5% (2009 est.)<br>
 
 **Real GDP per capita**<br>
 $12,200 (2008 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$175.4 million (2009 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.3% (2017 est.)<br>
+-0.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2017 est.)<br>
@@ -341,15 +350,15 @@ _highest 10%_: NA<br>
 _revenues_: 81.92 million (2017 est.)<br>
 _expenditures_: 80.32 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-46.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 20.1% of GDP (2015 est.)<br>
 20.8% of GDP (2014 est.)<br>
+
+**Taxes and other revenues**<br>
+46.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

@@ -381,9 +381,24 @@ _lyrics/music_: Nguyen Van CAO<br>
 **Economic overview**<br>
 <p>Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports.</p><p></p><p>Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership.</p><p></p><p>To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%.</p><p></p><p>In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$775.669 billion (2019 est.)<br>
+$724.806 billion (2018 est.)<br>
+$676.909 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 7.16% (2017 est.)<br>
 6.2% (2016 est.)<br>
+
+**Real GDP per capita**<br>
+$8,041 (2019 est.)<br>
+$7,586 (2018 est.)<br>
+$7,156 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$259.957 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.7% (2019 est.)<br>
@@ -394,26 +409,6 @@ _lyrics/music_: Nguyen Van CAO<br>
 _Fitch rating_: BB (2018)<br>
 _Moody's rating_: Ba3 (2018)<br>
 _Standard & Poors rating_: BB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$775.669 billion (2019 est.)<br>
-$724.806 billion (2018 est.)<br>
-$676.909 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$259.957 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$8,041 (2019 est.)<br>
-$7,586 (2018 est.)<br>
-$7,156 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-23.1% of GDP (2019 est.)<br>
-23.4% of GDP (2018 est.)<br>
-22.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.3% (2017 est.)<br>
@@ -427,12 +422,6 @@ _investment in fixed capital_: 24.2% (2017 est.)<br>
 _investment in inventories_: 2.8% (2017 est.)<br>
 _exports of goods and services_: 100% (2017 est.)<br>
 _imports of goods and services_: -101% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69.8 (2020)<br>
-_Starting a Business score_: 85.1 (2020)<br>
-_Trading score_: 70.8 (2020)<br>
-_Enforcement score_: 62.1 (2020)<br>
 
 **Agricultural products**<br>
 rice, vegetables, sugar cane, cassava, maize, pork, fruit, bananas, coffee, coconuts<br>
@@ -470,9 +459,6 @@ _highest 10%_: 26.8% (2014)<br>
 _revenues_: 54.59 billion (2017 est.)<br>
 _expenditures_: 69.37 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-24.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.7% (of GDP) (2017 est.)<br>
 
@@ -480,6 +466,9 @@ _expenditures_: 69.37 billion (2017 est.)<br>
 58.5% of GDP (2017 est.)<br>
 59.9% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+24.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -688,11 +677,11 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2020)<br>
 
 **Military expenditures**<br>
-2.36% of GDP (2018 est.)<br>
-2.3% of GDP (2017)<br>
-2.5% of GDP (2016)<br>
-2.4% of GDP (2015)<br>
-2.3% of GDP (2014)<br>
+2.3% of GDP (2020 est.)<br>
+2.3% of GDP (2019 est.)<br>
+2.4% of GDP (2018 est.)<br>
+2.3% of GDP (2017 est.)<br>
+2.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information is limited and estimates of the size of the People&rsquo;s Army of Vietnam (PAVN) vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2020)<br>

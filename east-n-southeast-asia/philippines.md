@@ -391,10 +391,25 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 **Economic overview**<br>
 <p>The economy has been relatively resilient to global economic shocks due to less exposure to troubled international securities, lower dependence on exports, relatively resilient domestic consumption, large remittances from about 10 million overseas Filipino workers and migrants, and a rapidly expanding services industry. During 2017, the current account balance fell into the negative range, the first time since the 2008 global financial crisis, in part due to an ambitious new infrastructure spending program announced this year. However, international reserves remain at comfortable levels and the banking system is stable.</p><p></p><p>Efforts to improve tax administration and expenditures management have helped ease the Philippines' debt burden and tight fiscal situation. The Philippines received investment-grade credit ratings on its sovereign debt under the former AQUINO administration and has had little difficulty financing its budget deficits. However, weak absorptive capacity and implementation bottlenecks have prevented the government from maximizing its expenditure plans. Although it has improved, the low tax-to-GDP ratio remains a constraint to supporting increasingly higher spending levels and sustaining high and inclusive growth over the longer term.</p><p></p><p>Economic growth has accelerated, averaging over 6% per year from 2011 to 2017, compared with 4.5% under the MACAPAGAL-ARROYO government; and competitiveness rankings have improved. Although 2017 saw a new record year for net foreign direct investment inflows, FDI to the Philippines has continued to lag regional peers, in part because the Philippine constitution and other laws limit foreign investment and restrict foreign ownership in important activities/sectors - such as land ownership and public utilities.</p><p></p><p>Although the economy grew at a rapid pace under the AQUINO government, challenges to achieving more inclusive growth remain. Wealth is concentrated in the hands of the rich. The unemployment rate declined from 7.3% to 5.7% between 2010 and 2017; while there has been some improvement, underemployment remains high at around 17% to 18% of the employed population. At least 40% of the employed work in the informal sector. Poverty afflicts more than a fifth of the total population but is as high as 75% in some areas of the southern Philippines. More than 60% of the poor reside in rural areas, where the incidence of poverty (about 30%) is more severe - a challenge to raising rural farm and non-farm incomes. Continued efforts are needed to improve governance, the judicial system, the regulatory environment, the infrastructure, and the overall ease of doing business.</p><p></p><p>2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development. The administration wants to reduce the poverty rate to 17% and graduate the economy to upper-middle income status by the end of President DUTERTE’s term in 2022. Key themes under the government’s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration sees infrastructure shortcomings as a key barrier to sustained economic growth and has pledged to spend $165 billion on infrastructure by 2022. Although the final outcome has yet to be seen, the current administration is shepherding legislation for a comprehensive tax reform program to raise revenues for its ambitious infrastructure spending plan and to promote a more equitable and efficient tax system. However, the need to finance rehabilitation and reconstruction efforts in the southern region of Mindanao following the 2017 Marawi City siege may compete with other spending on infrastructure.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$963.121 billion (2019 est.)<br>
+$908.257 billion (2018 est.)<br>
+$854.095 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 6.04% (2019 est.)<br>
 6.34% (2018 est.)<br>
 6.94% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$8,908 (2019 est.)<br>
+$8,516 (2018 est.)<br>
+$8,121 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$377.205 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.4% (2019 est.)<br>
@@ -405,26 +420,6 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB+ (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$963.121 billion (2019 est.)<br>
-$908.257 billion (2018 est.)<br>
-$854.095 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$377.205 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$8,908 (2019 est.)<br>
-$8,516 (2018 est.)<br>
-$8,121 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-31.6% of GDP (2019 est.)<br>
-33.8% of GDP (2018 est.)<br>
-35.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.6% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 25.1% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 31% (2017 est.)<br>
 _imports of goods and services_: -40.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 62.8 (2020)<br>
-_Starting a Business score_: 71.3 (2020)<br>
-_Trading score_: 68.4 (2020)<br>
-_Enforcement score_: 46 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, rice, coconuts, maize, bananas, vegetables, tropical fruit, plantains, pineapples, cassava<br>
@@ -481,15 +470,15 @@ _highest 10%_: 29.5% (2015 est.)<br>
 _revenues_: 49.07 billion (2017 est.)<br>
 _expenditures_: 56.02 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 39.9% of GDP (2017 est.)<br>
 39% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

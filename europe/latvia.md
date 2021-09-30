@@ -160,6 +160,9 @@ _female_: 80.33 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.54 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 98.8% of population<br>
 _improved: rural_: rural: 98.2% of population<br>
@@ -200,6 +203,9 @@ _vectorborne diseases_: tickborne encephalitis<br>
 
 **Obesity - adult prevalence rate**<br>
 23.6% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.4% of GDP (2017)<br>
@@ -374,10 +380,25 @@ _lyrics/music_: Karlis BAUMANIS<br>
 **Economic overview**<br>
 <p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p><p></p><p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p><p></p><p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$59.102 billion (2019 est.)<br>
+$57.912 billion (2018 est.)<br>
+$55.672 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.08% (2019 est.)<br>
 4.2% (2018 est.)<br>
 3.23% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$30,898 (2019 est.)<br>
+$30,050 (2018 est.)<br>
+$28,664 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$34.084 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.8% (2019 est.)<br>
@@ -388,26 +409,6 @@ _lyrics/music_: Karlis BAUMANIS<br>
 _Fitch rating_: A- (2014)<br>
 _Moody's rating_: A3 (2015)<br>
 _Standard & Poors rating_: A+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$59.102 billion (2019 est.)<br>
-$57.912 billion (2018 est.)<br>
-$55.672 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$34.084 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$30,898 (2019 est.)<br>
-$30,050 (2018 est.)<br>
-$28,664 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-21.7% of GDP (2019 est.)<br>
-23.5% of GDP (2018 est.)<br>
-23.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2017 est.)<br>
@@ -421,12 +422,6 @@ _investment in fixed capital_: 19.9% (2017 est.)<br>
 _investment in inventories_: 1.5% (2017 est.)<br>
 _exports of goods and services_: 60.6% (2017 est.)<br>
 _imports of goods and services_: -61.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.3 (2020)<br>
-_Starting a Business score_: 94.1 (2020)<br>
-_Trading score_: 95.3 (2020)<br>
-_Enforcement score_: 73.5 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, rapeseed, barley, oats, potatoes, rye, beans, pork, poultry<br>
@@ -464,9 +459,6 @@ _highest 10%_: 26.3% (2015)<br>
 _revenues_: 11.39 billion (2017 est.)<br>
 _expenditures_: 11.53 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-37.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
 
@@ -474,6 +466,9 @@ _expenditures_: 11.53 billion (2017 est.)<br>
 36.3% of GDP (2017 est.)<br>
 37.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+37.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

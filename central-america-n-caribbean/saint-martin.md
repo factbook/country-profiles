@@ -116,10 +116,19 @@ _female_: 83.6 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.8 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -221,11 +230,11 @@ _lyrics/music_: Gerard KEMPS<br>
 **Real GDP (purchasing power parity)**<br>
 $561.5 million (2005 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$561.5 million (2005 est.)<br>
-
 **Real GDP per capita**<br>
 $19,300 (2005 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$561.5 million (2005 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1% (2000)<br>

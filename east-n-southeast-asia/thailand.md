@@ -388,10 +388,25 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 **Economic overview**<br>
 <p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand’s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand’s economy is recovering from slow growth during the years since the 2014 coup. Thailand’s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,285,287,000,000 (2019 est.)<br>
+$1,255,719,000,000 (2018 est.)<br>
+$1,205,674,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.62% (2019 est.)<br>
 4.31% (2018 est.)<br>
 4.26% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$18,460 (2019 est.)<br>
+$18,087 (2018 est.)<br>
+$17,421 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$543.798 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.7% (2019 est.)<br>
@@ -402,26 +417,6 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 _Fitch rating_: BBB+ (2013)<br>
 _Moody's rating_: Baa1 (2003)<br>
 _Standard & Poors rating_: BBB+ (2004)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,285,287,000,000 (2019 est.)<br>
-$1,255,719,000,000 (2018 est.)<br>
-$1,205,674,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$543.798 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$18,460 (2019 est.)<br>
-$18,087 (2018 est.)<br>
-$17,421 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-31.5% of GDP (2019 est.)<br>
-31.7% of GDP (2018 est.)<br>
-31.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.2% (2017 est.)<br>
@@ -435,12 +430,6 @@ _investment in fixed capital_: 23.2% (2017 est.)<br>
 _investment in inventories_: -0.4% (2017 est.)<br>
 _exports of goods and services_: 68.2% (2017 est.)<br>
 _imports of goods and services_: -54.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.1 (2020)<br>
-_Starting a Business score_: 92.4 (2020)<br>
-_Trading score_: 84.6 (2020)<br>
-_Enforcement score_: 67.9 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, cassava, rice, oil palm fruit, rubber, maize, tropical fruit, poultry, pineapples, mangoes/guavas<br>
@@ -478,9 +467,6 @@ _highest 10%_: 31.5% (2009 est.)<br>
 _revenues_: 69.23 billion (2017 est.)<br>
 _expenditures_: 85.12 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
 
@@ -488,6 +474,9 @@ _expenditures_: 85.12 billion (2017 est.)<br>
 41.9% of GDP (2017 est.)<br>
 41.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+15.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

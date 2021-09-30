@@ -383,24 +383,16 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 **Economic overview**<br>
 <p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p><p></p><p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p><p></p><p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
 
-**Real GDP growth rate**<br>
--4.6% (2017 est.)<br>
-5.3% (2016 est.)<br>
-4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.6% (2017 est.)<br>
--1.3% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $4.593 billion (2019 est.)<br>
 $3.869 billion (2018 est.)<br>
 $3.91 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$2.775 billion (2017 est.)<br>
-<strong>note:</strong> non-oil GDP<br>
+**Real GDP growth rate**<br>
+-4.6% (2017 est.)<br>
+5.3% (2016 est.)<br>
+4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,553 (2019 est.)<br>
@@ -408,10 +400,13 @@ $3,052 (2018 est.)<br>
 $3,145 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-28.6% of GDP (2019 est.)<br>
-14.2% of GDP (2018 est.)<br>
-20.5% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$2.775 billion (2017 est.)<br>
+<strong>note:</strong> non-oil GDP<br>
+
+**Inflation rate (consumer prices)**<br>
+0.6% (2017 est.)<br>
+-1.3% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 9.1% (2017 est.)<br>
@@ -425,12 +420,6 @@ _investment in fixed capital_: 10.6% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 78.4% (2017 est.)<br>
 _imports of goods and services_: -52% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 39.4 (2020)<br>
-_Starting a Business score_: 89.4 (2020)<br>
-_Trading score_: 69.9 (2020)<br>
-_Enforcement score_: 6.1 (2020)<br>
 
 **Agricultural products**<br>
 rice, maize, vegetables, coffee, roots/tubers nes, other meats, cassava, pork, beans, mangoes/guavas<br>
@@ -468,15 +457,15 @@ _highest 10%_: 27% (2007)<br>
 _revenues_: 300 million (2017 est.)<br>
 _expenditures_: 2.4 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-10.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -75.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 3.8% of GDP (2017 est.)<br>
 3.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+10.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -663,11 +652,11 @@ _major seaport(s)_: Dili<br>
 Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components (2021)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2020 est.)<br>
 1% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 1% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Timor-Leste Defense Force is comprised of approximately 2,000 personnel (2020)<br>

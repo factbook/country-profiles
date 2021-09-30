@@ -386,10 +386,25 @@ _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 **Economic overview**<br>
 <p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p><p></p><p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p><p></p><p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p><p></p><p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$197.631 billion (2019 est.)<br>
+$197.525 billion (2018 est.)<br>
+$195.01 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.06% (2019 est.)<br>
 1.29% (2018 est.)<br>
 2.37% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$11,375 (2019 est.)<br>
+$11,562 (2018 est.)<br>
+$11,618 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$107.436 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.2% (2019 est.)<br>
@@ -400,26 +415,6 @@ _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 _Fitch rating_: B- (2020)<br>
 _Moody's rating_: Caa3 (2020)<br>
 _Standard & Poors rating_: B- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$197.631 billion (2019 est.)<br>
-$197.525 billion (2018 est.)<br>
-$195.01 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$107.436 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$11,375 (2019 est.)<br>
-$11,562 (2018 est.)<br>
-$11,618 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-24.7% of GDP (2019 est.)<br>
-25.2% of GDP (2018 est.)<br>
-25.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.7% (2017 est.)<br>
@@ -433,12 +428,6 @@ _investment in fixed capital_: 24.3% (2017 est.)<br>
 _investment in inventories_: 1% (2017 est.)<br>
 _exports of goods and services_: 20.8% (2017 est.)<br>
 _imports of goods and services_: -21.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 57.7 (2020)<br>
-_Starting a Business score_: 69.1 (2020)<br>
-_Trading score_: 71.2 (2020)<br>
-_Enforcement score_: 57.5 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, bananas, milk, oil palm fruit, maize, rice, plantains, poultry, cocoa, potatoes<br>
@@ -479,15 +468,15 @@ _highest 10%_: 35.4% (2012 est.)<br>
 _revenues_: 33.43 billion (2017 est.)<br>
 _expenditures_: 38.08 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-32% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 45.4% of GDP (2017 est.)<br>
 43.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+32% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -696,11 +685,11 @@ _river port(s)_: Guayaquil (Guayas)<br>
 Ecuadorian Armed Forces: the Ecuadorian Army (El Ej&eacute;rcito Ecuatoriano), Ecuadorian Navy (Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE); Ministry of Interior: National Police (Polic&iacute;a Nacional del Ecuador) (2021)<br>
 
 **Military expenditures**<br>
+2.3% of GDP (2020 est.)<br>
 2.3% of GDP (2019)<br>
 2.4% of GDP (2018)<br>
 2.4% of GDP (2017)<br>
 2.5% of GDP (2016)<br>
-2.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Ecuadorian Armed Forces have approximately 40,000 active personnel (25,000 Army; 9,000 Navy; 6,000 Air Force) (2021)<br>

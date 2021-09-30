@@ -425,10 +425,25 @@ _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
 **Economic overview**<br>
 <p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p><p></p><p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p><p></p><p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$279.295 billion (2019 est.)<br>
+$272.531 billion (2018 est.)<br>
+$264.212 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.5% (2019 est.)<br>
 2.96% (2018 est.)<br>
 3.98% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$7,515 (2019 est.)<br>
+$7,438 (2018 est.)<br>
+$7,314 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$118.858 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.2% (2019 est.)<br>
@@ -439,26 +454,6 @@ _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
 _Fitch rating_: BB+ (2020)<br>
 _Moody's rating_: Ba1 (1999)<br>
 _Standard & Poors rating_: BBB- (2010)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$279.295 billion (2019 est.)<br>
-$272.531 billion (2018 est.)<br>
-$264.212 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$118.858 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$7,515 (2019 est.)<br>
-$7,438 (2018 est.)<br>
-$7,314 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-27.8% of GDP (2019 est.)<br>
-27.8% of GDP (2018 est.)<br>
-29.1% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14% (2017 est.)<br>
@@ -472,12 +467,6 @@ _investment in fixed capital_: 28.4% (2017 est.)<br>
 _investment in inventories_: 4.2% (2017 est.)<br>
 _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 73.4 (2020)<br>
-_Starting a Business score_: 93 (2020)<br>
-_Trading score_: 85.6 (2020)<br>
-_Enforcement score_: 63.7 (2020)<br>
 
 **Agricultural products**<br>
 wheat, sugar beet, milk, potatoes, olives, tangerines/mandarins, tomatoes, oranges, barley, onions<br>
@@ -515,15 +504,15 @@ _highest 10%_: 33.2% (2007)<br>
 _revenues_: 22.81 billion (2017 est.)<br>
 _expenditures_: 26.75 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 65.1% of GDP (2017 est.)<br>
 64.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -731,7 +720,7 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 Royal Armed Forces: Royal Moroccan Army, Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Morroccan Royal Guard (provides security for the royal family; officially part of the Royal Army); Royal Morroccan Gendarmerie (Ministry of Defense); Mobile Intervention Corps (a motorized paramilitary security force under the Ministry of Interior that supplements the military and the police as needed) (2020)<br>
 
 **Military expenditures**<br>
-3.8% of GDP (2020 est.)<br>
+4.5% of GDP (2020 est.)<br>
 3.1% of GDP (2019)<br>
 3.1% of GDP (2018)<br>
 3.2% of GDP (2017)<br>

@@ -159,6 +159,9 @@ _female_: 80.78 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.65 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -190,6 +193,9 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -366,10 +372,25 @@ _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 **Economic overview**<br>
 <p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p><p></p><p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p><p></p><p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p><p></p><p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$655.789 billion (2019 est.)<br>
+$644.968 billion (2018 est.)<br>
+$637.384 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 0.8% (2017 est.)<br>
 3% (2016 est.)<br>
 5.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$67,119 (2019 est.)<br>
+$66,968 (2018 est.)<br>
+$67,184 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$421.077 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -1.9% (2019 est.)<br>
@@ -380,26 +401,6 @@ _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 _Fitch rating_: AA- (2020)<br>
 _Moody's rating_: Aa2 (2007)<br>
 _Standard & Poors rating_: AA (2007)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$655.789 billion (2019 est.)<br>
-$644.968 billion (2018 est.)<br>
-$637.384 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$421.077 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$67,119 (2019 est.)<br>
-$66,968 (2018 est.)<br>
-$67,184 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-28.5% of GDP (2017 est.)<br>
-30.9% of GDP (2016 est.)<br>
-30.7% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2017 est.)<br>
@@ -413,12 +414,6 @@ _investment in fixed capital_: 23% (2017 est.)<br>
 _investment in inventories_: 1.8% (2017 est.)<br>
 _exports of goods and services_: 100.4% (2017 est.)<br>
 _imports of goods and services_: -72.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.9 (2020)<br>
-_Starting a Business score_: 94.8 (2020)<br>
-_Trading score_: 74.1 (2020)<br>
-_Enforcement score_: 75.9 (2020)<br>
 
 **Agricultural products**<br>
 dates, cucumbers, tomatoes, goat meat, eggs, milk, poultry, carrots/turnips, goat milk, milk<br>
@@ -457,15 +452,15 @@ _revenues_: 110.2 billion (2017 est.)<br>
 _expenditures_: 111.1 billion (2017 est.)<br>
 <strong>note:</strong> the UAE federal budget does not account for emirate-level spending in Abu Dhabi and Dubai<br>
 
-**Taxes and other revenues**<br>
-28.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 19.7% of GDP (2017 est.)<br>
 20.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -666,11 +661,11 @@ _LNG terminal(s) (export)_: Das Island<br>
 United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presidential Guard; Ministry of Interior: Critical Infrastructure Coastal Patrol Agency (CICPA) (2021)<br>
 
 **Military expenditures**<br>
+6% of GDP (2020 est.)<br>
+5% of GDP (2019 est.)<br>
+5% of GDP (2018 est.)<br>
 5.2% of GDP (2017)<br>
 6% of GDP (2016)<br>
-7% of GDP (2015)<br>
-5.8% of GDP (2014)<br>
-6.1% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 the United Arab Emirates Armed Forces have approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>

@@ -202,6 +202,9 @@ _vectorborne diseases_: malaria<br>
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -376,10 +379,25 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 **Economic overview**<br>
 <p>Until the beginning of the global recession in 2008, Botswana maintained one of the world's highest economic growth rates since its independence in 1966. Botswana recovered from the global recession in 2010, but only grew modestly until 2017, primarily due to a downturn in the global diamond market, though water and power shortages also played a role. Through fiscal discipline and sound management, Botswana has transformed itself from one of the poorest countries in the world five decades ago into a middle-income country with a per capita GDP of approximately $18,100 in 2017. Botswana also ranks as one of the least corrupt and best places to do business in Sub-Saharan Africa.</p> <p> </p> <p>Because of its heavy reliance on diamond exports, Botswana’s economy closely follows global price trends for that one commodity. Diamond mining fueled much of Botswana’s past economic expansion and currently accounts for one-quarter of GDP, approximately 85% of export earnings, and about one-third of the government's revenues. In 2017, Diamond exports increased to the highest levels since 2013 at about 22 million carats of output, driving Botswana’s economic growth to about 4.5% and increasing foreign exchange reserves to about 45% of GDP. De Beers, a major international diamond company, signed a 10-year deal with Botswana in 2012 and moved its rough stone sorting and trading division from London to Gaborone in 2013. The move was geared to support the development of Botswana's nascent downstream diamond industry.</p> <p> </p> <p>Tourism is a secondary earner of foreign exchange and many Batswana engage in tourism-related services, subsistence farming, and cattle rearing. According to official government statistics, unemployment is around 20%, but unofficial estimates run much higher. The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$40.928 billion (2019 est.)<br>
+$39.749 billion (2018 est.)<br>
+$38.045 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.4% (2017 est.)<br>
 4.3% (2016 est.)<br>
 -1.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$17,767 (2019 est.)<br>
+$17,634 (2018 est.)<br>
+$17,253 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$18.335 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.7% (2019 est.)<br>
@@ -389,26 +407,6 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 **Credit ratings**<br>
 _Moody's rating_: A2 (2020)<br>
 _Standard & Poors rating_: BBB+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$40.928 billion (2019 est.)<br>
-$39.749 billion (2018 est.)<br>
-$38.045 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$18.335 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$17,767 (2019 est.)<br>
-$17,634 (2018 est.)<br>
-$17,253 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-32.5% of GDP (2018 est.)<br>
-34% of GDP (2017 est.)<br>
-38.8% of GDP (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -422,12 +420,6 @@ _investment in fixed capital_: 29% (2017 est.)<br>
 _investment in inventories_: -1.8% (2017 est.)<br>
 _exports of goods and services_: 39.8% (2017 est.)<br>
 _imports of goods and services_: -33.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 66.2 (2020)<br>
-_Starting a Business score_: 76.2 (2020)<br>
-_Trading score_: 86.7 (2020)<br>
-_Enforcement score_: 50 (2020)<br>
 
 **Agricultural products**<br>
 milk, roots/tubers, vegetables, sorghum, beef, game meat, watermelons, cabbages, goat milk, onions<br>
@@ -465,15 +457,15 @@ _highest 10%_: NA<br>
 _revenues_: 5.305 billion (2017 est.)<br>
 _expenditures_: 5.478 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-30.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 14% of GDP (2017 est.)<br>
 15.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+30.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

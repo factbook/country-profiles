@@ -205,6 +205,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 4% of GDP (2017)<br>
 
@@ -382,10 +385,25 @@ _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
 **Economic overview**<br>
 <p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p><p></p><p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2,562,135,000,000 (2019 est.)<br>
+$2,553,384,000,000 (2018 est.)<br>
+$2,529,503,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.34% (2019 est.)<br>
 0.83% (2018 est.)<br>
 1.73% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$42,492 (2019 est.)<br>
+$42,259 (2018 est.)<br>
+$41,785 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$2,002,763,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.6% (2019 est.)<br>
@@ -396,26 +414,6 @@ _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
 _Fitch rating_: BBB- (2020)<br>
 _Moody's rating_: Baa3 (2018)<br>
 _Standard & Poors rating_: BBB (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2,562,135,000,000 (2019 est.)<br>
-$2,553,384,000,000 (2018 est.)<br>
-$2,529,503,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2,002,763,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$42,492 (2019 est.)<br>
-$42,259 (2018 est.)<br>
-$41,785 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-21% of GDP (2019 est.)<br>
-21% of GDP (2018 est.)<br>
-20.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.1% (2017 est.)<br>
@@ -429,12 +427,6 @@ _investment in fixed capital_: 17.5% (2017 est.)<br>
 _investment in inventories_: -0.2% (2017 est.)<br>
 _exports of goods and services_: 31.4% (2017 est.)<br>
 _imports of goods and services_: -28.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 72.9 (2020)<br>
-_Starting a Business score_: 86.8 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 53.1 (2020)<br>
 
 **Agricultural products**<br>
 milk, grapes, wheat, maize, tomatoes, apples, olives, sugar beet, oranges, rice<br>
@@ -472,9 +464,6 @@ _highest 10%_: 26.8% (2000)<br>
 _revenues_: 903.3 billion (2017 est.)<br>
 _expenditures_: 948.1 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-46.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.3% (of GDP) (2017 est.)<br>
 
@@ -482,6 +471,9 @@ _expenditures_: 948.1 billion (2017 est.)<br>
 131.8% of GDP (2017 est.)<br>
 132% of GDP (2016 est.)<br>
 <strong>note:</strong> Italy reports its data on public debt according to guidelines set out in the Maastricht Treaty; general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year, in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises central, state, and local government and social security funds<br>
+
+**Taxes and other revenues**<br>
+46.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -727,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 566,393 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 567,404 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

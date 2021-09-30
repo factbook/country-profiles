@@ -354,10 +354,25 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 **Economic overview**<br>
 <p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p><p></p><p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p><p></p><p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$36.514 billion (2019 est.)<br>
+$36.515 billion (2018 est.)<br>
+$36.605 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -2.6% (2017 est.)<br>
 -6.1% (2016 est.)<br>
 1.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$26,176 (2019 est.)<br>
+$26,273 (2018 est.)<br>
+$26,448 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$24.031 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.9% (2017 est.)<br>
@@ -366,26 +381,6 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba1 (2017)<br>
 _Standard & Poors rating_: BBB- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$36.514 billion (2019 est.)<br>
-$36.515 billion (2018 est.)<br>
-$36.605 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$24.031 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$26,176 (2019 est.)<br>
-$26,273 (2018 est.)<br>
-$26,448 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.4% of GDP (2017 est.)<br>
-16.8% of GDP (2016 est.)<br>
-29% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2017 est.)<br>
@@ -399,12 +394,6 @@ _investment in fixed capital_: 8.2% (2017 est.)<br>
 _investment in inventories_: 0.6% (2017 est.)<br>
 _exports of goods and services_: 45.4% (2017 est.)<br>
 _imports of goods and services_: -48.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.3 (2020)<br>
-_Starting a Business score_: 88.6 (2020)<br>
-_Trading score_: 62.6 (2020)<br>
-_Enforcement score_: 35.6 (2020)<br>
 
 **Agricultural products**<br>
 poultry, fruit, coconuts, citrus fruit, milk, plantains, maize, oranges, eggs, gourds<br>
@@ -438,15 +427,15 @@ _highest 10%_: NA<br>
 _revenues_: 5.581 billion (2017 est.)<br>
 _expenditures_: 7.446 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-24.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -8.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 41.8% of GDP (2017 est.)<br>
 37% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+24.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -634,11 +623,11 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves (2021)<br>
 
 **Military expenditures**<br>
+0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.8% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.4% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Trinidad and Tobago Defense Force (TTDF) has approximately 4,500 personnel (2021)<br>

@@ -158,6 +158,9 @@ _female_: 82.51 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.61 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -378,10 +381,25 @@ _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 **Economic overview**<br>
 <p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p><p></p><p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p><p></p><p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$48.987 billion (2019 est.)<br>
+$46.655 billion (2018 est.)<br>
+$44.708 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5% (2019 est.)<br>
 4.36% (2018 est.)<br>
 5.51% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$36,927 (2019 est.)<br>
+$35,293 (2018 est.)<br>
+$33,937 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$31.461 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.2% (2019 est.)<br>
@@ -392,26 +410,6 @@ _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 _Fitch rating_: AA- (2018)<br>
 _Moody's rating_: A1 (2002)<br>
 _Standard & Poors rating_: AA- (2011)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$48.987 billion (2019 est.)<br>
-$46.655 billion (2018 est.)<br>
-$44.708 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$31.461 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$36,927 (2019 est.)<br>
-$35,293 (2018 est.)<br>
-$33,937 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-29.1% of GDP (2019 est.)<br>
-28.4% of GDP (2018 est.)<br>
-28.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2017 est.)<br>
@@ -425,12 +423,6 @@ _investment in fixed capital_: 24% (2017 est.)<br>
 _investment in inventories_: 2.2% (2017 est.)<br>
 _exports of goods and services_: 77.2% (2017 est.)<br>
 _imports of goods and services_: -74% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.6 (2020)<br>
-_Starting a Business score_: 95.4 (2020)<br>
-_Trading score_: 99.9 (2020)<br>
-_Enforcement score_: 76.1 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, barley, rapeseed, rye, oats, peas, potatoes, pork, triticale<br>
@@ -468,9 +460,6 @@ _highest 10%_: 25.6% (2015)<br>
 _revenues_: 10.37 billion (2017 est.)<br>
 _expenditures_: 10.44 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
 
@@ -478,6 +467,9 @@ _expenditures_: 10.44 billion (2017 est.)<br>
 9% of GDP (2017 est.)<br>
 9.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities, including sub-sectors of central government, state government, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+39.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

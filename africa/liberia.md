@@ -382,23 +382,16 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 **Economic overview**<br>
 <p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p><p></p><p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p><p></p><p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p><p></p><p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
 
-**Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
--1.6% (2016 est.)<br>
-0% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-12.4% (2017 est.)<br>
-8.8% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $7.049 billion (2019 est.)<br>
 $7.214 billion (2018 est.)<br>
 $7.126 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$3.071 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+2.5% (2017 est.)<br>
+-1.6% (2016 est.)<br>
+0% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,428 (2019 est.)<br>
@@ -406,10 +399,12 @@ $1,497 (2018 est.)<br>
 $1,516 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
--58.3% of GDP NA% (2018 est.)<br>
--48.8% of GDP (2017 est.)<br>
--21.9% of GDP (2016 est.)<br>
+**GDP (official exchange rate)**<br>
+$3.071 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+12.4% (2017 est.)<br>
+8.8% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34% (2017 est.)<br>
@@ -423,12 +418,6 @@ _investment in fixed capital_: 19.5% (2016 est.)<br>
 _investment in inventories_: 6.7% (2016 est.)<br>
 _exports of goods and services_: 17.5% (2016 est.)<br>
 _imports of goods and services_: -89.2% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 43.2 (2020)<br>
-_Starting a Business score_: 88.9 (2020)<br>
-_Trading score_: 19.2 (2020)<br>
-_Enforcement score_: 35.2 (2020)<br>
 
 **Agricultural products**<br>
 cassava, sugar cane, oil palm fruit, rice, bananas, vegetables, plantains, rubber, taro, maize<br>
@@ -465,15 +454,15 @@ _highest 10%_: 30.1% (2007)<br>
 _revenues_: 553.6 million (2017 est.)<br>
 _expenditures_: 693.8 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 34.4% of GDP (2017 est.)<br>
 28.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+16.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -671,11 +660,11 @@ Armed Forces of Liberia (AFL): Army, Liberian Coast Guard (2021)<br>
 note - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
 
 **Military expenditures**<br>
-0.5% of GDP (2019)<br>
-0.4% of GDP (2018)<br>
-0.4% of GDP (2017)<br>
-0.4% of GDP (2016)<br>
-0.4% of GDP (2015)<br>
+0.4% of GDP (2020 est.)<br>
+0.5% of GDP (2019 est.)<br>
+0.4% of GDP (2018 est.)<br>
+0.4% of GDP (2017 est.)<br>
+0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2020)<br>

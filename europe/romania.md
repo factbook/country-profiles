@@ -161,6 +161,9 @@ _female_: 79.94 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.38 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -199,6 +202,9 @@ _unimproved: total_: total: 15.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.5% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.1% of GDP (2017)<br>
@@ -371,10 +377,25 @@ _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 **Economic overview**<br>
 <p>Romania, which joined the EU on 1 January 2007, began the transition from communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment.</p><p></p><p>In the aftermath of the global financial crisis, Romania signed a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary standby agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability; no funds were drawn. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on standby agreement, worth $5.4 billion, to continue with reforms. This agreement expired in September 2015, and no funds were drawn. Progress on structural reforms has been uneven, and the economy still is vulnerable to external shocks.</p><p></p><p>Economic growth rebounded in the 2013-17 period, driven by strong industrial exports, excellent agricultural harvests, and, more recently, expansionary fiscal policies in 2016-2017 that nearly quadrupled Bucharest’s annual fiscal deficit, from +0.8% of GDP in 2015 to -3% of GDP in 2016 and an estimated -3.4% in 2017. Industry outperformed other sectors of the economy in 2017. Exports remained an engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. Domestic demand was the major driver, due to tax cuts and large wage increases that began last year and are set to continue in 2018.</p><p></p><p>An aging population, emigration of skilled labor, significant tax evasion, insufficient health care, and an aggressive loosening of the fiscal package compromise Romania’s long-term growth and economic stability and are the economy's top vulnerabilities.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$579.549 billion (2019 est.)<br>
+$556.442 billion (2018 est.)<br>
+$532.611 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.2% (2019 est.)<br>
 4.54% (2018 est.)<br>
 7.11% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$29,941 (2019 est.)<br>
+$28,576 (2018 est.)<br>
+$27,192 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$249.543 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.8% (2019 est.)<br>
@@ -385,26 +406,6 @@ _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 _Fitch rating_: BBB- (2011)<br>
 _Moody's rating_: Baa3 (2006)<br>
 _Standard & Poors rating_: BBB- (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$579.549 billion (2019 est.)<br>
-$556.442 billion (2018 est.)<br>
-$532.611 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$249.543 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$29,941 (2019 est.)<br>
-$28,576 (2018 est.)<br>
-$27,192 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-18.3% of GDP (2019 est.)<br>
-18.1% of GDP (2018 est.)<br>
-20.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.2% (2017 est.)<br>
@@ -418,12 +419,6 @@ _investment in fixed capital_: 22.6% (2017 est.)<br>
 _investment in inventories_: 1.9% (2017 est.)<br>
 _exports of goods and services_: 41.4% (2017 est.)<br>
 _imports of goods and services_: -43.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 73.3 (2020)<br>
-_Starting a Business score_: 87.7 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 72.2 (2020)<br>
 
 **Agricultural products**<br>
 maize, wheat, milk, sunflower seed, potatoes, barley, grapes, sugar beet, rapeseed, plums/sloes<br>
@@ -461,9 +456,6 @@ _highest 10%_: 7.6% (2014 est.)<br>
 _revenues_: 62.14 billion (2017 est.)<br>
 _expenditures_: 68.13 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
 
@@ -471,6 +463,9 @@ _expenditures_: 68.13 billion (2017 est.)<br>
 36.8% of GDP (2017 est.)<br>
 38.8% of GDP (2016 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the subsectors: central government, state government, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+29.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -712,7 +707,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 8,046 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 8,184 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

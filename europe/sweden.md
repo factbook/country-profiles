@@ -203,6 +203,9 @@ NA<br>
 **Obesity - adult prevalence rate**<br>
 20.6% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 7.6% of GDP (2017)<br>
 
@@ -365,10 +368,25 @@ _lyrics/music_: Richard DYBECK/traditional<br>
 **Economic overview**<br>
 <p>Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.</p> <p> </p> <p>Timber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.</p> <p> </p> <p>GDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.</p> <p> </p> <p>In the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$547.595 billion (2019 est.)<br>
+$540.776 billion (2018 est.)<br>
+$530.433 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.29% (2019 est.)<br>
 2.06% (2018 est.)<br>
 2.82% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$53,240 (2019 est.)<br>
+$53,146 (2018 est.)<br>
+$52,739 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$531.35 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.7% (2019 est.)<br>
@@ -379,26 +397,6 @@ _lyrics/music_: Richard DYBECK/traditional<br>
 _Fitch rating_: AAA (2004)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AAA (2004)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$547.595 billion (2019 est.)<br>
-$540.776 billion (2018 est.)<br>
-$530.433 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$531.35 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$53,240 (2019 est.)<br>
-$53,146 (2018 est.)<br>
-$52,739 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-29.4% of GDP (2019 est.)<br>
-28.5% of GDP (2018 est.)<br>
-28.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2017 est.)<br>
@@ -412,12 +410,6 @@ _investment in fixed capital_: 24.9% (2017 est.)<br>
 _investment in inventories_: 0.8% (2017 est.)<br>
 _exports of goods and services_: 45.3% (2017 est.)<br>
 _imports of goods and services_: -41.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 82 (2020)<br>
-_Starting a Business score_: 93.1 (2020)<br>
-_Trading score_: 98 (2020)<br>
-_Enforcement score_: 67.6 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, sugar beet, barley, potatoes, oats, rapeseed, pork, rye, triticale<br>
@@ -455,9 +447,6 @@ _highest 10%_: 24% (2012)<br>
 _revenues_: 271.2 billion (2017 est.)<br>
 _expenditures_: 264.4 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-50.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
 
@@ -465,6 +454,9 @@ _expenditures_: 264.4 billion (2017 est.)<br>
 40.8% of GDP (2017 est.)<br>
 42.3% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+50.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

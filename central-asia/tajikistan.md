@@ -374,10 +374,25 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 **Economic overview**<br>
 <p>Tajikistan is a poor, mountainous country with an economy dominated by minerals extraction, metals processing, agriculture, and reliance on remittances from citizens working abroad. Mineral resources include silver, gold, uranium, antimony, tungsten, and coal. Industry consists mainly of small obsolete factories in food processing and light industry, substantial hydropower facilities, and a large aluminum plant - currently operating well below its capacity. The 1992-97 civil war severely damaged an already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Today, Tajikistan is the poorest among the former Soviet republics. Because less than 7% of the land area is arable and cotton is the predominant crop, Tajikistan imports approximately 70% of its food.</p><p></p><p>Since the end of the civil war, the country has pursued half-hearted reforms and privatizations in the economic sphere, but its poor business climate remains a hindrance to attracting foreign investment. Some experts estimate the value of narcotics transiting Tajikistan is equivalent to 30%-50% of GDP.</p><p></p><p>Because of a lack of employment opportunities in Tajikistan, more than one million Tajik citizens work abroad - roughly 90% in Russia - supporting families back home through remittances that in 2017 were equivalent to nearly 35% of GDP. Tajikistan’s large remittances from migrant workers in Russia exposes it to monetary shocks. Tajikistan often delays devaluation of its currency for fear of inflationary pressures on food and other consumables. Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations have hampered economic growth. The dollar value of remittances from Russia to Tajikistan dropped by almost 65% in 2015, and the government spent almost $500 million in 2016 to bail out the country’s still troubled banking sector.</p><p></p><p>Tajikistan’s growing public debt – currently about 50% of GDP – could result in financial difficulties. Remittances from Russia increased in 2017, however, bolstering the economy somewhat. China owns about 50% of Tajikistan’s outstanding debt. Tajikistan has borrowed heavily to finance investment in the country’s vast hydropower potential. In 2016, Tajikistan contracted with the Italian firm Salini Impregilo to build the Roghun dam over a 13-year period for $3.9 billion. A 2017 Eurobond has largely funded Roghun’s first phase, after which sales from Roghun’s output are expected to fund the rest of its construction. The government has not ruled out issuing another Eurobond to generate auxiliary funding for its second phase.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$31.502 billion (2019 est.)<br>
+$29.438 billion (2018 est.)<br>
+$27.435 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 7.1% (2017 est.)<br>
 6.9% (2016 est.)<br>
 6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,380 (2019 est.)<br>
+$3,235 (2018 est.)<br>
+$3,090 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$2.522 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 7.7% (2019 est.)<br>
@@ -387,26 +402,6 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 **Credit ratings**<br>
 _Moody's rating_: B3 (2017)<br>
 _Standard & Poors rating_: B- (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$31.502 billion (2019 est.)<br>
-$29.438 billion (2018 est.)<br>
-$27.435 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2.522 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$3,380 (2019 est.)<br>
-$3,235 (2018 est.)<br>
-$3,090 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-24.9% of GDP (2017 est.)<br>
-15.4% of GDP (2016 est.)<br>
-11.8% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.6% (2017 est.)<br>
@@ -420,12 +415,6 @@ _investment in fixed capital_: 11.7% (2017 est.)<br>
 _investment in inventories_: 2.5% (2017 est.)<br>
 _exports of goods and services_: 10.7% (2017 est.)<br>
 _imports of goods and services_: -36.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.3 (2020)<br>
-_Starting a Business score_: 93.2 (2020)<br>
-_Trading score_: 60.9 (2020)<br>
-_Enforcement score_: 60.7 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, wheat, watermelons, onions, tomatoes, vegetables, cotton, carrots/turnips, beef<br>
@@ -464,15 +453,15 @@ _highest 10%_: NA (2009 est.)<br>
 _revenues_: 2.269 billion (2017 est.)<br>
 _expenditures_: 2.374 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-31.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 50.4% of GDP (2017 est.)<br>
 42% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+31.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

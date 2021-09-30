@@ -159,6 +159,9 @@ _female_: 85.15 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.57 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -195,6 +198,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 6.1% of GDP (2017)<br>
@@ -369,10 +375,25 @@ _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
 **Economic overview**<br>
 <p>Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.</p> <p> </p> <p>Since March 2020, economic growth has slowed compared to recent historical averages, but Israel's slump has been less severe than in other Middle Eastern countries because of its swift vaccine roll-out and diversified economic base. Between 2016 and 2019, growth averaged 3.6% per year, led by exports. Israel's new government is hoping to pass the country's first budget in two years, which, combined with prudent fiscal policy and strong global trade ties would probably enable Israel to recover from economic challenges caused by the COVID-19 pandemic.</p> <p> </p> <p>Natural gas fields discovered off Israel's coast since 2009 have brightened Israel's energy security outlook. The Tamar and Leviathan fields were some of the world's largest offshore natural gas finds in the last decade. In 2020, Israel began exporting gas to Egypt and Jordan.</p> <p> </p> <p>Income inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel's income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of "tycoons" have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high. Private consumption is expected to drive growth through 2021, with consumers benefitting from low inflation and a strong currency.</p> <p> </p> <p>In the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$394.7 billion (2019 est.)<br>
+$351.254 billion (2018 est.)<br>
+$339.528 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -2.6% (2020 est.)<br>
 3.28% (2019 est.)<br>
 3.69% (2018 est.)<br>
+
+**Real GDP per capita**<br>
+$41,953 (2020 est.)<br>
+$40,145 (2019 est.)<br>
+$39,543 (2018 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$394.93 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2020 est.)<br>
@@ -384,26 +405,6 @@ _Fitch rating_: A+ (2016)<br>
 _Moody's rating_: A1 (2008)<br>
 _Standard & Poors rating_: AA- (2018)<br>
 <strong>Note: </strong>The year refers to the year in which the current credit rating was first obtained.<br>
-
-**Real GDP (purchasing power parity)**<br>
-$394.7 billion (2019 est.)<br>
-$351.254 billion (2018 est.)<br>
-$339.528 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$394.93 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$41,953 (2020 est.)<br>
-$40,145 (2019 est.)<br>
-$39,543 (2018 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-24.7% of GDP (2019 est.)<br>
-24.4% of GDP (2018 est.)<br>
-24.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -417,12 +418,6 @@ _investment in fixed capital_: 20.1% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 28.9% (2017 est.)<br>
 _imports of goods and services_: -27.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.7 (2020)<br>
-_Starting a Business score_: 94.1 (2020)<br>
-_Trading score_: 83.4 (2020)<br>
-_Enforcement score_: 58.9 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, poultry, tomatoes, carrots, turnips, tangerines/mandarins, green chillies/peppers, eggs, vegetables<br>
@@ -463,9 +458,6 @@ _highest 10%_: 31.3% (2010)<br>
 _revenues_: 93.11 billion (2017 est.)<br>
 _expenditures_: 100.2 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
 
@@ -473,6 +465,9 @@ _expenditures_: 100.2 billion (2017 est.)<br>
 72.6% of GDP (2020 est.)<br>
 59.6% of GDP (2019 est.)<br>
 60.4% of GDP (2018 est.)<br>
+
+**Taxes and other revenues**<br>
+26.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -679,11 +674,11 @@ Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes com
 note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force<br>
 
 **Military expenditures**<br>
+4.8% of GDP (2020 est.)<br>
 5% of GDP (2019)<br>
 5% of GDP (2018)<br>
 5.5% of GDP (2017)<br>
 5.5% of GDP (2016)<br>
-5.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>

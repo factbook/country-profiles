@@ -149,9 +149,15 @@ _female_: 79.85 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.81 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 89.8% of population (2015 est.)<br>
@@ -168,6 +174,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -300,32 +309,32 @@ _lyrics/music_: Ramon Manalisay SABLAN [English], Lagrimas UNTALAN [Chamoru]/Ram
 **Economic overview**<br>
 US national defense spending is the main driver of Guam’s economy, followed closely by tourism and other services. Guam serves as a forward US base for the Western Pacific and is home to thousands of American military personnel. Total federal spending (defense and non-defense) amounted to $1.988 billion in 2016, or 34.2 of Guam’s GDP. Of that total, federal grants and cover-over payments amounted to $3444.1 million in 2016, or 35.8% of Guam’s total revenues for the fiscal year. In 2016, Guam’s economy grew 0.3%. Despite slow growth, Guam’s economy has been stable over the last decade. National defense spending cushions the island’s economy against fluctuations in tourism. Service exports, mainly spending by foreign tourists in Guam, amounted to over $1 billion for the first time in 2016, or 17.8% of GDP.<br>
 
-**Real GDP growth rate**<br>
-0.4% (2016 est.)<br>
-0.5% (2015 est.)<br>
-1.6% (2014 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1% (2017 est.)<br>
-0% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $5.793 billion (2016 est.)<br>
 $5.697 billion (2015 est.)<br>
 $5.531 billion (2014 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$5.793 billion (2016 est.)<br>
+**Real GDP growth rate**<br>
+0.4% (2016 est.)<br>
+0.5% (2015 est.)<br>
+1.6% (2014 est.)<br>
 
 **Real GDP per capita**<br>
 $35,600 (2016 est.)<br>
 $35,200 (2015 est.)<br>
 $34,400 (2014 est.)<br>
 
+**GDP (official exchange rate)**<br>
+$5.793 billion (2016 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1% (2017 est.)<br>
+0% (2016 est.)<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>
 _industry_: NA<br>
-_services_: 58.4% NA (2015 est.)<br>
+_services_: 58.4% (2015 est.)<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 56.2% (2016 est.)<br>
@@ -368,15 +377,15 @@ _highest 10%_: NA<br>
 _revenues_: 1.24 billion (2016 est.)<br>
 _expenditures_: 1.299 billion (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-21.4% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 22.1% of GDP (2016 est.)<br>
 32.1% of GDP (2013)<br>
+
+**Taxes and other revenues**<br>
+21.4% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

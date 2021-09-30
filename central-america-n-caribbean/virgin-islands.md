@@ -150,9 +150,15 @@ _female_: 83.45 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.01 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 98.7% of population<br>
 _unimproved: total_: total: 1.3% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -165,6 +171,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -282,28 +291,28 @@ _lyrics/music_: multiple/Alton Augustus ADAMS, Sr.<br>
 **Economic overview**<br>
 <p>Tourism, trade, other services, and rum production are the primary economic activities of the US Virgin Islands (USVI), accounting for most of its GDP and employment. The USVI receives between 2.5 and 3 million tourists a year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms, as evidenced by the destruction from two major hurricanes in 2017. Recovery and rebuilding have continued, but full recovery from these back-to-back hurricanes is years away. The USVI government estimates it will need $7.5 billion, almost twice the territory’s GDP, to rebuild the territory.</p><p></p><p>The agriculture sector is small and most food is imported. In 2016, government spending (both federal and territorial together) accounted for about 27% of GDP while exports of goods and services, including spending by tourists, accounted for nearly 47%. Federal programs and grants, including rum tax cover-over totaling $482.3 million in 2016, contributed 32.2% of the territory’s total revenues. The economy picked up 0.9% in 2016 and had appeared to be progressing before the 2017 hurricanes severely damaged the territory’s infrastructure and the economy.</p><br>
 
-**Real GDP growth rate**<br>
-0.9% (2016 est.)<br>
-0.3% (2015 est.)<br>
--1% (2014 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1% (2016 est.)<br>
-2.6% (2015 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $3.872 billion (2016 est.)<br>
 $3.759 billion (2015 est.)<br>
 $3.622 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2013 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$5.182 billion (2016 est.)<br>
+**Real GDP growth rate**<br>
+0.9% (2016 est.)<br>
+0.3% (2015 est.)<br>
+-1% (2014 est.)<br>
 
 **Real GDP per capita**<br>
 $37,000 (2016 est.)<br>
 $35,800 (2015 est.)<br>
 $34,500 (2014 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$5.182 billion (2016 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1% (2016 est.)<br>
+2.6% (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2012 est.)<br>
@@ -350,15 +359,15 @@ _highest 10%_: NA<br>
 _revenues_: 1.496 billion (2016 est.)<br>
 _expenditures_: 1.518 billion (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-28.9% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 53.3% of GDP (2016 est.)<br>
 45.9% of GDP (2014 est.)<br>
+
+**Taxes and other revenues**<br>
+28.9% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

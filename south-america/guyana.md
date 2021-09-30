@@ -383,23 +383,16 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 **Economic overview**<br>
 <p>The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana closed or consolidated several sugar estates in 2017, reducing production of sugar to a forecasted 147,000 tons in 2018, less than half of 2017 production. Much of Guyana's growth in recent years has come from a surge in gold production. With a record-breaking 700,000 ounces of gold produced in 2016, Gold production in Guyana has offset the economic effects of declining sugar production. In January 2018, estimated 3.2 billion barrels of oil were found offshore and Guyana is scheduled to become a petroleum producer by March 2020.</p><p></p><p>Guyana's entrance into the Caricom Single Market and Economy in January 2006 broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite these improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 52% in 2017. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure.</p><br>
 
-**Real GDP growth rate**<br>
-2.1% (2017 est.)<br>
-3.4% (2016 est.)<br>
-3.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2% (2017 est.)<br>
-0.8% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $10.24 billion (2019 est.)<br>
 $9.72 billion (2018 est.)<br>
 $9.306 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$3.561 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.1% (2017 est.)<br>
+3.4% (2016 est.)<br>
+3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $13,082 (2019 est.)<br>
@@ -407,10 +400,12 @@ $12,478 (2018 est.)<br>
 $12,005 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-10.5% of GDP (2017 est.)<br>
-15% of GDP (2016 est.)<br>
-8.8% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$3.561 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2% (2017 est.)<br>
+0.8% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.4% (2017 est.)<br>
@@ -424,12 +419,6 @@ _investment in fixed capital_: 25.4% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 47.8% (2017 est.)<br>
 _imports of goods and services_: -63% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 55.5 (2020)<br>
-_Starting a Business score_: 85.6 (2020)<br>
-_Trading score_: 58.3 (2020)<br>
-_Enforcement score_: 57.9 (2020)<br>
 
 **Agricultural products**<br>
 rice, sugar cane, coconuts, pumpkins, squash, gourds, milk, eggplants, green chillies/peppers, poultry<br>
@@ -467,15 +456,15 @@ _highest 10%_: 33.8% (1999)<br>
 _revenues_: 1.002 billion (2017 est.)<br>
 _expenditures_: 1.164 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 52.2% of GDP (2017 est.)<br>
 50.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -664,11 +653,11 @@ _major seaport(s)_: Georgetown<br>
 the Guyana Defense Force is a unified service with an Army, Air Corps, Coast Guard, Guyana People's Militia (reserves) (2020)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020 est.)<br>
 1.7% of GDP (2019)<br>
 1.6% of GDP (2018)<br>
 1.6% of GDP (2017)<br>
 1.5% of GDP (2016)<br>
-1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Guyana Defense Force has approximately 3,000 active personnel (2021)<br>

@@ -375,10 +375,25 @@ _lyrics/music_: Thomas SHACKLADY<br>
 **Economic overview**<br>
 <p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p><p></p><p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p><p></p><p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$38.218 billion (2019 est.)<br>
+$36.089 billion (2018 est.)<br>
+$36.19 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.5% (2017 est.)<br>
 1.6% (2016 est.)<br>
 5.3% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$4,355 (2019 est.)<br>
+$4,193 (2018 est.)<br>
+$4,289 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$19.82 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.4% (2017 est.)<br>
@@ -387,26 +402,6 @@ _lyrics/music_: Thomas SHACKLADY<br>
 **Credit ratings**<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$38.218 billion (2019 est.)<br>
-$36.089 billion (2018 est.)<br>
-$36.19 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$19.82 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$4,355 (2019 est.)<br>
-$4,193 (2018 est.)<br>
-$4,289 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-36.8% of GDP (2017 est.)<br>
-38% of GDP (2016 est.)<br>
-33.7% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -420,12 +415,6 @@ _investment in fixed capital_: 10% (2017 est.)<br>
 _investment in inventories_: 0.4% (2017 est.)<br>
 _exports of goods and services_: 49.3% (2017 est.)<br>
 _imports of goods and services_: -22.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.8 (2020)<br>
-_Starting a Business score_: 80.1 (2020)<br>
-_Trading score_: 65.8 (2020)<br>
-_Enforcement score_: 36.2 (2020)<br>
 
 **Agricultural products**<br>
 oil palm fruit, bananas, coconuts, fruit, sweet potatoes, game meat, yams, roots/tubers nes, vegetables, taro<br>
@@ -462,15 +451,15 @@ _highest 10%_: 40.5% (1996)<br>
 _revenues_: 3.638 billion (2017 est.)<br>
 _expenditures_: 4.591 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 36.9% of GDP (2017 est.)<br>
 36.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -674,11 +663,11 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements) (2021)<br>
 
 **Military expenditures**<br>
+0.4% of GDP (2020 est.)<br>
 0.4% of GDP (2019)<br>
 0.4% of GDP (2018)<br>
 0.3% of GDP (2017)<br>
 0.4% of GDP (2016)<br>
-0.5% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2020)<br>

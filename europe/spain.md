@@ -210,6 +210,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 4.2% of GDP (2017)<br>
 
@@ -389,10 +392,25 @@ _lyrics/music_: no lyrics/unknown<br>
 **Economic overview**<br>
 <p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p><p></p><p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p><p></p><p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p><p></p><p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,925,576,000,000 (2019 est.)<br>
+$1,888,743,000,000 (2018 est.)<br>
+$1,843,934,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.95% (2019 est.)<br>
 2.43% (2018 est.)<br>
 2.97% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$40,903 (2019 est.)<br>
+$40,360 (2018 est.)<br>
+$39,575 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,393,351,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.7% (2019 est.)<br>
@@ -403,26 +421,6 @@ _lyrics/music_: no lyrics/unknown<br>
 _Fitch rating_: A- (2018)<br>
 _Moody's rating_: Baa1 (2018)<br>
 _Standard & Poors rating_: A (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,925,576,000,000 (2019 est.)<br>
-$1,888,743,000,000 (2018 est.)<br>
-$1,843,934,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,393,351,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$40,903 (2019 est.)<br>
-$40,360 (2018 est.)<br>
-$39,575 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-22.9% of GDP (2019 est.)<br>
-22.4% of GDP (2018 est.)<br>
-22.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.6% (2017 est.)<br>
@@ -436,12 +434,6 @@ _investment in fixed capital_: 20.6% (2017 est.)<br>
 _investment in inventories_: 0.6% (2017 est.)<br>
 _exports of goods and services_: 34.1% (2017 est.)<br>
 _imports of goods and services_: -31.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 77.9 (2020)<br>
-_Starting a Business score_: 86.9 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 70.9 (2020)<br>
 
 **Agricultural products**<br>
 barley, milk, wheat, olives, grapes, tomatoes, pork, maize, oranges, sugar beet<br>
@@ -479,15 +471,15 @@ _highest 10%_: 24% (2011)<br>
 _revenues_: 498.1 billion (2017 est.)<br>
 _expenditures_: 539 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-37.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 98.4% of GDP (2017 est.)<br>
 99% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+37.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -734,7 +726,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: 193,257</strong> estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note: </strong>194,432 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

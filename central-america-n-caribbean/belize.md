@@ -363,10 +363,25 @@ _lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
 **Economic overview**<br>
 <p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p><p></p><p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p><p></p><p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2.734 billion (2019 est.)<br>
+$2.726 billion (2018 est.)<br>
+$2.671 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 0.8% (2017 est.)<br>
 -0.5% (2016 est.)<br>
 3.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$7,005 (2019 est.)<br>
+$7,118 (2018 est.)<br>
+$7,109 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1.854 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2017 est.)<br>
@@ -375,26 +390,6 @@ _lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
 **Credit ratings**<br>
 _Moody's rating_: Caa3 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2.734 billion (2019 est.)<br>
-$2.726 billion (2018 est.)<br>
-$2.671 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1.854 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$7,005 (2019 est.)<br>
-$7,118 (2018 est.)<br>
-$7,109 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-10.1% of GDP (2019 est.)<br>
-8.5% of GDP (2018 est.)<br>
-10.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.3% (2017 est.)<br>
@@ -408,12 +403,6 @@ _investment in fixed capital_: 22.5% (2017 est.)<br>
 _investment in inventories_: 1.2% (2017 est.)<br>
 _exports of goods and services_: 49.1% (2017 est.)<br>
 _imports of goods and services_: -63.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 55.5 (2020)<br>
-_Starting a Business score_: 72 (2020)<br>
-_Trading score_: 68.2 (2020)<br>
-_Enforcement score_: 50.1 (2020)<br>
 
 **Agricultural products**<br>
 sugar care, oranges, bananas, maize, poultry, rice, sorghum, papayas, grapefruit, soybeans<br>
@@ -448,15 +437,15 @@ _highest 10%_: NA<br>
 _revenues_: 553.5 million (2017 est.)<br>
 _expenditures_: 572 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 99% of GDP (2017 est.)<br>
 95.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+29.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -651,11 +640,11 @@ _major seaport(s)_: Belize City, Big Creek<br>
 Belize Defense Force (BDF): Army, Air Wing; Belize Coast Guard (independent from the BDF, but under the Ministry of Defense) (2021)<br>
 
 **Military expenditures**<br>
+1.5% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
 1.2% of GDP (2018)<br>
 1.3% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Belize Defense Force (BDF) has approximately 1,300 active personnel; approximately 300 Belize Coast Guard (2021)<br>

@@ -155,9 +155,15 @@ _female_: 84.89 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.23 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 97% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 3.06 physicians/1,000 population (2018)<br>
@@ -173,6 +179,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -323,10 +332,25 @@ _lyrics/music_: Manuel Fernandez JUNCOS/Felix Astol ARTES<br>
 **Economic overview**<br>
 <p>Puerto Rico had one of the most dynamic economies in the Caribbean region until 2006; however, growth has been negative for each of the last 11 years. The downturn coincided with the phaseout of tax preferences that had led US firms to invest heavily in the Commonwealth since the 1950s, and a steep rise in the price of oil, which generates most of the island's electricity.</p><p></p><p>Diminished job opportunities prompted a sharp rise in outmigration, as many Puerto Ricans sought jobs on the US mainland. Unemployment reached 16% in 2011, but declined to 11.5% in December 2017. US minimum wage laws apply in Puerto Rico, hampering job expansion. Per capita income is about two-thirds that of the US mainland.</p><p></p><p>The industrial sector greatly exceeds agriculture as the locus of economic activity and income. Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008. Puerto Rico's merchandise trade surplus is exceptionally strong, with exports nearly 50% greater than imports, and its current account surplus about 10% of GDP.</p><p></p><p>Closing the budget deficit while restoring economic growth and employment remain the central concerns of the government. The gap between revenues and expenditures amounted to 0.6% of GDP in 2016, although analysts believe that not all expenditures have been accounted for in the budget and a better accounting of costs would yield an overall deficit of roughly 5% of GDP. Public debt remained steady at 92.5% of GDP in 2017, about $17,000 per person, or nearly three times the per capita debt of the State of Connecticut, the highest in the US. Much of that debt was issued by state-run schools and public corporations, including water and electric utilities. In June 2015, Governor Alejandro GARCIA Padilla announced that the island could not pay back at least $73 billion in debt and that it would seek a deal with its creditors.</p><p></p><p>Hurricane Maria hit Puerto Rico square on in September 2017, causing electrical power outages to 90% of the territory, as well as extensive loss of housing and infrastructure and contamination of potable water. Despite massive efforts, more than 40% of the territory remained without electricity as of yearend 2017. As a result of the destruction, many Puerto Ricans have emigrated to the US mainland.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$110.238 billion (2019 est.)<br>
+$108.944 billion (2018 est.)<br>
+$114.269 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -2.4% (2017 est.)<br>
 -1.3% (2016 est.)<br>
 -1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$34,518 (2019 est.)<br>
+$34,116 (2018 est.)<br>
+$34,364 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$104.2 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2017 est.)<br>
@@ -334,21 +358,6 @@ _lyrics/music_: Manuel Fernandez JUNCOS/Felix Astol ARTES<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: D (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$110.238 billion (2019 est.)<br>
-$108.944 billion (2018 est.)<br>
-$114.269 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$104.2 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$34,518 (2019 est.)<br>
-$34,116 (2018 est.)<br>
-$34,364 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.8% (2017 est.)<br>
@@ -362,12 +371,6 @@ _investment in fixed capital_: 11.7% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 117.8% (2017 est.)<br>
 _imports of goods and services_: -129.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 70.1 (2020)<br>
-_Starting a Business score_: 91.2 (2020)<br>
-_Trading score_: 81.9 (2020)<br>
-_Enforcement score_: 61.8 (2020)<br>
 
 **Agricultural products**<br>
 milk, plantains, bananas, poultry, tomatoes, mangoes/guavas, eggs, oranges, gourds, papayas<br>
@@ -401,15 +404,15 @@ _highest 10%_: NA<br>
 _revenues_: 9.268 billion (2017 est.)<br>
 _expenditures_: 9.974 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-8.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 51.6% of GDP (2017 est.)<br>
 50.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+8.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

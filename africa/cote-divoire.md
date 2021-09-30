@@ -392,10 +392,25 @@ _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie C
 **Economic overview**<br>
 <p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p><p></p><p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$134.048 billion (2019 est.)<br>
+$126.185 billion (2018 est.)<br>
+$118.051 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 7.8% (2017 est.)<br>
 8.3% (2016 est.)<br>
 8.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,213 (2019 est.)<br>
+$5,033 (2018 est.)<br>
+$4,831 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$42.498 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -1.1% (2019 est.)<br>
@@ -405,26 +420,6 @@ _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie C
 **Credit ratings**<br>
 _Fitch rating_: B+ (2015)<br>
 _Moody's rating_: Ba3 (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$134.048 billion (2019 est.)<br>
-$126.185 billion (2018 est.)<br>
-$118.051 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$42.498 billion (2018 est.)<br>
-
-**Real GDP per capita**<br>
-$5,213 (2019 est.)<br>
-$5,033 (2018 est.)<br>
-$4,831 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-15.7% of GDP (2018 est.)<br>
-17.4% of GDP (2017 est.)<br>
-19.5% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.1% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 22.4% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 30.8% (2017 est.)<br>
 _imports of goods and services_: -30.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.7 (2020)<br>
-_Starting a Business score_: 93.7 (2020)<br>
-_Trading score_: 52.4 (2020)<br>
-_Enforcement score_: 57.6 (2020)<br>
 
 **Agricultural products**<br>
 yams, cassava, cocoa, oil palm fruit, sugar cane, rice, plantains, maize, cashew nuts, rubber<br>
@@ -478,15 +467,15 @@ _highest 10%_: 31.8% (2008)<br>
 _revenues_: 7.749 billion (2017 est.)<br>
 _expenditures_: 9.464 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-19.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 47% of GDP (2017 est.)<br>
 47% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+19.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

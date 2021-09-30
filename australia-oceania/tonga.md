@@ -365,29 +365,29 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 **Economic overview**<br>
 <p>Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.</p><p></p><p>The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.</p><p></p><p>Tonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.</p><br>
 
-**Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.5% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-7.4% (2017 est.)<br>
-2.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $667 million (2019 est.)<br>
 $662 million (2018 est.)<br>
 $660 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$455 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.5% (2017 est.)<br>
+4.2% (2016 est.)<br>
+3.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $6,383 (2019 est.)<br>
 $6,416 (2018 est.)<br>
 $6,472 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$455 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+7.4% (2017 est.)<br>
+2.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.9% (2017 est.)<br>
@@ -401,12 +401,6 @@ _investment in fixed capital_: 24.1% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 22.8% (2017 est.)<br>
 _imports of goods and services_: -68.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.4 (2020)<br>
-_Starting a Business score_: 90.9 (2020)<br>
-_Trading score_: 72.6 (2020)<br>
-_Enforcement score_: 57.3 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, gourds, cassava, sweet potatoes, vegetables, yams, taro, roots/tubers nes, plantains, lemons/limes<br>
@@ -443,15 +437,15 @@ _highest 10%_: NA<br>
 _revenues_: 181.2 million (2017 est.)<br>
 _expenditures_: 181.2 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 48% of GDP (FY2017 est.)<br>
 51.8% of GDP (FY2016 est.)<br>
+
+**Taxes and other revenues**<br>
+39.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

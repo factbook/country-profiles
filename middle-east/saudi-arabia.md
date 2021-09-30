@@ -190,6 +190,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 35.4% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -358,10 +361,25 @@ _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
 **Economic overview**<br>
 <p>Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world's proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.</p><p></p><p>Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.</p><p></p><p>In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,609,323,000,000 (2019 est.)<br>
+$1,604,007,000,000 (2018 est.)<br>
+$1,565,891,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -0.9% (2017 est.)<br>
 1.7% (2016 est.)<br>
 4.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$46,962 (2019 est.)<br>
+$47,597 (2018 est.)<br>
+$47,309 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$792.849 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -2% (2019 est.)<br>
@@ -372,26 +390,6 @@ _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
 _Fitch rating_: A (2019)<br>
 _Moody's rating_: A1 (2016)<br>
 _Standard & Poors rating_: A- (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,609,323,000,000 (2019 est.)<br>
-$1,604,007,000,000 (2018 est.)<br>
-$1,565,891,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$792.849 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$46,962 (2019 est.)<br>
-$47,597 (2018 est.)<br>
-$47,309 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-33.6% of GDP (2019 est.)<br>
-33.2% of GDP (2018 est.)<br>
-30.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.6% (2017 est.)<br>
@@ -405,12 +403,6 @@ _investment in fixed capital_: 23.2% (2017 est.)<br>
 _investment in inventories_: 4.7% (2017 est.)<br>
 _exports of goods and services_: 34.8% (2017 est.)<br>
 _imports of goods and services_: -28.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 71.6 (2020)<br>
-_Starting a Business score_: 93.1 (2020)<br>
-_Trading score_: 76 (2020)<br>
-_Enforcement score_: 65.3 (2020)<br>
 
 **Agricultural products**<br>
 milk, dates, poultry, fruit, watermelons, barley, wheat, potatoes, eggs, tomatoes<br>
@@ -449,15 +441,15 @@ _highest 10%_: NA<br>
 _revenues_: 181 billion (2017 est.)<br>
 _expenditures_: 241.8 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -8.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 17.2% of GDP (2017 est.)<br>
 13.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -665,7 +657,7 @@ Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes
 note: SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
-7% of GDP (2020 est.)<br>
+7.9% of GDP (2020 est.)<br>
 8% of GDP (2019)<br>
 9.5% of GDP (2018)<br>
 11.1% of GDP (2017)<br>

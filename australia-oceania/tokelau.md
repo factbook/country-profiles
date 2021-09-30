@@ -88,8 +88,18 @@ Tokelauan 88.1% (a Polynesian language), English 48.6%, Samoan 26.7%, Tuvaluan 1
 **Religions**<br>
 Congregational Christian Church 50.4%, Roman Catholic 38.7%, Presbyterian 5.9%, other Christian 4.2%, unspecified 0.8% (2016 est.)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 -0.01% (2019 est.)<br>
+
+**Birth rate**<br>
+NA<br>
 
 **Net migration rate**<br>
 -3.84 migrant(s)/1,000 population (2021 est.)<br>
@@ -117,11 +127,17 @@ _female_: NA (2021 est.)<br>
 **Total fertility rate**<br>
 NA (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 2.72 physicians/1,000 population (2010)<br>
@@ -145,6 +161,9 @@ NA<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -262,28 +281,28 @@ _lyrics/music_: unknown/Falani KALOLO<br>
 **Economic overview**<br>
 <p>Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The principal sources of revenue are from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand.</p><p></p><p>The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue.</p><br>
 
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
-**Inflation rate (consumer prices)**<br>
-4% (2020 est.)<br>
-2.5% (2019 est.)<br>
-11% (2017 est.)<br>
-<strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely due to cigarette prices, a chief import.<br>
-
 **Real GDP (purchasing power parity)**<br>
 $7,711,583 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars.<br>
 
-**GDP (official exchange rate)**<br>
-$12.658 million (2017 est.)<br>
-<strong>note:</strong> data uses New Zealand Dollar (NZD) as the currency of exchange.<br>
+**Real GDP growth rate**<br>
+<p>NA</p><br>
 
 **Real GDP per capita**<br>
 $6,004 (2017 est.)<br>
 $4,855 (2016 est.)<br>
 $4,292 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars.<br>
+
+**GDP (official exchange rate)**<br>
+$12.658 million (2017 est.)<br>
+<strong>note:</strong> data uses New Zealand Dollar (NZD) as the currency of exchange.<br>
+
+**Inflation rate (consumer prices)**<br>
+4% (2020 est.)<br>
+2.5% (2019 est.)<br>
+11% (2017 est.)<br>
+<strong>note: </strong>Tokelau notes that its wide inflation swings are due almost entirely due to cigarette prices, a chief import.<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>

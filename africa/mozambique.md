@@ -391,9 +391,24 @@ _lyrics/music_: Salomao J. MANHICA/unknown<br>
 **Economic overview**<br>
 <p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p><p></p><p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p><p></p><p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p><p></p><p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$38.91 billion (2019 est.)<br>
+$38.042 billion (2018 est.)<br>
+$36.775 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3.11% (2018 est.)<br>
 4.07% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$1,281 (2019 est.)<br>
+$1,290 (2018 est.)<br>
+$1,284 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$14.964 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.7% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: Salomao J. MANHICA/unknown<br>
 _Fitch rating_: CCC (2019)<br>
 _Moody's rating_: Caa2 (2019)<br>
 _Standard & Poors rating_: CCC+ (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$38.91 billion (2019 est.)<br>
-$38.042 billion (2018 est.)<br>
-$36.775 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$14.964 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$1,281 (2019 est.)<br>
-$1,290 (2018 est.)<br>
-$1,284 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-17.8% of GDP (2019 est.)<br>
-12.9% of GDP (2018 est.)<br>
-12.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.9% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 21.7% (2017 est.)<br>
 _investment in inventories_: 13.9% (2017 est.)<br>
 _exports of goods and services_: 38.3% (2017 est.)<br>
 _imports of goods and services_: -70.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 55 (2020)<br>
-_Starting a Business score_: 69.3 (2020)<br>
-_Trading score_: 73.8 (2020)<br>
-_Enforcement score_: 39.8 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, cassava, maize, milk, bananas, tomatoes, sweet potatoes, rice, sorghum, potatoes<br>
@@ -480,15 +469,15 @@ _highest 10%_: 36.7% (2008)<br>
 _revenues_: 3.356 billion (2017 est.)<br>
 _expenditures_: 4.054 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 102.1% of GDP (2017 est.)<br>
 121.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -697,10 +686,10 @@ note: the FADM and Ministry of Interior forces are referred to collectively as t
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
-0.9% of GDP (2019)<br>
-1% of GDP (2018)<br>
-1% of GDP (2017)<br>
-1% of GDP (2016)<br>
+0.9% of GDP (2019 est.)<br>
+1% of GDP (2018 est.)<br>
+1% of GDP (2017 est.)<br>
+1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 11,000 personnel (10,000 Army; 200 Navy; 1,000 Air Force) (2020)<br>

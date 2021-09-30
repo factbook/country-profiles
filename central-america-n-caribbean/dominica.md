@@ -144,6 +144,9 @@ _female_: 81.09 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.02 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 95.7% of population<br>
 _unimproved: urban_: urban: 4.3% of population<br>
@@ -168,6 +171,9 @@ _unimproved: urban_: urban: 4.3% of population<br>
 
 **Obesity - adult prevalence rate**<br>
 27.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 5.6% of GDP (2019)<br>
@@ -315,23 +321,16 @@ _lyrics/music_: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN<br>
 **Economic overview**<br>
 The Dominican economy was dependent on agriculture - primarily bananas - in years past, but increasingly has been driven by tourism, as the government seeks to promote Dominica as an "ecotourism" destination. However, Hurricane Maria, which passed through the island in September 2017, destroyed much of the country’s agricultural sector and caused damage to all of the country’s transportation and physical infrastructure. Before Hurricane Maria, the government had attempted to foster an offshore financial industry and planned to sign agreements with the private sector to develop geothermal energy resources. At a time when government finances are fragile, the government’s focus has been to get the country back in shape to service cruise ships. The economy contracted in 2015 and recovered to positive growth in 2016 due to a recovery of agriculture and tourism. Dominica suffers from high debt levels, which increased from 67% of GDP in 2010 to 77% in 2016. Dominica is one of five countries in the East Caribbean that have citizenship by investment programs whereby foreigners can obtain passports for a fee and revenue from this contribute to government budgets.<br>
 
-**Real GDP growth rate**<br>
--4.7% (2017 est.)<br>
-2.6% (2016 est.)<br>
--3.7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.6% (2017 est.)<br>
-0% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $855 million (2019 est.)<br>
 $826 million (2018 est.)<br>
 $807 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$557 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+-4.7% (2017 est.)<br>
+2.6% (2016 est.)<br>
+-3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $11,917 (2019 est.)<br>
@@ -339,10 +338,12 @@ $11,537 (2018 est.)<br>
 $11,304 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-10.8% of GDP (2017 est.)<br>
-20% of GDP (2016 est.)<br>
-14.3% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$557 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.6% (2017 est.)<br>
+0% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.3% (2017 est.)<br>
@@ -356,12 +357,6 @@ _investment in fixed capital_: 21.5% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 54.4% (2017 est.)<br>
 _imports of goods and services_: -62.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.5 (2020)<br>
-_Starting a Business score_: 89.3 (2020)<br>
-_Trading score_: 74.3 (2020)<br>
-_Enforcement score_: 57.5 (2020)<br>
 
 **Agricultural products**<br>
 bananas, yams, grapefruit, taro, milk, coconuts, oranges, yautia, plantains, sugar cane<br>
@@ -395,15 +390,15 @@ _highest 10%_: NA<br>
 _revenues_: 227.8 million (2017 est.)<br>
 _expenditures_: 260.4 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-40.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 82.7% of GDP (2017 est.)<br>
 71.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+40.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

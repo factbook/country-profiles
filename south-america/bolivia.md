@@ -383,10 +383,25 @@ _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 **Economic overview**<br>
 <p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p><p></p><p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p><p></p><p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$100.445 billion (2019 est.)<br>
+$98.267 billion (2018 est.)<br>
+$94.285 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.22% (2019 est.)<br>
 4.23% (2018 est.)<br>
 4.19% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$8,724 (2019 est.)<br>
+$8,656 (2018 est.)<br>
+$8,424 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$40.822 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.8% (2019 est.)<br>
@@ -397,26 +412,6 @@ _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 _Fitch rating_: B (2020)<br>
 _Moody's rating_: B2 (2020)<br>
 _Standard & Poors rating_: B+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$100.445 billion (2019 est.)<br>
-$98.267 billion (2018 est.)<br>
-$94.285 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$40.822 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$8,724 (2019 est.)<br>
-$8,656 (2018 est.)<br>
-$8,424 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-14.2% of GDP (2019 est.)<br>
-16.1% of GDP (2018 est.)<br>
-16.1% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.8% (2017 est.)<br>
@@ -430,12 +425,6 @@ _investment in fixed capital_: 21.3% (2017 est.)<br>
 _investment in inventories_: 3.8% (2017 est.)<br>
 _exports of goods and services_: 21.7% (2017 est.)<br>
 _imports of goods and services_: -31.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 51.7 (2020)<br>
-_Starting a Business score_: 69.4 (2020)<br>
-_Trading score_: 71.6 (2020)<br>
-_Enforcement score_: 55.6 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, soybeans, potatoes, maize, sorghum, rice, milk, plantains, poultry, bananas<br>
@@ -474,9 +463,6 @@ _highest 10%_: 36.1% (2014 est.)<br>
 _revenues_: 15.09 billion (2017 est.)<br>
 _expenditures_: 18.02 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7.8% (of GDP) (2017 est.)<br>
 
@@ -484,6 +470,9 @@ _expenditures_: 18.02 billion (2017 est.)<br>
 49% of GDP (2017 est.)<br>
 44.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
+
+**Taxes and other revenues**<br>
+39.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -691,11 +680,11 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB, includes Marines), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Interior: National Police (Polic&iacute;a Nacional de Bolivia, PNB; includes Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotr&aacute;fico, FELCN) and other paramilitary units (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020 est.)<br>
 1.4% of GDP (2019)<br>
 1.5% of GDP (2018)<br>
 1.5% of GDP (2017)<br>
 1.6% of GDP (2016)<br>
-1.6% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 40,000 active troops (27,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police (2021)<br>

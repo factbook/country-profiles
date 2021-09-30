@@ -157,6 +157,9 @@ _female_: 84.6 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.59 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -194,6 +197,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.2% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2017)<br>
@@ -365,10 +371,25 @@ _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
 **Economic overview**<br>
 <p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$81.614 billion (2019 est.)<br>
+$79.095 billion (2018 est.)<br>
+$75.773 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.4% (2019 est.)<br>
 4.24% (2018 est.)<br>
 5.14% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$39,088 (2019 est.)<br>
+$38,139 (2018 est.)<br>
+$36,670 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$54.16 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.6% (2019 est.)<br>
@@ -379,26 +400,6 @@ _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
 _Fitch rating_: A (2019)<br>
 _Moody's rating_: A3 (2020)<br>
 _Standard & Poors rating_: AA- (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$81.614 billion (2019 est.)<br>
-$79.095 billion (2018 est.)<br>
-$75.773 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$54.16 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$39,088 (2019 est.)<br>
-$38,139 (2018 est.)<br>
-$36,670 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.5% of GDP (2019 est.)<br>
-27.2% of GDP (2018 est.)<br>
-26.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -412,12 +413,6 @@ _investment in fixed capital_: 18.4% (2017 est.)<br>
 _investment in inventories_: 1.1% (2017 est.)<br>
 _exports of goods and services_: 82.3% (2017 est.)<br>
 _imports of goods and services_: -72.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.5 (2020)<br>
-_Starting a Business score_: 93 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 54.8 (2020)<br>
 
 **Agricultural products**<br>
 milk, maize, wheat, grapes, barley, potatoes, poultry, apples, beef, pork<br>
@@ -455,9 +450,6 @@ _highest 10%_: 20.1% (2016)<br>
 _revenues_: 21.07 billion (2017 est.)<br>
 _expenditures_: 21.06 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-43.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0% (of GDP) (2017 est.)<br>
 
@@ -465,6 +457,9 @@ _expenditures_: 21.06 billion (2017 est.)<br>
 73.6% of GDP (2017 est.)<br>
 78.6% of GDP (2016 est.)<br>
 <strong>note:</strong> defined by the EU's Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and loans; general government sector comprises the central, state, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+43.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

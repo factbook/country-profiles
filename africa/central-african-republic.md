@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 35 years<br>
 _chief of state_: President Faustin-Archange TOUADERA (since 30 March 2016; reelected 27 December 2020)<br>
 _head of government_: Prime Minister Henri-Marie DONDRA (since 11 June 2021); note - Prime Minister Firmin NGREBADA resigned on 10 June 2021<br>
 _cabinet_: Council of Ministers appointed by the president<br>
-_elections/appointments_: under the 2015 constitution, the president is elected by universal direct suffrage for a period of 5 years (eligible for a second term); election last held 27 December 2020 (next to be held in December 2025)<br>
+_elections/appointments_: under the 2015 constitution, the president is elected by universal direct suffrage for a period of 5 years (eligible for a second term); election last held 27 December 2020 (next to be held in December 2025); note - Central African Republic held presidential and partial legislative elections on December 27, 2020; voting was disrupted in some areas, so those constituencies held the first round of their legislative elections on March 14, 2021; some of the constituencies that did vote on December 27, 2020 held runoff elections for their legislators.<br>
 _election results_: Faustin-Archange TOUADERA reelected president in first round; percent of vote - Faustin-Archange TOUADERA (independent) 59.3%, Anicet Georges DOLOGUELE (URCA) 21%, other 19.7%<br>
 <strong>note:</strong> rebel forces seized the capital in March 2013, forcing former President BOZIZE to flee the country; Interim President Michel DJOTODIA assumed the presidency, reinstated the prime minister, and established a National Transitional Council (CNT) in April 2013; the NTC elected Catherine SAMBA-PANZA interim president in January 2014 to serve until February 2015, when new elections were to be held; her term was extended because instability delayed new elections and the transition did not take place until the end of March 2016<br>
 
@@ -383,24 +383,16 @@ _lyrics/music_: Barthelemy BOGANDA/Herbert PEPPER<br>
 **Economic overview**<br>
 <p>Subsistence agriculture, together with forestry and mining, remains the backbone of the economy of the Central African Republic (CAR), with about 60% of the population living in outlying areas. The agricultural sector generates more than half of estimated GDP, although statistics are unreliable in the conflict-prone country. Timber and diamonds account for most export earnings, followed by cotton. Important constraints to economic development include the CAR's landlocked geography, poor transportation system, largely unskilled work force, and legacy of misdirected macroeconomic policies. Factional fighting between the government and its opponents remains a drag on economic revitalization. Distribution of income is highly unequal and grants from the international community can only partially meet humanitarian needs. CAR shares a common currency with the Central African Monetary Union. The currency is pegged to the Euro.</p><p></p><p>Since 2009, the IMF has worked closely with the government to institute reforms that have resulted in some improvement in budget transparency, but other problems remain. The government's additional spending in the run-up to the 2011 election worsened CAR's fiscal situation. In 2012, the World Bank approved $125 million in funding for transport infrastructure and regional trade, focused on the route between CAR's capital and the port of Douala in Cameroon. In July 2016, the IMF approved a three-year extended credit facility valued at $116 million; in mid-2017, the IMF completed a review of CAR’s fiscal performance and broadly approved of the government’s management, although issues with revenue collection, weak government capacity, and transparency remain. The World Bank in late 2016 approved a $20 million grant to restore basic fiscal management, improve transparency, and assist with economic recovery.</p><p></p><p>Participation in the Kimberley Process, a commitment to remove conflict diamonds from the global supply chain, led to a partially lifted the ban on diamond exports from CAR in 2015, but persistent insecurity is likely to constrain real GDP growth.</p><br>
 
-**Real GDP growth rate**<br>
-4.3% (2017 est.)<br>
-4.5% (2016 est.)<br>
-4.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.7% (2019 est.)<br>
-1.6% (2018 est.)<br>
-4.2% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $4.483 billion (2019 est.)<br>
 $4.354 billion (2018 est.)<br>
 $4.195 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$1.937 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+4.3% (2017 est.)<br>
+4.5% (2016 est.)<br>
+4.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $945 (2019 est.)<br>
@@ -408,10 +400,13 @@ $933 (2018 est.)<br>
 $913 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-5.4% of GDP (2017 est.)<br>
-8.2% of GDP (2016 est.)<br>
-4.2% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$1.937 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.7% (2019 est.)<br>
+1.6% (2018 est.)<br>
+4.2% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 43.2% (2017 est.)<br>
@@ -425,12 +420,6 @@ _investment in fixed capital_: 13.7% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 12% (2017 est.)<br>
 _imports of goods and services_: -29.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 35.6 (2020)<br>
-_Starting a Business score_: 63.2 (2020)<br>
-_Trading score_: 52.4 (2020)<br>
-_Enforcement score_: 31.4 (2020)<br>
 
 **Agricultural products**<br>
 cassava, yams, groundnuts, taro, bananas, sugar cane, beef, maize, plantains, milk<br>
@@ -462,15 +451,15 @@ _highest 10%_: 33% (2003)<br>
 _revenues_: 282.9 million (2017 est.)<br>
 _expenditures_: 300.1 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 52.9% of GDP (2017 est.)<br>
 56% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

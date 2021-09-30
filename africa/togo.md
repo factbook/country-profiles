@@ -391,10 +391,25 @@ _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 **Economic overview**<br>
 <p>Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.</p><p></p><p>Supported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.</p><p></p><p>Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$12.904 billion (2019 est.)<br>
+$12.25 billion (2018 est.)<br>
+$11.674 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.4% (2017 est.)<br>
 5.1% (2016 est.)<br>
 5.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$1,597 (2019 est.)<br>
+$1,553 (2018 est.)<br>
+$1,517 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$5.232 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.6% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
 _Standard & Poors rating_: B (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$12.904 billion (2019 est.)<br>
-$12.25 billion (2018 est.)<br>
-$11.674 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$5.232 billion (2018 est.)<br>
-
-**Real GDP per capita**<br>
-$1,597 (2019 est.)<br>
-$1,553 (2018 est.)<br>
-$1,517 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-21.7% of GDP (2018 est.)<br>
-21.4% of GDP (2017 est.)<br>
-21.2% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.8% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 23.4% (2017 est.)<br>
 _investment in inventories_: -1.4% (2017 est.)<br>
 _exports of goods and services_: 43.1% (2017 est.)<br>
 _imports of goods and services_: -61% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 62.3 (2020)<br>
-_Starting a Business score_: 95.1 (2020)<br>
-_Trading score_: 63.7 (2020)<br>
-_Enforcement score_: 49 (2020)<br>
 
 **Agricultural products**<br>
 cassava, maize, yams, sorghum, beans, oil palm fruit, rice, vegetables, cotton, groundnuts<br>
@@ -478,15 +467,15 @@ _highest 10%_: 27.1% (2006)<br>
 _revenues_: 1.023 billion (2017 est.)<br>
 _expenditures_: 1.203 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 75.7% of GDP (2017 est.)<br>
 81.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

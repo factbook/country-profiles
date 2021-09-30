@@ -200,6 +200,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.1% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.4% of GDP (2017)<br>
 
@@ -364,10 +367,25 @@ _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (d
 **Economic overview**<br>
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$498.78 billion (2019 est.)<br>
+$491.803 billion (2018 est.)<br>
+$479.433 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.42% (2019 est.)<br>
 2.58% (2018 est.)<br>
 2.4% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$56,188 (2019 est.)<br>
+$55,631 (2018 est.)<br>
+$54,496 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$445.025 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2019 est.)<br>
@@ -378,26 +396,6 @@ _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (d
 _Fitch rating_: AA+ (2015)<br>
 _Moody's rating_: Aa1 (2016)<br>
 _Standard & Poors rating_: AA+ (2012)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$498.78 billion (2019 est.)<br>
-$491.803 billion (2018 est.)<br>
-$479.433 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$445.025 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$56,188 (2019 est.)<br>
-$55,631 (2018 est.)<br>
-$54,496 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-28.5% of GDP (2019 est.)<br>
-26.9% of GDP (2018 est.)<br>
-26.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.3% (2017 est.)<br>
@@ -411,12 +409,6 @@ _investment in fixed capital_: 23.5% (2017 est.)<br>
 _investment in inventories_: 1.6% (2017 est.)<br>
 _exports of goods and services_: 54.2% (2017 est.)<br>
 _imports of goods and services_: -50.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 78.7 (2020)<br>
-_Starting a Business score_: 83.2 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 75.5 (2020)<br>
 
 **Agricultural products**<br>
 milk, maize, sugar beet, wheat, barley, potatoes, pork, triticale, grapes, apples<br>
@@ -454,9 +446,6 @@ _highest 10%_: 23.5% (2012 est.)<br>
 _revenues_: 201.7 billion (2017 est.)<br>
 _expenditures_: 204.6 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-48.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.7% (of GDP) (2017 est.)<br>
 
@@ -464,6 +453,9 @@ _expenditures_: 204.6 billion (2017 est.)<br>
 78.6% of GDP (2017 est.)<br>
 83.6% of GDP (2016 est.)<br>
 <strong>note:</strong> this is general government gross debt, defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year; it covers the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; as a percentage of GDP, the GDP used as a denominator is the gross domestic product in current year prices<br>
+
+**Taxes and other revenues**<br>
+48.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -669,7 +661,7 @@ Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (20
 
 **Military expenditures**<br>
 0.8% of GDP (2021 est.)<br>
-0.8% of GDP (2020)<br>
+0.7% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.8% of GDP (2017)<br>

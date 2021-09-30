@@ -84,6 +84,7 @@ Kyrgyz 73.5%, Uzbek 14.7%, Russian 5.5%, Dungan 1.1%, other 5.2% (includes Uyghu
 
 **Languages**<br>
 Kyrgyz (official) 71.4%, Uzbek 14.4%, Russian (official) 9%, other 5.2% (2009 est.)<br>
+_major-language sample(s)_: <br>Дүйнөлүк фактылар китеби, негизги маалыматтын маанилүү булагы. (Kyrgyz)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Muslim 90% (majority Sunni), Christian 7% (Russian Orthodox 3%), other 3% (includes Jewish, Buddhist, Baha'i) (2017 est.)<br>
@@ -367,10 +368,25 @@ _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOL
 **Economic overview**<br>
 <p>Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.</p><p></p><p>Following independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.</p><p></p><p>Kyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$33.918 billion (2019 est.)<br>
+$32.455 billion (2018 est.)<br>
+$31.28 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.6% (2017 est.)<br>
 4.3% (2016 est.)<br>
 3.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,253 (2019 est.)<br>
+$5,133 (2018 est.)<br>
+$5,047 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$8.442 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2019 est.)<br>
@@ -380,26 +396,6 @@ _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOL
 **Credit ratings**<br>
 _Moody's rating_: B2 (2015)<br>
 _Standard & Poors rating_: NR (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$33.918 billion (2019 est.)<br>
-$32.455 billion (2018 est.)<br>
-$31.28 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$8.442 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$5,253 (2019 est.)<br>
-$5,133 (2018 est.)<br>
-$5,047 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-19.5% of GDP (2019 est.)<br>
-26.6% of GDP (2018 est.)<br>
-26.7% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.6% (2017 est.)<br>
@@ -413,12 +409,6 @@ _investment in fixed capital_: 33.2% (2017 est.)<br>
 _investment in inventories_: 1.8% (2017 est.)<br>
 _exports of goods and services_: 39.7% (2017 est.)<br>
 _imports of goods and services_: -79% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 67.8 (2020)<br>
-_Starting a Business score_: 93 (2020)<br>
-_Trading score_: 74.7 (2020)<br>
-_Enforcement score_: 50.4 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, sugar beet, maize, wheat, barley, tomatoes, watermelons, onions, carrots/turnips<br>
@@ -456,15 +446,15 @@ _highest 10%_: 22.9% (2014 est.)<br>
 _revenues_: 2.169 billion (2017 est.)<br>
 _expenditures_: 2.409 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 56% of GDP (2017 est.)<br>
 55.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

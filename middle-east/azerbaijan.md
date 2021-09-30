@@ -376,10 +376,25 @@ _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 **Economic overview**<br>
 <p>Prior to the decline in global oil prices since 2014, Azerbaijan's high economic growth was attributable to rising energy exports and to some non-export sectors. Oil exports through the Baku-Tbilisi-Ceyhan Pipeline, the Baku-Novorossiysk, and the Baku-Supsa Pipelines remain the main economic driver, but efforts to boost Azerbaijan's gas production are underway. The expected completion of the geopolitically important Southern Gas Corridor (SGC) between Azerbaijan and Europe will open up another source of revenue from gas exports. First gas to Turkey through the SGC is expected in 2018 with project completion expected by 2020-21.</p><p></p><p>Declining oil prices caused a 3.1% contraction in GDP in 2016, and a 0.8% decline in 2017, highlighted by a sharp reduction in the construction sector. The economic decline was accompanied by higher inflation, a weakened banking sector, and two sharp currency devaluations in 2015. Azerbaijan’s financial sector continued to struggle. In May 2017, Baku allowed the majority state-owed International Bank of Azerbaijan (IBA), the nation’s largest bank, to default on some of its outstanding debt and file for restructuring in Azerbaijani courts; IBA also filed in US and UK bankruptcy courts to have its restructuring recognized in their respective jurisdictions.</p><p></p><p>Azerbaijan has made limited progress with market-based economic reforms. Pervasive public and private sector corruption and structural economic inefficiencies remain a drag on long-term growth, particularly in non-energy sectors. The government has, however, made efforts to combat corruption, particularly in customs and government services. Several other obstacles impede Azerbaijan's economic progress, including the need for more foreign investment in the non-energy sector and the continuing conflict with Armenia over the Nagorno-Karabakh region. While trade with Russia and the other former Soviet republics remains important, Azerbaijan has expanded trade with Turkey and Europe and is seeking new markets for non-oil/gas exports - mainly in the agricultural sector - with Gulf Cooperation Council member countries, the US, and others. It is also improving Baku airport and the Caspian Sea port of Alat for use as a regional transportation and logistics hub.</p><p></p><p>Long-term prospects depend on world oil prices, Azerbaijan's ability to develop export routes for its growing gas production, and its ability to improve the business environment and diversify the economy. In late 2016, the president approved a strategic roadmap for economic reforms that identified key non-energy segments of the economy for development, such as agriculture, logistics, information technology, and tourism. In October 2017, the long-awaited Baku-Tbilisi-Kars railway, stretching from the Azerbaijani capital to Kars in north-eastern Turkey, began limited service.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$144.374 billion (2019 est.)<br>
+$141.24 billion (2018 est.)<br>
+$139.152 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.1% (2017 est.)<br>
 -3.1% (2016 est.)<br>
 0.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$14,404 (2019 est.)<br>
+$14,210 (2018 est.)<br>
+$14,121 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$48.104 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.6% (2019 est.)<br>
@@ -390,26 +405,6 @@ _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 _Fitch rating_: BB+ (2016)<br>
 _Moody's rating_: Ba2 (2017)<br>
 _Standard & Poors rating_: BB+ (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$144.374 billion (2019 est.)<br>
-$141.24 billion (2018 est.)<br>
-$139.152 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$48.104 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,404 (2019 est.)<br>
-$14,210 (2018 est.)<br>
-$14,121 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-29.2% of GDP (2019 est.)<br>
-31.7% of GDP (2018 est.)<br>
-28.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.1% (2017 est.)<br>
@@ -423,12 +418,6 @@ _investment in fixed capital_: 23.6% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 48.7% (2017 est.)<br>
 _imports of goods and services_: -42% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.7 (2020)<br>
-_Starting a Business score_: 96.2 (2020)<br>
-_Trading score_: 77 (2020)<br>
-_Enforcement score_: 70.3 (2020)<br>
 
 **Agricultural products**<br>
 milk, wheat, potatoes, barley, tomatoes, watermelons, cotton, apples, maize, onions<br>
@@ -466,15 +455,15 @@ _highest 10%_: 27.4% (2008)<br>
 _revenues_: 9.556 billion (2017 est.)<br>
 _expenditures_: 10.22 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 54.1% of GDP (2017 est.)<br>
 50.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+23.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

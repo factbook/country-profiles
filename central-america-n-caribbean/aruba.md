@@ -150,6 +150,9 @@ _female_: 80.93 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.83 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 98.1% of population<br>
 _improved: rural_: rural: 98.1% of population<br>
@@ -157,6 +160,9 @@ _improved: total_: total: 98.1% of population<br>
 _unimproved: urban_: urban: 1.9% of population<br>
 _unimproved: rural_: rural: 1.9% of population<br>
 _unimproved: total_: total: 1.9% of population (2015 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.7% of population<br>
@@ -173,6 +179,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -267,8 +276,8 @@ see the Netherlands<br>
 _chief of state_: King WILLEM-ALEXANDER of the Netherlands (since 30 April 2013); represented by Governor General Alfonso BOEKHOUDT (since 1 January 2017)<br>
 _head of government_: Prime Minister Evelyn WEVER-CROES (since 17 November 2017)<br>
 _cabinet_: Council of Ministers elected by the Legislature (Staten)<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term; election last held on 22 September 2017 (next to be held by September 2021)<br><strong>note:</strong> on 30 March 2021, Evelyn WEVER-CROES resigned as prime minister and dissolved parliament, an announcement for new elections is expected soon<br>
-_election results_: Evelyn WEVER-CROES (MEP) elected prime minister; percent of legislative vote - NA<br>
+_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch for a 6-year term; prime minister and deputy prime minister indirectly elected by the Staten for 4-year term; election last held on 25 June 2021 (next to be held by June 2026)<br>
+_election results_: as leader of the majority party of the ruling coalition, Evelyn WEVER-CROES (MEP) elected prime minister; percent of legislative vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Legislature or Staten (21 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
@@ -309,10 +318,21 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 **Economic overview**<br>
 <p>Tourism, petroleum bunkering, hospitality, and financial and business services are the mainstays of the small open Aruban economy.</p><p></p><p>Tourism accounts for a majority of economic activity; as of 2017, over 2 million tourists visited Aruba annually, with the large majority (80-85%) of those from the US. The rapid growth of the tourism sector has resulted in a substantial expansion of other activities. Construction continues to boom, especially in the hospitality sector.</p><p></p><p>Aruba is heavily dependent on imports and is making efforts to expand exports to improve its trade balance. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Panama being the major suppliers.</p><p></p><p>In 2016, Citgo Petroleum Corporation, an indirect wholly owned subsidiary of Petroleos de Venezuela SA, and the Government of Aruba signed an agreement to restart Valero Energy Corp.'s former 235,000-b/d refinery. Tourism and related industries have continued to grow, and the Aruban Government is working to attract more diverse industries. Aruba's banking sector continues to be a strong sector; unemployment has significantly decreased.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$4.05 billion (2017 est.)<br>
+$4.107 billion (2016 est.)<br>
+
 **Real GDP growth rate**<br>
 1.2% (2017 est.)<br>
 -0.1% (2016 est.)<br>
 -0.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$38,442 (2017 est.)<br>
+$37,300 (2016 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$2.7 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.5% (2017 est.)<br>
@@ -321,22 +341,6 @@ _lyrics/music_: Juan Chabaya 'Padu' LAMPE/Rufo Inocencio WEVER<br>
 **Credit ratings**<br>
 _Fitch rating_: BB (2020)<br>
 _Standard & Poors rating_: BBB+ (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$4.05 billion (2017 est.)<br>
-$4.107 billion (2016 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$2.7 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$38,442 (2017 est.)<br>
-$37,300 (2016 est.)<br>
-
-**Gross national saving**<br>
-14.7% of GDP (2017 est.)<br>
-17.2% of GDP (2016 est.)<br>
-15.5% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2002 est.)<br>
@@ -384,15 +388,15 @@ _highest 10%_: NA<br>
 _revenues_: 681.6 million (2017 est.)<br>
 _expenditures_: 755.5 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-25.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 86% of GDP (2017 est.)<br>
 84.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+25.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

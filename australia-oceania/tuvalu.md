@@ -145,6 +145,9 @@ _female_: 70.59 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.86 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 98.8% of population<br>
@@ -178,6 +181,9 @@ NA<br>
 
 **Obesity - adult prevalence rate**<br>
 51.6% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -319,29 +325,29 @@ _lyrics/music_: Afaese MANOA<br>
 **Economic overview**<br>
 <p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p><p></p><p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p><p></p><p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
 
-**Real GDP growth rate**<br>
-3.2% (2017 est.)<br>
-3% (2016 est.)<br>
-9.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-4.1% (2017 est.)<br>
-3.5% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $49 million (2019 est.)<br>
 $45 million (2018 est.)<br>
 $44 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$40 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+3.2% (2017 est.)<br>
+3% (2016 est.)<br>
+9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $4,281 (2019 est.)<br>
 $3,948 (2018 est.)<br>
 $3,898 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$40 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+4.1% (2017 est.)<br>
+3.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24.5% (2012 est.)<br>
@@ -387,16 +393,16 @@ _revenues_: 42.68 million (2013 est.)<br>
 _expenditures_: 32.46 million (2012 est.)<br>
 <strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
-**Taxes and other revenues**<br>
-106.7% (of GDP) (2013 est.)<br>
-<strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 25.6% (of GDP) (2013 est.)<br>
 
 **Public debt**<br>
 37% of GDP (2017 est.)<br>
 47.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+106.7% (of GDP) (2013 est.)<br>
+<strong>note:</strong> revenue data include Official Development Assistance from Australia<br>
 
 **Fiscal year**<br>
 calendar year<br>

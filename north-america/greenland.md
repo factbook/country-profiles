@@ -145,6 +145,9 @@ _female_: 76.56 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.92 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -152,6 +155,9 @@ _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 1.87 physicians/1,000 population (2016)<br>
@@ -174,6 +180,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -308,28 +317,28 @@ _lyrics/music_: Henrik LUND/Jonathan PETERSEN<br>
 **Economic overview**<br>
 <p>Greenland’s economy depends on exports of shrimp and fish, and on a substantial subsidy from the Danish Government. Fish account for over 90% of its exports, subjecting the economy to price fluctuations. The subsidy from the Danish Government is budgeted to be about $535 million in 2017, more than 50% of government revenues, and 25% of GDP.</p><p></p><p>The economy is expanding after a period of decline. The economy contracted between 2012 and 2014, grew by 1.7% in 2015 and by 7.7%in 2016. The expansion has been driven by larger quotas for shrimp, the predominant Greenlandic export, and also by increased activity in the construction sector, especially in Nuuk, the capital. Private consumption and tourism also are contributing to GDP growth more than in previous years. Tourism in Greenland grew annually around 20% in 2015 and 2016, largely a result of increasing numbers of cruise lines now operating in Greenland's western and southern waters during the peak summer tourism season.</p><p></p><p>The public sector, including publicly owned enterprises and the municipalities, plays a dominant role in Greenland's economy. During the last decade the Greenland Self Rule Government pursued conservative fiscal and monetary policies, but public pressure has increased for better schools, health care, and retirement systems. The budget was in deficit in 2014 and 2016, but public debt remains low at about 5% of GDP. The government plans a balanced budget for the 2017–20 period.</p><p></p><p>Significant challenges face the island, including low levels of qualified labor, geographic dispersion, lack of industry diversification, the long-term sustainability of the public budget, and a declining population due to emigration. Hydrocarbon exploration has ceased with declining oil prices. The island has potential for natural resource exploitation with rare-earth, uranium, and iron ore mineral projects proposed, but a lack of infrastructure hinders development.</p><br>
 
-**Real GDP growth rate**<br>
-7.7% (2016 est.)<br>
-1.7% (2015 est.)<br>
--0.8% (2014 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.3% (January 2017 est.)<br>
-1.2% (January 2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.413 billion (2015 est.)<br>
 $2.24 billion (2014 est.)<br>
 $2.203 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$2.221 billion (2015 est.)<br>
+**Real GDP growth rate**<br>
+7.7% (2016 est.)<br>
+1.7% (2015 est.)<br>
+-0.8% (2014 est.)<br>
 
 **Real GDP per capita**<br>
 $41,800 (2015 est.)<br>
 $38,800 (2014 est.)<br>
 $38,500 (2013 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$2.221 billion (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.3% (January 2017 est.)<br>
+1.2% (January 2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.9% (2015 est.)<br>
@@ -380,14 +389,14 @@ _highest 10%_: NA<br>
 _revenues_: 1.719 billion (2016 est.)<br>
 _expenditures_: 1.594 billion (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-77.4% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 5.6% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 13% of GDP (2015 est.)<br>
+
+**Taxes and other revenues**<br>
+77.4% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

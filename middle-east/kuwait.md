@@ -156,6 +156,9 @@ _female_: 80.43 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.25 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -354,10 +357,25 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 **Economic overview**<br>
 <p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p><p></p><p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p><p></p><p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$209.738 billion (2019 est.)<br>
+$208.845 billion (2018 est.)<br>
+$206.274 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -3.3% (2017 est.)<br>
 2.2% (2016 est.)<br>
 -1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$49,854 (2019 est.)<br>
+$50,479 (2018 est.)<br>
+$50,856 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$134.638 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.5% (2017 est.)<br>
@@ -367,26 +385,6 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 _Fitch rating_: AA (2008)<br>
 _Moody's rating_: A1 (2020)<br>
 _Standard & Poors rating_: AA- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$209.738 billion (2019 est.)<br>
-$208.845 billion (2018 est.)<br>
-$206.274 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$134.638 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$49,854 (2019 est.)<br>
-$50,479 (2018 est.)<br>
-$50,856 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-40.8% of GDP (2018 est.)<br>
-35.5% of GDP (2017 est.)<br>
-37.1% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.4% (2017 est.)<br>
@@ -400,12 +398,6 @@ _investment in fixed capital_: 26.5% (2017 est.)<br>
 _investment in inventories_: 3.5% (2017 est.)<br>
 _exports of goods and services_: 49.4% (2017 est.)<br>
 _imports of goods and services_: -47% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 67.4 (2020)<br>
-_Starting a Business score_: 88.4 (2020)<br>
-_Trading score_: 52.6 (2020)<br>
-_Enforcement score_: 61.4 (2020)<br>
 
 **Agricultural products**<br>
 eggs, dates, tomatoes, cucumbers, poultry, milk, mutton, potatoes, vegetables, eggplants<br>
@@ -440,15 +432,15 @@ _highest 10%_: NA<br>
 _revenues_: 50.5 billion (2017 est.)<br>
 _expenditures_: 62.6 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-41.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -10% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 20.6% of GDP (2017 est.)<br>
 9.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+41.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -644,7 +636,7 @@ Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force
 note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the KNG possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
 
 **Military expenditures**<br>
-5% of GDP (2020 est.)<br>
+6.3% of GDP (2020 est.)<br>
 5.6% of GDP (2019)<br>
 5.1% of GDP (2018)<br>
 5.6% of GDP (2017)<br>

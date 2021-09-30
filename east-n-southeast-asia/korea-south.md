@@ -198,6 +198,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 4.3% of GDP (2016)<br>
 
@@ -372,10 +375,25 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 **Economic overview**<br>
 <p>After emerging from the 1950-53 war with North Korea, South Korea emerged as one of the 20th century’s most remarkable economic success stories, becoming a developed, globally connected, high-technology society within decades. In the 1960s, GDP per capita was comparable with levels in the poorest countries in the world. In 2004, South Korea's GDP surpassed one trillion dollars.</p><p></p><p>Beginning in the 1960s under President PARK Chung-hee, the government promoted the import of raw materials and technology, encouraged saving and investment over consumption, kept wages low, and directed resources to export-oriented industries that remain important to the economy to this day. Growth surged under these policies, and frequently reached double-digits in the 1960s and 1970s. Growth gradually moderated in the 1990s as the economy matured, but remained strong enough to propel South Korea into the ranks of the advanced economies of the OECD by 1997. These policies also led to the emergence of family-owned chaebol conglomerates such as Daewoo, Hyundai, and Samsung, which retained their dominant positions even as the government loosened its grip on the economy amid the political changes of the 1980s and 1990s.</p><p></p><p>The Asian financial crisis of 1997-98 hit South Korea’s companies hard because of their excessive reliance on short-term borrowing, and GDP ultimately plunged by 7% in 1998. South Korea tackled difficult economic reforms following the crisis, including restructuring some chaebols, increasing labor market flexibility, and opening up to more foreign investment and imports. These steps lead to a relatively rapid economic recovery. South Korea also began expanding its network of free trade agreements to help bolster exports, and has since implemented 16 free trade agreements covering 58 countries—including the United State and China—that collectively cover more than three-quarters of global GDP.</p><p></p><p>In 2017, the election of President MOON Jae-in brought a surge in consumer confidence, in part, because of his successful efforts to increase wages and government spending. These factors combined with an uptick in export growth to drive real GDP growth to more than 3%, despite disruptions in South Korea’s trade with China over the deployment of a US missile defense system in South Korea.</p><p></p><p>In 2018 and beyond, South Korea will contend with gradually slowing economic growth - in the 2-3% range - not uncommon for advanced economies. This could be partially offset by efforts to address challenges arising from its rapidly aging population, inflexible labor market, continued dominance of the chaebols, and heavy reliance on exports rather than domestic consumption. Socioeconomic problems also persist, and include rising inequality, poverty among the elderly, high youth unemployment, long working hours, low worker productivity, and corruption.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2,211,315,000,000 (2019 est.)<br>
+$2,167,119,000,000 (2018 est.)<br>
+$2,105,893,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.04% (2019 est.)<br>
 2.91% (2018 est.)<br>
 3.16% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$42,765 (2019 est.)<br>
+$41,993 (2018 est.)<br>
+$41,001 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,646,604,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2019 est.)<br>
@@ -386,26 +404,6 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 _Fitch rating_: AA- (2012)<br>
 _Moody's rating_: Aa2 (2015)<br>
 _Standard & Poors rating_: AA (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2,211,315,000,000 (2019 est.)<br>
-$2,167,119,000,000 (2018 est.)<br>
-$2,105,893,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,646,604,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$42,765 (2019 est.)<br>
-$41,993 (2018 est.)<br>
-$41,001 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-34.8% of GDP (2019 est.)<br>
-35.9% of GDP (2018 est.)<br>
-37% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.2% (2017 est.)<br>
@@ -419,12 +417,6 @@ _investment in fixed capital_: 31.1% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 43.1% (2017 est.)<br>
 _imports of goods and services_: -37.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 84 (2020)<br>
-_Starting a Business score_: 93.4 (2020)<br>
-_Trading score_: 92.5 (2020)<br>
-_Enforcement score_: 84.1 (2020)<br>
 
 **Agricultural products**<br>
 rice, vegetables, cabbages, milk, onions, pork, poultry, eggs, tangerines/mandarins, potatoes<br>
@@ -462,15 +454,15 @@ _highest 10%_: 48.5% (2015 est.)<br>
 _revenues_: 357.1 billion (2017 est.)<br>
 _expenditures_: 335.8 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 39.5% of GDP (2017 est.)<br>
 39.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+23.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

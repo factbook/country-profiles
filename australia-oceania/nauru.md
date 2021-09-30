@@ -142,6 +142,9 @@ _female_: 71.3 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.65 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: total_: total: 100% of population<br>
@@ -179,6 +182,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 61% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -324,29 +330,29 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 **Economic overview**<br>
 <p>Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of "secondary phosphate" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.</p><p></p><p>The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.</p><p></p><p>Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the "vessel day scheme" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.</p><br>
 
-**Real GDP growth rate**<br>
-4% (2017 est.)<br>
-10.4% (2016 est.)<br>
-2.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-5.1% (2017 est.)<br>
-8.2% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $145 million (2019 est.)<br>
 $145 million (2018 est.)<br>
 $137 million (2017 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$114 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+4% (2017 est.)<br>
+10.4% (2016 est.)<br>
+2.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $11,583 (2019 est.)<br>
 $11,471 (2018 est.)<br>
 $10,667 (2017 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
+
+**GDP (official exchange rate)**<br>
+$114 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+5.1% (2017 est.)<br>
+8.2% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.1% (2009 est.)<br>
@@ -390,15 +396,15 @@ _highest 10%_: NA<br>
 _revenues_: 103 million (2017 est.)<br>
 _expenditures_: 113.4 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-90.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -9.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 62% of GDP (2017 est.)<br>
 65% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+90.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

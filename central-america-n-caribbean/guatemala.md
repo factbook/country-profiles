@@ -385,10 +385,25 @@ _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 **Economic overview**<br>
 <p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$143.416 billion (2019 est.)<br>
+$138.106 billion (2018 est.)<br>
+$133.804 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.8% (2017 est.)<br>
 3.1% (2016 est.)<br>
 4.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$8,637 (2019 est.)<br>
+$8,448 (2018 est.)<br>
+$8,317 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$76.678 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.7% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 _Fitch rating_: BB- (2020)<br>
 _Moody's rating_: Ba1 (2010)<br>
 _Standard & Poors rating_: BB- (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$143.416 billion (2019 est.)<br>
-$138.106 billion (2018 est.)<br>
-$133.804 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$76.678 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$8,637 (2019 est.)<br>
-$8,448 (2018 est.)<br>
-$8,317 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-16.9% of GDP (2019 est.)<br>
-14.7% of GDP (2018 est.)<br>
-14.7% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.3% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 12.3% (2017 est.)<br>
 _investment in inventories_: -0.2% (2017 est.)<br>
 _exports of goods and services_: 18.8% (2017 est.)<br>
 _imports of goods and services_: -26.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 62.6 (2020)<br>
-_Starting a Business score_: 86.8 (2020)<br>
-_Trading score_: 77.2 (2020)<br>
-_Enforcement score_: 34.5 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, bananas, oil palm fruit, maize, melons, potatoes, milk, plantains, pineapples, rubber<br>
@@ -475,15 +464,15 @@ _highest 10%_: 38.4% (2014)<br>
 _revenues_: 8.164 billion (2017 est.)<br>
 _expenditures_: 9.156 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-10.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 24.7% of GDP (2017 est.)<br>
 24.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+10.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -691,11 +680,11 @@ _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
 Army of Guatemala (Ejercito de Guatemala): Land Forces (Fuerzas de Tierra), Naval Forces (Fuerza de Mar), and Air Force (Fuerza de Aire); Ministry of Interior: National Civil Police (Policia Nacional Civil; includes paramilitary units) (2021)<br>
 
 **Military expenditures**<br>
+0.5% of GDP (2020 est.)<br>
 0.4% of GDP (2019)<br>
 0.4% of GDP (2018)<br>
 0.4% of GDP (2017)<br>
 0.4% of GDP (2016)<br>
-0.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 21,500 active personnel (19,000 Land Forces; 1,500 Naval Forces; 1,000 Air Forces); approximately 30,000 National Civil Police (2021)<br>

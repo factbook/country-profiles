@@ -377,10 +377,25 @@ _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DEL
 **Economic overview**<br>
 <p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p><p></p><p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p><p></p><p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$35.392 billion (2019 est.)<br>
+$36.82 billion (2018 est.)<br>
+$38.334 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.9% (2017 est.)<br>
 4.7% (2016 est.)<br>
 4.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,407 (2019 est.)<br>
+$5,695 (2018 est.)<br>
+$6,004 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$12.57 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.3% (2019 est.)<br>
@@ -391,26 +406,6 @@ _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DEL
 _Fitch rating_: B- (2018)<br>
 _Moody's rating_: B3 (2020)<br>
 _Standard & Poors rating_: B- (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$35.392 billion (2019 est.)<br>
-$36.82 billion (2018 est.)<br>
-$38.334 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$12.57 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$5,407 (2019 est.)<br>
-$5,695 (2018 est.)<br>
-$6,004 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22.6% of GDP (2019 est.)<br>
-21.9% of GDP (2018 est.)<br>
-22.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.5% (2017 est.)<br>
@@ -424,12 +419,6 @@ _investment in fixed capital_: 28.1% (2017 est.)<br>
 _investment in inventories_: 1.7% (2017 est.)<br>
 _exports of goods and services_: 41.2% (2017 est.)<br>
 _imports of goods and services_: -55.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 54.4 (2020)<br>
-_Starting a Business score_: 79.6 (2020)<br>
-_Trading score_: 77 (2020)<br>
-_Enforcement score_: 58.6 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, milk, rice, maize, plantains, groundnuts, cassava, beans, coffee, poultry<br>
@@ -468,9 +457,6 @@ _highest 10%_: 47.1% (2014)<br>
 _revenues_: 3.871 billion (2017 est.)<br>
 _expenditures_: 4.15 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
 
@@ -478,6 +464,9 @@ _expenditures_: 4.15 billion (2017 est.)<br>
 33.3% of GDP (2017 est.)<br>
 31.2% of GDP (2016 est.)<br>
 <strong>note:</strong> official data; data cover general government debt and include debt instruments issued (or owned) by Government entities other than the treasury; the data include treasury debt held by foreign entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions; Nicaragua rebased its GDP figures in 2012, which reduced the figures for debt as a percentage of GDP<br>
+
+**Taxes and other revenues**<br>
+28% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -674,11 +663,11 @@ _major seaport(s)_: Bluefields, Corinto<br>
 Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza A&eacute;rea); Special Operations Command (Comando de Operaciones Especiales) (2021)<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.6% of GDP (2018)<br>
 0.6% of GDP (2017)<br>
 0.5% of GDP (2016)<br>
-0.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Army of Nicaragua has approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>

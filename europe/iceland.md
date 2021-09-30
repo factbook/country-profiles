@@ -158,6 +158,9 @@ _female_: 85.79 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.96 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -196,6 +199,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 21.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 7.7% of GDP (2017)<br>
@@ -313,8 +319,8 @@ _election results_: Gudni Thorlacius JOHANNESSON reelected president; percent of
 
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 28 October 2017 (next to be held in 2021)<br>
-_election results_: percent of vote by party - IP 25.2%, LGM 16.9%, SDA 12.1%, CP 10.9%, PP 10.7%, Pirate Party 9.2%, People's Party 6.9%, Reform Party 6.7%. other 1.5%; seats by party - IP 16, LGM 11, SDA 7, CP 7, PP 8, Pirate Party 6, Reform Party 4, People's Party 4<br>
+_elections_: last held on 25 September 2021 (next to be held in 2025)<br>
+_election results_: <p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -322,7 +328,7 @@ _judge selection and term of office_: judges proposed by Ministry of Interior se
 _subordinate courts_: Appellate Court or Landsrettur; 8 district courts; Labor Court<br>
 
 **Political parties and leaders**<br>
-Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON]<br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]<br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR]<br>People's Party (Flokkur Folksins) [Inga SAELAND]<br>Pirate Party (Piratar) [rotating leadership]<br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR]<br>Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]<br>
+<p>Centrist Party (Midflokkurinn) or CP [Sigmundur David GUNNLAUGSSON] <br>Independence Party (Sjalfstaedisflokkurinn) or IP [Bjarni BENEDIKTSSON]  <br>Left-Green Movement (Vinstrihreyfingin-graent frambod) or LGM [Katrin JAKOBSDOTTIR] <br>People's Party (Flokkur Folksins) [Inga SAELAND] <br>Pirate Party (Piratar) [Halldora MOGENSEN] <br>Progressive Party (Framsoknarflokkurinn) or PP [Sigurdur Ingi JOHANNSSON]<br>Reform Party (Vidreisn) [Thorgerdur Katrin GUNNARSDOTTIR] <br>Social Democratic Alliance (Samfylkingin) or SDA [Logi Mar EINARSSON]</p><br>
 
 **International organization participation**<br>
 Arctic Council, Australia Group, BIS, CBSS, CD, CE, EAPC, EBRD, EFTA, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -359,10 +365,25 @@ _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 **Economic overview**<br>
 <p>Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.</p><p></p><p>Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.</p><p></p><p>Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.</p><p></p><p>Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$20.187 billion (2019 est.)<br>
+$19.807 billion (2018 est.)<br>
+$19.08 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.94% (2019 est.)<br>
 3.88% (2018 est.)<br>
 4.57% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$55,874 (2019 est.)<br>
+$56,158 (2018 est.)<br>
+$55,562 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$24.614 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3% (2019 est.)<br>
@@ -373,26 +394,6 @@ _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 _Fitch rating_: A (2017)<br>
 _Moody's rating_: A2 (2019)<br>
 _Standard & Poors rating_: A (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$20.187 billion (2019 est.)<br>
-$19.807 billion (2018 est.)<br>
-$19.08 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$24.614 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$55,874 (2019 est.)<br>
-$56,158 (2018 est.)<br>
-$55,562 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26% of GDP (2019 est.)<br>
-21% of GDP (2018 est.)<br>
-23.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.8% (2017 est.)<br>
@@ -406,12 +407,6 @@ _investment in fixed capital_: 22.1% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 47% (2017 est.)<br>
 _imports of goods and services_: -42.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 79 (2020)<br>
-_Starting a Business score_: 90.6 (2020)<br>
-_Trading score_: 86.7 (2020)<br>
-_Enforcement score_: 69.1 (2020)<br>
 
 **Agricultural products**<br>
 milk, mutton, poultry, potatoes, barley, pork, eggs, beef, other meat, sheep skins<br>
@@ -449,15 +444,15 @@ _highest 10%_: NA<br>
 _revenues_: 10.39 billion (2017 est.)<br>
 _expenditures_: 10.02 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-42.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 40% of GDP (2017 est.)<br>
 51.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+42.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

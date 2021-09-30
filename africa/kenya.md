@@ -394,10 +394,25 @@ _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI
 **Economic overview**<br>
 <p>Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold. While Kenya has a growing entrepreneurial middle class and steady growth, its economic development has been impaired by weak governance and corruption. Although reliable numbers are hard to find, unemployment and under-employment are extremely high, and could be near 40% of the population. In 2013, the country adopted a devolved system of government with the creation of 47 counties, and is in the process of devolving state revenues and responsibilities to the counties.</p><p></p><p>Agriculture remains the backbone of the Kenyan economy, contributing one-third of GDP. About 75% of Kenya’s population of roughly 48.5 million work at least part-time in the agricultural sector, including livestock and pastoral activities. Over 75% of agricultural output is from small-scale, rain-fed farming or livestock production. Tourism also holds a significant place in Kenya’s economy. In spite of political turmoil throughout the second half of 2017, tourism was up 20%, showcasing the strength of this sector. Kenya has long been a target of terrorist activity and has struggled with instability along its northeastern borders. Some high visibility terrorist attacks during 2013-2015 (e.g., at Nairobi’s Westgate Mall and Garissa University) affected the tourism industry severely, but the sector rebounded strongly in 2016-2017 and appears poised to continue growing.</p><p></p><p>Inadequate infrastructure continues to hamper Kenya’s efforts to improve its annual growth so that it can meaningfully address poverty and unemployment. The KENYATTA administration has been successful in courting external investment for infrastructure development. International financial institutions and donors remain important to Kenya's growth and development, but Kenya has also successfully raised capital in the global bond market issuing its first sovereign bond offering in mid-2014, with a second occurring in February 2018. The first phase of a Chinese-financed and constructed standard gauge railway connecting Mombasa and Nairobi opened in May 2017.</p><p></p><p>In 2016 the government was forced to take over three small and undercapitalized banks when underlying weaknesses were exposed. The government also enacted legislation that limits interest rates banks can charge on loans and set a rate that banks must pay their depositors. This measure led to a sharp shrinkage of credit in the economy. A prolonged election cycle in 2017 hurt the economy, drained government resources, and slowed GDP growth. Drought-like conditions in parts of the country pushed 2017 inflation above 8%, but the rate had fallen to 4.5% in February 2018.</p><p></p><p>The economy, however, is well placed to resume its decade-long 5%-6% growth rate. While fiscal deficits continue to pose risks in the medium term, other economic indicators, including foreign exchange reserves, interest rates, current account deficits, remittances and FDI are positive. The credit and drought-related impediments were temporary. Now In his second term, President KENYATTA has pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$227.638 billion (2019 est.)<br>
+$216.046 billion (2018 est.)<br>
+$203.206 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5.39% (2019 est.)<br>
 6.32% (2018 est.)<br>
 4.79% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$4,330 (2019 est.)<br>
+$4,204 (2018 est.)<br>
+$4,046 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$95.52 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.1% (2019 est.)<br>
@@ -408,26 +423,6 @@ _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI
 _Fitch rating_: B+ (2007)<br>
 _Moody's rating_: B2 (2018)<br>
 _Standard & Poors rating_: B+ (2010)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$227.638 billion (2019 est.)<br>
-$216.046 billion (2018 est.)<br>
-$203.206 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$95.52 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$4,330 (2019 est.)<br>
-$4,204 (2018 est.)<br>
-$4,046 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-8% of GDP (2019 est.)<br>
-8.6% of GDP (2018 est.)<br>
-9.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34.5% (2017 est.)<br>
@@ -441,12 +436,6 @@ _investment in fixed capital_: 18.9% (2017 est.)<br>
 _investment in inventories_: -1% (2017 est.)<br>
 _exports of goods and services_: 13.9% (2017 est.)<br>
 _imports of goods and services_: -25.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 73.2 (2020)<br>
-_Starting a Business score_: 82.7 (2020)<br>
-_Trading score_: 67.4 (2020)<br>
-_Enforcement score_: 58.3 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, milk, maize, potatoes, bananas, camel milk, cassava, sweet potatoes, mangoes/guavas, cabbages<br>
@@ -484,15 +473,15 @@ _highest 10%_: 37.8% (2005)<br>
 _revenues_: 13.95 billion (2017 est.)<br>
 _expenditures_: 19.24 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 54.2% of GDP (2017 est.)<br>
 53.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -737,7 +726,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 269,870 (Somalia), 133,320 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,579 (Ethiopia), 7,108 (Burundi) (2021)<br>
+_refugees (country of origin)_: 272,246 (Somalia), 134,370 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,579 (Ethiopia), 7,108 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

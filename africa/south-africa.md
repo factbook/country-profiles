@@ -385,10 +385,25 @@ _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA an
 **Economic overview**<br>
 <p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p><p></p><p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p><p></p><p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$730.913 billion (2019 est.)<br>
+$729.799 billion (2018 est.)<br>
+$724.1 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.06% (2019 est.)<br>
 0.7% (2018 est.)<br>
 1.4% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$12,482 (2019 est.)<br>
+$12,631 (2018 est.)<br>
+$12,703 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$350.032 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.1% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA an
 _Fitch rating_: BB- (2020)<br>
 _Moody's rating_: Ba2 (2020)<br>
 _Standard & Poors rating_: BB- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$730.913 billion (2019 est.)<br>
-$729.799 billion (2018 est.)<br>
-$724.1 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$350.032 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$12,482 (2019 est.)<br>
-$12,631 (2018 est.)<br>
-$12,703 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-14.9% of GDP (2019 est.)<br>
-14.9% of GDP (2018 est.)<br>
-16.1% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.8% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 18.7% (2017 est.)<br>
 _investment in inventories_: -0.1% (2017 est.)<br>
 _exports of goods and services_: 29.8% (2017 est.)<br>
 _imports of goods and services_: -28.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 67 (2020)<br>
-_Starting a Business score_: 81.2 (2020)<br>
-_Trading score_: 59.6 (2020)<br>
-_Enforcement score_: 56.9 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, milk, potatoes, grapes, poultry, oranges, wheat, soybeans, beef<br>
@@ -475,15 +464,15 @@ _highest 10%_: 51.3% (2011 est.)<br>
 _revenues_: 92.86 billion (2017 est.)<br>
 _expenditures_: 108.3 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 53% of GDP (2017 est.)<br>
 51.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

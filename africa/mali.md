@@ -390,26 +390,16 @@ _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
 **Economic overview**<br>
 <p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p><p></p><p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p><p></p><p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
 
-**Real GDP growth rate**<br>
-5.4% (2017 est.)<br>
-5.8% (2016 est.)<br>
-6.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.9% (2018 est.)<br>
-1.7% (2017 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: Caa1 (2020)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $45.637 billion (2019 est.)<br>
 $43.567 billion (2018 est.)<br>
 $41.593 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$17.508 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+5.4% (2017 est.)<br>
+5.8% (2016 est.)<br>
+6.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,322 (2019 est.)<br>
@@ -417,10 +407,15 @@ $2,284 (2018 est.)<br>
 $2,247 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-15.6% of GDP (2018 est.)<br>
-14.3% of GDP (2017 est.)<br>
-15.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$17.508 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.9% (2018 est.)<br>
+1.7% (2017 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: Caa1 (2020)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 41.8% (2017 est.)<br>
@@ -434,12 +429,6 @@ _investment in fixed capital_: 19.3% (2017 est.)<br>
 _investment in inventories_: -0.7% (2017 est.)<br>
 _exports of goods and services_: 22.1% (2017 est.)<br>
 _imports of goods and services_: -41.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 52.9 (2020)<br>
-_Starting a Business score_: 84.3 (2020)<br>
-_Trading score_: 73.3 (2020)<br>
-_Enforcement score_: 42.8 (2020)<br>
 
 **Agricultural products**<br>
 maize, rice, millet, sorghum, mangoes/guavas, cotton, watermelons, green onions/shallots, okra, sugar cane<br>
@@ -476,15 +465,15 @@ _highest 10%_: 25.8% (2010 est.)<br>
 _revenues_: 3.075 billion (2017 est.)<br>
 _expenditures_: 3.513 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 35.4% of GDP (2017 est.)<br>
 36% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

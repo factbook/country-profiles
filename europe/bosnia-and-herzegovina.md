@@ -375,10 +375,25 @@ _lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<b
 **Economic overview**<br>
 <p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p><p></p><p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p><p></p><p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$49.224 billion (2019 est.)<br>
+$47.94 billion (2018 est.)<br>
+$46.212 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 3% (2017 est.)<br>
 3.2% (2016 est.)<br>
 3.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$14,912 (2019 est.)<br>
+$14,423 (2018 est.)<br>
+$13,788 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$20.078 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.2% (2017 est.)<br>
@@ -387,26 +402,6 @@ _lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<b
 **Credit ratings**<br>
 _Moody's rating_: B3 (2012)<br>
 _Standard & Poors rating_: B (2011)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$49.224 billion (2019 est.)<br>
-$47.94 billion (2018 est.)<br>
-$46.212 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$20.078 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,912 (2019 est.)<br>
-$14,423 (2018 est.)<br>
-$13,788 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-16.6% of GDP (2019 est.)<br>
-15.9% of GDP (2018 est.)<br>
-13.7% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.8% (2017 est.)<br>
@@ -420,12 +415,6 @@ _investment in fixed capital_: 16.6% (2017 est.)<br>
 _investment in inventories_: 2.3% (2017 est.)<br>
 _exports of goods and services_: 38.7% (2017 est.)<br>
 _imports of goods and services_: -55.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 65.4 (2020)<br>
-_Starting a Business score_: 60 (2020)<br>
-_Trading score_: 95.7 (2020)<br>
-_Enforcement score_: 57.8 (2020)<br>
 
 **Agricultural products**<br>
 maize, milk, vegetables, potatoes, wheat, plums/sloes, apples, barley, cabbages, poultry<br>
@@ -464,9 +453,6 @@ _highest 10%_: 25.8% (2011 est.)<br>
 _revenues_: 7.993 billion (2017 est.)<br>
 _expenditures_: 7.607 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-44% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 2.1% (of GDP) (2017 est.)<br>
 
@@ -474,6 +460,9 @@ _expenditures_: 7.607 billion (2017 est.)<br>
 39.5% of GDP (2017 est.)<br>
 44.1% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
+
+**Taxes and other revenues**<br>
+44% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

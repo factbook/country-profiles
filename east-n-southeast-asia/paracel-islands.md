@@ -69,14 +69,36 @@ composed of 130 small coral islands and reefs divided into the northeast Amphitr
 1,440 (July 2014 est.)<br>
 <strong>note:</strong> Chinese activity has increased in recent years, particularly on Woody Island, where the population exceeds 1,000; there are scattered Chinese garrisons on some other islands<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 0.75% (2021 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA (2021 est.)<br>
 
 **Net migration rate**<br>
 -0.66 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
 a population of over 1,000 Chinese resides on Woody Island, the largest of the Paracels; there are scattered Chinese garrisons on some other islands<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 ## Environment
 

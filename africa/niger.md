@@ -392,10 +392,25 @@ _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois 
 **Economic overview**<br>
 <p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p><p></p><p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p><p></p><p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p><p></p><p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$28.544 billion (2019 est.)<br>
+$26.953 billion (2018 est.)<br>
+$25.138 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.9% (2017 est.)<br>
 4.9% (2016 est.)<br>
 4.3% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$1,225 (2019 est.)<br>
+$1,201 (2018 est.)<br>
+$1,164 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$12.926 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -2.5% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois 
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$28.544 billion (2019 est.)<br>
-$26.953 billion (2018 est.)<br>
-$25.138 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$12.926 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$1,225 (2019 est.)<br>
-$1,201 (2018 est.)<br>
-$1,164 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22.1% of GDP (2018 est.)<br>
-20.1% of GDP (2017 est.)<br>
-21.2% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 41.6% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 38.6% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 16.4% (2017 est.)<br>
 _imports of goods and services_: -34.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 56.8 (2020)<br>
-_Starting a Business score_: 91.5 (2020)<br>
-_Trading score_: 65.4 (2020)<br>
-_Enforcement score_: 54.7 (2020)<br>
 
 **Agricultural products**<br>
 millet, cow peas, sorghum, onions, milk, groundnuts, cassava, cabbages, goat milk, fruit<br>
@@ -480,15 +469,15 @@ _highest 10%_: 26.8% (2014)<br>
 _revenues_: 1.757 billion (2017 est.)<br>
 _expenditures_: 2.171 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 45.3% of GDP (2017 est.)<br>
 45.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

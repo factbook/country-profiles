@@ -145,9 +145,15 @@ _female_: 83.7 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.58 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 91.4% of population<br>
 _unimproved: total_: total: 8.6% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -156,6 +162,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -227,7 +236,7 @@ see France<br>
 
 **Executive branch**<br>
 _chief of state_: President Emmanuel MACRON (since 14 May 2017); represented by Prefect Christian POUGET (since 6 January 2021)<br>
-_head of government_: President of Territorial Council Stephane LENORMAND (since 24 October 2017)<br>
+_head of government_: President of Territorial Council Bernard BRIAND (since 13 October 2020)<br>
 _cabinet_: Le Cabinet du Prefet<br>
 _elections/appointments_: French president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 23 April and 6 May 2017 (next to be held in 2022); prefect appointed by French president on the advice of French Ministry of Interior<br>
 
@@ -268,24 +277,24 @@ a yellow three-masted sailing ship facing the hoist side rides on a blue backgro
 **Economic overview**<br>
 <p>The inhabitants have traditionally earned their livelihood by fishing and by servicing fishing fleets operating off the coast of Newfoundland. The economy has been declining, however, because of disputes with Canada over fishing quotas and a steady decline in the number of ships stopping at Saint Pierre. The services sector accounted for 86% of GDP in 2010, the last year data is available for. Government employment accounts for than 46% of the GDP, and 78% of the population is working age.</p><p></p><p>The government hopes an expansion of tourism will boost economic prospects. Fish farming, crab fishing, and agriculture are being developed to diversify the local economy. Recent test drilling for oil may pave the way for development of the energy sector. Trade is the second largest sector in terms of value added created, where it contributes significantly to economic activity. The extractive industries and energy sector is the third largest sector of activity in the archipelago, attributable in part to the construction of a new thermal power plant in 2015.</p><br>
 
-**Real GDP growth rate**<br>
-<p>NA</p><br>
-
-**Inflation rate (consumer prices)**<br>
-1.5% (2015)<br>
-4.5% (2010)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $261.3 million (2015 est.)<br>
 $215.3 million (2006 est.)<br>
 <strong>note:</strong> supplemented by annual payments from France of about $60 million<br>
 
-**GDP (official exchange rate)**<br>
-$261.3 million (2015 est.)<br>
+**Real GDP growth rate**<br>
+<p>NA</p><br>
 
 **Real GDP per capita**<br>
 $46,200 (2006 est.)<br>
 $34,900 (2005)<br>
+
+**GDP (official exchange rate)**<br>
+$261.3 million (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.5% (2015)<br>
+4.5% (2010)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2006 est.)<br>
@@ -324,11 +333,11 @@ _highest 10%_: NA<br>
 _revenues_: 70 million (1996 est.)<br>
 _expenditures_: 60 million (1996 est.)<br>
 
-**Taxes and other revenues**<br>
-26.8% (of GDP) (1996 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 3.8% (of GDP) (1996 est.)<br>
+
+**Taxes and other revenues**<br>
+26.8% (of GDP) (1996 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

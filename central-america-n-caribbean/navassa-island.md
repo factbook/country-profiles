@@ -63,6 +63,28 @@ strategic location 160 km south of the US Naval Base at Guantanamo Bay, Cuba; mo
 **Population**<br>
 uninhabited; transient Haitian fishermen and others camp on the island<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 

@@ -170,6 +170,9 @@ _unimproved: urban_: urban: 1.9% of population<br>
 _unimproved: rural_: rural: 27.5% of population<br>
 _unimproved: total_: total: 16.2% of population (2017 est.)<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **Physicians density**<br>
 0.02 physicians/1,000 population (2014)<br>
 
@@ -362,23 +365,23 @@ regional and local governing bodies continue to exist and control various areas 
 **Economic overview**<br>
 <p>Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</p><p></p><p>Agriculture is the most important sector, with livestock normally accounting for about 40% of GDP and more than 50% of export earnings. Nomads and semi-pastoralists, who are dependent upon livestock for their livelihood, make up a large portion of the population. Economic activity is estimated to have increased by 2.4% in 2017 because of growth in the agriculture, construction and telecommunications sector. Somalia's small industrial sector, based on the processing of agricultural products, has largely been looted and the machinery sold as scrap metal.</p><p></p><p>In recent years, Somalia's capital city, Mogadishu, has witnessed the development of the city's first gas stations, supermarkets, and airline flights to Turkey since the collapse of central authority in 1991. Mogadishu's main market offers a variety of goods from food to electronic gadgets. Hotels continue to operate and are supported with private-security militias. Formalized economic growth has yet to expand outside of Mogadishu and a few regional capitals, and within the city, security concerns dominate business. Telecommunication firms provide wireless services in most major cities and offer the lowest international call rates on the continent. In the absence of a formal banking sector, money transfer/remittance services have sprouted throughout the country, handling up to $1.6 billion in remittances annually, although international concerns over the money transfers into Somalia continues to threaten these services’ ability to operate in Western nations. In 2017, Somalia elected a new president and collected a record amount of foreign aid and investment, a positive sign for economic recovery.</p><br>
 
-**Real GDP growth rate**<br>
-2.3% (2017 est.)<br>
-4.4% (2016 est.)<br>
-3.9% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.5% (2017 est.)<br>
--71.1% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $20.44 billion (2017 est.)<br>
 $19.98 billion (2016 est.)<br>
 $19.14 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
+**Real GDP growth rate**<br>
+2.3% (2017 est.)<br>
+4.4% (2016 est.)<br>
+3.9% (2015 est.)<br>
+
 **GDP (official exchange rate)**<br>
 $7.052 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.5% (2017 est.)<br>
+-71.1% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 60.2% (2013 est.)<br>
@@ -392,12 +395,6 @@ _investment in fixed capital_: 20% (2015 est.)<br>
 _investment in inventories_: 0.8% (2016 est.)<br>
 _exports of goods and services_: 0.3% (2015 est.)<br>
 _imports of goods and services_: -1.6% (2015 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 20 (2020)<br>
-_Starting a Business score_: 46 (2020)<br>
-_Trading score_: 51.6 (2020)<br>
-_Enforcement score_: 54.6 (2020)<br>
 
 **Agricultural products**<br>
 camel milk, milk, sheep milk, goat milk, sugar cane, fruit, sorghum, cassava, vegetables, maize<br>
@@ -430,15 +427,15 @@ _highest 10%_: NA<br>
 _revenues_: 145.3 million (2014 est.)<br>
 _expenditures_: 151.1 million (2014 est.)<br>
 
-**Taxes and other revenues**<br>
-2.1% (of GDP) (2014 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.1% (of GDP) (2014 est.)<br>
 
 **Public debt**<br>
 76.7% of GDP (2017 est.)<br>
 93% of GDP (2014 est.)<br>
+
+**Taxes and other revenues**<br>
+2.1% (of GDP) (2014 est.)<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -628,6 +625,7 @@ note: Somalia has numerous militia formations operating throughout the country; 
 1.3% of GDP (2015 est.)<br>
 1.2% of GDP (2014 est.)<br>
 1.1% of GDP (2013 est.)<br>
+no figures available after 2017<br>
 
 **Military and security service personnel strengths**<br>
 estimates for the size of the Somali National Army (SNA) vary widely, from a low of about 10,000 to a high of some 25,000 due to inconsistent internal reporting and the ongoing attempts to integrate various militias (2021)<br>

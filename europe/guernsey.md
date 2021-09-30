@@ -139,10 +139,16 @@ _female_: 85.89 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.58 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Jersey<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98% of population<br>
@@ -156,6 +162,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -269,25 +278,25 @@ _lyrics/music_: George DEIGHTON/Domencio SANTANGELO<br>
 **Economic overview**<br>
 Financial services accounted for about 21% of employment and about 32% of total income in 2016 in this tiny, prosperous Channel Island economy. Construction, manufacturing, and horticulture, mainly tomatoes and cut flowers, have been declining. Financial services, professional services, tourism, retail, and the public sector have been growing. Light tax and death duties make Guernsey a popular offshore financial center.<br>
 
-**Real GDP growth rate**<br>
-0.4% (2015 est.)<br>
-1.2% (2014 est.)<br>
-4.2% (2012 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-3.4% (June 2006 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $3.465 billion (2015 est.)<br>
 $3.451 billion (2014 est.)<br>
 $3.42 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$2.742 billion (2005 est.)<br>
+**Real GDP growth rate**<br>
+0.4% (2015 est.)<br>
+1.2% (2014 est.)<br>
+4.2% (2012 est.)<br>
 
 **Real GDP per capita**<br>
 $52,500 (2014 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$2.742 billion (2005 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+3.4% (June 2006 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2000)<br>
@@ -320,11 +329,11 @@ _highest 10%_: NA<br>
 _revenues_: 563.6 million (2005)<br>
 _expenditures_: 530.9 million (2005 est.)<br>
 
-**Taxes and other revenues**<br>
-20.6% (of GDP) (2005)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2005)<br>
+
+**Taxes and other revenues**<br>
+20.6% (of GDP) (2005)<br>
 
 **Fiscal year**<br>
 calendar year<br>

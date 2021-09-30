@@ -147,9 +147,15 @@ _female_: 81.65 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.99 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -162,6 +168,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -304,28 +313,28 @@ _lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Fr
 **Economic overview**<br>
 <p>Most of Curacao's GDP results from services. Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared to other countries in the region.</p> <p>Curacao has an excellent natural harbor that can accommodate large oil tankers, and the port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state-owned oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people. Most of the oil for the refinery is imported from Venezuela and most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Venezuela being the major suppliers.</p> <p>The government is attempting to diversify its industry and trade. Curacao is an Overseas Countries and Territories (OCT) of the European Union. Nationals of Curacao are citizens of the European Union, even though it is not a member. Based on its OCT status, products that originate in Curacao have preferential access to the EU and are exempt from import duties. Curacao is a beneficiary of the Caribbean Basin Initiative and, as a result, products originating in Curacao can be imported tax free into the US if at least 35% has been added to the value of these products in Curacao. The island has state-of-the-art information and communication technology connectivity with the rest of the world, including a Tier IV datacenter. With several direct satellite and submarine optic fiber cables, Curacao has one of the best Internet speeds and reliability in the Western Hemisphere.</p><br>
 
-**Real GDP growth rate**<br>
-3.6% (2012 est.)<br>
-2% (2011 est.)<br>
-0.1% (2010 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.6% (2013 est.)<br>
-2.8% (2012 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $3.856 billion (2019 est.)<br>
 $3.992 billion (2018 est.)<br>
 $4.08 billion (2017 est.)<br>
 <strong>note: </strong>data are in 2012 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$5.6 billion (2012 est.)<br>
+**Real GDP growth rate**<br>
+3.6% (2012 est.)<br>
+2% (2011 est.)<br>
+0.1% (2010 est.)<br>
 
 **Real GDP per capita**<br>
 $24,479 (2019 est.)<br>
 $24,982 (2018 est.)<br>
 $25,475 (2017 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$5.6 billion (2012 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.6% (2013 est.)<br>
+2.8% (2012 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2012 est.)<br>
@@ -361,15 +370,15 @@ _services_: 81.8% (2008 est.)<br>
 13% (2013 est.)<br>
 9.8% (2011 est.)<br>
 
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2012 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
 
 **Public debt**<br>
 33.2% of GDP (2012 est.)<br>
 40.6% of GDP (2011 est.)<br>
+
+**Taxes and other revenues**<br>
+16.6% (of GDP) (2012 est.)<br>
 
 **Current account balance**<br>
 -$400 million (2011 est.)<br>

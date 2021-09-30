@@ -61,6 +61,28 @@ fish, crayfish, note, Glorioso Islands and Tromelin Island (Iles Eparses) have g
 no indigenous inhabitants<br>
 <strong>Ile Amsterdam (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but has a meteorological station<br><strong>Ile Saint-Paul (Ile Amsterdam et Ile Saint-Paul): </strong>uninhabited but is frequently visited by fishermen and has a scientific research cabin for short stays<br> <strong>Iles Crozet</strong>: uninhabited except for 18 to 30 people staffing the Alfred Faure research station on Ile del la Possession<br> <strong>Iles Kerguelen:</strong> 50 to 100 scientists are located at the main base at Port-aux-Francais on Ile Kerguelen<br> <strong>Bassas da India (Iles Eparses): </strong>uninhabitable<br> <strong>Europa Island, Glorioso Islands, Juan de Nova Island (Iles Eparses): </strong>a small French military garrison and a few meteorologists on each possession; visited by scientists<br> <strong>Tromelin Island (Iles Eparses): </strong>uninhabited, except for visits by scientists<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>

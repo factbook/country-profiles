@@ -385,24 +385,16 @@ _lyrics/music_: Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY<br
 **Economic overview**<br>
 <p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p><p></p><p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p><p></p><p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
 
-**Real GDP growth rate**<br>
-3.5% (2017 est.)<br>
-1.8% (2016 est.)<br>
-0.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.2% (2019 est.)<br>
-3.1% (2018 est.)<br>
-2.2% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $23.52 billion (2019 est.)<br>
 $22.203 billion (2018 est.)<br>
 $21.743 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$706 million (2018 est.)<br>
+**Real GDP growth rate**<br>
+3.5% (2017 est.)<br>
+1.8% (2016 est.)<br>
+0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $5,197 (2019 est.)<br>
@@ -410,10 +402,13 @@ $5,042 (2018 est.)<br>
 $5,077 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-33.5% of GDP (2019 est.)<br>
-29.2% of GDP (2018 est.)<br>
-30.5% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$706 million (2018 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.2% (2019 est.)<br>
+3.1% (2018 est.)<br>
+2.2% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.8% (2017 est.)<br>
@@ -427,12 +422,6 @@ _investment in fixed capital_: 56.1% (2017 est.)<br>
 _investment in inventories_: -3.2% (2017 est.)<br>
 _exports of goods and services_: 39% (2017 est.)<br>
 _imports of goods and services_: -78.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 51.1 (2020)<br>
-_Starting a Business score_: 92.2 (2020)<br>
-_Trading score_: 60.3 (2020)<br>
-_Enforcement score_: 66 (2020)<br>
 
 **Agricultural products**<br>
 rice, milk, goat milk, sheep milk, sorghum, mutton, beef, camel milk, camel meat, dates<br>
@@ -471,15 +460,15 @@ _highest 10%_: 29.5% (2000)<br>
 _revenues_: 1.354 billion (2017 est.)<br>
 _expenditures_: 1.396 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-27.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 96.6% of GDP (2017 est.)<br>
 100% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+27.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

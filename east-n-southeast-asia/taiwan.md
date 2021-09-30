@@ -152,6 +152,12 @@ _female_: 84.14 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.07 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -159,6 +165,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -293,10 +302,24 @@ _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun<br>
 **Economic overview**<br>
 <p>Taiwan has a dynamic capitalist economy that is driven largely by industrial manufacturing, and especially exports of electronics, machinery, and petrochemicals. This heavy dependence on exports exposes the economy to fluctuations in global demand. Taiwan's diplomatic isolation, low birth rate, rapidly aging population, and increasing competition from China and other Asia Pacific markets are other major long-term challenges.</p><p></p><p>Following the landmark Economic Cooperation Framework Agreement (ECFA) signed with China in June 2010, Taiwan in July 2013 signed a free trade deal with New Zealand - Taipei’s first-ever with a country with which it does not maintain diplomatic relations - and, in November of that year, inked a trade pact with Singapore. However, follow-on components of the ECFA, including a signed agreement on trade in services and negotiations on trade in goods and dispute resolution, have stalled. In early 2014, the government bowed to public demand and proposed a new law governing the oversight of cross-Strait agreements, before any additional deals with China are implemented; the legislature has yet to vote on such legislation, leaving the future of ECFA uncertain. President TSAI since taking office in May 2016 has promoted greater economic integration with South and Southeast Asia through the New Southbound Policy initiative and has also expressed interest in Taiwan joining the Trans-Pacific Partnership as well as bilateral trade deals with partners such as the US. These overtures have likely played a role in increasing Taiwan’s total exports, which rose 11% during the first half of 2017, buoyed by strong demand for semiconductors.</p><p></p><p>Taiwan's total fertility rate of just over one child per woman is among the lowest in the world, raising the prospect of future labor shortages, falling domestic demand, and declining tax revenues. Taiwan's population is aging quickly, with the number of people over 65 expected to account for nearly 20% of the island's total population by 2025.</p><p></p><p>The island runs a trade surplus with many economies, including China and the US, and its foreign reserves are the world's fifth largest, behind those of China, Japan, Saudi Arabia, and Switzerland. In 2006, China overtook the US to become Taiwan's second-largest source of imports after Japan. China is also the island's number one destination for foreign direct investment. Taiwan since 2009 has gradually loosened rules governing Chinese investment and has also secured greater market access for its investors on the mainland. In August 2012, the Taiwan Central Bank signed a memorandum of understanding (MOU) on cross-Strait currency settlement with its Chinese counterpart. The MOU allows for the direct settlement of Chinese renminbi (RMB) and the New Taiwan dollar across the Strait, which has helped Taiwan develop into a local RMB hub.</p><p></p><p>Closer economic links with the mainland bring opportunities for Taiwan’s economy but also pose challenges as political differences remain unresolved and China’s economic growth is slowing. President TSAI’s administration has made little progress on the domestic economic issues that loomed large when she was elected, including concerns about stagnant wages, high housing prices, youth unemployment, job security, and financial security in retirement. TSAI has made more progress on boosting trade with South and Southeast Asia, which may help insulate Taiwan’s economy from a fall in mainland demand should China’s growth slow in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,143,277,000,000 (2019 est.)<br>
+$1,113,126,000,000 (2018 est.)<br>
+$1,083,384,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.71% (2019 est.)<br>
 2.75% (2018 est.)<br>
 3.31% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$24,502 (2018 est.)<br>
+$23,865 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$611.391 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.5% (2019 est.)<br>
@@ -307,25 +330,6 @@ _lyrics/music_: HU Han-min, TAI Chi-t'ao, and LIAO Chung-k'ai/CHENG Mao-Yun<br>
 _Fitch rating_: AA- (2016)<br>
 _Moody's rating_: Aa3 (1994)<br>
 _Standard & Poors rating_: AA- (2002)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,143,277,000,000 (2019 est.)<br>
-$1,113,126,000,000 (2018 est.)<br>
-$1,083,384,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$611.391 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$24,502 (2018 est.)<br>
-$23,865 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-34.9% of GDP (2017 est.)<br>
-35.5% of GDP (2016 est.)<br>
-36.3% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -339,12 +343,6 @@ _investment in fixed capital_: 20.5% (2017 est.)<br>
 _investment in inventories_: -0.2% (2017 est.)<br>
 _exports of goods and services_: 65.2% (2017 est.)<br>
 _imports of goods and services_: -52.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.9 (2020)<br>
-_Starting a Business score_: 94.4 (2020)<br>
-_Trading score_: 84.9 (2020)<br>
-_Enforcement score_: 75.1 (2020)<br>
 
 **Agricultural products**<br>
 rice, vegetables, pork, cabbages, poultry, sugar cane, milk, eggs, pineapples, tropical fruit<br>
@@ -382,9 +380,6 @@ _highest 10%_: 40.3% (2010)<br>
 _revenues_: 91.62 billion (2017 est.)<br>
 _expenditures_: 92.03 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.1% (of GDP) (2017 est.)<br>
 
@@ -392,6 +387,9 @@ _expenditures_: 92.03 billion (2017 est.)<br>
 35.7% of GDP (2017 est.)<br>
 36.2% of GDP (2016 est.)<br>
 <strong>note:</strong> data for central government<br>
+
+**Taxes and other revenues**<br>
+16% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

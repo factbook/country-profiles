@@ -154,6 +154,9 @@ _female_: 78.55 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.75 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 95.1% of population<br>
 _unimproved: total_: total: 4.9% of population (2017 est.)<br>
@@ -182,6 +185,9 @@ _unimproved: total_: total: 9.8% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.7% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 5.7% of GDP (2018)<br>
@@ -330,26 +336,16 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 **Economic overview**<br>
 <p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p><p></p><p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
 
-**Real GDP growth rate**<br>
-0.7% (2017 est.)<br>
-0.8% (2016 est.)<br>
-0.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2014)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.38 billion (2019 est.)<br>
 $1.373 billion (2018 est.)<br>
 $1.344 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$785 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+0.7% (2017 est.)<br>
+0.8% (2016 est.)<br>
+0.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $12,485 (2019 est.)<br>
@@ -357,10 +353,15 @@ $12,466 (2018 est.)<br>
 $12,245 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-12.1% of GDP (2017 est.)<br>
-10.3% of GDP (2016 est.)<br>
-10.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$785 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.2% (2017 est.)<br>
+-0.2% (2016 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: B3 (2014)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.1% (2017 est.)<br>
@@ -374,12 +375,6 @@ _investment in fixed capital_: 10.8% (2017 est.)<br>
 _investment in inventories_: -0.2% (2017 est.)<br>
 _exports of goods and services_: 37.1% (2017 est.)<br>
 _imports of goods and services_: -51.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 57.1 (2020)<br>
-_Starting a Business score_: 87 (2020)<br>
-_Trading score_: 77.4 (2020)<br>
-_Enforcement score_: 63.7 (2020)<br>
 
 **Agricultural products**<br>
 bananas, sugar cane, roots/tubers nes, plantains, vegetables, fruit, coconuts, sweet potatoes, yams, mangoes/guavas<br>
@@ -412,15 +407,15 @@ _highest 10%_: NA<br>
 _revenues_: 225.2 million (2017 est.)<br>
 _expenditures_: 230 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 73.8% of GDP (2017 est.)<br>
 82.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -412,24 +412,16 @@ _lyrics/music_: unknown/Fodeba KEITA<br>
 **Economic overview**<br>
 <p>Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world's largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea's hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea's unexplored mineral reserves, which have the potential to propel Guinea's future growth.</p><p></p><p>Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy.</p><p></p><p>Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea's economic viability.</p><p></p><p>Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance.</p><p></p><p>Successive governments have failed to address the country's crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development.</p><br>
 
-**Real GDP growth rate**<br>
-8.2% (2017 est.)<br>
-10.5% (2016 est.)<br>
-3.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-9.4% (2019 est.)<br>
-9.8% (2018 est.)<br>
-8.9% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $32.72 billion (2019 est.)<br>
 $30.985 billion (2018 est.)<br>
 $29.176 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$13.55 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+8.2% (2017 est.)<br>
+10.5% (2016 est.)<br>
+3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,562 (2019 est.)<br>
@@ -437,10 +429,13 @@ $2,496 (2018 est.)<br>
 $2,418 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-4.3% of GDP (2019 est.)<br>
-2.7% of GDP (2018 est.)<br>
-11.4% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$13.55 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+9.4% (2019 est.)<br>
+9.8% (2018 est.)<br>
+8.9% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.8% (2017 est.)<br>
@@ -454,12 +449,6 @@ _investment in fixed capital_: 9.1% (2017 est.)<br>
 _investment in inventories_: 18.5% (2017 est.)<br>
 _exports of goods and services_: 21.9% (2017 est.)<br>
 _imports of goods and services_: -36.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 49.4 (2020)<br>
-_Starting a Business score_: 84.5 (2020)<br>
-_Trading score_: 47.8 (2020)<br>
-_Enforcement score_: 53.9 (2020)<br>
 
 **Agricultural products**<br>
 rice, cassava, groundnuts, maize, oil palm fruit, fonio, plantains, sugar cane, sweet potatoes, vegetables<br>
@@ -496,15 +485,15 @@ _highest 10%_: 30.3% (2007)<br>
 _revenues_: 1.7 billion (2017 est.)<br>
 _expenditures_: 1.748 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 37.9% of GDP (2017 est.)<br>
 41.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+16.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -699,11 +688,11 @@ _major seaport(s)_: Conakry, Kamsar<br>
 National Armed Forces: Army, Guinean Navy (Armee de Mer or Marine Guineenne), Guinean Air Force (Force Aerienne de Guinee), Presidential Security Battalion (Battailon Autonome de la S&eacute;curit&eacute; Presidentielle, BASP), Gendarmerie (2020)<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2020 est.)<br>
 2% of GDP (2019)<br>
 2.3% of GDP (2018)<br>
 2.5% of GDP (2017)<br>
 2.5% of GDP (2016)<br>
-3.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 Guinean National Armed Forces are comprised of approximately 12,000 active personnel <br>(9,000 Army; 400 Navy; 800 Air Force; 300 BASP; 1,500 Gendarmerie) (2020)<br>

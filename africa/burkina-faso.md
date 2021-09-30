@@ -392,10 +392,25 @@ _lyrics/music_: Thomas SANKARA<br>
 **Economic overview**<br>
 <p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p><p></p><p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p><p></p><p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p><p></p><p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$44.266 billion (2019 est.)<br>
+$41.879 billion (2018 est.)<br>
+$39.238 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 6.4% (2017 est.)<br>
 5.9% (2016 est.)<br>
 3.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$2,178 (2019 est.)<br>
+$2,120 (2018 est.)<br>
+$2,044 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$14.271 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -3.2% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: Thomas SANKARA<br>
 
 **Credit ratings**<br>
 _Standard & Poors rating_: B (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$44.266 billion (2019 est.)<br>
-$41.879 billion (2018 est.)<br>
-$39.238 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$14.271 billion (2018 est.)<br>
-
-**Real GDP per capita**<br>
-$2,178 (2019 est.)<br>
-$2,120 (2018 est.)<br>
-$2,044 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-17.4% of GDP (2018 est.)<br>
-14.8% of GDP (2017 est.)<br>
-8.5% of GDP (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 31% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 24.6% (2017 est.)<br>
 _investment in inventories_: 1% (2017 est.)<br>
 _exports of goods and services_: 28.4% (2017 est.)<br>
 _imports of goods and services_: -34.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 51.4 (2020)<br>
-_Starting a Business score_: 88.2 (2020)<br>
-_Trading score_: 66.6 (2020)<br>
-_Enforcement score_: 41.1 (2020)<br>
 
 **Agricultural products**<br>
 sorghum, maize, millet, cotton, cow peas, sugar cane, groundnuts, rice, sesame seed, vegetables<br>
@@ -479,15 +468,15 @@ _highest 10%_: 32.2% (2009 est.)<br>
 _revenues_: 2.666 billion (2017 est.)<br>
 _expenditures_: 3.655 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 38.1% of GDP (2017 est.)<br>
 38.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -384,10 +384,25 @@ _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
 **Economic overview**<br>
 <p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p><p></p><p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p><p></p><p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$56.636 billion (2019 est.)<br>
+$55.318 billion (2018 est.)<br>
+$54.005 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.3% (2017 est.)<br>
 2.6% (2016 est.)<br>
 2.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$8,776 (2019 est.)<br>
+$8,616 (2018 est.)<br>
+$8,454 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$27.023 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0% (2019 est.)<br>
@@ -398,26 +413,6 @@ _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
 _Fitch rating_: B- (2017)<br>
 _Moody's rating_: B3 (2018)<br>
 _Standard & Poors rating_: B- (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$56.636 billion (2019 est.)<br>
-$55.318 billion (2018 est.)<br>
-$54.005 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$27.023 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$8,776 (2019 est.)<br>
-$8,616 (2018 est.)<br>
-$8,454 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-17% of GDP (2019 est.)<br>
-15.6% of GDP (2018 est.)<br>
-15% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12% (2017 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 16.9% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 27.6% (2017 est.)<br>
 _imports of goods and services_: -44.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 65.3 (2020)<br>
-_Starting a Business score_: 78.6 (2020)<br>
-_Trading score_: 89.8 (2020)<br>
-_Enforcement score_: 51.9 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, milk, poultry, sorghum, beans, coconuts, eggs, apples, oranges<br>
@@ -475,9 +464,6 @@ _highest 10%_: 32.3% (2014 est.)<br>
 _revenues_: 5.886 billion (2017 est.)<br>
 _expenditures_: 6.517 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.5% (of GDP) (2017 est.)<br>
 
@@ -485,6 +471,9 @@ _expenditures_: 6.517 billion (2017 est.)<br>
 67.9% of GDP (2017 est.)<br>
 66.4% of GDP (2016 est.)<br>
 <strong>note:</strong> El Salvador's total public debt includes non-financial public sector debt, financial public sector debt, and central bank debt<br>
+
+**Taxes and other revenues**<br>
+23.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -684,11 +673,11 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br>
 
 **Military expenditures**<br>
+1.2% of GDP (2020 est.)<br>
 1.2% of GDP (2019)<br>
 1.1% of GDP (2018)<br>
 1% of GDP (2017)<br>
 1% of GDP (2016)<br>
-1% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>

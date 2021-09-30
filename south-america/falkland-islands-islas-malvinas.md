@@ -91,6 +91,13 @@ English 89%, Spanish 7.7%, other 3.3% (2006 est.)<br>
 **Religions**<br>
 Christian 57.1%, other 1.6%, none 35.4%, unspecified 6% (2016 est.)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
 
@@ -130,6 +137,9 @@ _female_: 79.6 (2017 est.)<br>
 **Total fertility rate**<br>
 NA<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 78.2% of population<br>
@@ -137,6 +147,9 @@ _improved: total_: total: 92% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: rural_: rural: 21.8% of population<br>
 _unimproved: total_: total: 5% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95% of population<br>
@@ -153,6 +166,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 ## Environment
@@ -259,30 +275,30 @@ _lyrics/music_: Christopher LANHAM<br>
 **Economic overview**<br>
 <p>The economy was formerly based on agriculture, mainly sheep farming, but fishing and tourism currently comprise the bulk of economic activity. In 1987, the government began selling fishing licenses to foreign trawlers operating within the Falkland Islands' exclusive fishing zone. These license fees net more than $40 million per year, which help support the island's health, education, and welfare system. The waters around the Falkland Islands are known for their squid, which account for around 75% of the annual 200,000-ton catch.</p><p></p><p>Dairy farming supports domestic consumption; crops furnish winter fodder. Foreign exchange earnings come from shipments of high-grade wool to the UK and from the sale of postage stamps and coins.</p><p></p><p>Tourism, especially ecotourism, is increasing rapidly, with about 69,000 visitors in 2009 and adds approximately $5.5 million to the Falkland’s annual GDP. The British military presence also provides a sizable economic boost. The islands are now self-financing except for defense.</p><p></p><p>In 1993, the British Geological Survey announced a 200-mile oil exploration zone around the islands, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day. Political tensions between the UK and Argentina remain high following the start of oil drilling activities in the waters. In May 2010 the first commercial oil discovery was made, signaling the potential for the development of a long term hydrocarbon industry in the Falkland Islands.</p><br>
 
-**Real GDP growth rate**<br>
-25.5% (2015 est.)<br>
--1.8% (2014 est.)<br>
--20.4% (2013 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.4% (2014 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $206.4 million (2015 est.)<br>
 $164.5 million (2014 est.)<br>
 $167.5 million (2013 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$206.4 million (2015 est.)<br>
+**Real GDP growth rate**<br>
+25.5% (2015 est.)<br>
+-1.8% (2014 est.)<br>
+-20.4% (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $70,800 (2015 est.)<br>
 $63,000 (2014 est.)<br>
 
+**GDP (official exchange rate)**<br>
+$206.4 million (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.4% (2014 est.)<br>
+
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 41% (2015 est.)<br>
-_industry_: 20.6% NA (2015 est.)<br>
-_services_: 38.4% NA (2015 est.)<br>
+_industry_: 20.6% (2015 est.)<br>
+_services_: 38.4% (2015 est.)<br>
 
 **Agricultural products**<br>
 fodder and vegetable crops; venison, sheep, dairy products; fish, squid<br>
@@ -318,14 +334,14 @@ _highest 10%_: NA<br>
 _revenues_: 67.1 million (FY09/10)<br>
 _expenditures_: 75.3 million (FY09/10)<br>
 
-**Taxes and other revenues**<br>
-32.5% (of GDP) (FY09/10)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (FY09/10)<br>
 
 **Public debt**<br>
 0% of GDP (2015 est.)<br>
+
+**Taxes and other revenues**<br>
+32.5% (of GDP) (FY09/10)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

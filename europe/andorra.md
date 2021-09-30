@@ -148,6 +148,9 @@ _female_: 85.6 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.44 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -184,6 +187,9 @@ NA<br>
 
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.2% of GDP (2019)<br>
@@ -330,10 +336,24 @@ _lyrics/music_: Joan BENLLOCH i VIVO/Enric MARFANY BONS<br>
 **Economic overview**<br>
 <p>Andorra has a developed economy and a free market, with per capita income above the European average and above the level of its neighbors, Spain and France. The country has developed a sophisticated infrastructure including a one-of-a-kind micro-fiber-optic network for the entire country. Tourism, retail sales, and finance comprise more than three-quarters of GDP. Duty-free shopping for some products and the country’s summer and winter resorts attract millions of visitors annually. Andorra uses the euro and is effectively subject to the monetary policy of the European Central Bank. Andorra's comparative advantage as a tax haven eroded when the borders of neighboring France and Spain opened and the government eased bank secrecy laws under pressure from the EU and OECD.</p><p></p><p>Agricultural production is limited - only about 5% of the land is arable - and most food has to be imported, making the economy vulnerable to changes in fuel and food prices. The principal livestock is sheep. Manufacturing output and exports consist mainly of perfumes and cosmetic products, products of the printing industry, electrical machinery and equipment, clothing, tobacco products, and furniture. Andorra is a member of the EU Customs Union and is treated as an EU member for trade in manufactured goods (no tariffs) and as a non-EU member for agricultural products.</p><p></p><p>To provide incentives for growth and diversification in the economy, the Andorran government began sweeping economic reforms in 2006. The Parliament approved three laws to complement the first phase of economic openness: on companies (October 2007), on business accounting (December 2007), and on foreign investment (April 2008 and June 2012). From 2011 to 2015, the Parliament also approved direct taxes in the form of taxes on corporations, on individual incomes of residents and non-residents, and on capital gains, savings, and economic activities. These regulations aim to establish a transparent, modern, and internationally comparable regulatory framework, in order to attract foreign investment and businesses that offer higher value added.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3.327 billion (2015 est.)<br>
+$3.363 billion (2014 est.)<br>
+$3.273 billion (2013 est.)<br>
+<strong>note:</strong> data are in 2012 US dollars<br>
+
 **Real GDP growth rate**<br>
 -1.1% (2015 est.)<br>
 1.4% (2014 est.)<br>
 -0.1% (2013 est.)<br>
+
+**Real GDP per capita**<br>
+$49,900 (2015 est.)<br>
+$51,300 (2014 est.)<br>
+$50,300 (2013 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$2.712 billion (2016 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.9% (2015 est.)<br>
@@ -342,20 +362,6 @@ _lyrics/music_: Joan BENLLOCH i VIVO/Enric MARFANY BONS<br>
 **Credit ratings**<br>
 _Fitch rating_: BBB+ (2018)<br>
 _Standard & Poors rating_: BBB (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3.327 billion (2015 est.)<br>
-$3.363 billion (2014 est.)<br>
-$3.273 billion (2013 est.)<br>
-<strong>note:</strong> data are in 2012 US dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2.712 billion (2016 est.)<br>
-
-**Real GDP per capita**<br>
-$49,900 (2015 est.)<br>
-$51,300 (2014 est.)<br>
-$50,300 (2013 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.9% (2015 est.)<br>
@@ -391,15 +397,15 @@ _highest 10%_: NA<br>
 _revenues_: 1.872 billion (2016)<br>
 _expenditures_: 2.06 billion (2016)<br>
 
-**Taxes and other revenues**<br>
-69% (of GDP) (2016)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.9% (of GDP) (2016)<br>
 
 **Public debt**<br>
 41% of GDP (2014 est.)<br>
 41.4% of GDP (2013 est.)<br>
+
+**Taxes and other revenues**<br>
+69% (of GDP) (2016)<br>
 
 **Fiscal year**<br>
 calendar year<br>

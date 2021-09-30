@@ -366,10 +366,25 @@ _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged b
 **Economic overview**<br>
 <p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p><p></p><p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p><p></p><p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$135.814 billion (2019 est.)<br>
+$138.089 billion (2018 est.)<br>
+$135.696 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -0.9% (2017 est.)<br>
 5% (2016 est.)<br>
 4.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$27,299 (2019 est.)<br>
+$28,593 (2018 est.)<br>
+$29,082 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$76.883 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.1% (2019 est.)<br>
@@ -380,26 +395,6 @@ _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged b
 _Fitch rating_: BB- (2020)<br>
 _Moody's rating_: Ba3 (2020)<br>
 _Standard & Poors rating_: B+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$135.814 billion (2019 est.)<br>
-$138.089 billion (2018 est.)<br>
-$135.696 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$76.883 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$27,299 (2019 est.)<br>
-$28,593 (2018 est.)<br>
-$29,082 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-14.8% of GDP (2019 est.)<br>
-19% of GDP (2018 est.)<br>
-12% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -413,12 +408,6 @@ _investment in fixed capital_: 27.8% (2017 est.)<br>
 _investment in inventories_: 3% (2017 est.)<br>
 _exports of goods and services_: 51.5% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 70 (2020)<br>
-_Starting a Business score_: 93.5 (2020)<br>
-_Trading score_: 84.1 (2020)<br>
-_Enforcement score_: 61.9 (2020)<br>
 
 **Agricultural products**<br>
 dates, tomatoes, vegetables, goat milk, milk, cucumbers, green chillies/peppers, watermelons, sorghum, melons<br>
@@ -452,9 +441,6 @@ _highest 10%_: NA<br>
 _revenues_: 22.14 billion (2017 est.)<br>
 _expenditures_: 31.92 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-31.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -13.8% (of GDP) (2017 est.)<br>
 
@@ -462,6 +448,9 @@ _expenditures_: 31.92 billion (2017 est.)<br>
 46.9% of GDP (2017 est.)<br>
 32.5% of GDP (2016 est.)<br>
 <strong>note:</strong> excludes indebtedness of state-owned enterprises<br>
+
+**Taxes and other revenues**<br>
+31.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -663,7 +652,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police Coast Guard (2021)<br>
 
 **Military expenditures**<br>
-10.5% of GDP (2020 est.)<br>
+11% of GDP (2020 est.)<br>
 8.8% of GDP (2019)<br>
 8.2% of GDP (2018)<br>
 12.8% of GDP (2017)<br>

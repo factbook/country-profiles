@@ -353,10 +353,25 @@ _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
 **Economic overview**<br>
 Barbados is the wealthiest and one of the most developed countries in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism. Offshore finance and information services are important foreign exchange earners, boosted by being in the same time zone as eastern US financial centers and by a relatively highly educated workforce. Following the 2008-09 recession, external vulnerabilities such as fluctuations in international oil prices have hurt economic growth, raised Barbados' already high public debt to GDP ratio - which stood at 105% of GDP in 2016 - and cut into its international reserves.<br>
 
+**Real GDP (purchasing power parity)**<br>
+$4.488 billion (2019 est.)<br>
+$4.493 billion (2018 est.)<br>
+$4.519 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -0.2% (2017 est.)<br>
 2.3% (2016 est.)<br>
 2.2% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$15,639 (2019 est.)<br>
+$15,675 (2018 est.)<br>
+$15,789 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$4.99 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.4% (2017 est.)<br>
@@ -365,26 +380,6 @@ Barbados is the wealthiest and one of the most developed countries in the Easter
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
 _Standard & Poors rating_: B- (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$4.488 billion (2019 est.)<br>
-$4.493 billion (2018 est.)<br>
-$4.519 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$4.99 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$15,639 (2019 est.)<br>
-$15,675 (2018 est.)<br>
-$15,789 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-7.2% of GDP (2017 est.)<br>
-11.8% of GDP (2016 est.)<br>
-10.8% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.5% (2017 est.)<br>
@@ -398,12 +393,6 @@ _investment in fixed capital_: 17.6% (2017 est.)<br>
 _investment in inventories_: 0.2% (2017 est.)<br>
 _exports of goods and services_: 31.6% (2017 est.)<br>
 _imports of goods and services_: -47% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 57.9 (2020)<br>
-_Starting a Business score_: 86.4 (2020)<br>
-_Trading score_: 62.8 (2020)<br>
-_Enforcement score_: 38.9 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, poultry, vegetables, milk, eggs, pork, coconuts, pulses nes, sweet potatoes, tropical fruit<br>
@@ -437,15 +426,15 @@ _highest 10%_: NA<br>
 _revenues_: 1.466 billion (2013 est.) (2017 est.)<br>
 _expenditures_: 1.664 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 157.3% of GDP (2017 est.)<br>
 149.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+29.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -624,11 +613,11 @@ _major seaport(s)_: Bridgetown<br>
 Royal Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<br>
 
 **Military expenditures**<br>
+0.9% of GDP (2020 est.)<br>
+0.8% of GDP (2019)<br>
+0.8% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 0.9% of GDP (2016)<br>
-0.7% of GDP (2015)<br>
-0.7% of GDP (2014)<br>
-0.7% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (2021)<br>

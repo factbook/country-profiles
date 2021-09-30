@@ -200,6 +200,9 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 24.5% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 4.8% of GDP (2017)<br>
 
@@ -371,10 +374,25 @@ _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
 **Economic overview**<br>
 <p>As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country’s agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector.</p><p></p><p>Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude.</p><p></p><p>New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble.</p><p></p><p>Belarus’s economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$181.286 billion (2019 est.)<br>
+$179.098 billion (2018 est.)<br>
+$173.63 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.22% (2019 est.)<br>
 3.17% (2018 est.)<br>
 2.53% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$19,150 (2019 est.)<br>
+$18,885 (2018 est.)<br>
+$18,280 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$63.168 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.6% (2019 est.)<br>
@@ -385,26 +403,6 @@ _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
 _Fitch rating_: B (2018)<br>
 _Moody's rating_: B3 (2018)<br>
 _Standard & Poors rating_: B (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$181.286 billion (2019 est.)<br>
-$179.098 billion (2018 est.)<br>
-$173.63 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$63.168 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$19,150 (2019 est.)<br>
-$18,885 (2018 est.)<br>
-$18,280 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-27.8% of GDP (2019 est.)<br>
-29.2% of GDP (2018 est.)<br>
-28% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.1% (2017 est.)<br>
@@ -418,12 +416,6 @@ _investment in fixed capital_: 24.9% (2017 est.)<br>
 _investment in inventories_: 5.7% (2017 est.)<br>
 _exports of goods and services_: 67% (2017 est.)<br>
 _imports of goods and services_: -67% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 74.3 (2020)<br>
-_Starting a Business score_: 93.5 (2020)<br>
-_Trading score_: 96.5 (2020)<br>
-_Enforcement score_: 67.6 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, sugar beet, wheat, triticale, barley, maize, rye, rapeseed, poultry<br>
@@ -462,15 +454,15 @@ _highest 10%_: 21.9% (2008)<br>
 _revenues_: 22.15 billion (2017 est.)<br>
 _expenditures_: 20.57 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-40.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 53.4% of GDP (2017 est.)<br>
 53.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+40.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -70,6 +70,28 @@ none; located outside routes of Indian Ocean cyclones<br>
 no indigenous inhabitants<br>
 <strong>note:</strong> approximately 1,200 former agricultural workers resident in the Chagos Archipelago, often referred to as Chagossians or Ilois, were relocated to Mauritius and the Seychelles in the 1960s and 1970s; approximately 3,000 UK and US military personnel and civilian contractors living on the island of Diego Garcia (2018)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>

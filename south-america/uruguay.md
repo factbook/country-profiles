@@ -375,10 +375,25 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 **Economic overview**<br>
 <p>Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net. <br><br></p> Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017.<br>
 
+**Real GDP (purchasing power parity)**<br>
+$74.638 billion (2019 est.)<br>
+$74.473 billion (2018 est.)<br>
+$73.285 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.7% (2017 est.)<br>
 1.7% (2016 est.)<br>
 0.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$21,561 (2019 est.)<br>
+$21,591 (2018 est.)<br>
+$21,325 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$56.108 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 7.8% (2019 est.)<br>
@@ -389,26 +404,6 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 _Fitch rating_: BBB- (2013)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$74.638 billion (2019 est.)<br>
-$74.473 billion (2018 est.)<br>
-$73.285 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$56.108 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$21,561 (2019 est.)<br>
-$21,591 (2018 est.)<br>
-$21,325 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-13% of GDP (2019 est.)<br>
-12% of GDP (2018 est.)<br>
-12.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.2% (2017 est.)<br>
@@ -422,12 +417,6 @@ _investment in fixed capital_: 16.7% (2017 est.)<br>
 _investment in inventories_: -1% (2017 est.)<br>
 _exports of goods and services_: 21.6% (2017 est.)<br>
 _imports of goods and services_: -18.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.5 (2020)<br>
-_Starting a Business score_: 89.6 (2020)<br>
-_Trading score_: 58.4 (2020)<br>
-_Enforcement score_: 56.3 (2020)<br>
 
 **Agricultural products**<br>
 soybeans, milk, rice, maize, wheat, barley, beef, sugar cane, sorghum, oranges<br>
@@ -465,9 +454,6 @@ _highest 10%_: 30.8% (2014 est.)<br>
 _revenues_: 17.66 billion (2017 est.)<br>
 _expenditures_: 19.72 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
 
@@ -475,6 +461,9 @@ _expenditures_: 19.72 billion (2017 est.)<br>
 65.7% of GDP (2017 est.)<br>
 61.6% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions.<br>
+
+**Taxes and other revenues**<br>
+29.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -673,11 +662,11 @@ _major seaport(s)_: Montevideo<br>
 Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Maritime National Prefecture (Coast Guard)), Uruguayan Air Force (Fuerza Aerea); Guardia Nacional Republicana (paramilitary regiment of the National Police) (2021)<br>
 
 **Military expenditures**<br>
+2% of GDP (2020 est.)<br>
 2% of GDP (2019)<br>
 2.1% of GDP (2018)<br>
 2% of GDP (2017)<br>
 1.9% of GDP (2016)<br>
-1.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Uruguay have approximately 22,000 active personnel (14,500 Army; 5,000 Navy; 2,500 Air Force) (2021)<br>

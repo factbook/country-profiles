@@ -392,10 +392,25 @@ _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
 **Economic overview**<br>
 <p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p><p></p><p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p><p></p><p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p><p></p><p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$55.324 billion (2019 est.)<br>
+$52.553 billion (2018 est.)<br>
+$49.402 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 7.2% (2017 est.)<br>
 6.2% (2016 est.)<br>
 6.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,395 (2019 est.)<br>
+$3,315 (2018 est.)<br>
+$3,204 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$23.576 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.8% (2019 est.)<br>
@@ -405,26 +420,6 @@ _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
 **Credit ratings**<br>
 _Moody's rating_: Ba3 (2017)<br>
 _Standard & Poors rating_: B+ (2000)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$55.324 billion (2019 est.)<br>
-$52.553 billion (2018 est.)<br>
-$49.402 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$23.576 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$3,395 (2019 est.)<br>
-$3,315 (2018 est.)<br>
-$3,204 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-23.4% of GDP (2018 est.)<br>
-22.5% of GDP (2017 est.)<br>
-20.4% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.9% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 25.1% (2017 est.)<br>
 _investment in inventories_: 3.4% (2017 est.)<br>
 _exports of goods and services_: 27% (2017 est.)<br>
 _imports of goods and services_: -42.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.3 (2020)<br>
-_Starting a Business score_: 91.2 (2020)<br>
-_Trading score_: 60.9 (2020)<br>
-_Enforcement score_: 50.6 (2020)<br>
 
 **Agricultural products**<br>
 groundnuts, watermelons, rice, sugar cane, cassava, millet, maize, onions, sorghum, vegetables<br>
@@ -479,15 +468,15 @@ _highest 10%_: 31.1% (2011)<br>
 _revenues_: 4.139 billion (2017 est.)<br>
 _expenditures_: 4.9 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-19.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 48.3% of GDP (2017 est.)<br>
 47.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+19.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

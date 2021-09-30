@@ -139,11 +139,17 @@ _female_: 83.61 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.71 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: rural_: rural: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: rural_: rural: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: rural_: rural: 100% of population<br>
@@ -164,6 +170,9 @@ NA<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -281,21 +290,21 @@ red saltire (Saint Andrew's Cross) on a white square on a red field; national co
 **Economic overview**<br>
 <p>The economy is limited to traditional subsistence agriculture, with about 80% of labor force earnings coming from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. However, roughly 70% of the labor force is employed in the public sector, although only about a third of the population is in salaried employment.</p><p></p><p>Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia. France directly finances the public sector and health-care and education services. It also provides funding for key development projects in a range of areas, including infrastructure, economic development, environmental management, and health-care facilities.</p><p></p><p>A key concern for Wallis and Futuna is an aging population with consequent economic development issues. Very few people aged 18-30 live on the islands due to the limited formal employment opportunities. Improving job creation is a current priority for the territorial government.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$60 million (2004 est.)<br>
+
 **Real GDP growth rate**<br>
 <p>NA</p><br>
 
-**Inflation rate (consumer prices)**<br>
-0.9% (2015)<br>
-2.8% (2005)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$60 million (2004 est.)<br>
+**Real GDP per capita**<br>
+$3,800 (2004 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $195 million (2005) (2005)<br>
 
-**Real GDP per capita**<br>
-$3,800 (2004 est.)<br>
+**Inflation rate (consumer prices)**<br>
+0.9% (2015)<br>
+2.8% (2005)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>
@@ -338,15 +347,15 @@ _highest 10%_: NA<br>
 _revenues_: 32.54 million NA (2015 est.)<br>
 _expenditures_: 34.18 million NA (2015 est.)<br>
 
-**Taxes and other revenues**<br>
-16.7% (of GDP) NA (2015 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.8% (of GDP) NA (2015 est.)<br>
 
 **Public debt**<br>
 5.6% of GDP (2004 est.)<br>
 <strong>note:</strong> offical data; data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+16.7% (of GDP) NA (2015 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

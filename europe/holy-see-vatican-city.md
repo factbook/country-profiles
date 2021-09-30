@@ -78,8 +78,21 @@ _major-language sample(s)_: <br>L'Almanacco dei fatti del mondo, l'indispensabil
 **Religions**<br>
 Roman Catholic<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 0% (2014 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
 
 **Urbanization**<br>
 _urban population_: 100% of total population (2021)<br>
@@ -88,9 +101,15 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 **Major urban areas - population**<br>
 1,000 VATICAN CITY (capital) (2018)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
@@ -99,6 +118,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -250,10 +272,10 @@ NA<br>
 _revenues_: 315 million (2013)<br>
 _expenditures_: 348 million (2013)<br>
 
-**Taxes and other revenues**<br>
+**Budget surplus (+) or deficit (-)**<br>
 NA<br>
 
-**Budget surplus (+) or deficit (-)**<br>
+**Taxes and other revenues**<br>
 NA<br>
 
 **Fiscal year**<br>

@@ -66,6 +66,28 @@ important nesting area for birds and turtles<br>
 no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> there is a staff of four at the meteorological station on Willis Island<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA (2021 est.)<br>
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>

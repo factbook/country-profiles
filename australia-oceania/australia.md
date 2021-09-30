@@ -201,6 +201,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 29% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.1% of GDP (2017)<br>
 
@@ -367,10 +370,25 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 **Economic overview**<br>
 <p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p><p></p><p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p><p></p><p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,264,514,000,000 (2019 est.)<br>
+$1,237,766,000,000 (2018 est.)<br>
+$1,202,307,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.84% (2019 est.)<br>
 2.77% (2018 est.)<br>
 2.45% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$49,854 (2019 est.)<br>
+$49,545 (2018 est.)<br>
+$48,871 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,390,790,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.6% (2019 est.)<br>
@@ -381,26 +399,6 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 _Fitch rating_: AAA (2011)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AAA (2003)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,264,514,000,000 (2019 est.)<br>
-$1,237,766,000,000 (2018 est.)<br>
-$1,202,307,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,390,790,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$49,854 (2019 est.)<br>
-$49,545 (2018 est.)<br>
-$48,871 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-22.5% of GDP (2019 est.)<br>
-21.7% of GDP (2018 est.)<br>
-21.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.6% (2017 est.)<br>
@@ -414,12 +412,6 @@ _investment in fixed capital_: 24.1% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 21.5% (2017 est.)<br>
 _imports of goods and services_: -21% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 81.2 (2020)<br>
-_Starting a Business score_: 96.6 (2020)<br>
-_Trading score_: 70.3 (2020)<br>
-_Enforcement score_: 79 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, wheat, barley, milk, rapeseed, beef, cotton, grapes, poultry, potatoes<br>
@@ -454,15 +446,15 @@ _highest 10%_: 25.4% (1994)<br>
 _revenues_: 490 billion (2017 est.)<br>
 _expenditures_: 496.9 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-35.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 40.8% of GDP (2017 est.)<br>
 40.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+35.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

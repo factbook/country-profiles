@@ -201,6 +201,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 22.2% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 6.4% of GDP (2017)<br>
 
@@ -364,10 +367,25 @@ _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 **Economic overview**<br>
 <p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p><p></p><p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p><p></p><p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p><p></p><p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$268.662 billion (2019 est.)<br>
+$265.619 billion (2018 est.)<br>
+$261.649 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.15% (2019 est.)<br>
 1.52% (2018 est.)<br>
 3.27% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$48,668 (2019 est.)<br>
+$48,159 (2018 est.)<br>
+$47,502 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$269.259 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1% (2019 est.)<br>
@@ -378,26 +396,6 @@ _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 _Fitch rating_: AA+ (2016)<br>
 _Moody's rating_: Aa1 (2016)<br>
 _Standard & Poors rating_: AA+ (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$268.662 billion (2019 est.)<br>
-$265.619 billion (2018 est.)<br>
-$261.649 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$269.259 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$48,668 (2019 est.)<br>
-$48,159 (2018 est.)<br>
-$47,502 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-24.1% of GDP (2019 est.)<br>
-23.5% of GDP (2018 est.)<br>
-23% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.7% (2017 est.)<br>
@@ -411,12 +409,6 @@ _investment in fixed capital_: 22.1% (2017 est.)<br>
 _investment in inventories_: 0.4% (2017 est.)<br>
 _exports of goods and services_: 38.5% (2017 est.)<br>
 _imports of goods and services_: -38.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.2 (2020)<br>
-_Starting a Business score_: 93.5 (2020)<br>
-_Trading score_: 92.4 (2020)<br>
-_Enforcement score_: 66.4 (2020)<br>
 
 **Agricultural products**<br>
 milk, barley, oats, wheat, potatoes, sugar beet, rye, pork, poultry, beef<br>
@@ -455,9 +447,6 @@ _revenues_: 134.2 billion (2017 est.)<br>
 _expenditures_: 135.6 billion (2017 est.)<br>
 <strong>note:</strong> Central Government Budget data; these numbers represent a significant reduction from previous official reporting<br>
 
-**Taxes and other revenues**<br>
-53.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.6% (of GDP) (2017 est.)<br>
 
@@ -465,6 +454,9 @@ _expenditures_: 135.6 billion (2017 est.)<br>
 61.3% of GDP (2017 est.)<br>
 62.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+53.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

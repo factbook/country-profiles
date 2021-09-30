@@ -329,7 +329,7 @@ _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 24 October 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 24 October 2021)<br>
+_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 14 November 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 14 November 2021)<br>
 _election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
 
 **Judicial branch**<br>
@@ -375,10 +375,25 @@ _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 **Economic overview**<br>
 <p>Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.</p><p></p><p>Cristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.</p><p></p><p>In order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.</p><p></p><p>With the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.</p><p></p><p>In 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$991.523 billion (2019 est.)<br>
+$1,012,668,000,000 (2018 est.)<br>
+$1,039,330,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -2.03% (2019 est.)<br>
 -2.53% (2018 est.)<br>
 2.83% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$22,064 (2019 est.)<br>
+$22,759 (2018 est.)<br>
+$23,597 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$447.467 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 25.7% (2017 est.)<br>
@@ -389,26 +404,6 @@ _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Ca (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$991.523 billion (2019 est.)<br>
-$1,012,668,000,000 (2018 est.)<br>
-$1,039,330,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$447.467 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$22,064 (2019 est.)<br>
-$22,759 (2018 est.)<br>
-$23,597 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-15.8% of GDP (2019 est.)<br>
-14.4% of GDP (2018 est.)<br>
-13.1% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.8% (2017 est.)<br>
@@ -422,12 +417,6 @@ _investment in fixed capital_: 14.8% (2017 est.)<br>
 _investment in inventories_: 3.7% (2017 est.)<br>
 _exports of goods and services_: 11.2% (2017 est.)<br>
 _imports of goods and services_: -13.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59 (2020)<br>
-_Starting a Business score_: 80.4 (2020)<br>
-_Trading score_: 67.1 (2020)<br>
-_Enforcement score_: 57.5 (2020)<br>
 
 **Agricultural products**<br>
 maize, soybeans, wheat, sugar cane, milk, barley, sunflower seed, beef, grapes, potatoes<br>
@@ -467,15 +456,15 @@ _highest 10%_: 31% (2017 est.)<br>
 _revenues_: 120.6 billion (2017 est.)<br>
 _expenditures_: 158.6 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 57.6% of GDP (2017 est.)<br>
 55% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

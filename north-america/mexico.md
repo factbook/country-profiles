@@ -393,10 +393,25 @@ _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 **Economic overview**<br>
 <p>Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</p><p></p><p>Mexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.</p><p></p><p>Mexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.</p><p></p><p>Since 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2,525,481,000,000 (2019 est.)<br>
+$2,526,859,000,000 (2018 est.)<br>
+$2,472,586,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -0.3% (2019 est.)<br>
 2.19% (2018 est.)<br>
 2.34% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$19,796 (2019 est.)<br>
+$20,024 (2018 est.)<br>
+$19,816 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,269,956,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.6% (2019 est.)<br>
@@ -407,26 +422,6 @@ _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 _Fitch rating_: BBB- (2020)<br>
 _Moody's rating_: Baa1 (2020)<br>
 _Standard & Poors rating_: BBB (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2,525,481,000,000 (2019 est.)<br>
-$2,526,859,000,000 (2018 est.)<br>
-$2,472,586,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,269,956,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$19,796 (2019 est.)<br>
-$20,024 (2018 est.)<br>
-$19,816 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-23.7% of GDP (2019 est.)<br>
-23.7% of GDP (2018 est.)<br>
-23.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.6% (2017 est.)<br>
@@ -440,12 +435,6 @@ _investment in fixed capital_: 22.3% (2017 est.)<br>
 _investment in inventories_: 0.8% (2017 est.)<br>
 _exports of goods and services_: 37.8% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 72.4 (2020)<br>
-_Starting a Business score_: 86.1 (2020)<br>
-_Trading score_: 82.1 (2020)<br>
-_Enforcement score_: 67 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, milk, oranges, sorghum, tomatoes, poultry, wheat, green chillies/peppers, eggs<br>
@@ -484,15 +473,15 @@ _highest 10%_: 40% (2014)<br>
 _revenues_: 261.4 billion (2017 est.)<br>
 _expenditures_: 273.8 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-22.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 54.3% of GDP (2017 est.)<br>
 56.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+22.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -707,11 +696,11 @@ Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (
 note: the National Guard was formed in 2019 and consists of personnel from the Federal Police and military police units of the Army and Navy; while the Guard is part of the civilian-led Ministry of Security and Citizen Protection, the Defense Ministry has day-to-day operational control; in addition, the armed forces provide the commanders and the training<br>
 
 **Military expenditures**<br>
+0.6% of GDP (2020 est.)<br>
 0.5% of GDP (2019)<br>
 0.5% of GDP (2018)<br>
 0.5% of GDP (2017)<br>
 0.6% of GDP (2016)<br>
-0.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 250,000 active personnel (180,000 Army; 60,000 Navy, including 20-25,000 marines; 8,000 Air Force); approximately 90-100,000 National Guard (2021)<br>

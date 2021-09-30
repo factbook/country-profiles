@@ -375,10 +375,25 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 **Economic overview**<br>
 <p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p><p></p><p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p><p></p><p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$32.48 billion (2019 est.)<br>
+$31.247 billion (2018 est.)<br>
+$30.986 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.5% (2017 est.)<br>
 2.1% (2016 est.)<br>
 3.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$14,950 (2019 est.)<br>
+$14,744 (2018 est.)<br>
+$15,007 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$16.064 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.4% (2019 est.)<br>
@@ -389,26 +404,6 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2018)<br>
 _Standard & Poors rating_: N/A (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$32.48 billion (2019 est.)<br>
-$31.247 billion (2018 est.)<br>
-$30.986 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$16.064 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,950 (2019 est.)<br>
-$14,744 (2018 est.)<br>
-$15,007 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-25.6% of GDP (2017 est.)<br>
-24.3% of GDP (2016 est.)<br>
-29.2% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5% (2017 est.)<br>
@@ -422,12 +417,6 @@ _investment in fixed capital_: 29% (2017 est.)<br>
 _investment in inventories_: -0.6% (2016 est.)<br>
 _exports of goods and services_: 46.7% (2017 est.)<br>
 _imports of goods and services_: -26.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 45 (2020)<br>
-_Starting a Business score_: 87 (2020)<br>
-_Trading score_: 43.9 (2020)<br>
-_Enforcement score_: 32.8 (2020)<br>
 
 **Agricultural products**<br>
 plantains, cassava, sugar cane, yams, taro, vegetables, maize, groundnuts, game meat, rubber<br>
@@ -464,15 +453,15 @@ _highest 10%_: 32.7% (2005)<br>
 _revenues_: 2.634 billion (2017 est.)<br>
 _expenditures_: 2.914 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 62.7% of GDP (2017 est.)<br>
 64.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

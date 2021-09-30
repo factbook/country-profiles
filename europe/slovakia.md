@@ -158,6 +158,9 @@ _female_: 81.82 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.45 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -194,6 +197,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 20.5% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2017)<br>
@@ -359,10 +365,25 @@ _lyrics/music_: Janko MATUSKA/traditional<br>
 **Economic overview**<br>
 <p>Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned.</p><p></p><p>Slovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up.</p><p></p><p>Among the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$178.513 billion (2019 est.)<br>
+$174.47 billion (2018 est.)<br>
+$168.134 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.4% (2019 est.)<br>
 3.9% (2018 est.)<br>
 3.04% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$32,730 (2019 est.)<br>
+$32,032 (2018 est.)<br>
+$30,911 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$105.388 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.6% (2019 est.)<br>
@@ -373,26 +394,6 @@ _lyrics/music_: Janko MATUSKA/traditional<br>
 _Fitch rating_: A (2020)<br>
 _Moody's rating_: A2 (2012)<br>
 _Standard & Poors rating_: A+ (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$178.513 billion (2019 est.)<br>
-$174.47 billion (2018 est.)<br>
-$168.134 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$105.388 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$32,730 (2019 est.)<br>
-$32,032 (2018 est.)<br>
-$30,911 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-21.3% of GDP (2019 est.)<br>
-22.5% of GDP (2018 est.)<br>
-21.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.8% (2017 est.)<br>
@@ -406,12 +407,6 @@ _investment in fixed capital_: 21.2% (2017 est.)<br>
 _investment in inventories_: 1.2% (2017 est.)<br>
 _exports of goods and services_: 96.3% (2017 est.)<br>
 _imports of goods and services_: -92.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 75.6 (2020)<br>
-_Starting a Business score_: 84.8 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 66.1 (2020)<br>
 
 **Agricultural products**<br>
 wheat, maize, sugar beet, milk, barley, rapeseed, potatoes, sunflower seed, soybeans, pork<br>
@@ -449,9 +444,6 @@ _highest 10%_: 19.3% (2015 est.)<br>
 _revenues_: 37.79 billion (2017 est.)<br>
 _expenditures_: 38.79 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
@@ -459,6 +451,9 @@ _expenditures_: 38.79 billion (2017 est.)<br>
 50.9% of GDP (2017 est.)<br>
 51.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general Government Gross Debt and include debt instruments issued (or owned) by Government entities, including sub-sectors of central, state, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+39.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

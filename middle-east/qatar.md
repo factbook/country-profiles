@@ -188,6 +188,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 35.1% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 2.7% of GDP (2019)<br>
 
@@ -357,10 +360,25 @@ _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
 **Economic overview**<br>
 <p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p><p></p><p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p><p></p><p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$255.01 billion (2019 est.)<br>
+$253.049 billion (2018 est.)<br>
+$249.963 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.6% (2017 est.)<br>
 2.1% (2016 est.)<br>
 3.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$90,044 (2019 est.)<br>
+$90,970 (2018 est.)<br>
+$91,739 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$191.29 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.6% (2019 est.)<br>
@@ -371,26 +389,6 @@ _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
 _Fitch rating_: AA- (2017)<br>
 _Moody's rating_: Aa3 (2017)<br>
 _Standard & Poors rating_: AA- (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$255.01 billion (2019 est.)<br>
-$253.049 billion (2018 est.)<br>
-$249.963 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$191.29 billion (2018 est.)<br>
-
-**Real GDP per capita**<br>
-$90,044 (2019 est.)<br>
-$90,970 (2018 est.)<br>
-$91,739 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-45% of GDP (2019 est.)<br>
-49.7% of GDP (2018 est.)<br>
-46.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.2% (2017 est.)<br>
@@ -404,12 +402,6 @@ _investment in fixed capital_: 43.1% (2017 est.)<br>
 _investment in inventories_: 1.5% (2017 est.)<br>
 _exports of goods and services_: 51% (2017 est.)<br>
 _imports of goods and services_: -37.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 68.7 (2020)<br>
-_Starting a Business score_: 86.1 (2020)<br>
-_Trading score_: 71.5 (2020)<br>
-_Enforcement score_: 54.6 (2020)<br>
 
 **Agricultural products**<br>
 tomatoes, dates, camel milk, sheep milk, goat milk, pumpkins/gourds, mutton, poultry, milk, eggplants<br>
@@ -441,15 +433,15 @@ _highest 10%_: 35.9% (2007)<br>
 _revenues_: 44.1 billion (2017 est.)<br>
 _expenditures_: 53.82 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 53.8% of GDP (2017 est.)<br>
 46.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -642,11 +634,11 @@ _LNG terminal(s) (export)_: Ras Laffan<br>
 Qatari Amiri Land Force (QALF, includes Emiri Guard), Qatari Amiri Navy (QAN, includes Coast Guard), Qatari Amiri Air Force (QAAF); Internal Security Forces: Mobile Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
-2.5% of GDP (2017)<br>
-3.1% of GDP (2016)<br>
-3.2% of GDP (2015)<br>
-2.6% of GDP (2014)<br>
-2.4% of GDP (2013)<br>
+4% of GDP (2020 est.)<br>
+3.6% of GDP (2019 est.)<br>
+3.2% of GDP (2018 est.)<br>
+2.5% of GDP (2017 est.)<br>
+3.1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 14,000 active personnel (10,000 Land Force, including Emiri Guard; 2,000 Navy; 2,000 Air Force) (2021)<br>

@@ -160,6 +160,9 @@ _female_: 75.57 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.85 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 99% of population<br>
 _improved: rural_: rural: 99.3% of population<br>
@@ -167,6 +170,9 @@ _improved: total_: total: 99.4% of population<br>
 _unimproved: urban_: urban: 1% of population<br>
 _unimproved: rural_: rural: 0.7% of population<br>
 _unimproved: total_: total: 0.6% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 1.29 physicians/1,000 population (2016)<br>
@@ -193,6 +199,9 @@ _unimproved: total_: total: 0.9% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -358,23 +367,16 @@ _lyrics/music_: Khalil Mardam BEY/Mohammad Salim FLAYFEL and Ahmad Salim FLAYFEL
 **Economic overview**<br>
 <p>Syria's economy has deeply deteriorated amid the ongoing conflict that began in 2011, declining by more than 70% from 2010 to 2017. The government has struggled to fully address the effects of international sanctions, widespread infrastructure damage, diminished domestic consumption and production, reduced subsidies, and high inflation, which have caused dwindling foreign exchange reserves, rising budget and trade deficits, a decreasing value of the Syrian pound, and falling household purchasing power. In 2017, some economic indicators began to stabilize, including the exchange rate and inflation, but economic activity remains depressed and GDP almost certainly fell.</p><p></p><p>During 2017, the ongoing conflict and continued unrest and economic decline worsened the humanitarian crisis, necessitating high levels of international assistance, as more than 13 million people remain in need inside Syria, and the number of registered Syrian refugees increased from 4.8 million in 2016 to more than 5.4 million.</p><p></p><p>Prior to the turmoil, Damascus had begun liberalizing economic policies, including cutting lending interest rates, opening private banks, consolidating multiple exchange rates, raising prices on some subsidized items, and establishing the Damascus Stock Exchange, but the economy remains highly regulated. Long-run economic constraints include foreign trade barriers, declining oil production, high unemployment, rising budget deficits, increasing pressure on water supplies caused by heavy use in agriculture, industrial contaction, water pollution, and widespread infrastructure damage.</p><br>
 
-**Real GDP growth rate**<br>
--36.5% (2014 est.)<br>
--30.9% (2013 est.)<br>
-<strong>note:</strong> data are in 2015 dollars<br>
-
-**Inflation rate (consumer prices)**<br>
-28.1% (2017 est.)<br>
-47.3% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $50.28 billion (2015 est.)<br>
 $55.8 billion (2014 est.)<br>
 $61.9 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>the war-driven deterioration of the economy resulted in a disappearance of quality national level statistics in the 2012-13 period<br>
 
-**GDP (official exchange rate)**<br>
-$24.6 billion (2014 est.)<br>
+**Real GDP growth rate**<br>
+-36.5% (2014 est.)<br>
+-30.9% (2013 est.)<br>
+<strong>note:</strong> data are in 2015 dollars<br>
 
 **Real GDP per capita**<br>
 $2,900 (2015 est.)<br>
@@ -382,10 +384,12 @@ $3,300 (2014 est.)<br>
 $2,800 (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
-**Gross national saving**<br>
-17% of GDP (2017 est.)<br>
-15.3% of GDP (2016 est.)<br>
-16.1% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$24.6 billion (2014 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+28.1% (2017 est.)<br>
+47.3% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20% (2017 est.)<br>
@@ -399,12 +403,6 @@ _investment in fixed capital_: 18.6% (2017 est.)<br>
 _investment in inventories_: 12.3% (2017 est.)<br>
 _exports of goods and services_: 16.1% (2017 est.)<br>
 _imports of goods and services_: -46.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 42 (2020)<br>
-_Starting a Business score_: 80.1 (2020)<br>
-_Trading score_: 29.8 (2020)<br>
-_Enforcement score_: 42.6 (2020)<br>
 
 **Agricultural products**<br>
 wheat, barley, milk, olives, tomatoes, oranges, potatoes, sheep milk, lemons, limes<br>
@@ -439,15 +437,15 @@ _revenues_: 1.162 billion (2017 est.)<br>
 _expenditures_: 3.211 billion (2017 est.)<br>
 <strong>note:</strong> government projections for FY2016<br>
 
-**Taxes and other revenues**<br>
-4.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -8.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 94.8% of GDP (2017 est.)<br>
 91.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+4.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -653,6 +651,9 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 **Military and security forces**<br>
 Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
 note: the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
+
+**Military expenditures**<br>
+not available<br>
 
 **Military and security service personnel strengths**<br>
 N/A; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) have taken significant losses in personnel; prior to the civil war, the SAF had approximately 300,000 active troops, including 200-225,000 Army; by 2018, its estimated size was reportedly less than 100,000 due to casualties and desertions; currently, the SAF is trying to rebuild and integrate government-allied militias and auxiliary forces while continuing to engage in active military operations (2021)<br>

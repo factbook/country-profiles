@@ -385,10 +385,25 @@ _lyrics/music_: Rabindranath TAGORE<br>
 **Economic overview**<br>
 <p>Bangladesh's economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.</p> <p> </p> <p>Garments, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$775.076 billion (2019 est.)<br>
+$716.65 billion (2018 est.)<br>
+$664.403 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 7.4% (2017 est.)<br>
 7.2% (2016 est.)<br>
 6.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$4,754 (2019 est.)<br>
+$4,441 (2018 est.)<br>
+$4,161 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$329.545 billion (2020 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.5% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Rabindranath TAGORE<br>
 _Fitch rating_: BB- (2014)<br>
 _Moody's rating_: Ba3 (2012)<br>
 _Standard & Poors rating_: BB- (2010)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$775.076 billion (2019 est.)<br>
-$716.65 billion (2018 est.)<br>
-$664.403 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$329.545 billion (2020 est.)<br>
-
-**Real GDP per capita**<br>
-$4,754 (2019 est.)<br>
-$4,441 (2018 est.)<br>
-$4,161 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-35.7% of GDP (2019 est.)<br>
-33.3% of GDP (2018 est.)<br>
-35.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.2% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 30.5% (2017 est.)<br>
 _investment in inventories_: 1% (2017 est.)<br>
 _exports of goods and services_: 15% (2017 est.)<br>
 _imports of goods and services_: -20.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 45 (2020)<br>
-_Starting a Business score_: 82.4 (2020)<br>
-_Trading score_: 31.8 (2020)<br>
-_Enforcement score_: 22.2 (2020)<br>
 
 **Agricultural products**<br>
 rice, potatoes, maize, sugar cane, milk, vegetables, onions, jute, mangoes/guavas, wheat<br>
@@ -477,15 +466,15 @@ _highest 10%_: 27% (2010 est.)<br>
 _revenues_: 25.1 billion (2017 est.)<br>
 _expenditures_: 33.5 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-9.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 33.1% of GDP (2017 est.)<br>
 33.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+9.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>
@@ -710,7 +699,7 @@ information varies; approximately 165,000 total active personnel (135,000 Army; 
 the Bangladesh Defense Force inventory is comprised of mostly Chinese and Russian equipment; since 2010, China is the leading supplier of arms to Bangladesh; Bangladesh is currently undertaking a significant defense modernization program, with a focus on naval acquisitions (2020)<br>
 
 **Military deployments**<br>
-Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had about 5,300 troops deployed, including: 1,225 Central African Republic (MINUSCA); 1,400 Democratic Republic of the Congo (MONUSCO); 115 Lebanon (UNIFIL); 1,330 Mali (MINUSMA); 1,450 South Sudan (UNMISS) ( mid-2021)<br>
+Bangladesh is one of the leading contributors to UN peacekeeping missions since it joined the UN in 1974; as of mid-2021, it had about 5,300 troops deployed, including: 1,225 Central African Republic (MINUSCA); 1,400 Democratic Republic of the Congo (MONUSCO); 115 Lebanon (UNIFIL); 1,330 Mali (MINUSMA); 1,450 South Sudan (UNMISS) (mid-2021)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>

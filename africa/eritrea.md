@@ -206,6 +206,9 @@ _vectorborne diseases_: malaria and dengue fever<br>
 **Obesity - adult prevalence rate**<br>
 5% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -367,23 +370,16 @@ _lyrics/music_: SOLOMON Tsehaye Beraki/Isaac Abraham MEHAREZGI and ARON Tekle Te
 **Economic overview**<br>
 <p>Since formal independence from Ethiopia in 1993, Eritrea has faced many economic problems, including lack of financial resources and chronic drought. Eritrea has a command economy under the control of the sole political party, the People's Front for Democracy and Justice. Like the economies of many African nations, a large share of the population - nearly 80% in Eritrea - is engaged in subsistence agriculture, but the sector only produces a small share of the country's total output. Mining accounts for the lion's share of output.</p><p></p><p>The government has strictly controlled the use of foreign currency by limiting access and availability; new regulations in 2013 aimed at relaxing currency controls have had little economic effect. Few large private enterprises exist in Eritrea and most operate in conjunction with government partners, including a number of large international mining ventures, which began production in 2013. In late 2015, the Government of Eritrea introduced a new currency, retaining the name nakfa, and restricted the amount of hard currency individuals could withdraw from banks per month. The changeover has resulted in exchange fluctuations and the scarcity of hard currency available in the market.</p><p></p><p>While reliable statistics on Eritrea are difficult to obtain, erratic rainfall and the large percentage of the labor force tied up in military service continue to interfere with agricultural production and economic development. Eritrea's harvests generally cannot meet the food needs of the country without supplemental grain purchases. Copper, potash, and gold production are likely to continue to drive limited economic growth and government revenue over the next few years, but military spending will continue to compete with development and investment plans.</p><br>
 
-**Real GDP growth rate**<br>
-5% (2017 est.)<br>
-1.9% (2016 est.)<br>
-2.6% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-9% (2017 est.)<br>
-9% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $9.702 billion (2017 est.)<br>
 $8.953 billion (2016 est.)<br>
 $8.791 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$5.813 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+5% (2017 est.)<br>
+1.9% (2016 est.)<br>
+2.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,600 (2017 est.)<br>
@@ -391,10 +387,12 @@ $1,500 (2016 est.)<br>
 $1,500 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-5.5% of GDP (2017 est.)<br>
-6% of GDP (2016 est.)<br>
-6.8% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$5.813 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+9% (2017 est.)<br>
+9% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.7% (2017 est.)<br>
@@ -408,12 +406,6 @@ _investment in fixed capital_: 6.4% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 10.9% (2017 est.)<br>
 _imports of goods and services_: -22.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 21.6 (2020)<br>
-_Starting a Business score_: 52.9 (2020)<br>
-_Trading score_: 0 (2020)<br>
-_Enforcement score_: 55.9 (2020)<br>
 
 **Agricultural products**<br>
 sorghum, milk, vegetables, barley, cereals, pulses nes, roots/tubers nes, wheat, millet, beef<br>
@@ -446,15 +438,15 @@ _highest 10%_: NA<br>
 _revenues_: 2.029 billion (2017 est.)<br>
 _expenditures_: 2.601 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-34.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -9.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 131.2% of GDP (2017 est.)<br>
 132.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+34.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

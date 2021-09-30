@@ -143,9 +143,15 @@ _female_: 83.51 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.7 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 94.3% of population<br>
 _unimproved: total_: total: 5.7% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 88% of population<br>
@@ -158,6 +164,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -286,27 +295,27 @@ _lyrics/music_: Conrad HOWELL<br>
 **Economic overview**<br>
 The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.<br>
 
-**Real GDP growth rate**<br>
-5.3% (2018 est.)<br>
-4.3% (2017 est.)<br>
-4.4% (2016 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-4% (2017 est.)<br>
-0.7% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.117 billion (2019 est.)<br>
 $1.06 billion (2018 est.)<br>
 $1.004 billion (2017 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$1.02 billion (2018 est.)<br>
+**Real GDP growth rate**<br>
+5.3% (2018 est.)<br>
+4.3% (2017 est.)<br>
+4.4% (2016 est.)<br>
 
 **Real GDP per capita**<br>
 $29,253 (2019 est.)<br>
 $28,162 (2018 est.)<br>
 $27,061 (2017 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$1.02 billion (2018 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+4% (2017 est.)<br>
+0.7% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.5% (2017 est.)<br>

@@ -49,6 +49,11 @@ surrounded by a zone of violent volcanic and earthquake activity sometimes refer
 **Geography - note**<br>
 the major chokepoints are the Bering Strait, Panama Canal, Luzon Strait, and the Singapore Strait; the Equator divides the Pacific Ocean into the North Pacific Ocean and the South Pacific Ocean; dotted with low coral islands and rugged volcanic islands in the southwestern Pacific Ocean; much of the Pacific Ocean's rim lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters that accounts for up to 90% of the world's earthquakes and some 75% of the world's volcanoes; the Pacific Ocean is the deepest ocean basin averaging 4,000 m in depth<br>
 
+## People and Society
+
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 ## Environment
 
 **Environment - current issues**<br>

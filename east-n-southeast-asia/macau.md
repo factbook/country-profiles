@@ -143,11 +143,17 @@ _female_: 87.86 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.21 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 2.41 physicians/1,000 population (2010)<br>
@@ -159,6 +165,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -291,10 +300,24 @@ lotus blossom; national colors: green, white, yellow<br>
 **Economic overview**<br>
 <p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p><p></p><p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p><p></p><p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$79.392 billion (2019 est.)<br>
+$83.317 billion (2018 est.)<br>
+$79.017 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 9.1% (2017 est.)<br>
 -0.9% (2016 est.)<br>
 -21.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$123,965 (2019 est.)<br>
+$131,908 (2018 est.)<br>
+$126,918 (2017 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$53.841 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.7% (2019 est.)<br>
@@ -304,24 +327,6 @@ lotus blossom; national colors: green, white, yellow<br>
 **Credit ratings**<br>
 _Fitch rating_: AA (2018)<br>
 _Moody's rating_: Aa3 (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$79.392 billion (2019 est.)<br>
-$83.317 billion (2018 est.)<br>
-$79.017 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$53.841 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$123,965 (2019 est.)<br>
-$131,908 (2018 est.)<br>
-$126,918 (2017 est.)<br>
-
-**Gross national saving**<br>
-53.2% of GDP (2018 est.)<br>
-53.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2016 est.)<br>
@@ -378,15 +383,15 @@ _highest 10%_: NA<br>
 _revenues_: 14.71 billion (2017 est.)<br>
 _expenditures_: 9.684 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 10% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 0% of GDP (2017 est.)<br>
 0% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+29.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

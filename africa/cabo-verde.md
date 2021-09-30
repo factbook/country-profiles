@@ -197,6 +197,9 @@ _unimproved: total_: total: 20.2% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 11.8% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.2% of GDP (2017)<br>
 
@@ -363,10 +366,25 @@ _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 **Economic overview**<br>
 <p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p><p></p><p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p><p></p><p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3.944 billion (2019 est.)<br>
+$3.732 billion (2018 est.)<br>
+$3.57 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4% (2017 est.)<br>
 4.7% (2016 est.)<br>
 1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$7,172 (2019 est.)<br>
+$6,864 (2018 est.)<br>
+$6,643 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1.971 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2019 est.)<br>
@@ -376,26 +394,6 @@ _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 **Credit ratings**<br>
 _Fitch rating_: B- (2020)<br>
 _Standard & Poors rating_: B (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3.944 billion (2019 est.)<br>
-$3.732 billion (2018 est.)<br>
-$3.57 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1.971 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$7,172 (2019 est.)<br>
-$6,864 (2018 est.)<br>
-$6,643 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-35% of GDP (2019 est.)<br>
-34.4% of GDP (2018 est.)<br>
-30.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.9% (2017 est.)<br>
@@ -409,12 +407,6 @@ _investment in fixed capital_: 32.2% (2017 est.)<br>
 _investment in inventories_: 1.9% (2017 est.)<br>
 _exports of goods and services_: 48.6% (2017 est.)<br>
 _imports of goods and services_: -51.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 55 (2020)<br>
-_Starting a Business score_: 84.5 (2020)<br>
-_Trading score_: 69.1 (2020)<br>
-_Enforcement score_: 64.8 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, tomatoes, bananas, cabbages, coconuts, cassava, pulses nes, vegetables, milk, goat milk<br>
@@ -446,15 +438,15 @@ _highest 10%_: 40.6% (2000)<br>
 _revenues_: 493.5 million (2017 est.)<br>
 _expenditures_: 546.7 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-27.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 125.8% of GDP (2017 est.)<br>
 127.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+27.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

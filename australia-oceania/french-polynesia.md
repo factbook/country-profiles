@@ -150,9 +150,15 @@ _female_: 80.63 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.82 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Physicians density**<br>
 2.13 physicians/1,000 population (2009)<br>
@@ -174,6 +180,9 @@ NA<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 56.7%<br>
@@ -305,27 +314,27 @@ under certain acts of France, French Polynesia has acquired autonomy in all area
 **Economic overview**<br>
 <p>Since 1962, when France stationed military personnel in the region, French Polynesia has changed from a subsistence agricultural economy to one in which a high proportion of the work force is either employed by the military or supports the tourist industry. With the halt of French nuclear testing in 1996, the military contribution to the economy fell sharply.</p><p></p><p>After growing at an average yearly rate of 4.2% from 1997-2007, the economic and financial crisis in 2008 marked French Polynesia’s entry into recession. However, since 2014, French Polynesia has shown signs of recovery. Business turnover reached 1.8% year-on-year in September 2016, tourism increased 1.8% in 2015, and GDP grew 2.0% in 2015.</p><p></p><p>French Polynesia’s tourism-dominated service sector accounted for 85% of total value added for the economy in 2012. Tourism employs 17% of the workforce. Pearl farming is the second biggest industry, accounting for 54% of exports in 2015; however, the output has decreased to 12.5 tons – the lowest level since 2008. A small manufacturing sector predominantly processes commodities from French Polynesia’s primary sector - 8% of total economy in 2012 - including agriculture and fishing.</p><p></p><p>France has agreed to finance infrastructure, marine businesses, and cultural and ecological sites at roughly $80 million per year between 2015 and 2020. Japan, the US, and China are French Polynesia’s three largest trade partners.</p><br>
 
-**Real GDP growth rate**<br>
-2% (2015 est.)<br>
--2.7% (2014 est.)<br>
--2.5% (2010 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0% (2015 est.)<br>
-0.3% (2014 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $5.49 billion (2017 est.)<br>
 $5.383 billion (2016 est.)<br>
 $6.963 billion (2015 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$4.795 billion (2015 est.)<br>
+**Real GDP growth rate**<br>
+2% (2015 est.)<br>
+-2.7% (2014 est.)<br>
+-2.5% (2010 est.)<br>
 
 **Real GDP per capita**<br>
 $17,000 (2015 est.)<br>
 $20,100 (2014 est.)<br>
 $22,700 (2010)<br>
+
+**GDP (official exchange rate)**<br>
+$4.795 billion (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0% (2015 est.)<br>
+0.3% (2014 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2009)<br>
@@ -372,11 +381,11 @@ _highest 10%_: NA<br>
 _revenues_: 1.891 billion (2012)<br>
 _expenditures_: 1.833 billion (2011)<br>
 
-**Taxes and other revenues**<br>
-39.4% (of GDP) (2012)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.2% (of GDP) (2012)<br>
+
+**Taxes and other revenues**<br>
+39.4% (of GDP) (2012)<br>
 
 **Fiscal year**<br>
 calendar year<br>

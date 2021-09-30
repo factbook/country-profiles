@@ -323,9 +323,9 @@ _elections/appointments_: president indirectly elected by a Federal Convention c
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br> Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br> Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br> Bundestag - last held on 24 September 2017 (next to be held in 2021 at the latest); most postwar German governments have been coalitions<br>
-_election results_: <br> Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - CDU/CSU 33%, SPD 20.5%, AfD 12.6%, FDP 10.7%, The Left 9.2%, Alliance '90/Greens 8.9%, other 5%; seats by party - CDU/CSU 246, SPD 152, AfD 91, FDP 80, The Left 69, Alliance '90/Greens 67; composition - men 490, women 219, percent of women 30.5%; note - total Parliament percent of women 30.5%<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br>Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in 2025 at the latest); most postwar German governments have been coalitions<br>
+_election results_: <br>Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; note - total Bundestag percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -333,7 +333,7 @@ _judge selection and term of office_: Federal Court of Justice judges selected b
 _subordinate courts_: Federal Administrative Court; Federal Finance Court; Federal Labor Court; Federal Social Court; each of the 16 federated states or Land has its own constitutional court and a hierarchy of ordinary (civil, criminal, family) and specialized (administrative, finance, labor, social) courts; two English-speaking commercial courts opened in late 2020 in the state of Baden-Wuerttemberg - English-speaking Stuttgart Commercial Court and English-speaking Mannheim Commercial Court<br>
 
 **Political parties and leaders**<br>
-Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK]<br>Alternative for Germany or AfD [Alexander GAULAND - Honorary President, Joerg MEUTHEN and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Armin LASCHET]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>The Left or Die Linke [Janine WISSLER and Susanne HENNING-WELLSOW]<br>Social Democratic Party or SPD [Saskia ESKEN and Norbert WALTER-BORJANS]<br>
+Alliance '90/Greens [Annalena BAERBOCK and Robert HABECK]<br>Alternative for Germany or AfD [Alexander GAULAND - Honorary Chairman, Joerg MEUTHEN and Tino CHRUPALLA]<br>Christian Democratic Union or CDU [Armin LASCHET]<br>Christian Social Union or CSU [Markus SOEDER]<br>Free Democratic Party or FDP [Christian LINDNER]<br>The Left or Die Linke [Janine WISSLER and Susanne HENNING-WELLSOW]<br>Social Democratic Party or SPD [Saskia ESKEN and Norbert WALTER-BORJANS]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), SICA (observer), UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMISS, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -371,10 +371,25 @@ _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 **Economic overview**<br>
 <p>The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment. Germany benefits from a highly skilled labor force, but, like its Western European neighbors, faces significant demographic challenges to sustained long-term growth. Low fertility rates and a large increase in net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms.</p><p></p><p>Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong economic growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II. The German Government introduced a minimum wage in 2015 that increased to $9.79 (8.84 euros) in January 2017.</p><p></p><p>Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2017 Germany reached a budget surplus of 0.7%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016, though the target was already reached in 2012.</p><p></p><p>Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production.</p><p></p><p>The German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Domestic consumption, investment, and exports are likely to drive German GDP growth in 2018, and the country’s budget and trade surpluses are likely to remain high.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$4,482,448,000,000 (2019 est.)<br>
+$4,457,688,000,000 (2018 est.)<br>
+$4,401,873,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.59% (2019 est.)<br>
 1.3% (2018 est.)<br>
 2.91% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$53,919 (2019 est.)<br>
+$53,768 (2018 est.)<br>
+$53,255 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$3,860,923,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2019 est.)<br>
@@ -386,26 +401,6 @@ _Fitch rating_: AAA (1994)<br>
 _Moody's rating_: Aaa (1986)<br>
 _Standard & Poors rating_: AAA (1983)<br>
 Credit ratings prior to 1989 refer to West Germany.<br>
-
-**Real GDP (purchasing power parity)**<br>
-$4,482,448,000,000 (2019 est.)<br>
-$4,457,688,000,000 (2018 est.)<br>
-$4,401,873,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$3,860,923,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$53,919 (2019 est.)<br>
-$53,768 (2018 est.)<br>
-$53,255 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-28.5% of GDP (2019 est.)<br>
-28.7% of GDP (2018 est.)<br>
-28.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2017 est.)<br>
@@ -419,12 +414,6 @@ _investment in fixed capital_: 20.4% (2017 est.)<br>
 _investment in inventories_: -0.5% (2017 est.)<br>
 _exports of goods and services_: 47.3% (2017 est.)<br>
 _imports of goods and services_: -39.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 79.7 (2020)<br>
-_Starting a Business score_: 83.7 (2020)<br>
-_Trading score_: 91.8 (2020)<br>
-_Enforcement score_: 74.1 (2020)<br>
 
 **Agricultural products**<br>
 milk, sugar beet, wheat, barley, potatoes, pork, maize, rye, rapeseed, triticale<br>
@@ -462,9 +451,6 @@ _highest 10%_: 24% (2000)<br>
 _revenues_: 1.665 trillion (2017 est.)<br>
 _expenditures_: 1.619 trillion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-45% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2017 est.)<br>
 
@@ -472,6 +458,9 @@ _expenditures_: 1.619 trillion (2017 est.)<br>
 63.9% of GDP (2017 est.)<br>
 67.9% of GDP (2016 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); the general government sector comprises the sub-sectors of central government, state government, local government and social security funds; the series are presented as a percentage of GDP and in millions of euros; GDP used as a denominator is the gross domestic product at current market prices; data expressed in national currency are converted into euro using end-of-year exchange rates provided by the European Central Bank<br>
+
+**Taxes and other revenues**<br>
+45% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

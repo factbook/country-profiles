@@ -148,6 +148,9 @@ _female_: 76.76 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.81 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 99.8% of population<br>
 _improved: rural_: rural: 99.7% of population<br>
@@ -359,31 +362,27 @@ _lyrics/music_: Amata KABUA<br>
 **Economic overview**<br>
 <p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
 
-**Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-3.6% (2016 est.)<br>
-2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0% (2017 est.)<br>
--1.5% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $227 million (2018 est.)<br>
 $219 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$222 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.5% (2017 est.)<br>
+3.6% (2016 est.)<br>
+2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,889 (2018 est.)<br>
 $3,776 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-17.2% of GDP (2018 est.)<br>
-18.3% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$222 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0% (2017 est.)<br>
+-1.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.4% (2013 est.)<br>
@@ -396,12 +395,6 @@ _investment in fixed capital_: 17.8% (2016 est.)<br>
 _investment in inventories_: 0.2% (2016 est.)<br>
 _exports of goods and services_: 52.9% (2016 est.)<br>
 _imports of goods and services_: -102.3% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 50.9 (2020)<br>
-_Starting a Business score_: 88.4 (2020)<br>
-_Trading score_: 78.9 (2020)<br>
-_Enforcement score_: 55.9 (2020)<br>
 
 **Agricultural products**<br>
 coconuts<br>
@@ -435,15 +428,15 @@ _highest 10%_: NA<br>
 _revenues_: 116.7 million (2013 est.)<br>
 _expenditures_: 113.9 million (2013 est.)<br>
 
-**Taxes and other revenues**<br>
-52.6% (of GDP) (2013 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.3% (of GDP) (2013 est.)<br>
 
 **Public debt**<br>
 25.5% of GDP (2017 est.)<br>
 30% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+52.6% (of GDP) (2013 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

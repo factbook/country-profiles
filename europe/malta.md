@@ -158,6 +158,9 @@ _female_: 85.19 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.5 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -194,6 +197,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.8% of GDP (2017)<br>
@@ -362,10 +368,25 @@ _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 **Economic overview**<br>
 <p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p><p></p><p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p><p></p><p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p><p></p><p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$22.133 billion (2019 est.)<br>
+$21.095 billion (2018 est.)<br>
+$20.056 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.94% (2019 est.)<br>
 5.17% (2018 est.)<br>
 8.03% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$44,032 (2019 est.)<br>
+$43,528 (2018 est.)<br>
+$42,856 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$14.986 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.6% (2019 est.)<br>
@@ -376,26 +397,6 @@ _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 _Fitch rating_: A+ (2017)<br>
 _Moody's rating_: A2 (2019)<br>
 _Standard & Poors rating_: A- (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$22.133 billion (2019 est.)<br>
-$21.095 billion (2018 est.)<br>
-$20.056 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$14.986 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$44,032 (2019 est.)<br>
-$43,528 (2018 est.)<br>
-$42,856 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-27.5% of GDP (2019 est.)<br>
-28.6% of GDP (2018 est.)<br>
-27.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -409,12 +410,6 @@ _investment in fixed capital_: 21.1% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 136.1% (2017 est.)<br>
 _imports of goods and services_: -117.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 66.1 (2020)<br>
-_Starting a Business score_: 88.2 (2020)<br>
-_Trading score_: 88.9 (2020)<br>
-_Enforcement score_: 67.6 (2020)<br>
 
 **Agricultural products**<br>
 milk, tomatoes, potatoes, onions, cauliflowers, broccoli, eggplants, pork, cabbages, poultry<br>
@@ -452,9 +447,6 @@ _highest 10%_: NA<br>
 _revenues_: 5.076 billion (2017 est.)<br>
 _expenditures_: 4.583 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-40.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 3.9% (of GDP) (2017 est.)<br>
 
@@ -462,6 +454,9 @@ _expenditures_: 4.583 billion (2017 est.)<br>
 50.7% of GDP (2017 est.)<br>
 56.3% of GDP (2016 est.)<br>
 <strong>note:</strong> Malta reports public debt at nominal value outstanding at the end of the year, according to guidelines set out in the Maastricht Treaty for general government gross debt; the data include the following categories of government liabilities (as defined in ESA95): currency and deposits (AF.2), securities other than shares excluding financial derivatives (AF.3, excluding AF.34), and loans (AF.4); general government comprises the central, state, and local governments, and social security funds<br>
+
+**Taxes and other revenues**<br>
+40.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

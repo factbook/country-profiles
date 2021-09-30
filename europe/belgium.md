@@ -367,10 +367,25 @@ _lyrics/music_: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois
 **Economic overview**<br>
 <p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p><p></p><p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p><p></p><p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$596.414 billion (2019 est.)<br>
+$586.192 billion (2018 est.)<br>
+$575.757 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.41% (2019 est.)<br>
 1.49% (2018 est.)<br>
 1.9% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$51,934 (2019 est.)<br>
+$51,299 (2018 est.)<br>
+$50,615 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$533.028 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2019 est.)<br>
@@ -381,26 +396,6 @@ _lyrics/music_: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois
 _Fitch rating_: AA- (2016)<br>
 _Moody's rating_: Aa3 (2011)<br>
 _Standard & Poors rating_: AA (2011)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$596.414 billion (2019 est.)<br>
-$586.192 billion (2018 est.)<br>
-$575.757 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$533.028 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$51,934 (2019 est.)<br>
-$51,299 (2018 est.)<br>
-$50,615 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-25.3% of GDP (2019 est.)<br>
-24.8% of GDP (2018 est.)<br>
-25.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2017 est.)<br>
@@ -414,12 +409,6 @@ _investment in fixed capital_: 23.3% (2017 est.)<br>
 _investment in inventories_: 1.3% (2017 est.)<br>
 _exports of goods and services_: 85.1% (2017 est.)<br>
 _imports of goods and services_: -84.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 75 (2020)<br>
-_Starting a Business score_: 92.3 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 64.3 (2020)<br>
 
 **Agricultural products**<br>
 sugar beet, milk, potatoes, wheat, pork, lettuce, poultry, maize, barley, pears<br>
@@ -457,9 +446,6 @@ _highest 10%_: 28.4% (2006)<br>
 _revenues_: 253.5 billion (2017 est.)<br>
 _expenditures_: 258.6 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-51.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
@@ -467,6 +453,9 @@ _expenditures_: 258.6 billion (2017 est.)<br>
 103.4% of GDP (2017 est.)<br>
 106% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions; general government debt is defined by the Maastricht definition and calculated by the National Bank of Belgium as consolidated gross debt; the debt is defined in European Regulation EC479/2009 concerning the implementation of the protocol on the excessive deficit procedure annexed to the Treaty on European Union (Treaty of Maastricht) of 7 February 1992; the sub-sectors of consolidated gross debt are: federal government, communities and regions, local government, and social security funds<br>
+
+**Taxes and other revenues**<br>
+51.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

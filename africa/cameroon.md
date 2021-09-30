@@ -395,10 +395,25 @@ _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French
 **Economic overview**<br>
 <p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p><p></p><p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p><p></p><p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$94.248 billion (2019 est.)<br>
+$90.868 billion (2018 est.)<br>
+$87.32 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3.5% (2017 est.)<br>
 4.6% (2016 est.)<br>
 5.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,642 (2019 est.)<br>
+$3,604 (2018 est.)<br>
+$3,555 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$34.99 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.4% (2019 est.)<br>
@@ -409,26 +424,6 @@ _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French
 _Fitch rating_: B (2006)<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$94.248 billion (2019 est.)<br>
-$90.868 billion (2018 est.)<br>
-$87.32 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$34.99 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$3,642 (2019 est.)<br>
-$3,604 (2018 est.)<br>
-$3,555 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-17.7% of GDP (2018 est.)<br>
-18.2% of GDP (2017 est.)<br>
-23.9% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.7% (2017 est.)<br>
@@ -442,12 +437,6 @@ _investment in fixed capital_: 21.6% (2017 est.)<br>
 _investment in inventories_: -0.3% (2017 est.)<br>
 _exports of goods and services_: 21.6% (2017 est.)<br>
 _imports of goods and services_: -20.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 46.1 (2020)<br>
-_Starting a Business score_: 86.3 (2020)<br>
-_Trading score_: 16 (2020)<br>
-_Enforcement score_: 39.9 (2020)<br>
 
 **Agricultural products**<br>
 cassava, plantains, maize, oil palm fruit, taro, sugar cane, sorghum, tomatoes, bananas, vegetables<br>
@@ -484,15 +473,15 @@ _highest 10%_: 35.4% (2001)<br>
 _revenues_: 5.363 billion (2017 est.)<br>
 _expenditures_: 6.556 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 36.9% of GDP (2017 est.)<br>
 32.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

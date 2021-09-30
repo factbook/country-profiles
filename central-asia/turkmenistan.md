@@ -365,32 +365,27 @@ _lyrics/music_: collective/Veli MUKHATOV<br>
 **Economic overview**<br>
 <p>Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country's workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan’s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.</p> <p>Turkmenistan’s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.</p> <p>Low energy prices since mid-2014 are hampering Turkmenistan’s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions’ ability to verify this information.</p><br>
 
-**Real GDP growth rate**<br>
-6.5% (2017 est.)<br>
-6.2% (2016 est.)<br>
-6.5% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-8% (2017 est.)<br>
-3.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $86.858 billion (2018 est.)<br>
 $81.787 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$40.819 billion (2018 est.)<br>
+**Real GDP growth rate**<br>
+6.5% (2017 est.)<br>
+6.2% (2016 est.)<br>
+6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $14,845 (2018 est.)<br>
 $14,205 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-23.9% of GDP (2017 est.)<br>
-24.3% of GDP (2016 est.)<br>
-18.9% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$40.819 billion (2018 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+8% (2017 est.)<br>
+3.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2017 est.)<br>
@@ -440,15 +435,15 @@ _highest 10%_: 31.7% (1998)<br>
 _revenues_: 5.657 billion (2017 est.)<br>
 _expenditures_: 6.714 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 28.8% of GDP (2017 est.)<br>
 24.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

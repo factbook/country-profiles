@@ -390,10 +390,25 @@ _lyrics/music_: Gilbert Jean DAGNON<br>
 **Economic overview**<br>
 <p>The free market economy of Benin has grown consecutively for four years, though growth slowed in 2017, as its close trade links to Nigeria expose Benin to risks from volatile commodity prices. Cotton is a key export commodity, with export earnings significantly impacted by the price of cotton in the broader market. The economy began deflating in 2017, with the consumer price index falling 0.8%.</p><p></p><p>During the first two years of President TALON’s administration, which began in April 2016, the government has followed an ambitious action plan to kickstart development through investments in infrastructure, education, agriculture, and governance. Electricity generation, which has constrained Benin’s economic growth, has increased and blackouts have been considerably reduced. Private foreign direct investment is small, and foreign aid accounts for a large proportion of investment in infrastructure projects.</p><p></p><p>Benin has appealed for international assistance to mitigate piracy against commercial shipping in its territory, and has used equipment from donors effectively against such piracy. Pilferage has significantly dropped at the Port of Cotonou, though the port is still struggling with effective implementation of the International Ship and Port Facility Security (ISPS) Code. Projects included in Benin's $307 million Millennium Challenge Corporation (MCC) first compact (2006-11) were designed to increase investment and private sector activity by improving key institutional and physical infrastructure. The four projects focused on access to land, access to financial services, access to justice, and access to markets (including modernization of the port). The Port of Cotonou is a major contributor to Benin’s economy, with revenues projected to account for more than 40% of Benin’s national budget.</p><p></p><p>Benin will need further efforts to upgrade infrastructure, stem corruption, and expand access to foreign markets to achieve its potential. In September 2015, Benin signed a second MCC Compact for $375 million that entered into force in June 2017 and is designed to strengthen the national utility service provider, attract private sector investment, fund infrastructure investments in electricity generation and distribution, and develop off-grid electrification for poor and unserved households. As part of the Government of Benin’s action plan to spur growth, Benin passed public private partnership legislation in 2017 to attract more foreign investment, place more emphasis on tourism, facilitate the development of new food processing systems and agricultural products, encourage new information and communication technology, and establish Independent Power Producers. In April 2017, the IMF approved a three year $150.4 million Extended Credit Facility agreement to maintain debt sustainability and boost donor confidence.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$38.794 billion (2019 est.)<br>
+$36.301 billion (2018 est.)<br>
+$34.023 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 5.6% (2017 est.)<br>
 4% (2016 est.)<br>
 2.1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,287 (2019 est.)<br>
+$3,161 (2018 est.)<br>
+$3,045 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$10.315 billion (2018 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.8% (2019 est.)<br>
@@ -404,25 +419,6 @@ _lyrics/music_: Gilbert Jean DAGNON<br>
 _Fitch rating_: B (2019)<br>
 _Moody's rating_: B2 (2019)<br>
 _Standard & Poors rating_: B+ (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$38.794 billion (2019 est.)<br>
-$36.301 billion (2018 est.)<br>
-$34.023 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$10.315 billion (2018 est.)<br>
-
-**Real GDP per capita**<br>
-$3,287 (2019 est.)<br>
-$3,161 (2018 est.)<br>
-$3,045 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-19.7% of GDP (2018 est.)<br>
-17.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.1% (2017 est.)<br>
@@ -436,12 +432,6 @@ _investment in fixed capital_: 27.6% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 31.6% (2017 est.)<br>
 _imports of goods and services_: -43% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 52.4 (2020)<br>
-_Starting a Business score_: 90.6 (2020)<br>
-_Trading score_: 68.9 (2020)<br>
-_Enforcement score_: 41.5 (2020)<br>
 
 **Agricultural products**<br>
 cassava, yams, maize, cotton, oil palm fruit, rice, pineapples, tomatoes, vegetables, soybeans<br>
@@ -472,15 +462,15 @@ _highest 10%_: 29% (2003)<br>
 _revenues_: 1.578 billion (2017 est.)<br>
 _expenditures_: 2.152 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 54.6% of GDP (2017 est.)<br>
 49.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -390,23 +390,16 @@ _lyrics/music_: Abdullah Abdulwahab NOA'MAN/Ayyoab Tarish ABSI<br>
 **Economic overview**<br>
 <p>Yemen is a low-income country that faces difficult long-term challenges to stabilizing and growing its economy, and the current conflict has only exacerbated those issues. The ongoing war has halted Yemen’s exports, pressured the currency’s exchange rate, accelerated inflation, severely limited food and fuel imports, and caused widespread damage to infrastructure. The conflict has also created a severe humanitarian crisis - the world’s largest cholera outbreak currently at nearly 1 million cases, more than 7 million people at risk of famine, and more than 80% of the population in need of humanitarian assistance.</p><p></p><p>Prior to the start of the conflict in 2014, Yemen was highly dependent on declining oil and gas resources for revenue. Oil and gas earnings accounted for roughly 25% of GDP and 65% of government revenue. The Yemeni Government regularly faced annual budget shortfalls and tried to diversify the Yemeni economy through a reform program designed to bolster non-oil sectors of the economy and foreign investment. In July 2014, the government continued reform efforts by eliminating some fuel subsidies and in August 2014, the IMF approved a three-year, $570 million Extended Credit Facility for Yemen.</p><p></p><p>However, the conflict that began in 2014 stalled these reform efforts and ongoing fighting continues to accelerate the country’s economic decline. In September 2016, President HADI announced the move of the main branch of Central Bank of Yemen from Sanaa to Aden where his government could exert greater control over the central bank’s dwindling resources. Regardless of which group controls the main branch, the central bank system is struggling to function. Yemen’s Central Bank’s foreign reserves, which stood at roughly $5.2 billion prior to the conflict, have declined to negligible amounts. The Central Bank can no longer fully support imports of critical goods or the country’s exchange rate. The country also is facing a growing liquidity crisis and rising inflation. The private sector is hemorrhaging, with almost all businesses making substantial layoffs. Access to food and other critical commodities such as medical equipment is limited across the country due to security issues on the ground. The Social Welfare Fund, a cash transfer program for Yemen’s neediest, is no longer operational and has not made any disbursements since late 2014.</p><p></p><p>Yemen will require significant international assistance during and after the protracted conflict to stabilize its economy. Long-term challenges include a high population growth rate, high unemployment, declining water resources, and severe food scarcity.</p><br>
 
-**Real GDP growth rate**<br>
--5.9% (2017 est.)<br>
--13.6% (2016 est.)<br>
--16.7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-24.7% (2017 est.)<br>
--12.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $73.63 billion (2017 est.)<br>
 $78.28 billion (2016 est.)<br>
 $90.63 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$54.356 billion (2018 est.)<br>
+**Real GDP growth rate**<br>
+-5.9% (2017 est.)<br>
+-13.6% (2016 est.)<br>
+-16.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,500 (2017 est.)<br>
@@ -414,10 +407,12 @@ $2,700 (2016 est.)<br>
 $3,200 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
--1.9% of GDP (2017 est.)<br>
--3.7% of GDP (2016 est.)<br>
--4.5% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$54.356 billion (2018 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+24.7% (2017 est.)<br>
+-12.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.3% (2017 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 2.2% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 7.5% (2017 est.)<br>
 _imports of goods and services_: -43.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 31.8 (2020)<br>
-_Starting a Business score_: 76.8 (2020)<br>
-_Trading score_: 0 (2020)<br>
-_Enforcement score_: 48.5 (2020)<br>
 
 **Agricultural products**<br>
 mangoes/guavas, potatoes, sorghum, onions, milk, poultry, watermelons, grapes, oranges, bananas<br>
@@ -472,15 +461,15 @@ _highest 10%_: 30.3% (2008 est.)<br>
 _revenues_: 2.821 billion (2017 est.)<br>
 _expenditures_: 4.458 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 74.5% of GDP (2017 est.)<br>
 68.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -528,6 +517,7 @@ Yemeni rials (YER) per US dollar -<br>
 ## Energy
 
 **Electricity access**<br>
+_population without electricity_: 16 million (2019)<br>
 _electrification - total population_: 47% (2019)<br>
 _electrification - urban areas_: 72% (2019)<br>
 _electrification - rural areas_: 31% (2019)<br>
@@ -710,6 +700,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 112,865 (Somalia), 16,447 (Ethiopia) (2021)<br>
+_refugees (country of origin)_: 113,549 (Somalia), 16,447 (Ethiopia) (2021)<br>
 _IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
 

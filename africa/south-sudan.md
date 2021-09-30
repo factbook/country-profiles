@@ -153,6 +153,9 @@ _female_: 60.36 years (2021 est.)<br>
 **Total fertility rate**<br>
 5.43 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 85.2% of population<br>
 _improved: rural_: rural: 71.7% of population<br>
@@ -191,6 +194,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Obesity - adult prevalence rate**<br>
 6.6% (2014)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 1.5% of GDP (2016)<br>
@@ -351,23 +357,16 @@ _lyrics/music_: collective of 49 poets/Juba University students and teachers<br>
 **Economic overview**<br>
 <p>Industry and infrastructure in landlocked South Sudan are severely underdeveloped and poverty is widespread, following several decades of civil war with Sudan. Continued fighting within the new nation is disrupting what remains of the economy. The vast majority of the population is dependent on subsistence agriculture and humanitarian assistance. Property rights are insecure and price signals are weak, because markets are not well-organized.</p><p></p><p>South Sudan has little infrastructure – about 10,000 kilometers of roads, but just 2% of them paved. Electricity is produced mostly by costly diesel generators, and indoor plumbing and potable water are scarce, so less than 2% of the population has access to electricity. About 90% of consumed goods, capital, and services are imported from neighboring countries – mainly Uganda, Kenya and Sudan. Chinese investment plays a growing role in the infrastructure and energy sectors.</p><p></p><p>Nevertheless, South Sudan does have abundant natural resources. South Sudan holds one of the richest agricultural areas in Africa, with fertile soils and abundant water supplies. Currently the region supports 10-20 million head of cattle. At independence in 2011, South Sudan produced nearly three-fourths of former Sudan's total oil output of nearly a half million barrels per day. The Government of South Sudan relies on oil for the vast majority of its budget revenues, although oil production has fallen sharply since independence. South Sudan is one of the most oil-dependent countries in the world, with 98% of the government’s annual operating budget and 80% of its gross domestic product (GDP) derived from oil. Oil is exported through a pipeline that runs to refineries and shipping facilities at Port Sudan on the Red Sea. The economy of South Sudan will remain linked to Sudan for some time, given the existing oil infrastructure. The outbreak of conflict in December 2013, combined with falling crude oil production and prices, meant that GDP fell significantly between 2014 and 2017. Since the second half of 2017 oil production has risen, and is currently about 130,000 barrels per day.</p><p></p><p>Poverty and food insecurity has risen due to displacement of people caused by the conflict. With famine spreading, 66% of the population in South Sudan is living on less than about $2 a day, up from 50.6% in 2009, according to the World Bank. About 80% of the population lives in rural areas, with agriculture, forestry and fishing providing the livelihood for a majority of the households. Much of rural sector activity is focused on low-input, low-output subsistence agriculture.</p><p></p><p>South Sudan is burdened by considerable debt because of increased military spending and high levels of government corruption. Economic mismanagement is prevalent. Civil servants, including police and the military, are not paid on time, creating incentives to engage in looting and banditry. South Sudan has received more than $11 billion in foreign aid since 2005, largely from the US, the UK, and the EU. Inflation peaked at over 800% per year in October 2016 but dropped to 118% in 2017. The government has funded its expenditures by borrowing from the central bank and foreign sources, using forward sales of oil as collateral. The central bank’s decision to adopt a managed floating exchange rate regime in December 2015 triggered a 97% depreciation of the currency and spawned a growing black market.</p><p></p><p>Long-term challenges include rooting out public sector corruption, improving agricultural productivity, alleviating poverty and unemployment, improving fiscal transparency - particularly in regard to oil revenues, taming inflation, improving government revenues, and creating a rules-based business environment.</p><br>
 
-**Real GDP growth rate**<br>
--5.2% (2017 est.)<br>
--13.9% (2016 est.)<br>
--0.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-187.9% (2017 est.)<br>
-379.8% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $20.01 billion (2017 est.)<br>
 $21.1 billion (2016 est.)<br>
 $24.52 billion (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$3.06 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+-5.2% (2017 est.)<br>
+-13.9% (2016 est.)<br>
+-0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,600 (2017 est.)<br>
@@ -375,10 +374,12 @@ $1,700 (2016 est.)<br>
 $2,100 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-3.6% of GDP (2017 est.)<br>
-18.7% of GDP (2016 est.)<br>
-7.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$3.06 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+187.9% (2017 est.)<br>
+379.8% (2016 est.)<br>
 
 **GDP - composition, by end use**<br>
 _household consumption_: 34.9% (2011 est.)<br>
@@ -386,12 +387,6 @@ _government consumption_: 17.1% (2011 est.)<br>
 _investment in fixed capital_: 10.4% (2011 est.)<br>
 _exports of goods and services_: 64.9% (2011 est.)<br>
 _imports of goods and services_: -27.2% (2011 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 34.6 (2020)<br>
-_Starting a Business score_: 71 (2020)<br>
-_Trading score_: 26.2 (2020)<br>
-_Enforcement score_: 59 (2020)<br>
 
 **Agricultural products**<br>
 milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
@@ -406,15 +401,15 @@ milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep m
 _revenues_: 259.6 million (FY2017/18 est.)<br>
 _expenditures_: 298.6 million (FY2017/18 est.)<br>
 
-**Taxes and other revenues**<br>
-8.5% (of GDP) (FY2017/18 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.3% (of GDP) (FY2017/18 est.)<br>
 
 **Public debt**<br>
 62.7% of GDP (2017 est.)<br>
 86.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+8.5% (of GDP) (FY2017/18 est.)<br>
 
 **Current account balance**<br>
 -$154 million (2017 est.)<br>

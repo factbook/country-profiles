@@ -155,6 +155,9 @@ _female_: 82.02 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.68 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -183,6 +186,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 29.8% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 2.3% of GDP (2017)<br>
@@ -355,10 +361,25 @@ _lyrics/music_: unknown<br>
 **Economic overview**<br>
 <p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$73.87 billion (2019 est.)<br>
+$72.55 billion (2018 est.)<br>
+$71.282 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.49% (2019 est.)<br>
 13.89% (2018 est.)<br>
 3.85% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$45,011 (2019 est.)<br>
+$46,227 (2018 est.)<br>
+$47,710 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$38.472 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2017 est.)<br>
@@ -368,26 +389,6 @@ _lyrics/music_: unknown<br>
 _Fitch rating_: B+ (2020)<br>
 _Moody's rating_: B2 (2018)<br>
 _Standard & Poors rating_: B+ (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$73.87 billion (2019 est.)<br>
-$72.55 billion (2018 est.)<br>
-$71.282 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$38.472 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$45,011 (2019 est.)<br>
-$46,227 (2018 est.)<br>
-$47,710 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-29.9% of GDP (2018 est.)<br>
-28.9% of GDP (2017 est.)<br>
-21.2% of GDP (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2017 est.)<br>
@@ -401,12 +402,6 @@ _investment in fixed capital_: 26.1% (2017 est.)<br>
 _investment in inventories_: 0.4% (2017 est.)<br>
 _exports of goods and services_: 80.2% (2017 est.)<br>
 _imports of goods and services_: -67.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76 (2020)<br>
-_Starting a Business score_: 89.6 (2020)<br>
-_Trading score_: 78.7 (2020)<br>
-_Enforcement score_: 63.8 (2020)<br>
 
 **Agricultural products**<br>
 mutton, dates, milk, poultry, tomatoes, fruit, sheep offals, sheep skins, eggs, pumpkins<br>
@@ -442,15 +437,15 @@ _highest 10%_: NA<br>
 _revenues_: 5.854 billion (2017 est.)<br>
 _expenditures_: 9.407 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 88.5% of GDP (2017 est.)<br>
 81.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+16.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -640,7 +635,7 @@ Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Roy
 note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
 
 **Military expenditures**<br>
-4% of GDP (2020 est.)<br>
+4.2% of GDP (2020 est.)<br>
 3.7% of GDP (2019)<br>
 4.1% of GDP (2018)<br>
 4.3% of GDP (2017)<br>

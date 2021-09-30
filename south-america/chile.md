@@ -376,10 +376,25 @@ _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNIC
 **Economic overview**<br>
 <p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p><p></p><p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p><p></p><p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p><p></p><p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p><p></p><p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$459.134 billion (2019 est.)<br>
+$454.344 billion (2018 est.)<br>
+$437.082 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.03% (2019 est.)<br>
 4% (2018 est.)<br>
 1.41% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$24,226 (2019 est.)<br>
+$24,259 (2018 est.)<br>
+$23,664 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$282.655 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.2% (2019 est.)<br>
@@ -390,26 +405,6 @@ _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNIC
 _Fitch rating_: A- (2020)<br>
 _Moody's rating_: A1 (2018)<br>
 _Standard & Poors rating_: A+ (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$459.134 billion (2019 est.)<br>
-$454.344 billion (2018 est.)<br>
-$437.082 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$282.655 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$24,226 (2019 est.)<br>
-$24,259 (2018 est.)<br>
-$23,664 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-18.9% of GDP (2019 est.)<br>
-18.6% of GDP (2018 est.)<br>
-18.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.2% (2017 est.)<br>
@@ -423,12 +418,6 @@ _investment in fixed capital_: 21.5% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 28.7% (2017 est.)<br>
 _imports of goods and services_: -27% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 72.6 (2020)<br>
-_Starting a Business score_: 91.4 (2020)<br>
-_Trading score_: 80.6 (2020)<br>
-_Enforcement score_: 64.7 (2020)<br>
 
 **Agricultural products**<br>
 grapes, apples, wheat, sugar beet, milk, potatoes, tomatoes, maize, poultry, pork<br>
@@ -466,15 +455,15 @@ _highest 10%_: 41.5% (2013 est.)<br>
 _revenues_: 57.75 billion (2017 est.)<br>
 _expenditures_: 65.38 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 23.6% of GDP (2017 est.)<br>
 21% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -681,11 +670,11 @@ Armed Forces of Chile (Fuerzas Armadas de Chile):  Chilean Army (Ejército de C
 note: Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of Interior<br>
 
 **Military expenditures**<br>
+2% of GDP (2020 est.)<br>
 1.8% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2% of GDP (2017)<br>
 2% of GDP (2016)<br>
-2% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of Chile have approximately 80,000 active personnel (45,000 Army; 20,000 Navy; 15,000 Air Force); approximately 50,000 Carabineros (2021)<br>

@@ -393,10 +393,25 @@ _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
 **Economic overview**<br>
 <p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p><p></p><p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p><p></p><p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$95.291 billion (2019 est.)<br>
+$91.289 billion (2018 est.)<br>
+$86.267 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 3.4% (2017 est.)<br>
 2.4% (2016 est.)<br>
 6.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$1,098 (2019 est.)<br>
+$1,086 (2018 est.)<br>
+$1,060 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$47.16 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 41.5% (2017 est.)<br>
@@ -405,26 +420,6 @@ _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
 **Credit ratings**<br>
 _Moody's rating_: Caa1 (2019)<br>
 _Standard & Poors rating_: CCC+ (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$95.291 billion (2019 est.)<br>
-$91.289 billion (2018 est.)<br>
-$86.267 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$47.16 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$1,098 (2019 est.)<br>
-$1,086 (2018 est.)<br>
-$1,060 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-21.3% of GDP (2019 est.)<br>
-18.3% of GDP (2018 est.)<br>
-21.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 19.7% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 15.9% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 25.7% (2017 est.)<br>
 _imports of goods and services_: -32.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 36.2 (2020)<br>
-_Starting a Business score_: 91.6 (2020)<br>
-_Trading score_: 3.5 (2020)<br>
-_Enforcement score_: 33.3 (2020)<br>
 
 **Agricultural products**<br>
 cassava, plantains, sugar cane, maize, oil palm fruit, rice, roots/tubers nes, bananas, sweet potatoes, groundnuts<br>
@@ -479,15 +468,15 @@ _highest 10%_: 34.7% (2006)<br>
 _revenues_: 4.634 billion (2017 est.)<br>
 _expenditures_: 5.009 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-11.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 18.1% of GDP (2017 est.)<br>
 19.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+11.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

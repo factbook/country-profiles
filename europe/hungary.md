@@ -155,6 +155,9 @@ _female_: 80.83 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.48 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -195,6 +198,9 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 
 **Obesity - adult prevalence rate**<br>
 26.4% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2017)<br>
@@ -370,10 +376,25 @@ _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
 **Economic overview**<br>
 <p>Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.</p> <p> </p> <p>Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.</p> <p> </p> <p>Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.</p> <p> </p> <p>Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$321.869 billion (2019 est.)<br>
+$307.778 billion (2018 est.)<br>
+$291.995 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.58% (2019 est.)<br>
 5.44% (2018 est.)<br>
 4.45% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$32,945 (2019 est.)<br>
+$31,485 (2018 est.)<br>
+$29,832 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$163.251 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.3% (2019 est.)<br>
@@ -384,26 +405,6 @@ _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
 _Fitch rating_: BBB (2019)<br>
 _Moody's rating_: Baa3 (2016)<br>
 _Standard & Poors rating_: BBB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$321.869 billion (2019 est.)<br>
-$307.778 billion (2018 est.)<br>
-$291.995 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$163.251 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$32,945 (2019 est.)<br>
-$31,485 (2018 est.)<br>
-$29,832 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-27.8% of GDP (2019 est.)<br>
-26.9% of GDP (2018 est.)<br>
-24.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2017 est.)<br>
@@ -417,12 +418,6 @@ _investment in fixed capital_: 21.6% (2017 est.)<br>
 _investment in inventories_: 1% (2017 est.)<br>
 _exports of goods and services_: 90.2% (2017 est.)<br>
 _imports of goods and services_: -82.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 73.4 (2020)<br>
-_Starting a Business score_: 88.2 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 71 (2020)<br>
 
 **Agricultural products**<br>
 maize, wheat, milk, sunflower seed, barley, rapeseed, sugar beet, apples, pork, grapes<br>
@@ -460,9 +455,6 @@ _highest 10%_: 22.4% (2015)<br>
 _revenues_: 61.98 billion (2017 est.)<br>
 _expenditures_: 64.7 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-44.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
 <strong>note:</strong> Hungary has been under the EU Excessive Deficit Procedure since it joined the EU in 2004; in March 2012, the EU elevated its Excessive Deficit Procedure against Hungary and proposed freezing 30% of the country's Cohesion Funds because 2011 deficit reductions were not achieved in a sustainable manner; in June 2012, the EU lifted the freeze, recognizing that steps had been taken to reduce the deficit; the Hungarian deficit increased above 3% both in 2013 and in 2014 due to sluggish growth and the government's fiscal tightening<br>
@@ -471,6 +463,9 @@ _expenditures_: 64.7 billion (2017 est.)<br>
 73.6% of GDP (2017 est.)<br>
 76% of GDP (2016 est.)<br>
 <strong>note:</strong> general government gross debt is defined in the Maastricht Treaty as consolidated general government gross debt at nominal value, outstanding at the end of the year in the following categories of government liabilities: currency and deposits, securities other than shares excluding financial derivatives, and national, state, and local government and social security funds.<br>
+
+**Taxes and other revenues**<br>
+44.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

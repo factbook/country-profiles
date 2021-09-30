@@ -390,10 +390,25 @@ _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
 **Economic overview**<br>
 <p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p><p></p><p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p><p></p><p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$741.099 billion (2019 est.)<br>
+$717.7 billion (2018 est.)<br>
+$700.091 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 3.26% (2019 est.)<br>
 2.51% (2018 est.)<br>
 1.36% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$14,722 (2019 est.)<br>
+$14,452 (2018 est.)<br>
+$14,314 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$323.255 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.5% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
 _Fitch rating_: BBB- (2020)<br>
 _Moody's rating_: Baa2 (2014)<br>
 _Standard & Poors rating_: BBB- (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$741.099 billion (2019 est.)<br>
-$717.7 billion (2018 est.)<br>
-$700.091 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$323.255 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,722 (2019 est.)<br>
-$14,452 (2018 est.)<br>
-$14,314 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-15.7% of GDP (2019 est.)<br>
-16.3% of GDP (2018 est.)<br>
-16.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.2% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 22.2% (2017 est.)<br>
 _investment in inventories_: 0.2% (2017 est.)<br>
 _exports of goods and services_: 14.6% (2017 est.)<br>
 _imports of goods and services_: -19.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 70.1 (2020)<br>
-_Starting a Business score_: 87 (2020)<br>
-_Trading score_: 62.7 (2020)<br>
-_Enforcement score_: 34.3 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, milk, oil palm fruit, potatoes, rice, bananas, cassava leaves, plantains, poultry, maize<br>
@@ -480,9 +469,6 @@ _highest 10%_: 39.6% (2015 est.)<br>
 _revenues_: 83.35 billion (2017 est.)<br>
 _expenditures_: 91.73 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
@@ -490,6 +476,9 @@ _expenditures_: 91.73 billion (2017 est.)<br>
 49.4% of GDP (2017 est.)<br>
 49.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities<br>
+
+**Taxes and other revenues**<br>
+26.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -703,7 +692,7 @@ Pacific Ocean - Buenaventura<br>
 Military Forces of Colombia (Fuerzas Militares de Colombia<em lang="es">)</em>: National Army (Ejercito Nacional), Republic of Colombia Navy (Armada Republica de Colombia, ARC; includes Coast Guard), Colombian Air Force (Fuerza Aerea de Colombia, FAC); Colombian National Police (civilian force that is part of the Ministry of Defense) (2021)<br>
 
 **Military expenditures**<br>
-3.4% of GDP (2020 est.)<br>
+3% of GDP (2020 est.)<br>
 3.2% of GDP (2019)<br>
 3.1% of GDP (2018 est.)<br>
 3.2% of GDP (2017)<br>

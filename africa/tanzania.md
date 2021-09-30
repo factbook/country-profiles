@@ -393,10 +393,25 @@ _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
 **Economic overview**<br>
 <p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p><p></p><p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p><p></p><p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p><p></p><p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p><p></p><p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$149.785 billion (2019 est.)<br>
+$141.585 billion (2018 est.)<br>
+$134.274 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 6.98% (2019 est.)<br>
 6.95% (2018 est.)<br>
 6.78% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$2,660 (2019 est.)<br>
+$2,590 (2018 est.)<br>
+$2,530 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$60.633 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.4% (2019 est.)<br>
@@ -405,26 +420,6 @@ _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B2 (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$149.785 billion (2019 est.)<br>
-$141.585 billion (2018 est.)<br>
-$134.274 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$60.633 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$2,660 (2019 est.)<br>
-$2,590 (2018 est.)<br>
-$2,530 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-30.5% of GDP (2017 est.)<br>
-23.1% of GDP (2016 est.)<br>
-24.9% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23.4% (2017 est.)<br>
@@ -438,12 +433,6 @@ _investment in fixed capital_: 36.1% (2017 est.)<br>
 _investment in inventories_: -8.7% (2017 est.)<br>
 _exports of goods and services_: 18.1% (2017 est.)<br>
 _imports of goods and services_: -20.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 54.5 (2020)<br>
-_Starting a Business score_: 74.4 (2020)<br>
-_Trading score_: 20.2 (2020)<br>
-_Enforcement score_: 61.7 (2020)<br>
 
 **Agricultural products**<br>
 cassava, maize, sweet potatoes, sugar cane, rice, bananas, vegetables, milk, beans, sunflower seed<br>
@@ -480,15 +469,15 @@ _highest 10%_: 29.6% (2007)<br>
 _revenues_: 7.873 billion (2017 est.)<br>
 _expenditures_: 8.818 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 37% of GDP (2017 est.)<br>
 38% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

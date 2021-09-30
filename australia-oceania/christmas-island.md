@@ -96,6 +96,12 @@ _65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
 **Population growth rate**<br>
 1.11% (2014 est.)<br>
 
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA<br>
+
 **Population distribution**<br>
 majority of the population lives on the northern tip of the island<br>
 
@@ -115,6 +121,12 @@ _female_: NA<br>
 **Total fertility rate**<br>
 NA<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -122,6 +134,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 ## Environment

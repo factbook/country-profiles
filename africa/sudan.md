@@ -385,24 +385,16 @@ _lyrics/music_: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN<br>
 **Economic overview**<br>
 <p>Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.</p> <p>Sudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.</p> <p>Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017.</p> (2017)<br>
 
-**Real GDP growth rate**<br>
-1.4% (2017 est.)<br>
-3% (2016 est.)<br>
-1.3% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-50.2% (2019 est.)<br>
-62.8% (2018 est.)<br>
-32.5% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $168.28 billion (2019 est.)<br>
 $172.601 billion (2018 est.)<br>
 $176.646 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$24.918 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+1.4% (2017 est.)<br>
+3% (2016 est.)<br>
+1.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,958 (2019 est.)<br>
@@ -410,10 +402,13 @@ $4,161 (2018 est.)<br>
 $4,363 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-43.7% of GDP (2018 est.)<br>
-29.3% of GDP (2017 est.)<br>
-12.2% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$24.918 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+50.2% (2019 est.)<br>
+62.8% (2018 est.)<br>
+32.5% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.6% (2017 est.)<br>
@@ -427,12 +422,6 @@ _investment in fixed capital_: 18.4% (2017 est.)<br>
 _investment in inventories_: 0.6% (2017 est.)<br>
 _exports of goods and services_: 9.7% (2017 est.)<br>
 _imports of goods and services_: -11.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 44.8 (2020)<br>
-_Starting a Business score_: 76.7 (2020)<br>
-_Trading score_: 19 (2020)<br>
-_Enforcement score_: 47.8 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, sorghum, milk, groundnuts, onions, sesame seed, goat milk, millet, bananas, wheat<br>
@@ -469,15 +458,15 @@ _highest 10%_: 26.7% (2009 est.)<br>
 _revenues_: 8.48 billion (2017 est.)<br>
 _expenditures_: 13.36 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -10.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 121.6% of GDP (2017 est.)<br>
 99.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -686,11 +675,11 @@ Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Suppo
 the RSF is an autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALLO (aka Hemeti) as its commander (he is also Deputy Chairman of the Sovereignty Council), from the remnants of the Janjaweed militia that participated in suppressing the Darfur rebellion; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereignty Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2019)<br>
-2.3% of GDP (2018)<br>
-3.5% of GDP (2017)<br>
-2.9% of GDP (2016)<br>
-2.4% of GDP (2015)<br>
+1.1% of GDP (2020 est.)<br>
+1.7% of GDP (2019 est.)<br>
+2.3% of GDP (2018 est.)<br>
+3.5% of GDP (2017 est.)<br>
+2.9% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
 information varies widely, ranging from about 100,000 to more than 200,000 active personnel, including approximately 1,500 Navy and 3,000 Air Force; est. 30-40,000 paramilitary Rapid Support Forces; est. 20,000 Reserve Department (formerly the paramilitary Popular Defense Forces) (2020)<br><br>note: in August 2020, Sudan and the major rebel group Sudan People’s Liberation Movement-North (SPLM-N) signed an agreement to integrate the group's fighters into the Sudanese Army by the end of 2023<br>

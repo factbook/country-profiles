@@ -149,9 +149,15 @@ _female_: 85.19 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.69 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98% of population<br>
@@ -164,6 +170,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -311,10 +320,23 @@ _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 **Economic overview**<br>
 <p>Despite its small size and lack of natural resources, Liechtenstein has developed into a prosperous, highly industrialized, free-enterprise economy with a vital financial services sector and one of the highest per capita income levels in the world. The Liechtenstein economy is widely diversified with a large number of small and medium-sized businesses, particularly in the services sector. Low business taxes - a flat tax of 12.5% on income is applied - and easy incorporation rules have induced many holding companies to establish nominal offices in Liechtenstein, providing 30% of state revenues.</p><p></p><p>The country participates in a customs union with Switzerland and uses the Swiss franc as its national currency. It imports more than 90% of its energy requirements. Liechtenstein has been a member of the European Economic Area (an organization serving as a bridge between the European Free Trade Association and the EU) since May 1995. The government is working to harmonize its economic policies with those of an integrated EU. As of 2015, 54% of Liechtenstein’s workforce consisted of cross-border commuters, largely from Austria, Germany, and Switzerland.</p><p></p><p>Since 2008, Liechtenstein has faced renewed international pressure - particularly from Germany and the US - to improve transparency in its banking and tax systems. In December 2008, Liechtenstein signed a Tax Information Exchange Agreement with the US. Upon Liechtenstein's conclusion of 12 bilateral information-sharing agreements, the OECD in October 2009 removed the principality from its "grey list" of countries that had yet to implement the organization's Model Tax Convention. By the end of 2010, Liechtenstein had signed 25 Tax Information Exchange Agreements or Double Tax Agreements. In 2011, Liechtenstein joined the Schengen area, which allows passport-free travel across 26 European countries. In 2015, Liechtenstein and the EU agreed to clamp down on tax fraud and evasion and in 2018 will start automatically exchanging information on the bank accounts of each other’s residents.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$4.978 billion (2014 est.)<br>
+$3.2 billion (2009 est.)<br>
+$3.216 billion (2008 est.)<br>
+
 **Real GDP growth rate**<br>
 1.8% (2012 est.)<br>
 -0.5% (2011 est.)<br>
 3.1% (2007 est.)<br>
+
+**Real GDP per capita**<br>
+$139,100 (2009 est.)<br>
+$90,100 (2008 est.)<br>
+$91,300 (2007 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$6.672 billion (2014 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 -0.4% (2016 est.)<br>
@@ -323,29 +345,10 @@ _lyrics/music_: Jakob Joseph JAUCH/Josef FROMMELT<br>
 **Credit ratings**<br>
 _Standard & Poors rating_: AAA (1996)<br>
 
-**Real GDP (purchasing power parity)**<br>
-$4.978 billion (2014 est.)<br>
-$3.2 billion (2009 est.)<br>
-$3.216 billion (2008 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$6.672 billion (2014 est.)<br>
-
-**Real GDP per capita**<br>
-$139,100 (2009 est.)<br>
-$90,100 (2008 est.)<br>
-$91,300 (2007 est.)<br>
-
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7% (2014)<br>
 _industry_: 41% (2014)<br>
 _services_: 52% (2014)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 64.8 (2020)<br>
-_Starting a Business score_: 73 (2020)<br>
-_Trading score_: 96.1 (2020)<br>
-_Enforcement score_: 59.8 (2020)<br>
 
 **Agricultural products**<br>
 wheat, barley, corn, potatoes; livestock, dairy products<br>
@@ -380,11 +383,11 @@ _highest 10%_: NA<br>
 _revenues_: 995.3 million (2012 est.)<br>
 _expenditures_: 890.4 million (2011 est.)<br>
 
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2012 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2012 est.)<br>
+
+**Taxes and other revenues**<br>
+14.9% (of GDP) (2012 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

@@ -148,6 +148,9 @@ _female_: 82.51 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.62 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Current Health Expenditure**<br>
 9.9% (2016)<br>
 
@@ -162,6 +165,9 @@ note - see individual entries of member states<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.6% of GDP (2017)<br>
@@ -284,10 +290,25 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 **Economic overview**<br>
 <p>The 27 member states that make up the EU have adopted an internal single market with free movement of goods, services, capital, and labor. The EU, which is also a customs union, aims to bolster Europe's trade position and its political and economic weight in international affairs.</p> <p> </p> <p>Despite great differences in per capita income among member states (from $28,000 to $109,000) and in national attitudes toward issues like inflation, debt, and foreign trade, the EU has achieved a high degree of coordination of monetary and fiscal policies. A common currency – the euro – circulates among 19 of the member states that make up the European Economic and Monetary Union (EMU). Eleven member states introduced the euro as their common currency on 1 January 1999 (Greece did so two years later). Since 2004, 13 states acceded to the EU. Of the 13, Slovenia (2007), Cyprus and Malta (2008), Slovakia (2009), Estonia (2011), Latvia (2014), and Lithuania (2015) have adopted the euro; seven other member states - excluding Denmark, which has a formal opt-out - are required by EU treaties to adopt the common currency upon meeting fiscal and monetary convergence criteria.</p> <p> </p> <p>The EU economy posted moderate GDP growth for 2014 through 2017, capping five years of sustained growth since the 2008-09 global economic crisis and the ensuing sovereign debt crisis in the euro zone in 2011. However, the bloc’s recovery was uneven. Some EU member states (Czechia, Ireland, Malta, Romania, Sweden, and Spain) recorded strong growth, others (Italy) experienced modest expansion, and Greece finally ended its EU rescue program in August 2018. Overall, the EU’s recovery was buoyed by lower commodities prices and accommodative monetary policy, which lowered interest rates and stimulated demand. The euro zone, which makes up about 70% of the total EU economy, performed well, achieving a growth rate not seen in a decade. In October 2017 the European Central Bank (ECB) announced it would extend its bond-buying program through September 2018, and possibly beyond that date, to keep the euro zone recovery on track. The ECB’s efforts to spur more lending and investment through its asset-buying program, negative interest rates, and long-term loan refinancing programs have not yet raised inflation in line with the ECB’s statutory target of just under 2%.</p> <p> </p> <p>Despite its performance, high unemployment in some member states, high levels of public and private debt, muted productivity, an incomplete single market in services, and an aging population remain sources of potential drag on the EU’s future growth. Moreover, the EU economy remains vulnerable to a slowdown of global trade and bouts of political and financial turmoil. In June 2016, the UK voted to withdraw from the EU, the first member country ever to attempt to secede. Continued uncertainty about the implications of the UK’s exit from the EU (concluded January 2020) could hurt consumer and investor confidence and dampen EU growth, particularly if trade and cross-border investment significantly declines. Political disagreements between EU member states on reforms to fiscal and economic policy also may impair the EU’s ability to bolster its crisis-prevention and resolution mechanisms. International investors’ fears of a broad dissolution of the single currency area have largely dissipated, but these concerns could resurface if elected leaders implement policies that contravene euro-zone budget or banking rules. State interventions in ailing banks, including rescue of banks in Italy and resolution of banks in Spain, have eased financial vulnerabilities in the European banking sector even though some banks are struggling with low profitability and a large stock of bad loans, fragilities that could precipitate localized crises. Externally, the EU has continued to pursue comprehensive free trade agreements to expand EU external market share, particularly with Asian countries; EU and Japanese leaders reached a political-level agreement on a free trade agreement in July 2017, and agreement with Mexico in April 2018 on updates to an existing free trade agreement.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$19,885,625,000,000 (2019 est.)<br>
+$19,551,328,000,000 (2018 est.)<br>
+$19,115,988,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2.3% (2017 est.)<br>
 2% (2016 est.)<br>
 2.3% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$44,436 (2019 est.)<br>
+$43,761 (2018 est.)<br>
+$42,848 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$17.11 trillion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.1% (2019 est.)<br>
@@ -298,26 +319,6 @@ _lyrics/music_: no lyrics/Ludwig VAN BEETHOVEN, arranged by Herbert VON KARAJAN<
 _Fitch rating_: AAA (2010)<br>
 _Moody's rating_: Aaa (2014)<br>
 _Standard & Poors rating_: AA (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$19,885,625,000,000 (2019 est.)<br>
-$19,551,328,000,000 (2018 est.)<br>
-$19,115,988,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$17.11 trillion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$44,436 (2019 est.)<br>
-$43,761 (2018 est.)<br>
-$42,848 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22.7% of GDP (2017 est.)<br>
-22.2% of GDP (2016 est.)<br>
-22% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2017 est.)<br>
@@ -365,15 +366,15 @@ _services_: 73.1% (2014 est.)<br>
 _lowest 10%_: 2.8%<br>
 _highest 10%_: 23.8% (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-45.2% (of GDP) (2014)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2014)<br>
 
 **Public debt**<br>
 86.8% of GDP (2014)<br>
 85.5% of GDP (2013)<br>
+
+**Taxes and other revenues**<br>
+45.2% (of GDP) (2014)<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -553,8 +554,9 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 <p>the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:</p> <p>the <strong>Political and Security Committee (PSC)</strong>, which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response</p> <p>the <strong>European Union Military Committee (EUMC)</strong> is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU</p> <p>the <strong>Committee for Civilian Aspects of Crisis Management (CIVCOM) </strong>provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management</p> <p>the<strong> Politico-Military Group (PMG)</strong> provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation</p> <p>other bodies set up under the CSDP include; the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Military  Planning  and  Conduct  Capability (MPCC), the European Defense Agency, the European Security and Defense College (ESDC), the EU Institute for Security Studies, and the EU Satellite Center</p><br>
 
 **Military expenditures**<br>
+1.6% of GDP (2020 est.)<br>
 1.4% of GDP (2019)<br>
-1.36% of GDP (2018)<br>
+1.4% of GDP (2018)<br>
 1.35% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
 
@@ -562,7 +564,7 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea<br>
 
 **Military - note**<br>
-the EU partners with NATO<br><br>Eurocorps, which supports both the EU and NATO, was formally established in 1992 and activated the following year, began in 1987 as a French-German Brigade; Belgium (1993), Spain (1994), and Luxembourg (1996) joined over the next few years; five additional countries participate in Eurocorps as associated nations: Greece, Poland, and Turkey (since 2002), Italy and Romania (since 2009 and 2016 respectively); Eurocorps is headquartered in Strasbourg, France (2021)<br>
+the EU partners with NATO<br><br>Eurocorps, which supports both the EU and NATO, was formally established in 1992 and activated the following year; originated in 1987 with the French-German Brigade; Belgium (1993), Spain (1994), and Luxembourg (1996) joined over the next few years; five additional countries participate in Eurocorps as associated nations: Greece, Poland, and Turkey (since 2002), Italy and Romania (since 2009 and 2016 respectively); Eurocorps is headquartered in Strasbourg, France<br>
 
 ## Terrorism
 

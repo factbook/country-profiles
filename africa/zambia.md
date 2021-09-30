@@ -381,10 +381,25 @@ _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
 **Economic overview**<br>
 <p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p><p></p><p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$61.985 billion (2019 est.)<br>
+$61.104 billion (2018 est.)<br>
+$58.735 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3.4% (2017 est.)<br>
 3.8% (2016 est.)<br>
 2.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$3,470 (2019 est.)<br>
+$3,522 (2018 est.)<br>
+$3,485 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$25.71 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 9.1% (2019 est.)<br>
@@ -395,26 +410,6 @@ _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
 _Fitch rating_: RD (2020)<br>
 _Moody's rating_: Ca (2020)<br>
 _Standard & Poors rating_: SD (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$61.985 billion (2019 est.)<br>
-$61.104 billion (2018 est.)<br>
-$58.735 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$25.71 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$3,470 (2019 est.)<br>
-$3,522 (2018 est.)<br>
-$3,485 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-39.7% of GDP (2019 est.)<br>
-41.8% of GDP (2018 est.)<br>
-36.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.5% (2017 est.)<br>
@@ -428,12 +423,6 @@ _investment in fixed capital_: 27.1% (2017 est.)<br>
 _investment in inventories_: 1.2% (2017 est.)<br>
 _exports of goods and services_: 43% (2017 est.)<br>
 _imports of goods and services_: -44.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 66.9 (2020)<br>
-_Starting a Business score_: 84.9 (2020)<br>
-_Trading score_: 56.9 (2020)<br>
-_Enforcement score_: 50.8 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, cassava, maize, milk, vegetables, soybeans, beef, tobacco, wheat, groundnuts<br>
@@ -471,15 +460,15 @@ _highest 10%_: 47.4% (2010)<br>
 _revenues_: 4.473 billion (2017 est.)<br>
 _expenditures_: 6.357 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 63.1% of GDP (2017 est.)<br>
 60.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

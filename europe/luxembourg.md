@@ -157,6 +157,9 @@ _female_: 85.39 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.63 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 98.8% of population<br>
@@ -193,6 +196,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.6% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.6% of GDP (2017)<br>
@@ -356,10 +362,25 @@ _lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
 **Economic overview**<br>
 <p>This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region.</p><p></p><p>Since 2002, Luxembourg’s government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%.</p><p></p><p>Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world’s second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions.</p><p></p><p>Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the "LuxLeaks" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government’s compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg’s sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$70.966 billion (2019 est.)<br>
+$69.373 billion (2018 est.)<br>
+$67.28 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.31% (2019 est.)<br>
 3.14% (2018 est.)<br>
 1.81% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$114,482 (2019 est.)<br>
+$114,110 (2018 est.)<br>
+$112,823 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$71.089 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.7% (2019 est.)<br>
@@ -370,26 +391,6 @@ _lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
 _Fitch rating_: AAA (1994)<br>
 _Moody's rating_: Aaa (1989)<br>
 _Standard & Poors rating_: AAA (1994)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$70.966 billion (2019 est.)<br>
-$69.373 billion (2018 est.)<br>
-$67.28 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$71.089 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$114,482 (2019 est.)<br>
-$114,110 (2018 est.)<br>
-$112,823 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-16.7% of GDP (2019 est.)<br>
-17.4% of GDP (2018 est.)<br>
-17.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.3% (2017 est.)<br>
@@ -403,12 +404,6 @@ _investment in fixed capital_: 16.2% (2017 est.)<br>
 _investment in inventories_: 1.1% (2017 est.)<br>
 _exports of goods and services_: 230% (2017 est.)<br>
 _imports of goods and services_: -194% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69.6 (2020)<br>
-_Starting a Business score_: 88.8 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 73.3 (2020)<br>
 
 **Agricultural products**<br>
 milk, wheat, barley, triticale, potatoes, pork, beef, grapes, rapeseed, oats<br>
@@ -447,9 +442,6 @@ _highest 10%_: 23.8% (2000)<br>
 _revenues_: 27.75 billion (2017 est.)<br>
 _expenditures_: 26.8 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-44.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.5% (of GDP) (2017 est.)<br>
 
@@ -457,6 +449,9 @@ _expenditures_: 26.8 billion (2017 est.)<br>
 23% of GDP (2017 est.)<br>
 20.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+44.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

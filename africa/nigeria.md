@@ -392,10 +392,25 @@ _lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI 
 **Economic overview**<br>
 <p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p><p></p><p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p><p></p><p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and "ghost workers." The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p><p></p><p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,032,048,000,000 (2019 est.)<br>
+$1,009,748,000,000 (2018 est.)<br>
+$990.7 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 0.8% (2017 est.)<br>
 -1.6% (2016 est.)<br>
 2.7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,136 (2019 est.)<br>
+$5,155 (2018 est.)<br>
+$5,190 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$475.062 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 11.3% (2019 est.)<br>
@@ -406,26 +421,6 @@ _lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI 
 _Fitch rating_: B (2020)<br>
 _Moody's rating_: B2 (2017)<br>
 _Standard & Poors rating_: B- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,032,048,000,000 (2019 est.)<br>
-$1,009,748,000,000 (2018 est.)<br>
-$990.7 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$475.062 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$5,136 (2019 est.)<br>
-$5,155 (2018 est.)<br>
-$5,190 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-23.2% of GDP (2019 est.)<br>
-19.3% of GDP (2018 est.)<br>
-18.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 21.1% (2016 est.)<br>
@@ -439,12 +434,6 @@ _investment in fixed capital_: 14.8% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 11.9% (2017 est.)<br>
 _imports of goods and services_: -13.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 56.9 (2020)<br>
-_Starting a Business score_: 86.2 (2020)<br>
-_Trading score_: 29.2 (2020)<br>
-_Enforcement score_: 61.5 (2020)<br>
 
 **Agricultural products**<br>
 cassava, yams, maize, oil palm fruit, rice, vegetables, sorghum, groundnuts, fruit, sweet potatoes<br>
@@ -482,15 +471,15 @@ _highest 10%_: 38.2% (2010 est.)<br>
 _revenues_: 12.92 billion (2017 est.)<br>
 _expenditures_: 19.54 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-3.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 21.8% of GDP (2017 est.)<br>
 19.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+3.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

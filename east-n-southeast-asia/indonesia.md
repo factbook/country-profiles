@@ -392,10 +392,25 @@ _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 **Economic overview**<br>
 <p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p><p></p><p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3,196,682,000,000 (2019 est.)<br>
+$3,043,743,000,000 (2018 est.)<br>
+$2,894,125,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5.03% (2019 est.)<br>
 5.17% (2018 est.)<br>
 5.07% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$11,812 (2019 est.)<br>
+$11,372 (2018 est.)<br>
+$10,936 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,119,720,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.8% (2019 est.)<br>
@@ -406,26 +421,6 @@ _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 _Fitch rating_: BBB (2017)<br>
 _Moody's rating_: Baa2 (2018)<br>
 _Standard & Poors rating_: BBB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3,196,682,000,000 (2019 est.)<br>
-$3,043,743,000,000 (2018 est.)<br>
-$2,894,125,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,119,720,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$11,812 (2019 est.)<br>
-$11,372 (2018 est.)<br>
-$10,936 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-31% of GDP (2019 est.)<br>
-31.8% of GDP (2018 est.)<br>
-30.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.7% (2017 est.)<br>
@@ -439,12 +434,6 @@ _investment in fixed capital_: 32.1% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 20.4% (2017 est.)<br>
 _imports of goods and services_: -19.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69.6 (2020)<br>
-_Starting a Business score_: 81.2 (2020)<br>
-_Trading score_: 67.5 (2020)<br>
-_Enforcement score_: 49.1 (2020)<br>
 
 **Agricultural products**<br>
 oil palm fruit, rice, maize, sugar cane, coconuts, cassava, bananas, eggs, poultry, rubber<br>
@@ -482,15 +471,15 @@ _highest 10%_: 28.2% (2010)<br>
 _revenues_: 131.7 billion (2017 est.)<br>
 _expenditures_: 159.6 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-13% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 28.8% of GDP (2017 est.)<br>
 28.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+13% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -703,7 +692,7 @@ Indonesian National Armed Forces (Tentara Nasional Indonesia, TNI): Army (TNI-An
 note(s):&nbsp; the Indonesian National Police includes a paramilitary Mobile Brigade Corps (BRIMOB); following the Bali terror bombing in 2002, the National Police formed a special counter-terrorism force called Detachment 88 (Densus or Detasemen Khusus 88 Antiteror)<br>
 
 **Military expenditures**<br>
-0.7% of GDP (2020 est.)<br>
+0.8% of GDP (2020 est.)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.9% of GDP (2017)<br>

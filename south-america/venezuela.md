@@ -192,6 +192,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 **Obesity - adult prevalence rate**<br>
 25.6% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -356,9 +359,22 @@ _lyrics/music_: Vicente SALIAS/Juan Jose LANDAETA<br>
 **Economic overview**<br>
 <p>Venezuela remains highly dependent on oil revenues, which account for almost all export earnings and nearly half of the government’s revenue, despite a continued decline in oil production in 2017. In the absence of official statistics, foreign experts estimate that GDP contracted 12% in 2017, inflation exceeded 2000%, people faced widespread shortages of consumer goods and medicine, and the central bank's international reserves dwindled. In late 2017, Venezuela also entered selective default on some of its sovereign and state oil company, Petroleos de Venezuela, S.A., (PDVSA) bonds. Domestic production and industry continues to severely underperform and the Venezuelan Government continues to rely on imports to meet its basic food and consumer goods needs.</p><p></p><p>Falling oil prices since 2014 have aggravated Venezuela’s economic crisis. Insufficient access to dollars, price controls, and rigid labor regulations have led some US and multinational firms to reduce or shut down their Venezuelan operations. Market uncertainty and PDVSA’s poor cash flow have slowed investment in the petroleum sector, resulting in a decline in oil production.</p><p></p><p>Under President Nicolas MADURO, the Venezuelan Government’s response to the economic crisis has been to increase state control over the economy and blame the private sector for shortages. MADURO has given authority for the production and distribution of basic goods to the military and to local socialist party member committees. The Venezuelan Government has maintained strict currency controls since 2003. The government has been unable to sustain its mechanisms for distributing dollars to the private sector, in part because it needed to withhold some foreign exchange reserves to make its foreign bond payments. As a result of price and currency controls, local industries have struggled to purchase production inputs necessary to maintain their operations or sell goods at a profit on the local market. Expansionary monetary policies and currency controls have created opportunities for arbitrage and corruption and fueled a rapid increase in black market activity.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$269.068 billion (2018 est.)<br>
+$334.751 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 -19.67% (2018 est.)<br>
 -15.76% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$7,704 (2018 est.)<br>
+$9,417 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$210.1 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 146,101.7% (2019 est.)<br>
@@ -369,24 +385,6 @@ _lyrics/music_: Vicente SALIAS/Juan Jose LANDAETA<br>
 _Fitch rating_: RD (2017)<br>
 _Moody's rating_: WR (2019)<br>
 _Standard & Poors rating_: SD (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$269.068 billion (2018 est.)<br>
-$334.751 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$210.1 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$7,704 (2018 est.)<br>
-$9,417 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-12.1% of GDP (2017 est.)<br>
-8.6% of GDP (2016 est.)<br>
-31.8% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.7% (2017 est.)<br>
@@ -400,12 +398,6 @@ _investment in fixed capital_: 13.9% (2017 est.)<br>
 _investment in inventories_: 1.7% (2017 est.)<br>
 _exports of goods and services_: 7% (2017 est.)<br>
 _imports of goods and services_: -10.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 30.2 (2020)<br>
-_Starting a Business score_: 25 (2020)<br>
-_Trading score_: 0 (2020)<br>
-_Enforcement score_: 46.9 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, milk, rice, plantains, bananas, pineapples, potatoes, beef, poultry<br>
@@ -443,9 +435,6 @@ _highest 10%_: 32.7% (2006)<br>
 _revenues_: 92.8 billion (2017 est.)<br>
 _expenditures_: 189.7 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-44.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -46.1% (of GDP) (2017 est.)<br>
 
@@ -453,6 +442,9 @@ _expenditures_: 189.7 billion (2017 est.)<br>
 38.9% of GDP (2017 est.)<br>
 31.3% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt, as well as the debt of state-owned oil company PDVSA; the data include treasury debt held by foreign entities; the data include some debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; some debt instruments for the social funds are sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+44.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

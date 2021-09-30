@@ -369,24 +369,16 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 **Economic overview**<br>
 <p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p><p></p><p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p><p></p><p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
 
-**Real GDP growth rate**<br>
--3.2% (2017 est.)<br>
--8.6% (2016 est.)<br>
--9.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.2% (2019 est.)<br>
-1.3% (2018 est.)<br>
-0.7% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $25.164 billion (2019 est.)<br>
 $26.65 billion (2018 est.)<br>
 $28.459 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$10.634 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+-3.2% (2017 est.)<br>
+-8.6% (2016 est.)<br>
+-9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $18,558 (2019 est.)<br>
@@ -394,10 +386,13 @@ $20,360 (2018 est.)<br>
 $22,551 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-6.1% of GDP (2017 est.)<br>
-3.6% of GDP (2016 est.)<br>
-8.5% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$10.634 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.2% (2019 est.)<br>
+1.3% (2018 est.)<br>
+0.7% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.5% (2017 est.)<br>
@@ -411,12 +406,6 @@ _investment in fixed capital_: 10.2% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 56.9% (2017 est.)<br>
 _imports of goods and services_: -39% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 41.1 (2020)<br>
-_Starting a Business score_: 61 (2020)<br>
-_Trading score_: 32 (2020)<br>
-_Enforcement score_: 56.2 (2020)<br>
 
 **Agricultural products**<br>
 sweet potatoes, cassava, roots/tubers nes, plantains, oil palm fruit, bananas, coconuts, coffee, cocoa, eggs<br>
@@ -445,15 +434,15 @@ _highest 10%_: NA<br>
 _revenues_: 2.114 billion (2017 est.)<br>
 _expenditures_: 2.523 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 37.4% of GDP (2017 est.)<br>
 43.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+16.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -648,10 +637,11 @@ _LNG terminal(s) (export)_: Bioko Island<br>
 Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army), Navy, Air Force; Guardia Civil (paramilitary force for internal security) (2021)<br>
 
 **Military expenditures**<br>
-1.1% of GDP (2018)<br>
-1.1% of GDP (2017)<br>
-1.2% of GDP (2016)<br>
-1% of GDP (2015)<br>
+1.3% of GDP (2019 est.)<br>
+1.1% of GDP (2018 est.)<br>
+1.1% of GDP (2017 est.)<br>
+1.2% of GDP (2016 est.)<br>
+1% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
 the<strong> </strong>Equatorial Guinea Armed Forces (FAGE) have approximately 1,400 active duty troops; approximately 400 Guardia Civil (2021)<br>

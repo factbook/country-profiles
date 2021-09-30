@@ -374,23 +374,16 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 **Economic overview**<br>
 <p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p><p></p><p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p><p></p><p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
 
-**Real GDP growth rate**<br>
-6.7% (2017 est.)<br>
-6.5% (2016 est.)<br>
-6.5% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.7% (2017 est.)<br>
-2.7% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $5.388 billion (2019 est.)<br>
 $4.999 billion (2018 est.)<br>
 $4.612 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$3.323 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+6.7% (2017 est.)<br>
+6.5% (2016 est.)<br>
+6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $5,535 (2019 est.)<br>
@@ -398,10 +391,12 @@ $5,214 (2018 est.)<br>
 $4,885 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-25.6% of GDP (2018 est.)<br>
-25.6% of GDP (2017 est.)<br>
-19% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$3.323 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.7% (2017 est.)<br>
+2.7% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -415,12 +410,6 @@ _investment in fixed capital_: 41.8% (2017 est.)<br>
 _investment in inventories_: 0.3% (2017 est.)<br>
 _exports of goods and services_: 38.6% (2017 est.)<br>
 _imports of goods and services_: -66.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.5 (2020)<br>
-_Starting a Business score_: 84.3 (2020)<br>
-_Trading score_: 59.4 (2020)<br>
-_Enforcement score_: 48.4 (2020)<br>
 
 **Agricultural products**<br>
 vegetables, milk, beef, camel milk, lemons, limes, goat meat, mutton, beans, tomatoes<br>
@@ -457,15 +446,15 @@ _highest 10%_: 30.9% (2002)<br>
 _revenues_: 717 million (2017 est.)<br>
 _expenditures_: 899.2 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-35.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 31.8% of GDP (2017 est.)<br>
 33.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+35.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

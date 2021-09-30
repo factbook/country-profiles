@@ -157,6 +157,9 @@ _female_: 83.9 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.93 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 97% of population<br>
 _improved: rural_: rural: 98.1% of population<br>
@@ -195,6 +198,9 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 25.3% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.5% of GDP (2017)<br>
@@ -360,10 +366,25 @@ _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and
 **Economic overview**<br>
 <p>Ireland is a small, modern, trade-dependent economy. It was among the initial group of 12 EU nations that began circulating the euro on 1 January 2002. GDP growth averaged 6% in 1995-2007, but economic activity dropped sharply during the world financial crisis and the subsequent collapse of its domestic property market and construction industry during 2008-11. Faced with sharply reduced revenues and a burgeoning budget deficit from efforts to stabilize its fragile banking sector, the Irish Government introduced the first in a series of draconian budgets in 2009. These measures were not sufficient to stabilize Ireland’s public finances. In 2010, the budget deficit reached 32.4% of GDP - the world's largest deficit, as a percentage of GDP. In late 2010, the former COWEN government agreed to a $92 billion loan package from the EU and IMF to help Dublin recapitalize Ireland’s banking sector and avoid defaulting on its sovereign debt. In March 2011, the KENNY government intensified austerity measures to meet the deficit targets under Ireland's EU-IMF bailout program.</p><p></p><p>In late 2013, Ireland formally exited its EU-IMF bailout program, benefiting from its strict adherence to deficit-reduction targets and success in refinancing a large amount of banking-related debt. In 2014, the economy rapidly picked up. In late 2014, the government introduced a fiscally neutral budget, marking the end of the austerity program. Continued growth of tax receipts has allowed the government to lower some taxes and increase public spending while keeping to its deficit-reduction targets. In 2015, GDP growth exceeded 26%. The magnitude of the increase reflected one-off statistical revisions, multinational corporate restructurings in intellectual property, and the aircraft leasing sector, rather than real gains in the domestic economy, which was still growing. Growth moderated to around 4.1% in 2017, but the recovering economy assisted lowering the deficit to 0.6% of GDP.</p><p></p><p>In the wake of the collapse of the construction sector and the downturn in consumer spending and business investment during the 2008-11 economic crisis, the export sector, dominated by foreign multinationals, has become an even more important component of Ireland's economy. Ireland’s low corporation tax of 12.5% and a talented pool of high-tech laborers have been some of the key factors in encouraging business investment. Loose tax residency requirements made Ireland a common destination for international firms seeking to pay less tax or, in the case of U.S. multinationals, defer taxation owed to the United States. In 2014, amid growing international pressure, the Irish government announced it would phase in more stringent tax laws, effectively closing a commonly used loophole. The Irish economy continued to grow in 2017 and is forecast to do so through 2019, supported by a strong export sector, robust job growth, and low inflation, to the point that the Government must now address concerns about overheating and potential loss of competitiveness. The greatest risks to the economy are the UK’s scheduled departure from the European Union ("Brexit") in March 2019, possible changes to international taxation policies that could affect Ireland’s revenues, and global trade pressures.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$428.825 billion (2019 est.)<br>
+$406.277 billion (2018 est.)<br>
+$375.592 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5.86% (2019 est.)<br>
 9.42% (2018 est.)<br>
 9.49% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$86,781 (2019 est.)<br>
+$83,471 (2018 est.)<br>
+$78,128 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$398.476 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.9% (2019 est.)<br>
@@ -374,26 +395,6 @@ _lyrics/music_: Peadar KEARNEY [English], Liam O RINN [Irish]/Patrick HEENEY and
 _Fitch rating_: A+ (2017)<br>
 _Moody's rating_: A2 (2017)<br>
 _Standard & Poors rating_: AA- (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$428.825 billion (2019 est.)<br>
-$406.277 billion (2018 est.)<br>
-$375.592 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$398.476 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$86,781 (2019 est.)<br>
-$83,471 (2018 est.)<br>
-$78,128 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-35.9% of GDP (2019 est.)<br>
-34.4% of GDP (2018 est.)<br>
-34.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -407,12 +408,6 @@ _investment in fixed capital_: 23.4% (2017 est.)<br>
 _investment in inventories_: 1.2% (2017 est.)<br>
 _exports of goods and services_: 119.9% (2017 est.)<br>
 _imports of goods and services_: -89.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 79.6 (2020)<br>
-_Starting a Business score_: 94.4 (2020)<br>
-_Trading score_: 87.2 (2020)<br>
-_Enforcement score_: 57.9 (2020)<br>
 
 **Agricultural products**<br>
 milk, barley, beef, wheat, potatoes, pork, oats, poultry, mushrooms/truffles, mutton<br>
@@ -450,9 +445,6 @@ _highest 10%_: 27.2% (2000)<br>
 _revenues_: 86.04 billion (2017 est.)<br>
 _expenditures_: 87.19 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
 
@@ -460,6 +452,9 @@ _expenditures_: 87.19 billion (2017 est.)<br>
 68.6% of GDP (2017 est.)<br>
 73.6% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+26% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

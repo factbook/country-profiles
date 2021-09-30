@@ -379,10 +379,25 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 **Economic overview**<br>
 <p>Turkey's largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey's export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.</p><p></p><p>Current government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.</p><p></p><p>Turkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey's sources of imported gas.</p><p></p><p>After Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country's economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey's well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.</p><p></p><p>The growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$2,371,374,000,000 (2019 est.)<br>
+$2,349,836,000,000 (2018 est.)<br>
+$2,282,304,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.98% (2019 est.)<br>
 3.04% (2018 est.)<br>
 7.54% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$28,424 (2019 est.)<br>
+$28,545 (2018 est.)<br>
+$28,141 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$760.028 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 15.4% (2019 est.)<br>
@@ -393,26 +408,6 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 _Fitch rating_: BB- (2019)<br>
 _Moody's rating_: B2 (2020)<br>
 _Standard & Poors rating_: B+ (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$2,371,374,000,000 (2019 est.)<br>
-$2,349,836,000,000 (2018 est.)<br>
-$2,282,304,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$760.028 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$28,424 (2019 est.)<br>
-$28,545 (2018 est.)<br>
-$28,141 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26% of GDP (2019 est.)<br>
-27.7% of GDP (2018 est.)<br>
-26% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.8% (2017 est.)<br>
@@ -426,12 +421,6 @@ _investment in fixed capital_: 29.8% (2017 est.)<br>
 _investment in inventories_: 1.1% (2017 est.)<br>
 _exports of goods and services_: 24.9% (2017 est.)<br>
 _imports of goods and services_: -29.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.8 (2020)<br>
-_Starting a Business score_: 88.8 (2020)<br>
-_Trading score_: 91.6 (2020)<br>
-_Enforcement score_: 71.4 (2020)<br>
 
 **Agricultural products**<br>
 milk, wheat, sugar beet, tomatoes, barley, maize, potatoes, grapes, watermelons, apples<br>
@@ -470,15 +459,15 @@ _highest 10%_: 30.3% (2008)<br>
 _revenues_: 172.8 billion (2017 est.)<br>
 _expenditures_: 185.8 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 28.3% of GDP (2017 est.)<br>
 28.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -705,7 +694,7 @@ est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzego
 note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br>
 
 **Military - note**<br>
-the ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the "Force 2014" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities including in Afghanistan; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in July 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense<br>
+the ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the "Force 2014" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in July 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br>
 
 **Military service age and obligation**<br>
 President Erdoğan on 25 June 2019 signed a new law cutting the men&rsquo;s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras (2019)<br>
@@ -722,7 +711,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,710,497 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
+_refugees (country of origin)_: 3,713,344 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

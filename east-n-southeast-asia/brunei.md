@@ -154,6 +154,9 @@ _female_: 80.63 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.75 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -178,6 +181,9 @@ NA<br>
 
 **Obesity - adult prevalence rate**<br>
 14.1% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.4% of GDP (2016)<br>
@@ -344,23 +350,16 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 **Economic overview**<br>
 <p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p><p></p><p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p><p></p><p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
 
-**Real GDP growth rate**<br>
-1.3% (2017 est.)<br>
--2.5% (2016 est.)<br>
--0.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
--0.2% (2017 est.)<br>
--0.7% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $26.906 billion (2019 est.)<br>
 $25.904 billion (2018 est.)<br>
 $25.891 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$12.13 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+1.3% (2017 est.)<br>
+-2.5% (2016 est.)<br>
+-0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $62,100 (2019 est.)<br>
@@ -368,10 +367,12 @@ $60,389 (2018 est.)<br>
 $60,996 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-53.6% of GDP (2019 est.)<br>
-53.2% of GDP (2018 est.)<br>
-55.3% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$12.13 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+-0.2% (2017 est.)<br>
+-0.7% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.2% (2017 est.)<br>
@@ -385,12 +386,6 @@ _investment in fixed capital_: 32.6% (2017 est.)<br>
 _investment in inventories_: 8.5% (2017 est.)<br>
 _exports of goods and services_: 45.9% (2017 est.)<br>
 _imports of goods and services_: -36.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 70.1 (2020)<br>
-_Starting a Business score_: 94.9 (2020)<br>
-_Trading score_: 58.7 (2020)<br>
-_Enforcement score_: 62.8 (2020)<br>
 
 **Agricultural products**<br>
 poultry, eggs, fruit, cassava, bananas, legumes, cucumbers, rice, pineapples, beef<br>
@@ -424,15 +419,15 @@ _highest 10%_: NA<br>
 _revenues_: 2.245 billion (2017 est.)<br>
 _expenditures_: 4.345 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -17.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 2.8% of GDP (2017 est.)<br>
 3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -626,11 +621,11 @@ _LNG terminal(s) (export)_: Lumut<br>
 Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2020)<br>
 
 **Military expenditures**<br>
+3.7% of GDP (2020 est.)<br>
 3.3% of GDP (2019)<br>
 2.6% of GDP (2018)<br>
 2.9% of GDP (2017)<br>
 3.5% of GDP (2016)<br>
-3.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Brunei Armed Forces is comprised of approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2020)<br>

@@ -168,6 +168,9 @@ _unimproved: urban_: urban: 2.8% of population<br>
 _unimproved: rural_: rural: 9.8% of population<br>
 _unimproved: total_: total: 5.5% of population (2017 est.)<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **Physicians density**<br>
 3.68 physicians/1,000 population (2017)<br>
 
@@ -346,22 +349,16 @@ _lyrics/music_: PAK Se Yong/KIM Won Gyun<br>
 **Economic overview**<br>
 <p>North Korea, one of the world's most centrally directed and least open economies, faces chronic economic problems. Industrial capital stock is nearly beyond repair as a result of decades of mismanagement, underinvestment, shortages of spare parts, and poor maintenance. Corruption and resource misallocation, including show projects, large-scale military spending, and development of its ballistic missile and nuclear programs, severely draws off resources needed for investment and civilian consumption. Industrial and power outputs have stagnated for years at a fraction of pre-1990 levels. Frequent weather-related crop failures aggravated chronic food shortages caused by on-going systemic problems, including a lack of arable land, collective farming practices, poor soil quality, insufficient fertilization, and persistent shortages of tractors and fuel.</p> <p> </p> <p>The mid 1990s through mid-2000s were marked by severe famine and widespread starvation. Significant food aid was provided by the international community through 2009. Since that time, food assistance has declined significantly. In the last few years, domestic corn and rice production has improved, although domestic production does not fully satisfy demand. A large portion of the population continues to suffer from prolonged malnutrition and poor living conditions. Since 2002, the government has allowed semi-private markets to begin selling a wider range of goods, allowing North Koreans to partially make up for diminished public distribution system rations. It also implemented changes in the management process of communal farms in an effort to boost agricultural output.</p> <p> </p> <p>In December 2009, North Korea carried out a redenomination of its currency, capping the amount of North Korean won that could be exchanged for the new notes, and limiting the exchange to a one-week window. A concurrent crackdown on markets and foreign currency use yielded severe shortages and inflation, forcing Pyongyang to ease the restrictions by February 2010. In response to the sinking of the South Korean warship Cheonan and the shelling of Yeonpyeong Island in 2010, South Korea’s government cut off most aid, trade, and bilateral cooperation activities. In February 2016, South Korea ceased its remaining bilateral economic activity by closing the Kaesong Industrial Complex in response to North Korea’s fourth nuclear test a month earlier. This nuclear test and another in September 2016 resulted in two United Nations Security Council Resolutions that targeted North Korea’s foreign currency earnings, particularly coal and other mineral exports. Throughout 2017, North Korea’s continued nuclear and missile tests led to a tightening of UN sanctions, resulting in full sectoral bans on DPRK exports and drastically limited key imports. Over the last decade, China has been North Korea’s primary trading partner.</p> <p> </p> <p>The North Korean Government continues to stress its goal of improving the overall standard of living, but has taken few steps to make that goal a reality for its populace. In 2016, the regime used two mass mobilizations — one totaling 70 days and another 200 days — to spur the population to increase production and complete construction projects quickly. The regime released a five-year economic development strategy in May 2016 that outlined plans for promoting growth across sectors. Firm political control remains the government’s overriding concern, which likely will inhibit formal changes to North Korea’s current economic system.</p><br>
 
-**Real GDP growth rate**<br>
--1.1% (2015 est.)<br>
-1% (2014 est.)<br>
-1.1% (2013 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-<p>NA</p><br>
-
 **Real GDP (purchasing power parity)**<br>
 $40 billion (2015 est.)<br>
 $40 billion (2014 est.)<br>
 $40 billion (2013 est.)<br>
 <strong>note: </strong>data are in 2015 US dollars<br>North Korea does not publish reliable National Income Accounts data; the data shown are derived from purchasing power parity (PPP) GDP estimates that were made by Angus MADDISON in a study conducted for the OECD; his figure for 1999 was extrapolated to 2015 using estimated real growth rates for North Korea's GDP and an inflation factor based on the US GDP deflator; the results were rounded to the nearest $10 billion.<br>
 
-**GDP (official exchange rate)**<br>
-$28 billion (2013 est.)<br>
+**Real GDP growth rate**<br>
+-1.1% (2015 est.)<br>
+1% (2014 est.)<br>
+1.1% (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $1,700 (2015 est.)<br>
@@ -369,7 +366,10 @@ $1,800 (2014 est.)<br>
 $1,800 (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
-**Gross national saving**<br>
+**GDP (official exchange rate)**<br>
+$28 billion (2013 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
 <p>NA</p><br>
 
 **GDP - composition, by sector of origin**<br>
@@ -417,12 +417,12 @@ _highest 10%_: NA<br>
 _revenues_: 3.2 billion (2007 est.)<br>
 _expenditures_: 3.3 billion (2007 est.)<br>
 
+**Budget surplus (+) or deficit (-)**<br>
+-0.4% (of GDP) (2007 est.)<br>
+
 **Taxes and other revenues**<br>
 11.4% (of GDP) (2007 est.)<br>
 <strong>note:</strong> excludes earnings from state-operated enterprises<br>
-
-**Budget surplus (+) or deficit (-)**<br>
--0.4% (of GDP) (2007 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

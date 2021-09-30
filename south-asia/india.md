@@ -393,10 +393,25 @@ _lyrics/music_: Rabindranath TAGORE<br>
 **Economic overview**<br>
 <p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p><p></p><p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p><p></p><p>The economy slowed again in 2017, due to shocks of "demonetizaton" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p><p></p><p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$9,155,083,000,000 (2019 est.)<br>
+$8,787,694,000,000 (2018 est.)<br>
+$8,280,935,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.86% (2019 est.)<br>
 6.78% (2018 est.)<br>
 6.55% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$6,700 (2019 est.)<br>
+$6,497 (2018 est.)<br>
+$6,186 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$2,835,927,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.7% (2019 est.)<br>
@@ -407,26 +422,6 @@ _lyrics/music_: Rabindranath TAGORE<br>
 _Fitch rating_: BBB- (2006)<br>
 _Moody's rating_: Baa3 (2020)<br>
 _Standard & Poors rating_: BBB- (2007)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$9,155,083,000,000 (2019 est.)<br>
-$8,787,694,000,000 (2018 est.)<br>
-$8,280,935,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2,835,927,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$6,700 (2019 est.)<br>
-$6,497 (2018 est.)<br>
-$6,186 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-29.1% of GDP (2019 est.)<br>
-31.1% of GDP (2018 est.)<br>
-31.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 15.4% (2016 est.)<br>
@@ -440,12 +435,6 @@ _investment in fixed capital_: 28.5% (2017 est.)<br>
 _investment in inventories_: 3.9% (2017 est.)<br>
 _exports of goods and services_: 19.1% (2017 est.)<br>
 _imports of goods and services_: -22% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 71 (2020)<br>
-_Starting a Business score_: 81.6 (2020)<br>
-_Trading score_: 82.5 (2020)<br>
-_Enforcement score_: 41.2 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, rice, wheat, buffalo milk, milk, potatoes, vegetables, bananas, maize, mangoes/guavas<br>
@@ -483,9 +472,6 @@ _highest 10%_: 29.8% (2011)<br>
 _revenues_: 238.2 billion (2017 est.)<br>
 _expenditures_: 329 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-9.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.5% (of GDP) (2017 est.)<br>
 
@@ -493,6 +479,9 @@ _expenditures_: 329 billion (2017 est.)<br>
 71.2% of GDP (2017 est.)<br>
 69.5% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt, and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+9.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

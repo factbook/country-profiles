@@ -387,24 +387,16 @@ _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
 **Economic overview**<br>
 <p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p><p></p><p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p><p></p><p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
 
-**Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-0.7% (2016 est.)<br>
-1.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-241.7% (2019 est.)<br>
-10.6% (2018 est.)<br>
-0.9% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $41.533 billion (2019 est.)<br>
 $45.194 billion (2018 est.)<br>
 $43.112 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$21.441 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+3.7% (2017 est.)<br>
+0.7% (2016 est.)<br>
+1.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,836 (2019 est.)<br>
@@ -412,10 +404,13 @@ $3,130 (2018 est.)<br>
 $3,028 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
--2.2% of GDP (2017 est.)<br>
-19.1% of GDP (2016 est.)<br>
-8% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$21.441 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+241.7% (2019 est.)<br>
+10.6% (2018 est.)<br>
+0.9% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12% (2017 est.)<br>
@@ -429,12 +424,6 @@ _investment in fixed capital_: 12.6% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 25.6% (2017 est.)<br>
 _imports of goods and services_: -39.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 54.5 (2020)<br>
-_Starting a Business score_: 72 (2020)<br>
-_Trading score_: 54.3 (2020)<br>
-_Enforcement score_: 39.7 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, milk, tobacco, cassava, vegetables, bananas, beef, cotton, oranges<br>
@@ -473,15 +462,15 @@ _highest 10%_: 40.4% (1995)<br>
 _revenues_: 3.8 billion (2017 est.)<br>
 _expenditures_: 5.5 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -9.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 82.3% of GDP (2017 est.)<br>
 69.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

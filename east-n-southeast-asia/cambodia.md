@@ -383,10 +383,25 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 **Economic overview**<br>
 <p>Cambodia has experienced strong economic growth over the last decade; GDP grew at an average annual rate of over 8% between 2000 and 2010 and about 7% since 2011. The tourism, garment, construction and real estate, and agriculture sectors accounted for the bulk of growth. Around 700,000 people, the majority of whom are women, are employed in the garment and footwear sector. An additional 500,000 Cambodians are employed in the tourism sector, and a further 200,000 people in construction. Tourism has continued to grow rapidly with foreign arrivals exceeding 2 million per year in 2007 and reaching 5.6 million visitors in 2017. Mining also is attracting some investor interest and the government has touted opportunities for mining bauxite, gold, iron and gems.</p> <p> </p> <p>Still, Cambodia remains one of the poorest countries in Asia, and long-term economic development remains a daunting challenge, inhibited by corruption, limited human resources, high income inequality, and poor job prospects. According to the Asian Development Bank (ADB), the percentage of the population living in poverty decreased to 13.5% in 2016. More than 50% of the population is less than 25 years old. The population lacks education and productive skills, particularly in the impoverished countryside, which also lacks basic infrastructure.</p> <p> </p> <p>The World Bank in 2016 formally reclassified Cambodia as a lower middle-income country as a result of continued rapid economic growth over the past several years. Cambodia’s graduation from a low-income country will reduce its eligibility for foreign assistance and will challenge the government to seek new sources of financing. The Cambodian Government has been working with bilateral and multilateral donors, including the Asian Development Bank, the World Bank and IMF, to address the country's many pressing needs; more than 20% of the government budget will come from donor assistance in 2018. A major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance.</p> <p> </p> <p>Textile exports, which accounted for 68% of total exports in 2017, have driven much of Cambodia’s growth over the past several years. The textile sector relies on exports to the United States and European Union, and Cambodia’s dependence on its comparative advantage in textile production is a key vulnerability for the economy, especially because Cambodia has continued to run a current account deficit above 9% of GDP since 2014.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$72.356 billion (2019 est.)<br>
+$67.588 billion (2018 est.)<br>
+$62.89 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 6.9% (2017 est.)<br>
 7% (2016 est.)<br>
 7% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$4,389 (2019 est.)<br>
+$4,159 (2018 est.)<br>
+$3,928 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$22.09 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.9% (2017 est.)<br>
@@ -395,26 +410,6 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 **Credit ratings**<br>
 _Moody's rating_: B2 (2007)<br>
 _Standard & Poors rating_: N/A (2014)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$72.356 billion (2019 est.)<br>
-$67.588 billion (2018 est.)<br>
-$62.89 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$22.09 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$4,389 (2019 est.)<br>
-$4,159 (2018 est.)<br>
-$3,928 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-27.2% of GDP (2019 est.)<br>
-25.4% of GDP (2018 est.)<br>
-23.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 25.3% (2017 est.)<br>
@@ -428,12 +423,6 @@ _investment in fixed capital_: 21.8% (2017 est.)<br>
 _investment in inventories_: 1.2% (2017 est.)<br>
 _exports of goods and services_: 68.6% (2017 est.)<br>
 _imports of goods and services_: -73% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 53.8 (2020)<br>
-_Starting a Business score_: 52.4 (2020)<br>
-_Trading score_: 67.3 (2020)<br>
-_Enforcement score_: 31.7 (2020)<br>
 
 **Agricultural products**<br>
 cassava, rice, maize, vegetables, sugar cane, soybeans, rubber, oil palm fruit, bananas, pork<br>
@@ -472,15 +461,15 @@ _highest 10%_: 28% (2013 est.)<br>
 _revenues_: 3.947 billion (2017 est.)<br>
 _expenditures_: 4.354 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 30.4% of GDP (2017 est.)<br>
 29.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -684,11 +673,11 @@ _river port(s)_: Phnom Penh (Mekong)<br>
 Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2020)<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2020 est.)<br>
 2.3% of GDP (2019 est.)<br>
 2.2% of GDP (2018)<br>
 2.1% of GDP (2017)<br>
 2% of GDP (2016)<br>
-1.8% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2020)<br>

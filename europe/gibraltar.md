@@ -134,11 +134,17 @@ _female_: 83.2 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.91 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: urban_: urban: 0% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -153,6 +159,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -266,23 +275,23 @@ _lyrics/music_: Peter EMBERLEY<br>
 **Economic overview**<br>
 <p>Self-sufficient Gibraltar benefits from an extensive shipping trade, offshore banking, and its position as an international conference center. Tax rates are low to attract foreign investment. The British military presence has been sharply reduced and now contributes about 7% to the local economy, compared with 60% in 1984. In recent years, Gibraltar has seen major structural change from a public to a private sector economy, but changes in government spending still have a major impact on the level of employment.</p><p></p><p>The financial sector, tourism (over 11 million visitors in 2012), gaming revenues, shipping services fees, and duties on consumer goods also generate revenue. The financial sector, tourism, and the shipping sector contribute 30%, 30%, and 25%, respectively, of GDP. Telecommunications, e-commerce, and e-gaming account for the remaining 15%.</p><br>
 
-**Inflation rate (consumer prices)**<br>
-2.5% (2013 est.)<br>
-2.2% (2012 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.044 billion (2014 est.)<br>
 $1.85 billion (2013 est.)<br>
 $2 billion (2012 est.)<br>
 <strong>note:</strong> data are in 2014 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$2.044 billion (2014 est.)<br>
-
 **Real GDP per capita**<br>
 $61,700 (2014 est.)<br>
 $43,000 (2008 est.)<br>
 $41,200 (2007 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$2.044 billion (2014 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.5% (2013 est.)<br>
+2.2% (2012 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2016 est.)<br>
@@ -320,15 +329,15 @@ _highest 10%_: NA<br>
 _revenues_: 475.8 million (2008 est.)<br>
 _expenditures_: 452.3 million (2008 est.)<br>
 
-**Taxes and other revenues**<br>
-23.3% (of GDP) (2008 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2008 est.)<br>
 
 **Public debt**<br>
 7.5% of GDP (2008 est.)<br>
 8.4% of GDP (2006 est.)<br>
+
+**Taxes and other revenues**<br>
+23.3% (of GDP) (2008 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

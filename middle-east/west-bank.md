@@ -169,6 +169,9 @@ _unimproved: rural_: rural: 2.9% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **Physicians density**<br>
 1.45 physicians/1,000 population (2017)<br>
 
@@ -277,25 +280,16 @@ _etymology_: name refers to the location of the region - occupied and administer
 **Economic overview**<br>
 <p>In 2017, the economic outlook in the West Bank - the larger of the two areas comprising the Palestinian Territories – remained fragile, as security concerns and political friction slowed economic growth. Unemployment in the West Bank remained high at 19.0% in the third quarter of 2017, only slightly better than 19.6% at the same point the previous year, while the labor force participation rate remained flat, year-on-year.</p><p></p><p>Longstanding Israeli restrictions on imports, exports, and movement of goods and people continue to disrupt labor and trade flows and the territory’s industrial capacity, and constrain private sector development. The PA’s budget benefited from an effort to improve tax collection, coupled with lower spending in 2017, but the PA for the foreseeable future will continue to rely heavily on donor aid for its budgetary needs and infrastructure development.</p><br>
 
-**Real GDP growth rate**<br>
-5.3% (2014 est.)<br>
-1% (2013 est.)<br>
-6% (2012 est.)<br>
-<strong>note:</strong> excludes Gaza Strip<br>
-
-**Inflation rate (consumer prices)**<br>
-0.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
-<strong>note:</strong> excludes Gaza Strip<br>
-
 **Real GDP (purchasing power parity)**<br>
 $21.22 billion (2014 est.)<br>
 $20.15 billion (2013 est.)<br>
 $19.95 billion (2012 est.)<br>
 <strong>note:</strong> data are in 2014 US dollars; includes Gaza Strip<br>
 
-**GDP (official exchange rate)**<br>
-$9.828 billion (2014 est.)<br>
+**Real GDP growth rate**<br>
+5.3% (2014 est.)<br>
+1% (2013 est.)<br>
+6% (2012 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Real GDP per capita**<br>
@@ -304,11 +298,14 @@ $6,318 (2018 est.)<br>
 $6,402 (2017 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
-**Gross national saving**<br>
-15.5% of GDP (2018 est.)<br>
-14.4% of GDP (2017 est.)<br>
-5% of GDP (2012 est.)<br>
-<strong>note:</strong> includes Gaza Strip<br>
+**GDP (official exchange rate)**<br>
+$9.828 billion (2014 est.)<br>
+<strong>note:</strong> excludes Gaza Strip<br>
+
+**Inflation rate (consumer prices)**<br>
+0.2% (2017 est.)<br>
+-0.2% (2016 est.)<br>
+<strong>note:</strong> excludes Gaza Strip<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.9% (2017 est.)<br>
@@ -368,15 +365,15 @@ _revenues_: 1.314 billion (2017 est.)<br>
 _expenditures_: 1.278 billion (2017 est.)<br>
 <strong>note:</strong> includes Palestinian Authority expenditures in the Gaza Strip<br>
 
-**Taxes and other revenues**<br>
-13.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 24.4% of GDP (2014 est.)<br>
 23.8% of GDP (2013 est.)<br>
+
+**Taxes and other revenues**<br>
+13.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

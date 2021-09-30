@@ -386,10 +386,25 @@ _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
 **Economic overview**<br>
 <p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p><p></p><p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p><p></p><p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,180,890,000,000 (2019 est.)<br>
+$1,118,715,000,000 (2018 est.)<br>
+$1,062,265,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.2% (2017 est.)<br>
 4.3% (2016 est.)<br>
 4.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$11,763 (2019 est.)<br>
+$11,366 (2018 est.)<br>
+$11,014 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$323.763 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 9.3% (2019 est.)<br>
@@ -400,26 +415,6 @@ _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
 _Fitch rating_: B+ (2019)<br>
 _Moody's rating_: B2 (2019)<br>
 _Standard & Poors rating_: B (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,180,890,000,000 (2019 est.)<br>
-$1,118,715,000,000 (2018 est.)<br>
-$1,062,265,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$323.763 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$11,763 (2019 est.)<br>
-$11,366 (2018 est.)<br>
-$11,014 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-14.6% of GDP (2019 est.)<br>
-13.9% of GDP (2018 est.)<br>
-10.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.7% (2017 est.)<br>
@@ -433,12 +428,6 @@ _investment in fixed capital_: 14.8% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 16.3% (2017 est.)<br>
 _imports of goods and services_: -28.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.1 (2020)<br>
-_Starting a Business score_: 87.8 (2020)<br>
-_Trading score_: 42.2 (2020)<br>
-_Enforcement score_: 40 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, sugar beet, wheat, maize, tomatoes, rice, potatoes, oranges, onions, milk<br>
@@ -476,9 +465,6 @@ _highest 10%_: 26.6% (2008)<br>
 _revenues_: 42.32 billion (2017 est.)<br>
 _expenditures_: 62.61 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -8.6% (of GDP) (2017 est.)<br>
 
@@ -486,6 +472,9 @@ _expenditures_: 62.61 billion (2017 est.)<br>
 103% of GDP (2017 est.)<br>
 96.8% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+17.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

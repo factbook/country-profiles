@@ -153,6 +153,9 @@ _female_: 76.4 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.27 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 78.6% of population<br>
 _unimproved: total_: total: 21.4% of population (2017 est.)<br>
@@ -183,6 +186,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 45.8% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 12.5% of GDP (2015)<br>
@@ -339,28 +345,28 @@ _lyrics/music_: unknown<br>
 **Economic overview**<br>
 <p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p><p></p><p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p><p></p><p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
 
-**Real GDP growth rate**<br>
-2% (2017 est.)<br>
-2.9% (2016 est.)<br>
-3.9% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.5% (2017 est.)<br>
-0.5% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $390 million (2018 est.)<br>
 $389 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$328 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+2% (2017 est.)<br>
+2.9% (2016 est.)<br>
+3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,464 (2018 est.)<br>
 $3,493 (2017 est.)<br>
 $3,200 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$328 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.5% (2017 est.)<br>
+0.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 26.3% (2013 est.)<br>
@@ -374,12 +380,6 @@ _investment in fixed capital_: 29.5% (2016 est.)<br>
 _investment in inventories_: 1.9% (2016 est.)<br>
 _exports of goods and services_: 27.5% (2016 est.)<br>
 _imports of goods and services_: -77% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 48.1 (2020)<br>
-_Starting a Business score_: 69.6 (2020)<br>
-_Trading score_: 84 (2020)<br>
-_Enforcement score_: 29.4 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, cassava, vegetables, sweet potatoes, bananas, pork, plantains, fruit, eggs, beef<br>
@@ -416,15 +416,15 @@ _highest 10%_: NA<br>
 _revenues_: 213.8 million (FY12/13 est.)<br>
 _expenditures_: 192.1 million (FY12/13 est.)<br>
 
-**Taxes and other revenues**<br>
-65.2% (of GDP) (FY12/13 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 6.6% (of GDP) (FY12/13 est.)<br>
 
 **Public debt**<br>
 24.5% of GDP (2017 est.)<br>
 25.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+65.2% (of GDP) (FY12/13 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

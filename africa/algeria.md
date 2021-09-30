@@ -372,24 +372,16 @@ _lyrics/music_: Mufdi ZAKARIAH/Mohamed FAWZI<br>
 **Economic overview**<br>
 <p>Algeria's economy remains dominated by the state, a legacy of the country's socialist post-independence development model. In recent years the Algerian Government has halted the privatization of state-owned industries and imposed restrictions on imports and foreign involvement in its economy, pursuing an explicit import substitution policy.</p><p></p><p>Hydrocarbons have long been the backbone of the economy, accounting for roughly 30% of GDP, 60% of budget revenues, and nearly 95% of export earnings. Algeria has the 10th-largest reserves of natural gas in the world - including the 3rd-largest reserves of shale gas - and is the 6th-largest gas exporter. It ranks 16th in proven oil reserves. Hydrocarbon exports enabled Algeria to maintain macroeconomic stability, amass large foreign currency reserves, and maintain low external debt while global oil prices were high. With lower oil prices since 2014, Algeria’s foreign exchange reserves have declined by more than half and its oil stabilization fund has decreased from about $20 billion at the end of 2013 to about $7 billion in 2017, which is the statutory minimum.</p><p></p><p>Declining oil prices have also reduced the government’s ability to use state-driven growth to distribute rents and fund generous public subsidies, and the government has been under pressure to reduce spending. Over the past three years, the government has enacted incremental increases in some taxes, resulting in modest increases in prices for gasoline, cigarettes, alcohol, and certain imported goods, but it has refrained from reducing subsidies, particularly for education, healthcare, and housing programs.</p><p></p><p>Algiers has increased protectionist measures since 2015 to limit its import bill and encourage domestic production of non-oil and gas industries. Since 2015, the government has imposed additional restrictions on access to foreign exchange for imports, and import quotas for specific products, such as cars. In January 2018 the government imposed an indefinite suspension on the importation of roughly 850 products, subject to periodic review.</p><p></p><p>President BOUTEFLIKA announced in fall 2017 that Algeria intends to develop its non-conventional energy resources. Algeria has struggled to develop non-hydrocarbon industries because of heavy regulation and an emphasis on state-driven growth. Algeria has not increased non-hydrocarbon exports, and hydrocarbon exports have declined because of field depletion and increased domestic demand.</p><br>
 
-**Real GDP growth rate**<br>
-1.4% (2017 est.)<br>
-3.2% (2016 est.)<br>
-3.7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.9% (2019 est.)<br>
-4.2% (2018 est.)<br>
-5.6% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $495.564 billion (2019 est.)<br>
 $491.631 billion (2018 est.)<br>
 $485.801 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$169.912 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+1.4% (2017 est.)<br>
+3.2% (2016 est.)<br>
+3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $11,511 (2019 est.)<br>
@@ -397,10 +389,13 @@ $11,642 (2018 est.)<br>
 $11,737 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-38.8% of GDP (2017 est.)<br>
-37.4% of GDP (2016 est.)<br>
-36.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$169.912 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.9% (2019 est.)<br>
+4.2% (2018 est.)<br>
+5.6% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 13.3% (2017 est.)<br>
@@ -414,12 +409,6 @@ _investment in fixed capital_: 38.1% (2017 est.)<br>
 _investment in inventories_: 11.2% (2017 est.)<br>
 _exports of goods and services_: 23.6% (2017 est.)<br>
 _imports of goods and services_: -35.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 48.6 (2020)<br>
-_Starting a Business score_: 78 (2020)<br>
-_Trading score_: 38.4 (2020)<br>
-_Enforcement score_: 54.8 (2020)<br>
 
 **Agricultural products**<br>
 potatoes, wheat, milk, watermelons, barley, onions, tomatoes, oranges, dates, vegetables<br>
@@ -456,9 +445,6 @@ _highest 10%_: 26.8% (1995)<br>
 _revenues_: 54.15 billion (2017 est.)<br>
 _expenditures_: 70.2 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-32.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -9.6% (of GDP) (2017 est.)<br>
 
@@ -466,6 +452,9 @@ _expenditures_: 70.2 billion (2017 est.)<br>
 27.5% of GDP (2017 est.)<br>
 20.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt as well as debt issued by subnational entities and intra-governmental debt<br>
+
+**Taxes and other revenues**<br>
+32.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -672,11 +661,11 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP, but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (2021)<br>
 
 **Military expenditures**<br>
+7% of GDP (2020 est.)<br>
 6% of GDP (2019)<br>
 5.5% of GDP (2018)<br>
 5.8% of GDP (2017)<br>
 6.6% of GDP (2016)<br>
-6.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Algerian People's National Army (ANP) has approximately 130,000 total active personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); estimated 140,000 National Gendarmerie (information varies widely) (2021)<br>

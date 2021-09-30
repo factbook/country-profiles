@@ -152,10 +152,16 @@ _female_: 85.09 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.66 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 94.2% of population<br>
 _unimproved: total_: total: 5.9% of population (2017 est.)<br>
 <strong>note</strong>: includes data for Guernsey<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 98.5% of population<br>
@@ -168,6 +174,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -289,25 +298,25 @@ _lyrics/music_: Gerard LE FEUVRE<br>
 **Economic overview**<br>
 Jersey's economy is based on international financial services, agriculture, and tourism. In 2016, the financial services sector accounted for about 41% of the island's output. Agriculture represented about 1% of Jersey’s economy in 2016. Potatoes are an important export crop, shipped mostly to the UK. The Jersey breed of dairy cattle originated on the island and is known worldwide. The dairy industry remains important to the island with approximately $8.8 million gallons of milk produced in 2015. Tourism accounts for a significant portion of Jersey’s economy, with more than 700,000 total visitors in 2015. Living standards come close to those of the UK. All raw material and energy requirements are imported as well as a large share of Jersey's food needs. Light taxes and death duties make the island a popular offshore financial center. Jersey maintains its relationship with the EU through the UK. Therefore, in light of the UK’s decision to leave the EU, Jersey will also need to renegotiate its ties to the EU.<br>
 
-**Real GDP growth rate**<br>
-1% (2016 est.)<br>
-10.7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-3.7% (2006)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $5.569 billion (2016 est.)<br>
 $5.514 billion (2015 est.)<br>
 $4.98 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$5.004 billion (2015 est.)<br>
+**Real GDP growth rate**<br>
+1% (2016 est.)<br>
+10.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $56,600 (2016 est.)<br>
 $49,500 (2015 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$5.004 billion (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+3.7% (2006)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2% (2010)<br>
@@ -350,11 +359,11 @@ _highest 10%_: NA<br>
 _revenues_: 829 million (2005)<br>
 _expenditures_: 851 million (2005)<br>
 
-**Taxes and other revenues**<br>
-16.6% (of GDP) (2005)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2005)<br>
+
+**Taxes and other revenues**<br>
+16.6% (of GDP) (2005)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

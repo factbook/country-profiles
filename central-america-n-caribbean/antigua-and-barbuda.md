@@ -153,6 +153,9 @@ _female_: 79.85 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.96 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 96.7% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
@@ -181,6 +184,9 @@ _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 18.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -335,23 +341,16 @@ _lyrics/music_: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS<br>
 **Economic overview**<br>
 <p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p><p></p><p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p><p></p><p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
 
-**Real GDP growth rate**<br>
-2.8% (2017 est.)<br>
-5.3% (2016 est.)<br>
-4.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.5% (2017 est.)<br>
--0.5% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.127 billion (2019 est.)<br>
 $2.033 billion (2018 est.)<br>
 $1.893 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$1.524 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.8% (2017 est.)<br>
+5.3% (2016 est.)<br>
+4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $21,910 (2019 est.)<br>
@@ -359,10 +358,12 @@ $21,116 (2018 est.)<br>
 $19,840 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-19.2% of GDP (2018 est.)<br>
-17.5% of GDP (2017 est.)<br>
-24.5% of GDP (2016 est.)<br>
+**GDP (official exchange rate)**<br>
+$1.524 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.5% (2017 est.)<br>
+-0.5% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.8% (2017 est.)<br>
@@ -376,12 +377,6 @@ _investment in fixed capital_: 23.9% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 73.9% (2017 est.)<br>
 _imports of goods and services_: -66.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.3 (2020)<br>
-_Starting a Business score_: 82.6 (2020)<br>
-_Trading score_: 68.7 (2020)<br>
-_Enforcement score_: 68.1 (2020)<br>
 
 **Agricultural products**<br>
 tropical fruit, milk, mangoes/guavas, melons, tomatoes, pineapples, lemons, limes, eggplants, onions<br>
@@ -414,15 +409,15 @@ _highest 10%_: NA<br>
 _revenues_: 298.2 million (2017 est.)<br>
 _expenditures_: 334 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-19.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 86.8% of GDP (2017 est.)<br>
 86.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+19.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

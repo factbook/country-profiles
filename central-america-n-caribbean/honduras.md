@@ -386,10 +386,25 @@ _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 **Economic overview**<br>
 <p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p><p></p><p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p><p></p><p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$55.825 billion (2019 est.)<br>
+$54.382 billion (2018 est.)<br>
+$52.444 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.8% (2017 est.)<br>
 3.8% (2016 est.)<br>
 3.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,728 (2019 est.)<br>
+$5,672 (2018 est.)<br>
+$5,562 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$25.145 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.3% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2017)<br>
 _Standard & Poors rating_: BB- (2017)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$55.825 billion (2019 est.)<br>
-$54.382 billion (2018 est.)<br>
-$52.444 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$25.145 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$5,728 (2019 est.)<br>
-$5,672 (2018 est.)<br>
-$5,562 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22% of GDP (2019 est.)<br>
-20.5% of GDP (2018 est.)<br>
-23.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 14.2% (2017 est.)<br>
@@ -433,14 +428,8 @@ _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 43.6% (2017 est.)<br>
 _imports of goods and services_: -58.9% (2017 est.)<br>
 
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 56.3 (2020)<br>
-_Starting a Business score_: 71.4 (2020)<br>
-_Trading score_: 64.3 (2020)<br>
-_Enforcement score_: 44.2 (2020)<br>
-
 **Agricultural products**<br>
-sugar cane, oil palm fruit, milk, bananas, maize, coffee, melons, oranges, poultry, beans<br>
+sugarcane, oil palm fruit, milk, bananas, maize, coffee, melons, oranges, poultry, beans<br>
 
 **Industries**<br>
 sugar processing, coffee, woven and knit apparel, wood products, cigars<br>
@@ -476,15 +465,15 @@ _highest 10%_: 38.4% (2014)<br>
 _revenues_: 4.658 billion (2017 est.)<br>
 _expenditures_: 5.283 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 39.5% of GDP (2017 est.)<br>
 38.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -687,11 +676,11 @@ Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Hond
 note - the PMOP reports to military authorities, but conducts operations sanctioned by civilian security officials as well as by military leaders<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2020 est.)<br>
 1.6% of GDP (2019)<br>
 1.6% of GDP (2018)<br>
 1.7% of GDP (2017)<br>
 1.7% of GDP (2016)<br>
-1.7% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>

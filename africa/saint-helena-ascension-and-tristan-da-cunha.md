@@ -150,9 +150,15 @@ _female_: 83.31 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.6 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -165,6 +171,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -274,20 +283,20 @@ Saint Helena plover (bird)<br>
 **Economic overview**<br>
 The economy depends largely on financial assistance from the UK, which amounted to about $27 million in FY06/07 or more than twice the level of annual budgetary revenues. The local population earns income from fishing, raising livestock, and sales of handicrafts. Because there are few jobs, 25% of the work force has left to seek employment on Ascension Island, on the Falklands, and in the UK.<br>
 
+**Real GDP (purchasing power parity)**<br>
+$31.1 million (2009 est.)<br>
+
 **Real GDP growth rate**<br>
 <p>NA</p><br>
 
-**Inflation rate (consumer prices)**<br>
-4% (2012 est.)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$31.1 million (2009 est.)<br>
+**Real GDP per capita**<br>
+$7,800 (FY09/10 est.)<br>
 
 **GDP (official exchange rate)**<br>
 NA<br>
 
-**Real GDP per capita**<br>
-$7,800 (FY09/10 est.)<br>
+**Inflation rate (consumer prices)**<br>
+4% (2012 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: NA<br>

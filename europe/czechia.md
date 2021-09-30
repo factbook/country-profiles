@@ -157,6 +157,9 @@ _female_: 82.61 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.49 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -193,6 +196,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 26% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 3.9% of GDP (2017)<br>
@@ -364,10 +370,25 @@ _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 **Economic overview**<br>
 <p>Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.</p><p></p><p>Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.</p><p></p><p>Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$435.987 billion (2019 est.)<br>
+$426.038 billion (2018 est.)<br>
+$412.902 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.27% (2019 est.)<br>
 3.18% (2018 est.)<br>
 5.35% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$40,862 (2019 est.)<br>
+$40,079 (2018 est.)<br>
+$38,974 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$250.631 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.8% (2019 est.)<br>
@@ -378,26 +399,6 @@ _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 _Fitch rating_: AA- (2018)<br>
 _Moody's rating_: Aa3 (2019)<br>
 _Standard & Poors rating_: AA- (2011)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$435.987 billion (2019 est.)<br>
-$426.038 billion (2018 est.)<br>
-$412.902 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$250.631 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$40,862 (2019 est.)<br>
-$40,079 (2018 est.)<br>
-$38,974 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.2% of GDP (2019 est.)<br>
-26.8% of GDP (2018 est.)<br>
-27.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -411,12 +412,6 @@ _investment in fixed capital_: 24.7% (2017 est.)<br>
 _investment in inventories_: 1.1% (2017 est.)<br>
 _exports of goods and services_: 79.9% (2017 est.)<br>
 _imports of goods and services_: -72.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.3 (2020)<br>
-_Starting a Business score_: 82.1 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 56.4 (2020)<br>
 
 **Agricultural products**<br>
 wheat, sugar beet, milk, barley, rapeseed, potatoes, maize, pork, triticale, poultry<br>
@@ -454,15 +449,15 @@ _highest 10%_: 21.7% (2015 est.)<br>
 _revenues_: 87.37 billion (2017 est.)<br>
 _expenditures_: 83.92 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-40.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 34.7% of GDP (2017 est.)<br>
 36.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+40.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

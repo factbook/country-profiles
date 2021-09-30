@@ -373,10 +373,25 @@ _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE
 **Economic overview**<br>
 <p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p><p></p><p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p><p></p><p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$9.606 billion (2019 est.)<br>
+$9.581 billion (2018 est.)<br>
+$9.34 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 1.9% (2017 est.)<br>
 -5.1% (2016 est.)<br>
 -2.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$16,525 (2019 est.)<br>
+$16,634 (2018 est.)<br>
+$16,373 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$3.419 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 22% (2017 est.)<br>
@@ -386,26 +401,6 @@ _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE
 _Fitch rating_: C (2020)<br>
 _Moody's rating_: Caa3 (2020)<br>
 _Standard & Poors rating_: SD (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$9.606 billion (2019 est.)<br>
-$9.581 billion (2018 est.)<br>
-$9.34 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$3.419 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$16,525 (2019 est.)<br>
-$16,634 (2018 est.)<br>
-$16,373 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-46.6% of GDP (2017 est.)<br>
-55.6% of GDP (2016 est.)<br>
-53.6% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.6% (2017 est.)<br>
@@ -419,12 +414,6 @@ _investment in fixed capital_: 52.5% (2017 est.)<br>
 _investment in inventories_: 26.5% (2017 est.)<br>
 _exports of goods and services_: 68.9% (2017 est.)<br>
 _imports of goods and services_: -60.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 47.5 (2020)<br>
-_Starting a Business score_: 61.6 (2020)<br>
-_Trading score_: 75 (2020)<br>
-_Enforcement score_: 25.9 (2020)<br>
 
 **Agricultural products**<br>
 rice, sugar cane, bananas, oranges, vegetables, plantains, coconuts, poultry, cassava, eggs<br>
@@ -458,15 +447,15 @@ _highest 10%_: NA<br>
 _revenues_: 560.7 million (2017 est.)<br>
 _expenditures_: 827.8 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 69.3% of GDP (2017 est.)<br>
 75.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+16.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -667,6 +656,7 @@ Suriname Army (National Leger, NL): Army, Navy, Air Force, Military Police (2021
 1.4% of GDP (2015 est.)<br>
 1.3% of GDP (2014 est.)<br>
 1.3% of GDP (2013 est.)<br>
+no figures available after 2017<br>
 
 **Military and security service personnel strengths**<br>
 the Suriname Army is comprised of approximately 1,800 active personnel (ground, air, naval, and military police) (2021)<br>

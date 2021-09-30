@@ -209,6 +209,9 @@ _water contact diseases_: schistosomiasis<br>
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 6.3% of GDP (2017)<br>
 
@@ -388,10 +391,25 @@ _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
 **Economic overview**<br>
 <p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p><p></p><p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p><p></p><p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p><p></p><p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3,092,216,000,000 (2019 est.)<br>
+$3,057,465,000,000 (2018 est.)<br>
+$3,017,715,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.13% (2019 est.)<br>
 1.2% (2018 est.)<br>
 1.62% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$14,652 (2019 est.)<br>
+$14,596 (2018 est.)<br>
+$14,520 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,877,942,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.7% (2019 est.)<br>
@@ -402,26 +420,6 @@ _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
 _Fitch rating_: BB- (2018)<br>
 _Moody's rating_: Ba2 (2016)<br>
 _Standard & Poors rating_: BB- (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3,092,216,000,000 (2019 est.)<br>
-$3,057,465,000,000 (2018 est.)<br>
-$3,017,715,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,877,942,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,652 (2019 est.)<br>
-$14,596 (2018 est.)<br>
-$14,520 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-12.2% of GDP (2019 est.)<br>
-12.4% of GDP (2018 est.)<br>
-13.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.6% (2017 est.)<br>
@@ -435,12 +433,6 @@ _investment in fixed capital_: 15.6% (2017 est.)<br>
 _investment in inventories_: -0.1% (2017 est.)<br>
 _exports of goods and services_: 12.6% (2017 est.)<br>
 _imports of goods and services_: -11.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.1 (2020)<br>
-_Starting a Business score_: 81.3 (2020)<br>
-_Trading score_: 69.9 (2020)<br>
-_Enforcement score_: 64.1 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, soybeans, maize, milk, cassava, oranges, poultry, rice, beef, cotton<br>
@@ -479,15 +471,15 @@ _highest 10%_: 43.4% (2016 est.)<br>
 _revenues_: 733.7 billion (2017 est.)<br>
 _expenditures_: 756.3 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 84% of GDP (2017 est.)<br>
 78.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+35.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -702,11 +694,11 @@ _dry bulk cargo port(s)_: Sepetiba ore terminal, Tubarao<br>
 Brazilian Armed Forces: Brazilian Army (Exercito Brasileiro, EB), Brazilian Navy (Marinha do Brasil, MB, includes Naval Aviation and Marine Corps (Corpo de Fuzileiros Navais)), Brazilian Air Force (Forca Aerea Brasileira, FAB); Public Security Forces (2021)<br>
 
 **Military expenditures**<br>
+1.3% of GDP (2020 est.)<br>
 1.5% of GDP (2019)<br>
 1.5% of GDP (2018)<br>
 1.4% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.4% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Brazilian Armed Forces have approximately 360,000 active personnel (215,000 Army; 75,000 Navy; 70,000 Air Force) (2021)<br>

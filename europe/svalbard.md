@@ -78,8 +78,21 @@ Norwegian 58%, foreign population 42% (consists primarily of Russians, Thais, Sw
 Norwegian, Russian<br>
 _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 -0.03% (2019 est.)<br>
+
+**Birth rate**<br>
+NA<br>
+
+**Death rate**<br>
+NA (2021 est.)<br>
 
 **Net migration rate**<br>
 -5.57 migrant(s)/1,000 population (2021 est.)<br>
@@ -103,10 +116,19 @@ _female_: NA (2021 est.)<br>
 **Total fertility rate**<br>
 NA (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -193,10 +215,10 @@ the flag of Norway is used<br>
 _revenues_: NA<br>
 _expenditures_: NA<br>
 
-**Taxes and other revenues**<br>
+**Budget surplus (+) or deficit (-)**<br>
 NA<br>
 
-**Budget surplus (+) or deficit (-)**<br>
+**Taxes and other revenues**<br>
 NA<br>
 
 **Exports**<br>

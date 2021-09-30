@@ -371,10 +371,25 @@ _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAH
 **Economic overview**<br>
 <p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p><p></p><p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p><p></p><p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$125.783 billion (2019 est.)<br>
+$124.485 billion (2018 est.)<br>
+$121.254 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 2% (2017 est.)<br>
 1.1% (2016 est.)<br>
 1.2% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$10,756 (2019 est.)<br>
+$10,764 (2018 est.)<br>
+$10,605 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$38.884 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 6.7% (2019 est.)<br>
@@ -385,26 +400,6 @@ _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAH
 _Fitch rating_: B (2020)<br>
 _Moody's rating_: B2 (2018)<br>
 _Standard & Poors rating_: N/A (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$125.783 billion (2019 est.)<br>
-$124.485 billion (2018 est.)<br>
-$121.254 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$38.884 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$10,756 (2019 est.)<br>
-$10,764 (2018 est.)<br>
-$10,605 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-8.6% of GDP (2019 est.)<br>
-8.1% of GDP (2018 est.)<br>
-8.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.1% (2017 est.)<br>
@@ -418,12 +413,6 @@ _investment in fixed capital_: 19.4% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 43.2% (2017 est.)<br>
 _imports of goods and services_: -55.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 68.7 (2020)<br>
-_Starting a Business score_: 94.6 (2020)<br>
-_Trading score_: 74.6 (2020)<br>
-_Enforcement score_: 58.4 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, tomatoes, barley, olives, watermelons, green chillies/peppers, potatoes, dates, green onions/shallots<br>
@@ -461,15 +450,15 @@ _highest 10%_: 27% (2010 est.)<br>
 _revenues_: 9.876 billion (2017 est.)<br>
 _expenditures_: 12.21 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-24.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 70.3% of GDP (2017 est.)<br>
 62.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+24.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -667,11 +656,11 @@ _major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>
 Tunisian Armed Forces (Forces Armees Tunisiens, FAT): Tunisian Army (includes Tunisian Air Defense Force), Tunisian Navy, Republic of Tunisia Air Force; Ministry of Interior: Tunisian National Guard (2021)<br>
 
 **Military expenditures**<br>
+2.9% of GDP (2020 est.)<br>
 2.5% of GDP (2019)<br>
 2.1% of GDP (2018)<br>
 2.1% of GDP (2017)<br>
 2.4% of GDP (2016)<br>
-2.3% of GDP (2015)<br>
 
 **Military and security service personnel strengths**<br>
 the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>

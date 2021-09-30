@@ -384,10 +384,25 @@ _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
 **Economic overview**<br>
 <p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p><p></p><p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p><p></p><p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p><p></p><p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$212.285 billion (2019 est.)<br>
+$213.619 billion (2018 est.)<br>
+$217.987 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -2.5% (2017 est.)<br>
 -2.6% (2016 est.)<br>
 0.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$6,670 (2019 est.)<br>
+$6,934 (2018 est.)<br>
+$7,311 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$97.261 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 17.2% (2019 est.)<br>
@@ -398,26 +413,6 @@ _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$212.285 billion (2019 est.)<br>
-$213.619 billion (2018 est.)<br>
-$217.987 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$97.261 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$6,670 (2019 est.)<br>
-$6,934 (2018 est.)<br>
-$7,311 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-23.3% of GDP (2019 est.)<br>
-25.2% of GDP (2018 est.)<br>
-23.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.2% (2011 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 10.3% (2017 est.)<br>
 _investment in inventories_: -1.2% (2017 est.)<br>
 _exports of goods and services_: 25.4% (2017 est.)<br>
 _imports of goods and services_: -30.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 41.3 (2020)<br>
-_Starting a Business score_: 79.4 (2020)<br>
-_Trading score_: 36.2 (2020)<br>
-_Enforcement score_: 28.1 (2020)<br>
 
 **Agricultural products**<br>
 cassava, bananas, maize, sweet potatoes, pineapples, sugar cane, potatoes, citrus fruit, vegetables, cabbage<br>
@@ -472,15 +461,15 @@ _highest 10%_: 44.7% (2000)<br>
 _revenues_: 37.02 billion (2017 est.)<br>
 _expenditures_: 45.44 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 65% of GDP (2017 est.)<br>
 75.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+29.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

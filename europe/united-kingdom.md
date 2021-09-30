@@ -207,6 +207,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.4% of GDP (2017)<br>
 
@@ -379,10 +382,25 @@ _lyrics/music_: unknown<br>
 **Economic overview**<br>
 <p>The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.</p> <p>In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK’s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.</p> <p>The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$3,118,396,000,000 (2019 est.)<br>
+$3,073,442,000,000 (2018 est.)<br>
+$3,032,781,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.26% (2019 est.)<br>
 1.25% (2018 est.)<br>
 1.74% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$46,659 (2019 est.)<br>
+$46,245 (2018 est.)<br>
+$45,910 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$2,827,918,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.7% (2019 est.)<br>
@@ -393,26 +411,6 @@ _lyrics/music_: unknown<br>
 _Fitch rating_: AA- (2020)<br>
 _Moody's rating_: Aaa (2020)<br>
 _Standard & Poors rating_: AA (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$3,118,396,000,000 (2019 est.)<br>
-$3,073,442,000,000 (2018 est.)<br>
-$3,032,781,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$2,827,918,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$46,659 (2019 est.)<br>
-$46,245 (2018 est.)<br>
-$45,910 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-13.3% of GDP (2019 est.)<br>
-13.4% of GDP (2018 est.)<br>
-13.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2017 est.)<br>
@@ -426,12 +424,6 @@ _investment in fixed capital_: 17.2% (2017 est.)<br>
 _investment in inventories_: 0.2% (2017 est.)<br>
 _exports of goods and services_: 30.2% (2017 est.)<br>
 _imports of goods and services_: -31.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 83.5 (2020)<br>
-_Starting a Business score_: 94.6 (2020)<br>
-_Trading score_: 93.8 (2020)<br>
-_Enforcement score_: 68.7 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, barley, sugar beet, potatoes, rapeseed, poultry, oats, pork, beef<br>
@@ -469,9 +461,6 @@ _highest 10%_: 31.1% (2012)<br>
 _revenues_: 1.028 trillion (2017 est.)<br>
 _expenditures_: 1.079 trillion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.9% (of GDP) (2017 est.)<br>
 
@@ -479,6 +468,9 @@ _expenditures_: 1.079 trillion (2017 est.)<br>
 87.5% of GDP (2017 est.)<br>
 87.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+39.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 6 April - 5 April<br>
@@ -692,7 +684,7 @@ begun in 1988 and completed in 1994, the Channel Tunnel (nicknamed the Chunnel) 
 
 **Military and security forces**<br>
 British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
-<strong>note:</strong> in 2021 the UK formed a Space Command as a joint command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, intelligence, and information systems across the land, sea, air, space, and cyber domains; it also manages joint overseas operations<br>
+<strong>note:</strong> in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
 2.32% of GDP (2020 est.)<br>
@@ -702,7 +694,9 @@ British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
 2.08% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the British military has approximately 150,000 total active duty troops (82,000 Army; 34,000 Navy, including 7,000 marines; 33,000 Air Force) (2021)<br>
+the British military has approximately 199,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>
+note(s) - the total includes 149,000 Regular Forces and about 37,000 Volunteer Reserves (30,000 Army; 4,000 Navy; 3000 Air Force) and about 8,000 "Other Personnel" (4,500 Army; 2,500 Navy; 1,000 Air Force)<br><br>Volunteer Reserves voluntarily accept an annual training commitment and are liable to be mobilized to deploy on operations; they can be utilized on a part-time or full-time basis to provide support to the Regular Forces at home and overseas
+"Other Personnel" including the Serving Regular Reserve, Sponsored Reserve, Military Provost Guard Service, Locally Engaged Personnel, and elements of the UK Full-time Reserve Service<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2020)<br>

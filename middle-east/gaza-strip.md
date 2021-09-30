@@ -159,6 +159,9 @@ _unimproved: rural_: rural: 2.9% of population<br>
 _unimproved: total_: total: 3.2% of population (2017 est.)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
+**Current Health Expenditure**<br>
+NA<br>
+
 **Physicians density**<br>
 2.77 physicians/1,000 population (2018)<br>
 
@@ -260,22 +263,13 @@ _etymology_: named for the largest city in the region, Gaza, whose settlement ca
 **Economic overview**<br>
 <p>Movement and access restrictions, violent attacks, and the slow pace of post-conflict reconstruction continue to degrade economic conditions in the Gaza Strip, the smaller of the two areas comprising the Palestinian territories. Israeli controls became more restrictive after HAMAS seized control of the territory in June 2007. Under Hamas control, Gaza has suffered from rising unemployment, elevated poverty rates, and a sharp contraction of the private sector, which had relied primarily on export markets.</p><p></p><p>Since April 2017, the Palestinian Authority has reduced payments for electricity supplied to Gaza and cut salaries for its employees there, exacerbating poor economic conditions. Since 2014, Egypt’s crackdown on the Gaza Strip’s extensive tunnel-based smuggling network has exacerbated fuel, construction material, and consumer goods shortages in the territory. Donor support for reconstruction following the 51-day conflict in 2014 between Israel and HAMAS and other Gaza-based militant groups has fallen short of post-conflict needs.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+<p>see entry for the West Bank</p><br>
+
 **Real GDP growth rate**<br>
 -15.2% (2014 est.)<br>
 5.6% (2013 est.)<br>
 7% (2012 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
-
-**Inflation rate (consumer prices)**<br>
-0.2% (2017 est.)<br>
--0.2% (2016 est.)<br>
-<strong>note:</strong> excludes the West Bank<br>
-
-**Real GDP (purchasing power parity)**<br>
-<p>see entry for the West Bank</p><br>
-
-**GDP (official exchange rate)**<br>
-$2.938 billion (2014 est.)<br>
 <strong>note:</strong> excludes the West Bank<br>
 
 **Real GDP per capita**<br>
@@ -284,9 +278,14 @@ $6,318 (2018 est.)<br>
 $6,402 (2017 est.)<br>
 see entry for the the West Bank<br>
 
-**Gross national saving**<br>
-15.5% of GDP (2018 est.)<br>
-14.4% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$2.938 billion (2014 est.)<br>
+<strong>note:</strong> excludes the West Bank<br>
+
+**Inflation rate (consumer prices)**<br>
+0.2% (2017 est.)<br>
+-0.2% (2016 est.)<br>
+<strong>note:</strong> excludes the West Bank<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2017 est.)<br>

@@ -342,7 +342,7 @@ _election results_: Hage GEINGOB elected president in the first round; percent o
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>National Council (42 seats); members indirectly elected 3 each by the 14 regional councils to serve 5-year terms); note - the Council primarily reviews legislation passed and referred by the National Assembly<br>National Assembly (104 seats; 96 members directly elected in multi-seat constituencies by closed list, proportional representation vote to serve 5-year terms and 8 nonvoting members appointed by the president)<br>
 _elections_: National Council - elections for regional councils to determine members of the National Council held on 25 November 2020 (next to be held on 25 November 2025)<br>National Assembly - last held on 27 November 2019 (next to be held in 2024)<br>
-_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  Independent 1; composition - men 36, women 6, percent of women 16.6%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
+_election results_: National Council - percent of vote by party - NA; seats by party - SWAPO 28, LPM 6,IPC 2, PDM 2, UDF 2, NUDO 1,  independent 1; composition - men 36, women 6, percent of women 16.6%<br>National Assembly - percent of vote by party - SWAPO 65.5%, PDM 16.6%, LPM 4.7%, NUDO 1.9%, APP 1.8%, UDF 1.8%, RP 1.8%, NEFF 1.7%, RDP 1.1%, CDV .7%, SWANU .6%, other 1.8%; seats by party - SWAPO 63, PDM 16, LPM 4, NUDO 2, APP 2, UDF 2, RP 2, NEFF 2, RDP 1, CDV 1, SWANU 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and at least 3 judges in quorum sessions)<br>
@@ -386,10 +386,25 @@ _lyrics/music_: Axali DOESEB<br>
 **Economic overview**<br>
 <p>Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.</p><p></p><p>Namibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.</p><p></p><p>Namibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.</p><p></p><p>A five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$24.04 billion (2019 est.)<br>
+$24.316 billion (2018 est.)<br>
+$24.147 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 -1.56% (2019 est.)<br>
 1.13% (2018 est.)<br>
 -1.02% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$9,637 (2019 est.)<br>
+$9,932 (2018 est.)<br>
+$10,051 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$12.372 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.7% (2019 est.)<br>
@@ -399,26 +414,6 @@ _lyrics/music_: Axali DOESEB<br>
 **Credit ratings**<br>
 _Fitch rating_: BB (2019)<br>
 _Moody's rating_: Ba3 (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$24.04 billion (2019 est.)<br>
-$24.316 billion (2018 est.)<br>
-$24.147 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$12.372 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$9,637 (2019 est.)<br>
-$9,932 (2018 est.)<br>
-$10,051 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-8.6% of GDP (2019 est.)<br>
-12% of GDP (2018 est.)<br>
-12.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.7% (2016 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 16% (2017 est.)<br>
 _investment in inventories_: 1.6% (2017 est.)<br>
 _exports of goods and services_: 36.7% (2017 est.)<br>
 _imports of goods and services_: -47.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.4 (2020)<br>
-_Starting a Business score_: 72.2 (2020)<br>
-_Trading score_: 61.5 (2020)<br>
-_Enforcement score_: 63.4 (2020)<br>
 
 **Agricultural products**<br>
 roots/tubers nes, milk, maize, onions, beef, grapes, fruit, pulses nes, vegetables, millet<br>
@@ -476,15 +465,15 @@ _highest 10%_: 42% (2010)<br>
 _revenues_: 4.268 billion (2017 est.)<br>
 _expenditures_: 5 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-32.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 41.3% of GDP (2017 est.)<br>
 39.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+32.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

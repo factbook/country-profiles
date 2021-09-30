@@ -143,6 +143,9 @@ _female_: 79.88 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.09 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -173,6 +176,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 55.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 4.7% of GDP (2016)<br>
@@ -303,22 +309,22 @@ _lyrics/music_: Tepaeru Te RITO/Thomas DAVIS<br>
 **Economic overview**<br>
 Like many other South Pacific island nations, the Cook Islands' economic development is hindered by the isolation of the country from foreign markets, the limited size of domestic markets, lack of natural resources, periodic devastation from natural disasters, and inadequate infrastructure. Agriculture, employing more than one-quarter of the working population, provides the economic base with major exports of copra and citrus fruit. Black pearls are the Cook Islands' leading export. Manufacturing activities are limited to fruit processing, clothing, and handicrafts. Trade deficits are offset by remittances from emigrants and by foreign aid overwhelmingly from New Zealand. In the 1980s and 1990s, the country became overextended, maintaining a bloated public service and accumulating a large foreign debt. Subsequent reforms, including the sale of state assets, the strengthening of economic management, the encouragement of tourism, and a debt restructuring agreement, have rekindled investment and growth. The government is targeting fisheries and seabed mining as sectors for future economic growth.<br>
 
-**Real GDP growth rate**<br>
-0.1% (2005 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-2.2% (2011 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $299.9 million (2016 est.)<br>
 $183.2 million (2015 est.)<br>
 
-**GDP (official exchange rate)**<br>
-$299.9 million (2016 est.)<br>
+**Real GDP growth rate**<br>
+0.1% (2005 est.)<br>
 
 **Real GDP per capita**<br>
 $16,700 (2016 est.)<br>
 $9,100 (2005 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$299.9 million (2016 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+2.2% (2011 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.1% (2010 est.)<br>
@@ -356,11 +362,11 @@ _highest 10%_: NA<br>
 _revenues_: 86.9 million (2010)<br>
 _expenditures_: 77.9 million (2010)<br>
 
-**Taxes and other revenues**<br>
-29% (of GDP) (2010 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 3% (of GDP) (2010 est.)<br>
+
+**Taxes and other revenues**<br>
+29% (of GDP) (2010 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

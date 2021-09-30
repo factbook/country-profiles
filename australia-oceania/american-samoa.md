@@ -140,9 +140,15 @@ _female_: 77.72 years (2021 est.)<br>
 **Total fertility rate**<br>
 2.28 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 99% of population<br>
@@ -155,6 +161,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -277,28 +286,28 @@ _lyrics/music_: Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA<br>
 **Economic overview**<br>
 <p>American Samoa s a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and processing are the backbone of the private sector with processed fish products as the primary exports. The fish processing business accounted for 15.5% of employment in 2015.</p><p></p><p>In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being.</p><p></p><p>Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism has some potential as a source of income and jobs.</p><br>
 
-**Real GDP growth rate**<br>
--2.5% (2016 est.)<br>
-1.2% (2015 est.)<br>
-1% (2014 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
--0.5% (2015 est.)<br>
-1.4% (2014 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $658 million (2016 est.)<br>
 $674.9 million (2015 est.)<br>
 $666.9 billion (2014 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$658 million (2016 est.)<br>
+**Real GDP growth rate**<br>
+-2.5% (2016 est.)<br>
+1.2% (2015 est.)<br>
+1% (2014 est.)<br>
 
 **Real GDP per capita**<br>
 $11,200 (2016 est.)<br>
 $11,300 (2015 est.)<br>
 $11,200 (2014 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$658 million (2016 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+-0.5% (2015 est.)<br>
+1.4% (2014 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.4% (2012)<br>
@@ -344,14 +353,14 @@ _highest 10%_: NA<br>
 _revenues_: 249 million (2016 est.)<br>
 _expenditures_: 262.5 million (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-37.8% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.1% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 12.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+37.8% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

@@ -163,6 +163,9 @@ _female_: 86.03 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.57 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 98.9% of population<br>
@@ -199,6 +202,9 @@ NA<br>
 
 **Obesity - adult prevalence rate**<br>
 29.4% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 5.3% of GDP (2011)<br>
@@ -316,8 +322,8 @@ _elections/appointments_: the monarchy is hereditary; governor general appointed
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
-_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 21 October 2019 (next to be held 20 September 2021)<br>
-_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 34.4%, Liberal Party 33.1%, NDP 15.9%, Bloc Quebecois 7.7%, Greens 6.5%, other 2.4%; seats by party - Liberal Party 157, CPC 121, NDP 24, Bloc Quebecois 32, Greens 4; composition - men 240, women 98, percent of women 29%; note - total Parliament percent of women 34.3%<br>
+_elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 20 September 2021 (next to be held NA)<br>
+_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 33, Greens 2; composition - men 236, women 102, percent of women 29%; note - total Parliament percent of women 30.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -365,10 +371,25 @@ _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/
 **Economic overview**<br>
 <p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p><p></p><p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p><p></p><p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,843,053,000,000 (2019 est.)<br>
+$1,813,028,000,000 (2018 est.)<br>
+$1,777,241,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.66% (2019 est.)<br>
 2.02% (2018 est.)<br>
 3.17% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$49,031 (2019 est.)<br>
+$48,924 (2018 est.)<br>
+$48,634 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$1,741,865,000,000 (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.9% (2019 est.)<br>
@@ -379,26 +400,6 @@ _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/
 _Fitch rating_: AA+ (2020)<br>
 _Moody's rating_: Aaa (2002)<br>
 _Standard & Poors rating_: AAA (2002)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,843,053,000,000 (2019 est.)<br>
-$1,813,028,000,000 (2018 est.)<br>
-$1,777,241,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$1,741,865,000,000 (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$49,031 (2019 est.)<br>
-$48,924 (2018 est.)<br>
-$48,634 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-19.9% of GDP (2019 est.)<br>
-19.7% of GDP (2018 est.)<br>
-20% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2017 est.)<br>
@@ -412,12 +413,6 @@ _investment in fixed capital_: 23% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 30.9% (2017 est.)<br>
 _imports of goods and services_: -33.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 79.6 (2020)<br>
-_Starting a Business score_: 98.2 (2020)<br>
-_Trading score_: 88.4 (2020)<br>
-_Enforcement score_: 57.1 (2020)<br>
 
 **Agricultural products**<br>
 wheat, rapeseed, maize, barley, milk, soybeans, potatoes, oats, peas, pork<br>
@@ -458,9 +453,6 @@ _highest 10%_: 24.8% (2000)<br>
 _revenues_: 649.6 billion (2017 est.)<br>
 _expenditures_: 665.7 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
@@ -468,6 +460,9 @@ _expenditures_: 665.7 billion (2017 est.)<br>
 89.7% of GDP (2017 est.)<br>
 91.1% of GDP (2016 est.)<br>
 <strong>note:</strong> figures are for gross general government debt, as opposed to net federal debt; gross general government debt includes both intragovernmental debt and the debt of public entities at the sub-national level<br>
+
+**Taxes and other revenues**<br>
+39.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

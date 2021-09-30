@@ -145,6 +145,9 @@ _female_: 79.34 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.77 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 98.3% of population<br>
 _improved: rural_: rural: 98.3% of population<br>
@@ -181,6 +184,9 @@ _unimproved: total_: total: 12.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 22.9% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 2.6% of GDP (2015)<br>
@@ -330,23 +336,16 @@ _lyrics/music_: Kenrick Anderson GEORGES<br>
 **Economic overview**<br>
 <p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p><p></p><p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
 
-**Real GDP growth rate**<br>
-2.1% (2017 est.)<br>
-2.9% (2016 est.)<br>
-2.7% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0% (2017 est.)<br>
--0.3% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.396 billion (2019 est.)<br>
 $1.358 billion (2018 est.)<br>
 $1.319 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$964 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.1% (2017 est.)<br>
+2.9% (2016 est.)<br>
+2.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $26,438 (2019 est.)<br>
@@ -354,10 +353,12 @@ $25,902 (2018 est.)<br>
 $25,360 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-19.9% of GDP (2017 est.)<br>
-19.3% of GDP (2016 est.)<br>
-15.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$964 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0% (2017 est.)<br>
+-0.3% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.1% (2017 est.)<br>
@@ -371,12 +372,6 @@ _investment in fixed capital_: 30.8% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 62.5% (2017 est.)<br>
 _imports of goods and services_: -60.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 54.6 (2020)<br>
-_Starting a Business score_: 85.9 (2020)<br>
-_Trading score_: 81 (2020)<br>
-_Enforcement score_: 65.5 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, tropical fruit, roots/tubers nes, vegetables, sweet potatoes, pulses nes, watermelons, carrots/turnips, eggs, tomatoes<br>
@@ -404,15 +399,15 @@ _highest 10%_: NA<br>
 _revenues_: 307 million (2017 est.)<br>
 _expenditures_: 291.1 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-31.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 62.9% of GDP (2017 est.)<br>
 61.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+31.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

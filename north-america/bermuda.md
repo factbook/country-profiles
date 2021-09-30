@@ -144,9 +144,15 @@ _female_: 85.09 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.91 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
+
+**Current Health Expenditure**<br>
+NA<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -161,6 +167,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -304,10 +313,23 @@ _lyrics/music_: Bette JOHNS<br>
 **Economic overview**<br>
 <p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p><p></p><p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$5.228 billion (2019 est.)<br>
+$5.204 billion (2018 est.)<br>
+$5.227 billion (2017 est.)<br>
+
 **Real GDP growth rate**<br>
 -0.1% (2016 est.)<br>
 0.6% (2015 est.)<br>
 -0.3% (2014 est.)<br>
+
+**Real GDP per capita**<br>
+$81,798 (2019 est.)<br>
+$81,421 (2018 est.)<br>
+$81,835 (2017 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$6.127 billion (2016 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.9% (2017 est.)<br>
@@ -317,23 +339,6 @@ _lyrics/music_: Bette JOHNS<br>
 _Fitch rating_: N/A (2015)<br>
 _Moody's rating_: A2 (2016)<br>
 _Standard & Poors rating_: A+ (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$5.228 billion (2019 est.)<br>
-$5.204 billion (2018 est.)<br>
-$5.227 billion (2017 est.)<br>
-
-**GDP (official exchange rate)**<br>
-$6.127 billion (2016 est.)<br>
-
-**Real GDP per capita**<br>
-$81,798 (2019 est.)<br>
-$81,421 (2018 est.)<br>
-$81,835 (2017 est.)<br>
-
-**Gross national saving**<br>
-40.4% of GDP (2018 est.)<br>
-40.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.9% (2017 est.)<br>
@@ -380,14 +385,14 @@ _highest 10%_: NA<br>
 _revenues_: 999.2 million (2017 est.)<br>
 _expenditures_: 1.176 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-16.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 43% of GDP (FY14/15)<br>
+
+**Taxes and other revenues**<br>
+16.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>

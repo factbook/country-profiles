@@ -199,6 +199,9 @@ _unimproved: total_: total: 0.5% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 10.8% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 4.7% of GDP (2019)<br>
 
@@ -366,10 +369,25 @@ _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 **Economic overview**<br>
 <p>Since independence in 1968, Mauritius has undergone a remarkable economic transformation from a low-income, agriculturally based economy to a diversified, upper middle-income economy with growing industrial, financial, and tourist sectors. Mauritius has achieved steady growth over the last several decades, resulting in more equitable income distribution, increased life expectancy, lowered infant mortality, and a much-improved infrastructure.</p> <p> </p> <p>The economy currently depends on sugar, tourism, textiles and apparel, and financial services, but is expanding into fish processing, information and communications technology, education, and hospitality and property development. Sugarcane is grown on about 90% of the cultivated land area but sugar makes up only around 3-4% of national GDP. Authorities plan to emphasize services and innovation in the coming years. After several years of slow growth, government policies now seek to stimulate economic growth in five areas: serving as a gateway for international investment into Africa; increasing the use of renewable energy; developing smart cities; growing the ocean economy; and upgrading and modernizing infrastructure, including public transportation, the port, and the airport.</p> <p> </p> <p>Mauritius has attracted more than 32,000 offshore entities, many aimed at commerce in India, South Africa, and China. The Mauritius International Financial Center is under scrutiny by international bodies promoting fair tax competition and Mauritius has been cooperating with the European Union and the United states in the automatic exchange of account information. Mauritius is also a member of the OECD/G20’s Inclusive Framework on Base Erosion and Profit Shifting and is under pressure to review its Double Taxation Avoidance Agreements. The offshore sector is vulnerable to changes in the tax framework and authorities have been working on a Financial Services Sector Blueprint to enable Mauritius to transition to a jurisdiction of higher value added. Mauritius’ textile sector has taken advantage of the Africa Growth and Opportunity Act, a preferential trade program that allows duty free access to the US market, with Mauritian exports to the US growing by 35.6 % from 2000 to 2014. However, lack of local labor as well as rising labor costs eroding the competitiveness of textile firms in Mauritius.</p> <p> </p> <p>Mauritius' sound economic policies and prudent banking practices helped mitigate negative effects of the global financial crisis in 2008-09. GDP grew in the 3-4% per year range in 2010-17, and the country continues to expand its trade and investment outreach around the globe. Growth in the US and Europe fostered goods and services exports, including tourism, while lower oil prices kept inflation low. Mauritius continues to rank as one of the most business-friendly environments on the continent and passed a Business Facilitation Act to improve competitiveness and long-term growth prospects. A new National Economic Development Board was set up in 2017-2018 to spearhead efforts to promote exports and attract inward investment.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$28.947 billion (2019 est.)<br>
+$28.1 billion (2018 est.)<br>
+$27.081 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3.8% (2017 est.)<br>
 3.8% (2016 est.)<br>
 3.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$22,870 (2019 est.)<br>
+$22,208 (2018 est.)<br>
+$21,415 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$14.004 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.4% (2019 est.)<br>
@@ -378,26 +396,6 @@ _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 
 **Credit ratings**<br>
 _Moody's rating_: Baa1 (2012)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$28.947 billion (2019 est.)<br>
-$28.1 billion (2018 est.)<br>
-$27.081 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$14.004 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$22,870 (2019 est.)<br>
-$22,208 (2018 est.)<br>
-$21,415 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-18.5% of GDP (2019 est.)<br>
-18.1% of GDP (2018 est.)<br>
-17.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4% (2017 est.)<br>
@@ -411,12 +409,6 @@ _investment in fixed capital_: 17.3% (2017 est.)<br>
 _investment in inventories_: -0.4% (2017 est.)<br>
 _exports of goods and services_: 42.1% (2017 est.)<br>
 _imports of goods and services_: -55.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 81.5 (2020)<br>
-_Starting a Business score_: 94.5 (2020)<br>
-_Trading score_: 81 (2020)<br>
-_Enforcement score_: 72.2 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, poultry, pumpkins, gourds, potatoes, eggs, tomatoes, pineapples, bananas, fruit<br>
@@ -454,15 +446,15 @@ _highest 10%_: NA<br>
 _revenues_: 2.994 billion (2017 est.)<br>
 _expenditures_: 3.038 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-22.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 64% of GDP (2017 est.)<br>
 66.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+22.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

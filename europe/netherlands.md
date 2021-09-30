@@ -203,6 +203,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 20.4% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.2% of GDP (2017)<br>
 
@@ -373,10 +376,25 @@ _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 **Economic overview**<br>
 <p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p><p></p><p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p><p></p><p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$986.847 billion (2019 est.)<br>
+$970.567 billion (2018 est.)<br>
+$948.181 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.63% (2019 est.)<br>
 2.32% (2018 est.)<br>
 3.02% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$56,935 (2019 est.)<br>
+$56,325 (2018 est.)<br>
+$55,348 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$907.042 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.6% (2019 est.)<br>
@@ -387,26 +405,6 @@ _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 _Fitch rating_: AAA (1994)<br>
 _Moody's rating_: Aaa (1986)<br>
 _Standard & Poors rating_: AAA (2015)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$986.847 billion (2019 est.)<br>
-$970.567 billion (2018 est.)<br>
-$948.181 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$907.042 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$56,935 (2019 est.)<br>
-$56,325 (2018 est.)<br>
-$55,348 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-31.2% of GDP (2019 est.)<br>
-31.8% of GDP (2018 est.)<br>
-31.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 1.6% (2017 est.)<br>
@@ -420,12 +418,6 @@ _investment in fixed capital_: 20.5% (2017 est.)<br>
 _investment in inventories_: 0.2% (2017 est.)<br>
 _exports of goods and services_: 83% (2017 est.)<br>
 _imports of goods and services_: -72.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.1 (2020)<br>
-_Starting a Business score_: 94.3 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 59.9 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, sugar beet, pork, onions, wheat, poultry, tomatoes, carrots/turnips, beef<br>
@@ -463,9 +455,6 @@ _highest 10%_: 24.9% (2014 est.)<br>
 _revenues_: 361.4 billion (2017 est.)<br>
 _expenditures_: 352.4 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-43.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
 
@@ -473,6 +462,9 @@ _expenditures_: 352.4 billion (2017 est.)<br>
 56.5% of GDP (2017 est.)<br>
 61.3% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment, debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+43.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

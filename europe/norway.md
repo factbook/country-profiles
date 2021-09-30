@@ -163,6 +163,9 @@ _female_: 84.6 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.84 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -200,6 +203,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 7.9% of GDP (2017)<br>
@@ -367,10 +373,25 @@ _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 **Economic overview**<br>
 <p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p><p></p><p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p><p></p><p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p><p></p><p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$340.303 billion (2019 est.)<br>
+$336.418 billion (2018 est.)<br>
+$332.135 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 0.86% (2019 est.)<br>
 1.36% (2018 est.)<br>
 2.75% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$63,633 (2019 est.)<br>
+$63,333 (2018 est.)<br>
+$62,941 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$405.695 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.1% (2019 est.)<br>
@@ -381,26 +402,6 @@ _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 _Fitch rating_: AAA (1995)<br>
 _Moody's rating_: Aaa (1997)<br>
 _Standard & Poors rating_: AAA (1975)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$340.303 billion (2019 est.)<br>
-$336.418 billion (2018 est.)<br>
-$332.135 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$405.695 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$63,633 (2019 est.)<br>
-$63,333 (2018 est.)<br>
-$62,941 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-33.3% of GDP (2019 est.)<br>
-35.9% of GDP (2018 est.)<br>
-34.1% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -414,12 +415,6 @@ _investment in fixed capital_: 24.1% (2017 est.)<br>
 _investment in inventories_: 4.8% (2017 est.)<br>
 _exports of goods and services_: 35.5% (2017 est.)<br>
 _imports of goods and services_: -33.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 82.6 (2020)<br>
-_Starting a Business score_: 94.3 (2020)<br>
-_Trading score_: 97 (2020)<br>
-_Enforcement score_: 81.3 (2020)<br>
 
 **Agricultural products**<br>
 milk, barley, wheat, potatoes, oats, pork, poultry, beef, eggs, rye<br>
@@ -457,9 +452,6 @@ _highest 10%_: 21.2% (2014)<br>
 _revenues_: 217.1 billion (2017 est.)<br>
 _expenditures_: 199.5 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-54.4% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 4.4% (of GDP) (2017 est.)<br>
 
@@ -467,6 +459,9 @@ _expenditures_: 199.5 billion (2017 est.)<br>
 36.5% of GDP (2017 est.)<br>
 36.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data exclude treasury debt held by foreign entities; the data exclude debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+54.4% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

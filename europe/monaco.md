@@ -147,6 +147,9 @@ _female_: 93.4 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.52 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: total_: total: 100% of population<br>
@@ -175,6 +178,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 **Education expenditures**<br>
@@ -322,27 +328,27 @@ _lyrics/music_: Louis NOTARI/Charles ALBRECHT<br>
 **Economic overview**<br>
 <p>Monaco, bordering France on the Mediterranean coast, is a popular resort, attracting tourists to its casino and pleasant climate. The principality also is a banking center and has successfully sought to diversify into services and small, high-value-added, nonpolluting industries. The state retains monopolies in a number of sectors, including tobacco, the telephone network, and the postal service. Living standards are high, roughly comparable to those in prosperous French metropolitan areas.</p><p></p><p>The state has no income tax and low business taxes and thrives as a tax haven both for individuals who have established residence and for foreign companies that have set up businesses and offices. Monaco, however, is not a tax-free shelter; it charges nearly 20% value-added tax, collects stamp duties, and companies face a 33% tax on profits unless they can show that three-quarters of profits are generated within the principality. Monaco was formally removed from the OECD's "grey list" of uncooperative tax jurisdictions in late 2009, but continues to face international pressure to abandon its banking secrecy laws and help combat tax evasion. In October 2014, Monaco officially became the 84th jurisdiction participating in the OECD’s Multilateral Convention on Mutual Administrative Assistance in Tax Matters, an effort to combat offshore tax avoidance and evasion.</p><p></p><p>Monaco's reliance on tourism and banking for its economic growth has left it vulnerable to downturns in France and other European economies which are the principality's main trade partners. In 2009, Monaco's GDP fell by 11.5% as the euro-zone crisis precipitated a sharp drop in tourism and retail activity and home sales. A modest recovery ensued in 2010 and intensified in 2013, with GDP growth of more than 9%, but Monaco's economic prospects remain uncertain.</p><br>
 
-**Real GDP growth rate**<br>
-5.4% (2015 est.)<br>
-7.2% (2014 est.)<br>
-9.6% (2013 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.5% (2010)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $7.672 billion (2015 est.)<br>
 $7.279 billion (2014 est.)<br>
 $6.79 billion (2013 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
-**GDP (official exchange rate)**<br>
-$6.006 billion (2015 est.)<br>
+**Real GDP growth rate**<br>
+5.4% (2015 est.)<br>
+7.2% (2014 est.)<br>
+9.6% (2013 est.)<br>
 
 **Real GDP per capita**<br>
 $115,700 (2015 est.)<br>
 $109,200 (2014 est.)<br>
 $101,900 (2013 est.)<br>
+
+**GDP (official exchange rate)**<br>
+$6.006 billion (2015 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.5% (2010)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0% (2013)<br>
@@ -381,11 +387,11 @@ _highest 10%_: NA<br>
 _revenues_: 896.3 million (2011 est.)<br>
 _expenditures_: 953.6 million (2011 est.)<br>
 
-**Taxes and other revenues**<br>
-14.9% (of GDP) (2011 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2011 est.)<br>
+
+**Taxes and other revenues**<br>
+14.9% (of GDP) (2011 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

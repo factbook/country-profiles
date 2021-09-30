@@ -156,6 +156,9 @@ _female_: 80 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.71 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: total_: total: 100% of population<br>
 _unimproved: total_: total: 0% of population (2017 est.)<br>
@@ -187,6 +190,9 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 2.5% of GDP (2013)<br>
@@ -365,10 +371,25 @@ _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 **Economic overview**<br>
 <p>Lebanon has a free-market economy and a strong laissez-faire commercial tradition. The government does not restrict foreign investment; however, the investment climate suffers from red tape, corruption, arbitrary licensing decisions, complex customs procedures, high taxes, tariffs, and fees, archaic legislation, and inadequate intellectual property rights protection. The Lebanese economy is service-oriented; main growth sectors include banking and tourism.</p><p></p><p>The 1975-90 civil war seriously damaged Lebanon's economic infrastructure, cut national output by half, and derailed Lebanon's position as a Middle Eastern banking hub. Following the civil war, Lebanon rebuilt much of its war-torn physical and financial infrastructure by borrowing heavily, mostly from domestic banks, which saddled the government with a huge debt burden. Pledges of economic and financial reforms made at separate international donor conferences during the 2000s have mostly gone unfulfilled, including those made during the Paris III Donor Conference in 2007, following the July 2006 war. The "CEDRE" investment event hosted by France in April 2018 again rallied the international community to assist Lebanon with concessional financing and some grants for capital infrastructure improvements, conditioned upon long-delayed structural economic reforms in fiscal management, electricity tariffs, and transparent public procurement, among many others.</p><p></p><p>The Syria conflict cut off one of Lebanon's major markets and a transport corridor through the Levant. The influx of nearly one million registered and an estimated 300,000 unregistered Syrian refugees has increased social tensions and heightened competition for low-skill jobs and public services. Lebanon continues to face several long-term structural weaknesses that predate the Syria crisis, notably, weak infrastructure, poor service delivery, institutionalized corruption, and bureaucratic over-regulation. Chronic fiscal deficits have increased Lebanon’s debt-to-GDP ratio, the third highest in the world; most of the debt is held internally by Lebanese banks. These factors combined to slow economic growth to the 1-2% range in 2011-17, after four years of averaging 8% growth. Weak economic growth limits tax revenues, while the largest government expenditures remain debt servicing, salaries for government workers, and transfers to the electricity sector. These limitations constrain other government spending, limiting its ability to invest in necessary infrastructure improvements, such as water, electricity, and transportation. In early 2018, the Lebanese government signed long-awaited contract agreements with an international consortium for petroleum exploration and production as part of the country’s first offshore licensing round. Exploration is expected to begin in 2019.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$99.761 billion (2019 est.)<br>
+$106.925 billion (2018 est.)<br>
+$109.025 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 1.5% (2017 est.)<br>
 1.7% (2016 est.)<br>
 0.2% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$14,552 (2019 est.)<br>
+$15,612 (2018 est.)<br>
+$16,005 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$53.253 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.8% (2019 est.)<br>
@@ -379,26 +400,6 @@ _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 _Fitch rating_: RD (2020)<br>
 _Moody's rating_: C (2020)<br>
 _Standard & Poors rating_: D (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$99.761 billion (2019 est.)<br>
-$106.925 billion (2018 est.)<br>
-$109.025 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$53.253 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,552 (2019 est.)<br>
-$15,612 (2018 est.)<br>
-$16,005 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
--3.1% of GDP (2019 est.)<br>
--4% of GDP (2018 est.)<br>
--1.3% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3.9% (2017 est.)<br>
@@ -412,12 +413,6 @@ _investment in fixed capital_: 21.8% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 23.6% (2017 est.)<br>
 _imports of goods and services_: -46.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 54.3 (2020)<br>
-_Starting a Business score_: 78.2 (2020)<br>
-_Trading score_: 57.9 (2020)<br>
-_Enforcement score_: 50.8 (2020)<br>
 
 **Agricultural products**<br>
 potatoes, milk, tomatoes, apples, oranges, olives, wheat, cucumbers, poultry, lemons<br>
@@ -454,9 +449,6 @@ _highest 10%_: NA<br>
 _revenues_: 11.62 billion (2017 est.)<br>
 _expenditures_: 15.38 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.9% (of GDP) (2017 est.)<br>
 
@@ -464,6 +456,9 @@ _expenditures_: 15.38 billion (2017 est.)<br>
 146.8% of GDP (2017 est.)<br>
 145.5% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover central government debt and exclude debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment<br>
+
+**Taxes and other revenues**<br>
+21.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

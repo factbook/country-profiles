@@ -147,6 +147,9 @@ _female_: 72.98 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.8 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 99.3% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -183,6 +186,9 @@ _unimproved: total_: total: 21.7% of population (2017 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 6.4% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 6.9% of GDP (2018)<br>
@@ -342,23 +348,16 @@ _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 **Economic overview**<br>
 <p>Bhutan's small economy is based largely on hydropower, agriculture, and forestry, which provide the main livelihood for more than half the population. Because rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive, industrial production is primarily of the cottage industry type. The economy is closely aligned with India's through strong trade and monetary links and is dependent on India for financial assistance and migrant laborers for development projects, especially for road construction. Bhutan signed a pact in December 2014 to expand duty-free trade with Bangladesh.</p><p></p><p>Multilateral development organizations administer most educational, social, and environment programs, and take into account the government's desire to protect the country's environment and cultural traditions. For example, the government is cautious in its expansion of the tourist sector, restricing visits to environmentally conscientious tourists. Complicated controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment.</p><p></p><p>Bhutan’s largest export - hydropower to India - could spur sustainable growth in the coming years if Bhutan resolves chronic delays in construction. Bhutan’s hydropower exports comprise 40% of total exports and 25% of the government’s total revenue. Bhutan currently taps only 6.5% of its 24,000-megawatt hydropower potential and is behind schedule in building 12 new hydropower dams with a combined capacity of 10,000 megawatts by 2020 in accordance with a deal signed in 2008 with India. The high volume of imported materials to build hydropower plants has expanded Bhutan's trade and current account deficits. Bhutan also signed a memorandum of understanding with Bangladesh and India in July 2017 to jointly construct a new hydropower plant for exporting electricity to Bangladesh.</p><br>
 
-**Real GDP growth rate**<br>
-7.4% (2017 est.)<br>
-7.3% (2016 est.)<br>
-6.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-5.8% (2017 est.)<br>
-7.6% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $9.029 billion (2019 est.)<br>
 $8.561 billion (2018 est.)<br>
 $8.307 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$2.405 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+7.4% (2017 est.)<br>
+7.3% (2016 est.)<br>
+6.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $11,832 (2019 est.)<br>
@@ -366,10 +365,12 @@ $11,348 (2018 est.)<br>
 $11,142 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-19.2% of GDP (2019 est.)<br>
-21.7% of GDP (2018 est.)<br>
-27.9% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$2.405 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+5.8% (2017 est.)<br>
+7.6% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.2% (2017 est.)<br>
@@ -383,12 +384,6 @@ _investment in fixed capital_: 47.2% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 26% (2017 est.)<br>
 _imports of goods and services_: -48% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 66 (2020)<br>
-_Starting a Business score_: 86.4 (2020)<br>
-_Trading score_: 94.2 (2020)<br>
-_Enforcement score_: 70 (2020)<br>
 
 **Agricultural products**<br>
 milk, rice, maize, potatoes, roots/tubers, oranges, areca nuts, chillies/peppers, spices, ginger<br>
@@ -428,15 +423,15 @@ _revenues_: 655.3 million (2017 est.)<br>
 _expenditures_: 737.4 million (2017 est.)<br>
 <strong>note:</strong> the Government of India finances nearly one-quarter of Bhutan's budget expenditures<br>
 
-**Taxes and other revenues**<br>
-27.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 106.3% of GDP (2017 est.)<br>
 114.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+27.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

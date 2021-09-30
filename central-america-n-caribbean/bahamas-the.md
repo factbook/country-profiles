@@ -183,6 +183,9 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 31.6% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 NA<br>
 
@@ -336,10 +339,25 @@ _lyrics/music_: Timothy GIBSON<br>
 **Economic overview**<br>
 The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization.<br>
 
+**Real GDP (purchasing power parity)**<br>
+$14.45 billion (2019 est.)<br>
+$14.276 billion (2018 est.)<br>
+$13.856 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 1.4% (2017 est.)<br>
 -1.7% (2016 est.)<br>
 1% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$37,101 (2019 est.)<br>
+$37,020 (2018 est.)<br>
+$36,297 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$12.16 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2017 est.)<br>
@@ -348,26 +366,6 @@ The Bahamas has the second highest per capita GDP in the English-speaking Caribb
 **Credit ratings**<br>
 _Moody's rating_: Ba2 (2020)<br>
 _Standard & Poors rating_: BB- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$14.45 billion (2019 est.)<br>
-$14.276 billion (2018 est.)<br>
-$13.856 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$12.16 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$37,101 (2019 est.)<br>
-$37,020 (2018 est.)<br>
-$36,297 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-29% of GDP (2019 est.)<br>
-18% of GDP (2018 est.)<br>
-19.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.3% (2017 est.)<br>
@@ -381,12 +379,6 @@ _investment in fixed capital_: 26.3% (2017 est.)<br>
 _investment in inventories_: 0.7% (2017 est.)<br>
 _exports of goods and services_: 33.7% (2017 est.)<br>
 _imports of goods and services_: -41.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.9 (2020)<br>
-_Starting a Business score_: 87 (2020)<br>
-_Trading score_: 53.1 (2020)<br>
-_Enforcement score_: 59.1 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, grapefruit, vegetables, bananas, tomatoes, poultry, tropical fruit, oranges, coconuts, mangoes/guavas<br>
@@ -421,15 +413,15 @@ _highest 10%_: 22% (2007 est.)<br>
 _revenues_: 2.139 billion (2017 est.)<br>
 _expenditures_: 2.46 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-17.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 54.6% of GDP (2017 est.)<br>
 50.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+17.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

@@ -146,6 +146,9 @@ _female_: 77.75 years (2021 est.)<br>
 **Total fertility rate**<br>
 1.7 children born/woman (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
 **Drinking water source**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -187,6 +190,9 @@ _vectorborne diseases_: malaria<br>
 
 **Obesity - adult prevalence rate**<br>
 55.3% (2016)<br>
+
+**Children under the age of 5 years underweight**<br>
+NA<br>
 
 **Education expenditures**<br>
 NA<br>
@@ -351,23 +357,16 @@ _lyrics/music_: multiple/Ymesei O. EZEKIEL<br>
 **Economic overview**<br>
 <p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p><p></p><p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
 
-**Real GDP growth rate**<br>
--3.7% (2017 est.)<br>
-0% (2016 est.)<br>
-10.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.9% (2017 est.)<br>
--1% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $316 million (2019 est.)<br>
 $330 million (2018 est.)<br>
 $317 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$292 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+-3.7% (2017 est.)<br>
+0% (2016 est.)<br>
+10.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $17,579 (2019 est.)<br>
@@ -375,9 +374,12 @@ $18,463 (2018 est.)<br>
 $17,841 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-12.3% of GDP (2017 est.)<br>
-50.1% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$292 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.9% (2017 est.)<br>
+-1% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2016 est.)<br>
@@ -391,12 +393,6 @@ _investment in fixed capital_: 22.7% (2016 est.)<br>
 _investment in inventories_: 1.9% (2016 est.)<br>
 _exports of goods and services_: 55.2% (2016 est.)<br>
 _imports of goods and services_: -67.6% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 53.7 (2020)<br>
-_Starting a Business score_: 82.1 (2020)<br>
-_Trading score_: 61 (2020)<br>
-_Enforcement score_: 52.2 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, cassava (manioc, tapioca), sweet potatoes; fish, pigs, chickens, eggs, bananas, papaya, breadfruit, calamansi, soursop, Polynesian chestnuts, Polynesian almonds, mangoes, taro, guava, beans, cucumbers, squash/pumpkins (various), eggplant, green onions, kangkong (watercress), cabbages (various), radishes, betel nuts, melons, peppers, noni, okra<br>
@@ -430,15 +426,15 @@ _highest 10%_: NA<br>
 _revenues_: 193 million (2012 est.)<br>
 _expenditures_: 167.3 million (2012 est.)<br>
 
-**Taxes and other revenues**<br>
-66.1% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 8.8% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 24.1% of GDP (2016 est.)<br>
 21.6% of GDP (2015)<br>
+
+**Taxes and other revenues**<br>
+66.1% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>

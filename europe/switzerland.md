@@ -200,6 +200,9 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Obesity - adult prevalence rate**<br>
 19.5% (2016)<br>
 
+**Children under the age of 5 years underweight**<br>
+NA<br>
+
 **Education expenditures**<br>
 5.1% of GDP (2017)<br>
 
@@ -368,10 +371,25 @@ the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [Fr
 **Economic overview**<br>
 <p>Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.</p><p></p><p>The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.</p><p></p><p>The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.</p><p></p><p>In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$588.472 billion (2019 est.)<br>
+$583.056 billion (2018 est.)<br>
+$567.448 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 1.11% (2019 est.)<br>
 3.04% (2018 est.)<br>
 1.65% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$68,628 (2019 est.)<br>
+$68,479 (2018 est.)<br>
+$67,139 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$731.502 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2019 est.)<br>
@@ -382,26 +400,6 @@ the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [Fr
 _Fitch rating_: AAA (2000)<br>
 _Moody's rating_: Aaa (1982)<br>
 _Standard & Poors rating_: AAA (1988)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$588.472 billion (2019 est.)<br>
-$583.056 billion (2018 est.)<br>
-$567.448 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$731.502 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$68,628 (2019 est.)<br>
-$68,479 (2018 est.)<br>
-$67,139 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-35.3% of GDP (2019 est.)<br>
-33.8% of GDP (2018 est.)<br>
-30.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 0.7% (2017 est.)<br>
@@ -415,12 +413,6 @@ _investment in fixed capital_: 24.5% (2017 est.)<br>
 _investment in inventories_: -1.4% (2017 est.)<br>
 _exports of goods and services_: 65.1% (2017 est.)<br>
 _imports of goods and services_: -54% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.6 (2020)<br>
-_Starting a Business score_: 88.4 (2020)<br>
-_Trading score_: 96.1 (2020)<br>
-_Enforcement score_: 64.1 (2020)<br>
 
 **Agricultural products**<br>
 milk, sugar beet, wheat, potatoes, pork, barley, apples, maize, beef, grapes<br>
@@ -459,9 +451,6 @@ _revenues_: 242.1 billion (2017 est.)<br>
 _expenditures_: 234.4 billion (2017 est.)<br>
 <strong>note:</strong> includes federal, cantonal, and municipal budgets<br>
 
-**Taxes and other revenues**<br>
-35.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 1.1% (of GDP) (2017 est.)<br>
 
@@ -469,6 +458,9 @@ _expenditures_: 234.4 billion (2017 est.)<br>
 41.8% of GDP (2017 est.)<br>
 41.8% of GDP (2016 est.)<br>
 <strong>note:</strong> general government gross debt; gross debt consists of all liabilities that require payment or payments of interest and/or principal by the debtor to the creditor at a date or dates in the future; includes debt liabilities in the form of Special Drawing Rights (SDRs), currency and deposits, debt securities, loans, insurance, pensions and standardized guarantee schemes, and other accounts payable; all liabilities in the GFSM (Government Financial Systems Manual) 2001 system are debt, except for equity and investment fund shares and financial derivatives and employee stock options<br>
+
+**Taxes and other revenues**<br>
+35.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

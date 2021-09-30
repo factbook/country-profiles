@@ -86,6 +86,13 @@ _major-language sample(s)_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk m
 **Religions**<br>
 Muslim (predominantly Sunni) 75%, Anglican 3.5%, Roman Catholic 2.2%, none 12.9%, unspecified 6.3% (2016 est.)<br>
 
+**Age structure**<br>
+_0-14 years_: NA<br>
+_15-24 years_: NA<br>
+_25-54 years_: NA<br>
+_55-64 years_: NA<br>
+_65 years and over_: NA<br>
+
 **Population growth rate**<br>
 NA (2021 est.)<br>
 
@@ -93,7 +100,7 @@ NA (2021 est.)<br>
 NA<br>
 
 **Death rate**<br>
-8.89 deaths/1,000 population NA (2021 est.)<br>
+8.89 deaths/1,000 population (2021 est.)<br>
 
 **Net migration rate**<br>
 NA (2021 est.)<br>
@@ -114,6 +121,12 @@ _female_: NA (2021 est.)<br>
 **Total fertility rate**<br>
 NA (2021 est.)<br>
 
+**Contraceptive prevalence rate**<br>
+NA<br>
+
+**Current Health Expenditure**<br>
+NA<br>
+
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
@@ -121,6 +134,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - deaths**<br>
+NA<br>
+
+**Children under the age of 5 years underweight**<br>
 NA<br>
 
 ## Environment
@@ -213,11 +229,11 @@ the flag of Australia is used<br>
 **Economic overview**<br>
 Coconuts, grown throughout the islands, are the sole cash crop. Small local gardens and fishing contribute to the food supply, but additional food and most other necessities must be imported from Australia. There is a small tourist industry.<br>
 
-**Real GDP growth rate**<br>
-1% (2003)<br>
-
 **Real GDP (purchasing power parity)**<br>
 <p>NA</p><br>
+
+**Real GDP growth rate**<br>
+1% (2003)<br>
 
 **Agricultural products**<br>
 vegetables, bananas, pawpaws, coconuts<br>
