@@ -381,24 +381,16 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 **Economic overview**<br>
 <p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p><p></p><p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p><p></p><p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
 
-**Real GDP growth rate**<br>
-3.7% (2017 est.)<br>
-6.3% (2016 est.)<br>
--20.5% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-14.8% (2019 est.)<br>
-16% (2018 est.)<br>
-18.2% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $13.425 billion (2019 est.)<br>
 $12.724 billion (2018 est.)<br>
 $12.3 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$4.132 billion (2020 est.)<br>
+**Real GDP growth rate**<br>
+3.7% (2017 est.)<br>
+6.3% (2016 est.)<br>
+-20.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,718 (2019 est.)<br>
@@ -406,10 +398,13 @@ $1,663 (2018 est.)<br>
 $1,643 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
--7.3% of GDP (2018 est.)<br>
-4.3% of GDP (2017 est.)<br>
--5.9% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$4.132 billion (2020 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+14.8% (2019 est.)<br>
+16% (2018 est.)<br>
+18.2% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 60.7% (2017 est.)<br>
@@ -423,12 +418,6 @@ _investment in fixed capital_: 18.1% (2017 est.)<br>
 _investment in inventories_: 0.4% (2017 est.)<br>
 _exports of goods and services_: 26.8% (2017 est.)<br>
 _imports of goods and services_: -55.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 47.5 (2020)<br>
-_Starting a Business score_: 91.3 (2020)<br>
-_Trading score_: 51.9 (2020)<br>
-_Enforcement score_: 55.9 (2020)<br>
 
 **Agricultural products**<br>
 cassava, rice, vegetables, oil palm fruit, sweet potatoes, milk, citrus fruit, groundnuts, fruit, pulses nes<br>
@@ -466,15 +455,15 @@ _highest 10%_: 33.6% (2003)<br>
 _revenues_: 562 million (2017 est.)<br>
 _expenditures_: 846.4 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -7.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
 54.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

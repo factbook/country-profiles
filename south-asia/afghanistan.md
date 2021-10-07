@@ -389,23 +389,16 @@ _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
 **Economic overview**<br>
 <p>Prior to 2001, Afghanistan was an extremely poor, landlocked, and foreign aid-dependent country. Increased domestic economic activity occurred following the US-led invasion, as well as significant international economic development assistance. This increased activity expanded access to water, electricity, sanitation, education, and health services, and fostered consistent growth in government revenues since 2014. While international security forces have been drawing down since 2012, with much higher U.S. forces’ drawdowns occurring since 2017, economic progress continues, albeit uneven across sectors and key economic indicators. After recovering from the 2018 drought and growing 3.9% in 2019, political instability, expiring international financial commitments, and the COVID-19 pandemic have wrought significant adversity on the Afghan economy, with a projected 5% contraction.</p> <p>Current political parties’ power-sharing agreement following the September 2019 presidential elections as well as ongoing Taliban attacks and peace talks have led to Afghan economic instability. This instability, coupled with expiring international grant and assistance, endangers recent fiscal gains and has led to more internally displaced persons. In November 2020, Afghanistan secured $12 billion in additional international aid for 2021-2025, much of which is conditional upon Taliban peace progress. Additionally, Afghanistan continues to experience influxes of repatriating Afghanis, mostly from Iran, significantly straining economic and security institutions.</p> <p>Afghanistan’s trade deficit remains at approximately 31% of GDP and is highly dependent on financing through grants and aid. While Afghan agricultural growth remains consistent, recent industrial and services growth have been enormously impacted by COVID-19 lockdowns and trade cessations. While trade with the People’s Republic of China has rapidly expanded in recent years, Afghanistan still relies heavily upon India and Pakistan as export partners but is more diverse in its import partners. Furthermore, Afghanistan still struggles to effectively enforce business contracts, facilitate easy tax collection, and enable greater international trade for domestic enterprises.<br><br>Current Afghan priorities focus on the following goals:</p> <ul> <li>Securing international economic agreements, many of which are contingent on Taliban peace progress;</li> <li>Increasing exports to $2 billion USD by 2023;</li> <li>Continuing to expand government revenue collection;</li> <li>Countering corruption and navigating challenges from the power-sharing agreement; and</li> <li>Developing a strong private sector that can empower the economy.</li> </ul><br>
 
-**Real GDP growth rate**<br>
-2.7% (2017 est.)<br>
-2.2% (2016 est.)<br>
-1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-5% (2017 est.)<br>
-4.4% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $78.557 billion (2019 est.)<br>
 $75.6 billion (2018 est.)<br>
 $74.711 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$20.24 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.7% (2017 est.)<br>
+2.2% (2016 est.)<br>
+1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,065 (2019 est.)<br>
@@ -413,10 +406,12 @@ $2,034 (2018 est.)<br>
 $2,058 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-22.7% of GDP (2017 est.)<br>
-25.8% of GDP (2016 est.)<br>
-21.4% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$20.24 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+5% (2017 est.)<br>
+4.4% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 17.2% (2016 est.)<br>
 _investment in inventories_: 30% (2016 est.)<br>
 _exports of goods and services_: 6.7% (2016 est.)<br>
 _imports of goods and services_: -47.6% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 44.1 (2020)<br>
-_Starting a Business score_: 92 (2020)<br>
-_Trading score_: 30.6 (2020)<br>
-_Enforcement score_: 31.8 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, grapes, vegetables, potatoes, watermelons, melons, rice, onions, apples<br>
@@ -473,15 +462,15 @@ _highest 10%_: 24% (2008)<br>
 _revenues_: 2.276 billion (2017 est.)<br>
 _expenditures_: 5.328 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-11.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -15.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 7% of GDP (2017 est.)<br>
 7.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+11.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 21 December - 20 December<br>

@@ -388,24 +388,16 @@ _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 **Economic overview**<br>
 <p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p><p></p><p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p><p></p><p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
 
-**Real GDP growth rate**<br>
-4% (2017 est.)<br>
-2.3% (2016 est.)<br>
-3% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-9.3% (2019 est.)<br>
-12.4% (2018 est.)<br>
-11.7% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $19.741 billion (2019 est.)<br>
 $18.914 billion (2018 est.)<br>
 $18.333 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$7.766 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+4% (2017 est.)<br>
+2.3% (2016 est.)<br>
+3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,060 (2019 est.)<br>
@@ -413,10 +405,13 @@ $1,043 (2018 est.)<br>
 $1,038 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-11% of GDP (2019 est.)<br>
-9.1% of GDP (2018 est.)<br>
-8.2% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$7.766 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+9.3% (2019 est.)<br>
+12.4% (2018 est.)<br>
+11.7% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 28.6% (2017 est.)<br>
@@ -430,12 +425,6 @@ _investment in fixed capital_: 15.3% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 27.9% (2017 est.)<br>
 _imports of goods and services_: -43.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60.9 (2020)<br>
-_Starting a Business score_: 77.9 (2020)<br>
-_Trading score_: 65.3 (2020)<br>
-_Enforcement score_: 47.4 (2020)<br>
 
 **Agricultural products**<br>
 sweet potatoes, cassava, sugar cane, maize, mangoes/guavas, potatoes, tomatoes, pigeon peas, bananas, plantains<br>
@@ -472,15 +461,15 @@ _highest 10%_: 37.5% (2010 est.)<br>
 _revenues_: 1.356 billion (2017 est.)<br>
 _expenditures_: 1.567 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 59.2% of GDP (2017 est.)<br>
 60.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 July - 30 June<br>

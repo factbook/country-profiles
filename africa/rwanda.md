@@ -381,10 +381,25 @@ _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 **Economic overview**<br>
 <p>Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth.</p><p></p><p>The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006.</p><p></p><p>The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency.</p><p></p><p>The Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$28.118 billion (2019 est.)<br>
+$25.695 billion (2018 est.)<br>
+$23.665 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 6.1% (2017 est.)<br>
 6% (2016 est.)<br>
 8.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$2,227 (2019 est.)<br>
+$2,089 (2018 est.)<br>
+$1,975 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$9.136 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 3.3% (2019 est.)<br>
@@ -395,26 +410,6 @@ _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 _Fitch rating_: B+ (2014)<br>
 _Moody's rating_: B2 (2016)<br>
 _Standard & Poors rating_: B+ (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$28.118 billion (2019 est.)<br>
-$25.695 billion (2018 est.)<br>
-$23.665 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$9.136 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$2,227 (2019 est.)<br>
-$2,089 (2018 est.)<br>
-$1,975 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-12.5% of GDP (2018 est.)<br>
-15.5% of GDP (2017 est.)<br>
-7.5% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 30.9% (2017 est.)<br>
@@ -428,12 +423,6 @@ _investment in fixed capital_: 22.9% (2017 est.)<br>
 _investment in inventories_: 0.5% (2017 est.)<br>
 _exports of goods and services_: 18.2% (2017 est.)<br>
 _imports of goods and services_: -32.8% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.5 (2020)<br>
-_Starting a Business score_: 93.2 (2020)<br>
-_Trading score_: 75 (2020)<br>
-_Enforcement score_: 69.1 (2020)<br>
 
 **Agricultural products**<br>
 bananas, sweet potatoes, cassava, potatoes, plantains, beans, maize, gourds, milk, taro<br>
@@ -470,15 +459,15 @@ _highest 10%_: 43.2% (2011 est.)<br>
 _revenues_: 1.943 billion (2017 est.)<br>
 _expenditures_: 2.337 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-21.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 40.5% of GDP (2017 est.)<br>
 37.3% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+21.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

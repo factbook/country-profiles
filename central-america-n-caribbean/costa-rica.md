@@ -383,10 +383,25 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 **Economic overview**<br>
 <p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p><p></p><p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p><p></p><p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$99.146 billion (2019 est.)<br>
+$97.122 billion (2018 est.)<br>
+$94.605 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 3.3% (2017 est.)<br>
 4.2% (2016 est.)<br>
 3.6% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$19,642 (2019 est.)<br>
+$19,427 (2018 est.)<br>
+$19,112 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$61.855 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2% (2019 est.)<br>
@@ -397,26 +412,6 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 _Fitch rating_: B (2020)<br>
 _Moody's rating_: B2 (2020)<br>
 _Standard & Poors rating_: B (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$99.146 billion (2019 est.)<br>
-$97.122 billion (2018 est.)<br>
-$94.605 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$61.855 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$19,642 (2019 est.)<br>
-$19,427 (2018 est.)<br>
-$19,112 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-14.2% of GDP (2019 est.)<br>
-15.2% of GDP (2018 est.)<br>
-14.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 5.5% (2017 est.)<br>
@@ -430,12 +425,6 @@ _investment in fixed capital_: 17.1% (2017 est.)<br>
 _investment in inventories_: 1% (2017 est.)<br>
 _exports of goods and services_: 33.3% (2017 est.)<br>
 _imports of goods and services_: -32.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 69.2 (2020)<br>
-_Starting a Business score_: 79.9 (2020)<br>
-_Trading score_: 77.6 (2020)<br>
-_Enforcement score_: 55.2 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, pineapples, bananas, milk, oil palm fruit, fruit, oranges, watermelons, cassava, rice<br>
@@ -474,15 +463,15 @@ _highest 10%_: 36.9% (2014 est.)<br>
 _revenues_: 8.357 billion (2017 est.)<br>
 _expenditures_: 11.92 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-14.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 48.9% of GDP (2017 est.)<br>
 44.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+14.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

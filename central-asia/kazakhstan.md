@@ -373,10 +373,25 @@ _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKO
 **Economic overview**<br>
 <p>Kazakhstan's vast hydrocarbon and mineral reserves form the backbone of its economy. Geographically the largest of the former Soviet republics, excluding Russia, Kazakhstan, g possesses substantial fossil fuel reserves and other minerals and metals, such as uranium, copper, and zinc. It also has a large agricultural sector featuring livestock and grain. The government realizes that its economy suffers from an overreliance on oil and extractive industries and has made initial attempts to diversify its economy by targeting sectors like transport, pharmaceuticals, telecommunications, petrochemicals and food processing for greater development and investment. It also adopted a Subsoil Code in December 2017 with the aim of increasing exploration and investment in the hydrocarbon, and particularly mining, sectors.</p><p></p><p>Kazakhstan's oil production and potential is expanding rapidly. A $36.8 billion expansion of Kazakhstan’s premiere Tengiz oil field by Chevron-led Tengizchevroil should be complete in 2022. Meanwhile, the super-giant Kashagan field finally launched production in October 2016 after years of delay and an estimated $55 billion in development costs. Kazakhstan’s total oil production in 2017 climbed 10.5%.</p><p></p><p>Kazakhstan is landlocked and depends on Russia to export its oil to Europe. It also exports oil directly to China. In 2010, Kazakhstan joined Russia and Belarus to establish a Customs Union in an effort to boost foreign investment and improve trade. The Customs Union evolved into a Single Economic Space in 2012 and the Eurasian Economic Union (EAEU) in January 2015. Supported by rising commodity prices, Kazakhstan’s exports to EAEU countries increased 30.2% in 2017. Imports from EAEU countries grew by 24.1%.</p><p></p><p>The economic downturn of its EAEU partner, Russia, and the decline in global commodity prices from 2014 to 2016 contributed to an economic slowdown in Kazakhstan. In 2014, Kazakhstan devalued its currency, the tenge, and announced a stimulus package to cope with its economic challenges. In the face of further decline in the ruble, oil prices, and the regional economy, Kazakhstan announced in 2015 it would replace its currency band with a floating exchange rate, leading to a sharp fall in the value of the tenge. Since reaching a low of 391 to the dollar in January 2016, the tenge has modestly appreciated, helped by somewhat higher oil prices. While growth slowed to about 1% in both 2015 and 2016, a moderate recovery in oil prices, relatively stable inflation and foreign exchange rates, and the start of production at Kashagan helped push 2017 GDP growth to 4%.</p><p></p><p>Despite some positive institutional and legislative changes in the last several years, investors remain concerned about corruption, bureaucracy, and arbitrary law enforcement, especially at the regional and municipal levels. An additional concern is the condition of the country’s banking sector, which suffers from poor asset quality and a lack of transparency. Investors also question the potentially negative effects on the economy of a contested presidential succession as Kazakhstan’s first president, Nursultan NAZARBAYEV, turned 77 in 2017.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$487.868 billion (2019 est.)<br>
+$466.859 billion (2018 est.)<br>
+$448.472 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 6.13% (2019 est.)<br>
 4.41% (2018 est.)<br>
 4.38% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$26,351 (2019 est.)<br>
+$25,544 (2018 est.)<br>
+$24,863 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$181.194 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 5.2% (2019 est.)<br>
@@ -387,26 +402,6 @@ _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKO
 _Fitch rating_: BBB (2016)<br>
 _Moody's rating_: Baa3 (2016)<br>
 _Standard & Poors rating_: BBB- (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$487.868 billion (2019 est.)<br>
-$466.859 billion (2018 est.)<br>
-$448.472 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$181.194 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$26,351 (2019 est.)<br>
-$25,544 (2018 est.)<br>
-$24,863 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-26.6% of GDP (2019 est.)<br>
-27.8% of GDP (2018 est.)<br>
-25.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 4.7% (2017 est.)<br>
@@ -420,12 +415,6 @@ _investment in fixed capital_: 22.5% (2017 est.)<br>
 _investment in inventories_: 4.8% (2017 est.)<br>
 _exports of goods and services_: 35.4% (2017 est.)<br>
 _imports of goods and services_: -27.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 79.6 (2020)<br>
-_Starting a Business score_: 94.4 (2020)<br>
-_Trading score_: 70.4 (2020)<br>
-_Enforcement score_: 81.3 (2020)<br>
 
 **Agricultural products**<br>
 wheat, milk, potatoes, barley, watermelons, melons, linseed, onions, maize, sunflower seed<br>
@@ -463,15 +452,15 @@ _highest 10%_: 23.3% (2016)<br>
 _revenues_: 35.48 billion (2017 est.)<br>
 _expenditures_: 38.3 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-22.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 20.8% of GDP (2017 est.)<br>
 19.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+22.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>

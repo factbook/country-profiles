@@ -389,24 +389,16 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 **Economic overview**<br>
 <p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p><p></p><p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p><p></p><p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
 
-**Real GDP growth rate**<br>
-0% (2017 est.)<br>
--1% (2016 est.)<br>
--4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
--0.6% (2019 est.)<br>
--2.5% (2018 est.)<br>
-15.9% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $8.667 billion (2019 est.)<br>
 $8.51 billion (2018 est.)<br>
 $8.375 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$3.027 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+0% (2017 est.)<br>
+-1% (2016 est.)<br>
+-4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $752 (2019 est.)<br>
@@ -414,10 +406,13 @@ $762 (2018 est.)<br>
 $774 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-4.4% of GDP (2018 est.)<br>
-6.1% of GDP (2017 est.)<br>
--6.7% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$3.027 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+-0.6% (2019 est.)<br>
+-2.5% (2018 est.)<br>
+15.9% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 39.5% (2017 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 16% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 5.5% (2017 est.)<br>
 _imports of goods and services_: -25.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 46.8 (2020)<br>
-_Starting a Business score_: 92.9 (2020)<br>
-_Trading score_: 47.3 (2020)<br>
-_Enforcement score_: 43 (2020)<br>
 
 **Agricultural products**<br>
 cassava, bananas, sweet potatoes, plantains, beans, vegetables, potatoes, cashew nuts, maize, taro<br>
@@ -472,15 +461,15 @@ _highest 10%_: 28% (2006)<br>
 _revenues_: 536.7 million (2017 est.)<br>
 _expenditures_: 729.6 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 51.7% of GDP (2017 est.)<br>
 48.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
