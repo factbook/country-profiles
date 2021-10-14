@@ -73,6 +73,9 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 **Geography - note**<br>
 <p><strong>note 1:</strong> the country lies on major sea and air routes linking North and South America</p> <p><strong>note 2:</strong> Venezuela has some of the most unique geology in the world; tepuis are massive table-top mountains of the western Guiana Highlands that tend to be isolated and thus support unique endemic plant and animal species; their sheer cliffsides account for some of the most spectacular waterfalls in the world including Angel Falls, the world's highest (979 m) that drops off Auyan Tepui</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -183,6 +186,9 @@ _unimproved: total_: total: 6.4% of population (2017 est.)<br>
 **HIV/AIDS - people living with HIV/AIDS**<br>
 100,000 (2020 est.)<br>
 
+**HIV/AIDS - deaths**<br>
+4,200 (2020 est.)<br>
+
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
@@ -196,7 +202,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+1.3% of GDP (2017)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -257,6 +263,9 @@ _widespread lack of access_: due to severe economic crisis - the total number of
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 ## Government
 
@@ -607,18 +616,18 @@ YV<br>
 _total_: 444 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 127 (2013)<br>
-_over 3,047 m_: 6 (2013)<br>
-_2,438 to 3,047 m_: 9 (2013)<br>
-_1,524 to 2,437 m_: 33 (2013)<br>
-_914 to 1,523 m_: 62 (2013)<br>
+_total_: 127<br>
+_over 3,047 m_: 6<br>
+_2,438 to 3,047 m_: 9<br>
+_1,524 to 2,437 m_: 33<br>
+_914 to 1,523 m_: 62<br>
 _under 914 m_: 17 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 317 (2013)<br>
-_2,438 to 3,047 m_: 3 (2013)<br>
-_1,524 to 2,437 m_: 57 (2013)<br>
-_914 to 1,523 m_: 127 (2013)<br>
+_total_: 317<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 57<br>
+_914 to 1,523 m_: 127<br>
 _under 914 m_: 130 (2013)<br>
 
 **Heliports**<br>
@@ -668,11 +677,11 @@ the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2020, no attacks were reported which was a decrease from the six attacks in 2019<br>
 
-**Military - note**<br>
-between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of mid-2019, military officers reportedly led at least 60 state-owned companies<br>
-
 **Military service age and obligation**<br>
 18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2019)<br>
+
+**Military - note**<br>
+between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of mid-2019, military officers reportedly led at least 60 state-owned companies<br>
 
 ## Terrorism
 

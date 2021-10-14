@@ -208,7 +208,7 @@ _vectorborne diseases_: dengue fever<br>
 2.4% (2019)<br>
 
 **Education expenditures**<br>
-12.8% of GDP (2010)<br>
+NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -625,16 +625,16 @@ CU<br>
 _total_: 133 (2017)<br>
 
 **Airports - with paved runways**<br>
-_total_: 64 (2017)<br>
-_over 3,047 m_: 7 (2017)<br>
-_2,438 to 3,047 m_: 10 (2017)<br>
-_1,524 to 2,437 m_: 16 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 64<br>
+_over 3,047 m_: 7<br>
+_2,438 to 3,047 m_: 10<br>
+_1,524 to 2,437 m_: 16<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 27 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 69 (2013)<br>
-_914 to 1,523 m_: 11 (2013)<br>
+_total_: 69<br>
+_914 to 1,523 m_: 11<br>
 _under 914 m_: 58 (2013)<br>
 
 **Pipelines**<br>
@@ -679,11 +679,11 @@ limited available information; estimated 50,000 active personnel (approximately 
 **Military equipment inventories and acquisitions**<br>
 the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004 (2020)<br>
 
-**Military - note**<br>
-the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism<br>
-
 **Military service age and obligation**<br>
 17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2017)<br>
+
+**Military - note**<br>
+the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism<br>
 
 ## Transnational Issues
 

@@ -74,6 +74,12 @@ _25-54 years_: 46.2% (male 7,201/female 7,841)<br>
 _55-64 years_: 8.71% (male 1,328/female 1,508)<br>
 _65 years and over_: 9.17% (male 1,305/female 1,680) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 33.3 years<br>
 _male_: 32.5 years<br>
@@ -119,6 +125,14 @@ _female_: 83.6 years (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
@@ -126,6 +140,9 @@ NA<br>
 NA<br>
 
 **HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
@@ -299,8 +316,8 @@ _percent of population_: 3.5% (July 2016 est.)<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_914 to 1,523 m_: 1<br>
+_total_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Transportation - note**<br>
 nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>

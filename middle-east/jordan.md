@@ -70,6 +70,12 @@ droughts; periodic earthquakes; flash floods<br>
 **Geography - note**<br>
 strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -198,7 +204,7 @@ _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 <100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 April 2021, Jordan has reported a total of 639,444 cases of COVID-19 or 6,267.13 cumulative cases of COVID-19 per 100,000 population with 71.38 cumulative deaths per 100,000 population; as of 7 April 2021, 4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 October 2021, Jordan has reported a total of 828,572 cases of COVID-19 or 8,120.76 cumulative cases of COVID-19 per 100,000 population with 105.48 cumulative deaths per 100,000 population; as of 5 October 2021, 36.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 35.5% (2016)<br>
@@ -207,7 +213,7 @@ _unimproved: total_: total: 1.5% of population (2017 est.)<br>
 3% (2012)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2019)<br>
+3% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -269,12 +275,18 @@ _urban population_: 91.6% of total population (2021)<br>
 _rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 April 2021, Jordan has reported a total of 639,444 cases of COVID-19 or 6,267.13 cumulative cases of COVID-19 per 100,000 population with 71.38 cumulative deaths per 100,000 population; as of 7 April 2021, 4% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 October 2021, Jordan has reported a total of 828,572 cases of COVID-19 or 8,120.76 cumulative cases of COVID-19 per 100,000 population with 105.48 cumulative deaths per 100,000 population; as of 5 October 2021, 36.52% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,529,997 tons (2013 est.)<br>
 _municipal solid waste recycled annually_: 177,100 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
 
 ## Government
 
@@ -627,14 +639,14 @@ JY<br>
 _total_: 18 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2017)<br>
-_over 3,047 m_: 8 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
+_total_: 16<br>
+_over 3,047 m_: 8<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
+_total_: 2<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -682,6 +694,9 @@ the JAF inventory is comprised of a wide mix of imported weapons, mostly second-
 **Military service age and obligation**<br>
 17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of three months of military training and nine months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least six months; service would include one month for military training with the remaining three months dedicated to vocational training in the sectors of construction and tourism (2020)<br>
 
+**Military - note**<br>
+<p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of ash-Sham and Syria (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -693,7 +708,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,272,411 (Palestinian refugees) (2020); 670,637 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
+_refugees (country of origin)_: 2,272,411 (Palestinian refugees) (2020); 670,364 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
 _stateless persons_: 17 (2020)<br>
 
 **Trafficking in persons**<br>

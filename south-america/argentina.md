@@ -73,6 +73,12 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 **Geography - note**<br>
 <strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -195,7 +201,7 @@ _unimproved: urban_: urban: 1.7% of population (2017 est.)<br>
 1,400 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 19 July 2021, Argentina has reported a total of 4,756,378 cases of COVID-19 or 10,523.94 cumulative cases of COVID-19 per 100,000 population with 224.69 cumulative deaths per 100,000 population; as of 19 July 2021, 48.74% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -204,7 +210,7 @@ _unimproved: urban_: urban: 1.7% of population (2017 est.)<br>
 1.7% (2018/19)<br>
 
 **Education expenditures**<br>
-5.5% of GDP (2017)<br>
+4.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -266,12 +272,18 @@ _urban population_: 92.2% of total population (2021)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 19 July 2021, Argentina has reported a total of 4,756,378 cases of COVID-19 or 10,523.94 cumulative cases of COVID-19 per 100,000 population with 224.69 cumulative deaths per 100,000 population; as of 19 July 2021, 48.74% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
 
 ## Government
 
@@ -629,19 +641,19 @@ LV<br>
 _total_: 916 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 161 (2017)<br>
-_over 3,047 m_: 4 (2017)<br>
-_2,438 to 3,047 m_: 29 (2017)<br>
-_1,524 to 2,437 m_: 65 (2017)<br>
-_914 to 1,523 m_: 53 (2017)<br>
+_total_: 161<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 29<br>
+_1,524 to 2,437 m_: 65<br>
+_914 to 1,523 m_: 53<br>
 _under 914 m_: 10 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 977 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 43 (2013)<br>
-_914 to 1,523 m_: 484 (2013)<br>
+_total_: 977<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 43<br>
+_914 to 1,523 m_: 484<br>
 _under 914 m_: 448 (2013)<br>
 
 **Heliports**<br>
@@ -696,11 +708,11 @@ the inventory of Argentina's armed forces is a mix of domestically-produced and 
 **Military deployments**<br>
 250 Cyprus (UNFICYP) (Jan 2021)<br>
 
-**Military - note**<br>
-the Argentine military focuses primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br>
-
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service; conscription suspended in 1995; Argentinians can still be drafted in times of crisis, national emergency, or war, or if the Defense Ministry is unable to fill all vacancies to keep the military functional (2019)<br>
+
+**Military - note**<br>
+as of 2021, the Argentine military was focused primarily on border security and counter-narcotics operations; in 2018, the government approved a decree allowing greater latitude for the military in internal security missions, with a focus on logistics support in border areas<br><br>Argentina has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Terrorism
 

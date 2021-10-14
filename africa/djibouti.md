@@ -614,15 +614,15 @@ J2<br>
 _total_: 13 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
+_total_: 3<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 7 (2013)<br>
+_total_: 10<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 7<br>
 _under 914 m_: 2 (2013)<br>
 
 **Railways**<br>

@@ -203,7 +203,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2017)<br>
+6.2% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -633,17 +633,17 @@ _annual freight traffic on registered air carriers_: 994.54 million mt-km (2018)
 _total_: 42 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 33 (2019)<br>
+_total_: 33<br>
 _over 3,047 m_: 3<br>
 _2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 12<br>
-_under 914 m_: 8<br>
+_under 914 m_: 8 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 9 (2020)<br>
+_total_: 9<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 6<br>
+_under 914 m_: 6 (2013)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -686,11 +686,11 @@ the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130
 **Military equipment inventories and acquisitions**<br>
 the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, the US is by far the leading supplier of arms to Israel, followed by Germany; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2021)<br>
 
-**Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of July 2021, UNDOF consisted of about 1,250 personnel<br>
-
 **Military service age and obligation**<br>
 18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2020)<br>
+
+**Military - note**<br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

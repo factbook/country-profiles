@@ -207,7 +207,7 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 0.7% (2010/12)<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2017)<br>
+4.6% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -383,10 +383,25 @@ _lyrics/music_: Jozef WYBICKI/traditional<br>
 **Economic overview**<br>
 <p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p><p></p><p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p><p></p><p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$1,261,433,000,000 (2019 est.)<br>
+$1,206,640,000,000 (2018 est.)<br>
+$1,145,323,000,000 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.55% (2019 est.)<br>
 5.36% (2018 est.)<br>
 4.83% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$33,221 (2019 est.)<br>
+$31,775 (2018 est.)<br>
+$30,160 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$595.72 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.1% (2019 est.)<br>
@@ -397,26 +412,6 @@ _lyrics/music_: Jozef WYBICKI/traditional<br>
 _Fitch rating_: A- (2007)<br>
 _Moody's rating_: A2 (2002)<br>
 _Standard & Poors rating_: A- (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$1,261,433,000,000 (2019 est.)<br>
-$1,206,640,000,000 (2018 est.)<br>
-$1,145,323,000,000 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$595.72 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$33,221 (2019 est.)<br>
-$31,775 (2018 est.)<br>
-$30,160 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-20.1% of GDP (2019 est.)<br>
-19.4% of GDP (2018 est.)<br>
-19.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -430,12 +425,6 @@ _investment in fixed capital_: 17.7% (2017 est.)<br>
 _investment in inventories_: 2% (2017 est.)<br>
 _exports of goods and services_: 54% (2017 est.)<br>
 _imports of goods and services_: -49.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.4 (2020)<br>
-_Starting a Business score_: 82.9 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 64.4 (2020)<br>
 
 **Agricultural products**<br>
 milk, sugar beet, wheat, potatoes, triticale, maize, barley, apples, mixed grains, rye<br>
@@ -473,9 +462,6 @@ _highest 10%_: 23.9% (2015 est.)<br>
 _revenues_: 207.5 billion (2017 est.)<br>
 _expenditures_: 216.2 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-39.5% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.7% (of GDP) (2017 est.)<br>
 
@@ -483,6 +469,9 @@ _expenditures_: 216.2 billion (2017 est.)<br>
 50.6% of GDP (2017 est.)<br>
 54.2% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities, the data include subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+39.5% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -645,17 +634,17 @@ SP<br>
 _total_: 126 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 87 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 30 (2017)<br>
-_1,524 to 2,437 m_: 36 (2017)<br>
-_914 to 1,523 m_: 10 (2017)<br>
+_total_: 87<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 30<br>
+_1,524 to 2,437 m_: 36<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 6 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 39 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 17 (2013)<br>
+_total_: 39<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 17<br>
 _under 914 m_: 21 (2013)<br>
 
 **Heliports**<br>
@@ -711,11 +700,11 @@ the inventory of the Polish Armed Forces consists of a mix of Soviet-era and mor
 240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (June 2021)<br>
 note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
 
-**Military - note**<br>
-Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
-
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2019)<br>
+
+**Military - note**<br>
+Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a multi-national NATO battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the US and had about 1,000 troops on a continuous rotational basis as of 2021</p><br>
 
 ## Terrorism
 

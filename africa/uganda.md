@@ -69,6 +69,9 @@ droughts; floods; earthquakes; landslides; hailstorms<br>
 **Geography - note**<br>
 landlocked; fertile, well-watered country with many lakes and rivers; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -211,7 +214,7 @@ _animal contact diseases_: rabies<br>
 10.4% (2016)<br>
 
 **Education expenditures**<br>
-2.1% of GDP (2018)<br>
+3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -286,6 +289,9 @@ _widespread lack of access_: due to reduced incomes, and floods - in traditional
 _municipal solid waste generated annually_: 7,045,050 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 422,703 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2017 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## Government
 
@@ -637,16 +643,16 @@ _annual passenger traffic on registered air carriers_: 21,537 (2018)<br>
 _total_: 47 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2019)<br>
+_total_: 5<br>
 _over 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 42 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 8 (2013)<br>
-_914 to 1,523 m_: 26 (2013)<br>
+_total_: 42<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 8<br>
+_914 to 1,523 m_: 26<br>
 _under 914 m_: 7 (2013)<br>
 
 **Railways**<br>
@@ -689,11 +695,11 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 **Military deployments**<br>
 6,200 Somalia (AMISOM); 620 Somalia (UNSOM); 250 Equatorial Guinea (Jan 2021)<br>
 
-**Military - note**<br>
-<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates; during the 2020 election cycle, senior UPDF officer said that the military would not obey a non-NRM political leader</p> <p>the UPDF has conducted operations in the Democratic Republic of the Congo against a Congo-based Ugandan rebel group, the Allied Democratic Forces (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); beginning in 2012, the UPDF also led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020</p><br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation (2019)<br>
+
+**Military - note**<br>
+<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates; during the 2020 election cycle, senior UPDF officer said that the military would not obey a non-NRM political leader</p> <p>the UPDF has conducted operations in the Democratic Republic of the Congo against a Congo-based Ugandan rebel group, the Allied Democratic Forces (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); beginning in 2012, the UPDF also led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020</p><br>
 
 ## Terrorism
 
@@ -707,7 +713,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 925,499 (South Sudan) (refugees and asylum seekers), 432,390 (Democratic Republic of the Congo), 51,115 (Burundi), 47,525 (Somalia) (refugees and asylum seekers), 19,010 (Rwanda), 17,522 (Eritrea) (2021)<br>
+_refugees (country of origin)_: 933,089 (South Sudan) (refugees and asylum seekers), 432,390 (Democratic Republic of the Congo), 51,410 (Burundi), 48,797 (Somalia) (refugees and asylum seekers), 19,010 (Rwanda), 17,522 (Eritrea) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

@@ -201,7 +201,7 @@ _unimproved: total_: total: 20.2% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2017)<br>
+4.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -609,10 +609,10 @@ D4<br>
 _total_: 9 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 3 (2017)<br>
+_total_: 9<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2017)<br>
 
 **Roadways**<br>

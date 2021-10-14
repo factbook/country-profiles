@@ -73,6 +73,9 @@ earthquakes, most severe in south and southwest; geologic structure and climate 
 **Geography - note**<br>
 controls the most easily traversable land route between the Balkans, Moldova, and Ukraine; the Carpathian Mountains dominate the center of the country, while the Danube River forms much of the southern boundary with Serbia and Bulgaria<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -207,7 +210,7 @@ _unimproved: total_: total: 15.7% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2017)<br>
+3.3% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -272,6 +275,9 @@ _rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -628,15 +634,15 @@ YR<br>
 _total_: 45 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26 (2017)<br>
-_over 3,047 m_: 4 (2017)<br>
-_2,438 to 3,047 m_: 10 (2017)<br>
-_1,524 to 2,437 m_: 11 (2017)<br>
+_total_: 26<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 10<br>
+_1,524 to 2,437 m_: 11<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 19 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 19<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 14 (2013)<br>
 
 **Heliports**<br>
@@ -688,11 +694,11 @@ the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and
 **Military deployments**<br>
 up to 120 Poland (NATO) (2021)<br>
 
-**Military - note**<br>
-Romania officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2019)<br>
+
+**Military - note**<br>
+Romania officially became a member of NATO in 2004<br>
 
 ## Terrorism
 
@@ -707,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 8,184 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 8,368 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

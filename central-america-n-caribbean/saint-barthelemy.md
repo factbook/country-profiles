@@ -70,6 +70,12 @@ _25-54 years_: 41.86% (male 1,618/female 1,363)<br>
 _55-64 years_: 16.29% (male 630/female 530)<br>
 _65 years and over_: 19.35% (male 690/female 688) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 45.6 years<br>
 _male_: 45.5 years<br>
@@ -115,10 +121,24 @@ _female_: 83.6 years (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
+**HIV/AIDS - adult prevalence rate**<br>
+NA<br>
+
 **HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
@@ -260,8 +280,8 @@ no local TV broadcasters; 3 FM radio channels (2019)<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_under 914 m_: 1<br>
+_total_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 40 km<br>

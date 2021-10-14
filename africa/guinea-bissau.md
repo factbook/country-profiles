@@ -71,6 +71,9 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fi
 **Geography - note**<br>
 this small country is swampy along its western coast and low-lying inland<br>
 
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -208,7 +211,7 @@ _animal contact diseases_: rabies<br>
 18.8% (2019)<br>
 
 **Education expenditures**<br>
-2.1% of GDP (2013)<br>
+2.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -268,6 +271,9 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
+
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin<br>
 
 ## Government
 
@@ -600,14 +606,14 @@ J5<br>
 _total_: 8 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 6 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 6<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 3 (2013)<br>
 
 **Roadways**<br>

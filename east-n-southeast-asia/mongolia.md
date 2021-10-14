@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Mongols gained fame in the 13th century when under Chinggis KHAAN they established a huge Eurasian empire through conquest. After his death the empire was divided into several powerful Mongol states, but these broke apart in the 14th century. The Mongols eventually retired to their original steppe homelands and in the late 17th century came under Chinese rule. Mongolia declared its independence from the Manchu-led Qing Empire in 1911 and achieved limited autonomy until 1919, when it again came under Chinese control. The Mongolian Revolution of 1921 ended Chinese dominance, and a communist regime, the Mongolian People’s Republic, took power in 1924.</p> <p>The modern country of Mongolia, represents only part of the Mongols' historical homeland; today, more ethnic Mongolians live in the Inner Mongolia Autonomous Region in the People's Republic of China than in Mongolia. Since the country's peaceful democratic revolution in 1990, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian People’s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties, including a new party formed by former President ENKHBAYAR, which confusingly adopted for itself the MPRP name. In the country's most recent parliamentary elections in June 2016, Mongolians handed the MPP overwhelming control of Parliament, largely pushing out the DP, which had overseen a sharp decline in Mongolia’s economy during its control of Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017.</p><br>
+<p>The peoples of Mongolia have a long history under a number of nomadic empires dating back to the period of the Xiongnu in the 4th century B.C. The name Mongol goes back to at least the 11th century A.D. The most famous Mongol, TEMÜÜJIN (aka Genghis Khan) emerged as the ruler of all Mongols in the early 1200s. By the time of his death in 1227, he had created through conquest a Mongol Empire that extended across much of Eurasia. His descendants, including ÖGÖDEI and KHUBILAI (aka Kublai Khan), continued military campaigns of conquest, taking control of Eastern Europe, the Middle East, and the rest of China where KHUBILAI established the Yuan Dynasty in the 1270s. The Mongols attempted to invade Japan and Java before their empire broke apart in the 14th century. In the 17th century, Mongolia fell under the rule of the Manchus of the Chinese Qing Dynasty. Following the collapse of the Manchus in 1911, Mongolia declared its independence, achieving it with help from the Soviet Union in 1921. Mongolia became a socialist state (the Mongolian People’s Republic) in 1924. Following independence and until the collapse of the Soviet Union in 1989, the country was a Soviet satellite state, and heavily reliant on economic, military, and political assistance from Moscow. The period also was marked by periods of purges, political repression, economic stagnation, and tensions with China. <br><br>Mongolia peacefully transitioned to an independent democracy in 1990. In 1992, it adopted a new constitution and established a free market economy. Since the country's transition, it has conducted six presidential and eight legislative elections as of 2020. Throughout the period, the ex-communist Mongolian People's Revolutionary Party (MPRP) - which took the name Mongolian People’s Party (MPP) in 2010 - has competed for political power with the Democratic Party (DP) and several other smaller parties, including a new party formed by former President ENKHBAYAR, which confusingly adopted for itself the MPRP name. In the 2016 parliamentary elections, the MPP won overwhelming control of the Parliament over the DP, which had overseen a sharp decline in Mongolia’s economy during its control of the Parliament in the preceding years. Mongolians elected a DP member, Khaltmaa BATTULGA, as president in 2017. The June 2020 parliamentary elections left the MPP with continued dominant control of the parliament. Mongolia maintains close cultural, political, and military ties with Russia while China is its largest economic partner. Mongolia’s foreign relations are focused on preserving its autonomy by balancing relations with China and Russia, as well as its other major partners, Japan, South Korea, and the US.</p><br>
 
 ## Geography
 
@@ -203,7 +203,7 @@ _unimproved: total_: total: 13.5% of population (2017 est.)<br>
 1.8% (2018)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2017)<br>
+4.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -317,11 +317,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Khaltmaa BATTULGA (since 10 July 2017)<br>
+_chief of state_: President Ukhnaa KHURELSUKH (since 25 June 2021)<br>
 _head of government_: Prime Minister Luvsannamsrai OYUN-ERDENE (since 27 January 2021); Deputy Prime Minister Ulziisaikhan ENKHTUVSHIN (since 18 October 2017)<br>
 _cabinet_: directly appointed by the prime minister following a constitutional amendment ratified in November 2019; prior to the amendment, the cabinet was nominated by the prime minister in consultation with the president and confirmed by the State Great Hural (parliament)<br>
-_elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 26 June 2017 with a runoff held 7 July 2017 (next to be held in 2021); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
-_election results_: Khaltmaa BATTULGA elected president in second round; percent of vote in first round - Khaltmaa BATTULGA (DP) 38.1%, Miyegombo ENKHBOLD (MPP) 30.3%, Sainkhuu GANBAATAR (MPRP) 30.2%, invalid 1.4%; percent of vote in second round - Khaltmaa BATTULGA 55.2%, Miyegombo ENKHBOLD 44.8%; on 2 July 2020, Prime Minister Ukhnaa KHURELSUKH was reelected prime minister by the State Great Hural<br>
+_elections/appointments_: presidential candidates nominated by political parties represented in the State Great Hural and directly elected by simple majority popular vote for a 4-year term (eligible for a second term); election last held on 9 June 2021; following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the State Great Hural<br>
+_election results_: Ukhnaa KHURELSUKH elected president in first round; percent of vote - Ukhnaa KHURELSUKH (Mongolian People's Party) 67.7%, Dangaasuren ENKHBAT (HUN Coalition) 20.31%, Sodnomzundui ERDENE (Democratic Party) 5.99%<br>
 
 **Legislative branch**<br>
 _description_: unicameral State Great Hural or Ulsyn Ikh Khural (76 seats; members directly elected in single-seat constituencies by simple majority vote; each constituency requires at least 50% voter participation for the poll to be valid; members serve 4-year terms)<br>
@@ -334,8 +334,8 @@ _judge selection and term of office_: Supreme Court chief justice and judges app
 _subordinate courts_: aimag (provincial) and capital city appellate courts; soum, inter-soum, and district courts; Administrative Cases Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party or DP [Sodnomzundui ERDENE; resigned June 2020]<br>Mongolian National Democratic Party or MNDP [Bayanjargal TSOGTGEREL]<br>Mongolian People's Party or MPP [Ukhnaa KHURELSUKH]<br>Mongolian People's Revolutionary Party or MPRP [Nambar ENKHBAYAR]<br>Civil Will-Green Party or CWGP [Tserendorjiin GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [B. NAIDALAA]<br> Mongolian Social Democratic Party or MSDP [A. GANBAATAR]<br> Justice Party [B. NASANBILEG]<br>
-note - there are 36 total registered parties as of March 2020<br>
+Democratic Party or DP [disputed]<br>Mongolian National Democratic Party or MNDP [Luvsannamsrai OYUN-ERDENE]<br>Mongolian People's Party or MPP [Ukhnaa KHURELSUKH]<br>Mongolian People's Revolutionary Party or MPRP [Nambar ENKHBAYAR]<br>Civil Will-Green Party or CWGP [Tserendorjiin GANKHUYAG] <br>Mongolian Traditionally United Party or MTUP [Batdelgeriin BATBOLD]<br>National Labor Party or HUN [T. Dorhkhand]<br>Mongolian Social Democratic Party or MSDP [A. GANBAATAR]<br>Justice Party [B. NASANBILEG]<br>
+<strong>note:</strong> there are 35 total registered parties as of September 2021<br>
 
 **International organization participation**<br>
 ADB, ARF, CD, CICA, CP, EBRD, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC, MIGA, MINURSO, MONUSCO, NAM, OPCW, OSCE, SCO (observer), UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -372,10 +372,25 @@ _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJOR
 **Economic overview**<br>
 <p>Foreign direct investment in Mongolia's extractive industries – which are based on extensive deposits of copper, gold, coal, molybdenum, fluorspar, uranium, tin, and tungsten - has transformed Mongolia's landlocked economy from its traditional dependence on herding and agriculture. Exports now account for more than 40% of GDP. Mongolia depends on China for more than 60% of its external trade - China receives some 90% of Mongolia's exports and supplies Mongolia with more than one-third of its imports. Mongolia also relies on Russia for 90% of its energy supplies, leaving it vulnerable to price increases. Remittances from Mongolians working abroad, particularly in South Korea, are significant.</p><p></p><p>Soviet assistance, at its height one-third of GDP, disappeared almost overnight in 1990 and 1991 at the time of the dismantlement of the USSR. The following decade saw Mongolia endure both deep recession, because of political inaction, and natural disasters, as well as strong economic growth, because of market reforms and extensive privatization of the formerly state-run economy. The country opened a fledgling stock exchange in 1991. Mongolia joined the WTO in 1997 and seeks to expand its participation in regional economic and trade regimes.</p><p></p><p>Growth averaged nearly 9% per year in 2004-08 largely because of high copper prices globally and new gold production. By late 2008, Mongolia was hit by the global financial crisis and Mongolia's real economy contracted 1.3% in 2009. In early 2009, the IMF reached a $236 million Stand-by Arrangement with Mongolia and it emerged from the crisis with a stronger banking sector and better fiscal management. In October 2009, Mongolia passed long-awaited legislation on an investment agreement to develop the Oyu Tolgoi (OT) mine, among the world's largest untapped copper-gold deposits. However, a dispute with foreign investors developing OT called into question the attractiveness of Mongolia as a destination for foreign investment. This caused a severe drop in FDI, and a slowing economy, leading to the dismissal of Prime Minister Norovyn ALTANKHUYAG in November 2014. The economy had grown more than 10% per year between 2011 and 2013 - largely on the strength of commodity exports and high government spending - before slowing to 7.8% in 2014, and falling to the 2% level in 2015. Growth rebounded from a brief 1.6% contraction in the third quarter of 2016 to 5.8% during the first three quarters of 2017, largely due to rising commodity prices.</p><p></p><p>The May 2015 agreement with Rio Tinto to restart the OT mine and the subsequent $4.4 billion finance package signing in December 2015 stemmed the loss of investor confidence. The current government has made restoring investor trust and reviving the economy its top priority, but has failed to invigorate the economy in the face of the large drop-off in foreign direct investment, mounting external debt, and a sizeable budget deficit. Mongolia secured a $5.5 billion financial assistance package from the IMF and a host of international creditors in May 2017, which is expected to improve Mongolia’s long-term fiscal and economic stability as long as Ulaanbaatar can advance the agreement’s difficult contingent reforms, such as consolidating the government’s off-balance sheet liabilities and rehabilitating the Mongolian banking sector.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$39.723 billion (2019 est.)<br>
+$37.774 billion (2018 est.)<br>
+$35.222 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 5.1% (2017 est.)<br>
 1.2% (2016 est.)<br>
 2.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$12,317 (2019 est.)<br>
+$11,916 (2018 est.)<br>
+$11,312 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$11.14 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.6% (2017 est.)<br>
@@ -385,26 +400,6 @@ _lyrics/music_: Tsendiin DAMDINSUREN/Bilegiin DAMDINSUREN and Luvsanjamts MURJOR
 _Fitch rating_: B (2018)<br>
 _Moody's rating_: B3 (2018)<br>
 _Standard & Poors rating_: B (2018)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$39.723 billion (2019 est.)<br>
-$37.774 billion (2018 est.)<br>
-$35.222 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$11.14 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$12,317 (2019 est.)<br>
-$11,916 (2018 est.)<br>
-$11,312 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-23.7% of GDP (2019 est.)<br>
-26% of GDP (2018 est.)<br>
-21.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 12.1% (2017 est.)<br>
@@ -418,12 +413,6 @@ _investment in fixed capital_: 23.8% (2017 est.)<br>
 _investment in inventories_: 12.4% (2017 est.)<br>
 _exports of goods and services_: 59.5% (2017 est.)<br>
 _imports of goods and services_: -57.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 67.8 (2020)<br>
-_Starting a Business score_: 86.7 (2020)<br>
-_Trading score_: 60.8 (2020)<br>
-_Enforcement score_: 61.4 (2020)<br>
 
 **Agricultural products**<br>
 milk, wheat, goat milk, potatoes, mutton, sheep milk, beef, goat meat, horse meat, carrots/turnips<br>
@@ -461,15 +450,15 @@ _highest 10%_: 5.7% (2017)<br>
 _revenues_: 2.967 billion (2017 est.)<br>
 _expenditures_: 3.681 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 91.4% of GDP (2017 est.)<br>
 90% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -634,16 +623,16 @@ JU<br>
 _total_: 44 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 15 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 10 (2017)<br>
+_total_: 15<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 10<br>
 _1,524 to 2,437 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 29 (2013)<br>
-_over 3,047 m_: 2 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 24 (2013)<br>
+_total_: 29<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 24<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>

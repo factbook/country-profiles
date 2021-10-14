@@ -67,6 +67,9 @@ population clusters exist throughout the country, the largest being in the east 
 **Geography - note**<br>
 the 41-km long Nerodimka River divides into two branches each of which flows into a different sea: the northern branch flows into the Sitnica River, which via the Ibar, Morava, and Danube Rivers ultimately flows into the Black Sea; the southern branch flows via the Lepenac and Vardar Rivers into the Aegean Sea<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -94,6 +97,12 @@ _15-24 years_: 16.95% (male 170,566/female 157,063)<br>
 _25-54 years_: 42.56% (male 433,914/female 388,595)<br>
 _55-64 years_: 8.67% (male 85,840/female 81,782)<br>
 _65 years and over_: 7.75% (male 63,943/female 85,940) (2020 est.)<br>
+
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
 
 **Median age**<br>
 _total_: 30.5 years<br>
@@ -142,6 +151,14 @@ _female_: 75.35 years (2021 est.)<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
+
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -194,6 +211,9 @@ _coal revenues_: 0.31% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 319,000 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -533,13 +553,13 @@ Z6<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2019)<br>
+_total_: 3<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
+_total_: 3<br>
 _under 914 m_: 3 (2013)<br>
 
 **Heliports**<br>
@@ -572,11 +592,11 @@ the Kosovo Security Force (KSF) has approximately 3,500 personnel; note - Kosovo
 **Military equipment inventories and acquisitions**<br>
 the KSF is equipped with small arms and light vehicles only; it relies on donations and since 2013 has received donated equipment from Turkey and the US (2020)<br>
 
-**Military - note**<br>
-the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; as of 2021, it numbered about 3,500 troops; KFOR also assists in developing the Kosovo Security Force<br>
-
 **Military service age and obligation**<br>
 service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper age for enlisting is 30 for officers, 25 for other ranks, although these may be waived for recruits with key skills considered essential for the KSF<br> (2019)<br>
+
+**Military - note**<br>
+the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support force since 1999; as of 2021, it numbered about 3,500 troops; KFOR also assists in developing the Kosovo Security Force<br>
 
 ## Transnational Issues
 
@@ -585,5 +605,5 @@ service is voluntary; must be over the age of 18 and a citizen of Kosovo; upper 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 6,940 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 7,355 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 

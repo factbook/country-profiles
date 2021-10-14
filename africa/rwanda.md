@@ -70,6 +70,9 @@ one of Africa's most densely populated countries; large concentrations tend to b
 **Geography - note**<br>
 landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -88,7 +91,7 @@ Kinyarwanda (official, universal Bantu vernacular) 93.2%, French (official) &lt;
 _major-language sample(s)_: <br>Inkoranya nzimbuzi y'isi, isoko fatizo y'amakuru y'ibanze. (Kinyarwanda)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Protestant 49.5% (includes Adventist 11.8% and other Protestant 37.7%), Roman Catholic 43.7%, Muslim 2%, other 0.9% (includes Jehovah's Witness), none 2.5%, unspecified 1.3% (2012 est.)<br>
+Protestant 57.7% (includes Adventist 12.6%), Roman Catholic 38.2%, Muslim 2.1%, other 1% (includes traditional, Jehovah's Witness), none 1.1% (2019-20 est.)<br>
 
 **Demographic profile**<br>
 <p>Rwanda’s fertility rate declined sharply during the last decade, as a result of the government’s commitment to family planning, the increased use of contraceptives, and a downward trend in ideal family size. Increases in educational attainment, particularly among girls, and exposure to social media also contributed to the reduction in the birth rate. The average number of births per woman decreased from a 5.6 in 2005 to 4.5 in 2016. Despite these significant strides in reducing fertility, Rwanda’s birth rate remains very high and will continue to for an extended period of time because of its large population entering reproductive age. Because Rwanda is one of the most densely populated countries in Africa, its persistent high population growth and increasingly small agricultural landholdings will put additional strain on families’ ability to raise foodstuffs and access potable water. These conditions will also hinder the government’s efforts to reduce poverty and prevent environmental degradation.</p><p>The UNHCR recommended that effective 30 June 2013 countries invoke a cessation of refugee status for those Rwandans who fled their homeland between 1959 and 1998, including the 1994 genocide, on the grounds that the conditions that drove them to seek protection abroad no longer exist. The UNHCR’s decision is controversial because many Rwandan refugees still fear persecution if they return home, concerns that are supported by the number of Rwandans granted asylum since 1998 and by the number exempted from the cessation. Rwandan refugees can still seek an exemption or local integration, but host countries are anxious to send the refugees back to Rwanda and are likely to avoid options that enable them to stay. Conversely, Rwanda itself hosts almost 160,000 refugees as of 2017; virtually all of them fleeing conflict in neighboring Burundi and the Democratic Republic of the Congo.</p><br>
@@ -209,7 +212,7 @@ _animal contact diseases_: rabies<br>
 7.7% (2019/20)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2018)<br>
+3.4% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -278,6 +281,9 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## Government
 
@@ -629,14 +635,14 @@ _annual passenger traffic on registered air carriers_: 1,073,528 (2018)<br>
 _total_: 7 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2019)<br>
+_total_: 4<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 3<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2013)<br>
 
 **Roadways**<br>
@@ -675,11 +681,14 @@ note - in mid-2021, Rwanda sent about 1,000 combat troops to Mozambique to assis
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2019)<br>
 
+**Military - note**<br>
+<p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of August 2021, over 6,000 RDF personnel were deployed on missions in four African countries, including the Central African Republic, Mozambique, South Sudan, and Sudan</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 74,836 (Democratic Republic of the Congo), 47,653 (Burundi) (2021)<br>
+_refugees (country of origin)_: 74,836 (Democratic Republic of the Congo), 47,669 (Burundi) (2021)<br>
 

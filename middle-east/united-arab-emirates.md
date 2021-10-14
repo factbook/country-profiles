@@ -189,7 +189,7 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 100 <100 (2020)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 April 2021, UAE has reported a total of 472,148 cases of COVID-19 or 4,773.8 cumulative cases of COVID-19 per 100,000 population with 15.29 cumulative deaths per 100,000 population; as of 23 February 2021, 35.2% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 31.7% (2016)<br>
@@ -198,7 +198,7 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+3.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -260,7 +260,7 @@ _urban population_: 87.3% of total population (2021)<br>
 _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 April 2021, UAE has reported a total of 472,148 cases of COVID-19 or 4,773.8 cumulative cases of COVID-19 per 100,000 population with 15.29 cumulative deaths per 100,000 population; as of 23 February 2021, 35.2% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
@@ -621,19 +621,19 @@ A6<br>
 _total_: 43 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 25 (2013)<br>
-_over 3,047 m_: 12 (2013)<br>
-_2,438 to 3,047 m_: 3 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 25<br>
+_over 3,047 m_: 12<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 18 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 18<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 6 (2013)<br>
 
 **Heliports**<br>
@@ -678,6 +678,9 @@ estimates vary; reportedly a few thousand remain in Yemen (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory military service for men; 17 years of age for male volunteers with parental approval; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2019)<br>
+
+**Military - note**<br>
+<p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
 
 ## Transnational Issues
 

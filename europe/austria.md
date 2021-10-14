@@ -70,6 +70,9 @@ landslides; avalanches; earthquakes<br>
 **Geography - note**<br>
 note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +207,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2017)<br>
+5.2% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -264,6 +267,9 @@ _municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,240,918 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## Government
 
 **Country name**<br>
@@ -313,7 +319,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
-_head of government_: Sebastian KURZ elected chancellor (since 2 January 2020)<br>
+_head of government_: Chancellor Alexander SCHALLENBERG (since 9 October 2021); note - Chancellor Sebastian KURZ (since 2 January 2020) resigned on 9 October 2021<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
@@ -621,17 +627,17 @@ OE<br>
 _total_: 50 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 24 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 24<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 13 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 28 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 28<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 24 (2013)<br>
 
 **Heliports**<br>
@@ -677,6 +683,9 @@ the Austrian military's inventory includes a mix of domestically-produced and im
 
 **Military service age and obligation**<br>
 registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2015)<br>
+
+**Military - note**<br>
+<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis-management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
 
 ## Terrorism
 

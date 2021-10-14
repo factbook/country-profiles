@@ -70,6 +70,12 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 **Geography - note**<br>
 <p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Nubian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -210,7 +216,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 29.2% (2019)<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2017)<br>
+2.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write French or Arabic<br>
@@ -284,6 +290,12 @@ _widespread lack of access_: due to civil insecurity - about 1.78 million people
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Nubian Aquifer System<br>
 
 ## Government
 
@@ -628,18 +640,18 @@ TT<br>
 _total_: 59 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 4 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
+_total_: 9<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 2<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 50 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 14 (2013)<br>
-_914 to 1,523 m_: 22 (2013)<br>
+_total_: 50<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 14<br>
+_914 to 1,523 m_: 22<br>
 _under 914 m_: 11 (2013)<br>
 
 **Pipelines**<br>
@@ -656,7 +668,7 @@ _total_: 40,000 km (2018)<br>
 
 **Military and security forces**<br>
 Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2021)<br>
-note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and considered Chad's elite military unit; the Chadian Army also includes the Special Anti-Terrorist Group (SATG; aka Division of Special Anti-Terrorist Groups (DGSAT))<br>
+note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
@@ -675,11 +687,11 @@ the ANT is mostly armed with older or second-hand equipment from Belgium, France
 1,800 Mali (MINUSMA) (Jan 2021)<br>
 note(s): Chad is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Niger; Chad has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; Chad hosts the headquarters of Operation Barkhane in N’Djamena<br><br>Chad has committed approximately 1,000-1,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own territories, although cross‐border operations are conducted periodically; in 2019, Chad sent more than 1,000 troops to Nigeria’s Borno State to fight BH as part of the MNJTF mission<br>
 
-**Military - note**<br>
-the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); the ANT has frequently conducted counter-insurgency operations against internal anti-government militias and armed dissident groups<br>
-
 **Military service age and obligation**<br>
 20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2019)<br>
+
+**Military - note**<br>
+the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); the ANT has frequently conducted counter-insurgency operations against internal anti-government militias and armed dissident groups<br> <p>several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army</p><br>
 
 ## Terrorism
 
@@ -693,7 +705,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 373,080 (Sudan), 121,036 (Central African Republic), 16,895 (Nigeria), 7,956 (Cameroon) (2021)<br>
+_refugees (country of origin)_: 373,080 (Sudan), 121,036 (Central African Republic), 18,600 (Nigeria), 7,956 (Cameroon) (2021)<br>
 _IDPs_: 401,511 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

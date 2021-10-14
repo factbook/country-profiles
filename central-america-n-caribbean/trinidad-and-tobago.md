@@ -195,7 +195,7 @@ _unimproved: total_: total: 0.7% of population (2017 est.)<br>
 4.9% (2011)<br>
 
 **Education expenditures**<br>
-NA<br>
+3.6% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -596,13 +596,13 @@ _annual freight traffic on registered air carriers_: 41.14 million mt-km (2018)<
 _total_: 4 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 2<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Pipelines**<br>

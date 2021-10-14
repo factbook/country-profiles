@@ -71,6 +71,12 @@ highest density is found in the highlands of the north and middle areas of the c
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops are believed to have originated in Ethiopia: coffee, grain sorghum, and castor bean<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -215,7 +221,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 21.1% (2019)<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2015)<br>
+5.1% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -289,6 +295,12 @@ _widespread lack of access_: due to civil conflict - more than 16 million people
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 ## Government
 
@@ -647,17 +659,17 @@ ET<br>
 _total_: 57 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 8 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_total_: 17<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 8<br>
+_1,524 to 2,437 m_: 4<br>
 _under 914 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 40 (2013)<br>
-_2,438 to 3,047 m_: 3 (2013)<br>
-_1,524 to 2,437 m_: 9 (2013)<br>
-_914 to 1,523 m_: 20 (2013)<br>
+_total_: 40<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 20<br>
 _under 914 m_: 8 (2013)<br>
 
 **Railways**<br>
@@ -695,13 +707,14 @@ information varies; approximately 150,000 active duty troops, including about 3,
 the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, Russia and Ukraine are the leading suppliers of largely second-hand weapons and equipment to the ENDF, followed by China and Hungary; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2020)<br>
 
 **Military deployments**<br>
-estimated 10,000 Somalia (4,500 for AMISOM); 800 Sudan (UNAMID); 3,200 Sudan (UNISFA); 2,100 South Sudan (UNMISS) (Jan 2021)<br>
-
-**Military - note**<br>
-each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p> </p><br>
+estimated as many as 10,000 Somalia (4,500 for AMISOM); 3,300 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2021)<br>
+note - in August 2021, Sudan asked the UN to remove the Ethiopian troops from the UNISFA mission<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
+
+**Military - note**<br>
+each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>in November 2021, long-simmering tensions between the Ethiopian Government and the state of Tigray’s ruling party (Tigray People’s Liberation Front, TPLF) led to armed clashes between ENDF and Tigrayan paramilitary forces; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through 2021 with heavy civilian and military casualties and widespread human rights abuses reported</p> <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict</p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
 
 ## Terrorism
 
@@ -715,7 +728,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 377,792 (South Sudan), 214,047 (Somalia), 146,771 (Eritrea), 45,924 (Sudan) (2021)<br>
+_refugees (country of origin)_: 378,423 (South Sudan), 215,300 (Somalia), 146,771 (Eritrea), 45,924 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

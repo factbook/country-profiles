@@ -73,6 +73,12 @@ the majority of people live in the north and west where agricultural opportuniti
 **Geography - note**<br>
 only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -205,7 +211,7 @@ _unimproved: total_: total: 5.3% of population (2017 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 19 July 2021, Columbia has reported a total of 4,639,466   cases of COVID-19 or 9117.93 cumulative cases of COVID-19 per 100,000 population with 228.58 cumulative deaths per 100,000 population; as of 18 July 2021, 29.64% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 October 2021, Columbia has reported a total of 4,963,243 cases of COVID-19 or 9,754.25 cumulative cases of COVID-19 per 100,000 population with 248.46 cumulative deaths per 100,000 population; as of 1 October 2021, 33.56% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.3% (2016)<br>
@@ -214,7 +220,7 @@ _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
 3.7% (2015/16)<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2018)<br>
+4.5% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -279,12 +285,18 @@ _rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 19 July 2021, Columbia has reported a total of 4,639,466   cases of COVID-19 or 9117.93 cumulative cases of COVID-19 per 100,000 population with 228.58 cumulative deaths per 100,000 population; as of 18 July 2021, 29.64% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Colombia; as of 6 October 2021, Columbia has reported a total of 4,963,243 cases of COVID-19 or 9,754.25 cumulative cases of COVID-19 per 100,000 population with 248.46 cumulative deaths per 100,000 population; as of 1 October 2021, 33.56% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
 
 ## Government
 
@@ -643,18 +655,18 @@ HJ, HK<br>
 _total_: 836 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 121 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 9 (2017)<br>
-_1,524 to 2,437 m_: 39 (2017)<br>
-_914 to 1,523 m_: 53 (2017)<br>
+_total_: 121<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 9<br>
+_1,524 to 2,437 m_: 39<br>
+_914 to 1,523 m_: 53<br>
 _under 914 m_: 18 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 715 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 25 (2013)<br>
-_914 to 1,523 m_: 201 (2013)<br>
+_total_: 715<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 25<br>
+_914 to 1,523 m_: 201<br>
 _under 914 m_: 488 (2013)<br>
 
 **Heliports**<br>
@@ -707,11 +719,11 @@ the Colombian military inventory includes a wide mix of equipment from a variety
 **Military deployments**<br>
 275 Egypt (MFO) (2021)<br>
 
-**Military - note**<br>
-the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2021 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
-
 **Military service age and obligation**<br>
 18-24 years of age for compulsory and voluntary military service; conscript service obligation is 18 months (2019)<br>
+
+**Military - note**<br>
+the Colombian Armed Forces are primarily focused on internal security, particularly counter-narcotics, counter-terrorism, and counterinsurgency operations against drug traffickers, militants from the Revolutionary Armed Forces of Colombia (FARC) and National Liberation Army (ELN) terrorist/guerrilla organizations, and other illegal armed groups; the Colombian Government signed a peace agreement with the FARC in 2016, but some former members (known as dissidents) have returned to fighting; the Colombian military resumed operations against FARC dissidents and their successor paramilitary groups in late 2019; in 2017, the Colombian Government initiated formal peace talks with the ELN, but in January 2019, the government ended the peace talks shortly after the ELN exploded a car bomb at the National Police Academy in Bogot&aacute; and resumed counter-terrorism/counterinsurgency operations against the group; operations against both the FARC and ELN continued into 2021 (see Appendix T); the military is also focused on the security challenges posed by its neighbor, Venezuela, where instability has attracted narcotics traffickers and both the ELN and FARC dissidents operate openly<br>
 
 ## Terrorism
 

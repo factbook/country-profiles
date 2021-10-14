@@ -93,6 +93,12 @@ _25-54 years_: 57.91% (male 955/female 322) (2017 est.)<br>
 _55-64 years_: 11.66% (male 172/female 85) (2017 est.)<br>
 _65 years and over_: 5.44% (male 84/female 36) (2017 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 1.11% (2014 est.)<br>
 
@@ -124,6 +130,14 @@ NA<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
@@ -137,6 +151,9 @@ NA<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment
@@ -300,8 +317,8 @@ _percent of population_: 35.8% (July 2016 est.)<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Railways**<br>
 _total_: 18 km (2017)<br>

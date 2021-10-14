@@ -205,7 +205,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.4% of GDP (2017)<br>
+6.3% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -620,16 +620,16 @@ OH<br>
 _total_: 148 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 74 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 26 (2017)<br>
-_1,524 to 2,437 m_: 10 (2017)<br>
-_914 to 1,523 m_: 21 (2017)<br>
+_total_: 74<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 26<br>
+_1,524 to 2,437 m_: 10<br>
+_914 to 1,523 m_: 21<br>
 _under 914 m_: 14 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 74 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 74<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 71 (2013)<br>
 
 **Pipelines**<br>
@@ -679,6 +679,9 @@ the inventory of the Finnish Defense Forces consists of a wide mix of mostly mod
 
 **Military service age and obligation**<br>
 at age 18, all Finnish men are obligated to serve 6-12 months of service within a branch of the military or the Border Guard, and women may volunteer for service; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 60 (2019)<br>
+
+**Military - note**<br>
+<p>Finland is not a member of NATO, but the two actively cooperate in peace-support operations, exercise together, and exchange analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
 
 ## Transnational Issues
 

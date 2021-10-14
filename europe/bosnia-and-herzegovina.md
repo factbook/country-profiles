@@ -70,6 +70,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -266,6 +269,9 @@ _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 1,248,718 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 12 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -625,15 +631,15 @@ T9<br>
 _total_: 24 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2017)<br>
-_2,438 to 3,047 m_: 4 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 7<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 17<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 11 (2013)<br>
 
 **Heliports**<br>
@@ -678,6 +684,9 @@ the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Sov
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers; conscription abolished in 2005 (2019)<br>
 
+**Military - note**<br>
+<p>the Armed Forces of Bosnia and Herzegovina are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2021, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to the European Union Force deployed there</p> <p> </p><br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -693,7 +702,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,116 (Croatia) (2019)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 66 (2020)<br>
-<strong>note:</strong> 82,381 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 83,028 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

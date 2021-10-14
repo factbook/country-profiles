@@ -70,6 +70,12 @@ sudden cloudbursts are common from October to April and bring heavy rain, which 
 **Geography - note**<br>
 strategic location at head of Persian Gulf<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -192,7 +198,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3% (2014)<br>
 
 **Education expenditures**<br>
-NA<br>
+6.6% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -255,6 +261,12 @@ _rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.75 million tons (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
 
 ## Government
 
@@ -601,14 +613,14 @@ _annual freight traffic on registered air carriers_: 392.36 million mt-km (2018)
 _total_: 7 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2019)<br>
+_total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 3<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -650,6 +662,9 @@ the inventory of the Kuwaiti Armed Forces consists of a range of European- and U
 
 **Military service age and obligation**<br>
 17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases &ndash; four months for training and eight months for military service (2018)<br>
+
+**Military - note**<br>
+Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Transnational Issues
 

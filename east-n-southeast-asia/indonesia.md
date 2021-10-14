@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-The archipelago gradually adopted Islam between the 13th and 16th centuries. The Dutch began to colonize Indonesia in the early 17th century; Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted "Guided Democracy." After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his "New Order" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement.<br>
+The archipelago was once largely under the control of Buddhist and Hindu rulers. By around the 7th century, a Buddhist kingdom arose on Sumatra and expanded into Java and the Malay Peninsula until it was conquered in the late 13th century by the Hindu Majapahit Empire from Java. Majapahit (1290-1527) united most of modern-day Indonesia and Malaysia. Traders introduced Islam in the trade ports around the 11th century, and Indonesians gradually adopted Islam over the next 500 years. The Portuguese conquered parts of Indonesia in the 16th century, but they were ousted by the Dutch (except for East Timor), who began colonizing the islands in the early 17th century. It would be the early 20th century before Dutch colonial rule was established across the entirety of what would become the boundaries of the modern Indonesian state.<br><br>Japan occupied the islands from 1942 to 1945. Indonesia declared its independence shortly before Japan's surrender, but it required four years of sometimes brutal fighting, intermittent negotiations, and UN mediation before the Netherlands agreed to transfer sovereignty in 1949. A period of sometimes unruly parliamentary democracy ended in 1957 when President SOEKARNO declared martial law and instituted "Guided Democracy." After an abortive coup in 1965 by alleged communist sympathizers, SOEKARNO was gradually eased from power. From 1967 until 1998, President SUHARTO ruled Indonesia with his "New Order" government. After street protests toppled SUHARTO in 1998, free and fair legislative elections took place in 1999. Indonesia is now the world's third most populous democracy, the world's largest archipelagic state, and the world's largest Muslim-majority nation. Current issues include: alleviating poverty, improving education, preventing terrorism, consolidating democracy after four decades of authoritarianism, implementing economic and financial reforms, stemming corruption, reforming the criminal justice system, addressing climate change, and controlling infectious diseases, particularly those of global and regional importance. In 2005, Indonesia reached a historic peace agreement with armed separatists in Aceh, which led to democratic elections in Aceh in December 2006. Indonesia continues to face low intensity armed resistance in Papua by the separatist Free Papua Movement.<br>
 
 ## Geography
 
@@ -204,7 +204,7 @@ _unimproved: total_: total: 14.6% of population (2017 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 19 July 2021, Indonesia has reported a total of 2,950,058 cases of COVID-19 or 1,078.54 cumulative cases of COVID-19 per 100,000 population with 27.86 cumulative deaths per 100,000 population; as of 19 July 2021, 15.39% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 October 2021, Indonesia has reported a total of 4,223,094 cases of COVID-19 or 1,543.96 cumulative cases of COVID-19 per 100,000 population with 52.07 cumulative deaths per 100,000 population; as of 5 October 2021, 34.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.9% (2016)<br>
@@ -213,7 +213,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 17.7% (2018)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2015)<br>
+2.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -278,7 +278,7 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 19 July 2021, Indonesia has reported a total of 2,950,058 cases of COVID-19 or 1,078.54 cumulative cases of COVID-19 per 100,000 population with 27.86 cumulative deaths per 100,000 population; as of 19 July 2021, 15.39% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Indonesia; as of 6 October 2021, Indonesia has reported a total of 4,223,094 cases of COVID-19 or 1,543.96 cumulative cases of COVID-19 per 100,000 population with 52.07 cumulative deaths per 100,000 population; as of 5 October 2021, 34.36% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
@@ -643,17 +643,17 @@ PK<br>
 _total_: 673 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 186 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 21 (2017)<br>
-_1,524 to 2,437 m_: 51 (2017)<br>
-_914 to 1,523 m_: 72 (2017)<br>
+_total_: 186<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 21<br>
+_1,524 to 2,437 m_: 51<br>
+_914 to 1,523 m_: 72<br>
 _under 914 m_: 37 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 487 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 23 (2013)<br>
+_total_: 487<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 23<br>
 _under 914 m_: 460 (2013)<br>
 
 **Heliports**<br>
@@ -710,11 +710,11 @@ the Indonesian military inventory is comprised of equipment from a wide variety 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks increased slightly from 25 incidents in 2019 to 26 in 2020 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with two crew taken hostage and two threatened in 2020; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
-**Military - note**<br>
-Indonesian military and police forces are engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969<br><br>in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands province, and held military exercises in surrounding waters<br>
-
 **Military service age and obligation**<br>
 18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only (2019)<br>
+
+**Military - note**<br>
+Indonesian military and police forces are engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969<br><br>in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands province, and held military exercises in surrounding waters<br>
 
 ## Terrorism
 

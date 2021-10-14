@@ -72,6 +72,9 @@ flooding; earthquakes; droughts<br>
 **Geography - note**<br>
 strategic location in central Mediterranean; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration<br>
 
+**Major aquifers**<br>
+North Western Sahara Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -203,7 +206,7 @@ _unimproved: total_: total: 4.1% of population (2017 est.)<br>
 1.6% (2018)<br>
 
 **Education expenditures**<br>
-6.6% of GDP (2015)<br>
+7.3% of GDP (2016)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -268,6 +271,9 @@ _rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 2.7 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 108,000 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2014 est.)<br>
+
+**Major aquifers**<br>
+North Western Sahara Aquifer System<br>
 
 ## Government
 
@@ -619,16 +625,16 @@ TS<br>
 _total_: 29 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 15 (2013)<br>
-_over 3,047 m_: 4 (2013)<br>
-_2,438 to 3,047 m_: 6 (2013)<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
+_total_: 15<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 6<br>
+_1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 14 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 14<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 8 (2013)<br>
 
 **Pipelines**<br>
@@ -668,11 +674,11 @@ the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,0
 **Military equipment inventories and acquisitions**<br>
 the Tunisian military's inventory includes mostly older or secondhand US and European equipment; since 2010, the Netherlands and US are the leading suppliers of arms to Tunisia (2020)<br>
 
-**Military - note**<br>
-the Tunisian military&rsquo;s primary operational areas of focus are counter-terrorism, counterinsurgency, and border security; it conducts counter-terrorism and counterinsurgency operations against al-Qa&rsquo;ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency against the government, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the Tunisian military routinely conducts joint operations with Algerian security forces against these&nbsp; groups, as well to counter smuggling and trafficking activities; the Tunisian military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; the Tunisian Government has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the more populace northern border area, the Tunisian Army backs up Ministry of Interior security forces (Customs and the National Guard), while in the more remote southern sections of the frontier a military exclusion or buffer zone has been created, with the Tunisian Army having the lead in conducting patrols, interdiction, and making arrests<br>
-
 **Military service age and obligation**<br>
 20-23 years of age for compulsory service, 1-year service obligation; 18-23 years of age for voluntary service (2019)<br>
+
+**Military - note**<br>
+Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Terrorism
 

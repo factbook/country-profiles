@@ -206,7 +206,7 @@ _vectorborne diseases_: malaria<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+6.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -628,16 +628,16 @@ A2<br>
 _total_: 74 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
+_total_: 10<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 64 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
-_914 to 1,523 m_: 46 (2013)<br>
+_total_: 64<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 46<br>
 _under 914 m_: 13 (2013)<br>
 
 **Railways**<br>

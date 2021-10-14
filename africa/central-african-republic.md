@@ -70,6 +70,12 @@ hot, dry, dusty harmattan winds affect northern areas; floods are common<br>
 **Geography - note**<br>
 landlocked; almost the precise center of Africa<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Lake Chad Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -210,7 +216,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 20.5% (2019)<br>
 
 **Education expenditures**<br>
-1.2% of GDP (2011)<br>
+1.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -279,6 +285,12 @@ _exceptional shortfall in aggregate food production/supplies_: due to conflict a
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Lake Chad Basin<br>
 
 ## Government
 
@@ -622,14 +634,14 @@ TL<br>
 _total_: 39 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 37 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 11 (2013)<br>
-_914 to 1,523 m_: 19 (2013)<br>
+_total_: 37<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 11<br>
+_914 to 1,523 m_: 19<br>
 _under 914 m_: 6 (2013)<br>
 
 **Roadways**<br>
@@ -663,11 +675,11 @@ information varies; approximately 10,000 active troops, including an air compone
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2020)<br>
 note: since 2013, CAR has been under a UNSC arms embargo; the embargo bans all supplies of arms and related materiel to the country except to the CAR security forces if approved in advance by the relevant UN Sanctions Committee<br>
 
-**Military - note**<br>
-the FACA is currently assessed as unable to provide adequate internal security for the country; the military was dissolved following the 2013 rebel seizure of the government and has struggled to rebuild in the years of instability since; France, Russia, the UN, and the European Union are providing various levels of security assistance <br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of January 2021, MINUSCA had nearly 15,000 total personnel, including about 11,000 troops and 2,000 police<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs<br>
-
 **Military service age and obligation**<br>
 18 years of age for military service; no conscription (2019)<br>
+
+**Military - note**<br>
+the FACA is currently assessed as unable to provide adequate internal security for the country; the military was dissolved following the 2013 rebel seizure of the government and has struggled to rebuild in the years of instability since; France, Russia, the UN, and the European Union are providing various levels of security assistance <br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of August 2021, MINUSCA had about 15,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br>
 
 ## Transnational Issues
 

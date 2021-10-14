@@ -95,6 +95,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 -0.01% (2019 est.)<br>
 

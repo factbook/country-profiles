@@ -205,7 +205,7 @@ _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 2.1% (2018)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018)<br>
+3.8% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -374,10 +374,25 @@ _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMAD
 **Economic overview**<br>
 <p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p><p></p><p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p><p></p><p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p><p></p><p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$55.776 billion (2019 est.)<br>
+$53.129 billion (2018 est.)<br>
+$50.662 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 5% (2017 est.)<br>
 2.8% (2016 est.)<br>
 2.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$14,992 (2019 est.)<br>
+$14,257 (2018 est.)<br>
+$13,590 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$17.694 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.8% (2019 est.)<br>
@@ -388,26 +403,6 @@ _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMAD
 _Fitch rating_: BB (2019)<br>
 _Moody's rating_: Ba2 (2017)<br>
 _Standard & Poors rating_: BB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$55.776 billion (2019 est.)<br>
-$53.129 billion (2018 est.)<br>
-$50.662 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$17.694 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$14,992 (2019 est.)<br>
-$14,257 (2018 est.)<br>
-$13,590 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22% of GDP (2019 est.)<br>
-21.3% of GDP (2018 est.)<br>
-19.2% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 8.2% (2017 est.)<br>
@@ -421,12 +416,6 @@ _investment in fixed capital_: 29.5% (2017 est.)<br>
 _investment in inventories_: 2.4% (2017 est.)<br>
 _exports of goods and services_: 50.4% (2017 est.)<br>
 _imports of goods and services_: -62.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 83.7 (2020)<br>
-_Starting a Business score_: 99.6 (2020)<br>
-_Trading score_: 90.1 (2020)<br>
-_Enforcement score_: 75 (2020)<br>
 
 **Agricultural products**<br>
 milk, grapes, maize, potatoes, wheat, watermelons, tomatoes, tangerines/mandarins, barley, apples<br>
@@ -463,9 +452,6 @@ _highest 10%_: 31.3% (2008)<br>
 _revenues_: 4.352 billion (2017 est.)<br>
 _expenditures_: 4.925 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.7% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3.8% (of GDP) (2017 est.)<br>
 
@@ -473,6 +459,9 @@ _expenditures_: 4.925 billion (2017 est.)<br>
 44.9% of GDP (2017 est.)<br>
 44.4% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities; Georgia does not maintain intragovernmental debt or social funds<br>
+
+**Taxes and other revenues**<br>
+28.7% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -633,17 +622,17 @@ _annual freight traffic on registered air carriers_: 750,000 mt-km (2018)<br>
 _total_: 22 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 18 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 7 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_total_: 18<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 4 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 4<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>
@@ -685,11 +674,11 @@ information varies; approximately 25,000 troops, including active National Guard
 **Military equipment inventories and acquisitions**<br>
 the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from Bulgaria, France, and the US (2020)<br>
 
-**Military - note**<br>
-Georgia does not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War (2020)<br>
-
 **Military service age and obligation**<br>
 conscription abolished in 2016, but reinstated in 2017; 18 to 27 years of age for compulsory and voluntary active duty military service; conscript service obligation is 12 months (2020)<br>
+
+**Military - note**<br>
+as of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War<br>
 
 ## Transnational Issues
 

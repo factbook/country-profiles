@@ -71,6 +71,12 @@ dust storms; sandstorms; floods<br>
 **Geography - note**<br>
 strategic location on Shatt al Arab waterway and at the head of the Persian Gulf<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -197,7 +203,7 @@ NA<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 19 July 2021, Iraq has reported a total of 1,501,595 cases of COVID-19 or 3,733.22 cumulative cases of COVID-19 per 100,000 population with 44.48 cumulative deaths per 100,000 population; as of 19 July 2021, 1.74% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 6 October 2021, Iraq has reported a total of 2,014,104 cases of COVID-19 or 5,007.41 cumulative cases of COVID-19 per 100,000 population with 55.74 cumulative deaths per 100,000 population; as of 26 September 2021, 11.35% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 30.4% (2016)<br>
@@ -265,13 +271,19 @@ _rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 19 July 2021, Iraq has reported a total of 1,501,595 cases of COVID-19 or 3,733.22 cumulative cases of COVID-19 per 100,000 population with 44.48 cumulative deaths per 100,000 population; as of 19 July 2021, 1.74% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Iraq; as of 6 October 2021, Iraq has reported a total of 2,014,104 cases of COVID-19 or 5,007.41 cumulative cases of COVID-19 per 100,000 population with 55.74 cumulative deaths per 100,000 population; as of 26 September 2021, 11.35% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to civil conflict, low oil prices, and economic slowdown - the 2021 Humanitarian Needs Overview (HNO) for Iraq identified 4.1 million people in need, of which 2.4 million have acute humanitarian needs; while the number of people in need remained similar to the previous year, the severity of those needs increased, largely due to the impact of the COVID‑19 pandemic on top of an existing humanitarian crisis, leading to a 35% increase in the number of people in acute need; more than half of these are concentrated in the governorates of Nineveh and Anbar; the number of severely food insecure people is estimated at about 435,000, while 731,000 are vulnerable to food insecurity (2021)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
 
 ## Government
 
@@ -622,19 +634,19 @@ YI<br>
 _total_: 102 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 72 (2017)<br>
-_over 3,047 m_: 20 (2017)<br>
-_2,438 to 3,047 m_: 34 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
-_914 to 1,523 m_: 7 (2017)<br>
+_total_: 72<br>
+_over 3,047 m_: 20<br>
+_2,438 to 3,047 m_: 34<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 7<br>
 _under 914 m_: 7 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 30 (2013)<br>
-_over 3,047 m_: 3 (2013)<br>
-_2,438 to 3,047 m_: 5 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 13 (2013)<br>
+_total_: 30<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 13<br>
 _under 914 m_: 6 (2013)<br>
 
 **Heliports**<br>
@@ -680,11 +692,11 @@ information varies; approximately 200,000 personnel under the Ministry of Defens
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military inventory is comprised of Russian and Soviet-era equipment combined with newer European- and US-sourced platforms; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2020)<br>
 
-**Military - note**<br>
-<p>as of early 2021, Iraqi military and security forces continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq</p> <p>Shia militia and paramilitary units from the Popular Mobilization Committee and Affiliated Forces (PMF) have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps</p> <p>the Kurdish Peshmerga are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; the Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p><br>
-
 **Military service age and obligation**<br>
 18-40 years of age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>as of early 2021, Iraqi military and security forces continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq</p> <p>Shia militia and paramilitary units from the Popular Mobilization Committee and Affiliated Forces (PMF) have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps</p> <p>the Kurdish Peshmerga are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; the Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p><br>
 
 ## Terrorism
 

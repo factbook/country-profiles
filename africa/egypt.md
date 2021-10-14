@@ -73,6 +73,12 @@ periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving 
 **Geography - note**<br>
 <strong>note 1:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br><br><strong>note 2:</strong> the earliest evidence for wild sorghum cultivation occurs in southern Egypt and dates to roughly 7500 B.C.<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -214,7 +220,7 @@ _water contact diseases_: schistosomiasis<br>
 7% (2014)<br>
 
 **Education expenditures**<br>
-NA<br>
+3.9% of GDP NA (2015)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -281,6 +287,12 @@ _water contact diseases_: schistosomiasis<br>
 _municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System<br>
 
 ## Government
 
@@ -638,17 +650,17 @@ SU<br>
 _total_: 83 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 72 (2017)<br>
-_over 3,047 m_: 15 (2017)<br>
-_2,438 to 3,047 m_: 36 (2017)<br>
-_1,524 to 2,437 m_: 15 (2017)<br>
+_total_: 72<br>
+_over 3,047 m_: 15<br>
+_2,438 to 3,047 m_: 36<br>
+_1,524 to 2,437 m_: 15<br>
 _under 914 m_: 6 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 11 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 11<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2013)<br>
 
 **Heliports**<br>
@@ -702,11 +714,11 @@ the EAF's inventory is comprised of a mix of domestically produced, imported Sov
 **Military deployments**<br>
 1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA); 150 Sudan (UNAMID) (Jan 2021)<br>
 
-**Military - note**<br>
-<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2020, Egypt reportedly had over 40,000 military troops, police, and other security personnel deployed to the Sinai for internal security duties <br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
-
 **Military service age and obligation**<br>
 18-30 years of age for male conscript military service; service obligation - 18-36 months, followed by a 9-year reserve obligation; voluntary enlistment possible from age 15 (2019)<br>
+
+**Military - note**<br>
+<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2020, Egypt reportedly had over 40,000 military troops, police, and other security personnel deployed to the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
 
 ## Terrorism
 
@@ -720,7 +732,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,010 (West Bank and Gaza Strip) (2019); 132,748 (Syria) (refugees), 49,249 (Sudan) (refugees and asylum seekers), 19,805 (South Sudan) (refugees and asylum seekers), 19,079 (Eritrea) (refugees and asylum seekers), 16,099 (Ethiopia) (refugees and asylum seekers), 9,267 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,730 (Somalia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 70,010 (West Bank and Gaza Strip) (2019); 134,952 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
 _stateless persons_: 10 (2020)<br>
 
 **Illicit drugs**<br>

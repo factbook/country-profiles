@@ -96,6 +96,12 @@ _25-54 years_: 40% (male 1,039/female 1,100)<br>
 _55-64 years_: 14.49% (male 400/female 375)<br>
 _65 years and over_: 22.37% (male 513/female 683) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 48.5 years<br>
 _male_: 47.9 years<br>
@@ -469,9 +475,9 @@ _percent of population_: 79.5% (July 2016 est.)<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 117 km (2009)<br>

@@ -95,6 +95,12 @@ _25-54 years_: 47.09% (male 1,217/female 1,313)<br>
 _55-64 years_: 9.79% (male 246/female 280)<br>
 _65 years and over_: 6.55% (male 196/female 156) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 34.8 years<br>
 _male_: 34.1 years<br>
@@ -168,7 +174,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-8.8% of GDP (2019)<br>
+9.1% of GDP (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -493,8 +499,8 @@ VP-M<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_under 914 m_: 1<br>
+_total_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island</p><br>

@@ -208,7 +208,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.9% of GDP (2017)<br>
+7.6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -623,15 +623,15 @@ LN<br>
 _total_: 95 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 67 (2017)<br>
-_2,438 to 3,047 m_: 14 (2017)<br>
-_1,524 to 2,437 m_: 10 (2017)<br>
-_914 to 1,523 m_: 22 (2017)<br>
+_total_: 67<br>
+_2,438 to 3,047 m_: 14<br>
+_1,524 to 2,437 m_: 10<br>
+_914 to 1,523 m_: 22<br>
 _under 914 m_: 21 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 28 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 28<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 22 (2013)<br>
 
 **Heliports**<br>
@@ -680,12 +680,12 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 **Military deployments**<br>
 120 Lithuania (NATO) (2021)<br>
 
-**Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers (16 in wartime); 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2019)<br>
 note - Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1988); it also has an all-female commando unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
+
+**Military - note**<br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
 
 ## Transnational Issues
 

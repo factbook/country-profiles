@@ -210,7 +210,7 @@ _unimproved: total_: total: 0% of population (2017)<br>
 NA<br>
 
 **Education expenditures**<br>
-6.3% of GDP (2017)<br>
+6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -623,17 +623,17 @@ ZK<br>
 _total_: 123 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 39 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
-_914 to 1,523 m_: 23 (2017)<br>
+_total_: 39<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 12<br>
+_914 to 1,523 m_: 23<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 84 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 33 (2013)<br>
+_total_: 84<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 33<br>
 _under 914 m_: 48 (2013)<br>
 
 **Pipelines**<br>
@@ -678,6 +678,9 @@ up to 220 Antarctica (summer season only) (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2021)<br>
+
+**Military - note**<br>
+<p>New Zealand’s closest security partner is Australia; New Zealand is a member of the 1951 ANZUS Treaty Alliance with Australia and the US<br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

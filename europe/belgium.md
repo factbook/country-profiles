@@ -204,7 +204,7 @@ NA<br>
 1% (2014/15)<br>
 
 **Education expenditures**<br>
-6.4% of GDP (2017)<br>
+6.4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
@@ -618,15 +618,15 @@ OO<br>
 _total_: 41 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26 (2019)<br>
+_total_: 26<br>
 _over 3,047 m_: 6<br>
 _2,438 to 3,047 m_: 9<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 8<br>
+_under 914 m_: 8 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 15 (2013)<br>
+_total_: 15<br>
 _under 914 m_: 15 (2013)<br>
 
 **Heliports**<br>
@@ -678,11 +678,11 @@ the Belgian Armed Forces have a mix of weapons systems from European countries, 
 **Military deployments**<br>
 125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
-**Military - note**<br>
-Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
-
 **Military service age and obligation**<br>
 18 years of age for male and female voluntary military service; conscription abolished in 1995 (2019)<br>
+
+**Military - note**<br>
+Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 

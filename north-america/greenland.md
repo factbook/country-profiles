@@ -96,6 +96,12 @@ _25-54 years_: 39.72% (male 11,962/female 10,921)<br>
 _55-64 years_: 14.66% (male 4,561/female 3,886)<br>
 _65 years and over_: 10.36% (male 3,170/female 2,798) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 34.3 years<br>
 _male_: 35.1 years<br>
@@ -186,7 +192,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+10.6% of GDP NA (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -547,16 +553,16 @@ OY-H<br>
 _total_: 15 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2019)<br>
+_total_: 10<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 6<br>
+_under 914 m_: 6 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 5<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 2 (2013)<br>
 
 **Roadways**<br>

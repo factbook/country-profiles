@@ -99,6 +99,12 @@ _25-54 years_: 37.35% (male 14,834/female 14,270)<br>
 _55-64 years_: 5.92% (male 2,269/female 2,341)<br>
 _65 years and over_: 4.7% (male 1,805/female 1,857) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 23.8 years<br>
 _male_: 23.6 years<br>
@@ -197,7 +203,7 @@ _vectorborne diseases_: malaria<br>
 11.9% (2017)<br>
 
 **Education expenditures**<br>
-NA<br>
+9.6% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -589,13 +595,13 @@ V7<br>
 _total_: 15 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_total_: 4<br>
+_1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 11 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 11<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 1 (2013)<br>
 
 **Roadways**<br>

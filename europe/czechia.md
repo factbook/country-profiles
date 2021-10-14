@@ -70,6 +70,9 @@ flooding<br>
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2017)<br>
+4.3% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: NA<br>
@@ -267,6 +270,9 @@ _municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## Government
 
 **Country name**<br>
@@ -323,8 +329,8 @@ _election results_: Milos ZEMAN reelected president in the second round; percent
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 20-21 October 2017 (next to be held by October 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br><br>Chamber of Deputies - percent of vote by party - ANO 29.6%, ODS 11.3%, Pirates 10.8%, SPD 10.6%, KSCM 7.8%, CSSD 7.3%, KDU-CSL 5.8%, TOP 09 5.3%, STAN 5.2%, other 6.3%; seats by party - ANO 78, ODS 25, Pirates 22, SPD 22, CSSD 15, KSCM 15, KDU-CSL 10, TOP 09 7, STAN 6; composition - men 155, women 45, percent of women 24%; note - total Parliament percent of women 20.6%<br>
+_elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br> <p>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition - NA</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>
@@ -620,17 +626,17 @@ OK<br>
 _total_: 128 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 41 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 9 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 41<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 9<br>
+_1,524 to 2,437 m_: 12<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 16 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 87 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 25 (2013)<br>
+_total_: 87<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 25<br>
 _under 914 m_: 61 (2013)<br>
 
 **Heliports**<br>
@@ -673,11 +679,14 @@ the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000
 **Military equipment inventories and acquisitions**<br>
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2020)<br>
 
-**Military - note**<br>
-Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
+**Military deployments**<br>
+<p>the Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali</p> <p> </p><br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2019)<br>
+
+**Military - note**<br>
+Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
 
 ## Transnational Issues
 

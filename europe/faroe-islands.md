@@ -94,6 +94,12 @@ _25-54 years_: 37.01% (male 10,277/female 8,828)<br>
 _55-64 years_: 12% (male 3,199/female 2,996)<br>
 _65 years and over_: 17.41% (male 4,352/female 4,636) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 37.2 years<br>
 _male_: 36.9 years<br>
@@ -174,6 +180,9 @@ NA<br>
 
 **Children under the age of 5 years underweight**<br>
 NA<br>
+
+**Education expenditures**<br>
+8.2% of GDP (2017)<br>
 
 ## Environment
 
@@ -523,8 +532,8 @@ OY-H<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 960 km (2017)<br>

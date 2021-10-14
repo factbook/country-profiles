@@ -622,17 +622,17 @@ P2<br>
 _total_: 561 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 21 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_total_: 21<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 12<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 540 (2013)<br>
-_1,524 to 2,437 m_: 11 (2013)<br>
-_914 to 1,523 m_: 53 (2013)<br>
+_total_: 540<br>
+_1,524 to 2,437 m_: 11<br>
+_914 to 1,523 m_: 53<br>
 _under 914 m_: 476 (2013)<br>
 
 **Heliports**<br>

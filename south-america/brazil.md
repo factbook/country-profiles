@@ -74,6 +74,12 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 **Geography - note**<br>
 <strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 20 July 2021, Brazil has reported a total of 19,376,574 cases of COVID-19 or 9,115.84  cumulative cases of COVID-19 per 100,000 population with 255.09 cumulative deaths per 100,000 population; as of 18 July 2021, 44.26% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 October 2021, Brazil has reported a total of 21,478,546 cases of COVID-19 or 10,104.73 cumulative cases of COVID-19 per 100,000 population with 281.4 cumulative deaths per 100,000 population; as of 5 October 2021, 44.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 22.1% (2016)<br>
@@ -213,7 +219,7 @@ _water contact diseases_: schistosomiasis<br>
 NA<br>
 
 **Education expenditures**<br>
-6.3% of GDP (2017)<br>
+6.1% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -279,12 +285,18 @@ _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 20 July 2021, Brazil has reported a total of 19,376,574 cases of COVID-19 or 9,115.84  cumulative cases of COVID-19 per 100,000 population with 255.09 cumulative deaths per 100,000 population; as of 18 July 2021, 44.26% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Brazil; as of 6 October 2021, Brazil has reported a total of 21,478,546 cases of COVID-19 or 10,104.73 cumulative cases of COVID-19 per 100,000 population with 281.4 cumulative deaths per 100,000 population; as of 5 October 2021, 44.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,118,446 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.4% (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 ## Government
 
@@ -642,17 +654,17 @@ PP<br>
 _total_: 4,093 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 698 (2017)<br>
-_over 3,047 m_: 7 (2017)<br>
-_2,438 to 3,047 m_: 27 (2017)<br>
-_1,524 to 2,437 m_: 179 (2017)<br>
+_total_: 698<br>
+_over 3,047 m_: 7<br>
+_2,438 to 3,047 m_: 27<br>
+_1,524 to 2,437 m_: 179<br>
 _914 to 1,523 m_: 436 (2017)<br>
 _under 914 m_: 49 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3,395 (2013)<br>
-_1,524 to 2,437 m_: 92 (2013)<br>
-_914 to 1,523 m_: 1,619 (2013)<br>
+_total_: 3,395<br>
+_1,524 to 2,437 m_: 92<br>
+_914 to 1,523 m_: 1,619<br>
 _under 914 m_: 1,684 (2013)<br>
 
 **Heliports**<br>
@@ -706,11 +718,11 @@ the Brazilian Armed Forces have approximately 360,000 active personnel (215,000 
 **Military equipment inventories and acquisitions**<br>
 the Brazilian military's inventory consists of a mix of domestically-produced and imported weapons, largely from Europe and the US; since 2010, France, Germany, the UK, and the US are the leading suppliers of military equipment to Brazil; Brazil's defense industry is capable of designing and manufacturing equipment for all three military services and for export; it also jointly produces equipment with other countries (2020)<br>
 
-**Military - note**<br>
-the military's primary role is enforcing border security, particularly in the Amazon states; it also assists with internal security operations with a focus on organized crime<br><br>Brazilian police forces are divided into Federal Police (around 15,000 personnel), Military Police (approximately 400,000 personnel), and Civil Police (approximately 125,000 personnel); the Federal Police serve under the Ministry of Justice, while the Military and Civil police are subordinate to the state governments; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; all state Military Police are classified as reserve troops and ancillary forces of the Brazilian Army<br>
-
 **Military service age and obligation**<br>
 18-45 years of age for compulsory military service; conscript service obligation is 10-12 months; 17-45 years of age for voluntary service; an increasing percentage of the ranks are "long-service" volunteer professionals; women were allowed to serve in the armed forces beginning in early 1980s, when the Brazilian Army became the first army in South America to accept women into career ranks; women serve in Navy and Air Force only in Women's Reserve Corps (2019)<br>
+
+**Military - note**<br>
+as of 2021, the military's primary role was enforcing border security, particularly in the Amazon states; it was also assisting with internal security operations with a focus on organized crime<br><br>Brazilian police forces are divided into Federal Police (around 15,000 personnel), Military Police (approximately 400,000 personnel), and Civil Police (approximately 125,000 personnel); the Federal Police serve under the Ministry of Justice, while the Military and Civil police are subordinate to the state governments; the National Public Security Force (Forca Nacional de Seguranca Publica or SENASP) is a national police force made up of Military Police from various states; all state Military Police are classified as reserve troops and ancillary forces of the Brazilian Army<br><br>Brazil has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Transnational Issues
 

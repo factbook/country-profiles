@@ -78,6 +78,12 @@ large urban clusters are spread throughout the eastern half of the US (particula
 **Geography - note**<br>
 <p><strong>note 1:</strong> world's third-largest country by size (after Russia and Canada) and by population (after China and India); Denali (Mt. McKinley) is the highest point (6,190 m) in North America and Death Valley the lowest point (-86 m) on the continent</p> <p><strong>note 2:</strong> the western coast of the United States and southern coast of Alaska lie along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> the Aleutian Islands are a chain of volcanic islands that divide the Bering Sea (north) from the main Pacific Ocean (south); they extend about 1,800 km westward from the Alaskan Peninsula; the archipelago consists of 14 larger islands, 55 smaller islands, and hundreds of islets; there are 41 active volcanoes on the islands, which together form a large northern section of the Ring of Fire<br><br><strong>note 4: </strong>Mammoth Cave, in west-central Kentucky, is the world's longest known cave system with more than 650 km (405 miles) of surveyed passageways, which is nearly twice as long as the second-longest cave system, the Sac Actun underwater cave in Mexico - the world's longest underwater cave system (see "Geography - note" under Mexico); <br><br><strong>note 5:</strong> Kazumura Cave on the island of Hawaii is the world's longest and deepest lava tube cave; it has been surveyed at 66 km (41 mi) long and 1,102 m (3,614 ft) deep <br><br><strong>note 6: </strong>Bracken Cave outside of San Antonio, Texas is the world's largest bat cave; it is the summer home to the largest colony of bats in the world; an estimated 20 million Mexican free-tailed bats roost in the cave from March to October making it the world's largest known concentration of mammals<br><br><strong>note 7:</strong> the US is reliant on foreign imports for 100% of its needs for the following strategic resources - Arsenic, Cesium, Fluorspar, Gallium, Graphite, Indium, Manganese, Niobium, Rare Earths, Rubidium, Scandium, Tantalum, Yttrium; see Appendix H: Strategic Materials for further details<br><br><strong>note 8:</strong> three food crops are generally acknowledged to be native to areas of what is now the United States: cranberries, pecans, and sunflowers</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
+
+**Major aquifers**<br>
+Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
+
 ## People and Society
 
 **Population**<br>
@@ -268,6 +274,12 @@ _rate of urbanization_: 0.96% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 258 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 89.268 million tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 34.6% (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
+
+**Major aquifers**<br>
+Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
 
 ## Government
 
@@ -623,19 +635,19 @@ N<br>
 _total_: 13,513 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5,054 (2013)<br>
-_over 3,047 m_: 189 (2013)<br>
-_2,438 to 3,047 m_: 235 (2013)<br>
-_1,524 to 2,437 m_: 1,478 (2013)<br>
-_914 to 1,523 m_: 2,249 (2013)<br>
+_total_: 5,054<br>
+_over 3,047 m_: 189<br>
+_2,438 to 3,047 m_: 235<br>
+_1,524 to 2,437 m_: 1,478<br>
+_914 to 1,523 m_: 2,249<br>
 _under 914 m_: 903 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 8,459 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 6 (2013)<br>
-_1,524 to 2,437 m_: 140 (2013)<br>
-_914 to 1,523 m_: 1,552 (2013)<br>
+_total_: 8,459<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 6<br>
+_1,524 to 2,437 m_: 140<br>
+_914 to 1,523 m_: 1,552<br>
 _under 914 m_: 6,760 (2013)<br>
 
 **Heliports**<br>
@@ -693,11 +705,11 @@ the US military's inventory is comprised almost entirely of domestically-produce
 5,000 Africa (mostly in Djibouti, with approximately 700-1,000 in other countries of East Africa and about 700 in West Africa); 1,000 Australia; 1,150 Belgium; 150 Bulgaria; 250 Diego Garcia; 150 Canada; 750 Cuba; 270 Egypt (MFO); 34,000 Germany; 400 Greece; 150 Greenland; 6,000 Guam; 380 Honduras; 12,000 Italy; 54,000 Japan; 630 Kosovo (NATO/KFOR); approximately 10-15,000 assigned with an additional estimated 20-30,000 deployed in the Middle East (Bahrain/Iraq/Israel/Jordan/Kuwait/Oman/Qatar/Saudi Arabia/Syria/United Arab Emirates); 400 Netherlands; 700 Norway; 200 Philippines; 4,500 Poland; 250 Portugal; 26,500 Republic of Korea; 1,100 Romania; 200 Singapore; 3,200 Spain; 100 Thailand; 1,700 Turkey; 9,300 United Kingdom (2021)<br>
 US military rotational policies affect deployed numbers; for example, the US deploys ground and air units to select countries for 6-12 month rotational assignments on a continuous basis; in South Korea, for example, the US continuously rotates combat brigades (3,000-4,000 personnel) for 9 months at a time; contingencies also affect US troop deployments; for example, in 2019, the US deployed more than 15,000 additional military personnel to the Middle East for an extended period of time; in addition, some overseas US naval bases, such as the headquarters of US Naval Forces Central Command (USNAVCENT) in Manama, Bahrain, are frequented by the crews of US ships on 6-9 month deployments; a US carrier strike group with an air wing and supporting ships typically includes over 6-7,000 personnel<br>
 
-**Military - note**<br>
-the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2020)<br>
+
+**Military - note**<br>
+the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
 
 ## Terrorism
 

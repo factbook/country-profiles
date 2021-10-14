@@ -552,8 +552,8 @@ P4<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 1,000 km (2010)<br>

@@ -69,6 +69,9 @@ earthquakes; floods; landslides or mudslides; avalanches; droughts<br>
 **Geography - note**<br>
 along with Liechtenstein, one of the only two doubly landlocked countries in the world<br>
 
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.9% (2017)<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2017)<br>
+5.1% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -259,6 +262,9 @@ _rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 ## Government
 
@@ -613,16 +619,16 @@ UK<br>
 _total_: 53 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 33 (2013)<br>
-_over 3,047 m_: 6 (2013)<br>
-_2,438 to 3,047 m_: 13 (2013)<br>
-_1,524 to 2,437 m_: 6 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 33<br>
+_over 3,047 m_: 6<br>
+_2,438 to 3,047 m_: 13<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 4 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 20 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
+_total_: 20<br>
+_2,438 to 3,047 m_: 2<br>
 _under 914 m_: 18 (2013)<br>
 
 **Pipelines**<br>

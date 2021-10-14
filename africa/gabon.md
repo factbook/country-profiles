@@ -72,6 +72,12 @@ none<br>
 **Geography - note**<br>
 a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -198,7 +204,7 @@ _unimproved: total_: total: 25.2% of population (2017 est.)<br>
 46,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,100 <1000 (2020 est.)<br>
+<1000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -214,7 +220,7 @@ _animal contact diseases_: rabies<br>
 6.4% (2012)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2014)<br>
+2.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -274,6 +280,12 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 238,102 tons (1995 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
 
 ## Government
 
@@ -624,16 +636,16 @@ TR<br>
 _total_: 44 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 14 (2019)<br>
+_total_: 14<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 30 (2013)<br>
-_1,524 to 2,437 m_: 7 (2013)<br>
+_total_: 30<br>
+_1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 9 (2013)<br>
 _under 914 m_: 14 (2013)<br>
 
@@ -684,11 +696,11 @@ the FDG is lightly armed with an inventory comprised mostly of Brazilian, French
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
 
-**Military - note**<br>
-members of the Gabonese Defense Forces attempted a failed coup in January 2019<br>
-
 **Military service age and obligation**<br>
 20 years of age for voluntary military service; no conscription (2021)<br>
+
+**Military - note**<br>
+members of the Gabonese Defense Forces attempted a failed coup in January 2019<br>
 
 ## Transnational Issues
 

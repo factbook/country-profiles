@@ -118,12 +118,12 @@ _percent of population_: 100% (July 2016 est.)<br>
 _total_: 17 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17 (2020)<br>
+_total_: 17<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 4<br>
+_under 914 m_: 4 (2020)<br>
 
 **Heliports**<br>
 53 (2012)<br>

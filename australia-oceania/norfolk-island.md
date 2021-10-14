@@ -97,6 +97,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
 
@@ -127,6 +133,14 @@ NA<br>
 
 **Contraceptive prevalence rate**<br>
 NA<br>
+
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -327,8 +341,8 @@ _percent of population_: 34.6% (July 2016 est.)<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 80 km (2008)<br>

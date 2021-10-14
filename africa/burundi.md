@@ -70,6 +70,9 @@ flooding; landslides; drought<br>
 **Geography - note**<br>
 landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -287,6 +290,9 @@ _widespread lack of access_: due to floods, and lack of rain - about 1 million p
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## Government
 
@@ -628,12 +634,12 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 _total_: 7 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 6 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 6<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -671,11 +677,11 @@ the FDN is armed mostly with weapons from Russia and the former Soviet Union, wi
 **Military deployments**<br>
 750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Feb 2021)<br>
 
-**Military - note**<br>
-in addition to its foreign deployments, the FDN is focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); the groups are based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2020)<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2019)<br>
+
+**Military - note**<br>
+in addition to its foreign deployments, the FDN is focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); the groups are based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2020)<br>
 
 ## Transnational Issues
 

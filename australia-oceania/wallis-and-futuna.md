@@ -92,6 +92,12 @@ _25-54 years_: 43.55% (male 3,529/female 3,376)<br>
 _55-64 years_: 9.92% (male 742/female 830)<br>
 _65 years and over_: 11.23% (male 856/female 925) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 34 years<br>
 _male_: 33.1 years<br>
@@ -416,9 +422,9 @@ _percent of population_: 22.1% (July 2016 est.)<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leava, Mata-Utu<br>

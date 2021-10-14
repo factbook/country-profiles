@@ -208,7 +208,7 @@ _vectorborne diseases_: tickborne encephalitis<br>
 0.4% (2013/15)<br>
 
 **Education expenditures**<br>
-5% of GDP (2017)<br>
+5.2% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -327,10 +327,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal; age 16 for local elections<br>
 
 **Executive branch**<br>
-_chief of state_: President Kersti KALJULAID (since 10 October 2016)<br>
+_chief of state_: President Alar KARIS (since 11 October 2021)<br>
 _head of government_: Prime Minister Kaja KALLAS (since 26 January 2021)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by Parliament<br>
-_elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021; in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS will be inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament</p><br>
+_elections/appointments_: <p>president indirectly elected by Parliament for a 5-year term (eligible for a second term); if a candidate does not secure two-thirds of the votes after 3 rounds of balloting, then an electoral college consisting of Parliament members and local council members elects the president, choosing between the 2 candidates with the highest number of votes; election last held on 30-31 August 2021 (next to be held in 2026); in a first round of voting on 30 August, parliament failed to elect a president; in a second round on 31 August, the sole candidate, Alar KARIS, received 72 votes of 101 votes (there were 8 blank votes and 21 electors not present); KARIS was inaugurated on 11 October 2021; prime minister nominated by the president and approved by Parliament</p><br>
 _election results_: <p>Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister</p><br>
 
 **Legislative branch**<br>
@@ -631,16 +631,16 @@ ES<br>
 _total_: 18 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 13 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 8 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
+_total_: 13<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 8<br>
+_1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 5<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 3 (2013)<br>
 
 **Heliports**<br>
@@ -690,11 +690,11 @@ the Estonian Defense Forces have a limited inventory of Soviet-era and more rece
 **Military deployments**<br>
 approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
-**Military - note**<br>
-Estonia officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2019)<br>
+
+**Military - note**<br>
+Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the UK and had about 800 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>
 
 ## Transnational Issues
 

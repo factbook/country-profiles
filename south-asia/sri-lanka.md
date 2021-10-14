@@ -384,10 +384,25 @@ _lyrics/music_: Ananda SAMARKONE<br>
 **Economic overview**<br>
 <p>Sri Lanka is attempting to sustain economic growth while maintaining macroeconomic stability under the IMF program it began in 2016. The government's high debt payments and bloated civil service, which have contributed to historically high budget deficits, remain a concern. Government debt is about 79% of GDP and remains among the highest of the emerging markets. In the coming years, Sri Lanka will need to balance its elevated debt repayment schedule with its need to maintain adequate foreign exchange reserves.</p><p></p><p>In May 2016, Sri Lanka regained its preferential trade status under the European Union’s Generalized System of Preferences Plus, enabling many of its firms to export products, including its top export garments, tax free to the EU. In 2017, Parliament passed a new Inland Revenue Act in an effort to increase tax collection and broaden the tax base in response to recommendations made under its IMF program. In November 2017, the Financial Action Task Force on money laundering and terrorist financing listed Sri Lanka as non-compliant, but reported subsequently that Sri Lanka had made good progress in implementing an action plan to address deficiencies.</p><p></p><p>Tourism has experienced strong growth in the years since the resolution of the government's 26-year conflict with the Liberation Tigers of Tamil Eelam. In 2017, the government promulgated plans to transform the country into a knowledge-based, export-oriented Indian Ocean hub by 2025.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$285.141 billion (2019 est.)<br>
+$278.776 billion (2018 est.)<br>
+$269.853 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.29% (2019 est.)<br>
 3.32% (2018 est.)<br>
 3.58% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$13,078 (2019 est.)<br>
+$12,865 (2018 est.)<br>
+$12,584 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$84.016 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.3% (2019 est.)<br>
@@ -398,26 +413,6 @@ _lyrics/music_: Ananda SAMARKONE<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa1 (2020)<br>
 _Standard & Poors rating_: CCC+ (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$285.141 billion (2019 est.)<br>
-$278.776 billion (2018 est.)<br>
-$269.853 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$84.016 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$13,078 (2019 est.)<br>
-$12,865 (2018 est.)<br>
-$12,584 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-25.3% of GDP (2019 est.)<br>
-27.3% of GDP (2018 est.)<br>
-29% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 7.8% (2017 est.)<br>
@@ -431,12 +426,6 @@ _investment in fixed capital_: 26.3% (2017 est.)<br>
 _investment in inventories_: 10.2% (2017 est.)<br>
 _exports of goods and services_: 21.9% (2017 est.)<br>
 _imports of goods and services_: -29.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.8 (2020)<br>
-_Starting a Business score_: 88.2 (2020)<br>
-_Trading score_: 73.3 (2020)<br>
-_Enforcement score_: 41.2 (2020)<br>
 
 **Agricultural products**<br>
 rice, coconuts, sugar cane, plantains, milk, tea, cassava, maize, poultry, coir<br>
@@ -474,9 +463,6 @@ _highest 10%_: 32.2% (2012 est.)<br>
 _revenues_: 12.07 billion (2017 est.)<br>
 _expenditures_: 16.88 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-13.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.5% (of GDP) (2017 est.)<br>
 
@@ -484,6 +470,9 @@ _expenditures_: 16.88 billion (2017 est.)<br>
 79.1% of GDP (2017 est.)<br>
 79.6% of GDP (2016 est.)<br>
 <strong>note:</strong> covers central government debt and excludes debt instruments directly owned by government entities other than the treasury (e.g. commercial bank borrowings of a government corporation); the data includes treasury debt held by foreign entities as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement; sub-national entities are usually not permitted to sell debt instruments<br>
+
+**Taxes and other revenues**<br>
+13.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -646,16 +635,16 @@ _annual freight traffic on registered air carriers_: 436.2 million mt-km (2018)<
 _total_: 18 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2020)<br>
+_total_: 11<br>
 _over 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 5<br>
-_914 to 1,523 m_: 4<br>
+_914 to 1,523 m_: 4 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2020)<br>
+_total_: 7<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 2<br>
+_under 914 m_: 2 (2020)<br>
 
 **Heliports**<br>
 1 (2020)<br>

@@ -613,18 +613,18 @@ HZ<br>
 _total_: 214 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 82 (2017)<br>
-_over 3,047 m_: 33 (2017)<br>
-_2,438 to 3,047 m_: 16 (2017)<br>
-_1,524 to 2,437 m_: 27 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 82<br>
+_over 3,047 m_: 33<br>
+_2,438 to 3,047 m_: 16<br>
+_1,524 to 2,437 m_: 27<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 132 (2013)<br>
-_2,438 to 3,047 m_: 7 (2013)<br>
-_1,524 to 2,437 m_: 72 (2013)<br>
-_914 to 1,523 m_: 37 (2013)<br>
+_total_: 132<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 72<br>
+_914 to 1,523 m_: 37<br>
 _under 914 m_: 16 (2013)<br>
 
 **Heliports**<br>
@@ -674,7 +674,10 @@ the inventory of the Saudi military forces, including the SANG, includes a mix o
 est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>
 
 **Military service age and obligation**<br>
-17 is the legal minimum age for voluntary military service; no conscription; in 2018, women were allowed to serve as soldiers in the internal security services under certain requirements; in 2019, the Saudi Government agreed to allow women to join the armed forces and serve as soldiers up to the rank of non-commissioned officer (2021)<br>
+17-40 for men; no conscription; as of 2021, women (aged 17-40) were allowed to serve in the Army, Air Defense, Navy, Strategic Missile Force, medical services, and internal security forces up to the rank of non-commissioned officer (2021)<br>
+
+**Military - note**<br>
+<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government against the separatist Huthis; as of 2021, the coalition (consisting largely of Saudi forces) and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also reportedly taking place over the key province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; the Saudi-led coalition controlled the country’s airspace and the port of Hodeida; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen--based largely on tribal or regional affiliation--to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf</p><br>
 
 ## Terrorism
 

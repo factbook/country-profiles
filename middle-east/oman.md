@@ -202,7 +202,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 11.2% (2016/17)<br>
 
 **Education expenditures**<br>
-6.8% of GDP (2017)<br>
+5.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -613,17 +613,17 @@ A4O<br>
 _total_: 132 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 13 (2017)<br>
-_over 3,047 m_: 7 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
+_total_: 13<br>
+_over 3,047 m_: 7<br>
+_2,438 to 3,047 m_: 5<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 119 (2013)<br>
-_over 3,047 m_: 2 (2013)<br>
-_2,438 to 3,047 m_: 7 (2013)<br>
-_1,524 to 2,437 m_: 51 (2013)<br>
-_914 to 1,523 m_: 33 (2013)<br>
+_total_: 119<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 51<br>
+_914 to 1,523 m_: 33<br>
 _under 914 m_: 26 (2013)<br>
 
 **Heliports**<br>

@@ -70,6 +70,12 @@ recurring droughts; floods and severe storms are rare<br>
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -212,7 +218,7 @@ _animal contact diseases_: rabies<br>
 9.7% (2019)<br>
 
 **Education expenditures**<br>
-5.9% of GDP (2018)<br>
+3.6% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English<br>
@@ -287,6 +293,12 @@ _widespread lack of access_: due to High food prices and economic downturn - a w
 _municipal solid waste generated annually_: 1,449,752 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## Government
 
@@ -633,16 +645,16 @@ Z<br>
 _total_: 196 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17 (2013)<br>
-_over 3,047 m_: 3 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
+_total_: 17<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 7 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 179 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 104 (2013)<br>
+_total_: 179<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 104<br>
 _under 914 m_: 72 (2013)<br>
 
 **Pipelines**<br>
@@ -681,11 +693,11 @@ information varies; approximately 30,000 active duty troops, including about 4,0
 **Military equipment inventories and acquisitions**<br>
 the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equipment; since 2000, China is the leading arms supplier to the ZDF, although there are no recorded deliveries of weapons since 2006; since the early 2000s, Zimbabwe has been under an arms embargo from the European Union, as well as targeted sanctions from Australia, Canada, New Zealand, and the US (2020)<br>
 
-**Military - note**<br>
-the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017<br>
-
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>
+
+**Military - note**<br>
+the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017<br>
 
 ## Transnational Issues
 
@@ -693,7 +705,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p>Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,334 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 11,408 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

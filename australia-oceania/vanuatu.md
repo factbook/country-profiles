@@ -202,7 +202,7 @@ _vectorborne diseases_: malaria<br>
 11.7% (2013)<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2017)<br>
+2.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -352,29 +352,29 @@ _lyrics/music_: Francois Vincent AYSSAV<br>
 **Economic overview**<br>
 <p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p><p></p><p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p><p></p><p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
 
-**Real GDP growth rate**<br>
-4.2% (2017 est.)<br>
-3.5% (2016 est.)<br>
-0.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-3.1% (2017 est.)<br>
-0.8% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $945 million (2019 est.)<br>
 $915 million (2018 est.)<br>
 $889 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$870 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+4.2% (2017 est.)<br>
+3.5% (2016 est.)<br>
+0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,153 (2019 est.)<br>
 $3,128 (2018 est.)<br>
 $3,117 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$870 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+3.1% (2017 est.)<br>
+0.8% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 27.3% (2017 est.)<br>
@@ -388,12 +388,6 @@ _investment in fixed capital_: 28.7% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 42.5% (2017 est.)<br>
 _imports of goods and services_: -48.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 61.1 (2020)<br>
-_Starting a Business score_: 81.5 (2020)<br>
-_Trading score_: 59.1 (2020)<br>
-_Enforcement score_: 49.3 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, roots/tubers nes, bananas, vegetables, pork, fruit, milk, beef, groundnuts, cocoa<br>
@@ -429,15 +423,15 @@ _highest 10%_: NA<br>
 _revenues_: 236.7 million (2017 est.)<br>
 _expenditures_: 244.1 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-27.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 48.4% of GDP (2017 est.)<br>
 46.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+27.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -600,14 +594,14 @@ YJ<br>
 _total_: 31 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2019)<br>
+_total_: 3<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 28 (2013)<br>
-_914 to 1,523 m_: 7 (2013)<br>
+_total_: 28<br>
+_914 to 1,523 m_: 7<br>
 _under 914 m_: 21 (2013)<br>
 
 **Roadways**<br>

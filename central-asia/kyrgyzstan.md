@@ -70,6 +70,9 @@ major flooding during snow melt; prone to earthquakes<br>
 **Geography - note**<br>
 landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes<br>
 
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -201,7 +204,7 @@ _unimproved: total_: total: 0.1% of population (2017 est.)<br>
 1.8% (2018)<br>
 
 **Education expenditures**<br>
-6% of GDP (2017)<br>
+5.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -264,6 +267,9 @@ _rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## Government
 
@@ -616,16 +622,16 @@ EX<br>
 _total_: 28 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 18 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 11 (2017)<br>
+_total_: 18<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 11<br>
 _under 914 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 10<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 8 (2013)<br>
 
 **Pipelines**<br>
@@ -662,11 +668,11 @@ the Kyrgyz Armed Forces have approximately 12,000 active duty troops (8,500 Land
 **Military equipment inventories and acquisitions**<br>
 the Kyrgyz Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; Kyrgyzstan relies on donations of military equipment, which come mostly from Russia under a 2013 agreement between Bishkek and Moscow (2021)<br>
 
-**Military deployments**<br>
-contributes forces to CSTO's Rapid Reaction Force (2021)<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary male military service in the Armed Forces or Interior Ministry; 1-year service obligation (9 months for university graduates), with optional fee-based 3-year service in the call-up mobilization reserve; women may volunteer at age 19; 16-17 years of age for military cadets, who cannot take part in military operations (2019)<br>
+
+**Military - note**<br>
+Kyrgyzstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
 
 ## Transnational Issues
 

@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in early September 2021 and will be inaugurated 29 September 2021. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
+<p>Portugal discovered and colonized the uninhabited islands in the late 15th century, setting up a sugar-based economy that gave way to coffee and cocoa in the 19th century - all grown with African plantation slave labor, a form of which lingered into the 20th century. While independence was achieved in 1975, democratic reforms were not instituted until the late 1980s. The country held its first free elections in 1991, but frequent internal wrangling between the various political parties precipitated repeated changes in leadership and four failed, non-violent coup attempts in 1995, 1998, 2003, and 2009. In 2012, three opposition parties combined in a no confidence vote to bring down the majority government of former Prime Minister Patrice TROVOADA, but in 2014, legislative elections returned him to the office. President Evaristo CARVALHO, of the same political party as Prime Minister TROVOADA, was elected in September 2016, marking a rare instance in which the positions of president and prime minister are held by the same party. Prime Minister TROVOADA resigned at the end of 2018 and was replaced by Jorge BOM JESUS. Carlos Vila NOVA was elected president in early September 2021 and was inaugurated 2 October 2021. New oil discoveries in the Gulf of Guinea may attract increased attention to the small island nation.</p><br>
 
 ## Geography
 
@@ -210,7 +210,7 @@ _water contact diseases_: schistosomiasis<br>
 5.4% (2019)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018)<br>
+5.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -327,10 +327,10 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Evaristo CARVALHO (since 3 September 2016)<br>
+_chief of state_: President Carlos Manuel VILA NOVA (since 2 October 2021)<br>
 _head of government_: Prime Minister Jorge BOM JESUS (since 3 December 2018)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president; note - President Evaristo CARVALHO, whose term expires on 3 September (ahead of the postponed presidential runoff on 5 September 2021), announced he will remain in office until the inauguration of the new president, scheduled for 29 September 2021.<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 July 2021 and runoff on 5 September 2021 (next to be held in 2026); prime minister chosen by the National Assembly and approved by the president&nbsp;<br>
 _election results_: <br><em>2021:</em> Carlos Manuel VILA NOVA elected president in the second round; percent of vote in the first round - Carlos Manuel VILA NOVA (IDA) 39.5%; Guilherme POSSER DA COSTA (MLSTP-PSD) 20.8%; Delfim NEVES (PCD-GR) 16.9%; Abel BOM JESUS (independent) 3.6%; Maria DAS NEVES (independent) 3.3%; other 15.9%; percent of the vote in the second round - Carlos Manuel VILA NOVA (IDA) 57.5%, Guilherme POSSER DA COSTA (MLSTP-PSD) 42.5%; note - VILA NOVA is scheduled to take office 29 September 2021 <br><br><em>2016:</em> Evaristo CARVALHO elected president; percent of vote - Evaristo CARVALHO (ADI) 49.8%, Manuel Pinto DA COSTA (independent) 24.8%, Maria DAS NEVES (MLSTP-PSD) 24.1%; note - first round results for CARVALHO were revised downward from just over 50%, prompting the 7 August runoff; however, on 1 August 2016 DA COSTA withdrew from the runoff, citing voting irregularities, and CARVALHO was declared the winner<br>
 
 **Legislative branch**<br>
@@ -377,23 +377,16 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 **Economic overview**<br>
 <p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p><p></p><p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p><p></p><p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p><p></p><p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
 
-**Real GDP growth rate**<br>
-3.9% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.8% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-7.8% (2018 est.)<br>
-5.7% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $853 million (2019 est.)<br>
 $842 million (2018 est.)<br>
 $818 million (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$0 (2018 est.)<br>
+**Real GDP growth rate**<br>
+3.9% (2017 est.)<br>
+4.2% (2016 est.)<br>
+3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,970 (2019 est.)<br>
@@ -401,10 +394,12 @@ $3,993 (2018 est.)<br>
 $3,953 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-18.7% of GDP (2017 est.)<br>
-21% of GDP (2016 est.)<br>
-19.3% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$0 (2018 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+7.8% (2018 est.)<br>
+5.7% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 11.8% (2017 est.)<br>
@@ -418,12 +413,6 @@ _investment in fixed capital_: 33.4% (2017 est.)<br>
 _investment in inventories_: 0% (2017 est.)<br>
 _exports of goods and services_: 7.9% (2017 est.)<br>
 _imports of goods and services_: -40.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 45 (2020)<br>
-_Starting a Business score_: 78.2 (2020)<br>
-_Trading score_: 66 (2020)<br>
-_Enforcement score_: 28.8 (2020)<br>
 
 **Agricultural products**<br>
 plantains, oil palm fruit, coconuts, taro, bananas, fruit, cocoa, yams, cassava, maize<br>
@@ -461,15 +450,15 @@ _highest 10%_: NA<br>
 _revenues_: 103 million (2017 est.)<br>
 _expenditures_: 112.4 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-26.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.4% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 88.4% of GDP (2017 est.)<br>
 93.1% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -630,9 +619,9 @@ S9<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 1,300 km (2018)<br>

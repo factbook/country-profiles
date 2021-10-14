@@ -191,7 +191,7 @@ _vectorborne diseases_: malaria<br>
 NA<br>
 
 **Education expenditures**<br>
-12.5% of GDP (2015)<br>
+9.7% of GDP (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 18.9%<br>
@@ -560,8 +560,8 @@ V6<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 6 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_total_: 6<br>
+_1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 2 (2017)<br>
 
 **Roadways**<br>

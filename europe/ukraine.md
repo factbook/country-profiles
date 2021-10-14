@@ -73,6 +73,9 @@ occasional floods; occasional droughts<br>
 **Geography - note**<br>
 strategic position at the crossroads between Europe and Asia; second-largest country in Europe after Russia<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -206,7 +209,7 @@ _unimproved: total_: total: 1.6% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2017)<br>
+5.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -272,6 +275,9 @@ _municipal solid waste generated annually_: 15,242,025 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 487,745 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+
 ## Government
 
 **Country name**<br>
@@ -299,7 +305,7 @@ _etymology_: the name is associated with that of Kyi, who along with his brother
 <br><br><strong>note:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
 
 **Independence**<br>
-24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed; 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
+24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
 
 **National holiday**<br>
 Independence Day, 24 August (1991); note - 22 January 1918, the day Ukraine first declared its independence from Soviet Russia, and the date the short-lived Western and Greater (Eastern) Ukrainian republics united (1919), is now celebrated as Unity Day<br>
@@ -637,17 +643,17 @@ UR<br>
 _total_: 187 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 108 (2013)<br>
-_over 3,047 m_: 13 (2013)<br>
-_2,438 to 3,047 m_: 42 (2013)<br>
-_1,524 to 2,437 m_: 22 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 108<br>
+_over 3,047 m_: 13<br>
+_2,438 to 3,047 m_: 42<br>
+_1,524 to 2,437 m_: 22<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 28 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 79 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 79<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 69 (2013)<br>
 
 **Heliports**<br>
@@ -699,11 +705,11 @@ the Ukrainian military is equipped mostly with older Russian and Soviet-era weap
 250 Democratic Republic of the Congo (MONUSCO) (2021)<br>
 note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
 
-**Military - note**<br>
-the Ukrainian military&rsquo;s primary concern is Russia&rsquo;s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, Ukrainian military casualties along the front line have fallen significantly despite continued sporadic exchanges of fire through 2020 and into 2021<br>
-
 **Military service age and obligation**<br>
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months; note - the Ukrainian military has a mix of conscript and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service<br> (2020)<br>
+
+**Military - note**<br>
+the Ukrainian military’s primary concern is Russia’s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, Ukrainian military casualties along the front line have fallen significantly despite continued sporadic exchanges of fire through 2020 and 2021<br> <p>since 2014, the Ukrainian military has undertaken considerable efforts to improve its capabilities; it has sought to implement reforms in line with NATO standards, improve individual and unit training, revise doctrine, upgrade arms and equipment, streamline command and control, reduce reliance on conscripts, and expand elite units such as the Air Assault and Special Operations Forces; the military also has received considerable assistance and material support from NATO and the US</p><br>
 
 ## Transnational Issues
 

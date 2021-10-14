@@ -201,7 +201,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2017)<br>
+3.7% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -614,11 +614,11 @@ LX<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2013)<br>
+_total_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>
@@ -662,11 +662,11 @@ the Luxembourg Army has approximately 900 active personnel (2021)<br>
 **Military equipment inventories and acquisitions**<br>
 the inventory of Luxembourg's Army is a small mix of European and US equipment; since 2010, it has received small quantities of equipment from Germany, Norway, and Sweden (2020)<br>
 
-**Military - note**<br>
-Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>
+
+**Military - note**<br>
+Luxembourg is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
 
 ## Transnational Issues
 

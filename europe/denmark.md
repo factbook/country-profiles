@@ -623,16 +623,16 @@ OY<br>
 _total_: 80 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 28 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 7 (2017)<br>
-_1,524 to 2,437 m_: 5 (2017)<br>
-_914 to 1,523 m_: 12 (2017)<br>
+_total_: 28<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 12<br>
 _under 914 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 52 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 52<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 47 (2013)<br>
 
 **Pipelines**<br>
@@ -682,11 +682,11 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 **Military deployments**<br>
 140 Middle East/Iraq (NATO/Operation Inherent Resolve) (2021)<br>
 
-**Military - note**<br>
-Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
-
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2019)<br>
+
+**Military - note**<br>
+Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework</p> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 

@@ -202,7 +202,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2017)<br>
+4.7% of GDP (2017)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -619,8 +619,8 @@ _annual freight traffic on registered air carriers_: 5.14 million mt-km (2018)<b
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Heliports**<br>
 2 (2013)<br>
@@ -661,6 +661,9 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription (2021)<br>
 
+**Military - note**<br>
+<p>Malta maintains a security policy of neutrality, but contributes to EU and UN military missions and joined NATO’s Partnership for Peace program in 1995 (suspended in 1996, but reactivated in 2008); it also participates in various bilateral and multinational military exercises; Malta cooperates closely with Italy on defense matters; in 1973, Italy established a military mission in Malta to provide advice, training, and search and rescue assistance</p> <p> </p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
@@ -668,7 +671,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,751 estimated refugee and migrant arrivals by sea (January 2015-August 2021)<br>
+<strong>note:</strong> 7,751 estimated refugee and migrant arrivals by sea (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

@@ -70,6 +70,9 @@ periodic droughts; dust storms<br>
 **Geography - note**<br>
 close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean<br>
 
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -257,6 +260,9 @@ _municipal solid waste generated annually_: 951,943 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 76,155 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2012 est.)<br>
 
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 ## Government
 
 **Country name**<br>
@@ -337,7 +343,7 @@ _email address and website_: <br>ambsecretary@bahrainembassy.org<br><br>mofa.gov
 _consulate(s) general_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Maggie NARDI (since August 2019)<br>
 _embassy_: Building 979, Road 3119 (next to Al-Ahli Sports Club), Block 331, Zinj District, P.O. Box 26431, Manama<br>
 _mailing address_: 6210 Manama Place, Washington DC&nbsp; 20521-6210<br>
 _telephone_: [973] 17-242700<br>
@@ -606,8 +612,8 @@ A9C<br>
 _total_: 4 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
+_total_: 4<br>
+_over 3,047 m_: 3<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Heliports**<br>
@@ -649,6 +655,9 @@ the inventory of the Bahrain Defense force is comprised mostly of equipment acqu
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, Bahrain hosted the US Naval Forces Central Command (USNAVCENT; established 1983), which included the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

@@ -95,6 +95,12 @@ _25-54 years_: 37.8% (male 17,080/female 17,131)<br>
 _55-64 years_: 13.82% (male 6,284/female 6,219)<br>
 _65 years and over_: 21.08% (male 9,023/female 10,058) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 44.6 years<br>
 _male_: 43.6 years<br>
@@ -246,7 +252,7 @@ see United Kingdom<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir Richard GOZNEY (since 27 May 2016)<br>
+_chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
 _head of government_: Chief Minister Howard QUAYLE (since 4 October 2016)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
 _elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 4 October 2016 (next to be held in 2021)<br>
@@ -420,8 +426,8 @@ M<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Railways**<br>
 _total_: 63 km (2008)<br>

@@ -73,6 +73,9 @@ periodic droughts, floods; dust storms, sandstorms; earthquakes<br>
 **Geography - note**<br>
 strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil transport<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -198,7 +201,7 @@ _unimproved: total_: total: 1.9% of population (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 20 July 2021, Iran has reported a total of 3,548,704 cases of COVID-19 or 4,225 cumulative cases of COVID-19 per 100,000 population with 104.03 cumulative deaths per 100,000 population; as of 19 July 2021, 6.98% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Iran has reported a total of 5,651,961 cases of COVID-19 or 6,729.09 cumulative cases of COVID-19 per 100,000 population with 144.73 cumulative deaths per 100,000 population; as of 27 September 2021, 42.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 25.8% (2016)<br>
@@ -207,7 +210,7 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 4.1% (2010/11)<br>
 
 **Education expenditures**<br>
-4% of GDP (2018)<br>
+3.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -272,12 +275,15 @@ _rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 20 July 2021, Iran has reported a total of 3,548,704 cases of COVID-19 or 4,225 cumulative cases of COVID-19 per 100,000 population with 104.03 cumulative deaths per 100,000 population; as of 19 July 2021, 6.98% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Iran; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Iran has reported a total of 5,651,961 cases of COVID-19 or 6,729.09 cumulative cases of COVID-19 per 100,000 population with 144.73 cumulative deaths per 100,000 population; as of 27 September 2021, 42.69% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 894,250 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## Government
 
@@ -618,19 +624,19 @@ EP<br>
 _total_: 319 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 140 (2019)<br>
+_total_: 140<br>
 _over 3,047 m_: 42<br>
 _2,438 to 3,047 m_: 29<br>
 _1,524 to 2,437 m_: 26<br>
 _914 to 1,523 m_: 36<br>
-_under 914 m_: 7<br>
+_under 914 m_: 7 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 179 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 9 (2013)<br>
-_914 to 1,523 m_: 135 (2013)<br>
+_total_: 179<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 135<br>
 _under 914 m_: 32 (2013)<br>
 
 **Heliports**<br>
@@ -689,6 +695,9 @@ note: Iran has recruited, trained, and funded thousands of Syrian and foreign fi
 
 **Military service age and obligation**<br>
 18 years of age for compulsory military service; 16 years of age for volunteers; 17 years of age for Law Enforcement Forces; 15 years of age for Basij Forces (Popular Mobilization Army); conscript military service obligation is 18-24 months; women exempt from military service (2019)<br>
+
+**Military - note**<br>
+<p>the Islamic Revolutionary Guard Corps (IRGC) was formed in May 1979 in the immediate aftermath of Shah Mohammad Reza PAHLAVI’s fall, as leftists, nationalists, and Islamists jockeyed for power; while the interim prime minister controlled the government and state institutions, such as the Army, followers of Ayatollah Ruhollah KHOMEINI organized counterweights, including the IRGC, to protect the Islamic revolution; the IRGC’s command structure bypassed the elected president and went directly to KHOMEINI; the Iran-Iraq War (1980–88) transformed the IRGC into more of a conventional fighting force with its own ground, air, naval, and special forces, plus control over Iran’s strategic missile and rocket forces; as of 2021, the IRGC was a highly institutionalized and parallel military force to Iran’s regular armed forces (Artesh); it was heavily involved in internal security and had significant influence in the political and economic spheres of Iranian society, as well as Iran’s foreign policy; its special operations forces, known as the Qods Force, specialized in foreign missions and has provided advice, funding, guidance, material support, training, and weapons to militants in countries such as Afghanistan, Iraq, Syria, and Yemen, as well as extremist groups, including HAMAS, Hizballah, Kata’ib Hizballah, and Palestine Islamic Jihad (see Appendix-T for additional details on the IRGC and Qods Force)</p> <p>the Supreme Council for National Security (SCNS) is the senior-most body for formulating Iran’s foreign and security policy; it is formally chaired by the president, who also appoints the SCNS secretary; its members include the speaker of the Majles, the head of the judiciary, the chief of the Armed Forces General Staff (chief of defense or CHOD), the commanders of the Artesh (regular forces) and IRGC, and the ministers of defense, foreign affairs, interior, and intelligence; the SCNS reports to the supreme leader; the supreme leader is the commander-in-chief of the armed forces</p><br>
 
 ## Terrorism
 

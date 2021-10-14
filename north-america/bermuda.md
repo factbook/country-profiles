@@ -95,6 +95,12 @@ _25-54 years_: 35.31% (male 12,758/female 12,575)<br>
 _55-64 years_: 16.37% (male 5,560/female 6,185)<br>
 _65 years and over_: 19.74% (male 6,032/female 8,134) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 43.6 years<br>
 _male_: 41.6 years<br>
@@ -173,7 +179,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-1.5% of GDP (2017)<br>
+1.3% of GDP (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -540,8 +546,8 @@ VP-B<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 447 km (2010)<br>
@@ -567,11 +573,11 @@ the Royal Bermuda Regiment has about 350 troops (2021)<br>
 **Military equipment inventories and acquisitions**<br>
 the Regiment is equipped with small arms<br>
 
-**Military - note**<br>
-defense is the responsibility of the UK<br>
-
 **Military service age and obligation**<br>
 females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)<br>
+
+**Military - note**<br>
+defense is the responsibility of the UK<br>
 
 ## Transnational Issues
 

@@ -212,7 +212,7 @@ _vectorborne diseases_: dengue fever<br>
 4% (2013)<br>
 
 **Education expenditures**<br>
-NA<br>
+4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -630,17 +630,17 @@ HI<br>
 _total_: 36 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 4 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 16<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 20 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 20<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 18 (2013)<br>
 
 **Heliports**<br>
@@ -687,11 +687,11 @@ information varies; approximately 60,000 active personnel (30,000 Army; 13,000 N
 **Military equipment inventories and acquisitions**<br>
 the military is lightly armed with an inventory consisting mostly of older US equipment with limited quantities of material from other countries; since 2010, Brazil and Israel are the leading suppliers of armaments to the Dominican Republic (2020)<br>
 
-**Military - note**<br>
-the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief<br>
-
 **Military service age and obligation**<br>
 17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2019)<br>
+
+**Military - note**<br>
+the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief<br>
 
 ## Transnational Issues
 

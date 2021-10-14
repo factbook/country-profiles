@@ -70,6 +70,12 @@ recurring droughts<br>
 **Geography - note**<br>
 landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -212,7 +218,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 31.3% (2019)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018)<br>
+3.5% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -288,6 +294,12 @@ _widespread lack of access_: due to civil conflict - according to the latest ana
 _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 74,626 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
 ## Government
 
@@ -638,15 +650,15 @@ _inventory of registered aircraft operated by air carriers_: 3<br>
 _total_: 30 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
+_total_: 10<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 20 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 15 (2013)<br>
+_total_: 20<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 15<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -689,11 +701,11 @@ the FAN's inventory consists of a wide variety of older weapons; since 2010, the
 **Military deployments**<br>
 870 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military - note**<br>
-as of late 2020, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger’s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021<br><br>Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
-
 **Military service age and obligation**<br>
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2019)<br>
+
+**Military - note**<br>
+as of late 2020, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger’s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021<br><br>Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
 
 ## Terrorism
 

@@ -72,6 +72,12 @@ periodic droughts; flooding<br>
 **Geography - note**<br>
 the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -206,7 +212,7 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 7 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in all 36 states and the Federal Capital Territory; the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 19 July 2021, Nigeria has reported a total of 169,678 cases of COVID-19 or 82.31 cumulative cases of COVID-19 per 100,000 population with 1.03 cumulative death per 100,000 population; as of 19 July 2021, 1.23% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> on 7 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in all 36 states and the Federal Capital Territory; the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 6 October 2021, Nigeria has reported a total of 206,561 cases of COVID-19 or 100.2 cumulative cases of COVID-19 per 100,000 population with 1.32 cumulative death per 100,000 population; as of 30 September 2021, 2.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.9% (2016)<br>
@@ -284,13 +290,19 @@ _water contact diseases_: leptospirosis and schistosomiasis<br>
 _animal contact diseases_: rabies<br>
 _respiratory diseases_: meningococcal meningitis<br>
 _aerosolized dust or soil contact diseases_: Lassa fever<br>
-<strong>note:</strong> on 7 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in all 36 states and the Federal Capital Territory; the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 19 July 2021, Nigeria has reported a total of 169,678 cases of COVID-19 or 82.31 cumulative cases of COVID-19 per 100,000 population with 1.03 cumulative death per 100,000 population; as of 19 July 2021, 1.23% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> on 7 October 2019, the Centers for Disease Control and Prevention issued a Travel Health Notice for a Yellow Fever outbreak in Nigeria; a large, ongoing outbreak of yellow fever in Nigeria began in September 2017; the outbreak is now spread throughout the country with the Nigerian Ministry of Health reporting cases of the disease in all 36 states and the Federal Capital Territory; the CDC recommends travelers going to Nigeria should receive vaccination against yellow fever at least 10 days before travel and should take steps to prevent mosquito bites while there; those never vaccinated against yellow fever should avoid travel to Nigeria during the outbreak<br><strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Nigeria; as of 6 October 2021, Nigeria has reported a total of 206,561 cases of COVID-19 or 100.2 cumulative cases of COVID-19 per 100,000 population with 1.32 cumulative death per 100,000 population; as of 30 September 2021, 2.27% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to persistent civil conflict in the northern areas - according to the latest analysis, about 12.8 million people are assessed to be in need of humanitarian assistance in the June&minus;August 2021 period as a result of worsening conflict that is driving new population displacements; over 2.8 million people are estimated to be internally displaced in northeastern states of Adamawa, Borno and Yobe, due to communal clashes in northwestern/northcentral zones and natural disasters; the areas inaccessible to humanitarian interventions are facing the worst food insecurity conditions (2021)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 ## Government
 
@@ -643,17 +655,17 @@ _annual freight traffic on registered air carriers_: 19.42 million mt-km (2018)<
 _total_: 54 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 40 (2017)<br>
-_over 3,047 m_: 10 (2017)<br>
-_2,438 to 3,047 m_: 12 (2017)<br>
-_1,524 to 2,437 m_: 9 (2017)<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_total_: 40<br>
+_over 3,047 m_: 10<br>
+_2,438 to 3,047 m_: 12<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 14 (2013)<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_total_: 14<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 9<br>
 _under 914 m_: 3 (2013)<br>
 
 **Heliports**<br>
@@ -709,11 +721,11 @@ the Nigerian Armed Forces' inventory consists of a wide variety of imported weap
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
 
-**Military - note**<br>
-the Nigerian Armed Forces are used primarily for internal security operations; in the northeast, the military is conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35,000 people, mostly civilians, since 2009 (as of Dec 2020); in the northwest, it faces threats from criminal gangs, bandits, and militants associated with ongoing farmer-herder violence, as well as BH and ISWA terrorists; the military also focuses on the Niger Delta region to protect the oil industry against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br>
-
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+as of 2021, the Nigerian military was sub-Saharan Africa&rsquo;s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35,000 people, mostly civilians, since 2009 (as of Dec 2020); in the northwest, it faced threats from criminal gangs, bandits, and militants associated with ongoing farmer-herder violence, as well as BH and ISWA terrorists; the military also protected the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br>
 
 ## Terrorism
 

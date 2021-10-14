@@ -96,6 +96,12 @@ _25-54 years_: 43.64% (male 12,010/female 11,477)<br>
 _55-64 years_: 13.03% (male 3,527/female 3,485)<br>
 _65 years and over_: 10% (male 2,540/female 2,844) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 36.5 years<br>
 _male_: 36.7 years<br>
@@ -562,9 +568,9 @@ V4<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Railways**<br>
 _total_: 50 km (2008)<br>
@@ -595,6 +601,9 @@ the SKNDF is lightly armed with equipment from Belgium, the UK, and the US (2021
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (under 18 with written parental permission); no conscription (2021)<br>
+
+**Military - note**<br>
+<p>St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

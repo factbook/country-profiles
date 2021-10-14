@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>An independent kingdom for much of its long history, Korea was occupied by Japan beginning in 1905 following the Russo-Japanese War. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime, from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019.</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and it allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>Park was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule under the guise of democracy. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. <br><br>South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019. Nevertheless, relations were stagnant in 2020 and 2021.</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
 
 ## Geography
 
@@ -193,7 +193,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 19 July 2021, South Korea has reported a total of 180,481 cases of COVID-19 or 352.03 cumulative cases of COVID-19 per 100,000 population with 4.02 cumulative deaths per 100,000 population; as of 19 July 2021, 31.78% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 6 October 2021, South Korea has reported a total of 323,379 <br>cases of COVID-19 or 630.75 cumulative cases of COVID-19 per 100,000 population with 4.95 cumulative deaths per 100,000 population; as of 5 October 2021, 77.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.7% (2016)<br>
@@ -202,7 +202,7 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2016)<br>
+4.5% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write (2019)<br>
@@ -265,7 +265,7 @@ _rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 19 July 2021, South Korea has reported a total of 180,481 cases of COVID-19 or 352.03 cumulative cases of COVID-19 per 100,000 population with 4.02 cumulative deaths per 100,000 population; as of 19 July 2021, 31.78% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a novel coronavirus is causing an outbreak of respiratory illness (COVID-19) in South Korea; as of 6 October 2021, South Korea has reported a total of 323,379 <br>cases of COVID-19 or 630.75 cumulative cases of COVID-19 per 100,000 population with 4.95 cumulative deaths per 100,000 population; as of 5 October 2021, 77.54% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
@@ -625,16 +625,16 @@ HL<br>
 _total_: 111 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 71 (2017)<br>
-_over 3,047 m_: 4 (2017)<br>
-_2,438 to 3,047 m_: 19 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
-_914 to 1,523 m_: 13 (2017)<br>
+_total_: 71<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 19<br>
+_1,524 to 2,437 m_: 12<br>
+_914 to 1,523 m_: 13<br>
 _under 914 m_: 23 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 40 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 40<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 38 (2013)<br>
 
 **Heliports**<br>
@@ -688,6 +688,9 @@ the Republic of Korea Armed Forces are equipped with a mix of domestically-produ
 **Military service age and obligation**<br>
 18-28 years of age for compulsory military service; minimum conscript service obligation varies by service- 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force); 18-26 years of age for voluntary military service; women, in service since 1950, are able to serve in all branches, including as officers (2020)<br><br>note:  South Korea intends to reduce the length of military service to 18 – 22 months by 2022<br>
 note:&nbsp; South Korea intends to reduce the length of military service to 18 &ndash; 22 months by 2022<br>
+
+**Military - note**<br>
+<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2021, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> <p> </p><br>
 
 ## Transnational Issues
 

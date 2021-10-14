@@ -96,6 +96,12 @@ _25-54 years_: 41.37% (male 12,489/female 13,140)<br>
 _55-64 years_: 14.78% (male 4,398/female 4,755)<br>
 _65 years and over_: 14.24% (male 4,053/female 4,769) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 40.5 years<br>
 _male_: 39.7 years<br>
@@ -535,12 +541,12 @@ VP-C<br>
 _total_: 3 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
+_total_: 3<br>
+_1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2012)<br>
+_total_: 1<br>
 _914 to 1,523 m_: 1 (2012)<br>
 
 **Roadways**<br>

@@ -541,14 +541,14 @@ _inventory of registered aircraft operated by air carriers_: 15 (registered in F
 _total_: 25 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 12 (2019)<br>
+_total_: 12<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 13 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 13<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 8 (2013)<br>
 
 **Heliports**<br>

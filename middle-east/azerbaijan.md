@@ -206,7 +206,7 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 4.9% (2013)<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2018)<br>
+2.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -624,15 +624,15 @@ _annual freight traffic on registered air carriers_: 44.09 million mt-km (2018)<
 _total_: 23 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 30 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
-_1,524 to 2,437 m_: 13 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 30<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 13<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2013)<br>
+_total_: 7<br>
 _under 914 m_: 7 (2013)<br>
 
 **Heliports**<br>
@@ -676,11 +676,11 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 **Military deployments**<br>
 120 Afghanistan (NATO) (2021)<br>
 
-**Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
-
 **Military service age and obligation**<br>
 18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
+
+**Military - note**<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
 
 ## Terrorism
 

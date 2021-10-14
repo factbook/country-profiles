@@ -212,7 +212,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 13.5% (2019)<br>
 
 **Education expenditures**<br>
-7.7% of GDP (2019)<br>
+9.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write English, Mende, Temne, or Arabic<br>
@@ -621,12 +621,12 @@ _annual freight traffic on registered air carriers_: 0 mt-km (2015)<br>
 _total_: 8 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2013)<br>
-_914 to 1,523 m_: 7 (2013)<br>
+_total_: 7<br>
+_914 to 1,523 m_: 7<br>
 
 **Heliports**<br>
 2 (2013)<br>

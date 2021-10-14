@@ -70,6 +70,12 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br><br><strong>note 2:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato, while southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -276,6 +282,12 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _municipal solid waste generated annually_: 2,219,052 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 268,727 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
 
 ## Government
 
@@ -637,18 +649,18 @@ CP<br>
 _total_: 855 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 21 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 4 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
+_total_: 21<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 6 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 834 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 4 (2013)<br>
-_1,524 to 2,437 m_: 47 (2013)<br>
-_914 to 1,523 m_: 151 (2013)<br>
+_total_: 834<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 47<br>
+_914 to 1,523 m_: 151<br>
 _under 914 m_: 631 (2013)<br>
 
 **Pipelines**<br>
@@ -677,7 +689,8 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB, includes Marines), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Interior: National Police (Polic&iacute;a Nacional de Bolivia, PNB; includes Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotr&aacute;fico, FELCN) and other paramilitary units (2021)<br>
+Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT)  (2021)<br>
+note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
@@ -687,7 +700,7 @@ Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 40,000 active troops (27,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police (2021)<br>
+information varies widely; approximately 50,000 active troops (37,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2020)<br>

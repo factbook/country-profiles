@@ -73,6 +73,9 @@ an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, t
 **Geography - note**<br>
 located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -207,7 +210,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2017)<br>
+5.4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -266,6 +269,9 @@ _rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 8.855 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 ## Government
 
@@ -628,16 +634,16 @@ PH<br>
 _total_: 29 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 23 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 11 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_total_: 23<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 11<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 6 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 6<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -689,11 +695,11 @@ the inventory of the Netherlands Armed Forces consists of a mix of domestically-
 **Military deployments**<br>
 270 Lithuania (NATO) (2021)<br>
 
-**Military - note**<br>
-the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
-
 **Military service age and obligation**<br>
 17 years of age for an all-volunteer force; conscription abolished in 1996 (2019)<br>
+
+**Military - note**<br>
+the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>
 
 ## Terrorism
 

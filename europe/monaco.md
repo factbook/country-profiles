@@ -98,6 +98,12 @@ _25-54 years_: 30.46% (male 4,779/female 4,644)<br>
 _55-64 years_: 15.47% (male 2,370/female 2,417)<br>
 _65 years and over_: 35.15% (male 4,817/female 6,057) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 55.4 years<br>
 _male_: 53.7 years<br>
@@ -184,7 +190,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-1.5% of GDP (2017)<br>
+1.2% of GDP (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 26.6%<br>

@@ -209,7 +209,7 @@ _vectorborne diseases_: dengue fever<br>
 2.9% (2018)<br>
 
 **Education expenditures**<br>
-7% of GDP (2019)<br>
+6.7% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -632,15 +632,15 @@ TI<br>
 _total_: 161 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 47 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
-_914 to 1,523 m_: 27 (2017)<br>
+_total_: 47<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 27<br>
 _under 914 m_: 16 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 114 (2013)<br>
-_914 to 1,523 m_: 18 (2013)<br>
+_total_: 114<br>
+_914 to 1,523 m_: 18<br>
 _under 914 m_: 96 (2013)<br>
 
 **Pipelines**<br>

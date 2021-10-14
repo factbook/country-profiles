@@ -204,7 +204,7 @@ _vectorborne diseases_: malaria<br>
 3.4% (2019/20)<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2016)<br>
+4.8% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -369,29 +369,29 @@ _lyrics/music_: Sauni Liga KURESA<br>
 **Economic overview**<br>
 <p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p><p></p><p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p><p></p><p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
 
-**Real GDP growth rate**<br>
-2.5% (2017 est.)<br>
-7.1% (2016 est.)<br>
-1.6% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1.3% (2017 est.)<br>
-0.1% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.285 billion (2019 est.)<br>
 $1.24 billion (2018 est.)<br>
 $1.267 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$841 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+2.5% (2017 est.)<br>
+7.1% (2016 est.)<br>
+1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $6,521 (2019 est.)<br>
 $6,327 (2018 est.)<br>
 $6,486 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$841 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1.3% (2017 est.)<br>
+0.1% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.4% (2017 est.)<br>
@@ -405,12 +405,6 @@ _investment in fixed capital_: NA<br>
 _investment in inventories_: NA<br>
 _exports of goods and services_: 27.2% (2015 est.)<br>
 _imports of goods and services_: -50.5% (2015 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 62.1 (2020)<br>
-_Starting a Business score_: 92.6 (2020)<br>
-_Trading score_: 57.8 (2020)<br>
-_Enforcement score_: 58.6 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, taro, bananas, yams, tropical fruit, pineapples, mangoes/guavas, papayas, roots/tubers nes, pork<br>
@@ -448,15 +442,15 @@ _highest 10%_: NA<br>
 _revenues_: 237.3 million (2017 est.)<br>
 _expenditures_: 276.8 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 49.1% of GDP (2017 est.)<br>
 52.6% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 June 1 - May 31<br>
@@ -614,11 +608,11 @@ _annual passenger traffic on registered air carriers_: 137,770 (2018)<br>
 _total_: 4 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
+_total_: 3<br>
 _under 914 m_: 3 (2013)<br>
 
 **Roadways**<br>

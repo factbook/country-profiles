@@ -201,7 +201,7 @@ _unimproved: total_: total: 6.4% of population (2017 est.)<br>
 2.6% (2015/16)<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2017)<br>
+2.7% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -368,10 +368,25 @@ _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 **Economic overview**<br>
 <p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p><p></p><p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p><p></p><p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$40.384 billion (2019 est.)<br>
+$37.531 billion (2018 est.)<br>
+$35.676 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 7.5% (2017 est.)<br>
 0.3% (2016 est.)<br>
 3.3% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$13,654 (2019 est.)<br>
+$12,715 (2018 est.)<br>
+$12,115 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$13.694 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2019 est.)<br>
@@ -381,26 +396,6 @@ _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 **Credit ratings**<br>
 _Fitch rating_: B+ (2020)<br>
 _Moody's rating_: Ba3 (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$40.384 billion (2019 est.)<br>
-$37.531 billion (2018 est.)<br>
-$35.676 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$13.694 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$13,654 (2019 est.)<br>
-$12,715 (2018 est.)<br>
-$12,115 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-10.2% of GDP (2019 est.)<br>
-15.5% of GDP (2018 est.)<br>
-16.9% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 16.7% (2017 est.)<br>
@@ -414,12 +409,6 @@ _investment in fixed capital_: 17.3% (2017 est.)<br>
 _investment in inventories_: 4.1% (2017 est.)<br>
 _exports of goods and services_: 38.1% (2017 est.)<br>
 _imports of goods and services_: -50.4% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 74.5 (2020)<br>
-_Starting a Business score_: 96.1 (2020)<br>
-_Trading score_: 91.7 (2020)<br>
-_Enforcement score_: 69.7 (2020)<br>
 
 **Agricultural products**<br>
 milk, potatoes, grapes, vegetables, tomatoes, watermelons, wheat, apples, cabbages, barley<br>
@@ -457,15 +446,15 @@ _highest 10%_: 25.7% (2014)<br>
 _revenues_: 2.644 billion (2017 est.)<br>
 _expenditures_: 3.192 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-22.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -4.8% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 53.5% of GDP (2017 est.)<br>
 51.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+22.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -624,14 +613,14 @@ EK<br>
 _total_: 7 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_total_: 10<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2013)<br>
+_total_: 1<br>
 _914 to 1,523 m_: 1 (2013)<br>
 
 **Pipelines**<br>
@@ -665,14 +654,11 @@ the Armenian Armed Forces have approximately 45,000 active troops (42,000 ground
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armenian Armed Forces includes mostly Russian and Soviet-era equipment; since 2010, almost all of Armenia's weapons imports have come from Russia (2020)<br>
 
-**Military deployments**<br>
-120 Afghanistan (NATO); contributes troops to CSTO's Rapid Reaction Force (2021)<br>
-
-**Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for voluntary or compulsory military service; 2-year conscript service obligation, which can be served as an officer upon deferment for university studies if enrolled in officer-producing program; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2019)<br>
+
+**Military - note**<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br><br>Armenia has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
 
 ## Transnational Issues
 

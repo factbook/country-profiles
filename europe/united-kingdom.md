@@ -202,7 +202,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 19 July 2021, the UK has reported a total of 5,473,481 cases of COVID-19 or 8,062.75 cumulative cases of COVID-19 per 100,000 population with 189.62 cumulative deaths per 100,000 population; as of 19 July 2021, 66.22% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 October 2021, the UK has reported a total of 7,967,989  cases of COVID-19 or 11,737.31 cumulative cases of COVID-19 per 100,000 population with 202.03 cumulative deaths per 100,000 population; as of 5 October 2021, 71.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 27.8% (2016)<br>
@@ -211,7 +211,7 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2017)<br>
+5.2% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -268,7 +268,7 @@ _rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 19 July 2021, the UK has reported a total of 5,473,481 cases of COVID-19 or 8,062.75 cumulative cases of COVID-19 per 100,000 population with 189.62 cumulative deaths per 100,000 population; as of 19 July 2021, 66.22% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the UK; as of 6 October 2021, the UK has reported a total of 7,967,989  cases of COVID-19 or 11,737.31 cumulative cases of COVID-19 per 100,000 population with 202.03 cumulative deaths per 100,000 population; as of 5 October 2021, 71.89% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the UK to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
@@ -636,17 +636,17 @@ G<br>
 _total_: 460 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 271 (2013)<br>
-_over 3,047 m_: 7 (2013)<br>
-_2,438 to 3,047 m_: 29 (2013)<br>
-_1,524 to 2,437 m_: 89 (2013)<br>
-_914 to 1,523 m_: 80 (2013)<br>
+_total_: 271<br>
+_over 3,047 m_: 7<br>
+_2,438 to 3,047 m_: 29<br>
+_1,524 to 2,437 m_: 89<br>
+_914 to 1,523 m_: 80<br>
 _under 914 m_: 66 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 189 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 26 (2013)<br>
+_total_: 189<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 26<br>
 _under 914 m_: 160 (2013)<br>
 
 **Heliports**<br>
@@ -704,11 +704,11 @@ the inventory of the British military is comprised of a mix of domestically-prod
 **Military deployments**<br>
 approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,200 Cyprus; 250 Cyprus (UNFICYP); 830 Estonia (NATO); approx. 1,200 Falkland Islands; est. 200 Germany (note - previously about 2,500, but the UK withdrew all but 200 troops by the end of 2020); 570 Gibraltar; approx. 1,400 Middle East (coalition against ISIS; NATO); up to 350 Kenya (BATUK); approx. 400 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2021)<br>
 
-**Military - note**<br>
-the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles; conscription abolished in 1963 (2021)<br>
+
+**Military - note**<br>
+the UK is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for UK-French bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>in 2014, the UK led the formation of the Joint Expeditionary Force (JEF), a pool of high-readiness military forces from Baltic and Scandinavian countries able to respond to a wide range of contingencies both in peacetime and in times of crisis or conflict; its principal geographic area of interest is the High North, North Atlantic, and Baltic Sea regions, where the JEF can complement national capabilities or NATO’s deterrence posture, although it is designed to be flexible and prepared to respond to humanitarian crises further afield; the JEF consists of 10 countries (Denmark, Estonia, Finland, Iceland, Latvia, Lithuania, the Netherlands, Norway, Sweden, and the UK) and was declared operational in 2018; most of the forces in the pool are British, and the UK provides the most rapidly deployable units as well as the command and control elements</p><br>
 
 ## Terrorism
 

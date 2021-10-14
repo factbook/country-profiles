@@ -72,6 +72,12 @@ mountainous areas subject to severe earthquakes; mudslides and floods in rainy s
 **Geography - note**<br>
 largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art - rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) - that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _unimproved: total_: total: 4% of population (2017 est.)<br>
 2.7% (2018/19)<br>
 
 **Education expenditures**<br>
-NA<br>
+6.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -269,6 +275,12 @@ _rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 990,299 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 ## Government
 
@@ -617,19 +629,19 @@ _annual freight traffic on registered air carriers_: 28.28 million mt-km (2018)<
 _total_: 149 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 67 (2020)<br>
+_total_: 67<br>
 _over 3,047 m_: 14<br>
 _2,438 to 3,047 m_: 27<br>
 _1,524 to 2,437 m_: 18<br>
 _914 to 1,523 m_: 6<br>
-_under 914 m_: 2<br>
+_under 914 m_: 2 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 82 (2020)<br>
+_total_: 82<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 16<br>
 _914 to 1,523 m_: 36<br>
-_under 914 m_: 28<br>
+_under 914 m_: 28 (2020)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -675,6 +687,9 @@ the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Russi
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; 19-30 years of age for compulsory service; conscript service obligation reduced from 18 to 12 months in 2014 (2019)<br>
+
+**Military - note**<br>
+<p>the ANP has played a large role in the country’s politics since independence in 1962, including coups in 1965 and 1991; it was a key backer of BOUTEFLIKA’s election in 1999 and remained a center of power during his 20-year rule; the military was instrumental in BOUTEFLIKA’s resignation in 2019 when it withdrew support and called for him to be removed from office</p> <p>in 2021, Algeria had the largest defense budget (approximately $9 billion) and one of the best-equipped militaries in Africa</p> <p>the ANP traditionally has focused on internal stability and on Morocco where relations as of 2021 remained tense over Western Sahara and Algerian accusations that Morocco supports the Movement for the Autonomy of Kabylie (MAK), a separatist group in Algeria’s Kabylie region; however, following the Arab Spring events of 2011 and a series of cross-border terrorist attacks emanating from Mali in 2012-2013, particularly the 2013 attack on a commercial gas plant by al-Qa’ida-linked terrorists that resulted in the deaths of 35 hostages and 29 jihadists, it has made a concerted effort to beef up security along its other borders and promote regional security cooperation; since 2013, additional Army and paramilitary forces were deployed to the borders with Tunisia, Libya, Niger, and Mali to interdict and deter cross-border attacks by Islamic militant groups; in addition, Algeria has provided security assistance to some neighboring countries, particularly Tunisia, and conducted joint military/counter-terrorism operations</p><br>
 
 ## Terrorism
 

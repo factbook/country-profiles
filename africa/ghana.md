@@ -390,10 +390,25 @@ _lyrics/music_: unknown/Philip GBEHO<br>
 **Economic overview**<br>
 <p>Ghana has a market-based economy with relatively few policy barriers to trade and investment in comparison with other countries in the region, and Ghana is endowed with natural resources. Ghana's economy was strengthened by a quarter century of relatively sound management, a competitive business environment, and sustained reductions in poverty levels, but in recent years has suffered the consequences of loose fiscal policy, high budget and current account deficits, and a depreciating currency.</p><p></p><p>Agriculture accounts for about 20% of GDP and employs more than half of the workforce, mainly small landholders. Gold, oil, and cocoa exports, and individual remittances, are major sources of foreign exchange. Expansion of Ghana’s nascent oil industry has boosted economic growth, but the fall in oil prices since 2015 reduced by half Ghana’s oil revenue. Production at Jubilee, Ghana's first commercial offshore oilfield, began in mid-December 2010. Production from two more fields, TEN and Sankofa, started in 2016 and 2017 respectively. The country’s first gas processing plant at Atuabo is also producing natural gas from the Jubilee field, providing power to several of Ghana’s thermal power plants.</p><p></p><p>As of 2018, key economic concerns facing the government include the lack of affordable electricity, lack of a solid domestic revenue base, and the high debt burden. The AKUFO-ADDO administration has made some progress by committing to fiscal consolidation, but much work is still to be done. Ghana signed a $920 million extended credit facility with the IMF in April 2015 to help it address its growing economic crisis. The IMF fiscal targets require Ghana to reduce the deficit by cutting subsidies, decreasing the bloated public sector wage bill, strengthening revenue administration, boosting tax revenues, and improving the health of Ghana’s banking sector. Priorities for the new administration include rescheduling some of Ghana’s $31 billion debt, stimulating economic growth, reducing inflation, and stabilizing the currency. Prospects for new oil and gas production and follow through on tighter fiscal management are likely to help Ghana’s economy in 2018.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$164.64 billion (2019 est.)<br>
+$154.623 billion (2018 est.)<br>
+$145.509 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 8.4% (2017 est.)<br>
 3.7% (2016 est.)<br>
 3.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$5,413 (2019 est.)<br>
+$5,194 (2018 est.)<br>
+$4,997 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$65.363 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 8.4% (2019 est.)<br>
@@ -404,26 +419,6 @@ _lyrics/music_: unknown/Philip GBEHO<br>
 _Fitch rating_: B (2013)<br>
 _Moody's rating_: B3 (2015)<br>
 _Standard & Poors rating_: B- (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$164.64 billion (2019 est.)<br>
-$154.623 billion (2018 est.)<br>
-$145.509 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$65.363 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$5,413 (2019 est.)<br>
-$5,194 (2018 est.)<br>
-$4,997 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-20.9% of GDP (2018 est.)<br>
-22.4% of GDP (2017 est.)<br>
-9% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 18.3% (2017 est.)<br>
@@ -437,12 +432,6 @@ _investment in fixed capital_: 13.7% (2017 est.)<br>
 _investment in inventories_: 1.1% (2017 est.)<br>
 _exports of goods and services_: 43% (2017 est.)<br>
 _imports of goods and services_: -46.5% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 60 (2020)<br>
-_Starting a Business score_: 85 (2020)<br>
-_Trading score_: 54.8 (2020)<br>
-_Enforcement score_: 54 (2020)<br>
 
 **Agricultural products**<br>
 cassava, yams, plantains, maize, oil palm fruit, taro, rice, cocoa, oranges, pineapples<br>
@@ -480,15 +469,15 @@ _highest 10%_: 32.8% (2006)<br>
 _revenues_: 9.544 billion (2017 est.)<br>
 _expenditures_: 12.36 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 71.8% of GDP (2017 est.)<br>
 73.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -650,14 +639,14 @@ _annual passenger traffic on registered air carriers_: 467,438 (2018)<br>
 _total_: 10 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_total_: 7<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
+_total_: 3<br>
 _914 to 1,523 m_: 3 (2013)<br>
 
 **Pipelines**<br>

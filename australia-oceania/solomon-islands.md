@@ -207,7 +207,7 @@ _vectorborne diseases_: malaria<br>
 16.2% (2015)<br>
 
 **Education expenditures**<br>
-9.9% of GDP (2010)<br>
+10.1% of GDP (2015)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 1.3%<br>
@@ -357,26 +357,16 @@ _lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
 **Economic overview**<br>
 The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.<br>
 
-**Real GDP growth rate**<br>
-3.5% (2017 est.)<br>
-3.5% (2016 est.)<br>
-2.5% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.5% (2017 est.)<br>
-0.5% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2015)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $1.783 billion (2019 est.)<br>
 $1.762 billion (2018 est.)<br>
 $1.695 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$1.298 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+3.5% (2017 est.)<br>
+3.5% (2016 est.)<br>
+2.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,663 (2019 est.)<br>
@@ -384,10 +374,15 @@ $2,700 (2018 est.)<br>
 $2,666 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-13.1% of GDP (2017 est.)<br>
-15.2% of GDP (2016 est.)<br>
-14.5% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$1.298 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.5% (2017 est.)<br>
+0.5% (2016 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: B3 (2015)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 34.3% (2017 est.)<br>
@@ -401,12 +396,6 @@ _investment in fixed capital_: NA<br>
 _investment in inventories_: NA<br>
 _exports of goods and services_: 25.8% (2011 est.)<br>
 _imports of goods and services_: -49.6% (2011 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 55.3 (2020)<br>
-_Starting a Business score_: 85.6 (2020)<br>
-_Trading score_: 53.4 (2020)<br>
-_Enforcement score_: 43.5 (2020)<br>
 
 **Agricultural products**<br>
 oil palm fruit, sweet potatoes, coconuts, taro, yams, fruit, pulses nes, vegetables, cocoa, cassava<br>
@@ -442,15 +431,15 @@ _highest 10%_: NA<br>
 _revenues_: 532.5 million (2017 est.)<br>
 _expenditures_: 570.5 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-41% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.9% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 9.4% of GDP (2017 est.)<br>
 7.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+41% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -613,13 +602,13 @@ H4<br>
 _total_: 36 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 35 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 35<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 24 (2013)<br>
 
 **Heliports**<br>

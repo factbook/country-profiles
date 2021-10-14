@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>China's historical civilization dates from at least 1200 B.C.; from the 3rd century B.C. and for the next two millennia, China alternated between periods of unity and disunity under a succession of imperial dynasties. In the 19th and early 20th centuries, the country was beset by civil unrest, major famines, military defeats, and foreign occupation. After World War II, the Chinese Communist Party under MAO Zedong established an autocratic socialist system that, while ensuring China's sovereignty, imposed strict controls over everyday life and cost the lives of tens of millions of people. After 1978, MAO's successor DENG Xiaoping and other leaders focused on market-oriented economic development and by 2000 output had quadrupled. For much of the population, living standards have improved dramatically but political controls remain tight. Since the early 1990s, China has increased its global outreach and participation in international organizations.</p><br>
+<p>China's historical civilization dates to at least 1600 B.C., first under the Shang (1600-1046 B.C.) and then the Zhou (1045-221 B.C) dynasties. The imperial era of China began in 220 B.C. under the Qin Dynasty and lasted until the fall of the Qing Dynasty in 1912. During this period, China alternated between periods of unity and disunity under a succession of imperial dynasties. In the 19th century, the Qing Dynasty suffered heavily from imperialism, military defeats, and foreign occupation. It collapsed following the Revolution of 1911, and China became a republic under SUN Yat-sen of the Kuomintang (KMT or Nationalist) Party. However, the republic was beset by division, warlordism, and continued foreign occupation. In the late 1920s, a civil war erupted between the ruling KMT-controlled government led by CHIANG Kai-shek, and the Chinese Communist Party (CCP), led by MAO Zedong. Japan occupied much of northeastern China in the early 1930s, and then launched a full-scale invasion of the country in 1937. The resulting eight years of warfare devastated the country and cost up to 20 million Chinese lives by the time of Japan’s defeat in 1945. The Nationalist-Communist civil war continued with renewed intensity following the end of World War II and culminated with a CCP victory in 1949.<br><br>MAO and the CCP established an autocratic socialist system that, while ensuring China's sovereignty, imposed strict controls over everyday life and launched agricultural, economic, political, and social policies - such as the Great Leap Forward (1958-1962) and the Cultural Revolution (1966-1976) - that cost the lives of millions of people. MAO died in 1976. Subsequent leaders DENG Xiaping, JIANG Zemin, LI Peng, ZHU Rongji, HU Jintao, and WIN Jiabou focused on market-oriented economic development and opening up the country to foreign trade, while maintaining the rule of the Communist Party. Since the change, China has been among the world’s fastest growing economies, with real gross domestic product averaging over 9% growth annually through 2018, lifting an estimated 800 million people out of poverty, and dramatically improving overall living standards. By 2011, China’s economy was the second largest in the world. The growth, however, has created considerable social displacement, adversely affected the country’s environment, and reduced the country’s natural resources. Current leader XI Jinping has continued these policies, but also has maintained tight political controls. Over the past decade, China has also increased its global outreach, including military deployments, participation in international organizations, and initiating a global infrastructure investment project in 2013 called the "Belt and Road Initiative" (BRI). While many nations have signed on to BRI agreements, others have balked seeing the terms as a form of neo-imperialism or debt-trap diplomacy.</p><br>
 
 ## Geography
 
@@ -72,6 +72,12 @@ overwhelming majority of the population is found in the eastern half of the coun
 
 **Geography - note**<br>
 <strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
+**Major aquifers**<br>
+North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 ## People and Society
 
@@ -203,7 +209,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 19 July 2021, China has reported a total of 119,784 cases of COVID-19 or 8.14 cumulative cases of COVID-19 per 100,000 population with 0.38 cumulative deaths per 100,000 population; as of 10 June 2021, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 October 2021, China has reported a total of 124,884 cases of COVID-19 or 8.49 cumulative cases of COVID-19 per 100,000 population with 0.39 cumulative deaths per 100,000 population; as of 18 September 2021, 70.78% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 6.2% (2016)<br>
@@ -212,7 +218,7 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 2.4% (2013)<br>
 
 **Education expenditures**<br>
-NA<br>
+3.5% of GDP NA (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -277,10 +283,16 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, Japanese encephalitis<br>
 _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)<br>
-<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 19 July 2021, China has reported a total of 119,784 cases of COVID-19 or 8.14 cumulative cases of COVID-19 per 100,000 population with 0.38 cumulative deaths per 100,000 population; as of 10 June 2021, 43.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing an outbreak of respiratory illness (COVID-19) in China; illness with this virus has ranged from mild to severe with fatalities reported; the US Department of State has issued a do not travel advisory for China due to COVID-19; the Centers for Disease Control and Prevention has also recommended against travel to China and published additional guidance at https://wwwnc.cdc.gov/travel/notices/warning/novel-coronavirus-china; the US Department of Homeland Security has issued instructions requiring US passengers who have been in China to travel through select airports where the US Government has implemented enhanced screening procedures; as of 6 October 2021, China has reported a total of 124,884 cases of COVID-19 or 8.49 cumulative cases of COVID-19 per 100,000 population with 0.39 cumulative deaths per 100,000 population; as of 18 September 2021, 70.78% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
+**Major aquifers**<br>
+North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 ## Government
 
@@ -644,20 +656,20 @@ B<br>
 _total_: 507 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 510 (2019)<br>
+_total_: 510<br>
 _over 3,047 m_: 87<br>
 _2,438 to 3,047 m_: 187<br>
 _1,524 to 2,437 m_: 109<br>
 _914 to 1,523 m_: 43<br>
-_under 914 m_: 84<br>
+_under 914 m_: 84 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 23 (2019)<br>
+_total_: 23<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 0<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 7<br>
-_under 914 m_: 13<br>
+_under 914 m_: 13 (2013)<br>
 
 **Heliports**<br>
 39 (2019)<br>
@@ -714,6 +726,9 @@ note: the PLA is in the midst of a decades-long modernization effort; in 2017, P
 
 **Military service age and obligation**<br>
 18-22 years of age for selective compulsory military service, with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2019)<br>
+
+**Military - note**<br>
+<p>established in 1927, the PLA is the military arm of the ruling Chinese Communist Party (CCP), which oversees the PLA through its Central Military Commission; the Central Military Commission is China’s top military decision making body</p><br>
 
 ## Transnational Issues
 

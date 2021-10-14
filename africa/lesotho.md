@@ -206,7 +206,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid feve
 10.5% (2018)<br>
 
 **Education expenditures**<br>
-7% of GDP (2018)<br>
+7.4% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -621,14 +621,14 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 _total_: 24 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2019)<br>
+_total_: 3<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 21<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 16 (2013)<br>
 
 **Roadways**<br>
@@ -654,11 +654,11 @@ the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2020)<br>
 **Military equipment inventories and acquisitions**<br>
 the LDF has a small inventory of older equipment from a variety of countries; the only reported delivery to the LDF since 2007 was two second-hand helicopters from France in 2017 and 2019 (2019 est.)<br>
 
-**Military - note**<br>
-Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa<br>
-
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2019)<br>
+
+**Military - note**<br>
+Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa<br>
 
 ## Transnational Issues
 

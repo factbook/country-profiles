@@ -206,7 +206,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+3.6% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -628,16 +628,16 @@ SX<br>
 _total_: 77 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 68 (2017)<br>
-_over 3,047 m_: 6 (2017)<br>
-_2,438 to 3,047 m_: 15 (2017)<br>
-_1,524 to 2,437 m_: 19 (2017)<br>
-_914 to 1,523 m_: 18 (2017)<br>
+_total_: 68<br>
+_over 3,047 m_: 6<br>
+_2,438 to 3,047 m_: 15<br>
+_1,524 to 2,437 m_: 19<br>
+_914 to 1,523 m_: 18<br>
 _under 914 m_: 10 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 9 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 9<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 7 (2013)<br>
 
 **Heliports**<br>
@@ -690,11 +690,11 @@ note - Greece in 2020 announced plans to boost military acquisitions and its def
 **Military deployments**<br>
 approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Jan 2021)<br>
 
-**Military - note**<br>
-Greece joined NATO in 1952<br>
-
 **Military service age and obligation**<br>
 19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 18 years of age for volunteers; conscript service obligation is 1 year for the Army and 9 months for the Air Force and Navy; women are eligible for voluntary military service (2019)<br>
+
+**Military - note**<br>
+Greece joined NATO in 1952<br>
 
 ## Terrorism
 
@@ -710,7 +710,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 26,696 (Syria), 17,685 (Afghanistan), 9,614 (Iraq) (2019)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,210,240 estimated refugee and migrant arrivals (January 2015-September 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,211,465 estimated refugee and migrant arrivals (January 2015-October 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

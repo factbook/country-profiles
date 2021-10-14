@@ -214,7 +214,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 12.8% (2016)<br>
 
 **Education expenditures**<br>
-3.3% of GDP (2018)<br>
+3.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -638,15 +638,15 @@ TU<br>
 _total_: 27 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
+_total_: 7<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 20 (2013)<br>
-_1,524 to 2,437 m_: 6 (2013)<br>
-_914 to 1,523 m_: 11 (2013)<br>
+_total_: 20<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 11<br>
 _under 914 m_: 3 (2013)<br>
 
 **Heliports**<br>
@@ -701,11 +701,11 @@ the inventory of the FACI consists mostly of older or second-hand equipment, typ
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
 
-**Military - note**<br>
-the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; currently, the FACI is focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2019)<br>
+
+**Military - note**<br>
+the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; currently, the FACI is focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017<br>
 
 ## Terrorism
 

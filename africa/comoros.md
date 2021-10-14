@@ -369,23 +369,16 @@ _lyrics/music_: Said Hachim SIDI ABDEREMANE/Said Hachim SIDI ABDEREMANE and Kami
 **Economic overview**<br>
 <p>One of the world's poorest and smallest economies, the Comoros is made up of three islands that are hampered by inadequate transportation links, a young and rapidly increasing population, and few natural resources. The low educational level of the labor force contributes to a subsistence level of economic activity and a heavy dependence on foreign grants and technical assistance. Agriculture, including fishing, hunting, and forestry, accounts for about 50% of GDP, employs a majority of the labor force, and provides most of the exports. Export income is heavily reliant on the three main crops of vanilla, cloves, and ylang ylang (perfume essence); and the Comoros' export earnings are easily disrupted by disasters such as fires and extreme weather. Despite agriculture’s importance to the economy, the country imports roughly 70% of its food; rice, the main staple, and other dried vegetables account for more than 25% of imports. Remittances from about 300,000 Comorans contribute about 25% of the country’s GDP. France, Comoros’s colonial power, remains a key trading partner and bilateral donor.</p><p></p><p>Comoros faces an education system in need of upgrades, limited opportunities for private commercial and industrial enterprises, poor health services, limited exports, and a high population growth rate. Recurring political instability, sometimes initiated from outside the country, and an ongoing electricity crisis have inhibited growth. The government, elected in mid-2016, has moved to improve revenue mobilization, reduce expenditures, and improve electricity access, although the public sector wage bill remains one of the highest in Sub-Saharan Africa. In mid-2017, Comoros joined the Southern African Development Community with 15 other regional member states.</p><br>
 
-**Real GDP growth rate**<br>
-2.7% (2017 est.)<br>
-2.2% (2016 est.)<br>
-1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-1% (2017 est.)<br>
-1.8% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.603 billion (2019 est.)<br>
 $2.552 billion (2018 est.)<br>
 $2.467 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$1.186 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+2.7% (2017 est.)<br>
+2.2% (2016 est.)<br>
+1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $3,060 (2019 est.)<br>
@@ -393,10 +386,12 @@ $3,067 (2018 est.)<br>
 $3,032 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-12.8% of GDP (2018 est.)<br>
-11.5% of GDP (2017 est.)<br>
-18% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$1.186 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+1% (2017 est.)<br>
+1.8% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 47.7% (2017 est.)<br>
@@ -410,12 +405,6 @@ _investment in fixed capital_: 20% (2017 est.)<br>
 _investment in inventories_: -3.1% (2017 est.)<br>
 _exports of goods and services_: 17.2% (2017 est.)<br>
 _imports of goods and services_: -47.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 47.9 (2020)<br>
-_Starting a Business score_: 76.5 (2020)<br>
-_Trading score_: 66.9 (2020)<br>
-_Enforcement score_: 33 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, cassava, rice, bananas, pulses nes, milk, taro, sweet potatoes, maize, cloves<br>
@@ -451,15 +440,15 @@ _highest 10%_: 55.2% (2004)<br>
 _revenues_: 165.2 million (2017 est.)<br>
 _expenditures_: 207.3 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-25.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -6.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 32.4% of GDP (2017 est.)<br>
 27.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+25.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -620,8 +609,8 @@ D6<br>
 _total_: 4 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
+_total_: 4<br>
+_2,438 to 3,047 m_: 1<br>
 _914 to 1,523 m_: 3 (2017)<br>
 
 **Roadways**<br>
@@ -648,11 +637,11 @@ Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal P
 **Military equipment inventories and acquisitions**<br>
 the defense forces are lightly armed with a mix of equipment from a variety of countries, including France, Italy, Russia, and the US<br>
 
-**Military - note**<br>
-the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte<br>
-
 **Military service age and obligation**<br>
 18 years of age for 2-year voluntary male and female military service; no conscription (2019)<br>
+
+**Military - note**<br>
+the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte<br>
 
 ## Transnational Issues
 

@@ -217,7 +217,7 @@ _animal contact diseases_: rabies<br>
 19.1% (2017/18)<br>
 
 **Education expenditures**<br>
-1.9% of GDP (2019)<br>
+2% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -642,17 +642,17 @@ XY<br>
 _total_: 64 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 36 (2017)<br>
-_over 3,047 m_: 12 (2017)<br>
-_2,438 to 3,047 m_: 11 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
+_total_: 36<br>
+_over 3,047 m_: 12<br>
+_2,438 to 3,047 m_: 11<br>
+_1,524 to 2,437 m_: 12<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 28 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 28<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 13 (2013)<br>
 
 **Heliports**<br>
@@ -700,11 +700,11 @@ information varies widely; approximately 400,000 total active troops (est. 360,0
 **Military equipment inventories and acquisitions**<br>
 the Burmese military inventory is comprised mostly of older Chinese and Russian/Soviet-era equipment with a smaller mix of more modern acquisitions; since 2010, China and Russia are the leading suppliers of military hardware; Burma has a limited defense industry, including a growing shipbuilding capability (2020)<br>
 
-**Military - note**<br>
-since the country's founding, the armed forces have been heavily involved in domestic politics and ran the country for five decades following a military coup in 1962; the military controls three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and has a proxy political party, the Union Solidarity and Development Party (USDP)<br><br>the military owns and operates two business conglomerates that have over 100 subsidiaries and have close ties to other companies; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also runs manages a film industry, publishing houses, and television stations <br><br>the military's primary operational focus is internal security, particularly counterinsurgency operations against ethnic-based insurgent groups; these operations have resulted in numerous civilian casualties, human rights abuses, and internal displacement<br><br> <p> </p><br>
-
 **Military service age and obligation**<br>
 18-35 years of age (men) and 18-27 years of age (women) for voluntary military service; no conscription (a 2010 law reintroducing conscription has not yet entered into force); 2-year service obligation; male (ages 18-45) and female (ages 18-35) professionals (including doctors, engineers, mechanics) serve up to 3 years; service terms may be stretched to 5 years in an officially declared emergency (2019)<br>
+
+**Military - note**<br>
+since the country's founding, the armed forces have been heavily involved in domestic politics and ran the country for five decades following a military coup in 1962; the military controls three key security ministries (Defense, Border, and Home Affairs), one of two vice presidential appointments, 25% of the parliamentary seats, and has a proxy political party, the Union Solidarity and Development Party (USDP)<br><br>the military owns and operates two business conglomerates that have over 100 subsidiaries and have close ties to other companies; the business activities of these conglomerates include banking and insurance, hotels, tourism, jade and ruby mining, timber, construction, real estate, and the production of palm oil, sugar, soap, cement, beverages, drinking water, coal, and gas; some of the companies supply goods and services to the military, such as food, clothing, insurance, and cellphone service; the military also runs manages a film industry, publishing houses, and television stations <br><br>the military's primary operational focus is internal security, particularly counterinsurgency operations against ethnic-based insurgent groups; these operations have resulted in numerous civilian casualties, human rights abuses, and internal displacement<br> <p>as of 2021, there were approximately 20 ethnic-based armed groups operating in Burma with strengths of a few hundred up to more than 20,000 estimated fighters; they reportedly controlled of about one-third of the country’s territory, primarily in the border regions; key groups included the United Wa State Army, Karen National Union, Kachin Independence Army, Arakan Army, Ta’ang National Liberation Army, and the Myanmar Nationalities Democratic Alliance Army</p> <p>in 2015, the Burmese Government signed a Nationwide Ceasefire Agreement (NCA) with eight mostly small armed groups, including the All Burma Students’ Democratic Front, Arakan Liberation Party, Chin National Front, Democratic Karen Benevolent Army, Karen National Liberation Army-Peace Council, Karen National Union, Pa-O National Liberation Organization, and the Shan State Army-South; seven other groups did not sign the NCA, but have since signed bi-lateral ceasefires with the Burmese Government, including the National Democratic Alliance Army, Shan State Army, New Mon State Army, Karenni Army, National Socialist Council of Nagaland–Khaplang, and the United Wa State Army, which in 2021 was assessed to be the largest and most capable group, with more than 20,000 fighters; others, including the Arakan Army (Chin, Kachin, Rakhine, Shan states), Kachin Independence Army (Kachin state), Myanmar National Democratic Alliance Army (Shan state), Shanni Nationalities Army (Kachin state), and Taang National Liberation Army (Shan state) continued to engage in active insurgent operations against the Burmese Government in 2021; in March 2021, the Karen National Union resumed fighting with the Burmese military</p> <p>as of 2021, Burma also had a large number (estimates run into the thousands) of armed militias which took many different forms and varied in allegiances and size; most were pro-government and associated with the Tatmadaw; some were integrated within the Tatmadaw’s command structure as Border Guard Forces (BGF); the BGF were organized as 325-man battalions, which included a mix of militia forces, ethnic armed groups, and government soldiers; they were armed, supplied, and paid by the Tatmadaw; other pro-government militias were not integrated within the Tatmadaw command structure, but received direction from the military and were recognized as government militias; the amount of support they received from the Tatmadaw varied depending on local security conditions; the third type of pro-government militias were small community-based units that were armed, coordinated, and trained by local Tatmadaw forces and activated as needed; anti-government militias were typically associated with ethnic-based armed organizations</p> <br><br> <p> </p><br>
 
 ## Transnational Issues
 

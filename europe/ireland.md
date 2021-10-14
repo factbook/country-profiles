@@ -203,7 +203,7 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2017)<br>
+3.4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
@@ -617,17 +617,17 @@ EI<br>
 _total_: 40 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2019)<br>
+_total_: 16<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 5<br>
-_under 914 m_: 5<br>
+_under 914 m_: 5 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 24 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 24<br>
+_2,438 to 3,047 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 21 (2013)<br>
 
 **Pipelines**<br>
@@ -678,6 +678,9 @@ the Irish Defense Forces have a small inventory of imported weapons systems from
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service recruits to the Defence Forces (18-27 years of age for the Naval Service); 18-26 for cadetship (officer) applicants; 12-year service (5 active, 7 reserves); Irish citizen, European Economic Area citizenship, or refugee status (2020)<br>
+
+**Military - note**<br>
+<p>the Irish Defense Forces trace their origins back to the Irish Volunteers, which was established in 1913; the Irish Volunteers took part in the 1916 Easter Rising and the Irish War of Independence, 1919-1921</p> <p>Ireland has a long-standing policy of military neutrality; however, it participates in international peacekeeping and humanitarian operations, as well as crisis management; Ireland is a signatory of the EU’s Common Security and Defense Policy and has committed a battalion of troops to the EU’s Rapid Reaction Force; Ireland is not a member of NATO, but has a relationship going back to 1997 when it deployed personnel in support of the NATO-led peacekeeping operations in Bosnia and Herzegovina; Ireland joined NATO’s Partnership for Peace program in 1999; Ireland has been an active participate in UN peacekeeping operations since the 1950s</p><br>
 
 ## Terrorism
 

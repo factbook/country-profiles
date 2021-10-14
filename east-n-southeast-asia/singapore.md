@@ -203,7 +203,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2013)<br>
+2.5% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -625,11 +625,11 @@ _annual freight traffic on registered air carriers_: 5,194,900,000 mt-km (2018)<
 _total_: 9 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_total_: 9<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2017)<br>
 
 **Pipelines**<br>
@@ -674,6 +674,9 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2020)<br>
+
+**Military - note**<br>
+<p>as of 2021, the Singapore Armed Forces were widely viewed as the best equipped in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>
 
 ## Terrorism
 

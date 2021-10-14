@@ -205,7 +205,7 @@ _vectorborne diseases_: tickborne encephalitis<br>
 NA<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2017)<br>
+3.9% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -628,17 +628,17 @@ LY<br>
 _total_: 61 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 22 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 7 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 22<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 7<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 9 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 39 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 39<br>
+_over 3,047 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 36 (2013)<br>
 
 **Pipelines**<br>
@@ -687,11 +687,11 @@ the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons system
 **Military deployments**<br>
 contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
 
-**Military - note**<br>
-Lithuania officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2019)<br>
+
+**Military - note**<br>
+Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Germany and had about 1,250 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>
 
 ## Transnational Issues
 

@@ -70,6 +70,9 @@ large tracts of marshy land<br>
 **Geography - note**<br>
 landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +207,7 @@ _unimproved: total_: total: 0.6% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2017)<br>
+5% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -269,6 +272,9 @@ _rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 684,800 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 ## Government
 
@@ -623,18 +629,18 @@ EW<br>
 _total_: 65 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 33 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 20 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_total_: 33<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 20<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 7 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 32 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 32<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 28 (2013)<br>
 
 **Heliports**<br>
@@ -679,11 +685,11 @@ the Belarus Armed Forces have approximately 45,000 active duty troops; informati
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Belarus Armed Forces is comprised of Russian-origin equipment; Belarus's defense industry manufactures some equipment, including vehicles, guided weapons, and electronic warfare systems (2021)<br>
 
-**Military deployments**<br>
-contributes forces to CSTO's Rapid Reaction Force (2020)<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military or alternative service; conscript service obligation is 12-18 months, depending on academic qualifications, and 24-36 months for alternative service, depending on academic qualifications; 17 year olds are eligible to become cadets at military higher education institutes, where they are classified as military personnel (2020)<br>
+
+**Military - note**<br>
+<p>Belarus has close security ties with Russia, including an integrated air and missile defense system, joint training exercises, and the establishment of three joint training centers since 2020 (1 in Belarus, 2 in Russia); Russia is the principal supplier of arms to Belarus, and Belarusian troops reportedly train on Russian equipment; Russia leases from Belarus a strategic ballistic missile defense site operated by Russian Aerospace Forces and a global communications facility for the Russian Navy; in 2020, the countries signed an agreement allowing for close security cooperation between the Belarusian Ministry of Interior and the Russian National Guard, including protecting public order and key government facilities, and combating extremism and terrorism<br><br>Belarus has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force</p><br>
 
 ## Transnational Issues
 

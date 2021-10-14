@@ -208,7 +208,7 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 24.4% (2019)<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2018)<br>
+4.4% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -624,16 +624,16 @@ _annual freight traffic on registered air carriers_: 4.66 million mt-km (2018)<b
 _total_: 47 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_total_: 11<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 36 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 36<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 29 (2013)<br>
 
 **Railways**<br>
@@ -668,6 +668,9 @@ Nepal has about 5,500 total troops deployed on UN peacekeeping missions, includi
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (including women); no conscription (2019)<br>
+
+**Military - note**<br>
+<p>Nepal became a member of the UN in 1955 and has been an active participant in UN peacekeeping operations since, sending its first military observers to a UN peacekeeping mission in 1958 and its first peacekeeping military contingent to Egypt in 1974<br><br></p> the British began to recruit Nepalese citizens (Gurkhas) into the East India Company Army during the Anglo-Nepalese War (1814-1816); the Gurkhas subsequently were brought into the British Indian Army and by 1914, there were 10 Gurkha regiments, collectively known as the Gurkha Brigade; following the partition of India in 1947, an agreement between Nepal, India, and Great Britain allowed for the transfer of the 10 regiments from the British Indian Army to the separate British and Indian armies; four regiments were transferred to the British Army, where they have since served continuously as the Brigade of Gurkhas until merged to form the Royal Gurkha Rifles in 1994; six Gurkha (aka Gorkha in India) regiments went to the new Indian Army; a seventh regiment was later added; Gurkhas are also recruited into the Singaporean Police and a special guard in the Sultanate of Brunei known as the Gurkha Reserve Unit<br>
 
 ## Terrorism
 

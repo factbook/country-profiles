@@ -207,7 +207,7 @@ _water contact diseases_: schistosomiasis<br>
 5.8% (2014)<br>
 
 **Education expenditures**<br>
-7.1% of GDP (2014)<br>
+5.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -381,26 +381,16 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 **Economic overview**<br>
 <p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p><p></p><p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p><p></p><p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
 
-**Real GDP growth rate**<br>
-1.6% (2017 est.)<br>
-1.4% (2016 est.)<br>
-0.4% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-6.2% (2017 est.)<br>
-7.8% (2016 est.)<br>
-
-**Credit ratings**<br>
-_Moody's rating_: B3 (2020)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $9.898 billion (2019 est.)<br>
 $9.681 billion (2018 est.)<br>
 $9.457 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$4.484 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+1.6% (2017 est.)<br>
+1.4% (2016 est.)<br>
+0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $8,622 (2019 est.)<br>
@@ -408,10 +398,15 @@ $8,521 (2018 est.)<br>
 $8,408 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-16.2% of GDP (2019 est.)<br>
-16.2% of GDP (2018 est.)<br>
-16.2% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$4.484 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+6.2% (2017 est.)<br>
+7.8% (2016 est.)<br>
+
+**Credit ratings**<br>
+_Moody's rating_: B3 (2020)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 6.5% (2017 est.)<br>
@@ -425,12 +420,6 @@ _investment in fixed capital_: 13.4% (2017 est.)<br>
 _investment in inventories_: -0.1% (2017 est.)<br>
 _exports of goods and services_: 47.9% (2017 est.)<br>
 _imports of goods and services_: -46.3% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 59.5 (2020)<br>
-_Starting a Business score_: 77.2 (2020)<br>
-_Trading score_: 92.9 (2020)<br>
-_Enforcement score_: 36.7 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, maize, roots/tubers nes, grapefruit, oranges, milk, beef, potatoes, vegetables, bananas<br>
@@ -467,15 +456,15 @@ _highest 10%_: 40.1% (2010 est.)<br>
 _revenues_: 1.263 billion (2017 est.)<br>
 _expenditures_: 1.639 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-28.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -8.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 28.4% of GDP (2017 est.)<br>
 25.5% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+28.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -632,13 +621,13 @@ _subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 _total_: 14 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 12 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 12<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 7 (2013)<br>
 
 **Railways**<br>

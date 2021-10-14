@@ -75,6 +75,12 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 **Geography - note**<br>
 <p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
+
+**Major aquifers**<br>
+Northern Great Plains Aquifer<br>
+
 ## People and Society
 
 **Population**<br>
@@ -266,6 +272,12 @@ _rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 5,168,715 tons (2008 est.)<br>
 _percent of municipal solid waste recycled_: 20.6% (2008 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
+
+**Major aquifers**<br>
+Northern Great Plains Aquifer<br>
 
 ## Government
 
@@ -625,17 +637,17 @@ C<br>
 _total_: 1,467 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 523 (2017)<br>
-_over 3,047 m_: 21 (2017)<br>
-_2,438 to 3,047 m_: 19 (2017)<br>
-_1,524 to 2,437 m_: 147 (2017)<br>
-_914 to 1,523 m_: 257 (2017)<br>
+_total_: 523<br>
+_over 3,047 m_: 21<br>
+_2,438 to 3,047 m_: 19<br>
+_1,524 to 2,437 m_: 147<br>
+_914 to 1,523 m_: 257<br>
 _under 914 m_: 79 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 944 (2013)<br>
-_1,524 to 2,437 m_: 75 (2013)<br>
-_914 to 1,523 m_: 385 (2013)<br>
+_total_: 944<br>
+_1,524 to 2,437 m_: 75<br>
+_914 to 1,523 m_: 385<br>
 _under 914 m_: 484 (2013)<br>
 
 **Heliports**<br>
@@ -691,11 +703,11 @@ the CAF's inventory is a mix of domestically-produced equipment and imported wea
 **Military deployments**<br>
 up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)<br>
 
-**Military - note**<br>
-Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
+
+**Military - note**<br>
+Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
 
 ## Terrorism
 

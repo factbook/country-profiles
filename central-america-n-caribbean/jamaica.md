@@ -195,7 +195,7 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 32,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,000 <1,000 (2020 est.)<br>
+<1,000 (2020 est.)<br>
 
 **Obesity - adult prevalence rate**<br>
 24.7% (2016)<br>
@@ -204,7 +204,7 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 4.4% (2016)<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2019)<br>
+5.4% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has ever attended school<br>
@@ -615,14 +615,14 @@ _number of registered air carriers_: 0 (2020)<br>
 _total_: 28 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 11<br>
+_2,438 to 3,047 m_: 2<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 17<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 16 (2013)<br>
 
 **Roadways**<br>

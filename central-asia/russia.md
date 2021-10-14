@@ -73,6 +73,12 @@ population is heavily concentrated in the westernmost fifth of the country exten
 **Geography - note**<br>
 <p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad - formerly Koenigsberg - is the only Baltic port in Russia that remains ice free in the winter</p><br>
 
+**Major watersheds (area sq km)**<br>
+Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Caspian Sea drainage <em>(endorheic basin)</em>: Volga (1,410,951 sq km)<br>
+
+**Major aquifers**<br>
+Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ NA<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 19 July 2021, Russia has reported a total of 6,006,536 cases of COVID-19 or 4,115.91 cumulative cases of COVID-19 per 100,000 population with 102.73 cumulative deaths per 100,000 population; as of 19 July 2021, 22.04% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 6 October 2021, Russia has reported a total of 7,662,560 cases of COVID-19 or 5,250.69 cumulative cases of COVID-19 per 100,000 population with 145.7 cumulative deaths per 100,000 population; as of 5 October 2021, 33.4% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 23.1% (2016)<br>
@@ -213,7 +219,7 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2017)<br>
+4.7% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -278,12 +284,18 @@ _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: Crimean-Congo hemorrhagic fever, tickborne encephalitis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 19 July 2021, Russia has reported a total of 6,006,536 cases of COVID-19 or 4,115.91 cumulative cases of COVID-19 per 100,000 population with 102.73 cumulative deaths per 100,000 population; as of 19 July 2021, 22.04% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout the Russia; as of 6 October 2021, Russia has reported a total of 7,662,560 cases of COVID-19 or 5,250.69 cumulative cases of COVID-19 per 100,000 population with 145.7 cumulative deaths per 100,000 population; as of 5 October 2021, 33.4% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Caspian Sea drainage <em>(endorheic basin)</em>: Volga (1,410,951 sq km)<br>
+
+**Major aquifers**<br>
+Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
 ## Government
 
@@ -647,19 +659,19 @@ RA<br>
 _total_: 1,218 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 594 (2017)<br>
-_over 3,047 m_: 54 (2017)<br>
-_2,438 to 3,047 m_: 197 (2017)<br>
-_1,524 to 2,437 m_: 123 (2017)<br>
-_914 to 1,523 m_: 95 (2017)<br>
+_total_: 594<br>
+_over 3,047 m_: 54<br>
+_2,438 to 3,047 m_: 197<br>
+_1,524 to 2,437 m_: 123<br>
+_914 to 1,523 m_: 95<br>
 _under 914 m_: 125 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 624 (2013)<br>
-_over 3,047 m_: 4 (2013)<br>
-_2,438 to 3,047 m_: 13 (2013)<br>
-_1,524 to 2,437 m_: 69 (2013)<br>
-_914 to 1,523 m_: 81 (2013)<br>
+_total_: 624<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 13<br>
+_1,524 to 2,437 m_: 69<br>
+_914 to 1,523 m_: 81<br>
 _under 914 m_: 457 (2013)<br>
 
 **Heliports**<br>
@@ -696,7 +708,8 @@ _river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Sain
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV), and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Naznacheniya, RVSN) referred to commonly as Strategic Rocket Forces, are independent "combat arms," not subordinate to any of the three branches<br><br>Federal National Guard Troops Service of the Russian Federation (National Guard (FSVNG), Russian Guard, or Rosgvardiya): created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD)<br><br>Federal Security Services Border Troops (includes land and maritime forces) (2021)<br>
+Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV), and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Naznacheniya, RVSN) referred to commonly as Strategic Rocket Forces, are independent "combat arms," not subordinate to any of the three branches<br><br>Federal National Guard Troops Service of the Russian Federation (National Guard (FSVNG), Russian Guard, or Rosgvardiya): created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD)<br><br>Federal Security Services Border Troops (includes land and maritime forces) (2021)<br><br>note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats <br>
+note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats&nbsp;<br>
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
@@ -713,11 +726,14 @@ the Russian Federation's military and paramilitary services are equipped with do
 
 **Military deployments**<br>
 est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100-200 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (including Crimea) (2020)<br>
-note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; <br><br>Russia is a leader of CSTO contributes approximately 8,000 personnel to its Rapid Reaction Force<br>
+note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of late 2020, a Russian Government-backed private military company was assessed to have about 2,000 personnel in Libya supporting Libyan National Army forces; <br><br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)<br>
 note: in April of 2019, the Russian Government pledged its intent to end conscription as part of a decade-long effort to shift from a large, conscript-based military to a smaller, more professional force<br>
+
+**Military - note**<br>
+as of 2021, Russian military forces continued to conduct active combat operations in Syria; Russia intervened in the Syrian civil war at the request of the ASAD government in September 2015; Russian assistance included air support, special operations forces, military advisors, private military contractors, training, arms, and equipment<br><br>Russia is the leading member of the Collective Security Treaty Organization (CSTO) and contributes approximately 8,000 troops to  CSTO's rapid reaction force<br>
 
 ## Terrorism
 

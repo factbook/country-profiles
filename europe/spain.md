@@ -205,7 +205,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 19 July 2021, Spain has reported a total of 4,161,850 cases of COVID-19 or 8,792.77 cumulative cases of COVID-19 per 100,000 population with 171.38 cumulative deaths per 100,000 population; as of 19 July 2021, 63.52% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 23.8% (2016)<br>
@@ -214,7 +214,7 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.2% of GDP (2017)<br>
+4.2% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -278,7 +278,7 @@ _rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 19 July 2021, Spain has reported a total of 4,161,850 cases of COVID-19 or 8,792.77 cumulative cases of COVID-19 per 100,000 population with 171.38 cumulative deaths per 100,000 population; as of 19 July 2021, 63.52% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Spain; as of 6 October 2021, Spain has reported a total of 4,967,200 cases of COVID-19 or 10,494.24 cumulative cases of COVID-19 per 100,000 population with 183 cumulative deaths per 100,000 population; as of 4 October 2021, 80.73% of the population has received at least one dose of COVID-19 vaccine; the Department of Homeland Security has issued instructions requiring US passengers who have been in Spain to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
@@ -642,17 +642,17 @@ EC<br>
 _total_: 135 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 102 (2020)<br>
+_total_: 102<br>
 _over 3,047 m_: 18<br>
 _2,438 to 3,047 m_: 16<br>
 _1,524 to 2,437 m_: 19<br>
 _914 to 1,523 m_: 26<br>
-_under 914 m_: 23<br>
+_under 914 m_: 23 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 33 (2020)<br>
+_total_: 33<br>
 _914 to 1,523 m_: 14<br>
-_under 914 m_: 19<br>
+_under 914 m_: 19 (2020)<br>
 
 **Heliports**<br>
 13 (2020)<br>
@@ -706,11 +706,11 @@ the inventory of the Spanish military is comprised of domestically-produced and 
 **Military deployments**<br>
 approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (NATO); 625 Lebanon (UNIFIL); approximately 400 Mali (EUTM); 150 Turkey (NATO) (2021)<br>
 
-**Military - note**<br>
-Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br>
-
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2019)<br>
+
+**Military - note**<br>
+Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br> <p>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world</p><br>
 
 ## Terrorism
 
@@ -726,7 +726,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>194,432 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note: </strong>196,402 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

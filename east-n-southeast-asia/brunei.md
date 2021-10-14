@@ -589,8 +589,8 @@ V8<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Heliports**<br>
 3 (2013)<br>
@@ -633,11 +633,11 @@ the Royal Brunei Armed Forces is comprised of approximately 6,500 total active t
 **Military equipment inventories and acquisitions**<br>
 the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; the top supplier since 2010 is Germany (2020)<br>
 
-**Military - note**<br>
-Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2020)<br>
-
 **Military service age and obligation**<br>
 17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2019)<br>
+
+**Military - note**<br>
+Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2020)<br>
 
 ## Transnational Issues
 

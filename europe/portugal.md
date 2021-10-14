@@ -205,7 +205,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.4% (2015/16)<br>
 
 **Education expenditures**<br>
-5% of GDP (2017)<br>
+4.7% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -377,10 +377,25 @@ _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
 **Economic overview**<br>
 <p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p><p></p><p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p><p></p><p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$358.344 billion (2019 est.)<br>
+$350.507 billion (2018 est.)<br>
+$340.796 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.24% (2019 est.)<br>
 2.85% (2018 est.)<br>
 3.51% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$34,894 (2019 est.)<br>
+$34,083 (2018 est.)<br>
+$33,086 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$237.698 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.3% (2019 est.)<br>
@@ -391,26 +406,6 @@ _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
 _Fitch rating_: BBB (2007)<br>
 _Moody's rating_: Baa3 (2018)<br>
 _Standard & Poors rating_: BBB (2019)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$358.344 billion (2019 est.)<br>
-$350.507 billion (2018 est.)<br>
-$340.796 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$237.698 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$34,894 (2019 est.)<br>
-$34,083 (2018 est.)<br>
-$33,086 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-18.9% of GDP (2019 est.)<br>
-18.3% of GDP (2018 est.)<br>
-18% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.2% (2017 est.)<br>
@@ -424,12 +419,6 @@ _investment in fixed capital_: 16.2% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 43.1% (2017 est.)<br>
 _imports of goods and services_: -42.1% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 76.5 (2020)<br>
-_Starting a Business score_: 90.9 (2020)<br>
-_Trading score_: 100 (2020)<br>
-_Enforcement score_: 67.9 (2020)<br>
 
 **Agricultural products**<br>
 milk, tomatoes, olives, grapes, maize, potatoes, pork, apples, oranges, poultry<br>
@@ -467,9 +456,6 @@ _highest 10%_: 25.9% (2015 est.)<br>
 _revenues_: 93.55 billion (2017 est.)<br>
 _expenditures_: 100 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-42.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -3% (of GDP) (2017 est.)<br>
 
@@ -477,6 +463,9 @@ _expenditures_: 100 billion (2017 est.)<br>
 125.7% of GDP (2017 est.)<br>
 129.9% of GDP (2016 est.)<br>
 <strong>note:</strong> data cover general government debt and include debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intragovernmental debt; intragovernmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions<br>
+
+**Taxes and other revenues**<br>
+42.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -639,16 +628,16 @@ CR, CS<br>
 _total_: 64 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 43 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 7 (2017)<br>
-_1,524 to 2,437 m_: 8 (2017)<br>
-_914 to 1,523 m_: 15 (2017)<br>
+_total_: 43<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 8<br>
+_914 to 1,523 m_: 15<br>
 _under 914 m_: 8 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 21<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 20 (2013)<br>
 
 **Pipelines**<br>
@@ -699,11 +688,11 @@ the Portuguese Armed Forces inventory includes mostly European and US-origin wea
 **Military deployments**<br>
 200 Central African Republic (MINUSCA/EUTM); up to 120 Baltic States (NATO) (2021)<br>
 
-**Military - note**<br>
-Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 18-30 years of age for voluntary or contract military service; no compulsory military service (abolished 2004), but conscription possible if insufficient volunteers available; women serve in the armed forces, on naval ships since 1992, but are prohibited from serving in some combatant specialties; contract service lasts for an initial period from two to six years, and can be extended to a maximum of 20 years of service. Voluntary military service lasts 12 months; reserve obligation to age 35 (2019)<br>
+
+**Military - note**<br>
+Portugal is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
 
 ## Terrorism
 

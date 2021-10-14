@@ -207,7 +207,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2017)<br>
+7.6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
@@ -617,16 +617,16 @@ SE<br>
 _total_: 231 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 149 (2013)<br>
-_over 3,047 m_: 3 (2013)<br>
-_2,438 to 3,047 m_: 12 (2013)<br>
-_1,524 to 2,437 m_: 75 (2013)<br>
-_914 to 1,523 m_: 22 (2013)<br>
+_total_: 149<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 12<br>
+_1,524 to 2,437 m_: 75<br>
+_914 to 1,523 m_: 22<br>
 _under 914 m_: 37 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 82 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 82<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 77 (2013)<br>
 
 **Heliports**<br>
@@ -670,7 +670,7 @@ Swedish Armed Forces (Forsvarsmakten): Army, Navy, Air Force; Home Guard (2021)<
 1.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 16,000 active duty troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 3,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); 22,000 Home Guard (2021)<br>
+information varies; approximately 16,000 active duty troops (7,000 Army; 3,000 Navy; 3,000 Air Force; 3,000 other, including staff, logistics, support, medical, cyber, intelligence, etc); approximately 22,000 Home Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Swedish Armed Forces is comprised of domestically-produced and imported Western weapons systems; since 2010, the US is the leading supplier of military hardware to Sweden, followed by France and Germany; Sweden's defense industry is capable of producing a range of air, land, and naval systems (2020)<br>
@@ -680,6 +680,9 @@ approximately 450 Mali (EUTM, MINUSMA, Task Force Takuba) (Jan 2021)<br>
 
 **Military service age and obligation**<br>
 18-47 years of age for male and female voluntary military service; service obligation: 7.5 months (Army), 7-15 months (Navy), 8-12 months (Air Force); after completing initial service, soldiers have a reserve commitment until age 47; compulsory military service, abolished in 2010, was reinstated in January 2018; conscription is selective, includes both female and male (age 18), and requires 9-12 months of service (2019)<br>
+
+**Military - note**<br>
+<p>Sweden maintains a policy of military non-alignment, but cooperates with NATO and regional countries; it joined NATO’s Partnership for Peace program in 1994 and is one of the Alliance’s most active partners, contributing to recent NATO-led missions in Afghanistan, Iraq, and Kosovo</p> <p>the Swedish military cooperates closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<strong> </strong></p> <p>Sweden is a signatory of the EU’s Common Security and Defense Policy and contributes to CSDP missions and operations</p><br>
 
 ## Terrorism
 

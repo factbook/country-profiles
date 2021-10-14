@@ -202,7 +202,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2017)<br>
+4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -614,17 +614,17 @@ OM<br>
 _total_: 35 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 19 (2019)<br>
+_total_: 19<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 9<br>
+_under 914 m_: 9 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 15 (2019)<br>
+_total_: 15<br>
 _914 to 1,523 m_: 10<br>
-_under 914 m_: 5<br>
+_under 914 m_: 5 (2019)<br>
 
 **Heliports**<br>
 1 (2019)<br>
@@ -668,11 +668,11 @@ the inventory of the Slovakian military consists mostly of Soviet-era platforms;
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
 
-**Military - note**<br>
-Slovakia officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2019)<br>
+
+**Military - note**<br>
+Slovakia officially became a member of NATO in 2004<br>
 
 ## Transnational Issues
 

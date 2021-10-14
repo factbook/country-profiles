@@ -192,7 +192,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2019)<br>
+3.2% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -313,8 +313,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister and deputy 
 
 **Legislative branch**<br>
 _description_: unicameral Advisory Council or Majlis al-Shura (45 seats; 30 members directly elected by popular vote for 4-year re-electable terms; 15 members&nbsp;appointed by the monarch to serve until resignation or until relieved; note - legislative drafting authority rests with the Council of Ministers and is reviewed by the Advisory Council or Majlis al-Shura<br>
-_elections_: last on 17 June 2016 (next in 2019); note - in late 2019, the amir announced the formation of a committee to oversee preparations for the first elected council, although Doha has not selected a date for elections<br>
-_election results_: NA; composition - men 41, women 4, percent of women 8.9%<br>
+_elections_: first election held for 30 elected members on 2 October 2021 (next to be held in 2025); date of appointed members NA<br>
+_election results_: 30 nonpartisan members elected;&nbsp; composition of elected members - men 30, women 0<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of the court president and several judges); Supreme Constitutional Court (consists of the chief justice and 6 members)<br>
@@ -602,13 +602,13 @@ A7<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
+_total_: 4<br>
+_over 3,047 m_: 3<br>
 _1,524 to 2,437 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 2<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>

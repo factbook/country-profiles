@@ -187,7 +187,7 @@ _unimproved: total_: total: 1.8% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+2.5% of GDP (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 25.8%<br>
@@ -582,16 +582,16 @@ C6<br>
 _total_: 54 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 24 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 13 (2017)<br>
+_total_: 24<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 13<br>
 _914 to 1,523 m_: 7 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 37 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 16 (2013)<br>
+_total_: 37<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 16<br>
 _under 914 m_: 17 (2013)<br>
 
 **Heliports**<br>

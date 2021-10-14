@@ -73,6 +73,12 @@ population is primarily located on the periphery, with the highest concentration
 **Geography - note**<br>
 <strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Lake Eyre<em> (endorheic basin)</em>: Lake Eyre (1,212,198 sq km)<br>
+
+**Major aquifers**<br>
+Great Artesian Basin, Canning Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -205,7 +211,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2017)<br>
+5.1% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 21 years<br>
@@ -265,6 +271,12 @@ _rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Lake Eyre<em> (endorheic basin)</em>: Lake Eyre (1,212,198 sq km)<br>
+
+**Major aquifers**<br>
+Great Artesian Basin, Canning Basin<br>
 
 ## Government
 
@@ -617,17 +629,17 @@ VH<br>
 _total_: 418 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 349 (2017)<br>
-_over 3,047 m_: 11 (2017)<br>
-_2,438 to 3,047 m_: 14 (2017)<br>
-_1,524 to 2,437 m_: 155 (2017)<br>
-_914 to 1,523 m_: 155 (2017)<br>
+_total_: 349<br>
+_over 3,047 m_: 11<br>
+_2,438 to 3,047 m_: 14<br>
+_1,524 to 2,437 m_: 155<br>
+_914 to 1,523 m_: 155<br>
 _under 914 m_: 14 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 131 (2013)<br>
-_1,524 to 2,437 m_: 16 (2013)<br>
-_914 to 1,523 m_: 101 (2013)<br>
+_total_: 131<br>
+_1,524 to 2,437 m_: 16<br>
+_914 to 1,523 m_: 101<br>
 _under 914 m_: 14 (2013)<br>
 
 **Heliports**<br>
@@ -683,6 +695,9 @@ approximately 700 Middle East (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles (2021)<br>
+
+**Military - note**<br>
+Australia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
 
 ## Terrorism
 

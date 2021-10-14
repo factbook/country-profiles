@@ -208,7 +208,7 @@ _vectorborne diseases_: tickborne encephalitis<br>
 NA<br>
 
 **Education expenditures**<br>
-4.4% of GDP (2017)<br>
+4.2% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -631,15 +631,15 @@ YL<br>
 _total_: 42 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 18 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
-_914 to 1,523 m_: 3 (2017)<br>
+_total_: 18<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 7 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 24 (2013)<br>
+_total_: 24<br>
 _under 914 m_: 24 (2013)<br>
 
 **Heliports**<br>
@@ -686,11 +686,11 @@ the National Armed Forces of Latvia have approximately 6,500 active duty troops 
 **Military equipment inventories and acquisitions**<br>
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2020)<br>
 
-**Military - note**<br>
-Latvia officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2019)<br>
+
+**Military - note**<br>
+Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Canada and had about 1,500 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>
 
 ## Transnational Issues
 

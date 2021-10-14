@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br>
+Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br> <p>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, is providing 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which is set for completion in 2021. Laos is financing the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand.</p><br>
 
 ## Geography
 
@@ -377,10 +377,25 @@ _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
 **Economic overview**<br>
 <p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p><p></p><p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p><p></p><p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p><p></p><p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$56.11 billion (2019 est.)<br>
+$53.616 billion (2018 est.)<br>
+$50.463 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 6.9% (2017 est.)<br>
 7% (2016 est.)<br>
 7.3% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$7,826 (2019 est.)<br>
+$7,593 (2018 est.)<br>
+$7,258 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$16.97 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.8% (2017 est.)<br>
@@ -389,26 +404,6 @@ _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: Caa2 (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$56.11 billion (2019 est.)<br>
-$53.616 billion (2018 est.)<br>
-$50.463 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$16.97 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$7,826 (2019 est.)<br>
-$7,593 (2018 est.)<br>
-$7,258 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-22.7% of GDP (2017 est.)<br>
-21.3% of GDP (2016 est.)<br>
-15.8% of GDP (2015 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 20.9% (2017 est.)<br>
@@ -422,12 +417,6 @@ _investment in fixed capital_: 30.9% (2017 est.)<br>
 _investment in inventories_: 3.1% (2017 est.)<br>
 _exports of goods and services_: 34.6% (2017 est.)<br>
 _imports of goods and services_: -43.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 50.8 (2020)<br>
-_Starting a Business score_: 62.7 (2020)<br>
-_Trading score_: 78.1 (2020)<br>
-_Enforcement score_: 42 (2020)<br>
 
 **Agricultural products**<br>
 rice, roots/tubers nes, cassava, sugar cane, vegetables, bananas, maize, watermelons, coffee, taro<br>
@@ -465,15 +454,15 @@ _highest 10%_: 30.3% (2008)<br>
 _revenues_: 3.099 billion (2017 est.)<br>
 _expenditures_: 4.038 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.3% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -5.5% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 63.6% of GDP (2017 est.)<br>
 58.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.3% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -636,15 +625,15 @@ RDPL<br>
 _total_: 41 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 8 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
+_total_: 8<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 4<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 33 (2013)<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_total_: 33<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 9<br>
 _under 914 m_: 22 (2013)<br>
 
 **Pipelines**<br>

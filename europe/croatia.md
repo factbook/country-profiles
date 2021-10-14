@@ -71,6 +71,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -278,6 +281,9 @@ _vectorborne diseases_: tickborne encephalitis<br>
 _municipal solid waste generated annually_: 1.654 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -636,17 +642,17 @@ _annual freight traffic on registered air carriers_: 530,000 mt-km (2018)<br>
 _total_: 69 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 24 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 6 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 3 (2017)<br>
+_total_: 24<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 6<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 10 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 45 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 45<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 38 (2013)<br>
 
 **Heliports**<br>
@@ -692,11 +698,11 @@ the Armed Forces of the Republic of Croatia have approximately 15,000 active dut
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including Finland, Germany, and the US (2020)<br>
 
-**Military - note**<br>
-Croatia officially became a member of NATO in 2009<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2019)<br>
+
+**Military - note**<br>
+Croatia officially became a member of NATO in 2009<br>
 
 ## Transnational Issues
 
@@ -705,7 +711,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,900 (2020)<br>
-<strong>note: </strong>729,392 estimated refugee and migrant arrivals (January 2015-August 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>731,287 estimated refugee and migrant arrivals (January 2015-September 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 primarily a transit country along the Balkan route for maritime shipments of South American cocaine bound for Western Europe and other illicit drugs and chemical precursors to and from Western Europe; no significant domestic production of illicit drugs<br>

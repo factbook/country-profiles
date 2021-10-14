@@ -79,6 +79,12 @@ much of the population is concentrated in the north and southeast; although ther
 **Geography - note**<br>
 largest West European nation; most major French rivers - the Meuse, Seine, Loire, Charente, Dordogne, and Garonne - flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
+**Major aquifers**<br>
+Paris Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -207,7 +213,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 <500 (2019 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 19 July 2021, France has reported a total of 5,753,579 cases of COVID-19 or 8,846.3 cumulative cases of COVID-19 per 100,000 population with 169.92 cumulative deaths per 100,000 population; as of 19 July 2021, 55.97% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 October 2021, France has reported a total of 6,816,783 cases of COVID-19 or 10,481.01 cumulative cases of COVID-19 per 100,000 population with 176.58 cumulative deaths per 100,000 population; as of 4 October 2021, 66.20% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 21.6% (2016)<br>
@@ -216,7 +222,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.5% of GDP (2017)<br>
+5.4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -271,12 +277,18 @@ _urban population_: 81.2% of total population (2021)<br>
 _rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 19 July 2021, France has reported a total of 5,753,579 cases of COVID-19 or 8,846.3 cumulative cases of COVID-19 per 100,000 population with 169.92 cumulative deaths per 100,000 population; as of 19 July 2021, 55.97% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 October 2021, France has reported a total of 6,816,783 cases of COVID-19 or 10,481.01 cumulative cases of COVID-19 per 100,000 population with 176.58 cumulative deaths per 100,000 population; as of 4 October 2021, 66.20% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,434,617 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
+**Major aquifers**<br>
+Paris Basin<br>
 
 ## Government
 
@@ -643,17 +655,17 @@ F<br>
 _total_: 464 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 294 (2017)<br>
-_over 3,047 m_: 14 (2017)<br>
-_2,438 to 3,047 m_: 25 (2017)<br>
-_1,524 to 2,437 m_: 97 (2017)<br>
-_914 to 1,523 m_: 83 (2017)<br>
+_total_: 294<br>
+_over 3,047 m_: 14<br>
+_2,438 to 3,047 m_: 25<br>
+_1,524 to 2,437 m_: 97<br>
+_914 to 1,523 m_: 83<br>
 _under 914 m_: 75 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 170 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 64 (2013)<br>
+_total_: 170<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 64<br>
 _under 914 m_: 105 (2013)<br>
 
 **Heliports**<br>
@@ -712,11 +724,12 @@ the French military's inventory consists almost entirely of domestically-produce
 5,100 Burkina Faso/Chad/Mali/Niger (Operation Barkhane, Task Force Takuba; note - in July 2021, France announced that it would withdraw about 2,000 personnel from this force by the beginning of 2022); approximately 300 Central African Republic; 900 Cote D'Ivoire; 1,400 Djibouti; 300 Baltics (NATO); 2,000 French Guyana; 900 French Polynesia; 1,000 French West Indies; 350 Gabon; est. 500 Middle East (Iraq/Jordan/Syria); 950 Lebanon (UNIFIL); 1,400-1,500 New Caledonia; 1,700 Reunion Island; 350 Senegal; 650 United Arab Emirates (2020-2021)<br>
 note - France has been a contributing member of the EuroCorps since 1992<br>
 
-**Military - note**<br>
-France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO&rsquo;s integrated military structure, reflecting his desire for greater military independence, particularly vis-&agrave;-vis the US, and the refusal to integrate France&rsquo;s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO&rsquo;s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service; no conscription (abolished 2001); 1-year service obligation; women serve in noncombat posts (2019)<br>
+note - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts<br>
+
+**Military - note**<br>
+France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p><br>
 
 ## Terrorism
 

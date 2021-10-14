@@ -201,7 +201,7 @@ _unimproved: total_: total: 12.8% of population (2017 est.)<br>
 2.2% (2012)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018)<br>
+6.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -371,10 +371,25 @@ _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
 **Economic overview**<br>
 <p>Despite recent progress, Moldova remains one of the poorest countries in Europe. With a moderate climate and productive farmland, Moldova's economy relies heavily on its agriculture sector, featuring fruits, vegetables, wine, wheat, and tobacco. Moldova also depends on annual remittances of about $1.2 billion - almost 15% of GDP - from the roughly one million Moldovans working in Europe, Israel, Russia, and elsewhere.</p><p></p><p>With few natural energy resources, Moldova imports almost all of its energy supplies from Russia and Ukraine. Moldova's dependence on Russian energy is underscored by a more than $6 billion debt to Russian natural gas supplier Gazprom, largely the result of unreimbursed natural gas consumption in the breakaway region of Transnistria. Moldova and Romania inaugurated the Ungheni-Iasi natural gas interconnector project in August 2014. The 43-kilometer pipeline between Moldova and Romania, allows for both the import and export of natural gas. Several technical and regulatory delays kept gas from flowing into Moldova until March 2015. Romanian gas exports to Moldova are largely symbolic. In 2018, Moldova awarded a tender to Romanian Transgaz to construct a pipeline connecting Ungheni to Chisinau, bringing the gas to Moldovan population centers. Moldova also seeks to connect with the European power grid by 2022.</p><p></p><p>The government's stated goal of EU integration has resulted in some market-oriented progress. Moldova experienced better than expected economic growth in 2017, largely driven by increased consumption, increased revenue from agricultural exports, and improved tax collection. During fall 2014, Moldova signed an Association Agreement and a Deep and Comprehensive Free Trade Agreement with the EU (AA/DCFTA), connecting Moldovan products to the world’s largest market. The EU AA/DCFTA has contributed to significant growth in Moldova’s exports to the EU. In 2017, the EU purchased over 65% of Moldova’s exports, a major change from 20 years previously when the Commonwealth of Independent States (CIS) received over 69% of Moldova’s exports. A $1 billion asset-stripping heist of Moldovan banks in late 2014 delivered a significant shock to the economy in 2015; the subsequent bank bailout increased inflationary pressures and contributed to the depreciation of the leu and a minor recession. Moldova’s growth has also been hampered by endemic corruption, which limits business growth and deters foreign investment, and Russian restrictions on imports of Moldova’s agricultural products. The government’s push to restore stability and implement meaningful reform led to the approval in 2016 of a $179 million three-year IMF program focused on improving the banking and fiscal environments, along with additional assistance programs from the EU, World Bank, and Romania. Moldova received two IMF tranches in 2017, totaling over $42.5 million.</p><p></p><p>Over the longer term, Moldova's economy remains vulnerable to corruption, political uncertainty, weak administrative capacity, vested bureaucratic interests, energy import dependence, Russian political and economic pressure, heavy dependence on agricultural exports, and unresolved separatism in Moldova's Transnistria region.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$34.68 billion (2019 est.)<br>
+$33.482 billion (2018 est.)<br>
+$32.101 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 4.5% (2017 est.)<br>
 4.3% (2016 est.)<br>
 -0.4% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$13,050 (2019 est.)<br>
+$12,373 (2018 est.)<br>
+$11,651 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$11.982 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 4.8% (2019 est.)<br>
@@ -383,26 +398,6 @@ _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
 
 **Credit ratings**<br>
 _Moody's rating_: B3 (2010)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$34.68 billion (2019 est.)<br>
-$33.482 billion (2018 est.)<br>
-$32.101 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$11.982 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$13,050 (2019 est.)<br>
-$12,373 (2018 est.)<br>
-$11,651 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-16.8% of GDP (2019 est.)<br>
-15.1% of GDP (2018 est.)<br>
-16.8% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 17.7% (2017 est.)<br>
@@ -416,12 +411,6 @@ _investment in fixed capital_: 21.9% (2017 est.)<br>
 _investment in inventories_: 1.4% (2017 est.)<br>
 _exports of goods and services_: 42.5% (2017 est.)<br>
 _imports of goods and services_: -70.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 74.4 (2020)<br>
-_Starting a Business score_: 95.7 (2020)<br>
-_Trading score_: 92.3 (2020)<br>
-_Enforcement score_: 63.6 (2020)<br>
 
 **Agricultural products**<br>
 maize, wheat, sunflower seed, grapes, apples, sugar beet, milk, potatoes, barley, plums/sloes<br>
@@ -460,15 +449,15 @@ _revenues_: 2.886 billion (2017 est.)<br>
 _expenditures_: 2.947 billion (2017 est.)<br>
 <strong>note:</strong> National Public Budget<br>
 
-**Taxes and other revenues**<br>
-30.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -0.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 31.5% of GDP (2017 est.)<br>
 35.8% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+30.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -634,14 +623,14 @@ ER<br>
 _total_: 7 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
+_total_: 5<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 2<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Pipelines**<br>
@@ -684,6 +673,9 @@ the Moldovan military's inventory is limited and almost entirely comprised of ol
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2020)<br>
+
+**Military - note**<br>
+<p>Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support</p><br>
 
 ## Transnational Issues
 

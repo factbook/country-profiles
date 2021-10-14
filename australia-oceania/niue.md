@@ -96,6 +96,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 -0.03% (2021 est.)<br>
 
@@ -464,7 +470,7 @@ _percent of population_: 91.6% (July 2016 est.)<br>
 _total_: 1 (2021)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2021)<br>
+_total_: 1<br>
 _1,524 to 2,437 m_: 1 (2021)<br>
 
 **Roadways**<br>

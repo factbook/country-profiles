@@ -70,6 +70,9 @@ earthquakes; floods<br>
 **Geography - note**<br>
 landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR<br>
 
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -208,7 +211,7 @@ _vectorborne diseases_: malaria<br>
 7.6% (2017)<br>
 
 **Education expenditures**<br>
-5.2% of GDP (2015)<br>
+5.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,6 +274,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## Government
 
@@ -622,17 +628,17 @@ EY<br>
 _total_: 24 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17 (2013)<br>
-_over 3,047 m_: 2 (2013)<br>
-_2,438 to 3,047 m_: 4 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 17<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 4<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 3 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 7<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 5 (2013)<br>
 
 **Pipelines**<br>
@@ -666,11 +672,11 @@ the Armed Forces of the Republic of Tajikistan have approximately 9,500 active t
 **Military equipment inventories and acquisitions**<br>
 the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2020)<br>
 
-**Military deployments**<br>
-contributes troops to CSTO's Rapid Reaction Force (2021)<br>
-
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay the equivalent of $2,200 in order to avoid conscription (2021)<br>
+
+**Military - note**<br>
+Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
 
 ## Terrorism
 

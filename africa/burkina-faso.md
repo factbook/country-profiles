@@ -213,7 +213,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 16.4% (2019)<br>
 
 **Education expenditures**<br>
-5.4% of GDP (2018)<br>
+5.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -640,14 +640,14 @@ XT<br>
 _total_: 23 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_2,438 to 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 13 (2013)<br>
+_total_: 21<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 13<br>
 _under 914 m_: 5 (2013)<br>
 
 **Railways**<br>
@@ -682,11 +682,11 @@ the FABF has a mix of foreign-supplied weapons; since 2010, it has received limi
 **Military deployments**<br>
 1,075 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military - note**<br>
-since at least 2016, the Armed Forces of Burkina Faso have been actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS; military operations have occurred in the Centre‐Est, Centre‐Nord, Est, Nord, and Sahel administrative regions<br><br>Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries (2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2019)<br>
+
+**Military - note**<br>
+since at least 2016, the Armed Forces of Burkina Faso have been actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS; military operations have occurred in the Centre‐Est, Centre‐Nord, Est, Nord, and Sahel administrative regions<br><br>Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries (2021)<br>
 
 ## Terrorism
 

@@ -73,6 +73,12 @@ most of the population is found in the middle of the country between the states 
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants - winter squash, maize (corn), and climbing beans - served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatan Peninsula that divides the Gulf of Mexico from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of Mexico); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species - including the non-avian dinosaurs</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
+
+**Major aquifers**<br>
+Atlantic and Gulf Coastal Plains Aquifer<br>
+
 ## People and Society
 
 **Population**<br>
@@ -202,7 +208,7 @@ _unimproved: total_: total: 2.2% of population (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Mexico has reported a total of 2,659,137 cases of COVID-19 or 2,062.42 cumulative cases of COVID-19 per 100,000 population with 183.3 cumulative deaths per 100,000 population; as of 19 July 2021, 29.65% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Mexico has reported a total of 3,684,242 cases of COVID-19 or 2,857.49 cumulative cases of COVID-19 per 100,000 population with 216.47 cumulative deaths per 100,000 population; as of 2 October 2021, 49.38% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.9% (2016)<br>
@@ -211,7 +217,7 @@ _vectorborne diseases_: dengue fever<br>
 4.7% (2018/19)<br>
 
 **Education expenditures**<br>
-4.5% of GDP (2017)<br>
+4.3% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -277,12 +283,18 @@ _rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea and hepatitis A<br>
 _vectorborne diseases_: dengue fever<br>
-<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Mexico has reported a total of 2,659,137 cases of COVID-19 or 2,062.42 cumulative cases of COVID-19 per 100,000 population with 183.3 cumulative deaths per 100,000 population; as of 19 July 2021, 29.65% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> a new coronavirus is causing sustained community spread of respiratory illness (COVID-19) in Mexico; sustained community spread means that people have been infected with the virus, but how or where they became infected is not known, and the spread is ongoing; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Mexico has reported a total of 3,684,242 cases of COVID-19 or 2,857.49 cumulative cases of COVID-19 per 100,000 population with 216.47 cumulative deaths per 100,000 population; as of 2 October 2021, 49.38% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2.655 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
+
+**Major aquifers**<br>
+Atlantic and Gulf Coastal Plains Aquifer<br>
 
 ## Government
 
@@ -342,7 +354,7 @@ _election results_: <br><em>2018:</em> Andres Manuel LOPEZ OBRADOR elected presi
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso de la Union consists of:<br>Senate or Camara de Senadores (128 seats; 96 members directly elected in multi-seat constituencies by simple majority vote and 32 directly elected in a single, nationwide constituency by proportional representation vote; members serve 6-year terms)<br>Chamber of Deputies or Camara de Diputados (500 seats; 300 members directly elected in single-seat constituencies by simple majority vote and 200 directly elected in a single, nationwide constituency by proportional representation vote; members serve 3-year terms)<br>
 _elections_: <br>Senate - last held on 1 July 2018 (next to be held in July 2024)<br>Chamber of Deputies - last held on 6 June 2021 (next to be held in July 2024)<br>
-_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition - men 65, women 63, percent of women 49.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - NA<br>
+_election results_: <br>Senate - percent of vote by party - percent of vote by party - NA; seats by party - MORENA 58, PAN 22, PRI 14, PRD 9, MC 7, PT 7, PES 5, PVEM 5, PNA/PANAL 1; composition (as of July 2018) - men 65, women 63, percent of women 49.2%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - MORENA 197, PAN 111, PRI 69, PVEM 44, PT 38, MC 25, PRD 16; composition - men 250, women 250, percent of women 50%; note - overall percent of women in National Congress 49.8%<br>
 <strong>note: </strong>as of the 2018 election, senators will be eligible for a second term and deputies up to 4 consecutive terms<br>
 
 **Judicial branch**<br>
@@ -645,19 +657,19 @@ XA<br>
 _total_: 1,714 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 243 (2017)<br>
-_over 3,047 m_: 12 (2017)<br>
-_2,438 to 3,047 m_: 32 (2017)<br>
-_1,524 to 2,437 m_: 80 (2017)<br>
-_914 to 1,523 m_: 86 (2017)<br>
+_total_: 243<br>
+_over 3,047 m_: 12<br>
+_2,438 to 3,047 m_: 32<br>
+_1,524 to 2,437 m_: 80<br>
+_914 to 1,523 m_: 86<br>
 _under 914 m_: 33 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1,471 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 42 (2013)<br>
-_914 to 1,523 m_: 281 (2013)<br>
+_total_: 1,471<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 42<br>
+_914 to 1,523 m_: 281<br>
 _under 914 m_: 1,146 (2013)<br>
 
 **Heliports**<br>
@@ -708,11 +720,11 @@ information varies; approximately 250,000 active personnel (180,000 Army; 60,000
 **Military equipment inventories and acquisitions**<br>
 the Mexican military inventory includes a mix of domestically-produced and imported equipment from a variety of mostly Western suppliers; since 2010, the US is the leading supplier of military hardware to Mexico; Mexico's defense industry produces naval vessels and light armored vehicles (2020)<br>
 
-**Military - note**<br>
-the Mexican military under President LOPEZ OBRADOR has expanded its role in public security duties and other tasks; as of 2021, Mexican military operations were focused primarily on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs some 2,700 branches of a state-owned bank<br>
-
 **Military service age and obligation**<br>
 18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2019)<br>
+
+**Military - note**<br>
+the Mexican military under President LOPEZ OBRADOR has expanded its role in public security duties and other tasks; as of 2021, Mexican military operations were focused primarily on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs some 2,700 branches of a state-owned bank<br>
 
 ## Transnational Issues
 

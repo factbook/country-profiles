@@ -71,6 +71,12 @@ locally heavy rainfall causes periodic flooding on the plateau<br>
 **Geography - note**<br>
 the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -210,7 +216,7 @@ _animal contact diseases_: rabies<br>
 19% (2015/16)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2010)<br>
+1.8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -279,6 +285,12 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## Government
 
@@ -632,19 +644,19 @@ D2<br>
 _total_: 102 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 32 (2020)<br>
+_total_: 32<br>
 _over 3,047 m_: 8<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 10<br>
-_914 to 1,523 m_: 6<br>
+_914 to 1,523 m_: 6 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 70 (2020)<br>
+_total_: 70<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 27<br>
-_under 914 m_: 22<br>
+_under 914 m_: 22 (2020)<br>
 
 **Heliports**<br>
 1 (2013)<br>
@@ -686,7 +698,7 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Angolan Armed Forces (FAA) are comprised of approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2020)<br>
+the Angolan Armed Forces (FAA) are comprised of approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has remained the principle supplier of military hardware to Angola (2020)<br>
@@ -700,7 +712,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,430 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,274 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
+_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,274 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
 
 **Illicit drugs**<br>
 used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa<br>

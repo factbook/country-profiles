@@ -188,7 +188,7 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 3.5% (2012)<br>
 
 **Education expenditures**<br>
-4.4% of GDP (2017)<br>
+4.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -590,8 +590,8 @@ _subscriptions per 100 inhabitants_: 35.59 (2019 est.)<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Pipelines**<br>
 33 km gas, 64 km oil, 6 km refined products (2013)<br>
@@ -626,7 +626,10 @@ the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (
 the RBDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>
 
 **Military service age and obligation**<br>
-voluntary service only; 17 years, 9 months to 17 years, 11 months with a letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizen of Barbados by descent or naturalization  (2021)<br>
+Voluntary service only; 17 years, 9 months to 17 years, 11 months with a letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizen of Barbados by descent or naturalization (2021)<br>
+
+**Military - note**<br>
+<p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p><br>
 
 ## Transnational Issues
 

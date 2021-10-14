@@ -94,6 +94,12 @@ _25-54 years_: 52.51% (male 14,729/female 14,637)<br>
 _55-64 years_: 7.81% (male 2,297/female 2,069)<br>
 _65 years and over_: 5.17% (male 1,364/female 1,525) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 34.6 years<br>
 _male_: 34.9 years<br>
@@ -170,7 +176,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2018)<br>
+3.5% of GDP (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -488,14 +494,14 @@ VQ-T<br>
 _total_: 8 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 6 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 6<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
+_total_: 2<br>
 _under 914 m_: 2 (2013)<br>
 
 **Roadways**<br>

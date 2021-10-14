@@ -217,7 +217,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 11.6% (2019/20)<br>
 
 **Education expenditures**<br>
-2.4% of GDP (2018)<br>
+2.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -631,8 +631,8 @@ C5<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 2,977 km (2011)<br>

@@ -72,6 +72,9 @@ the most densely populated area is found around the Bosporus in the northwest wh
 **Geography - note**<br>
 strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -198,7 +201,7 @@ NA<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 June 2021, Turkey has reported a total of 5,537,386 cases of COVID-19 or 6,565.62 cumulative cases of COVID-19 per 100,000 population with 60 cumulative deaths per 100,000 population; as of 19 July 2021, 46.29% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 October 2021, Turkey has reported a total of 7,296,879 cases of COVID-19 or 8,651.84 cumulative cases of COVID-19 per 100,000 population with 77.23 cumulative deaths per 100,000 population; as of 6 October 2021, 63.84% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32.1% (2016)<br>
@@ -207,7 +210,7 @@ _respiratory diseases_: Covid-19 (2020)<br>
 1.5% (2018/19)<br>
 
 **Education expenditures**<br>
-4.3% of GDP (2015)<br>
+4.3% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -270,10 +273,13 @@ _rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (2020)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 June 2021, Turkey has reported a total of 5,537,386 cases of COVID-19 or 6,565.62 cumulative cases of COVID-19 per 100,000 population with 60 cumulative deaths per 100,000 population; as of 19 July 2021, 46.29% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Turkey; as of 6 October 2021, Turkey has reported a total of 7,296,879 cases of COVID-19 or 8,651.84 cumulative cases of COVID-19 per 100,000 population with 77.23 cumulative deaths per 100,000 population; as of 6 October 2021, 63.84% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## Government
 
@@ -630,17 +636,17 @@ TC<br>
 _total_: 98 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 91 (2013)<br>
-_over 3,047 m_: 16 (2013)<br>
-_2,438 to 3,047 m_: 38 (2013)<br>
-_1,524 to 2,437 m_: 17 (2013)<br>
-_914 to 1,523 m_: 16 (2013)<br>
+_total_: 91<br>
+_over 3,047 m_: 16<br>
+_2,438 to 3,047 m_: 38<br>
+_1,524 to 2,437 m_: 17<br>
+_914 to 1,523 m_: 16<br>
 _under 914 m_: 4 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 7<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -693,11 +699,11 @@ the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-
 est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); est. 1,500-2,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
 note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br>
 
-**Military - note**<br>
-the ruling Justice and Development Party (AKP) has actively pursued the goal of asserting civilian control over the military since first taking power in 2002; the Turkish Armed Forces (TSK) role in internal security has been significantly reduced; the TSK leadership continues to be an influential institution within Turkey, but plays a much smaller role in politics; the Turkish military remains focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the "Force 2014" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in July 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br>
-
 **Military service age and obligation**<br>
 President Erdoğan on 25 June 2019 signed a new law cutting the men&rsquo;s mandatory military service period in half, as well as making paid military service permanent; with the new system, the period of conscription was reduced from 12 months to six months for privates and non-commissioned soldiers (the service term for reserve officers chosen among university or college graduates will remain 12 months); after completing six months of service, if a conscripted soldier wants to and is suitable for extending his military service, he may do so for an additional six months in return for a monthly salary; under the new law, all male Turkish citizens over the age of 20 will be required to undergo a one month military training period, but they can obtain an exemption from the remaining five months of their mandatory service by paying 31,000 Turkish Liras (2019)<br>
+
+**Military - note**<br>
+the Turkish Armed Forces (TSK) remain focused on the threats emanating from the Syrian civil war, Russia's actions in Ukraine, and the PKK insurgency; primary domestic threats are listed as fundamentalism (with the definition in some dispute with the civilian government), separatism (Kurdish discontent), and the extreme left wing, although the TSK's role in internal security has been significantly reduced in the past decade; Ankara strongly opposed establishment of an autonomous Kurdish region in Iraq; an overhaul of the Turkish Land Forces Command (TLFC) taking place under the "Force 2014" program is to produce 20-30% smaller, more highly trained forces characterized by greater mobility and firepower and capable of joint and combined operations; the TLFC has taken on increasing international peacekeeping responsibilities, including keeping a substantial force under NATO in Afghanistan until withdrawing in 2021; the Turkish Navy is a regional naval power that wants to develop the capability to project power beyond Turkey's coastal waters; it is planning to launch new frigates, submarines, and a light aircraft carrier/amphibious assault ship in the next few years, adding to its current force of about 16 frigates and 12 submarines (as of 2021); the Navy is heavily involved in NATO, multinational, and UN operations; its roles include control of territorial waters and security for sea lines of communications; the Turkish Air Force adopted an "Aerospace and Missile Defense Concept" in 2002 and has initiated project work on an integrated missile defense system; in a controversial move, it purchased the Russian S-400 air defense system for an estimated $2.5 billion in 2019; Air Force priorities include attaining a modern deployable, survivable, and sustainable force structure, and establishing a sustainable command and control system; Turkey is a NATO ally (joined 1952) and hosts NATO's Land Forces Command in Izmir, as well as the AN/TPY-2 radar as part of NATO Missile Defense; Turkey in recent years has built expeditionary military bases in Qatar, Somalia, northern Cyprus, and Sudan<br>
 
 ## Terrorism
 
@@ -711,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,713,344 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
+_refugees (country of origin)_: 3,718,322 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

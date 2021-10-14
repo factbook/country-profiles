@@ -514,8 +514,8 @@ PJ<br>
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 550 km<br>
@@ -534,11 +534,11 @@ _bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
 **Military and security forces**<br>
 no regular military forces; Curaçao Militia (CURMIL) (2021)<br>
 
-**Military - note**<br>
-defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>
-
 **Military service age and obligation**<br>
 no conscription (2010)<br>
+
+**Military - note**<br>
+defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>
 
 ## Transnational Issues
 

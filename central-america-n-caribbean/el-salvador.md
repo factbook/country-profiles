@@ -212,7 +212,7 @@ _vectorborne diseases_: dengue fever<br>
 5% (2014)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -632,16 +632,16 @@ YS<br>
 _total_: 68 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 5<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 63 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 11 (2013)<br>
+_total_: 63<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 11<br>
 _under 914 m_: 51 (2013)<br>
 
 **Heliports**<br>
@@ -688,11 +688,11 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 **Military deployments**<br>
 170 Mali (MINUSMA) (Jan 2021)<br>
 
-**Military - note**<br>
-in recent years, about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security (2021)<br>
-
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)<br>
+
+**Military - note**<br>
+as of 2021 about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security<br>
 
 ## Transnational Issues
 

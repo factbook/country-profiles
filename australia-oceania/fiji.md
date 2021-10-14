@@ -205,7 +205,7 @@ _vectorborne diseases_: malaria<br>
 NA<br>
 
 **Education expenditures**<br>
-3.9% of GDP (2013)<br>
+5.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _total population_: 99.1%<br>
@@ -618,14 +618,14 @@ DQ<br>
 _total_: 28 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 4<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 24 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 24<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 19 (2013)<br>
 
 **Railways**<br>
@@ -667,7 +667,7 @@ the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 pe
 the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2020)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 130 Golan Heights (UNDOF) (Jan 2021)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 130 Golan Heights (UNDOF) (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 55 (2013)<br>

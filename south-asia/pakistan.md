@@ -73,6 +73,12 @@ frequent earthquakes, occasionally severe especially in north and west; flooding
 **Geography - note**<br>
 controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
+**Major aquifers**<br>
+Indus Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 19 July 2021, Pakistan has reported a total of 991,727 cases of COVID-19 or 448.96 cumulative cases of COVID-19 per 100,000 population with 10.33 cumulative deaths per 100,000 population; as of 19 July 2021, 4.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 October 2021, Pakistan has reported a total of 1,252,656 cases of COVID-19 or 567.09 cumulative cases of COVID-19 per 100,000 population with 12.65 cumulative deaths per 100,000 population; as of 5 October 2021, 27.57% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 8.6% (2016)<br>
@@ -213,7 +219,7 @@ _animal contact diseases_: rabies<br>
 23.1% (2017/18)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2017)<br>
+2.5% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -279,7 +285,7 @@ _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoid fever<br>
 _vectorborne diseases_: dengue fever and malaria<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 19 July 2021, Pakistan has reported a total of 991,727 cases of COVID-19 or 448.96 cumulative cases of COVID-19 per 100,000 population with 10.33 cumulative deaths per 100,000 population; as of 19 July 2021, 4.21% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Pakistan; as of 6 October 2021, Pakistan has reported a total of 1,252,656 cases of COVID-19 or 567.09 cumulative cases of COVID-19 per 100,000 population with 12.65 cumulative deaths per 100,000 population; as of 5 October 2021, 27.57% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to population displacements, economic constraints, and high prices of the main food staple - the main causes of food insecurity in the country are limited livelihood opportunities, high food prices, and recurrent natural disasters, amplified by the COVID‑19 pandemic; severe floods in August 2020 in Sindh Province affected the livelihoods of about 2 million people and caused severe damage to housing and infrastructure; in addition, prices of wheat flour, the country&rsquo;s main staple, were at high levels in most markets in May 2021, constraining access to food of the most vulnerable households; Pakistan hosts large numbers of registered and unregistered Afghan refugees; most of these people are in need of humanitarian assistance and are straining the already limited resources of the host communities; poverty levels have increased due to losses of income-generating opportunities (2021)<br>
@@ -288,6 +294,12 @@ _severe localized food insecurity_: due to population displacements, economic co
 _municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
+**Major aquifers**<br>
+Indus Basin<br>
 
 ## Government
 
@@ -650,18 +662,18 @@ AP<br>
 _total_: 151 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 108 (2017)<br>
-_over 3,047 m_: 15 (2017)<br>
-_2,438 to 3,047 m_: 20 (2017)<br>
-_1,524 to 2,437 m_: 43 (2017)<br>
-_914 to 1,523 m_: 20 (2017)<br>
+_total_: 108<br>
+_over 3,047 m_: 15<br>
+_2,438 to 3,047 m_: 20<br>
+_1,524 to 2,437 m_: 43<br>
+_914 to 1,523 m_: 20<br>
 _under 914 m_: 10 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 43 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 9 (2013)<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_total_: 43<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 9<br>
 _under 914 m_: 24 (2013)<br>
 
 **Heliports**<br>
@@ -711,11 +723,11 @@ the Pakistan military inventory includes a broad mix of equipment, primarily fro
 **Military deployments**<br>
 1,240 Central African Republic (MINUSCA); 1,950 Democratic Republic of the Congo (MONUSCO); 150 Mali (MINUSMA); 900 Sudan (UNAMID) (Jan 2021)<br>
 
-**Military - note**<br>
-the military has carried out three coups since Pakistan's independence in 1947 and remains the most influential political actor in the country<br>
-
 **Military service age and obligation**<br>
 16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2019)<br>
+
+**Military - note**<br>
+<p>the military has carried out three coups since Pakistan's independence in 1947 and as of 2021 remained a dominant force in the country’s political arena; in 2021, its chief focus was on the perceived threat from India, but over the past 15 years, the military also has increased its role in internal counterinsurgency and counterterrorism missions</p> <p>Pakistan and India have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (First Kashmir War of 1947 and the Kargil Conflict of 1999); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2021, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area in 1985, 1987, and 1995; a cease-fire went into effect in 2003, but as of 2021 both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather or the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness<br><br>Pakistan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

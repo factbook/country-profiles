@@ -207,7 +207,7 @@ _vectorborne diseases_: malaria<br>
 0.8% (2019)<br>
 
 **Education expenditures**<br>
-NA<br>
+8% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: can read and write Tongan and/or English<br>
@@ -606,13 +606,13 @@ A3<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 5<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 1 (2013)<br>
 
 **Roadways**<br>

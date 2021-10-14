@@ -82,6 +82,12 @@ _25-54 years_: 39.08% (male 8,417/female 8,717)<br>
 _55-64 years_: 17.47% (male 3,638/female 4,020)<br>
 _65 years and over_: 11.55% (male 2,385/female 2,680) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 41.1 years<br>
 _male_: 39.6 years<br>
@@ -373,8 +379,8 @@ _international_: country code - 1-721; landing points for SMPR-1 and the ECFS su
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_1,524 to 2,437 m_: 1<br>
+_total_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 <strong>note:</strong> Princess Juliana International Airport (SXM) was severely damaged on 6 September 2017 by hurricane Irma, but resumed commercial operations on 10 October 2017<br>
 
 **Roadways**<br>

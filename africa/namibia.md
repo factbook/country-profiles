@@ -72,6 +72,12 @@ prolonged periods of drought<br>
 **Geography - note**<br>
 the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; Namibia is the first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip; Namib-Naukluft National Park (49,768 sq km), is the largest game park in Africa and one of the largest in the world<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -214,7 +220,7 @@ _water contact diseases_: schistosomiasis<br>
 13.2% (2013)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2014)<br>
+9.4% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -283,6 +289,12 @@ _severe localized food insecurity_: due to reduced incomes - an above-average ha
 _municipal solid waste generated annually_: 256,729 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## Government
 
@@ -638,16 +650,16 @@ V5<br>
 _total_: 112 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 19 (2017)<br>
-_over 3,047 m_: 4 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 12 (2017)<br>
+_total_: 19<br>
+_over 3,047 m_: 4<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 93 (2013)<br>
-_1,524 to 2,437 m_: 25 (2013)<br>
-_914 to 1,523 m_: 52 (2013)<br>
+_total_: 93<br>
+_1,524 to 2,437 m_: 25<br>
+_914 to 1,523 m_: 52<br>
 _under 914 m_: 16 (2013)<br>
 
 **Railways**<br>
@@ -693,5 +705,5 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 <p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,469 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 5,378 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 

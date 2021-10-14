@@ -71,6 +71,9 @@ destructive earthquakes; tsunamis occur along southwestern coast; floods; drough
 **Geography - note**<br>
 strategic location along Strait of Otranto (links Adriatic Sea to Ionian Sea and Mediterranean Sea)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -206,7 +209,7 @@ _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 1.5% (2017/18)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2017)<br>
+3.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -269,6 +272,9 @@ _rate of urbanization_: 1.29% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -373,10 +379,25 @@ _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
 **Economic overview**<br>
 <p>Albania, a formerly closed, centrally planned state, is a developing country with a modern open-market economy. Albania managed to weather the first waves of the global financial crisis but, the negative effects of the crisis caused a significant economic slowdown. Since 2014, Albania’s economy has steadily improved and economic growth reached 3.8% in 2017. However, close trade, remittance, and banking sector ties with Greece and Italy make Albania vulnerable to spillover effects of possible debt crises and weak growth in the euro zone.</p> <p>Remittances, a significant catalyst for economic growth, declined from 12-15% of GDP before the 2008 financial crisis to 5.8% of GDP in 2015, mostly from Albanians residing in Greece and Italy. The agricultural sector, which accounts for more than 40% of employment but less than one quarter of GDP, is limited primarily to small family operations and subsistence farming, because of a lack of modern equipment, unclear property rights, and the prevalence of small, inefficient plots of land. Complex tax codes and licensing requirements, a weak judicial system, endemic corruption, poor enforcement of contracts and property issues, and antiquated infrastructure contribute to Albania's poor business environment making attracting foreign investment difficult. Since 2015, Albania has launched an ambitious program to increase tax compliance and bring more businesses into the formal economy. In July 2016, Albania passed constitutional amendments reforming the judicial system in order to strengthen the rule of law and to reduce deeply entrenched corruption.</p> <p>Albania’s electricity supply is uneven despite upgraded transmission capacities with neighboring countries. However, the government has recently taken steps to stem non-technical losses and has begun to upgrade the distribution grid. Better enforcement of electricity contracts has improved the financial viability of the sector, decreasing its reliance on budget support. Also, with help from international donors, the government is taking steps to improve the poor road and rail networks, a long standing barrier to sustained economic growth.</p> <p>Inward foreign direct investment has increased significantly in recent years as the government has embarked on an ambitious program to improve the business climate through fiscal and legislative reforms. The government is focused on the simplification of licensing requirements and tax codes, and it entered into a new arrangement with the IMF for additional financial and technical support. Albania’s three-year IMF program, an extended fund facility arrangement, was successfully concluded in February 2017. The Albanian Government has strengthened tax collection amid moderate public wage and pension increases in an effort to reduce its budget deficit. The country continues to face high public debt, exceeding its former statutory limit of 60% of GDP in 2013 and reaching 72% in 2016.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$39.859 billion (2019 est.)<br>
+$38.986 billion (2018 est.)<br>
+$37.461 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 2.24% (2019 est.)<br>
 4.07% (2018 est.)<br>
 3.8% (2017 est.)<br>
+
+**Real GDP per capita**<br>
+$13,965 (2019 est.)<br>
+$13,601 (2018 est.)<br>
+$13,037 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$15.273 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 1.4% (2019 est.)<br>
@@ -386,26 +407,6 @@ _lyrics/music_: Aleksander Stavre DRENOVA/Ciprian PORUMBESCU<br>
 **Credit ratings**<br>
 _Moody's rating_: B1 (2007)<br>
 _Standard & Poors rating_: B+ (2016)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$39.859 billion (2019 est.)<br>
-$38.986 billion (2018 est.)<br>
-$37.461 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$15.273 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$13,965 (2019 est.)<br>
-$13,601 (2018 est.)<br>
-$13,037 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-14% of GDP (2019 est.)<br>
-16.8% of GDP (2018 est.)<br>
-16.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 21.7% (2017 est.)<br>
@@ -419,12 +420,6 @@ _investment in fixed capital_: 25.2% (2017 est.)<br>
 _investment in inventories_: 0.2% (2017 est.)<br>
 _exports of goods and services_: 31.5% (2017 est.)<br>
 _imports of goods and services_: -46.6% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 67.7 (2020)<br>
-_Starting a Business score_: 91.8 (2020)<br>
-_Trading score_: 96.3 (2020)<br>
-_Enforcement score_: 53.5 (2020)<br>
 
 **Agricultural products**<br>
 milk, maize, tomatoes, potatoes, watermelons, wheat, grapes, cucumbers, onions, apples<br>
@@ -463,15 +458,15 @@ _highest 10%_: 19.6% (2015 est.)<br>
 _revenues_: 3.614 billion (2017 est.)<br>
 _expenditures_: 3.874 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-27.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 71.8% of GDP (2017 est.)<br>
 73.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+27.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -673,11 +668,11 @@ information varies; approximately 8,000 total active duty personnel (6,000 Army;
 **Military equipment inventories and acquisitions**<br>
 the Albanian military was previously equipped with mostly Soviet-era weapons that were sold or destroyed; its inventory now includes a mix of mostly donated and second-hand European and US equipment; since 2010, it has received limited amounts of equipment from France, Germany, and the US (2020)<br>
 
-**Military - note**<br>
-Albania officially became a member of NATO in 2009<br>
-
 **Military service age and obligation**<br>
 19 is the legal minimum age for voluntary military service; 18 is the legal minimum age in case of general/partial compulsory mobilization; conscription abolished 2010 (2019)<br>
+
+**Military - note**<br>
+Albania officially became a member of NATO in 2009<br>
 
 ## Terrorism
 

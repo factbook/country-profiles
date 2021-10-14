@@ -95,6 +95,12 @@ _25-54 years_: 42.79% (male 16,133/female 15,637)<br>
 _55-64 years_: 10.53% (male 4,089/female 3,731)<br>
 _65 years and over_: 12.12% (male 4,128/female 4,867) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 34.9 years<br>
 _male_: 34.4 years<br>
@@ -176,7 +182,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 NA<br>
 
 **Education expenditures**<br>
-5.6% of GDP (2019)<br>
+5% of GDP (2020)<br>
 
 **People - note**<br>
 3,000-3,500 Kalinago (Carib) still living on Dominica are the only pre-Columbian population remaining in the Caribbean; only 70-100 may be "pure" Kalinago because of years of integration into the broader population<br>
@@ -553,9 +559,9 @@ J7<br>
 _total_: 2 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 1,512 km (2018)<br>
@@ -575,7 +581,7 @@ _major seaport(s)_: Portsmouth, Roseau<br>
 no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2020)<br>
 
 **Military - note**<br>
-Dominica participates in the Regional Security System (RSS) an international agreement for the defense and security of the eastern Caribbean region<br>
+<p>Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

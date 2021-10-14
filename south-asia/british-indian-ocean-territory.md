@@ -77,6 +77,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Birth rate**<br>
 NA<br>
 
@@ -86,10 +92,27 @@ NA<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
+**HIV/AIDS - adult prevalence rate**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
+NA<br>
+
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment
@@ -170,8 +193,8 @@ Diego Garcia hosts one of four dedicated ground antennas that assist in the oper
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 <p><strong>note:</strong> short section of paved road between port and airfield on Diego Garcia</p><br>

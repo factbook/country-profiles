@@ -204,7 +204,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-7.7% of GDP (2017)<br>
+7.6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
@@ -320,7 +320,7 @@ _election results_: Gudni Thorlacius JOHANNESSON reelected president; percent of
 **Legislative branch**<br>
 _description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
-_election results_: <p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3</p><br>
+_election results_: <p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Haestirettur (consists of 9 judges)<br>
@@ -615,15 +615,15 @@ TF<br>
 _total_: 96 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_total_: 7<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 89 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 26 (2013)<br>
+_total_: 89<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 26<br>
 _under 914 m_: 60 (2013)<br>
 
 **Roadways**<br>
@@ -650,7 +650,7 @@ the Icelandic Coast Guard has approximately 250 personnel (2021)<br>
 the Icelandic Coast Guard's inventory consists of equipment from European suppliers (2020)<br>
 
 **Military - note**<br>
-Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br>
+Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br> <p>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> <p> </p><br>
 
 ## Transnational Issues
 

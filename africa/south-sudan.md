@@ -66,6 +66,9 @@ clusters found in urban areas, particularly in the western interior and around t
 **Geography - note**<br>
 landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile, its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -264,6 +267,9 @@ _widespread lack of access_: due to economic downturn, civil insecurity, lingeri
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## Government
 
@@ -560,17 +566,17 @@ Z8<br>
 _total_: 89 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2020)<br>
+_total_: 4<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
-_1,524 to 2,437 m_: 1<br>
+_1,524 to 2,437 m_: 1 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 84 (2020)<br>
+_total_: 84<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 38<br>
-_under 914 m_: 33<br>
+_under 914 m_: 33 (2020)<br>
 
 **Heliports**<br>
 3 (2020)<br>
@@ -607,11 +613,11 @@ note - some active SSPDF personnel may be militia<br>
 **Military equipment inventories and acquisitions**<br>
 the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and the United Arab Emirates were the leading suppliers of arms and equipment; South Sudan has been under a UN arms embargo since 2018 (2020)<br>
 
-**Military - note**<br>
-the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of early 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had more than 19,000 personnel, including about 14,000 troops, deployed in the country as of March 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
-
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service; the Government of South Sudan signed agreements in March 2012 and August 2015 that included the demobilization of all child soldiers within the armed forces and opposition, but the recruitment of child soldiers by the warring parties continues; as of July 2019, UNICEF estimated that more than 19,000 child soldiers had been used in the country's civil war since it began in December 2013 (2019)<br>
+
+**Military - note**<br>
+the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of early 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 18,300 personnel, including about 14,000 troops, deployed in the country as of August 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
 
 ## Transnational Issues
 

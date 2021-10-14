@@ -198,7 +198,7 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 2.8% (2012)<br>
 
 **Education expenditures**<br>
-3.3% of GDP (2018)<br>
+3.6% of GDP (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -350,23 +350,16 @@ _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
 **Economic overview**<br>
 <p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p><p></p><p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p><p></p><p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
 
-**Real GDP growth rate**<br>
-3% (2017 est.)<br>
-3.4% (2016 est.)<br>
--0.9% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.1% (2017 est.)<br>
--3.1% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $2.823 billion (2019 est.)<br>
 $2.775 billion (2018 est.)<br>
 $2.704 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$1.686 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+3% (2017 est.)<br>
+3.4% (2016 est.)<br>
+-0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $15,449 (2019 est.)<br>
@@ -374,10 +367,12 @@ $15,261 (2018 est.)<br>
 $14,946 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-19.4% of GDP (2017 est.)<br>
-15.5% of GDP (2016 est.)<br>
-24.3% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$1.686 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.1% (2017 est.)<br>
+-3.1% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.9% (2017 est.)<br>
@@ -391,12 +386,6 @@ _investment in fixed capital_: 16.9% (2017 est.)<br>
 _investment in inventories_: 0.1% (2017 est.)<br>
 _exports of goods and services_: 62.7% (2017 est.)<br>
 _imports of goods and services_: -56.9% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 63.7 (2020)<br>
-_Starting a Business score_: 89.4 (2020)<br>
-_Trading score_: 73.9 (2020)<br>
-_Enforcement score_: 59.7 (2020)<br>
 
 **Agricultural products**<br>
 bananas, coconuts, fruit, tropical fruit, plantains, roots/tubers nes, cassava, poultry, vegetables, mangoes/guavas<br>
@@ -432,15 +421,15 @@ _highest 10%_: NA<br>
 _revenues_: 398.2 million (2017 est.)<br>
 _expenditures_: 392.8 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-23.6% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 0.3% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 70.7% of GDP (2017 est.)<br>
 69.2% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+23.6% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 April - 31 March<br>
@@ -597,9 +586,9 @@ J6<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 1,210 km (2011)<br>
@@ -615,7 +604,7 @@ _major seaport(s)_: Castries, Cul-de-Sac, Vieux-Fort<br>
 no regular military forces; Royal Saint Lucia Police Force (includes Special Service Unit, Marine Unit) (2021)<br>
 
 **Military - note**<br>
-St. Lucia is a member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region<br>
+<p>St. Lucia has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

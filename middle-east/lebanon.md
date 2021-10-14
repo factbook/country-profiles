@@ -186,7 +186,7 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 <100 (2020 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 April 2021, Lebanon has reported a total of 480,502 cases of COVID-19 or 7,039.86 cumulative cases of COVID-19 per 100,000 population with 94.4 cumulative deaths per 100,000 population; as of 10 April 2021, 2.5% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 October 2021, Lebanon has reported a total of 626,926 cases of COVID-19 or 9,185.13 cumulative cases of COVID-19 per 100,000 population with 122.54 cumulative deaths per 100,000 population; as of 6 October 2021, 24.21% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 32% (2016)<br>
@@ -195,7 +195,7 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-2.5% of GDP (2013)<br>
+2.6% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -257,7 +257,7 @@ _urban population_: 89.1% of total population (2021)<br>
 _rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 April 2021, Lebanon has reported a total of 480,502 cases of COVID-19 or 7,039.86 cumulative cases of COVID-19 per 100,000 population with 94.4 cumulative deaths per 100,000 population; as of 10 April 2021, 2.5% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 October 2021, Lebanon has reported a total of 626,926 cases of COVID-19 or 9,185.13 cumulative cases of COVID-19 per 100,000 population with 122.54 cumulative deaths per 100,000 population; as of 6 October 2021, 24.21% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _exceptional shortfall in aggregate food production/supplies_: <p>due to the ongoing financial and economic crisis - in August 2020, the UN Economic and Social Commission for Western Asia estimated that more than 55% of the population lived in poverty, up from 28% in 2019; current figures are likely to be higher due to a fall in households' purchasing power; the already worrisome economic conditions, with increasing unemployment, poverty, and skyrocketing inflation rates, have further worsened due to the COVID‑19 pandemic and the measures introduced to contain the spread of the disease</p> (2021)<br>
@@ -619,15 +619,15 @@ OD<br>
 _total_: 8 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2019)<br>
+_total_: 5<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 3<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>
@@ -672,11 +672,11 @@ the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 
 **Military equipment inventories and acquisitions**<br>
 the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2019 est.)<br>
 
-**Military - note**<br>
-the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 military personnel deployed in the country as of December 2020<br>
-
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service (including women); no conscription (2019)<br>
+
+**Military - note**<br>
+<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war- torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of September 2021<br>
 
 ## Terrorism
 

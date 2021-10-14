@@ -68,6 +68,12 @@ the north coast of South Georgia has several large bays, which provide good anch
 no indigenous inhabitants (July 2021 est.)<br>
 <strong>note:</strong> the small military garrison on South Georgia withdrew in March 2001, replaced by a permanent group of scientists of the British Antarctic Survey, which also has a biological station on Bird Island; the South Sandwich Islands are uninhabited<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Birth rate**<br>
 NA<br>
 
@@ -80,10 +86,27 @@ NA (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
+**HIV/AIDS - adult prevalence rate**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
+NA<br>
+
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment

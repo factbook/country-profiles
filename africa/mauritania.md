@@ -208,7 +208,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 19.2% (2018)<br>
 
 **Education expenditures**<br>
-1.9% of GDP (2019)<br>
+1.9% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -632,15 +632,15 @@ _annual passenger traffic on registered air carriers_: 454,435 (2018)<br>
 _total_: 30 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
+_total_: 9<br>
+_2,438 to 3,047 m_: 5<br>
 _1,524 to 2,437 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 10 (2013)<br>
-_914 to 1,523 m_: 8 (2013)<br>
+_total_: 21<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 10<br>
+_914 to 1,523 m_: 8<br>
 _under 914 m_: 2 (2013)<br>
 
 **Railways**<br>
@@ -683,11 +683,11 @@ the Mauritanian Armed Forces' inventory is limited and made up largely of older 
 **Military deployments**<br>
 450 Central African Republic (MINUSCA) (Jan 2021)<br>
 
-**Military - note**<br>
-since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2020)<br>
-
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2020)<br>
 
 ## Terrorism
 

@@ -608,15 +608,15 @@ E3<br>
 _total_: 13 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2019)<br>
+_total_: 4<br>
 _over 3,047 m_: 2<br>
-_2,438 to 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 9 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 5 (2013)<br>
+_total_: 9<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 5<br>
 _914 to 1,523 m_: 2 (2013)<br>
 
 **Heliports**<br>
@@ -658,6 +658,9 @@ the Eritrean Defense Forces inventory is comprised primarily of older Russian an
 
 **Military service age and obligation**<br>
 18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service reportedly is often extended indefinitely (2020)<br>
+
+**Military - note**<br>
+<p>in 2020-2021, the Eritrean military assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; information is limited and varied, but the Eritrean military in 2021 reportedly consisted of about 20 Army divisions (approximately 15 light infantry, 4 mechanized, and 1 commando/special operations) while the Air Force had 2 fighter/ground attack squadrons</p><br>
 
 ## Transnational Issues
 

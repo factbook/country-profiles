@@ -70,6 +70,9 @@ damaging earthquakes occur in Hindu Kush mountains; flooding; droughts<br>
 **Geography - note**<br>
 landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage<em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -211,7 +214,7 @@ _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 19.1% (2018)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2017)<br>
+3.2% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -282,6 +285,9 @@ _severe localized food insecurity_: due to civil conflict, population displaceme
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage<em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## Government
 
@@ -634,19 +640,19 @@ YA<br>
 _total_: 46 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 29 (2020)<br>
+_total_: 29<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 12<br>
 _914 to 1,523 m_: 2<br>
-_under 914 m_: 3<br>
+_under 914 m_: 3 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17 (2020)<br>
+_total_: 17<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 5<br>
+_under 914 m_: 5 (2020)<br>
 
 **Heliports**<br>
 1 (2020)<br>
@@ -685,6 +691,9 @@ prior to August 2021, the Afghan military inventory was mostly a mix of Soviet-e
 
 **Military service age and obligation**<br>
 not available<br>
+
+**Military - note**<br>
+<p>during the fighting with the Afghan Government, the Taliban’s military operations and strategy were directed by a leadership council (Rahbari Shura) led by HAIBATULLAH Akhundzada; Taliban forces were a decentralized guerrilla and militia force of approximately 60-80,000 full-time fighters loosely organized as battalions and brigades with at least one corps headquarters; as of September 2021, the Taliban was still forming an official military structure, although it reportedly had a special forces unit</p> <p> </p><br>
 
 ## Terrorism
 

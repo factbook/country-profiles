@@ -188,7 +188,7 @@ _unimproved: total_: total: 6.3% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2017)<br>
+3.6% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -580,9 +580,9 @@ J3<br>
 _total_: 3 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 3<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2017)<br>
 
 **Roadways**<br>
@@ -603,7 +603,7 @@ _major seaport(s)_: Saint George's<br>
 no regular military forces; the Royal Grenada Police Force includes a Coast Guard and a paramilitary Special Services Unit (2021)<br>
 
 **Military - note**<br>
-Grenada is a member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region<br>
+<p>Grenada joined the Caribbean Regional Security System (RSS) in 1985; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

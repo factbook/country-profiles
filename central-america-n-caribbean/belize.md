@@ -203,7 +203,7 @@ _unimproved: total_: total: 3.1% of population (2017 est.)<br>
 4.6% (2015/16)<br>
 
 **Education expenditures**<br>
-7.6% of GDP (2018)<br>
+7.9% of GDP (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -608,15 +608,15 @@ V3<br>
 _total_: 47 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 6 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 6<br>
+_2,438 to 3,047 m_: 1<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 41 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_914 to 1,523 m_: 11 (2013)<br>
+_total_: 41<br>
+_2,438 to 3,047 m_: 1<br>
+_914 to 1,523 m_: 11<br>
 _under 914 m_: 29 (2013)<br>
 
 **Roadways**<br>
@@ -653,7 +653,7 @@ the Belize Defense Force (BDF) has approximately 1,300 active personnel; approxi
 the BDF's inventory is limited and consists mostly of UK- and US-origin equipment (2020)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2012)<br>
+18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2019)<br>
 
 ## Transnational Issues
 

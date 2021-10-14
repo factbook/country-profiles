@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The adoption of Islam in the 14th century saw the rise of a number of powerful sultanates on the Malay Peninsula and island of Borneo. The Portuguese in the 16th century and the Dutch in the 17th century were the first European colonial powers to establish themselves on the Malay Peninsula and Southeast Asia. However, it was the British who ultimately secured their hegemony across the territory and during the late 18th and 19th centuries established colonies and protectorates in the area that is now Malaysia. These holdings were occupied by Japan from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula except Singapore formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. The first several years of the country's independence were marred by a communist insurgency, Indonesian confrontation with Malaysia, Philippine claims to Sabah, and Singapore's withdrawal in 1965. During the 22-year term of Prime Minister MAHATHIR Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Prime Minister MAHATHIR and a newly-formed coalition of opposition parties defeated Prime Minister Mohamed NAJIB bin Abdul Razak's United Malays National Organization (UMNO) in May 2018, ending over 60 years of uninterrupted rule by UMNO. MAHATHIR resigned in February 2020 amid a political dispute. King ABDULLAH then selected Tan Sri MUHYIDDIN Yassin as the new prime minister.</p><br>
+<p>Malaysia’s location has long made it an important cultural, economic, historical, social, and trade link between the islands of Southeast Asia and the mainland. Through the Strait of Malacca, which separates the Malay Peninsula from the archipelago, flowed maritime trade and with it influences from China, India, the Middle East, and the east coast of Africa. Prior to the 14th century, several powerful maritime empires existed in what is modern-day Malaysia, including the Srivijayan, which controlled much of the southern part of the peninsula between the 7th and 13th centuries, and the Majapahit Empire, which took control over most of the peninsula and the Malay Archipelago between the 13th and 14th centuries. The adoption of Islam between the 13th and 17th centuries also saw the rise of a number of powerful maritime states and sultanates on the Malay Peninsula and the island of Borneo, such as the port city of Malacca (Melaka), which at its height in the 15th century had a navy and hosted thousands of Chinese, Arab, Persian, and Indian merchants.<br><br>The Portuguese in the 16th century and the Dutch in the 17th century were the first European colonial powers to establish themselves on the Malay Peninsula and Southeast Asia. However, it was the British who ultimately secured their hegemony across the territory and during the late 18th and 19th centuries established colonies and protectorates in the area that is now Malaysia. These holdings were occupied by Japan from 1942 to 1945. In 1948, the British-ruled territories on the Malay Peninsula except Singapore formed the Federation of Malaya, which became independent in 1957. Malaysia was formed in 1963 when the former British colonies of Singapore, as well as Sabah and Sarawak on the northern coast of Borneo, joined the Federation. The first several years of the country's independence were marred by a communist insurgency, Indonesian confrontation with Malaysia, Philippine claims to Sabah, and Singapore's expulsion in 1965. During the 22-year term of Prime Minister MAHATHIR Mohamad (1981-2003), Malaysia was successful in diversifying its economy from dependence on exports of raw materials to the development of manufacturing, services, and tourism. Prime Minister MAHATHIR and a newly-formed coalition of opposition parties defeated Prime Minister Mohamed NAJIB bin Abdul Razak's United Malays National Organization (UMNO) in May 2018, ending over 60 years of uninterrupted rule by UMNO. MAHATHIR resigned in February 2020 amid a political dispute. King ABDULLAH then selected Tan Sri MUHYIDDIN Yassin as the new prime minister.</p><br>
 
 ## Geography
 
@@ -637,16 +637,16 @@ _annual freight traffic on registered air carriers_: 1,404,410,000 mt-km (2018)<
 _total_: 114 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 39 (2017)<br>
-_over 3,047 m_: 8 (2017)<br>
-_2,438 to 3,047 m_: 8 (2017)<br>
-_1,524 to 2,437 m_: 7 (2017)<br>
-_914 to 1,523 m_: 8 (2017)<br>
+_total_: 39<br>
+_over 3,047 m_: 8<br>
+_2,438 to 3,047 m_: 8<br>
+_1,524 to 2,437 m_: 7<br>
+_914 to 1,523 m_: 8<br>
 _under 914 m_: 8 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 75 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 75<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 69 (2013)<br>
 
 **Heliports**<br>

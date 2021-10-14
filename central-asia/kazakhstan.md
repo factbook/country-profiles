@@ -10,7 +10,7 @@ _Central Asia / Countries_
 ## Geography
 
 **Location**<br>
-Central Asia, northwest of China; a small portion west of the Ural (Zhayyq) River in easternmost Europe<br>
+Central Asia, northwest of China; a small portion west of the Ural (Oral) River in easternmost Europe<br>
 
 **Geographic coordinates**<br>
 48 00 N, 68 00 E<br>
@@ -43,8 +43,8 @@ continental, cold winters and hot summers, arid and semiarid<br>
 vast flat steppe extending from the Volga in the west to the Altai Mountains in the east and from the plains of western Siberia in the north to oases and deserts of Central Asia in the south<br>
 
 **Elevation**<br>
-_highest point_: Khan Tangiri Shyngy (Pik Khan-Tengri) 6,995 m<br>
-_lowest point_: Vpadina Kaundy -132 m<br>
+_highest point_: Pik Khan-Tengri 6,995 m<br>
+_lowest point_: Qauyndy Oyysy -132 m<br>
 _mean elevation_: 387 m<br>
 
 **Natural resources**<br>
@@ -68,7 +68,10 @@ most of the country displays a low population density, particularly the interior
 earthquakes in the south; mudslides around Almaty<br>
 
 **Geography - note**<br>
-world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baykonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050<br>
+world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050<br>
+
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## People and Society
 
@@ -202,7 +205,7 @@ _unimproved: total_: total: 0.1% of population (2017 est.)<br>
 2% (2015)<br>
 
 **Education expenditures**<br>
-2.6% of GDP (2018)<br>
+2.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -267,6 +270,9 @@ _rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## Government
 
@@ -623,19 +629,19 @@ UP<br>
 _total_: 96 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 63 (2017)<br>
-_over 3,047 m_: 10 (2017)<br>
-_2,438 to 3,047 m_: 25 (2017)<br>
-_1,524 to 2,437 m_: 15 (2017)<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_total_: 63<br>
+_over 3,047 m_: 10<br>
+_2,438 to 3,047 m_: 25<br>
+_1,524 to 2,437 m_: 15<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 8 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 33 (2013)<br>
-_over 3,047 m_: 5 (2013)<br>
-_2,438 to 3,047 m_: 7 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 33<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 13 (2013)<br>
 
 **Heliports**<br>
@@ -684,10 +690,12 @@ the Kazakh military's inventory is comprised of mostly older Russian and Soviet-
 
 **Military deployments**<br>
 120 Lebanon (UNIFIL) (Jan 2021)<br>
-Note: Kazakhstan contributes forces to CSTO's Rapid Reaction Force<br>
 
 **Military service age and obligation**<br>
 All men 18-27 are required to serve in the military for at least one year. (2019)<br>
+
+**Military - note**<br>
+Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>
 
 ## Transnational Issues
 

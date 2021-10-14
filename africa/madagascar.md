@@ -214,7 +214,7 @@ _animal contact diseases_: rabies<br>
 26.4% (2018)<br>
 
 **Education expenditures**<br>
-2.8% of GDP (2018)<br>
+2.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -390,24 +390,16 @@ _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
 **Economic overview**<br>
 <p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p><p></p><p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p><p></p><p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
 
-**Real GDP growth rate**<br>
-4.2% (2017 est.)<br>
-4.2% (2016 est.)<br>
-3.1% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-5.6% (2019 est.)<br>
-8.6% (2018 est.)<br>
-8.5% (2017 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $44.419 billion (2019 est.)<br>
 $42.363 billion (2018 est.)<br>
 $40.514 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$13.964 billion (2019 est.)<br>
+**Real GDP growth rate**<br>
+4.2% (2017 est.)<br>
+4.2% (2016 est.)<br>
+3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $1,647 (2019 est.)<br>
@@ -415,10 +407,13 @@ $1,613 (2018 est.)<br>
 $1,584 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
-**Gross national saving**<br>
-18.2% of GDP (2018 est.)<br>
-15.1% of GDP (2017 est.)<br>
-11.2% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$13.964 billion (2019 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+5.6% (2019 est.)<br>
+8.6% (2018 est.)<br>
+8.5% (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 24% (2017 est.)<br>
@@ -432,12 +427,6 @@ _investment in fixed capital_: 15.1% (2017 est.)<br>
 _investment in inventories_: 8.8% (2017 est.)<br>
 _exports of goods and services_: 31.5% (2017 est.)<br>
 _imports of goods and services_: -33.7% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 47.7 (2020)<br>
-_Starting a Business score_: 88.5 (2020)<br>
-_Trading score_: 61 (2020)<br>
-_Enforcement score_: 50 (2020)<br>
 
 **Agricultural products**<br>
 rice, sugar cane, cassava, sweet potatoes, milk, vegetables, bananas, mangoes/guavas, tropical fruit, potatoes<br>
@@ -470,15 +459,15 @@ _highest 10%_: 34.7% (2010 est.)<br>
 _revenues_: 1.828 billion (2017 est.)<br>
 _expenditures_: 2.136 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-15.9% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 36% of GDP (2017 est.)<br>
 38.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+15.9% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -643,17 +632,17 @@ _annual freight traffic on registered air carriers_: 16.25 million mt-km (2018)<
 _total_: 83 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
-_914 to 1,523 m_: 16 (2017)<br>
+_total_: 26<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 16<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 57 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 38 (2013)<br>
+_total_: 57<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 38<br>
 _under 914 m_: 18 (2013)<br>
 
 **Railways**<br>

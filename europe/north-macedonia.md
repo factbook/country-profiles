@@ -70,6 +70,9 @@ high seismic risks<br>
 **Geography - note**<br>
 landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -268,6 +271,9 @@ _municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 1,434 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 0.2% (2013 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## Government
 
 **Country name**<br>
@@ -371,10 +377,25 @@ _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 **Economic overview**<br>
 <p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$34.333 billion (2019 est.)<br>
+$33.268 billion (2018 est.)<br>
+$32.331 billion (2017 est.)<br>
+<strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
+
 **Real GDP growth rate**<br>
 0% (2017 est.)<br>
 2.9% (2016 est.)<br>
 3.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$16,479 (2019 est.)<br>
+$15,972 (2018 est.)<br>
+$15,529 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$12.696 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.7% (2019 est.)<br>
@@ -384,26 +405,6 @@ _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 **Credit ratings**<br>
 _Fitch rating_: BB+ (2019)<br>
 _Standard & Poors rating_: BB- (2013)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$34.333 billion (2019 est.)<br>
-$33.268 billion (2018 est.)<br>
-$32.331 billion (2017 est.)<br>
-<strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
-
-**GDP (official exchange rate)**<br>
-$12.696 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$16,479 (2019 est.)<br>
-$15,972 (2018 est.)<br>
-$15,529 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-31.4% of GDP (2019 est.)<br>
-32.4% of GDP (2018 est.)<br>
-31.6% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 10.9% (2017 est.)<br>
@@ -417,12 +418,6 @@ _investment in fixed capital_: 13.6% (2017 est.)<br>
 _investment in inventories_: 20.2% (2017 est.)<br>
 _exports of goods and services_: 54% (2017 est.)<br>
 _imports of goods and services_: -69% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 80.7 (2020)<br>
-_Starting a Business score_: 88.6 (2020)<br>
-_Trading score_: 93.9 (2020)<br>
-_Enforcement score_: 66 (2020)<br>
 
 **Agricultural products**<br>
 milk, grapes, wheat, potatoes, green chillies/peppers, cabbages, tomatoes, maize, barley, watermelons<br>
@@ -460,9 +455,6 @@ _highest 10%_: 25% (2015 est.)<br>
 _revenues_: 3.295 billion (2017 est.)<br>
 _expenditures_: 3.605 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-29% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -2.7% (of GDP) (2017 est.)<br>
 
@@ -470,6 +462,9 @@ _expenditures_: 3.605 billion (2017 est.)<br>
 39.3% of GDP (2017 est.)<br>
 39.5% of GDP (2016 est.)<br>
 <strong>note:</strong> official data from Ministry of Finance; data cover central government debt; this data excludes debt instruments issued (or owned) by government entities other than the treasury; includes treasury debt held by foreign entitites; excludes debt issued by sub-national entities; there are no debt instruments sold for social funds<br>
+
+**Taxes and other revenues**<br>
+29% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -624,13 +619,13 @@ Z3<br>
 _total_: 10 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 8 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
+_total_: 8<br>
+_2,438 to 3,047 m_: 2<br>
 _under 914 m_: 6 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_914 to 1,523 m_: 1 (2013)<br>
+_total_: 2<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Pipelines**<br>
@@ -664,11 +659,11 @@ the Army of the Republic of North Macedonia (ARSM) has approximately 7,000 activ
 **Military equipment inventories and acquisitions**<br>
 the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2020)<br>
 
-**Military - note**<br>
-North Macedonia officially became the 30th member of NATO in 2020<br>
-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished in 2007 (2019)<br>
+
+**Military - note**<br>
+North Macedonia officially became the 30th member of NATO in 2020<br>
 
 ## Terrorism
 
@@ -683,7 +678,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 519,001 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:</strong> 520,750 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

@@ -72,6 +72,9 @@ flash flood threat during rainy seasons<br>
 **Geography - note**<br>
 the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -212,7 +215,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 8.2% (2014)<br>
 
 **Education expenditures**<br>
-5.5% of GDP (2018)<br>
+4.5% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has ever attended school<br>
@@ -282,6 +285,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 179,252 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 968 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 ## Government
 
@@ -621,15 +627,15 @@ _subscriptions per 100 inhabitants_: 9 (2017 est.)<br>
 _total_: 117 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_total_: 11<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 8 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 106 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 16 (2013)<br>
+_total_: 106<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 16<br>
 _under 914 m_: 89 (2013)<br>
 
 **Roadways**<br>

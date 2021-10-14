@@ -214,7 +214,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 16.8% (2017/18)<br>
 
 **Education expenditures**<br>
-2.9% of GDP (2018)<br>
+3% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -634,13 +634,13 @@ TY<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2017)<br>
+_total_: 1<br>
 _1,524 to 2,437 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 5<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 2 (2013)<br>
 
 **Pipelines**<br>
@@ -690,11 +690,11 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.”</p><br>
 
-**Military - note**<br>
-Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2020)<br>
-
 **Military service age and obligation**<br>
 18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)<br>
+
+**Military - note**<br>
+Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2020)<br>
 
 ## Terrorism
 

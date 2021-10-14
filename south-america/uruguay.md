@@ -73,6 +73,9 @@ seasonally high winds (the pampero is a chilly and occasional violent wind that 
 **Geography - note**<br>
 second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising<br>
 
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
 ## People and Society
 
 **Population**<br>
@@ -206,7 +209,7 @@ _unimproved: total_: total: 2.1% of population (2017 est.)<br>
 1.8% (2018)<br>
 
 **Education expenditures**<br>
-5% of GDP (2018)<br>
+4.7% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,6 +274,9 @@ _rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 100,811 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
 
 ## Government
 
@@ -622,16 +628,16 @@ CX<br>
 _total_: 133 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 11<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 2 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 122 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 40 (2013)<br>
+_total_: 122<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 40<br>
 _under 914 m_: 79 (2013)<br>
 
 **Pipelines**<br>

@@ -78,6 +78,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Birth rate**<br>
 NA<br>
 
@@ -87,10 +93,27 @@ NA<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
+**HIV/AIDS - adult prevalence rate**<br>
+NA<br>
+
+**HIV/AIDS - deaths**<br>
+NA<br>
+
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment
@@ -137,7 +160,7 @@ a coastal radio station has been remotely operated since 1994<br>
 _total_: 1 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2013)<br>
+_total_: 1<br>
 _1,524 to 2,437 m_: 1 (2013)<br>
 
 **Ports and terminals**<br>

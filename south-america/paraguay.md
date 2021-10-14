@@ -210,7 +210,7 @@ _vectorborne diseases_: dengue fever<br>
 1.3% (2016)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2016)<br>
+3.5% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -629,15 +629,15 @@ ZP<br>
 _total_: 799 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 15 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 7 (2017)<br>
+_total_: 15<br>
+_over 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 7<br>
 _914 to 1,523 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 784 (2013)<br>
-_1,524 to 2,437 m_: 23 (2013)<br>
-_914 to 1,523 m_: 290 (2013)<br>
+_total_: 784<br>
+_1,524 to 2,437 m_: 23<br>
+_914 to 1,523 m_: 290<br>
 _under 914 m_: 471 (2013)<br>
 
 **Railways**<br>
@@ -678,11 +678,11 @@ the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 A
 **Military equipment inventories and acquisitions**<br>
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from Argentina, Brazil, Israel, Taiwan, and the US (2020)<br>
 
-**Military - note**<br>
-as of late 2020, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country<br>
-
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2016)<br>
+
+**Military - note**<br>
+as of late 2020, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country<br>
 
 ## Transnational Issues
 

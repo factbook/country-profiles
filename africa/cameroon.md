@@ -71,6 +71,12 @@ population concentrated in the west and north, with the interior of the country 
 **Geography - note**<br>
 sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -215,7 +221,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 11% (2018/19)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2018)<br>
+3.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -291,6 +297,12 @@ _severe localized food insecurity_: due to civil insecurity and population displ
 _municipal solid waste generated annually_: 3,270,617 tons (2013 est.)<br>
 _municipal solid waste recycled annually_: 13,082 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin<br>
 
 ## Government
 
@@ -644,16 +656,16 @@ TJ<br>
 _total_: 33 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 11 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 5 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_total_: 11<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 22 (2013)<br>
-_1,524 to 2,437 m_: 4 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 22<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 8 (2013)<br>
 
 **Pipelines**<br>
@@ -685,7 +697,7 @@ Garoua (Benoue)<br>
 
 **Military and security forces**<br>
 Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide, BIR), Gendarmerie, Presidential Guard (2021)<br>
-note - the Rapid Intervention Battalion, a brigade-sized force comprised of several high-readiness land units, maintains its own command and control structure and reports directly to the President, rather than the Defense Minister<br>
+note - the Rapid Intervention Battalion (RIB) is a large brigade-sized force comprised of approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism); the RIB maintains its own command and control structure and reports directly to the president, rather than the defense minister<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
@@ -707,11 +719,11 @@ note: Cameroon has committed approximately 2,000-2,500 troops to the Multination
 **Maritime threats**<br>
 tthe International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>
 
-**Military - note**<br>
-the FAC is largely focused on the threat from the terror group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of Feb 2021, this internal conflict has left an estimated 3,000 civilians dead and over 700,000 people displaced since fighting started in 2016); in addition, the FAC often deploys units to the border region with the Central African Republic to counter intrusions from armed militias and bandits<br>
-
 **Military service age and obligation**<br>
 18-23 years of age for male and female voluntary military service; no conscription; high school graduation required; service obligation 4 years; periodic government calls for volunteers (2019)<br>
+
+**Military - note**<br>
+the FAC is largely focused on the threat from the terror group Boko Haram along its frontiers with Nigeria and Chad (Far North region) and an insurgency from armed Anglophone separatist groups in the North-West and South-West regions (as of Feb 2021, this internal conflict has left an estimated 3,000 civilians dead and over 700,000 people displaced since fighting started in 2016); in addition, the FAC often deploys units to the border region with the Central African Republic to counter intrusions from armed militias and bandits<br>
 
 ## Terrorism
 
@@ -725,7 +737,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 331,287 (Central African Republic), 118,693 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 332,594 (Central African Republic), 118,728 (Nigeria) (2021)<br>
 _IDPs_: 1,052,591 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

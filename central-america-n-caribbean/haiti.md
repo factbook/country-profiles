@@ -212,7 +212,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 9.5% (2016/17)<br>
 
 **Education expenditures**<br>
-2.8% of GDP (2018)<br>
+1.7% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -377,23 +377,16 @@ _lyrics/music_: Justin LHERISSON/Nicolas GEFFRARD<br>
 **Economic overview**<br>
 <p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p><p></p><p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p><p></p><p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p><p></p><p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
 
-**Real GDP growth rate**<br>
-1.2% (2017 est.)<br>
-1.5% (2016 est.)<br>
-1.2% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-14.7% (2017 est.)<br>
-13.4% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $32.724 billion (2019 est.)<br>
 $33.284 billion (2018 est.)<br>
 $32.738 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$8.608 billion (2017 est.)<br>
+**Real GDP growth rate**<br>
+1.2% (2017 est.)<br>
+1.5% (2016 est.)<br>
+1.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,905 (2019 est.)<br>
@@ -401,10 +394,12 @@ $2,992 (2018 est.)<br>
 $2,981 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-12% of GDP (2018 est.)<br>
-10.9% of GDP (2017 est.)<br>
-29.3% of GDP (2015 est.)<br>
+**GDP (official exchange rate)**<br>
+$8.608 billion (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+14.7% (2017 est.)<br>
+13.4% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 22.1% (2017 est.)<br>
@@ -419,12 +414,6 @@ _investment in inventories_: -1.4% (2017 est.)<br>
 _exports of goods and services_: 20% (2017 est.)<br>
 _imports of goods and services_: -60.3% (2017 est.)<br>
 <strong>note:</strong> figure for household consumption also includes government consumption<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 40.7 (2020)<br>
-_Starting a Business score_: 36.4 (2020)<br>
-_Trading score_: 76.9 (2020)<br>
-_Enforcement score_: 51.6 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, cassava, mangoes/guavas, plantains, bananas, yams, avocados, maize, rice, vegetables<br>
@@ -463,15 +452,15 @@ _highest 10%_: 47.7% (2001)<br>
 _revenues_: 1.567 billion (2017 est.)<br>
 _expenditures_: 1.65 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-18.2% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 31.1% of GDP (2017 est.)<br>
 33.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+18.2% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 1 October - 30 September<br>
@@ -632,13 +621,13 @@ HH<br>
 _total_: 14 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2019)<br>
+_total_: 4<br>
 _2,438 to 3,047 m_: 2<br>
-_914 to 1,523 m_: 2<br>
+_914 to 1,523 m_: 2 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 10 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 10<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 8 (2013)<br>
 
 **Roadways**<br>
@@ -663,6 +652,9 @@ the FAdH has approximately 500 troops (the force is planned to eventually have a
 
 **Military equipment inventories and acquisitions**<br>
 not available<br>
+
+**Military - note**<br>
+<p>according to the Haitian Government, the mission of the reconstituted armed forces will focus on patrolling the border with the Dominican Republic, combating smuggling, and executing recovery efforts after natural disasters</p> <p>the UN Stabilization Mission in Haiti (MINUSTAH) operated in Haiti from 2004 until 2017; its mission was to help restore stability after President Bertrand ARISTIDE fled the country, including assisting with the political process, strengthening government institutions, and promoting and protecting human rights; following the completion of MINUSTAH’s mandate in 2017, a smaller peacekeeping mission, the UN Mission for Justice Support in Haiti (MINUJUSTH), operated until 2019; its mission was to assist with the further development and strengthening of the national police, as well as Haiti’s justice and prison systems, and to promote and protect human rights; in 2019, the UN established the UN Integrated Office in Haiti (BINUH) with the political mission of advising the Haiti Government in elections, governance, and security; as of 2021, BINUH continued to operate</p><br>
 
 ## Transnational Issues
 

@@ -155,6 +155,14 @@ _female_: 84.14 years (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
@@ -547,16 +555,16 @@ B<br>
 _total_: 37 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 35 (2013)<br>
-_over 3,047 m_: 8 (2013)<br>
-_2,438 to 3,047 m_: 7 (2013)<br>
-_1,524 to 2,437 m_: 10 (2013)<br>
-_914 to 1,523 m_: 8 (2013)<br>
+_total_: 35<br>
+_over 3,047 m_: 8<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 10<br>
+_914 to 1,523 m_: 8<br>
 _under 914 m_: 2 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 2<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>
@@ -603,10 +611,13 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; Taiwan also has a domestic defense industry capable of upgrading some weapons systems and building surface naval craft and submarines (2020)<br>
+the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)<br>
 
 **Military service age and obligation**<br>
 starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2019)<br>
+
+**Military - note**<br>
+<p>the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan</p><br>
 
 ## Transnational Issues
 

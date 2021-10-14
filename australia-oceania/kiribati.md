@@ -199,7 +199,7 @@ _vectorborne diseases_: malaria<br>
 6.9% (2018/19)<br>
 
 **Education expenditures**<br>
-NA<br>
+12.4% of GDP NA (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -356,23 +356,16 @@ _lyrics/music_: Urium Tamuera IOTEBA<br>
 **Economic overview**<br>
 <p>A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.</p><p></p><p>Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.</p><p></p><p>Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.</p><br>
 
-**Real GDP growth rate**<br>
-3.1% (2017 est.)<br>
-1.1% (2016 est.)<br>
-10.3% (2015 est.)<br>
-
-**Inflation rate (consumer prices)**<br>
-0.4% (2017 est.)<br>
-1.9% (2016 est.)<br>
-
 **Real GDP (purchasing power parity)**<br>
 $267 million (2019 est.)<br>
 $261 million (2018 est.)<br>
 $255 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**GDP (official exchange rate)**<br>
-$197 million (2017 est.)<br>
+**Real GDP growth rate**<br>
+3.1% (2017 est.)<br>
+1.1% (2016 est.)<br>
+10.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
 $2,272 (2019 est.)<br>
@@ -380,20 +373,17 @@ $2,256 (2018 est.)<br>
 $2,237 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
-**Gross national saving**<br>
-64.1% of GDP (2018 est.)<br>
-68.4% of GDP (2017 est.)<br>
+**GDP (official exchange rate)**<br>
+$197 million (2017 est.)<br>
+
+**Inflation rate (consumer prices)**<br>
+0.4% (2017 est.)<br>
+1.9% (2016 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 23% (2016 est.)<br>
 _industry_: 7% (2016 est.)<br>
 _services_: 70% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 46.9 (2020)<br>
-_Starting a Business score_: 78.4 (2020)<br>
-_Trading score_: 62.1 (2020)<br>
-_Enforcement score_: 53.4 (2020)<br>
 
 **Agricultural products**<br>
 coconuts, roots/tubers nes, bananas, vegetables, taro, tropical fruit, poultry, pork, nuts, eggs<br>
@@ -428,15 +418,15 @@ _highest 10%_: NA<br>
 _revenues_: 151.2 million (2017 est.)<br>
 _expenditures_: 277.5 million (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-76.8% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -64.1% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 26.3% of GDP (2017 est.)<br>
 22.9% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+76.8% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 NA<br>
@@ -597,12 +587,12 @@ T3<br>
 _total_: 19 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2017)<br>
+_total_: 4<br>
 _1,524 to 2,437 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 15 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 15<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 5 (2013)<br>
 
 **Roadways**<br>

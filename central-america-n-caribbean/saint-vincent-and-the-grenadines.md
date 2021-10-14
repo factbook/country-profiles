@@ -574,13 +574,13 @@ J8<br>
 _total_: 6 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
-_914 to 1,523 m_: 3 (2017)<br>
+_total_: 5<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2013)<br>
+_total_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Merchant marine**<br>
@@ -596,7 +596,7 @@ _major seaport(s)_: Kingstown<br>
 no regular military forces; the Special Services Unit (SSU) is the paramilitary arm of the Royal Saint Vincent and the Grenadines Police Force (RSVPF) (2021)<br>
 
 **Military - note**<br>
-a member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region<br>
+<p>the country has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Dominica, Grenada, Saint Kitts, and Saint Lucia) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

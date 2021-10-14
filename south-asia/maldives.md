@@ -203,7 +203,7 @@ NA<br>
 14.8% (2016/17)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2016)<br>
+4.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -357,10 +357,25 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 **Economic overview**<br>
 <p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p><p></p><p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p><p></p><p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$10.37 billion (2019 est.)<br>
+$9.692 billion (2018 est.)<br>
+$8.964 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
 **Real GDP growth rate**<br>
 4.8% (2017 est.)<br>
 4.5% (2016 est.)<br>
 2.2% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$19,531 (2019 est.)<br>
+$18,796 (2018 est.)<br>
+$18,058 (2017 est.)<br>
+<strong>note:</strong> data are in 2017 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$4.505 billion (2017 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 2.3% (2017 est.)<br>
@@ -369,26 +384,6 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 **Credit ratings**<br>
 _Fitch rating_: CCC (2020)<br>
 _Moody's rating_: B3 (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$10.37 billion (2019 est.)<br>
-$9.692 billion (2018 est.)<br>
-$8.964 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$4.505 billion (2017 est.)<br>
-
-**Real GDP per capita**<br>
-$19,531 (2019 est.)<br>
-$18,796 (2018 est.)<br>
-$18,058 (2017 est.)<br>
-<strong>note:</strong> data are in 2017 dollars<br>
-
-**Gross national saving**<br>
-18.4% of GDP (2019 est.)<br>
-19.6% of GDP (2018 est.)<br>
-20.5% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 3% (2015 est.)<br>
@@ -402,12 +397,6 @@ _investment in fixed capital_: NA (2016 est.)<br>
 _investment in inventories_: NA (2016 est.)<br>
 _exports of goods and services_: 93.6% (2016 est.)<br>
 _imports of goods and services_: 89% (2016 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 53.3 (2020)<br>
-_Starting a Business score_: 89.2 (2020)<br>
-_Trading score_: 55.9 (2020)<br>
-_Enforcement score_: 52.5 (2020)<br>
 
 **Agricultural products**<br>
 papayas, vegetables, roots/tubers nes, nuts, fruit, other meat, tomatoes, coconuts, bananas, maize<br>
@@ -445,15 +434,15 @@ _highest 10%_: 33.3% (FY09/10)<br>
 _revenues_: 1.19 billion (2016 est.)<br>
 _expenditures_: 1.643 billion (2016 est.)<br>
 
-**Taxes and other revenues**<br>
-26.4% (of GDP) (2016 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -10.1% (of GDP) (2016 est.)<br>
 
 **Public debt**<br>
 63.9% of GDP (2017 est.)<br>
 61.7% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+26.4% (of GDP) (2016 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -611,14 +600,14 @@ _annual freight traffic on registered air carriers_: 7.75 million (2018)<br>
 _total_: 9 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 7<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
+_total_: 2<br>
 _914 to 1,523 m_: 2 (2013)<br>
 
 **Roadways**<br>
@@ -637,7 +626,6 @@ _major seaport(s)_: Male<br>
 
 **Military and security forces**<br>
 the Republic of Maldives has no distinct army, navy, or air force but a single security unit called the Maldives National Defence Force (MNDF) comprised of ground forces, an air element, a coastguard, a presidential security division, and a special protection group (2020)<br>
-note: the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone<br>
 
 **Military and security service personnel strengths**<br>
 the Maldives National Defense Force (MNDF) has approximately 2,500 personnel (2019 est.)<br>
@@ -647,6 +635,9 @@ India has provided most of the equipment in the MNDF's inventory (2020)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary service; no conscription; 10th grade or equivalent education required; must not be a member of a political party<br>
+
+**Military - note**<br>
+the MNDF is primarily tasked to reinforce the Maldives Police Service (MPS) and ensure security in the country's exclusive economic zone<br>
 
 ## Terrorism
 

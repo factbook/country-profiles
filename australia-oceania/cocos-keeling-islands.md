@@ -93,6 +93,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 NA (2021 est.)<br>
 
@@ -124,6 +130,14 @@ NA (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 NA<br>
 
@@ -137,6 +151,9 @@ NA<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment
@@ -303,8 +320,8 @@ _international_: international code - 61 8; telephone, telex, and facsimile comm
 _total_: 1 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_2,438 to 3,047 m_: 1<br>
+_total_: 1<br>
+_2,438 to 3,047 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 22 km (2007)<br>

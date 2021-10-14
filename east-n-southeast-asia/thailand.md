@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A unified Thai kingdom was established in the mid-14th century. Known as Siam until 1939, Thailand is the only Southeast Asian country never to have been colonized by a European power. A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Ally faction backed by the King. Following the war, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government.</p> <p>In early May 2014, after months of large-scale anti-government protests in Bangkok beginning in November 2013, YINGLAK was removed from office by the Constitutional Court and in late May 2014 the Royal Thai Army, led by Royal Thai Army Gen. PRAYUT Chan-ocha, staged a coup against the caretaker government. PRAYUT was appointed prime minister in August 2014. PRAYUT also serves as the head of the National Council for Peace and Order (NCPO), a military-affiliated body that oversees the interim government. This body created several interim institutions to promote reform and draft a new constitution, which was passed in a national referendum in August 2016. In late 2017, PRAYUT announced elections would be held by November 2018; he has subsequently suggested they might occur in February 2019. As of mid-December 2018, a previoulsy held ban on campaigning and political activity has been lifted and per parliamentary laws, an election must be held within 150 days. King PHUMIPHON Adunyadet passed away in October 2016 after 70 years on the throne; his only son, WACHIRALONGKON Bodinthrathepphayawarangkun, ascended the throne in December 2016. He signed the new constitution in April 2017. Thailand has also experienced violence associated with the ethno-nationalist insurgency in its southern Malay-Muslim majority provinces. Since January 2004, thousands have been killed and wounded in the insurgency.</p><br>
+<p>Two unified Thai kingdoms emerged in the mid-13th century. The Sukhothai, located in the south-central plains, gained its independence from the Khmer empire to the east. By the late 13th century, Sukhothai’s territory extended into present-day Burma and Laos. Sukhotai lasted until the mid-15th century. The Thai Lan Na kingdom was established in the north with its capital at Chang Mai. Lan Na was conquered by the Burmese in the 16th century. The Ayutthaya kingdom (14th-18th centuries) succeeded the Sukhothai and would become known as the Siamese Kingdom. During the Ayutthaya period, the Thai/Siamese peoples consolidated their hold on what is present-day central and north-central Thailand. Following a military defeat at the hands of the Burmese in 1767, the Siamese Kingdom rose to new heights under the military ruler TAKSIN, who defeated the Burmese occupiers and expanded the kingdom’s territory into modern-day northern Thailand (formerly the Lan Na kingdom), Cambodia, Laos, and the Malay Peninsula. The kingdom fought off additional Burmese invasions and raids in the late 1700s and early 1800s. In the mid-1800s, Western pressure led to Siam signing trade treaties that reduced the country’s sovereignty and independence. In the 1890s and 1900s, the British and French forced the kingdom to cede Cambodian, Laotian, and Malay territories that had been under Siamese control.</p> <p>A bloodless revolution in 1932 led to the establishment of a constitutional monarchy. After the Japanese invaded Thailand in 1941, the government split into a pro-Japan faction and a pro-Ally faction backed by the king. Following the war, Thailand became a US treaty ally in 1954 after sending troops to Korea and later fighting alongside the US in Vietnam. Thailand since 2005 has experienced several rounds of political turmoil including a military coup in 2006 that ousted then Prime Minister THAKSIN Chinnawat, followed by large-scale street protests by competing political factions in 2008, 2009, and 2010. THAKSIN's youngest sister, YINGLAK Chinnawat, in 2011 led the Puea Thai Party to an electoral win and assumed control of the government.</p> <p>In early May 2014, after months of large-scale anti-government protests in Bangkok beginning in November 2013, YINGLAK was removed from office by the Constitutional Court and in late May 2014 the Royal Thai Army, led by Royal Thai Army Gen. PRAYUT Chan-ocha, staged a coup against the caretaker government. PRAYUT was appointed prime minister in August 2014. Since then, the military-affiliated National Council for Peace and Order (NCPO), led by PRAYUT, has ruled the country. This body drafted a new constitution guaranteeing military sway over Thai politics, which was passed in a national referendum in August 2016. The constitution allows the military to select the entire 250-member Senate and requires a joint meeting of the House and Senate to select the prime minister, effectively giving the military a veto over the top executive by controlling 25% of the House. The NCPO has also restricted civil and political rights and suppressed political opponents. King PHUMIPHON Adunyadet passed away in October 2016 after 70 years on the throne; his only son, WACHIRALONGKON Bodinthrathepphayawarangkun (aka King Rama X), ascended the throne in December 2016. He signed the new constitution in April 2017. A long-delayed March 2019 election, disputed and widely viewed as skewed in favor of the party aligned with the military, allowed PRAYUT to continue his premiership. The country experienced large-scale pro-democracy protests in 2020.</p><br>
 
 ## Geography
 
@@ -71,6 +71,9 @@ land subsidence in Bangkok area resulting from the depletion of the water table;
 
 **Geography - note**<br>
 controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 ## People and Society
 
@@ -212,7 +215,7 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 7.7% (2019)<br>
 
 **Education expenditures**<br>
-4.1% of GDP (2013)<br>
+3% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -282,6 +285,9 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 _municipal solid waste generated annually_: 26,853,366 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,128,993 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 ## Government
 
@@ -639,18 +645,18 @@ HS<br>
 _total_: 101 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 63 (2013)<br>
-_over 3,047 m_: 8 (2013)<br>
-_2,438 to 3,047 m_: 12 (2013)<br>
-_1,524 to 2,437 m_: 23 (2013)<br>
-_914 to 1,523 m_: 14 (2013)<br>
+_total_: 63<br>
+_over 3,047 m_: 8<br>
+_2,438 to 3,047 m_: 12<br>
+_1,524 to 2,437 m_: 23<br>
+_914 to 1,523 m_: 14<br>
 _under 914 m_: 6 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 38 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 38<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 26 (2013)<br>
 
 **Heliports**<br>
@@ -701,11 +707,11 @@ the RTARF has a diverse array of foreign-supplied weapons systems, including a l
 **Military deployments**<br>
 275 South Sudan (UNMISS) (Jan 2021)<br>
 
-**Military - note**<br>
-including the most recent in 2014, the military has attempted nearly 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2018, the Thai military has been negotiating with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed about 7,000 lives; as of late 2020, as many as 100,000 military and paramilitary forces were deployed in the south to combat the insurgency<br> <p> </p><br>
-
 **Military service age and obligation**<br>
 21 years of age for compulsory military service; 18 years of age for voluntary military service; males register at 18 years of age; 2-year conscript service obligation based on lottery (2019)<br>
+
+**Military - note**<br>
+including the most recent in 2014, the military has attempted nearly 20 coups since the fall of absolute monarchy in 1932<br><br>since 2004, the military has fought against separatist insurgents in the southern provinces of Pattani, Yala, and Narathiwat, as well as parts of Songkhla; the insurgency is rooted in ethnic Malay nationalist resistance to Thai rule that followed the extension of Siamese sovereignty over the Patani Sultanate in the 18th century; the insurgency consists of several armed groups, the largest of which is the Barisan Revolusi Nasional-Koordinasi (BRN-C): since 2018, the Thai military has been negotiating with an umbrella organization, MARA Pattani, that claims to represent the insurgency groups; since 2004, the fighting has claimed about 7,000 lives; as of late 2020, as many as 100,000 military and paramilitary forces were deployed in the south to combat the insurgency<br> <p>Thailand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Transnational Issues
 

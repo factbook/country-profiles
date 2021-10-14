@@ -70,6 +70,9 @@ avalanches, landslides; flash floods<br>
 **Geography - note**<br>
 landlocked; crossroads of northern and southern Europe; along with southeastern France, northern Italy, and southwestern Austria, has the highest elevations in the Alps<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +207,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-5.1% of GDP (2017)<br>
+4.9% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -263,6 +266,9 @@ _rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 6.056 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 1,937,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 ## Government
 
@@ -624,15 +630,15 @@ HB<br>
 _total_: 63 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 40 (2013)<br>
-_over 3,047 m_: 3 (2013)<br>
-_2,438 to 3,047 m_: 2 (2013)<br>
-_1,524 to 2,437 m_: 12 (2013)<br>
-_914 to 1,523 m_: 6 (2013)<br>
+_total_: 40<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 12<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 17 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 23 (2013)<br>
+_total_: 23<br>
 _under 914 m_: 23 (2013)<br>
 
 **Heliports**<br>
@@ -684,6 +690,9 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 
 **Military service age and obligation**<br>
 18-30 years of age generally for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
+
+**Military - note**<br>
+<p>Switzerland has long maintained a policy of military neutrality, but does occasionally participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2021, continued doing so with about 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>
 
 ## Terrorism
 

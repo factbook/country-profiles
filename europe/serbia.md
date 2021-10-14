@@ -213,7 +213,7 @@ _food or waterborne diseases_: bacterial diarrhea<br>
 1% (2019)<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.6% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -633,16 +633,16 @@ YU<br>
 _total_: 26 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
+_total_: 10<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 3<br>
 _914 to 1,523 m_: 2 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 16 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 16<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 5 (2013)<br>
 
 **Heliports**<br>
@@ -691,6 +691,9 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished January 2011 (2021)<br>
 
+**Military - note**<br>
+<p>Serbia does not aspire to join NATO, but has cooperated with the Alliance since 2006 when it joined the Partnership for Peace program</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
@@ -700,7 +703,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 791,850 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
+<strong>note:</strong> 794,042 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

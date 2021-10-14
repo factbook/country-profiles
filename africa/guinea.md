@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea became independent from France, and Sekou TOURE established an authoritarian regime. TOURE ruled until his death in 1984. After TOURE’s death, General Lansana CONTE staged a coup and seized the government. CONTE organized and won presidential elections in 1993, 1998, and 2003. Upon CONTE's death in December 2008, Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a constitutional referendum that extended presidential terms and reset CONDE’s term count, and later that year, Alpha CONDE won a controversial third presidential term. On 5 September 2021, Col Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government.   </p><br>
+<p>Guinea's deep Muslim heritage arrived via the neighboring Almoravid Empire in the 11th century. Following Almoravid decline, Guinea existed on the fringe of several African kingdoms all competing for regional dominance. In the 13th century, the Mali Empire took control of Guinea, encouraging its already growing Muslim faith. After the fall of the West African empires, various smaller kingdoms controlled Guinea. In the 18th century, Fulani Muslims established an Islamic state in central Guinea that represents one of the earliest examples of a written constitution and alternating leadership. While European traders first arrived in the 16th century, it was the French who secured colonial rule in the 19th century.</p> <p>In 1958, Guinea became independent from France, and Sekou TOURE established an authoritarian regime. TOURE ruled until his death in 1984. After TOURE’s death, General Lansana CONTE staged a coup and seized the government. CONTE organized and won presidential elections in 1993, 1998, and 2003. Upon CONTE's death in December 2008, Captain Moussa Dadis CAMARA led a military coup, seized power, and suspended the constitution. In September 2009, presidential guards opened fire on an opposition rally, killing more than 150 people. In early December 2009, CAMARA was wounded in an assassination attempt and exiled to Burkina Faso. In 2010 and 2013 respectively, the country held its first free and fair presidential and legislative elections. Alpha CONDE won the 2010 and 2015 presidential elections. CONDE's first cabinet was the first all-civilian government in Guinean history. In March 2020, Guinea passed a constitutional referendum that extended presidential terms and reset CONDE’s term count, and later that year, Alpha CONDE won a controversial third presidential term. On 5 September 2021, Col Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government. DOUMBOUYA is declared President on 17 September 2021. A charter of transition, issued in late September, made DOUMBOUYA transitional president for an undefined period, and on 1 October 2021, he was formally sworn in.  </p> <p><br><br><br><br></p><br>
 
 ## Geography
 
@@ -215,7 +215,7 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 16.3% (2018)<br>
 
 **Education expenditures**<br>
-2.3% of GDP (2018)<br>
+2.2% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -341,8 +341,8 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Alpha CONDE (since 21 December 2010)<br><br>note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government<br>
-_head of government_: Prime Minister Ibrahima FOFANA (since 22 May 2018)<br><br>note: on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government<br>
+_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government, on 17 September 2021 DOUMBOUYA is declared President; a charter of transition, issued 27 September 2021, makes him transitional president for an undefined period. On 1 October 2021, Doumbouya was sworn in as transitional president.<br>
+_head of government_: Prime Minister (vacant); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government of Prime Minister Ibrahima Kassory FOFANA<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
@@ -652,14 +652,14 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 _total_: 16 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 4 (2019)<br>
+_total_: 4<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 3<br>
+_1,524 to 2,437 m_: 3 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 12 (2013)<br>
-_1,524 to 2,437 m_: 7 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 12<br>
+_1,524 to 2,437 m_: 7<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 2 (2013)<br>
 
 **Railways**<br>

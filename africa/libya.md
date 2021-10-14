@@ -72,6 +72,12 @@ hot, dry, dust-laden ghibli is a southern wind lasting one to four days in sprin
 **Geography - note**<br>
 <strong>note 1:</strong> more than 90% of the country is desert or semidesert<br><br><strong>note 2:</strong> the volcano Waw an Namus lies in south central Libya in the middle of the Sahara; the caldera is an oasis - the name means "oasis of mosquitoes" - containing several small lakes surrounded by vegetation and hosting various insects and a large diversity of birds<br>
 
+**Major watersheds (area sq km)**<br>
+Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System, North Western Sahara Aquifer System, Murzuk-Djado Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -258,6 +264,12 @@ _severe localized food insecurity_: due to civil insecurity, economic and politi
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,147,596 tons (2011 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System, North Western Sahara Aquifer System, Murzuk-Djado Basin<br>
 
 ## Government
 
@@ -594,19 +606,19 @@ _annual passenger traffic on registered air carriers_: 927,153 (2018)<br>
 _total_: 146 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 68 (2017)<br>
-_over 3,047 m_: 23 (2017)<br>
-_2,438 to 3,047 m_: 7 (2017)<br>
-_1,524 to 2,437 m_: 30 (2017)<br>
-_914 to 1,523 m_: 7 (2017)<br>
+_total_: 68<br>
+_over 3,047 m_: 23<br>
+_2,438 to 3,047 m_: 7<br>
+_1,524 to 2,437 m_: 30<br>
+_914 to 1,523 m_: 7<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 78 (2013)<br>
-_over 3,047 m_: 2 (2013)<br>
-_2,438 to 3,047 m_: 5 (2013)<br>
-_1,524 to 2,437 m_: 14 (2013)<br>
-_914 to 1,523 m_: 37 (2013)<br>
+_total_: 78<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 5<br>
+_1,524 to 2,437 m_: 14<br>
+_914 to 1,523 m_: 37<br>
 _under 914 m_: 20 (2013)<br>
 
 **Heliports**<br>
@@ -644,7 +656,7 @@ not available<br>
 both the forces of the Government of National Accord and the Libyan National Army are largely equipped with weapons of Russian or Soviet origin; as of 2020, Russia, Turkey, and the UAE were reportedly providing weapons and military equipment to the forces in Libya (2020)<br>
 
 **Military - note**<br>
-as of the Fall of 2020, there were at least 10,000 foreign mercenaries and proxy forces estimated to be deployed in Libya to bolster both GNA- and LNA-aligned forces (2020)<br>
+as of late 2020, there were at least 10,000 foreign mercenaries and proxy forces estimated to be deployed in Libya to bolster both GNA- and LNA-aligned forces (2020)<br>
 
 ## Terrorism
 

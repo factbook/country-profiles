@@ -592,12 +592,12 @@ A5<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2017)<br>
-_1,524 to 2,437 m_: 1 (2017)<br>
+_total_: 2<br>
+_1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2012)<br>
+_total_: 1<br>
 _914 to 1,523 m_: 1 (2012)<br>
 
 **Roadways**<br>
@@ -607,8 +607,8 @@ _urban_: 437 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2020)<br>
-note - the Royal Bhutan Army is a lightly armed infantry force focused on border protection and internal security; India is responsible for military training, arms supplies, and the air defense of Bhutan<br>
+Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Ministry of Home and Cultural Affairs: Royal Bhutan Police (2021)<br>
+note - the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Bhutan Army has an estimated 8,000 personnel (2020)<br>
@@ -617,7 +617,10 @@ the Royal Bhutan Army has an estimated 8,000 personnel (2020)<br>
 India has provided most of the Royal Bhutan Army's equipment (2020)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period (2019)<br>
+18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2021)<br>
+
+**Military - note**<br>
+India is responsible for military training, arms supplies, and the air defense of Bhutan<br>
 
 ## Transnational Issues
 

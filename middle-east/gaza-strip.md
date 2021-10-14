@@ -191,7 +191,7 @@ NA<br>
 <strong>note:</strong> estimate is for Gaza Strip and the West Bank<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2017)<br>
+5.3% of GDP (2018)<br>
 <strong>note:</strong> includes Gaza Strip and the West Bank<br>
 
 **Literacy**<br>
@@ -428,8 +428,8 @@ _subscriptions per 100 inhabitants_: 14 (2016 est.)<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_under 914 m_: 1<br>
+_total_: 1<br>
+_under 914 m_: 1 (2019)<br>
 <strong>note</strong> - non-operational<br>
 
 **Heliports**<br>

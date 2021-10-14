@@ -203,7 +203,7 @@ _unimproved: total_: total: 0.5% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2019)<br>
+4.6% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -615,13 +615,13 @@ _annual freight traffic on registered air carriers_: 233.72 million mt-km (2018)
 _total_: 5 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 3 (2013)<br>
-_914 to 1,523 m_: 2 (2013)<br>
+_total_: 3<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2013)<br>
 
 **Roadways**<br>
@@ -639,7 +639,7 @@ _major seaport(s)_: Port Louis<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which is formed as a mobile infantry battalion; the PMF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)<br>
+no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which includes a motorized infantry battalion and 2 light armored squadrons; the PMF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2020 est.)<br>

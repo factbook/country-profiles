@@ -71,6 +71,12 @@ urban clusters are spread throughout the country, particularly in the northeast 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> because of its speed, cataracts, rapids, and turbulence the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length; nonetheless, it is conceded to be the deepest river in the world; estimates of its greatest depth vary between 220 and 250 meters</p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -288,6 +294,12 @@ _widespread lack of access_: due to persistent civil insecurity and COVID-19 res
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 704,876 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
 
 ## Government
 
@@ -637,17 +649,17 @@ _annual freight traffic on registered air carriers_: 890,000 mt-km (2018)<br>
 _total_: 198 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 26 (2017)<br>
-_over 3,047 m_: 3 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 17 (2017)<br>
-_914 to 1,523 m_: 2 (2017)<br>
+_total_: 26<br>
+_over 3,047 m_: 3<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 17<br>
+_914 to 1,523 m_: 2<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 172 (2013)<br>
-_1,524 to 2,437 m_: 20 (2013)<br>
-_914 to 1,523 m_: 87 (2013)<br>
+_total_: 172<br>
+_1,524 to 2,437 m_: 20<br>
+_914 to 1,523 m_: 87<br>
 _under 914 m_: 65 (2013)<br>
 
 **Heliports**<br>
@@ -682,8 +694,8 @@ _river or lake port(s)_: Boma, Bumba, Kinshasa, Kisangani, Matadi, Mbandaka (Con
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2020)<br>
-note - the Republican Guard is under the direct control of the president<br>
+Armed Forces of the Democratic Republic of the Congo (Forces d'Armees de la Republique Democratique du Congo, FARDC): Land Forces, National Navy (La Marine Nationale), Congolese Air Force (Force Aerienne Congolaise, FAC); Republican Guard (2021)<br><br>note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country’s best equipped and trained military unit and is under the direct control of the president<br>
+note - the Republican Guard is a division-size element consisting of approximately 5 regiments; it is regarded as the country&rsquo;s best equipped and trained military unit and is under the direct control of the president<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2020 est.)<br>
@@ -698,11 +710,11 @@ limited and widely varied information; approximately 100,000 active troops (most
 **Military equipment inventories and acquisitions**<br>
 the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era weapons acquired from former Warsaw Pact nations; most equipment was acquired between 1970 and 2000; since 2010, Ukraine is the largest supplier of arms to the FARDC (2020)<br>
 
-**Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,500 personnel, including about 14,500 military troops and 600 police; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
-
 **Military service age and obligation**<br>
 18-45 years of age for voluntary and compulsory military service (2019)<br>
+
+**Military - note**<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 

@@ -79,7 +79,7 @@ Chinese 88.7%, Portuguese 1.1%, mixed 1.1%, other 9.2% (includes Macanese - mixe
 
 **Languages**<br>
 Cantonese 80.1%, Mandarin 5.5%, other Chinese dialects 5.3%, Tagalog 3%, English 2.8%, Portuguese 0.6%, other 2.8%; note - Chinese and Portuguese are official languages; Macanese, a Portuguese-based Creole, is also spoken (2016 est.)<br>
-_major-language sample(s)_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2010 est.)<br>
@@ -171,7 +171,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-2.7% of GDP (2018)<br>
+3.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -553,8 +553,8 @@ B-M<br>
 _total_: 1 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1 (2019)<br>
-_over 3,047 m_: 1<br>
+_total_: 1<br>
+_over 3,047 m_: 1 (2019)<br>
 
 **Heliports**<br>
 2 (2013)<br>

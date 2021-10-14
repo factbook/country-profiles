@@ -72,6 +72,9 @@ flooding<br>
 **Geography - note**<br>
 strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany - the Rhine, Weser, Oder, Elbe - flow northward; the Danube, which originates in the Black Forest, flows eastward<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -207,7 +210,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 0.5% (2014/17)<br>
 
 **Education expenditures**<br>
-4.9% of GDP (2017)<br>
+5% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -267,6 +270,9 @@ _municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 24,415,302 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## Government
 
 **Country name**<br>
@@ -323,8 +329,8 @@ _elections/appointments_: president indirectly elected by a Federal Convention c
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (709 seats - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br>Bundesrat - none; composition is determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in 2025 at the latest); most postwar German governments have been coalitions<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (735 seats for the 2021-25 term - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br>Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in September 2025 at the latest); most postwar German governments have been coalitions<br>
 _election results_: <br>Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; note - total Bundestag percent of women NA%<br>
 
 **Judicial branch**<br>
@@ -623,17 +629,17 @@ D<br>
 _total_: 539 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 318 (2017)<br>
-_over 3,047 m_: 14 (2017)<br>
-_2,438 to 3,047 m_: 49 (2017)<br>
-_1,524 to 2,437 m_: 60 (2017)<br>
-_914 to 1,523 m_: 70 (2017)<br>
+_total_: 318<br>
+_over 3,047 m_: 14<br>
+_2,438 to 3,047 m_: 49<br>
+_1,524 to 2,437 m_: 60<br>
+_914 to 1,523 m_: 70<br>
 _under 914 m_: 125 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 221 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 35 (2013)<br>
+_total_: 221<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 35<br>
 _under 914 m_: 185 (2013)<br>
 
 **Heliports**<br>
@@ -689,11 +695,11 @@ the German Federal Armed Forces inventory is mostly comprised of weapons systems
 **Military deployments**<br>
 approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL); 600 Lithuania (NATO); 800 Mali (MINUSMA/EUTM); note - Germany is a contributing member of the EuroCorps (2021)<br>
 
-**Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br>
-
 **Military service age and obligation**<br>
 17-23 years of age for male and female voluntary military service; conscription ended July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2019)<br>
+
+**Military - note**<br>
+the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br> <p>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group</p><br>
 
 ## Terrorism
 

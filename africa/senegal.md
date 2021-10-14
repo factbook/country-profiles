@@ -215,7 +215,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 14.4% (2019)<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2018)<br>
+5.3% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -639,15 +639,15 @@ _annual freight traffic on registered air carriers_: 40,000 mt-km (2018)<br>
 _total_: 20 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
+_total_: 9<br>
+_over 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 6<br>
 _914 to 1,523 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 11 (2013)<br>
-_1,524 to 2,437 m_: 7 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 11<br>
+_1,524 to 2,437 m_: 7<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 1 (2013)<br>
 
 **Pipelines**<br>

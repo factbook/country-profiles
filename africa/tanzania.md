@@ -72,6 +72,9 @@ the largest and most populous East African country; population distribution is e
 **Geography - note**<br>
 Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya [in Kenya] and the Ruwenzori Mountains [on the Uganda-Democratic Republic of the Congo border]); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -216,7 +219,7 @@ _animal contact diseases_: rabies<br>
 14.6% (2018)<br>
 
 **Education expenditures**<br>
-3.4% of GDP (2014)<br>
+3.1% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write Kiswahili (Swahili), English, or Arabic<br>
@@ -289,6 +292,9 @@ _severe localized food insecurity_: due to localized shortfalls in staple food p
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## Government
 
@@ -641,17 +647,17 @@ _annual freight traffic on registered air carriers_: 390,000 mt-km (2018)<br>
 _total_: 166 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 10 (2019)<br>
+_total_: 10<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 4<br>
-_914 to 1,523 m_: 2<br>
+_914 to 1,523 m_: 2 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 156 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 24 (2013)<br>
-_914 to 1,523 m_: 98 (2013)<br>
+_total_: 156<br>
+_over 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 24<br>
+_914 to 1,523 m_: 98<br>
 _under 914 m_: 33 (2013)<br>
 
 **Pipelines**<br>
@@ -702,11 +708,11 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
 
-**Military - note**<br>
-as of late 2020, the TPDF had deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2021)<br>
+
+**Military - note**<br>
+as of late 2020, the TPDF had deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado<br>
 
 ## Terrorism
 
@@ -720,7 +726,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 127,435 (Burundi), 79,002 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 126,534 (Burundi), 79,002 (Democratic Republic of the Congo) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

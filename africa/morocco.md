@@ -226,7 +226,7 @@ _unimproved: total_: total: 7.3% of population (2017 est.)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 24 January 2021, Morocco has reported a total of 465,769 cases of COVID-19 or 1,261.9 cumulative cases of COVID-19 per 100,000 population with 22.0 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 26.1% (2016)<br>
@@ -310,7 +310,7 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Major infectious diseases**<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 24 January 2021, Morocco has reported a total of 465,769 cases of COVID-19 or 1,261.9 cumulative cases of COVID-19 per 100,000 population with 22.0 cumulative deaths per 100,000 population<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 <p><strong>note:</strong>  data does not include former Western Sahara</p><br>
@@ -378,8 +378,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
-_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 7 October 2016 (next to be held on 8 September 2021)<br>
-_election results_: <br>Chamber of Advisors - percent of vote by party - NA; seats by party - NA; composition - men 106, women 14, percent of women 11.7%<br>Chamber of Representatives - percent of vote by party NA; seats by party - PJD 125, PAM 102, PI 46, RNI 37, MP 27, USFP 20, UC 19, PPS 12, MDS 3, other 4; composition - men 314, women 81, percent of women 20.5%; note - total Parliament percent of women 18.4%<br>
+_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 8 September 2021 (next to be held in 2027 )<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - NA; composition as of September 2021) men 106, women 14, percent of women 11.7% <br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition - men 305, women 90, percent of women 22.8%; note - overall percent of women in Parliament 20.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -678,18 +678,18 @@ CN<br>
 _total_: 62 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 36 (2020)<br>
-_over 3,047 m_: 13 (2020)<br>
-_2,438 to 3,047 m_: 12 (2020)<br>
-_1,524 to 2,437 m_: 6 (2020)<br>
-_914 to 1,523 m_: 4 (2020)<br>
+_total_: 36<br>
+_over 3,047 m_: 13<br>
+_2,438 to 3,047 m_: 12<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 1 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 26 (2020)<br>
-_2,438 to 3,047 m_: 2 (2020)<br>
-_1,524 to 2,437 m_: 6 (2020)<br>
-_914 to 1,523 m_: 12 (2020)<br>
+_total_: 26<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 12<br>
 _under 914 m_: 6 (2020)<br>
 
 **Heliports**<br>
@@ -737,6 +737,9 @@ the Moroccan military's inventory is comprised of mostly older French and US equ
 
 **Military service age and obligation**<br>
 19 years of age for compulsory military service (reintroduced in 2019); both sexes are obligated to military service; conscript service obligation - 12 months (2019)<br>
+
+**Military - note**<br>
+<p>the UN Mission for the Referendum in Western Sahara (MINURSO) was established by Security Council resolution 690 in April 1991 in accordance with settlement proposals accepted in August 1988 by Morocco and the Polisario Front (aka Frente Popular para la Liberación de Saguia el-Hamra y de Río de Oro or Frente Polisario); MINURSO was unable to carry out all the original settlement proposals, but as of 2021 continued to monitor the cease-fire and reduce the threat of mines and unexploded ordnance, and has provided logistic support to the Office of the UN High Commissioner for Refugees (UNHCR)-led confidence building measures with personnel and air and ground assets; as of July 2021, MINURSO had about 200 military personnel assigned<br><br>Morocco has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

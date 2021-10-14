@@ -214,7 +214,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 7.1% (2011/12)<br>
 
 **Education expenditures**<br>
-6.1% of GDP (2018)<br>
+4.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -636,16 +636,16 @@ HR<br>
 _total_: 103 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 13 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 4 (2017)<br>
+_total_: 13<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 3 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 90 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 16 (2013)<br>
+_total_: 90<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 16<br>
 _under 914 m_: 73 (2013)<br>
 
 **Railways**<br>
@@ -672,8 +672,8 @@ _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Public Order Military Police (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2021)<br>
-note - the PMOP reports to military authorities, but conducts operations sanctioned by civilian security officials as well as by military leaders<br>
+Honduran Armed Forces (Fuerzas Armadas de Honduras, FFAA): Army (Ejercito), Honduran Naval Force (FNH; includes marines), Honduran Air Force (Fuerza Aerea Hondurena, FAH), Honduran Public Order Military Police (PMOP); Security Secretariat: Public Security Forces (includes Honduran National Police paramilitary units) (2021)<br><br>note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military’s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP’s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
+note - the PMOP was created in 2013 as part of an effort by the Honduran Government to expand the military&rsquo;s role in law enforcement alongside the Honduran National Police (HNP), particularly against narcotics trafficking and organized crime; since its creation, the PMOP&rsquo;s role in internal security has expanded; it was used against election protesters in 2017, for example, and it has been accused of human rights violations; as of 2021, the PMOP was composed of 8 battalions of military personnel (approximately 5,000 troops) who have undergone some police training; it reported to military authorities but conducts operations sanctioned by both civilian security officials and military leaders<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>
@@ -690,6 +690,9 @@ the FFAA's inventory is comprised of mostly older imported equipment from Israel
 
 **Military service age and obligation**<br>
 18 years of age for voluntary 2- to 3-year military service; no conscription (2019)<br>
+
+**Military - note**<br>
+the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces; as of 2021, civilian authorities at times reportedly did not maintain effective control over security forces<br>
 
 ## Transnational Issues
 

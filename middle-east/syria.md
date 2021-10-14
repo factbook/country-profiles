@@ -73,6 +73,9 @@ significant population density along the Mediterranean coast; larger concentrati
 **Geography - note**<br>
 the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -266,6 +269,9 @@ _exceptional shortfall in aggregate food production/supplies_: due to civil conf
 _municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## Government
 
@@ -608,16 +614,16 @@ YK<br>
 _total_: 90 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 29 (2013)<br>
-_over 3,047 m_: 5 (2013)<br>
-_2,438 to 3,047 m_: 16 (2013)<br>
-_914 to 1,523 m_: 3 (2013)<br>
+_total_: 29<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 16<br>
+_914 to 1,523 m_: 3<br>
 _under 914 m_: 5 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 61 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 12 (2013)<br>
+_total_: 61<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 12<br>
 _under 914 m_: 48 (2013)<br>
 
 **Heliports**<br>
@@ -661,11 +667,11 @@ N/A; since the start of the civil war in 2011, the Syrian Armed Forces (SAF) hav
 **Military equipment inventories and acquisitions**<br>
 the SAF's inventory is comprised mostly of Russian and Soviet-era equipment; since 2010, Russia has supplied nearly all of Syria's imported weapons systems, although China and Iran have also provided military equipment (2020)<br>
 
-**Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of late 2020, UNDOF consisted of about 1,100 military personnel<br>
-
 **Military service age and obligation**<br>
 18-42 years of age for compulsory and voluntary military service; conscript service obligation is 18 months; women are not conscripted but may volunteer to serve (2019)<br>
+
+**Military - note**<br>
+the UN Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br>
 
 ## Terrorism
 
@@ -676,7 +682,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Golan Heights is Israeli-controlled with an almost 1,000-strong UN Disengagement Observer Force patrolling a buffer zone since 1964; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan</p><br>
+<p>Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 13,311 (Iraq) (2019); 562,312 (Palestinian Refugees) (2020)<br>

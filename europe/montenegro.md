@@ -71,6 +71,9 @@ destructive earthquakes<br>
 **Geography - note**<br>
 strategic location along the Adriatic coast<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -276,6 +279,9 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 _municipal solid waste generated annually_: 332,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 17,994 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -628,10 +634,10 @@ _annual freight traffic on registered air carriers_: 130,000 mt-km (2018)<br>
 _total_: 5 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 5 (2019)<br>
+_total_: 5<br>
 _2,438 to 3,047 m_: 2<br>
 _1,524 to 2,437 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 _under 914 m_: 1<br>
 
 **Heliports**<br>
@@ -671,11 +677,11 @@ the Armed Forces of the Republic of Montenegro have approximately 2,000 total ac
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2020)<br>
 
-**Military - note**<br>
-Montenegro officially became a member of NATO in 2017<br>
-
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2019)<br>
+
+**Military - note**<br>
+Montenegro officially became a member of NATO in 2017<br>
 
 ## Terrorism
 
@@ -686,5 +692,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 19,887 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 20,220 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 

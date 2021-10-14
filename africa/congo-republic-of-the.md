@@ -72,6 +72,12 @@ seasonal flooding<br>
 **Geography - note**<br>
 about 70% of the population lives in Brazzaville, Pointe-Noire, or along the railroad between them<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -212,7 +218,7 @@ _animal contact diseases_: rabies<br>
 12.3% (2014/15)<br>
 
 **Education expenditures**<br>
-3.5% of GDP (2018)<br>
+3.9% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -282,6 +288,12 @@ _severe localized food insecurity_: due to restrictive measures related to the C
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
 
 ## Government
 
@@ -629,15 +641,15 @@ TN<br>
 _total_: 27 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 8 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 1 (2017)<br>
+_total_: 8<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 19 (2013)<br>
-_1,524 to 2,437 m_: 8 (2013)<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_total_: 19<br>
+_1,524 to 2,437 m_: 8<br>
+_914 to 1,523 m_: 9<br>
 _under 914 m_: 2 (2013)<br>
 
 **Pipelines**<br>
@@ -695,6 +707,6 @@ the FAC is armed with mostly ageing Russian/Soviet-era weapons, with some French
 <p>the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,867 (Central African Republic), 28,579 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 22,098 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,867 (Central African Republic) (2021)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

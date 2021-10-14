@@ -98,6 +98,12 @@ _25-54 years_: NA<br>
 _55-64 years_: NA<br>
 _65 years and over_: NA<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Population growth rate**<br>
 0.01% (2014 est.)<br>
 
@@ -169,6 +175,9 @@ NA<br>
 NA<br>
 
 **Children under the age of 5 years underweight**<br>
+NA<br>
+
+**Education expenditures**<br>
 NA<br>
 
 ## Environment
@@ -487,12 +496,12 @@ VP-F<br>
 _total_: 7 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
+_total_: 5<br>
 _under 914 m_: 5 (2013)<br>
 
 **Roadways**<br>

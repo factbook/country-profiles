@@ -101,6 +101,12 @@ _25-54 years_: 42.59% (male 1,679/female 1,692)<br>
 _55-64 years_: 13.18% (male 514/female 529)<br>
 _65 years and over_: 17.54% (male 710/female 678) (2021 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 43.2 years<br>
 _male_: 43.2 years<br>
@@ -477,9 +483,9 @@ VQ-H<br>
 _total_: 2 (2015)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1 Ascension Island - Wideawake Field (ASI)<br>
-_1,524 to 2,437 m_: 1 Saint Helena (HLE);<br>
+_1,524 to 2,437 m_: 1 Saint Helena (HLE); (2019)<br>
 note - weekly commercial air service to South Africa via Namibia commenced on 14 October 2017<br>
 
 **Roadways**<br>

@@ -70,6 +70,9 @@ flooding; earthquakes<br>
 **Geography - note**<br>
 despite its small size, this eastern Alpine country controls some of Europe's major transit routes<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -202,7 +205,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.8% of GDP (2017)<br>
+4.9% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: NA<br>
@@ -267,6 +270,9 @@ _rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 926,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 430,034 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 46.4% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -622,16 +628,16 @@ S5<br>
 _total_: 16 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 9 (2020)<br>
+_total_: 9<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 2<br>
 _914 to 1,523 m_: 3<br>
-_under 914 m_: 3<br>
+_under 914 m_: 3 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 7 (2020)<br>
+_total_: 7<br>
 _914 to 1,523 m_: 4<br>
-_under 914 m_: 3<br>
+_under 914 m_: 3 (2020)<br>
 
 **Pipelines**<br>
 1155 km gas, 5 km oil (2017)<br>
@@ -675,11 +681,11 @@ the inventory of the Slovenian Armed Forces is a mix of Soviet-era and limited q
 **Military deployments**<br>
 230 Kosovo (NATO) (2021)<br>
 
-**Military - note**<br>
-Slovenia officially became a member of NATO in 2004<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; conscription abolished in 2003 (2019)<br>
+
+**Military - note**<br>
+Slovenia officially became a member of NATO in 2004<br>
 
 ## Transnational Issues
 
@@ -688,7 +694,7 @@ Slovenia officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>523,999 estimated refugee and migrant arrivals (January 2015-August 2021)<br>
+<strong>note:  </strong>525,153 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

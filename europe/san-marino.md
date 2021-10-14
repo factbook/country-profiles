@@ -92,6 +92,12 @@ _25-54 years_: 39.12% (male 6,310/female 7,081)<br>
 _55-64 years_: 14.28% (male 2,367/female 2,520)<br>
 _65 years and over_: 20.24% (male 3,123/female 3,805) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 45.2 years<br>
 _male_: 43.9 years<br>
@@ -174,7 +180,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.6% of GDP (2018)<br>
+3.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _total population_: 99.9%<br>
@@ -275,11 +281,11 @@ _residency requirement for naturalization_: 30 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: co-chiefs of state Captain Regent Giancarlo VENTURINI and Captain Regent Marco NICOLINI (for the period 1 April 2021 - 1 October 2021)<br>
+_chief of state_: co-chiefs of state Captain Regent Francesco MUSSONI and Captain Regent Giacomo SIMONCINI (for the period 1 October 2021 - 1 April 2022)<br>
 _head of government_: Secretary of State for Foreign and Political Affairs Luca BECCARI (since 8 January 2020)<br>
 _cabinet_: Congress of State elected by the Grand and General Council<br>
-_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in March 2020 (next to be held in September 2020); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
-_election results_: Alessandro MANCINI (PSD)&nbsp;and Grazia ZAFFERANI&nbsp;(RETE Movement) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
+_elections/appointments_: co-chiefs of state (captains regent) indirectly elected by the Grand and General Council for a single 6-month term; election last held in September 2021 (next to be held in March 2022); secretary of state for foreign and political affairs indirectly elected by the Grand and General Council for a single 5-year term; election last held on 28 December 2019 (next to be held by November 2024)<br>
+_election results_: Francesco MUSSONI (PDCS) and Giacomo SIMONCINI (We for the Republic) elected captains regent; percent of Grand and General Council vote - NA; Luca BECCARI (PDCS) elected secretary of state for foreign and political affairs; percent of Grand and General Council vote - NA<br>
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
@@ -495,11 +501,11 @@ _paved_: 292 km (2006)<br>
 **Military and security forces**<br>
 No regular military forces; Voluntary Military Corps (Corpi Militari), which includes a Uniformed Militia (performs ceremonial duties and limited police support functions) and Guard of the Great and General Council (defends the Captains Regent and the Great and General Council, participates in official ceremonies, cooperates with the maintenance of public order on special occasions, and performs guard duties during parliamentary sittings); the Police Corps includes the Gendarmerie, which is responsible for maintaining public order, protecting citizens and their property, and providing assistance during disasters (2021)<br>
 
-**Military - note**<br>
-defense is the responsibility of Italy<br>
-
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2012)<br>
+
+**Military - note**<br>
+defense is the responsibility of Italy<br>
 
 ## Transnational Issues
 

@@ -72,6 +72,12 @@ population heavily concentrated in the west along the shore of Lake Victoria; ot
 **Geography - note**<br>
 the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -215,7 +221,7 @@ _animal contact diseases_: rabies<br>
 11.2% (2014)<br>
 
 **Education expenditures**<br>
-5.3% of GDP (2018)<br>
+5.1% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -290,6 +296,12 @@ _exceptional shortfall in aggregate food production/supplies_: due to poor seaso
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 447,608 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin<br>
 
 ## Government
 
@@ -646,17 +658,17 @@ _annual freight traffic on registered air carriers_: 294.97 million mt-km (2018)
 _total_: 197 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 2 (2017)<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_total_: 16<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 181 (2013)<br>
-_1,524 to 2,437 m_: 14 (2013)<br>
-_914 to 1,523 m_: 107 (2013)<br>
+_total_: 181<br>
+_1,524 to 2,437 m_: 14<br>
+_914 to 1,523 m_: 107<br>
 _under 914 m_: 60 (2013)<br>
 
 **Pipelines**<br>
@@ -687,7 +699,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 
 **Military and security forces**<br>
 Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br>
-note: the National Police Service includes a paramilitary General Service Unit<br>
+note - the National Police Service includes a paramilitary General Service Unit; the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020)<br>
@@ -708,11 +720,11 @@ the KDF's inventory traditionally carried mostly older or second-hand Western we
 **Maritime threats**<br>
 the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships<br>
 
-**Military - note**<br>
-the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies (2020)<br>
-
 **Military service age and obligation**<br>
 no conscription; 18-26 years of age for male and female voluntary service (under 18 with parental consent; upper limit 30 years of age for specialists, tradesmen, or women with a diploma; 39 years of age for chaplains/imams), with a 9-year obligation (7 years for Kenyan Navy) and subsequent 3-year re-enlistments; applicants must be Kenyan citizens (2020)<br>
+
+**Military - note**<br>
+<p>Kenyan military forces intervened in Somalia in October 2011 to combat the al Qaida-affiliated al-Shabaab terrorist group, which had conducted numerous cross-border attacks into Kenya; in November 2011, the UN and the African Union invited Kenya to incorporate the force into the African Union Mission in Somalia (AMISOM); Kenyan forces were formally integrated into AMISOM in February 2012; as of mid-2021, they consisted of approximately 3,600 troops and were responsible for AMISOM’s Sector 2 comprising Lower and Middle Jubba (see Appendix-T for additional details on al-Shabaab)</p><br>
 
 ## Terrorism
 
@@ -726,7 +738,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 272,246 (Somalia), 134,370 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,579 (Ethiopia), 7,108 (Burundi) (2021)<br>
+_refugees (country of origin)_: 274,499 (Somalia), 135,771 (South Sudan) (refugees and asylum seekers), 30,081 (Democratic Republic of the Congo) (refugees and asylum seekers), 20,579 (Ethiopia), 7,108 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

@@ -72,6 +72,12 @@ approximately one-third of the population resides along the desert coastal belt 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p><br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _unimproved: total_: total: 23.8% of population (2017 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 19 July 2021, Peru has reported a total of 2,093,754 cases of COVID-19 or 6,350.13 cumulative cases of COVID-19 per 100,000 population with 591.86 cumulative deaths per 100,000 population; as of 18 July 2021, 20.6% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 19.7% (2016)<br>
@@ -213,7 +219,7 @@ _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<b
 2.4% (2019)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2019)<br>
+4.2% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -278,12 +284,18 @@ _rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 _degree of risk_: very high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 19 July 2021, Peru has reported a total of 2,093,754 cases of COVID-19 or 6,350.13 cumulative cases of COVID-19 per 100,000 population with 591.86 cumulative deaths per 100,000 population; as of 18 July 2021, 20.6% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Peru; as of 6 October 2021, Peru has reported a total of 2,179,316 cases of COVID-19 or 6,609.63 cumulative cases of COVID-19 per 100,000 population with 605.07 cumulative deaths per 100,000 population; as of 3 October 2021, 48.51% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
 
 ## Government
 
@@ -644,18 +656,18 @@ OB<br>
 _total_: 191 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 59 (2017)<br>
-_over 3,047 m_: 5 (2017)<br>
-_2,438 to 3,047 m_: 21 (2017)<br>
-_1,524 to 2,437 m_: 16 (2017)<br>
-_914 to 1,523 m_: 12 (2017)<br>
+_total_: 59<br>
+_over 3,047 m_: 5<br>
+_2,438 to 3,047 m_: 21<br>
+_1,524 to 2,437 m_: 16<br>
+_914 to 1,523 m_: 12<br>
 _under 914 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 132 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 19 (2013)<br>
-_914 to 1,523 m_: 30 (2013)<br>
+_total_: 132<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 19<br>
+_914 to 1,523 m_: 30<br>
 _under 914 m_: 82 (2013)<br>
 
 **Heliports**<br>

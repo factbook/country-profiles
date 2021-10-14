@@ -202,7 +202,7 @@ NA<br>
 3.1% (2019)<br>
 
 **Education expenditures**<br>
-3.1% of GDP (2012)<br>
+3.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -604,15 +604,15 @@ EZ<br>
 _total_: 26 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 21 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 9 (2013)<br>
-_1,524 to 2,437 m_: 9 (2013)<br>
+_total_: 21<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 9<br>
+_1,524 to 2,437 m_: 9<br>
 _914 to 1,523 m_: 2 (2013)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 5 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 5<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 4 (2013)<br>
 
 **Heliports**<br>
@@ -660,6 +660,9 @@ the inventory for Turkmenistan's military is comprised almost entirely of older 
 
 **Military service age and obligation**<br>
 18-30 years of age for compulsory male military service; 2-year conscript service obligation (2.5 years for the Navy); 20 years of age for voluntary service; males may enroll in military schools from age 15 (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, Turkmenistan continued to pursue a nationalist and isolationist security policy and has declined to participate in post-Soviet military groupings such as the Collective Security Treaty Organization military alliance (CSTO) and the Shanghai Cooperation Organization (SCO); however, in September 2020, it participated in a Russian-led multinational military exercise held in southern Russia’s Astrakhan region alongside Russian, Chinese, Pakistani, Kazakh, Kyrgyz, Tajik, Uzbek, Mongolian, Syrian, Iranian, Egyptian, Belarusian, Turkish, Armenian, and Azerbaijani contingents</p> <p>as of 2021, Turkmenistan was trying to improve its naval capabilities on the Caspian Sea by expanding ship building capabilities and adding larger vessels to the Navy’s inventory; in 2018, it opened its first naval shipyard and in August 2021, the Navy commissioned its largest warship, a corvette that was jointly constructed with Turkey</p><br>
 
 ## Transnational Issues
 

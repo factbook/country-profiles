@@ -213,7 +213,7 @@ _water contact diseases_: leptospirosis<br>
 19.1% (2018)<br>
 
 **Education expenditures**<br>
-NA<br>
+3.2% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -643,17 +643,17 @@ RP<br>
 _total_: 247 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 89 (2019)<br>
+_total_: 89<br>
 _over 3,047 m_: 4<br>
 _2,438 to 3,047 m_: 8<br>
 _1,524 to 2,437 m_: 33<br>
 _914 to 1,523 m_: 34<br>
-_under 914 m_: 10<br>
+_under 914 m_: 10 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 158 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 56 (2013)<br>
+_total_: 158<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 56<br>
 _under 914 m_: 99 (2013)<br>
 
 **Heliports**<br>
@@ -705,11 +705,11 @@ the AFP is equipped with a mix of imported weapons systems, particularly second-
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where three ships were attacked in 2020; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>
 
-**Military - note**<br>
-<p>the US and Philippines agreed to a mutual defense treaty in 1951</p> as of late 2020, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which is active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br>
-
 **Military service age and obligation**<br>
 18-23 years of age (officers 21-29) for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br><br>
 
 ## Terrorism
 

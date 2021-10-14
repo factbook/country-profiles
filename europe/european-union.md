@@ -106,6 +106,12 @@ _25-54 years_: 40.54% (male 92,503,000/female 91,144,596)<br>
 _55-64 years_: 13.52% (male 29,805,200/female 31,424,172)<br>
 _65 years and over_: 20.5% (male 39,834,507/female 53,020,673) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 44 years<br>
 _male_: 42.6 years<br>
@@ -151,6 +157,14 @@ _female_: 82.51 years (2021 est.)<br>
 **Contraceptive prevalence rate**<br>
 NA<br>
 
+**Drinking water source**<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: NA<br>
+
 **Current Health Expenditure**<br>
 9.9% (2016)<br>
 
@@ -170,7 +184,7 @@ note - see individual entries of member states<br>
 NA<br>
 
 **Education expenditures**<br>
-4.6% of GDP (2017)<br>
+4.7% of GDP (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 16.8%<br>
@@ -518,19 +532,19 @@ _annual passenger traffic on registered air carriers_: 636,860,155 (2018)<br>
 _annual freight traffic on registered air carriers_: 31,730,660,000 (2018)<br>
 
 **Airports - with paved runways**<br>
-_total_: 1,882 (2017)<br>
-_over 3,047 m_: 120 (2017)<br>
-_2,438 to 3,047 m_: 341 (2017)<br>
-_1,524 to 2,437 m_: 507 (2017)<br>
-_914 to 1,523 m_: 425 (2017)<br>
+_total_: 1,882<br>
+_over 3,047 m_: 120<br>
+_2,438 to 3,047 m_: 341<br>
+_1,524 to 2,437 m_: 507<br>
+_914 to 1,523 m_: 425<br>
 _under 914 m_: 489 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1,244 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 15 (2013)<br>
-_914 to 1,523 m_: 245 (2013)<br>
+_total_: 1,244<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 15<br>
+_914 to 1,523 m_: 245<br>
 _under 914 m_: 982 (2013)<br>
 
 **Heliports**<br>

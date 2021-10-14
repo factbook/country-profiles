@@ -184,6 +184,9 @@ _vectorborne diseases_: malaria<br>
 **Children under the age of 5 years underweight**<br>
 NA<br>
 
+**Education expenditures**<br>
+NA<br>
+
 **Unemployment, youth ages 15-24**<br>
 _total_: 56.7%<br>
 _male_: 54.5%<br>
@@ -539,15 +542,15 @@ F-OH<br>
 _total_: 54 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 45 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 5 (2017)<br>
-_914 to 1,523 m_: 33 (2017)<br>
+_total_: 45<br>
+_over 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 5<br>
+_914 to 1,523 m_: 33<br>
 _under 914 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 9 (2013)<br>
-_914 to 1,523 m_: 4 (2013)<br>
+_total_: 9<br>
+_914 to 1,523 m_: 4<br>
 _under 914 m_: 5 (2013)<br>
 
 **Heliports**<br>

@@ -210,7 +210,7 @@ _vectorborne diseases_: dengue fever<br>
 3% (2019)<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2011)<br>
+3.1% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -380,10 +380,25 @@ _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 **Economic overview**<br>
 <p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p><p></p><p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p><p></p><p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
 
+**Real GDP (purchasing power parity)**<br>
+$133.587 billion (2019 est.)<br>
+$129.688 billion (2018 est.)<br>
+$125.07 billion (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
 **Real GDP growth rate**<br>
 5.4% (2017 est.)<br>
 5% (2016 est.)<br>
 5.8% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$31,459 (2019 est.)<br>
+$31,049 (2018 est.)<br>
+$30,455 (2017 est.)<br>
+<strong>note:</strong> data are in 2010 dollars<br>
+
+**GDP (official exchange rate)**<br>
+$66.801 billion (2019 est.)<br>
 
 **Inflation rate (consumer prices)**<br>
 0.9% (2017 est.)<br>
@@ -393,26 +408,6 @@ _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 _Fitch rating_: BBB (2011)<br>
 _Moody's rating_: Baa1 (2019)<br>
 _Standard & Poors rating_: BBB (2020)<br>
-
-**Real GDP (purchasing power parity)**<br>
-$133.587 billion (2019 est.)<br>
-$129.688 billion (2018 est.)<br>
-$125.07 billion (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**GDP (official exchange rate)**<br>
-$66.801 billion (2019 est.)<br>
-
-**Real GDP per capita**<br>
-$31,459 (2019 est.)<br>
-$31,049 (2018 est.)<br>
-$30,455 (2017 est.)<br>
-<strong>note:</strong> data are in 2010 dollars<br>
-
-**Gross national saving**<br>
-30% of GDP (2019 est.)<br>
-29.3% of GDP (2018 est.)<br>
-31.4% of GDP (2017 est.)<br>
 
 **GDP - composition, by sector of origin**<br>
 _agriculture_: 2.4% (2017 est.)<br>
@@ -426,12 +421,6 @@ _investment in fixed capital_: 42.9% (2017 est.)<br>
 _investment in inventories_: 3% (2017 est.)<br>
 _exports of goods and services_: 41.9% (2017 est.)<br>
 _imports of goods and services_: -44.2% (2017 est.)<br>
-
-**Ease of Doing Business Index scores**<br>
-_Overall score_: 66.6 (2020)<br>
-_Starting a Business score_: 92 (2020)<br>
-_Trading score_: 85.5 (2020)<br>
-_Enforcement score_: 49 (2020)<br>
 
 **Agricultural products**<br>
 sugar cane, bananas, rice, poultry, milk, plantains, pineapples, maize, beef, pork<br>
@@ -470,15 +459,15 @@ _highest 10%_: 38.9% (2014 est.)<br>
 _revenues_: 12.43 billion (2017 est.)<br>
 _expenditures_: 13.44 billion (2017 est.)<br>
 
-**Taxes and other revenues**<br>
-20.1% (of GDP) (2017 est.)<br>
-
 **Budget surplus (+) or deficit (-)**<br>
 -1.6% (of GDP) (2017 est.)<br>
 
 **Public debt**<br>
 37.8% of GDP (2017 est.)<br>
 37.4% of GDP (2016 est.)<br>
+
+**Taxes and other revenues**<br>
+20.1% (of GDP) (2017 est.)<br>
 
 **Fiscal year**<br>
 calendar year<br>
@@ -643,17 +632,17 @@ HP<br>
 _total_: 117 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 57 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 3 (2017)<br>
-_1,524 to 2,437 m_: 3 (2017)<br>
-_914 to 1,523 m_: 20 (2017)<br>
+_total_: 57<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 20<br>
 _under 914 m_: 30 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 60 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 8 (2013)<br>
+_total_: 60<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 8<br>
 _under 914 m_: 51 (2013)<br>
 
 **Heliports**<br>
@@ -681,6 +670,7 @@ _container port(s) (TEUs)_: Balboa (2,894,654), Colon (4,379,477) (2019)<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Panama National Police (La Policía Nacional de Panamá, PNP), National Air-Naval Service (Servicio Nacional Aeronaval, SENAN), National Border Service (Servicio Nacional de Fronteras, SENAFRONT) (2021)<br>
+note - the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2017)<br>
@@ -696,7 +686,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2020)<br>
 
 **Military - note**<br>
-on 10 February 1990, the government of then President Guillermo ENDARA abolished Panama's military and reformed the security apparatus by creating the Panamanian Public Forces; in October 1994, Panama's National Assembly approved a constitutional amendment prohibiting the creation of a standing military force but allowing the temporary establishment of special police units to counter acts of "external aggression"<br>
+the Panamanian Defense Force was disbanded after the 1989 US invasion; the Army was converted into a police force in 1990, and the armed forces were officially abolished under the 1994 Constitution<br>
 
 ## Transnational Issues
 

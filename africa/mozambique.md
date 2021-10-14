@@ -71,6 +71,9 @@ severe droughts; devastating cyclones and floods in central and southern provinc
 **Geography - note**<br>
 the Zambezi River flows through the north-central and most fertile part of the country<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -213,7 +216,7 @@ _animal contact diseases_: rabies<br>
 15.6% (2014/15)<br>
 
 **Education expenditures**<br>
-5.5% of GDP (2018)<br>
+6.2% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -288,6 +291,9 @@ _severe localized food insecurity_: <p>due to economic downturn, localized short
 _municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 25,000 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## Government
 
@@ -642,18 +648,18 @@ C9<br>
 _total_: 98 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 21 (2017)<br>
-_over 3,047 m_: 1 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 9 (2017)<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_total_: 21<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 77 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 9 (2013)<br>
-_914 to 1,523 m_: 29 (2013)<br>
+_total_: 77<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 9<br>
+_914 to 1,523 m_: 29<br>
 _under 914 m_: 38 (2013)<br>
 
 **Pipelines**<br>
@@ -697,11 +703,11 @@ information varies; approximately 11,000 personnel (10,000 Army; 200 Navy; 1,000
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2020)<br>
 
-**Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of September 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
-
 **Military service age and obligation**<br>
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>
+
+**Military - note**<br>
+the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of September 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
 
 ## Terrorism
 
@@ -715,7 +721,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,383 (Democratic Republic of Congo) (refugees and asylum seekers), 8,948 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,515 (Democratic Republic of Congo) (refugees and asylum seekers), 8,948 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

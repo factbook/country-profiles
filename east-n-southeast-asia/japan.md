@@ -195,7 +195,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Japan has reported a total of 844,014 cases of COVID-19 or 667.33 cumulative cases of COVID-19 per 100,000 population with 11.91 cumulative deaths per 100,000 population; as of 19 July 2021, 34.41% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Japan has reported a total of 1,706,675 cases of COVID-19 or 1,349.4 cumulative cases of COVID-19 per 100,000 population with<br>14.07 cumulative deaths per 100,000 population; as of 5 October 2021, 72.53% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 4.3% (2016)<br>
@@ -261,7 +261,7 @@ _rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Japan has reported a total of 844,014 cases of COVID-19 or 667.33 cumulative cases of COVID-19 per 100,000 population with 11.91 cumulative deaths per 100,000 population; as of 19 July 2021, 34.41% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> clusters of cases of respiratory illness caused by a new coronavirus (COVID-19) in Japan; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Japan has reported a total of 1,706,675 cases of COVID-19 or 1,349.4 cumulative cases of COVID-19 per 100,000 population with<br>14.07 cumulative deaths per 100,000 population; as of 5 October 2021, 72.53% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
@@ -316,9 +316,10 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his father who abdicated on 30 April 2019<br>
-_head of government_: Prime Minister Yoshihide SUGA (since 16 September 2020 ); Deputy Prime Minister Taro ASO (since 26 December 2012); note - Prime Minister SUGA announced his resignation on 3 September 2021 pending a party leadership vote scheduled for 29 September 2021<br>
+_head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021 )<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
+_election results_: Fumio KISHIDA elected prime minister on 4 October 2021 by the lower house with 311 votes against 124 for Yukio EDANO<br>
 
 **Legislative branch**<br>
 _description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -621,16 +622,16 @@ JA<br>
 _total_: 175 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 142 (2017)<br>
-_over 3,047 m_: 6 (2017)<br>
-_2,438 to 3,047 m_: 45 (2017)<br>
-_1,524 to 2,437 m_: 38 (2017)<br>
-_914 to 1,523 m_: 28 (2017)<br>
+_total_: 142<br>
+_over 3,047 m_: 6<br>
+_2,438 to 3,047 m_: 45<br>
+_1,524 to 2,437 m_: 38<br>
+_914 to 1,523 m_: 28<br>
 _under 914 m_: 25 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 33 (2013)<br>
-_914 to 1,523 m_: 5 (2013)<br>
+_total_: 33<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 28 (2013)<br>
 
 **Heliports**<br>
@@ -644,7 +645,7 @@ _total_: 27,311 km (2015)<br>
 _standard gauge_: 4,800 km 1.435-m gauge (4,800 km electrified) (2015)<br>
 _narrow gauge_: 124 km 1.372-m gauge (124 km electrified) (2015)<br>
 _dual gauge_: 132 km 1.435-1.067-m gauge (132 km electrified) (2015)<br>
-22,207 km 1.067-m gauge (15,430 km electrified) <br>48 km 0.762-m gauge (48 km electrified)<br>
+22.207 km 1.067-m gauge (15,430 km electrified)<br>48 km 0.762-m gauge (48 km electrified)<br>
 
 **Roadways**<br>
 _total_: 1,218,772 km (2015)<br>
@@ -687,6 +688,9 @@ approximately 170 Djibouti (2020 )<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (maximum enlistment age 32); no conscription (2019)<br>
+
+**Military - note**<br>
+<p>in addition to having one of the region’s largest and best equipped militaries, Japan’s alliance with the US (signed in 1951) is one of the cornerstones of the country’s security, as well as a large part of the US security role in Asia; as of 2021, nearly 55,000 US troops and other military assets, including significant numbers of aircraft and naval ships, were stationed in Japan and have exclusive use of more than 80 bases and facilities; in exchange for their use, the US guarantees Japan’s security; the Japanese Government provides about $2 billion per year to offset the cost of stationing US forces in Japan<br><br>Japan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

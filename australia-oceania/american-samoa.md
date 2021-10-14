@@ -94,6 +94,12 @@ _25-54 years_: 37.49% (male 9,164/female 9,370)<br>
 _55-64 years_: 9.69% (male 2,341/female 2,447)<br>
 _65 years and over_: 6.9% (male 1,580/female 1,831) (2020 est.)<br>
 
+**Dependency ratios**<br>
+_total dependency ratio_: NA<br>
+_youth dependency ratio_: NA<br>
+_elderly dependency ratio_: NA<br>
+_potential support ratio_: NA<br>
+
 **Median age**<br>
 _total_: 27.2 years<br>
 _male_: 26.7 years<br>
@@ -144,8 +150,12 @@ _female_: 77.72 years (2021 est.)<br>
 NA<br>
 
 **Drinking water source**<br>
-_improved: total_: total: 100% of population<br>
-_unimproved: total_: total: 0% of population (2017 est.)<br>
+_improved: urban_: urban: NA<br>
+_improved: rural_: rural: NA<br>
+_improved: total_: total: 100% of population NA<br>
+_unimproved: urban_: urban: NA<br>
+_unimproved: rural_: rural: NA<br>
+_unimproved: total_: total: 0% of population NA (2017 est.)<br>
 
 **Current Health Expenditure**<br>
 NA<br>
@@ -487,10 +497,10 @@ _percent of population_: 31.3% (July 2016 est.)<br>
 _total_: 3 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 3 (2019)<br>
+_total_: 3<br>
 _over 3,047 m_: 1<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Roadways**<br>
 _total_: 241 km (2016)<br>

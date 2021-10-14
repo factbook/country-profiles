@@ -72,6 +72,9 @@ despite a distinctive pattern with an industrial north and an agrarian south, a 
 **Geography - note**<br>
 strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -200,7 +203,7 @@ _unimproved: total_: total: 1.2% of population (2017 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Italy has reported a total of 4,289,528  cases of COVID-19 or 7,192.19 cumulative cases of COVID-19 per 100,000 population with 214.4 cumulative deaths per 100,000 population; as of 19 July 2021, 60.61% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Italy has reported a total of 4,686,109 cases of COVID-19 or 7,857.13 cumulative cases of COVID-19 per 100,000 population with 219.84 cumulative deaths per 100,000 population; as of 5 October 2021, 75.36% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Obesity - adult prevalence rate**<br>
 19.9% (2016)<br>
@@ -209,7 +212,7 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 NA<br>
 
 **Education expenditures**<br>
-4% of GDP (2017)<br>
+4.3% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -271,12 +274,15 @@ _rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
-<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 19 July 2021, Italy has reported a total of 4,289,528  cases of COVID-19 or 7,192.19 cumulative cases of COVID-19 per 100,000 population with 214.4 cumulative deaths per 100,000 population; as of 19 July 2021, 60.61% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+<strong>note:</strong> a new coronavirus is causing  respiratory illness (COVID-19) in Italy; illness with this virus has ranged from mild to severe with fatalities reported; as of 6 October 2021, Italy has reported a total of 4,686,109 cases of COVID-19 or 7,857.13 cumulative cases of COVID-19 per 100,000 population with 219.84 cumulative deaths per 100,000 population; as of 5 October 2021, 75.36% of the population has received at least one dose of COVID-19 vaccine; the US Department of Homeland Security has issued instructions requiring US passengers who have been in Italy to travel through select airports where the US Government has implemented enhanced screening procedures<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 29.524 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,646,716 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 ## Government
 
@@ -351,7 +357,7 @@ _subordinate courts_: various lower civil and criminal courts (primary and secon
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Maurizio GREGANTI, Minister (since 15 June 2021)<br>
+_chief of mission_: Ambassador Mariangela ZAPPIA (since 15 September 2021)<br>
 _chancery_: 3000 Whitehaven Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 612-4400<br>
 _FAX_: [1] (202) 518-2154<br>
@@ -636,17 +642,17 @@ I<br>
 _total_: 129 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 98 (2017)<br>
-_over 3,047 m_: 9 (2017)<br>
-_2,438 to 3,047 m_: 31 (2017)<br>
-_1,524 to 2,437 m_: 18 (2017)<br>
-_914 to 1,523 m_: 29 (2017)<br>
+_total_: 98<br>
+_over 3,047 m_: 9<br>
+_2,438 to 3,047 m_: 31<br>
+_1,524 to 2,437 m_: 18<br>
+_914 to 1,523 m_: 29<br>
 _under 914 m_: 11 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 31 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 10 (2013)<br>
+_total_: 31<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 10<br>
 _under 914 m_: 20 (2013)<br>
 
 **Heliports**<br>
@@ -700,11 +706,11 @@ the Italian Armed Forces' inventory includes a mix of domestically-produced, joi
 **Military deployments**<br>
 120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 1,200 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
 
-**Military - note**<br>
-Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2019)<br>
+
+**Military - note**<br>
+Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2021, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions, and as of 2021, was the top supplier of military and police forces among Western and EU nations to UN peacekeeping operations; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions</p><br>
 
 ## Terrorism
 
@@ -719,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 567,404 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 571,601 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

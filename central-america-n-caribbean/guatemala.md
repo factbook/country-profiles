@@ -198,7 +198,7 @@ _unimproved: total_: total: 23.3% of population (2017 est.)<br>
 33,000 (2020 est.)<br>
 
 **HIV/AIDS - deaths**<br>
-1,200 <1,000 (2020 est.)<br>
+<1,000 (2020 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -212,7 +212,7 @@ _vectorborne diseases_: dengue fever and malaria<br>
 12.4% (2014/15)<br>
 
 **Education expenditures**<br>
-3.2% of GDP (2019)<br>
+3.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -635,17 +635,17 @@ TG<br>
 _total_: 291 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 4 (2017)<br>
-_914 to 1,523 m_: 6 (2017)<br>
+_total_: 16<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 4<br>
+_914 to 1,523 m_: 6<br>
 _under 914 m_: 4 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 275 (2013)<br>
-_2,438 to 3,047 m_: 1 (2013)<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
-_914 to 1,523 m_: 77 (2013)<br>
+_total_: 275<br>
+_2,438 to 3,047 m_: 1<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 77<br>
 _under 914 m_: 195 (2013)<br>
 
 **Heliports**<br>

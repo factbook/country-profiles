@@ -74,6 +74,12 @@ the population concentrated along the southern and southeastern coast, and inlan
 **Geography - note**<br>
 South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+
+**Major aquifers**<br>
+Karoo Basin, Lower Kalahari-Stampriet Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _unimproved: total_: total: 9.4% of population (2017 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2021, South Africa has reported a total of 2,302,304 cases of COVID-19 or 3,881.9 cumulative cases of COVID-19 per 100,000 population with 113.1 cumulative deaths per 100,000 population; as of 19 July 2021, 7.38% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 October 2021, South Africa has reported a total of 2,907,619 cases of COVID-19 or 4,902.52 cumulative cases of COVID-19 per 100,000 population with 148.24 cumulative deaths per 100,000 population; as of 5 October 2021, 21.76% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 28.3% (2016)<br>
@@ -213,7 +219,7 @@ _water contact diseases_: schistosomiasis<br>
 5.5% (2017)<br>
 
 **Education expenditures**<br>
-6.5% of GDP (2019)<br>
+6.8% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -275,12 +281,18 @@ _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
 _degree of risk_: intermediate (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea, hepatitis A, and typhoid fever<br>
 _water contact diseases_: schistosomiasis<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 June 2021, South Africa has reported a total of 2,302,304 cases of COVID-19 or 3,881.9 cumulative cases of COVID-19 per 100,000 population with 113.1 cumulative deaths per 100,000 population; as of 19 July 2021, 7.38% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout South Africa; as of 6 October 2021, South Africa has reported a total of 2,907,619 cases of COVID-19 or 4,902.52 cumulative cases of COVID-19 per 100,000 population with 148.24 cumulative deaths per 100,000 population; as of 5 October 2021, 21.76% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+
+**Major aquifers**<br>
+Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
 ## Government
 
@@ -637,19 +649,19 @@ ZS<br>
 _total_: 407 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 130 (2020)<br>
+_total_: 130<br>
 _over 3,047 m_: 11<br>
 _2,438 to 3,047 m_: 6<br>
 _1,524 to 2,437 m_: 46<br>
 _914 to 1,523 m_: 60<br>
-_under 914 m_: 7<br>
+_under 914 m_: 7 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 277 (2020)<br>
+_total_: 277<br>
 _2,438 to 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 19<br>
 _914 to 1,523 m_: 178<br>
-_under 914 m_: 79<br>
+_under 914 m_: 79 (2020)<br>
 
 **Pipelines**<br>
 94 km condensate, 1293 km gas, 992 km oil, 1460 km refined products (2013)<br>

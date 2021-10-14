@@ -5,7 +5,7 @@ _East & Southeast Asia / Dependencies (China)_
 ## Introduction
 
 **Background**<br>
-Occupied by the UK in 1841, Hong Kong was formally ceded by China the following year; various adjacent lands were added later in the 19th century. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the subsequent 50 years.<br>
+Seized by the UK in 1841, Hong Kong was formally ceded by China the following year at the end of the First Opium War; the Kowloon Peninsula was added in 1860 at the end of the Second Opium War, and was further extended when Britain obtained a 99-year lease of the New Territories in 1898. Pursuant to an agreement signed by China and the UK on 19 December 1984, Hong Kong became the Hong Kong Special Administrative Region of the People's Republic of China on 1 July 1997. In this agreement, China promised that, under its "one country, two systems" formula, China's socialist economic and strict political system would not be imposed on Hong Kong and that Hong Kong would enjoy a "high degree of autonomy" in all matters except foreign and defense affairs for the subsequent 50 years. Since the turnover, Hong Kong has continued to enjoy success as an international financial center. However, dissatisfaction with the Hong Kong Government and growing Chinese political influence has been a central issue and led to considerable civil unrest. In June 2020, the Chinese Government passed a security law for Hong Kong that would criminalize acts such as those interpreted as secession, subversion, terrorism, and collusion with foreign or external forces. Critics said the law effectively curtailed protests and freedom of speech and was widely viewed as reducing Hong Kong&rsquo;s autonomy, while Beijing said it would return stability. The law was met with widespread international condemnation and criticism that it effectively ended the "one country, two systems" guiding principle of Hong Kong&rsquo;s Basic Law. Since its passing, authorities have used the law to detain pro-democracy activists and politicians, oust opposition lawmakers, and raid media offices. In March 2021, Beijing reduced the number of directly elected seats in Hong Kong&rsquo;s legislature, furthering its efforts to curtail political opposition and protests.<br>
 
 ## Geography
 
@@ -83,7 +83,7 @@ Chinese 92%, Filipino 2.5%, Indonesian 2.1%, other 3.4% (2016 est.)<br>
 
 **Languages**<br>
 Cantonese (official) 88.9%, English (official) 4.3%, Mandarin (official) 1.9%, other Chinese dialects 3.1%, other 1.9% (2016 est.)<br>
-_major-language sample(s)_: <br>世界概放，必須擁有的基本資料参考书 (Cantonese)<br><br>The World Factbook, the indispensable source for basic information.<br>
+_major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
 Buddhist or Taoist 27.9%, Protestant 6.7%, Roman Catholic 5.3%, Muslim 4.2%, Hindu 1.4%, Sikh 0.2%, other or none 54.3% (2016 est.)<br>
@@ -191,7 +191,7 @@ NA<br>
 NA<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2019)<br>
+4.4% of GDP (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -580,9 +580,9 @@ B-H<br>
 _total_: 2 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _over 3,047 m_: 1<br>
-_1,524 to 2,437 m_: 1<br>
+_1,524 to 2,437 m_: 1 (2019)<br>
 
 **Heliports**<br>
 9 (2013)<br>

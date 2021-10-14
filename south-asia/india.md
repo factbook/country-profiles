@@ -73,6 +73,12 @@ with the notable exception of the deserts in the northwest, including the Thar D
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -204,7 +210,7 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 20 July 2021, India has reported a total of 31,174,322 cases of COVID-19 or 2,259 cumulative cases of COVID-19 per 100,000 population with 30.03 cumulative deaths per 100,000 population; as of 19 July 2021, 23.65% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 6 October 2021, India has reported a total of 33,871,881 cases of COVID-19 or 2,454.48 cumulative cases of COVID-19 per 100,000 population with 32.58 cumulative deaths per 100,000 population; as of 5 October 2021, 48% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
 
 **Obesity - adult prevalence rate**<br>
 3.9% (2016)<br>
@@ -213,7 +219,7 @@ _animal contact diseases_: rabies<br>
 33.4% (2016/18)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2013)<br>
+3.5% of GDP (2016)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -280,12 +286,18 @@ _food or waterborne diseases_: bacterial diarrhea, hepatitis A and E, and typhoi
 _vectorborne diseases_: dengue fever, Crimean-Congo hemorrhagic fever, Japanese encephalitis, and malaria<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 20 July 2021, India has reported a total of 31,174,322 cases of COVID-19 or 2,259 cumulative cases of COVID-19 per 100,000 population with 30.03 cumulative deaths per 100,000 population; as of 19 July 2021, 23.65% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
+<strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are being reported across 27 States and Union Territories in India; as of 6 October 2021, India has reported a total of 33,871,881 cases of COVID-19 or 2,454.48 cumulative cases of COVID-19 per 100,000 population with 32.58 cumulative deaths per 100,000 population; as of 5 October 2021, 48% of the population has received at least one dose of COVID-19 vaccine; effective 4 May 2021, the US has banned most travel from India to the US<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
 _municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
 
 ## Government
 
@@ -646,19 +658,19 @@ VT<br>
 _total_: 346 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 253 (2017)<br>
-_over 3,047 m_: 22 (2017)<br>
-_2,438 to 3,047 m_: 59 (2017)<br>
-_1,524 to 2,437 m_: 76 (2017)<br>
-_914 to 1,523 m_: 82 (2017)<br>
+_total_: 253<br>
+_over 3,047 m_: 22<br>
+_2,438 to 3,047 m_: 59<br>
+_1,524 to 2,437 m_: 76<br>
+_914 to 1,523 m_: 82<br>
 _under 914 m_: 14 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 93 (2013)<br>
-_over 3,047 m_: 1 (2013)<br>
-_2,438 to 3,047 m_: 3 (2013)<br>
-_1,524 to 2,437 m_: 6 (2013)<br>
-_914 to 1,523 m_: 38 (2013)<br>
+_total_: 93<br>
+_over 3,047 m_: 1<br>
+_2,438 to 3,047 m_: 3<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 38<br>
 _under 914 m_: 45 (2013)<br>
 
 **Heliports**<br>
@@ -713,6 +725,9 @@ the inventory of the Indian Armed Forces consists mostly of Russian-origin equip
 
 **Military service age and obligation**<br>
 16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2020)<br>
+
+**Military - note**<br>
+<p>as of 2021, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2021, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; a cease-fire went into effect in 2003, but as of 2021, both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness</p><br>
 
 ## Terrorism
 

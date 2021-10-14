@@ -70,6 +70,9 @@ flooding; droughts; earthquakes<br>
 **Geography - note**<br>
 landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -213,7 +216,7 @@ _animal contact diseases_: rabies<br>
 9% (2019)<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2018)<br>
+2.9% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -286,6 +289,9 @@ _severe localized food insecurity_: due to reduced incomes - nationally, cereal 
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## Government
 
@@ -634,15 +640,15 @@ _annual freight traffic on registered air carriers_: 10,000 mt-km (2018)<br>
 _total_: 32 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 7 (2019)<br>
+_total_: 7<br>
 _over 3,047 m_: 1<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 4<br>
+_914 to 1,523 m_: 4 (2019)<br>
 
 **Airports - with unpaved runways**<br>
 _total_: 25 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
-_914 to 1,523 m_: 11 (2013)<br>
+_1,524 to 2,437 m_: 1<br>
+_914 to 1,523 m_: 11<br>
 _under 914 m_: 13 (2013)<br>
 
 **Railways**<br>
@@ -690,5 +696,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,409 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,873 (Burundi) (refugees and asylum seekers), 7,314 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 31,818 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,873 (Burundi) (refugees and asylum seekers), 7,314 (Rwanda) (refugees and asylum seekers) (2021)<br>
 

@@ -67,6 +67,9 @@ a fairly even distribution throughout most of the country, with urban areas attr
 **Geography - note**<br>
 landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -203,7 +206,7 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 NA<br>
 
 **Education expenditures**<br>
-4.7% of GDP (2017)<br>
+4.6% of GDP (2018)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -272,6 +275,9 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 _municipal solid waste generated annually_: 3.712 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 962,893 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## Government
 
@@ -627,17 +633,17 @@ HA<br>
 _total_: 41 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 20 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 6 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
-_914 to 1,523 m_: 5 (2017)<br>
+_total_: 20<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 6<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 5<br>
 _under 914 m_: 1 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 21 (2013)<br>
-_1,524 to 2,437 m_: 2 (2013)<br>
-_914 to 1,523 m_: 8 (2013)<br>
+_total_: 21<br>
+_1,524 to 2,437 m_: 2<br>
+_914 to 1,523 m_: 8<br>
 _under 914 m_: 11 (2013)<br>
 
 **Heliports**<br>
@@ -690,11 +696,11 @@ the inventory of the Hungarian Defense Forces consists largely of Soviet-era wea
 **Military deployments**<br>
 160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)<br>
 
-**Military - note**<br>
-Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
-
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2019)<br>
+
+**Military - note**<br>
+Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>
 
 ## Transnational Issues
 

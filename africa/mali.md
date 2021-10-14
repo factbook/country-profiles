@@ -70,6 +70,12 @@ hot, dust-laden harmattan haze common during dry seasons; recurring droughts; oc
 **Geography - note**<br>
 landlocked; divided into three natural zones: the southern, cultivated Sudanese; the central, semiarid Sahelian; and the northern, arid Saharan<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -213,7 +219,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 18.1% (2019)<br>
 
 **Education expenditures**<br>
-3.8% of GDP (2017)<br>
+3.4% of GDP (2019)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
@@ -287,6 +293,12 @@ _severe localized food insecurity_: <p>due to civil insecurity - according to th
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
 ## Government
 
@@ -633,16 +645,16 @@ TZ, TT<br>
 _total_: 25 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 8 (2019)<br>
+_total_: 8<br>
 _over 3,047 m_: 1<br>
 _2,438 to 3,047 m_: 4<br>
 _1,524 to 2,437 m_: 2<br>
-_914 to 1,523 m_: 1<br>
+_914 to 1,523 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 17 (2013)<br>
-_1,524 to 2,437 m_: 3 (2013)<br>
-_914 to 1,523 m_: 9 (2013)<br>
+_total_: 17<br>
+_1,524 to 2,437 m_: 3<br>
+_914 to 1,523 m_: 9<br>
 _under 914 m_: 5 (2013)<br>
 
 **Heliports**<br>
@@ -664,8 +676,8 @@ _river port(s)_: Koulikoro (Niger)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2020)<br>
-note(s): the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; it has special units on camels (the Camel Corps) for patrolling the deserts and borders of northern Mali<br>
+Malian Armed Forces (FAMa): Army (Armee de Terre; includes a riverine patrol force), Republic of Mali Air Force (Force Aerienne de la Republique du Mali, FARM); National Gendarmerie; National Guard (Garde National du Mali) (2021)<br>
+note(s): the Gendarmerie and the National Guard are under the authority of the Ministry of Defense and Veterans Affairs (Ministere De La Defense Et Des Anciens Combattants, MDAC), but operational control is shared between the MDAC and the Ministry of Internal Security and Civil Protection<br><br>the Gendarmerie's primary mission is internal security and public order; its duties also include territorial defense, humanitarian operations, intelligence gathering, and protecting private property, mainly in rural areas; as of 2021, the Gendarmerie was comprised of approximately 8 paramilitary companies and a mobile intervention unit<br><br>the National Guard is a military force responsible for providing security to government facilities and institutions, prison service, public order, humanitarian operations, some border security, and intelligence gathering; as of 2021, it had approximately 8 companies of troops, including a camel corps for patrolling the deserts and borders of northern Mali<br>
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -680,11 +692,11 @@ information varies; approximately 18,000 total troops (13,000 Army; 800 Air Forc
 **Military equipment inventories and acquisitions**<br>
 the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than 15 countries (2020)<br>
 
-**Military - note**<br>
-prior to the coups in August 2020 and May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012); the military collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants; it has been since rebuilt, but continues to have limited capabilities and is heavily reliant on external assistance <br><br>since 2017, the FAMa, along with other government security and paramilitary forces, has conducted multiple major operations against militants in the eastern, central, and northern parts of the country; up to 4,000 troops reportedly have been deployed; the stated objectives for the most recent operation (Operation Maliko in early 2020) was to end terrorist activity and restore government authority in seven of the country’s 10 regions, including Mopti, Ségou, Gao, Kidal, Ménaka, Taoudénit, and Timbuktu<br><br>Mali is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane  <br><br>the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013; the Mission's responsibilities include providing security, rebuilding Malian security forces, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of June 2021, MINUSMA had around 15,000 military and police personnel deployed; in June 2021, MINUSMA's mission was extended until the end of June 2022<br><br>the European Union Training Mission in Mali (EUTM-M) also has operated in the country since 2013; the EUTM-M provides advice and training to the Malian Armed Forces and military assistance to the G5 Sahel Joint Force; as of March 2021, the mission included almost 700 personnel from 25 European countries<br>
-
 **Military service age and obligation**<br>
 18 years of age for selective compulsory and voluntary military service (men and women); 2-year conscript service obligation (2019)<br>
+
+**Military - note**<br>
+prior to the coups in August 2020 and May 2021, the Malian military had intervened in the political arena at least five times since the country gained independence in 1960; two attempts failed (1976 and 1978), while three succeeded in overturning civilian rule (1968, 1991, and 2012); the military collapsed in 2012 during the fighting against Tuareg rebels and Islamic militants; it has been since rebuilt, but continues to have limited capabilities and is heavily reliant on external assistance <br><br>since 2017, the FAMa, along with other government security and paramilitary forces, has conducted multiple major operations against militants in the eastern, central, and northern parts of the country; up to 4,000 troops reportedly have been deployed; the stated objectives for the most recent operation (Operation Maliko in early 2020) was to end terrorist activity and restore government authority in seven of the country’s 10 regions, including Mopti, Ségou, Gao, Kidal, Ménaka, Taoudénit, and Timbuktu<br><br>Mali is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mauritania, and Niger; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane  <br><br>the United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) has operated in the country since 2013; the Mission's responsibilities include providing security, rebuilding Malian security forces, supporting national political dialogue, and assisting in the reestablishment of Malian government authority; as of August 2021, MINUSMA had around 18,000 personnel deployed; in June 2021, MINUSMA's mission was extended until the end of June 2022<br><br>the European Union Training Mission in Mali (EUTM-M) also has operated in the country since 2013; the EUTM-M provides advice and training to the Malian Armed Forces and military assistance to the G5 Sahel Joint Force; as of March 2021, the mission included almost 700 personnel from 25 European countries<br>
 
 ## Terrorism
 

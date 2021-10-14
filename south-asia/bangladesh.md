@@ -70,6 +70,9 @@ droughts; cyclones; much of the country routinely inundated during the summer mo
 **Geography - note**<br>
 most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal<br>
 
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
 ## People and Society
 
 **Population**<br>
@@ -199,7 +202,7 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 19 July 2021, Bangladesh has reported a total of 1,128,889 cases of COVID-19 or 685.47 cumulative cases of COVID-19 per 100,000 population with 11.13 cumulative deaths per 100,000 population; as of 19 July 2021, 3.54% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 October 2021, Bangladesh has reported a total of 1,560,155 cases of COVID-19 or 947.33 cumulative cases of COVID-19 per 100,000 population with 16.78 cumulative deaths per 100,000 population; as of 5 October 2021, 10.46% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Obesity - adult prevalence rate**<br>
 3.6% (2016)<br>
@@ -275,13 +278,16 @@ _food or waterborne diseases_: bacterial and protozoal diarrhea, hepatitis A and
 _vectorborne diseases_: dengue fever and malaria are high risks in some locations<br>
 _water contact diseases_: leptospirosis<br>
 _animal contact diseases_: rabies<br>
-<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 19 July 2021, Bangladesh has reported a total of 1,128,889 cases of COVID-19 or 685.47 cumulative cases of COVID-19 per 100,000 population with 11.13 cumulative deaths per 100,000 population; as of 19 July 2021, 3.54% of the population has received at least one dose of COVID-19 vaccine<br>
+<strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Bangladesh; as of 6 October 2021, Bangladesh has reported a total of 1,560,155 cases of COVID-19 or 947.33 cumulative cases of COVID-19 per 100,000 population with 16.78 cumulative deaths per 100,000 population; as of 5 October 2021, 10.46% of the population has received at least one dose of COVID-19 vaccine<br>
 
 **Food insecurity**<br>
 _severe localized food insecurity_: due to economic constraints - food insecurity poverty levels have increased due to income losses and a decline in remittances caused by the effects of the COVID‑19 pandemic (2021)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
 
 ## Government
 
@@ -639,16 +645,16 @@ S2<br>
 _total_: 18 (2013)<br>
 
 **Airports - with paved runways**<br>
-_total_: 16 (2017)<br>
-_over 3,047 m_: 2 (2017)<br>
-_2,438 to 3,047 m_: 2 (2017)<br>
-_1,524 to 2,437 m_: 6 (2017)<br>
-_914 to 1,523 m_: 1 (2017)<br>
+_total_: 16<br>
+_over 3,047 m_: 2<br>
+_2,438 to 3,047 m_: 2<br>
+_1,524 to 2,437 m_: 6<br>
+_914 to 1,523 m_: 1<br>
 _under 914 m_: 5 (2017)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 2 (2013)<br>
-_1,524 to 2,437 m_: 1 (2013)<br>
+_total_: 2<br>
+_1,524 to 2,437 m_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Heliports**<br>
@@ -706,6 +712,9 @@ the International Maritime Bureau reports the territorial waters of Bangladesh r
 
 **Military service age and obligation**<br>
 16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)<br>
+
+**Military - note**<br>
+<p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
 
 ## Terrorism
 

@@ -189,7 +189,7 @@ _unimproved: total_: total: 8.1% of population (2017 est.)<br>
 NA<br>
 
 **Education expenditures**<br>
-NA<br>
+3.3% of GDP (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over has completed five or more years of schooling<br>
@@ -574,12 +574,12 @@ V2<br>
 _total_: 3 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 2 (2019)<br>
+_total_: 2<br>
 _2,438 to 3,047 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2019)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 1 (2013)<br>
+_total_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Roadways**<br>
@@ -605,11 +605,11 @@ the Antigua and Barbuda Defense Force (ABDF) has approximately 200 active person
 **Military equipment inventories and acquisitions**<br>
 the ABDF's equipment inventory is limited to small arms, light weapons, and soft-skin vehicles; the Coast Guard maintains ex-US patrol vessels and some smaller boats (2020)<br>
 
-**Military - note**<br>
-member of the Regional Security System (RSS), an international agreement for the defense and security of the eastern Caribbean region<br>
-
 **Military service age and obligation**<br>
 18-23 years of age for voluntary military service for both males and females; no conscription (2021)<br>
+
+**Military - note**<br>
+<p>has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Barbados, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
 
 ## Transnational Issues
 

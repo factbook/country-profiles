@@ -73,6 +73,12 @@ dust storms and periodic persistent droughts<br>
 **Geography - note**<br>
 the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
 ## People and Society
 
 **Population**<br>
@@ -283,6 +289,12 @@ _severe localized food insecurity_: due to conflict, civil insecurity, and soari
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 ## Government
 
@@ -628,18 +640,18 @@ ST<br>
 _total_: 67 (2020)<br>
 
 **Airports - with paved runways**<br>
-_total_: 17 (2020)<br>
+_total_: 17<br>
 _over 3,047 m_: 2<br>
 _2,438 to 3,047 m_: 11<br>
 _1,524 to 2,437 m_: 2<br>
 _914 to 1,523 m_: 1<br>
-_under 914 m_: 1<br>
+_under 914 m_: 1 (2020)<br>
 
 **Airports - with unpaved runways**<br>
-_total_: 50 (2020)<br>
+_total_: 50<br>
 _1,524 to 2,437 m_: 17<br>
 _914 to 1,523 m_: 24<br>
-_under 914 m_: 9<br>
+_under 914 m_: 9 (2020)<br>
 
 **Heliports**<br>
 7 (2020)<br>
@@ -671,7 +683,7 @@ _major seaport(s)_: Port Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF, paramilitary); Reserve Department (formerly the paramilitary Popular Defense Forces) (2020)<br>
+Sudanese Armed Forces (SAF): Ground Force, Navy, Sudanese Air Force; Rapid Support Forces (RSF, paramilitary); Reserve Department (formerly the paramilitary Popular Defense Forces) (2021)<br>
 the RSF is an autonomous paramilitary force formed in 2013 to fight armed rebel groups in Sudan, with Mohammed Hamdan DAGALLO (aka Hemeti) as its commander (he is also Deputy Chairman of the Sovereignty Council), from the remnants of the Janjaweed militia that participated in suppressing the Darfur rebellion; it was initially placed under the National Intelligence and Security Service, then came under the direct command of former president Omar al-BASHIR, who boosted the RSF as his own personal security force; the RSF has been accused of committing rights abuses against civilians; it is also reportedly involved in business enterprises, such as gold mining; in late 2019, Sovereignty Council Chairman and SAF Commander-in-Chief General Abd-al-Fatah al-BURHAN said the RSF would be fully integrated into the SAF, but did not give a timeline<br>
 
 **Military expenditures**<br>
@@ -691,11 +703,16 @@ the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, a
 **Military deployments**<br>
 est. 1,000-3,000 Libya; est. 1,000-2,000 Yemen (2020)<br>
 
-**Military - note**<br>
-<p>in October 2020, after almost a year of negotiations, Sudan’s transitional government and a broad alliance of armed rebel groups known as the Sudanese Revolutionary Front (SRF) signed a peace agreement; the SRF rebels had operated in Darfur, South Kordofan, and the Blue Nile provinces; under the agreement, SRF fighters are to be slowly incorporated into joint units with government security forces over a period of 39 months; however, two rebel groups – the Darfur-based Sudan Liberation Movement/Army (SLM/A) and the Sudan People’s Liberation Movement-North (SPLM-N), which controls territory in the South Kordofan and Blue Nile provinces, are not part of the agreement; in March 2021, the Sudanese Government and the SPLM-N agreed to re-start peace talks</p> <p>the Sudanese military and security forces reportedly control over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,800 personnel deployed as of July 2021<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region since 2007 until its mission was completed in mid-2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; in July 2021, UNAMID entered a year-long liquidation phase in which it will maintain a guard unit consisting of about 360 police to protect UN personnel, facilities, and assets inside the El Fasher Logistics Base; Sudanese joint security forces will continue to be deployed outside the base and assist the remaining UN contingent with securing its perimeter; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations<br>
-
 **Military service age and obligation**<br>
 18-33 years of age for male and female compulsory or voluntary military service; 1-2 year service obligation (2019)<br>
+
+**Military - note**<br>
+<p>in October 2020, after almost a year of negotiations, Sudan’s transitional government and a broad alliance of armed rebel groups known as the Sudanese Revolutionary Front (SRF) signed a peace agreement; the SRF rebels had operated in Darfur, South Kordofan, and the Blue Nile provinces; under the agreement, SRF fighters are to be slowly incorporated into joint units with government security forces over a period of 39 months; however, two rebel groups – the Darfur-based Sudan Liberation Movement/Army (SLM/A) and the Sudan People’s Liberation Movement-North (SPLM-N), which controls territory in the South Kordofan and Blue Nile provinces, are not part of the agreement; in March 2021, the Sudanese Government and the SPLM-N agreed to re-start peace talks</p> <p>the Sudanese military and security forces reportedly control over 200 commercial companies, including businesses involved in gold mining, rubber production, agriculture, and meat exports</p> United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; UNISFA had about 3,800 personnel deployed as of August 2021<br><br>in addition, the United Nations African Union Hybrid Operation in Darfur (UNAMID) operated in the war-torn Darfur region since 2007 until its mission was completed in mid-2021; UNAMID was a joint African Union-UN peacekeeping force with the mission of bringing stability to Darfur, including protecting civilians, facilitating humanitarian assistance, and promoting mediation efforts, while peace talks on a final settlement continued; in July 2021, UNAMID entered a year-long liquidation phase in which it will maintain a guard unit consisting of about 360 police to protect UN personnel, facilities, and assets inside the El Fasher Logistics Base; Sudanese joint security forces will continue to be deployed outside the base and assist the remaining UN contingent with securing its perimeter; note - the October 2020 peace agreement provided for the establishment of a joint security force comprised of 12,000 members tasked with securing the Darfur region in the place of UNAMID; in June 2021, Sudan's transitional government announced it would increase the size of this force to 20,000 and expand its mission scope to include the capital and other parts of the country suffering from violence; the force would include the SAF, RSF, police, intelligence, and representatives from armed groups involved in peace negotiations<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 ## Transnational Issues
 
@@ -703,7 +720,7 @@ est. 1,000-3,000 Libya; est. 1,000-2,000 Yemen (2020)<br>
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 784,860 (South Sudan) (refugees and asylum seekers), 125,671 (Eritrea) (refugees and asylum seekers), 93,489 (Syria) (refugees and asylum seekers), 69,533 (Ethiopia) (refugees and asylum seekers), 27,356 (Central African Republic) (2021)<br>
+_refugees (country of origin)_: 784,860 (South Sudan) (refugees and asylum seekers), 125,671 (Eritrea) (refugees and asylum seekers), 93,489 (Syria) (refugees and asylum seekers), 69,533 (Ethiopia) (refugees and asylum seekers), 27,569 (Central African Republic) (2021)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>
