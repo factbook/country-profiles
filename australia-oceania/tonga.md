@@ -234,9 +234,6 @@ _particulate matter emissions_: 10.08 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.13 megatons (2016 est.)<br>
 _methane emissions_: 0.12 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; modified by trade winds; warm season (December to May), cool season (May to December)<br>
 
@@ -248,15 +245,15 @@ _agricultural land: permanent pasture_: permanent pasture: 5.6% (2018 est.)<br>
 _forest_: 12.5% (2018 est.)<br>
 _other_: 44.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 23.1% of total population (2021)<br>
+_rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 23.1% of total population (2021)<br>
-_rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -265,6 +262,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,238 tons (2012 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -366,8 +366,8 @@ _lyrics/music_: Uelingatoni Ngu TUPOUMALOHI/Karl Gustavus SCHMITT<br>
 <p>Tonga has a small, open island economy and is the last constitutional monarchy among the Pacific Island countries. It has a narrow export base in agricultural goods. Squash, vanilla beans, and yams are the main crops. Agricultural exports, including fish, make up two-thirds of total exports. Tourism is the second-largest source of hard currency earnings following remittances. Tonga had 53,800 visitors in 2015. The country must import a high proportion of its food, mainly from New Zealand.</p><p></p><p>The country remains dependent on external aid and remittances from overseas Tongans to offset its trade deficit. The government is emphasizing the development of the private sector, encouraging investment, and is committing increased funds for health care and education. Tonga's English-speaking and educated workforce offers a viable labor market, and the tropical climate provides fertile soil. Renewable energy and deep-sea mining also offer opportunities for investment.</p><p></p><p>Tonga has a reasonably sound basic infrastructure and well developed social services. But the government faces high unemployment among the young, moderate inflation, pressures for democratic reform, and rising civil service expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$667 million (2019 est.)<br>
-$662 million (2018 est.)<br>
+$670 million note: data are in 2017 dollars (2019 est.)<br>
+$660 million note: data are in 2017 dollars (2018 est.)<br>
 $660 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -377,8 +377,8 @@ $660 million (2017 est.)<br>
 3.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,383 (2019 est.)<br>
-$6,416 (2018 est.)<br>
+$6,400 note: data are in 2017 dollars (2019 est.)<br>
+$6,400 note: data are in 2017 dollars (2018 est.)<br>
 $6,472 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -455,8 +455,9 @@ _expenditures_: 181.2 million (2017 est.)<br>
 -$30 million (2016 est.)<br>
 
 **Exports**<br>
-$18.4 million (2017 est.)<br>
-$19.4 million (2016 est.)<br>
+$90 million note: data are in current year dollars (2020 est.)<br>
+$110 million note: data are in current year dollars (2019 est.)<br>
+$100 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nbsp; (2019)<br>
@@ -465,8 +466,9 @@ United States 38%, South Korea 18%, Australia 14%, New Zealand 14%, Japan 6%,&nb
 squash, fish, various fruits and nuts, antiques, coral and shells (2019)<br>
 
 **Imports**<br>
-$250.2 million (2017 est.)<br>
-$269.8 million (2016 est.)<br>
+$300 million note: data are in current year dollars (2020 est.)<br>
+$330 million note: data are in current year dollars (2019 est.)<br>
+$320 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Fiji 29%, New Zealand 23%, China 14%, United States 8%, Australia 6%, Japan 6% (2019)<br>

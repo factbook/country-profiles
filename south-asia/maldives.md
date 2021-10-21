@@ -230,14 +230,6 @@ _particulate matter emissions_: 7.63 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.44 megatons (2016 est.)<br>
 _methane emissions_: 0.14 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 5.6 million cubic meters (2017 est.)<br>
-_industrial_: 300,000 cubic meters (2017 est.)<br>
-_agricultural_: 0 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-30 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)<br>
 
@@ -249,18 +241,26 @@ _agricultural land: permanent pasture_: permanent pasture: 3.3% (2018 est.)<br>
 _forest_: 3% (2018 est.)<br>
 _other_: 73.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 41.1% of total population (2021)<br>
+_rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 41.1% of total population (2021)<br>
-_rate of urbanization_: 2.34% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 211,506 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 5.6 million cubic meters (2017 est.)<br>
+_industrial_: 300,000 cubic meters (2017 est.)<br>
+_agricultural_: 0 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+30 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -358,9 +358,9 @@ _lyrics/music_: Mohamed Jameel DIDI/Wannakuwattawaduge DON AMARADEVA<br>
 <p>Maldives has quickly become a middle-income country, driven by the rapid growth of its tourism and fisheries sectors, but the country still contends with a large and growing fiscal deficit. Infrastructure projects, largely funded by China, could add significantly to debt levels. Political turmoil and the declaration of a state of emergency in February 2018 led to the issuance of travel warnings by several countries whose citizens visit Maldives in significant numbers, but the overall impact on tourism revenue was unclear.</p><p></p><p>In 2015, Maldives’ Parliament passed a constitutional amendment legalizing foreign ownership of land; foreign land-buyers must reclaim at least 70% of the desired land from the ocean and invest at least $1 billion in a construction project approved by Parliament.</p><p></p><p>Diversifying the economy beyond tourism and fishing, reforming public finance, increasing employment opportunities, and combating corruption, cronyism, and a growing drug problem are near-term challenges facing the government. Over the longer term, Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is 1 meter or less above sea level.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.37 billion (2019 est.)<br>
-$9.692 billion (2018 est.)<br>
-$8.964 billion (2017 est.)<br>
+$7.05 billion note: data are in 2017 dollars (2020 est.)<br>
+$10.37 billion note: data are in 2017 dollars (2019 est.)<br>
+$9.69 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -369,9 +369,9 @@ $8.964 billion (2017 est.)<br>
 2.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$19,531 (2019 est.)<br>
-$18,796 (2018 est.)<br>
-$18,058 (2017 est.)<br>
+$13,000 note: data are in 2017 dollars (2020 est.)<br>
+$19,500 note: data are in 2017 dollars (2019 est.)<br>
+$18,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -452,8 +452,8 @@ calendar year<br>
 -$1.033 billion (2016 est.)<br>
 
 **Exports**<br>
-$256.2 million (2016 est.)<br>
-$239.8 million (2015 est.)<br>
+$3.72 billion note: data are in current year dollars (2019 est.)<br>
+$3.58 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, United Kingdom 5% (2019)<br>
@@ -462,8 +462,8 @@ Thailand 24%, United States 13%, China 12%, France 11%, Germany 11%, Italy 5%, U
 fish products, natural gas, scrap iron, jewelry, liquid pumps (2019)<br>
 
 **Imports**<br>
-$2.125 billion (2016 est.)<br>
-$1.896 billion (2015 est.)<br>
+$4.09 billion note: data are in current year dollars (2019 est.)<br>
+$4.1 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 24%, China 16%, Singapore 14%, India 11%, Malaysia 6%, Thailand 5% (2019)<br>

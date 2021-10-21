@@ -61,6 +61,9 @@ _other_: 15.8% (2018 est.)<br>
 **Irrigated land**<br>
 0 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
 **Population distribution**<br>
 most people live in the south, on or near the border with France<br>
 
@@ -227,14 +230,6 @@ _particulate matter emissions_: 10.21 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 8.99 megatons (2016 est.)<br>
 _methane emissions_: 0.61 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 43.6 million cubic meters (2017 est.)<br>
-_industrial_: 1.6 million cubic meters (2017 est.)<br>
-_agricultural_: 400,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-3.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 modified continental with mild winters, cool summers<br>
 
@@ -246,20 +241,31 @@ _agricultural land: permanent pasture_: permanent pasture: 26.1% (2018 est.)<br>
 _forest_: 33.5% (2018 est.)<br>
 _other_: 15.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 91.7% of total population (2021)<br>
+_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 91.7% of total population (2021)<br>
-_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 356,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 100,997 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.4% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 43.6 million cubic meters (2017 est.)<br>
+_industrial_: 1.6 million cubic meters (2017 est.)<br>
+_agricultural_: 400,000 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+3.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -363,9 +369,9 @@ _lyrics/music_: Michel LENTZ/Jean-Antoine ZINNEN; Nikolaus WELTER/unknown<br>
 <p>This small, stable, high-income economy has historically featured solid growth, low inflation, and low unemployment. Luxembourg, the only Grand Duchy in the world, is a landlocked country in northwestern Europe surrounded by Belgium, France, and Germany. Despite its small landmass and small population, Luxembourg is the fifth-wealthiest country in the world when measured on a gross domestic product (PPP) per capita basis. Luxembourg has one of the highest current account surpluses as a share of GDP in the euro zone, and it maintains a healthy budgetary position, with a 2017 surplus of 0.5% of GDP, and the lowest public debt level in the region.</p><p></p><p>Since 2002, Luxembourg’s government has proactively implemented policies and programs to support economic diversification and to attract foreign direct investment. The government focused on key innovative industries that showed promise for supporting economic growth: logistics, information and communications technology (ICT); health technologies, including biotechnology and biomedical research; clean energy technologies, and more recently, space technology and financial services technologies. The economy has evolved and flourished, posting strong GDP growth of 3.4% in 2017, far outpacing the European average of 1.8%.</p><p></p><p>Luxembourg remains a financial powerhouse – the financial sector accounts for more than 35% of GDP - because of the exponential growth of the investment fund sector through the launch and development of cross-border funds (UCITS) in the 1990s. Luxembourg is the world’s second-largest investment fund asset domicile, after the US, with $4 trillion of assets in custody in financial institutions.</p><p></p><p>Luxembourg has lost some of its advantage as a favorable tax location because of OECD and EU pressure, as well as the "LuxLeaks" scandal, which revealed advantageous tax treatments offered to foreign corporations. In 2015, the government’s compliance with EU requirements to implement automatic exchange of tax information on savings accounts - thus ending banking secrecy - has constricted banking activity. Likewise, changes to the way EU members collect taxes from e-commerce has cut Luxembourg’s sales tax revenues, requiring the government to raise additional levies and to reduce some direct social benefits as part of the tax reform package of 2017. The tax reform package also included reductions in the corporate tax rate and increases in deductions for families, both intended to increase purchasing power and increase competitiveness.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$70.966 billion (2019 est.)<br>
-$69.373 billion (2018 est.)<br>
-$67.28 billion (2017 est.)<br>
+$69.72 billion note: data are in 2017 dollars (2020 est.)<br>
+$70.64 billion note: data are in 2017 dollars (2019 est.)<br>
+$69.06 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -374,9 +380,9 @@ $67.28 billion (2017 est.)<br>
 1.81% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$114,482 (2019 est.)<br>
-$114,110 (2018 est.)<br>
-$112,823 (2017 est.)<br>
+$110,300 note: data are in 2017 dollars (2020 est.)<br>
+$113,900 note: data are in 2017 dollars (2019 est.)<br>
+$113,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -461,9 +467,9 @@ $3.254 billion (2019 est.)<br>
 $3.296 billion (2018 est.)<br>
 
 **Exports**<br>
-$133.61 billion (2019 est.)<br>
-$132.487 billion (2018 est.)<br>
-$131.834 billion (2017 est.)<br>
+$137.09 billion note: data are in current year dollars (2020 est.)<br>
+$133.59 billion note: data are in current year dollars (2019 est.)<br>
+$136.11 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
@@ -472,9 +478,9 @@ Germany 23%, France 13%, Belgium 12%, Netherlands 6%, Italy 5% (2019)<br>
 iron and iron products, tires, cars, broadcasting equipment, clothing and apparel&nbsp; (2019)<br>
 
 **Imports**<br>
-$111.287 billion (2019 est.)<br>
-$110.275 billion (2018 est.)<br>
-$110.656 billion (2017 est.)<br>
+$110.1 billion note: data are in current year dollars (2020 est.)<br>
+$108.29 billion note: data are in current year dollars (2019 est.)<br>
+$110.28 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Belgium 27%, Germany 24%, France 11%, Netherlands 5% (2019)<br>

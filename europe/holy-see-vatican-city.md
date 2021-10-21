@@ -144,9 +144,6 @@ _signed, but not ratified_: Air Pollution, Environmental Modification<br>
 **Air pollutants**<br>
 _methane emissions_: 0 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; mild, rainy winters (September to May) with hot, dry summers (May to September)<br>
 
@@ -157,6 +154,9 @@ _other_: 100% (2018 est.)<br>
 **Urbanization**<br>
 _urban population_: 100% of total population (2021)<br>
 _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 

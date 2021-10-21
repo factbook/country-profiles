@@ -63,6 +63,9 @@ _other_: 20.2% (2018 est.)<br>
 **Irrigated land**<br>
 6,500 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
 
@@ -71,9 +74,6 @@ flooding<br>
 
 **Geography - note**<br>
 strategic location on North European Plain and along the entrance to the Baltic Sea; most major rivers in Germany - the Rhine, Weser, Oder, Elbe - flow northward; the Danube, which originates in the Black Forest, flows eastward<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -236,14 +236,6 @@ _particulate matter emissions_: 11.71 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 727.97 megatons (2016 est.)<br>
 _methane emissions_: 49.92 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 4.388 billion cubic meters (2017 est.)<br>
-_industrial_: 19.75 billion cubic meters (2017 est.)<br>
-_agricultural_: 299.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-154 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate and marine; cool, cloudy, wet winters and summers; occasional warm mountain (foehn) wind<br>
 
@@ -255,15 +247,15 @@ _agricultural land: permanent pasture_: permanent pasture: 13.3% (2018 est.)<br>
 _forest_: 31.8% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 77.5% of total population (2021)<br>
+_rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 77.5% of total population (2021)<br>
-_rate of urbanization_: 0.13% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
@@ -272,6 +264,14 @@ _percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 4.388 billion cubic meters (2017 est.)<br>
+_industrial_: 19.75 billion cubic meters (2017 est.)<br>
+_agricultural_: 299.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+154 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -329,9 +329,9 @@ _elections/appointments_: president indirectly elected by a Federal Convention c
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (735 seats for the 2021-25 term - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members serve 4-year terms)<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (735 seats for the 2021-25 term - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
 _elections_: <br>Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in September 2025 at the latest); most postwar German governments have been coalitions<br>
-_election results_: <br>Bundesrat - composition - men 50, women 19, percent of women 27.5%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; note - total Bundestag percent of women NA%<br>
+_election results_: <br>Bundesrat - composition - men 50, women 23, percent of women 33.3%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; note - total Bundestag percent of women NA%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>
@@ -378,9 +378,9 @@ _lyrics/music_: August Heinrich HOFFMANN VON FALLERSLEBEN/Franz Joseph HAYDN<br>
 <p>The German economy - the fifth largest economy in the world in PPP terms and Europe's largest - is a leading exporter of machinery, vehicles, chemicals, and household equipment. Germany benefits from a highly skilled labor force, but, like its Western European neighbors, faces significant demographic challenges to sustained long-term growth. Low fertility rates and a large increase in net immigration are increasing pressure on the country's social welfare system and necessitate structural reforms.</p><p></p><p>Reforms launched by the government of Chancellor Gerhard SCHROEDER (1998-2005), deemed necessary to address chronically high unemployment and low average growth, contributed to strong economic growth and falling unemployment. These advances, as well as a government subsidized, reduced working hour scheme, help explain the relatively modest increase in unemployment during the 2008-09 recession - the deepest since World War II. The German Government introduced a minimum wage in 2015 that increased to $9.79 (8.84 euros) in January 2017.</p><p></p><p>Stimulus and stabilization efforts initiated in 2008 and 2009 and tax cuts introduced in Chancellor Angela MERKEL's second term increased Germany's total budget deficit - including federal, state, and municipal - to 4.1% in 2010, but slower spending and higher tax revenues reduced the deficit to 0.8% in 2011 and in 2017 Germany reached a budget surplus of 0.7%. A constitutional amendment approved in 2009 limits the federal government to structural deficits of no more than 0.35% of GDP per annum as of 2016, though the target was already reached in 2012.</p><p></p><p>Following the March 2011 Fukushima nuclear disaster, Chancellor Angela MERKEL announced in May 2011 that eight of the country's 17 nuclear reactors would be shut down immediately and the remaining plants would close by 2022. Germany plans to replace nuclear power largely with renewable energy, which accounted for 29.5% of gross electricity consumption in 2016, up from 9% in 2000. Before the shutdown of the eight reactors, Germany relied on nuclear power for 23% of its electricity generating capacity and 46% of its base-load electricity production.</p><p></p><p>The German economy suffers from low levels of investment, and a government plan to invest 15 billion euros during 2016-18, largely in infrastructure, is intended to spur needed private investment. Domestic consumption, investment, and exports are likely to drive German GDP growth in 2018, and the country’s budget and trade surpluses are likely to remain high.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4,482,448,000,000 (2019 est.)<br>
-$4,457,688,000,000 (2018 est.)<br>
-$4,401,873,000,000 (2017 est.)<br>
+$4,238,800,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$4,457,050,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$4,432,430,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $4,401,873,000,000 (2017 est.)<br>
 2.91% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$53,919 (2019 est.)<br>
-$53,768 (2018 est.)<br>
-$53,255 (2017 est.)<br>
+$50,900 note: data are in 2017 dollars (2020 est.)<br>
+$53,600 note: data are in 2017 dollars (2019 est.)<br>
+$53,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,9 +476,9 @@ $280.238 billion (2019 est.)<br>
 $297.434 billion (2018 est.)<br>
 
 **Exports**<br>
-$2,004,158,000,000 (2019 est.)<br>
-$1,984,745,000,000 (2018 est.)<br>
-$1,937,273,000,000 (2017 est.)<br>
+$1,671,650,000,000 note: data are in current year dollars (2020 est.)<br>
+$1,813,190,000,000 note: data are in current year dollars (2019 est.)<br>
+$1,881,510,000,000 note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 5%, Poland 5%, Austria 5% (2019)<br>
@@ -487,9 +487,9 @@ United States 9%, France 8%, China 7%, Netherlands 6%, United Kingdom 6%, Italy 
 cars and vehicle parts, packaged medicines, aircraft, medical cultures/vaccines, industrial machinery (2019)<br>
 
 **Imports**<br>
-$1,804,453,000,000 (2019 est.)<br>
-$1,759,299,000,000 (2018 est.)<br>
-$1,695,300,000,000 (2017 est.)<br>
+$1,452,560,000,000 note: data are in current year dollars (2020 est.)<br>
+$1,593,720,000,000 note: data are in current year dollars (2019 est.)<br>
+$1,635,580,000,000 note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Netherlands 9%, China 8%, France 7%, Belgium 6%, Poland 6%, Italy 6%, Czechia 5%, United States 5% (2019)<br>
@@ -699,7 +699,7 @@ approximately 500 Middle East (NATO/Counter-ISIS campaign); 130 Lebanon (UNIFIL)
 17-23 years of age for male and female voluntary military service; conscription ended July 2011; service obligation 8-23 months or 12 years; women have been eligible for voluntary service in all military branches and positions since 2001 (2019)<br>
 
 **Military - note**<br>
-the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br> <p>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group</p><br>
+the Federal Republic of Germany joined NATO in May 1955; with the reunification of Germany in October 1990, the states of the former German Democratic Republic joined the Federal Republic of Germany in its membership of NATO<br><br> <p>the German Army has incorporated a joint Franco-German mechanized infantry brigade since 1989, a Dutch airmobile infantry brigade since 2014, and a Dutch mechanized infantry brigade since 2016; in addition, the German Navy’s Sea Battalion (includes marine infantry, naval divers, reconnaissance, and security forces) has worked closely with the Dutch Marine Corps since 2016, including as a binational amphibious landing group</p> (2021)<br>
 
 ## Terrorism
 
@@ -713,7 +713,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 572,818 (Syria), 141,650 (Iraq), 140,366 (Afghanistan), 58,569 (Eritrea), 43,244 (Iran), 28,470 (Turkey), 26,015 (Somalia), 8,722 (Russia), 8,639 (Serbia and Kosovo), 8,125 (Pakistan), 7,828 (Nigeria) (2019)<br>
+_refugees (country of origin)_: 605,338 (Syria), 147,994 (Afghanistan), 146,009 (Iraq), 61,226 (Eritrea), 44,965 (Iran), 33,345 (Turkey), 28,061 (Somalia), 9,172 (Russia), 8,813 (Nigeria), 8,475 (Pakistan), 7,926 (Serbia and Kosovo), 5,385 (Ethiopia) (2020)<br>
 _stateless persons_: 26,675 (2020)<br>
 
 **Illicit drugs**<br>

@@ -64,14 +64,17 @@ _other_: 18.8% (2018 est.)<br>
 **Irrigated land**<br>
 53,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
 **Natural hazards**<br>
 droughts; cyclones; much of the country routinely inundated during the summer monsoon season<br>
 
 **Geography - note**<br>
 most of the country is situated on deltas of large rivers flowing from the Himalayas: the Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal<br>
-
-**Major aquifers**<br>
-Indus-Ganges-Brahmaputra Basin<br>
 
 ## People and Society
 
@@ -243,14 +246,6 @@ _particulate matter emissions_: 58.33 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 84.25 megatons (2016 est.)<br>
 _methane emissions_: 59.3 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2017 est.)<br>
-_industrial_: 770 million cubic meters (2017 est.)<br>
-_agricultural_: 31.5 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1,227,032,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; mild winter (October to March); hot, humid summer (March to June); humid, warm rainy monsoon (June to October)<br>
 
@@ -262,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 4.6% (2018 est.)<br>
 _forest_: 11.1% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 38.9% of total population (2021)<br>
+_rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 38.9% of total population (2021)<br>
-_rate of urbanization_: 2.88% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -286,8 +281,19 @@ _severe localized food insecurity_: due to economic constraints - food insecurit
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
+
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.6 billion cubic meters (2017 est.)<br>
+_industrial_: 770 million cubic meters (2017 est.)<br>
+_agricultural_: 31.5 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1,227,032,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -392,9 +398,9 @@ _lyrics/music_: Rabindranath TAGORE<br>
 <p>Bangladesh's economy has grown roughly 6% per year since 2005 despite prolonged periods of political instability, poor infrastructure, endemic corruption, insufficient power supplies, and slow implementation of economic reforms. Although more than half of GDP is generated through the services sector, almost half of Bangladeshis are employed in the agriculture sector, with rice as the single-most-important product.</p> <p> </p> <p>Garments, the backbone of Bangladesh's industrial sector, accounted for more than 80% of total exports in FY 2016-17. The industrial sector continues to grow, despite the need for improvements in factory safety conditions. Steady export growth in the garment sector, combined with $13 billion in remittances from overseas Bangladeshis, contributed to Bangladesh's rising foreign exchange reserves in FY 2016-17. Recent improvements to energy infrastructure, including the start of liquefied natural gas imports in 2018, represent a major step forward in resolving a key growth bottleneck.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$775.076 billion (2019 est.)<br>
-$716.65 billion (2018 est.)<br>
-$664.403 billion (2017 est.)<br>
+$793.49 billion note: data are in 2017 dollars (2020 est.)<br>
+$775.08 billion note: data are in 2017 dollars (2019 est.)<br>
+$716.65 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -403,9 +409,9 @@ $664.403 billion (2017 est.)<br>
 6.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,754 (2019 est.)<br>
-$4,441 (2018 est.)<br>
-$4,161 (2017 est.)<br>
+$4,800 note: data are in 2017 dollars (2020 est.)<br>
+$4,800 note: data are in 2017 dollars (2019 est.)<br>
+$4,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -490,9 +496,9 @@ _expenditures_: 33.5 billion (2017 est.)<br>
 $1.391 billion (2016 est.)<br>
 
 **Exports**<br>
-$33.057 billion (2019 est.)<br>
-$29.798 billion (2018 est.)<br>
-$27.568 billion (2017 est.)<br>
+$38.78 billion note: data are in current year dollars (2020 est.)<br>
+$44.96 billion note: data are in current year dollars (2019 est.)<br>
+$44.13 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br>
@@ -501,9 +507,9 @@ United States 15%, Germany 14%, United Kingdom 8%, Spain 7%, France 7% (2019)<br
 clothing, knitwear, leather footwear (2019)<br>
 
 **Imports**<br>
-$44.801 billion (2019 est.)<br>
-$45.725 billion (2018 est.)<br>
-$36.001 billion (2017 est.)<br>
+$57.26 billion note: data are in current year dollars (2020 est.)<br>
+$64.23 billion note: data are in current year dollars (2019 est.)<br>
+$65.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 31%, India 15%, Singapore 5% (2019)<br>
@@ -611,7 +617,7 @@ _total subscriptions_: 165.572 million<br>
 _subscriptions per 100 inhabitants_: 102.87 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bangladesh’s economic constraints hinder network infrastructure, resulting in the lowest fixed-line penetration rate in South Asia and a very low fixed broadband rate; most consumers utilize mobile broadband for data on LTE networks but rates are still well below that of most other Asian countries; the government approved a modernization project to support investment and prepare for 5G launches; 2020 test of 5G technology in Dhaka; government directive allows IoT for smart buildings and automation industries; government project aims to provide network to services and schools; importer of broadcasting equipment from China  (2021)</p> (2020)<br>
+_general assessment_: <p>Bangladesh’s economic constraints hinder network infrastructure, resulting in the lowest fixed-line penetration rate in South Asia and a very low fixed broadband rate; most consumers utilize mobile broadband for data on LTE networks but rates are still well below that of most other Asian countries; the government approved a modernization project to support investment and prepare for 5G launches; 2020 test of 5G technology in Dhaka; government directive allows IoT for smart buildings and automation industries; government project aims to provide network to services and schools; importer of broadcasting equipment from China</p> (2021)<br>
 _domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds&nbsp;101 telephones per 100 persons; mobile subscriber growth is&nbsp;anticipated over the next five years to 2023; strong local competition (2019)<br>
 _international_: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -711,7 +717,7 @@ Bangladesh is one of the leading contributors to UN peacekeeping missions since 
 the International Maritime Bureau reports the territorial waters of Bangladesh remain a risk for armed robbery against ships; attacks increased in 2020 when four ships were boarded as opposed to no attacks in 2019<br>
 
 **Military service age and obligation**<br>
-16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2018)<br>
+16-21 years of age for voluntary military service; Bangladeshi nationality and 10th grade education required; officers: 17-21 years of age, Bangladeshi nationality, and 12th grade education required (2019)<br>
 
 **Military - note**<br>
 <p>as of 2021, the military’s chief areas of focus were border, economic exclusion zone, and domestic security; the Army maintained a large domestic security presence in the Chittagong Hills area where it conducted counterinsurgency operations against tribal guerrillas from the 1970s until the late 1990s; since 2009, the military has been in a force-wide expansion and modernization program known as Forces Goal 2030</p><br>
@@ -728,7 +734,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p>Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 890,276 (Burma) (2021) (includes an estimated 738,817 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 902,947 (Burma) (2021) (includes an estimated 751,862 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 866,457 (2020)<br>
 

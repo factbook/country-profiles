@@ -222,14 +222,6 @@ _particulate matter emissions_: 18.72 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.61 megatons (2016 est.)<br>
 _methane emissions_: 0.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 9 million cubic meters (2017 est.)<br>
-_industrial_: 3.8 million cubic meters (2017 est.)<br>
-_agricultural_: 900,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical marine; humid; cooler season during southeast monsoon (late May to September); warmer season during northwest monsoon (March to May)<br>
 
@@ -241,18 +233,26 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 88.5% (2018 est.)<br>
 _other_: 5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 58% of total population (2021)<br>
+_rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.09% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
-_rate of urbanization_: 0.99% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 48,000 tons (2012 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 9 million cubic meters (2017 est.)<br>
+_industrial_: 3.8 million cubic meters (2017 est.)<br>
+_agricultural_: 900,000 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -351,9 +351,9 @@ _lyrics/music_: David Francois Marc ANDRE and George Charles Robert PAYET<br>
 <p>Since independence in 1976, per capita output in this Indian Ocean archipelago has expanded to roughly seven times the pre-independence, near-subsistence level, moving the island into the high income group of countries. Growth has been led by the tourism sector, which directly employs about 26% of the labor force and directly and indirectly accounts for more than 55% of GDP, and by tuna fishing. In recent years, the government has encouraged foreign investment to upgrade hotels and tourism industry services. At the same time, the government has moved to reduce the dependence on tourism by promoting the development of the offshore financial, information, and communication sectors and renewable energy.</p> <p>In 2008, having depleted its foreign exchange reserves, Seychelles defaulted on interest payments due on a $230 million Eurobond, requested assistance from the IMF, and immediately enacted a number of significant structural reforms, including liberalization of the exchange rate, reform of the public sector to include layoffs, and the sale of some state assets. In December 2013, the IMF declared that Seychelles had successfully transitioned to a market-based economy with full employment and a fiscal surplus. However, state-owned enterprises still play a prominent role in the economy. Effective 1 January 2017, Seychelles was no longer eligible for trade benefits under the US African Growth and Opportunities Act after having gained developed country status. Seychelles grew at 5% in 2017 because of a strong tourism sector and low commodity prices. The Seychellois Government met the IMF’s performance criteria for 2017 but recognizes a need to make additional progress to reduce high income inequality, represented by a Gini coefficient of 46.8.</p> <p>As a very small open economy dependent on tourism, Seychelles remains vulnerable to developments such as economic downturns in countries that supply tourists, natural disasters, and changes in local climatic conditions and ocean temperature. One of the main challenges facing the government is implementing strategies that will increase Seychelles' long-term resilience to climate change without weakening economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.852 billion (2019 est.)<br>
-$2.709 billion (2018 est.)<br>
-$2.611 billion (2017 est.)<br>
+$2.4 billion note: data are in 2017 dollars (2020 est.)<br>
+$2.69 billion note: data are in 2017 dollars (2019 est.)<br>
+$2.65 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -362,9 +362,9 @@ $2.611 billion (2017 est.)<br>
 4.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$29,223 (2019 est.)<br>
-$27,997 (2018 est.)<br>
-$27,243 (2017 est.)<br>
+$24,400 note: data are in 2017 dollars (2020 est.)<br>
+$27,500 note: data are in 2017 dollars (2019 est.)<br>
+$27,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -444,8 +444,9 @@ calendar year<br>
 -$286 million (2016 est.)<br>
 
 **Exports**<br>
-$564.8 million (2017 est.)<br>
-$477.6 million (2016 est.)<br>
+$1.09 billion note: data are in current year dollars (2020 est.)<br>
+$1.61 billion note: data are in current year dollars (2019 est.)<br>
+$1.68 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands 11%, Zambia 9%, Mauritius 5%, Japan 5% (2019)<br>
@@ -454,8 +455,9 @@ United Arab Emirates 17%, United Kingdom 13%, France 12%, British Virgin Islands
 refined petroleum, fish, recreational boats, cigarettes, animal meal (2019)<br>
 
 **Imports**<br>
-$1.155 billion (2017 est.)<br>
-$991 million (2016 est.)<br>
+$1.35 billion note: data are in current year dollars (2020 est.)<br>
+$1.79 billion note: data are in current year dollars (2019 est.)<br>
+$1.86 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 21%, Qatar 13%, British Virgin Islands 7%, Germany 6%, France 6%, China 5%, Spain 5%, South Africa 5% (2019)<br>

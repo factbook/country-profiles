@@ -219,9 +219,6 @@ _particulate matter emissions_: 12.53 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
 _methane emissions_: 0.01 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-10 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical with a monsoonal pattern; rainy season (November to February)<br>
 
@@ -233,12 +230,12 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 80% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 100% of total population (2021)<br>
 _rate of urbanization_: 0.18% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -247,6 +244,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,192 tons (2016 est.)<br>
+
+**Total renewable water resources**<br>
+10 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -337,8 +337,8 @@ _lyrics/music_: Margaret HENDRIE/Laurence Henry HICKS<br>
 <p>Revenues of this tiny island - a coral atoll with a land area of 21 square kilometers - traditionally have come from exports of phosphates. Few other resources exist, with most necessities being imported, mainly from Australia, its former occupier and later major source of support. Primary reserves of phosphates were exhausted and mining ceased in 2006, but mining of a deeper layer of "secondary phosphate" in the interior of the island began the following year. The secondary phosphate deposits may last another 30 years. Earnings from Nauru’s export of phosphate remains an important source of income. Few comprehensive statistics on the Nauru economy exist; estimates of Nauru's GDP vary widely.</p><p></p><p>The rehabilitation of mined land and the replacement of income from phosphates are serious long-term problems. In anticipation of the exhaustion of Nauru's phosphate deposits, substantial amounts of phosphate income were invested in trust funds to help cushion the transition and provide for Nauru's economic future.</p><p></p><p>Although revenue sources for government are limited, the opening of the Australian Regional Processing Center for asylum seekers since 2012 has sparked growth in the economy. Revenue derived from fishing licenses under the "vessel day scheme" has also boosted government income. Housing, hospitals, and other capital plant are deteriorating. The cost to Australia of keeping the Nauruan government and economy afloat continues to climb.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$145 million (2019 est.)<br>
-$145 million (2018 est.)<br>
+$150 million note: data are in 2017 dollars (2019 est.)<br>
+$150 million note: data are in 2017 dollars (2018 est.)<br>
 $137 million (2017 est.)<br>
 <strong>note:</strong> data are in 2015 dollars<br>
 
@@ -348,8 +348,8 @@ $137 million (2017 est.)<br>
 2.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,583 (2019 est.)<br>
-$11,471 (2018 est.)<br>
+$13,500 note: data are in 2017 dollars (2019 est.)<br>
+$13,600 note: data are in 2017 dollars (2018 est.)<br>
 $10,667 (2017 est.)<br>
 <strong>note:</strong> data are in 2015 US dollars<br>
 
@@ -420,7 +420,7 @@ $5 million (2017 est.)<br>
 $2 million (2016 est.)<br>
 
 **Exports**<br>
-$125 million (2013 est.)<br>
+$30 million note: data are in current year dollars (2018 est.)<br>
 $110.3 million (2012 est.)<br>
 
 **Exports - partners**<br>
@@ -430,8 +430,8 @@ Thailand 34%, Australia 16%, United States 13%, South Korea 10%, Philippines 9%,
 fish, calcium phosphates, low-voltage protection equipment, air conditioners, leather apparel (2019)<br>
 
 **Imports**<br>
+$90 million note: data are in current year dollars (2018 est.)<br>
 $64.9 million (2016 est.)<br>
-$143.1 million (2013 est.)<br>
 
 **Imports - partners**<br>
 Taiwan 52%, Australia 28% (2019)<br>

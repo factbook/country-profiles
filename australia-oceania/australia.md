@@ -64,6 +64,12 @@ _other_: 30.9% (2018 est.)<br>
 **Irrigated land**<br>
 25,460 sq km (2014)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
+
+**Major aquifers**<br>
+Great Artesian Basin, Canning Basin<br>
+
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
 
@@ -72,12 +78,6 @@ population is primarily located on the periphery, with the highest concentration
 
 **Geography - note**<br>
 <strong>note 1:</strong> world's smallest continent but sixth-largest country; the largest country in Oceania, the largest country entirely in the Southern Hemisphere, and the largest country without land borders<br><br><strong>note 2:</strong> the Great Dividing Range that runs along eastern Australia is that continent’s longest mountain range and the third-longest land-based range in the world; the term "Great Dividing Range" refers to the fact that the mountains form a watershed crest from which all of the rivers of eastern Australia flow – east, west, north, and south<br><br><strong>note 3:</strong> Australia is the only continent without glaciers; it is the driest inhabited continent on earth, making it particularly vulnerable to the challenges of climate change; the invigorating sea breeze known as the "Fremantle Doctor" affects the city of Perth on the west coast and is one of the most consistent winds in the world; Australia is home to 10% of the world's biodiversity, and a great number of its flora and fauna exist nowhere else in the world<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Lake Eyre<em> (endorheic basin)</em>: Lake Eyre (1,212,198 sq km)<br>
-
-**Major aquifers**<br>
-Great Artesian Basin, Canning Basin<br>
 
 ## People and Society
 
@@ -237,14 +237,6 @@ _particulate matter emissions_: 7.19 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 375.91 megatons (2016 est.)<br>
 _methane emissions_: 105.01 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.392 billion cubic meters (2017 est.)<br>
-_industrial_: 2.662 billion cubic meters (2017 est.)<br>
-_agricultural_: 10.5 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-492 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 generally arid to semiarid; temperate in south and east; tropical in north<br>
 
@@ -256,16 +248,16 @@ _agricultural land: permanent pasture_: permanent pasture: 88.4% (2018 est.)<br>
 _forest_: 16.2% (2018 est.)<br>
 _other_: 30.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 86.4% of total population (2021)<br>
+_rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.13% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.78% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 86.4% of total population (2021)<br>
-_rate of urbanization_: 1.27% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Christmas Island, Cocos Islands, and Norfolk Island<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
@@ -273,10 +265,18 @@ _municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Lake Eyre<em> (endorheic basin)</em>: Lake Eyre (1,212,198 sq km)<br>
+Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
 
 **Major aquifers**<br>
 Great Artesian Basin, Canning Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.392 billion cubic meters (2017 est.)<br>
+_industrial_: 2.662 billion cubic meters (2017 est.)<br>
+_agricultural_: 10.5 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+492 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +383,9 @@ _lyrics/music_: Peter Dodds McCORMICK<br>
 <p>Australia is an open market with minimal restrictions on imports of goods and services. The process of opening up has increased productivity, stimulated growth, and made the economy more flexible and dynamic. Australia plays an active role in the WTO, APEC, the G20, and other trade forums. Australia’s free trade agreement (FTA) with China entered into force in 2015, adding to existing FTAs with the Republic of Korea, Japan, Chile, Malaysia, New Zealand, Singapore, Thailand, and the US, and a regional FTA with ASEAN and New Zealand. Australia continues to negotiate bilateral agreements with Indonesia, as well as larger agreements with its Pacific neighbors and the Gulf Cooperation Council countries, and an Asia-wide Regional Comprehensive Economic Partnership that includes the 10 ASEAN countries and China, Japan, Korea, New Zealand, and India.</p><p></p><p>Australia is a significant exporter of natural resources, energy, and food. Australia's abundant and diverse natural resources attract high levels of foreign investment and include extensive reserves of coal, iron, copper, gold, natural gas, uranium, and renewable energy sources. A series of major investments, such as the US$40 billion Gorgon Liquid Natural Gas Project, will significantly expand the resources sector.</p><p></p><p>For nearly two decades up till 2017, Australia had benefited from a dramatic surge in its terms of trade. As export prices increased faster than import prices, the economy experienced continuous growth, low unemployment, contained inflation, very low public debt, and a strong and stable financial system. Australia entered 2018 facing a range of growth constraints, principally driven by the sharp fall in global prices of key export commodities. Demand for resources and energy from Asia and especially China is growing at a slower pace and sharp drops in export prices have impacted growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,264,514,000,000 (2019 est.)<br>
-$1,237,766,000,000 (2018 est.)<br>
-$1,202,307,000,000 (2017 est.)<br>
+$1,250,900,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,254,480,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,227,940,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $1,202,307,000,000 (2017 est.)<br>
 2.45% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$49,854 (2019 est.)<br>
-$49,545 (2018 est.)<br>
-$48,871 (2017 est.)<br>
+$48,700 note: data are in 2017 dollars (2020 est.)<br>
+$49,500 note: data are in 2017 dollars (2019 est.)<br>
+$49,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,9 +476,9 @@ $8.146 billion (2019 est.)<br>
 -$29.777 billion (2018 est.)<br>
 
 **Exports**<br>
-$404.562 billion (2019 est.)<br>
-$391.563 billion (2018 est.)<br>
-$372.516 billion (2017 est.)<br>
+$299.04 billion note: data are in current year dollars (2020 est.)<br>
+$342.43 billion note: data are in current year dollars (2019 est.)<br>
+$327.32 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
@@ -487,9 +487,9 @@ China 39%, Japan 15%, South Korea 7%, India 5% (2019)<br>
 iron ore, coal, natural gas, gold, aluminum oxide (2019)<br>
 
 **Imports**<br>
-$334.279 billion (2019 est.)<br>
-$337.716 billion (2018 est.)<br>
-$324.644 billion (2017 est.)<br>
+$249.07 billion note: data are in current year dollars (2020 est.)<br>
+$295.46 billion note: data are in current year dollars (2019 est.)<br>
+$310.23 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 25%, United States 12%, Japan 7%, Germany 5%, Thailand 5% (2019)<br>
@@ -595,7 +595,7 @@ _total subscriptions_: 27.88 million<br>
 _subscriptions per 100 inhabitants_: 111.01 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable to be completed by end of 2021; two of Australia's major imports are broadcast equipment and computers from China (2021) (2020)<br>
+_general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable to be completed by end of 2021; two of Australia's major imports are broadcast equipment and computers from China (2021)<br>
 _domestic_: 31 per 100 fixed-line, 111 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2019)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 <strong>note</strong>: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -711,7 +711,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>In 2007, Australia and Timor-Leste agreed to a 50-year development zone and revenue sharing arrangement and deferred a maritime boundary; Australia asserts land and maritime claims to Antarctica; Australia's 2004 submission to the Commission on the Limits of the Continental Shelf extends its continental margins over 3.37 million square kilometers, expanding its seabed roughly 30 percent beyond its claimed EEZ; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia closed parts of the Ashmore and Cartier reserve to Indonesian traditional fishing</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,122 (Iraq), 12,714 (Afghanistan), 12,537 (Iran), 5,578 (Pakistan) (2019)<br>
+_refugees (country of origin)_: 12,606 (Iran), 10,659 (Afghanistan), 5,416 (Pakistan) (2020)<br>
 _stateless persons_: 5,221 (2020)<br>
 
 **Illicit drugs**<br>

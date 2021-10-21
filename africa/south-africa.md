@@ -65,6 +65,12 @@ _other_: 13% (2018 est.)<br>
 **Irrigated land**<br>
 16,700 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+
+**Major aquifers**<br>
+Karoo Basin, Lower Kalahari-Stampriet Basin<br>
+
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
 
@@ -73,12 +79,6 @@ the population concentrated along the southern and southeastern coast, and inlan
 
 **Geography - note**<br>
 South Africa completely surrounds Lesotho and almost completely surrounds Eswatini<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>
-
-**Major aquifers**<br>
-Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 23.58 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 476.64 megatons (2016 est.)<br>
 _methane emissions_: 55.89 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.89 billion cubic meters (2017 est.)<br>
-_industrial_: 4.1 billion cubic meters (2017 est.)<br>
-_agricultural_: 11.39 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-51.35 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly semiarid; subtropical along east coast; sunny days, cool nights<br>
 
@@ -270,12 +262,12 @@ _agricultural land: permanent pasture_: permanent pasture: 69.2% (2018 est.)<br>
 _forest_: 7.6% (2018 est.)<br>
 _other_: 13% (2018 est.)<br>
 
-**Revenue from coal**<br>
-_coal revenues_: 2.4% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 67.8% of total population (2021)<br>
 _rate of urbanization_: 1.72% annual rate of change (2020-25 est.)<br>
+
+**Revenue from coal**<br>
+_coal revenues_: 2.4% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -293,6 +285,14 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
 **Major aquifers**<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.89 billion cubic meters (2017 est.)<br>
+_industrial_: 4.1 billion cubic meters (2017 est.)<br>
+_agricultural_: 11.39 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+51.35 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -398,9 +398,9 @@ _lyrics/music_: Enoch SONTONGA and Cornelius Jacob LANGENHOVEN/Enoch SONTONGA an
 <p>South Africa is a middle-income emerging market with an abundant supply of natural resources; well-developed financial, legal, communications, energy, and transport sectors; and a stock exchange that is Africa’s largest and among the top 20 in the world.</p><p></p><p>Economic growth has decelerated in recent years, slowing to an estimated 0.7% in 2017. Unemployment, poverty, and inequality - among the highest in the world - remain a challenge. Official unemployment is roughly 27% of the workforce, and runs significantly higher among black youth. Even though the country's modern infrastructure supports a relatively efficient distribution of goods to major urban centers throughout the region, unstable electricity supplies retard growth. Eskom, the state-run power company, is building three new power stations and is installing new power demand management programs to improve power grid reliability but has been plagued with accusations of mismanagement and corruption and faces an increasingly high debt burden.</p><p></p><p>South Africa's economic policy has focused on controlling inflation while empowering a broader economic base; however, the country faces structural constraints that also limit economic growth, such as skills shortages, declining global competitiveness, and frequent work stoppages due to strike action. The government faces growing pressure from urban constituencies to improve the delivery of basic services to low-income areas, to increase job growth, and to provide university level-education at affordable prices. Political infighting among South Africa’s ruling party and the volatility of the rand risks economic growth. International investors are concerned about the country’s long-term economic stability; in late 2016, most major international credit ratings agencies downgraded South Africa’s international debt to junk bond status.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$730.913 billion (2019 est.)<br>
-$729.799 billion (2018 est.)<br>
-$724.1 billion (2017 est.)<br>
+$680.04 billion note: data are in 2017 dollars (2020 est.)<br>
+$730.91 billion note: data are in 2017 dollars (2019 est.)<br>
+$729.8 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -409,9 +409,9 @@ $724.1 billion (2017 est.)<br>
 1.4% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$12,482 (2019 est.)<br>
-$12,631 (2018 est.)<br>
-$12,703 (2017 est.)<br>
+$11,500 note: data are in 2017 dollars (2020 est.)<br>
+$12,500 note: data are in 2017 dollars (2019 est.)<br>
+$12,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -494,9 +494,9 @@ _expenditures_: 108.3 billion (2017 est.)<br>
 -$13.31 billion (2018 est.)<br>
 
 **Exports**<br>
-$123.864 billion (2019 est.)<br>
-$127.055 billion (2018 est.)<br>
-$123.79 billion (2017 est.)<br>
+$93.01 billion note: data are in current year dollars (2020 est.)<br>
+$104.85 billion note: data are in current year dollars (2019 est.)<br>
+$110.07 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
@@ -505,9 +505,9 @@ China 15%, United Kingdom 8%, Germany 7%, United States 6%, India 6% (2019)<br>
 gold, platinum, cars, iron products, coal, manganese, diamonds&nbsp; (2019)<br>
 
 **Imports**<br>
-$131.721 billion (2019 est.)<br>
-$132.365 billion (2018 est.)<br>
-$128.141 billion (2017 est.)<br>
+$77.86 billion note: data are in current year dollars (2020 est.)<br>
+$103.12 billion note: data are in current year dollars (2019 est.)<br>
+$108.91 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, Germany 11%, United States 6%, India 5% (2019)<br>
@@ -722,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 27,113 (Somalia), 17,726 (Ethiopia), 5,273 (Republic of the Congo) (2019); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (2020); 57,595 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>

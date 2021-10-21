@@ -229,14 +229,6 @@ _particulate matter emissions_: 21.23 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.57 megatons (2016 est.)<br>
 _methane emissions_: 0.55 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 11.4 million cubic meters (2017 est.)<br>
-_industrial_: 21.2 million cubic meters (2017 est.)<br>
-_agricultural_: 68.4 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-21.734 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; very hot and humid; rainy season (May to November); dry season (February to May)<br>
 
@@ -248,18 +240,26 @@ _agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 60.6% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 46.2% of total population (2021)<br>
+_rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.31% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
-_rate of urbanization_: 2.3% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 101,379 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 11.4 million cubic meters (2017 est.)<br>
+_industrial_: 21.2 million cubic meters (2017 est.)<br>
+_agricultural_: 68.4 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+21.734 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -364,9 +364,9 @@ _lyrics/music_: Samuel Alfred HAYNES/Selwyn Walford YOUNG<br>
 <p>Tourism is the number one foreign exchange earner in this small economy, followed by exports of sugar, bananas, citrus, marine products, and crude oil.</p><p></p><p>The government's expansionary monetary and fiscal policies, initiated in September 1998, led to GDP growth averaging nearly 4% in 1999-2007, but GPD growth has averaged only 2.1% from 2007-2016, with 2.5% growth estimated for 2017. Belize’s dependence on energy imports makes it susceptible to energy price shocks.</p><p></p><p>Although Belize has the third highest per capita income in Central America, the average income figure masks a huge income disparity between rich and poor, and a key government objective remains reducing poverty and inequality with the help of international donors. High unemployment, a growing trade deficit and heavy foreign debt burden continue to be major concerns. Belize faces continued pressure from rising sovereign debt, and a growing trade imbalance.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.734 billion (2019 est.)<br>
-$2.726 billion (2018 est.)<br>
-$2.671 billion (2017 est.)<br>
+$2.43 billion note: data are in 2017 dollars (2020 est.)<br>
+$2.83 billion note: data are in 2017 dollars (2019 est.)<br>
+$2.78 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -375,9 +375,9 @@ $2.671 billion (2017 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$7,005 (2019 est.)<br>
-$7,118 (2018 est.)<br>
-$7,109 (2017 est.)<br>
+$6,100 note: data are in 2017 dollars (2020 est.)<br>
+$7,300 note: data are in 2017 dollars (2019 est.)<br>
+$7,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -455,8 +455,9 @@ _expenditures_: 572 million (2017 est.)<br>
 -$163 million (2016 est.)<br>
 
 **Exports**<br>
-$457.5 million (2017 est.)<br>
-$442.7 million (2016 est.)<br>
+$710 million note: data are in current year dollars (2020 est.)<br>
+$1.1 billion note: data are in current year dollars (2019 est.)<br>
+$1.07 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<br>
@@ -465,8 +466,9 @@ United Kingdom 27%, United States 24%, Spain 6%, Jamaica 5%, Ireland 5% (2019)<b
 raw sugar, bananas, fruit juice, fish products, crude petroleum (2019)<br>
 
 **Imports**<br>
-$845.9 million (2017 est.)<br>
-$916.2 million (2016 est.)<br>
+$900 million note: data are in current year dollars (2020 est.)<br>
+$1.2 billion note: data are in current year dollars (2019 est.)<br>
+$1.16 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 36%, China 13%, Mexico 12%, Guatemala 10% (2019)<br>
@@ -574,7 +576,7 @@ _total subscriptions_: 254,919<br>
 _subscriptions per 100 inhabitants_: 65.01 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States (2021) (2020)<br>
+_general assessment_: Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States&nbsp; (2021)<br>
 _domestic_: 5 per 100 fixed-line and mobile-cellular teledensity approaching 65 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2019)<br>
 _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

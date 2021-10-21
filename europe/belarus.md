@@ -61,6 +61,9 @@ _other_: 13.6% (2018 est.)<br>
 **Irrigated land**<br>
 1,140 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -69,9 +72,6 @@ large tracts of marshy land<br>
 
 **Geography - note**<br>
 landlocked; glacial scouring accounts for the flatness of Belarusian terrain and for its 11,000 lakes<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
 ## People and Society
 
@@ -239,14 +239,6 @@ _particulate matter emissions_: 18.06 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 58.28 megatons (2016 est.)<br>
 _methane emissions_: 17.19 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 523 million cubic meters (2017 est.)<br>
-_industrial_: 443 million cubic meters (2017 est.)<br>
-_agricultural_: 431 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-57.9 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 cold winters, cool and moist summers; transitional between continental and maritime<br>
 
@@ -258,15 +250,15 @@ _agricultural land: permanent pasture_: permanent pasture: 15.9% (2018 est.)<br>
 _forest_: 42.7% (2018 est.)<br>
 _other_: 13.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 79.9% of total population (2021)<br>
+_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 79.9% of total population (2021)<br>
-_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
@@ -275,6 +267,14 @@ _percent of municipal solid waste recycled_: 16% (2016 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 523 million cubic meters (2017 est.)<br>
+_industrial_: 443 million cubic meters (2017 est.)<br>
+_agricultural_: 431 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+57.9 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -381,9 +381,9 @@ _lyrics/music_: Mikhas KLIMKOVICH and Uladzimir KARYZNA/Nester SAKALOUSKI<br>
 <p>As part of the former Soviet Union, Belarus had a relatively well-developed industrial base, but it is now outdated, inefficient, and dependent on subsidized Russian energy and preferential access to Russian markets. The country’s agricultural base is largely dependent on government subsidies. Following the collapse of the Soviet Union, an initial burst of economic reforms included privatization of state enterprises, creation of private property rights, and the acceptance of private entrepreneurship, but by 1994 the reform effort dissipated. About 80% of industry remains in state hands, and foreign investment has virtually disappeared. Several businesses have been renationalized. State-owned entities account for 70-75% of GDP, and state banks make up 75% of the banking sector.</p><p></p><p>Economic output declined for several years following the break-up of the Soviet Union, but revived in the mid-2000s. Belarus has only small reserves of crude oil and imports crude oil and natural gas from Russia at subsidized, below market, prices. Belarus derives export revenue by refining Russian crude and selling it at market prices. Russia and Belarus have had serious disagreements over prices and quantities for Russian energy. Beginning in early 2016, Russia claimed Belarus began accumulating debt – reaching $740 million by April 2017 – for paying below the agreed price for Russian natural gas and Russia cut back its export of crude oil as a result of the debt. In April 2017, Belarus agreed to pay its gas debt and Russia restored the flow of crude.</p><p></p><p>New non-Russian foreign investment has been limited in recent years, largely because of an unfavorable financial climate. In 2011, a financial crisis lead to a nearly three-fold devaluation of the Belarusian ruble. The Belarusian economy has continued to struggle under the weight of high external debt servicing payments and a trade deficit. In mid-December 2014, the devaluation of the Russian ruble triggered a near 40% devaluation of the Belarusian ruble.</p><p></p><p>Belarus’s economy stagnated between 2012 and 2016, widening productivity and income gaps between Belarus and neighboring countries. Budget revenues dropped because of falling global prices on key Belarusian export commodities. Since 2015, the Belarusian government has tightened its macro-economic policies, allowed more flexibility to its exchange rate, taken some steps towards price liberalization, and reduced subsidized government lending to state-owned enterprises. Belarus returned to modest growth in 2017, largely driven by improvement of external conditions and Belarus issued sovereign debt for the first time since 2011, which provided the country with badly-needed liquidity, and issued $600 million worth of Eurobonds in February 2018, predominantly to US and British investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$181.286 billion (2019 est.)<br>
-$179.098 billion (2018 est.)<br>
-$173.63 billion (2017 est.)<br>
+$179.97 billion note: data are in 2017 dollars (2020 est.)<br>
+$181.61 billion note: data are in 2017 dollars (2019 est.)<br>
+$179.1 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +392,9 @@ $173.63 billion (2017 est.)<br>
 2.53% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$19,150 (2019 est.)<br>
-$18,885 (2018 est.)<br>
-$18,280 (2017 est.)<br>
+$19,100 note: data are in 2017 dollars (2020 est.)<br>
+$19,300 note: data are in 2017 dollars (2019 est.)<br>
+$18,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,8 +478,9 @@ calendar year<br>
 -$1.669 billion (2016 est.)<br>
 
 **Exports**<br>
-$28.65 billion (2017 est.)<br>
-$22.98 billion (2016 est.)<br>
+$37.04 billion note: data are in current year dollars (2020 est.)<br>
+$41.97 billion note: data are in current year dollars (2019 est.)<br>
+$42.27 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
@@ -488,8 +489,9 @@ Russia 42%, Ukraine 13%, United Kingdom 7% (2019)<br>
 refined petroleum, fertilizers, cheese, delivery trucks, crude petroleum (2019)<br>
 
 **Imports**<br>
-$31.58 billion (2017 est.)<br>
-$25.61 billion (2016 est.)<br>
+$35.16 billion note: data are in current year dollars (2020 est.)<br>
+$42.38 billion note: data are in current year dollars (2019 est.)<br>
+$41.34 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 57%, China 7%, Poland 5%, Germany 5%, Ukraine 5% (2019)<br>
@@ -595,7 +597,7 @@ _total subscriptions_: 11,627,249<br>
 _subscriptions per 100 inhabitants_: 122.46 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>government owns and administers backbone network and much of telecom market with no independent regulator; government and telecom regulator are concluding three major programs aimed at developing the telecom sector and digital economy to enable 5G services and extension of fiber infrastructure; growing applications for smart cities; developing mobile broadband and data services to rural areas; commercial LTE services extended to 80% of the population; operators provide standalone 5G service and NB-IoT services; international connection through fiber optic and terrestrial link, nascent satellite system; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>government owns and administers backbone network and much of telecom market with no independent regulator; government and telecom regulator are concluding three major programs aimed at developing the telecom sector and digital economy to enable 5G services and extension of fiber infrastructure; growing applications for smart cities; developing mobile broadband and data services to rural areas; commercial LTE services extended to 80% of the population; operators provide standalone 5G service and NB-IoT services; international connection through fiber optic and terrestrial link, nascent satellite system; importer of broadcasting equipment from China</p> (2021)<br>
 _domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, 48 per 100 fixed-line; mobile-cellular teledensity now approaches 123 telephones per 100 persons (2019)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

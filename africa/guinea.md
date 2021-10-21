@@ -62,6 +62,9 @@ _other_: 15.4% (2018 est.)<br>
 **Irrigated land**<br>
 950 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
 
@@ -247,14 +250,6 @@ _particulate matter emissions_: 22.43 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 3 megatons (2016 est.)<br>
 _methane emissions_: 11.13 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 224.8 million cubic meters (2017 est.)<br>
-_industrial_: 56.2 million cubic meters (2017 est.)<br>
-_agricultural_: 292.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-226 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
@@ -266,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 43.5% (2018 est.)<br>
 _forest_: 26.5% (2018 est.)<br>
 _other_: 15.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 37.3% of total population (2021)<br>
+_rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 37.3% of total population (2021)<br>
-_rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -292,6 +287,17 @@ _severe localized food insecurity_: due to localized shortfalls of cereal produc
 _municipal solid waste generated annually_: 596,911 tons (1996 est.)<br>
 _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 224.8 million cubic meters (2017 est.)<br>
+_industrial_: 56.2 million cubic meters (2017 est.)<br>
+_agricultural_: 292.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+226 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -413,9 +419,9 @@ _lyrics/music_: unknown/Fodeba KEITA<br>
 <p>Guinea is a poor country of approximately 12.9 million people in 2016 that possesses the world's largest reserves of bauxite and largest untapped high-grade iron ore reserves, as well as gold and diamonds. In addition, Guinea has fertile soil, ample rainfall, and is the source of several West African rivers, including the Senegal, Niger, and Gambia. Guinea's hydro potential is enormous and the country could be a major exporter of electricity. The country also has tremendous agriculture potential. Gold, bauxite, and diamonds are Guinea’s main exports. International investors have shown interest in Guinea's unexplored mineral reserves, which have the potential to propel Guinea's future growth.</p><p></p><p>Following the death of long-term President Lansana CONTE in 2008 and the coup that followed, international donors, including the G-8, the IMF, and the World Bank, significantly curtailed their development programs in Guinea. However, the IMF approved a 3-year Extended Credit Facility arrangement in 2012, following the December 2010 presidential elections. In September 2012, Guinea achieved Heavily Indebted Poor Countries completion point status. Future access to international assistance and investment will depend on the government’s ability to be transparent, combat corruption, reform its banking system, improve its business environment, and build infrastructure. In April 2013, the government amended its mining code to reduce taxes and royalties. In 2014, Guinea complied with requirements of the Extractive Industries Transparency Initiative by publishing its mining contracts. Guinea completed its program with the IMF in October 2016 even though some targeted reforms have been delayed. Currently Guinea is negotiating a new IMF program which will be based on Guinea’s new five-year economic plan, focusing on the development of higher value-added products, including from the agro-business sector and development of the rural economy.</p><p></p><p>Political instability, a reintroduction of the Ebola virus epidemic, low international commodity prices, and an enduring legacy of corruption, inefficiency, and lack of government transparency are factors that could impact Guinea’s future growth. Economic recovery will be a long process while the government adjusts to lower inflows of international donor aid following the surge of Ebola-related emergency support. Ebola stalled promising economic growth in the 2014-15 period and impeded several projects, such as offshore oil exploration and the Simandou iron ore project. The economy, however, grew by 6.6% in 2016 and 6.7% in 2017, mainly due to growth from bauxite mining and thermal energy generation as well as the resiliency of the agricultural sector. The 240-megawatt Kaleta Dam, inaugurated in September 2015, has expanded access to electricity for residents of Conakry. An combined with fears of Ebola virus, continue to undermine Guinea's economic viability.</p><p></p><p>Guinea’s iron ore industry took a hit in 2016 when investors in the Simandou iron ore project announced plans to divest from the project. In 2017, agriculture output and public investment boosted economic growth, while the mining sector continued to play a prominent role in economic performance.</p><p></p><p>Successive governments have failed to address the country's crumbling infrastructure. Guinea suffers from chronic electricity shortages; poor roads, rail lines and bridges; and a lack of access to clean water - all of which continue to plague economic development. The present government, led by President Alpha CONDE, is working to create an environment to attract foreign investment and hopes to have greater participation from western countries and firms in Guinea's economic development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.72 billion (2019 est.)<br>
-$30.985 billion (2018 est.)<br>
-$29.176 billion (2017 est.)<br>
+$35.08 billion note: data are in 2017 dollars (2020 est.)<br>
+$32.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$31.03 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -424,9 +430,9 @@ $29.176 billion (2017 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,562 (2019 est.)<br>
-$2,496 (2018 est.)<br>
-$2,418 (2017 est.)<br>
+$2,700 note: data are in 2017 dollars (2020 est.)<br>
+$2,600 note: data are in 2017 dollars (2019 est.)<br>
+$2,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,8 +509,8 @@ calendar year<br>
 -$2.705 billion (2016 est.)<br>
 
 **Exports**<br>
-$5.041 billion (2019 est.)<br>
-$5.073 billion (2018 est.)<br>
+$4.04 billion note: data are in current year dollars (2019 est.)<br>
+$4.08 billion note: data are in current year dollars (2018 est.)<br>
 $4.733 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -514,8 +520,8 @@ United Arab Emirates 39%, China 36%, India 6% (2019)<br>
 aluminum, gold, bauxite, diamonds, fish, cashews (2019)<br>
 
 **Imports**<br>
-$7.924 billion (2019 est.)<br>
-$8.76 billion (2018 est.)<br>
+$4.32 billion note: data are in current year dollars (2019 est.)<br>
+$4.18 billion note: data are in current year dollars (2018 est.)<br>
 $7.317 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -701,7 +707,7 @@ Guinean National Armed Forces are comprised of approximately 12,000 active perso
 the inventory of the Guinean military consists largely of ageing and outdated (mostly Soviet-era) equipment; since 2010, it has received small amounts of equipment from France, Russia, and South Africa (2020)<br>
 
 **Military deployments**<br>
-660 Mali (MINUSMA) (Jan 2021)<br>
+660 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 no compulsory military service (2021)<br>

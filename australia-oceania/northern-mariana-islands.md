@@ -195,12 +195,12 @@ _agricultural land: permanent pasture_: permanent pasture: 2.2% (2018 est.)<br>
 _forest_: 65.5% (2018 est.)<br>
 _other_: 27.9% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 91.9% of total population (2021)<br>
 _rate of urbanization_: 0.36% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,761 tons (2013 est.)<br>

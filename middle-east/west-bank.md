@@ -232,16 +232,6 @@ adequacy of freshwater supply; sewage treatment<br>
 _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
-**Total water withdrawal**<br>
-_municipal_: 181.2 million cubic meters (2017 est.)<br>
-_industrial_: 32 million cubic meters (2017 est.)<br>
-_agricultural_: 162 million cubic meters (2017 est.)<br>
-<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
-
-**Total renewable water resources**<br>
-837 million cubic meters (2017 est.)<br>
-<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
-
 **Climate**<br>
 temperate; temperature and precipitation vary with altitude, warm to hot summers, cool to mild winters<br>
 
@@ -254,18 +244,28 @@ _forest_: 1.5% (2018 est.)<br>
 _other_: 55.2% (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 77% of total population (2021)<br>
 _rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
+
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
+<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+
+**Total water withdrawal**<br>
+_municipal_: 181.2 million cubic meters (2017 est.)<br>
+_industrial_: 32 million cubic meters (2017 est.)<br>
+_agricultural_: 162 million cubic meters (2017 est.)<br>
+<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+
+**Total renewable water resources**<br>
+837 million cubic meters (2017 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 ## Government
@@ -281,10 +281,9 @@ _etymology_: name refers to the location of the region - occupied and administer
 <p>In 2017, the economic outlook in the West Bank - the larger of the two areas comprising the Palestinian Territories – remained fragile, as security concerns and political friction slowed economic growth. Unemployment in the West Bank remained high at 19.0% in the third quarter of 2017, only slightly better than 19.6% at the same point the previous year, while the labor force participation rate remained flat, year-on-year.</p><p></p><p>Longstanding Israeli restrictions on imports, exports, and movement of goods and people continue to disrupt labor and trade flows and the territory’s industrial capacity, and constrain private sector development. The PA’s budget benefited from an effort to improve tax collection, coupled with lower spending in 2017, but the PA for the foreseeable future will continue to rely heavily on donor aid for its budgetary needs and infrastructure development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$21.22 billion (2014 est.)<br>
-$20.15 billion (2013 est.)<br>
-$19.95 billion (2012 est.)<br>
-<strong>note:</strong> data are in 2014 US dollars; includes Gaza Strip<br>
+$25.91 billion note: data are in 2017 dollars and includes Gaza Strip (2020 est.)<br>
+$29.26 billion note: data are in 2017 dollars and includes Gaza Strip (2019 est.)<br>
+$28.87 billion note: data are in 2017 dollars and includes Gaza Strip (2018 est.)<br>
 
 **Real GDP growth rate**<br>
 5.3% (2014 est.)<br>
@@ -293,9 +292,9 @@ $19.95 billion (2012 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Real GDP per capita**<br>
-$6,220 (2019 est.)<br>
-$6,318 (2018 est.)<br>
-$6,402 (2017 est.)<br>
+$5,400 note: data are in 2017 dollars and includes Gaza Strip (2020 est.)<br>
+$6,200 note: data are in 2017 dollars and includes Gaza Strip (2019 est.)<br>
+$6,300 note: data are in 2017 dollars and includes Gaza Strip (2018 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 **GDP (official exchange rate)**<br>
@@ -383,16 +382,16 @@ calendar year<br>
 -$1.348 billion (2016 est.)<br>
 
 **Exports**<br>
-$2.126 billion (2017 est.)<br>
-$1.827 billion (2016 est.)<br>
+$2.65 billion note: data are in current year dollars and includes Gaza Strip (2019 est.)<br>
+$2.6 billion note: data are in current year dollars and includes Gaza Strip (2018 est.)<br>
 <strong>note:</strong> excludes Gaza Strip<br>
 
 **Exports - commodities**<br>
 stone, olives, fruit, vegetables, limestone<br>
 
 **Imports**<br>
-$6.565 billion (2017 est.)<br>
-$6.207 billion (2016 est.)<br>
+$9.15 billion note: data are in current year dollars and includes Gaza Strip (2019 est.)<br>
+$9.02 billion note: data are in current year dollars and includes Gaza Strip (2018 est.)<br>
 <strong>note:</strong> data include the Gaza Strip<br>
 
 **Imports - commodities**<br>
@@ -560,7 +559,7 @@ Al-Aqsa Martyrs Brigade; HAMAS; Islamic Revolutionary Guard Corps/Qods Force; Ka
 <p>the current status of the West Bank is subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation; Israel continues construction of a "seam line" separation barrier along parts of the Green Line and within the West Bank; Israel withdrew from Gaza and four settlements in the northern West Bank in August 2005; since 1948, about 350 peacekeepers from the UN Truce Supervision Organization (UNTSO), headquartered in Jerusalem, monitor ceasefires, supervise armistice agreements, prevent isolated incidents from escalating, and assist other UN personnel in the region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 858,758 (Palestinian refugees) (2020)<br>
+_refugees (country of origin)_: 871,537 (Palestinian refugees) (2020)<br>
 _IDPs_: 131,000 (includes persons displaced within the Gaza strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020)<br>
 data represent Gaza Strip and West Bank<br>
 

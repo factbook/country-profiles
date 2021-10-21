@@ -64,6 +64,12 @@ _other_: 35.4% (2018 est.)<br>
 **Irrigated land**<br>
 23,600 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
@@ -72,12 +78,6 @@ one-third of the population lives in Buenos Aires; pockets of agglomeration occu
 
 **Geography - note**<br>
 <strong>note 1:</strong> second-largest country in South America (after Brazil); strategic location relative to sea lanes between the South Atlantic and the South Pacific Oceans (Strait of Magellan, Beagle Channel, Drake Passage); diverse geophysical landscapes range from tropical climates in the north to tundra in the far south; Cerro Aconcagua is the Western Hemisphere's tallest mountain, while Laguna del Carbon is the lowest point in the Western Hemisphere; shares Iguazu Falls, the world's largest waterfalls system, with Brazil<br><br><strong>note 2: </strong>southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Guarani Aquifer System<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 11.83 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 201.35 megatons (2016 est.)<br>
 _methane emissions_: 120.66 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 5.85 billion cubic meters (2017 est.)<br>
-_industrial_: 4 billion cubic meters (2017 est.)<br>
-_agricultural_: 27.93 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-876.24 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly temperate; arid in southeast; subantarctic in southwest<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 39.6% (2018 est.)<br>
 _forest_: 10.7% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 92.2% of total population (2021)<br>
+_rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.09% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 92.2% of total population (2021)<br>
-_rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Argentina; as of 6 October 2021, Argentina has reported a total of 5,260,719 cases of COVID-19 or 11,639.85 cumulative cases of COVID-19 per 100,000 population with 255.07 cumulative deaths per 100,000 population; as of 5 October 2021, 50.49% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -284,6 +276,14 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 5.85 billion cubic meters (2017 est.)<br>
+_industrial_: 4 billion cubic meters (2017 est.)<br>
+_agricultural_: 27.93 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+876.24 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -388,9 +388,9 @@ _lyrics/music_: Vicente LOPEZ y PLANES/Jose Blas PARERA<br>
 <p>Argentina benefits from rich natural resources, a highly literate population, an export-oriented agricultural sector, and a diversified industrial base. Although one of the world's wealthiest countries 100 years ago, Argentina suffered during most of the 20th century from recurring economic crises, persistent fiscal and current account deficits, high inflation, mounting external debt, and capital flight.</p><p></p><p>Cristina FERNANDEZ DE KIRCHNER succeeded her husband as president in late 2007, and in 2008 the rapid economic growth of previous years slowed sharply as government policies held back exports and the world economy fell into recession. In 2010 the economy rebounded strongly, but slowed in late 2011 even as the government continued to rely on expansionary fiscal and monetary policies, which kept inflation in the double digits.</p><p></p><p>In order to deal with these problems, the government expanded state intervention in the economy: it nationalized the oil company YPF from Spain's Repsol, expanded measures to restrict imports, and further tightened currency controls in an effort to bolster foreign reserves and stem capital flight. Between 2011 and 2013, Central Bank foreign reserves dropped $21.3 billion from a high of $52.7 billion. In July 2014, Argentina and China agreed on an $11 billion currency swap; the Argentine Central Bank has received the equivalent of $3.2 billion in Chinese yuan, which it counts as international reserves.</p><p></p><p>With the election of President Mauricio MACRI in November 2015, Argentina began a historic political and economic transformation, as his administration took steps to liberalize the Argentine economy, lifting capital controls, floating the peso, removing export controls on some commodities, cutting some energy subsidies, and reforming the country’s official statistics. Argentina negotiated debt payments with holdout bond creditors, continued working with the IMF to shore up its finances, and returned to international capital markets in April 2016.</p><p></p><p>In 2017, Argentina’s economy emerged from recession with GDP growth of nearly 3.0%. The government passed important pension, tax, and fiscal reforms. And after years of international isolation, Argentina took on several international leadership roles, including hosting the World Economic Forum on Latin America and the World Trade Organization Ministerial Conference, and is set to assume the presidency of the G-20 in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$991.523 billion (2019 est.)<br>
-$1,012,668,000,000 (2018 est.)<br>
-$1,039,330,000,000 (2017 est.)<br>
+$893.31 billion note: data are in 2017 dollars (2020 est.)<br>
+$991.52 billion note: data are in 2017 dollars (2019 est.)<br>
+$1,012,670,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -399,9 +399,9 @@ $1,039,330,000,000 (2017 est.)<br>
 2.83% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$22,064 (2019 est.)<br>
-$22,759 (2018 est.)<br>
-$23,597 (2017 est.)<br>
+$19,700 note: data are in 2017 dollars (2020 est.)<br>
+$22,100 note: data are in 2017 dollars (2019 est.)<br>
+$22,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,9 +486,9 @@ calendar year<br>
 -$27.049 billion (2018 est.)<br>
 
 **Exports**<br>
-$82.985 billion (2019 est.)<br>
-$76.14 billion (2018 est.)<br>
-$75.766 billion (2017 est.)<br>
+$64.18 billion note: data are in current year dollars (2020 est.)<br>
+$79.29 billion note: data are in current year dollars (2019 est.)<br>
+$77.07 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
@@ -497,9 +497,9 @@ Brazil 16%, China 11%, United States 7%, Chile 5% (2019)<br>
 soybean products, corn, delivery trucks, wheat, frozen meat, gold (2019)<br>
 
 **Imports**<br>
-$72.162 billion (2019 est.)<br>
-$89.088 billion (2018 est.)<br>
-$93.308 billion (2017 est.)<br>
+$52.14 billion note: data are in current year dollars (2020 est.)<br>
+$66.28 billion note: data are in current year dollars (2019 est.)<br>
+$86.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Brazil 21%, China 18%, US 14%, Germany 6% (2019)<br>
@@ -607,7 +607,7 @@ _total subscriptions_: 56,352,947<br>
 _subscriptions per 100 inhabitants_: 124.98 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Argentina has one of the most vigorous mobile markets in Latin America; with additional operators in the market, mobile penetration fell in 2020 as incentives for multiple-SIM card ownership eased; LTE with tests of 5G; government plan to boost fixed broadband coverage nationally and declared TV, cable, and mobile services were essential public services; submarine system linking Sao Paolo and Rio De Janeiro with Buenos Aires is operational; national operator increased investment in Uruguay; importer of broadcasting equipment from China (2021) (2020)<br>
+_general assessment_: Argentina has one of the most vigorous mobile markets in Latin America; with additional operators in the market, mobile penetration fell in 2020 as incentives for multiple-SIM card ownership eased; LTE with tests of 5G; government plan to boost fixed broadband coverage nationally and declared TV, cable, and mobile services were essential public services; submarine system linking Sao Paolo and Rio De Janeiro with Buenos Aires is operational; national operator increased investment in Uruguay; importer of broadcasting equipment from China (2021)<br>
 _domestic_: 17 per 100 fixed-line, 131 per 100 mobile-cellular; microwave radio relay, fiber-optic cable, and a domestic satellite system with 40 earth stations serve the trunk network (2019)<br>
 _international_: country code - 54; landing points for the UNISUR, Bicentenario,&nbsp;Atlantis-2, SAm-1, and&nbsp;SAC, Tannat, Malbec and ARBR&nbsp;submarine cable systems that provide links to Europe, Africa, South and Central America, and US; satellite earth stations - 112 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

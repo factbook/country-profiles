@@ -201,14 +201,6 @@ _particulate matter emissions_: 18.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.18 megatons (2016 est.)<br>
 _methane emissions_: 0.04 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 19 million cubic meters (2017 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-200 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by northeast trade winds; heavy rainfall<br>
 
@@ -220,18 +212,26 @@ _agricultural land: permanent pasture_: permanent pasture: 2.7% (2018 est.)<br>
 _forest_: 59.2% (2018 est.)<br>
 _other_: 6.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 71.4% of total population (2021)<br>
+_rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 71.4% of total population (2021)<br>
-_rate of urbanization_: 0.84% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13,176 tons (2013 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 19 million cubic meters (2017 est.)<br>
+_industrial_: 0 cubic meters (2017 est.)<br>
+_agricultural_: 1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+200 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -328,9 +328,9 @@ _lyrics/music_: Wilfred Oscar Morgan POND/Lemuel McPherson CHRISTIAN<br>
 The Dominican economy was dependent on agriculture - primarily bananas - in years past, but increasingly has been driven by tourism, as the government seeks to promote Dominica as an "ecotourism" destination. However, Hurricane Maria, which passed through the island in September 2017, destroyed much of the country’s agricultural sector and caused damage to all of the country’s transportation and physical infrastructure. Before Hurricane Maria, the government had attempted to foster an offshore financial industry and planned to sign agreements with the private sector to develop geothermal energy resources. At a time when government finances are fragile, the government’s focus has been to get the country back in shape to service cruise ships. The economy contracted in 2015 and recovered to positive growth in 2016 due to a recovery of agriculture and tourism. Dominica suffers from high debt levels, which increased from 67% of GDP in 2010 to 77% in 2016. Dominica is one of five countries in the East Caribbean that have citizenship by investment programs whereby foreigners can obtain passports for a fee and revenue from this contribute to government budgets.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$855 million (2019 est.)<br>
-$826 million (2018 est.)<br>
-$807 million (2017 est.)<br>
+$710 million note: data are in 2017 dollars (2020 est.)<br>
+$850 million note: data are in 2017 dollars (2019 est.)<br>
+$830 million note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -339,9 +339,9 @@ $807 million (2017 est.)<br>
 -3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,917 (2019 est.)<br>
-$11,537 (2018 est.)<br>
-$11,304 (2017 est.)<br>
+$9,900 note: data are in 2017 dollars (2020 est.)<br>
+$11,900 note: data are in 2017 dollars (2019 est.)<br>
+$11,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -414,7 +414,7 @@ _expenditures_: 260.4 million (2017 est.)<br>
 $5 million (2016 est.)<br>
 
 **Exports**<br>
-$28 million (2017 est.)<br>
+$160 million note: data are in current year dollars (2018 est.)<br>
 $43.7 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -424,7 +424,7 @@ Saudi Arabia 47%, Qatar 5% (2019)<br>
 medical instruments, pharmaceuticals, low-voltage protection equipment, tropical fruits, bandages (2019)<br>
 
 **Imports**<br>
-$206.6 million (2017 est.)<br>
+$430 million note: data are in current year dollars (2018 est.)<br>
 $188.4 million (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -578,10 +578,10 @@ _major seaport(s)_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) (2020)<br>
+no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard)<br>
 
 **Military - note**<br>
-<p>Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security</p><br>
+Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2021)<br>
 
 ## Transnational Issues
 

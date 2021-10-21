@@ -208,12 +208,6 @@ _particulate matter emissions_: 17.56 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.79 megatons (2016 est.)<br>
 _methane emissions_: 0.23 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 31 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-700 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical marine; moderated by warm waters of Gulf Stream<br>
 
@@ -225,18 +219,24 @@ _agricultural land: permanent pasture_: permanent pasture: 0.2% (2018 est.)<br>
 _forest_: 51.4% (2018 est.)<br>
 _other_: 47.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 83.4% of total population (2021)<br>
+_rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 83.4% of total population (2021)<br>
-_rate of urbanization_: 1.02% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 264,000 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 31 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+700 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -340,9 +340,9 @@ _lyrics/music_: Timothy GIBSON<br>
 The Bahamas has the second highest per capita GDP in the English-speaking Caribbean with an economy heavily dependent on tourism and financial services. Tourism accounts for approximately 50% of GDP and directly or indirectly employs half of the archipelago's labor force. Financial services constitute the second-most important sector of the Bahamian economy, accounting for about 15% of GDP. Manufacturing and agriculture combined contribute less than 7% of GDP and show little growth, despite government incentives aimed at those sectors. The new government led by Prime Minister Hubert MINNIS has prioritized addressing fiscal imbalances and rising debt, which stood at 75% of GDP in 2016. Large capital projects like the Baha Mar Casino and Hotel are driving growth. Public debt increased in 2017 in large part due to hurricane reconstruction and relief financing. The primary fiscal balance was a deficit of 0.4% of GDP in 2016. The Bahamas is the only country in the Western Hemisphere that is not a member of the World Trade Organization.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$14.45 billion (2019 est.)<br>
-$14.276 billion (2018 est.)<br>
-$13.856 billion (2017 est.)<br>
+$12.1 billion note: data are in 2017 dollars (2020 est.)<br>
+$14.45 billion note: data are in 2017 dollars (2019 est.)<br>
+$14.28 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -351,9 +351,9 @@ $13.856 billion (2017 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$37,101 (2019 est.)<br>
-$37,020 (2018 est.)<br>
-$36,297 (2017 est.)<br>
+$30,800 note: data are in 2017 dollars (2020 est.)<br>
+$37,100 note: data are in 2017 dollars (2019 est.)<br>
+$37,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -431,8 +431,9 @@ _expenditures_: 2.46 billion (2017 est.)<br>
 -$868 million (2016 est.)<br>
 
 **Exports**<br>
-$550 million (2017 est.)<br>
-$444.3 million (2016 est.)<br>
+$1.69 billion note: data are in current year dollars (2020 est.)<br>
+$5.14 billion note: data are in current year dollars (2019 est.)<br>
+$4.75 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
@@ -441,8 +442,9 @@ Poland 32%, United States 17%, Ecuador 9%, China 6%, Japan 5% (2019)<br>
 ships, refined petroleum, nitrogen compounds, crustaceans, styrene polymers (2019)<br>
 
 **Imports**<br>
-$3.18 billion (2017 est.)<br>
-$2.594 billion (2016 est.)<br>
+$3.64 billion note: data are in current year dollars (2020 est.)<br>
+$4.91 billion note: data are in current year dollars (2019 est.)<br>
+$5.12 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 31%, South Korea 29%, Japan 14% (2019)<br>
@@ -616,6 +618,12 @@ _container port(s) (TEUs)_: Freeport (1,396,568) (2019)<br>
 **Military and security forces**<br>
 Royal Bahamas Defense Force: includes land, air, maritime elements (2021)<br>
 
+**Military expenditures**<br>
+0.9% of GDP (2021 est.)<br>
+0.9% of GDP (2020)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
+
 **Military and security service personnel strengths**<br>
 the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (2021)<br>
 
@@ -623,7 +631,7 @@ the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (
 most of the RBDF's major equipment inventory is supplied by the Netherlands (2020)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female service; no conscription (2012)<br>
+18 years of age for voluntary male and female service; no conscription (2019)<br>
 
 ## Transnational Issues
 

@@ -64,6 +64,12 @@ _other_: 8.1% (2018 est.)<br>
 **Irrigated land**<br>
 10,900 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
@@ -72,12 +78,6 @@ the majority of people live in the north and west where agricultural opportuniti
 
 **Geography - note**<br>
 only South American country with coastlines on both the North Pacific Ocean and Caribbean Sea<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 ## People and Society
 
@@ -252,14 +252,6 @@ _particulate matter emissions_: 15.24 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 97.81 megatons (2016 est.)<br>
 _methane emissions_: 81.52 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.49 billion cubic meters (2017 est.)<br>
-_industrial_: 3.73 billion cubic meters (2017 est.)<br>
-_agricultural_: 6.391 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.36 trillion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical along coast and eastern plains; cooler in highlands<br>
 
@@ -271,15 +263,15 @@ _agricultural land: permanent pasture_: permanent pasture: 34.5% (2018 est.)<br>
 _forest_: 54.4% (2018 est.)<br>
 _other_: 8.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.7% of total population (2021)<br>
+_rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.75% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
-_rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -297,6 +289,14 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Major aquifers**<br>
 Amazon Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.49 billion cubic meters (2017 est.)<br>
+_industrial_: 3.73 billion cubic meters (2017 est.)<br>
+_agricultural_: 6.391 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.36 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -403,9 +403,9 @@ _lyrics/music_: Rafael NUNEZ/Oreste SINDICI<br>
 <p>Colombia heavily depends on energy and mining exports, making it vulnerable to fluctuations in commodity prices. Colombia is Latin America’s fourth largest oil producer and the world’s fourth largest coal producer, third largest coffee exporter, and second largest cut flowers exporter. Colombia’s economic development is hampered by inadequate infrastructure, poverty, narcotrafficking, and an uncertain security situation, in addition to dependence on primary commodities (goods that have little value-added from processing or labor inputs).</p><p></p><p>Colombia’s economy slowed in 2017 because of falling world market prices for oil and lower domestic oil production due to insurgent attacks on pipeline infrastructure. Although real GDP growth averaged 4.7% during the past decade, it fell to an estimated 1.8% in 2017. Declining oil prices also have contributed to reduced government revenues. In 2016, oil revenue dropped below 4% of the federal budget and likely remained below 4% in 2017. A Western credit rating agency in December 2017 downgraded Colombia’s sovereign credit rating to BBB-, because of weaker-than-expected growth and increasing external debt. Colombia has struggled to address local referendums against foreign investment, which have slowed its expansion, especially in the oil and mining sectors. Colombia’s FDI declined by 3% to $10.2 billion between January and September 2017.</p><p></p><p>Colombia has signed or is negotiating Free Trade Agreements (FTA) with more than a dozen countries; the US-Colombia FTA went into effect in May 2012. Colombia is a founding member of the Pacific Alliance—a regional trade block formed in 2012 by Chile, Colombia, Mexico, and Peru to promote regional trade and economic integration. The Colombian government took steps in 2017 to address several bilateral trade irritants with the US, including those on truck scrappage, distilled spirits, pharmaceuticals, ethanol imports, and labor rights. Colombia hopes to accede to the Organization for Economic Cooperation and Development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$741.099 billion (2019 est.)<br>
-$717.7 billion (2018 est.)<br>
-$700.091 billion (2017 est.)<br>
+$683.94 billion note: data are in 2017 dollars (2020 est.)<br>
+$734.22 billion note: data are in 2017 dollars (2019 est.)<br>
+$710.89 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -414,9 +414,9 @@ $700.091 billion (2017 est.)<br>
 1.36% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$14,722 (2019 est.)<br>
-$14,452 (2018 est.)<br>
-$14,314 (2017 est.)<br>
+$13,400 note: data are in 2017 dollars (2020 est.)<br>
+$14,600 note: data are in 2017 dollars (2019 est.)<br>
+$14,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -500,9 +500,9 @@ calendar year<br>
 -$13.118 billion (2018 est.)<br>
 
 **Exports**<br>
-$61.697 billion (2019 est.)<br>
-$60.151 billion (2018 est.)<br>
-$59.644 billion (2017 est.)<br>
+$39.14 billion note: data are in current year dollars (2020 est.)<br>
+$52.96 billion note: data are in current year dollars (2019 est.)<br>
+$55.06 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
@@ -511,9 +511,9 @@ United States 31%, China 11%, Panama 6%, Ecuador 5% (2019)<br>
 crude petroleum, coal, refined petroleum, coffee, gold (2019)<br>
 
 **Imports**<br>
-$87.072 billion (2019 est.)<br>
-$80.546 billion (2018 est.)<br>
-$76.136 billion (2017 est.)<br>
+$51.56 billion note: data are in current year dollars (2020 est.)<br>
+$65.83 billion note: data are in current year dollars (2019 est.)<br>
+$64.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 27%, China 20%, Mexico 7%, Brazil 6% (2019)<br>

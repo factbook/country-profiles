@@ -219,15 +219,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 99.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 87.5% of total population (2021)<br>
+_rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 87.5% of total population (2021)<br>
-_rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 50,000 tons (2010 est.)<br>
@@ -287,7 +287,7 @@ _election results_: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (
 **Legislative branch**<br>
 _description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
-_election results_: Greenland Parliament percent of vote by party - IA 37.4%, S 30.1%, PN 12.3%, D 9.3%, A 7.1%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
+_election results_: Greenland Parliament - percent of vote by party - IA 37.4%, S 30.1%, PN 12.3%, D 9.3%, A 7.1%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>

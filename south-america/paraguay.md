@@ -61,6 +61,12 @@ _other_: 2.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,362 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
 
@@ -242,14 +248,6 @@ _particulate matter emissions_: 11.16 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.41 megatons (2016 est.)<br>
 _methane emissions_: 27.65 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 362 million cubic meters (2017 est.)<br>
-_industrial_: 154 million cubic meters (2017 est.)<br>
-_agricultural_: 1.897 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-387.77 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 subtropical to temperate; substantial rainfall in the eastern portions, becoming semiarid in the far west<br>
 
@@ -261,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 42.8% (2018 est.)<br>
 _forest_: 43.8% (2018 est.)<br>
 _other_: 2.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 62.5% of total population (2021)<br>
+_rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.21% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
-_rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -278,6 +276,20 @@ _vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 362 million cubic meters (2017 est.)<br>
+_industrial_: 154 million cubic meters (2017 est.)<br>
+_agricultural_: 1.897 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+387.77 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +395,9 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/disputed<br>
 <p>Landlocked Paraguay has a market economy distinguished by a large informal sector, featuring re-export of imported consumer goods to neighboring countries, as well as the activities of thousands of microenterprises and urban street vendors. A large percentage of the population, especially in rural areas, derives its living from agricultural activity, often on a subsistence basis. Because of the importance of the informal sector, accurate economic measures are difficult to obtain.</p><p></p><p>On a per capita basis, real income has grown steadily over the past five years as strong world demand for commodities, combined with high prices and favorable weather, supported Paraguay's commodity-based export expansion. Paraguay is the fifth largest soy producer in the world. Drought hit in 2008, reducing agricultural exports and slowing the economy even before the onset of the global recession. The economy fell 3.8% in 2009, as lower world demand and commodity prices caused exports to contract. Severe drought and outbreaks of hoof-and-mouth disease in 2012 led to a brief drop in beef and other agricultural exports. Since 2014, however, Paraguay’s economy has grown at a 4% average annual rate due to strong production and high global prices, at a time when other countries in the region have contracted.</p><p></p><p>The Paraguayan Government recognizes the need to diversify its economy and has taken steps in recent years to do so. In addition to looking for new commodity markets in the Middle East and Europe, Paraguayan officials have promoted the country’s low labor costs, cheap energy from its massive Itaipu Hydroelectric Dam, and single-digit tax rate on foreign firms. As a result, the number of factories operating in the country – mostly transplants from Brazil - has tripled since 2014.</p><p></p><p>Corruption, limited progress on structural reform, and deficient infrastructure are the main obstacles to long-term growth. Judicial corruption is endemic and is seen as the greatest barrier to attracting more foreign investment. Paraguay has been adverse to public debt throughout its history, but has recently sought to finance infrastructure improvements to attract foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$89.362 billion (2019 est.)<br>
-$89.388 billion (2018 est.)<br>
-$86.486 billion (2017 est.)<br>
+$87.98 billion note: data are in 2017 dollars (2020 est.)<br>
+$88.87 billion note: data are in 2017 dollars (2019 est.)<br>
+$89.23 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +406,9 @@ $86.486 billion (2017 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,685 (2019 est.)<br>
-$12,850 (2018 est.)<br>
-$12,594 (2017 est.)<br>
+$12,300 note: data are in 2017 dollars (2020 est.)<br>
+$12,600 note: data are in 2017 dollars (2019 est.)<br>
+$12,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,8 +490,9 @@ calendar year<br>
 $416 million (2016 est.)<br>
 
 **Exports**<br>
-$11.73 billion (2017 est.)<br>
-$10.86 billion (2016 est.)<br>
+$11.81 billion note: data are in current year dollars (2020 est.)<br>
+$13.27 billion note: data are in current year dollars (2019 est.)<br>
+$14.36 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
@@ -488,8 +501,9 @@ Brazil 32%, Argentina 22%, Chile 8%, Russia 8% (2019)<br>
 soybeans and soybean products, electricity, beef, corn, insulated wiring (2019)<br>
 
 **Imports**<br>
-$11.35 billion (2017 est.)<br>
-$9.617 billion (2016 est.)<br>
+$10.62 billion note: data are in current year dollars (2020 est.)<br>
+$13.15 billion note: data are in current year dollars (2019 est.)<br>
+$13.88 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Brazil 24%, United States 22%, China 17%, Argentina 10%, Chile 5% (2019)<br>

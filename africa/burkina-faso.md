@@ -61,6 +61,9 @@ _other_: 36.5% (2018 est.)<br>
 **Irrigated land**<br>
 550 sq km (2016)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
 
@@ -245,14 +248,6 @@ _particulate matter emissions_: 36.78 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 3.42 megatons (2016 est.)<br>
 _methane emissions_: 12.85 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 375.6 million cubic meters (2017 est.)<br>
-_industrial_: 21.7 million cubic meters (2017 est.)<br>
-_agricultural_: 420.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-13.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 <p>three climate zones including a hot tropical savanna with a short rainy season in the southern half, a tropical hot semi-arid steppe climate typical of the Sahel region in the northern half, and small area of hot desert in the very north of the country bordering the Sahara Desert</p><br>
 
@@ -264,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 21.93% (2018 est.)<br
 _forest_: 19.3% (2018 est.)<br>
 _other_: 36.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 31.2% of total population (2021)<br>
+_rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.54% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 31.2% of total population (2021)<br>
-_rate of urbanization_: 4.75% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -289,6 +284,17 @@ _severe localized food insecurity_: due to civil insecurity in the north - accor
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 309,030 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 12% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 375.6 million cubic meters (2017 est.)<br>
+_industrial_: 21.7 million cubic meters (2017 est.)<br>
+_agricultural_: 420.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+13.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +399,9 @@ _lyrics/music_: Thomas SANKARA<br>
 <p>Burkina Faso is a poor, landlocked country that depends on adequate rainfall. Irregular patterns of rainfall, poor soil, and the lack of adequate communications and other infrastructure contribute to the economy’s vulnerability to external shocks. About 80% of the population is engaged in subsistence farming and cotton is the main cash crop. The country has few natural resources and a weak industrial base.</p><p></p><p>Cotton and gold are Burkina Faso’s key exports - gold has accounted for about three-quarters of the country’s total export revenues. Burkina Faso’s economic growth and revenue depends largely on production levels and global prices for the two commodities. The country has seen an upswing in gold exploration, production, and exports.</p><p></p><p>In 2016, the government adopted a new development strategy, set forth in the 2016-2020 National Plan for Economic and Social Development, that aims to reduce poverty, build human capital, and to satisfy basic needs. A new three-year IMF program (2018-2020), approved in 2018, will allow the government to reduce the budget deficit and preserve critical spending on social services and priority public investments.</p><p></p><p>While the end of the political crisis has allowed Burkina Faso’s economy to resume positive growth, the country’s fragile security situation could put these gains at risk. Political insecurity in neighboring Mali, unreliable energy supplies, and poor transportation links pose long-term challenges.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.266 billion (2019 est.)<br>
-$41.879 billion (2018 est.)<br>
-$39.238 billion (2017 est.)<br>
+$45.16 billion note: data are in 2017 dollars (2020 est.)<br>
+$44.27 billion note: data are in 2017 dollars (2019 est.)<br>
+$41.88 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +410,9 @@ $39.238 billion (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,178 (2019 est.)<br>
-$2,120 (2018 est.)<br>
-$2,044 (2017 est.)<br>
+$2,200 note: data are in 2017 dollars (2020 est.)<br>
+$2,200 note: data are in 2017 dollars (2019 est.)<br>
+$2,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,8 +492,8 @@ calendar year<br>
 -$820 million (2016 est.)<br>
 
 **Exports**<br>
-$3.902 billion (2018 est.)<br>
-$3.954 billion (2017 est.)<br>
+$4.47 billion note: data are in current year dollars (2019 est.)<br>
+$4.51 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 59%, India 21% (2019)<br>
@@ -496,8 +502,8 @@ Switzerland 59%, India 21% (2019)<br>
 gold, cotton, zinc, cashews, sesame seeds (2019)<br>
 
 **Imports**<br>
-$5.294 billion (2019 est.)<br>
-$5.381 billion (2018 est.)<br>
+$5.02 billion note: data are in current year dollars (2019 est.)<br>
+$5.17 billion note: data are in current year dollars (2018 est.)<br>
 $5.3 billion (2017 est.)<br>
 
 **Imports - partners**<br>

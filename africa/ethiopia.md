@@ -62,6 +62,12 @@ _other_: 51.5% (2018 est.)<br>
 **Irrigated land**<br>
 2,900 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
 
@@ -70,12 +76,6 @@ highest density is found in the highlands of the north and middle areas of the c
 
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked - entire coastline along the Red Sea was lost with the de jure independence of Eritrea on 24 May 1993; Ethiopia is, therefore, the most populous landlocked country in the world; the Blue Nile, the chief headstream of the Nile by water volume, rises in T'ana Hayk (Lake Tana) in northwest Ethiopia<br><br><strong>note 2:</strong> three major crops are believed to have originated in Ethiopia: coffee, grain sorghum, and castor bean<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 ## People and Society
 
@@ -253,14 +253,6 @@ _particulate matter emissions_: 34.36 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 14.87 megatons (2016 est.)<br>
 _methane emissions_: 114.21 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 810 million cubic meters (2017 est.)<br>
-_industrial_: 51.1 million cubic meters (2017 est.)<br>
-_agricultural_: 9.687 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-122 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical monsoon with wide topographic-induced variation<br>
 
@@ -272,15 +264,15 @@ _agricultural land: permanent pasture_: permanent pasture: 20% (2018 est.)<br>
 _forest_: 12.2% (2018 est.)<br>
 _other_: 51.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 22.2% of total population (2021)<br>
+_rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 5.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 22.2% of total population (2021)<br>
-_rate of urbanization_: 4.4% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -301,6 +293,14 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 810 million cubic meters (2017 est.)<br>
+_industrial_: 51.1 million cubic meters (2017 est.)<br>
+_agricultural_: 9.687 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+122 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -410,9 +410,9 @@ _lyrics/music_: DEREJE Melaku Mengesha/SOLOMON Lulu<br>
 <p>Ethiopia - the second most populous country in Africa - is a one-party state with a planned economy. For more than a decade before 2016, GDP grew at a rate between 8% and 11% annually – one of the fastest growing states among the 188 IMF member countries. This growth was driven by government investment in infrastructure, as well as sustained progress in the agricultural and service sectors. More than 70% of Ethiopia’s population is still employed in the agricultural sector, but services have surpassed agriculture as the principal source of GDP.</p><p></p><p>Ethiopia has the lowest level of income-inequality in Africa and one of the lowest in the world, with a Gini coefficient comparable to that of the Scandinavian countries. Yet despite progress toward eliminating extreme poverty, Ethiopia remains one of the poorest countries in the world, due both to rapid population growth and a low starting base. Changes in rainfall associated with world-wide weather patterns resulted in the worst drought in 30 years in 2015-16, creating food insecurity for millions of Ethiopians.</p><p></p><p>The state is heavily engaged in the economy. Ongoing infrastructure projects include power production and distribution, roads, rails, airports and industrial parks. Key sectors are state-owned, including telecommunications, banking and insurance, and power distribution. Under Ethiopia's constitution, the state owns all land and provides long-term leases to tenants. Title rights in urban areas, particularly Addis Ababa, are poorly regulated, and subject to corruption.</p><p></p><p>Ethiopia’s foreign exchange earnings are led by the services sector - primarily the state-run Ethiopian Airlines - followed by exports of several commodities. While coffee remains the largest foreign exchange earner, Ethiopia is diversifying exports, and commodities such as gold, sesame, khat, livestock and horticulture products are becoming increasingly important. Manufacturing represented less than 8% of total exports in 2016, but manufacturing exports should increase in future years due to a growing international presence.</p><p></p><p>The banking, insurance, telecommunications, and micro-credit industries are restricted to domestic investors, but Ethiopia has attracted roughly $8.5 billion in foreign direct investment (FDI), mostly from China, Turkey, India and the EU; US FDI is $567 million. Investment has been primarily in infrastructure, construction, agriculture/horticulture, agricultural processing, textiles, leather and leather products.</p><p></p><p>To support industrialization in sectors where Ethiopia has a comparative advantage, such as textiles and garments, leather goods, and processed agricultural products, Ethiopia plans to increase installed power generation capacity by 8,320 MW, up from a capacity of 2,000 MW, by building three more major dams and expanding to other sources of renewable energy. In 2017, the government devalued the birr by 15% to increase exports and alleviate a chronic foreign currency shortage in the country.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$248.972 billion (2019 est.)<br>
-$229.755 billion (2018 est.)<br>
-$215.094 billion (2017 est.)<br>
+$264.05 billion note: data are in 2017 dollars (2020 est.)<br>
+$248.97 billion note: data are in 2017 dollars (2019 est.)<br>
+$229.76 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -421,9 +421,9 @@ $215.094 billion (2017 est.)<br>
 10.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,221 (2019 est.)<br>
-$2,104 (2018 est.)<br>
-$2,022 (2017 est.)<br>
+$2,300 note: data are in 2017 dollars (2020 est.)<br>
+$2,200 note: data are in 2017 dollars (2019 est.)<br>
+$2,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -506,7 +506,7 @@ _expenditures_: 13.79 billion (2017 est.)<br>
 -$6.574 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.23 billion (2017 est.)<br>
+$7.62 billion note: data are in current year dollars (2018 est.)<br>
 $2.814 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -516,7 +516,7 @@ China 17%, United States 16%, United Arab Emirates 8%, Saudi Arabia 6%, South Ko
 coffee, sesame seeds, gold, cut flowers, zinc (2019)<br>
 
 **Imports**<br>
-$15.59 billion (2017 est.)<br>
+$19.93 billion note: data are in current year dollars (2018 est.)<br>
 $14.69 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -690,7 +690,7 @@ Ethiopia is landlocked and uses the ports of Djibouti in Djibouti and Berbera in
 ## Military and Security
 
 **Military and security forces**<br>
-Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2020)<br>
+Ethiopian National Defense Force (ENDF): Ground Forces, Ethiopian Air Force (Ye Ityopya Ayer Hayl, ETAF) (2021)<br>
 note(s): in January 2020 the Ethiopian Government announced it had re-established a navy, which was disbanded in 1996; in March 2019 Ethiopia signed a defense cooperation agreement with France which stipulated that France would support the establishment of an Ethiopian navy, which will reportedly be based out of Djibouti<br><br>in 2018, Ethiopia established a Republican Guard for protecting senior officials; the Republican Guard is a military unit accountable to the Prime Minister<br><br><br>
 
 **Military expenditures**<br>

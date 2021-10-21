@@ -64,6 +64,12 @@ _other_: 96.3% (2018 est.)<br>
 **Irrigated land**<br>
 36,500 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System<br>
+
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
 
@@ -72,12 +78,6 @@ periodic droughts; frequent earthquakes; flash floods; landslides; hot, driving 
 
 **Geography - note**<br>
 <strong>note 1:</strong> controls Sinai Peninsula, the only land bridge between Africa and remainder of Eastern Hemisphere; controls Suez Canal, a sea link between Indian Ocean and Mediterranean Sea; size, and juxtaposition to Israel, establish its major role in Middle Eastern geopolitics; dependence on upstream neighbors; dominance of Nile basin issues; prone to influxes of refugees from Sudan and the Palestinian territories<br><br><strong>note 2:</strong> the earliest evidence for wild sorghum cultivation occurs in southern Egypt and dates to roughly 7500 B.C.<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Nubian Aquifer System<br>
 
 ## People and Society
 
@@ -252,14 +252,6 @@ _particulate matter emissions_: 79.28 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 238.56 megatons (2016 est.)<br>
 _methane emissions_: 59.68 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 10.75 billion cubic meters (2017 est.)<br>
-_industrial_: 5.4 billion cubic meters (2017 est.)<br>
-_agricultural_: 61.35 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-57.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; hot, dry summers with moderate winters<br>
 
@@ -271,12 +263,12 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 96.3% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0.15% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 42.9% of total population (2021)<br>
 _rate of urbanization_: 1.9% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0.15% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -293,6 +285,14 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Nubian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 10.75 billion cubic meters (2017 est.)<br>
+_industrial_: 5.4 billion cubic meters (2017 est.)<br>
+_agricultural_: 61.35 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+57.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -399,9 +399,9 @@ _lyrics/music_: Younis-al QADI/Sayed DARWISH<br>
 <p>Occupying the northeast corner of the African continent, Egypt is bisected by the highly fertile Nile valley where most economic activity takes place. Egypt's economy was highly centralized during the rule of former President Gamal Abdel NASSER but opened up considerably under former Presidents Anwar EL-SADAT and Mohamed Hosni MUBARAK. Agriculture, hydrocarbons, manufacturing, tourism, and other service sectors drove the country’s relatively diverse economic activity.</p><p></p><p>Despite Egypt’s mixed record for attracting foreign investment over the past two decades, poor living conditions and limited job opportunities have contributed to public discontent. These socioeconomic pressures were a major factor leading to the January 2011 revolution that ousted MUBARAK. The uncertain political, security, and policy environment since 2011 has restricted economic growth and failed to alleviate persistent unemployment, especially among the young.</p><p></p><p>In late 2016, persistent dollar shortages and waning aid from its Gulf allies led Cairo to turn to the IMF for a 3-year, $12 billion loan program. To secure the deal, Cairo floated its currency, introduced new taxes, and cut energy subsidies - all of which pushed inflation above 30% for most of 2017, a high that had not been seen in a generation. Since the currency float, foreign investment in Egypt’s high interest treasury bills has risen exponentially, boosting both dollar availability and central bank reserves. Cairo will be challenged to obtain foreign and local investment in manufacturing and other sectors without a sustained effort to implement a range of business reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,180,890,000,000 (2019 est.)<br>
-$1,118,715,000,000 (2018 est.)<br>
-$1,062,265,000,000 (2017 est.)<br>
+$1,223,040,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,180,890,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,118,720,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -410,9 +410,9 @@ $1,062,265,000,000 (2017 est.)<br>
 4.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,763 (2019 est.)<br>
-$11,366 (2018 est.)<br>
-$11,014 (2017 est.)<br>
+$12,000 note: data are in 2017 dollars (2020 est.)<br>
+$11,800 note: data are in 2017 dollars (2019 est.)<br>
+$11,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -496,8 +496,9 @@ _expenditures_: 62.61 billion (2017 est.)<br>
 -$7.682 billion (2018 est.)<br>
 
 **Exports**<br>
-$87.891 billion (2018 est.)<br>
-$66.506 billion (2017 est.)<br>
+$40.1 billion note: data are in current year dollars (2020 est.)<br>
+$53.52 billion note: data are in current year dollars (2019 est.)<br>
+$51.62 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%, India 5% (2019)<br>
@@ -506,8 +507,9 @@ United States 9%, United Arab Emirates 6%, Italy 6%, Turkey 6%, Saudi Arabia 6%,
 crude petroleum, refined petroleum, gold, natural gas, fertilizers (2019)<br>
 
 **Imports**<br>
-$115.345 billion (2018 est.)<br>
-$103.636 billion (2017 est.)<br>
+$72.48 billion note: data are in current year dollars (2020 est.)<br>
+$78.95 billion note: data are in current year dollars (2019 est.)<br>
+$76.33 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 15%, Russia 7%, United States 6%, Saudi Arabia 6%, Germany 5%, Turkey 5% (2019)<br>
@@ -712,13 +714,13 @@ information varies; approximately 450,000 total active personnel (325,000 Army; 
 the EAF's inventory is comprised of a mix of domestically produced, imported Soviet-era, and more modern, particularly Western, weapons systems; in recent years, the EAF has embarked on an extensive equipment modernization program with major purchases from a variety of suppliers; since 2010, the leading suppliers of military hardware to Egypt are France, Russia, and the US; Egypt has an established defense industry that produces a range of products from small arms to armored vehicles and naval vessels; it also has licensed and co-production agreements with several countries (2020)<br>
 
 **Military deployments**<br>
-1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA); 150 Sudan (UNAMID) (Jan 2021)<br>
+1,000 Central African Republic (MINUSCA); 1,050 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for male conscript military service; service obligation - 18-36 months, followed by a 9-year reserve obligation; voluntary enlistment possible from age 15 (2019)<br>
 
 **Military - note**<br>
-<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2020, Egypt reportedly had over 40,000 military troops, police, and other security personnel deployed to the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
+<p>since 2011, the Egyptian Armed Forces, police, and other security forces have been actively engaged in counterinsurgency and counter-terrorism operations in the North Sinai governorate against several militant groups, particularly the Islamic State of Iraq and ash-Sham – Sinai Province; as of 2020, Egypt reportedly had over 40,000 military troops, police, and other security personnel deployed to the Sinai for internal security duties; in addition, tribal militias were assisting Egyptian security forces (2021)<br><br>the military has a large stake in the civilian economy, including running banks, businesses, and shipping lines, producing consumer and industrial goods, importing commodities, and building and managing infrastructure projects, such as bridges, roads, hospitals, and housing<br><br>Egypt has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> the Multinational Force &amp; Observers (MFO) has operated in the Sinai since 1982 as a peacekeeping and monitoring force to supervise the implementation of the security provisions of the 1979 Egyptian-Israeli Treaty of Peace; the MFO is an independent international organization, created by agreement between Egypt and Israel; as of 2021, it was composed of about 1,150 troops from 13 countries<br>
 
 ## Terrorism
 
@@ -732,7 +734,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,010 (West Bank and Gaza Strip) (2019); 134,952 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 134,952 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
 _stateless persons_: 10 (2020)<br>
 
 **Illicit drugs**<br>

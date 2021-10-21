@@ -192,9 +192,6 @@ coastal erosion, landslides and rockfalls, flash flooding, wind storms; oil spil
 **Air pollutants**<br>
 _carbon dioxide emissions_: 0.63 megatons (2016 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mild winters, cool summers; usually overcast; foggy, windy<br>
 
@@ -206,17 +203,20 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.1% (2018 est.)<br>
 _other_: 97.8% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2017 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 42.6% of total population (2021)<br>
 _rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2017 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 61,000 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 40,870 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 67% (2012 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -272,7 +272,7 @@ _election results_: Bardhur A STEIGNIELSEN elected prime minister; Parliament vo
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
-_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - 2 men<br>
+_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - men 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
@@ -551,10 +551,10 @@ _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces or conscription; the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn (2021)<br>
+no regular military forces or conscription (2021)<br>
 
 **Military - note**<br>
-the Danish military&rsquo;s Joint Arctic Command in Nuuk is responsible for the defense of the Faroe Islands<br>
+the Government of Denmark has responsibility for defense; as such, the Danish military&rsquo;s Joint Arctic Command in Nuuk, Greenland is responsible for territorial defense of the Faroe Islands; the Joint Arctic Command has a contact element in the capital of Torshavn<br>
 
 ## Transnational Issues
 

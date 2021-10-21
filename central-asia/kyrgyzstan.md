@@ -61,6 +61,9 @@ _other_: 39.5% (2018 est.)<br>
 **Irrigated land**<br>
 10,233 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
 
@@ -69,9 +72,6 @@ major flooding during snow melt; prone to earthquakes<br>
 
 **Geography - note**<br>
 landlocked; entirely mountainous, dominated by the Tien Shan range; 94% of the country is 1,000 m above sea level with an average elevation of 2,750 m; many tall peaks, glaciers, and high-altitude lakes<br>
-
-**Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## People and Society
 
@@ -236,14 +236,6 @@ _particulate matter emissions_: 18.12 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9.79 megatons (2016 est.)<br>
 _methane emissions_: 4.47 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 224 million cubic meters (2017 est.)<br>
-_industrial_: 336 million cubic meters (2017 est.)<br>
-_agricultural_: 7.1 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-23.618 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 dry continental to polar in high Tien Shan Mountains; subtropical in southwest (Fergana Valley); temperate in northern foothill zone<br>
 
@@ -255,21 +247,29 @@ _agricultural land: permanent pasture_: permanent pasture: 48.3% (2018 est.)<br>
 _forest_: 5.1% (2018 est.)<br>
 _other_: 39.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 37.1% of total population (2021)<br>
+_rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.21% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 37.1% of total population (2021)<br>
-_rate of urbanization_: 2.05% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 224 million cubic meters (2017 est.)<br>
+_industrial_: 336 million cubic meters (2017 est.)<br>
+_agricultural_: 7.1 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+23.618 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -375,9 +375,9 @@ _lyrics/music_: Djamil SADYKOV and Eshmambet KULUEV/Nasyr DAVLESOV and Kalyi MOL
 <p>Kyrgyzstan is a landlocked, mountainous, lower middle income country with an economy dominated by minerals extraction, agriculture, and reliance on remittances from citizens working abroad. Cotton, wool, and meat are the main agricultural products, although only cotton is exported in any quantity. Other exports include gold, mercury, uranium, natural gas, and - in some years - electricity. The country has sought to attract foreign investment to expand its export base, including construction of hydroelectric dams, but a difficult investment climate and an ongoing legal battle with a Canadian firm over the joint ownership structure of the nation’s largest gold mine deter potential investors. Remittances from Kyrgyz migrant workers, predominantly in Russia and Kazakhstan, are equivalent to more than one-quarter of Kyrgyzstan’s GDP.</p><p></p><p>Following independence, Kyrgyzstan rapidly implemented market reforms, such as improving the regulatory system and instituting land reform. In 1998, Kyrgyzstan was the first Commonwealth of Independent States country to be accepted into the World Trade Organization. The government has privatized much of its ownership shares in public enterprises. Despite these reforms, the country suffered a severe drop in production in the early 1990s and has again faced slow growth in recent years as the global financial crisis and declining oil prices have dampened economies across Central Asia. The Kyrgyz government remains dependent on foreign donor support to finance its annual budget deficit of approximately 3 to 5% of GDP.</p><p></p><p>Kyrgyz leaders hope the country’s August 2015 accession to the Eurasian Economic Union (EAEU) will bolster trade and investment, but slowing economies in Russia and China and low commodity prices continue to hamper economic growth. Large-scale trade and investment pledged by Kyrgyz leaders has been slow to develop. Many Kyrgyz entrepreneurs and politicians complain that non-tariff measures imposed by other EAEU member states are hurting certain sectors of the Kyrgyz economy, such as meat and dairy production, in which they have comparative advantage. Since acceding to the EAEU, the Kyrgyz Republic has continued harmonizing its laws and regulations to meet EAEU standards, though many local entrepreneurs believe this process as disjointed and incomplete. Kyrgyzstan’s economic development continues to be hampered by corruption, lack of administrative transparency, lack of diversity in domestic industries, and difficulty attracting foreign aid and investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$33.918 billion (2019 est.)<br>
-$32.455 billion (2018 est.)<br>
-$31.28 billion (2017 est.)<br>
+$31.02 billion note: data are in 2017 dollars (2020 est.)<br>
+$33.95 billion note: data are in 2017 dollars (2019 est.)<br>
+$32.46 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -386,9 +386,9 @@ $31.28 billion (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,253 (2019 est.)<br>
-$5,133 (2018 est.)<br>
-$5,047 (2017 est.)<br>
+$4,700 note: data are in 2017 dollars (2020 est.)<br>
+$5,300 note: data are in 2017 dollars (2019 est.)<br>
+$5,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -470,8 +470,8 @@ calendar year<br>
 -$792 million (2016 est.)<br>
 
 **Exports**<br>
-$2.742 billion (2019 est.)<br>
-$2.288 billion (2018 est.)<br>
+$3.11 billion note: data are in current year dollars (2019 est.)<br>
+$2.73 billion note: data are in current year dollars (2018 est.)<br>
 $2.352 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -481,8 +481,8 @@ United Kingdom 56%, Kazakhstan 13%, Russia 13%, Uzbekistan 5% (2019)<br>
 gold, precious metals, various beans, refined petroleum, scrap copper (2019)<br>
 
 **Imports**<br>
-$5.477 billion (2019 est.)<br>
-$5.32 billion (2018 est.)<br>
+$5.67 billion note: data are in current year dollars (2019 est.)<br>
+$5.86 billion note: data are in current year dollars (2018 est.)<br>
 $4.953 billion (2017 est.)<br>
 
 **Imports - partners**<br>

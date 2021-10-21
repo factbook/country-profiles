@@ -61,6 +61,9 @@ _other_: 19.2% (2018 est.)<br>
 **Irrigated land**<br>
 19,950 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
+
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
 
@@ -229,14 +232,6 @@ _particulate matter emissions_: 19.02 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 70.63 megatons (2016 est.)<br>
 _methane emissions_: 52.09 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 755 million cubic meters (2017 est.)<br>
-_industrial_: 839 million cubic meters (2017 est.)<br>
-_agricultural_: 26.36 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-24.765 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 subtropical desert<br>
 
@@ -248,18 +243,29 @@ _agricultural land: permanent pasture_: permanent pasture: 67.8% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 53% of total population (2021)<br>
+_rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
-_rate of urbanization_: 2.23% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 755 million cubic meters (2017 est.)<br>
+_industrial_: 839 million cubic meters (2017 est.)<br>
+_agricultural_: 26.36 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+24.765 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -318,8 +324,8 @@ _election results_: <br><em>2017:</em> Gurbanguly BERDIMUHAMEDOW reelected presi
 
 **Legislative branch**<br>
 _description_: note: in September 2020, the Turkmenistan Parliament adopted a constitutional amendment creating an upper chamber, making the Parliament bicameral<br>bicameral National Council or Khalk Maslakhaty consists of:<br>People's Council (56 seats; 48 members indirectly elected by provincial councils and 8 members appointed by the president)<br>Assembly or Mejlis Hakynda (125 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: People's Council - first held on 25 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
-_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition - men 94, women 31, percent of women 24.8%<br>
+_elections_: People's Council - first held on 28 March 2021 for 48 indirectly elected members (next to be held in 2026); first held on 14 April 2021 for 8 presidentially appointed members (next to be held NA)<br>Assembly - last held on 25 March 2018 (next to be held in 2026)<br>
+_election results_: People's Council - percent of vote by party - NA; seats by party - DPT 3, independent 45; composition - men 42, women 14, percent of women 32.3%<br>Assembly - percent of vote by party - NA; seats by party - DPT 55, APT 11, PIE 11, independent 48 (individuals nominated by citizen groups); composition (as of March 2018) - men 94, women 31, percent of women 24.8%; note - total percent of National Council percent of women 24.9%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Turkmenistan (consists of the court president and 21 associate judges and organized into civil, criminal, and military chambers)<br>
@@ -366,7 +372,8 @@ _lyrics/music_: collective/Veli MUKHATOV<br>
 <p>Turkmenistan is largely a desert country with intensive agriculture in irrigated oases and significant natural gas and oil resources. The two largest crops are cotton, most of which is produced for export, and wheat, which is domestically consumed. Although agriculture accounts for almost 8% of GDP, it continues to employ nearly half of the country's workforce. Hydrocarbon exports, the bulk of which is natural gas going to China, make up 25% of Turkmenistan’s GDP. Ashgabat has explored two initiatives to bring gas to new markets: a trans-Caspian pipeline that would carry gas to Europe and the Turkmenistan-Afghanistan-Pakistan-India gas pipeline. Both face major financing, political, and security hurdles and are unlikely to be completed soon.</p> <p>Turkmenistan’s autocratic governments under presidents NIYAZOW (1991-2006) and BERDIMUHAMEDOW (since 2007) have made little progress improving the business climate, privatizing state-owned industries, combatting corruption, and limiting economic development outside the energy sector. High energy prices in the mid-2000s allowed the government to undertake extensive development and social spending, including providing heavy utility subsidies.</p> <p>Low energy prices since mid-2014 are hampering Turkmenistan’s economic growth and reducing government revenues. The government has cut subsidies in several areas, and wage arrears have increased. In January 2014, the Central Bank of Turkmenistan devalued the manat by 19%, and downward pressure on the currency continues. There is a widening spread between the official exchange rate (3.5 TMM per US dollar) and the black market exchange rate (approximately 14 TMM per US dollar). Currency depreciation and conversion restrictions, corruption, isolationist policies, and declining spending on public services have resulted in a stagnate economy that is nearing crisis. Turkmenistan claims substantial foreign currency reserves, but non-transparent data limit international institutions’ ability to verify this information.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$86.858 billion (2018 est.)<br>
+$92.33 billion note: data are in 2017 dollars (2019 est.)<br>
+$86.86 billion note: data are in 2017 dollars (2018 est.)<br>
 $81.787 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -376,7 +383,8 @@ $81.787 billion (2017 est.)<br>
 6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,845 (2018 est.)<br>
+$15,500 note: data are in 2017 dollars (2019 est.)<br>
+$14,800 note: data are in 2017 dollars (2018 est.)<br>
 $14,205 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 

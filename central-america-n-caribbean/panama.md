@@ -242,14 +242,6 @@ _particulate matter emissions_: 11.18 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 10.71 megatons (2016 est.)<br>
 _methane emissions_: 5.97 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 759.1 million cubic meters (2017 est.)<br>
-_industrial_: 6.2 million cubic meters (2017 est.)<br>
-_agricultural_: 446.1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-139.304 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical maritime; hot, humid, cloudy; prolonged rainy season (May to January), short dry season (January to May)<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 20.7% (2018 est.)<br>
 _forest_: 43.6% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 68.8% of total population (2021)<br>
+_rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 68.8% of total population (2021)<br>
-_rate of urbanization_: 1.92% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -278,6 +270,14 @@ _vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 759.1 million cubic meters (2017 est.)<br>
+_industrial_: 6.2 million cubic meters (2017 est.)<br>
+_agricultural_: 446.1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+139.304 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -381,9 +381,9 @@ _lyrics/music_: Jeronimo DE LA OSSA/Santos A. JORGE<br>
 <p>Panama's dollar-based economy rests primarily on a well-developed services sector that accounts for more than three-quarters of GDP. Services include operating the Panama Canal, logistics, banking, the Colon Free Trade Zone, insurance, container ports, flagship registry, and tourism and Panama is a center for offshore banking. Panama's transportation and logistics services sectors, along with infrastructure development projects, have boosted economic growth; however, public debt surpassed $37 billion in 2016 because of excessive government spending and public works projects. The US-Panama Trade Promotion Agreement was approved by Congress and signed into law in October 2011, and entered into force in October 2012.</p><p></p><p>Future growth will be bolstered by the Panama Canal expansion project that began in 2007 and was completed in 2016 at a cost of $5.3 billion - about 10-15% of current GDP. The expansion project more than doubled the Canal's capacity, enabling it to accommodate high-capacity vessels such as tankers and neopanamax vessels that are too large to traverse the existing canal. The US and China are the top users of the Canal.</p><p></p><p>Strong economic performance has not translated into broadly shared prosperity, as Panama has the second worst income distribution in Latin America. About one-fourth of the population lives in poverty; however, from 2006 to 2012 poverty was reduced by 10 percentage points.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$133.587 billion (2019 est.)<br>
-$129.688 billion (2018 est.)<br>
-$125.07 billion (2017 est.)<br>
+$109.52 billion note: data are in 2017 dollars (2020 est.)<br>
+$133.47 billion note: data are in 2017 dollars (2019 est.)<br>
+$129.54 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +392,9 @@ $125.07 billion (2017 est.)<br>
 5.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$31,459 (2019 est.)<br>
-$31,049 (2018 est.)<br>
-$30,455 (2017 est.)<br>
+$25,400 note: data are in 2017 dollars (2020 est.)<br>
+$31,400 note: data are in 2017 dollars (2019 est.)<br>
+$31,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -477,8 +477,9 @@ calendar year<br>
 -$3.16 billion (2016 est.)<br>
 
 **Exports**<br>
-$25.94 billion (2018 est.)<br>
-$24.7 billion (2017 est.)<br>
+$20.18 billion note: data are in current year dollars (2020 est.)<br>
+$28.58 billion note: data are in current year dollars (2019 est.)<br>
+$28.55 billion note: data are in current year dollars (2018 est.)<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Exports - partners**<br>
@@ -488,8 +489,9 @@ Ecuador 20%, Guatemala 14%, China 8%, United States 6%, Netherlands 6% (2019)<br
 refined petroleum, copper, bananas, ships, coal tar oil, packaged medicines (2019)<br>
 
 **Imports**<br>
-$28.978 billion (2018 est.)<br>
-$28.175 billion (2017 est.)<br>
+$17.41 billion note: data are in current year dollars (2020 est.)<br>
+$27.38 billion note: data are in current year dollars (2019 est.)<br>
+$28.9 billion note: data are in current year dollars (2018 est.)<br>
 <strong>note:</strong> includes the Colon Free Zone<br>
 
 **Imports - partners**<br>

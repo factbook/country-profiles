@@ -61,6 +61,12 @@ _other_: 87.5% (2018 est.)<br>
 **Irrigated land**<br>
 964 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
 
@@ -69,12 +75,6 @@ droughts; periodic earthquakes; flash floods<br>
 
 **Geography - note**<br>
 strategic location at the head of the Gulf of Aqaba and as the Arab country that shares the longest border with Israel and the occupied West Bank; the Dead Sea, the lowest point in Asia and the second saltiest body of water in the world (after Lac Assal in Djibouti), lies on Jordan's western border with Israel and the West Bank; Jordan is almost landlocked but does have a 26 km southwestern coastline with a single port, Al 'Aqabah (Aqaba)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
-**Major aquifers**<br>
-Arabian Aquifer System<br>
 
 ## People and Society
 
@@ -245,14 +245,6 @@ _particulate matter emissions_: 32.09 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 25.11 megatons (2016 est.)<br>
 _methane emissions_: 6.04 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 456.9 million cubic meters (2017 est.)<br>
-_industrial_: 32.5 million cubic meters (2017 est.)<br>
-_agricultural_: 554.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-937 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly arid desert; rainy season in west (November to April)<br>
 
@@ -264,15 +256,15 @@ _agricultural land: permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
 _forest_: 1.1% (2018 est.)<br>
 _other_: 87.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 91.6% of total population (2021)<br>
+_rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 91.6% of total population (2021)<br>
-_rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Jordan; as of 6 October 2021, Jordan has reported a total of 828,572 cases of COVID-19 or 8,120.76 cumulative cases of COVID-19 per 100,000 population with 105.48 cumulative deaths per 100,000 population; as of 5 October 2021, 36.52% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -287,6 +279,14 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 456.9 million cubic meters (2017 est.)<br>
+_industrial_: 32.5 million cubic meters (2017 est.)<br>
+_agricultural_: 554.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+937 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -390,9 +390,9 @@ _lyrics/music_: Abdul-Mone'm al-RIFAI'/Abdul-Qader al-TANEER<br>
 <p>Jordan's economy is among the smallest in the Middle East, with insufficient supplies of water, oil, and other natural resources, underlying the government's heavy reliance on foreign assistance. Other economic challenges for the government include chronic high rates of unemployment and underemployment, budget and current account deficits, and government debt.</p><p></p><p>King ABDALLAH, during the first decade of the 2000s, implemented significant economic reforms, such as expanding foreign trade and privatizing state-owned companies that attracted foreign investment and contributed to average annual economic growth of 8% for 2004 through 2008. The global economic slowdown and regional turmoil contributed to slower growth from 2010 to 2017 - with growth averaging about 2.5% per year - and hurt export-oriented sectors, construction/real estate, and tourism. Since the onset of the civil war in Syria and resulting refugee crisis, one of Jordan’s most pressing socioeconomic challenges has been managing the influx of approximately 660,000 UN-registered refugees, more than 80% of whom live in Jordan’s urban areas. Jordan’s own official census estimated the refugee number at 1.3 million Syrians as of early 2016.</p><p></p><p>Jordan is nearly completely dependent on imported energy—mostly natural gas—and energy consistently makes up 25-30% of Jordan’s imports. To diversify its energy mix, Jordan has secured several contracts for liquefied and pipeline natural gas, developed several major renewables projects, and is currently exploring nuclear power generation and exploitation of abundant oil shale reserves. In August 2016, Jordan and the IMF agreed to a $723 million Extended Fund Facility that aims to build on the three-year, $2.1 billion IMF program that ended in August 2015 with the goal of helping Jordan correct budgetary and balance of payments imbalances.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$101.738 billion (2019 est.)<br>
-$99.786 billion (2018 est.)<br>
-$97.893 billion (2017 est.)<br>
+$100.16 billion note: data are in 2017 dollars (2020 est.)<br>
+$101.74 billion note: data are in 2017 dollars (2019 est.)<br>
+$99.79 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -401,9 +401,9 @@ $97.893 billion (2017 est.)<br>
 2.12% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$10,071 (2019 est.)<br>
-$10,023 (2018 est.)<br>
-$10,010 (2017 est.)<br>
+$9,800 note: data are in 2017 dollars (2020 est.)<br>
+$10,100 note: data are in 2017 dollars (2019 est.)<br>
+$10,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -488,8 +488,8 @@ calendar year<br>
 -$2.964 billion (2018 est.)<br>
 
 **Exports**<br>
-$13.109 billion (2018 est.)<br>
-$12.718 billion (2017 est.)<br>
+$16.29 billion note: data are in current year dollars (2019 est.)<br>
+$15.09 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%, China 5% (2019)<br>
@@ -498,8 +498,8 @@ United States 21%, Saudi Arabia 13%, India 8%, Iraq 7%, United Arab Emirates 5%,
 fertilizers, calcium phosphates, packaged medicines, clothing and apparel, phosphoric acid (2019)<br>
 
 **Imports**<br>
-$19.669 billion (2018 est.)<br>
-$19.353 billion (2017 est.)<br>
+$22.04 billion note: data are in current year dollars (2019 est.)<br>
+$22.92 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 17%, Saudi Arabia 15%, United States 6%, United Arab Emirates 6%, Egypt 5%, India 5% (2019)<br>
@@ -673,7 +673,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2020)<br>
+Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2021)<br>
 
 **Military expenditures**<br>
 4.7% of GDP (2020 est.)<br>
@@ -689,7 +689,7 @@ the Jordanian Armed Forces (JAF) have approximately 90,000 active personnel (77,
 the JAF inventory is comprised of a wide mix of imported weapons, mostly second-hand equipment from Europe, the Gulf States, and the US; since 2010, the Netherlands and the US are the leading suppliers of military hardware to Jordan (2020)<br>
 
 **Military deployments**<br>
-100 Mali (MINUSMA) (Jan 2021)<br>
+400 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of three months of military training and nine months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least six months; service would include one month for military training with the remaining three months dedicated to vocational training in the sectors of construction and tourism (2020)<br>
@@ -708,7 +708,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,272,411 (Palestinian refugees) (2020); 670,364 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 670,364 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
 _stateless persons_: 17 (2020)<br>
 
 **Trafficking in persons**<br>

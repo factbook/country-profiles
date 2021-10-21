@@ -234,14 +234,6 @@ _particulate matter emissions_: 24.57 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 620.3 megatons (2016 est.)<br>
 _methane emissions_: 30.28 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 6.672 billion cubic meters (2017 est.)<br>
-_industrial_: 4.45 billion cubic meters (2017 est.)<br>
-_agricultural_: 15.96 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-69.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate, with rainfall heavier in summer than winter; cold winters<br>
 
@@ -253,15 +245,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
 _forest_: 63.9% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.4% of total population (2021)<br>
+_rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
-_rate of urbanization_: 0.31% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -271,6 +263,14 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 _municipal solid waste generated annually_: 18,218,975 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 10,567,006 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 58% (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 6.672 billion cubic meters (2017 est.)<br>
+_industrial_: 4.45 billion cubic meters (2017 est.)<br>
+_agricultural_: 15.96 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+69.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -376,9 +376,9 @@ _lyrics/music_: YUN Ch'i-Ho or AN Ch'ang-Ho/AHN Eaktay<br>
 <p>After emerging from the 1950-53 war with North Korea, South Korea emerged as one of the 20th century’s most remarkable economic success stories, becoming a developed, globally connected, high-technology society within decades. In the 1960s, GDP per capita was comparable with levels in the poorest countries in the world. In 2004, South Korea's GDP surpassed one trillion dollars.</p><p></p><p>Beginning in the 1960s under President PARK Chung-hee, the government promoted the import of raw materials and technology, encouraged saving and investment over consumption, kept wages low, and directed resources to export-oriented industries that remain important to the economy to this day. Growth surged under these policies, and frequently reached double-digits in the 1960s and 1970s. Growth gradually moderated in the 1990s as the economy matured, but remained strong enough to propel South Korea into the ranks of the advanced economies of the OECD by 1997. These policies also led to the emergence of family-owned chaebol conglomerates such as Daewoo, Hyundai, and Samsung, which retained their dominant positions even as the government loosened its grip on the economy amid the political changes of the 1980s and 1990s.</p><p></p><p>The Asian financial crisis of 1997-98 hit South Korea’s companies hard because of their excessive reliance on short-term borrowing, and GDP ultimately plunged by 7% in 1998. South Korea tackled difficult economic reforms following the crisis, including restructuring some chaebols, increasing labor market flexibility, and opening up to more foreign investment and imports. These steps lead to a relatively rapid economic recovery. South Korea also began expanding its network of free trade agreements to help bolster exports, and has since implemented 16 free trade agreements covering 58 countries—including the United State and China—that collectively cover more than three-quarters of global GDP.</p><p></p><p>In 2017, the election of President MOON Jae-in brought a surge in consumer confidence, in part, because of his successful efforts to increase wages and government spending. These factors combined with an uptick in export growth to drive real GDP growth to more than 3%, despite disruptions in South Korea’s trade with China over the deployment of a US missile defense system in South Korea.</p><p></p><p>In 2018 and beyond, South Korea will contend with gradually slowing economic growth - in the 2-3% range - not uncommon for advanced economies. This could be partially offset by efforts to address challenges arising from its rapidly aging population, inflexible labor market, continued dominance of the chaebols, and heavy reliance on exports rather than domestic consumption. Socioeconomic problems also persist, and include rising inequality, poverty among the elderly, high youth unemployment, long working hours, low worker productivity, and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,211,315,000,000 (2019 est.)<br>
-$2,167,119,000,000 (2018 est.)<br>
-$2,105,893,000,000 (2017 est.)<br>
+$2,187,800,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$2,208,960,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$2,164,810,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -387,9 +387,9 @@ $2,105,893,000,000 (2017 est.)<br>
 3.16% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$42,765 (2019 est.)<br>
-$41,993 (2018 est.)<br>
-$41,001 (2017 est.)<br>
+$42,300 note: data are in 2017 dollars (2020 est.)<br>
+$42,700 note: data are in 2017 dollars (2019 est.)<br>
+$41,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,9 +472,9 @@ $59.971 billion (2019 est.)<br>
 $77.467 billion (2018 est.)<br>
 
 **Exports**<br>
-$683.996 billion (2019 est.)<br>
-$672.442 billion (2018 est.)<br>
-$646.728 billion (2017 est.)<br>
+$606.71 billion note: data are in current year dollars (2020 est.)<br>
+$660.51 billion note: data are in current year dollars (2019 est.)<br>
+$729.94 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
@@ -483,9 +483,9 @@ China 25%, United States 14%, Vietnam 9%, Hong Kong 6%, Japan 5% (2019)<br>
 integrated circuits, cars and vehicle parts, refined petroleum, ships, office machinery (2019)<br>
 
 **Imports**<br>
-$599.705 billion (2019 est.)<br>
-$603.535 billion (2018 est.)<br>
-$593.371 billion (2017 est.)<br>
+$540.96 billion note: data are in current year dollars (2020 est.)<br>
+$607.54 billion note: data are in current year dollars (2019 est.)<br>
+$649.23 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 22%, United States 12%, Japan 9% (2019)<br>
@@ -683,7 +683,7 @@ the Republic of Korea Armed Forces have approximately 555,000 active duty person
 the Republic of Korea Armed Forces are equipped with a mix of domestically-produced and imported weapons systems; domestic production includes armored fighting vehicles, artillery, aircraft, and naval ships; the top foreign weapons supplier is the US and some domestically-produced systems are built under US license; Germany is the second largest supplier of armaments since 2010 (2020)<br>
 
 **Military deployments**<br>
-250 Lebanon (UNIFIL); 250 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, the ROK has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (Jan 2021)<br>
+250 Lebanon (UNIFIL); 250 South Sudan (UNMISS); 170 United Arab Emirates; note - since 2009, the ROK has kept a naval flotilla with approximately 300 personnel in the waters off of the Horn of Africa and the Arabian Peninsula (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for compulsory military service; minimum conscript service obligation varies by service- 21 months (Army, Marines), 23 months (Navy), 24 months (Air Force); 18-26 years of age for voluntary military service; women, in service since 1950, are able to serve in all branches, including as officers (2020)<br><br>note:  South Korea intends to reduce the length of military service to 18 – 22 months by 2022<br>

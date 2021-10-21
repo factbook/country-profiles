@@ -234,14 +234,6 @@ _particulate matter emissions_: 7.02 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 41.02 megatons (2016 est.)<br>
 _methane emissions_: 4.81 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 775.3 million cubic meters (2017 est.)<br>
-_industrial_: 1.071 billion cubic meters (2017 est.)<br>
-_agricultural_: 844.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-393 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate along coast, modified by North Atlantic Current; colder interior with increased precipitation and colder summers; rainy year-round on west coast<br>
 
@@ -253,21 +245,29 @@ _agricultural land: permanent pasture_: permanent pasture: 0.5% (2018 est.)<br>
 _forest_: 27.8% (2018 est.)<br>
 _other_: 69.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 83.3% of total population (2021)<br>
+_rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 83.3% of total population (2021)<br>
-_rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Svalbard and Jan Mayen Islands<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.187 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 572,119 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 775.3 million cubic meters (2017 est.)<br>
+_industrial_: 1.071 billion cubic meters (2017 est.)<br>
+_agricultural_: 844.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+393 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -321,7 +321,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King HARALD V (since 17 January 1991); Heir Apparent Crown Prince HAAKON MAGNUS (son of the monarch, born 20 July 1973)<br>
-_head of government_: Prime Minister Erna SOLBERG (since 16 October 2013)<br>
+_head of government_: Prime Minister Jonas Gahr STORE (since 14 October 2021); note - Prime Minister Erna SOLBERG resigned on 12 October 2021<br>
 _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
 
@@ -374,9 +374,9 @@ _lyrics/music_: lyrics/music: Bjornstjerne BJORNSON/Rikard NORDRAAK<br>
 <p>Norway has a stable economy with a vibrant private sector, a large state sector, and an extensive social safety net. Norway opted out of the EU during a referendum in November 1994. However, as a member of the European Economic Area, Norway partially participates in the EU’s single market and contributes sizably to the EU budget.</p><p></p><p>The country is richly endowed with natural resources such as oil and gas, fish, forests, and minerals. Norway is a leading producer and the world’s second largest exporter of seafood, after China. The government manages the country’s petroleum resources through extensive regulation. The petroleum sector provides about 9% of jobs, 12% of GDP, 13% of the state’s revenue, and 37% of exports, according to official national estimates. Norway is one of the world's leading petroleum exporters, although oil production is close to 50% below its peak in 2000. Gas production, conversely, has more than doubled since 2000. Although oil production is historically low, it rose in 2016 for the third consecutive year due to the higher production of existing oil fields and to new fields coming on stream. Norway’s domestic electricity production relies almost entirely on hydropower.</p><p></p><p>In anticipation of eventual declines in oil and gas production, Norway saves state revenue from petroleum sector activities in the world's largest sovereign wealth fund, valued at over $1 trillion at the end of 2017. To help balance the federal budget each year, the government follows a "fiscal rule," which states that spending of revenues from petroleum and fund investments shall correspond to the expected real rate of return on the fund, an amount it estimates is sustainable over time. In February 2017, the government revised the expected rate of return for the fund downward from 4% to 3%.</p><p></p><p>After solid GDP growth in the 2004-07 period, the economy slowed in 2008, and contracted in 2009, before returning to modest, positive growth from 2010 to 2017. The Norwegian economy has been adjusting to lower energy prices, as demonstrated by growth in labor force participation and employment in 2017. GDP growth was about 1.5% in 2017, driven largely by domestic demand, which has been boosted by the rebound in the labor market and supportive fiscal policies. Economic growth is expected to remain constant or improve slightly in the next few years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$340.303 billion (2019 est.)<br>
-$336.418 billion (2018 est.)<br>
-$332.135 billion (2017 est.)<br>
+$342.06 billion note: data are in 2017 dollars (2020 est.)<br>
+$344.69 billion note: data are in 2017 dollars (2019 est.)<br>
+$341.78 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -385,9 +385,9 @@ $332.135 billion (2017 est.)<br>
 2.75% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$63,633 (2019 est.)<br>
-$63,333 (2018 est.)<br>
-$62,941 (2017 est.)<br>
+$63,600 note: data are in 2017 dollars (2020 est.)<br>
+$64,500 note: data are in 2017 dollars (2019 est.)<br>
+$64,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -471,9 +471,9 @@ $16.656 billion (2019 est.)<br>
 $31.111 billion (2018 est.)<br>
 
 **Exports**<br>
-$185.101 billion (2019 est.)<br>
-$184.094 billion (2018 est.)<br>
-$185.952 billion (2017 est.)<br>
+$117.06 billion note: data are in current year dollars (2020 est.)<br>
+$146.71 billion note: data are in current year dollars (2019 est.)<br>
+$165.37 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United States 5% (2019)<br>
@@ -482,9 +482,9 @@ United Kingdom 18%, Germany 14%, Netherlands 10%, Sweden 9%, France 6%, United S
 crude petroleum, natural gas, fish, refined petroleum, aluminum (2019)<br>
 
 **Imports**<br>
-$158.037 billion (2019 est.)<br>
-$150.972 billion (2018 est.)<br>
-$148.802 billion (2017 est.)<br>
+$119.08 billion note: data are in current year dollars (2020 est.)<br>
+$140.14 billion note: data are in current year dollars (2019 est.)<br>
+$140.3 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Sweden 17%, Germany 12%, China 8%, Denmark 7%, United States 6%, United Kingdom 5%, Netherlands 5% (2019)<br>
@@ -693,6 +693,6 @@ Norway is a member of NATO and was one of the original 12 countries to sign the 
 <p>Norway asserts a territorial claim in Antarctica (Queen Maud Land and its continental shelf); Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission; Norway and Russia signed a comprehensive maritime boundary agreement in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,359 (Syria), 14,038 (Eritrea),&nbsp;6,518 (Somalia), 5,108 (Afghanistan) (2019)<br>
+_refugees (country of origin)_: 15,311 (Syria), 12,520 (Eritrea), 5,263 (Somalia) (2020)<br>
 _stateless persons_: 4,206 (2020)<br>
 

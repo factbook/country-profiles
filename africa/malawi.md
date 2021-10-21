@@ -61,6 +61,9 @@ _other_: 6.8% (2018 est.)<br>
 **Irrigated land**<br>
 740 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
 
@@ -69,9 +72,6 @@ flooding; droughts; earthquakes<br>
 
 **Geography - note**<br>
 landlocked; Lake Nyasa, some 580 km long, is the country's most prominent physical feature; it contains more fish species than any other lake on earth<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 22.14 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.3 megatons (2016 est.)<br>
 _methane emissions_: 11.12 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 143.1 million cubic meters (2017 est.)<br>
-_industrial_: 47.7 million cubic meters (2017 est.)<br>
-_agricultural_: 1.166 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-17.28 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 sub-tropical; rainy season (November to May); dry season (May to November)<br>
 
@@ -267,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 19.6% (2018 est.)<br>
 _forest_: 34% (2018 est.)<br>
 _other_: 6.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 17.7% of total population (2021)<br>
+_rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 6.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
-_rate of urbanization_: 4.41% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -292,6 +284,14 @@ _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 143.1 million cubic meters (2017 est.)<br>
+_industrial_: 47.7 million cubic meters (2017 est.)<br>
+_agricultural_: 1.166 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+17.28 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -395,9 +395,9 @@ _lyrics/music_: Michael-Fredrick Paul SAUKA<br>
 <p>Landlocked Malawi ranks among the world's least developed countries. The country’s economic performance has historically been constrained by policy inconsistency, macroeconomic instability, poor infrastructure, rampant corruption, high population growth, and poor health and education outcomes that limit labor productivity. The economy is predominately agricultural with about 80% of the population living in rural areas. Agriculture accounts for about one-third of GDP and 80% of export revenues. The performance of the tobacco sector is key to short-term growth as tobacco accounts for more than half of exports, although Malawi is looking to diversify away from tobacco to other cash crops.</p><p></p><p>The economy depends on substantial inflows of economic assistance from the IMF, the World Bank, and individual donor nations. Donors halted direct budget support from 2013 to 2016 because of concerns about corruption and fiscal carelessness, but the World Bank resumed budget support in May 2017. In 2006, Malawi was approved for relief under the Heavily Indebted Poor Countries (HIPC) program but recent increases in domestic borrowing mean that debt servicing in 2016 exceeded the levels prior to HIPC debt relief.</p><p></p><p>Heavily dependent on rain-fed agriculture, with corn being the staple crop, Malawi’s economy was hit hard by the El Nino-driven drought in 2015 and 2016, and now faces threat from the fall armyworm. The drought also slowed economic activity, led to two consecutive years of declining economic growth, and contributed to high inflation rates. Depressed food prices over 2017 led to a significant drop in inflation (from an average of 21.7% in 2016 to 12.3% in 2017), with a similar drop in interest rates.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$19.741 billion (2019 est.)<br>
-$18.914 billion (2018 est.)<br>
-$18.333 billion (2017 est.)<br>
+$28.44 billion note: data are in 2017 dollars (2020 est.)<br>
+$28.22 billion note: data are in 2017 dollars (2019 est.)<br>
+$26.69 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -406,9 +406,9 @@ $18.333 billion (2017 est.)<br>
 3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,060 (2019 est.)<br>
-$1,043 (2018 est.)<br>
-$1,038 (2017 est.)<br>
+$1,500 note: data are in 2017 dollars (2020 est.)<br>
+$1,500 note: data are in 2017 dollars (2019 est.)<br>
+$1,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,8 +485,8 @@ _expenditures_: 1.567 billion (2017 est.)<br>
 -$744 million (2016 est.)<br>
 
 **Exports**<br>
-$10.718 billion (2019 est.)<br>
-$10.326 billion (2018 est.)<br>
+$1.16 billion note: data are in current year dollars (2019 est.)<br>
+$1.11 billion note: data are in current year dollars (2018 est.)<br>
 $9.658 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -496,8 +496,8 @@ Belgium 16%, United States 8%, Egypt 7%, South Africa 6%, Germany 6%, Kenya 5%, 
 tobacco, tea, raw sugar, beans, soybean products, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$12.818 billion (2019 est.)<br>
-$12.372 billion (2018 est.)<br>
+$3.2 billion note: data are in current year dollars (2019 est.)<br>
+$2.92 billion note: data are in current year dollars (2018 est.)<br>
 $11.631 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -685,7 +685,7 @@ information varies; approximately 8,000 total personnel (including about 200 air
 the Malawi Defense Force inventory is comprised of mostly obsolescent or second-hand equipment from Europe and South Africa; since 2010, it has taken deliveries of limited amounts of mostly second-hand equipment from China, South Africa, and the UK, as well as non-lethal equipment donated by the US (2020)<br>
 
 **Military deployments**<br>
-700 Democratic Republic of the Congo (MONUSCO) (Jan 2021)<br>
+700 Democratic Republic of the Congo (MONUSCO) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>

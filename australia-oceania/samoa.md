@@ -231,9 +231,6 @@ _particulate matter emissions_: 10.56 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.25 megatons (2016 est.)<br>
 _methane emissions_: 0.27 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (November to April), dry season (May to October)<br>
 
@@ -245,15 +242,15 @@ _agricultural land: permanent pasture_: permanent pasture: 1.8% (2018 est.)<br>
 _forest_: 60.4% (2018 est.)<br>
 _other_: 27.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 17.7% of total population (2021)<br>
+_rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 17.7% of total population (2021)<br>
-_rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -264,6 +261,9 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 27,399 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 9,864 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 36% (2013 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -370,9 +370,9 @@ _lyrics/music_: Sauni Liga KURESA<br>
 <p>The economy of Samoa has traditionally been dependent on development aid, family remittances from overseas, tourism, agriculture, and fishing. It has a nominal GDP of $844 million. Agriculture, including fishing, furnishes 90% of exports, featuring fish, coconut oil, nonu products, and taro. The manufacturing sector mainly processes agricultural products. Industry accounts for nearly 22% of GDP while employing less than 6% of the work force. The service sector accounts for nearly two-thirds of GDP and employs approximately 50% of the labor force. Tourism is an expanding sector accounting for 25% of GDP; 132,000 tourists visited the islands in 2013.</p><p></p><p>The country is vulnerable to devastating storms. In September 2009, an earthquake and the resulting tsunami severely damaged Samoa and nearby American Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. In December 2012, extensive flooding and wind damage from Tropical Cyclone Evan killed four people, displaced over 6,000, and damaged or destroyed an estimated 1,500 homes on Samoa's Upolu Island.</p><p></p><p>The Samoan Government has called for deregulation of the country's financial sector, encouragement of investment, and continued fiscal discipline, while at the same time protecting the environment. Foreign reserves are relatively healthy and inflation is low, but external debt is approximately 45% of GDP. Samoa became the 155th member of the WTO in May 2012, and graduated from least developed country status in January 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.285 billion (2019 est.)<br>
-$1.24 billion (2018 est.)<br>
-$1.267 billion (2017 est.)<br>
+$1.25 billion note: data are in 2017 dollars (2020 est.)<br>
+$1.28 billion note: data are in 2017 dollars (2019 est.)<br>
+$1.24 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -381,9 +381,9 @@ $1.267 billion (2017 est.)<br>
 1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,521 (2019 est.)<br>
-$6,327 (2018 est.)<br>
-$6,486 (2017 est.)<br>
+$6,300 note: data are in 2017 dollars (2020 est.)<br>
+$6,500 note: data are in 2017 dollars (2019 est.)<br>
+$6,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -460,7 +460,7 @@ June 1 - May 31<br>
 -$37 million (2016 est.)<br>
 
 **Exports**<br>
-$27.5 million (2014 est.)<br>
+$310 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6%, Taiwan 5% (2019)<br>
@@ -469,7 +469,7 @@ American Samoa 21%, United States 13%, New Zealand 12%, Australia 10%, Tokelau 6
 refined petroleum, fish, fruit juice, coconut oil, beer (2019)<br>
 
 **Imports**<br>
-$89.29 billion (2018 est.)<br>
+$430 million note: data are in current year dollars (2018 est.)<br>
 $312.6 million (2016 est.)<br>
 
 **Imports - partners**<br>

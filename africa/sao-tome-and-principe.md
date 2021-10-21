@@ -242,14 +242,6 @@ _particulate matter emissions_: 25.66 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.12 megatons (2016 est.)<br>
 _methane emissions_: 0.04 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 14.7 million cubic meters (2017 est.)<br>
-_industrial_: 600,000 cubic meters (2017 est.)<br>
-_agricultural_: 25.6 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.18 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; one rainy season (October to May)<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 28.1% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 75.1% of total population (2021)<br>
+_rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.9% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 75.1% of total population (2021)<br>
-_rate of urbanization_: 2.96% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -279,6 +271,14 @@ _water contact diseases_: schistosomiasis<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 25,587 tons (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 14.7 million cubic meters (2017 est.)<br>
+_industrial_: 600,000 cubic meters (2017 est.)<br>
+_agricultural_: 25.6 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.18 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: Alda Neves DA GRACA do Espirito Santo/Manuel dos Santos Barreto 
 <p>The economy of São Tomé and Príncipe is small, based mainly on agricultural production, and, since independence in 1975, increasingly dependent on the export of cocoa beans. Cocoa production has substantially declined in recent years because of drought and mismanagement. Sao Tome depends heavily on imports of food, fuels, most manufactured goods, and consumer goods, and changes in commodity prices affect the country’s inflation rate. Maintaining control of inflation, fiscal discipline, and increasing flows of foreign direct investment into the nascent oil sector are major economic problems facing the country. In recent years the government has attempted to reduce price controls and subsidies. In 2017, several business-related laws were enacted that aim to improve the business climate.</p><p></p><p>São Tomé and Príncipe has had difficulty servicing its external debt and has relied heavily on concessional aid and debt rescheduling. In April 2011, the country completed a Threshold Country Program with The Millennium Challenge Corporation to help increase tax revenues, reform customs, and improve the business environment. In 2016, Sao Tome and Portugal signed a five-year cooperation agreement worth approximately $64 million, some of which will be provided as loans. In 2017, China and São Tomé signed a mutual cooperation agreement in areas such as infrastructure, health, and agriculture worth approximately $146 million over five years.</p><p></p><p>Considerable potential exists for development of tourism, and the government has taken steps to expand tourist facilities in recent years. Potential also exists for the development of petroleum resources in São Tomé and Príncipe's territorial waters in the oil-rich Gulf of Guinea, some of which are being jointly developed in a 60-40 split with Nigeria, but production is at least several years off.</p><p></p><p>Volatile aid and investment inflows have limited growth, and poverty remains high. Restricteded capacity at the main port increases the periodic risk of shortages of consumer goods. Contract enforcement in the country’s judicial system is difficult. The IMF in late 2016 expressed concern about vulnerabilities in the country’s banking sector, although the country plans some austerity measures in line with IMF recommendations under their three year extended credit facility. Deforestation, coastal erosion, poor waste management, and misuse of natural resources also are challenging issues.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$853 million (2019 est.)<br>
-$842 million (2018 est.)<br>
-$818 million (2017 est.)<br>
+$890 million note: data are in 2017 dollars (2020 est.)<br>
+$860 million note: data are in 2017 dollars (2019 est.)<br>
+$840 million note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $818 million (2017 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,970 (2019 est.)<br>
-$3,993 (2018 est.)<br>
-$3,953 (2017 est.)<br>
+$4,100 note: data are in 2017 dollars (2020 est.)<br>
+$4,000 note: data are in 2017 dollars (2019 est.)<br>
+$4,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -468,8 +468,9 @@ calendar year<br>
 -$23 million (2016 est.)<br>
 
 **Exports**<br>
-$15.6 million (2017 est.)<br>
-$9.31 million (2016 est.)<br>
+$50 million note: data are in current year dollars (2020 est.)<br>
+$70 million note: data are in current year dollars (2019 est.)<br>
+$100 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States 5% (2019)<br>
@@ -478,8 +479,9 @@ Singapore 30%, Switzerland 24%, France 11%, Poland 7%, Belgium 7%, United States
 gas turbines, cocoa beans, aircraft parts, iron products, chocolate (2019)<br>
 
 **Imports**<br>
-$127.7 million (2017 est.)<br>
-$119.1 million (2016 est.)<br>
+$160 million note: data are in current year dollars (2020 est.)<br>
+$190 million note: data are in current year dollars (2019 est.)<br>
+$200 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Portugal 41%, Angola 17%, China 8% (2019 )<br>

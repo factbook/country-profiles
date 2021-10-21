@@ -61,6 +61,12 @@ _other_: 51.3% (2018 est.)<br>
 **Irrigated land**<br>
 300 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Nubian Aquifer System<br>
+
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ hot, dry, dusty harmattan winds occur in north; periodic droughts; locust plague
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> Chad is the largest of Africa's 16 landlocked countries</p> <p><strong>note 2:</strong> not long ago - geologically speaking - what is today the Sahara was green savannah teeming with wildlife; during the African Humid Period, roughly 11,000 to 5,000 years ago, a vibrant animal community, including elephants, giraffes, hippos, and antelope lived there; the last remnant of the "Green Sahara" exists in the Lakes of Ounianga (oo-nee-ahn-ga) in northern Chad, a series of 18 interconnected freshwater, saline, and hypersaline lakes now protected as a World Heritage site</p> <p><strong>note 3:</strong> Lake Chad, the most significant water body in the Sahel, is a remnant of a former inland sea, paleolake Mega-Chad; at its greatest extent, sometime before 5000 B.C., Lake Mega-Chad was the largest of four Saharan paleolakes that existed during the African Humid Period; it covered an area of about 400,000 sq km (150,000 sq mi), roughly the size of today's Caspian Sea</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Nubian Aquifer System<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 53.01 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.02 megatons (2016 est.)<br>
 _methane emissions_: 30.69 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 103.7 million cubic meters (2017 est.)<br>
-_industrial_: 103.7 million cubic meters (2017 est.)<br>
-_agricultural_: 672.2 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-45.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical in south, desert in north<br>
 
@@ -267,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 35.7% (2018 est.)<br>
 _forest_: 9.1% (2018 est.)<br>
 _other_: 51.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 23.8% of total population (2021)<br>
+_rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 3.81% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 23.8% of total population (2021)<br>
-_rate of urbanization_: 4.1% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -292,10 +284,18 @@ _widespread lack of access_: due to civil insecurity - about 1.78 million people
 _municipal solid waste generated annually_: 1,358,851 tons (2010 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Nubian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 103.7 million cubic meters (2017 est.)<br>
+_industrial_: 103.7 million cubic meters (2017 est.)<br>
+_agricultural_: 672.2 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+45.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -401,9 +401,9 @@ _lyrics/music_: Louis GIDROL and his students/Paul VILLARD<br>
 <p>Chad’s landlocked location results in high transportation costs for imported goods and dependence on neighboring countries. Oil and agriculture are mainstays of Chad’s economy. Oil provides about 60% of export revenues, while cotton, cattle, livestock, and gum arabic provide the bulk of Chad's non-oil export earnings. The services sector contributes less than one-third of GDP and has attracted foreign investment mostly through telecommunications and banking.</p><p></p><p>Nearly all of Chad’s fuel is provided by one domestic refinery, and unanticipated shutdowns occasionally result in shortages. The country regulates the price of domestic fuel, providing an incentive for black market sales.</p><p></p><p>Although high oil prices and strong local harvests supported the economy in the past, low oil prices now stress Chad’s fiscal position and have resulted in significant government cutbacks. Chad relies on foreign assistance and foreign capital for most of its public and private sector investment. Investment in Chad is difficult due to its limited infrastructure, lack of trained workers, extensive government bureaucracy, and corruption. Chad obtained a three-year extended credit facility from the IMF in 2014 and was granted debt relief under the Heavily Indebted Poor Countries Initiative in April 2015.</p><p></p><p>In 2018, economic policy will be driven by efforts that started in 2016 to reverse the recession and to repair damage to public finances and exports. The government is implementing an emergency action plan to counterbalance the drop in oil revenue and to diversify the economy. Chad’s national development plan (NDP) cost just over $9 billion with a financing gap of $6.7 billion. The NDP emphasized the importance of private sector participation in Chad’s development, as well as the need to improve the business environment, particularly in priority sectors such as mining and agriculture.</p><p></p><p>The Government of Chad reached a deal with Glencore and four other banks on the restructuring of a $1.45 billion oil-backed loan in February 2018, after a long negotiation. The new terms include an extension of the maturity to 2030 from 2022, a two-year grace period on principal repayments, and a lower interest rate of the London Inter-bank Offer Rate (Libor) plus 2% - down from Libor plus 7.5%. The original Glencore loan was to be repaid with crude oil assets, however, Chad's oil sales were hit by the downturn in the price of oil. Chad had secured a $312 million credit from the IMF in June 2017, but release of those funds hinged on restructuring the Glencore debt. Chad had already cut public spending to try to meet the terms of the IMF program, but that prompted strikes and protests in a country where nearly 40% of the population lives below the poverty line. Multinational partners, such as the African Development Bank, the EU, and the World Bank are likely to continue budget support in 2018, but Chad will remain at high debt risk, given its dependence on oil revenue and pressure to spend on subsidies and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.19 billion (2019 est.)<br>
-$24.397 billion (2018 est.)<br>
-$23.832 billion (2017 est.)<br>
+$24.97 billion note: data are in 2017 dollars (2020 est.)<br>
+$25.19 billion note: data are in 2017 dollars (2019 est.)<br>
+$24.4 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -412,9 +412,9 @@ $23.832 billion (2017 est.)<br>
 1.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,580 (2019 est.)<br>
-$1,576 (2018 est.)<br>
-$1,587 (2017 est.)<br>
+$1,500 note: data are in 2017 dollars (2020 est.)<br>
+$1,600 note: data are in 2017 dollars (2019 est.)<br>
+$1,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -691,7 +691,7 @@ note(s): Chad is part of a five-nation anti-jihadist task force known as the G5 
 20 is the legal minimum age for compulsory military service, with a 3-year service obligation; 18 is the legal minimum age for voluntary service; no minimum age restriction for volunteers with consent from a parent or guardian; women are subject to 1 year of compulsory military or civic service at age 21 (2019)<br>
 
 **Military - note**<br>
-the ANT is chiefly focused on counterinsurgency/counter-terrorist operations against Boko Haram (BH) and the Islamic State in West Africa (ISWA) in the Lake Chad Basin area (primarily the Lac Province) and countering the terrorist threat in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); the ANT has frequently conducted counter-insurgency operations against internal anti-government militias and armed dissident groups<br> <p>several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army</p><br>
+as of 2021, the ANT was chiefly focused on counterterrorism and counterinsurgency operations; it was engaged with the Boko Haram (BH) and the Islamic State in West Africa (ISWA) terrorist groups in the Lake Chad Basin area (primarily the Lac Province) and in the Sahel; in 2020, it conducted a large military operation against BH in the Lake Chad region; that same year, Chad sent troops to the tri-border area with Burkina Faso, Mali, and Niger to combat ISWA militants (it also contributes a large force to the UN MINUSCA mission in Mali); in addition, the ANT was conducting operations against internal anti-government militias and armed dissident groups; several Chadian rebel groups, including the Union of Resistance Forces (UFR) and the Front for Change and Concord in Chad (FACT), operate in northern Chad from bases in Libya; former Chadian President Idriss DEBY<strong> </strong>was killed in April 2021 during fighting in the northern part of the country between FACT and the Chadian Army<br>
 
 ## Terrorism
 

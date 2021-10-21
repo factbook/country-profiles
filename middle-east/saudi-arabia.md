@@ -63,6 +63,12 @@ _other_: 18.8% (2018 est.)<br>
 **Irrigated land**<br>
 16,200 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 historically a population that was mostly nomadic or semi-nomadic, the Saudi population has become more settled since petroleum was discovered in the 1930s; most of the economic activities - and with it the country's population - is concentrated in a wide area across the middle of the peninsula, from Ad Dammam in the east, through Riyadh in the interior, to Mecca-Medina in the west near the Red Sea<br>
 
@@ -226,14 +232,6 @@ _particulate matter emissions_: 78.38 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 563.45 megatons (2016 est.)<br>
 _methane emissions_: 45.47 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.15 billion cubic meters (2017 est.)<br>
-_industrial_: 1 billion cubic meters (2017 est.)<br>
-_agricultural_: 19.2 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 harsh, dry desert with great temperature extremes<br>
 
@@ -245,20 +243,34 @@ _agricultural land: permanent pasture_: permanent pasture: 79.1% (2018 est.)<br>
 _forest_: 0.5% (2018 est.)<br>
 _other_: 18.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 84.5% of total population (2021)<br>
+_rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 84.5% of total population (2021)<br>
-_rate of urbanization_: 1.69% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 16,125,701 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,418,855 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 15% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.15 billion cubic meters (2017 est.)<br>
+_industrial_: 1 billion cubic meters (2017 est.)<br>
+_agricultural_: 19.2 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -362,9 +374,9 @@ _lyrics/music_: Ibrahim KHAFAJI/Abdul Rahman al-KHATEEB<br>
 <p>Saudi Arabia has an oil-based economy with strong government controls over major economic activities. It possesses about 16% of the world's proven petroleum reserves, ranks as the largest exporter of petroleum, and plays a leading role in OPEC. The petroleum sector accounts for roughly 87% of budget revenues, 42% of GDP, and 90% of export earnings.</p><p></p><p>Saudi Arabia is encouraging the growth of the private sector in order to diversify its economy and to employ more Saudi nationals. Approximately 6 million foreign workers play an important role in the Saudi economy, particularly in the oil and service sectors; at the same time, however, Riyadh is struggling to reduce unemployment among its own nationals. Saudi officials are particularly focused on employing its large youth population.</p><p></p><p>In 2017, the Kingdom incurred a budget deficit estimated at 8.3% of GDP, which was financed by bond sales and drawing down reserves. Although the Kingdom can finance high deficits for several years by drawing down its considerable foreign assets or by borrowing, it has cut capital spending and reduced subsidies on electricity, water, and petroleum products and recently introduced a value-added tax of 5%. In January 2016, Crown Prince and Deputy Prime Minister MUHAMMAD BIN SALMAN announced that Saudi Arabia intends to list shares of its state-owned petroleum company, ARAMCO - another move to increase revenue and outside investment. The government has also looked at privatization and diversification of the economy more closely in the wake of a diminished oil market. Historically, Saudi Arabia has focused diversification efforts on power generation, telecommunications, natural gas exploration, and petrochemical sectors. More recently, the government has approached investors about expanding the role of the private sector in the health care, education and tourism industries. While Saudi Arabia has emphasized their goals of diversification for some time, current low oil prices may force the government to make more drastic changes ahead of their long-run timeline.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,609,323,000,000 (2019 est.)<br>
-$1,604,007,000,000 (2018 est.)<br>
-$1,565,891,000,000 (2017 est.)<br>
+$1,543,240,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,609,320,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,604,010,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -373,9 +385,9 @@ $1,565,891,000,000 (2017 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$46,962 (2019 est.)<br>
-$47,597 (2018 est.)<br>
-$47,309 (2017 est.)<br>
+$44,300 note: data are in 2017 dollars (2020 est.)<br>
+$47,000 note: data are in 2017 dollars (2019 est.)<br>
+$47,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -459,8 +471,9 @@ $15.23 billion (2017 est.)<br>
 -$23.87 billion (2016 est.)<br>
 
 **Exports**<br>
-$221.1 billion (2017 est.)<br>
-$183.6 billion (2016 est.)<br>
+$184.11 billion note: data are in current year dollars (2020 est.)<br>
+$285.86 billion note: data are in current year dollars (2019 est.)<br>
+$314.92 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
@@ -469,8 +482,9 @@ China 20%, India 11%, Japan 11%, South Korea 9%, United States 5% (2019)<br>
 crude petroleum, refined petroleum, polymers, industrial alcohols, natural gas (2019)<br>
 
 **Imports**<br>
-$119.3 billion (2017 est.)<br>
-$127.8 billion (2016 est.)<br>
+$179.8 billion note: data are in current year dollars (2020 est.)<br>
+$218.94 billion note: data are in current year dollars (2019 est.)<br>
+$209.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, United Arab Emirates 12%, United States 9%, Germany 5% (2019)<br>

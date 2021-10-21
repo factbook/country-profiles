@@ -212,9 +212,6 @@ _particulate matter emissions_: 10.23 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
 _methane emissions_: 0.02 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; heavy year-round rainfall, especially in the eastern islands; located on southern edge of the typhoon belt with occasionally severe damage<br>
 
@@ -226,12 +223,12 @@ _agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
 _forest_: 74.5% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0.02% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 23.1% of total population (2021)<br>
 _rate of urbanization_: 1.52% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -240,6 +237,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 26,040 tons (2016 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -346,7 +346,8 @@ _lyrics/music_: unknown<br>
 <p>Economic activity consists largely of subsistence farming and fishing, and government, which employs two-thirds of the adult working population and receives funding largely - 58% in 2013 – from Compact of Free Association assistance provided by the US. The islands have few commercially valuable mineral deposits. The potential for tourism is limited by isolation, lack of adequate facilities, and limited internal air and water transportation.</p><p></p><p>Under the terms of the original Compact, the US provided $1.3 billion in grants and aid from 1986 to 2001. The US and the Federated States of Micronesia (FSM) negotiated a second (amended) Compact agreement in 2002-03 that took effect in 2004. The amended Compact runs for a 20-year period to 2023; during which the US will provide roughly $2.1 billion to the FSM. The amended Compact also develops a trust fund for the FSM that will provide a comparable income stream beyond 2024 when Compact grants end.</p><p></p><p>The country's medium-term economic outlook appears fragile because of dependence on US assistance and lackluster performance of its small and stagnant private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$390 million (2018 est.)<br>
+$390 million note: data are in 2017 dollars (2019 est.)<br>
+$390 million note: data are in 2017 dollars (2018 est.)<br>
 $389 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -356,8 +357,8 @@ $389 million (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,464 (2018 est.)<br>
-$3,493 (2017 est.)<br>
+$3,500 note: data are in 2017 dollars (2019 est.)<br>
+$3,500 note: data are in 2017 dollars (2018 est.)<br>
 $3,200 (2015 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 

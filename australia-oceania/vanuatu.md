@@ -224,9 +224,6 @@ _particulate matter emissions_: 10.31 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.15 megatons (2016 est.)<br>
 _methane emissions_: 0.5 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-10 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by southeast trade winds from May to October; moderate rainfall from November to April; may be affected by cyclones from December to April<br>
 
@@ -238,15 +235,15 @@ _agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 36.1% (2018 est.)<br>
 _other_: 48.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 25.7% of total population (2021)<br>
+_rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.54% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 25.7% of total population (2021)<br>
-_rate of urbanization_: 2.55% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -257,6 +254,9 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 70,225 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 25,983 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 37% (2013 est.)<br>
+
+**Total renewable water resources**<br>
+10 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -353,9 +353,9 @@ _lyrics/music_: Francois Vincent AYSSAV<br>
 <p>This South Pacific island economy is based primarily on small-scale agriculture, which provides a living for about two thirds of the population. Fishing, offshore financial services, and tourism, with more than 330,000 visitors in 2017, are other mainstays of the economy. Tourism has struggled after Efate, the most populous and most popular island for tourists, was damaged by Tropical Cyclone Pam in 2015. Ongoing infrastructure difficulties at Port Vila’s Bauerfield Airport have caused air travel disruptions, further hampering tourism numbers. Australia and New Zealand are the main source of tourists and foreign aid. A small light industry sector caters to the local market. Tax revenues come mainly from import duties. Mineral deposits are negligible; the country has no known petroleum deposits.</p><p></p><p>Economic development is hindered by dependence on relatively few commodity exports, vulnerability to natural disasters, and long distances from main markets and between constituent islands. In response to foreign concerns, the government has promised to tighten regulation of its offshore financial center.</p><p></p><p>Since 2002, the government has stepped up efforts to boost tourism through improved air connections, resort development, and cruise ship facilities. Agriculture, especially livestock farming, is a second target for growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$945 million (2019 est.)<br>
-$915 million (2018 est.)<br>
-$889 million (2017 est.)<br>
+$850 million note: data are in 2017 dollars (2020 est.)<br>
+$930 million note: data are in 2017 dollars (2019 est.)<br>
+$910 million note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -364,9 +364,9 @@ $889 million (2017 est.)<br>
 0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,153 (2019 est.)<br>
-$3,128 (2018 est.)<br>
-$3,117 (2017 est.)<br>
+$2,800 note: data are in 2017 dollars (2020 est.)<br>
+$3,100 note: data are in 2017 dollars (2019 est.)<br>
+$3,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,8 +441,8 @@ calendar year<br>
 -$37 million (2016 est.)<br>
 
 **Exports**<br>
-$44.7 million (2017 est.)<br>
-$53.5 million (2016 est.)<br>
+$380 million note: data are in current year dollars (2019 est.)<br>
+$520 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (2019)<br>
@@ -451,8 +451,8 @@ Japan 33%, Thailand 13%, Mauritania 13%, South Korea 11%, China 9%, Fiji 7% (201
 fish and fish products, tug boats, perfume plants, mollusks, cocoa beans (2019)<br>
 
 **Imports**<br>
-$273.7 million (2017 est.)<br>
-$308.5 million (2016 est.)<br>
+$460 million note: data are in current year dollars (2019 est.)<br>
+$460 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 29%, Australia 18%, New Zealand 11%, Fiji 11%, Taiwan 5%, Thailand 5% (2019)<br>

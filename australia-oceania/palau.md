@@ -231,9 +231,6 @@ _particulate matter emissions_: 12.18 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
 _methane emissions_: 0.06 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot and humid; wet season May to November<br>
 
@@ -245,12 +242,12 @@ _agricultural land: permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
 _forest_: 87.6% (2018 est.)<br>
 _other_: 1.6% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 81.5% of total population (2021)<br>
 _rate of urbanization_: 1.59% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -259,6 +256,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,427 tons (2016 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -364,8 +364,8 @@ _lyrics/music_: multiple/Ymesei O. EZEKIEL<br>
 <p>The economy is dominated by tourism, fishing, and subsistence agriculture. Government is a major employer of the work force relying on financial assistance from the US under the Compact of Free Association (Compact) with the US that took effect after the end of the UN trusteeship on 1 October 1994. The US provided Palau with roughly $700 million in aid for the first 15 years following commencement of the Compact in 1994 in return for unrestricted access to its land and waterways for strategic purposes. The population enjoys a per capita income roughly double that of the Philippines and much of Micronesia.</p><p></p><p>Business and leisure tourist arrivals reached a record 167,966 in 2015, a 14.4% increase over the previous year, but fell to 138,408 in 2016. Long-run prospects for tourism have been bolstered by the expansion of air travel in the Pacific, the rising prosperity of industrial East Asia, and the willingness of foreigners to finance infrastructure development. Proximity to Guam, the region's major destination for tourists from East Asia, and a regionally competitive tourist infrastructure enhance Palau's advantage as a destination.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$316 million (2019 est.)<br>
-$330 million (2018 est.)<br>
+$320 million note: data are in 2017 dollars (2019 est.)<br>
+$330 million note: data are in 2017 dollars (2018 est.)<br>
 $317 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -375,8 +375,8 @@ $317 million (2017 est.)<br>
 10.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$17,579 (2019 est.)<br>
-$18,463 (2018 est.)<br>
+$17,600 note: data are in 2017 dollars (2019 est.)<br>
+$18,400 note: data are in 2017 dollars (2018 est.)<br>
 $17,841 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 

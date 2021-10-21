@@ -233,14 +233,6 @@ _particulate matter emissions_: 30.48 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.16 megatons (2016 est.)<br>
 _methane emissions_: 2.91 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 616.4 million cubic meters (2017 est.)<br>
-_industrial_: 122.4 million cubic meters (2017 est.)<br>
-_agricultural_: 2.127 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-7.769 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 highland continental, hot summers, cold winters<br>
 
@@ -252,18 +244,26 @@ _agricultural land: permanent pasture_: permanent pasture: 42% (2018 est.)<br>
 _forest_: 9.1% (2018 est.)<br>
 _other_: 31.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 63.4% of total population (2021)<br>
+_rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.28% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 63.4% of total population (2021)<br>
-_rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 616.4 million cubic meters (2017 est.)<br>
+_industrial_: 122.4 million cubic meters (2017 est.)<br>
+_agricultural_: 2.127 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+7.769 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -369,9 +369,9 @@ _lyrics/music_: Mikael NALBANDIAN/Barsegh KANACHYAN<br>
 <p>Under the old Soviet central planning system, Armenia developed a modern industrial sector, supplying machine tools, textiles, and other manufactured goods to sister republics, in exchange for raw materials and energy. Armenia has since switched to small-scale agriculture and away from the large agro industrial complexes of the Soviet era. Armenia has only two open trade borders - Iran and Georgia - because its borders with Azerbaijan and Turkey have been closed since 1991 and 1993, respectively, as a result of Armenia's ongoing conflict with Azerbaijan over the separatist Nagorno-Karabakh region.</p><p></p><p>Armenia joined the World Trade Organization in January 2003. The government has made some improvements in tax and customs administration in recent years, but anti-corruption measures have been largely ineffective. Armenia will need to pursue additional economic reforms and strengthen the rule of law in order to raise its economic growth and improve economic competitiveness and employment opportunities, especially given its economic isolation from Turkey and Azerbaijan.</p><p></p><p>Armenia's geographic isolation, a narrow export base, and pervasive monopolies in important business sectors have made it particularly vulnerable to volatility in the global commodity markets and the economic challenges in Russia. Armenia is particularly dependent on Russian commercial and governmental support, as most key Armenian infrastructure is Russian-owned and/or managed, especially in the energy sector. Remittances from expatriates working in Russia are equivalent to about 12-14% of GDP. Armenia joined the Russia-led Eurasian Economic Union in January 2015, but has remained interested in pursuing closer ties with the EU as well, signing a Comprehensive and Enhanced Partnership Agreement with the EU in November 2017. Armenia’s rising government debt is leading Yerevan to tighten its fiscal policies – the amount is approaching the debt to GDP ratio threshold set by national legislation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.384 billion (2019 est.)<br>
-$37.531 billion (2018 est.)<br>
-$35.676 billion (2017 est.)<br>
+$37.31 billion note: data are in 2017 dollars (2020 est.)<br>
+$40.38 billion note: data are in 2017 dollars (2019 est.)<br>
+$37.53 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -380,9 +380,9 @@ $35.676 billion (2017 est.)<br>
 3.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,654 (2019 est.)<br>
-$12,715 (2018 est.)<br>
-$12,115 (2017 est.)<br>
+$12,600 note: data are in 2017 dollars (2020 est.)<br>
+$13,700 note: data are in 2017 dollars (2019 est.)<br>
+$12,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -464,8 +464,9 @@ calendar year<br>
 -$238 million (2016 est.)<br>
 
 **Exports**<br>
-$2.361 billion (2017 est.)<br>
-$1.891 billion (2016 est.)<br>
+$3.82 billion note: data are in current year dollars (2020 est.)<br>
+$5.64 billion note: data are in current year dollars (2019 est.)<br>
+$4.91 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherlands 5%, Germany 5% (2019)<br>
@@ -474,8 +475,9 @@ Russia 22%, Switzerland 20%, China 7%, Bulgaria 6%, Iraq 5%, Serbia 5%, Netherla
 copper ore, gold, tobacco, liquors, iron alloys (2019)<br>
 
 **Imports**<br>
-$3.771 billion (2017 est.)<br>
-$2.835 billion (2016 est.)<br>
+$5 billion note: data are in current year dollars (2020 est.)<br>
+$7.47 billion note: data are in current year dollars (2019 est.)<br>
+$6.61 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 29%, China 10%, Georgia 8%, Iran 6%, Turkey 5% (2019)<br>
@@ -581,7 +583,7 @@ _total subscriptions_: 3,618,747<br>
 _subscriptions per 100 inhabitants_: 119.42 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market struggles to provide an effective national telecom service; country remains dependent on the economic health of  Russian and EU economies; fixed-line penetration falling, driven by growth in mobile and fixed-line broadband; growth of 4G networks and falling prices due to growing competition; fixed broadband is growing but remains low by international comparisons; flat mobile market; strong growth predicted for mobile broadband market; government participating in a project to ensure eventual nationwide 5G network; government approved plans for a new data center built via public-private partnership; communication technologies sectors have attracted foreign investment; top importer of broadcast equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>telecom market struggles to provide an effective national telecom service; country remains dependent on the economic health of  Russian and EU economies; fixed-line penetration falling, driven by growth in mobile and fixed-line broadband; growth of 4G networks and falling prices due to growing competition; fixed broadband is growing but remains low by international comparisons; flat mobile market; strong growth predicted for mobile broadband market; government participating in a project to ensure eventual nationwide 5G network; government approved plans for a new data center built via public-private partnership; communication technologies sectors have attracted foreign investment; top importer of broadcast equipment from China </p> (2021)<br>
 _domestic_: 15 per 100 fixed-line, 122 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2019)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -666,7 +668,7 @@ since November 2020, Russia has deployed about 2,000 peacekeeping troops to the 
 <p>the dispute over the break-away Nagorno-Karabakh region and the Armenian military occupation of surrounding lands in Azerbaijan remains the primary focus of regional instability; residents have evacuated the former Soviet-era small ethnic enclaves in Armenia and Azerbaijan; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; local border forces struggle to control the illegal transit of goods and people across the porous, undemarcated Armenian, Azerbaijani, and Georgian borders; ethnic Armenian groups in the Javakheti region of Georgia seek greater autonomy from the Georgian Government</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,730 (Syria - ethnic Armenians) (2019)<br>
+_refugees (country of origin)_: 91,766 (Armenia), 14,741 (Syria - ethnic Armenians) (2020)<br>
 _stateless persons_: 1,000 (2020)<br>
 
 **Trafficking in persons**<br>

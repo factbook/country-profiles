@@ -192,9 +192,6 @@ _female_: 97.3% (2014)<br>
 **Environment - current issues**<br>
 air pollution; water pollution from industrial emissions, raw sewage; contamination of drinking water supplies; trade in endangered species; low-level radioactive waste disposal<br>
 
-**Total renewable water resources**<br>
-67 cubic meters (2011)<br>
-
 **Climate**<br>
 tropical; marine; rainy season during southwest monsoon (June to August); persistent and extensive cloudiness all year<br>
 
@@ -210,6 +207,9 @@ _rate of urbanization_: 0.65% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 7.336 million tons (2015 est.)<br>
+
+**Total renewable water resources**<br>
+67 cubic meters (2011)<br>
 
 ## Government
 

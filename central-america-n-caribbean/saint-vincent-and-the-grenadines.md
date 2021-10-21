@@ -211,14 +211,6 @@ _particulate matter emissions_: 21.2 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.22 megatons (2016 est.)<br>
 _methane emissions_: 0.09 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 8.5 million cubic meters (2017 est.)<br>
-_industrial_: 2,000 cubic meters (2017 est.)<br>
-_agricultural_: 0 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-100 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; little seasonal temperature variation; rainy season (May to November)<br>
 
@@ -230,18 +222,26 @@ _agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 5.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 53.5% of total population (2021)<br>
+_rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 53.5% of total population (2021)<br>
-_rate of urbanization_: 0.94% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 31,561 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 8.5 million cubic meters (2017 est.)<br>
+_industrial_: 2,000 cubic meters (2017 est.)<br>
+_agricultural_: 0 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+100 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -337,9 +337,9 @@ _lyrics/music_: Phyllis Joyce MCCLEAN PUNNETT/Joel Bertram MIGUEL<br>
 <p>Success of the economy hinges upon seasonal variations in agriculture, tourism, and construction activity, as well as remittances. Much of the workforce is employed in banana production and tourism. Saint Vincent and the Grenadines is home to a small offshore banking sector and continues to fully adopt international regulatory standards.</p><p></p><p>This lower-middle-income country remains vulnerable to natural and external shocks. The economy has shown some signs of recovery due to increased tourist arrivals, falling oil prices and renewed growth in the construction sector. The much anticipated international airport opened in early 2017 with hopes for increased airlift and tourism activity. The government's ability to invest in social programs and respond to external shocks is constrained by its high public debt burden, which was 67% of GDP at the end of 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.38 billion (2019 est.)<br>
-$1.373 billion (2018 est.)<br>
-$1.344 billion (2017 est.)<br>
+$1.34 billion note: data are in 2017 dollars (2020 est.)<br>
+$1.38 billion note: data are in 2017 dollars (2019 est.)<br>
+$1.37 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -348,9 +348,9 @@ $1.344 billion (2017 est.)<br>
 0.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,485 (2019 est.)<br>
-$12,466 (2018 est.)<br>
-$12,245 (2017 est.)<br>
+$12,100 note: data are in 2017 dollars (2020 est.)<br>
+$12,500 note: data are in 2017 dollars (2019 est.)<br>
+$12,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -425,7 +425,7 @@ calendar year<br>
 -$122 million (2016 est.)<br>
 
 **Exports**<br>
-$48.6 million (2017 est.)<br>
+$320 million note: data are in current year dollars (2018 est.)<br>
 $47.3 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -435,7 +435,7 @@ Jordan 39%, Singapore 14% (2019)<br>
 natural gas, drilling platforms and ships, recreational boats, collector's items, eddoes and dasheen (taro), arrowroot starch (2019)<br>
 
 **Imports**<br>
-$295.9 million (2017 est.)<br>
+$450 million note: data are in current year dollars (2018 est.)<br>
 $294.6 million (2016 est.)<br>
 
 **Imports - partners**<br>

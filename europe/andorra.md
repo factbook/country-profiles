@@ -220,9 +220,6 @@ _particulate matter emissions_: 9.95 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.47 megatons (2016 est.)<br>
 _methane emissions_: 0.05 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-315.6 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; snowy, cold winters and warm, dry summers<br>
 
@@ -234,15 +231,18 @@ _agricultural land: permanent pasture_: permanent pasture: 38.3% (2018 est.)<br>
 _forest_: 34% (2018 est.)<br>
 _other_: 26% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 87.9% of total population (2021)<br>
 _rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
+
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 43,000 tons (2012 est.)<br>
+
+**Total renewable water resources**<br>
+315.6 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -299,9 +299,9 @@ _elections/appointments_: head of government indirectly elected by the General C
 _election results_: Xaviar Espot ZAMORA (DA) elected head of government; percent of General Council vote - 60.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in multi-seat constituencies (parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
+_description_: unicameral General Council of the Valleys or Consell General de les Valls (a minimum of 28 seats; 14 members directly elected in twoi-seat constituencies (7 parishes) by simple majority vote and 14 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms); note - voters cast two separate ballots - one for a national list and one for a parish list<br>
 _elections_: last held on 7 April 2019 (next to be held&nbsp;on April&nbsp;2023)<br>
-_election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 14, women 14, percent of women 50%<br>
+_election results_: percent of vote by party - DA 35.1%, PS 30.6%, L'A 12.5%, Third Way/Lauredian Union 10.4%, other 22.4%; seats by party - DA 11, PS 7, L'A 4, Third Way/Lauredian Union 4, other 2; composition - men 15, women 13, percent of women 46.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice of Andorra or Tribunal Superior de la Justicia d'Andorra (consists of the court president and 8 judges organized into civil, criminal, and administrative chambers); Constitutional Court or Tribunal Constitucional (consists of 4 magistrates)<br>

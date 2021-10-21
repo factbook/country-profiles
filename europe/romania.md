@@ -64,6 +64,9 @@ _other_: 10.6% (2018 est.)<br>
 **Irrigated land**<br>
 31,490 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
 
@@ -72,9 +75,6 @@ earthquakes, most severe in south and southwest; geologic structure and climate 
 
 **Geography - note**<br>
 controls the most easily traversable land route between the Balkans, Moldova, and Ukraine; the Carpathian Mountains dominate the center of the country, while the Danube River forms much of the southern boundary with Serbia and Bulgaria<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 14.29 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 69.26 megatons (2016 est.)<br>
 _methane emissions_: 27.62 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.048 billion cubic meters (2017 est.)<br>
-_industrial_: 4.234 billion cubic meters (2017 est.)<br>
-_agricultural_: 1.491 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-212.01 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cold, cloudy winters with frequent snow and fog; sunny summers with frequent showers and thunderstorms<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 19.7% (2018 est.)<br>
 _forest_: 28.7% (2018 est.)<br>
 _other_: 10.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 54.3% of total population (2021)<br>
+_rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.16% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 54.3% of total population (2021)<br>
-_rate of urbanization_: -0.15% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
@@ -278,6 +270,14 @@ _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.048 billion cubic meters (2017 est.)<br>
+_industrial_: 4.234 billion cubic meters (2017 est.)<br>
+_agricultural_: 1.491 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+212.01 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,9 +384,9 @@ _lyrics/music_: Andrei MURESIANU/Anton PANN<br>
 <p>Romania, which joined the EU on 1 January 2007, began the transition from communism in 1989 with a largely obsolete industrial base and a pattern of output unsuited to the country's needs. Romania's macroeconomic gains have only recently started to spur creation of a middle class and to address Romania's widespread poverty. Corruption and red tape continue to permeate the business environment.</p><p></p><p>In the aftermath of the global financial crisis, Romania signed a $26 billion emergency assistance package from the IMF, the EU, and other international lenders, but GDP contracted until 2011. In March 2011, Romania and the IMF/EU/World Bank signed a 24-month precautionary standby agreement, worth $6.6 billion, to promote fiscal discipline, encourage progress on structural reforms, and strengthen financial sector stability; no funds were drawn. In September 2013, Romanian authorities and the IMF/EU agreed to a follow-on standby agreement, worth $5.4 billion, to continue with reforms. This agreement expired in September 2015, and no funds were drawn. Progress on structural reforms has been uneven, and the economy still is vulnerable to external shocks.</p><p></p><p>Economic growth rebounded in the 2013-17 period, driven by strong industrial exports, excellent agricultural harvests, and, more recently, expansionary fiscal policies in 2016-2017 that nearly quadrupled Bucharest’s annual fiscal deficit, from +0.8% of GDP in 2015 to -3% of GDP in 2016 and an estimated -3.4% in 2017. Industry outperformed other sectors of the economy in 2017. Exports remained an engine of economic growth, led by trade with the EU, which accounts for roughly 70% of Romania trade. Domestic demand was the major driver, due to tax cuts and large wage increases that began last year and are set to continue in 2018.</p><p></p><p>An aging population, emigration of skilled labor, significant tax evasion, insufficient health care, and an aggressive loosening of the fiscal package compromise Romania’s long-term growth and economic stability and are the economy's top vulnerabilities.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$579.549 billion (2019 est.)<br>
-$556.442 billion (2018 est.)<br>
-$532.611 billion (2017 est.)<br>
+$556.07 billion note: data are in 2017 dollars (2020 est.)<br>
+$578.39 billion note: data are in 2017 dollars (2019 est.)<br>
+$555.47 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $532.611 billion (2017 est.)<br>
 7.11% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$29,941 (2019 est.)<br>
-$28,576 (2018 est.)<br>
-$27,192 (2017 est.)<br>
+$28,800 note: data are in 2017 dollars (2020 est.)<br>
+$29,900 note: data are in 2017 dollars (2019 est.)<br>
+$28,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -481,9 +481,9 @@ calendar year<br>
 -$10.78 billion (2018 est.)<br>
 
 **Exports**<br>
-$114.311 billion (2019 est.)<br>
-$110.685 billion (2018 est.)<br>
-$105.188 billion (2017 est.)<br>
+$93.01 billion note: data are in current year dollars (2020 est.)<br>
+$100.9 billion note: data are in current year dollars (2019 est.)<br>
+$101.11 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 22%, Italy 10%, France 7% (2019)<br>
@@ -492,9 +492,9 @@ Germany 22%, Italy 10%, France 7% (2019)<br>
 cars and vehicle parts, insulated wiring, refined petroleum, electrical control boards, seats (2019)<br>
 
 **Imports**<br>
-$136.091 billion (2019 est.)<br>
-$127.553 billion (2018 est.)<br>
-$117.292 billion (2017 est.)<br>
+$104.16 billion note: data are in current year dollars (2020 est.)<br>
+$111.18 billion note: data are in current year dollars (2019 est.)<br>
+$109.26 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 19%, Italy 9%, Hungary 7%, Poland 6%, China 5%, France 5% (2019)<br>

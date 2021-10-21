@@ -208,14 +208,6 @@ _female_: 23.1% (2012 est.)<br>
 **Environment - current issues**<br>
 soil erosion; occasional droughts cause water shortages; industrial pollution<br>
 
-**Total water withdrawal**<br>
-_municipal_: 796 million cubic meters (2017 est.)<br>
-_industrial_: 2.365 billion cubic meters (2017 est.)<br>
-_agricultural_: 113.5 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-7.1 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical marine, mild; little seasonal temperature variation<br>
 
@@ -227,20 +219,28 @@ _agricultural land: permanent pasture_: permanent pasture: 9.8% (2018 est.)<br>
 _forest_: 63.2% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 93.6% of total population (2021)<br>
+_rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 93.6% of total population (2021)<br>
-_rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,170,953 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 583,933 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 14% (2013 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 796 million cubic meters (2017 est.)<br>
+_industrial_: 2.365 billion cubic meters (2017 est.)<br>
+_agricultural_: 113.5 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+7.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -333,9 +333,9 @@ _lyrics/music_: Manuel Fernandez JUNCOS/Felix Astol ARTES<br>
 <p>Puerto Rico had one of the most dynamic economies in the Caribbean region until 2006; however, growth has been negative for each of the last 11 years. The downturn coincided with the phaseout of tax preferences that had led US firms to invest heavily in the Commonwealth since the 1950s, and a steep rise in the price of oil, which generates most of the island's electricity.</p><p></p><p>Diminished job opportunities prompted a sharp rise in outmigration, as many Puerto Ricans sought jobs on the US mainland. Unemployment reached 16% in 2011, but declined to 11.5% in December 2017. US minimum wage laws apply in Puerto Rico, hampering job expansion. Per capita income is about two-thirds that of the US mainland.</p><p></p><p>The industrial sector greatly exceeds agriculture as the locus of economic activity and income. Tourism has traditionally been an important source of income with estimated arrivals of more than 3.6 million tourists in 2008. Puerto Rico's merchandise trade surplus is exceptionally strong, with exports nearly 50% greater than imports, and its current account surplus about 10% of GDP.</p><p></p><p>Closing the budget deficit while restoring economic growth and employment remain the central concerns of the government. The gap between revenues and expenditures amounted to 0.6% of GDP in 2016, although analysts believe that not all expenditures have been accounted for in the budget and a better accounting of costs would yield an overall deficit of roughly 5% of GDP. Public debt remained steady at 92.5% of GDP in 2017, about $17,000 per person, or nearly three times the per capita debt of the State of Connecticut, the highest in the US. Much of that debt was issued by state-run schools and public corporations, including water and electric utilities. In June 2015, Governor Alejandro GARCIA Padilla announced that the island could not pay back at least $73 billion in debt and that it would seek a deal with its creditors.</p><p></p><p>Hurricane Maria hit Puerto Rico square on in September 2017, causing electrical power outages to 90% of the territory, as well as extensive loss of housing and infrastructure and contamination of potable water. Despite massive efforts, more than 40% of the territory remained without electricity as of yearend 2017. As a result of the destruction, many Puerto Ricans have emigrated to the US mainland.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$110.238 billion (2019 est.)<br>
-$108.944 billion (2018 est.)<br>
-$114.269 billion (2017 est.)<br>
+$106.82 billion note: data are in 2017 dollars (2020 est.)<br>
+$111.16 billion note: data are in 2017 dollars (2019 est.)<br>
+$109.53 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -344,9 +344,9 @@ $114.269 billion (2017 est.)<br>
 -1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$34,518 (2019 est.)<br>
-$34,116 (2018 est.)<br>
-$34,364 (2017 est.)<br>
+$33,400 note: data are in 2017 dollars (2020 est.)<br>
+$34,800 note: data are in 2017 dollars (2019 est.)<br>
+$34,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

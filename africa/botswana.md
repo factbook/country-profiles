@@ -61,6 +61,12 @@ _other_: 34.4% (2018 est.)<br>
 **Irrigated land**<br>
 20 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 **Population distribution**<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
 
@@ -238,14 +244,6 @@ _particulate matter emissions_: 21.24 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 6.34 megatons (2016 est.)<br>
 _methane emissions_: 5.73 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 100.6 million cubic meters (2017 est.)<br>
-_industrial_: 23.4 million cubic meters (2017 est.)<br>
-_agricultural_: 69 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-12.24 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 semiarid; warm winters and hot summers<br>
 
@@ -257,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 45.2% (2018 est.)<br>
 _forest_: 19.8% (2018 est.)<br>
 _other_: 34.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 71.6% of total population (2021)<br>
+_rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.23% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.45% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 71.6% of total population (2021)<br>
-_rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -276,6 +274,20 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 210,854 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 2,109 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 100.6 million cubic meters (2017 est.)<br>
+_industrial_: 23.4 million cubic meters (2017 est.)<br>
+_agricultural_: 69 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+12.24 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -380,9 +392,9 @@ _lyrics/music_: Kgalemang Tumedisco MOTSETE<br>
 <p>Until the beginning of the global recession in 2008, Botswana maintained one of the world's highest economic growth rates since its independence in 1966. Botswana recovered from the global recession in 2010, but only grew modestly until 2017, primarily due to a downturn in the global diamond market, though water and power shortages also played a role. Through fiscal discipline and sound management, Botswana has transformed itself from one of the poorest countries in the world five decades ago into a middle-income country with a per capita GDP of approximately $18,100 in 2017. Botswana also ranks as one of the least corrupt and best places to do business in Sub-Saharan Africa.</p> <p> </p> <p>Because of its heavy reliance on diamond exports, Botswana’s economy closely follows global price trends for that one commodity. Diamond mining fueled much of Botswana’s past economic expansion and currently accounts for one-quarter of GDP, approximately 85% of export earnings, and about one-third of the government's revenues. In 2017, Diamond exports increased to the highest levels since 2013 at about 22 million carats of output, driving Botswana’s economic growth to about 4.5% and increasing foreign exchange reserves to about 45% of GDP. De Beers, a major international diamond company, signed a 10-year deal with Botswana in 2012 and moved its rough stone sorting and trading division from London to Gaborone in 2013. The move was geared to support the development of Botswana's nascent downstream diamond industry.</p> <p> </p> <p>Tourism is a secondary earner of foreign exchange and many Batswana engage in tourism-related services, subsistence farming, and cattle rearing. According to official government statistics, unemployment is around 20%, but unofficial estimates run much higher. The prevalence of HIV/AIDS is second highest in the world and threatens the country's impressive economic gains.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$40.928 billion (2019 est.)<br>
-$39.749 billion (2018 est.)<br>
-$38.045 billion (2017 est.)<br>
+$37.72 billion note: data are in 2017 dollars (2020 est.)<br>
+$40.95 billion note: data are in 2017 dollars (2019 est.)<br>
+$39.75 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -391,9 +403,9 @@ $38.045 billion (2017 est.)<br>
 -1.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$17,767 (2019 est.)<br>
-$17,634 (2018 est.)<br>
-$17,253 (2017 est.)<br>
+$16,000 note: data are in 2017 dollars (2020 est.)<br>
+$17,800 note: data are in 2017 dollars (2019 est.)<br>
+$17,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -475,8 +487,8 @@ $2.146 billion (2017 est.)<br>
 $2.147 billion (2016 est.)<br>
 
 **Exports**<br>
-$5.934 billion (2017 est.)<br>
-$7.226 billion (2016 est.)<br>
+$6.16 billion note: data are in current year dollars (2019 est.)<br>
+$7.53 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Hong Kong 6%, Singapore 5% (2019)<br>
@@ -485,8 +497,8 @@ India 21%, Belgium 19%, United Arab Emirates 19%, South Africa 9%, Israel 7%, Ho
 diamonds, insulated wiring, gold, beef, carbonates (2019)<br>
 
 **Imports**<br>
-$5.005 billion (2017 est.)<br>
-$5.871 billion (2016 est.)<br>
+$7.44 billion note: data are in current year dollars (2019 est.)<br>
+$7.31 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 58%, Namibia 9%, Canada 7% (2019)<br>

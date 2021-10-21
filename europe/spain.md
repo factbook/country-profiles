@@ -246,14 +246,6 @@ _particulate matter emissions_: 9.48 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 244 megatons (2016 est.)<br>
 _methane emissions_: 36.94 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 4.89 billion cubic meters (2017 est.)<br>
-_industrial_: 5.966 billion cubic meters (2017 est.)<br>
-_agricultural_: 20.36 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-111.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; clear, hot summers in interior, more moderate and cloudy along coast; cloudy, cold winters in interior, partly cloudy and cool along coast<br>
 
@@ -265,16 +257,16 @@ _agricultural land: permanent pasture_: permanent pasture: 20.1% (2018 est.)<br>
 _forest_: 36.8% (2018 est.)<br>
 _other_: 9.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.1% of total population (2021)<br>
+_rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.1% of total population (2021)<br>
-_rate of urbanization_: 0.24% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Canary Islands, Ceuta, and Melilla<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -284,6 +276,14 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 4.89 billion cubic meters (2017 est.)<br>
+_industrial_: 5.966 billion cubic meters (2017 est.)<br>
+_agricultural_: 20.36 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+111.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +393,9 @@ _lyrics/music_: no lyrics/unknown<br>
 <p>After a prolonged recession that began in 2008 in the wake of the global financial crisis, Spain marked the fourth full year of positive economic growth in 2017, with economic activity surpassing its pre-crisis peak, largely because of increased private consumption. The financial crisis of 2008 broke 16 consecutive years of economic growth for Spain, leading to an economic contraction that lasted until late 2013. In that year, the government successfully shored up its struggling banking sector - heavily exposed to the collapse of Spain’s real estate boom - with the help of an EU-funded restructuring and recapitalization program.</p><p></p><p>Until 2014, contraction in bank lending, fiscal austerity, and high unemployment constrained domestic consumption and investment. The unemployment rate rose from a low of about 8% in 2007 to more than 26% in 2013, but labor reforms prompted a modest reduction to 16.4% in 2017. High unemployment strained Spain's public finances, as spending on social benefits increased while tax revenues fell. Spain’s budget deficit peaked at 11.4% of GDP in 2010, but Spain gradually reduced the deficit to about 3.3% of GDP in 2017. Public debt has increased substantially – from 60.1% of GDP in 2010 to nearly 96.7% in 2017.</p><p></p><p>Strong export growth helped bring Spain's current account into surplus in 2013 for the first time since 1986 and sustain Spain’s economic growth. Increasing labor productivity and an internal devaluation resulting from moderating labor costs and lower inflation have improved Spain’s export competitiveness and generated foreign investor interest in the economy, restoring FDI flows.</p><p></p><p>In 2017, the Spanish Government’s minority status constrained its ability to implement controversial labor, pension, health care, tax, and education reforms. The European Commission expects the government to meet its 2017 budget deficit target and anticipates that expected economic growth in 2018 will help the government meet its deficit target. Spain’s borrowing costs are dramatically lower since their peak in mid-2012, and increased economic activity has generated a modest level of inflation, at 2% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,925,576,000,000 (2019 est.)<br>
-$1,888,743,000,000 (2018 est.)<br>
-$1,843,934,000,000 (2017 est.)<br>
+$1,714,860,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,923,330,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,886,540,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +404,9 @@ $1,843,934,000,000 (2017 est.)<br>
 2.97% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$40,903 (2019 est.)<br>
-$40,360 (2018 est.)<br>
-$39,575 (2017 est.)<br>
+$36,200 note: data are in 2017 dollars (2020 est.)<br>
+$40,800 note: data are in 2017 dollars (2019 est.)<br>
+$40,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -489,9 +489,9 @@ $29.603 billion (2019 est.)<br>
 $27.206 billion (2018 est.)<br>
 
 **Exports**<br>
-$533.771 billion (2019 est.)<br>
-$521.855 billion (2018 est.)<br>
-$510.327 billion (2017 est.)<br>
+$392.85 billion note: data are in current year dollars (2020 est.)<br>
+$486.15 billion note: data are in current year dollars (2019 est.)<br>
+$499.55 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States 5% (2019)<br>
@@ -500,9 +500,9 @@ France 15%, Germany 11%, Portugal 8%, Italy 8%, United Kingdom 7%, United States
 cars and vehicle parts, refined petroleum, packaged medicines, delivery trucks, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$463.145 billion (2019 est.)<br>
-$459.742 billion (2018 est.)<br>
-$441.197 billion (2017 est.)<br>
+$373.67 billion note: data are in current year dollars (2020 est.)<br>
+$444.31 billion note: data are in current year dollars (2019 est.)<br>
+$460.98 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 13%, France 11%, China 8%, Italy 7% (2019)<br>
@@ -724,9 +724,9 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement; the Government of Gibraltar insists on equal participation in talks between the UK and Spain; Spain disapproves of UK plans to grant Gibraltar greater autonomy; after voters in the UK chose to leave the EU in a June 2016 referendum, Spain again proposed shared sovereignty of Gibraltar; UK officials rejected Spain’s joint sovereignty proposal; Morocco protests Spain's control over the coastal enclaves of Ceuta, Melilla, and the islands of Penon de Velez de la Gomera, Penon de Alhucemas, and Islas Chafarinas, and surrounding waters; both countries claim Isla Perejil (Leila Island); Morocco serves as the primary launching site of illegal migration into Spain from North Africa; Portugal does not recognize Spanish sovereignty over the territory of Olivenza based on a difference of interpretation of the 1815 Congress of Vienna and the 1801 Treaty of Badajoz</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,133 (Syria) (2019); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>196,402 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note: </strong>193,685 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Illicit drugs**<br>
 despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>

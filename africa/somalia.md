@@ -62,6 +62,9 @@ _other_: 19.1% (2018 est.)<br>
 **Irrigated land**<br>
 2,000 sq km (2012)<br>
 
+**Major aquifers**<br>
+Ogaden-Juba Basin<br>
+
 **Population distribution**<br>
 distribution varies greatly throughout the country; least densely populated areas are in the northeast and central regions, as well as areas along the Kenyan border; most populated areas are in and around the cities of Mogadishu, Marka, Boorama, Hargeysa, and Baidoa as shown on this population distribution map<br>
 
@@ -226,14 +229,6 @@ _particulate matter emissions_: 29.51 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.65 megatons (2016 est.)<br>
 _methane emissions_: 20.13 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 15 million cubic meters (2017 est.)<br>
-_industrial_: 2 million cubic meters (2017 est.)<br>
-_agricultural_: 3.281 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-14.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 principally desert; northeast monsoon (December to February), moderate temperatures in north and hot in south; southwest monsoon (May to October), torrid in the north and hot in the south, irregular rainfall, hot and humid periods (tangambili) between monsoons<br>
 
@@ -261,6 +256,17 @@ _exceptional shortfall in aggregate food production/supplies_: due to poor seaso
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,326,099 tons (2016 est.)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 15 million cubic meters (2017 est.)<br>
+_industrial_: 2 million cubic meters (2017 est.)<br>
+_agricultural_: 3.281 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+14.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -366,15 +372,20 @@ regional and local governing bodies continue to exist and control various areas 
 <p>Despite the lack of effective national governance, Somalia maintains an informal economy largely based on livestock, remittance/money transfer companies, and telecommunications. Somalia's government lacks the ability to collect domestic revenue and external debt – mostly in arrears – was estimated at about 77% of GDP in 2017.</p><p></p><p>Agriculture is the most important sector, with livestock normally accounting for about 40% of GDP and more than 50% of export earnings. Nomads and semi-pastoralists, who are dependent upon livestock for their livelihood, make up a large portion of the population. Economic activity is estimated to have increased by 2.4% in 2017 because of growth in the agriculture, construction and telecommunications sector. Somalia's small industrial sector, based on the processing of agricultural products, has largely been looted and the machinery sold as scrap metal.</p><p></p><p>In recent years, Somalia's capital city, Mogadishu, has witnessed the development of the city's first gas stations, supermarkets, and airline flights to Turkey since the collapse of central authority in 1991. Mogadishu's main market offers a variety of goods from food to electronic gadgets. Hotels continue to operate and are supported with private-security militias. Formalized economic growth has yet to expand outside of Mogadishu and a few regional capitals, and within the city, security concerns dominate business. Telecommunication firms provide wireless services in most major cities and offer the lowest international call rates on the continent. In the absence of a formal banking sector, money transfer/remittance services have sprouted throughout the country, handling up to $1.6 billion in remittances annually, although international concerns over the money transfers into Somalia continues to threaten these services’ ability to operate in Western nations. In 2017, Somalia elected a new president and collected a record amount of foreign aid and investment, a positive sign for economic recovery.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$20.44 billion (2017 est.)<br>
-$19.98 billion (2016 est.)<br>
-$19.14 billion (2015 est.)<br>
+$13.19 billion note: data are in 2017 dollars (2020 est.)<br>
+$13.39 billion note: data are in 2017 dollars (2019 est.)<br>
+$13.01 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2016 US dollars<br>
 
 **Real GDP growth rate**<br>
 2.3% (2017 est.)<br>
 4.4% (2016 est.)<br>
 3.9% (2015 est.)<br>
+
+**Real GDP per capita**<br>
+$800 note: data are in 2017 dollars (2020 est.)<br>
+$900 note: data are in 2017 dollars (2019 est.)<br>
+$900 note: data are in 2017 dollars (2018 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $7.052 billion (2017 est.)<br>
@@ -655,6 +666,6 @@ al-Shabaab; Islamic State of Iraq and ash-Sham – Somalia<br>
 <p>Ethiopian forces invaded southern Somalia and routed Islamist Courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera to landlocked Ethiopia and have established commercial ties with other regional states; "Puntland" and "Somaliland" "governments" seek international support in their secessionist aspirations and overlapping border claims; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading south across the border, which has long been open to nomadic pastoralists</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,235 (Yemen) (2019)<br>
+_refugees (country of origin)_: 6,371 (Yemen) (2020)<br>
 _IDPs_: 2.968 million (civil war since 1988, clan-based competition for resources; 2011 famine; insecurity because of fighting between al-Shabaab and the Transitional Federal Government's allied forces) (2020)<br>
 

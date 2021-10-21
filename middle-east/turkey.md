@@ -63,6 +63,9 @@ _other_: 35.4% (2018 est.)<br>
 **Irrigated land**<br>
 52,150 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
 
@@ -71,9 +74,6 @@ the most densely populated area is found around the Bosporus in the northwest wh
 
 **Geography - note**<br>
 strategic location controlling the Turkish Straits (Bosporus, Sea of Marmara, Dardanelles) that link the Black and Aegean Seas; the 3% of Turkish territory north of the Straits lies in Europe and goes by the names of European Turkey, Eastern Thrace, or Turkish Thrace; the 97% of the country in Asia is referred to as Anatolia; Istanbul, which straddles the Bosporus, is the only metropolis in the world located on two continents; Mount Ararat, the legendary landing place of Noah's ark, is in the far eastern portion of the country<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 41.97 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 372.72 megatons (2016 est.)<br>
 _methane emissions_: 57.53 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 6.016 billion cubic meters (2017 est.)<br>
-_industrial_: 2.898 billion cubic meters (2017 est.)<br>
-_agricultural_: 50.05 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-211.6 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; hot, dry summers with mild, wet winters; harsher in interior<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 19% (2018 est.)<br>
 _forest_: 14.9% (2018 est.)<br>
 _other_: 35.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 76.6% of total population (2021)<br>
+_rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.05% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 76.6% of total population (2021)<br>
-_rate of urbanization_: 1.11% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (2020)<br>
@@ -280,6 +272,14 @@ _municipal solid waste generated annually_: 31.283 million tons (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 6.016 billion cubic meters (2017 est.)<br>
+_industrial_: 2.898 billion cubic meters (2017 est.)<br>
+_agricultural_: 50.05 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+211.6 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -386,9 +386,9 @@ _lyrics/music_: Mehmet Akif ERSOY/Zeki UNGOR<br>
 <p>Turkey's largely free-market economy is driven by its industry and, increasingly, service sectors, although its traditional agriculture sector still accounts for about 25% of employment. The automotive, petrochemical, and electronics industries have risen in importance and surpassed the traditional textiles and clothing sectors within Turkey's export mix. However, the recent period of political stability and economic dynamism has given way to domestic uncertainty and security concerns, which are generating financial market volatility and weighing on Turkey’s economic outlook.</p><p></p><p>Current government policies emphasize populist spending measures and credit breaks, while implementation of structural economic reforms has slowed. The government is playing a more active role in some strategic sectors and has used economic institutions and regulators to target political opponents, undermining private sector confidence in the judicial system. Between July 2016 and March 2017, three credit ratings agencies downgraded Turkey’s sovereign credit ratings, citing concerns about the rule of law and the pace of economic reforms.</p><p></p><p>Turkey remains highly dependent on imported oil and gas but is pursuing energy relationships with a broader set of international partners and taking steps to increase use of domestic energy sources including renewables, nuclear, and coal. The joint Turkish-Azerbaijani Trans-Anatolian Natural Gas Pipeline is moving forward to increase transport of Caspian gas to Turkey and Europe, and when completed will help diversify Turkey's sources of imported gas.</p><p></p><p>After Turkey experienced a severe financial crisis in 2001, Ankara adopted financial and fiscal reforms as part of an IMF program. The reforms strengthened the country's economic fundamentals and ushered in an era of strong growth, averaging more than 6% annually until 2008. An aggressive privatization program also reduced state involvement in basic industry, banking, transport, power generation, and communication. Global economic conditions and tighter fiscal policy caused GDP to contract in 2009, but Turkey's well-regulated financial markets and banking system helped the country weather the global financial crisis, and GDP growth rebounded to around 9% in 2010 and 2011, as exports and investment recovered following the crisis.</p><p></p><p>The growth of Turkish GDP since 2016 has revealed the persistent underlying imbalances in the Turkish economy. In particular, Turkey’s large current account deficit means it must rely on external investment inflows to finance growth, leaving the economy vulnerable to destabilizing shifts in investor confidence. Other troublesome trends include rising unemployment and inflation, which increased in 2017, given the Turkish lira’s continuing depreciation against the dollar. Although government debt remains low at about 30% of GDP, bank and corporate borrowing has almost tripled as a percent of GDP during the past decade, outpacing its emerging-market peers and prompting investor concerns about its long-term sustainability.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,371,374,000,000 (2019 est.)<br>
-$2,349,836,000,000 (2018 est.)<br>
-$2,282,304,000,000 (2017 est.)<br>
+$2,393,960,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$2,352,640,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$2,331,270,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $2,282,304,000,000 (2017 est.)<br>
 7.54% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$28,424 (2019 est.)<br>
-$28,545 (2018 est.)<br>
-$28,141 (2017 est.)<br>
+$28,400 note: data are in 2017 dollars (2020 est.)<br>
+$28,200 note: data are in 2017 dollars (2019 est.)<br>
+$28,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -483,9 +483,9 @@ $8.561 billion (2019 est.)<br>
 -$20.745 billion (2018 est.)<br>
 
 **Exports**<br>
-$310.671 billion (2019 est.)<br>
-$296.288 billion (2018 est.)<br>
-$271.866 billion (2017 est.)<br>
+$203.29 billion note: data are in current year dollars (2020 est.)<br>
+$245.84 billion note: data are in current year dollars (2019 est.)<br>
+$237.54 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
@@ -494,9 +494,9 @@ Germany 9%, United Kingdom 6%, Iraq 5%, Italy 5%, United States 5% (2019)<br>
 cars and vehicle parts, refined petroleum, delivery trucks, jewelry, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$258.385 billion (2019 est.)<br>
-$272.933 billion (2018 est.)<br>
-$291.523 billion (2017 est.)<br>
+$232.01 billion note: data are in current year dollars (2020 est.)<br>
+$227.06 billion note: data are in current year dollars (2019 est.)<br>
+$248.09 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 11%, China 9%, Russia 9%, United States 5%, Italy 5% (2019)<br>
@@ -717,7 +717,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 3,718,322 (Syria) (2021); 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020)<br>
+_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,721,057 (Syria) (2021)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

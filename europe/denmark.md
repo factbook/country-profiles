@@ -235,14 +235,6 @@ _particulate matter emissions_: 10.12 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 31.79 megatons (2016 est.)<br>
 _methane emissions_: 6.54 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 381.5 million cubic meters (2017 est.)<br>
-_industrial_: 32.9 million cubic meters (2017 est.)<br>
-_agricultural_: 326.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-6 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; humid and overcast; mild, windy winters and cool summers<br>
 
@@ -255,20 +247,28 @@ _forest_: 12.9% (2018 est.)<br>
 _other_: 23.7% (2018 est.)<br>
 <strong>note:</strong> highest percentage of arable land for any country in the world<br>
 
+**Urbanization**<br>
+_urban population_: 88.2% of total population (2021)<br>
+_rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 88.2% of total population (2021)<br>
-_rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.485 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,223,060 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 27.3% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 381.5 million cubic meters (2017 est.)<br>
+_industrial_: 32.9 million cubic meters (2017 est.)<br>
+_agricultural_: 326.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+6 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -324,9 +324,9 @@ _cabinet_: Council of State appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
-_elections_: last held on 5 June 2019 (next to be held on June 2023)<br>
-_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition - men 109, women 70 (includes 2 from Greenland), percent of women 39.1%<br>
+_description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
+_elections_: last held on 5 June 2019 (next to be held in June 2023)<br>
+_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -373,9 +373,9 @@ _lyrics/music_: Adam Gottlob OEHLENSCHLAGER/Hans Ernst KROYER; Johannes EWALD/un
 <p>This thoroughly modern market economy features advanced industry with world-leading firms in pharmaceuticals, maritime shipping, and renewable energy, and a high-tech agricultural sector. Danes enjoy a high standard of living, and the Danish economy is characterized by extensive government welfare measures and an equitable distribution of income. An aging population will be a long-term issue.</p><p></p><p>Denmark’s small open economy is highly dependent on foreign trade, and the government strongly supports trade liberalization. Denmark is a net exporter of food, oil, and gas and enjoys a comfortable balance of payments surplus, but depends on imports of raw materials for the manufacturing sector.</p><p></p><p>Denmark is a member of the EU but not the eurozone. Despite previously meeting the criteria to join the European Economic and Monetary Union, Denmark has negotiated an opt-out with the EU and is not required to adopt the euro.</p><p></p><p>Denmark is experiencing a modest economic expansion. The economy grew by 2.0% in 2016 and 2.1% in 2017. The expansion is expected to decline slightly in 2018. Unemployment stood at 5.5% in 2017, based on the national labor survey. The labor market was tight in 2017, with corporations experiencing some difficulty finding appropriately-skilled workers to fill billets. The Danish Government offers extensive programs to train unemployed persons to work in sectors that need qualified workers.</p><p></p><p>Denmark maintained a healthy budget surplus for many years up to 2008, but the global financial crisis swung the budget balance into deficit. Since 2014 the balance has shifted between surplus and deficit. In 2017 there was a surplus of 1.0%. The government projects a lower deficit in 2018 and 2019 of 0.7%, and public debt (EMU debt) as a share of GDP is expected to decline to 35.6% in 2018 and 34.8% in 2019. The Danish Government plans to address increasing municipal, public housing and integration spending in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$336.335 billion (2019 est.)<br>
-$327.017 billion (2018 est.)<br>
-$320.053 billion (2017 est.)<br>
+$326.2 billion note: data are in 2017 dollars (2020 est.)<br>
+$335.36 billion note: data are in 2017 dollars (2019 est.)<br>
+$326.07 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -384,9 +384,9 @@ $320.053 billion (2017 est.)<br>
 2.83% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$57,804 (2019 est.)<br>
-$56,444 (2018 est.)<br>
-$55,517 (2017 est.)<br>
+$55,900 note: data are in 2017 dollars (2020 est.)<br>
+$57,700 note: data are in 2017 dollars (2019 est.)<br>
+$56,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -470,9 +470,9 @@ $30.935 billion (2019 est.)<br>
 $24.821 billion (2018 est.)<br>
 
 **Exports**<br>
-$226.589 billion (2019 est.)<br>
-$215.725 billion (2018 est.)<br>
-$208.941 billion (2017 est.)<br>
+$191.53 billion note: data are in current year dollars (2020 est.)<br>
+$204.14 billion note: data are in current year dollars (2019 est.)<br>
+$200.81 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Netherlands 5%, China 5% (2019)<br>
@@ -481,9 +481,9 @@ Germany 14%, United States 11%, Sweden 10%, United Kingdom 7%, Norway 6%, Nether
 packaged medicines, electric generators, pork, refined petroleum, medical cultures/vaccines (2019)<br>
 
 **Imports**<br>
-$197.818 billion (2019 est.)<br>
-$193.107 billion (2018 est.)<br>
-$184.338 billion (2017 est.)<br>
+$170.33 billion note: data are in current year dollars (2020 est.)<br>
+$178.44 billion note: data are in current year dollars (2019 est.)<br>
+$179.95 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 21%, Sweden 11%, Netherlands 8%, China 7% (2019)<br>
@@ -680,7 +680,7 @@ the Danish military has approximately 16,000 active duty personnel (8,000 Army; 
 the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010, followed by Germany and the Netherlands; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2020)<br>
 
 **Military deployments**<br>
-140 Middle East/Iraq (NATO/Operation Inherent Resolve) (2021)<br>
+140 Middle East/Iraq (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2019)<br>
@@ -700,6 +700,6 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm; sovereignty dispute with Canada over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 20,046 (Syria), 5,320 (Eritrea) (2019)<br>
+_refugees (country of origin)_: 19,878 (Syria), 5,399 (Eritrea) (2020)<br>
 _stateless persons_: 11,655 (2020)<br>
 

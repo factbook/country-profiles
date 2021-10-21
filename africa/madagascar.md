@@ -246,14 +246,6 @@ _particulate matter emissions_: 21.44 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 3.91 megatons (2016 est.)<br>
 _methane emissions_: 10.14 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 395 million cubic meters (2017 est.)<br>
-_industrial_: 161.9 million cubic meters (2017 est.)<br>
-_agricultural_: 13 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-337 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical along coast, temperate inland, arid in south<br>
 
@@ -265,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 64.1% (2018 est.)<br>
 _forest_: 21.5% (2018 est.)<br>
 _other_: 7.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 39.2% of total population (2021)<br>
+_rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 39.2% of total population (2021)<br>
-_rate of urbanization_: 4.26% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -287,6 +279,14 @@ _severe localized food insecurity_: due to drought in southern areas and limited
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,768,759 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 395 million cubic meters (2017 est.)<br>
+_industrial_: 161.9 million cubic meters (2017 est.)<br>
+_agricultural_: 13 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+337 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -391,9 +391,9 @@ _lyrics/music_: Pasteur RAHAJASON/Norbert RAHARISOA<br>
 <p>Madagascar is a mostly unregulated economy with many untapped natural resources, but no capital markets, a weak judicial system, poorly enforced contracts, and rampant government corruption. The country faces challenges to improve education, healthcare, and the environment to boost long-term economic growth. Agriculture, including fishing and forestry, is a mainstay of the economy, accounting for more than one-fourth of GDP and employing roughly 80% of the population. Deforestation and erosion, aggravated by bushfires, slash-and-burn clearing techniques, and the use of firewood as the primary source of fuel, are serious concerns to the agriculture dependent economy.</p><p></p><p>After discarding socialist economic policies in the mid-1990s, Madagascar followed a World Bank- and IMF-led policy of privatization and liberalization until a 2009 coup d’état led many nations, including the United States, to suspend non-humanitarian aid until a democratically-elected president was inaugurated in 2014. The pre-coup strategy had placed the country on a slow and steady growth path from an extremely low starting point. Exports of apparel boomed after gaining duty-free access to the US market in 2000 under the African Growth and Opportunity Act (AGOA); however, Madagascar's failure to comply with the requirements of the AGOA led to the termination of the country's duty-free access in January 2010, a sharp fall in textile production, a loss of more than 100,000 jobs, and a GDP drop of nearly 11%.</p><p></p><p>Madagascar regained AGOA access in January 2015 and ensuing growth has been slow and fragile. Madagascar produces around 80% of the world’s vanilla and its reliance on this commodity for most of its foreign exchange is a significant source of vulnerability. Economic reforms have been modest and the country’s financial sector remains weak, limiting the use of monetary policy to control inflation. An ongoing IMF program aims to strengthen financial and investment management capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$44.419 billion (2019 est.)<br>
-$42.363 billion (2018 est.)<br>
-$40.514 billion (2017 est.)<br>
+$41.82 billion note: data are in 2017 dollars (2020 est.)<br>
+$43.65 billion note: data are in 2017 dollars (2019 est.)<br>
+$41.81 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -402,9 +402,9 @@ $40.514 billion (2017 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,647 (2019 est.)<br>
-$1,613 (2018 est.)<br>
-$1,584 (2017 est.)<br>
+$1,500 note: data are in 2017 dollars (2020 est.)<br>
+$1,600 note: data are in 2017 dollars (2019 est.)<br>
+$1,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -477,8 +477,8 @@ calendar year<br>
 $57 million (2016 est.)<br>
 
 **Exports**<br>
-$5.272 billion (2019 est.)<br>
-$5.06 billion (2018 est.)<br>
+$4.09 billion note: data are in current year dollars (2019 est.)<br>
+$4.41 billion note: data are in current year dollars (2018 est.)<br>
 $4.839 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -488,8 +488,8 @@ United States 19%, France 18%, United Arab Emirates 7%, China 6%, Japan 6%, Germ
 vanilla, nickel, gold, clothing and apparel, gemstones (2019)<br>
 
 **Imports**<br>
-$5.855 billion (2019 est.)<br>
-$5.56 billion (2018 est.)<br>
+$4.7 billion note: data are in current year dollars (2019 est.)<br>
+$4.82 billion note: data are in current year dollars (2018 est.)<br>
 $5.796 billion (2017 est.)<br>
 
 **Imports - partners**<br>

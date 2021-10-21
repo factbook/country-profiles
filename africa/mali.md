@@ -61,6 +61,12 @@ _other_: 55.7% (2018 est.)<br>
 **Irrigated land**<br>
 3,780 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
+
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ hot, dust-laden harmattan haze common during dry seasons; recurring droughts; oc
 
 **Geography - note**<br>
 landlocked; divided into three natural zones: the southern, cultivated Sudanese; the central, semiarid Sahelian; and the northern, arid Saharan<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
-
-**Major aquifers**<br>
-Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 31.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 3.18 megatons (2016 est.)<br>
 _methane emissions_: 19.16 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 107 million cubic meters (2017 est.)<br>
-_industrial_: 4 million cubic meters (2017 est.)<br>
-_agricultural_: 5.075 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-120 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 subtropical to arid; hot and dry (February to June); rainy, humid, and mild (June to November); cool and dry (November to February)<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 28.4% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 44.7% of total population (2021)<br>
+_rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 44.7% of total population (2021)<br>
-_rate of urbanization_: 4.57% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -299,6 +291,14 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta
 
 **Major aquifers**<br>
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 107 million cubic meters (2017 est.)<br>
+_industrial_: 4 million cubic meters (2017 est.)<br>
+_agricultural_: 5.075 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+120 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -403,9 +403,9 @@ _lyrics/music_: Seydou Badian KOUYATE/Banzoumana SISSOKO<br>
 <p>Among the 25 poorest countries in the world, landlocked Mali depends on gold mining and agricultural exports for revenue. The country's fiscal status fluctuates with gold and agricultural commodity prices and the harvest; cotton and gold exports make up around 80% of export earnings. Mali remains dependent on foreign aid.</p><p></p><p>Economic activity is largely confined to the riverine area irrigated by the Niger River; about 65% of Mali’s land area is desert or semidesert. About 10% of the population is nomadic and about 80% of the labor force is engaged in farming and fishing. Industrial activity is concentrated on processing farm commodities. The government subsidizes the production of cereals to decrease the country’s dependence on imported foodstuffs and to reduce its vulnerability to food price shocks.</p><p></p><p>Mali is developing its iron ore extraction industry to diversify foreign exchange earnings away from gold, but the pace will depend on global price trends. Although the political coup in 2012 slowed Mali’s growth, the economy has since bounced back, with GDP growth above 5% in 2014-17, although physical insecurity, high population growth, corruption, weak infrastructure, and low levels of human capital continue to constrain economic development. Higher rainfall helped to boost cotton output in 2017, and the country’s 2017 budget increased spending more than 10%, much of which was devoted to infrastructure and agriculture. Corruption and political turmoil are strong downside risks in 2018 and beyond.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$45.637 billion (2019 est.)<br>
-$43.567 billion (2018 est.)<br>
-$41.593 billion (2017 est.)<br>
+$44.89 billion note: data are in 2017 dollars (2020 est.)<br>
+$45.64 billion note: data are in 2017 dollars (2019 est.)<br>
+$43.57 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -414,9 +414,9 @@ $41.593 billion (2017 est.)<br>
 6.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,322 (2019 est.)<br>
-$2,284 (2018 est.)<br>
-$2,247 (2017 est.)<br>
+$2,200 note: data are in 2017 dollars (2020 est.)<br>
+$2,300 note: data are in 2017 dollars (2019 est.)<br>
+$2,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -495,7 +495,7 @@ calendar year<br>
 -$1.015 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.06 billion (2017 est.)<br>
+$4.18 billion note: data are in current year dollars (2018 est.)<br>
 $2.803 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -505,7 +505,7 @@ United Arab Emirates 66%, Switzerland 26% (2019)<br>
 gold, cotton, sesame seeds, lumber, vegetable oils/residues (2019)<br>
 
 **Imports**<br>
-$3.644 billion (2017 est.)<br>
+$6.08 billion note: data are in current year dollars (2018 est.)<br>
 $3.403 billion (2016 est.)<br>
 
 **Imports - partners**<br>

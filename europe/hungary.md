@@ -61,14 +61,14 @@ _other_: 18.6% (2018 est.)<br>
 **Irrigated land**<br>
 1,721 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
 **Geography - note**<br>
 landlocked; strategic location astride main land routes between Western Europe and Balkan Peninsula as well as between Ukraine and Mediterranean basin; the north-south flowing Duna (Danube) and Tisza Rivers divide the country into three large regions<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -238,14 +238,6 @@ _particulate matter emissions_: 15.62 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 45.54 megatons (2016 est.)<br>
 _methane emissions_: 7.25 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 624.5 million cubic meters (2017 est.)<br>
-_industrial_: 3.358 billion cubic meters (2017 est.)<br>
-_agricultural_: 518.6 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-104 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cold, cloudy, humid winters; warm summers<br>
 
@@ -257,15 +249,15 @@ _agricultural land: permanent pasture_: permanent pasture: 8.4% (2018 est.)<br>
 _forest_: 22.5% (2018 est.)<br>
 _other_: 18.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 72.2% of total population (2021)<br>
+_rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 72.2% of total population (2021)<br>
-_rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -278,6 +270,14 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 624.5 million cubic meters (2017 est.)<br>
+_industrial_: 3.358 billion cubic meters (2017 est.)<br>
+_agricultural_: 518.6 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+104 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +383,9 @@ _lyrics/music_: Ferenc KOLCSEY/Ferenc ERKEL<br>
 <p>Hungary has transitioned from a centrally planned to a market-driven economy with a per capita income approximately two thirds of the EU-28 average; however, in recent years the government has become more involved in managing the economy. Budapest has implemented unorthodox economic policies to boost household consumption and has relied on EU-funded development projects to generate growth.</p> <p> </p> <p>Following the fall of communism in 1990, Hungary experienced a drop-off in exports and financial assistance from the former Soviet Union. Hungary embarked on a series of economic reforms, including privatization of state-owned enterprises and reduction of social spending programs, to shift from a centrally planned to a market-driven economy, and to reorient its economy towards trade with the West. These efforts helped to spur growth, attract investment, and reduce Hungary’s debt burden and fiscal deficits. Despite these reforms, living conditions for the average Hungarian initially deteriorated as inflation increased and unemployment reached double digits. Conditions slowly improved over the 1990s as the reforms came to fruition and export growth accelerated. Economic policies instituted during that decade helped position Hungary to join the European Union in 2004. Hungary has not yet joined the euro-zone. Hungary suffered a historic economic contraction as a result of the global economic slowdown in 2008-09 as export demand and domestic consumption dropped, prompting it to take an IMF-EU financial assistance package.</p> <p> </p> <p>Since 2010, the government has backpedaled on many economic reforms and taken a more populist approach towards economic management. The government has favored national industries and government-linked businesses through legislation, regulation, and public procurements. In 2011 and 2014, Hungary nationalized private pension funds, which squeezed financial service providers out of the system, but also helped Hungary curb its public debt and lower its budget deficit to below 3% of GDP, as subsequent pension contributions have been channeled into the state-managed pension fund. Hungary’s public debt (at 74.5% of GDP) is still high compared to EU peers in Central Europe. Real GDP growth has been robust in the past few years due to increased EU funding, higher EU demand for Hungarian exports, and a rebound in domestic household consumption. To further boost household consumption ahead of the 2018 election, the government embarked on a six-year phased increase to minimum wages and public sector salaries, decreased taxes on foodstuffs and services, cut the personal income tax from 16% to 15%, and implemented a uniform 9% business tax for small and medium-sized enterprises and large companies. Real GDP growth slowed in 2016 due to a cyclical decrease in EU funding, but increased to 3.8% in 2017 as the government pre-financed EU funded projects ahead of the 2018 election.</p> <p> </p> <p>Systemic economic challenges include pervasive corruption, labor shortages driven by demographic declines and migration, widespread poverty in rural areas, vulnerabilities to changes in demand for exports, and a heavy reliance on Russian energy imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$321.869 billion (2019 est.)<br>
-$307.778 billion (2018 est.)<br>
-$291.995 billion (2017 est.)<br>
+$302.32 billion note: data are in 2017 dollars (2020 est.)<br>
+$318.09 billion note: data are in 2017 dollars (2019 est.)<br>
+$303.98 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $291.995 billion (2017 est.)<br>
 4.45% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$32,945 (2019 est.)<br>
-$31,485 (2018 est.)<br>
-$29,832 (2017 est.)<br>
+$31,000 note: data are in 2017 dollars (2020 est.)<br>
+$32,600 note: data are in 2017 dollars (2019 est.)<br>
+$31,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -481,9 +481,9 @@ calendar year<br>
 $510 million (2018 est.)<br>
 
 **Exports**<br>
-$167.99 billion (2019 est.)<br>
-$158.802 billion (2018 est.)<br>
-$151.185 billion (2017 est.)<br>
+$123.83 billion note: data are in current year dollars (2020 est.)<br>
+$134.55 billion note: data are in current year dollars (2019 est.)<br>
+$134.66 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
@@ -492,9 +492,9 @@ Germany 27%, Romania 5%, Italy 5%, Slovakia 5% (2019)<br>
 cars and vehicle parts, packaged medicines, spark-ignition engines, video displays, broadcasting equipment (2019)<br>
 
 **Imports**<br>
-$159.63 billion (2019 est.)<br>
-$148.471 billion (2018 est.)<br>
-$138.773 billion (2017 est.)<br>
+$120.25 billion note: data are in current year dollars (2020 est.)<br>
+$129.9 billion note: data are in current year dollars (2019 est.)<br>
+$127.52 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 25%, China 6%, Poland 6%, Austria 6%, Czechia 5%, Slovakia 5%, Italy 5%, Netherlands 5% (2019)<br>
@@ -676,8 +676,7 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 ## Military and Security
 
 **Military and security forces**<br>
-Hungarian Defense Forces: Land Forces (Army); Air Forces (note - both the air and land components are subordinate to a Joint Forces Combat Command); Logistics Center; Preparation and Training Command (2020)<br>
-note: the Hungarian Defense Forces are organized into a joint force structure with ground, air, and logistic components<br>
+the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2021)<br>
 
 **Military expenditures**<br>
 1.85% of GDP (2020 est.)<br>

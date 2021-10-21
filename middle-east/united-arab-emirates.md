@@ -230,14 +230,6 @@ _particulate matter emissions_: 39.44 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 206.32 megatons (2016 est.)<br>
 _methane emissions_: 56.55 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 617 million cubic meters (2017 est.)<br>
-_industrial_: 69 million cubic meters (2017 est.)<br>
-_agricultural_: 3.312 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-150 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; cooler in eastern mountains<br>
 
@@ -249,15 +241,15 @@ _agricultural land: permanent pasture_: permanent pasture: 3.6% (2018 est.)<br>
 _forest_: 3.8% (2018 est.)<br>
 _other_: 91.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 87.3% of total population (2021)<br>
+_rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 87.3% of total population (2021)<br>
-_rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout UAE; as of 6 October 2021, UAE has reported a total of 737,073 cases of COVID-19 or 7,452.41 cumulative cases of COVID-19 per 100,000 population with 21.27 cumulative deaths per 100,000 population; as of 6 October 2021, 93.95% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -266,6 +258,14 @@ _rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 5,413,453 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,082,691 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 20% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 617 million cubic meters (2017 est.)<br>
+_industrial_: 69 million cubic meters (2017 est.)<br>
+_agricultural_: 3.312 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+150 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -373,8 +373,8 @@ _lyrics/music_: AREF Al Sheikh Abdullah Al Hassan/Mohamad Abdel WAHAB<br>
 <p>The UAE has an open economy with a high per capita income and a sizable annual trade surplus. Successful efforts at economic diversification have reduced the portion of GDP from the oil and gas sector to 30%.</p><p></p><p>Since the discovery of oil in the UAE nearly 60 years ago, the country has undergone a profound transformation from an impoverished region of small desert principalities to a modern state with a high standard of living. The government has increased spending on job creation and infrastructure expansion and is opening up utilities to greater private sector involvement. The country's free trade zones - offering 100% foreign ownership and zero taxes - are helping to attract foreign investors.</p><p></p><p>The global financial crisis of 2008-09, tight international credit, and deflated asset prices constricted the economy in 2009. UAE authorities tried to blunt the crisis by increasing spending and boosting liquidity in the banking sector. The crisis hit Dubai hardest, as it was heavily exposed to depressed real estate prices. Dubai lacked sufficient cash to meet its debt obligations, prompting global concern about its solvency and ultimately a $20 billion bailout from the UAE Central Bank and Abu Dhabi Government that was refinanced in March 2014.</p><p></p><p>The UAE’s dependence on oil is a significant long-term challenge, although the UAE is one of the most diversified countries in the Gulf Cooperation Council. Low oil prices have prompted the UAE to cut expenditures, including on some social programs, but the UAE has sufficient assets in its sovereign investment funds to cover its deficits. The government reduced fuel subsidies in August 2015, and introduced excise taxes (50% on sweetened carbonated beverages and 100% on energy drinks and tobacco) in October 2017. A five-percent value-added tax was introduced in January 2018. The UAE's strategic plan for the next few years focuses on economic diversification, promoting the UAE as a global trade and tourism hub, developing industry, and creating more job opportunities for nationals through improved education and increased private sector employment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$655.789 billion (2019 est.)<br>
-$644.968 billion (2018 est.)<br>
+$655.79 billion note: data are in 2017 dollars (2019 est.)<br>
+$644.97 billion note: data are in 2017 dollars (2018 est.)<br>
 $637.384 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -384,8 +384,8 @@ $637.384 billion (2017 est.)<br>
 5.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$67,119 (2019 est.)<br>
-$66,968 (2018 est.)<br>
+$67,100 note: data are in 2017 dollars (2019 est.)<br>
+$67,000 note: data are in 2017 dollars (2018 est.)<br>
 $67,184 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 

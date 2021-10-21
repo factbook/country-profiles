@@ -62,6 +62,9 @@ _other_: 41.9% (2018 est.)<br>
 **Irrigated land**<br>
 240 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
 
@@ -70,9 +73,6 @@ destructive earthquakes<br>
 
 **Geography - note**<br>
 controls most land routes from Western Europe to Aegean Sea and Turkish Straits; most Adriatic Sea islands lie off the coast of Croatia - some 1,200 islands, islets, ridges, and rocks<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -244,14 +244,6 @@ _particulate matter emissions_: 17.03 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 17.49 megatons (2016 est.)<br>
 _methane emissions_: 3.98 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 455 million cubic meters (2017 est.)<br>
-_industrial_: 184 million cubic meters (2017 est.)<br>
-_agricultural_: 76 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-105.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 Mediterranean and continental; continental climate predominant with hot summers and cold winters; mild winters, dry summers along coast<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 41.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 57.9% of total population (2021)<br>
+_rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 57.9% of total population (2021)<br>
-_rate of urbanization_: 0.05% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -284,6 +276,14 @@ _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 455 million cubic meters (2017 est.)<br>
+_industrial_: 184 million cubic meters (2017 est.)<br>
+_agricultural_: 76 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+105.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +393,9 @@ _lyrics/music_: Antun MIHANOVIC/Josip RUNJANIN<br>
 <p>Though still one of the wealthiest of the former Yugoslav republics, Croatia’s economy suffered badly during the 1991-95 war. The country's output during that time collapsed, and Croatia missed the early waves of investment in Central and Eastern Europe that followed the fall of the Berlin Wall. Between 2000 and 2007, however, Croatia's economic fortunes began to improve with moderate but steady GDP growth between 4% and 6%, led by a rebound in tourism and credit-driven consumer spending. Inflation over the same period remained tame and the currency, the kuna, stable.</p><p></p><p>Croatia experienced an abrupt slowdown in the economy in 2008; economic growth was stagnant or negative in each year between 2009 and 2014, but has picked up since the third quarter of 2014, ending 2017 with an average of 2.8% growth. Challenges remain including uneven regional development, a difficult investment climate, an inefficient judiciary, and loss of educated young professionals seeking higher salaries elsewhere in the EU. In 2016, Croatia revised its tax code to stimulate growth from domestic consumption and foreign investment. Income tax reduction began in 2017, and in 2018 various business costs were removed from income tax calculations. At the start of 2018, the government announced its economic reform plan, slated for implementation in 2019.</p><p></p><p>Tourism is one of the main pillars of the Croatian economy, comprising 19.6% of Croatia’s GDP. Croatia is working to become a regional energy hub, and is undertaking plans to open a floating liquefied natural gas (LNG) regasification terminal by the end of 2019 or early in 2020 to import LNG for re-distribution in southeast Europe.</p><p></p><p>Croatia joined the EU on July 1, 2013, following a decade-long accession process. Croatia has developed a plan for Eurozone accession, and the government projects Croatia will adopt the Euro by 2024. In 2017, the Croatian government decreased public debt to 78% of GDP, from an all-time high of 84% in 2014, and realized a 0.8% budget surplus - the first surplus since independence in 1991. The government has also sought to accelerate privatization of non-strategic assets with mixed success. Croatia’s economic recovery is still somewhat fragile; Croatia’s largest private company narrowly avoided collapse in 2017, thanks to a capital infusion from an American investor. Restructuring is ongoing, and projected to finish by mid-July 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$116.339 billion (2019 est.)<br>
-$113.105 billion (2018 est.)<br>
-$110.016 billion (2017 est.)<br>
+$107.11 billion note: data are in 2017 dollars (2020 est.)<br>
+$116.89 billion note: data are in 2017 dollars (2019 est.)<br>
+$113.64 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +404,9 @@ $110.016 billion (2017 est.)<br>
 3.14% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$28,602 (2019 est.)<br>
-$27,669 (2018 est.)<br>
-$26,674 (2017 est.)<br>
+$26,500 note: data are in 2017 dollars (2020 est.)<br>
+$28,800 note: data are in 2017 dollars (2019 est.)<br>
+$27,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -489,9 +489,9 @@ $1.597 billion (2019 est.)<br>
 $1 billion (2018 est.)<br>
 
 **Exports**<br>
-$36.28 billion (2019 est.)<br>
-$33.97 billion (2018 est.)<br>
-$32.75 billion (2017 est.)<br>
+$23.66 billion note: data are in current year dollars (2020 est.)<br>
+$31.07 billion note: data are in current year dollars (2019 est.)<br>
+$30.71 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Serbia 5% (2019)<br>
@@ -500,9 +500,9 @@ Italy 13%, Germany 13%, Slovenia 10%, Bosnia and Herzegovina 9%, Austria 6%, Ser
 refined petroleum, packaged medicines, cars, medical cultures/vaccines, lumber (2019)<br>
 
 **Imports**<br>
-$37.612 billion (2019 est.)<br>
-$35.367 billion (2018 est.)<br>
-$32.899 billion (2017 est.)<br>
+$27.59 billion note: data are in current year dollars (2020 est.)<br>
+$31.39 billion note: data are in current year dollars (2019 est.)<br>
+$31.32 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Italy 14%, Germany 14%, Slovenia 11%, Hungary 7%, Austria 6% (2019)<br>

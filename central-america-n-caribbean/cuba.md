@@ -238,14 +238,6 @@ _particulate matter emissions_: 18.37 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
 _methane emissions_: 9.3 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.7 billion cubic meters (2017 est.)<br>
-_industrial_: 740 million cubic meters (2017 est.)<br>
-_agricultural_: 4.519 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-38.12 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by trade winds; dry season (November to April); rainy season (May to October)<br>
 
@@ -257,15 +249,15 @@ _agricultural land: permanent pasture_: permanent pasture: 22.9% (2018 est.)<br>
 _forest_: 27.3% (2018 est.)<br>
 _other_: 12.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 77.3% of total population (2021)<br>
+_rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 77.3% of total population (2021)<br>
-_rate of urbanization_: 0.19% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -276,6 +268,14 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 2,692,692 tons (2007 est.)<br>
 _municipal solid waste recycled annually_: 255,536 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 9.5% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.7 billion cubic meters (2017 est.)<br>
+_industrial_: 740 million cubic meters (2017 est.)<br>
+_agricultural_: 4.519 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+38.12 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -680,10 +680,10 @@ limited available information; estimated 50,000 active personnel (approximately 
 the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004 (2020)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2017)<br>
+17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2019)<br>
 
 **Military - note**<br>
-the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism<br>
+the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism (2021)<br>
 
 ## Transnational Issues
 

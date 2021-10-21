@@ -61,6 +61,9 @@ _other_: 21.5% (2018 est.)<br>
 **Irrigated land**<br>
 3,100 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
 
@@ -239,14 +242,6 @@ _particulate matter emissions_: 24.49 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 17.76 megatons (2016 est.)<br>
 _methane emissions_: 9 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2017 est.)<br>
-_industrial_: 170 million cubic meters (2017 est.)<br>
-_agricultural_: 7.02 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-333.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical monsoon; rainy season (May to November); dry season (December to April)<br>
 
@@ -258,12 +253,12 @@ _agricultural land: permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
 _forest_: 67.9% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 1.48% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 36.9% of total population (2021)<br>
 _rate of urbanization_: 2.99% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 1.48% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -274,6 +269,17 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 130 million cubic meters (2017 est.)<br>
+_industrial_: 170 million cubic meters (2017 est.)<br>
+_agricultural_: 7.02 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+333.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +384,9 @@ _lyrics/music_: SISANA Sisane/THONGDY Sounthonevichit<br>
 <p>The government of Laos, one of the few remaining one-party communist states, began decentralizing control and encouraging private enterprise in 1986. Economic growth averaged more than 6% per year in the period 1988-2008, and Laos' growth has more recently been amongst the fastest in Asia, averaging more than 7% per year for most of the last decade.</p><p></p><p>Nevertheless, Laos remains a country with an underdeveloped infrastructure, particularly in rural areas. It has a basic, but improving, road system, and limited external and internal land-line telecommunications. Electricity is available to 83% of the population. Agriculture, dominated by rice cultivation in lowland areas, accounts for about 20% of GDP and 73% of total employment. Recently, the country has faced a persistent current account deficit, falling foreign currency reserves, and growing public debt.</p><p></p><p>Laos' economy is heavily dependent on capital-intensive natural resource exports. The economy has benefited from high-profile foreign direct investment in hydropower dams along the Mekong River, copper and gold mining, logging, and construction, although some projects in these industries have drawn criticism for their environmental impacts.</p><p></p><p>Laos gained Normal Trade Relations status with the US in 2004 and applied for Generalized System of Preferences trade benefits in 2013 after being admitted to the World Trade Organization earlier in the year. Laos held the chairmanship of ASEAN in 2016. Laos is in the process of implementing a value-added tax system. The government appears committed to raising the country's profile among foreign investors and has developed special economic zones replete with generous tax incentives, but a limited labor pool, a small domestic market, and corruption remain impediments to investment. Laos also has ongoing problems with the business environment, including onerous registration requirements, a gap between legislation and implementation, and unclear or conflicting regulations.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.11 billion (2019 est.)<br>
-$53.616 billion (2018 est.)<br>
-$50.463 billion (2017 est.)<br>
+$56.79 billion note: data are in 2017 dollars (2020 est.)<br>
+$56.54 billion note: data are in 2017 dollars (2019 est.)<br>
+$53.62 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +395,9 @@ $50.463 billion (2017 est.)<br>
 7.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$7,826 (2019 est.)<br>
-$7,593 (2018 est.)<br>
-$7,258 (2017 est.)<br>
+$7,800 note: data are in 2017 dollars (2020 est.)<br>
+$7,900 note: data are in 2017 dollars (2019 est.)<br>
+$7,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,8 +478,8 @@ _expenditures_: 4.038 billion (2017 est.)<br>
 -$2.07 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.654 billion (2017 est.)<br>
-$2.705 billion (2016 est.)<br>
+$6.99 billion note: data are in current year dollars (2019 est.)<br>
+$6.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Thailand 36%, China 28%, Vietnam 16% (2019)<br>
@@ -482,8 +488,8 @@ Thailand 36%, China 28%, Vietnam 16% (2019)<br>
 electricity, copper, rubber, gold, flavored water (2019)<br>
 
 **Imports**<br>
-$4.976 billion (2017 est.)<br>
-$4.739 billion (2016 est.)<br>
+$7.52 billion note: data are in current year dollars (2019 est.)<br>
+$7.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Thailand 53%, China 26%, Vietnam 10% (2019)<br>

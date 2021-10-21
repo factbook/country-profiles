@@ -235,14 +235,6 @@ _particulate matter emissions_: 18.26 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 37.54 megatons (2016 est.)<br>
 _methane emissions_: 4.4 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 296.73 million cubic meters (2017 est.)<br>
-_industrial_: 336.294 million cubic meters (2017 est.)<br>
-_agricultural_: 26.376 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-600 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid, rainy; two distinct monsoon seasons - northeastern monsoon (December to March) and southwestern monsoon (June to September); inter-monsoon - frequent afternoon and early evening thunderstorms<br>
 
@@ -254,20 +246,28 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 3.3% (2018 est.)<br>
 _other_: 95.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 100% of total population (2021)<br>
+_rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
-_rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 7,704,300 tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 4,699,623 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 61% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 296.73 million cubic meters (2017 est.)<br>
+_industrial_: 336.294 million cubic meters (2017 est.)<br>
+_agricultural_: 26.376 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+600 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -372,9 +372,9 @@ _lyrics/music_: ZUBIR Said<br>
 <p>Singapore has a highly developed and successful free-market economy. It enjoys an open and corruption-free environment, stable prices, and a per capita GDP higher than that of most developed countries. Unemployment is very low. The economy depends heavily on exports, particularly of electronics, petroleum products, chemicals, medical and optical devices, pharmaceuticals, and on Singapore’s vibrant transportation, business, and financial services sectors.</p><p></p><p>The economy contracted 0.6% in 2009 as a result of the global financial crisis, but has continued to grow since 2010. Growth from 2012-2017 was slower than during the previous decade, a result of slowing structural growth - as Singapore reached high-income levels - and soft global demand for exports. Growth recovered to 3.6% in 2017 with a strengthening global economy.</p><p></p><p>The government is attempting to restructure Singapore’s economy to reduce its dependence on foreign labor, raise productivity growth, and increase wages amid slowing labor force growth and an aging population. Singapore has attracted major investments in advanced manufacturing, pharmaceuticals, and medical technology production and will continue efforts to strengthen its position as Southeast Asia's leading financial and technology hub. Singapore is a signatory of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP), and a party to the Regional Comprehensive Economic Partnership (RCEP) negotiations with nine other ASEAN members plus Australia, China, India, Japan, South Korea, and New Zealand. In 2015, Singapore formed, with the other ASEAN members, the ASEAN Economic Community.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$555.193 billion (2019 est.)<br>
-$551.152 billion (2018 est.)<br>
-$532.832 billion (2017 est.)<br>
+$531.04 billion note: data are in 2017 dollars (2020 est.)<br>
+$561.3 billion note: data are in 2017 dollars (2019 est.)<br>
+$553.85 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -383,9 +383,9 @@ $532.832 billion (2017 est.)<br>
 4.34% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$97,341 (2019 est.)<br>
-$97,745 (2018 est.)<br>
-$94,941 (2017 est.)<br>
+$93,400 note: data are in 2017 dollars (2020 est.)<br>
+$98,400 note: data are in 2017 dollars (2019 est.)<br>
+$98,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,9 +472,9 @@ $63.109 billion (2019 est.)<br>
 $64.042 billion (2018 est.)<br>
 
 **Exports**<br>
-$626.68 billion (2019 est.)<br>
-$636.565 billion (2018 est.)<br>
-$588.576 billion (2017 est.)<br>
+$599.2 billion note: data are in current year dollars (2020 est.)<br>
+$658.54 billion note: data are in current year dollars (2019 est.)<br>
+$665.7 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% (2019)<br>
@@ -483,9 +483,9 @@ China 15%, Hong Kong 13%, Malaysia 9%, United States 8%, Indonesia 7%, India 5% 
 integrated circuits, refined petroleum, gold, gas turbines, packaged medicines (2019)<br>
 
 **Imports**<br>
-$533.478 billion (2019 est.)<br>
-$542.802 billion (2018 est.)<br>
-$505.736 billion (2017 est.)<br>
+$490.68 billion note: data are in current year dollars (2020 est.)<br>
+$552.71 billion note: data are in current year dollars (2019 est.)<br>
+$557.49 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 16%, Malaysia 11%, United States 9%, Taiwan 7%, Japan 5%, Indonesia 5% (2019)<br>

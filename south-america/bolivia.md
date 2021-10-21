@@ -61,6 +61,12 @@ _other_: 13.2% (2018 est.)<br>
 **Irrigated land**<br>
 3,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
@@ -69,12 +75,6 @@ a high altitude plain in the west between two cordillera of the Andes, known as 
 
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; shares control of Lago Titicaca, world's highest navigable lake (elevation 3,805 m), with Peru<br><br><strong>note 2:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato, while southeast Bolivia and northwest Argentina seem to be the original development site for peanuts<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 ## People and Society
 
@@ -244,14 +244,6 @@ _particulate matter emissions_: 20.24 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 21.61 megatons (2016 est.)<br>
 _methane emissions_: 21.01 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 136 million cubic meters (2017 est.)<br>
-_industrial_: 32 million cubic meters (2017 est.)<br>
-_agricultural_: 1.92 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-574 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies with altitude; humid and tropical to cold and semiarid<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 52.5% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 70.5% of total population (2021)<br>
+_rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.33% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 70.5% of total population (2021)<br>
-_rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -288,6 +280,14 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq k
 
 **Major aquifers**<br>
 Amazon Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 136 million cubic meters (2017 est.)<br>
+_industrial_: 32 million cubic meters (2017 est.)<br>
+_agricultural_: 1.92 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+574 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -396,9 +396,9 @@ _lyrics/music_: Jose Ignacio de SANJINES/Leopoldo Benedetto VINCENTI<br>
 <p>Bolivia is a resource rich country with strong growth attributed to captive markets for natural gas exports – to Brazil and Argentina. However, the country remains one of the least developed countries in Latin America because of state-oriented policies that deter investment.</p><p></p><p>Following an economic crisis during the early 1980s, reforms in the 1990s spurred private investment, stimulated economic growth, and cut poverty rates. The period 2003-05 was characterized by political instability, racial tensions, and violent protests against plans - subsequently abandoned - to export Bolivia's newly discovered natural gas reserves to large Northern Hemisphere markets. In 2005-06, the government passed hydrocarbon laws that imposed significantly higher royalties and required foreign firms then operating under risk-sharing contracts to surrender all production to the state energy company in exchange for a predetermined service fee; the laws engendered much public debate. High commodity prices between 2010 and 2014 sustained rapid growth and large trade surpluses with GDP growing 6.8% in 2013 and 5.4% in 2014. The global decline in oil prices that began in late 2014 exerted downward pressure on the price Bolivia receives for exported gas and resulted in lower GDP growth rates - 4.9% in 2015 and 4.3% in 2016 - and losses in government revenue as well as fiscal and trade deficits.</p><p></p><p>A lack of foreign investment in the key sectors of mining and hydrocarbons, along with conflict among social groups, pose challenges for the Bolivian economy. In 2015, President Evo MORALES expanded efforts to court international investment and boost Bolivia’s energy production capacity. MORALES passed an investment law and promised not to nationalize additional industries in an effort to improve the investment climate. In early 2016, the Government of Bolivia approved the 2016-2020 National Economic and Social Development Plan aimed at maintaining growth of 5% and reducing poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$100.445 billion (2019 est.)<br>
-$98.267 billion (2018 est.)<br>
-$94.285 billion (2017 est.)<br>
+$92.59 billion note: data are in 2017 dollars (2020 est.)<br>
+$100.45 billion note: data are in 2017 dollars (2019 est.)<br>
+$98.27 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -407,9 +407,9 @@ $94.285 billion (2017 est.)<br>
 4.19% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$8,724 (2019 est.)<br>
-$8,656 (2018 est.)<br>
-$8,424 (2017 est.)<br>
+$7,900 note: data are in 2017 dollars (2020 est.)<br>
+$8,700 note: data are in 2017 dollars (2019 est.)<br>
+$8,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -494,9 +494,9 @@ calendar year<br>
 -$1.932 billion (2016 est.)<br>
 
 **Exports**<br>
-$9.632 billion (2019 est.)<br>
-$9.81 billion (2018 est.)<br>
-$9.326 billion (2017 est.)<br>
+$7.55 billion note: data are in current year dollars (2020 est.)<br>
+$10.26 billion note: data are in current year dollars (2019 est.)<br>
+$10.35 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%, South Korea 5%, Peru 5%, Colombia 5% (2019)<br>
@@ -505,9 +505,9 @@ Argentina 16%, Brazil 15%, United Arab Emirates 12%, India 10%, United States 6%
 natural gas, gold, zinc, soybean oil and soy products, tin, silver, lead (2019)<br>
 
 **Imports**<br>
-$10.142 billion (2019 est.)<br>
-$9.99 billion (2018 est.)<br>
-$9.8 billion (2017 est.)<br>
+$8.27 billion note: data are in current year dollars (2020 est.)<br>
+$11.95 billion note: data are in current year dollars (2019 est.)<br>
+$12.44 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Brazil 22%, Chile 15%, China 13%, Peru 11%, Argentina 8%, United States 7% (2017)<br>
@@ -615,7 +615,7 @@ _total subscriptions_: 11,688,830<br>
 _subscriptions per 100 inhabitants_: 102.25 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>with low national GDP and remote landlocked geography, Bolivia’s telecom services are historically expensive and neglected resulting in low penetration; fixed telecom market is provided by non-profit cooperatives focused on improvement of services such as broadband and paid TV services; some operators adopted fixed-wireless technologies and fiber-optic capacity; fixed broadband services migrating from DSL to fiber remain expensive and largely unavailable in many areas; historically relied on satellite services or terrestrial links and inaugurated a new cable running via Peru to the Pacific; operator aims to increase coverage through mobile networks for voice and data access, especially to rural areas; space agency plans to boost satellite-based Internet; in 2020, communications towers in Yapacani were destroyed due to pandemic conspiracy fears; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>with low national GDP and remote landlocked geography, Bolivia’s telecom services are historically expensive and neglected resulting in low penetration; fixed telecom market is provided by non-profit cooperatives focused on improvement of services such as broadband and paid TV services; some operators adopted fixed-wireless technologies and fiber-optic capacity; fixed broadband services migrating from DSL to fiber remain expensive and largely unavailable in many areas; historically relied on satellite services or terrestrial links and inaugurated a new cable running via Peru to the Pacific; operator aims to increase coverage through mobile networks for voice and data access, especially to rural areas; space agency plans to boost satellite-based Internet; in 2020, communications towers in Yapacani were destroyed due to pandemic conspiracy fears; importer of broadcasting equipment from China</p> (2021)<br>
 _domestic_: 6 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at&nbsp;101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2019)<br>
 _international_: country code - 591; Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

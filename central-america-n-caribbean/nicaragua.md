@@ -239,14 +239,6 @@ _particulate matter emissions_: 16.87 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.59 megatons (2016 est.)<br>
 _methane emissions_: 6.46 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 286 million cubic meters (2017 est.)<br>
-_industrial_: 73.6 million cubic meters (2017 est.)<br>
-_agricultural_: 1.185 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-164.52 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical in lowlands, cooler in highlands<br>
 
@@ -258,15 +250,15 @@ _agricultural land: permanent pasture_: permanent pasture: 27.2% (2018 est.)<br>
 _forest_: 25.3% (2018 est.)<br>
 _other_: 32.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 59.3% of total population (2021)<br>
+_rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 59.3% of total population (2021)<br>
-_rate of urbanization_: 1.45% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -275,6 +267,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,528,816 tons (2010 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 286 million cubic meters (2017 est.)<br>
+_industrial_: 73.6 million cubic meters (2017 est.)<br>
+_agricultural_: 1.185 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+164.52 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: Salomon Ibarra MAYORGA/traditional, arranged by Luis Abraham DEL
 <p>Nicaragua, the poorest country in Central America and the second poorest in the Western Hemisphere, has widespread underemployment and poverty. GDP growth of 4.5% in 2017 was insufficient to make a significant difference. Textiles and agriculture combined account for nearly 50% of Nicaragua's exports. Beef, coffee, and gold are Nicaragua’s top three export commodities.</p><p></p><p>The Dominican Republic-Central America-United States Free Trade Agreement has been in effect since April 2006 and has expanded export opportunities for many Nicaraguan agricultural and manufactured goods.</p><p></p><p>In 2013, the government granted a 50-year concession with the option for an additional 50 years to a newly formed Chinese-run company to finance and build an inter-oceanic canal and related projects, at an estimated cost of $50 billion. The canal construction has not started.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.392 billion (2019 est.)<br>
-$36.82 billion (2018 est.)<br>
-$38.334 billion (2017 est.)<br>
+$34.98 billion note: data are in 2017 dollars (2020 est.)<br>
+$35.68 billion note: data are in 2017 dollars (2019 est.)<br>
+$37.05 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $38.334 billion (2017 est.)<br>
 4.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,407 (2019 est.)<br>
-$5,695 (2018 est.)<br>
-$6,004 (2017 est.)<br>
+$5,300 note: data are in 2017 dollars (2020 est.)<br>
+$5,500 note: data are in 2017 dollars (2019 est.)<br>
+$5,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,8 +476,9 @@ calendar year<br>
 -$989 million (2016 est.)<br>
 
 **Exports**<br>
-$3.819 billion (2017 est.)<br>
-$3.772 billion (2016 est.)<br>
+$5.34 billion note: data are in current year dollars (2020 est.)<br>
+$5.71 billion note: data are in current year dollars (2019 est.)<br>
+$5.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
@@ -486,8 +487,9 @@ United States 60%, El Salvador 5%, Mexico 5% (2019)<br>
 clothing and apparel, gold, insulated wiring, coffee, beef (2019)<br>
 
 **Imports**<br>
-$6.613 billion (2017 est.)<br>
-$6.384 billion (2016 est.)<br>
+$5.94 billion note: data are in current year dollars (2020 est.)<br>
+$6.25 billion note: data are in current year dollars (2019 est.)<br>
+$6.75 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 27%, Mexico 12%, China 11%, Guatemala 9%, Costa Rica 7%, El Salvador 6%, Honduras 6% (2019)<br>

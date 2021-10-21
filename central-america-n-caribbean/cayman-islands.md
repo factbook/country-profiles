@@ -215,15 +215,15 @@ _agricultural land: permanent pasture_: permanent pasture: 8.3% (2018 est.)<br>
 _forest_: 52.9% (2018 est.)<br>
 _other_: 35.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 100% of total population (2021)<br>
+_rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
-_rate of urbanization_: 1.13% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 60,000 tons (2014 est.)<br>
@@ -316,9 +316,9 @@ _lyrics/music_: Leila E. ROSS<br>
 <p>With no direct taxation, the islands are a thriving offshore financial center. More than 65,000 companies were registered in the Cayman Islands as of 2017, including more than 280 banks, 700 insurers, and 10,500 mutual funds. A stock exchange was opened in 1997. Nearly 90% of the islands' food and consumer goods must be imported. The Caymanians enjoy a standard of living comparable to that of Switzerland.</p><p></p><p>Tourism is also a mainstay, accounting for about 70% of GDP and 75% of foreign currency earnings. The tourist industry is aimed at the luxury market and caters mainly to visitors from North America. Total tourist arrivals exceeded 2.1 million in 2016, with more than three-quarters from the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.591 billion (2018 est.)<br>
+$4.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$4.61 billion note: data are in 2017 dollars (2018 est.)<br>
 $4.409 billion (2017 est.)<br>
-$2.507 billion (2014 est.)<br>
 
 **Real GDP growth rate**<br>
 1.7% (2014 est.)<br>
@@ -326,9 +326,9 @@ $2.507 billion (2014 est.)<br>
 1.6% (2012 est.)<br>
 
 **Real GDP per capita**<br>
-$71,549 (2018 est.)<br>
+$73,600 note: data are in 2017 dollars (2019 est.)<br>
+$71,800 note: data are in 2017 dollars (2018 est.)<br>
 $69,573 (2017 est.)<br>
-$43,800 (2004 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $2.25 billion (2008 est.)<br>
@@ -400,8 +400,8 @@ _expenditures_: 766.6 million (2017 est.)<br>
 -$493.5 million (2016 est.)<br>
 
 **Exports**<br>
-$421.9 million (2017 est.)<br>
-$47.6 million (2016 est.)<br>
+$4.13 billion note: data are in current year dollars (2019 est.)<br>
+$3.96 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Netherlands 82%, Spain 11% (2019)<br>
@@ -410,8 +410,8 @@ Netherlands 82%, Spain 11% (2019)<br>
 recreational boats, gold, broadcasting equipment, sulfates, collector's items (2019)<br>
 
 **Imports**<br>
-$787.3 million (2017 est.)<br>
-$810.1 million (2016 est.)<br>
+$2.7 billion note: data are in current year dollars (2019 est.)<br>
+$2.52 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Netherlands 56%, United States 18%, Italy 8%, Switzerland 5% (2019)<br>

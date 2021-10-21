@@ -244,14 +244,6 @@ _particulate matter emissions_: 23.42 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.17 megatons (2016 est.)<br>
 _methane emissions_: 4.71 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 474 million cubic meters (2017 est.)<br>
-_industrial_: 213 million cubic meters (2017 est.)<br>
-_agricultural_: 1.431 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-26.27 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (May to October); dry season (November to April); tropical on coast; temperate in uplands<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 30.7% (2018 est.)<br>
 _forest_: 13.6% (2018 est.)<br>
 _other_: 11.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 74.1% of total population (2021)<br>
+_rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.6% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 74.1% of total population (2021)<br>
-_rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -280,6 +272,14 @@ _vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,648,996 tons (2010 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 474 million cubic meters (2017 est.)<br>
+_industrial_: 213 million cubic meters (2017 est.)<br>
+_agricultural_: 1.431 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+26.27 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -385,9 +385,9 @@ _lyrics/music_: Juan Jose CANAS/Juan ABERLE<br>
 <p>The smallest country in Central America geographically, El Salvador has the fourth largest economy in the region. With the global recession, real GDP contracted in 2009 and economic growth has since remained low, averaging less than 2% from 2010 to 2014, but recovered somewhat in 2015-17 with an average annual growth rate of 2.4%. Remittances accounted for approximately 18% of GDP in 2017 and were received by about a third of all households.</p><p></p><p>In 2006, El Salvador was the first country to ratify the Dominican Republic-Central American Free Trade Agreement, which has bolstered the export of processed foods, sugar, and ethanol, and supported investment in the apparel sector amid increased Asian competition. In September 2015, El Salvador kicked off a five-year $277 million second compact with the Millennium Challenge Corporation - a US Government agency aimed at stimulating economic growth and reducing poverty - to improve El Salvador's competitiveness and productivity in international markets.</p><p></p><p>The Salvadoran Government maintained fiscal discipline during reconstruction and rebuilding following earthquakes in 2001 and hurricanes in 1998 and 2005, but El Salvador's public debt, estimated at 59.3% of GDP in 2017, has been growing over the last several years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$56.636 billion (2019 est.)<br>
-$55.318 billion (2018 est.)<br>
-$54.005 billion (2017 est.)<br>
+$52.26 billion note: data are in 2017 dollars (2020 est.)<br>
+$56.77 billion note: data are in 2017 dollars (2019 est.)<br>
+$55.31 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -396,9 +396,9 @@ $54.005 billion (2017 est.)<br>
 2.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,776 (2019 est.)<br>
-$8,616 (2018 est.)<br>
-$8,454 (2017 est.)<br>
+$8,100 note: data are in 2017 dollars (2020 est.)<br>
+$8,800 note: data are in 2017 dollars (2019 est.)<br>
+$8,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -483,8 +483,9 @@ calendar year<br>
 -$500 million (2016 est.)<br>
 
 **Exports**<br>
-$4.662 billion (2017 est.)<br>
-$5.42 billion (2016 est.)<br>
+$6.29 billion note: data are in current year dollars (2020 est.)<br>
+$7.98 billion note: data are in current year dollars (2019 est.)<br>
+$7.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
@@ -493,8 +494,9 @@ United States 40%, Guatemala 15%, Honduras 15%, Nicaragua 6% (2019)<br>
 textiles and apparel, electrical capacitors, plastic lids, raw sugar, toilet paper (2019)<br>
 
 **Imports**<br>
-$9.499 billion (2017 est.)<br>
-$8.954 billion (2016 est.)<br>
+$10.82 billion note: data are in current year dollars (2020 est.)<br>
+$12.45 billion note: data are in current year dollars (2019 est.)<br>
+$12.32 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 30%, China 14%, Guatemala 13%, Mexico 8%, Honduras 6% (2019)<br>
@@ -686,10 +688,10 @@ the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from Chile, Israel, Spain, and the US (2020)<br>
 
 **Military deployments**<br>
-170 Mali (MINUSMA) (Jan 2021)<br>
+170 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2012)<br>
+18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2019)<br>
 
 **Military - note**<br>
 as of 2021 about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security<br>

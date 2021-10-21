@@ -63,6 +63,12 @@ _other_: 12.5% (2018 est.)<br>
 **Irrigated land**<br>
 2,930 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
+
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
 
@@ -71,12 +77,6 @@ periodic droughts; flooding<br>
 
 **Geography - note**<br>
 the Niger River enters the country in the northwest and flows southward through tropical rain forests and swamps to its delta in the Gulf of Guinea<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 ## People and Society
 
@@ -253,14 +253,6 @@ _particulate matter emissions_: 48.73 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 120.37 megatons (2016 est.)<br>
 _methane emissions_: 143.99 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 5 billion cubic meters (2017 est.)<br>
-_industrial_: 1.965 billion cubic meters (2017 est.)<br>
-_agricultural_: 5.51 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-286.2 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies; equatorial in south, tropical in center, arid in north<br>
 
@@ -272,15 +264,15 @@ _agricultural land: permanent pasture_: permanent pasture: 33.3% (2018 est.)<br>
 _forest_: 9.5% (2018 est.)<br>
 _other_: 12.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 52.7% of total population (2021)<br>
+_rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 52.7% of total population (2021)<br>
-_rate of urbanization_: 3.92% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -299,10 +291,18 @@ _widespread lack of access_: due to persistent civil conflict in the northern ar
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 5 billion cubic meters (2017 est.)<br>
+_industrial_: 1.965 billion cubic meters (2017 est.)<br>
+_agricultural_: 5.51 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+286.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -405,9 +405,9 @@ _lyrics/music_: John A. ILECHUKWU, Eme Etim AKPAN, B.A. OGUNNAIKE, Sotu OMOIGUI 
 <p>Nigeria is Sub Saharan Africa’s largest economy and relies heavily on oil as its main source of foreign exchange earnings and government revenues. Following the 2008-09 global financial crises, the banking sector was effectively recapitalized and regulation enhanced. Since then, Nigeria’s economic growth has been driven by growth in agriculture, telecommunications, and services. Economic diversification and strong growth have not translated into a significant decline in poverty levels; over 62% of Nigeria's over 180 million people still live in extreme poverty.</p><p></p><p>Despite its strong fundamentals, oil-rich Nigeria has been hobbled by inadequate power supply, lack of infrastructure, delays in the passage of legislative reforms, an inefficient property registration system, restrictive trade policies, an inconsistent regulatory environment, a slow and ineffective judicial system, unreliable dispute resolution mechanisms, insecurity, and pervasive corruption. Regulatory constraints and security risks have limited new investment in oil and natural gas, and Nigeria's oil production had been contracting every year since 2012 until a slight rebound in 2017.</p><p></p><p>President BUHARI, elected in March 2015, has established a cabinet of economic ministers that includes several technocrats, and he has announced plans to increase transparency, diversify the economy away from oil, and improve fiscal management, but has taken a primarily protectionist approach that favors domestic producers at the expense of consumers. President BUHARI ran on an anti-corruption platform, and has made some headway in alleviating corruption, such as implementation of a Treasury Single Account that allows the government to better manage its resources and a more transparent government payroll and personnel system that eliminated duplicate and "ghost workers." The government also is working to develop stronger public-private partnerships for roads, agriculture, and power.</p><p></p><p>Nigeria entered recession in 2016 as a result of lower oil prices and production, exacerbated by militant attacks on oil and gas infrastructure in the Niger Delta region, coupled with detrimental economic policies, including foreign exchange restrictions. GDP growth turned positive in 2017 as oil prices recovered and output stabilized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,032,048,000,000 (2019 est.)<br>
-$1,009,748,000,000 (2018 est.)<br>
-$990.7 billion (2017 est.)<br>
+$1,013,530,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,032,050,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,009,750,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -416,9 +416,9 @@ $990.7 billion (2017 est.)<br>
 2.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,136 (2019 est.)<br>
-$5,155 (2018 est.)<br>
-$5,190 (2017 est.)<br>
+$4,900 note: data are in 2017 dollars (2020 est.)<br>
+$5,100 note: data are in 2017 dollars (2019 est.)<br>
+$5,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -501,9 +501,9 @@ $10.38 billion (2017 est.)<br>
 $2.714 billion (2016 est.)<br>
 
 **Exports**<br>
-$34.545 billion (2020 est.)<br>
-$62.531 billion (2019 est.)<br>
-$60.547 billion (2018 est.)<br>
+$39.94 billion note: data are in current year dollars (2020 est.)<br>
+$69.93 billion note: data are in current year dollars (2019 est.)<br>
+$66.04 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
@@ -512,8 +512,9 @@ India 16%, Spain 10%, United States 7%, France 7%, Netherlands 6% (2019)<br>
 crude petroleum, natural gas, scrap vessels, flexible metal tubing, cocoa beans (2019)<br>
 
 **Imports**<br>
-$32.67 billion (2017 est.)<br>
-$35.24 billion (2016 est.)<br>
+$72.18 billion note: data are in current year dollars (2020 est.)<br>
+$100.82 billion note: data are in current year dollars (2019 est.)<br>
+$71.64 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 30%, Netherlands 11%, United States 6%, Belgium 5% (2019)<br>
@@ -713,7 +714,7 @@ Nigerian Armed Forces: Army, Navy (includes Coast Guard), Air Force; Ministry of
 size estimates for the Nigerian Armed Forces vary; approximately 135,000 active personnel (100,000 Army; 20,000 Navy/Coast Guard; 15,000 Air Force); est. 80,000 Security and Civil Defense Corps (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria has been the largest arms importer in sub-Saharan Africa since 2014; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2020)<br>
+the Nigerian Armed Forces' inventory consists of a wide variety of imported weapons systems of Chinese, European, Middle Eastern, Russian (including Soviet-era), and US origin; since 2010, Nigeria has undertaken a considerable military modernization program, and has received equipment from some 20 countries with China, Russia, and the US as the leading suppliers; Nigeria has been the largest arms importer in sub-Saharan Africa since 2014; Nigeria is also developing a defense-industry capacity, including small arms, armored personnel vehicles, and small-scale naval production (2021)<br>
 
 **Military deployments**<br>
 200 Ghana (ECOMIG); MNJTF (1 brigade or approximately 3,000 troops committed; note - the national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically) (2021)<br>

@@ -241,14 +241,6 @@ _particulate matter emissions_: 16.04 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 248.29 megatons (2016 est.)<br>
 _methane emissions_: 51.51 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.342 billion cubic meters (2017 est.)<br>
-_industrial_: 1.641 billion cubic meters (2017 est.)<br>
-_agricultural_: 2.505 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-580 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; annual southwest (April to October) and northeast (October to February) monsoons<br>
 
@@ -260,15 +252,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.9% (2018 est.)<br>
 _forest_: 62% (2018 est.)<br>
 _other_: 14.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 77.7% of total population (2021)<br>
+_rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.57% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 77.7% of total population (2021)<br>
-_rate of urbanization_: 1.87% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -280,6 +272,14 @@ _water contact diseases_: leptospirosis<br>
 _municipal solid waste generated annually_: 12,982,685 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 2,271,970 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 17.5% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.342 billion cubic meters (2017 est.)<br>
+_industrial_: 1.641 billion cubic meters (2017 est.)<br>
+_agricultural_: 2.505 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+580 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -386,9 +386,9 @@ _lyrics/music_: collective, led by Tunku ABDUL RAHMAN/Pierre Jean DE BERANGER<br
 <p>Malaysia, an upper middle-income country, has transformed itself since the 1970s from a producer of raw materials into a multi-sector economy. Under current Prime Minister NAJIB, Malaysia is attempting to achieve high-income status by 2020 and to move further up the value-added production chain by attracting investments in high technology, knowledge-based industries and services. NAJIB's Economic Transformation Program is a series of projects and policy measures intended to accelerate the country's economic growth. The government has also taken steps to liberalize some services sub-sectors. Malaysia is vulnerable to a fall in world commodity prices or a general slowdown in global economic activity.</p><p></p><p>The NAJIB administration is continuing efforts to boost domestic demand and reduce the economy's dependence on exports. Domestic demand continues to anchor economic growth, supported mainly by private consumption, which accounts for 53% of GDP. Nevertheless, exports - particularly of electronics, oil and gas, and palm oil - remain a significant driver of the economy. In 2015, gross exports of goods and services were equivalent to 73% of GDP. The oil and gas sector supplied about 22% of government revenue in 2015, down significantly from prior years amid a decline in commodity prices and diversification of government revenues. Malaysia has embarked on a fiscal reform program aimed at achieving a balanced budget by 2020, including rationalization of subsidies and the 2015 introduction of a 6% value added tax. Sustained low commodity prices throughout the period not only strained government finances, but also shrunk Malaysia’s current account surplus and weighed heavily on the Malaysian ringgit, which was among the region’s worst performing currencies during 2013-17. The ringgit hit new lows following the US presidential election amid a broader selloff of emerging market assets.</p><p></p><p>Bank Negara Malaysia (the central bank) maintains adequate foreign exchange reserves; a well-developed regulatory regime has limited Malaysia's exposure to riskier financial instruments, although it remains vulnerable to volatile global capital flows. In order to increase Malaysia’s competitiveness, Prime Minister NAJIB raised possible revisions to the special economic and social preferences accorded to ethnic Malays under the New Economic Policy of 1970, but retreated in 2013 after he encountered significant opposition from Malay nationalists and other vested interests. In September 2013 NAJIB launched the new Bumiputra Economic Empowerment Program, policies that favor and advance the economic condition of ethnic Malays.</p><p></p><p>Malaysia signed the 12-nation Trans-Pacific Partnership (TPP) free trade agreement in February 2016, although the future of the TPP remains unclear following the US withdrawal from the agreement. Along with nine other ASEAN members, Malaysia established the ASEAN Economic Community in 2015, which aims to advance regional economic integration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$906.239 billion (2019 est.)<br>
-$868.853 billion (2018 est.)<br>
-$829.296 billion (2017 est.)<br>
+$855.6 billion note: data are in 2017 dollars (2020 est.)<br>
+$906.24 billion note: data are in 2017 dollars (2019 est.)<br>
+$868.85 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $829.296 billion (2017 est.)<br>
 5.81% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$28,364 (2019 est.)<br>
-$27,558 (2018 est.)<br>
-$26,661 (2017 est.)<br>
+$26,400 note: data are in 2017 dollars (2020 est.)<br>
+$28,400 note: data are in 2017 dollars (2019 est.)<br>
+$27,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -484,9 +484,9 @@ $12.295 billion (2019 est.)<br>
 $8.027 billion (2018 est.)<br>
 
 **Exports**<br>
-$265.499 billion (2019 est.)<br>
-$268.915 billion (2018 est.)<br>
-$263.815 billion (2017 est.)<br>
+$207.37 billion note: data are in current year dollars (2020 est.)<br>
+$237.83 billion note: data are in current year dollars (2019 est.)<br>
+$245.89 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5% (2019)<br>
@@ -495,9 +495,9 @@ Singapore 13%, China 13%, United States 11%, Hong Kong 6%, Japan 6%, Thailand 5%
 integrated circuits, refined petroleum, natural gas, semiconductors, palm oil (2019)<br>
 
 **Imports**<br>
-$233.719 billion (2019 est.)<br>
-$239.643 billion (2018 est.)<br>
-$236.129 billion (2017 est.)<br>
+$185.59 billion note: data are in current year dollars (2020 est.)<br>
+$210.68 billion note: data are in current year dollars (2019 est.)<br>
+$221.83 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 24%, Singapore 14%, Japan 6%, United States 6%, Taiwan 5%, Thailand 5% (2019)<br>
@@ -718,7 +718,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Jemaah Islamiyah (JI); Abu Sayyaf Gro
 <p>while the 2002 "Declaration on the Conduct of Parties in the South China Sea" has eased tensions over the Spratly Islands, it is not the legally binding "code of conduct" sought by some parties, which is currently being negotiated between China and ASEAN; Malaysia was not party to the March 2005 joint accord among the national oil companies of China, the Philippines, and Vietnam on conducting marine seismic activities in the Spratly Islands; disputes continue over deliveries of fresh water to Singapore, Singapore's land reclamation, bridge construction, and maritime boundaries in the Johor and Singapore Straits; in 2008, ICJ awarded sovereignty of Pedra Branca (Pulau Batu Puteh/Horsburgh Island) to Singapore, and Middle Rocks to Malaysia, but did not rule on maritime regimes, boundaries, or disposition of South Ledge; land and maritime negotiations with Indonesia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; separatist violence in Thailand's predominantly Muslim southern provinces prompts measures to close and monitor border with Malaysia to stem terrorist activities; Philippines retains a dormant claim to Malaysia's Sabah State in northern Borneo; per Letters of Exchange signed in 2009, Malaysia in 2010 ceded two hydrocarbon concession blocks to Brunei in exchange for Brunei's sultan dropping claims to the Limbang corridor, which divides Brunei; piracy remains a problem in the Malacca Strait</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 119,230 (Burma) (2019)<br>
+_refugees (country of origin)_: 119,579 (Burma) (2020)<br>
 _stateless persons_: 111,298 (2020); note - Malaysia's stateless population consists of Rohingya refugees from Burma, ethnic Indians, and the children of Filipino and Indonesian illegal migrants; Burma stripped the Rohingya of their nationality in 1982; Filipino and Indonesian children who have not been registered for birth certificates by their parents or who received birth certificates stamped "foreigner" are not eligible to attend government schools; these children are vulnerable to statelessness should they not be able to apply to their parents' country of origin for passports<br>
 
 **Trafficking in persons**<br>

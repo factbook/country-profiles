@@ -61,6 +61,12 @@ _other_: 45.8% (2018 est.)<br>
 **Irrigated land**<br>
 13,320 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
 
@@ -240,14 +246,6 @@ _particulate matter emissions_: 94.33 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9.11 megatons (2016 est.)<br>
 _methane emissions_: 41.15 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 147.6 million cubic meters (2017 est.)<br>
-_industrial_: 29.5 million cubic meters (2017 est.)<br>
-_agricultural_: 9.32 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-210.2 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from cool summers and severe winters in north to subtropical summers and mild winters in south<br>
 
@@ -259,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 12.5% (2018 est.)<br>
 _forest_: 25.4% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 21% of total population (2021)<br>
+_rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.45% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 21% of total population (2021)<br>
-_rate of urbanization_: 3.09% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -276,6 +274,20 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 147.6 million cubic meters (2017 est.)<br>
+_industrial_: 29.5 million cubic meters (2017 est.)<br>
+_agricultural_: 9.32 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+210.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -380,9 +392,9 @@ _lyrics/music_: Pradeep Kumar RAI/Ambar GURUNG<br>
 <p>Nepal is among the least developed countries in the world, with about one-quarter of its population living below the poverty line. Nepal is heavily dependent on remittances, which amount to as much as 30% of GDP. Agriculture is the mainstay of the economy, providing a livelihood for almost two-thirds of the population but accounting for less than a third of GDP. Industrial activity mainly involves the processing of agricultural products, including pulses, jute, sugarcane, tobacco, and grain.</p><p></p><p>Nepal has considerable scope for exploiting its potential in hydropower, with an estimated 42,000 MW of commercially feasible capacity. Nepal has signed trade and investment agreements with India, China, and other countries, but political uncertainty and a difficult business climate have hampered foreign investment. The United States and Nepal signed a $500 million Millennium Challenge Corporation Compact in September 2017 which will expand Nepal’s electricity infrastructure and help maintain transportation infrastructure.</p><p></p><p>Massive earthquakes struck Nepal in early 2015, which damaged or destroyed infrastructure and homes and set back economic development. Although political gridlock and lack of capacity have hindered post-earthquake recovery, government-led reconstruction efforts have progressively picked up speed, although many hard hit areas still have seen little assistance. Additional challenges to Nepal's growth include its landlocked geographic location, inconsistent electricity supply, and underdeveloped transportation infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$97.749 billion (2019 est.)<br>
-$91.362 billion (2018 est.)<br>
-$85.624 billion (2017 est.)<br>
+$110.72 billion note: data are in 2017 dollars (2020 est.)<br>
+$113.08 billion note: data are in 2017 dollars (2019 est.)<br>
+$106.03 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -391,9 +403,9 @@ $85.624 billion (2017 est.)<br>
 3.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,417 (2019 est.)<br>
-$3,253 (2018 est.)<br>
-$3,099 (2017 est.)<br>
+$3,800 note: data are in 2017 dollars (2020 est.)<br>
+$4,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -471,8 +483,9 @@ _expenditures_: 5.945 billion (2017 est.)<br>
 $1.339 billion (2016 est.)<br>
 
 **Exports**<br>
-$818.7 million (2017 est.)<br>
-$761.6 million (2016 est.)<br>
+$1.79 billion note: data are in current year dollars (2020 est.)<br>
+$2.73 billion note: data are in current year dollars (2019 est.)<br>
+$2.68 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 68%, United States 10% (2019)<br>
@@ -481,8 +494,9 @@ India 68%, United States 10% (2019)<br>
 palm oil, clothing and apparel, carpets, soybean oil, flavored water (2019)<br>
 
 **Imports**<br>
-$10 billion (2017 est.)<br>
-$8.764 billion (2016 est.)<br>
+$10.68 billion note: data are in current year dollars (2020 est.)<br>
+$13.83 billion note: data are in current year dollars (2019 est.)<br>
+$14.65 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 India 70%, China 15% (2019)<br>
@@ -684,7 +698,7 @@ Indian Mujahedeen (2019)<br>
 <p>joint border commission continues to work on contested sections of boundary with India, including the 400 sq km dispute over the source of the Kalapani River; India has instituted a stricter border regime to restrict transit of illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,540 (Tibet/China), 6,396 (Bhutan) (2019)<br>
+_refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (2020)<br>
 _stateless persons_: undetermined (2016); note - the UNHCR is working with the Nepali Government to address the large number of individuals lacking citizenship certificates in Nepal; smaller numbers of Bhutanese Hindu refugees of Nepali origin (the Lhotshampa) who were stripped of Bhutanese nationality and forced to flee their country in the late 1980s and early 1990s - and undocumented Tibetan refugees who arrived in Nepal prior to the 1990s - are considered stateless<br>
 
 **Illicit drugs**<br>

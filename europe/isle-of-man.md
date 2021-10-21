@@ -196,12 +196,12 @@ _agricultural land: permanent pasture_: permanent pasture: 30.9% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 19.2% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2017 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 53.1% of total population (2021)<br>
 _rate of urbanization_: 0.97% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2017 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 50,551 tons (2011 est.)<br>
@@ -253,10 +253,10 @@ see United Kingdom<br>
 
 **Executive branch**<br>
 _chief of state_: Lord of Mann Queen ELIZABETH II (since 6 February 1952); represented by Lieutenant Governor Sir John LORIMER (since 29 September 2021)<br>
-_head of government_: Chief Minister Howard QUAYLE (since 4 October 2016)<br>
+_head of government_: Chief Minister Alfred CANNAN (since 12 October 2021)<br>
 _cabinet_: Council of Ministers appointed by the lieutenant governor<br>
-_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 4 October 2016 (next to be held in 2021)<br>
-_election results_: Howard QUAYLE (independent) elected chief minister; Tynwald vote - 21 of 33<br>
+_elections/appointments_: the monarchy is hereditary; lieutenant governor appointed by the monarch; chief minister indirectly elected by the Tynwald for a 5-year term (eligible for second term); election last held on 23 September 2021<br>
+_election results_: Alfred CANNAN (independent) elected chief minister; Tynwald House of Keys vote - 21 of 24<br>
 
 **Legislative branch**<br>
 _description_: bicameral Tynwald or the High Court of Tynwald consists of:<br>Legislative Council (11 seats; includes the President of Tynwald, 2 ex-officio members - the Lord Bishop of Sodor and Man and the attorney general (non-voting) - and 8 members indirectly elected by the House of Keys with renewal of 4 members every 2 years; elected members serve 4-year terms) <br>House of Keys (24 seats; 2 members directly elected by simple majority vote from 12 constituencies to serve 5-year terms)<br>

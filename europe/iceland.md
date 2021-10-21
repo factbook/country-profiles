@@ -230,14 +230,6 @@ _particulate matter emissions_: 5.94 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.06 megatons (2016 est.)<br>
 _methane emissions_: 0.59 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 80 million cubic meters (2017 est.)<br>
-_industrial_: 198 million cubic meters (2017 est.)<br>
-_agricultural_: 300,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-170 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; moderated by North Atlantic Current; mild, windy winters; damp, cool summers<br>
 
@@ -249,20 +241,28 @@ _agricultural land: permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
 _forest_: 0.3% (2018 est.)<br>
 _other_: 81% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 93.9% of total population (2021)<br>
+_rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 93.9% of total population (2021)<br>
-_rate of urbanization_: 0.74% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 525,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 293,003 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 55.8% (2013 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 80 million cubic meters (2017 est.)<br>
+_industrial_: 198 million cubic meters (2017 est.)<br>
+_agricultural_: 300,000 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+170 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -366,9 +366,9 @@ _lyrics/music_: Matthias JOCHUMSSON/Sveinbjorn SVEINBJORNSSON<br>
 <p>Iceland's economy combines a capitalist structure and free-market principles with an extensive welfare system. Except for a brief period during the 2008 crisis, Iceland has in recent years achieved high growth, low unemployment, and a remarkably even distribution of income. Iceland's economy has been diversifying into manufacturing and service industries in the last decade, particularly within the fields of tourism, software production, and biotechnology. Abundant geothermal and hydropower sources have attracted substantial foreign investment in the aluminum sector, boosted economic growth, and sparked some interest from high-tech firms looking to establish data centers using cheap green energy.</p><p></p><p>Tourism, aluminum smelting, and fishing are the pillars of the economy. For decades the Icelandic economy depended heavily on fisheries, but tourism has now surpassed fishing and aluminum as Iceland’s main export industry. Tourism accounted for 8.6% of Iceland’s GDP in 2016, and 39% of total exports of merchandise and services. From 2010 to 2017, the number of tourists visiting Iceland increased by nearly 400%. Since 2010, tourism has become a main driver of Icelandic economic growth, with the number of tourists reaching 4.5 times the Icelandic population in 2016. Iceland remains sensitive to fluctuations in world prices for its main exports, and to fluctuations in the exchange rate of the Icelandic Krona.</p><p></p><p>Following the privatization of the banking sector in the early 2000s, domestic banks expanded aggressively in foreign markets, and consumers and businesses borrowed heavily in foreign currencies. Worsening global financial conditions throughout 2008 resulted in a sharp depreciation of the krona vis-a-vis other major currencies. The foreign exposure of Icelandic banks, whose loans and other assets totaled nearly nine times the country's GDP, became unsustainable. Iceland's three largest banks collapsed in late 2008. GDP fell 6.8% in 2009, and unemployment peaked at 9.4% in February 2009. Three new banks were established to take over the domestic assets of the collapsed banks. Two of them have majority ownership by the state, which intends to re-privatize them.</p><p></p><p>Since the collapse of Iceland's financial sector, government economic priorities have included stabilizing the krona, implementing capital controls, reducing Iceland's high budget deficit, containing inflation, addressing high household debt, restructuring the financial sector, and diversifying the economy. Capital controls were lifted in March 2017, but some financial protections, such as reserve requirements for specified investments connected to new inflows of foreign currency, remain in place.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$20.187 billion (2019 est.)<br>
-$19.807 billion (2018 est.)<br>
-$19.08 billion (2017 est.)<br>
+$19.16 billion note: data are in 2017 dollars (2020 est.)<br>
+$20.52 billion note: data are in 2017 dollars (2019 est.)<br>
+$20.01 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -377,9 +377,9 @@ $19.08 billion (2017 est.)<br>
 4.57% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$55,874 (2019 est.)<br>
-$56,158 (2018 est.)<br>
-$55,562 (2017 est.)<br>
+$52,300 note: data are in 2017 dollars (2020 est.)<br>
+$56,900 note: data are in 2017 dollars (2019 est.)<br>
+$56,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -462,9 +462,9 @@ $1.496 billion (2019 est.)<br>
 $814 million (2018 est.)<br>
 
 **Exports**<br>
-$10.415 billion (2019 est.)<br>
-$10.923 billion (2018 est.)<br>
-$10.742 billion (2017 est.)<br>
+$7.43 billion note: data are in current year dollars (2020 est.)<br>
+$11.01 billion note: data are in current year dollars (2019 est.)<br>
+$12.26 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, France 7%, Canada 5% (2019)<br>
@@ -473,9 +473,9 @@ Netherlands 23%, United Kingdom 9%, Germany 9%, Spain 8%, United States 7%, Fran
 aluminum and aluminum products, fish products, aircraft, iron alloys, animal meal (2019)<br>
 
 **Imports**<br>
-$9.399 billion (2019 est.)<br>
-$10.364 billion (2018 est.)<br>
-$10.314 billion (2017 est.)<br>
+$7.55 billion note: data are in current year dollars (2020 est.)<br>
+$9.76 billion note: data are in current year dollars (2019 est.)<br>
+$11.34 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Norway 11%, Netherlands 10%, Germany 8%, Denmark 8%, United States 7%, United Kingdom 6%, China 6%, Sweden 5% (2019)<br>
@@ -647,7 +647,7 @@ no regular military forces; Ministry of Interior: Icelandic Coast Guard (include
 the Icelandic Coast Guard has approximately 250 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Icelandic Coast Guard's inventory consists of equipment from European suppliers (2020)<br>
+the Icelandic Coast Guard's inventory consists of equipment from European suppliers (2021)<br>
 
 **Military - note**<br>
 Iceland was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949; Iceland is the only NATO member that has no standing military force; defense of Iceland remains a NATO commitment and NATO maintains an air policing presence in Icelandic airspace; Iceland participates in international peacekeeping missions with the civilian-manned Icelandic Crisis Response Unit (ICRU)<br> <p>Iceland cooperates with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> <p> </p><br>

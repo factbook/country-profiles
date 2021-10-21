@@ -60,6 +60,9 @@ _other_: 29.7% (2018 est.)<br>
 **Irrigated land**<br>
 42,150 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
 
@@ -68,9 +71,6 @@ earthquakes; floods; landslides or mudslides; avalanches; droughts<br>
 
 **Geography - note**<br>
 along with Liechtenstein, one of the only two doubly landlocked countries in the world<br>
-
-**Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 ## People and Society
 
@@ -231,14 +231,6 @@ _particulate matter emissions_: 25.29 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 91.81 megatons (2016 est.)<br>
 _methane emissions_: 96.16 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.41 billion cubic meters (2017 est.)<br>
-_industrial_: 2.13 billion cubic meters (2017 est.)<br>
-_agricultural_: 54.36 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-48.87 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east<br>
 
@@ -250,21 +242,29 @@ _agricultural land: permanent pasture_: permanent pasture: 51.7% (2018 est.)<br>
 _forest_: 7.7% (2018 est.)<br>
 _other_: 29.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 50.4% of total population (2021)<br>
+_rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.06% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 50.4% of total population (2021)<br>
-_rate of urbanization_: 1.25% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.41 billion cubic meters (2017 est.)<br>
+_industrial_: 2.13 billion cubic meters (2017 est.)<br>
+_agricultural_: 54.36 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+48.87 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -371,9 +371,9 @@ _lyrics/music_: Abdulla ARIPOV/Mutal BURHANOV<br>
 <p>Uzbekistan is a doubly landlocked country in which 51% of the population lives in urban settlements; the agriculture-rich Fergana Valley, in which Uzbekistan’s eastern borders are situated, has been counted among the most densely populated parts of Central Asia. Since its independence in September 1991, the government has largely maintained its Soviet-style command economy with subsidies and tight controls on production, prices, and access to foreign currency. Despite ongoing efforts to diversify crops, Uzbek agriculture remains largely centered on cotton; Uzbekistan is the world's fifth-largest cotton exporter and seventh-largest producer. Uzbekistan's growth has been driven primarily by state-led investments, and export of natural gas, gold, and cotton provides a significant share of foreign exchange earnings.</p><p></p><p>Recently, lower global commodity prices and economic slowdowns in neighboring Russia and China have hurt Uzbekistan's trade and investment and worsened its foreign currency shortage. Aware of the need to improve the investment climate, the government is taking incremental steps to reform the business sector and address impediments to foreign investment in the country. Since the death of first President Islam KARIMOV and election of President Shavkat MIRZIYOYEV, emphasis on such initiatives and government efforts to improve the private sector have increased. In the past, Uzbek authorities accused US and other foreign companies operating in Uzbekistan of violating Uzbek laws and have frozen and seized their assets.</p><p></p><p>As a part of its economic reform efforts, the Uzbek Government is looking to expand opportunities for small and medium enterprises and prioritizes increasing foreign direct investment. In September 2017, the government devalued the official currency rate by almost 50% and announced the loosening of currency restrictions to eliminate the currency black market, increase access to hard currency, and boost investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$235.021 billion (2019 est.)<br>
-$222.634 billion (2018 est.)<br>
-$211.134 billion (2017 est.)<br>
+$239.42 billion note: data are in 2017 dollars (2020 est.)<br>
+$235.54 billion note: data are in 2017 dollars (2019 est.)<br>
+$222.63 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -382,9 +382,9 @@ $211.134 billion (2017 est.)<br>
 7.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,999 (2019 est.)<br>
-$6,755 (2018 est.)<br>
-$6,519 (2017 est.)<br>
+$7,000 note: data are in 2017 dollars (2020 est.)<br>
+$7,000 note: data are in 2017 dollars (2019 est.)<br>
+$6,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -468,8 +468,9 @@ $1.713 billion (2017 est.)<br>
 $384 million (2016 est.)<br>
 
 **Exports**<br>
-$11.48 billion (2017 est.)<br>
-$11.2 billion (2016 est.)<br>
+$14.52 billion note: data are in current year dollars (2020 est.)<br>
+$16.99 billion note: data are in current year dollars (2019 est.)<br>
+$14.14 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turkey 8%, Kyrgyzstan 5% (2019)<br>
@@ -478,8 +479,9 @@ Switzerland 19%, United Kingdom 17%, Russia 15%, China 14%, Kazakhstan 9%, Turke
 gold, natural gas, cotton fibers, copper, ethylene polymers (2019)<br>
 
 **Imports**<br>
-$11.42 billion (2017 est.)<br>
-$10.92 billion (2016 est.)<br>
+$22.56 billion note: data are in current year dollars (2020 est.)<br>
+$26.55 billion note: data are in current year dollars (2019 est.)<br>
+$23.44 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 23%, Russia 18%, South Korea 11%, Kazakhstan 9%, Turkey 6%, Germany 5% (2019)<br>

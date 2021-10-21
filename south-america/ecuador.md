@@ -66,6 +66,9 @@ _other_: 31.4% (2018 est.)<br>
 **Irrigated land**<br>
 15,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
 **Population distribution**<br>
 nearly half of the population is concentrated in the interior in the Andean intermontane basins and valleys, with large concentrations also found along the western coastal strip; the rainforests of the east remain sparsely populated<br>
 
@@ -244,14 +247,6 @@ _particulate matter emissions_: 14.91 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 41.15 megatons (2016 est.)<br>
 _methane emissions_: 23.51 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.293 billion cubic meters (2017 est.)<br>
-_industrial_: 549 million cubic meters (2017 est.)<br>
-_agricultural_: 8.076 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-442.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical along coast, becoming cooler inland at higher elevations; tropical in Amazonian jungle lowlands<br>
 
@@ -263,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 19.4% (2018 est.)<br>
 _forest_: 38.9% (2018 est.)<br>
 _other_: 31.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 64.4% of total population (2021)<br>
+_rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 64.4% of total population (2021)<br>
-_rate of urbanization_: 1.62% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -282,6 +277,17 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 5,297,211 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 683,340 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 12.9% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.293 billion cubic meters (2017 est.)<br>
+_industrial_: 549 million cubic meters (2017 est.)<br>
+_agricultural_: 8.076 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+442.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -387,9 +393,9 @@ _lyrics/music_: Juan Leon MERA/Antonio NEUMANE<br>
 <p>Ecuador is substantially dependent on its petroleum resources, which accounted for about a third of the country's export earnings in 2017. Remittances from overseas Ecuadorian are also important.</p><p></p><p>In 1999/2000, Ecuador's economy suffered from a banking crisis that lead to some reforms, including adoption of the US dollar as legal tender. Dollarization stabilized the economy, and positive growth returned in most of the years that followed. China has become Ecuador's largest foreign lender since 2008 and now accounts for 77.7% of the Ecuador’s bilateral debt. Various economic policies under the CORREA administration, such as an announcement in 2017 that Ecuador would terminate 13 bilateral investment treaties - including one with the US, generated economic uncertainty and discouraged private investment.</p><p></p><p>Faced with a 2013 trade deficit of $1.1 billion, Ecuador imposed tariff surcharges from 5% to 45% on an estimated 32% of imports. Ecuador’s economy fell into recession in 2015 and remained in recession in 2016. Declining oil prices and exports forced the CORREA administration to cut government oulays. Foreign investment in Ecuador is low as a result of the unstable regulatory environment and weak rule of law.</p><p></p><p>n April of 2017, Lenin MORENO was elected President of Ecuador by popular vote. His immediate challenge was to reengage the private sector to improve cash flow in the country. Ecuador’s economy returned to positive, but sluggish, growth. In early 2018, the MORENO administration held a public referendum on seven economic and political issues in a move counter to CORREA-administration policies, reduce corruption, strengthen democracy, and revive employment and the economy. The referendum resulted in repeal of taxes associated with recovery from the earthquake of 2016, reduced restrictions on metal mining in the Yasuni Intangible Zone - a protected area, and several political reforms.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$197.631 billion (2019 est.)<br>
-$197.525 billion (2018 est.)<br>
-$195.01 billion (2017 est.)<br>
+$182.24 billion note: data are in 2017 dollars (2020 est.)<br>
+$197.55 billion note: data are in 2017 dollars (2019 est.)<br>
+$197.53 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -398,9 +404,9 @@ $195.01 billion (2017 est.)<br>
 2.37% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$11,375 (2019 est.)<br>
-$11,562 (2018 est.)<br>
-$11,618 (2017 est.)<br>
+$10,300 note: data are in 2017 dollars (2020 est.)<br>
+$11,400 note: data are in 2017 dollars (2019 est.)<br>
+$11,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,9 +492,9 @@ calendar year<br>
 -$1.328 billion (2018 est.)<br>
 
 **Exports**<br>
-$25.446 billion (2019 est.)<br>
-$24.183 billion (2018 est.)<br>
-$23.907 billion (2017 est.)<br>
+$22.23 billion note: data are in current year dollars (2020 est.)<br>
+$26.12 billion note: data are in current year dollars (2019 est.)<br>
+$25.38 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
@@ -497,9 +503,9 @@ United States 30%, China 13%, Panama 8%, Chile 7% (2019)<br>
 crude petroleum, crustaceans, bananas, fish, refined petroleum (2019)<br>
 
 **Imports**<br>
-$26.096 billion (2019 est.)<br>
-$25.677 billion (2018 est.)<br>
-$24.594 billion (2017 est.)<br>
+$19.89 billion note: data are in current year dollars (2020 est.)<br>
+$25.89 billion note: data are in current year dollars (2019 est.)<br>
+$26.29 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 22%, China 18%, Colombia 9%, Panama 5% (2019)<br>

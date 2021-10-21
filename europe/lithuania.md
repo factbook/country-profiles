@@ -237,14 +237,6 @@ _particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 12.96 megatons (2016 est.)<br>
 _methane emissions_: 3.15 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 130.4 million cubic meters (2017 est.)<br>
-_industrial_: 69.7 million cubic meters (2017 est.)<br>
-_agricultural_: 58.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-24.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 transitional, between maritime and continental; wet, moderate winters and summers<br>
 
@@ -256,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 9.4% (2018 est.)<br>
 _forest_: 34.6% (2018 est.)<br>
 _other_: 20.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 68.2% of total population (2021)<br>
+_rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.31% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 68.2% of total population (2021)<br>
-_rate of urbanization_: -0.12% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -274,6 +266,14 @@ _vectorborne diseases_: tickborne encephalitis<br>
 _municipal solid waste generated annually_: 1.3 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 130.4 million cubic meters (2017 est.)<br>
+_industrial_: 69.7 million cubic meters (2017 est.)<br>
+_agricultural_: 58.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+24.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -379,9 +379,9 @@ _lyrics/music_: Vincas KUDIRKA<br>
 <p>After the country declared independence from the Soviet Union in 1990, Lithuania faced an initial dislocation that is typical during transitions from a planned economy to a free-market economy. Macroeconomic stabilization policies, including privatization of most state-owned enterprises, and a strong commitment to a currency board arrangement led to an open and rapidly growing economy and rising consumer demand. Foreign investment and EU funding aided in the transition. Lithuania joined the WTO in May 2001, the EU in May 2004, and the euro zone in January 2015, and is now working to complete the OECD accession roadmap it received in July 2015. In 2017, joined the OECD Working Group on Bribery, an important step in the OECD accession process.</p><p></p><p>The Lithuanian economy was severely hit by the 2008-09 global financial crisis, but it has rebounded and become one of the fastest growing in the EU. Increases in exports, investment, and wage growth that supported consumption helped the economy grow by 3.6% in 2017. In 2015, Russia was Lithuania’s largest trading partner, followed by Poland, Germany, and Latvia; goods and services trade between the US and Lithuania totaled $2.2 billion. Lithuania opened a self-financed liquefied natural gas terminal in January 2015, providing the first non-Russian supply of natural gas to the Baltic States and reducing Lithuania’s dependence on Russian gas from 100% to approximately 30% in 2016.</p><p></p><p>Lithuania’s ongoing recovery hinges on improving the business environment, especially by liberalizing labor laws, and improving competitiveness and export growth, the latter hampered by economic slowdowns in the EU and Russia. In addition, a steady outflow of young and highly educated people is causing a shortage of skilled labor, which, combined with a rapidly aging population, could stress public finances and constrain long-term growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$103.756 billion (2019 est.)<br>
-$99.442 billion (2018 est.)<br>
-$95.675 billion (2017 est.)<br>
+$102.66 billion note: data are in 2017 dollars (2020 est.)<br>
+$103.56 billion note: data are in 2017 dollars (2019 est.)<br>
+$99.25 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -390,9 +390,9 @@ $95.675 billion (2017 est.)<br>
 4.37% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$37,231 (2019 est.)<br>
-$35,496 (2018 est.)<br>
-$33,827 (2017 est.)<br>
+$36,700 note: data are in 2017 dollars (2020 est.)<br>
+$37,100 note: data are in 2017 dollars (2019 est.)<br>
+$35,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,9 +476,9 @@ $1.817 billion (2019 est.)<br>
 $131 million (2018 est.)<br>
 
 **Exports**<br>
-$45.358 billion (2019 est.)<br>
-$41.433 billion (2018 est.)<br>
-$38.763 billion (2017 est.)<br>
+$41.48 billion note: data are in current year dollars (2020 est.)<br>
+$42.3 billion note: data are in current year dollars (2019 est.)<br>
+$40.36 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
@@ -487,9 +487,9 @@ Russia 13%, Latvia 9%, Poland 8%, Germany 7%, Estonia 5% (2019)<br>
 refined petroleum, furniture, cigarettes, wheat, polyethylene (2019)<br>
 
 **Imports**<br>
-$43.733 billion (2019 est.)<br>
-$41.131 billion (2018 est.)<br>
-$38.745 billion (2017 est.)<br>
+$36.06 billion note: data are in current year dollars (2020 est.)<br>
+$39.46 billion note: data are in current year dollars (2019 est.)<br>
+$39.38 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Poland 12%, Russia 12%, Germany 12%, Latvia 7%, Netherlands 5% (2019)<br>

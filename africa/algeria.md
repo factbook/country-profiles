@@ -63,6 +63,12 @@ _other_: 81.8% (2018 est.)<br>
 **Irrigated land**<br>
 13,600 sq km (2014)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
+
 **Population distribution**<br>
 the vast majority of the populace is found in the extreme northern part of the country along the Mediterranean Coast as shown in this population distribution map<br>
 
@@ -71,12 +77,6 @@ mountainous areas subject to severe earthquakes; mudslides and floods in rainy s
 
 **Geography - note**<br>
 largest country in Africa but 80% desert; canyons and caves in the southern Hoggar Mountains and in the barren Tassili n'Ajjer area in the southeast of the country contain numerous examples of prehistoric art - rock paintings and carvings depicting human activities and wild and domestic animals (elephants, giraffes, cattle) - that date to the African Humid Period, roughly 11,000 to 5,000 years ago, when the region was completely vegetated<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 35.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 150.01 megatons (2016 est.)<br>
 _methane emissions_: 49.94 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 3.6 billion cubic meters (2017 est.)<br>
-_industrial_: 191 million cubic meters (2017 est.)<br>
-_agricultural_: 6.671 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-11.667 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 arid to semiarid; mild, wet winters with hot, dry summers along coast; drier with cold winters and hot summers on high plateau; sirocco is a hot, dust/sand-laden wind especially common in summer<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 13.8% (2018 est.)<br>
 _forest_: 0.8% (2018 est.)<br>
 _other_: 81.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 74.3% of total population (2021)<br>
+_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 74.3% of total population (2021)<br>
-_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 12,378,740 tons (2016 est.)<br>
@@ -277,10 +269,18 @@ _municipal solid waste recycled annually_: 990,299 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2013 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lullemeden-Irhazer Aquifer System, Murzuk-Djado Basin, North Western Sahara Aquifer, Taoudeni-Tanezrouft Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 3.6 billion cubic meters (2017 est.)<br>
+_industrial_: 191 million cubic meters (2017 est.)<br>
+_agricultural_: 6.671 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+11.667 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -385,9 +385,9 @@ _lyrics/music_: Mufdi ZAKARIAH/Mohamed FAWZI<br>
 <p>Algeria's economy remains dominated by the state, a legacy of the country's socialist post-independence development model. In recent years the Algerian Government has halted the privatization of state-owned industries and imposed restrictions on imports and foreign involvement in its economy, pursuing an explicit import substitution policy.</p><p></p><p>Hydrocarbons have long been the backbone of the economy, accounting for roughly 30% of GDP, 60% of budget revenues, and nearly 95% of export earnings. Algeria has the 10th-largest reserves of natural gas in the world - including the 3rd-largest reserves of shale gas - and is the 6th-largest gas exporter. It ranks 16th in proven oil reserves. Hydrocarbon exports enabled Algeria to maintain macroeconomic stability, amass large foreign currency reserves, and maintain low external debt while global oil prices were high. With lower oil prices since 2014, Algeria’s foreign exchange reserves have declined by more than half and its oil stabilization fund has decreased from about $20 billion at the end of 2013 to about $7 billion in 2017, which is the statutory minimum.</p><p></p><p>Declining oil prices have also reduced the government’s ability to use state-driven growth to distribute rents and fund generous public subsidies, and the government has been under pressure to reduce spending. Over the past three years, the government has enacted incremental increases in some taxes, resulting in modest increases in prices for gasoline, cigarettes, alcohol, and certain imported goods, but it has refrained from reducing subsidies, particularly for education, healthcare, and housing programs.</p><p></p><p>Algiers has increased protectionist measures since 2015 to limit its import bill and encourage domestic production of non-oil and gas industries. Since 2015, the government has imposed additional restrictions on access to foreign exchange for imports, and import quotas for specific products, such as cars. In January 2018 the government imposed an indefinite suspension on the importation of roughly 850 products, subject to periodic review.</p><p></p><p>President BOUTEFLIKA announced in fall 2017 that Algeria intends to develop its non-conventional energy resources. Algeria has struggled to develop non-hydrocarbon industries because of heavy regulation and an emphasis on state-driven growth. Algeria has not increased non-hydrocarbon exports, and hydrocarbon exports have declined because of field depletion and increased domestic demand.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$495.564 billion (2019 est.)<br>
-$491.631 billion (2018 est.)<br>
-$485.801 billion (2017 est.)<br>
+$468.4 billion note: data are in 2017 dollars (2020 est.)<br>
+$495.56 billion note: data are in 2017 dollars (2019 est.)<br>
+$491.63 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -396,9 +396,9 @@ $485.801 billion (2017 est.)<br>
 3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,511 (2019 est.)<br>
-$11,642 (2018 est.)<br>
-$11,737 (2017 est.)<br>
+$10,700 note: data are in 2017 dollars (2020 est.)<br>
+$11,500 note: data are in 2017 dollars (2019 est.)<br>
+$11,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,8 +476,8 @@ calendar year<br>
 -$26.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$34.37 billion (2017 est.)<br>
-$29.06 billion (2016 est.)<br>
+$38.32 billion note: data are in current year dollars (2019 est.)<br>
+$44.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%, South Korea 5% (2019)<br>
@@ -486,8 +486,8 @@ Italy 13%, France 13%, Spain 12%, United States 7%, United Kingdom 7%, India 5%,
 crude petroleum, natural gas, refined petroleum, fertilizers, ammonia (2019)<br>
 
 **Imports**<br>
-$48.54 billion (2017 est.)<br>
-$49.43 billion (2016 est.)<br>
+$54.26 billion note: data are in current year dollars (2019 est.)<br>
+$60.05 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, France 14%, Italy 8%, Spain 8%, Germany 5%, Turkey 5% (2019)<br>
@@ -595,7 +595,7 @@ _total subscriptions_: 47,081,131<br>
 _subscriptions per 100 inhabitants_: 111.29 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Algeria has a steadily developing telecom infrastructure through sound regulatory measures and government policies aimed at providing Internet connections across the country, including underserved areas; mobile penetration and LTE services are growing steadily; in common with other markets in the region, mobile connections account for the vast majority of Internet accesses; well served by satellite and submarine cable connections; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>Algeria has a steadily developing telecom infrastructure through sound regulatory measures and government policies aimed at providing Internet connections across the country, including underserved areas; mobile penetration and LTE services are growing steadily; in common with other markets in the region, mobile connections account for the vast majority of Internet accesses; well served by satellite and submarine cable connections; importer of broadcasting equipment from China </p> (2021)<br>
 _domestic_: a limited network of fixed-lines with a teledensity of less than 11 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was roughly 109 telephones per 100 persons (2019)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -703,7 +703,7 @@ al-Qa'ida in the Islamic Maghreb (AQIM); Islamic State of Iraq and ash-Sham (ISI
 <p>Algeria and many other states reject Moroccan administration of Western Sahara; the Polisario Front, exiled in Algeria, represents the "Sahrawi Arab Democratic Republic" which Algeria recognizes; the Algerian-Moroccan land border remains closed; dormant disputes include Libyan claims of about 32,000 sq km of southeastern Algeria and the National Liberation Front's (FLN) assertions of a claim to Chirac Pastures in southeastern Morocco.</p> <p> </p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 7,757 (Syria) (2019)<br>
+_refugees (country of origin)_: more than 100,000 (Sahrawi, mostly living in Algerian-sponsored camps in the southwestern Algerian town of Tindouf) (2018); 6,627 (Syria) (2020)<br>
 
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims; Algerian women and girls are vulnerable to sex trafficking due to financial problems or after running away from home; undocumented sub-Saharan migrants are vulnerable to labor and sex trafficking and are exploited in restaurants, houses, and informal worksites; sub-Saharan men and women needing more funds for their onward journey to Europe work illegally in construction and commercial sex and are vulnerable to sex trafficking and debt bondage; foreign women and girls, mainly from sub-Saharan Africa, are subject to sex trafficking in bars and informal brothels; criminal begging rings that exploit sub-Saharan African migrant children are common</p><br>

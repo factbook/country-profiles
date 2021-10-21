@@ -61,6 +61,9 @@ _other_: 21.4% (2018 est.)<br>
 **Irrigated land**<br>
 20,660 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
+
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
 
@@ -69,9 +72,6 @@ earthquakes in the south; mudslides around Almaty<br>
 
 **Geography - note**<br>
 world's largest landlocked country and one of only two landlocked countries in the world that extends into two continents (the other is Azerbaijan); Russia leases approximately 6,000 sq km of territory enclosing the Baikonur Cosmodrome; in January 2004, Kazakhstan and Russia extended the lease to 2050<br>
-
-**Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## People and Society
 
@@ -237,14 +237,6 @@ _particulate matter emissions_: 11.32 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 247.21 megatons (2016 est.)<br>
 _methane emissions_: 45.03 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.347 billion cubic meters (2017 est.)<br>
-_industrial_: 6.984 billion cubic meters (2017 est.)<br>
-_agricultural_: 15.12 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-108.41 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 continental, cold winters and hot summers, arid and semiarid<br>
 
@@ -256,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 68.5% (2018 est.)<br>
 _forest_: 1.2% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 57.8% of total population (2021)<br>
+_rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.99% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 57.8% of total population (2021)<br>
-_rate of urbanization_: 1.19% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
@@ -272,7 +264,15 @@ _municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.347 billion cubic meters (2017 est.)<br>
+_industrial_: 6.984 billion cubic meters (2017 est.)<br>
+_agricultural_: 15.12 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+108.41 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -380,9 +380,9 @@ _lyrics/music_: Zhumeken NAZHIMEDENOV and Nursultan NAZARBAYEV/Shamshi KALDAYAKO
 <p>Kazakhstan's vast hydrocarbon and mineral reserves form the backbone of its economy. Geographically the largest of the former Soviet republics, excluding Russia, Kazakhstan, g possesses substantial fossil fuel reserves and other minerals and metals, such as uranium, copper, and zinc. It also has a large agricultural sector featuring livestock and grain. The government realizes that its economy suffers from an overreliance on oil and extractive industries and has made initial attempts to diversify its economy by targeting sectors like transport, pharmaceuticals, telecommunications, petrochemicals and food processing for greater development and investment. It also adopted a Subsoil Code in December 2017 with the aim of increasing exploration and investment in the hydrocarbon, and particularly mining, sectors.</p><p></p><p>Kazakhstan's oil production and potential is expanding rapidly. A $36.8 billion expansion of Kazakhstan’s premiere Tengiz oil field by Chevron-led Tengizchevroil should be complete in 2022. Meanwhile, the super-giant Kashagan field finally launched production in October 2016 after years of delay and an estimated $55 billion in development costs. Kazakhstan’s total oil production in 2017 climbed 10.5%.</p><p></p><p>Kazakhstan is landlocked and depends on Russia to export its oil to Europe. It also exports oil directly to China. In 2010, Kazakhstan joined Russia and Belarus to establish a Customs Union in an effort to boost foreign investment and improve trade. The Customs Union evolved into a Single Economic Space in 2012 and the Eurasian Economic Union (EAEU) in January 2015. Supported by rising commodity prices, Kazakhstan’s exports to EAEU countries increased 30.2% in 2017. Imports from EAEU countries grew by 24.1%.</p><p></p><p>The economic downturn of its EAEU partner, Russia, and the decline in global commodity prices from 2014 to 2016 contributed to an economic slowdown in Kazakhstan. In 2014, Kazakhstan devalued its currency, the tenge, and announced a stimulus package to cope with its economic challenges. In the face of further decline in the ruble, oil prices, and the regional economy, Kazakhstan announced in 2015 it would replace its currency band with a floating exchange rate, leading to a sharp fall in the value of the tenge. Since reaching a low of 391 to the dollar in January 2016, the tenge has modestly appreciated, helped by somewhat higher oil prices. While growth slowed to about 1% in both 2015 and 2016, a moderate recovery in oil prices, relatively stable inflation and foreign exchange rates, and the start of production at Kashagan helped push 2017 GDP growth to 4%.</p><p></p><p>Despite some positive institutional and legislative changes in the last several years, investors remain concerned about corruption, bureaucracy, and arbitrary law enforcement, especially at the regional and municipal levels. An additional concern is the condition of the country’s banking sector, which suffers from poor asset quality and a lack of transparency. Investors also question the potentially negative effects on the economy of a contested presidential succession as Kazakhstan’s first president, Nursultan NAZARBAYEV, turned 77 in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$487.868 billion (2019 est.)<br>
-$466.859 billion (2018 est.)<br>
-$448.472 billion (2017 est.)<br>
+$475.18 billion note: data are in 2017 dollars (2020 est.)<br>
+$487.87 billion note: data are in 2017 dollars (2019 est.)<br>
+$466.86 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -391,9 +391,9 @@ $448.472 billion (2017 est.)<br>
 4.38% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$26,351 (2019 est.)<br>
-$25,544 (2018 est.)<br>
-$24,863 (2017 est.)<br>
+$25,300 note: data are in 2017 dollars (2020 est.)<br>
+$26,400 note: data are in 2017 dollars (2019 est.)<br>
+$25,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,9 +476,9 @@ calendar year<br>
 -$138 million (2018 est.)<br>
 
 **Exports**<br>
-$76.455 billion (2019 est.)<br>
-$74.809 billion (2018 est.)<br>
-$68.256 billion (2017 est.)<br>
+$51.75 billion note: data are in current year dollars (2020 est.)<br>
+$65.91 billion note: data are in current year dollars (2019 est.)<br>
+$67.15 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (2019)<br>
@@ -487,9 +487,9 @@ China 13%, Italy 12%, Russia 10%, Netherlands 7%, France 6%, South Korea 5% (201
 crude petroleum, natural gas, copper, iron alloys, radioactive chemicals (2019)<br>
 
 **Imports**<br>
-$69.117 billion (2019 est.)<br>
-$61.933 billion (2018 est.)<br>
-$58.099 billion (2017 est.)<br>
+$44.3 billion note: data are in current year dollars (2020 est.)<br>
+$51.5 billion note: data are in current year dollars (2019 est.)<br>
+$46.23 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 34%, China 24% (2019)<br>
@@ -687,9 +687,6 @@ information varies; approximately 45,000 active duty personnel (30,000 Land Forc
 
 **Military equipment inventories and acquisitions**<br>
 the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia remains by far the leading supplier of weapons systems (2020)<br>
-
-**Military deployments**<br>
-120 Lebanon (UNIFIL) (Jan 2021)<br>
 
 **Military service age and obligation**<br>
 All men 18-27 are required to serve in the military for at least one year. (2019)<br>

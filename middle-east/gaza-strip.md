@@ -222,6 +222,23 @@ soil degradation; desertification; water pollution from chemicals and pesticides
 _carbon dioxide emissions_: 3.23 megatons (2016 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
+**Climate**<br>
+temperate, mild winters, dry and warm to hot summers<br>
+
+**Urbanization**<br>
+_urban population_: 77% of total population (2021)<br>
+_rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data represent Gaza Strip and the West Bank<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
+
+**Waste and recycling**<br>
+_municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
+_municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
+_percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
+<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+
 **Total water withdrawal**<br>
 _municipal_: 181.2 million cubic meters (2017 est.)<br>
 _industrial_: 32 million cubic meters (2017 est.)<br>
@@ -230,23 +247,6 @@ _agricultural_: 162 million cubic meters (2017 est.)<br>
 
 **Total renewable water resources**<br>
 837 million cubic meters (2017 est.)<br>
-<strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
-
-**Climate**<br>
-temperate, mild winters, dry and warm to hot summers<br>
-
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 77% of total population (2021)<br>
-_rate of urbanization_: 2.85% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data represent Gaza Strip and the West Bank<br>
-
-**Waste and recycling**<br>
-_municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
-_municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
-_percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
 
 ## Government
@@ -464,7 +464,7 @@ Army of Islam; Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; HAMAS; Islamic 
 <p>the status of the Gaza Strip is a final status issue to be resolved through negotiations; Israel removed settlers and military personnel from Gaza Strip in September 2005</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,460,315 (Palestinian refugees) (2020)<br>
+_refugees (country of origin)_: 1,476,706 (Palestinian refugees) (2020)<br>
 _IDPs_: 131,000 (includes persons displaced within the Gaza Strip due to the intensification of the Israeli-Palestinian conflict since June 2014 and other Palestinian IDPs in the Gaza Strip and West Bank who fled as long ago as 1967, although confirmed cumulative data do not go back beyond 2006) (2020)<br>
 data represent Gaza Strip and West Bank<br>
 

@@ -237,14 +237,6 @@ _particulate matter emissions_: 21.03 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 85.82 megatons (2016 est.)<br>
 _methane emissions_: 15.97 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.267 billion cubic meters (2017 est.)<br>
-_industrial_: 4.744 billion cubic meters (2017 est.)<br>
-_agricultural_: 29.42 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-923.06 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; desert in north; Mediterranean in central region; cool and damp in south<br>
 
@@ -256,20 +248,28 @@ _agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 21.9% (2018 est.)<br>
 _other_: 57% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 87.8% of total population (2021)<br>
+_rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.49% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 87.8% of total population (2021)<br>
-_rate of urbanization_: 0.78% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 24,113 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.267 billion cubic meters (2017 est.)<br>
+_industrial_: 4.744 billion cubic meters (2017 est.)<br>
+_agricultural_: 29.42 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+923.06 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -377,9 +377,9 @@ _lyrics/music_: Eusebio LILLO Robles and Bernardo DE VERA y Pintado/Ramon CARNIC
 <p>Chile has a market-oriented economy characterized by a high level of foreign trade and a reputation for strong financial institutions and sound policy that have given it the strongest sovereign bond rating in South America. Exports of goods and services account for approximately one-third of GDP, with commodities making up some 60% of total exports. Copper is Chile’s top export and provides 20% of government revenue.</p><p></p><p>From 2003 through 2013, real growth averaged almost 5% per year, despite a slight contraction in 2009 that resulted from the global financial crisis. Growth slowed to an estimated 1.4% in 2017. A continued drop in copper prices prompted Chile to experience its third consecutive year of slow growth.</p><p></p><p>Chile deepened its longstanding commitment to trade liberalization with the signing of a free trade agreement with the US, effective 1 January 2004. Chile has 26 trade agreements covering 60 countries including agreements with the EU, Mercosur, China, India, South Korea, and Mexico. In May 2010, Chile signed the OECD Convention, becoming the first South American country to join the OECD. In October 2015, Chile signed the Trans-Pacific Partnership trade agreement, which was finalized as the Comprehensive and Progressive Trans-Pacific Partnership (CPTPP) and signed at a ceremony in Chile in March 2018.</p><p></p><p>The Chilean Government has generally followed a countercyclical fiscal policy, under which it accumulates surpluses in sovereign wealth funds during periods of high copper prices and economic growth, and generally allows deficit spending only during periods of low copper prices and growth. As of 31 October 2016, those sovereign wealth funds - kept mostly outside the country and separate from Central Bank reserves - amounted to more than $23.5 billion. Chile used these funds to finance fiscal stimulus packages during the 2009 economic downturn.</p><p></p><p>In 2014, then-President Michelle BACHELET introduced tax reforms aimed at delivering her campaign promise to fight inequality and to provide access to education and health care. The reforms are expected to generate additional tax revenues equal to 3% of Chile’s GDP, mostly by increasing corporate tax rates to OECD averages.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$459.134 billion (2019 est.)<br>
-$454.344 billion (2018 est.)<br>
-$437.082 billion (2017 est.)<br>
+$445.88 billion note: data are in 2017 dollars (2020 est.)<br>
+$473.19 billion note: data are in 2017 dollars (2019 est.)<br>
+$468.77 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -388,9 +388,9 @@ $437.082 billion (2017 est.)<br>
 1.41% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$24,226 (2019 est.)<br>
-$24,259 (2018 est.)<br>
-$23,664 (2017 est.)<br>
+$23,300 note: data are in 2017 dollars (2020 est.)<br>
+$25,000 note: data are in 2017 dollars (2019 est.)<br>
+$25,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -473,9 +473,9 @@ calendar year<br>
 -$10.601 billion (2018 est.)<br>
 
 **Exports**<br>
-$90.626 billion (2019 est.)<br>
-$92.772 billion (2018 est.)<br>
-$88.376 billion (2017 est.)<br>
+$79.8 billion note: data are in current year dollars (2020 est.)<br>
+$78.02 billion note: data are in current year dollars (2019 est.)<br>
+$84.65 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
@@ -484,9 +484,9 @@ China 32%, United States 14%, Japan 9%, South Korea 7% (2019)<br>
 copper, wood pulp, fish fillets, pitted fruits, wine (2019)<br>
 
 **Imports**<br>
-$87.505 billion (2019 est.)<br>
-$89.578 billion (2018 est.)<br>
-$83.01 billion (2017 est.)<br>
+$66.43 billion note: data are in current year dollars (2020 est.)<br>
+$80.17 billion note: data are in current year dollars (2019 est.)<br>
+$85.11 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 24%, United States 20%, Brazil 8%, Germany 5%, Argentina 5% (2019)<br>
@@ -680,7 +680,7 @@ note: Carabineros de Chile are responsible to both the Ministry of Defense and t
 the Armed Forces of Chile have approximately 80,000 active personnel (45,000 Army; 20,000 Navy; 15,000 Air Force); approximately 50,000 Carabineros (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries, with Australia, France, Germany, the Netherlands, and the US as the leading suppliers; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2020)<br>
+the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries, including Australia, France, Germany, the Netherlands, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2021)<br>
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force (2019)<br>

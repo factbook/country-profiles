@@ -61,6 +61,9 @@ _other_: 15.9% (2018 est.)<br>
 **Irrigated land**<br>
 1,280 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -69,9 +72,6 @@ high seismic risks<br>
 
 **Geography - note**<br>
 landlocked; major transportation corridor from Western and Central Europe to Aegean Sea and Southern Europe to Western Europe<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -237,14 +237,6 @@ _particulate matter emissions_: 28.34 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.05 megatons (2016 est.)<br>
 _methane emissions_: 2.28 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 277.5 million cubic meters (2017 est.)<br>
-_industrial_: 225,809,581.6 cubic meters (2017 est.)<br>
-_agricultural_: 329,217,707.7 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-6.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 warm, dry summers and autumns; relatively cold winters with heavy snowfall<br>
 
@@ -256,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 26.5% (2018 est.)<br>
 _forest_: 39.8% (2018 est.)<br>
 _other_: 15.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 58.8% of total population (2021)<br>
+_rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.15% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 58.8% of total population (2021)<br>
-_rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 796,585 tons (2016 est.)<br>
@@ -273,6 +265,14 @@ _percent of municipal solid waste recycled_: 0.2% (2013 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 277.5 million cubic meters (2017 est.)<br>
+_industrial_: 225,809,581.6 cubic meters (2017 est.)<br>
+_agricultural_: 329,217,707.7 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+6.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: Vlado MALESKI/Todor SKALOVSKI<br>
 <p>Since its independence in 1991, Macedonia has made progress in liberalizing its economy and improving its business environment. Its low tax rates and free economic zones have helped to attract foreign investment, which is still low relative to the rest of Europe. Corruption and weak rule of law remain significant problems. Some businesses complain of opaque regulations and unequal enforcement of the law.</p> <p> </p> <p>Macedonia’s economy is closely linked to Europe as a customer for exports and source of investment, and has suffered as a result of prolonged weakness in the euro zone. Unemployment has remained consistently high at about 23% but may be overstated based on the existence of an extensive gray market, estimated to be between 20% and 45% of GDP, which is not captured by official statistics.</p> <p> </p> <p>Macedonia is working to build a country-wide natural gas pipeline and distribution network. Currently, Macedonia receives its small natural gas supplies from Russia via Bulgaria. In 2016, Macedonia signed a memorandum of understanding with Greece to build an interconnector that could connect to the Trans Adriatic Pipeline that will traverse the region once complete, or to an LNG import terminal in Greece.</p> <p> </p> <p>Macedonia maintained macroeconomic stability through the global financial crisis by conducting prudent monetary policy, which keeps the domestic currency pegged to the euro, and inflation at a low level. However, in the last two years, the internal political crisis has hampered economic performance, with GDP growth slowing in 2016 and 2017, and both domestic private and public investments declining. Fiscal policies were lax, with unproductive public expenditures, including subsidies and pension increases, and rising guarantees for the debt of state owned enterprises, and fiscal targets were consistently missed. In 2017, public debt stabilized at about 47% of GDP, still relatively low compared to its Western Balkan neighbors and the rest of Europe.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$34.333 billion (2019 est.)<br>
-$33.268 billion (2018 est.)<br>
-$32.331 billion (2017 est.)<br>
+$33.02 billion note: data are in 2017 dollars (2020 est.)<br>
+$34.59 billion note: data are in 2017 dollars (2019 est.)<br>
+$33.52 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note: </strong>data are in 2017 dollars; Macedonia has a large informal sector that may not be reflected in these data<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $32.331 billion (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$16,479 (2019 est.)<br>
-$15,972 (2018 est.)<br>
-$15,529 (2017 est.)<br>
+$15,800 note: data are in 2017 dollars (2020 est.)<br>
+$16,600 note: data are in 2017 dollars (2019 est.)<br>
+$16,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -474,8 +474,9 @@ calendar year<br>
 -$293 million (2016 est.)<br>
 
 **Exports**<br>
-$4.601 billion (2017 est.)<br>
-$3.75 billion (2016 est.)<br>
+$7.18 billion note: data are in current year dollars (2020 est.)<br>
+$7.78 billion note: data are in current year dollars (2019 est.)<br>
+$7.61 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
@@ -484,8 +485,9 @@ Germany 45%, Serbia 8%, Bulgaria 5% (2019)<br>
 support catalysts, centrifuges, insulated wiring, vehicle parts, buses, seats (2019)<br>
 
 **Imports**<br>
-$6.63 billion (2017 est.)<br>
-$5.805 billion (2016 est.)<br>
+$8.76 billion note: data are in current year dollars (2020 est.)<br>
+$9.6 billion note: data are in current year dollars (2019 est.)<br>
+$9.23 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Kingdom 14%, Germany 14%, Greece 8%, Serbia 8% (2019)<br>

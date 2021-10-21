@@ -222,14 +222,6 @@ _particulate matter emissions_: 22.04 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 43.87 megatons (2016 est.)<br>
 _methane emissions_: 1.35 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 237.6 million cubic meters (2017 est.)<br>
-_industrial_: 128.9 million cubic meters (2017 est.)<br>
-_agricultural_: 16.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-3.84 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (June to December)<br>
 
@@ -241,18 +233,26 @@ _agricultural land: permanent pasture_: permanent pasture: 1.4% (2018 est.)<br>
 _forest_: 44% (2018 est.)<br>
 _other_: 45.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 53.3% of total population (2021)<br>
+_rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 53.3% of total population (2021)<br>
-_rate of urbanization_: 0.23% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 727,874 tons (2010 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 237.6 million cubic meters (2017 est.)<br>
+_industrial_: 128.9 million cubic meters (2017 est.)<br>
+_agricultural_: 16.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+3.84 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -355,9 +355,9 @@ _lyrics/music_: Patrick Stanislaus CASTAGNE<br>
 <p>Trinidad and Tobago relies on its energy sector for much of its economic activity, and has one of the highest per capita incomes in Latin America. Economic growth between 2000 and 2007 averaged slightly over 8% per year, significantly above the regional average of about 3.7% for that same period; however, GDP has slowed down since then, contracting during 2009-12, making small gains in 2013 and contracting again in 2014-17. Trinidad and Tobago is buffered by considerable foreign reserves and a sovereign wealth fund that equals about one-and-a-half times the national budget, but the country is still in a recession and the government faces the dual challenge of gas shortages and a low price environment. Large-scale energy projects in the last quarter of 2017 are helping to mitigate the gas shortages.</p><p></p><p>Energy production and downstream industrial use dominate the economy. Oil and gas typically account for about 40% of GDP and 80% of exports but less than 5% of employment. Trinidad and Tobago is home to one of the largest natural gas liquefaction facilities in the Western Hemisphere. The country produces about nine times more natural gas than crude oil on an energy equivalent basis with gas contributing about two-thirds of energy sector government revenue. The US is the country’s largest trading partner, accounting for 28% of its total imports and 48% of its exports.</p><p></p><p>Economic diversification is a longstanding government talking point, and Trinidad and Tobago has much potential due to its stable, democratic government and its educated, English speaking workforce. The country is also a regional financial center with a well-regulated and stable financial system. Other sectors the Government of Trinidad and Tobago has targeted for increased investment and projected growth include tourism, agriculture, information and communications technology, and shipping. Unfortunately, a host of other factors, including low labor productivity, inefficient government bureaucracy, and corruption, have hampered economic development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$36.514 billion (2019 est.)<br>
-$36.515 billion (2018 est.)<br>
-$36.605 billion (2017 est.)<br>
+$33.21 billion note: data are in 2017 dollars (2020 est.)<br>
+$36.03 billion note: data are in 2017 dollars (2019 est.)<br>
+$36.48 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -366,9 +366,9 @@ $36.605 billion (2017 est.)<br>
 1.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$26,176 (2019 est.)<br>
-$26,273 (2018 est.)<br>
-$26,448 (2017 est.)<br>
+$23,700 note: data are in 2017 dollars (2020 est.)<br>
+$25,800 note: data are in 2017 dollars (2019 est.)<br>
+$26,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -445,8 +445,8 @@ $2.325 billion (2017 est.)<br>
 -$653 million (2016 est.)<br>
 
 **Exports**<br>
-$9.927 billion (2017 est.)<br>
-$8.714 billion (2016 est.)<br>
+$9.57 billion note: data are in current year dollars (2019 est.)<br>
+$11.57 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
@@ -455,8 +455,8 @@ United States 33%, Guyana 9%, Spain 6%, China 6% (2019)<br>
 natural gas, industrial alcohols, crude petroleum, ammonia, iron products, refined petroleum (2019)<br>
 
 **Imports**<br>
-$6.105 billion (2017 est.)<br>
-$6.858 billion (2016 est.)<br>
+$7.93 billion note: data are in current year dollars (2019 est.)<br>
+$9.16 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 40%, Guyana 19%, China 6% (2019)<br>

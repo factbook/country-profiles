@@ -61,6 +61,9 @@ _other_: 62.4% (2018 est.)<br>
 **Irrigated land**<br>
 7,420 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
 
@@ -69,9 +72,6 @@ earthquakes; floods<br>
 
 **Geography - note**<br>
 landlocked; highest point, Qullai Ismoili Somoni (formerly Communism Peak), was the tallest mountain in the former USSR<br>
-
-**Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## People and Society
 
@@ -238,14 +238,6 @@ _particulate matter emissions_: 40.05 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.31 megatons (2016 est.)<br>
 _methane emissions_: 4.87 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 647 million cubic meters (2017 est.)<br>
-_industrial_: 407.8 million cubic meters (2017 est.)<br>
-_agricultural_: 10.44 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-21.91 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains<br>
 
@@ -257,15 +249,15 @@ _agricultural land: permanent pasture_: permanent pasture: 27.7% (2018 est.)<br>
 _forest_: 2.9% (2018 est.)<br>
 _other_: 62.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 27.7% of total population (2021)<br>
+_rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.12% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.54% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 27.7% of total population (2021)<br>
-_rate of urbanization_: 2.73% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -276,7 +268,15 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 647 million cubic meters (2017 est.)<br>
+_industrial_: 407.8 million cubic meters (2017 est.)<br>
+_agricultural_: 10.44 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+21.91 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -381,9 +381,9 @@ _lyrics/music_: Gulnazar KELDI/Sulaimon YUDAKOV<br>
 <p>Tajikistan is a poor, mountainous country with an economy dominated by minerals extraction, metals processing, agriculture, and reliance on remittances from citizens working abroad. Mineral resources include silver, gold, uranium, antimony, tungsten, and coal. Industry consists mainly of small obsolete factories in food processing and light industry, substantial hydropower facilities, and a large aluminum plant - currently operating well below its capacity. The 1992-97 civil war severely damaged an already weak economic infrastructure and caused a sharp decline in industrial and agricultural production. Today, Tajikistan is the poorest among the former Soviet republics. Because less than 7% of the land area is arable and cotton is the predominant crop, Tajikistan imports approximately 70% of its food.</p><p></p><p>Since the end of the civil war, the country has pursued half-hearted reforms and privatizations in the economic sphere, but its poor business climate remains a hindrance to attracting foreign investment. Some experts estimate the value of narcotics transiting Tajikistan is equivalent to 30%-50% of GDP.</p><p></p><p>Because of a lack of employment opportunities in Tajikistan, more than one million Tajik citizens work abroad - roughly 90% in Russia - supporting families back home through remittances that in 2017 were equivalent to nearly 35% of GDP. Tajikistan’s large remittances from migrant workers in Russia exposes it to monetary shocks. Tajikistan often delays devaluation of its currency for fear of inflationary pressures on food and other consumables. Recent slowdowns in the Russian and Chinese economies, low commodity prices, and currency fluctuations have hampered economic growth. The dollar value of remittances from Russia to Tajikistan dropped by almost 65% in 2015, and the government spent almost $500 million in 2016 to bail out the country’s still troubled banking sector.</p><p></p><p>Tajikistan’s growing public debt – currently about 50% of GDP – could result in financial difficulties. Remittances from Russia increased in 2017, however, bolstering the economy somewhat. China owns about 50% of Tajikistan’s outstanding debt. Tajikistan has borrowed heavily to finance investment in the country’s vast hydropower potential. In 2016, Tajikistan contracted with the Italian firm Salini Impregilo to build the Roghun dam over a 13-year period for $3.9 billion. A 2017 Eurobond has largely funded Roghun’s first phase, after which sales from Roghun’s output are expected to fund the rest of its construction. The government has not ruled out issuing another Eurobond to generate auxiliary funding for its second phase.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$31.502 billion (2019 est.)<br>
-$29.438 billion (2018 est.)<br>
-$27.435 billion (2017 est.)<br>
+$34.88 billion note: data are in 2017 dollars (2020 est.)<br>
+$33.38 billion note: data are in 2017 dollars (2019 est.)<br>
+$31.08 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +392,9 @@ $27.435 billion (2017 est.)<br>
 6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,380 (2019 est.)<br>
-$3,235 (2018 est.)<br>
-$3,090 (2017 est.)<br>
+$3,700 note: data are in 2017 dollars (2020 est.)<br>
+$3,600 note: data are in 2017 dollars (2019 est.)<br>
+$3,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -477,8 +477,9 @@ calendar year<br>
 -$362 million (2016 est.)<br>
 
 **Exports**<br>
-$873.1 million (2017 est.)<br>
-$691.1 million (2016 est.)<br>
+$1.41 billion note: data are in current year dollars (2020 est.)<br>
+$1.24 billion note: data are in current year dollars (2019 est.)<br>
+$1.12 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br>
@@ -487,8 +488,9 @@ Turkey 24%, Switzerland 22%, Uzbekistan 16%, Kazakhstan 12%, China 10% (2019)<br
 gold, aluminum, cotton, zinc, antimony, lead (2019)<br>
 
 **Imports**<br>
-$2.39 billion (2017 est.)<br>
-$2.554 billion (2016 est.)<br>
+$3.13 billion note: data are in current year dollars (2020 est.)<br>
+$3.41 billion note: data are in current year dollars (2019 est.)<br>
+$3.22 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 40%, Russia 38%, Kazakhstan 19%, Uzbekistan 5% (2019)<br>
@@ -690,6 +692,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>in 2006, China and Tajikistan pledged to commence demarcation of the revised boundary agreed to in the delimitation of 2002; talks continue with Uzbekistan to delimit border and remove minefields; disputes in Isfara Valley delay delimitation with Kyrgyzstan</p><br>
 
 **Refugees and internally displaced persons**<br>
+_refugees (country of origin)_: 5,573 (Afghanistan) (2020)<br>
 _stateless persons_: 6,385 (2020)<br>
 
 **Illicit drugs**<br>

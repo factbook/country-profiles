@@ -62,6 +62,9 @@ _other_: 21.2% (2018 est.)<br>
 **Irrigated land**<br>
 970 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
 
@@ -239,14 +242,6 @@ _particulate matter emissions_: 20.54 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 299.04 megatons (2016 est.)<br>
 _methane emissions_: 46.62 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.028 billion cubic meters (2017 est.)<br>
-_industrial_: 7.035 billion cubic meters (2017 est.)<br>
-_agricultural_: 1.018 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-60.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate with cold, cloudy, moderately severe winters with frequent precipitation; mild summers with frequent showers and thundershowers<br>
 
@@ -258,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 30.6% (2018 est.)<br>
 _other_: 21.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 60.1% of total population (2021)<br>
+_rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.17% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.27% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 60.1% of total population (2021)<br>
-_rate of urbanization_: -0.16% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2016)<br>
@@ -276,6 +271,17 @@ _vectorborne diseases_: tickborne encephalitis (2016)<br>
 _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.028 billion cubic meters (2017 est.)<br>
+_industrial_: 7.035 billion cubic meters (2017 est.)<br>
+_agricultural_: 1.018 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+60.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,9 +390,9 @@ _lyrics/music_: Jozef WYBICKI/traditional<br>
 <p>Poland has the sixth-largest economy in the EU and has long had a reputation as a business-friendly country with largely sound macroeconomic policies. Since 1990, Poland has pursued a policy of economic liberalization. During the 2008-09 economic slowdown Poland was the only EU country to avoid a recession, in part because of the government’s loose fiscal policy combined with a commitment to rein in spending in the medium-term Poland is the largest recipient of EU development funds and their cyclical allocation can significantly impact the rate of economic growth.</p><p></p><p>The Polish economy performed well during the 2014-17 period, with the real GDP growth rate generally exceeding 3%, in part because of increases in government social spending that have helped to accelerate consumer-driven growth. However, since 2015, Poland has implemented new business restrictions and taxes on foreign-dominated economic sectors, including banking and insurance, energy, and healthcare, that have dampened investor sentiment and has increased the government’s ownership of some firms. The government reduced the retirement age in 2016 and has had mixed success in introducing new taxes and boosting tax compliance to offset the increased costs of social spending programs and relieve upward pressure on the budget deficit. Some credit ratings agencies estimate that Poland during the next few years is at risk of exceeding the EU’s 3%-of-GDP limit on budget deficits, possibly impacting its access to future EU funds. Poland’s economy is projected to perform well in the next few years in part because of an anticipated cyclical increase in the use of its EU development funds and continued, robust household spending.</p><p></p><p>Poland faces several systemic challenges, which include addressing some of the remaining deficiencies in its road and rail infrastructure, business environment, rigid labor code, commercial court system, government red tape, and burdensome tax system, especially for entrepreneurs. Additional long-term challenges include diversifying Poland’s energy mix, strengthening investments in innovation, research, and development, as well as stemming the outflow of educated young Poles to other EU member states, especially in light of a coming demographic contraction due to emigration, persistently low fertility rates, and the aging of the Solidarity-era baby boom generation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,261,433,000,000 (2019 est.)<br>
-$1,206,640,000,000 (2018 est.)<br>
-$1,145,323,000,000 (2017 est.)<br>
+$1,223,460,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,257,440,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,202,820,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +401,9 @@ $1,145,323,000,000 (2017 est.)<br>
 4.83% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$33,221 (2019 est.)<br>
-$31,775 (2018 est.)<br>
-$30,160 (2017 est.)<br>
+$32,200 note: data are in 2017 dollars (2020 est.)<br>
+$33,100 note: data are in 2017 dollars (2019 est.)<br>
+$31,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -481,9 +487,9 @@ $2.92 billion (2019 est.)<br>
 -$7.52 billion (2018 est.)<br>
 
 **Exports**<br>
-$394.848 billion (2019 est.)<br>
-$375.525 billion (2018 est.)<br>
-$351.125 billion (2017 est.)<br>
+$333.54 billion note: data are in current year dollars (2020 est.)<br>
+$330.68 billion note: data are in current year dollars (2019 est.)<br>
+$324.22 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
@@ -492,9 +498,9 @@ Germany 27%, Czechia 6%, United Kingdom 6%, France 6%, Italy 5% (2019)<br>
 cars and vehicle parts, seats, furniture, computers, video displays (2019)<br>
 
 **Imports**<br>
-$364.993 billion (2019 est.)<br>
-$353.423 billion (2018 est.)<br>
-$328.919 billion (2017 est.)<br>
+$292.44 billion note: data are in current year dollars (2020 est.)<br>
+$302.87 billion note: data are in current year dollars (2019 est.)<br>
+$306.43 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 25%, China 10%, Italy 5%, Netherlands 5% (2019)<br>

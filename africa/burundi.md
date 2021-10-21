@@ -61,6 +61,9 @@ _other_: 20.1% (2018 est.)<br>
 **Irrigated land**<br>
 230 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
 
@@ -69,9 +72,6 @@ flooding; landslides; drought<br>
 
 **Geography - note**<br>
 landlocked; straddles crest of the Nile-Congo watershed; the Kagera, which drains into Lake Victoria, is the most remote headstream of the White Nile<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## People and Society
 
@@ -249,14 +249,6 @@ _particulate matter emissions_: 35.61 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
 _methane emissions_: 1.42 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 43.1 million cubic meters (2017 est.)<br>
-_industrial_: 15 million cubic meters (2017 est.)<br>
-_agricultural_: 222 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-12.536 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 equatorial; high plateau with considerable altitude variation (772 m to 2,670 m above sea level); average annual temperature varies with altitude from 23 to 17 degrees Celsius but is generally moderate as the average altitude is about 1,700 m; average annual rainfall is about 150 cm; two wet seasons (February to May and September to November), and two dry seasons (June to August and December to January)<br>
 
@@ -268,15 +260,15 @@ _agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 20.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 14.1% of total population (2021)<br>
+_rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 10.31% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 14.1% of total population (2021)<br>
-_rate of urbanization_: 5.43% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -293,6 +285,14 @@ _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 43.1 million cubic meters (2017 est.)<br>
+_industrial_: 15 million cubic meters (2017 est.)<br>
+_agricultural_: 222 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+12.536 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -396,9 +396,9 @@ _lyrics/music_: Jean-Baptiste NTAHOKAJA/Marc BARENGAYABO<br>
 <p>Burundi is a landlocked, resource-poor country with an underdeveloped manufacturing sector. Agriculture accounts for over 40% of GDP and employs more than 90% of the population. Burundi's primary exports are coffee and tea, which account for more than half of foreign exchange earnings, but these earnings are subject to fluctuations in weather and international coffee and tea prices, Burundi is heavily dependent on aid from bilateral and multilateral donors, as well as foreign exchange earnings from participation in the African Union Mission to Somalia (AMISOM). Foreign aid represented 48% of Burundi's national income in 2015, one of the highest percentages in Sub-Saharan Africa, but this figure decreased to 33.5% in 2016 due to political turmoil surrounding President NKURUNZIZA’s bid for a third term. Burundi joined the East African Community (EAC) in 2009.</p><p></p><p>Burundi faces several underlying weaknesses – low governmental capacity, corruption, a high poverty rate, poor educational levels, a weak legal system, a poor transportation network, and overburdened utilities – that have prevented the implementation of planned economic reforms. The purchasing power of most Burundians has decreased as wage increases have not kept pace with inflation, which reached approximately 18% in 2017.</p><p></p><p>Real GDP growth dropped precipitously following political events in 2015 and has yet to recover to pre-conflict levels. Continued resistance by donors and the international community will restrict Burundi’s economic growth as the country deals with a large current account deficit.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$8.667 billion (2019 est.)<br>
-$8.51 billion (2018 est.)<br>
-$8.375 billion (2017 est.)<br>
+$8.69 billion note: data are in 2017 dollars (2020 est.)<br>
+$8.67 billion note: data are in 2017 dollars (2019 est.)<br>
+$8.51 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -407,9 +407,9 @@ $8.375 billion (2017 est.)<br>
 -4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$752 (2019 est.)<br>
-$762 (2018 est.)<br>
-$774 (2017 est.)<br>
+$700 note: data are in 2017 dollars (2020 est.)<br>
+$800 note: data are in 2017 dollars (2019 est.)<br>
+$800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,7 +485,6 @@ calendar year<br>
 -$411 million (2016 est.)<br>
 
 **Exports**<br>
-$279 million (2019 est.)<br>
 $283 million (2018 est.)<br>
 $315 million (2017 est.)<br>
 
@@ -496,7 +495,6 @@ United Arab Emirates 50%, Democratic Republic of the Congo 7% (2019)<br>
 gold, coffee, tea, raw earth metal ores, wheat flours (2019)<br>
 
 **Imports**<br>
-$1.04 billion (2019 est.)<br>
 $927 million (2018 est.)<br>
 $1.295 billion (2017 est.)<br>
 
@@ -659,7 +657,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2020)<br>
+National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2021)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>
@@ -681,7 +679,7 @@ the FDN is armed mostly with weapons from Russia and the former Soviet Union, wi
 18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2019)<br>
 
 **Military - note**<br>
-in addition to its foreign deployments, the FDN is focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); the groups are based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi (2020)<br>
+in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>
 
 ## Transnational Issues
 

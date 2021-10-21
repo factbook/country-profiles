@@ -194,9 +194,6 @@ _female_: 34.5% (2018 est.)<br>
 **Air pollutants**<br>
 _carbon dioxide emissions_: 5.39 megatons (2016 est.)<br>
 
-**Total renewable water resources**<br>
-NA<br>
-
 **Climate**<br>
 <p>tropical marine climate, ameliorated by northeast trade winds, results in mild temperatures; semiarid with average rainfall of 60 cm/year</p><br>
 
@@ -205,20 +202,23 @@ _agricultural land_: 10% (2018 est.)<br>
 _agricultural land: arable land_: arable land: 10% (2018)<br>
 _other_: 90% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 89.1% of total population (2021)<br>
+_rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
-_rate of urbanization_: 0.57% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 24,704 tons (2013 est.)<br>
 _municipal solid waste recycled annually_: 494 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2013 est.)<br>
+
+**Total renewable water resources**<br>
+NA<br>
 
 ## Government
 
@@ -314,8 +314,8 @@ _lyrics/music_: Guillermo ROSARIO, Mae HENRIQUEZ, Enrique MULLER, Betty DORAN/Fr
 <p>Most of Curacao's GDP results from services. Tourism, petroleum refining and bunkering, offshore finance, and transportation and communications are the mainstays of this small island economy, which is closely tied to the outside world. Curacao has limited natural resources, poor soil, and inadequate water supplies, and budgetary problems complicate reform of the health and education systems. Although GDP grew only slightly during the past decade, Curacao enjoys a high per capita income and a well-developed infrastructure compared to other countries in the region.</p> <p>Curacao has an excellent natural harbor that can accommodate large oil tankers, and the port of Willemstad hosts a free trade zone and a dry dock. Venezuelan state-owned oil company PdVSA, under a contract in effect until 2019, leases the single refinery on the island from the government, directly employing some 1,000 people. Most of the oil for the refinery is imported from Venezuela and most of the refined products are exported to the US and Asia. Almost all consumer and capital goods are imported, with the US, the Netherlands, and Venezuela being the major suppliers.</p> <p>The government is attempting to diversify its industry and trade. Curacao is an Overseas Countries and Territories (OCT) of the European Union. Nationals of Curacao are citizens of the European Union, even though it is not a member. Based on its OCT status, products that originate in Curacao have preferential access to the EU and are exempt from import duties. Curacao is a beneficiary of the Caribbean Basin Initiative and, as a result, products originating in Curacao can be imported tax free into the US if at least 35% has been added to the value of these products in Curacao. The island has state-of-the-art information and communication technology connectivity with the rest of the world, including a Tier IV datacenter. With several direct satellite and submarine optic fiber cables, Curacao has one of the best Internet speeds and reliability in the Western Hemisphere.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.856 billion (2019 est.)<br>
-$3.992 billion (2018 est.)<br>
+$3.86 billion note: data are in 2017 dollars (2019 est.)<br>
+$3.99 billion note: data are in 2017 dollars (2018 est.)<br>
 $4.08 billion (2017 est.)<br>
 <strong>note: </strong>data are in 2012 US dollars<br>
 
@@ -325,8 +325,8 @@ $4.08 billion (2017 est.)<br>
 0.1% (2010 est.)<br>
 
 **Real GDP per capita**<br>
-$24,479 (2019 est.)<br>
-$24,982 (2018 est.)<br>
+$24,500 note: data are in 2017 dollars (2019 est.)<br>
+$25,100 note: data are in 2017 dollars (2018 est.)<br>
 $25,475 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -385,8 +385,8 @@ _services_: 81.8% (2008 est.)<br>
 -$600 million (2010 est.)<br>
 
 **Exports**<br>
-$839.7 million (2017 est.)<br>
-$1.44 billion (2010 est.)<br>
+$1.77 billion note: data are in current year dollars (2019 est.)<br>
+$1.93 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and Barbuda 5% (2019)<br>
@@ -395,8 +395,8 @@ Switzerland 27%, United States 17%, Spain 14%, Ecuador 7%, India 7%, Antigua and
 gold, precious metal scraps, petroleum coke, frozen fish, coal tar oil (2019)<br>
 
 **Imports**<br>
-$540.3 billion (2018 est.)<br>
-$453.8 billion (2017 est.)<br>
+$2.33 billion note: data are in current year dollars (2019 est.)<br>
+$2.75 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 35%, Netherlands 24%, China 5% (2019)<br>
@@ -533,9 +533,6 @@ _bulk cargo port(s)_: Fuik Bay (phosphate rock)<br>
 
 **Military and security forces**<br>
 no regular military forces; Curaçao Militia (CURMIL) (2021)<br>
-
-**Military service age and obligation**<br>
-no conscription (2010)<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands; the Dutch Government controls foreign and defense policy; the Dutch Caribbean Coast Guard (DCCG) provides maritime security<br>

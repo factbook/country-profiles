@@ -61,6 +61,9 @@ _other_: 15% (2018 est.)<br>
 **Irrigated land**<br>
 30 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 the northern and central areas of the country are the most densely populated<br>
 
@@ -69,9 +72,6 @@ destructive earthquakes<br>
 
 **Geography - note**<br>
 within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -237,13 +237,6 @@ _particulate matter emissions_: 27.25 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 21.85 megatons (2016 est.)<br>
 _methane emissions_: 2.92 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 360.8 million cubic meters (2017 est.)<br>
-_industrial_: 71.8 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-37.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast<br>
 
@@ -255,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 20.5% (2018 est.)<br>
 _forest_: 42.8% (2018 est.)<br>
 _other_: 15% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 49.4% of total population (2021)<br>
+_rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.49% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.34% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 49.4% of total population (2021)<br>
-_rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,248,718 tons (2015 est.)<br>
@@ -272,6 +265,13 @@ _percent of municipal solid waste recycled_: 0% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 360.8 million cubic meters (2017 est.)<br>
+_industrial_: 71.8 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+37.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +382,9 @@ _lyrics/music_: none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC<b
 <p>Bosnia and Herzegovina has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles, and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. The economy is among the least competitive in the region. Foreign banks, primarily from Austria and Italy, control much of the banking sector, though the largest bank is a private domestic one. The konvertibilna marka (convertible mark) - the national currency introduced in 1998 - is pegged to the euro through a currency board arrangement, which has maintained confidence in the currency and has facilitated reliable trade links with European partners. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. In 2016, Bosnia began a three-year IMF loan program, but it has struggled to meet the economic reform benchmarks required to receive all funding installments.</p><p></p><p>Bosnia and Herzegovina's private sector is growing slowly, but foreign investment dropped sharply after 2007 and remains low. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity, though public perceptions of government corruption and misuse of taxpayer money has encouraged a large informal economy to persist. National-level statistics have improved over time, but a large share of economic activity remains unofficial and unrecorded.</p><p></p><p>Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization membership; and securing economic growth by fostering a dynamic, competitive private sector.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$49.224 billion (2019 est.)<br>
-$47.94 billion (2018 est.)<br>
-$46.212 billion (2017 est.)<br>
+$47.05 billion note: data are in 2017 dollars (2020 est.)<br>
+$49.17 billion note: data are in 2017 dollars (2019 est.)<br>
+$47.82 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $46.212 billion (2017 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,912 (2019 est.)<br>
-$14,423 (2018 est.)<br>
-$13,788 (2017 est.)<br>
+$14,300 note: data are in 2017 dollars (2020 est.)<br>
+$14,900 note: data are in 2017 dollars (2019 est.)<br>
+$14,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,9 +478,9 @@ calendar year<br>
 -$821 million (2016 est.)<br>
 
 **Exports**<br>
-$8.843 billion (2019 est.)<br>
-$8.91 billion (2018 est.)<br>
-$8.395 billion (2017 est.)<br>
+$6.81 billion note: data are in current year dollars (2020 est.)<br>
+$8.17 billion note: data are in current year dollars (2019 est.)<br>
+$8.57 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<br>
@@ -489,9 +489,9 @@ Germany 14%, Italy 12%, Croatia 11%, Serbia 11%, Austria 9%, Slovenia 8% (2019)<
 electricity, seating, leather shoes, furniture, insulated wiring (2019)<br>
 
 **Imports**<br>
-$12.561 billion (2019 est.)<br>
-$12.441 billion (2018 est.)<br>
-$11.999 billion (2017 est.)<br>
+$9.71 billion note: data are in current year dollars (2020 est.)<br>
+$11.15 billion note: data are in current year dollars (2019 est.)<br>
+$11.55 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Croatia 15%, Serbia 13%, Germany 10%, Italy 9%, Slovenia 7%, China 6% (2019)<br>
@@ -597,7 +597,7 @@ _total subscriptions_: 3,755,521<br>
 _subscriptions per 100 inhabitants_: 97.79 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China</p> (2021)<br>
 _domestic_: fixed-line teledensity roughly 24 per 100 persons and mobile-cellular subscribership has been increasing rapidly and stands at roughly 112 telephones per 100 persons (2019)<br>
 _international_: country code - 387; no satellite earth stations<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -699,10 +699,10 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,116 (Croatia) (2019)<br>
+_refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 66 (2020)<br>
-<strong>note:</strong> 83,028 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 83,369 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

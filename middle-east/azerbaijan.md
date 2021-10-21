@@ -238,14 +238,6 @@ _particulate matter emissions_: 18.2 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 37.62 megatons (2016 est.)<br>
 _methane emissions_: 44.87 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 449.6 million cubic meters (2017 est.)<br>
-_industrial_: 3.062 billion cubic meters (2017 est.)<br>
-_agricultural_: 9.27 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-34.675 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 dry, semiarid steppe<br>
 
@@ -257,19 +249,27 @@ _agricultural land: permanent pasture_: permanent pasture: 32.1% (2018 est.)<br>
 _forest_: 11.3% (2018 est.)<br>
 _other_: 31.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 56.8% of total population (2021)<br>
+_rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Nagorno-Karabakh<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 56.8% of total population (2021)<br>
-_rate of urbanization_: 1.38% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Nagorno-Karabakh<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 449.6 million cubic meters (2017 est.)<br>
+_industrial_: 3.062 billion cubic meters (2017 est.)<br>
+_agricultural_: 9.27 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+34.675 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -377,9 +377,9 @@ _lyrics/music_: Ahmed JAVAD/Uzeyir HAJIBEYOV<br>
 <p>Prior to the decline in global oil prices since 2014, Azerbaijan's high economic growth was attributable to rising energy exports and to some non-export sectors. Oil exports through the Baku-Tbilisi-Ceyhan Pipeline, the Baku-Novorossiysk, and the Baku-Supsa Pipelines remain the main economic driver, but efforts to boost Azerbaijan's gas production are underway. The expected completion of the geopolitically important Southern Gas Corridor (SGC) between Azerbaijan and Europe will open up another source of revenue from gas exports. First gas to Turkey through the SGC is expected in 2018 with project completion expected by 2020-21.</p><p></p><p>Declining oil prices caused a 3.1% contraction in GDP in 2016, and a 0.8% decline in 2017, highlighted by a sharp reduction in the construction sector. The economic decline was accompanied by higher inflation, a weakened banking sector, and two sharp currency devaluations in 2015. Azerbaijan’s financial sector continued to struggle. In May 2017, Baku allowed the majority state-owed International Bank of Azerbaijan (IBA), the nation’s largest bank, to default on some of its outstanding debt and file for restructuring in Azerbaijani courts; IBA also filed in US and UK bankruptcy courts to have its restructuring recognized in their respective jurisdictions.</p><p></p><p>Azerbaijan has made limited progress with market-based economic reforms. Pervasive public and private sector corruption and structural economic inefficiencies remain a drag on long-term growth, particularly in non-energy sectors. The government has, however, made efforts to combat corruption, particularly in customs and government services. Several other obstacles impede Azerbaijan's economic progress, including the need for more foreign investment in the non-energy sector and the continuing conflict with Armenia over the Nagorno-Karabakh region. While trade with Russia and the other former Soviet republics remains important, Azerbaijan has expanded trade with Turkey and Europe and is seeking new markets for non-oil/gas exports - mainly in the agricultural sector - with Gulf Cooperation Council member countries, the US, and others. It is also improving Baku airport and the Caspian Sea port of Alat for use as a regional transportation and logistics hub.</p><p></p><p>Long-term prospects depend on world oil prices, Azerbaijan's ability to develop export routes for its growing gas production, and its ability to improve the business environment and diversify the economy. In late 2016, the president approved a strategic roadmap for economic reforms that identified key non-energy segments of the economy for development, such as agriculture, logistics, information technology, and tourism. In October 2017, the long-awaited Baku-Tbilisi-Kars railway, stretching from the Azerbaijani capital to Kars in north-eastern Turkey, began limited service.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$144.374 billion (2019 est.)<br>
-$141.24 billion (2018 est.)<br>
-$139.152 billion (2017 est.)<br>
+$138.51 billion note: data are in 2017 dollars (2020 est.)<br>
+$144.74 billion note: data are in 2017 dollars (2019 est.)<br>
+$141.24 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -388,9 +388,9 @@ $139.152 billion (2017 est.)<br>
 0.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,404 (2019 est.)<br>
-$14,210 (2018 est.)<br>
-$14,121 (2017 est.)<br>
+$13,700 note: data are in 2017 dollars (2020 est.)<br>
+$14,400 note: data are in 2017 dollars (2019 est.)<br>
+$14,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -473,8 +473,9 @@ $1.685 billion (2017 est.)<br>
 -$1.363 billion (2016 est.)<br>
 
 **Exports**<br>
-$15.15 billion (2017 est.)<br>
-$13.21 billion (2016 est.)<br>
+$15.21 billion note: data are in current year dollars (2020 est.)<br>
+$23.63 billion note: data are in current year dollars (2019 est.)<br>
+$25.48 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
@@ -483,8 +484,9 @@ Italy 28%, Turkey 15%, Israel 7%, Germany 5%, India 5% (2017)<br>
 crude petroleum, natural gas, refined petroleum, tomatoes, gold (2019)<br>
 
 **Imports**<br>
-$9.037 billion (2017 est.)<br>
-$9.004 billion (2016 est.)<br>
+$15.54 billion note: data are in current year dollars (2020 est.)<br>
+$17.71 billion note: data are in current year dollars (2019 est.)<br>
+$17.71 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Kingdom 17%, Russia 17%, Turkey 12%, China 6% (2019)<br>
@@ -590,7 +592,7 @@ _total subscriptions_: 10,750,300<br>
 _subscriptions per 100 inhabitants_: 106.13 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a landlocked country with historically poor infrastructure; state control of telecom systems; progress with Digital Hub project despite economic contraction in 2020; government launched e-school and e-service programs; risk of delays in infrastructure and launch of new technologies, including 5G due to slow market demand; LTE supports most data traffic while mobile broadband subscribership grows rapidly; fixed-line broadband market has slight upward trend; Internet access is expensive and suffers from outages and intentional government disruption; importer of broadcasting equipment from Russia (2021) (2020)<br>
+_general assessment_: a landlocked country with historically poor infrastructure; state control of telecom systems; progress with Digital Hub project despite economic contraction in 2020; government launched e-school and e-service programs; risk of delays in infrastructure and launch of new technologies, including 5G due to slow market demand; LTE supports most data traffic while mobile broadband subscribership grows rapidly; fixed-line broadband market has slight upward trend; Internet access is expensive and suffers from outages and intentional government disruption; importer of broadcasting equipment from Russia (2021)<br>
 _domestic_: teledensity of some 17 fixed-lines per 100 persons; mobile-cellular teledensity has increased to 107 telephones per 100 persons; satellite service connects Baku to a modern switch in its exclave of Naxcivan (Nakhchivan) (2019)<br>
 _international_: country code - 994; the TAE fiber-optic link transits Azerbaijan providing international connectivity to neighboring countries; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -680,7 +682,7 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remain high, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high through 2021, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
 
 ## Terrorism
 

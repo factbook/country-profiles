@@ -235,14 +235,6 @@ _particulate matter emissions_: 19.46 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 65.17 megatons (2016 est.)<br>
 _methane emissions_: 13.02 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 983 million cubic meters (2017 est.)<br>
-_industrial_: 72 million cubic meters (2017 est.)<br>
-_agricultural_: 1.249 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1.78 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; hot and dry in southern and eastern desert areas<br>
 
@@ -254,20 +246,28 @@ _agricultural land: permanent pasture_: permanent pasture: 6.3% (2018 est.)<br>
 _forest_: 7.1% (2018 est.)<br>
 _other_: 69.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 92.7% of total population (2021)<br>
+_rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 92.7% of total population (2021)<br>
-_rate of urbanization_: 1.51% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1.35 million tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2017 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 983 million cubic meters (2017 est.)<br>
+_industrial_: 72 million cubic meters (2017 est.)<br>
+_agricultural_: 1.249 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1.78 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -332,7 +332,7 @@ _election results_: percent by party - Likud 24.2%, Yesh Atid 13.9%, Shas 7.2%, 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the president, deputy president, 13 justices, and 2 registrars) and normally sits in panels of 3 justices; in special cases, the panel is expanded with an uneven number of justices<br>
 _judge selection and term of office_: judges selected by the 9-member Judicial Selection Committee, consisting of the Minister of Justice (chair), the president of the Supreme Court, two other Supreme Court justices, 1 other Cabinet minister, 2 Knesset members, and 2 representatives of the Israel Bar Association; judges can serve up to mandatory retirement at age 70<br>
-_subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and religious courts<br>
+_subordinate courts_: district and magistrate courts; national and regional labor courts; family and juvenile courts; special and Rabbinical courts<br>
 
 **Political parties and leaders**<br>
 <p>Democratic Union [Nitzan HOROWITZ] (alliance includes Democratic Israel, Meretz, Green Movement)<br>Joint List [Ayman ODEH] (alliance includes Hadash, Ta’al, United Arab List, Balad)<br>Kahol Lavan [Benny GANTZ] (alliance includes Israeli Resilience, Yesh Atid, Telem)<br>Labor-Gesher [Amir PERETZ]<br>Likud [Binyamin NETANYAHU]<br>Otzma Yehudit [Itamar BEN-GVIR]<br>Religous Zionist Party [Belzalel SMOTRICH, chairperson]<br>SHAS [Arye DERI]<br>United Torah Judaism, or UTJ [Yaakov LITZMAN] (alliance includes Agudat Israel and Degel HaTorah)<br>Yamina [Ayelet SHAKED]<br>Yesh Atid [Yair LAPID]<br>Yisrael Beiteinu [Avigdor LIEBERMAN]<br>Zehut [Moshe FEIGLIN]</p><br>
@@ -376,9 +376,9 @@ _lyrics/music_: Naftali Herz IMBER/traditional, arranged by Samuel COHEN<br>
 <p>Israel has a technologically advanced free market economy. Cut diamonds, high-technology equipment, and pharmaceuticals are among its leading exports. Its major imports include crude oil, grains, raw materials, and military equipment. Israel usually posts sizable trade deficits, which are offset by tourism and other service exports, as well as significant foreign investment inflows.</p> <p> </p> <p>Since March 2020, economic growth has slowed compared to recent historical averages, but Israel's slump has been less severe than in other Middle Eastern countries because of its swift vaccine roll-out and diversified economic base. Between 2016 and 2019, growth averaged 3.6% per year, led by exports. Israel's new government is hoping to pass the country's first budget in two years, which, combined with prudent fiscal policy and strong global trade ties would probably enable Israel to recover from economic challenges caused by the COVID-19 pandemic.</p> <p> </p> <p>Natural gas fields discovered off Israel's coast since 2009 have brightened Israel's energy security outlook. The Tamar and Leviathan fields were some of the world's largest offshore natural gas finds in the last decade. In 2020, Israel began exporting gas to Egypt and Jordan.</p> <p> </p> <p>Income inequality and high housing and commodity prices continue to be a concern for many Israelis. Israel's income inequality and poverty rates are among the highest of OECD countries, and there is a broad perception among the public that a small number of "tycoons" have a cartel-like grip over the major parts of the economy. Government officials have called for reforms to boost the housing supply and to increase competition in the banking sector to address these public grievances. Despite calls for reforms, the restricted housing supply continues to impact younger Israelis seeking to purchase homes. Tariffs and non-tariff barriers, coupled with guaranteed prices and customs tariffs for farmers kept food prices high. Private consumption is expected to drive growth through 2021, with consumers benefitting from low inflation and a strong currency.</p> <p> </p> <p>In the long term, Israel faces structural issues including low labor participation rates for its fastest growing social segments - the ultraorthodox and Arab-Israeli communities. Also, Israel's progressive, globally competitive, knowledge-based technology sector employs only about 8% of the workforce, with the rest mostly employed in manufacturing and services - sectors which face downward wage pressures from global competition. Expenditures on educational institutions remain low compared to most other OECD countries with similar GDP per capita.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$394.7 billion (2019 est.)<br>
-$351.254 billion (2018 est.)<br>
-$339.528 billion (2017 est.)<br>
+$353.39 billion note: data are in 2017 dollars (2020 est.)<br>
+$362.23 billion note: data are in 2017 dollars (2019 est.)<br>
+$350.15 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -387,9 +387,9 @@ $339.528 billion (2017 est.)<br>
 3.69% (2018 est.)<br>
 
 **Real GDP per capita**<br>
-$41,953 (2020 est.)<br>
-$40,145 (2019 est.)<br>
-$39,543 (2018 est.)<br>
+$38,300 note: data are in 2017 dollars (2020 est.)<br>
+$40,000 note: data are in 2017 dollars (2019 est.)<br>
+$39,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,9 +478,9 @@ $13.411 billion (2019 est.)<br>
 $7.888 billion (2018 est.)<br>
 
 **Exports**<br>
-$104.992 billion (2019 est.)<br>
-$101.389 billion (2018 est.)<br>
-$95.196 billion (2017 est.)<br>
+$113.87 billion note: data are in current year dollars (2020 est.)<br>
+$115.57 billion note: data are in current year dollars (2019 est.)<br>
+$110.05 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 26%, China 9%, United Kingdom 7% (2020)<br>
@@ -489,9 +489,9 @@ United States 26%, China 9%, United Kingdom 7% (2020)<br>
 diamonds, packaged medicines, medical instruments, integrated circuits, refined petroleum (2019)<br>
 
 **Imports**<br>
-$116.23 billion (2019 est.)<br>
-$111.652 billion (2018 est.)<br>
-$104.252 billion (2017 est.)<br>
+$96.53 billion note: data are in current year dollars (2020 est.)<br>
+$108.26 billion note: data are in current year dollars (2019 est.)<br>
+$107.74 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 12%, China 11%, Germany 7.5%, Switzerland 7%, Turkey 6% (2020)<br>
@@ -690,7 +690,7 @@ the majority of the IDF's inventory is comprised of weapons that are domesticall
 18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2020)<br>
 
 **Military - note**<br>
-the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br><br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
 
 ## Terrorism
 

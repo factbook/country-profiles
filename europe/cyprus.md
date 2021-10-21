@@ -242,14 +242,6 @@ _particulate matter emissions_: 16.79 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 6.63 megatons (2016 est.)<br>
 _methane emissions_: 0.86 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 110 million cubic meters (2017 est.)<br>
-_industrial_: 17 million cubic meters (2017 est.)<br>
-_agricultural_: 184 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-780 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; Mediterranean with hot, dry summers and cool winters<br>
 
@@ -261,20 +253,28 @@ _agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 67.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 66.9% of total population (2021)<br>
+_rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 66.9% of total population (2021)<br>
-_rate of urbanization_: 0.76% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 541,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 72,007 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 13.3% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 110 million cubic meters (2017 est.)<br>
+_industrial_: 17 million cubic meters (2017 est.)<br>
+_agricultural_: 184 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+780 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -385,9 +385,9 @@ _lyrics/music_: Dionysios SOLOMOS/Nikolaos MANTZAROS<br>
 <p>The area of the Republic of Cyprus under government control has a market economy dominated by a services sector that accounts for more than four-fifths of GDP. Tourism, finance, shipping, and real estate have traditionally been the most important services. Cyprus has been a member of the EU since May 2004 and adopted the euro as its national currency in January 2008.</p><p></p><p>During the first five years of EU membership, the Cyprus economy grew at an average rate of about 4%, with unemployment between 2004 and 2008 averaging about 4%. However, the economy tipped into recession in 2009 as the ongoing global financial crisis and resulting low demand hit the tourism and construction sectors. An overextended banking sector with excessive exposure to Greek debt added to the contraction. Cyprus’ biggest two banks were among the largest holders of Greek bonds in Europe and had a substantial presence in Greece through bank branches and subsidiaries. Following numerous downgrades of its credit rating, Cyprus lost access to international capital markets in May 2011. In July 2012, Cyprus became the fifth euro-zone government to request an economic bailout program from the European Commission, European Central Bank and the International Monetary Fund - known collectively as the "Troika."</p><p></p><p>Shortly after the election of President Nikos ANASTASIADES in February 2013, Cyprus reached an agreement with the Troika on a $13 billion bailout that triggered a two-week bank closure and the imposition of capital controls that remained partially in place until April 2015. Cyprus' two largest banks merged and the combined entity was recapitalized through conversion of some large bank deposits to shares and imposition of losses on bank bondholders. As with other EU countries, the Troika conditioned the bailout on passing financial and structural reforms and privatizing state-owned enterprises. Despite downsizing and restructuring, the Cypriot financial sector remains burdened by the largest stock of non-performing loans in the euro zone, equal to nearly half of all loans. Since the bailout, Cyprus has received positive appraisals by the Troika and outperformed fiscal targets but has struggled to overcome political opposition to bailout-mandated legislation, particularly regarding privatizations. The rate of non-performing loans (NPLs) is still very high at around 49%, and growth would accelerate if Cypriot banks could increase the pace of resolution of the NPLs.</p><p></p><p>In October 2013, a US-Israeli consortium completed preliminary appraisals of hydrocarbon deposits in Cyprus’ exclusive economic zone (EEZ), which estimated gross mean reserves of about 130 billion cubic meters. Though exploration continues in Cyprus’ EEZ, no additional commercially exploitable reserves have been identified. Developing offshore hydrocarbon resources remains a critical component of the government’s economic recovery efforts, but development has been delayed as a result of regional developments and disagreements about exploitation methods.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$35.353 billion (2019 est.)<br>
-$34.299 billion (2018 est.)<br>
-$32.591 billion (2017 est.)<br>
+$33.67 billion note: data are in 2017 dollars (2020 est.)<br>
+$35.48 billion note: data are in 2017 dollars (2019 est.)<br>
+$34.42 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -396,9 +396,9 @@ $32.591 billion (2017 est.)<br>
 5.16% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$39,545 (2019 est.)<br>
-$38,822 (2018 est.)<br>
-$37,767 (2017 est.)<br>
+$37,700 note: data are in 2017 dollars (2020 est.)<br>
+$40,200 note: data are in 2017 dollars (2019 est.)<br>
+$39,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -482,9 +482,9 @@ calendar year<br>
 -$958 million (2018 est.)<br>
 
 **Exports**<br>
-$20.65 billion (2019 est.)<br>
-$20.735 billion (2018 est.)<br>
-$19.198 billion (2017 est.)<br>
+$16.1 billion note: data are in current year dollars (2020 est.)<br>
+$17.92 billion note: data are in current year dollars (2019 est.)<br>
+$19.02 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
@@ -493,9 +493,9 @@ India 9%, Greece 9%, Libya 8%, United Kingdom 7% (2019)<br>
 ships, refined petroleum, packaged medicines, cheese, crude petroleum (2019)<br>
 
 **Imports**<br>
-$21.07 billion (2019 est.)<br>
-$20.666 billion (2018 est.)<br>
-$19.782 billion (2017 est.)<br>
+$17.58 billion note: data are in current year dollars (2020 est.)<br>
+$18.2 billion note: data are in current year dollars (2019 est.)<br>
+$18.6 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Greece 16%, Italy 10%, Turkey 8%, Russia 5%, Germany 5%, United Kingdom 5%, China 5% (2019)<br>
@@ -705,7 +705,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>hostilities in 1974 divided the island into two de facto autonomous entities, the internationally recognized Cypriot Government and a Turkish-Cypriot community (north Cyprus); the 1,000-strong UN Peacekeeping Force in Cyprus (UNFICYP) has served in Cyprus since 1964 and maintains the buffer zone between north and south; on 1 May 2004, Cyprus entered the EU still divided, with the EU's body of legislation and standards (acquis communitaire) suspended in the north; Turkey protests Cypriot Government creating hydrocarbon blocks and maritime boundary with Lebanon in March 2007</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,372 (Syria) (2019)<br>
+_refugees (country of origin)_: 8,797 (Syria) (2020)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 56 (2020)<br>
 <strong>note:</strong> 25,673 estimated refugee and migrant arrivals (January 2015-September 2021)<br>

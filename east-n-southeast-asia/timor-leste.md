@@ -243,14 +243,6 @@ _particulate matter emissions_: 17.88 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.5 megatons (2016 est.)<br>
 _methane emissions_: 4.74 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 99 million cubic meters (2017 est.)<br>
-_industrial_: 2 million cubic meters (2017 est.)<br>
-_agricultural_: 1.071 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-8.215 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; distinct rainy and dry seasons<br>
 
@@ -262,15 +254,15 @@ _agricultural land: permanent pasture_: permanent pasture: 10.1% (2018 est.)<br>
 _forest_: 49.1% (2018 est.)<br>
 _other_: 25.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 31.7% of total population (2021)<br>
+_rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.13% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 31.7% of total population (2021)<br>
-_rate of urbanization_: 3.31% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -279,6 +271,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 63,875 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 99 million cubic meters (2017 est.)<br>
+_industrial_: 2 million cubic meters (2017 est.)<br>
+_agricultural_: 1.071 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+8.215 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,9 +384,9 @@ _lyrics/music_: Fransisco Borja DA COSTA/Afonso DE ARAUJO<br>
 <p>Since independence in 1999, Timor-Leste has faced great challenges in rebuilding its infrastructure, strengthening the civil administration, and generating jobs for young people entering the work force. The development of offshore oil and gas resources has greatly supplemented government revenues. This technology-intensive industry, however, has done little to create jobs in part because there are no production facilities in Timor-Leste. Gas is currently piped to Australia for processing, but Timor-Leste has expressed interest in developing a domestic processing capability.</p><p></p><p>In June 2005, the National Parliament unanimously approved the creation of the Timor-Leste Petroleum Fund to serve as a repository for all petroleum revenues and to preserve the value of Timor-Leste's petroleum wealth for future generations. The Fund held assets of $16 billion, as of mid-2016. Oil accounts for over 90% of government revenues, and the drop in the price of oil in 2014-16 has led to concerns about the long-term sustainability of government spending. Timor-Leste compensated for the decline in price by exporting more oil. The Ministry of Finance maintains that the Petroleum Fund is sufficient to sustain government operations for the foreseeable future.</p><p></p><p>Annual government budget expenditures increased markedly between 2009 and 2012 but dropped significantly through 2016. Historically, the government failed to spend as much as its budget allowed. The government has focused significant resources on basic infrastructure, including electricity and roads, but limited experience in procurement and infrastructure building has hampered these projects. The underlying economic policy challenge the country faces remains how best to use oil-and-gas wealth to lift the non-oil economy onto a higher growth path and to reduce poverty.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.593 billion (2019 est.)<br>
-$3.869 billion (2018 est.)<br>
-$3.91 billion (2017 est.)<br>
+$4.19 billion note: data are in 2017 dollars (2020 est.)<br>
+$4.59 billion note: data are in 2017 dollars (2019 est.)<br>
+$3.87 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $3.91 billion (2017 est.)<br>
 4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,553 (2019 est.)<br>
-$3,052 (2018 est.)<br>
-$3,145 (2017 est.)<br>
+$3,200 note: data are in 2017 dollars (2020 est.)<br>
+$3,600 note: data are in 2017 dollars (2019 est.)<br>
+$3,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -475,8 +475,9 @@ calendar year<br>
 -$544 million (2016 est.)<br>
 
 **Exports**<br>
-$16.7 million (2017 est.)<br>
-$18 million (2015 est.)<br>
+$60 million note: data are in current year dollars (2020 est.)<br>
+$120 million note: data are in current year dollars (2019 est.)<br>
+$120 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
@@ -485,8 +486,9 @@ Singapore 51%, China 20%, Japan 9%, Indonesia 6% (2019)<br>
 crude petroleum, natural gas, coffee, various vegetables, scrap iron (2019)<br>
 
 **Imports**<br>
-$681.2 million (2017 est.)<br>
-$558.6 million (2016 est.)<br>
+$850 million note: data are in current year dollars (2020 est.)<br>
+$1.04 billion note: data are in current year dollars (2019 est.)<br>
+$1.06 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Indonesia 39%, China 27%, Singapore 10%, Malaysia 5% (2019)<br>

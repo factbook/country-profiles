@@ -237,14 +237,6 @@ _particulate matter emissions_: 10.53 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 379.02 megatons (2016 est.)<br>
 _methane emissions_: 49.16 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 6.227 billion cubic meters (2017 est.)<br>
-_industrial_: 1.01 billion cubic meters (2017 est.)<br>
-_agricultural_: 1.183 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-147 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; moderated by prevailing southwest winds over the North Atlantic Current; more than one-half of the days are overcast<br>
 
@@ -256,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 45.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 84.2% of total population (2021)<br>
+_rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 84.2% of total population (2021)<br>
-_rate of urbanization_: 0.8% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -274,6 +266,14 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 _municipal solid waste generated annually_: 31.567 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 8,602,008 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 27.3% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 6.227 billion cubic meters (2017 est.)<br>
+_industrial_: 1.01 billion cubic meters (2017 est.)<br>
+_agricultural_: 1.183 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+147 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +383,9 @@ _lyrics/music_: unknown<br>
 <p>The UK, a leading trading power and financial center, is the third largest economy in Europe after Germany and France. Agriculture is intensive, highly mechanized, and efficient by European standards, producing about 60% of food needs with less than 2% of the labor force. The UK has large coal, natural gas, and oil resources, but its oil and natural gas reserves are declining; the UK has been a net importer of energy since 2005. Services, particularly banking, insurance, and business services, are key drivers of British GDP growth. Manufacturing, meanwhile, has declined in importance but still accounts for about 10% of economic output.</p> <p>In 2008, the global financial crisis hit the economy particularly hard, due to the importance of its financial sector. Falling home prices, high consumer debt, and the global economic slowdown compounded the UK’s economic problems, pushing the economy into recession in the latter half of 2008 and prompting the then BROWN (Labour) government to implement a number of measures to stimulate the economy and stabilize the financial markets. Facing burgeoning public deficits and debt levels, in 2010 the then CAMERON-led coalition government (between Conservatives and Liberal Democrats) initiated an austerity program, which has continued under the Conservative government. However, the deficit still remains one of the highest in the G7, standing at 3.6% of GDP as of 2017, and the UK has pledged to lower its corporation tax from 20% to 17% by 2020. The UK had a debt burden of 90.4% GDP at the end of 2017.</p> <p>The UK economy has begun to slow since the referendum vote to leave the EU in June 2016. A sustained depreciation of the British pound has increased consumer and producer prices, weighing on consumer spending without spurring a meaningful increase in exports. The UK has an extensive trade relationship with other EU members through its single market membership, and economic observers have warned the exit will jeopardize its position as the central location for European financial services. The UK is slated to leave the EU at the end of January 2020.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,118,396,000,000 (2019 est.)<br>
-$3,073,442,000,000 (2018 est.)<br>
-$3,032,781,000,000 (2017 est.)<br>
+$2,797,980,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$3,101,640,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,059,690,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $3,032,781,000,000 (2017 est.)<br>
 1.74% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$46,659 (2019 est.)<br>
-$46,245 (2018 est.)<br>
-$45,910 (2017 est.)<br>
+$41,600 note: data are in 2017 dollars (2020 est.)<br>
+$46,400 note: data are in 2017 dollars (2019 est.)<br>
+$46,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -480,9 +480,9 @@ _expenditures_: 1.079 trillion (2017 est.)<br>
 -$104.927 billion (2018 est.)<br>
 
 **Exports**<br>
-$901.882 billion (2019 est.)<br>
-$877.501 billion (2018 est.)<br>
-$851.693 billion (2017 est.)<br>
+$741.95 billion note: data are in current year dollars (2020 est.)<br>
+$879.92 billion note: data are in current year dollars (2019 est.)<br>
+$882.65 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% (2019)<br>
@@ -491,9 +491,9 @@ United States 15%, Germany 10%, China 7%, Netherlands 7%, France 7%, Ireland 6% 
 cars, gas turbines, gold, crude petroleum, packaged medicines (2019)<br>
 
 **Imports**<br>
-$987.018 billion (2019 est.)<br>
-$955.655 billion (2018 est.)<br>
-$930.354 billion (2017 est.)<br>
+$752.77 billion note: data are in current year dollars (2020 est.)<br>
+$914.96 billion note: data are in current year dollars (2019 est.)<br>
+$916.4 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 13%, China 10%, United States 8%, Netherlands 7%, France 6%, Belgium 5% (2019)<br>
@@ -722,7 +722,7 @@ Continuity Irish Republican Army; Islamic State of Iraq and ash-Sham (ISIS); New
 <p>in 2002, Gibraltar residents voted overwhelmingly by referendum to reject any "shared sovereignty" arrangement between the UK and Spain; the Government of Gibraltar insisted on equal participation in talks between the two countries; Spain disapproved of UK plans to grant Gibraltar greater autonomy; Mauritius and Seychelles claim the Chagos Archipelago (British Indian Ocean Territory); in 2001, the former inhabitants of the archipelago, evicted 1967 - 1973, were granted UK citizenship and the right of return, followed by Orders in Council in 2004 that banned rehabitation, a High Court ruling reversed the ban, a Court of Appeal refusal to hear the case, and a Law Lords' decision in 2008 denied the right of return; in addition, the UK created the world's largest marine protection area around the Chagos islands prohibiting the extraction of any natural resources therein; UK rejects sovereignty talks requested by Argentina, which still claims the Falkland Islands (Islas Malvinas) and South Georgia and the South Sandwich Islands; territorial claim in Antarctica (British Antarctic Territory) overlaps Argentine claim and partially overlaps Chilean claim; Iceland, the UK, and Ireland dispute Denmark's claim that the Faroe Islands' continental shelf extends beyond 200 nm</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 19,744 (Iran), 13,755 (Eritrea), 10,575 (Sudan), 10,389 (Syria), 9,513 (Afghanistan), 8,164 (Pakistan), 5,522 (Sri Lanka) (2019)<br>
+_refugees (country of origin)_: 20,433 (Iran), 14,016 (Eritrea), 10,994 (Sudan), 10,919 (Syria), 9,351 (Afghanistan), 8,350 (Pakistan), 6,399 (Iraq), 5,338 (Sri Lanka) (2020)<br>
 _stateless persons_: 4,662 (2020)<br>
 
 **Illicit drugs**<br>

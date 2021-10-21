@@ -64,6 +64,9 @@ _other_: 23.4% (2018 est.)<br>
 **Irrigated land**<br>
 10,550 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
 
@@ -72,9 +75,6 @@ subject to floods, rockslides, mudslides; periodic droughts<br>
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> the country lies on major sea and air routes linking North and South America</p> <p><strong>note 2:</strong> Venezuela has some of the most unique geology in the world; tepuis are massive table-top mountains of the western Guiana Highlands that tend to be isolated and thus support unique endemic plant and animal species; their sheer cliffsides account for some of the most spectacular waterfalls in the world including Angel Falls, the world's highest (979 m) that drops off Auyan Tepui</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 ## People and Society
 
@@ -229,14 +229,6 @@ _particulate matter emissions_: 15.82 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 164.18 megatons (2016 est.)<br>
 _methane emissions_: 68.66 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 5.123 billion cubic meters (2017 est.)<br>
-_industrial_: 793.3 million cubic meters (2017 est.)<br>
-_agricultural_: 16.71 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1.325 trillion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; more moderate in highlands<br>
 
@@ -266,6 +258,14 @@ _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 5.123 billion cubic meters (2017 est.)<br>
+_industrial_: 793.3 million cubic meters (2017 est.)<br>
+_agricultural_: 16.71 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1.325 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -695,7 +695,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 <p>claims all of the area west of the Essequibo River in Guyana, preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before the UN Convention on the Law of the Sea that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; dispute with Colombia over maritime boundary and Venezuelan administered Los Monjes Islands near the Gulf of Venezuela; Colombian organized illegal narcotics and paramilitary activities penetrate Venezuela's shared border region; US, France, and the Netherlands recognize Venezuela's granting full effect to Aves Island, thereby claiming a Venezuelan Economic Exclusion Zone/continental shelf extending over a large portion of the eastern Caribbean Sea; Dominica, Saint Kitts and Nevis, Saint Lucia, and Saint Vincent and the Grenadines protest Venezuela's full effect claim</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 67,622 (Colombia) (2019)<br>
+_refugees (country of origin)_: 67,935 (Colombia) (2020)<br>
 <strong>note: </strong>As of December 2020, more than 800,000 Venezuelans have applied for asylum worldwide<br>
 
 **Trafficking in persons**<br>

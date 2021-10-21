@@ -203,9 +203,6 @@ _signed, but not ratified_: Air Pollution-Volatile Organic Compounds<br>
 **Air pollutants**<br>
 _carbon dioxide emissions_: 2,881.62 megatons (2016 est.)<br>
 
-**Total renewable water resources**<br>
-2,057.76 cubic meters (2011)<br>
-
 **Climate**<br>
 cold temperate; potentially subarctic in the north to temperate; mild wet winters; hot dry summers in the south<br>
 
@@ -217,6 +214,9 @@ _coal revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring regionally; the US Department of Homeland Security has issued instructions requiring US passengers who have been in the European Union’s Schengen Area (comprised of the following 26 European states: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and Switzerland) to travel through select airports where the US Government has implemented enhanced screening procedures<br>
+
+**Total renewable water resources**<br>
+2,057.76 cubic meters (2011)<br>
 
 ## Government
 
@@ -565,7 +565,7 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 ## Military and Security
 
 **Military and security forces**<br>
-<p>the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:</p> <p>the <strong>Political and Security Committee (PSC)</strong>, which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response</p> <p>the <strong>European Union Military Committee (EUMC)</strong> is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU</p> <p>the <strong>Committee for Civilian Aspects of Crisis Management (CIVCOM) </strong>provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management</p> <p>the<strong> Politico-Military Group (PMG)</strong> provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation</p> <p>other bodies set up under the CSDP include; the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Military  Planning  and  Conduct  Capability (MPCC), the European Defense Agency, the European Security and Defense College (ESDC), the EU Institute for Security Studies, and the EU Satellite Center</p><br>
+<p>the EU's Common Security and Defense Policy (CSDP) provides the civilian, military, and political structures for EU crisis management and security issues; the highest bodies are:</p> <p>the <strong>Political and Security Committee (PSC)</strong>, which meets at the ambassadorial level as a preparatory body for the Council of the EU; it assists with defining policies and preparing a crisis response</p> <p>the <strong>European Union Military Committee (EUMC)</strong> is the EU's highest military body; it is composed of the chiefs of defense (CHODs) of the Member States, who are regularly represented by their permanent Military Representatives; the EUMC provides the PSC with advice and recommendations on all military matters within the EU</p> <p>the <strong>Committee for Civilian Aspects of Crisis Management (CIVCOM) </strong>provides advice and recommendations to the PSC in parallel with the EUMC on civilian aspects of crisis management</p> <p>the<strong> Politico-Military Group (PMG)</strong> provides advice and recommendations to the PSC on political aspects of EU military and civil-military issues, including concepts, capabilities and operations and missions, and monitors implementation</p> <p>other bodies set up under the CSDP include; the Security and Defense Policy Directorate (SECDEFPOL), the Integrated approach for Security and Peace Directorate (ISP), the EU Military Staff (EUMS), the Civilian Planning and Conduct Capability (CPCC), the Military  Planning  and  Conduct  Capability (MPCC), the European Defense Agency, the European Security and Defense College (ESDC), the EU Institute for Security Studies, and the EU Satellite Center</p> (2021)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>
@@ -575,10 +575,10 @@ _major port(s)_: Antwerp (Belgium), Barcelona (Spain), Braila (Romania), Bremen 
 1.3% of GDP (2016)<br>
 
 **Military deployments**<br>
-since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea<br>
+since 2003, the EU has launched more than 30 civilian and military crisis-management, advisory, and training missions in Africa, Asia, Europe, and the Middle East, as well as counter-piracy operations off the coast of Somalia and a naval operation in the Mediterranean to disrupt human smuggling and trafficking networks and prevent the loss of life at sea (2021)<br>
 
 **Military - note**<br>
-the EU partners with NATO<br><br>Eurocorps, which supports both the EU and NATO, was formally established in 1992 and activated the following year; originated in 1987 with the French-German Brigade; Belgium (1993), Spain (1994), and Luxembourg (1996) joined over the next few years; five additional countries participate in Eurocorps as associated nations: Greece, Poland, and Turkey (since 2002), Italy and Romania (since 2009 and 2016 respectively); Eurocorps is headquartered in Strasbourg, France<br>
+the EU partners with NATO<br><br>Eurocorps, which supports both the EU and NATO, was formally established in 1992 and activated the following year; originated in 1987 with the French-German Brigade; Belgium (1993), Spain (1994), and Luxembourg (1996) joined over the next few years; five additional countries participate in Eurocorps as associated nations: Greece, Poland, and Turkey (since 2002), Italy and Romania (since 2009 and 2016 respectively); Eurocorps is headquartered in Strasbourg, France (2021)<br>
 
 ## Terrorism
 

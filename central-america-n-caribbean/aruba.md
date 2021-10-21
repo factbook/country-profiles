@@ -217,12 +217,12 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 2.3% (2018 est.)<br>
 _other_: 86.6% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2017 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 43.9% of total population (2021)<br>
 _rate of urbanization_: 0.77% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2017 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 88,132 tons (2013 est.)<br>
@@ -406,8 +406,9 @@ $22 million (2017 est.)<br>
 $133 million (2016 est.)<br>
 
 **Exports**<br>
-$137.1 million (2017 est.)<br>
-$283.1 million (2016 est.)<br>
+$1.45 billion note: data are in current year dollars (2020 est.)<br>
+$2.56 billion note: data are in current year dollars (2019 est.)<br>
+$2.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<br>
@@ -416,8 +417,9 @@ Malaysia 57%, United States 11%, Netherlands 6%, Jordan 6%, Venezuela 5% (2019)<
 refined petroleum, liquors, scrap iron, soap, tobacco (2019)<br>
 
 **Imports**<br>
-$1.122 billion (2017 est.)<br>
-$1.142 billion (2016 est.)<br>
+$1.67 billion note: data are in current year dollars (2020 est.)<br>
+$2.24 billion note: data are in current year dollars (2019 est.)<br>
+$2.27 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 48%, Netherlands 16% (2019)<br>

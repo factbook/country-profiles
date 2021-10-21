@@ -205,15 +205,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 93.8% of total population (2021)<br>
+_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 93.8% of total population (2021)<br>
-_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 ## Government
 
@@ -302,9 +302,9 @@ _lyrics/music_: Conrad HOWELL<br>
 The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrive annually. Three-quarters of the visitors come by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.117 billion (2019 est.)<br>
-$1.06 billion (2018 est.)<br>
-$1.004 billion (2017 est.)<br>
+$820 million note: data are in 2017 dollars (2020 est.)<br>
+$1.12 billion note: data are in 2017 dollars (2019 est.)<br>
+$1.06 billion note: data are in 2017 dollars (2018 est.)<br>
 
 **Real GDP growth rate**<br>
 5.3% (2018 est.)<br>
@@ -312,9 +312,9 @@ $1.004 billion (2017 est.)<br>
 4.4% (2016 est.)<br>
 
 **Real GDP per capita**<br>
-$29,253 (2019 est.)<br>
-$28,162 (2018 est.)<br>
-$27,061 (2017 est.)<br>
+$21,100 note: data are in 2017 dollars (2020 est.)<br>
+$29,300 note: data are in 2017 dollars (2019 est.)<br>
+$28,200 note: data are in 2017 dollars (2018 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $1.02 billion (2018 est.)<br>
@@ -369,7 +369,7 @@ _expenditures_: 224.3 million (2017 est.)<br>
 calendar year<br>
 
 **Exports**<br>
-$24.77 million (2008 est.)<br>
+$830 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8% (2019)<br>
@@ -378,7 +378,7 @@ France 31%, United States 16%, Zambia 13%, Singapore 9%, Republic of the Congo 8
 plastic building materials, stone processing machinery, iron structures, crustaceans, integrated circuits (2019)<br>
 
 **Imports**<br>
-$591.3 million (2008 est.)<br>
+$540 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 76% (2019)<br>

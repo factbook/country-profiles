@@ -242,14 +242,6 @@ _particulate matter emissions_: 17.19 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.39 megatons (2016 est.)<br>
 _methane emissions_: 6.56 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 80.2 million cubic meters (2017 est.)<br>
-_industrial_: 53.4 million cubic meters (2017 est.)<br>
-_agricultural_: 12.3 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-232 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; dry winters with hot days and cool to cold nights; wet, cloudy summers with frequent heavy showers<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 20.8% (2018 est.)<br>
 _forest_: 44.6% (2018 est.)<br>
 _other_: 27.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 52.6% of total population (2021)<br>
+_rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 13.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 52.6% of total population (2021)<br>
-_rate of urbanization_: 3.41% annual rate of change (2015-20 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -281,6 +273,14 @@ _aerosolized dust or soil contact diseases_: Lassa fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 564,467 tons (2007 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 80.2 million cubic meters (2017 est.)<br>
+_industrial_: 53.4 million cubic meters (2017 est.)<br>
+_agricultural_: 12.3 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+232 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +383,9 @@ _lyrics/music_: Daniel Bashiel WARNER/Olmstead LUCA<br>
 <p>Liberia is a low-income country that relies heavily on foreign assistance and remittances from the diaspora. It is richly endowed with water, mineral resources, forests, and a climate favorable to agriculture. Its principal exports are iron ore, rubber, diamonds, and gold. Palm oil and cocoa are emerging as new export products. The government has attempted to revive raw timber extraction and is encouraging oil exploration.</p><p></p><p>In the 1990s and early 2000s, civil war and government mismanagement destroyed much of Liberia's economy, especially infrastructure in and around the capital. Much of the conflict was fueled by control over Liberia’s natural resources. With the conclusion of fighting and the installation of a democratically elected government in 2006, businesses that had fled the country began to return. The country achieved high growth during the period 2010-13 due to favorable world prices for its commodities. However, during the 2014-2015 Ebola crisis, the economy declined and many foreign-owned businesses departed with their capital and expertise. The epidemic forced the government to divert scarce resources to combat the spread of the virus, reducing funds available for needed public investment. The cost of addressing the Ebola epidemic coincided with decreased economic activity reducing government revenue, although higher donor support significantly offset this loss. During the same period, global commodities prices for key exports fell and have yet to recover to pre-Ebola levels.</p><p></p><p>In 2017, gold was a key driver of growth, as a new mining project began its first full year of production; iron ore exports are also increased as Arcelor Mittal opened new mines at Mount Gangra. The completion of the rehabilitation of the Mount Coffee Hydroelectric Dam increased electricity production to support ongoing and future economic activity, although electricity tariffs remain high relative to other countries in the region and transmission infrastructure is limited. Presidential and legislative elections in October 2017 generated election-related spending pressures.</p><p></p><p>Revitalizing the economy in the future will depend on economic diversification, increasing investment and trade, higher global commodity prices, sustained foreign aid and remittances, development of infrastructure and institutions, combating corruption, and maintaining political stability and security.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$7.049 billion (2019 est.)<br>
-$7.214 billion (2018 est.)<br>
-$7.126 billion (2017 est.)<br>
+$6.85 billion note: data are in 2017 dollars (2020 est.)<br>
+$7.05 billion note: data are in 2017 dollars (2019 est.)<br>
+$7.21 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $7.126 billion (2017 est.)<br>
 0% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,428 (2019 est.)<br>
-$1,497 (2018 est.)<br>
-$1,516 (2017 est.)<br>
+$1,400 note: data are in 2017 dollars (2020 est.)<br>
+$1,400 note: data are in 2017 dollars (2019 est.)<br>
+$1,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,8 +472,8 @@ calendar year<br>
 -$464 million (2016 est.)<br>
 
 **Exports**<br>
-$330 million (2019 est.)<br>
-$362 million (2018 est.)<br>
+$550 million note: data are in current year dollars (2019 est.)<br>
+$530 million note: data are in current year dollars (2018 est.)<br>
 $359 million (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -483,8 +483,8 @@ Guyana 32%, Poland 10%, Switzerland 8%, Japan 7%, China 5% (2019)<br>
 ships, iron, gold, rubber, crude petroleum (2019)<br>
 
 **Imports**<br>
-$1.82 billion (2019 est.)<br>
-$1.956 billion (2018 est.)<br>
+$1.24 billion note: data are in current year dollars (2019 est.)<br>
+$1.25 billion note: data are in current year dollars (2018 est.)<br>
 $2.118 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -673,7 +673,7 @@ the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2020)<br>
 the AFL has almost no significant combat hardware as nearly all aircraft, equipment, materiel, and facilities were damaged or destroyed during the country's civil war; it has received little new equipment outside of ammunition, small arms, and trucks from China in 2008, and boats and vehicles donated by the US in the 2010s (2020)<br>
 
 **Military deployments**<br>
-150 Mali (MINUSMA) (Jan 2021)<br>
+150 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription (2019)<br>

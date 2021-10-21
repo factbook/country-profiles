@@ -231,14 +231,6 @@ _particulate matter emissions_: 10.19 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.05 megatons (2016 est.)<br>
 _methane emissions_: 0.95 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 25.3 million cubic meters (2017 est.)<br>
-_industrial_: 9.6 million cubic meters (2017 est.)<br>
-_agricultural_: 50 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-28.55 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical marine; only slight seasonal temperature variation<br>
 
@@ -250,15 +242,15 @@ _agricultural land: permanent pasture_: permanent pasture: 9.6% (2018 est.)<br>
 _forest_: 55.7% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 57.7% of total population (2021)<br>
+_rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.59% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 57.7% of total population (2021)<br>
-_rate of urbanization_: 1.37% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -269,6 +261,14 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 189,390 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 10,322 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5.5% (2013 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 25.3 million cubic meters (2017 est.)<br>
+_industrial_: 9.6 million cubic meters (2017 est.)<br>
+_agricultural_: 50 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+28.55 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -372,9 +372,9 @@ _lyrics/music_: Michael Francis Alexander PRESCOTT/C. Austin MILES (adapted by M
 <p>Fiji, endowed with forest, mineral, and fish resources, is one of the most developed and connected of the Pacific island economies. Earnings from the tourism industry, with an estimated 842,884 tourists visiting in 2017, and remittances from Fijian’s working abroad are the country’s largest foreign exchange earners.</p><p></p><p>Bottled water exports to the US is Fiji’s largest domestic export. Fiji's sugar sector remains a significant industry and a major export, but crops and one of the sugar mills suffered damage during Cyclone Winston in 2016. Fiji’s trade imbalance continues to widen with increased imports and sluggish performance of domestic exports.</p><p></p><p>The return to parliamentary democracy and successful elections in September 2014 improved investor confidence, but increasing bureaucratic regulation, new taxes, and lack of consultation with relevant stakeholders brought four consecutive years of decline for Fiji on the World Bank Ease of Doing Business index. Private sector investment in 2017 approached 20% of GDP, compared to 13% in 2013.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.178 billion (2019 est.)<br>
-$12.232 billion (2018 est.)<br>
-$11.783 billion (2017 est.)<br>
+$9.86 billion note: data are in 2017 dollars (2020 est.)<br>
+$12.18 billion note: data are in 2017 dollars (2019 est.)<br>
+$12.23 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -383,9 +383,9 @@ $11.783 billion (2017 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,684 (2019 est.)<br>
-$13,846 (2018 est.)<br>
-$13,429 (2017 est.)<br>
+$11,000 note: data are in 2017 dollars (2020 est.)<br>
+$13,700 note: data are in 2017 dollars (2019 est.)<br>
+$13,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -465,8 +465,9 @@ calendar year<br>
 -$131 million (2016 est.)<br>
 
 **Exports**<br>
-$908.2 million (2017 est.)<br>
-$709 million (2016 est.)<br>
+$1.23 billion note: data are in current year dollars (2020 est.)<br>
+$2.64 billion note: data are in current year dollars (2019 est.)<br>
+$2.67 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
@@ -475,8 +476,9 @@ United States 29%, Australia 14%, New Zealand 7%, Japan 6%, Tonga 6% (2019)<br>
 water, refined petroleum, fish, raw sugar, gold (2019)<br>
 
 **Imports**<br>
-$1.911 billion (2017 est.)<br>
-$1.761 billion (2016 est.)<br>
+$1.97 billion note: data are in current year dollars (2020 est.)<br>
+$3.21 billion note: data are in current year dollars (2019 est.)<br>
+$3.1 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Singapore 18%, Australia 13%, China 13.8%, New Zealand 11%, France 11%, South Korea 8% (2017)<br>
@@ -670,7 +672,7 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 170 Egypt (MFO); 160 Iraq (UNAMI); 130 Golan Heights (UNDOF) (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 55 (2013)<br>
+18 years of age for voluntary military service; mandatory retirement at age 55 (2019)<br>
 
 ## Transnational Issues
 

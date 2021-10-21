@@ -60,6 +60,9 @@ _other_: 19.3% (2018 est.)<br>
 **Irrigated land**<br>
 0 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
 **Population distribution**<br>
 most of the population is found in the western half of the country along the Rhine River<br>
 
@@ -202,12 +205,6 @@ _signed, but not ratified_: Air Pollution-Multi-effect Protocol, Law of the Sea<
 _carbon dioxide emissions_: 0.05 megatons (2016 est.)<br>
 _methane emissions_: 0.02 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 7.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 continental; cold, cloudy winters with frequent snow or rain; cool to moderately warm, cloudy, humid summers<br>
 
@@ -219,17 +216,26 @@ _agricultural land: permanent pasture_: permanent pasture: 18.8% (2018 est.)<br>
 _forest_: 43.1% (2018 est.)<br>
 _other_: 19.3% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2017 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 14.5% of total population (2021)<br>
 _rate of urbanization_: 1.15% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2017 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,382 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 20,919 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 64.6% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 7.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 

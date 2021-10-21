@@ -224,14 +224,6 @@ _particulate matter emissions_: 21.22 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.41 megatons (2016 est.)<br>
 _methane emissions_: 0.27 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 12.5 million cubic meters (2017 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 30.4 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-300 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical, moderated by northeast trade winds; dry season January to April, rainy season May to August<br>
 
@@ -243,18 +235,26 @@ _agricultural land: permanent pasture_: permanent pasture: 1% (2018 est.)<br>
 _forest_: 77% (2018 est.)<br>
 _other_: 5.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 18.9% of total population (2021)<br>
+_rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
-_rate of urbanization_: 0.98% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 77,616 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 12.5 million cubic meters (2017 est.)<br>
+_industrial_: 0 cubic meters (2017 est.)<br>
+_agricultural_: 30.4 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+300 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -308,9 +308,9 @@ _cabinet_: Cabinet appointed by the governor general on the advice of the prime 
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (11 seats; 6 members appointed on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (17 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
-_elections_: Senate - last appointments on 12 July 2016 (next in 2021)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 8, women 3, percent of women 27.3%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition - NA, percent of women NA; note - total Parliament percent of women NA<br>
+_description_: bicameral Houses of Parliament consists of:<br>Senate (11 seats; all members appointed by the governor general; 6 on the advice of the prime minister, 3 on the advice of the leader of the opposition, and 2 upon consultation with religious, economic, and social groups; members serve 5-year terms)<br>House of Assembly (18 seats; 17 members directly elected in single-seat constituencies by simple majority vote and the speaker, designated from outside the Parliament; members serve 5-year terms)<br>
+_elections_: Senate - last appointments on 17 August 2021 (next in 2026)<br>House of Assembly - last held on 26 July 2021 (next to be held in 2026)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 6, women 5, percent of women 45.5%<br>House of Assembly - percent of vote by party - SLP 50.1%, UWP 42.9%, other o.3%, independent 6.6%; seats by party - SLP 13, UWP 2, independent 2; composition (including the speaker) - men 16, women 2, percent of women 11.1%; note - total Parliament percent of women 24.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: the Eastern Caribbean Supreme Court (ECSC) is the superior court of the Organization of Eastern Caribbean States; the ECSC - headquartered on St. Lucia - consists of the Court of Appeal - headed by the chief justice and 4 judges - and the High Court with 18 judges; the Court of Appeal is itinerant, traveling to member states on a schedule to hear appeals from the High Court and subordinate courts; High Court judges reside in the member states with 4 on Saint Lucia; Saint Lucia is a member of the Caribbean Court of Justice<br>
@@ -351,9 +351,9 @@ _lyrics/music_: Charles JESSE/Leton Felix THOMAS<br>
 <p>The island nation has been able to attract foreign business and investment, especially in its offshore banking and tourism industries. Tourism is Saint Lucia's main source of jobs and income - accounting for 65% of GDP - and the island's main source of foreign exchange earnings. The manufacturing sector is the most diverse in the Eastern Caribbean area. Crops such as bananas, mangos, and avocados continue to be grown for export, but St. Lucia's once solid banana industry has been devastated by strong competition.</p><p></p><p>Saint Lucia is vulnerable to a variety of external shocks, including volatile tourism receipts, natural disasters, and dependence on foreign oil. Furthermore, high public debt - 77% of GDP in 2012 - and high debt servicing obligations constrain the CHASTANET administration's ability to respond to adverse external shocks.</p><p></p><p>St. Lucia has experienced anemic growth since the onset of the global financial crisis in 2008, largely because of a slowdown in tourism - airlines cut back on their routes to St. Lucia in 2012. Also, St. Lucia introduced a value added tax in 2012 of 15%, becoming the last country in the Eastern Caribbean to do so. In 2013, the government introduced a National Competitiveness and Productivity Council to address St. Lucia's high public wages and lack of productivity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.823 billion (2019 est.)<br>
-$2.775 billion (2018 est.)<br>
-$2.704 billion (2017 est.)<br>
+$2.25 billion note: data are in 2017 dollars (2020 est.)<br>
+$2.82 billion note: data are in 2017 dollars (2019 est.)<br>
+$2.78 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -362,9 +362,9 @@ $2.704 billion (2017 est.)<br>
 -0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$15,449 (2019 est.)<br>
-$15,261 (2018 est.)<br>
-$14,946 (2017 est.)<br>
+$12,300 note: data are in 2017 dollars (2020 est.)<br>
+$15,400 note: data are in 2017 dollars (2019 est.)<br>
+$15,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -439,7 +439,7 @@ $21 million (2017 est.)<br>
 -$31 million (2016 est.)<br>
 
 **Exports**<br>
-$185.1 million (2017 est.)<br>
+$1.22 billion note: data are in current year dollars (2018 est.)<br>
 $188.2 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -449,7 +449,7 @@ United States 29%, Uruguay 16%, Barbados 8%, Trinidad and Tobago 5.5%, United Ki
 crude petroleum, beer, jewelry, bananas, refined petroleum, rum (2019)<br>
 
 **Imports**<br>
-$600 million (2017 est.)<br>
+$1 billion note: data are in current year dollars (2018 est.)<br>
 $575.9 million (2016 est.)<br>
 
 **Imports - partners**<br>

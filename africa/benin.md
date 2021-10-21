@@ -63,6 +63,9 @@ _other_: 28.7% (2018 est.)<br>
 **Irrigated land**<br>
 230 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
 **Population distribution**<br>
 the population is primarily located in the south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the north remains sparsely populated with higher concentrations of residents in the west at shown in this population distribution map<br>
 
@@ -246,14 +249,6 @@ _particulate matter emissions_: 33.11 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 6.48 megatons (2016 est.)<br>
 _methane emissions_: 5.8 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 145 million cubic meters (2017 est.)<br>
-_industrial_: 30 million cubic meters (2017 est.)<br>
-_agricultural_: 59 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-26.39 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid in south; semiarid in north<br>
 
@@ -265,15 +260,15 @@ _agricultural land: permanent pasture_: permanent pasture: 4.9% (2018 est.)<br>
 _forest_: 40% (2018 est.)<br>
 _other_: 28.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 49% of total population (2021)<br>
+_rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.24% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 49% of total population (2021)<br>
-_rate of urbanization_: 3.74% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -286,6 +281,17 @@ _respiratory diseases_: meningococcal meningitis<br>
 _municipal solid waste generated annually_: 685,936 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 171,484 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 145 million cubic meters (2017 est.)<br>
+_industrial_: 30 million cubic meters (2017 est.)<br>
+_agricultural_: 59 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+26.39 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -391,9 +397,9 @@ _lyrics/music_: Gilbert Jean DAGNON<br>
 <p>The free market economy of Benin has grown consecutively for four years, though growth slowed in 2017, as its close trade links to Nigeria expose Benin to risks from volatile commodity prices. Cotton is a key export commodity, with export earnings significantly impacted by the price of cotton in the broader market. The economy began deflating in 2017, with the consumer price index falling 0.8%.</p><p></p><p>During the first two years of President TALON’s administration, which began in April 2016, the government has followed an ambitious action plan to kickstart development through investments in infrastructure, education, agriculture, and governance. Electricity generation, which has constrained Benin’s economic growth, has increased and blackouts have been considerably reduced. Private foreign direct investment is small, and foreign aid accounts for a large proportion of investment in infrastructure projects.</p><p></p><p>Benin has appealed for international assistance to mitigate piracy against commercial shipping in its territory, and has used equipment from donors effectively against such piracy. Pilferage has significantly dropped at the Port of Cotonou, though the port is still struggling with effective implementation of the International Ship and Port Facility Security (ISPS) Code. Projects included in Benin's $307 million Millennium Challenge Corporation (MCC) first compact (2006-11) were designed to increase investment and private sector activity by improving key institutional and physical infrastructure. The four projects focused on access to land, access to financial services, access to justice, and access to markets (including modernization of the port). The Port of Cotonou is a major contributor to Benin’s economy, with revenues projected to account for more than 40% of Benin’s national budget.</p><p></p><p>Benin will need further efforts to upgrade infrastructure, stem corruption, and expand access to foreign markets to achieve its potential. In September 2015, Benin signed a second MCC Compact for $375 million that entered into force in June 2017 and is designed to strengthen the national utility service provider, attract private sector investment, fund infrastructure investments in electricity generation and distribution, and develop off-grid electrification for poor and unserved households. As part of the Government of Benin’s action plan to spur growth, Benin passed public private partnership legislation in 2017 to attract more foreign investment, place more emphasis on tourism, facilitate the development of new food processing systems and agricultural products, encourage new information and communication technology, and establish Independent Power Producers. In April 2017, the IMF approved a three year $150.4 million Extended Credit Facility agreement to maintain debt sustainability and boost donor confidence.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.794 billion (2019 est.)<br>
-$36.301 billion (2018 est.)<br>
-$34.023 billion (2017 est.)<br>
+$40.29 billion note: data are in 2017 dollars (2020 est.)<br>
+$38.79 billion note: data are in 2017 dollars (2019 est.)<br>
+$36.3 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -402,9 +408,9 @@ $34.023 billion (2017 est.)<br>
 2.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,287 (2019 est.)<br>
-$3,161 (2018 est.)<br>
-$3,045 (2017 est.)<br>
+$3,300 note: data are in 2017 dollars (2020 est.)<br>
+$3,300 note: data are in 2017 dollars (2019 est.)<br>
+$3,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -480,8 +486,8 @@ calendar year<br>
 -$808 million (2016 est.)<br>
 
 **Exports**<br>
-$3.056 billion (2018 est.)<br>
-$2.726 billion (2017 est.)<br>
+$3.58 billion note: data are in current year dollars (2019 est.)<br>
+$3.85 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Vietnam 5% (2019)<br>
@@ -490,8 +496,8 @@ Nigeria 25%, Bangladesh 14%, United Arab Emirates 14%, India 13%, China 8%, Viet
 cotton, refined petroleum, gold, cashews, copper (2019)<br>
 
 **Imports**<br>
-$5.458 billion (2019 est.)<br>
-$5.279 billion (2018 est.)<br>
+$4.31 billion note: data are in current year dollars (2019 est.)<br>
+$4.67 billion note: data are in current year dollars (2018 est.)<br>
 $5.035 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -600,7 +606,7 @@ _total subscriptions_: 10,349,847<br>
 _subscriptions per 100 inhabitants_: 83.25 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Benin’s telecom market is restricted by poor fixed-line infrastructure; low use of fixed-line voice and Internet; mobile networks account for almost all Internet and voice traffic; progress on fiber infrastructure through World Bank and the government investment to extend broadband and develop Smart Government program; monopolized fixed-line Internet services access is limited; ICT development will provide telecom services to 80% of the country, mostly via mobile and DSL infrastructure; Benin Smart City construction has begun; improved international Internet connectivity supports growth of m-commerce and m-banking; submarine cable connectivity from African coast to Europe (2021)</p> (2019)<br>
+_general assessment_: <p>Benin’s telecom market is restricted by poor fixed-line infrastructure; low use of fixed-line voice and Internet; mobile networks account for almost all Internet and voice traffic; progress on fiber infrastructure through World Bank and the government investment to extend broadband and develop Smart Government program; monopolized fixed-line Internet services access is limited; ICT development will provide telecom services to 80% of the country, mostly via mobile and DSL infrastructure; Benin Smart City construction has begun; improved international Internet connectivity supports growth of m-commerce and m-banking; submarine cable connectivity from African coast to Europe</p> (2021)<br>
 _domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, exceeding 88 per 100 persons (2019)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -694,7 +700,7 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)<br>
 
 **Military - note**<br>
-Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2020)<br>
+Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2021)<br>
 
 ## Terrorism
 

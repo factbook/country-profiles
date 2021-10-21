@@ -60,14 +60,14 @@ _other_: 43.5% (2018)<br>
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
 
 **Geography - note**<br>
 landlocked; The Sudd is a vast swamp in the north central region of South Sudan, formed by the White Nile, its size is variable but can reach some 15% of the country's total area during the rainy season; it is one of the world's largest wetlands<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## People and Society
 
@@ -229,14 +229,6 @@ _particulate matter emissions_: 41.12 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.73 megatons (2016 est.)<br>
 _methane emissions_: 7.61 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 193 million cubic meters (2017 est.)<br>
-_industrial_: 225 million cubic meters (2017 est.)<br>
-_agricultural_: 240 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-49.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 hot with seasonal rainfall influenced by the annual shift of the Inter-Tropical Convergence Zone; rainfall heaviest in upland areas of the south and diminishes to the north<br>
 
@@ -247,12 +239,12 @@ _agricultural land: permanent pasture_: permanent pasture: 40.7% (2018)<br>
 _forest_: 11.3% (2018)<br>
 _other_: 43.5% (2018)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 2.65% of GDP (2015 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 20.5% of total population (2021)<br>
 _rate of urbanization_: 4.12% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 2.65% of GDP (2015 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -270,6 +262,14 @@ _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 193 million cubic meters (2017 est.)<br>
+_industrial_: 225 million cubic meters (2017 est.)<br>
+_agricultural_: 240 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+49.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -422,7 +422,8 @@ _expenditures_: 298.6 million (FY2017/18 est.)<br>
 $39 million (2016 est.)<br>
 
 **Exports**<br>
-$1.13 billion (2016 est.)<br>
+$3.01 billion note: data are in current year dollars (2019 est.)<br>
+$3.09 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 88%, United Arab Emirates 5% (2019)<br>
@@ -431,7 +432,8 @@ China 88%, United Arab Emirates 5% (2019)<br>
 crude petroleum, gold, forage crops, lumber, insect resins (2019)<br>
 
 **Imports**<br>
-$3.795 billion (2016 est.)<br>
+$3.07 billion note: data are in current year dollars (2019 est.)<br>
+$3.57 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 37%, Kenya 18%, China 18% (2019)<br>

@@ -63,6 +63,12 @@ _other_: 45.8% (2018 est.)<br>
 **Irrigated land**<br>
 1,030 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin<br>
+
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
 
@@ -71,12 +77,6 @@ population heavily concentrated in the west along the shore of Lake Victoria; ot
 
 **Geography - note**<br>
 the Kenyan Highlands comprise one of the most successful agricultural production regions in Africa; glaciers are found on Mount Kenya, Africa's second highest peak; unique physiography supports abundant and varied wildlife of scientific and economic value; Lake Victoria, the world's largest tropical lake and the second largest fresh water lake, is shared among three countries: Kenya, Tanzania, and Uganda<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin<br>
 
 ## People and Society
 
@@ -253,14 +253,6 @@ _particulate matter emissions_: 25.85 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 17.91 megatons (2016 est.)<br>
 _methane emissions_: 37.65 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 495 million cubic meters (2017 est.)<br>
-_industrial_: 303 million cubic meters (2017 est.)<br>
-_agricultural_: 3.234 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-30.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical along coast to arid in interior<br>
 
@@ -272,15 +264,15 @@ _agricultural land: permanent pasture_: permanent pasture: 37.4% (2018 est.)<br>
 _forest_: 6.1% (2018 est.)<br>
 _other_: 45.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 28.5% of total population (2021)<br>
+_rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.3% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 28.5% of total population (2021)<br>
-_rate of urbanization_: 4.09% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -302,6 +294,14 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Ogaden-Juba Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 495 million cubic meters (2017 est.)<br>
+_industrial_: 303 million cubic meters (2017 est.)<br>
+_agricultural_: 3.234 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+30.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -407,9 +407,9 @@ _lyrics/music_: Graham HYSLOP, Thomas KALUME, Peter KIBUKOSYA, Washington OMONDI
 <p>Kenya is the economic, financial, and transport hub of East Africa. Kenya’s real GDP growth has averaged over 5% for the last decade. Since 2014, Kenya has been ranked as a lower middle income country because its per capita GDP crossed a World Bank threshold. While Kenya has a growing entrepreneurial middle class and steady growth, its economic development has been impaired by weak governance and corruption. Although reliable numbers are hard to find, unemployment and under-employment are extremely high, and could be near 40% of the population. In 2013, the country adopted a devolved system of government with the creation of 47 counties, and is in the process of devolving state revenues and responsibilities to the counties.</p><p></p><p>Agriculture remains the backbone of the Kenyan economy, contributing one-third of GDP. About 75% of Kenya’s population of roughly 48.5 million work at least part-time in the agricultural sector, including livestock and pastoral activities. Over 75% of agricultural output is from small-scale, rain-fed farming or livestock production. Tourism also holds a significant place in Kenya’s economy. In spite of political turmoil throughout the second half of 2017, tourism was up 20%, showcasing the strength of this sector. Kenya has long been a target of terrorist activity and has struggled with instability along its northeastern borders. Some high visibility terrorist attacks during 2013-2015 (e.g., at Nairobi’s Westgate Mall and Garissa University) affected the tourism industry severely, but the sector rebounded strongly in 2016-2017 and appears poised to continue growing.</p><p></p><p>Inadequate infrastructure continues to hamper Kenya’s efforts to improve its annual growth so that it can meaningfully address poverty and unemployment. The KENYATTA administration has been successful in courting external investment for infrastructure development. International financial institutions and donors remain important to Kenya's growth and development, but Kenya has also successfully raised capital in the global bond market issuing its first sovereign bond offering in mid-2014, with a second occurring in February 2018. The first phase of a Chinese-financed and constructed standard gauge railway connecting Mombasa and Nairobi opened in May 2017.</p><p></p><p>In 2016 the government was forced to take over three small and undercapitalized banks when underlying weaknesses were exposed. The government also enacted legislation that limits interest rates banks can charge on loans and set a rate that banks must pay their depositors. This measure led to a sharp shrinkage of credit in the economy. A prolonged election cycle in 2017 hurt the economy, drained government resources, and slowed GDP growth. Drought-like conditions in parts of the country pushed 2017 inflation above 8%, but the rate had fallen to 4.5% in February 2018.</p><p></p><p>The economy, however, is well placed to resume its decade-long 5%-6% growth rate. While fiscal deficits continue to pose risks in the medium term, other economic indicators, including foreign exchange reserves, interest rates, current account deficits, remittances and FDI are positive. The credit and drought-related impediments were temporary. Now In his second term, President KENYATTA has pledged to make economic growth and development a centerpiece of his second administration, focusing on his "Big Four" initiatives of universal healthcare, food security, affordable housing, and expansion of manufacturing.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$227.638 billion (2019 est.)<br>
-$216.046 billion (2018 est.)<br>
-$203.206 billion (2017 est.)<br>
+$226.94 billion note: data are in 2017 dollars (2020 est.)<br>
+$227.64 billion note: data are in 2017 dollars (2019 est.)<br>
+$216.05 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -418,9 +418,9 @@ $203.206 billion (2017 est.)<br>
 4.79% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$4,330 (2019 est.)<br>
-$4,204 (2018 est.)<br>
-$4,046 (2017 est.)<br>
+$4,200 note: data are in 2017 dollars (2020 est.)<br>
+$4,300 note: data are in 2017 dollars (2019 est.)<br>
+$4,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,8 +503,8 @@ _expenditures_: 19.24 billion (2017 est.)<br>
 -$56.194 billion (2018 est.)<br>
 
 **Exports**<br>
-$10.078 billion (2019 est.)<br>
-$10.1 billion (2018 est.)<br>
+$11.49 billion note: data are in current year dollars (2019 est.)<br>
+$11.56 billion note: data are in current year dollars (2018 est.)<br>
 $9.723 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -514,8 +514,8 @@ Uganda 10%, United States 9%, Netherlands 8%, Pakistan 7%, United Kingdom 6%, Un
 tea, cut flowers, refined petroleum, coffee, titanium (2019)<br>
 
 **Imports**<br>
-$18.729 billion (2019 est.)<br>
-$19.116 billion (2018 est.)<br>
+$20.41 billion note: data are in current year dollars (2019 est.)<br>
+$20.17 billion note: data are in current year dollars (2018 est.)<br>
 $18.653 billion (2017 est.)<br>
 
 **Imports - partners**<br>

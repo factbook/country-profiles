@@ -275,16 +275,6 @@ _carbon dioxide emissions_: 61.28 megatons (2016 est.)<br>
 _methane emissions_: 17.16 megatons (2020 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.063 billion cubic meters (2017 est.)<br>
-_industrial_: 212 million cubic meters (2017 est.)<br>
-_agricultural_: 9.156 billion cubic meters (2017 est.)<br>
-<strong>note:</strong>  data does not include former Western Sahara<br>
-
-**Total renewable water resources**<br>
-29 billion cubic meters (2017 est.)<br>
-<strong>note:</strong>  data does not include former Western Sahara<br>
-
 **Climate**<br>
 Mediterranean in the north, becoming more extreme in the interior; in the south, hot, dry desert; rain is rare; cold offshore air currents produce fog and heavy dew<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
@@ -298,16 +288,16 @@ _forest_: 11.5% (2018 est.)<br>
 _other_: 21% (2018 est.)<br>
 <strong>note:</strong> does not include the area of the former Western Sahara, which is almost exclusively desert<br>
 
+**Urbanization**<br>
+_urban population_: 64.1% of total population (2021)<br>
+_rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong>  data does not include former Western Sahara<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.13% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 64.1% of total population (2021)<br>
-_rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong>  data does not include former Western Sahara<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> clusters of cases of a respiratory illness caused by the novel coronavirus (COVID-19) are occurring in Morocco; as of 6 October 2021, Morocco has reported a total of 936,236 cases of COVID-19 or 2,536.5 cumulative cases of COVID-19 per 100,000 population with 38.94 cumulative deaths per 100,000 population; as of 2 October 2021, 60.91% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -319,6 +309,16 @@ _rate of urbanization_: 1.88% annual rate of change (2020-25 est.)<br>
 _municipal solid waste generated annually_: 6.852 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 548,160 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
+<strong>note:</strong>  data does not include former Western Sahara<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.063 billion cubic meters (2017 est.)<br>
+_industrial_: 212 million cubic meters (2017 est.)<br>
+_agricultural_: 9.156 billion cubic meters (2017 est.)<br>
+<strong>note:</strong>  data does not include former Western Sahara<br>
+
+**Total renewable water resources**<br>
+29 billion cubic meters (2017 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
 ## Government
@@ -426,9 +426,9 @@ _lyrics/music_: Ali Squalli HOUSSAINI/Leo MORGAN<br>
 <p>Morocco has capitalized on its proximity to Europe and relatively low labor costs to work towards building a diverse, open, market-oriented economy. Key sectors of the economy include agriculture, tourism, aerospace, automotive, phosphates, textiles, apparel, and subcomponents. Morocco has increased investment in its port, transportation, and industrial infrastructure to position itself as a center and broker for business throughout Africa. Industrial development strategies and infrastructure improvements - most visibly illustrated by a new port and free trade zone near Tangier - are improving Morocco's competitiveness.</p><p></p><p>In the 1980s, Morocco was a heavily indebted country before pursuing austerity measures and pro-market reforms, overseen by the IMF. Since taking the throne in 1999, King MOHAMMED VI has presided over a stable economy marked by steady growth, low inflation, and gradually falling unemployment, although poor harvests and economic difficulties in Europe contributed to an economic slowdown. To boost exports, Morocco entered into a bilateral Free Trade Agreement with the US in 2006 and an Advanced Status agreement with the EU in 2008. In late 2014, Morocco eliminated subsidies for gasoline, diesel, and fuel oil, dramatically reducing outlays that weighed on the country’s budget and current account. Subsidies on butane gas and certain food products remain in place. Morocco also seeks to expand its renewable energy capacity with a goal of making renewable more than 50% of installed electricity generation capacity by 2030.</p><p></p><p>Despite Morocco's economic progress, the country suffers from high unemployment, poverty, and illiteracy, particularly in rural areas. Key economic challenges for Morocco include reforming the education system and the judiciary.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$279.295 billion (2019 est.)<br>
-$272.531 billion (2018 est.)<br>
-$264.212 billion (2017 est.)<br>
+$259.42 billion note: data are in 2017 dollars (2020 est.)<br>
+$279.3 billion note: data are in 2017 dollars (2019 est.)<br>
+$272.53 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -437,9 +437,9 @@ $264.212 billion (2017 est.)<br>
 3.98% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$7,515 (2019 est.)<br>
-$7,438 (2018 est.)<br>
-$7,314 (2017 est.)<br>
+$6,900 note: data are in 2017 dollars (2020 est.)<br>
+$7,500 note: data are in 2017 dollars (2019 est.)<br>
+$7,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -522,9 +522,9 @@ calendar year<br>
 -$6.758 billion (2018 est.)<br>
 
 **Exports**<br>
-$48.565 billion (2019 est.)<br>
-$46.608 billion (2018 est.)<br>
-$44.033 billion (2017 est.)<br>
+$37.52 billion note: data are in current year dollars (2020 est.)<br>
+$44.05 billion note: data are in current year dollars (2019 est.)<br>
+$43.25 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Spain 23%, France 19% (2019)<br>
@@ -533,9 +533,9 @@ Spain 23%, France 19% (2019)<br>
 cars, insulated wiring, fertilizers, phosphoric acid, clothing and apparel (2019)<br>
 
 **Imports**<br>
-$64.12 billion (2019 est.)<br>
-$61.535 billion (2018 est.)<br>
-$57.257 billion (2017 est.)<br>
+$46.26 billion note: data are in current year dollars (2020 est.)<br>
+$54.1 billion note: data are in current year dollars (2019 est.)<br>
+$55.38 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Spain 19%, France 11%, China 9%, United States 7%, Germany 5%, Turkey 5%, Italy 5% (2019)<br>

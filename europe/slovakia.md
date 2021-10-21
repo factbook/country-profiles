@@ -61,6 +61,9 @@ _other_: 19.7% (2018 est.)<br>
 **Irrigated land**<br>
 869 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
 
@@ -228,14 +231,6 @@ _particulate matter emissions_: 17.54 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 32.42 megatons (2016 est.)<br>
 _methane emissions_: 4.43 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 293.5 million cubic meters (2017 est.)<br>
-_industrial_: 231.2 million cubic meters (2017 est.)<br>
-_agricultural_: 31.6 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-50.1 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
@@ -247,20 +242,31 @@ _agricultural land: permanent pasture_: permanent pasture: 10.8% (2018 est.)<br>
 _forest_: 40.2% (2018 est.)<br>
 _other_: 19.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 53.8% of total population (2021)<br>
+_rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.22% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 53.8% of total population (2021)<br>
-_rate of urbanization_: 0.17% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.784 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 135,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 7.6% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 293.5 million cubic meters (2017 est.)<br>
+_industrial_: 231.2 million cubic meters (2017 est.)<br>
+_agricultural_: 31.6 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+50.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -366,9 +372,9 @@ _lyrics/music_: Janko MATUSKA/traditional<br>
 <p>Slovakia’s economy suffered from a slow start in the first years after its separation from the Czech Republic in 1993, due to the country’s authoritarian leadership and high levels of corruption, but economic reforms implemented after 1998 have placed Slovakia on a path of strong growth. With a population of 5.4 million, the Slovak Republic has a small, open economy driven mainly by automobile and electronics exports, which account for more than 80% of GDP. Slovakia joined the EU in 2004 and the euro zone in 2009. The country’s banking sector is sound and predominantly foreign owned.</p><p></p><p>Slovakia has been a regional FDI champion for several years, attractive due to a relatively low-cost yet skilled labor force, and a favorable geographic location in the heart of Central Europe. Exports and investment have been key drivers of Slovakia’s robust growth in recent years. The unemployment rate fell to historical lows in 2017, and rising wages fueled increased consumption, which played a more prominent role in 2017 GDP growth. A favorable outlook for the Eurozone suggests continued strong growth prospects for Slovakia during the next few years, although inflation is also expected to pick up.</p><p></p><p>Among the most pressing domestic issues potentially threatening the attractiveness of the Slovak market are shortages in the qualified labor force, persistent corruption issues, and an inadequate judiciary, as well as a slow transition to an innovation-based economy. The energy sector in particular is characterized by unpredictable regulatory oversight and high costs, in part driven by government interference in regulated tariffs. Moreover, the government’s attempts to maintain low household energy prices could harm the profitability of domestic energy firms while undercutting energy efficiency initiatives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$178.513 billion (2019 est.)<br>
-$174.47 billion (2018 est.)<br>
-$168.134 billion (2017 est.)<br>
+$165.57 billion note: data are in 2017 dollars (2020 est.)<br>
+$173.83 billion note: data are in 2017 dollars (2019 est.)<br>
+$169.57 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -377,9 +383,9 @@ $168.134 billion (2017 est.)<br>
 3.04% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$32,730 (2019 est.)<br>
-$32,032 (2018 est.)<br>
-$30,911 (2017 est.)<br>
+$30,300 note: data are in 2017 dollars (2020 est.)<br>
+$31,900 note: data are in 2017 dollars (2019 est.)<br>
+$31,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -463,9 +469,9 @@ calendar year<br>
 -$2.635 billion (2018 est.)<br>
 
 **Exports**<br>
-$113.964 billion (2019 est.)<br>
-$113.092 billion (2018 est.)<br>
-$107.518 billion (2017 est.)<br>
+$89.92 billion note: data are in current year dollars (2020 est.)<br>
+$97.04 billion note: data are in current year dollars (2019 est.)<br>
+$100.76 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 22%, Czechia 11%, Poland 7%, France 7%, Hungary 6%, Austria 5%, United Kingdom 5% (2019)<br>
@@ -474,9 +480,9 @@ Germany 22%, Czechia 11%, Poland 7%, France 7%, Hungary 6%, Austria 5%, United K
 cars and vehicle parts, video displays, broadcasting equipment, tires, refined petroleum (2019)<br>
 
 **Imports**<br>
-$107.88 billion (2019 est.)<br>
-$105.67 billion (2018 est.)<br>
-$100.689 billion (2017 est.)<br>
+$87.95 billion note: data are in current year dollars (2020 est.)<br>
+$96.75 billion note: data are in current year dollars (2019 est.)<br>
+$99.92 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 18%, Czechia 18%, Poland 8%, Hungary 7%, Russia 5% (2019)<br>

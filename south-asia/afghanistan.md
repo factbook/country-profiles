@@ -61,6 +61,9 @@ _other_: 40.1% (2018)<br>
 **Irrigated land**<br>
 32,080 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
+
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
 
@@ -69,9 +72,6 @@ damaging earthquakes occur in Hindu Kush mountains; flooding; droughts<br>
 
 **Geography - note**<br>
 landlocked; the Hindu Kush mountains that run northeast to southwest divide the northern provinces from the rest of the country; the highest peaks are in the northern Vakhan (Wakhan Corridor)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage<em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
 
 ## People and Society
 
@@ -246,14 +246,6 @@ _particulate matter emissions_: 53.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 8.67 megatons (2016 est.)<br>
 _methane emissions_: 90.98 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 203.4 million cubic meters (2017 est.)<br>
-_industrial_: 169.5 million cubic meters (2017 est.)<br>
-_agricultural_: 20 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-65.33 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 arid to semiarid; cold winters and hot summers<br>
 
@@ -265,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 46% (2018)<br>
 _forest_: 1.85% (2018 est.)<br>
 _other_: 40.1% (2018)<br>
 
+**Urbanization**<br>
+_urban population_: 26.3% of total population (2021)<br>
+_rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.2% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.45% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 26.3% of total population (2021)<br>
-_rate of urbanization_: 3.34% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -287,7 +279,15 @@ _severe localized food insecurity_: due to civil conflict, population displaceme
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage<em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 203.4 million cubic meters (2017 est.)<br>
+_industrial_: 169.5 million cubic meters (2017 est.)<br>
+_agricultural_: 20 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+65.33 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -396,9 +396,9 @@ _lyrics/music_: Abdul Bari JAHANI/Babrak WASA<br>
 <p>Prior to 2001, Afghanistan was an extremely poor, landlocked, and foreign aid-dependent country. Increased domestic economic activity occurred following the US-led invasion, as well as significant international economic development assistance. This increased activity expanded access to water, electricity, sanitation, education, and health services, and fostered consistent growth in government revenues since 2014. While international security forces have been drawing down since 2012, with much higher U.S. forces’ drawdowns occurring since 2017, economic progress continues, albeit uneven across sectors and key economic indicators. After recovering from the 2018 drought and growing 3.9% in 2019, political instability, expiring international financial commitments, and the COVID-19 pandemic have wrought significant adversity on the Afghan economy, with a projected 5% contraction.</p> <p>Current political parties’ power-sharing agreement following the September 2019 presidential elections as well as ongoing Taliban attacks and peace talks have led to Afghan economic instability. This instability, coupled with expiring international grant and assistance, endangers recent fiscal gains and has led to more internally displaced persons. In November 2020, Afghanistan secured $12 billion in additional international aid for 2021-2025, much of which is conditional upon Taliban peace progress. Additionally, Afghanistan continues to experience influxes of repatriating Afghanis, mostly from Iran, significantly straining economic and security institutions.</p> <p>Afghanistan’s trade deficit remains at approximately 31% of GDP and is highly dependent on financing through grants and aid. While Afghan agricultural growth remains consistent, recent industrial and services growth have been enormously impacted by COVID-19 lockdowns and trade cessations. While trade with the People’s Republic of China has rapidly expanded in recent years, Afghanistan still relies heavily upon India and Pakistan as export partners but is more diverse in its import partners. Furthermore, Afghanistan still struggles to effectively enforce business contracts, facilitate easy tax collection, and enable greater international trade for domestic enterprises.<br><br>Current Afghan priorities focus on the following goals:</p> <ul> <li>Securing international economic agreements, many of which are contingent on Taliban peace progress;</li> <li>Increasing exports to $2 billion USD by 2023;</li> <li>Continuing to expand government revenue collection;</li> <li>Countering corruption and navigating challenges from the power-sharing agreement; and</li> <li>Developing a strong private sector that can empower the economy.</li> </ul><br>
 
 **Real GDP (purchasing power parity)**<br>
-$78.557 billion (2019 est.)<br>
-$75.6 billion (2018 est.)<br>
-$74.711 billion (2017 est.)<br>
+$77.04 billion note: data are in 2017 dollars (2020 est.)<br>
+$78.56 billion note: data are in 2017 dollars (2019 est.)<br>
+$75.6 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -407,9 +407,9 @@ $74.711 billion (2017 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,065 (2019 est.)<br>
-$2,034 (2018 est.)<br>
-$2,058 (2017 est.)<br>
+$2,000 note: data are in 2017 dollars (2020 est.)<br>
+$2,100 note: data are in 2017 dollars (2019 est.)<br>
+$2,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,8 +486,9 @@ $1.014 billion (2017 est.)<br>
 $1.409 billion (2016 est.)<br>
 
 **Exports**<br>
-$784 million (2017 est.)<br>
-$614.2 million (2016 est.)<br>
+$1.48 billion note: data are in current year dollars (2020 est.)<br>
+$1.52 billion note: data are in current year dollars (2019 est.)<br>
+$1.61 billion note: data are in current year dollars (2018 est.)<br>
 <strong>note:</strong> not including illicit exports or reexports<br>
 
 **Exports - partners**<br>
@@ -497,8 +498,9 @@ United Arab Emirates 45%, Pakistan 24%, India 22%, China 1% (2019)<br>
 gold, grapes, opium, fruits and nuts, insect resins, cotton, handwoven carpets, soapstone, scrap metal (2019)<br>
 
 **Imports**<br>
-$7.616 billion (2017 est.)<br>
-$6.16 billion (2016 est.)<br>
+$6.98 billion note: data are in current year dollars (2020 est.)<br>
+$7.37 billion note: data are in current year dollars (2019 est.)<br>
+$7.98 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 23%, Pakistan 17%, India 13%, China 9%, United States 9%, Uzbekistan 7%, Kazakhstan 6% (2019)<br>
@@ -605,7 +607,7 @@ _total subscriptions_: 22,580,071<br>
 _subscriptions per 100 inhabitants_: 63.18 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>despite decades of war, Afghanistan has successfully rebuilt infrastructure to create a functional telecom sector that covers nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the ‘Wakhan Corridor Fiber Optic Survey Project’ to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2020)</p> (2020)<br>
+_general assessment_: <p>despite decades of war, Afghanistan has successfully rebuilt infrastructure to create a functional telecom sector that covers nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the ‘Wakhan Corridor Fiber Optic Survey Project’ to connect to China is nearing completion; major importer of broadcasting equipment from UAE </p> (2020)<br>
 _domestic_: less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2019)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
 <strong><strong>note: </strong></strong>the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments
@@ -707,7 +709,7 @@ Haqqani Taliban Network; Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Islami
 <p>Afghan, Coalition, and Pakistan military meet periodically to clarify the alignment of the boundary on the ground and on maps and since 2014 have met to discuss collaboration on the Taliban insurgency and counterterrorism efforts; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey; Iran protests Afghanistan's restricting flow of dammed Helmand River tributaries during drought; Pakistan has sent troops across and built fences along some remote tribal areas of its treaty-defined Durand Line border with Afghanistan which serve as bases for foreign terrorists and other illegal activities; Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 72,191 (Pakistan) (2019)<br>
+_refugees (country of origin)_: 72,185 (Pakistan) (2020)<br>
 _IDPs_: 3.547 million (mostly Pashtuns and Kuchis displaced in the south and west due to natural disasters and political instability) (2020)<br>
 
 **Trafficking in persons**<br>

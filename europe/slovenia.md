@@ -61,6 +61,9 @@ _other_: 14.9% (2018 est.)<br>
 **Irrigated land**<br>
 60 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations; pockets in the mountainous northwest exhibit less density than elsewhere<br>
 
@@ -69,9 +72,6 @@ flooding; earthquakes<br>
 
 **Geography - note**<br>
 despite its small size, this eastern Alpine country controls some of Europe's major transit routes<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -237,14 +237,6 @@ _particulate matter emissions_: 15.81 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 12.63 megatons (2016 est.)<br>
 _methane emissions_: 2.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 169.5 million cubic meters (2017 est.)<br>
-_industrial_: 758 million cubic meters (2017 est.)<br>
-_agricultural_: 3.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-31.87 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 Mediterranean climate on the coast, continental climate with mild to hot summers and cold winters in the plateaus and valleys to the east<br>
 
@@ -256,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 13.1% (2018 est.)<br>
 _forest_: 62.3% (2018 est.)<br>
 _other_: 14.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 55.4% of total population (2021)<br>
+_rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.2% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 55.4% of total population (2021)<br>
-_rate of urbanization_: 0.54% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 926,000 tons (2015 est.)<br>
@@ -273,6 +265,14 @@ _percent of municipal solid waste recycled_: 46.4% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 169.5 million cubic meters (2017 est.)<br>
+_industrial_: 758 million cubic meters (2017 est.)<br>
+_agricultural_: 3.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+31.87 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: France PRESEREN/Stanko PREMRL<br>
 <p>With excellent infrastructure, a well-educated work force, and a strategic location between the Balkans and Western Europe, Slovenia has one of the highest per capita GDPs in Central Europe, despite having suffered a protracted recession in the 2008-09 period in the wake of the global financial crisis. Slovenia became the first 2004 EU entrant to adopt the euro (on 1 January 2007) and has experienced a stable political and economic transition.</p> <p> </p> <p>In March 2004, Slovenia became the first transition country to graduate from borrower status to donor partner at the World Bank. In 2007, Slovenia was invited to begin the process for joining the OECD; it became a member in 2012. From 2014 to 2016, export-led growth, fueled by demand in larger European markets, pushed annual GDP growth above 2.3%. Growth reached 5.0% in 2017 and is projected to near or reach 5% in 2018. What used to be stubbornly high unemployment fell below 5.5% in early 2018, driven by strong exports and increasing consumption that boosted labor demand. Continued fiscal consolidation through increased tax collection and social security contributions will likely result in a balanced government budget in 2019.</p> <p> </p> <p>Prime Minister CERAR’s government took office in September 2014, pledging to press ahead with commitments to privatize a select group of state-run companies, rationalize public spending, and further stabilize the banking sector. Efforts to privatize Slovenia’s largely state-owned banking sector have largely stalled, however, amid concerns about an ongoing dispute over Yugoslav-era foreign currency deposits.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$81.614 billion (2019 est.)<br>
-$79.095 billion (2018 est.)<br>
-$75.773 billion (2017 est.)<br>
+$76.75 billion note: data are in 2017 dollars (2020 est.)<br>
+$81.25 billion note: data are in 2017 dollars (2019 est.)<br>
+$78.74 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $75.773 billion (2017 est.)<br>
 5.14% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$39,088 (2019 est.)<br>
-$38,139 (2018 est.)<br>
-$36,670 (2017 est.)<br>
+$36,500 note: data are in 2017 dollars (2020 est.)<br>
+$38,900 note: data are in 2017 dollars (2019 est.)<br>
+$38,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -475,9 +475,9 @@ $3.05 billion (2019 est.)<br>
 $3.17 billion (2018 est.)<br>
 
 **Exports**<br>
-$49.872 billion (2019 est.)<br>
-$48.001 billion (2018 est.)<br>
-$45.096 billion (2017 est.)<br>
+$41.73 billion note: data are in current year dollars (2020 est.)<br>
+$45.41 billion note: data are in current year dollars (2019 est.)<br>
+$45.93 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)<br>
@@ -486,9 +486,9 @@ Germany 18%, Italy 11%, Croatia 8%, Austria 7%, France 5%, Switzerland 5% (2019)
 packaged medicines, cars and vehicle parts, refined petroleum, electrical lighting/signaling equipment, electricity (2019)<br>
 
 **Imports**<br>
-$45.489 billion (2019 est.)<br>
-$43.637 billion (2018 est.)<br>
-$40.625 billion (2017 est.)<br>
+$36.6 billion note: data are in current year dollars (2020 est.)<br>
+$40.8 billion note: data are in current year dollars (2019 est.)<br>
+$41.32 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 14%, Italy 12%, Austria 8%, Switzerland 8%, China 7% (2019)<br>

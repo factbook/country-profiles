@@ -223,14 +223,6 @@ _particulate matter emissions_: 35.32 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.26 megatons (2016 est.)<br>
 _methane emissions_: 1.11 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 17 million cubic meters (2017 est.)<br>
-_industrial_: 3 million cubic meters (2017 est.)<br>
-_agricultural_: 318 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-78 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas<br>
 
@@ -242,20 +234,28 @@ _agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 85.5% (2018 est.)<br>
 _other_: 0.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 43% of total population (2021)<br>
+_rate of urbanization_: 2.52% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.89% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 43% of total population (2021)<br>
-_rate of urbanization_: 2.52% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 111,314 tons (2007 est.)<br>
 _municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 17 million cubic meters (2017 est.)<br>
+_industrial_: 3 million cubic meters (2017 est.)<br>
+_agricultural_: 318 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+78 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -349,9 +349,9 @@ _lyrics/music_: Gyaldun Dasho Thinley DORJI/Aku TONGMI<br>
 <p>Bhutan's small economy is based largely on hydropower, agriculture, and forestry, which provide the main livelihood for more than half the population. Because rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive, industrial production is primarily of the cottage industry type. The economy is closely aligned with India's through strong trade and monetary links and is dependent on India for financial assistance and migrant laborers for development projects, especially for road construction. Bhutan signed a pact in December 2014 to expand duty-free trade with Bangladesh.</p><p></p><p>Multilateral development organizations administer most educational, social, and environment programs, and take into account the government's desire to protect the country's environment and cultural traditions. For example, the government is cautious in its expansion of the tourist sector, restricing visits to environmentally conscientious tourists. Complicated controls and uncertain policies in areas such as industrial licensing, trade, labor, and finance continue to hamper foreign investment.</p><p></p><p>Bhutan’s largest export - hydropower to India - could spur sustainable growth in the coming years if Bhutan resolves chronic delays in construction. Bhutan’s hydropower exports comprise 40% of total exports and 25% of the government’s total revenue. Bhutan currently taps only 6.5% of its 24,000-megawatt hydropower potential and is behind schedule in building 12 new hydropower dams with a combined capacity of 10,000 megawatts by 2020 in accordance with a deal signed in 2008 with India. The high volume of imported materials to build hydropower plants has expanded Bhutan's trade and current account deficits. Bhutan also signed a memorandum of understanding with Bangladesh and India in July 2017 to jointly construct a new hydropower plant for exporting electricity to Bangladesh.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.029 billion (2019 est.)<br>
-$8.561 billion (2018 est.)<br>
-$8.307 billion (2017 est.)<br>
+$8.42 billion note: data are in 2017 dollars (2020 est.)<br>
+$9.03 billion note: data are in 2017 dollars (2019 est.)<br>
+$8.56 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -360,9 +360,9 @@ $8.307 billion (2017 est.)<br>
 6.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$11,832 (2019 est.)<br>
-$11,348 (2018 est.)<br>
-$11,142 (2017 est.)<br>
+$10,900 note: data are in 2017 dollars (2020 est.)<br>
+$11,800 note: data are in 2017 dollars (2019 est.)<br>
+$11,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -441,8 +441,9 @@ _expenditures_: 737.4 million (2017 est.)<br>
 -$621 million (2016 est.)<br>
 
 **Exports**<br>
-$554.6 million (2017 est.)<br>
-$495.3 million (2016 est.)<br>
+$790 million note: data are in current year dollars (2020 est.)<br>
+$780 million note: data are in current year dollars (2019 est.)<br>
+$790 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 94% (2019)<br>
@@ -451,8 +452,9 @@ India 94% (2019)<br>
 iron alloys, dolomite, refined iron, cement, silicon carbides (2019)<br>
 
 **Imports**<br>
-$1.025 billion (2017 est.)<br>
-$1.03 billion (2016 est.)<br>
+$1.19 billion note: data are in current year dollars (2020 est.)<br>
+$1.23 billion note: data are in current year dollars (2019 est.)<br>
+$1.25 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 India 85%, Thailand 5% (2019)<br>
@@ -558,7 +560,7 @@ _total subscriptions_: 729,239<br>
 _subscriptions per 100 inhabitants_: 86.79 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bhutan’s telecom market is dominated by the mobile sector for voice and data connections due to poor fixed-line infrastructure and topographic issues; investment is focused on mobile infrastructure and an emergency telecom network for natural disasters; extended LTE to 60% of all mobile Internet users; regulator developing 5G plan; international communication through landline and microwave relay; nascent satellite service; importer of broadcast equipment from India (2021)</p> (2020)<br>
+_general assessment_: <p>Bhutan’s telecom market is dominated by the mobile sector for voice and data connections due to poor fixed-line infrastructure and topographic issues; investment is focused on mobile infrastructure and an emergency telecom network for natural disasters; extended LTE to 60% of all mobile Internet users; regulator developing 5G plan; international communication through landline and microwave relay; nascent satellite service; importer of broadcast equipment from India </p> (2021)<br>
 _domestic_: 3 to 100 fixed-line, 96 to 100 mobile cellular; domestic service inadequate, notably in rural areas (2019)<br>
 _international_: country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -620,7 +622,7 @@ India has provided most of the Royal Bhutan Army's equipment (2020)<br>
 18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2021)<br>
 
 **Military - note**<br>
-India is responsible for military training, arms supplies, and the air defense of Bhutan<br>
+India is responsible for military training, arms supplies, and the air defense of Bhutan (2021)<br>
 
 ## Transnational Issues
 

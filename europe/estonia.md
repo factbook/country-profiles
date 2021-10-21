@@ -240,14 +240,6 @@ _particulate matter emissions_: 6.74 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 16.59 megatons (2016 est.)<br>
 _methane emissions_: 0.99 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 59.4 million cubic meters (2017 est.)<br>
-_industrial_: 1.721 billion cubic meters (2017 est.)<br>
-_agricultural_: 4.5 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-12.806 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 maritime; wet, moderate winters, cool summers<br>
 
@@ -259,15 +251,15 @@ _agricultural land: permanent pasture_: permanent pasture: 7.2% (2018 est.)<br>
 _forest_: 52.1% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 69.4% of total population (2021)<br>
+_rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.85% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 69.4% of total population (2021)<br>
-_rate of urbanization_: -0.03% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -277,6 +269,14 @@ _vectorborne diseases_: tickborne encephalitis<br>
 _municipal solid waste generated annually_: 473,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 117,020 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.7% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 59.4 million cubic meters (2017 est.)<br>
+_industrial_: 1.721 billion cubic meters (2017 est.)<br>
+_agricultural_: 4.5 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+12.806 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +382,9 @@ _lyrics/music_: Johann Voldemar JANNSEN/Fredrik PACIUS<br>
 <p>Estonia, a member of the EU since 2004 and the euro zone since 2011, has a modern market-based economy and one of the higher per capita income levels in Central Europe and the Baltic region, but its economy is highly dependent on trade, leaving it vulnerable to external shocks. Estonia's successive governments have pursued a free market, pro-business economic agenda, and sound fiscal policies that have resulted in balanced budgets and the lowest debt-to-GDP ratio in the EU.</p><p></p><p>The economy benefits from strong electronics and telecommunications sectors and strong trade ties with Finland, Sweden, Germany, and Russia. The economy’s 4.9% GDP growth in 2017 was the fastest in the past six years, leaving the Estonian economy in its best position since the financial crisis 10 years ago. For the first time in many years, labor productivity increased faster than labor costs in 2017. Inflation also rose in 2017 to 3.5% alongside increased global prices for food and energy, which make up a large share of Estonia’s consumption.</p><p></p><p>Estonia is challenged by a shortage of labor, both skilled and unskilled, although the government has amended its immigration law to allow easier hiring of highly qualified foreign workers, and wage growth that outpaces productivity gains. The government is also pursuing efforts to boost productivity growth with a focus on innovations that emphasize technology start-ups and e-commerce.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$48.987 billion (2019 est.)<br>
-$46.655 billion (2018 est.)<br>
-$44.708 billion (2017 est.)<br>
+$47.44 billion note: data are in 2017 dollars (2020 est.)<br>
+$48.87 billion note: data are in 2017 dollars (2019 est.)<br>
+$46.54 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $44.708 billion (2017 est.)<br>
 5.51% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$36,927 (2019 est.)<br>
-$35,293 (2018 est.)<br>
-$33,937 (2017 est.)<br>
+$35,600 note: data are in 2017 dollars (2020 est.)<br>
+$36,800 note: data are in 2017 dollars (2019 est.)<br>
+$35,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -479,9 +479,9 @@ $616 million (2019 est.)<br>
 $280 million (2018 est.)<br>
 
 **Exports**<br>
-$23.95 billion (2019 est.)<br>
-$22.546 billion (2018 est.)<br>
-$21.677 billion (2017 est.)<br>
+$21.69 billion note: data are in current year dollars (2020 est.)<br>
+$22.94 billion note: data are in current year dollars (2019 est.)<br>
+$22.69 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Germany 6% (2019)<br>
@@ -490,9 +490,9 @@ Finland 13%, Sweden 9%, Latvia 8%, Russia 8%, United States 7%, Lithuania 6%, Ge
 broadcasting equipment, refined petroleum, coal tar oil, cars, prefabricated buildings (2019)<br>
 
 **Imports**<br>
-$23.323 billion (2019 est.)<br>
-$22.485 billion (2018 est.)<br>
-$21.273 billion (2017 est.)<br>
+$21.73 billion note: data are in current year dollars (2020 est.)<br>
+$21.68 billion note: data are in current year dollars (2019 est.)<br>
+$21.89 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 12%, Germany 10%, Finland 9%, Lithuania 7%, Latvia 7%, Sweden 6%, Poland 6%, China 6% (2019)<br>

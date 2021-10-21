@@ -233,14 +233,6 @@ _particulate matter emissions_: 40.38 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.62 megatons (2016 est.)<br>
 _methane emissions_: 0.52 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 16 million cubic meters (2017 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 3 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-300 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; torrid, dry<br>
 
@@ -252,15 +244,15 @@ _agricultural land: permanent pasture_: permanent pasture: 73.3% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 26.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 78.2% of total population (2021)<br>
+_rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 78.2% of total population (2021)<br>
-_rate of urbanization_: 1.56% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -272,6 +264,14 @@ _widespread lack of access_: due to floods - about 194,000 people were estimated
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 16 million cubic meters (2017 est.)<br>
+_industrial_: 0 cubic meters (2017 est.)<br>
+_agricultural_: 3 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+300 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -375,9 +375,9 @@ _lyrics/music_: Aden ELMI/Abdi ROBLEH<br>
 <p>Djibouti's economy is based on service activities connected with the country's strategic location as a deepwater port on the Red Sea. Three-fourths of Djibouti's inhabitants live in the capital city; the remainder are mostly nomadic herders. Scant rainfall and less than 4% arable land limits crop production to small quantities of fruits and vegetables, and most food must be imported.</p><p></p><p>Djibouti provides services as both a transit port for the region and an international transshipment and refueling center. Imports, exports, and reexports represent 70% of port activity at Djibouti's container terminal. Reexports consist primarily of coffee from landlocked neighbor Ethiopia. Djibouti has few natural resources and little industry. The nation is, therefore, heavily dependent on foreign assistance to support its balance of payments and to finance development projects. An official unemployment rate of nearly 40% - with youth unemployment near 80% - continues to be a major problem. Inflation was a modest 3% in 2014-2017, due to low international food prices and a decline in electricity tariffs.</p><p></p><p>Djibouti’s reliance on diesel-generated electricity and imported food and water leave average consumers vulnerable to global price shocks, though in mid-2015 Djibouti passed new legislation to liberalize the energy sector. The government has emphasized infrastructure development for transportation and energy and Djibouti – with the help of foreign partners, particularly China – has begun to increase and modernize its port capacity. In 2017, Djibouti opened two of the largest projects in its history, the Doraleh Port and Djibouti-Addis Ababa Railway, funded by China as part of the "Belt and Road Initiative," which will increase the country’s ability to capitalize on its strategic location.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.388 billion (2019 est.)<br>
-$4.999 billion (2018 est.)<br>
-$4.612 billion (2017 est.)<br>
+$5.42 billion note: data are in 2017 dollars (2020 est.)<br>
+$5.39 billion note: data are in 2017 dollars (2019 est.)<br>
+$5 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -386,9 +386,9 @@ $4.612 billion (2017 est.)<br>
 6.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,535 (2019 est.)<br>
-$5,214 (2018 est.)<br>
-$4,885 (2017 est.)<br>
+$5,500 note: data are in 2017 dollars (2020 est.)<br>
+$5,500 note: data are in 2017 dollars (2019 est.)<br>
+$5,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -464,7 +464,8 @@ calendar year<br>
 -$178 million (2016 est.)<br>
 
 **Exports**<br>
-$139.9 million (2017 est.)<br>
+$5.15 billion note: data are in current year dollars (2019 est.)<br>
+$4.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
@@ -473,8 +474,8 @@ Saudi Arabia 42%, India 15%, China 14%, Egypt 5%, South Korea 5% (2019)<br>
 various animals, chlorides, dried legumes, industrial fatty acids/oils, coffee, chickpeas (2019)<br>
 
 **Imports**<br>
-$726.4 million (2017 est.)<br>
-$705.2 million (2016 est.)<br>
+$4.76 billion note: data are in current year dollars (2019 est.)<br>
+$4.19 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 43%, United Arab Emirates 15%, India 7%, Turkey 5% (2019)<br>
@@ -678,5 +679,5 @@ al-Shabaab<br>
 <p>Djibouti maintains economic ties and border accords with "Somaliland" leadership while maintaining some political ties to various factions in Somalia; Kuwait is chief investor in the 2008 restoration and upgrade of the Ethiopian-Djibouti rail link; in 2008, Eritrean troops moved across the border on Ras Doumera peninsula and occupied Doumera Island with undefined sovereignty in the Red Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 12,139 (Somalia) (2020)<br>
+_refugees (country of origin)_: 12,139 (Somalia), 5,666 (Yemen) (2020)<br>
 

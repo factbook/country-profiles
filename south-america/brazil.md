@@ -65,6 +65,12 @@ _other_: 5.2% (2018 est.)<br>
 **Irrigated land**<br>
 54,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
+
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
 
@@ -73,12 +79,6 @@ recurring droughts in northeast; floods and occasional frost in south<br>
 
 **Geography - note**<br>
 <strong>note 1:</strong> largest country in South America and in the Southern Hemisphere; shares common boundaries with every South American country except Chile and Ecuador; most of the Pantanal, the world's largest tropical wetland, extends through the west central part of the country; shares Iguazu Falls, the world's largest waterfalls system, with Argentina<br><br><strong>note 2:</strong> cassava (manioc) the sixth most important food crop in the world - after maize, rice, wheat, potatoes, and soybeans - seems to have originated in the west-central part of Brazil; pineapples are probably indigenous to the southern Brazil-Paraguay region<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 11.49 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 462.3 megatons (2016 est.)<br>
 _methane emissions_: 401.83 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 16.74 billion cubic meters (2017 est.)<br>
-_industrial_: 9.511 billion cubic meters (2017 est.)<br>
-_agricultural_: 39.43 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-8.647 trillion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly tropical, but temperate in south<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 23.5% (2018 est.)<br>
 _forest_: 61.9% (2018 est.)<br>
 _other_: 5.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 87.3% of total population (2021)<br>
+_rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.62% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 87.3% of total population (2021)<br>
-_rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -297,6 +289,14 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 
 **Major aquifers**<br>
 Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 16.74 billion cubic meters (2017 est.)<br>
+_industrial_: 9.511 billion cubic meters (2017 est.)<br>
+_agricultural_: 39.43 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+8.647 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -404,9 +404,9 @@ _lyrics/music_: Joaquim Osorio Duque ESTRADA/Francisco Manoel DA SILVA<br>
 <p>Brazil is the eighth-largest economy in the world, but is recovering from a recession in 2015 and 2016 that ranks as the worst in the country’s history. In 2017, Brazil`s GDP grew 1%, inflation fell to historic lows of 2.9%, and the Central Bank lowered benchmark interest rates from 13.75% in 2016 to 7%.</p><p></p><p>The economy has been negatively affected by multiple corruption scandals involving private companies and government officials, including the impeachment and conviction of Former President Dilma ROUSSEFF in August 2016. Sanctions against the firms involved — some of the largest in Brazil — have limited their business opportunities, producing a ripple effect on associated businesses and contractors but creating opportunities for foreign companies to step into what had been a closed market.</p><p></p><p>The succeeding TEMER administration has implemented a series of fiscal and structural reforms to restore credibility to government finances. Congress approved legislation in December 2016 to cap public spending. Government spending growth had pushed public debt to 73.7% of GDP at the end of 2017, up from over 50% in 2012. The government also boosted infrastructure projects, such as oil and natural gas auctions, in part to raise revenues. Other economic reforms, proposed in 2016, aim to reduce barriers to foreign investment, and to improve labor conditions. Policies to strengthen Brazil’s workforce and industrial sector, such as local content requirements, have boosted employment, but at the expense of investment.</p><p></p><p>Brazil is a member of the Common Market of the South (Mercosur), a trade bloc that includes Argentina, Paraguay and Uruguay - Venezuela’s membership in the organization was suspended In August 2017. After the Asian and Russian financial crises, Mercosur adopted a protectionist stance to guard against exposure to volatile foreign markets and it currently is negotiating Free Trade Agreements with the European Union and Canada.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,092,216,000,000 (2019 est.)<br>
-$3,057,465,000,000 (2018 est.)<br>
-$3,017,715,000,000 (2017 est.)<br>
+$2,989,430,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$3,115,910,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,072,550,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -415,9 +415,9 @@ $3,017,715,000,000 (2017 est.)<br>
 1.62% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$14,652 (2019 est.)<br>
-$14,596 (2018 est.)<br>
-$14,520 (2017 est.)<br>
+$14,100 note: data are in 2017 dollars (2020 est.)<br>
+$14,800 note: data are in 2017 dollars (2019 est.)<br>
+$14,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -501,9 +501,9 @@ calendar year<br>
 -$41.54 billion (2018 est.)<br>
 
 **Exports**<br>
-$291.452 billion (2019 est.)<br>
-$298.565 billion (2018 est.)<br>
-$286.935 billion (2017 est.)<br>
+$239.18 billion note: data are in current year dollars (2020 est.)<br>
+$260.07 billion note: data are in current year dollars (2019 est.)<br>
+$274.9 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 28%, United States 13% (2019)<br>
@@ -512,9 +512,9 @@ China 28%, United States 13% (2019)<br>
 soybeans, crude petroleum, iron, corn, wood pulp products (2019)<br>
 
 **Imports**<br>
-$271.257 billion (2019 est.)<br>
-$268.237 billion (2018 est.)<br>
-$248.961 billion (2017 est.)<br>
+$227.44 billion note: data are in current year dollars (2020 est.)<br>
+$269.02 billion note: data are in current year dollars (2019 est.)<br>
+$267.52 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 21%, United States 18%, Germany 6%, Argentina 6% (2019)<br>

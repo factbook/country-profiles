@@ -62,6 +62,12 @@ _other_: 20.7% (2018 est.)<br>
 **Irrigated land**<br>
 110 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
+
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
@@ -70,12 +76,6 @@ urban clusters are spread throughout the country, particularly in the northeast 
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second largest country in Africa (after Algeria) and largest country in Sub-Saharan Africa; straddles the equator; dense tropical rain forest in central river basin and eastern highlands; the narrow strip of land that controls the lower Congo River is the DRC's only outlet to the South Atlantic Ocean</p> <p><strong>note 2:</strong> because of its speed, cataracts, rapids, and turbulence the Congo River, most of which flows through the DRC, has never been accurately measured along much of its length; nonetheless, it is conceded to be the deepest river in the world; estimates of its greatest depth vary between 220 and 250 meters</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin<br>
 
 ## People and Society
 
@@ -250,14 +250,6 @@ _particulate matter emissions_: 37.62 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
 _methane emissions_: 61.24 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 464.9 million cubic meters (2017 est.)<br>
-_industrial_: 146.8 million cubic meters (2017 est.)<br>
-_agricultural_: 71.9 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1.283 trillion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot and humid in equatorial river basin; cooler and drier in southern highlands; cooler and wetter in eastern highlands; north of Equator - wet season (April to October), dry season (December to February); south of Equator - wet season (November to March), dry season (April to October)<br>
 
@@ -269,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 8% (2018 est.)<br>
 _forest_: 67.9% (2018 est.)<br>
 _other_: 20.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 46.2% of total population (2021)<br>
+_rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 8.72% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 46.2% of total population (2021)<br>
-_rate of urbanization_: 4.33% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -300,6 +292,14 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 
 **Major aquifers**<br>
 Congo Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 464.9 million cubic meters (2017 est.)<br>
+_industrial_: 146.8 million cubic meters (2017 est.)<br>
+_agricultural_: 71.9 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1.283 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -406,9 +406,9 @@ _lyrics/music_: Joseph LUTUMBA/Simon-Pierre BOKA di Mpasi Londi<br>
 <p>The economy of the Democratic Republic of the Congo - a nation endowed with vast natural resource wealth - continues to perform poorly. Systemic corruption since independence in 1960, combined with countrywide instability and intermittent conflict that began in the early-90s, has reduced national output and government revenue, and increased external debt. With the installation of a transitional government in 2003 after peace accords, economic conditions slowly began to improve as the government reopened relations with international financial institutions and international donors, and President KABILA began implementing reforms. Progress on implementing substantive economic reforms remains slow because of political instability, bureaucratic inefficiency, corruption, and patronage, which also dampen international investment prospects.</p><p></p><p>Renewed activity in the mining sector, the source of most export income, boosted Kinshasa's fiscal position and GDP growth until 2015, but low commodity prices have led to slower growth, volatile inflation, currency depreciation, and a growing fiscal deficit. An uncertain legal framework, corruption, and a lack of transparency in government policy are long-term problems for the large mining sector and for the economy as a whole. Much economic activity still occurs in the informal sector and is not reflected in GDP data.</p><p></p><p>Poverty remains widespread in DRC, and the country failed to meet any Millennium Development Goals by 2015. DRC also concluded its program with the IMF in 2015. The price of copper – the DRC’s primary export - plummeted in 2015 and remained at record lows during 2016-17, reducing government revenues, expenditures, and foreign exchange reserves, while inflation reached nearly 50% in mid-2017 – its highest level since the early 2000s.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$95.291 billion (2019 est.)<br>
-$91.289 billion (2018 est.)<br>
-$86.267 billion (2017 est.)<br>
+$96.03 billion note: data are in 2017 dollars (2020 est.)<br>
+$95.29 billion note: data are in 2017 dollars (2019 est.)<br>
+$91.29 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -417,9 +417,9 @@ $86.267 billion (2017 est.)<br>
 6.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,098 (2019 est.)<br>
-$1,086 (2018 est.)<br>
-$1,060 (2017 est.)<br>
+$1,100 note: data are in 2017 dollars (2020 est.)<br>
+$1,100 note: data are in 2017 dollars (2019 est.)<br>
+$1,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -498,9 +498,9 @@ calendar year<br>
 -$1.215 billion (2016 est.)<br>
 
 **Exports**<br>
-$21.16 billion (2019 est.)<br>
-$20.859 billion (2018 est.)<br>
-$18.258 billion (2017 est.)<br>
+$13.93 billion note: data are in current year dollars (2020 est.)<br>
+$15.17 billion note: data are in current year dollars (2019 est.)<br>
+$16.08 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
@@ -509,9 +509,9 @@ China 53%, United Arab Emirates 11%, Saudi Arabia 6%, South Korea 5% (2019)<br>
 copper, cobalt, crude petroleum, diamonds (2019)<br>
 
 **Imports**<br>
-$19.5 billion (2019 est.)<br>
-$21.302 billion (2018 est.)<br>
-$20.338 billion (2017 est.)<br>
+$14.56 billion note: data are in current year dollars (2020 est.)<br>
+$16.89 billion note: data are in current year dollars (2019 est.)<br>
+$17.77 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 29%, South Africa 15%, Zambia 12%, Rwanda 5%, Belgium 5%, India 5% (2019)<br>
@@ -714,7 +714,7 @@ the FARDC is equipped mostly with a mix of second-hand Russian and Soviet-era we
 18-45 years of age for voluntary and compulsory military service (2019)<br>
 
 **Military - note**<br>
-<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of late 2020, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
+<p>the modern FARDC was created out of the armed factions of the two Congo wars of 1996-1997 and 1998-2003; as part of the peace accords that ended the last war, the largest rebel groups were incorporated into the FARDC; many armed groups (at least 70 and by some recent estimates more than 100), however, continue to fight; as of 2021, the FARDC was actively engaged in combat operations against numerous armed groups inside the country, particularly in the eastern provinces of Ituri, North Kivu, and South Kivu, although violence also continues in Maniema, Kasai, Kasai Central, and Tanganyika provinces; the military is widely assessed as being unable to provide adequate security throughout the country due to insufficient training, poor morale and leadership, ill-discipline and corruption, low equipment readiness, a fractious ethnic makeup, and the sheer size of the country and diversity of armed rebel groups</p> <br>MONUSCO, the United Nations peacekeeping and stabilization force in the Democratic Republic of Congo, has operated in the central and eastern parts of the country since 1999; as of August 2021, MONUSCO comprised around 17,000 personnel; MONUSCO includes a Force Intervention Brigade (FIB; 3 infantry battalions, plus artillery and special forces), the first ever UN peacekeeping force specifically tasked to carry out targeted offensive operations to neutralize and disarm groups considered a threat to state authority and civilian security<br>
 
 ## Terrorism
 

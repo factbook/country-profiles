@@ -63,6 +63,9 @@ _other_: 2.5% (2018 est.)<br>
 **Irrigated land**<br>
 730 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
 
@@ -246,14 +249,6 @@ _particulate matter emissions_: 23.72 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9.67 megatons (2016 est.)<br>
 _methane emissions_: 10.3 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 320 million cubic meters (2017 est.)<br>
-_industrial_: 242 million cubic meters (2017 est.)<br>
-_agricultural_: 600 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-84.14 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical along coast, semiarid in far north; three seasons - warm and dry (November to March), hot and dry (March to May), hot and wet (June to October)<br>
 
@@ -265,15 +260,15 @@ _agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 32.7% (2018 est.)<br>
 _other_: 2.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 52.2% of total population (2021)<br>
+_rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.04% of GDP (2016 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 52.2% of total population (2021)<br>
-_rate of urbanization_: 3.38% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -287,6 +282,17 @@ _respiratory diseases_: meningococcal meningitis<br>
 _municipal solid waste generated annually_: 4,440,814 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 133,224 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 3% (2005 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 320 million cubic meters (2017 est.)<br>
+_industrial_: 242 million cubic meters (2017 est.)<br>
+_agricultural_: 600 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+84.14 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +399,9 @@ _lyrics/music_: Mathieu EKRA, Joachim BONY, and Pierre Marie COTY/Pierre Marie C
 <p>For the last 5 years Cote d'Ivoire's growth rate has been among the highest in the world. Cote d'Ivoire is heavily dependent on agriculture and related activities, which engage roughly two-thirds of the population. Cote d'Ivoire is the world's largest producer and exporter of cocoa beans and a significant producer and exporter of coffee and palm oil. Consequently, the economy is highly sensitive to fluctuations in international prices for these products and to climatic conditions. Cocoa, oil, and coffee are the country's top export revenue earners, but the country has targeted agricultural processing of cocoa, cashews, mangoes, and other commodities as a high priority. Mining gold and exporting electricity are growing industries outside agriculture.</p><p></p><p>Following the end of more than a decade of civil conflict in 2011, Cote d’Ivoire has experienced a boom in foreign investment and economic growth. In June 2012, the IMF and the World Bank announced $4.4 billion in debt relief for Cote d'Ivoire under the Highly Indebted Poor Countries Initiative.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$134.048 billion (2019 est.)<br>
-$126.185 billion (2018 est.)<br>
-$118.051 billion (2017 est.)<br>
+$136.48 billion note: data are in 2017 dollars (2020 est.)<br>
+$134.05 billion note: data are in 2017 dollars (2019 est.)<br>
+$126.19 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +410,9 @@ $118.051 billion (2017 est.)<br>
 8.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,213 (2019 est.)<br>
-$5,033 (2018 est.)<br>
-$4,831 (2017 est.)<br>
+$5,200 note: data are in 2017 dollars (2020 est.)<br>
+$5,200 note: data are in 2017 dollars (2019 est.)<br>
+$5,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,8 +491,8 @@ calendar year<br>
 -$414 million (2016 est.)<br>
 
 **Exports**<br>
-$16.326 billion (2018 est.)<br>
-$16.274 billion (2017 est.)<br>
+$13.79 billion note: data are in current year dollars (2019 est.)<br>
+$13.08 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland 5%, Germany 5%, Vietnam 5% (2019)<br>
@@ -495,8 +501,8 @@ Netherlands 10%, United States 6%, France 6%, Spain 5%, Malaysia 5%, Switzerland
 cocoa beans, gold, rubber, refined petroleum, crude petroleum (2019)<br>
 
 **Imports**<br>
-$14.248 billion (2018 est.)<br>
-$13.486 billion (2017 est.)<br>
+$12.88 billion note: data are in current year dollars (2019 est.)<br>
+$13.18 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, Nigeria 13%, France 11% (2019)<br>
@@ -680,7 +686,7 @@ _oil terminal(s)_: Espoir Offshore Terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); National Police (under the Ministry of Security and Civil Protection); Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2020)<br>
+Armed Forces of Cote d'Ivoire (Forces Armees de Cote d'Ivoire, FACI; aka Republican Forces of Ivory Coast, FRCI): Army (Armee de Terre), Navy (Marine Nationale), Cote Air Force (Force Aerienne Cote), Special Forces (Forces Speciale); National Gendarmerie (under the Ministry of Defense); National Police (under the Ministry of Security and Civil Protection); Coordination Center for Operational Decisions (a mix of police, gendarmerie, and FACI personnel for assisting police in providing security in some large cities) (2021)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>
@@ -705,7 +711,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 18-25 years of age for compulsory and voluntary male and female military service; conscription is not enforced; voluntary recruitment of former rebels into the new national army is restricted to ages 22-29 (2019)<br>
 
 **Military - note**<br>
-the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; currently, the FACI is focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017<br>
+the military has mutinied several times since the late 1990s, most recently in 2017, and has had a large role in the country’s political turmoil; as of late 2021, the FACI was focused on internal security and the growing threat posed by Islamic militants associated with the al-Qa’ida in the Islamic Maghreb (AQIM) terrorist group operating across the border in Burkina Faso; AQIM militants conducted significant attacks in the country in 2016 and 2020; Côte d’Ivoire since 2016 has stepped up border security and completed building a joint counter-terrorism training center with France near Abidjan in 2020<br><br>the UN maintained a 9,000-strong peacekeeping force in Cote d’Ivoire (UNOCI) from 2004 until 2017<br>
 
 ## Terrorism
 

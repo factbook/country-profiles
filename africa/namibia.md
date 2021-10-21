@@ -63,6 +63,12 @@ _other_: 44% (2018 est.)<br>
 **Irrigated land**<br>
 80 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 **Population distribution**<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
 
@@ -71,12 +77,6 @@ prolonged periods of drought<br>
 
 **Geography - note**<br>
 the Namib Desert, after which the country is named, is considered to be the oldest desert in the world; Namibia is the first country in the world to incorporate the protection of the environment into its constitution; some 14% of the land is protected, including virtually the entire Namib Desert coastal strip; Namib-Naukluft National Park (49,768 sq km), is the largest game park in Africa and one of the largest in the world<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
-
-**Major aquifers**<br>
-Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## People and Society
 
@@ -247,14 +247,6 @@ _particulate matter emissions_: 22.59 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 4.23 megatons (2016 est.)<br>
 _methane emissions_: 10.4 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 73 million cubic meters (2017 est.)<br>
-_industrial_: 14 million cubic meters (2017 est.)<br>
-_agricultural_: 201 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-39.91 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; hot, dry; rainfall sparse and erratic<br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 46.2% (2018 est.)<br>
 _forest_: 8.8% (2018 est.)<br>
 _other_: 44% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 53% of total population (2021)<br>
+_rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.47% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 53% of total population (2021)<br>
-_rate of urbanization_: 3.64% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -291,10 +283,18 @@ _municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 73 million cubic meters (2017 est.)<br>
+_industrial_: 14 million cubic meters (2017 est.)<br>
+_agricultural_: 201 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+39.91 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -399,9 +399,9 @@ _lyrics/music_: Axali DOESEB<br>
 <p>Namibia’s economy is heavily dependent on the extraction and processing of minerals for export. Mining accounts for about 12.5% of GDP, but provides more than 50% of foreign exchange earnings. Rich alluvial diamond deposits make Namibia a primary source for gem-quality diamonds. Marine diamond mining is increasingly important as the terrestrial diamond supply has dwindled. The rising cost of mining diamonds, especially from the sea, combined with increased diamond production in Russia and China, has reduced profit margins. Namibian authorities have emphasized the need to add value to raw materials, do more in-country manufacturing, and exploit the services market, especially in the logistics and transportation sectors.</p><p></p><p>Namibia is one of the world’s largest producers of uranium. The Chinese-owned Husab uranium mine began producing uranium ore in 2017, and is expected to reach full production in August 2018 and produce 15 million pounds of uranium a year. Namibia also produces large quantities of zinc and is a smaller producer of gold and copper. Namibia's economy remains vulnerable to world commodity price fluctuations and drought.</p><p></p><p>Namibia normally imports about 50% of its cereal requirements; in drought years, food shortages are problematic in rural areas. A high per capita GDP, relative to the region, obscures one of the world's most unequal income distributions; the current government has prioritized exploring wealth redistribution schemes while trying to maintain a pro-business environment. GDP growth in 2017 slowed to about 1%, however, due to contractions in both the construction and mining sectors, as well as an ongoing drought. Growth is expected to recover modestly in 2018.</p><p></p><p>A five-year Millennium Challenge Corporation compact ended in September 2014. As an upper middle income country, Namibia is ineligible for a second compact. The Namibian economy is closely linked to South Africa with the Namibian dollar pegged one-to-one to the South African rand. Namibia receives 30%-40% of its revenues from the Southern African Customs Union (SACU); volatility in the size of Namibia's annual SACU allotment and global mineral prices complicates budget planning.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$24.04 billion (2019 est.)<br>
-$24.316 billion (2018 est.)<br>
-$24.147 billion (2017 est.)<br>
+$22.6 billion note: data are in 2017 dollars (2020 est.)<br>
+$24.56 billion note: data are in 2017 dollars (2019 est.)<br>
+$24.71 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -410,9 +410,9 @@ $24.147 billion (2017 est.)<br>
 -1.02% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$9,637 (2019 est.)<br>
-$9,932 (2018 est.)<br>
-$10,051 (2017 est.)<br>
+$8,900 note: data are in 2017 dollars (2020 est.)<br>
+$9,800 note: data are in 2017 dollars (2019 est.)<br>
+$10,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -495,9 +495,9 @@ _expenditures_: 5 billion (2017 est.)<br>
 -$465 million (2018 est.)<br>
 
 **Exports**<br>
-$6.087 billion (2019 est.)<br>
-$6.225 billion (2018 est.)<br>
-$5.347 billion (2017 est.)<br>
+$3.56 billion note: data are in current year dollars (2020 est.)<br>
+$4.56 billion note: data are in current year dollars (2019 est.)<br>
+$4.95 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
@@ -506,9 +506,9 @@ China 27%, South Africa 18%, Botswana 8%, Belgium 7% (2019)<br>
 copper, diamonds, uranium, thorium, gold, radioactive chemicals, fish (2019)<br>
 
 **Imports**<br>
-$9.921 billion (2019 est.)<br>
-$9.611 billion (2018 est.)<br>
-$9.249 billion (2017 est.)<br>
+$4.54 billion note: data are in current year dollars (2020 est.)<br>
+$5.77 billion note: data are in current year dollars (2019 est.)<br>
+$6.33 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 47%, Zambia 16% (2019)<br>

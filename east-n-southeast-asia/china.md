@@ -64,6 +64,12 @@ _other_: 23% (2018 est.)<br>
 **Irrigated land**<br>
 690,070 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
+
+**Major aquifers**<br>
+North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
+
 **Population distribution**<br>
 overwhelming majority of the population is found in the eastern half of the country; the west, with its vast mountainous and desert areas, remains sparsely populated; though ranked first in the world in total population, overall density is less than that of many other countries in Asia and Europe; high population density is found along the Yangtze and Yellow River valleys, the Xi Jiang River delta, the Sichuan Basin (around Chengdu), in and around Beijing, and the industrial area around Shenyang<br>
 
@@ -72,12 +78,6 @@ overwhelming majority of the population is found in the eastern half of the coun
 
 **Geography - note**<br>
 <strong>note 1:</strong> world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level<br><br><strong>note 2:</strong> the largest cave chamber in the world is the Miao Room, in the Gebihe cave system at China's Ziyun Getu He Chuandong National Park, which encloses some 10.78 million cu m (380.7 million cu ft) of volume<br><br><strong>note 3:</strong> China appears to have been the center of domestication for two of the world's leading cereal crops: millet in the north along the Yellow River and rice in the south along the lower or middle Yangtze River<br>
-
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
-
-**Major aquifers**<br>
-North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 49.16 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9,893.04 megatons (2016 est.)<br>
 _methane emissions_: 1,490.24 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 79.4 billion cubic meters (2017 est.)<br>
-_industrial_: 133.5 billion cubic meters (2017 est.)<br>
-_agricultural_: 385.2 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2,840,220,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 extremely diverse; tropical in south to subarctic in north<br>
 
@@ -267,16 +259,16 @@ _agricultural land: permanent pasture_: permanent pasture: 41.8% (2018 est.)<br>
 _forest_: 22.3% (2018 est.)<br>
 _other_: 23% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 62.5% of total population (2021)<br>
+_rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data do not include Hong Kong and Macau<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.57% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 62.5% of total population (2021)<br>
-_rate of urbanization_: 1.78% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data do not include Hong Kong and Macau<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -289,10 +281,18 @@ _soil contact diseases_: hantaviral hemorrhagic fever with renal syndrome (HFRS)
 _municipal solid waste generated annually_: 210 million tons (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>Lake Balkash drainage <em>(endorheic basin)</em>: Lake Balkash (510,015 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Pacific Ocean drainage: Amur (1,929,955 sq km), Huang He (944,970 sq km), Mekong (805,604 sq km), Yangtze (1,722,193 sq km)<br>Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Arctic Ocean drainage: Ob (2,972,493 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Major aquifers**<br>
 North China Aquifer System (Huang Huai Hai Plain), Song-Liao Plain, Tarim Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 79.4 billion cubic meters (2017 est.)<br>
+_industrial_: 133.5 billion cubic meters (2017 est.)<br>
+_agricultural_: 385.2 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2,840,220,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -402,9 +402,9 @@ _lyrics/music_: TIAN Han/NIE Er<br>
 <p>Since the late 1970s, China has moved from a closed, centrally planned system to a more market-oriented one that plays a major global role. China has implemented reforms in a gradualist fashion, resulting in efficiency gains that have contributed to a more than tenfold increase in GDP since 1978. Reforms began with the phaseout of collectivized agriculture, and expanded to include the gradual liberalization of prices, fiscal decentralization, increased autonomy for state enterprises, growth of the private sector, development of stock markets and a modern banking system, and opening to foreign trade and investment. China continues to pursue an industrial policy, state support of key sectors, and a restrictive investment regime. From 2013 to 2017, China had one of the fastest growing economies in the world, averaging slightly more than 7% real growth per year. Measured on a purchasing power parity (PPP) basis that adjusts for price differences, China in 2017 stood as the largest economy in the world, surpassing the US in 2014 for the first time in modern history. China became the world's largest exporter in 2010, and the largest trading nation in 2013. Still, China's per capita income is below the world average.</p><p></p><p>In July 2005 moved to an exchange rate system that references a basket of currencies. From mid-2005 to late 2008, the renminbi (RMB) appreciated more than 20% against the US dollar, but the exchange rate remained virtually pegged to the dollar from the onset of the global financial crisis until June 2010, when Beijing announced it would resume a gradual appreciation. From 2013 until early 2015, the renminbi held steady against the dollar, but it depreciated 13% from mid-2015 until end-2016 amid strong capital outflows; in 2017 the RMB resumed appreciating against the dollar – roughly 7% from end-of-2016 to end-of-2017. In 2015, the People’s Bank of China announced it would continue to carefully push for full convertibility of the renminbi, after the currency was accepted as part of the IMF’s special drawing rights basket. However, since late 2015 the Chinese Government has strengthened capital controls and oversight of overseas investments to better manage the exchange rate and maintain financial stability.</p><p></p><p>The Chinese Government faces numerous economic challenges including: (a) reducing its high domestic savings rate and correspondingly low domestic household consumption; (b) managing its high corporate debt burden to maintain financial stability; (c) controlling off-balance sheet local government debt used to finance infrastructure stimulus; (d) facilitating higher-wage job opportunities for the aspiring middle class, including rural migrants and college graduates, while maintaining competitiveness; (e) dampening speculative investment in the real estate sector without sharply slowing the economy; (f) reducing industrial overcapacity; and (g) raising productivity growth rates through the more efficient allocation of capital and state-support for innovation. Economic development has progressed further in coastal provinces than in the interior, and by 2016 more than 169.3 million migrant workers and their dependents had relocated to urban areas to find work. One consequence of China’s population control policy known as the "one-child policy" - which was relaxed in 2016 to permit all families to have two children - is that China is now one of the most rapidly aging countries in the world. Deterioration in the environment - notably air pollution, soil erosion, and the steady fall of the water table, especially in the North - is another long-term problem. China continues to lose arable land because of erosion and urbanization. The Chinese Government is seeking to add energy production capacity from sources other than coal and oil, focusing on natural gas, nuclear, and clean energy development. In 2016, China ratified the Paris Agreement, a multilateral agreement to combat climate change, and committed to peak its carbon dioxide emissions between 2025 and 2030.</p><p></p><p>The government's 13th Five-Year Plan, unveiled in March 2016, emphasizes the need to increase innovation and boost domestic consumption to make the economy less dependent on government investment, exports, and heavy industry. However, China has made more progress on subsidizing innovation than rebalancing the economy. Beijing has committed to giving the market a more decisive role in allocating resources, but the Chinese Government’s policies continue to favor state-owned enterprises and emphasize stability. Chinese leaders in 2010 pledged to double China’s GDP by 2020, and the 13th Five Year Plan includes annual economic growth targets of at least 6.5% through 2020 to achieve that goal. In recent years, China has renewed its support for state-owned enterprises in sectors considered important to "economic security," explicitly looking to foster globally competitive industries. Chinese leaders also have undermined some market-oriented reforms by reaffirming the "dominant" role of the state in the economy, a stance that threatens to discourage private initiative and make the economy less efficient over time. The slight acceleration in economic growth in 2017—the first such uptick since 2010—gives Beijing more latitude to pursue its economic reforms, focusing on financial sector deleveraging and its Supply-Side Structural Reform agenda, first announced in late 2015.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$22,526,502,000,000 (2019 est.)<br>
-$21,229,363,000,000 (2018 est.)<br>
-$19,887,033,000,000 (2017 est.)<br>
+$23,009,780,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$22,492,450,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$21,229,360,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -413,9 +413,9 @@ $19,887,033,000,000 (2017 est.)<br>
 6.92% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$16,117 (2019 est.)<br>
-$15,243 (2018 est.)<br>
-$14,344 (2017 est.)<br>
+$16,400 note: data are in 2017 dollars (2020 est.)<br>
+$16,100 note: data are in 2017 dollars (2019 est.)<br>
+$15,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,9 +503,9 @@ $141.335 billion (2019 est.)<br>
 $25.499 billion (2018 est.)<br>
 
 **Exports**<br>
-$2.49 trillion (2018)<br>
-$2.216 trillion (2017 est.)<br>
-$1.99 trillion (2016 est.)<br>
+$2,732,370,000,000 note: data are in current year dollars (2020 est.)<br>
+$2.631 trillion note: data are in current year dollars (2019 est.)<br>
+$2,651,010,000,000 note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
@@ -514,9 +514,9 @@ United States 17%, Hong Kong 10%, Japan 6% (2019)<br>
 broadcasting equipment, computers, integrated circuits, office machinery and parts, telephones (2019)<br>
 
 **Imports**<br>
-$2.14 trillion (2018)<br>
-$1.74 trillion (2017 est.)<br>
-$1.501 trillion (2016 est.)<br>
+$2,362,690,000,000 note: data are in current year dollars (2020 est.)<br>
+$2,499,150,000,000 note: data are in current year dollars (2019 est.)<br>
+$2,563,100,000,000 note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Korea 9%, Japan 8%, Australia 7%, Germany 7%, US 7%, Taiwan 6% (2019)<br>
@@ -736,7 +736,7 @@ note: the PLA is in the midst of a decades-long modernization effort; in 2017, P
 <p>China and India continue their security and foreign policy dialogue started in 2005 related to a number of boundary disputes across the 2,000 mile shared border; India does not recognize Pakistan's 1964 ceding to China of the Aksai Chin, a territory designated as part of the princely state of Kashmir by the British Survey of India in 1865; China claims most of the Indian state Arunachal Pradesh to the base of the Himalayas, but the US recognizes the state of Arunachal Pradesh as Indian territory; Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China's Chumbi salient; Chinese maps show an international boundary symbol (the so-called “nine-dash line”) off the coasts of the littoral states of the South China Sea, where China has interrupted Vietnamese hydrocarbon exploration; China asserts sovereignty over Scarborough Reef along with the Philippines and Taiwan, and over the Spratly Islands together with Malaysia, the Philippines, Taiwan, Vietnam, and Brunei; the 2002 Declaration on the Conduct of Parties in the South China Sea eased tensions in the Spratlys, and in 2017 China and ASEAN began confidential negotiations for an updated Code of Conduct for the South China Sea designed not to settle territorial disputes but establish rules and norms in the region; this still is not the legally binding code of conduct sought by some parties; Vietnam and China continue to expand construction of facilities in the Spratlys and in early 2018 China began deploying advanced military systems to disputed Spratly outposts; China occupies some of the Paracel Islands also claimed by Vietnam and Taiwan; the Japanese-administered Senkaku Islands are also claimed by China and Taiwan; certain islands in the Yalu and Tumen Rivers are in dispute with North Korea; North Korea and China seek to stem illegal migration to China by North Koreans, fleeing privation and oppression; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with their 2004 Agreement; China and Tajikistan have begun demarcating the revised boundary agreed to in the delimitation of 2002; the decade-long demarcation of the China-Vietnam land boundary was completed in 2009; citing environmental, cultural, and social concerns, China has reconsidered construction of 13 dams on the Salween River, but energy-starved Burma, with backing from Thailand, continues to consider building five hydro-electric dams downstream despite regional and international protests</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 303,095 (Vietnam), undetermined (North Korea) (2019)<br>
+_refugees (country of origin)_: 303,095 (Vietnam), undetermined (North Korea) (2020)<br>
 _IDPs_: undetermined (2021)<br>
 
 **Trafficking in persons**<br>

@@ -230,14 +230,6 @@ _particulate matter emissions_: 11.45 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1,135.89 megatons (2016 est.)<br>
 _methane emissions_: 29.99 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 15.41 billion cubic meters (2017 est.)<br>
-_industrial_: 11.61 billion cubic meters (2017 est.)<br>
-_agricultural_: 54.43 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-430 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical in south to cool temperate in north<br>
 
@@ -249,15 +241,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 68.5% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 91.9% of total population (2021)<br>
+_rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 91.9% of total population (2021)<br>
-_rate of urbanization_: -0.25% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -267,6 +259,14 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,155,069 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 15.41 billion cubic meters (2017 est.)<br>
+_industrial_: 11.61 billion cubic meters (2017 est.)<br>
+_agricultural_: 54.43 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+430 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -373,8 +373,8 @@ _lyrics/music_: unknown/Hiromori HAYASHI<br>
 <p>Over the past 70 years, government-industry cooperation, a strong work ethic, mastery of high technology, and a comparatively small defense allocation (slightly less than 1% of GDP) have helped Japan develop an advanced economy. Two notable characteristics of the post-World War II economy were the close interlocking structures of manufacturers, suppliers, and distributors, known as keiretsu, and the guarantee of lifetime employment for a substantial portion of the urban labor force. Both features have significantly eroded under the dual pressures of global competition and domestic demographic change.</p><p></p><p>Measured on a purchasing power parity basis that adjusts for price differences, Japan in 2017 stood as the fourth-largest economy in the world after first-place China, which surpassed Japan in 2001, and third-place India, which edged out Japan in 2012. For three postwar decades, overall real economic growth was impressive - averaging 10% in the 1960s, 5% in the 1970s, and 4% in the 1980s. Growth slowed markedly in the 1990s, averaging just 1.7%, largely because of the aftereffects of inefficient investment and the collapse of an asset price bubble in the late 1980s, which resulted in several years of economic stagnation as firms sought to reduce excess debt, capital, and labor. Modest economic growth continued after 2000, but the economy has fallen into recession four times since 2008.</p><p></p><p>Japan enjoyed an uptick in growth since 2013, supported by Prime Minister Shinzo ABE’s "Three Arrows" economic revitalization agenda - dubbed "Abenomics" - of monetary easing, "flexible" fiscal policy, and structural reform. Led by the Bank of Japan’s aggressive monetary easing, Japan is making modest progress in ending deflation, but demographic decline – a low birthrate and an aging, shrinking population – poses a major long-term challenge for the economy. The government currently faces the quandary of balancing its efforts to stimulate growth and institute economic reforms with the need to address its sizable public debt, which stands at 235% of GDP. To help raise government revenue, Japan adopted legislation in 2012 to gradually raise the consumption tax rate. However, the first such increase, in April 2014, led to a sharp contraction, so Prime Minister ABE has twice postponed the next increase, which is now scheduled for October 2019. Structural reforms to unlock productivity are seen as central to strengthening the economy in the long-run.</p><p></p><p>Scarce in critical natural resources, Japan has long been dependent on imported energy and raw materials. After the complete shutdown of Japan’s nuclear reactors following the earthquake and tsunami disaster in 2011, Japan's industrial sector has become even more dependent than before on imported fossil fuels. However, ABE’s government is seeking to restart nuclear power plants that meet strict new safety standards and is emphasizing nuclear energy’s importance as a base-load electricity source. In August 2015, Japan successfully restarted one nuclear reactor at the Sendai Nuclear Power Plant in Kagoshima prefecture, and several other reactors around the country have since resumed operations; however, opposition from local governments has delayed several more restarts that remain pending. Reforms of the electricity and gas sectors, including full liberalization of Japan’s energy market in April 2016 and gas market in April 2017, constitute an important part of Prime Minister Abe’s economic program.</p><p></p><p>Under the Abe Administration, Japan’s government sought to open the country’s economy to greater foreign competition and create new export opportunities for Japanese businesses, including by joining 11 trading partners in the Trans-Pacific Partnership (TPP). Japan became the first country to ratify the TPP in December 2016, but the United States signaled its withdrawal from the agreement in January 2017. In November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). Japan also reached agreement with the European Union on an Economic Partnership Agreement in July 2017, and is likely seek to ratify both agreements in the Diet this year.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5,231,066,000,000 (2019 est.)<br>
-$5,197,069,000,000 (2018 est.)<br>
+$5,224,850,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$5,210,770,000,000 note: data are in 2017 dollars (2018 est.)<br>
 $5,180,326,000,000 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
@@ -384,8 +384,8 @@ $5,180,326,000,000 (2017 est.)<br>
 2.19% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$41,429 (2019 est.)<br>
-$41,074 (2018 est.)<br>
+$41,400 note: data are in 2017 dollars (2019 est.)<br>
+$41,200 note: data are in 2017 dollars (2018 est.)<br>
 $40,859 (2017 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
@@ -469,9 +469,9 @@ $185.644 billion (2019 est.)<br>
 $177.08 billion (2018 est.)<br>
 
 **Exports**<br>
-$1,084,146,000,000 (2019 est.)<br>
-$1,099,855,000,000 (2018 est.)<br>
-$1,059,991,000,000 (2017 est.)<br>
+$793.32 billion note: data are in current year dollars (2020 est.)<br>
+$904.63 billion note: data are in current year dollars (2019 est.)<br>
+$929.83 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
@@ -480,9 +480,9 @@ United States 19%, China 18%, South Korea 6%, Taiwan 6% (2019)<br>
 cars and vehicle parts, integrated circuits, personal appliances, ships (2019)<br>
 
 **Imports**<br>
-$1,032,112,000,000 (2019 est.)<br>
-$1,035,557,000,000 (2018 est.)<br>
-$998.014 billion (2017 est.)<br>
+$799.52 billion note: data are in current year dollars (2020 est.)<br>
+$913.25 billion note: data are in current year dollars (2019 est.)<br>
+$928.42 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 23%, United States 11%, Australia 6% (2019)<br>
@@ -668,7 +668,7 @@ Okinawa - Nakagusuku<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2020)<br>
+Japan Self-Defense Force (JSDF): Ground Self-Defense Force (Rikujou Jieitai, GSDF; includes aviation), Maritime Self-Defense Force (Kaijou Jieitai, MSDF; includes naval aviation), Air Self-Defense Force (Koukuu Jieitai, ASDF); Japan Coast Guard (Ministry of Land, Transport, Infrastructure and Tourism) (2021)<br>
 
 **Military expenditures**<br>
 1% of GDP (2020)<br>
@@ -684,7 +684,7 @@ the Japanese Self Defense Force (JSDF) is comprised of approximately 240,000 act
 the JSDF is equipped with a mix of imported and domestically-produced equipment; Japan is capable of producing a wide range of air, ground, and naval weapons systems; the majority of its weapons imports are from the US and some domestically-produced weapons are US-origin and manufactured under license (2020)<br>
 
 **Military deployments**<br>
-approximately 170 Djibouti (2020 )<br>
+approximately 175 Djibouti (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service (maximum enlistment age 32); no conscription (2019)<br>

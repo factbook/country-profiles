@@ -64,6 +64,9 @@ _other_: 12% (2018 est.)<br>
 **Irrigated land**<br>
 21,670 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
 
@@ -72,9 +75,6 @@ occasional floods; occasional droughts<br>
 
 **Geography - note**<br>
 strategic position at the crossroads between Europe and Asia; second-largest country in Europe after Russia<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
 
 ## People and Society
 
@@ -241,14 +241,6 @@ _particulate matter emissions_: 18.29 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 202.25 megatons (2016 est.)<br>
 _methane emissions_: 63.37 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.397 billion cubic meters (2017 est.)<br>
-_industrial_: 3.577 billion cubic meters (2017 est.)<br>
-_agricultural_: 3.206 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-175.28 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate continental; Mediterranean only on the southern Crimean coast; precipitation disproportionately distributed, highest in west and north, lesser in east and southeast; winters vary from cool along the Black Sea to cold farther inland; warm summers across the greater part of the country, hot in the south<br>
 
@@ -260,15 +252,15 @@ _agricultural land: permanent pasture_: permanent pasture: 13.6% (2018 est.)<br>
 _forest_: 16.8% (2018 est.)<br>
 _other_: 12% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 69.8% of total population (2021)<br>
+_rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.42% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 69.8% of total population (2021)<br>
-_rate of urbanization_: -0.27% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 15,242,025 tons (2016 est.)<br>
@@ -277,6 +269,14 @@ _percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.397 billion cubic meters (2017 est.)<br>
+_industrial_: 3.577 billion cubic meters (2017 est.)<br>
+_agricultural_: 3.206 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+175.28 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -387,9 +387,9 @@ _lyrics/music_: Paul CHUBYNSKYI/Mikhail VERBYTSKYI<br>
 <p>After Russia, the Ukrainian Republic was the most important economic component of the former Soviet Union, producing about four times the output of the next-ranking republic. Its fertile black soil accounted for more than one fourth of Soviet agricultural output, and its farms provided substantial quantities of meat, milk, grain, and vegetables to other republics. Likewise, its diversified heavy industry supplied unique equipment such as large diameter pipes and vertical drilling apparatus, and raw materials to industrial and mining sites in other regions of the former USSR.</p> <p> </p> <p>Shortly after independence in August 1991, the Ukrainian Government liberalized most prices and erected a legal framework for privatization, but widespread resistance to reform within the government and the legislature soon stalled reform efforts and led to some backtracking. Output by 1999 had fallen to less than 40% of the 1991 level. Outside institutions - particularly the IMF encouraged Ukraine to quicken the pace and scope of reforms to foster economic growth. Ukrainian Government officials eliminated most tax and customs privileges in a March 2005 budget law, bringing more economic activity out of Ukraine's large shadow economy. From 2000 until mid-2008, Ukraine's economy was buoyant despite political turmoil between the prime minister and president. The economy contracted nearly 15% in 2009, among the worst economic performances in the world. In April 2010, Ukraine negotiated a price discount on Russian gas imports in exchange for extending Russia's lease on its naval base in Crimea.</p> <p> </p> <p>Ukraine’s oligarch-dominated economy grew slowly from 2010 to 2013 but remained behind peers in the region and among Europe’s poorest. After former President YANUKOVYCH fled the country during the Revolution of Dignity, Ukraine’s economy fell into crisis because of Russia’s annexation of Crimea, military conflict in the eastern part of the country, and a trade war with Russia, resulting in a 17% decline in GDP, inflation at nearly 60%, and dwindling foreign currency reserves. The international community began efforts to stabilize the Ukrainian economy, including a March 2014 IMF assistance package of $17.5 billion, of which Ukraine has received four disbursements, most recently in April 2017, bringing the total disbursed as of that date to approximately $8.4 billion. Ukraine has made progress on reforms designed to make the country prosperous, democratic, and transparent, including creation of a national anti-corruption agency, overhaul of the banking sector, establishment of a transparent VAT refund system, and increased transparency in government procurement. But more improvements are needed, including fighting corruption, developing capital markets, improving the business environment to attract foreign investment, privatizing state-owned enterprises, and land reform. The fifth tranche of the IMF program, valued at $1.9 billion, was delayed in mid-2017 due to lack of progress on outstanding reforms, including adjustment of gas tariffs to import parity levels and adoption of legislation establishing an independent anti-corruption court.</p> <p> </p> <p>Russia’s occupation of Crimea in March 2014 and ongoing Russian aggression in eastern Ukraine have hurt economic growth. With the loss of a major portion of Ukraine’s heavy industry in Donbas and ongoing violence, the economy contracted by 6.6% in 2014 and by 9.8% in 2015, but it returned to low growth in in 2016 and 2017, reaching 2.3% and 2.0%, respectively, as key reforms took hold. Ukraine also redirected trade activity towards the EU following the implementation of a bilateral Deep and Comprehensive Free Trade Agreement, displacing Russia as its largest trading partner. A prohibition on commercial trade with separatist-controlled territories in early 2017 has not impacted Ukraine’s key industrial sectors as much as expected, largely because of favorable external conditions. Ukraine returned to international debt markets in September 2017, issuing a $3 billion sovereign bond.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$538.388 billion (2019 est.)<br>
-$521.524 billion (2018 est.)<br>
-$504.35 billion (2017 est.)<br>
+$516.68 billion note: data are in 2017 dollars (2020 est.)<br>
+$538.33 billion note: data are in 2017 dollars (2019 est.)<br>
+$521.52 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -398,9 +398,9 @@ $504.35 billion (2017 est.)<br>
 2.48% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$12,810 (2019 est.)<br>
-$12,338 (2018 est.)<br>
-$11,871 (2017 est.)<br>
+$12,400 note: data are in 2017 dollars (2020 est.)<br>
+$12,800 note: data are in 2017 dollars (2019 est.)<br>
+$12,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -487,9 +487,9 @@ calendar year<br>
 -$6.432 billion (2018 est.)<br>
 
 **Exports**<br>
-$161.231 billion (2019 est.)<br>
-$151.075 billion (2018 est.)<br>
-$153.046 billion (2017 est.)<br>
+$60.67 billion note: data are in current year dollars (2020 est.)<br>
+$63.56 billion note: data are in current year dollars (2019 est.)<br>
+$59.18 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Russia 9%, China 8%, Germany 6%, Poland 6%, Italy 5%, Turkey 5% (2019)<br>
@@ -498,9 +498,9 @@ Russia 9%, China 8%, Germany 6%, Poland 6%, Italy 5%, Turkey 5% (2019)<br>
 corn, sunflower seed oils, iron and iron products, wheat, insulated wiring, rapeseed (2019)<br>
 
 **Imports**<br>
-$207.335 billion (2019 est.)<br>
-$195.071 billion (2018 est.)<br>
-$189.402 billion (2017 est.)<br>
+$62.46 billion note: data are in current year dollars (2020 est.)<br>
+$76.07 billion note: data are in current year dollars (2019 est.)<br>
+$70.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 13%, Russia 12%, Germany 10%, Poland 9%, Belarus 7% (2019)<br>

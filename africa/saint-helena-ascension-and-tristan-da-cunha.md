@@ -254,7 +254,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor appointed b
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Council (17 seats including the speaker and deputy speaker; 12 members directly elected in a single countrywide constituency by simple majority vote and 3 ex-officio members - the chief secretary, financial secretary, and attorney general; members serve 4-year terms)<br>
-_elections_: last held on 26 July 2017 (next to be held in 2021)<br>
+_elections_: last held on 13 October 2021 (next to be held in 2025)<br>
 _election results_: percent of vote - NA; seats by party - independent 12; composition - men 14, women 3, percent women 17.6%<br>
 <strong>note:</strong> the Constitution Order provides for separate Island Councils for both Ascension and Tristan da Cunha<br>
 

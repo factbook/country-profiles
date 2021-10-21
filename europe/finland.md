@@ -231,14 +231,6 @@ _particulate matter emissions_: 5.88 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 45.87 megatons (2016 est.)<br>
 _methane emissions_: 4.46 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 400 million cubic meters (2017 est.)<br>
-_industrial_: 1.417 billion cubic meters (2017 est.)<br>
-_agricultural_: 50 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-110 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 cold temperate; potentially subarctic but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes<br>
 
@@ -250,20 +242,28 @@ _agricultural land: permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
 _forest_: 72.9% (2018 est.)<br>
 _other_: 19.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 85.6% of total population (2021)<br>
+_rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.36% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 85.6% of total population (2021)<br>
-_rate of urbanization_: 0.42% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.738 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 769,926 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 400 million cubic meters (2017 est.)<br>
+_industrial_: 1.417 billion cubic meters (2017 est.)<br>
+_agricultural_: 50 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+110 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -320,9 +320,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NIINISTO (independent) 62.7%, Pekka HAAVISTO (Vihr) 12.4%, Laura HUHTASAARI (PS) 6.9%, Paavo VAYRYNEN (independent) 6.2%, Matti VANHANEN (Kesk) 4.1%, other 7.7%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 14 April 2019 (next to be held on April 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 107, women 93, percent of women 46.5% (e.g. 2019)<br>
+_description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
+_elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
+_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 108, women 92, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -368,9 +368,9 @@ _lyrics/music_: Johan Ludvig RUNEBERG/Fredrik PACIUS<br>
 <p>Finland has a highly industrialized, largely free-market economy with per capita GDP almost as high as that of Austria and the Netherlands and slightly above that of Germany and Belgium. Trade is important, with exports accounting for over one-third of GDP in recent years. The government is open to, and actively takes steps to attract, foreign direct investment.</p><p></p><p>Finland is historically competitive in manufacturing, particularly in the wood, metals, engineering, telecommunications, and electronics industries. Finland excels in export of technology as well as promotion of startups in the information and communications technology, gaming, cleantech, and biotechnology sectors. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the cold climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export industry, provides a secondary occupation for the rural population.</p><p></p><p>Finland had been one of the best performing economies within the EU before 2009 and its banks and financial markets avoided the worst of global financial crisis. However, the world slowdown hit exports and domestic demand hard in that year, causing Finland’s economy to contract from 2012 to 2014. The recession affected general government finances and the debt ratio. The economy returned to growth in 2016, posting a 1.9% GDP increase before growing an estimated 3.3% in 2017, supported by a strong increase in investment, private consumption, and net exports. Finnish economists expect GDP to grow a rate of 2-3% in the next few years.</p><p></p><p>Finland's main challenges will be reducing high labor costs and boosting demand for its exports. In June 2016, the government enacted a Competitiveness Pact aimed at reducing labor costs, increasing hours worked, and introducing more flexibility into the wage bargaining system. As a result, wage growth was nearly flat in 2017. The Government was also seeking to reform the health care system and social services. In the long term, Finland must address a rapidly aging population and decreasing productivity in traditional industries that threaten competitiveness, fiscal sustainability, and economic growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$268.662 billion (2019 est.)<br>
-$265.619 billion (2018 est.)<br>
-$261.649 billion (2017 est.)<br>
+$261.39 billion note: data are in 2017 dollars (2020 est.)<br>
+$268.84 billion note: data are in 2017 dollars (2019 est.)<br>
+$265.46 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -379,9 +379,9 @@ $261.649 billion (2017 est.)<br>
 3.27% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$48,668 (2019 est.)<br>
-$48,159 (2018 est.)<br>
-$47,502 (2017 est.)<br>
+$47,300 note: data are in 2017 dollars (2020 est.)<br>
+$48,700 note: data are in 2017 dollars (2019 est.)<br>
+$48,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -466,8 +466,8 @@ calendar year<br>
 -$4.908 billion (2018 est.)<br>
 
 **Exports**<br>
-$119.887 billion (2019 est.)<br>
-$111.339 billion (2018 est.)<br>
+$108.22 billion note: data are in current year dollars (2019 est.)<br>
+$106.01 billion note: data are in current year dollars (2018 est.)<br>
 $109.513 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -477,8 +477,8 @@ Germany 14%, Sweden 10%, United States 8%, Netherlands 6%, China 6%, Russia 5% (
 refined petroleum, paper and wood pulp products, cars, stainless steel, lumber (2019)<br>
 
 **Imports**<br>
-$120.437 billion (2019 est.)<br>
-$116.628 billion (2018 est.)<br>
+$107.39 billion note: data are in current year dollars (2019 est.)<br>
+$109.45 billion note: data are in current year dollars (2018 est.)<br>
 $110.701 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -689,6 +689,6 @@ at age 18, all Finnish men are obligated to serve 6-12 months of service within 
 <p>various groups in Finland advocate restoration of Karelia and other areas ceded to the former Soviet Union, but the Finnish Government asserts no territorial demands</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,862 (Iraq) (2019)<br>
+_refugees (country of origin)_: 8,398 (Iraq) (2020)<br>
 _stateless persons_: 3,428 (2020)<br>
 

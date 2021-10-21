@@ -225,9 +225,6 @@ _particulate matter emissions_: 10.45 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.07 megatons (2016 est.)<br>
 _methane emissions_: 0.02 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; marine, hot and humid, moderated by trade winds<br>
 
@@ -239,15 +236,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 15% (2018 est.)<br>
 _other_: 43% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 56.3% of total population (2021)<br>
+_rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.04% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 56.3% of total population (2021)<br>
-_rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -256,6 +253,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 35,724 tons (2016 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -357,9 +357,9 @@ _lyrics/music_: Urium Tamuera IOTEBA<br>
 <p>A remote country of 33 scattered coral atolls, Kiribati has few natural resources and is one of the least developed Pacific Island countries. Commercially viable phosphate deposits were exhausted by the time of independence from the United Kingdom in 1979. Earnings from fishing licenses and seafarer remittances are important sources of income. Although the number of seafarers employed declined due to changes in global shipping demands, remittances are expected to improve with more overseas temporary and seasonal work opportunities for Kiribati nationals.</p><p></p><p>Economic development is constrained by a shortage of skilled workers, weak infrastructure, and remoteness from international markets. The public sector dominates economic activity, with ongoing capital projects in infrastructure including road rehabilitation, water and sanitation projects, and renovations to the international airport, spurring some growth. Public debt increased from 23% of GDP at the end of 2015 to 25.8% in 2016.</p><p></p><p>Kiribati is dependent on foreign aid, which was estimated to have contributed over 32.7% in 2016 to the government’s finances. The country’s sovereign fund, the Revenue Equalization Reserve Fund (RERF), which is held offshore, had an estimated balance of $855.5 million in late July 2016. The RERF seeks to avoid exchange rate risk by holding investments in more than 20 currencies, including the Australian dollar, US dollar, the Japanese yen, and the Euro. Drawdowns from the RERF helped finance the government’s annual budget.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$267 million (2019 est.)<br>
-$261 million (2018 est.)<br>
-$255 million (2017 est.)<br>
+$270 million note: data are in 2017 dollars (2020 est.)<br>
+$270 million note: data are in 2017 dollars (2019 est.)<br>
+$260 million note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -368,9 +368,9 @@ $255 million (2017 est.)<br>
 10.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,272 (2019 est.)<br>
-$2,256 (2018 est.)<br>
-$2,237 (2017 est.)<br>
+$2,300 note: data are in 2017 dollars (2020 est.)<br>
+$2,300 note: data are in 2017 dollars (2019 est.)<br>
+$2,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -436,8 +436,8 @@ $18 million (2017 est.)<br>
 $35 million (2016 est.)<br>
 
 **Exports**<br>
-$84.75 million (2013 est.)<br>
-$62.31 million (2012 est.)<br>
+$30 million note: data are in current year dollars (2019 est.)<br>
+$20 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
@@ -446,8 +446,8 @@ Thailand 53%, Philippines 17%, South Korea 10%, Japan 9% (2019)<br>
 fish and fish produces, ships, coconut oil, copra (2019)<br>
 
 **Imports**<br>
-$107.1 million (2016 est.)<br>
-$182.2 million (2013 est.)<br>
+$180 million note: data are in current year dollars (2019 est.)<br>
+$170 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 20%, Fiji 19%, Australia 12%, Taiwan 11%, South Korea 11%, New Zealand 7%, Japan 5% (2019)<br>
@@ -611,7 +611,7 @@ _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Kiribati Police Service (2021)<br>
+no regular military forces; Kiribati Police Service<br>
 
 **Military - note**<br>
 defense assistance is provided by Australia and NZ<br>

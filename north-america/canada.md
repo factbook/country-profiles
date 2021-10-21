@@ -66,6 +66,12 @@ _other_: 59.1% (2018 est.)<br>
 **Irrigated land**<br>
 8,700 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
+
+**Major aquifers**<br>
+Northern Great Plains Aquifer<br>
+
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
@@ -74,12 +80,6 @@ vast majority of Canadians are positioned in a discontinuous band within approxi
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> second-largest country in world (after Russia) and largest in the Americas; strategic location between Russia and US via north polar route; approximately 90% of the population is concentrated within 160 km (100 mi) of the US border</p> <p><strong>note 2:</strong> Canada has more fresh water than any other country and almost 9% of Canadian territory is water; Canada has at least 2 million and possibly over 3 million lakes - that is more than all other countries combined</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
-
-**Major aquifers**<br>
-Northern Great Plains Aquifer<br>
 
 ## People and Society
 
@@ -239,14 +239,6 @@ _particulate matter emissions_: 6.48 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 544.89 megatons (2016 est.)<br>
 _methane emissions_: 101.82 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 4.888 billion cubic meters (2017 est.)<br>
-_industrial_: 28.07 billion cubic meters (2017 est.)<br>
-_agricultural_: 2.639 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.902 trillion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from temperate in south to subarctic and arctic in north<br>
 
@@ -258,15 +250,15 @@ _agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 34.1% (2018 est.)<br>
 _other_: 59.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.7% of total population (2021)<br>
+_rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.08% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.7% of total population (2021)<br>
-_rate of urbanization_: 0.95% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>
@@ -278,6 +270,14 @@ Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km
 
 **Major aquifers**<br>
 Northern Great Plains Aquifer<br>
+
+**Total water withdrawal**<br>
+_municipal_: 4.888 billion cubic meters (2017 est.)<br>
+_industrial_: 28.07 billion cubic meters (2017 est.)<br>
+_agricultural_: 2.639 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.902 trillion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,9 +384,9 @@ _lyrics/music_: Adolphe-Basile ROUTHIER [French], Robert Stanley WEIR [English]/
 <p>Canada resembles the US in its market-oriented economic system, pattern of production, and high living standards. Since World War II, the impressive growth of the manufacturing, mining, and service sectors has transformed the nation from a largely rural economy into one primarily industrial and urban. Canada has a large oil and natural gas sector with the majority of crude oil production derived from oil sands in the western provinces, especially Alberta. Canada now ranks third in the world in proved oil reserves behind Venezuela and Saudi Arabia and is the world’s seventh-largest oil producer.</p><p></p><p>TThe 1989 Canada-US Free Trade Agreement and the 1994 North American Free Trade Agreement (which includes Mexico) dramatically increased trade and economic integration between the US and Canada. Canada and the US enjoy the world’s most comprehensive bilateral trade and investment relationship, with goods and services trade totaling more than $680 billion in 2017, and two-way investment stocks of more than $800 billion. Over three-fourths of Canada’s merchandise exports are destined for the US each year. Canada is the largest foreign supplier of energy to the US, including oil, natural gas, and electric power, and a top source of US uranium imports.</p><p></p><p>Given its abundant natural resources, highly skilled labor force, and modern capital stock, Canada enjoyed solid economic growth from 1993 through 2007. The global economic crisis of 2007-08 moved the Canadian economy into sharp recession by late 2008, and Ottawa posted its first fiscal deficit in 2009 after 12 years of surplus. Canada's major banks emerged from the financial crisis of 2008-09 among the strongest in the world, owing to the financial sector's tradition of conservative lending practices and strong capitalization. Canada’s economy posted strong growth in 2017 at 3%, but most analysts are projecting Canada’s economic growth will drop back closer to 2% in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,843,053,000,000 (2019 est.)<br>
-$1,813,028,000,000 (2018 est.)<br>
-$1,777,241,000,000 (2017 est.)<br>
+$1,742,790,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,842,330,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,808,660,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $1,777,241,000,000 (2017 est.)<br>
 3.17% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$49,031 (2019 est.)<br>
-$48,924 (2018 est.)<br>
-$48,634 (2017 est.)<br>
+$45,900 note: data are in 2017 dollars (2020 est.)<br>
+$49,000 note: data are in 2017 dollars (2019 est.)<br>
+$48,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -484,9 +484,9 @@ _expenditures_: 665.7 billion (2017 est.)<br>
 -$42.862 billion (2018 est.)<br>
 
 **Exports**<br>
-$618.762 billion (2019 est.)<br>
-$610.926 billion (2018 est.)<br>
-$589.222 billion (2017 est.)<br>
+$477.31 billion note: data are in current year dollars (2020 est.)<br>
+$555.83 billion note: data are in current year dollars (2019 est.)<br>
+$556.89 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 US 73% (2019)<br>
@@ -495,9 +495,9 @@ US 73% (2019)<br>
 crude petroleum, cars and vehicle parts, gold, refined petroleum, natural gas (2019)<br>
 
 **Imports**<br>
-$629.402 billion (2019 est.)<br>
-$627.162 billion (2018 est.)<br>
-$606.814 billion (2017 est.)<br>
+$510.29 billion note: data are in current year dollars (2020 est.)<br>
+$583.6 billion note: data are in current year dollars (2019 est.)<br>
+$589.55 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 US 57%, China 11%, Mexico 5% (2019)<br>
@@ -695,10 +695,11 @@ note: the Army reserves include the Canadian Rangers, which provides a limited p
 1.16% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Canadian Armed Forces have approximately 66,000 total active personnel (23,000 Army; 8,000 Navy; 12,000 Air Force; 23,000 other uniformed personnel) (2020)<br>
+the Canadian Armed Forces have approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>
+note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers who serve in sparsely settled northern, coastal, and isolated areas of Canada<br>
 
 **Military equipment inventories and acquisitions**<br>
-the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier by far is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2020)<br>
+the CAF's inventory is a mix of domestically-produced equipment and imported weapons systems from Australia, Europe, Israel, and the US; since 2010, the leading supplier is the US; Canada's defense industry develops, maintains, and produces a range of equipment, including aircraft, combat vehicles, naval vessels, and associated components (2021)<br>
 
 **Military deployments**<br>
 up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple missions, including support to the Global Coalition to Defeat ISIS and NATO assistance mission Iraq) (2021)<br>
@@ -721,7 +722,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>managed maritime boundary disputes with the US at Dixon Entrance, Beaufort Sea, Strait of Juan de Fuca, and the Gulf of Maine, including the disputed Machias Seal Island and North Rock; Canada and the United States dispute how to divide the Beaufort Sea and the status of the Northwest Passage but continue to work cooperatively to survey the Arctic continental shelf; US works closely with Canada to intensify security measures for monitoring and controlling legal and illegal movement of people, transport, and commodities across the international border; sovereignty dispute with Denmark over Hans Island in the Kennedy Channel between Ellesmere Island and Greenland; commencing the collection of technical evidence for submission to the Commission on the Limits of the Continental Shelf in support of claims for continental shelf beyond 200 nm from its declared baselines in the Arctic, as stipulated in Article 76, paragraph 8, of the UN Convention on the Law of the Sea</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,356 (Colombia), 6,640 (Nigeria), 6,563 (Haiti), 6,060 (China), 5,876 (Turkey), 5,498 (Pakistan) (2018); 6,751 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2019)<br>
+_refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants), 8,082 (Nigeria), 6,387 (Turkey), 6,085 (Pakistan), 5,916 (China), 5,085 (Iran) (2020)<br>
 _stateless persons_: 4,139 (2020)<br>
 
 **Illicit drugs**<br>

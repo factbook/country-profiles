@@ -64,6 +64,12 @@ _other_: 61.3% (2018 est.)<br>
 **Irrigated land**<br>
 450 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
+
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
 
@@ -240,14 +246,6 @@ _particulate matter emissions_: 40.82 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.74 megatons (2016 est.)<br>
 _methane emissions_: 6.16 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 95.4 million cubic meters (2017 est.)<br>
-_industrial_: 31.8 million cubic meters (2017 est.)<br>
-_agricultural_: 1.223 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-11.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; constantly hot, dry, dusty<br>
 
@@ -259,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 38.1% (2018 est.)<br>
 _forest_: 0.2% (2018 est.)<br>
 _other_: 61.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 56.1% of total population (2021)<br>
+_rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.3% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 56.1% of total population (2021)<br>
-_rate of urbanization_: 3.84% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -283,6 +281,20 @@ _severe localized food insecurity_: due to poor performance of pastoral cropping
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
+
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 95.4 million cubic meters (2017 est.)<br>
+_industrial_: 31.8 million cubic meters (2017 est.)<br>
+_agricultural_: 1.223 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+11.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -386,9 +398,9 @@ _lyrics/music_: Baba Ould CHEIKH/traditional, arranged by Tolia NIKIPROWETZKY<br
 <p>Mauritania's economy is dominated by extractive industries (oil and mines), fisheries, livestock, agriculture, and services. Half the population still depends on farming and raising livestock, even though many nomads and subsistence farmers were forced into the cities by recurrent droughts in the 1970s, 1980s, 2000s, and 2017. Recently, GDP growth has been driven largely by foreign investment in the mining and oil sectors.</p><p></p><p>Mauritania's extensive mineral resources include iron ore, gold, copper, gypsum, and phosphate rock, and exploration is ongoing for tantalum, uranium, crude oil, and natural gas. Extractive commodities make up about three-quarters of Mauritania's total exports, subjecting the economy to price swings in world commodity markets. Mining is also a growing source of government revenue, rising from 13% to 30% of total revenue from 2006 to 2014. The nation's coastal waters are among the richest fishing areas in the world, and fishing accounts for about 15% of budget revenues, 45% of foreign currency earnings. Mauritania processes a total of 1,800,000 tons of fish per year, but overexploitation by foreign and national fleets threaten the sustainability of this key source of revenue.</p><p></p><p>The economy is highly sensitive to international food and extractive commodity prices. Other risks to Mauritania's economy include its recurring droughts, dependence on foreign aid and investment, and insecurity in neighboring Mali, as well as significant shortages of infrastructure, institutional capacity, and human capital. In December 2017, Mauritania and the IMF agreed to a three year agreement under the Extended Credit Facility to foster economic growth, maintain macroeconomic stability, and reduce poverty. Investment in agriculture and infrastructure are the largest components of the country’s public expenditures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$23.52 billion (2019 est.)<br>
-$22.203 billion (2018 est.)<br>
-$21.743 billion (2017 est.)<br>
+$23.17 billion note: data are in 2017 dollars (2020 est.)<br>
+$23.52 billion note: data are in 2017 dollars (2019 est.)<br>
+$22.2 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +409,9 @@ $21.743 billion (2017 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,197 (2019 est.)<br>
-$5,042 (2018 est.)<br>
-$5,077 (2017 est.)<br>
+$5,000 note: data are in 2017 dollars (2020 est.)<br>
+$5,200 note: data are in 2017 dollars (2019 est.)<br>
+$5,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,8 +490,8 @@ calendar year<br>
 -$707 million (2016 est.)<br>
 
 **Exports**<br>
-$321 million (2019 est.)<br>
-$290 million (2018 est.)<br>
+$2.52 billion note: data are in current year dollars (2019 est.)<br>
+$2.06 billion note: data are in current year dollars (2018 est.)<br>
 $302 million (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -489,8 +501,8 @@ China 32%, Switzerland 13%, Spain 9%, Japan 9%, Italy 5% (2019)<br>
 iron ore, fish products, gold, mollusks, processed crustaceans (2019)<br>
 
 **Imports**<br>
-$318 million (2019 est.)<br>
-$321 million (2018 est.)<br>
+$3.68 billion note: data are in current year dollars (2019 est.)<br>
+$3.28 billion note: data are in current year dollars (2018 est.)<br>
 $319 million (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -700,7 +712,7 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (2019); 70,912 (Mali) (2021)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 70,912 (Mali) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

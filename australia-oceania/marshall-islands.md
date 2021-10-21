@@ -234,9 +234,6 @@ _particulate matter emissions_: 9.43 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.14 megatons (2016 est.)<br>
 _methane emissions_: 0.03 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot and humid; wet season May to November; islands border typhoon belt<br>
 
@@ -248,12 +245,12 @@ _agricultural land: permanent pasture_: permanent pasture: 11.7% (2018 est.)<br>
 _forest_: 49.3% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 78.2% of total population (2021)<br>
 _rate of urbanization_: 0.61% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -264,6 +261,9 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 8,614 tons (2013 est.)<br>
 _municipal solid waste recycled annually_: 2,653 tons (2007 est.)<br>
 _percent of municipal solid waste recycled_: 30.8% (2007 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -369,7 +369,8 @@ _lyrics/music_: Amata KABUA<br>
 <p>US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports.</p><p></p><p>The Marshall Islands received roughly $1 billion in aid from the US during the period 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Under the amended Compact, the US and Marshall Islands are also jointly funding a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024, when direct Compact aid ends.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$227 million (2018 est.)<br>
+$240 million note: data are in 2017 dollars (2019 est.)<br>
+$220 million note: data are in 2017 dollars (2018 est.)<br>
 $219 million (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -379,7 +380,8 @@ $219 million (2017 est.)<br>
 2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,889 (2018 est.)<br>
+$4,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,800 note: data are in 2017 dollars (2018 est.)<br>
 $3,776 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -452,7 +454,7 @@ _expenditures_: 113.9 million (2013 est.)<br>
 $15 million (2016 est.)<br>
 
 **Exports**<br>
-$0 (2013 est.)<br>
+$130 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
@@ -461,8 +463,8 @@ Poland 28%, Denmark 19%, South Korea 13%, Indonesia 10%, Cyprus 6% (2019)<br>
 ships, fish, recreational boats, broadcasting equipment, coal tar oil (2019)<br>
 
 **Imports**<br>
+$170 million note: data are in current year dollars (2018 est.)<br>
 $103.8 million (2016 est.)<br>
-$133.7 million (2013 est.)<br>
 
 **Imports - partners**<br>
 South Korea 39%, China 27%, Japan 15% (2019)<br>

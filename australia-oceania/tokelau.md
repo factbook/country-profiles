@@ -179,9 +179,6 @@ NA<br>
 **Environment - current issues**<br>
 overexploitation of certain fish and other marine species, coastal sand, and forest resources; pollution of freshwater lenses and coastal waters from improper disposal of chemicals<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by trade winds (April to November)<br>
 
@@ -201,6 +198,9 @@ _rate of urbanization_: 0% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 

@@ -61,6 +61,12 @@ _other_: 55.7% (2018 est.)<br>
 **Irrigated land**<br>
 10 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Lake Chad Basin<br>
+
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ hot, dry, dusty harmattan winds affect northern areas; floods are common<br>
 
 **Geography - note**<br>
 landlocked; almost the precise center of Africa<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin, Lake Chad Basin<br>
 
 ## People and Society
 
@@ -243,14 +243,6 @@ _particulate matter emissions_: 49.5 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.3 megatons (2016 est.)<br>
 _methane emissions_: 22.44 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 60.1 million cubic meters (2017 est.)<br>
-_industrial_: 12 million cubic meters (2017 est.)<br>
-_agricultural_: 400,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-141 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, dry winters; mild to hot, wet summers<br>
 
@@ -262,15 +254,15 @@ _agricultural land: permanent pasture_: permanent pasture: 5.1% (2018 est.)<br>
 _forest_: 36.2% (2018 est.)<br>
 _other_: 55.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 42.6% of total population (2021)<br>
+_rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 8.99% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 42.6% of total population (2021)<br>
-_rate of urbanization_: 3.32% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -287,10 +279,18 @@ _exceptional shortfall in aggregate food production/supplies_: due to conflict a
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Lake Chad Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 60.1 million cubic meters (2017 est.)<br>
+_industrial_: 12 million cubic meters (2017 est.)<br>
+_agricultural_: 400,000 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+141 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -407,9 +407,9 @@ $4.195 billion (2017 est.)<br>
 4.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$945 (2019 est.)<br>
-$933 (2018 est.)<br>
-$913 (2017 est.)<br>
+$900 note: data are in 2017 dollars (2020 est.)<br>
+$900 note: data are in 2017 dollars (2019 est.)<br>
+$900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -659,7 +659,7 @@ Nola (Sangha)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine), General Directorate of Gendarmerie Inspection (DGIG); National Police (2020)<br>
+Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includes an air squadron, Escadrille Centrafricaine), General Directorate of Gendarmerie Inspection (DGIG); National Police (2021)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
@@ -669,7 +669,7 @@ Central African Armed Forces (Forces Armees Centrafricaines, FACA): Army (includ
 1.5% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie (2020)<br>
+information varies; approximately 10,000 active troops, including an air component of 100-200 and up to 2,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FACA is lightly and poorly armed with mostly outdated weapons; since 2010, it has received small amounts of second-hand equipment from China, Russia, and Ukraine (2020)<br>

@@ -237,14 +237,6 @@ _particulate matter emissions_: 21.2 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 10.13 megatons (2016 est.)<br>
 _methane emissions_: 6.05 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 359,974,627.7 cubic meters (2017 est.)<br>
-_industrial_: 402,206,287.9 cubic meters (2017 est.)<br>
-_agricultural_: 1,060,819,084.4 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-63.33 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 warm and pleasant; Mediterranean-like on Black Sea coast<br>
 
@@ -256,19 +248,27 @@ _agricultural land: permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
 _forest_: 39.4% (2018 est.)<br>
 _other_: 25.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 59.9% of total population (2021)<br>
+_rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Abkhazia and South Ossetia<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.07% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 59.9% of total population (2021)<br>
-_rate of urbanization_: 0.35% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Abkhazia and South Ossetia<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 800,000 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 359,974,627.7 cubic meters (2017 est.)<br>
+_industrial_: 402,206,287.9 cubic meters (2017 est.)<br>
+_agricultural_: 1,060,819,084.4 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+63.33 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -375,9 +375,9 @@ _lyrics/music_: Davit MAGRADSE/Zakaria PALIASHVILI (adapted by Joseb KETSCHAKMAD
 <p>Georgia's main economic activities include cultivation of agricultural products such as grapes, citrus fruits, and hazelnuts; mining of manganese, copper, and gold; and producing alcoholic and nonalcoholic beverages, metals, machinery, and chemicals in small-scale industries. The country imports nearly all of its needed supplies of natural gas and oil products. It has sizeable hydropower capacity that now provides most of its electricity needs.</p><p></p><p>Georgia has overcome the chronic energy shortages and gas supply interruptions of the past by renovating hydropower plants and by increasingly relying on natural gas imports from Azerbaijan instead of from Russia. Construction of the Baku-Tbilisi-Ceyhan oil pipeline, the South Caucasus gas pipeline, and the Baku-Tbilisi-Kars railroad are part of a strategy to capitalize on Georgia's strategic location between Europe and Asia and develop its role as a transit hub for gas, oil, and other goods.</p><p></p><p>Georgia's economy sustained GDP growth of more than 10% in 2006-07, based on strong inflows of foreign investment, remittances, and robust government spending. However, GDP growth slowed following the August 2008 conflict with Russia, and sank to negative 4% in 2009 as foreign direct investment and workers' remittances declined in the wake of the global financial crisis. The economy rebounded in the period 2010-17, but FDI inflows, the engine of Georgian economic growth prior to the 2008 conflict, have not recovered fully. Unemployment remains persistently high.</p><p></p><p>The country is pinning its hopes for faster growth on a continued effort to build up infrastructure, enhance support for entrepreneurship, simplify regulations, and improve professional education, in order to attract foreign investment and boost employment, with a focus on transportation projects, tourism, hydropower, and agriculture. Georgia had historically suffered from a chronic failure to collect tax revenues; however, since 2004 the government has simplified the tax code, increased tax enforcement, and cracked down on petty corruption, leading to higher revenues. The government has received high marks from the World Bank for improvements in business transparency. Since 2012, the Georgian Dream-led government has continued the previous administration's low-regulation, low-tax, free market policies, while modestly increasing social spending and amending the labor code to comply with International Labor Standards. In mid-2014, Georgia concluded an association agreement with the EU, paving the way to free trade and visa-free travel. In 2017, Georgia signed Free Trade Agreement (FTA) with China as part of Tbilisi’s efforts to diversify its economic ties. Georgia is seeking to develop its Black Sea ports to further facilitate East-West trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.776 billion (2019 est.)<br>
-$53.129 billion (2018 est.)<br>
-$50.662 billion (2017 est.)<br>
+$52.33 billion note: data are in 2017 dollars (2020 est.)<br>
+$55.76 billion note: data are in 2017 dollars (2019 est.)<br>
+$53.12 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -386,9 +386,9 @@ $50.662 billion (2017 est.)<br>
 2.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,992 (2019 est.)<br>
-$14,257 (2018 est.)<br>
-$13,590 (2017 est.)<br>
+$14,100 note: data are in 2017 dollars (2020 est.)<br>
+$15,000 note: data are in 2017 dollars (2019 est.)<br>
+$14,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -471,8 +471,9 @@ calendar year<br>
 -$1.84 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.566 billion (2017 est.)<br>
-$2.831 billion (2016 est.)<br>
+$5.94 billion note: data are in current year dollars (2020 est.)<br>
+$9.54 billion note: data are in current year dollars (2019 est.)<br>
+$8.9 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukraine 6% (2019)<br>
@@ -481,8 +482,9 @@ Russia 12%, Azerbaijan 12%, Armenia 9%, Bulgaria 8%, China 6%, Turkey 6%, Ukrain
 copper, cars, iron alloys, wine, packaged medicines (2019)<br>
 
 **Imports**<br>
-$7.415 billion (2017 est.)<br>
-$6.747 billion (2016 est.)<br>
+$8.94 billion note: data are in current year dollars (2020 est.)<br>
+$11.11 billion note: data are in current year dollars (2019 est.)<br>
+$10.77 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Turkey 17%, China 11%, Russia 9%, Azerbaijan 6%, United States 6%, Germany 5% (2019)<br>

@@ -61,6 +61,9 @@ _other_: 7.5% (2018 est.)<br>
 **Irrigated land**<br>
 96 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
 
@@ -69,9 +72,6 @@ one of Africa's most densely populated countries; large concentrations tend to b
 
 **Geography - note**<br>
 landlocked; most of the country is intensively cultivated and rugged with the population predominantly rural<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 ## People and Society
 
@@ -244,14 +244,6 @@ _particulate matter emissions_: 40.75 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.11 megatons (2016 est.)<br>
 _methane emissions_: 2.92 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 61.4 million cubic meters (2017 est.)<br>
-_industrial_: 20.5 million cubic meters (2017 est.)<br>
-_agricultural_: 102 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-13.3 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; two rainy seasons (February to April, November to January); mild in mountains with frost and snow possible<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 17.4% (2018 est.)<br>
 _forest_: 18% (2018 est.)<br>
 _other_: 7.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 17.6% of total population (2021)<br>
+_rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 3.75% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 17.6% of total population (2021)<br>
-_rate of urbanization_: 3.07% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -284,6 +276,14 @@ _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 61.4 million cubic meters (2017 est.)<br>
+_industrial_: 20.5 million cubic meters (2017 est.)<br>
+_agricultural_: 102 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+13.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -388,9 +388,9 @@ _lyrics/music_: Faustin MURIGO/Jean-Bosco HASHAKAIMANA<br>
 <p>Rwanda is a rural, agrarian country with agriculture accounting for about 63% of export earnings, and with some mineral and agro-processing. Population density is high but, with the exception of the capital Kigali, is not concentrated in large cities – its 12 million people are spread out on a small amount of land (smaller than the state of Maryland). Tourism, minerals, coffee, and tea are Rwanda's main sources of foreign exchange. Despite Rwanda's fertile ecosystem, food production often does not keep pace with demand, requiring food imports. Energy shortages, instability in neighboring states, and lack of adequate transportation linkages to other countries continue to handicap private sector growth.</p><p></p><p>The 1994 genocide decimated Rwanda's fragile economic base, severely impoverished the population, particularly women, and temporarily stalled the country's ability to attract private and external investment. However, Rwanda has made substantial progress in stabilizing and rehabilitating its economy well beyond pre-1994 levels. GDP has rebounded with an average annual growth of 6%-8% since 2003 and inflation has been reduced to single digits. In 2015, 39% of the population lived below the poverty line, according to government statistics, compared to 57% in 2006.</p><p></p><p>The government has embraced an expansionary fiscal policy to reduce poverty by improving education, infrastructure, and foreign and domestic investment. Rwanda consistently ranks well for ease of doing business and transparency.</p><p></p><p>The Rwandan Government is seeking to become a regional leader in information and communication technologies and aims to reach middle-income status by 2020 by leveraging the service industry. In 2012, Rwanda completed the first modern Special Economic Zone (SEZ) in Kigali. The SEZ seeks to attract investment in all sectors, but specifically in agribusiness, information and communications, trade and logistics, mining, and construction. In 2016, the government launched an online system to give investors information about public land and its suitability for agricultural development.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.118 billion (2019 est.)<br>
-$25.695 billion (2018 est.)<br>
-$23.665 billion (2017 est.)<br>
+$27.18 billion note: data are in 2017 dollars (2020 est.)<br>
+$28.13 billion note: data are in 2017 dollars (2019 est.)<br>
+$25.7 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -399,9 +399,9 @@ $23.665 billion (2017 est.)<br>
 8.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,227 (2019 est.)<br>
-$2,089 (2018 est.)<br>
-$1,975 (2017 est.)<br>
+$2,100 note: data are in 2017 dollars (2020 est.)<br>
+$2,200 note: data are in 2017 dollars (2019 est.)<br>
+$2,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -483,8 +483,8 @@ calendar year<br>
 -$1.336 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.05 billion (2017 est.)<br>
-$745 million (2016 est.)<br>
+$2.25 billion note: data are in current year dollars (2019 est.)<br>
+$2.04 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)<br>
@@ -493,8 +493,8 @@ United Arab Emirates 35%, Democratic Republic of the Congo 28%, Uganda 5% (2019)
 gold, refined petroleum, coffee, tea, tin (2019)<br>
 
 **Imports**<br>
-$1.922 billion (2017 est.)<br>
-$2.036 billion (2016 est.)<br>
+$3.74 billion note: data are in current year dollars (2019 est.)<br>
+$3.34 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 17%, Kenya 10%, Tanzania 9%, United Arab Emirates 9%, India 7%, Saudi Arabia 5% (2019)<br>

@@ -233,14 +233,6 @@ _particulate matter emissions_: 5.89 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 43.25 megatons (2016 est.)<br>
 _methane emissions_: 4.42 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 955 million cubic meters (2017 est.)<br>
-_industrial_: 1.345 billion cubic meters (2017 est.)<br>
-_agricultural_: 75 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-174 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate in south with cold, cloudy winters and cool, partly cloudy summers; subarctic in north<br>
 
@@ -252,20 +244,28 @@ _agricultural land: permanent pasture_: permanent pasture: 1.1% (2018 est.)<br>
 _forest_: 68.7% (2018 est.)<br>
 _other_: 23.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 88.2% of total population (2021)<br>
+_rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.21% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 88.2% of total population (2021)<br>
-_rate of urbanization_: 0.89% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.377 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,416,835 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 955 million cubic meters (2017 est.)<br>
+_industrial_: 1.345 billion cubic meters (2017 est.)<br>
+_agricultural_: 75 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+174 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -369,9 +369,9 @@ _lyrics/music_: Richard DYBECK/traditional<br>
 <p>Sweden’s small, open, and competitive economy has been thriving and Sweden has achieved an enviable standard of living with its combination of free-market capitalism and extensive welfare benefits. Sweden remains outside the euro zone largely out of concern that joining the European Economic and Monetary Union would diminish the country’s sovereignty over its welfare system.</p> <p> </p> <p>Timber, hydropower, and iron ore constitute the resource base of a manufacturing economy that relies heavily on foreign trade. Exports, including engines and other machines, motor vehicles, and telecommunications equipment, account for more than 44% of GDP. Sweden enjoys a current account surplus of about 5% of GDP, which is one of the highest margins in Europe.</p> <p> </p> <p>GDP grew an estimated 3.3% in 2016 and 2017 driven largely by investment in the construction sector. Swedish economists expect economic growth to ease slightly in the coming years as this investment subsides. Global economic growth boosted exports of Swedish manufactures further, helping drive domestic economic growth in 2017. The Central Bank is keeping an eye on deflationary pressures and bank observers expect it to maintain an expansionary monetary policy in 2018. Swedish prices and wages have grown only slightly over the past few years, helping to support the country’s competitiveness.</p> <p> </p> <p>In the short and medium term, Sweden’s economic challenges include providing affordable housing and successfully integrating migrants into the labor market.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$547.595 billion (2019 est.)<br>
-$540.776 billion (2018 est.)<br>
-$530.433 billion (2017 est.)<br>
+$524.75 billion note: data are in 2017 dollars (2020 est.)<br>
+$539.96 billion note: data are in 2017 dollars (2019 est.)<br>
+$532.67 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -380,9 +380,9 @@ $530.433 billion (2017 est.)<br>
 2.82% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$53,240 (2019 est.)<br>
-$53,146 (2018 est.)<br>
-$52,739 (2017 est.)<br>
+$50,700 note: data are in 2017 dollars (2020 est.)<br>
+$52,500 note: data are in 2017 dollars (2019 est.)<br>
+$52,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -466,9 +466,9 @@ $22.339 billion (2019 est.)<br>
 $13.902 billion (2018 est.)<br>
 
 **Exports**<br>
-$302.65 billion (2019 est.)<br>
-$291.846 billion (2018 est.)<br>
-$279.461 billion (2017 est.)<br>
+$240.08 billion note: data are in current year dollars (2020 est.)<br>
+$254.53 billion note: data are in current year dollars (2019 est.)<br>
+$254.25 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom 5%, Netherlands 5%, China 5% (2019)<br>
@@ -477,9 +477,9 @@ Germany 10%, Norway 9%, United States 8%, Denmark 7%, Finland 6%, United Kingdom
 cars and vehicle parts, packaged medicines, refined petroleum, broadcasting equipment, lumber (2019)<br>
 
 **Imports**<br>
-$276.622 billion (2019 est.)<br>
-$273.125 billion (2018 est.)<br>
-$262.597 billion (2017 est.)<br>
+$217.68 billion note: data are in current year dollars (2020 est.)<br>
+$232.81 billion note: data are in current year dollars (2019 est.)<br>
+$241.53 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 18%, Netherlands 9%, Denmark 7%, Norway 7%, China 6%, Finland 5%, Belgium 5%, Poland 5% (2019)<br>
@@ -696,6 +696,6 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,418 (Syria), 27,933 (Eritrea), 30,546 (Afghanistan), 17,593 (Somalia), 12,460 (Iraq), 7,408 (Iran) (2019)<br>
+_refugees (country of origin)_: 114,609 (Syria), 29,927 (Afghanistan), 27,421 (Eritrea), 12,784 (Somalia), 11,635 (Iraq), 7,507 (Iran) (2020)<br>
 _stateless persons_: 50,414 (2020); note - the majority of stateless people are from the Middle East and Somalia<br>
 

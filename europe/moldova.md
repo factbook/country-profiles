@@ -61,6 +61,9 @@ _other_: 13.2% (2018 est.)<br>
 **Irrigated land**<br>
 2,283 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>
 
@@ -233,14 +236,6 @@ _particulate matter emissions_: 15.97 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.12 megatons (2016 est.)<br>
 _methane emissions_: 3.29 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 148 million cubic meters (2017 est.)<br>
-_industrial_: 650 million cubic meters (2017 est.)<br>
-_agricultural_: 42 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-12.27 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 moderate winters, warm summers<br>
 
@@ -252,20 +247,31 @@ _agricultural land: permanent pasture_: permanent pasture: 10.7% (2018 est.)<br>
 _forest_: 11.9% (2018 est.)<br>
 _other_: 13.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 43% of total population (2021)<br>
+_rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.26% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 43% of total population (2021)<br>
-_rate of urbanization_: 0.09% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,981,200 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 609,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 15.3% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 148 million cubic meters (2017 est.)<br>
+_industrial_: 650 million cubic meters (2017 est.)<br>
+_agricultural_: 42 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+12.27 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -372,9 +378,9 @@ _lyrics/music_: Alexei MATEEVICI/Alexandru CRISTEA<br>
 <p>Despite recent progress, Moldova remains one of the poorest countries in Europe. With a moderate climate and productive farmland, Moldova's economy relies heavily on its agriculture sector, featuring fruits, vegetables, wine, wheat, and tobacco. Moldova also depends on annual remittances of about $1.2 billion - almost 15% of GDP - from the roughly one million Moldovans working in Europe, Israel, Russia, and elsewhere.</p><p></p><p>With few natural energy resources, Moldova imports almost all of its energy supplies from Russia and Ukraine. Moldova's dependence on Russian energy is underscored by a more than $6 billion debt to Russian natural gas supplier Gazprom, largely the result of unreimbursed natural gas consumption in the breakaway region of Transnistria. Moldova and Romania inaugurated the Ungheni-Iasi natural gas interconnector project in August 2014. The 43-kilometer pipeline between Moldova and Romania, allows for both the import and export of natural gas. Several technical and regulatory delays kept gas from flowing into Moldova until March 2015. Romanian gas exports to Moldova are largely symbolic. In 2018, Moldova awarded a tender to Romanian Transgaz to construct a pipeline connecting Ungheni to Chisinau, bringing the gas to Moldovan population centers. Moldova also seeks to connect with the European power grid by 2022.</p><p></p><p>The government's stated goal of EU integration has resulted in some market-oriented progress. Moldova experienced better than expected economic growth in 2017, largely driven by increased consumption, increased revenue from agricultural exports, and improved tax collection. During fall 2014, Moldova signed an Association Agreement and a Deep and Comprehensive Free Trade Agreement with the EU (AA/DCFTA), connecting Moldovan products to the world’s largest market. The EU AA/DCFTA has contributed to significant growth in Moldova’s exports to the EU. In 2017, the EU purchased over 65% of Moldova’s exports, a major change from 20 years previously when the Commonwealth of Independent States (CIS) received over 69% of Moldova’s exports. A $1 billion asset-stripping heist of Moldovan banks in late 2014 delivered a significant shock to the economy in 2015; the subsequent bank bailout increased inflationary pressures and contributed to the depreciation of the leu and a minor recession. Moldova’s growth has also been hampered by endemic corruption, which limits business growth and deters foreign investment, and Russian restrictions on imports of Moldova’s agricultural products. The government’s push to restore stability and implement meaningful reform led to the approval in 2016 of a $179 million three-year IMF program focused on improving the banking and fiscal environments, along with additional assistance programs from the EU, World Bank, and Romania. Moldova received two IMF tranches in 2017, totaling over $42.5 million.</p><p></p><p>Over the longer term, Moldova's economy remains vulnerable to corruption, political uncertainty, weak administrative capacity, vested bureaucratic interests, energy import dependence, Russian political and economic pressure, heavy dependence on agricultural exports, and unresolved separatism in Moldova's Transnistria region.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$34.68 billion (2019 est.)<br>
-$33.482 billion (2018 est.)<br>
-$32.101 billion (2017 est.)<br>
+$32.26 billion note: data are in 2017 dollars (2020 est.)<br>
+$34.68 billion note: data are in 2017 dollars (2019 est.)<br>
+$33.48 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -383,9 +389,9 @@ $32.101 billion (2017 est.)<br>
 -0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,050 (2019 est.)<br>
-$12,373 (2018 est.)<br>
-$11,651 (2017 est.)<br>
+$12,300 note: data are in 2017 dollars (2020 est.)<br>
+$13,000 note: data are in 2017 dollars (2019 est.)<br>
+$12,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -467,9 +473,9 @@ calendar year<br>
 -$268 million (2016 est.)<br>
 
 **Exports**<br>
-$3.985 billion (2019 est.)<br>
-$3.826 billion (2018 est.)<br>
-$3.57 billion (2017 est.)<br>
+$3.24 billion note: data are in current year dollars (2020 est.)<br>
+$3.66 billion note: data are in current year dollars (2019 est.)<br>
+$3.45 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
@@ -478,9 +484,9 @@ Romania 27%, Russia 9%, Italy 9%, Germany 9%, Turkey 6%, Poland 5% (2019)<br>
 insulated wiring, sunflower seeds, wine, corn, seats (2019)<br>
 
 **Imports**<br>
-$7.113 billion (2019 est.)<br>
-$6.765 billion (2018 est.)<br>
-$6.165 billion (2017 est.)<br>
+$5.93 billion note: data are in current year dollars (2020 est.)<br>
+$6.62 billion note: data are in current year dollars (2019 est.)<br>
+$6.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Romania 20%, Russia 10%, Ukraine 9%, Germany 8%, China 7%, Turkey 6%, Italy 6% (2019)<br>

@@ -63,6 +63,9 @@ _other_: 95.3% (2018 est.)<br>
 **Irrigated land**<br>
 590 sq km (2012)<br>
 
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 the vast majority of the population is located in and around the Al Hagar Mountains in the north of the country; another smaller cluster is found around the city of Salalah in the far south; most of the country remains sparsely poplulated<br>
 
@@ -234,14 +237,6 @@ _particulate matter emissions_: 38.25 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 63.46 megatons (2016 est.)<br>
 _methane emissions_: 5.6 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 130 million cubic meters (2017 est.)<br>
-_industrial_: 135 million cubic meters (2017 est.)<br>
-_agricultural_: 1.607 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 dry desert; hot, humid along coast; hot, dry interior; strong southwest summer monsoon (May to September) in far south<br>
 
@@ -253,18 +248,29 @@ _agricultural land: permanent pasture_: permanent pasture: 4.5% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 95.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 87% of total population (2021)<br>
+_rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 87% of total population (2021)<br>
-_rate of urbanization_: 2.32% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,734,885 tons (2014 est.)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 130 million cubic meters (2017 est.)<br>
+_industrial_: 135 million cubic meters (2017 est.)<br>
+_agricultural_: 1.607 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -367,8 +373,8 @@ _lyrics/music_: Rashid bin Uzayyiz al KHUSAIDI/James Frederick MILLS, arranged b
 <p>Oman is heavily dependent on oil and gas resources, which can generate between and 68% and 85% of government revenue, depending on fluctuations in commodity prices. In 2016, low global oil prices drove Oman’s budget deficit to $13.8 billion, or approximately 20% of GDP, but the budget deficit is estimated to have reduced to 12% of GDP in 2017 as Oman reduced government subsidies. As of January 2018, Oman has sufficient foreign assets to support its currency’s fixed exchange rates. It is issuing debt to cover its deficit.</p><p></p><p>Oman is using enhanced oil recovery techniques to boost production, but it has simultaneously pursued a development plan that focuses on diversification, industrialization, and privatization, with the objective of reducing the oil sector's contribution to GDP. The key components of the government's diversification strategy are tourism, shipping and logistics, mining, manufacturing, and aquaculture.</p><p></p><p>Muscat also has notably focused on creating more Omani jobs to employ the rising number of nationals entering the workforce. However, high social welfare benefits - that had increased in the wake of the 2011 Arab Spring - have made it impossible for the government to balance its budget in light of current oil prices. In response, Omani officials imposed austerity measures on its gasoline and diesel subsidies in 2016. These spending cuts have had only a moderate effect on the government’s budget, which is projected to again face a deficit of $7.8 billion in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$135.814 billion (2019 est.)<br>
-$138.089 billion (2018 est.)<br>
+$135.79 billion note: data are in 2017 dollars (2019 est.)<br>
+$136.92 billion note: data are in 2017 dollars (2018 est.)<br>
 $135.696 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -378,8 +384,8 @@ $135.696 billion (2017 est.)<br>
 4.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$27,299 (2019 est.)<br>
-$28,593 (2018 est.)<br>
+$27,300 note: data are in 2017 dollars (2019 est.)<br>
+$28,400 note: data are in 2017 dollars (2018 est.)<br>
 $29,082 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -460,8 +466,8 @@ calendar year<br>
 -$12.32 billion (2016 est.)<br>
 
 **Exports**<br>
-$103.3 billion (2017 est.)<br>
-$27.54 billion (2016 est.)<br>
+$43.69 billion note: data are in current year dollars (2019 est.)<br>
+$46.32 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -470,8 +476,8 @@ China 46%, India 8%, Japan 6%, South Korea 6%, United Arab Emirates 6%, Saudi Ar
 crude petroleum, natural gas, refined petroleum, iron products, fertilizers (2019)<br>
 
 **Imports**<br>
-$24.12 billion (2017 est.)<br>
-$21.29 billion (2016 est.)<br>
+$32.55 billion note: data are in current year dollars (2019 est.)<br>
+$35.37 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 36%, China 10%, Japan 7%, India 7%, United States 5% (2019)<br>

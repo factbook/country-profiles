@@ -63,6 +63,9 @@ _other_: 28.6% (2018 est.)<br>
 **Irrigated land**<br>
 4,590 sq km (2012)<br>
 
+**Major aquifers**<br>
+North Western Sahara Aquifer System<br>
+
 **Population distribution**<br>
 the overwhelming majority of the population is located in the northern half of the country; the south remains largely underpopulated as shown in this population distribution map<br>
 
@@ -71,9 +74,6 @@ flooding; earthquakes; droughts<br>
 
 **Geography - note**<br>
 strategic location in central Mediterranean; Malta and Tunisia are discussing the commercial exploitation of the continental shelf between their countries, particularly for oil exploration<br>
-
-**Major aquifers**<br>
-North Western Sahara Aquifer System<br>
 
 ## People and Society
 
@@ -238,14 +238,6 @@ _particulate matter emissions_: 35.66 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 29.94 megatons (2016 est.)<br>
 _methane emissions_: 7.89 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 137 million cubic meters (2017 est.)<br>
-_industrial_: 965 million cubic meters (2017 est.)<br>
-_agricultural_: 3.773 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-4.615 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate in north with mild, rainy winters and hot, dry summers; desert in south<br>
 
@@ -257,15 +249,15 @@ _agricultural land: permanent pasture_: permanent pasture: 31.1% (2018 est.)<br>
 _forest_: 6.6% (2018 est.)<br>
 _other_: 28.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 69.9% of total population (2021)<br>
+_rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.21% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 69.9% of total population (2021)<br>
-_rate of urbanization_: 1.34% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.7 million tons (2014 est.)<br>
@@ -274,6 +266,14 @@ _percent of municipal solid waste recycled_: 4% (2014 est.)<br>
 
 **Major aquifers**<br>
 North Western Sahara Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 137 million cubic meters (2017 est.)<br>
+_industrial_: 965 million cubic meters (2017 est.)<br>
+_agricultural_: 3.773 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+4.615 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -323,7 +323,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Kais SAIED (elected 13 October, sworn in 23 October 2019)<br>
-_head of government_: prime minister (vacant); on 25 July 2021, President SAIED removed Prime Minister Hichem MECHICHI from office<br>
+_head of government_: Prime Minister Najla Bouden ROMDHANE (since 11 October 2021)<br>
 _cabinet_: selected by the prime minister and approved by the Assembly of the Representatives of the People<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); last held on 15 September 2019 with a runoff on 13 October 2019 (next to be&nbsp;held in 2024); following legislative elections, the prime minister is selected by the winning party or winning coalition and appointed by the president<br>
 _election results_: <p>first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; runoff - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
@@ -378,9 +378,9 @@ _lyrics/music_: Mustafa Sadik AL-RAFII and Aboul-Qacem ECHEBBI/Mohamad Abdel WAH
 <p>Tunisia's economy – structurally designed to favor vested interests – faced an array of challenges exposed by the 2008 global financial crisis that helped precipitate the 2011 Arab Spring revolution. After the revolution and a series of terrorist attacks, including on the country’s tourism sector, barriers to economic inclusion continued to add to slow economic growth and high unemployment.</p><p></p><p>Following an ill-fated experiment with socialist economic policies in the 1960s, Tunisia focused on bolstering exports, foreign investment, and tourism, all of which have become central to the country's economy. Key exports now include textiles and apparel, food products, petroleum products, chemicals, and phosphates, with about 80% of exports bound for Tunisia's main economic partner, the EU. Tunisia's strategy, coupled with investments in education and infrastructure, fueled decades of 4-5% annual GDP growth and improved living standards. Former President Zine el Abidine BEN ALI (1987-2011) continued these policies, but as his reign wore on cronyism and corruption stymied economic performance, unemployment rose, and the informal economy grew. Tunisia’s economy became less and less inclusive. These grievances contributed to the January 2011 overthrow of BEN ALI, further depressing Tunisia's economy as tourism and investment declined sharply.</p><p></p><p>Tunisia’s government remains under pressure to boost economic growth quickly to mitigate chronic socio-economic challenges, especially high levels of youth unemployment, which has persisted since the 2011 revolution. Successive terrorist attacks against the tourism sector and worker strikes in the phosphate sector, which combined account for nearly 15% of GDP, slowed growth from 2015 to 2017. Tunis is seeking increased foreign investment and working with the IMF through an Extended Fund Facility agreement to fix fiscal deficiencies.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$125.783 billion (2019 est.)<br>
-$124.485 billion (2018 est.)<br>
-$121.254 billion (2017 est.)<br>
+$114.97 billion note: data are in 2017 dollars (2020 est.)<br>
+$125.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$124.48 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $121.254 billion (2017 est.)<br>
 1.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$10,756 (2019 est.)<br>
-$10,764 (2018 est.)<br>
-$10,605 (2017 est.)<br>
+$9,700 note: data are in 2017 dollars (2020 est.)<br>
+$10,800 note: data are in 2017 dollars (2019 est.)<br>
+$10,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -474,8 +474,8 @@ calendar year<br>
 -$3.694 billion (2016 est.)<br>
 
 **Exports**<br>
-$13.82 billion (2017 est.)<br>
-$13.57 billion (2016 est.)<br>
+$19.17 billion note: data are in current year dollars (2019 est.)<br>
+$19.42 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 France 29%, Italy 17%, Germany 13% (2019)<br>
@@ -484,8 +484,8 @@ France 29%, Italy 17%, Germany 13% (2019)<br>
 insulated wiring, clothing and apparel, crude petroleum, olive oil, vehicle parts (2019)<br>
 
 **Imports**<br>
-$19.09 billion (2017 est.)<br>
-$18.37 billion (2016 est.)<br>
+$23.42 billion note: data are in current year dollars (2019 est.)<br>
+$24.65 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 France 17%, Italy 16%, Germany 8%, China 8%, Algeria 7% (2019)<br>

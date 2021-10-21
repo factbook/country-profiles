@@ -63,6 +63,9 @@ _other_: 21.5% (2018 est.)<br>
 **Irrigated land**<br>
 39,500 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
 **Population distribution**<br>
 despite a distinctive pattern with an industrial north and an agrarian south, a fairly even population distribution exists throughout most of the country, with coastal areas, the Po River Valley, and urban centers (particularly Milan, Rome, and Naples), attracting larger and denser populations<br>
 
@@ -71,9 +74,6 @@ despite a distinctive pattern with an industrial north and an agrarian south, a 
 
 **Geography - note**<br>
 strategic location dominating central Mediterranean as well as southern sea and air approaches to Western Europe<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 ## People and Society
 
@@ -243,14 +243,6 @@ _signed, but not ratified_: Air Pollution-Heavy Metals, Air Pollution-Multi-effe
 _particulate matter emissions_: 15.28 micrograms per cubic meter (2016 est.)<br>
 _methane emissions_: 41.3 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 9.488 billion cubic meters (2017 est.)<br>
-_industrial_: 7.7 billion cubic meters (2017 est.)<br>
-_agricultural_: 17 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-191.3 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 predominantly Mediterranean; alpine in far north; hot, dry in south<br>
 
@@ -262,15 +254,15 @@ _agricultural land: permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 21.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 71.3% of total population (2021)<br>
+_rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 71.3% of total population (2021)<br>
-_rate of urbanization_: 0.27% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _respiratory diseases_: Covid-19 (see note) (2020)<br>
@@ -283,6 +275,14 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 9.488 billion cubic meters (2017 est.)<br>
+_industrial_: 7.7 billion cubic meters (2017 est.)<br>
+_agricultural_: 17 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+191.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -392,9 +392,9 @@ _lyrics/music_: Goffredo MAMELI/Michele NOVARO<br>
 <p>Italy’s economy comprises a developed industrial north, dominated by private companies, and a less-developed, highly subsidized, agricultural south, with a legacy of unemployment and underdevelopment. The Italian economy is driven in large part by the manufacture of high-quality consumer goods produced by small and medium-sized enterprises, many of them family-owned. Italy also has a sizable underground economy, which by some estimates accounts for as much as 17% of GDP. These activities are most common within the agriculture, construction, and service sectors.</p><p></p><p>Italy is the third-largest economy in the euro zone, but its exceptionally high public debt and structural impediments to growth have rendered it vulnerable to scrutiny by financial markets. Public debt has increased steadily since 2007, reaching 131% of GDP in 2017. Investor concerns about Italy and the broader euro-zone crisis eased in 2013, bringing down Italy's borrowing costs on sovereign government debt from euro-era records. The government still faces pressure from investors and European partners to sustain its efforts to address Italy's longstanding structural economic problems, including labor market inefficiencies, a sluggish judicial system, and a weak banking sector. Italy’s economy returned to modest growth in late 2014 for the first time since 2011. In 2015-16, Italy’s economy grew at about 1% each year, and in 2017 growth accelerated to 1.5% of GDP. In 2017, overall unemployment was 11.4%, but youth unemployment remained high at 37.1%. GDP growth is projected to slow slightly in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,562,135,000,000 (2019 est.)<br>
-$2,553,384,000,000 (2018 est.)<br>
-$2,529,503,000,000 (2017 est.)<br>
+$2,322,140,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$2,548,190,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$2,540,890,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -403,9 +403,9 @@ $2,529,503,000,000 (2017 est.)<br>
 1.73% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$42,492 (2019 est.)<br>
-$42,259 (2018 est.)<br>
-$41,785 (2017 est.)<br>
+$39,000 note: data are in 2017 dollars (2020 est.)<br>
+$42,700 note: data are in 2017 dollars (2019 est.)<br>
+$42,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -489,9 +489,9 @@ $59.517 billion (2019 est.)<br>
 $51.735 billion (2018 est.)<br>
 
 **Exports**<br>
-$687.34 billion (2019 est.)<br>
-$678.788 billion (2018 est.)<br>
-$667.866 billion (2017 est.)<br>
+$558.26 billion note: data are in current year dollars (2020 est.)<br>
+$636.01 billion note: data are in current year dollars (2019 est.)<br>
+$656.06 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzerland 5% (2019)<br>
@@ -500,9 +500,9 @@ Germany 12%, France 11%, United States 10%, United Kingdom 5%, Spain 5%, Switzer
 packaged medicines, cars and vehicle parts, refined petroleum, valves, trunks/cases, wine (2019)<br>
 
 **Imports**<br>
-$647.058 billion (2019 est.)<br>
-$649.963 billion (2018 est.)<br>
-$631.54 billion (2017 est.)<br>
+$486.35 billion note: data are in current year dollars (2020 est.)<br>
+$569.7 billion note: data are in current year dollars (2019 est.)<br>
+$605.44 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 16%, France 9%, China 7%, Spain 5%, Netherlands 5%, Belgium 5% (2019)<br>
@@ -723,9 +723,9 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>Italy's long coastline and developed economy entices tens of thousands of illegal immigrants from southeastern Europe and northern Africa</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 25,241 (Nigeria), 20,063 (Pakistan), 17,849 (Afghanistan), 15,842 (Mali), 14,029 (Somalia), 12,968 (Gambia), 8,974 (Bangladesh), 7,659 (Cote d'Ivoire), 7,644 (Senegal), 7,118 (Eritrea), 6,995 (Iraq), 6,353 (Ukraine), 5,953 (Ghana) (2019)<br>
+_refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 571,601 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 573,436 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for and consumer of Latin American cocaine and Southwest Asian heroin entering the European market; money laundering by organized crime and from smuggling<br>

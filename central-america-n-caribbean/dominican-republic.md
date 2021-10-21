@@ -244,14 +244,6 @@ _particulate matter emissions_: 12.95 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 25.26 megatons (2016 est.)<br>
 _methane emissions_: 8.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 855 million cubic meters (2017 est.)<br>
-_industrial_: 659.9 million cubic meters (2017 est.)<br>
-_agricultural_: 7.563 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-23.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical maritime; little seasonal temperature variation; seasonal variation in rainfall<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 24.8% (2018 est.)<br>
 _forest_: 40.8% (2018 est.)<br>
 _other_: 7.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 83.2% of total population (2021)<br>
+_rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 83.2% of total population (2021)<br>
-_rate of urbanization_: 1.64% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -282,6 +274,14 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 4,063,910 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 333,241 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 855 million cubic meters (2017 est.)<br>
+_industrial_: 659.9 million cubic meters (2017 est.)<br>
+_agricultural_: 7.563 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+23.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -385,9 +385,9 @@ _lyrics/music_: Emilio PRUD'HOMME/Jose REYES<br>
 <p>The Dominican Republic was for most of its history primarily an exporter of sugar, coffee, and tobacco, but over the last three decades the economy has become more diversified as the service sector has overtaken agriculture as the economy's largest employer, due to growth in construction, tourism, and free trade zones. The mining sector has also played a greater role in the export market since late 2012 with the commencement of the extraction phase of the Pueblo Viejo Gold and Silver mine, one of the largest gold mines in the world.</p><p></p><p>For the last 20 years, the Dominican Republic has been one of the fastest growing economies in Latin America. The economy rebounded from the global recession in 2010-16, and the fiscal situation is improving. A tax reform package passed in November 2012, a reduction in government spending, and lower energy costs helped to narrow the central government budget deficit from 6.6% of GDP in 2012 to 2.6% in 2016, and public debt is declining. Marked income inequality, high unemployment, and underemployment remain important long-term challenges; the poorest half of the population receives less than one-fifth of GDP, while the richest 10% enjoys nearly 40% of GDP.</p><p></p><p>The economy is highly dependent upon the US, the destination for approximately half of exports and the source of 40% of imports. Remittances from the US amount to about 7% of GDP, equivalent to about a third of exports and two-thirds of tourism receipts. The Central America-Dominican Republic Free Trade Agreement came into force in March 2007, boosting investment and manufacturing exports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$197.735 billion (2019 est.)<br>
-$188.225 billion (2018 est.)<br>
-$175.94 billion (2017 est.)<br>
+$184.45 billion note: data are in 2017 dollars (2020 est.)<br>
+$197.74 billion note: data are in 2017 dollars (2019 est.)<br>
+$188.23 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -396,9 +396,9 @@ $175.94 billion (2017 est.)<br>
 7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$18,413 (2019 est.)<br>
-$17,712 (2018 est.)<br>
-$16,735 (2017 est.)<br>
+$17,000 note: data are in 2017 dollars (2020 est.)<br>
+$18,400 note: data are in 2017 dollars (2019 est.)<br>
+$17,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -481,8 +481,9 @@ calendar year<br>
 -$815 million (2016 est.)<br>
 
 **Exports**<br>
-$10.12 billion (2017 est.)<br>
-$9.86 billion (2016 est.)<br>
+$14.44 billion note: data are in current year dollars (2020 est.)<br>
+$20.51 billion note: data are in current year dollars (2019 est.)<br>
+$20.05 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
@@ -491,8 +492,9 @@ United States 54%, Switzerland 8%, Canada 5%, India 5%, China 5% (2019)<br>
 gold, medical instruments, cigars, low-voltage protection equipment, bananas (2019)<br>
 
 **Imports**<br>
-$17.7 billion (2017 est.)<br>
-$17.4 billion (2016 est.)<br>
+$20.19 billion note: data are in current year dollars (2020 est.)<br>
+$24.53 billion note: data are in current year dollars (2019 est.)<br>
+$24.11 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 50%, China 13% (2019)<br>
@@ -691,7 +693,7 @@ the military is lightly armed with an inventory consisting mostly of older US eq
 17-21 years of age for voluntary military service; recruits must have completed primary school and be Dominican Republic citizens; women may volunteer (2019)<br>
 
 **Military - note**<br>
-the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief<br>
+the military's primary focuses are countering illegal immigration and refugees along its 350km-long border with Haiti and interdicting air and maritime narcotics trafficking, as well as disaster relief (2021)<br>
 
 ## Transnational Issues
 

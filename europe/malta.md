@@ -234,14 +234,6 @@ _particulate matter emissions_: 13.97 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.34 megatons (2016 est.)<br>
 _methane emissions_: 0.2 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 37.4 million cubic meters (2017 est.)<br>
-_industrial_: 1 million cubic meters (2017 est.)<br>
-_agricultural_: 25.4 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-50.5 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 Mediterranean; mild, rainy winters; hot, dry summers<br>
 
@@ -253,20 +245,28 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0.9% (2018 est.)<br>
 _other_: 66.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 94.8% of total population (2021)<br>
+_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 94.8% of total population (2021)<br>
-_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 269,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 17,996 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 6.7% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 37.4 million cubic meters (2017 est.)<br>
+_industrial_: 1 million cubic meters (2017 est.)<br>
+_agricultural_: 25.4 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+50.5 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -369,9 +369,9 @@ _lyrics/music_: Dun Karm PSAILA/Robert SAMMUT<br>
 <p>Malta’s free market economy – the smallest economy in the euro-zone – relies heavily on trade in both goods and services, principally with Europe. Malta produces less than a quarter of its food needs, has limited fresh water supplies, and has few domestic energy sources. Malta's economy is dependent on foreign trade, manufacturing, and tourism. Malta joined the EU in 2004 and adopted the euro on 1 January 2008.</p><p></p><p>Malta has weathered the euro-zone crisis better than most EU member states due to a low debt-to-GDP ratio and financially sound banking sector. It maintains one of the lowest unemployment rates in Europe, and growth has fully recovered since the 2009 recession. In 2014 through 2016, Malta led the euro zone in growth, expanding more than 4.5% per year.</p><p></p><p>Malta’s services sector continues to grow, with sustained growth in the financial services and online gaming sectors. Advantageous tax schemes remained attractive to foreign investors, though EU discussions of anti-tax avoidance measures have raised concerns among Malta’s financial services and insurance providers, as the measures could have a significant impact on those sectors. The tourism sector also continued to grow, with 2016 showing record-breaking numbers of both air and cruise passenger arrivals.</p><p></p><p>Malta’s GDP growth remains strong and is supported by a strong labor market. The government has implemented new programs, including free childcare, to encourage increased labor participation. The high cost of borrowing and small labor market remain potential constraints to future economic growth. Increasingly, other EU and European migrants are relocating to Malta for employment, though wages have remained low compared to other European countries. Inflation remains low.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$22.133 billion (2019 est.)<br>
-$21.095 billion (2018 est.)<br>
-$20.056 billion (2017 est.)<br>
+$20.6 billion note: data are in 2017 dollars (2020 est.)<br>
+$22.15 billion note: data are in 2017 dollars (2019 est.)<br>
+$20.99 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -380,9 +380,9 @@ $20.056 billion (2017 est.)<br>
 8.03% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$44,032 (2019 est.)<br>
-$43,528 (2018 est.)<br>
-$42,856 (2017 est.)<br>
+$39,200 note: data are in 2017 dollars (2020 est.)<br>
+$44,000 note: data are in 2017 dollars (2019 est.)<br>
+$43,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -466,9 +466,9 @@ $1.561 billion (2019 est.)<br>
 $1.55 billion (2018 est.)<br>
 
 **Exports**<br>
-$23.868 billion (2019 est.)<br>
-$22.475 billion (2018 est.)<br>
-$22.607 billion (2017 est.)<br>
+$19.04 billion note: data are in current year dollars (2020 est.)<br>
+$20.76 billion note: data are in current year dollars (2019 est.)<br>
+$20.19 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 12%, France 9%, Italy 9% (2019)<br>
@@ -477,9 +477,9 @@ Germany 12%, France 9%, Italy 9% (2019)<br>
 integrated circuits, refined petroleum, packaged medicines, children's toys and stuffed animals, postage stamps&nbsp; (2019)<br>
 
 **Imports**<br>
-$21.94 billion (2019 est.)<br>
-$20.335 billion (2018 est.)<br>
-$20.257 billion (2017 est.)<br>
+$18.01 billion note: data are in current year dollars (2020 est.)<br>
+$18.45 billion note: data are in current year dollars (2019 est.)<br>
+$17.87 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 22%, Italy 12%, United Kingdom 11%, Germany 6%, Turkey 5%, France 5%, China 5%, South Korea 5% (2019)<br>

@@ -63,6 +63,12 @@ _other_: 0% (2018 est.)<br>
 **Irrigated land**<br>
 40 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
+
 **Population distribution**<br>
 the relatively small population is spread in pockets throughout the country; the largest urban center is the capital of Libreville, located along the Atlantic coast in the northwest as shown in this population distribution map<br>
 
@@ -71,12 +77,6 @@ none<br>
 
 **Geography - note**<br>
 a small population and oil and mineral reserves have helped Gabon become one of Africa's wealthier countries; in general, these circumstances have allowed the country to maintain and conserve its pristine rain forest and rich biodiversity<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 38.51 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.32 megatons (2016 est.)<br>
 _methane emissions_: 1.13 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 84.7 million cubic meters (2017 est.)<br>
-_industrial_: 14.1 million cubic meters (2017 est.)<br>
-_agricultural_: 40.3 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-166 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; always hot, humid<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 17.2% (2018 est.)<br>
 _forest_: 81% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 90.4% of total population (2021)<br>
+_rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.6% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 90.4% of total population (2021)<br>
-_rate of urbanization_: 2.27% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -286,6 +278,14 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 84.7 million cubic meters (2017 est.)<br>
+_industrial_: 14.1 million cubic meters (2017 est.)<br>
+_agricultural_: 40.3 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+166 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -388,9 +388,9 @@ _lyrics/music_: Georges Aleka DAMAS<br>
 <p>Gabon enjoys a per capita income four times that of most Sub-Saharan African nations, but because of high income inequality, a large proportion of the population remains poor. Gabon relied on timber and manganese exports until oil was discovered offshore in the early 1970s. From 2010 to 2016, oil accounted for approximately 80% of Gabon’s exports, 45% of its GDP, and 60% of its state budget revenues.</p><p></p><p>Gabon faces fluctuating international prices for its oil, timber, and manganese exports. A rebound of oil prices from 2001 to 2013 helped growth, but declining production, as some fields passed their peak production, has hampered Gabon from fully realizing potential gains. GDP grew nearly 6% per year over the 2010-14 period, but slowed significantly from 2014 to just 1% in 2017 as oil prices declined. Low oil prices also weakened government revenue and negatively affected the trade and current account balances. In the wake of lower revenue, Gabon signed a 3-year agreement with the IMF in June 2017.</p><p></p><p>Despite an abundance of natural wealth, poor fiscal management and over-reliance on oil has stifled the economy. Power cuts and water shortages are frequent. Gabon is reliant on imports and the government heavily subsidizes commodities, including food, but will be hard pressed to tamp down public frustration with unemployment and corruption.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.48 billion (2019 est.)<br>
-$31.247 billion (2018 est.)<br>
-$30.986 billion (2017 est.)<br>
+$32.05 billion note: data are in 2017 dollars (2020 est.)<br>
+$32.48 billion note: data are in 2017 dollars (2019 est.)<br>
+$31.25 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -399,9 +399,9 @@ $30.986 billion (2017 est.)<br>
 3.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,950 (2019 est.)<br>
-$14,744 (2018 est.)<br>
-$15,007 (2017 est.)<br>
+$14,400 note: data are in 2017 dollars (2020 est.)<br>
+$15,000 note: data are in 2017 dollars (2019 est.)<br>
+$14,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -691,7 +691,7 @@ the Gabonese Defense Forces (FDG) are comprised of approximately 6,500 active du
 the FDG is lightly armed with an inventory comprised mostly of Brazilian, French, and South African equipment; since 2010, it has received limited amounts of equipment with France and South Africa as the leading suppliers (2020)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA) (Jan 2021)<br>
+450 Central African Republic (MINUSCA) (Sep 2021)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the Niger Delta and Gulf of Guinea remain a very high risk for piracy and armed robbery of ships; in 2020, there were 98 reported incidents of piracy and armed robbery at sea in the Gulf of Guinea region; although a 24% decrease from the total number of incidents in 2019, it included all three hijackings and 9 of 11 ships fired upon worldwide; while boarding and attempted boarding to steal valuables from ships and crews are the most common types of incidents, almost a third of all incidents involve a hijacking and/or kidnapping; in 2020, a record 130 crew members were kidnapped in 22 separate incidents in the Gulf of Guinea, representing 95% of kidnappings worldwide; approximately 51% of all incidents of piracy and armed robbery are taking place off Nigeria, which is a decrease from the 71% in 2019 and an indication pirates are traveling further to target vessels; Nigerian pirates are well armed and very aggressive, operating as far as 200 nm offshore; the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-002 - Gulf of Guinea-Piracy/Armed Robbery/Kidnapping for Ransom) effective 9 January 2021, which states in part, "Piracy, armed robbery, and kidnapping for ransom continue to serve as significant threats to US-flagged vessels transiting or operating in the Gulf of Guinea.&rdquo;<br>

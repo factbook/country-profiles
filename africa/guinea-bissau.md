@@ -62,6 +62,9 @@ _other_: 0% (2018 est.)<br>
 **Irrigated land**<br>
 250 sq km (2012)<br>
 
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin<br>
+
 **Population distribution**<br>
 approximately one-fifth of the population lives in the capital city of Bissau along the Atlantic coast; the remainder is distributed among the eight other, mainly rural, regions as shown in this population distribution map<br>
 
@@ -70,9 +73,6 @@ hot, dry, dusty harmattan haze may reduce visibility during dry season; brush fi
 
 **Geography - note**<br>
 this small country is swampy along its western coast and low-lying inland<br>
-
-**Major aquifers**<br>
-Senegalo-Mauritanian Basin<br>
 
 ## People and Society
 
@@ -233,14 +233,6 @@ _particulate matter emissions_: 27.12 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.29 megatons (2016 est.)<br>
 _methane emissions_: 1.46 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 34.1 million cubic meters (2017 est.)<br>
-_industrial_: 11.9 million cubic meters (2017 est.)<br>
-_agricultural_: 144 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-31.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; generally hot and humid; monsoonal-type rainy season (June to November) with southwesterly winds; dry season (December to May) with northeasterly harmattan winds<br>
 
@@ -252,15 +244,15 @@ _agricultural land: permanent pasture_: permanent pasture: 29.7% (2018 est.)<br>
 _forest_: 55.2% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 44.6% of total population (2021)<br>
+_rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 9.24% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 44.6% of total population (2021)<br>
-_rate of urbanization_: 3.22% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -274,6 +266,14 @@ _municipal solid waste generated annually_: 289,514 tons (2015 est.)<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 34.1 million cubic meters (2017 est.)<br>
+_industrial_: 11.9 million cubic meters (2017 est.)<br>
+_agricultural_: 144 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+31.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -371,9 +371,9 @@ _lyrics/music_: Amilcar Lopes CABRAL/XIAO He<br>
 <p>Guinea-Bissau is highly dependent on subsistence agriculture, cashew nut exports, and foreign assistance. Two out of three Bissau-Guineans remain below the absolute poverty line. The legal economy is based on cashews and fishing. Illegal logging and trafficking in narcotics also play significant roles. The combination of limited economic prospects, weak institutions, and favorable geography have made this West African country a way station for drugs bound for Europe.</p><p></p><p>Guinea-Bissau has substantial potential for development of mineral resources, including phosphates, bauxite, and mineral sands. Offshore oil and gas exploration has begun. The country’s climate and soil make it feasible to grow a wide range of cash crops, fruit, vegetables, and tubers; however, cashews generate more than 80% of export receipts and are the main source of income for many rural communities.</p><p></p><p>The government was deposed in August 2015, and since then, a political stalemate has resulted in weak governance and reduced donor support.</p><p></p><p>The country is participating in a three-year, IMF extended credit facility program that was suspended because of a planned bank bailout. The program was renewed in 2017, but the major donors of direct budget support (the EU, World Bank, and African Development Bank) have halted their programs indefinitely. Diversification of the economy remains a key policy goal, but Guinea-Bissau’s poor infrastructure and business climate will constrain this effort.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.821 billion (2019 est.)<br>
-$3.653 billion (2018 est.)<br>
-$3.519 billion (2017 est.)<br>
+$3.64 billion note: data are in 2017 dollars (2020 est.)<br>
+$3.73 billion note: data are in 2017 dollars (2019 est.)<br>
+$3.56 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -382,9 +382,9 @@ $3.519 billion (2017 est.)<br>
 6.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,989 (2019 est.)<br>
-$1,949 (2018 est.)<br>
-$1,925 (2017 est.)<br>
+$1,800 note: data are in 2017 dollars (2020 est.)<br>
+$1,900 note: data are in 2017 dollars (2019 est.)<br>
+$1,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -459,8 +459,8 @@ calendar year<br>
 $16 million (2016 est.)<br>
 
 **Exports**<br>
-$188 million (2018 est.)<br>
-$183 million (2017 est.)<br>
+$290 million note: data are in current year dollars (2019 est.)<br>
+$380 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
@@ -469,8 +469,8 @@ India 50%, Belgium 28%, Cote d'Ivoire 8% (2019)<br>
 cashews, gold, fish, lumber, aluminum ores (2019)<br>
 
 **Imports**<br>
-$383 million (2018 est.)<br>
-$348 million (2017 est.)<br>
+$500 million note: data are in current year dollars (2019 est.)<br>
+$460 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Portugal 31%, Senegal 20%, China 10%, Netherlands 7%, Pakistan 7% (2019)<br>
@@ -637,11 +637,11 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Guard Nacional (a gendarmerie force under the Ministry of Internal Administration) (2021)<br>
 
 **Military expenditures**<br>
+1.7% of GDP (2020 est.)<br>
+1.7% of GDP (2019)<br>
+1.4% of GDP (2018)<br>
 1.4% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.6% of GDP (2015)<br>
-2% of GDP (2014)<br>
-2.1% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 the People's Revolutionary Armed Force (FARP) has approximately 4,000 total active troops, including about 300 Navy and 100 Air Force (2020)<br>

@@ -64,6 +64,9 @@ _other_: 6.3% (2018 est.)<br>
 **Irrigated land**<br>
 300 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>
+
 **Population distribution**<br>
 population clusters are found in the lower elevations of the south and west; the northern third of the country is less populated as shown on this population distribution map<br>
 
@@ -239,14 +242,6 @@ _particulate matter emissions_: 20.63 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.09 megatons (2016 est.)<br>
 _methane emissions_: 3.16 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 111 million cubic meters (2017 est.)<br>
-_industrial_: 55.5 million cubic meters (2017 est.)<br>
-_agricultural_: 45.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-160 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; summer rainy season (May to December); winter dry season (December to April)<br>
 
@@ -258,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 30.5% (2018 est.)<br>
 _forest_: 37.5% (2018 est.)<br>
 _other_: 6.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 43.4% of total population (2021)<br>
+_rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 6.92% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 43.4% of total population (2021)<br>
-_rate of urbanization_: 3.02% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -281,6 +276,17 @@ _severe localized food insecurity_: due to high food prices - about 1.76 million
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 610,222 tons (2004 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 111 million cubic meters (2017 est.)<br>
+_industrial_: 55.5 million cubic meters (2017 est.)<br>
+_agricultural_: 45.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+160 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +388,9 @@ _lyrics/music_: Clifford Nelson FYLE/John Joseph AKA<br>
 <p>Sierra Leone is extremely poor and nearly half of the working-age population engages in subsistence agriculture. The country possesses substantial mineral, agricultural, and fishery resources, but it is still recovering from a civil war that destroyed most institutions before ending in the early 2000s.</p><p></p><p>In recent years, economic growth has been driven by mining - particularly iron ore. The country’s principal exports are iron ore, diamonds, and rutile, and the economy is vulnerable to fluctuations in international prices. Until 2014, the government had relied on external assistance to support its budget, but it was gradually becoming more independent. The Ebola outbreak of 2014 and 2015, combined with falling global commodities prices, caused a significant contraction of economic activity in all areas. While the World Health Organization declared an end to the Ebola outbreak in Sierra Leone in November 2015, low commodity prices in 2015-2016 contributed to the country’s biggest fiscal shortfall since 2001. In 2017, increased iron ore exports, together with the end of the Ebola epidemic, supported a resumption of economic growth.</p><p></p><p>Continued economic growth will depend on rising commodities prices and increased efforts to diversify the sources of growth. Non-mining activities will remain constrained by inadequate infrastructure, such as power and roads, even though power sector projects may provide some additional electricity capacity in the near term. Pervasive corruption and undeveloped human capital will continue to deter foreign investors. Sustained international donor support in the near future will partially offset these fiscal constraints.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.425 billion (2019 est.)<br>
-$12.724 billion (2018 est.)<br>
-$12.3 billion (2017 est.)<br>
+$13.15 billion note: data are in 2017 dollars (2020 est.)<br>
+$13.44 billion note: data are in 2017 dollars (2019 est.)<br>
+$12.72 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +399,9 @@ $12.3 billion (2017 est.)<br>
 -20.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,718 (2019 est.)<br>
-$1,663 (2018 est.)<br>
-$1,643 (2017 est.)<br>
+$1,600 note: data are in 2017 dollars (2020 est.)<br>
+$1,700 note: data are in 2017 dollars (2019 est.)<br>
+$1,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -473,8 +479,8 @@ calendar year<br>
 -$88 million (2016 est.)<br>
 
 **Exports**<br>
-$1.085 billion (2018 est.)<br>
-$1.632 billion (2017 est.)<br>
+$740 million note: data are in current year dollars (2019 est.)<br>
+$720 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherlands 5% (2019)<br>
@@ -483,9 +489,8 @@ Belgium 26%, China 25%, Romania 9%, United Arab Emirates 6%, Germany 5%, Netherl
 titanium, lumber, diamonds, aluminum, cocoa beans (2019)<br>
 
 **Imports**<br>
-$2.619 billion (2020 est.)<br>
-$2.414 billion (2019 est.)<br>
-$2.072 billion (2018 est.)<br>
+$1.82 billion note: data are in current year dollars (2019 est.)<br>
+$1.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 27%, India 11%, United States 6%, Ghana 5%, Turkey 5% (2019)<br>

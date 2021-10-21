@@ -213,9 +213,6 @@ _particulate matter emissions_: 11.42 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.01 megatons (2016 est.)<br>
 _methane emissions_: 0.01 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by easterly trade winds (March to November); westerly gales and heavy rain (November to March)<br>
 
@@ -227,17 +224,20 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 6.7% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 64.8% of total population (2021)<br>
 _rate of urbanization_: 2.08% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,989 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 598 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 15% (2013 est.)<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -332,9 +332,9 @@ _lyrics/music_: Afaese MANOA<br>
 <p>Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. Only eight of the atolls are inhabited. It is one of the smallest countries in the world, with its highest point at 4.6 meters above sea level. The country is isolated, almost entirely dependent on imports, particularly of food and fuel, and vulnerable to climate change and rising sea levels, which pose significant challenges to development.</p><p></p><p>The public sector dominates economic activity. Tuvalu has few natural resources, except for its fisheries. Earnings from fish exports and fishing licenses for Tuvalu’s territorial waters are a significant source of government revenue. In 2013, revenue from fishing licenses doubled and totaled more than 45% of GDP.</p><p></p><p>Official aid from foreign development partners has also increased. Tuvalu has substantial assets abroad. The Tuvalu Trust Fund, an international trust fund established in 1987 by development partners, has grown to $104 million (A$141 million) in 2014 and is an important cushion for meeting shortfalls in the government's budget. While remittances are another substantial source of income, the value of remittances has declined since the 2008-09 global financial crisis, but has stabilized at nearly $4 million per year. The financial impact of climate change and the cost of climate related adaptation projects is one of many concerns for the nation.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$49 million (2019 est.)<br>
-$45 million (2018 est.)<br>
-$44 million (2017 est.)<br>
+$50 million note: data are in 2017 dollars (2020 est.)<br>
+$50 million note: data are in 2017 dollars (2019 est.)<br>
+$50 million note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -343,9 +343,9 @@ $44 million (2017 est.)<br>
 9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,281 (2019 est.)<br>
-$3,948 (2018 est.)<br>
-$3,898 (2017 est.)<br>
+$4,400 note: data are in 2017 dollars (2020 est.)<br>
+$4,300 note: data are in 2017 dollars (2019 est.)<br>
+$3,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -418,8 +418,8 @@ $2 million (2017 est.)<br>
 $8 million (2016 est.)<br>
 
 **Exports**<br>
-$600,000 (2010 est.)<br>
-$1 million (2004 est.)<br>
+$10 million note: data are in current year dollars (2019 est.)<br>
+$10 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Thailand 50%, Indonesia 40% (2019)<br>
@@ -428,8 +428,8 @@ Thailand 50%, Indonesia 40% (2019)<br>
 fish, ships, coins, metal-clad products, electrical power accessories (2019)<br>
 
 **Imports**<br>
-$20.69 billion (2018 est.)<br>
-$19.09 billion (2017 est.)<br>
+$70 million note: data are in current year dollars (2019 est.)<br>
+$60 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 32%, Japan 29%, Fiji 23%, New Zealand 6% (2019)<br>

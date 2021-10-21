@@ -239,14 +239,6 @@ _particulate matter emissions_: 16.26 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.16 megatons (2016 est.)<br>
 _methane emissions_: 1.9 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 41.3 million cubic meters (2017 est.)<br>
-_industrial_: 20.7 million cubic meters (2017 est.)<br>
-_agricultural_: 1.006 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-4.51 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical to near temperate<br>
 
@@ -258,15 +250,15 @@ _agricultural land: permanent pasture_: permanent pasture: 57.7% (2018 est.)<br>
 _forest_: 31.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 24.4% of total population (2021)<br>
+_rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.25% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.1% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
-_rate of urbanization_: 2.42% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -279,6 +271,14 @@ _severe localized food insecurity_: due to the reduction in income-generating ac
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 218,199 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 41.3 million cubic meters (2017 est.)<br>
+_industrial_: 20.7 million cubic meters (2017 est.)<br>
+_agricultural_: 1.006 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+4.51 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +382,9 @@ _lyrics/music_: Andrease Enoke Fanyana SIMELANE/David Kenneth RYCROFT<br>
 <p>A small, landlocked kingdom, Eswatini is bordered in the north, west and south by the Republic of South Africa and by Mozambique in the east. Eswatini depends on South Africa for a majority of its exports and imports. Eswatini's currency is pegged to the South African rand, effectively relinquishing Eswatini's monetary policy to South Africa. The government is dependent on customs duties from the Southern African Customs Union (SACU) for almost half of its revenue. Eswatini is a lower middle income country. As of 2017, more than one-quarter of the adult population was infected by HIV/AIDS; Eswatini has the world’s highest HIV prevalence rate, a financial strain and source of economic instability.</p><p></p><p>The manufacturing sector diversified in the 1980s and 1990s, but manufacturing has grown little in the last decade. Sugar and soft drink concentrate are the largest foreign exchange earners, although a drought in 2015-16 decreased sugar production and exports. Overgrazing, soil depletion, drought, and floods are persistent problems. Mining has declined in importance in recent years. Coal, gold, diamond, and quarry stone mines are small scale, and the only iron ore mine closed in 2014. With an estimated 28% unemployment rate, Eswatini's need to increase the number and size of small and medium enterprises and to attract foreign direct investment is acute.</p><p></p><p>Eswatini's national development strategy, which expires in 2022, prioritizes increases in infrastructure, agriculture production, and economic diversification, while aiming to reduce poverty and government spending. Eswatini's revenue from SACU receipts are likely to continue to decline as South Africa pushes for a new distribution scheme, making it harder for the government to maintain fiscal balance without introducing new sources of revenue.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.898 billion (2019 est.)<br>
-$9.681 billion (2018 est.)<br>
-$9.457 billion (2017 est.)<br>
+$9.74 billion note: data are in 2017 dollars (2020 est.)<br>
+$9.9 billion note: data are in 2017 dollars (2019 est.)<br>
+$9.68 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $9.457 billion (2017 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,622 (2019 est.)<br>
-$8,521 (2018 est.)<br>
-$8,408 (2017 est.)<br>
+$8,400 note: data are in 2017 dollars (2020 est.)<br>
+$8,600 note: data are in 2017 dollars (2019 est.)<br>
+$8,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -474,8 +474,9 @@ $604 million (2017 est.)<br>
 $642 million (2016 est.)<br>
 
 **Exports**<br>
-$2.389 billion (2018 est.)<br>
-$2.154 billion (2017 est.)<br>
+$1.81 billion note: data are in current year dollars (2020 est.)<br>
+$2.07 billion note: data are in current year dollars (2019 est.)<br>
+$1.9 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 South Africa 94% (2017)<br>
@@ -484,8 +485,9 @@ South Africa 94% (2017)<br>
 soft drink concentrates, sugar, timber, cotton yarn, refrigerators, citrus, and canned fruit<br>
 
 **Imports**<br>
-$2.605 billion (2018 est.)<br>
-$2.853 billion (2017 est.)<br>
+$1.7 billion note: data are in current year dollars (2020 est.)<br>
+$1.93 billion note: data are in current year dollars (2019 est.)<br>
+$2.07 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 81.6%, China 5.2% (2017)<br>
@@ -640,7 +642,7 @@ _total_: 3,769 km (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2020)<br>
+Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>
@@ -653,7 +655,7 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2020)<b
 the Umbutfo Eswatini Defense Force has approximately 3,000 active personnel (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF is lightly armed with mostly South African weapons and equipment; the only publicly recorded military acquisitions since 2010 were two secondhand utility helicopters from Taiwan that were delivered in 2020 (2021)<br>
+the UEDF is lightly armed with mostly South African material; it has received minimal amounts of secondhand equipment since 2010&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted (2019)<br>

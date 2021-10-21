@@ -233,14 +233,6 @@ _particulate matter emissions_: 31.99 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.54 megatons (2016 est.)<br>
 _methane emissions_: 0.13 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.6 million cubic meters (2017 est.)<br>
-_industrial_: 400,000 cubic meters (2017 est.)<br>
-_agricultural_: 25 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-300 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; warm, dry summer; precipitation meager and erratic<br>
 
@@ -252,18 +244,26 @@ _agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 21% (2018 est.)<br>
 _other_: 60.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 67.1% of total population (2021)<br>
+_rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.38% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 67.1% of total population (2021)<br>
-_rate of urbanization_: 1.83% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 132,555 tons (2012 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.6 million cubic meters (2017 est.)<br>
+_industrial_: 400,000 cubic meters (2017 est.)<br>
+_agricultural_: 25 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+300 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -367,9 +367,9 @@ _lyrics/music_: Amilcar Spencer LOPES/Adalberto Higino Tavares SILVA<br>
 <p>Cabo Verde’s economy depends on development aid, foreign investment, remittances, and tourism. The economy is service-oriented with commerce, transport, tourism, and public services accounting for about three-fourths of GDP. Tourism is the mainstay of the economy and depends on conditions in the euro-zone countries. Cabo Verde annually runs a high trade deficit financed by foreign aid and remittances from its large pool of emigrants; remittances as a share of GDP are one of the highest in Sub-Saharan Africa.</p><p></p><p>Although about 40% of the population lives in rural areas, the share of food production in GDP is low. The island economy suffers from a poor natural resource base, including serious water shortages, exacerbated by cycles of long-term drought, and poor soil for growing food on several of the islands, requiring it to import most of what it consumes. The fishing potential, mostly lobster and tuna, is not fully exploited.</p><p></p><p>Economic reforms are aimed at developing the private sector and attracting foreign investment to diversify the economy and mitigate high unemployment. The government’s elevated debt levels have limited its capacity to finance any shortfalls.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3.944 billion (2019 est.)<br>
-$3.732 billion (2018 est.)<br>
-$3.57 billion (2017 est.)<br>
+$3.36 billion note: data are in 2017 dollars (2020 est.)<br>
+$3.94 billion note: data are in 2017 dollars (2019 est.)<br>
+$3.73 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -378,9 +378,9 @@ $3.57 billion (2017 est.)<br>
 1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$7,172 (2019 est.)<br>
-$6,864 (2018 est.)<br>
-$6,643 (2017 est.)<br>
+$6,000 note: data are in 2017 dollars (2020 est.)<br>
+$7,200 note: data are in 2017 dollars (2019 est.)<br>
+$6,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -456,8 +456,9 @@ calendar year<br>
 -$40 million (2016 est.)<br>
 
 **Exports**<br>
-$189 million (2017 est.)<br>
-$148.4 million (2016 est.)<br>
+$420 million note: data are in current year dollars (2020 est.)<br>
+$1 billion note: data are in current year dollars (2019 est.)<br>
+$960 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Spain 65%, Portugal 14%, Italy 8% (2019)<br>
@@ -466,8 +467,9 @@ Spain 65%, Portugal 14%, Italy 8% (2019)<br>
 processed and frozen fish, mollusks, clothing, scrap iron (2019)<br>
 
 **Imports**<br>
-$836.1 million (2017 est.)<br>
-$687.3 million (2016 est.)<br>
+$1.02 billion note: data are in current year dollars (2020 est.)<br>
+$1.29 billion note: data are in current year dollars (2019 est.)<br>
+$1.34 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Portugal 36%, Netherlands 16%, Spain 11%, China 6% (2019)<br>

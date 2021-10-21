@@ -244,14 +244,6 @@ _particulate matter emissions_: 23.59 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 16.78 megatons (2016 est.)<br>
 _methane emissions_: 10.7 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 835 million cubic meters (2017 est.)<br>
-_industrial_: 603.1 million cubic meters (2017 est.)<br>
-_agricultural_: 1.886 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-127.91 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid in lowlands; cooler in highlands<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 18.2% (2018 est.)<br>
 _forest_: 33.6% (2018 est.)<br>
 _other_: 25.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 52.2% of total population (2021)<br>
+_rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.78% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 52.2% of total population (2021)<br>
-_rate of urbanization_: 2.59% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -280,6 +272,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 835 million cubic meters (2017 est.)<br>
+_industrial_: 603.1 million cubic meters (2017 est.)<br>
+_agricultural_: 1.886 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+127.91 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -386,9 +386,9 @@ _lyrics/music_: Jose Joaquin PALMA/Rafael Alvarez OVALLE<br>
 <p>Guatemala is the most populous country in Central America with a GDP per capita roughly half the average for Latin America and the Caribbean. The agricultural sector accounts for 13.5% of GDP and 31% of the labor force; key agricultural exports include sugar, coffee, bananas, and vegetables. Guatemala is the top remittance recipient in Central America as a result of Guatemala's large expatriate community in the US. These inflows are a primary source of foreign income, equivalent to two-thirds of the country's exports and about a tenth of its GDP.</p><p></p><p>The 1996 peace accords, which ended 36 years of civil war, removed a major obstacle to foreign investment, and Guatemala has since pursued important reforms and macroeconomic stabilization. The Dominican Republic-Central America Free Trade Agreement (CAFTA-DR) entered into force in July 2006, spurring increased investment and diversification of exports, with the largest increases in ethanol and non-traditional agricultural exports. While CAFTA-DR has helped improve the investment climate, concerns over security, the lack of skilled workers, and poor infrastructure continue to hamper foreign direct investment.</p><p></p><p>The distribution of income remains highly unequal with the richest 20% of the population accounting for more than 51% of Guatemala's overall consumption. More than half of the population is below the national poverty line, and 23% of the population lives in extreme poverty. Poverty among indigenous groups, which make up more than 40% of the population, averages 79%, with 40% of the indigenous population living in extreme poverty. Nearly one-half of Guatemala's children under age five are chronically malnourished, one of the highest malnutrition rates in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$143.416 billion (2019 est.)<br>
-$138.106 billion (2018 est.)<br>
-$133.804 billion (2017 est.)<br>
+$141.5 billion note: data are in 2017 dollars (2020 est.)<br>
+$143.68 billion note: data are in 2017 dollars (2019 est.)<br>
+$138.33 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -397,9 +397,9 @@ $133.804 billion (2017 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$8,637 (2019 est.)<br>
-$8,448 (2018 est.)<br>
-$8,317 (2017 est.)<br>
+$8,400 note: data are in 2017 dollars (2020 est.)<br>
+$8,700 note: data are in 2017 dollars (2019 est.)<br>
+$8,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -482,8 +482,9 @@ $1.134 billion (2017 est.)<br>
 $1.023 billion (2016 est.)<br>
 
 **Exports**<br>
-$11.12 billion (2017 est.)<br>
-$10.58 billion (2016 est.)<br>
+$13.12 billion note: data are in current year dollars (2020 est.)<br>
+$13.6 billion note: data are in current year dollars (2019 est.)<br>
+$13.35 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<br>
@@ -492,8 +493,9 @@ United States 33%, El Salvador 12%, Honduras 8%, Mexico 5%, Nicaragua 5% (2019)<
 bananas, raw sugar, coffee, cardamom, palm oil (2019)<br>
 
 **Imports**<br>
-$17.11 billion (2017 est.)<br>
-$15.77 billion (2016 est.)<br>
+$19.3 billion note: data are in current year dollars (2020 est.)<br>
+$21.52 billion note: data are in current year dollars (2019 est.)<br>
+$21.17 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 36%, China 12%, Mexico 11%, El Salvador 5% (2019)<br>
@@ -693,7 +695,7 @@ information varies; approximately 21,500 active personnel (19,000 Land Forces; 1
 the Guatemalan military inventory is small and mostly comprised of older US equipment; since 2010, Guatemala has received small amounts of equipment from Canada, Colombia, Spain, Taiwan, and the US (2020)<br>
 
 **Military deployments**<br>
-150 Democratic Republic of the Congo (MONUSCO) (Jan 2021)<br>
+150 Democratic Republic of the Congo (MONUSCO) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women can serve as officers (2019)<br>

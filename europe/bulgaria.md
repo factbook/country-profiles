@@ -63,6 +63,9 @@ _other_: 16.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,020 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
 
@@ -71,9 +74,6 @@ earthquakes; landslides<br>
 
 **Geography - note**<br>
 strategic location near Turkish Straits; controls key land routes from Europe to Middle East and Asia<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -239,14 +239,6 @@ _particulate matter emissions_: 18.82 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 41.71 megatons (2016 est.)<br>
 _methane emissions_: 6.77 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 882 million cubic meters (2017 est.)<br>
-_industrial_: 3.942 billion cubic meters (2017 est.)<br>
-_agricultural_: 834.5 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-21.3 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cold, damp winters; hot, dry summers<br>
 
@@ -258,15 +250,15 @@ _agricultural land: permanent pasture_: permanent pasture: 15.5% (2018 est.)<br>
 _forest_: 36.7% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 76% of total population (2021)<br>
+_rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.22% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.14% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 76% of total population (2021)<br>
-_rate of urbanization_: -0.28% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.011 million tons (2015 est.)<br>
@@ -275,6 +267,14 @@ _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 882 million cubic meters (2017 est.)<br>
+_industrial_: 3.942 billion cubic meters (2017 est.)<br>
+_agricultural_: 834.5 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+21.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -381,9 +381,9 @@ _lyrics/music_: Tsvetan Tsvetkov RADOSLAVOV<br>
 <p>Bulgaria, a former communist country that entered the EU in 2007, has an open economy that historically has demonstrated strong growth, but its per-capita income remains the lowest among EU members and its reliance on energy imports and foreign demand for its exports makes its growth sensitive to external market conditions.</p><p></p><p>The government undertook significant structural economic reforms in the 1990s to move the economy from a centralized, planned economy to a more liberal, market-driven economy. These reforms included privatization of state-owned enterprises, liberalization of trade, and strengthening of the tax system - changes that initially caused some economic hardships but later helped to attract investment, spur growth, and make gradual improvements to living conditions. From 2000 through 2008, Bulgaria maintained robust, average annual real GDP growth in excess of 6%, which was followed by a deep recession in 2009 as the financial crisis caused domestic demand, exports, capital inflows and industrial production to contract, prompting the government to rein in spending. Real GDP growth remained slow - less than 2% annually - until 2015, when demand from EU countries for Bulgarian exports, plus an inflow of EU development funds, boosted growth to more than 3%. In recent years, strong domestic demand combined with low international energy prices have contributed to Bulgaria’s economic growth approaching 4% and have also helped to ease inflation. Bulgaria’s prudent public financial management contributed to budget surpluses both in 2016 and 2017.</p><p></p><p>Bulgaria is heavily reliant on energy imports from Russia, a potential vulnerability, and is a participant in EU-backed efforts to diversify regional natural gas supplies. In late 2016, the Bulgarian Government provided funding to Bulgaria’s National Electric Company to cover the $695 million compensation owed to Russian nuclear equipment manufacturer Atomstroyexport for the cancellation of the Belene Nuclear Power Plant project, which the Bulgarian Government terminated in 2012. As of early 2018, the government was floating the possibility of resurrecting the Belene project. The natural gas market, dominated by state-owned Bulgargaz, is also almost entirely supplied by Russia. Infrastructure projects such as the Inter-Connector Greece-Bulgaria and Inter-Connector Bulgaria-Serbia, which would enable Bulgaria to have access to non-Russian gas, have either stalled or made limited progress. In 2016, the Bulgarian Government established the State eGovernment Agency. This new agency is responsible for the electronic governance, coordinating national policies with the EU, and strengthening cybersecurity.</p><p></p><p>Despite a favorable investment regime, including low, flat corporate income taxes, significant challenges remain. Corruption in public administration, a weak judiciary, low productivity, lack of transparency in public procurements, and the presence of organized crime continue to hamper the country's investment climate and economic prospects.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$161.654 billion (2019 est.)<br>
-$155.894 billion (2018 est.)<br>
-$151.218 billion (2017 est.)<br>
+$155.06 billion note: data are in 2017 dollars (2020 est.)<br>
+$161.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$156.02 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +392,9 @@ $151.218 billion (2017 est.)<br>
 3.5% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$23,174 (2019 est.)<br>
-$22,191 (2018 est.)<br>
-$21,371 (2017 est.)<br>
+$22,400 note: data are in 2017 dollars (2020 est.)<br>
+$23,200 note: data are in 2017 dollars (2019 est.)<br>
+$22,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -479,9 +479,9 @@ $2.06 billion (2019 est.)<br>
 $611 million (2018 est.)<br>
 
 **Exports**<br>
-$42.369 billion (2019 est.)<br>
-$40.779 billion (2018 est.)<br>
-$40.091 billion (2017 est.)<br>
+$39.27 billion note: data are in current year dollars (2020 est.)<br>
+$44.04 billion note: data are in current year dollars (2019 est.)<br>
+$43.52 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
@@ -490,9 +490,9 @@ Germany 16%, Romania 8%, Italy 7%, Turkey 7%, Greece 6% (2019)<br>
 refined petroleum, packaged medicines, copper, wheat, electricity (2019)<br>
 
 **Imports**<br>
-$44.853 billion (2019 est.)<br>
-$42.841 billion (2018 est.)<br>
-$40.53 billion (2017 est.)<br>
+$38.07 billion note: data are in current year dollars (2020 est.)<br>
+$41.84 billion note: data are in current year dollars (2019 est.)<br>
+$41.91 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 11%, Russia 9%, Italy 7%, Romania 7%, Turkey 7% (2019)<br>
@@ -706,9 +706,9 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,551 (Syria) (2019)<br>
+_refugees (country of origin)_: 18,310 (Syria) (2020)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 64,672 estimated refugee and migrant arrivals (January 2015-September 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 64,658 estimated refugee and migrant arrivals (January 2015-September 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions<br>

@@ -218,13 +218,6 @@ _particulate matter emissions_: 5.78 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.66 megatons (2016 est.)<br>
 _methane emissions_: 8.4 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 151.5 million cubic meters (2017 est.)<br>
-_agricultural_: 5.3 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-8.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid, rainy<br>
 
@@ -236,18 +229,25 @@ _agricultural land: permanent pasture_: permanent pasture: 0.6% (2018 est.)<br>
 _forest_: 71.8% (2018 est.)<br>
 _other_: 25.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 78.6% of total population (2021)<br>
+_rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.05% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 78.6% of total population (2021)<br>
-_rate of urbanization_: 1.44% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 216,253 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 151.5 million cubic meters (2017 est.)<br>
+_agricultural_: 5.3 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+8.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -351,9 +351,9 @@ _lyrics/music_: Pengiran Haji Mohamed YUSUF bin Pengiran Abdul Rahim/Awang Haji 
 <p>Brunei is an energy-rich sultanate on the northern coast of Borneo in Southeast Asia. Brunei boasts a well-educated, largely English-speaking population; excellent infrastructure; and a stable government intent on attracting foreign investment. Crude oil and natural gas production account for approximately 65% of GDP and 95% of exports, with Japan as the primary export market.</p><p></p><p>Per capita GDP is among the highest in the world, and substantial income from overseas investment supplements income from domestic hydrocarbon production. Bruneian citizens pay no personal income taxes, and the government provides free medical services and free education through the university level.</p><p></p><p>The Bruneian Government wants to diversify its economy away from hydrocarbon exports to other industries such as information and communications technology and halal manufacturing, permissible under Islamic law. Brunei’s trade increased in 2016 and 2017, following its regional economic integration in the ASEAN Economic Community, and the expected ratification of the Trans-Pacific Partnership trade agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$26.906 billion (2019 est.)<br>
-$25.904 billion (2018 est.)<br>
-$25.891 billion (2017 est.)<br>
+$27.23 billion note: data are in 2017 dollars (2020 est.)<br>
+$26.91 billion note: data are in 2017 dollars (2019 est.)<br>
+$25.9 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -362,9 +362,9 @@ $25.891 billion (2017 est.)<br>
 -0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$62,100 (2019 est.)<br>
-$60,389 (2018 est.)<br>
-$60,996 (2017 est.)<br>
+$62,200 note: data are in 2017 dollars (2020 est.)<br>
+$62,100 note: data are in 2017 dollars (2019 est.)<br>
+$60,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -437,8 +437,8 @@ $2.021 billion (2017 est.)<br>
 $1.47 billion (2016 est.)<br>
 
 **Exports**<br>
-$5.885 billion (2017 est.)<br>
-$5.023 billion (2016 est.)<br>
+$7.83 billion note: data are in current year dollars (2019 est.)<br>
+$7.04 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, China 6%, South Korea 5% (2019)<br>
@@ -447,8 +447,8 @@ Japan 34%, Australia 12%, Singapore 10%, India 8%, Malaysia 8%, Thailand 7%, Chi
 natural gas, crude petroleum, refined petroleum, industrial alcohols, industrial hydrocarbons (2019)<br>
 
 **Imports**<br>
-$2.998 billion (2017 est.)<br>
-$2.658 billion (2016 est.)<br>
+$6.81 billion note: data are in current year dollars (2019 est.)<br>
+$5.68 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Singapore 18%, China 14%, Malaysia 12%, Nigeria 5%, United Arab Emirates 5%, United States 5% (2019)<br>
@@ -618,7 +618,7 @@ _LNG terminal(s) (export)_: Lumut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2020)<br>
+Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Brunei Air Force (2021)<br>
 
 **Military expenditures**<br>
 3.7% of GDP (2020 est.)<br>
@@ -628,7 +628,7 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 3.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Brunei Armed Forces is comprised of approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2020)<br>
+the Royal Brunei Armed Forces is comprised of approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; the top supplier since 2010 is Germany (2020)<br>
@@ -637,7 +637,7 @@ the Royal Brunei Armed Forces imports nearly all of its military equipment and w
 17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2019)<br>
 
 **Military - note**<br>
-Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2020)<br>
+Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2021)<br>
 
 ## Transnational Issues
 

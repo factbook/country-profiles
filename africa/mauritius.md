@@ -235,14 +235,6 @@ _particulate matter emissions_: 13.54 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 4.35 megatons (2016 est.)<br>
 _methane emissions_: 2.06 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 260 million cubic meters (2017 est.)<br>
-_industrial_: 12 million cubic meters (2017 est.)<br>
-_agricultural_: 344 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.751 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical, modified by southeast trade winds; warm, dry winter (May to November); hot, wet, humid summer (November to May)<br>
 
@@ -254,18 +246,26 @@ _agricultural land: permanent pasture_: permanent pasture: 3.4% (2018 est.)<br>
 _forest_: 17.3% (2018 est.)<br>
 _other_: 38.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 40.8% of total population (2021)<br>
+_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 40.8% of total population (2021)<br>
-_rate of urbanization_: 0.28% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 438,000 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 260 million cubic meters (2017 est.)<br>
+_industrial_: 12 million cubic meters (2017 est.)<br>
+_agricultural_: 344 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.751 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -370,9 +370,9 @@ _lyrics/music_: Jean Georges PROSPER/Philippe GENTIL<br>
 <p>Since independence in 1968, Mauritius has undergone a remarkable economic transformation from a low-income, agriculturally based economy to a diversified, upper middle-income economy with growing industrial, financial, and tourist sectors. Mauritius has achieved steady growth over the last several decades, resulting in more equitable income distribution, increased life expectancy, lowered infant mortality, and a much-improved infrastructure.</p> <p> </p> <p>The economy currently depends on sugar, tourism, textiles and apparel, and financial services, but is expanding into fish processing, information and communications technology, education, and hospitality and property development. Sugarcane is grown on about 90% of the cultivated land area but sugar makes up only around 3-4% of national GDP. Authorities plan to emphasize services and innovation in the coming years. After several years of slow growth, government policies now seek to stimulate economic growth in five areas: serving as a gateway for international investment into Africa; increasing the use of renewable energy; developing smart cities; growing the ocean economy; and upgrading and modernizing infrastructure, including public transportation, the port, and the airport.</p> <p> </p> <p>Mauritius has attracted more than 32,000 offshore entities, many aimed at commerce in India, South Africa, and China. The Mauritius International Financial Center is under scrutiny by international bodies promoting fair tax competition and Mauritius has been cooperating with the European Union and the United states in the automatic exchange of account information. Mauritius is also a member of the OECD/G20’s Inclusive Framework on Base Erosion and Profit Shifting and is under pressure to review its Double Taxation Avoidance Agreements. The offshore sector is vulnerable to changes in the tax framework and authorities have been working on a Financial Services Sector Blueprint to enable Mauritius to transition to a jurisdiction of higher value added. Mauritius’ textile sector has taken advantage of the Africa Growth and Opportunity Act, a preferential trade program that allows duty free access to the US market, with Mauritian exports to the US growing by 35.6 % from 2000 to 2014. However, lack of local labor as well as rising labor costs eroding the competitiveness of textile firms in Mauritius.</p> <p> </p> <p>Mauritius' sound economic policies and prudent banking practices helped mitigate negative effects of the global financial crisis in 2008-09. GDP grew in the 3-4% per year range in 2010-17, and the country continues to expand its trade and investment outreach around the globe. Growth in the US and Europe fostered goods and services exports, including tourism, while lower oil prices kept inflation low. Mauritius continues to rank as one of the most business-friendly environments on the continent and passed a Business Facilitation Act to improve competitiveness and long-term growth prospects. A new National Economic Development Board was set up in 2017-2018 to spearhead efforts to promote exports and attract inward investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.947 billion (2019 est.)<br>
-$28.1 billion (2018 est.)<br>
-$27.081 billion (2017 est.)<br>
+$24.64 billion note: data are in 2017 dollars (2020 est.)<br>
+$28.95 billion note: data are in 2017 dollars (2019 est.)<br>
+$28.1 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -381,9 +381,9 @@ $27.081 billion (2017 est.)<br>
 3.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$22,870 (2019 est.)<br>
-$22,208 (2018 est.)<br>
-$21,415 (2017 est.)<br>
+$19,500 note: data are in 2017 dollars (2020 est.)<br>
+$22,900 note: data are in 2017 dollars (2019 est.)<br>
+$22,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -464,8 +464,8 @@ _expenditures_: 3.038 billion (2017 est.)<br>
 -$531 million (2016 est.)<br>
 
 **Exports**<br>
-$2.36 billion (2017 est.)<br>
-$2.359 billion (2016 est.)<br>
+$5.17 billion note: data are in current year dollars (2019 est.)<br>
+$5.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, Madagascar 6% (2019)<br>
@@ -474,8 +474,8 @@ France 10%, South Africa 10%, United States 10%, United Kingdom 8%, Zambia 7%, M
 fish products, raw sugar, clothing and apparel, diamonds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$4.986 billion (2017 est.)<br>
-$4.406 billion (2016 est.)<br>
+$7.41 billion note: data are in current year dollars (2019 est.)<br>
+$7.53 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 15%, India 13%, France 10%, South Africa 8%, United Arab Emirates 7% (2019)<br>

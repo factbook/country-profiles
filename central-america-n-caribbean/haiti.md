@@ -234,14 +234,6 @@ _particulate matter emissions_: 14.63 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.98 megatons (2016 est.)<br>
 _methane emissions_: 6.12 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 190 million cubic meters (2017 est.)<br>
-_industrial_: 51 million cubic meters (2017 est.)<br>
-_agricultural_: 1.209 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-14.022 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; semiarid where mountains in east cut off trade winds<br>
 
@@ -253,15 +245,15 @@ _agricultural land: permanent pasture_: permanent pasture: 17.7% (2018 est.)<br>
 _forest_: 3.6% (2018 est.)<br>
 _other_: 30% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 58% of total population (2021)<br>
+_rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.68% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 58% of total population (2021)<br>
-_rate of urbanization_: 2.47% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -273,6 +265,14 @@ _severe localized food insecurity_: due to reduced agricultural production and s
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,309,852 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 190 million cubic meters (2017 est.)<br>
+_industrial_: 51 million cubic meters (2017 est.)<br>
+_agricultural_: 1.209 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+14.022 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: Justin LHERISSON/Nicolas GEFFRARD<br>
 <p>Haiti is a free market economy with low labor costs and tariff-free access to the US for many of its exports. Two-fifths of all Haitians depend on the agricultural sector, mainly small-scale subsistence farming, which remains vulnerable to damage from frequent natural disasters. Poverty, corruption, vulnerability to natural disasters, and low levels of education for much of the population represent some of the most serious impediments to Haiti’s economic growth. Remittances are the primary source of foreign exchange, equivalent to more than a quarter of GDP, and nearly double the combined value of Haitian exports and foreign direct investment.</p><p></p><p>Currently the poorest country in the Western Hemisphere, with close to 60% of the population living under the national poverty line, Haiti’s GDP growth rose to 5.5% in 2011 as the Haitian economy began recovering from the devastating January 2010 earthquake that destroyed much of its capital city, Port-au-Prince, and neighboring areas. However, growth slowed to below 2% in 2015 and 2016 as political uncertainty, drought conditions, decreasing foreign aid, and the depreciation of the national currency took a toll on investment and economic growth. Hurricane Matthew, the fiercest Caribbean storm in nearly a decade, made landfall in Haiti on 4 October 2016, with 140 mile-per-hour winds, creating a new humanitarian emergency. An estimated 2.1 million people were affected by the category 4 storm, which caused extensive damage to crops, houses, livestock, and infrastructure across Haiti’s southern peninsula.</p><p></p><p>US economic engagement under the Caribbean Basin Trade Partnership Act (CBTPA) and the 2008 Haitian Hemispheric Opportunity through Partnership Encouragement Act (HOPE II) have contributed to an increase in apparel exports and investment by providing duty-free access to the US. The Haiti Economic Lift Program (HELP) Act of 2010 extended the CBTPA and HOPE II until 2020, while the Trade Preferences Extension Act of 2015 extended trade benefits provided to Haiti in the HOPE and HELP Acts through September 2025. Apparel sector exports in 2016 reached approximately $850 million and account for over 90% of Haitian exports and more than 10% of the GDP.</p><p></p><p>Investment in Haiti is hampered by the difficulty of doing business and weak infrastructure, including access to electricity. Haiti's outstanding external debt was cancelled by donor countries following the 2010 earthquake, but has since risen to $2.6 billion as of December 2017, the majority of which is owed to Venezuela under the PetroCaribe program. Although the government has increased its revenue collection, it continues to rely on formal international economic assistance for fiscal sustainability, with over 20% of its annual budget coming from foreign aid or direct budget support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$32.724 billion (2019 est.)<br>
-$33.284 billion (2018 est.)<br>
-$32.738 billion (2017 est.)<br>
+$31.62 billion note: data are in 2017 dollars (2020 est.)<br>
+$32.72 billion note: data are in 2017 dollars (2019 est.)<br>
+$33.28 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $32.738 billion (2017 est.)<br>
 1.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,905 (2019 est.)<br>
-$2,992 (2018 est.)<br>
-$2,981 (2017 est.)<br>
+$2,800 note: data are in 2017 dollars (2020 est.)<br>
+$2,900 note: data are in 2017 dollars (2019 est.)<br>
+$3,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -470,8 +470,8 @@ _expenditures_: 1.65 billion (2017 est.)<br>
 -$83 million (2016 est.)<br>
 
 **Exports**<br>
-$980.2 million (2017 est.)<br>
-$995 million (2016 est.)<br>
+$1.73 billion note: data are in current year dollars (2019 est.)<br>
+$1.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 81%, Canada 7% (2019)<br>
@@ -480,8 +480,8 @@ United States 81%, Canada 7% (2019)<br>
 clothing and apparel, eels, essential oils, perfumes, mangoes, cocoa beans (2019)<br>
 
 **Imports**<br>
-$3.618 billion (2017 est.)<br>
-$3.183 billion (2016 est.)<br>
+$5.21 billion note: data are in current year dollars (2019 est.)<br>
+$5.67 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 39%, China 22%, Turkey 5% (2019)<br>
@@ -645,7 +645,7 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2020)<br>
+the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2021)<br>
 
 **Military and security service personnel strengths**<br>
 the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>

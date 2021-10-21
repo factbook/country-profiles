@@ -244,14 +244,6 @@ _particulate matter emissions_: 44.96 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 10.61 megatons (2016 est.)<br>
 _methane emissions_: 8.03 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 265 million cubic meters (2017 est.)<br>
-_industrial_: 65 million cubic meters (2017 est.)<br>
-_agricultural_: 3.235 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2.1 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly desert; hot and humid along west coast; temperate in western mountains affected by seasonal monsoon; extraordinarily hot, dry, harsh desert in east<br>
 
@@ -263,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 54.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 38.5% of total population (2021)<br>
+_rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.04% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 38.5% of total population (2021)<br>
-_rate of urbanization_: 3.71% annual rate of change (2015-20 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -286,6 +278,14 @@ _widespread lack of access_: due to conflict, poverty, floods, high food and fue
 _municipal solid waste generated annually_: 4,836,820 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 386,946 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 265 million cubic meters (2017 est.)<br>
+_industrial_: 65 million cubic meters (2017 est.)<br>
+_agricultural_: 3.235 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 

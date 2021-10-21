@@ -61,6 +61,9 @@ _other_: 29.8% (2018 est.)<br>
 **Irrigated land**<br>
 630 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
 
@@ -69,9 +72,6 @@ avalanches, landslides; flash floods<br>
 
 **Geography - note**<br>
 landlocked; crossroads of northern and southern Europe; along with southeastern France, northern Italy, and southwestern Austria, has the highest elevations in the Alps<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 ## People and Society
 
@@ -233,14 +233,6 @@ _particulate matter emissions_: 10.21 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 34.48 megatons (2016 est.)<br>
 _methane emissions_: 4.98 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 931 million cubic meters (2017 est.)<br>
-_industrial_: 642.7 million cubic meters (2017 est.)<br>
-_agricultural_: 160.1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-53.5 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate, but varies with altitude; cold, cloudy, rainy/snowy winters; cool to warm, cloudy, humid summers with occasional showers<br>
 
@@ -252,15 +244,15 @@ _agricultural land: permanent pasture_: permanent pasture: 27.9% (2018 est.)<br>
 _forest_: 31.5% (2018 est.)<br>
 _other_: 29.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 74% of total population (2021)<br>
+_rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 74% of total population (2021)<br>
-_rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6.056 million tons (2016 est.)<br>
@@ -269,6 +261,14 @@ _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 931 million cubic meters (2017 est.)<br>
+_industrial_: 642.7 million cubic meters (2017 est.)<br>
+_agricultural_: 160.1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+53.5 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ the Swiss anthem has four names: "Schweizerpsalm" [German] "Cantique Suisse" [Fr
 <p>Switzerland, a country that espouses neutrality, is a prosperous and modern market economy with low unemployment, a highly skilled labor force, and a per capita GDP among the highest in the world. Switzerland's economy benefits from a highly developed service sector, led by financial services, and a manufacturing industry that specializes in high-technology, knowledge-based production. Its economic and political stability, transparent legal system, exceptional infrastructure, efficient capital markets, and low corporate tax rates also make Switzerland one of the world's most competitive economies.</p><p></p><p>The Swiss have brought their economic practices largely into conformity with the EU's to gain access to the Union’s Single Market and enhance the country’s international competitiveness. Some trade protectionism remains, however, particularly for its small agricultural sector. The fate of the Swiss economy is tightly linked to that of its neighbors in the euro zone, which purchases half of Swiss exports. The global financial crisis of 2008 and resulting economic downturn in 2009 stalled demand for Swiss exports and put Switzerland into a recession. During this period, the Swiss National Bank (SNB) implemented a zero-interest rate policy to boost the economy, as well as to prevent appreciation of the franc, and Switzerland's economy began to recover in 2010.</p><p></p><p>The sovereign debt crises unfolding in neighboring euro-zone countries, however, coupled with economic instability in Russia and other Eastern European economies drove up demand for the Swiss franc by investors seeking a safehaven currency. In January 2015, the SNB abandoned the Swiss franc’s peg to the euro, roiling global currency markets and making active SNB intervention a necessary hallmark of present-day Swiss monetary policy. The independent SNB has upheld its zero interest rate policy and conducted major market interventions to prevent further appreciation of the Swiss franc, but parliamentarians have urged it to do more to weaken the currency. The franc's strength has made Swiss exports less competitive and weakened the country's growth outlook; GDP growth fell below 2% per year from 2011 through 2017.</p><p></p><p>In recent years, Switzerland has responded to increasing pressure from neighboring countries and trading partners to reform its banking secrecy laws, by agreeing to conform to OECD regulations on administrative assistance in tax matters, including tax evasion. The Swiss Government has also renegotiated its double taxation agreements with numerous countries, including the US, to incorporate OECD standards.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$588.472 billion (2019 est.)<br>
-$583.056 billion (2018 est.)<br>
-$567.448 billion (2017 est.)<br>
+$590.71 billion note: data are in 2017 dollars (2020 est.)<br>
+$608.16 billion note: data are in 2017 dollars (2019 est.)<br>
+$601.65 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $567.448 billion (2017 est.)<br>
 1.65% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$68,628 (2019 est.)<br>
-$68,479 (2018 est.)<br>
-$67,139 (2017 est.)<br>
+$68,400 note: data are in 2017 dollars (2020 est.)<br>
+$70,900 note: data are in 2017 dollars (2019 est.)<br>
+$70,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -476,9 +476,9 @@ $79.937 billion (2019 est.)<br>
 $63.273 billion (2018 est.)<br>
 
 **Exports**<br>
-$443.997 billion (2019 est.)<br>
-$444.605 billion (2018 est.)<br>
-$430.129 billion (2017 est.)<br>
+$470.91 billion note: data are in current year dollars (2020 est.)<br>
+$478.34 billion note: data are in current year dollars (2019 est.)<br>
+$482.58 billion note: data are in current year dollars (2018 est.)<br>
 <strong>note:</strong> trade data exclude trade with Switzerland<br>
 
 **Exports - partners**<br>
@@ -488,9 +488,9 @@ Germany 16%, United States 14%, United Kingdom 8%, China 7%, France 6%, India 6%
 gold, packaged medicines, medical cultures/vaccines, watches, jewelry (2019)<br>
 
 **Imports**<br>
-$344.477 billion (2019 est.)<br>
-$344.557 billion (2018 est.)<br>
-$343.367 billion (2017 est.)<br>
+$401.91 billion note: data are in current year dollars (2020 est.)<br>
+$394 billion note: data are in current year dollars (2019 est.)<br>
+$395.86 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 21%, Italy 8%, United States 6%, France 6%, United Kingdom 5%, United Arab Emirates 5% (2019)<br>
@@ -706,7 +706,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 36,698 (Eritrea), 18,755 (Syria), 13,455 (Afghanistan), 5,819 (Sri Lanka) (2019)<br>
+_refugees (country of origin)_: 37,816 (Eritrea), 19,869 (Syria), 14,523 (Afghanistan), 6,016 (Sri Lanka), 5,447 (Turkey) (2020)<br>
 _stateless persons_: 711 (2020)<br>
 
 **Illicit drugs**<br>

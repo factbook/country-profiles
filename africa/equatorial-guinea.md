@@ -230,14 +230,6 @@ _particulate matter emissions_: 45.9 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.65 megatons (2016 est.)<br>
 _methane emissions_: 11.21 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 15.8 million cubic meters (2017 est.)<br>
-_industrial_: 3 million cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-26 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; always hot, humid<br>
 
@@ -249,15 +241,15 @@ _agricultural land: permanent pasture_: permanent pasture: 3.7% (2018 est.)<br>
 _forest_: 57.5% (2018 est.)<br>
 _other_: 32.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 73.6% of total population (2021)<br>
+_rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.52% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 73.6% of total population (2021)<br>
-_rate of urbanization_: 3.62% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -267,6 +259,14 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 198,443 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 15.8 million cubic meters (2017 est.)<br>
+_industrial_: 3 million cubic meters (2017 est.)<br>
+_agricultural_: 1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+26 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -370,9 +370,9 @@ _lyrics/music_: Atanasio Ndongo MIYONO/Atanasio Ndongo MIYONO or Ramiro Sanchez 
 <p>Exploitation of oil and gas deposits, beginning in the 1990s, has driven economic growth in Equatorial Guinea; a recent rebasing of GDP resulted in an upward revision of the size of the economy by approximately 30%. Forestry and farming are minor components of GDP. Although preindependence Equatorial Guinea counted on cocoa production for hard currency earnings, the neglect of the rural economy since independence has diminished the potential for agriculture-led growth. Subsistence farming is the dominant form of livelihood. Declining revenue from hydrocarbon production, high levels of infrastructure expenditures, lack of economic diversification, and corruption have pushed the economy into decline in recent years and limited improvements in the general population’s living conditions. Equatorial Guinea’s real GDP growth has been weak in recent years, averaging -0.5% per year from 2010 to 2014, because of a declining hydrocarbon sector. Inflation remained very low in 2016, down from an average of 4% in 2014.</p><p></p><p>As a middle income country, Equatorial Guinea is now ineligible for most low-income World Bank and the IMF funding. The government has been widely criticized for its lack of transparency and misuse of oil revenues and has attempted to address this issue by working toward compliance with the Extractive Industries Transparency Initiative. US foreign assistance to Equatorial Guinea is limited in part because of US restrictions pursuant to the Trafficking Victims Protection Act.</p><p></p><p>Equatorial Guinea hosted two economic diversification symposia in 2014 that focused on attracting investment in five sectors: agriculture and animal ranching, fishing, mining and petrochemicals, tourism, and financial services. Undeveloped mineral resources include gold, zinc, diamonds, columbite-tantalite, and other base metals. In 2017 Equatorial Guinea signed a preliminary agreement with Ghana to sell liquefied natural gas (LNG); as oil production wanes, the government believes LNG could provide a boost to revenues, but it will require large investments and long lead times to develop.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$25.164 billion (2019 est.)<br>
-$26.65 billion (2018 est.)<br>
-$28.459 billion (2017 est.)<br>
+$23.86 billion note: data are in 2017 dollars (2020 est.)<br>
+$25.09 billion note: data are in 2017 dollars (2019 est.)<br>
+$26.68 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -381,9 +381,9 @@ $28.459 billion (2017 est.)<br>
 -9.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$18,558 (2019 est.)<br>
-$20,360 (2018 est.)<br>
-$22,551 (2017 est.)<br>
+$17,000 note: data are in 2017 dollars (2020 est.)<br>
+$18,500 note: data are in 2017 dollars (2019 est.)<br>
+$20,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>

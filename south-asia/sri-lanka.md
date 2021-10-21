@@ -242,14 +242,6 @@ _particulate matter emissions_: 15.25 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 23.36 megatons (2016 est.)<br>
 _methane emissions_: 10.95 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 805 million cubic meters (2017 est.)<br>
-_industrial_: 831 million cubic meters (2017 est.)<br>
-_agricultural_: 11.31 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-52.8 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical monsoon; northeast monsoon (December to March); southwest monsoon (June to October)<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 7% (2018 est.)<br>
 _forest_: 29.4% (2018 est.)<br>
 _other_: 27.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 18.9% of total population (2021)<br>
+_rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.06% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 18.9% of total population (2021)<br>
-_rate of urbanization_: 1.22% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: <p>intermediate</p> (2020)<br>
@@ -281,6 +273,14 @@ _animal contact diseases_: rabies<br>
 _municipal solid waste generated annually_: 2,631,650 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 336,588 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 12.8% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 805 million cubic meters (2017 est.)<br>
+_industrial_: 831 million cubic meters (2017 est.)<br>
+_agricultural_: 11.31 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+52.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -385,9 +385,9 @@ _lyrics/music_: Ananda SAMARKONE<br>
 <p>Sri Lanka is attempting to sustain economic growth while maintaining macroeconomic stability under the IMF program it began in 2016. The government's high debt payments and bloated civil service, which have contributed to historically high budget deficits, remain a concern. Government debt is about 79% of GDP and remains among the highest of the emerging markets. In the coming years, Sri Lanka will need to balance its elevated debt repayment schedule with its need to maintain adequate foreign exchange reserves.</p><p></p><p>In May 2016, Sri Lanka regained its preferential trade status under the European Union’s Generalized System of Preferences Plus, enabling many of its firms to export products, including its top export garments, tax free to the EU. In 2017, Parliament passed a new Inland Revenue Act in an effort to increase tax collection and broaden the tax base in response to recommendations made under its IMF program. In November 2017, the Financial Action Task Force on money laundering and terrorist financing listed Sri Lanka as non-compliant, but reported subsequently that Sri Lanka had made good progress in implementing an action plan to address deficiencies.</p><p></p><p>Tourism has experienced strong growth in the years since the resolution of the government's 26-year conflict with the Liberation Tigers of Tamil Eelam. In 2017, the government promulgated plans to transform the country into a knowledge-based, export-oriented Indian Ocean hub by 2025.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$285.141 billion (2019 est.)<br>
-$278.776 billion (2018 est.)<br>
-$269.853 billion (2017 est.)<br>
+$274.8 billion note: data are in 2017 dollars (2020 est.)<br>
+$284.97 billion note: data are in 2017 dollars (2019 est.)<br>
+$278.68 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -396,9 +396,9 @@ $269.853 billion (2017 est.)<br>
 3.58% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$13,078 (2019 est.)<br>
-$12,865 (2018 est.)<br>
-$12,584 (2017 est.)<br>
+$12,500 note: data are in 2017 dollars (2020 est.)<br>
+$13,100 note: data are in 2017 dollars (2019 est.)<br>
+$12,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -482,8 +482,8 @@ calendar year<br>
 -$17 million (2018 est.)<br>
 
 **Exports**<br>
-$16.322 billion (2019 est.)<br>
-$15.238 billion (2018 est.)<br>
+$19.41 billion note: data are in current year dollars (2019 est.)<br>
+$20.26 billion note: data are in current year dollars (2018 est.)<br>
 $15.166 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -493,8 +493,8 @@ United States 24%, India 8%, United Kingdom 7%, Germany 7% (2019)<br>
 clothing and apparel, tea, used tires, rubber products, precious stones, cinnamon (2019)<br>
 
 **Imports**<br>
-$24.984 billion (2019 est.)<br>
-$26.521 billion (2018 est.)<br>
+$24.56 billion note: data are in current year dollars (2019 est.)<br>
+$26.84 billion note: data are in current year dollars (2018 est.)<br>
 $26.063 billion (2017 est.)<br>
 
 **Imports - partners**<br>

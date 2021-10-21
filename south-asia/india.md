@@ -64,6 +64,12 @@ _other_: 16.4% (2018 est.)<br>
 **Irrigated land**<br>
 667,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
+
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
@@ -72,12 +78,6 @@ with the notable exception of the deserts in the northwest, including the Thar D
 
 **Geography - note**<br>
 dominates South Asian subcontinent; near important Indian Ocean trade routes; Kanchenjunga, third tallest mountain in the world, lies on the border with Nepal<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
-
-**Major aquifers**<br>
-Indus-Ganges-Brahmaputra Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 65.2 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2,407.67 megatons (2016 est.)<br>
 _methane emissions_: 559.11 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 56 billion cubic meters (2017 est.)<br>
-_industrial_: 17 billion cubic meters (2017 est.)<br>
-_agricultural_: 688 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1,910,900,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical monsoon in south to temperate in north<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
 _forest_: 23.1% (2018 est.)<br>
 _other_: 16.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 35.4% of total population (2021)<br>
+_rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.14% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 1.15% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 35.4% of total population (2021)<br>
-_rate of urbanization_: 2.33% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -298,6 +290,14 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 56 billion cubic meters (2017 est.)<br>
+_industrial_: 17 billion cubic meters (2017 est.)<br>
+_agricultural_: 688 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1,910,900,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -406,9 +406,9 @@ _lyrics/music_: Rabindranath TAGORE<br>
 <p>India's diverse economy encompasses traditional village farming, modern agriculture, handicrafts, a wide range of modern industries, and a multitude of services. Slightly less than half of the workforce is in agriculture, but services are the major source of economic growth, accounting for nearly two-thirds of India's output but employing less than one-third of its labor force. India has capitalized on its large educated English-speaking population to become a major exporter of information technology services, business outsourcing services, and software workers. Nevertheless, per capita income remains below the world average. India is developing into an open-market economy, yet traces of its past autarkic policies remain. Economic liberalization measures, including industrial deregulation, privatization of state-owned enterprises, and reduced controls on foreign trade and investment, began in the early 1990s and served to accelerate the country's growth, which averaged nearly 7% per year from 1997 to 2017.</p><p></p><p>India's economic growth slowed in 2011 because of a decline in investment caused by high interest rates, rising inflation, and investor pessimism about the government's commitment to further economic reforms and about slow world growth. Investors’ perceptions of India improved in early 2014, due to a reduction of the current account deficit and expectations of post-election economic reform, resulting in a surge of inbound capital flows and stabilization of the rupee. Growth rebounded in 2014 through 2016. Despite a high growth rate compared to the rest of the world, India’s government-owned banks faced mounting bad debt, resulting in low credit growth. Rising macroeconomic imbalances in India and improving economic conditions in Western countries led investors to shift capital away from India, prompting a sharp depreciation of the rupee through 2016.</p><p></p><p>The economy slowed again in 2017, due to shocks of "demonetizaton" in 2016 and introduction of GST in 2017. Since the election, the government has passed an important goods and services tax bill and raised foreign direct investment caps in some sectors, but most economic reforms have focused on administrative and governance changes, largely because the ruling party remains a minority in India’s upper house of Parliament, which must approve most bills.</p><p></p><p>India has a young population and corresponding low dependency ratio, healthy savings and investment rates, and is increasing integration into the global economy. However, long-term challenges remain significant, including: India's discrimination against women and girls, an inefficient power generation and distribution system, ineffective enforcement of intellectual property rights, decades-long civil litigation dockets, inadequate transport and agricultural infrastructure, limited non-agricultural employment opportunities, high spending and poorly targeted subsidies, inadequate availability of quality basic and higher education, and accommodating rural-to-urban migration.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9,155,083,000,000 (2019 est.)<br>
-$8,787,694,000,000 (2018 est.)<br>
-$8,280,935,000,000 (2017 est.)<br>
+$8,443,360,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$9,174,040,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$8,817,670,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -417,9 +417,9 @@ $8,280,935,000,000 (2017 est.)<br>
 6.55% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$6,700 (2019 est.)<br>
-$6,497 (2018 est.)<br>
-$6,186 (2017 est.)<br>
+$6,100 note: data are in 2017 dollars (2020 est.)<br>
+$6,700 note: data are in 2017 dollars (2019 est.)<br>
+$6,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,9 +503,9 @@ _expenditures_: 329 billion (2017 est.)<br>
 -$65.939 billion (2018 est.)<br>
 
 **Exports**<br>
-$572.073 billion (2019 est.)<br>
-$564.165 billion (2018 est.)<br>
-$509.661 billion (2017 est.)<br>
+$484.95 billion note: data are in current year dollars (2020 est.)<br>
+$546.03 billion note: data are in current year dollars (2019 est.)<br>
+$537.04 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
@@ -514,9 +514,9 @@ United States 17%, United Arab Emirates 9%, China 5% (2019)<br>
 refined petroleum, diamonds, packaged medicines, jewelry, cars (2019)<br>
 
 **Imports**<br>
-$624.314 billion (2019 est.)<br>
-$656.529 billion (2018 est.)<br>
-$575.121 billion (2017 est.)<br>
+$493.18 billion note: data are in current year dollars (2020 est.)<br>
+$619.48 billion note: data are in current year dollars (2019 est.)<br>
+$642.96 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 15%, United States 7%, United Arab Emirates 6%, Saudi Arabia 5% (2019)<br>
@@ -721,7 +721,7 @@ information on the size of the Indian Armed Forces varies; approximately 1.45 mi
 the inventory of the Indian Armed Forces consists mostly of Russian-origin equipment, along with a smaller mix of Western and domestically-produced arms; since 2010, Russia is the leading supplier of arms to India; other major suppliers include France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2020)<br>
 
 **Military deployments**<br>
-1,900 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 780 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Jan 2021)<br>
+1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2020)<br>
@@ -741,7 +741,7 @@ Harakat ul-Mujahidin; Harakat ul-Jihad-i-Islami; Hizbul Mujahideen; Indian Mujah
 <p>since China and India launched a security and foreign policy dialogue in 2005, consolidated discussions related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, Indian claims that China transferred missiles to Pakistan, and other matters continue; Kashmir remains the site of the world's largest and most militarized territorial dispute with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas); India and Pakistan resumed bilateral dialogue in February 2011 after a two-year hiatus, have maintained the 2003 cease-fire in Kashmir, and continue to have disputes over water sharing of the Indus River and its tributaries; UN Military Observer Group in India and Pakistan has maintained a small group of peacekeepers since 1949; India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964; to defuse tensions and prepare for discussions on a maritime boundary, India and Pakistan seek technical resolution of the disputed boundary in Sir Creek estuary at the mouth of the Rann of Kutch in the Arabian Sea; Pakistani maps continue to show its Junagadh claim in Indian Gujarat State; Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Joint Border Committee with Nepal continues to examine contested boundary sections, including the 400 sq km dispute over the source of the Kalapani River; India maintains a strict border regime to keep out Maoist insurgents and control illegal cross-border activities from Nepal</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 108,008 (Tibet/China), 59,428 (Sri Lanka), 18,813 (Burma), 7,470 (Afghanistan) (2019)<br>
+_refugees (country of origin)_: 93,259 (Sri Lanka), 73,407 (Tibet/China), 19,398 (Burma), 8,275 (Afghanistan) (2020)<br>
 _IDPs_: 473,000 (armed conflict and intercommunal violence) (2020)<br>
 _stateless persons_: 18,174 (2020)<br>
 

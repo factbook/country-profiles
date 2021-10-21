@@ -216,14 +216,6 @@ _particulate matter emissions_: 17.92 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.56 megatons (2016 est.)<br>
 _methane emissions_: 0.22 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 7.2 million cubic meters (2017 est.)<br>
-_industrial_: 2.5 million cubic meters (2017 est.)<br>
-_agricultural_: 1.8 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-52 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical maritime; little seasonal temperature variation<br>
 
@@ -235,18 +227,26 @@ _agricultural land: permanent pasture_: permanent pasture: 9% (2018 est.)<br>
 _forest_: 18.8% (2018 est.)<br>
 _other_: 60.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 24.4% of total population (2021)<br>
+_rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 24.4% of total population (2021)<br>
-_rate of urbanization_: 0.87% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 30,585 tons (2012 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 7.2 million cubic meters (2017 est.)<br>
+_industrial_: 2.5 million cubic meters (2017 est.)<br>
+_agricultural_: 1.8 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+52 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -342,9 +342,9 @@ _lyrics/music_: Novelle Hamilton RICHARDS/Walter Garnet Picart CHAMBERS<br>
 <p>Tourism continues to dominate Antigua and Barbuda's economy, accounting for nearly 60% of GDP and 40% of investment. The dual-island nation's agricultural production is focused on the domestic market and constrained by a limited water supply and a labor shortage stemming from the lure of higher wages in tourism and construction. Manufacturing comprises enclave-type assembly for export with major products being bedding, handicrafts, and electronic components.</p><p></p><p>Like other countries in the region, Antigua's economy was severely hit by effects of the global economic recession in 2009. The country suffered from the collapse of its largest private sector employer, a steep decline in tourism, a rise in debt, and a sharp economic contraction between 2009 and 2011. Antigua has not yet returned to its pre-crisis growth levels. Barbuda suffered significant damages after hurricanes Irma and Maria passed through the Caribbean in 2017.</p><p></p><p>Prospects for economic growth in the medium term will continue to depend on tourist arrivals from the US, Canada, and Europe and could be disrupted by potential damage from natural disasters. The new government, elected in 2014 and led by Prime Minister Gaston Browne, continues to face significant fiscal challenges. The government places some hope in a new Citizenship by Investment Program, to both reduce public debt levels and spur growth, and a resolution of a WTO dispute with the US.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.127 billion (2019 est.)<br>
-$2.033 billion (2018 est.)<br>
-$1.893 billion (2017 est.)<br>
+$1.76 billion note: data are in 2017 dollars (2020 est.)<br>
+$2.09 billion note: data are in 2017 dollars (2019 est.)<br>
+$2.02 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -353,9 +353,9 @@ $1.893 billion (2017 est.)<br>
 4.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$21,910 (2019 est.)<br>
-$21,116 (2018 est.)<br>
-$19,840 (2017 est.)<br>
+$18,000 note: data are in 2017 dollars (2020 est.)<br>
+$21,500 note: data are in 2017 dollars (2019 est.)<br>
+$21,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -427,7 +427,7 @@ _expenditures_: 334 million (2017 est.)<br>
 $2 million (2016 est.)<br>
 
 **Exports**<br>
-$86.7 million (2017 est.)<br>
+$1.15 billion note: data are in current year dollars (2018 est.)<br>
 $56.5 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -437,7 +437,7 @@ Poland 37%, Suriname 33%, United Arab Emirates 8% (2019)<br>
 ships, refined petroleum, precious/semi-precious metal scraps, rice, corn (2019)<br>
 
 **Imports**<br>
-$560 million (2017 est.)<br>
+$1.12 billion note: data are in current year dollars (2018 est.)<br>
 $503.4 million (2016 est.)<br>
 
 **Imports - partners**<br>

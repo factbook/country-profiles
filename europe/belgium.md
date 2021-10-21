@@ -64,6 +64,9 @@ _other_: 33.5% (2018 est.)<br>
 **Irrigated land**<br>
 230 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)<br>
+
 **Population distribution**<br>
 most of the population concentrated in the northern two-thirds of the country; the southeast is more thinly populated; considered to have one of the highest population densities in the world; approximately 97% live in urban areas<br>
 
@@ -230,14 +233,6 @@ _particulate matter emissions_: 12.88 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 96.89 megatons (2016 est.)<br>
 _methane emissions_: 7.78 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 739 million cubic meters (2017 est.)<br>
-_industrial_: 3.21 billion cubic meters (2017 est.)<br>
-_agricultural_: 45 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-18.3 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; mild winters, cool summers; rainy, humid, cloudy<br>
 
@@ -249,20 +244,31 @@ _agricultural land: permanent pasture_: permanent pasture: 16.1% (2018 est.)<br>
 _forest_: 22.4% (2018 est.)<br>
 _other_: 33.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 98.1% of total population (2021)<br>
+_rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.02% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 98.1% of total population (2021)<br>
-_rate of urbanization_: 0.38% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.708 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,614,985 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 34.3% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Seine 78,919 sq km), Rhine-Maas (198,735 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 739 million cubic meters (2017 est.)<br>
+_industrial_: 3.21 billion cubic meters (2017 est.)<br>
+_agricultural_: 45 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+18.3 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -319,9 +325,9 @@ _cabinet_: Council of Ministers formally appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary and constitutional; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch and approved by Parliament<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br> Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senaat (in Dutch), Senat (in French) (60 seats; 50 members indirectly elected by the community and regional parliaments based on their election results, and 10 elected by the 50 other senators; members serve 5-year terms)<br>Chamber of Representatives or Kamer van Volksvertegenwoordigers (in Dutch), Chambre des Representants (in French) (150 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
 _elections_: <p>Senate - last held 26 May 2019 (next to be held in 2024)</p> Chamber of Representatives - last held on 26 May 2019 (next to be held in 2024); note - elections coincided with the EU elections<br>
-_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition men 32, women 28, percent of women 46.7%<br><br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition men 33, women 27, percent of women 45%<br>Chamber of Representatives - percent of vote by party - N-VA 16.0%, VB 11.9%, PS 9.5%, CD&amp;V 8.9%, PVDA+/PTB 8.62%, Open VLD 8.5%, MR 7.6%, SP.A 6.7%, Ecolo 6.1%, Groen 6.1%, CDH 3.7%, Defi 2.2%, PP 1.1%, other 20.1%; seats by party - N-VA 25, VB 18, PS 20, CD&amp;V 12, PVDA+PTB 12, Open VLD 12, MR 14, SP.A 9, Ecolo 13, Groen 8, CDH 5, Defi 2; composition - men 86, women 64, percent of women 42.7%; note - overall Parliament percent of women 43.8%<br>
 <strong>note:</strong> the 1993 constitutional revision that further devolved Belgium into a federal state created three levels of government (federal, regional, and linguistic community) with a complex division of responsibilities; this reality leaves six governments, each with its own legislative assembly; changes above occurred since the sixth state reform<br>
 
 **Judicial branch**<br>
@@ -368,9 +374,9 @@ _lyrics/music_: Louis-Alexandre DECHET[French] Victor CEULEMANS [Dutch]/Francois
 <p>Belgium’s central geographic location and highly developed transport network have helped develop a well-diversified economy, with a broad mix of transport, services, manufacturing, and high tech. Service and high-tech industries are concentrated in the northern Flanders region while the southern region of Wallonia is home to industries like coal and steel manufacturing. Belgium is completely reliant on foreign sources of fossil fuels, and the planned closure of its seven nuclear plants by 2025 should increase its dependence on foreign energy. Its role as a regional logistical hub makes its economy vulnerable to shifts in foreign demand, particularly with EU trading partners. Roughly three-quarters of Belgium's trade is with other EU countries, and the port of Zeebrugge conducts almost half its trade with the United Kingdom alone, leaving Belgium’s economy vulnerable to the outcome of negotiations on the UK’s exit from the EU.</p><p></p><p>Belgium’s GDP grew by 1.7% in 2017 and the budget deficit was 1.5% of GDP. Unemployment stood at 7.3%, however the unemployment rate is lower in Flanders than Wallonia, 4.4% compared to 9.4%, because of industrial differences between the regions. The economy largely recovered from the March 2016 terrorist attacks that mainly impacted the Brussels region tourist and hospitality industry. Prime Minister Charles MICHEL's center-right government has pledged to further reduce the deficit in response to EU pressure to decrease Belgium's high public debt of about 104% of GDP, but such efforts would also dampen economic growth. In addition to restrained public spending, low wage growth and higher inflation promise to curtail a more robust recovery in private consumption.</p><p></p><p>The government has pledged to pursue a reform program to improve Belgium’s competitiveness, including changes to labor market rules and welfare benefits. These changes have generally made Belgian wages more competitive regionally, but have raised tensions with trade unions, which have called for extended strikes. In 2017, Belgium approved a tax reform plan to ease corporate rates from 33% to 29% by 2018 and down to 25% by 2020. The tax plan also included benefits for innovation and SMEs, intended to spur competitiveness and private investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$596.414 billion (2019 est.)<br>
-$586.192 billion (2018 est.)<br>
-$575.757 billion (2017 est.)<br>
+$557.11 billion note: data are in 2017 dollars (2020 est.)<br>
+$594.47 billion note: data are in 2017 dollars (2019 est.)<br>
+$584.05 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -379,9 +385,9 @@ $575.757 billion (2017 est.)<br>
 1.9% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$51,934 (2019 est.)<br>
-$51,299 (2018 est.)<br>
-$50,615 (2017 est.)<br>
+$48,200 note: data are in 2017 dollars (2020 est.)<br>
+$51,700 note: data are in 2017 dollars (2019 est.)<br>
+$51,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -465,9 +471,9 @@ $1.843 billion (2019 est.)<br>
 -$4.135 billion (2018 est.)<br>
 
 **Exports**<br>
-$474.278 billion (2019 est.)<br>
-$469.48 billion (2018 est.)<br>
-$466.732 billion (2017 est.)<br>
+$414.79 billion note: data are in current year dollars (2020 est.)<br>
+$436.3 billion note: data are in current year dollars (2019 est.)<br>
+$451.25 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, Italy 5% (2019)<br>
@@ -476,9 +482,9 @@ Germany 17%, France 14%, Netherlands 13%, United Kingdom 8%, United States 6%, I
 cars and vehicle parts, refined petroleum, packaged medicines, medical cultures/vaccines, diamonds, natural gas (2019)<br>
 
 **Imports**<br>
-$473.129 billion (2019 est.)<br>
-$469.546 billion (2018 est.)<br>
-$463.706 billion (2017 est.)<br>
+$412.85 billion note: data are in current year dollars (2020 est.)<br>
+$433.04 billion note: data are in current year dollars (2019 est.)<br>
+$452.53 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Netherlands 16%, Germany 13%, France 10%, United States 8%, Ireland 5%, China 5% (2019)<br>
@@ -584,7 +590,7 @@ _total subscriptions_: 11,509,573<br>
 _subscriptions per 100 inhabitants_: 98.92 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2021)</p> (2020)<br>
+_general assessment_: Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2021)<br>
 _domestic_: 34 per 100 fixed-line, 100 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2019)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -696,7 +702,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,604 (Syria), 5,602 (Iraq), 5,070 (Afghanistan) (2019)<br>
+_refugees (country of origin)_: 16,693 (Syria), 5,515 (Iraq) (2020)<br>
 _stateless persons_: 1,264 (2020)<br>
 
 **Illicit drugs**<br>

@@ -206,9 +206,6 @@ _signed, but not ratified_: none of the selected agreements<br>
 **Air pollutants**<br>
 _particulate matter emissions_: 12.03 micrograms per cubic meter (2016 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical oceanic; moderated by trade winds; a dry season from April to November and a more humid season from December to March<br>
 
@@ -228,6 +225,9 @@ _rate of urbanization_: 0.52% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 

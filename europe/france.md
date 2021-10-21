@@ -70,6 +70,12 @@ _other_: 18.1% (2018 est.)<br>
 26,420 sq km 26,950 sq km (2012)<br>
 <strong>metropolitan France: </strong>26,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
+
+**Major aquifers**<br>
+Paris Basin<br>
+
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
 
@@ -78,12 +84,6 @@ much of the population is concentrated in the north and southeast; although ther
 
 **Geography - note**<br>
 largest West European nation; most major French rivers - the Meuse, Seine, Loire, Charente, Dordogne, and Garonne - flow northward or westward into the Atlantic Ocean, only the Rhone flows southward into the Mediterranean Sea<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
-
-**Major aquifers**<br>
-Paris Basin<br>
 
 ## People and Society
 
@@ -247,14 +247,6 @@ _signed, but not ratified_: none of the selected agreements<br>
 _particulate matter emissions_: 11.64 micrograms per cubic meter (2016 est.)<br>
 _methane emissions_: 55.99 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 5.175 billion cubic meters (2017 est.)<br>
-_industrial_: 18.15 billion cubic meters (2017 est.)<br>
-_agricultural_: 3.113 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-211 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 <p><strong>metropolitan France:</strong> generally cool winters and mild summers, but mild winters and hot summers along the Mediterranean; occasional strong, cold, dry, north-to-northwesterly wind known as the mistral;</p> <p><strong>French Guiana:</strong> tropical; hot, humid; little seasonal temperature variation;</p> <p><strong>Guadeloupe and Martinique:</strong> subtropical tempered by trade winds; moderately high humidity; rainy season (June to October); vulnerable to devastating cyclones (hurricanes) every eight years on average;</p> <p><strong>Mayotte:</strong> tropical; marine; hot, humid, rainy season during northeastern monsoon (November to May); dry season is cooler (May to November);</p> <p><strong>Reunion:</strong> tropical, but temperature moderates with elevation; cool and dry (May to November), hot and rainy (November to April)</p><br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 17.5% (2018 est.)<br>
 _forest_: 29.2% (2018 est.)<br>
 _other_: 18.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.2% of total population (2021)<br>
+_rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.2% of total population (2021)<br>
-_rate of urbanization_: 0.67% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout France; as of 6 October 2021, France has reported a total of 6,816,783 cases of COVID-19 or 10,481.01 cumulative cases of COVID-19 per 100,000 population with 176.58 cumulative deaths per 100,000 population; as of 4 October 2021, 66.20% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -289,6 +281,14 @@ Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas 
 
 **Major aquifers**<br>
 Paris Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 5.175 billion cubic meters (2017 est.)<br>
+_industrial_: 18.15 billion cubic meters (2017 est.)<br>
+_agricultural_: 3.113 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+211 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -351,9 +351,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2017:</em> Emmanuel MACRON elected president in second round; percent of vote in first round - Emmanuel MACRON (EM) 24.%, Marine LE PEN (FN) 21.3%, Francois FILLON (LR) 20.%, Jean-Luc MELENCHON (FI) 19.6%, Benoit HAMON (PS) 6.4%, other 8.7%; percent of vote in second round - MACRON 66.1%, LE PEN 33.9%<br><br><em>2012:</em> Francois HOLLANDE elected president; percent of vote in first round - Francois HOLLANDE (PS) 28.6%, Nicolas SARKOZY (UMP) 27.2%, Marine LE PEN (FN) 17.9%, Jean-Luc MELENCHON (PG) 11.1%, Francois BAYROU (moDem) 9.1%, other 6.1%; percent of vote in second round - HOLLANDE 51.6%, SARKOZY 48.4%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br> National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
-_elections_: <br>Senate - last held on 24 September 2017 (next to be held on 24 September 2020)<br> National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - LR 144, PS 73, UC 51. LREM 23, RDSE 22, CRCE 16, RTLI 13, other 6; composition - men 246, women 102, percent of women 29.3%<br> National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 35.7%<br>
+_description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (348 seats - 328 for metropolitan France and overseas departments and regions of Guadeloupe, Martinique, French Guiana, Reunion, and Mayotte, 2 for New Caledonia, 2 for French Polynesia, 1 for Saint-Pierre and Miquelon, 1 for Saint-Barthelemy, 1 for Saint-Martin, 1 for Wallis and Futuna, and 12 for French nationals abroad; members indirectly elected by departmental electoral colleges using absolute majority vote in 2 rounds if needed for departments with 1-3 members, and proportional representation vote in departments with 4 or more members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National Assembly or Assemblee Nationale (577 seats - 556 for metropolitan France, 10 for overseas departments, and 11 for citizens abroad; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms)<br>
+_elections_: <br>Senate - last held on 24 and 27 September 2020 (next to be held in September 2023)<br>National Assembly - last held on 11 and 18 June 2017 (next to be held in June 2022)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by political caucus (party or group of parties)  - NA; composition (as of September 2021) - men 226, women 122, percent of women 35.1%<br>National Assembly - percent of vote by party first round - LREM 28.2%, LR 15.8%. FN 13.2%, FI 11%, PS 7.4%, other 24.4%; percent of vote by party second round - LREM 43.1%, LR 22.2%, FN 8.8%, MoDEM 6.1%, PS 5.7%. FI 4.9%, other 9.2%; seats by political caucus (party or group of parties) - LREM 306, LR 104, MoDEM 46, UDI/Agir 29, PS 29, UDI 18, FI 17, Liberties and Territories 16, PCF 16, other 14; composition - men 349, women 228, percent of women 39.5%; note - total Parliament percent of women 37.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Cassation or Cour de Cassation (consists of the court president, 6 divisional presiding judges, 120 trial judges, and 70 deputy judges organized into 6 divisions - 3 civil, 1 commercial, 1 labor, and 1 criminal); Constitutional Council (consists of 9 members)<br>
@@ -403,9 +403,9 @@ _lyrics/music_: Claude-Joseph ROUGET de Lisle<br>
 <p>The French economy is diversified across all sectors. The government has partially or fully privatized many large companies, including Air France, France Telecom, Renault, and Thales. However, the government maintains a strong presence in some sectors, particularly power, public transport, and defense industries. France is the most visited country in the world with 89 million foreign tourists in 2017. France's leaders remain committed to a capitalism in which they maintain social equity by means of laws, tax policies, and social spending that mitigate economic inequality.</p><p></p><p>France's real GDP grew by 1.9% in 2017, up from 1.2% the year before. The unemployment rate (including overseas territories) increased from 7.8% in 2008 to 10.2% in 2015, before falling to 9.0% in 2017. Youth unemployment in metropolitan France decreased from 24.6% in the fourth quarter of 2014 to 20.6% in the fourth quarter of 2017.</p><p></p><p>France’s public finances have historically been strained by high spending and low growth. In 2017, the budget deficit improved to 2.7% of GDP, bringing it in compliance with the EU-mandated 3% deficit target. Meanwhile, France's public debt rose from 89.5% of GDP in 2012 to 97% in 2017.</p><p></p><p>Since entering office in May 2017, President Emmanuel MACRON launched a series of economic reforms to improve competitiveness and boost economic growth. President MACRON campaigned on reforming France’s labor code and in late 2017 implemented a range of reforms to increase flexibility in the labor market by making it easier for firms to hire and fire and simplifying negotiations between employers and employees. In addition to labor reforms, President MACRON’s 2018 budget cuts public spending, taxes, and social security contributions to spur private investment and increase purchasing power. The government plans to gradually reduce corporate tax rate for businesses from 33.3% to 25% by 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,097,061,000,000 (2019 est.)<br>
-$3,051,034,000,000 (2018 est.)<br>
-$2,997,296,000,000 (2017 est.)<br>
+$2,832,170,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$3,082,300,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,036,490,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -414,9 +414,9 @@ $2,997,296,000,000 (2017 est.)<br>
 2.42% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$46,184 (2019 est.)<br>
-$45,561 (2018 est.)<br>
-$44,827 (2017 est.)<br>
+$42,000 note: data are in 2017 dollars (2020 est.)<br>
+$45,800 note: data are in 2017 dollars (2019 est.)<br>
+$45,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -501,9 +501,9 @@ calendar year<br>
 -$16.02 billion (2018 est.)<br>
 
 **Exports**<br>
-$969.077 billion (2019 est.)<br>
-$952.316 billion (2018 est.)<br>
-$910.613 billion (2017 est.)<br>
+$746.91 billion note: data are in current year dollars (2020 est.)<br>
+$891.18 billion note: data are in current year dollars (2019 est.)<br>
+$918.97 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7% (2019)<br>
@@ -512,9 +512,9 @@ Germany 14%, United States 8%, Italy 7%, Spain 7%, Belgium 7%, United Kingdom 7%
 aircraft, packaged medicines, cars and vehicle parts, gas turbines, wine (2019)<br>
 
 **Imports**<br>
-$1,021,633,000,000 (2019 est.)<br>
-$995.937 billion (2018 est.)<br>
-$965.949 billion (2017 est.)<br>
+$803.66 billion note: data are in current year dollars (2020 est.)<br>
+$919.63 billion note: data are in current year dollars (2019 est.)<br>
+$947.31 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 18%, Belgium 9%, Italy 9%, Spain 7%, China 7%, Netherlands 6%, United Kingdom 5% (2019)<br>
@@ -715,7 +715,7 @@ French Armed Forces (Forces Arm&eacute;es Fran&ccedil;aises): Army (Armee de Ter
 1.79% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2020)<br>
+the French military has approximately 205,000 active duty troops (115,000 Army; 35,000 Navy; 40,000 Air Force; 15,000 other, such as joint staffs, medical service, etc.); approximately 100,000 National Gendarmerie; approximately 75,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the French military's inventory consists almost entirely of domestically-produced weapons systems, including some jointly-produced with other European countries; there is a limited mix of armaments from other Western countries, particularly the US; since 2010, the US is the leading foreign supplier of military hardware to France; France has a defense industry capable of manufacturing the full spectrum of air, land, and naval military weapons systems (2020)<br>
@@ -729,7 +729,7 @@ note - France has been a contributing member of the EuroCorps since 1992<br>
 note - men between the ages of 17.5 and 39.5 years of age, of any nationality, may join the French Foreign Legion; those volunteers selected for service sign 5-year contracts<br>
 
 **Military - note**<br>
-France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p><br>
+France was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty), which created NATO in 1949; in 1966, President Charles DE GAULLE decided to withdraw France from NATO’s integrated military structure, reflecting his desire for greater military independence, particularly vis-à-vis the US, and the refusal to integrate France’s nuclear deterrent or accept any form of control over its armed forces; it did, however, sign agreements with NATO setting out procedures in the event of Soviet aggression; beginning with the fall of the Berlin Wall in 1989, France distanced itself from the 1966 decision and has regularly contributed troops to NATO’s military operations, being one of the largest troop-contributing states; in 2009 it officially announced its decision to fully participate in NATO structures<br><br> <p>in 2010, France and the UK signed a declaration on defense and security cooperation that included greater military interoperability and a Combined Joint Expeditionary Force (CJEF), a deployable, combined Anglo-French military force for use in a wide range of crisis scenarios, up to and including high intensity combat operations; the CJEF has no standing forces, but would be available at short notice for French-UK bilateral, NATO, EU, UN, or other operations; combined training exercises began in 2011; as of 2020, the CJEF was assessed as having full operating capacity with the ability to rapidly deploy over 10,000 personnel capable of high intensity operations, peacekeeping, disaster relief, and humanitarian assistance</p> <p>the French Foreign Legion, established in 1831, is a military force that is open to foreign recruits willing to serve in the French Armed Forces for service in France and abroad; the Foreign Legion is an integrated part of the French Army and is comprised of approximately 8,000 personnel in eight regiments, a regiment-sized demi-brigade, a battalion-sized overseas detachment, a battalion-sized recruiting group, and a command staff; the combat units are a mix of armored cavalry and airborne, light, mechanized, and motorized infantry</p> (2021)<br>
 
 ## Terrorism
 
@@ -743,7 +743,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Madagascar claims the French territories of Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island; Comoros claims Mayotte; Mauritius claims Tromelin Island; territorial dispute between Suriname and the French overseas department of French Guiana; France asserts a territorial claim in Antarctica (Adelie Land); France and Vanuatu claim Matthew and Hunter Islands, east of New Caledonia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,293 (Afghanistan), 23,821 (Sri Lanka), 18,473 (Sudan), 18,244 (Syria), 17,512 (Democratic Republic of the Congo), 16,412 (Russia), 14,141 (Serbia and Kosovo), 11,863 (Turkey), 11,038 (Guinea), 11,021 (Cambodia), 8,829 (Iraq), 7,735 (Vietnam), 6,918 (China), 6,464 (Laos), 6,372 (Eritrea), 6,156 (Bangladesh), 5,675 (Mauritania), 5,652 (Cote d'Ivoire), 5,169 (Mali) (2019)<br>
+_refugees (country of origin)_: 31,546 (Afghanistan), 23,764 (Sri Lanka), 21,849 (Syria), 20,236 (Sudan), 18,332 (Democratic Republic of the Congo), 16,775 (Russia), 14,268 (Serbia and Kosovo), 13,277 (Guinea), 12,459 (Turkey), 10,894 (Cambodia), 9,075 (Iraq), 8,343 (China), 7,6,71 (Vietnam), 7,318 (Eritrea), 7,023 (Cote d'Ivoire), 6,496 (Bangladesh), 6,397 (Laos), 6,229 (Albania), 5,891 (Mauritania), 5,774 (Somalia), 5,576 (Mali) (2020)<br>
 _stateless persons_: 2,068 (2020)<br>
 
 **Illicit drugs**<br>

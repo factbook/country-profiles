@@ -64,6 +64,12 @@ _other_: 37.5% (2018 est.)<br>
 **Irrigated land**<br>
 43,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
+
+**Major aquifers**<br>
+Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
+
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
 
@@ -72,12 +78,6 @@ population is heavily concentrated in the westernmost fifth of the country exten
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> largest country in the world in terms of area but unfavorably located in relation to major sea lanes of the world; despite its size, much of the country lacks proper soils and climates (either too cold or too dry) for agriculture</p> <p><strong>note 2:</strong> Russia's far east, particularly the Kamchatka Peninsula, lies along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 3:</strong> Mount El'brus is Europe's tallest peak; Lake Baikal, the deepest lake in the world, is estimated to hold one fifth of the world's fresh surface water<br><br><strong>note 4:</strong> Kaliningrad oblast is an exclave annexed from Germany following World War II (it was formerly part of East Prussia); its capital city of Kaliningrad - formerly Koenigsberg - is the only Baltic port in Russia that remains ice free in the winter</p><br>
-
-**Major watersheds (area sq km)**<br>
-Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Caspian Sea drainage <em>(endorheic basin)</em>: Volga (1,410,951 sq km)<br>
-
-**Major aquifers**<br>
-Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 13.75 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1,732.03 megatons (2016 est.)<br>
 _methane emissions_: 851.52 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 17.71 billion cubic meters (2017 est.)<br>
-_industrial_: 28.04 billion cubic meters (2017 est.)<br>
-_agricultural_: 18.66 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-4,525,445,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 ranges from steppes in the south through humid continental in much of European Russia; subarctic in Siberia to tundra climate in the polar north; winters vary from cool along Black Sea coast to frigid in Siberia; summers vary from warm in the steppes to cool along Arctic coast<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 5.7% (2018 est.)<br>
 _forest_: 49.4% (2018 est.)<br>
 _other_: 37.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 74.9% of total population (2021)<br>
+_rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.29% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.53% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 74.9% of total population (2021)<br>
-_rate of urbanization_: 0.11% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -292,10 +284,18 @@ _municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Caspian Sea drainage <em>(endorheic basin)</em>: Volga (1,410,951 sq km)<br>
+Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
 
 **Major aquifers**<br>
 Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 17.71 billion cubic meters (2017 est.)<br>
+_industrial_: 28.04 billion cubic meters (2017 est.)<br>
+_agricultural_: 18.66 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+4,525,445,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -409,9 +409,9 @@ _lyrics/music_: Sergey Vladimirovich MIKHALKOV/Aleksandr Vasilyevich ALEKSANDROV
 <p>Russia has undergone significant changes since the collapse of the Soviet Union, moving from a centrally planned economy towards a more market-based system. Both economic growth and reform have stalled in recent years, however, and Russia remains a predominantly statist economy with a high concentration of wealth in officials' hands. Economic reforms in the 1990s privatized most industry, with notable exceptions in the energy, transportation, banking, and defense-related sectors. The protection of property rights is still weak, and the state continues to interfere in the free operation of the private sector.</p><p></p><p>Russia is one of the world's leading producers of oil and natural gas, and is also a top exporter of metals such as steel and primary aluminum. Russia is heavily dependent on the movement of world commodity prices as reliance on commodity exports makes it vulnerable to boom and bust cycles that follow the volatile swings in global prices. The economy, which had averaged 7% growth during the 1998-2008 period as oil prices rose rapidly, has seen diminishing growth rates since then due to the exhaustion of Russia’s commodity-based growth model.</p><p></p><p>A combination of falling oil prices, international sanctions, and structural limitations pushed Russia into a deep recession in 2015, with GDP falling by close to 2.8%. The downturn continued through 2016, with GDP contracting another 0.2%, but was reversed in 2017 as world demand picked up. Government support for import substitution has increased recently in an effort to diversify the economy away from extractive industries.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,968,180,000,000 (2019 est.)<br>
-$3,915,637,000,000 (2018 est.)<br>
-$3,818,780,000,000 (2017 est.)<br>
+$3,875,690,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$3,993,550,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,913,980,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -420,9 +420,9 @@ $3,818,780,000,000 (2017 est.)<br>
 1.83% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$27,044 (2019 est.)<br>
-$26,668 (2018 est.)<br>
-$26,006 (2017 est.)<br>
+$26,500 note: data are in 2017 dollars (2020 est.)<br>
+$27,200 note: data are in 2017 dollars (2019 est.)<br>
+$26,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -506,9 +506,9 @@ $65.311 billion (2019 est.)<br>
 $115.68 billion (2018 est.)<br>
 
 **Exports**<br>
-$551.128 billion (2019 est.)<br>
-$564.314 billion (2018 est.)<br>
-$534.657 billion (2017 est.)<br>
+$379.12 billion note: data are in current year dollars (2020 est.)<br>
+$481.76 billion note: data are in current year dollars (2019 est.)<br>
+$508.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
@@ -517,9 +517,9 @@ China 14%, Netherlands 10%, Belarus 5%, Germany 5% (2019)<br>
 crude petroleum, refined petroleum, natural gas, coal, wheat, iron (2019)<br>
 
 **Imports**<br>
-$366.919 billion (2019 est.)<br>
-$355.022 billion (2018 est.)<br>
-$345.926 billion (2017 est.)<br>
+$304.68 billion note: data are in current year dollars (2020 est.)<br>
+$353.25 billion note: data are in current year dollars (2019 est.)<br>
+$343.58 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 20%, Germany 13%, Belarus 6% (2019)<br>
@@ -747,7 +747,7 @@ Aum Shimrikyo (AUM/Aleph); Islamic State of Iraq and ash-Sham; Islamic State of 
 <p>Russia remains concerned about the smuggling of poppy derivatives from Afghanistan through Central Asian countries; China and Russia have demarcated the once disputed islands at the Amur and Ussuri confluence and in the Argun River in accordance with the 2004 Agreement, ending their centuries-long border disputes; the sovereignty dispute over the islands of Etorofu, Kunashiri, Shikotan, and the Habomai group, known in Japan as the "Northern Territories" and in Russia as the "Southern Kurils," occupied by the Soviet Union in 1945, now administered by Russia, and claimed by Japan, remains the primary sticking point to signing a peace treaty formally ending World War II hostilities; Russia's military support and subsequent recognition of Abkhazia and South Ossetia independence in 2008 continue to sour relations with Georgia; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Norway and Russia signed a comprehensive maritime boundary agreement in 2010; various groups in Finland advocate restoration of Karelia (Kareliya) and other areas ceded to the Soviet Union following World War II but the Finnish Government asserts no territorial demands; Russia and Estonia signed a technical border agreement in May 2005, but Russia recalled its signature in June 2005 after the Estonian parliament added to its domestic ratification act a historical preamble referencing the Soviet occupation and Estonia's pre-war borders under the 1920 Treaty of Tartu; Russia contends that the preamble allows Estonia to make territorial claims on Russia in the future, while Estonian officials deny that the preamble has any legal impact on the treaty text; Russia demands better treatment of the Russian-speaking population in Estonia and Latvia; Russia remains involved in the conflict in eastern Ukraine while also occupying Ukraine’s territory of Crimea; Lithuania and Russia committed to demarcating their boundary in 2006 in accordance with the land and maritime treaty ratified by Russia in May 2003 and by Lithuania in 1999; Lithuania operates a simplified transit regime for Russian nationals traveling from the Kaliningrad coastal exclave into Russia, while still conforming, as an EU member state with an EU external border, where strict Schengen border rules apply; preparations for the demarcation delimitation of land boundary with Ukraine have commenced; the dispute over the boundary between Russia and Ukraine through the Kerch Strait and Sea of Azov is suspended due to the occupation of Crimea by Russia; Kazakhstan and Russia boundary delimitation was ratified on November 2005 and field demarcation should commence in 2007; Russian Duma has not yet ratified 1990 Bering Sea Maritime Boundary Agreement with the US; Denmark (Greenland) and Norway have made submissions to the Commission on the Limits of the Continental Shelf (CLCS) and Russia is collecting additional data to augment its 2001 CLCS submission</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 41,251 (Ukraine) (2019)<br>
+_refugees (country of origin)_: 18,428 (Ukraine) (2020)<br>
 _stateless persons_: 60,185 (2020); note - Russia's stateless population consists of Roma, Meskhetian Turks, and ex-Soviet citizens from the former republics; between 2003 and 2010 more than 600,000 stateless people were naturalized; most Meskhetian Turks, followers of Islam with origins in Georgia, fled or were evacuated from Uzbekistan after a 1989 pogrom and have lived in Russia for more than the required five-year residency period; they continue to be denied registration for citizenship and basic rights by local Krasnodar Krai authorities on the grounds that they are temporary illegal migrants<br>
 
 **Trafficking in persons**<br>

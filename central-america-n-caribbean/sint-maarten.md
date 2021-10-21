@@ -277,7 +277,6 @@ The economy of Sint Maarten centers around tourism with nearly four-fifths of th
 **Real GDP (purchasing power parity)**<br>
 $1.436 billion (2018 est.)<br>
 $1.538 billion (2017 est.)<br>
-$365.8 million (2014 est.)<br>
 <strong>note: </strong>data are in 2014 US dollars<br>
 
 **Real GDP growth rate**<br>
@@ -288,7 +287,6 @@ $365.8 million (2014 est.)<br>
 **Real GDP per capita**<br>
 $35,342 (2018 est.)<br>
 $37,914 (2017 est.)<br>
-$66,800 (2014 est.)<br>
 <strong>note: </strong>data are in 2015 US dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -321,8 +319,16 @@ _services_: 83.7% (2008 est.)<br>
 12% (2012 est.)<br>
 10.6% (2008 est.)<br>
 
+**Exports**<br>
+$1.09 billion note: data are in current year dollars (2019 est.)<br>
+$800 million note: data are in current year dollars (2018 est.)<br>
+
 **Exports - commodities**<br>
 sugar<br>
+
+**Imports**<br>
+$1.23 billion note: data are in current year dollars (2019 est.)<br>
+$1.22 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exchange rates**<br>
 Netherlands Antillean guilders (ANG) per US dollar -<br>

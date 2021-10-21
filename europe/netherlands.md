@@ -64,6 +64,9 @@ _other_: 34.1% (2018 est.)<br>
 **Irrigated land**<br>
 4,860 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
 
@@ -72,9 +75,6 @@ an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, t
 
 **Geography - note**<br>
 located at mouths of three major European rivers (Rhine, Maas or Meuse, and Schelde); about a quarter of the country lies below sea level and only about half of the land exceeds one meter above sea level<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 ## People and Society
 
@@ -236,14 +236,6 @@ _particulate matter emissions_: 12.07 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 170.78 megatons (2016 est.)<br>
 _methane emissions_: 17.79 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.26 billion cubic meters (2017 est.)<br>
-_industrial_: 14.74 billion cubic meters (2017 est.)<br>
-_agricultural_: 76.5 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-91 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; marine; cool summers and mild winters<br>
 
@@ -255,15 +247,15 @@ _agricultural land: permanent pasture_: permanent pasture: 24.2% (2018 est.)<br>
 _forest_: 10.8% (2018 est.)<br>
 _other_: 34.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 92.6% of total population (2021)<br>
+_rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 92.6% of total population (2021)<br>
-_rate of urbanization_: 0.59% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 8.855 million tons (2015 est.)<br>
@@ -272,6 +264,14 @@ _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.26 billion cubic meters (2017 est.)<br>
+_industrial_: 14.74 billion cubic meters (2017 est.)<br>
+_agricultural_: 76.5 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+91 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -383,9 +383,9 @@ _lyrics/music_: Philips VAN MARNIX van Sint Aldegonde (presumed)/unknown<br>
 <p>The Netherlands, the sixth-largest economy in the European Union, plays an important role as a European transportation hub, with a consistently high trade surplus, stable industrial relations, and low unemployment. Industry focuses on food processing, chemicals, petroleum refining, and electrical machinery. A highly mechanized agricultural sector employs only 2% of the labor force but provides large surpluses for food-processing and underpins the country’s status as the world’s second largest agricultural exporter.</p><p></p><p>The Netherlands is part of the euro zone, and as such, its monetary policy is controlled by the European Central Bank. The Dutch financial sector is highly concentrated, with four commercial banks possessing over 80% of banking assets, and is four times the size of Dutch GDP.</p><p></p><p>In 2008, during the financial crisis, the government budget deficit hit 5.3% of GDP. Following a protracted recession from 2009 to 2013, during which unemployment doubled to 7.4% and household consumption contracted for four consecutive years, economic growth began inching forward in 2014. Since 2010, Prime Minister Mark RUTTE’s government has implemented significant austerity measures to improve public finances and has instituted broad structural reforms in key policy areas, including the labor market, the housing sector, the energy market, and the pension system. In 2017, the government budget returned to a surplus of 0.7% of GDP, with economic growth of 3.2%, and GDP per capita finally surpassed pre-crisis levels. The fiscal policy announced by the new government in the 2018-2021 coalition plans for increases in government consumption and public investment, fueling domestic demand and household consumption and investment. The new government’s policy also plans to increase demand for workers in the public and private sector, forecasting a further decline in the unemployment rate, which hit 4.8% in 2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$986.847 billion (2019 est.)<br>
-$970.567 billion (2018 est.)<br>
-$948.181 billion (2017 est.)<br>
+$945.48 billion note: data are in 2017 dollars (2020 est.)<br>
+$982.22 billion note: data are in 2017 dollars (2019 est.)<br>
+$966.02 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -394,9 +394,9 @@ $948.181 billion (2017 est.)<br>
 3.02% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$56,935 (2019 est.)<br>
-$56,325 (2018 est.)<br>
-$55,348 (2017 est.)<br>
+$54,200 note: data are in 2017 dollars (2020 est.)<br>
+$56,600 note: data are in 2017 dollars (2019 est.)<br>
+$56,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -480,9 +480,9 @@ $90.207 billion (2019 est.)<br>
 $98.981 billion (2018 est.)<br>
 
 **Exports**<br>
-$857.574 billion (2019 est.)<br>
-$835.759 billion (2018 est.)<br>
-$801.942 billion (2017 est.)<br>
+$719.78 billion note: data are in current year dollars (2020 est.)<br>
+$755.77 billion note: data are in current year dollars (2019 est.)<br>
+$773.74 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<br>
@@ -491,9 +491,9 @@ Germany 20%, Belgium 12%, United Kingdom 9%, France 7%, United States 5% (2019)<
 refined petroleum, packaged medicines, broadcasting equipment, photography equipment, computers (2019)<br>
 
 **Imports**<br>
-$755.65 billion (2019 est.)<br>
-$732.865 billion (2018 est.)<br>
-$700.657 billion (2017 est.)<br>
+$622.66 billion note: data are in current year dollars (2020 est.)<br>
+$661.18 billion note: data are in current year dollars (2019 est.)<br>
+$677.38 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 15%, China 11%, Belgium 9%, United States 8%, Russia 7%, United Kingdom 5% (2019)<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,694 (Syria), 14,809 (Eritrea), 13,007 (Somalia), 8,423 (Iraq), 5,815 (Afghanistan) (2019)<br>
+_refugees (country of origin)_: 22,547 (Syria), 11,961 (Eritrea), 11,642 (Somalia), 7,365 (Iraq), 5,212 (Afghanistan) (2020)<br>
 _stateless persons_: 2,006 (2020)<br>
 
 **Illicit drugs**<br>

@@ -246,14 +246,6 @@ _particulate matter emissions_: 20.12 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9.81 megatons (2016 est.)<br>
 _methane emissions_: 7.72 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 315 million cubic meters (2017 est.)<br>
-_industrial_: 114 million cubic meters (2017 est.)<br>
-_agricultural_: 1.178 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-92.164 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 subtropical in lowlands, temperate in mountains<br>
 
@@ -265,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 15.7% (2018 est.)<br>
 _forest_: 45.3% (2018 est.)<br>
 _other_: 25.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 59% of total population (2021)<br>
+_rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.91% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
-_rate of urbanization_: 2.48% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -282,6 +274,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,162,028 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 315 million cubic meters (2017 est.)<br>
+_industrial_: 114 million cubic meters (2017 est.)<br>
+_agricultural_: 1.178 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+92.164 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -387,9 +387,9 @@ _lyrics/music_: Augusto Constancio COELLO/Carlos HARTLING<br>
 <p>Honduras, the second poorest country in Central America, suffers from extraordinarily unequal distribution of income, as well as high underemployment. While historically dependent on the export of bananas and coffee, Honduras has diversified its export base to include apparel and automobile wire harnessing.</p><p></p><p>Honduras’s economy depends heavily on US trade and remittances. The US-Central America-Dominican Republic Free Trade Agreement came into force in 2006 and has helped foster foreign direct investment, but physical and political insecurity, as well as crime and perceptions of corruption, may deter potential investors; about 15% of foreign direct investment is from US firms.</p><p></p><p>The economy registered modest economic growth of 3.1%-4.0% from 2010 to 2017, insufficient to improve living standards for the nearly 65% of the population in poverty. In 2017, Honduras faced rising public debt, but its economy has performed better than expected due to low oil prices and improved investor confidence. Honduras signed a three-year standby arrangement with the IMF in December 2014, aimed at easing Honduras’s poor fiscal position.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.825 billion (2019 est.)<br>
-$54.382 billion (2018 est.)<br>
-$52.444 billion (2017 est.)<br>
+$50.89 billion note: data are in 2017 dollars (2020 est.)<br>
+$55.91 billion note: data are in 2017 dollars (2019 est.)<br>
+$54.46 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -398,9 +398,9 @@ $52.444 billion (2017 est.)<br>
 3.8% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$5,728 (2019 est.)<br>
-$5,672 (2018 est.)<br>
-$5,562 (2017 est.)<br>
+$5,100 note: data are in 2017 dollars (2020 est.)<br>
+$5,700 note: data are in 2017 dollars (2019 est.)<br>
+$5,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -483,8 +483,8 @@ calendar year<br>
 -$587 million (2016 est.)<br>
 
 **Exports**<br>
-$8.675 billion (2017 est.)<br>
-$7.841 billion (2016 est.)<br>
+$7.16 billion note: data are in current year dollars (2019 est.)<br>
+$7.14 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
@@ -493,8 +493,8 @@ United States 53%, El Salvador 8%, Guatemala 5%, Nicaragua 5% (2019)<br>
 clothing and apparel, coffee, insulated wiring, bananas, palm oil (2019)<br>
 
 **Imports**<br>
-$11.32 billion (2017 est.)<br>
-$10.56 billion (2016 est.)<br>
+$11.5 billion note: data are in current year dollars (2019 est.)<br>
+$11.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 42%, China 10%, Guatemala 8%, El Salvador 8%, Mexico 6% (2019)<br>

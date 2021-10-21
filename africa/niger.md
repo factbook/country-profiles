@@ -61,6 +61,12 @@ _other_: 63.9% (2018 est.)<br>
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
+
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ recurring droughts<br>
 
 **Geography - note**<br>
 landlocked; one of the hottest countries in the world; northern four-fifths is desert, southern one-fifth is savanna, suitable for livestock and limited agriculture<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
 ## People and Society
 
@@ -250,14 +250,6 @@ _particulate matter emissions_: 70.8 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
 _methane emissions_: 22.99 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 178.9 million cubic meters (2017 est.)<br>
-_industrial_: 36 million cubic meters (2017 est.)<br>
-_agricultural_: 1.536 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-34.05 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 desert; mostly hot, dry, dusty; tropical in extreme south<br>
 
@@ -269,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 22.7% (2018 est.)<br>
 _forest_: 1% (2018 est.)<br>
 _other_: 63.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 16.8% of total population (2021)<br>
+_rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.41% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 16.8% of total population (2021)<br>
-_rate of urbanization_: 4.72% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -296,10 +288,18 @@ _municipal solid waste recycled annually_: 74,626 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 178.9 million cubic meters (2017 est.)<br>
+_industrial_: 36 million cubic meters (2017 est.)<br>
+_agricultural_: 1.536 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+34.05 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -405,9 +405,9 @@ _lyrics/music_: Maurice Albert THIRIET/Robert JACQUET and Nicolas Abel Francois 
 <p>Niger is a landlocked, Sub-Saharan nation, whose economy centers on subsistence crops, livestock, and some of the world's largest uranium deposits. Agriculture contributes approximately 40% of GDP and provides livelihood for over 80% of the population. The UN ranked Niger as the second least developed country in the world in 2016 due to multiple factors such as food insecurity, lack of industry, high population growth, a weak educational sector, and few prospects for work outside of subsistence farming and herding.</p><p></p><p>Since 2011 public debt has increased due to efforts to scale-up public investment, particularly that related to infrastructure, as well as due to increased security spending. The government relies on foreign donor resources for a large portion of its fiscal budget. The economy in recent years has been hurt by terrorist activity near its uranium mines and by instability in Mali and in the Diffa region of the country; concerns about security have resulted in increased support from regional and international partners on defense. Low uranium prices, demographics, and security expenditures may continue to put pressure on the government’s finances.</p><p></p><p>The Government of Niger plans to exploit oil, gold, coal, and other mineral resources to sustain future growth. Although Niger has sizable reserves of oil, the prolonged drop in oil prices has reduced profitability. Food insecurity and drought remain perennial problems for Niger, and the government plans to invest more in irrigation. Niger’s three-year $131 million IMF Extended Credit Facility (ECF) agreement for the years 2012-15 was extended until the end of 2016. In February 2017, the IMF approved a new 3-year $134 million ECF. In June 2017, The World Bank’s International Development Association (IDA) granted Niger $1 billion over three years for IDA18, a program to boost the country’s development and alleviate poverty. A $437 million Millennium Challenge Account compact for Niger, commencing in FY18, will focus on large-scale irrigation infrastructure development and community-based, climate-resilient agriculture, while promoting sustainable increases in agricultural productivity and sales.</p><p></p><p>Formal private sector investment needed for economic diversification and growth remains a challenge, given the country’s limited domestic markets, access to credit, and competitiveness. Although President ISSOUFOU is courting foreign investors, including those from the US, as of April 2017, there were no US firms operating in Niger. In November 2017, the National Assembly passed the 2018 Finance Law that was geared towards raising government revenues and moving away from international support.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.544 billion (2019 est.)<br>
-$26.953 billion (2018 est.)<br>
-$25.138 billion (2017 est.)<br>
+$28.97 billion note: data are in 2017 dollars (2020 est.)<br>
+$28.54 billion note: data are in 2017 dollars (2019 est.)<br>
+$26.95 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -416,9 +416,9 @@ $25.138 billion (2017 est.)<br>
 4.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,225 (2019 est.)<br>
-$1,201 (2018 est.)<br>
-$1,164 (2017 est.)<br>
+$1,200 note: data are in 2017 dollars (2020 est.)<br>
+$1,200 note: data are in 2017 dollars (2019 est.)<br>
+$1,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -499,8 +499,8 @@ calendar year<br>
 -$1.181 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.525 billion (2018 est.)<br>
-$1.466 billion (2017 est.)<br>
+$1.39 billion note: data are in current year dollars (2019 est.)<br>
+$1.45 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
@@ -509,8 +509,8 @@ United Arab Emirates 54%, China 25%, France 7%, Pakistan 5% (2019)<br>
 gold, sesame seeds, uranium, natural gas, refined petroleum (2019)<br>
 
 **Imports**<br>
-$2.999 billion (2018 est.)<br>
-$2.88 billion (2017 est.)<br>
+$3.4 billion note: data are in current year dollars (2019 est.)<br>
+$3.37 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 19%, France 9%, United Arab Emirates 7%, Cote d'Ivoire 6%, India 6%, Nigeria 5%, Togo 5%, Turkey 5% (2019)<br>

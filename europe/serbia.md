@@ -61,6 +61,9 @@ _other_: 10.5% (2018 est.)<br>
 **Irrigated land**<br>
 950 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -245,14 +248,6 @@ _particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 45.22 megatons (2016 est.)<br>
 _methane emissions_: 11.96 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 659.5 million cubic meters (2017 est.)<br>
-_industrial_: 4.057 billion cubic meters (2017 est.)<br>
-_agricultural_: 660.8 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-162.2 billion cubic meters (note - includes Kosovo) (2017 est.)<br>
-
 **Climate**<br>
 in the north, continental climate (cold winters and hot, humid summers with well-distributed rainfall); in other parts, continental and Mediterranean climate (relatively cold winters with heavy snowfall and hot, dry summers and autumns)<br>
 
@@ -264,16 +259,16 @@ _agricultural land: permanent pasture_: permanent pasture: 16.8% (2018 est.)<br>
 _forest_: 31.6% (2018 est.)<br>
 _other_: 10.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 56.7% of total population (2021)<br>
+_rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
+<strong>note:</strong> data include Kosovo<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.38% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.25% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
-_rate of urbanization_: 0.04% annual rate of change (2020-25 est.)<br>
-<strong>note:</strong> data include Kosovo<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -283,6 +278,17 @@ _food or waterborne diseases_: bacterial diarrhea<br>
 _municipal solid waste generated annually_: 1.84 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 659.5 million cubic meters (2017 est.)<br>
+_industrial_: 4.057 billion cubic meters (2017 est.)<br>
+_agricultural_: 660.8 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+162.2 billion cubic meters (note - includes Kosovo) (2017 est.)<br>
 
 ## Government
 
@@ -391,9 +397,9 @@ _lyrics/music_: Jovan DORDEVIC/Davorin JENKO<br>
 <p>Serbia has a transitional economy largely dominated by market forces, but the state sector remains significant in certain areas. The economy relies on manufacturing and exports, driven largely by foreign investment. MILOSEVIC-era mismanagement of the economy, an extended period of international economic sanctions, civil war, and the damage to Yugoslavia's infrastructure and industry during the NATO airstrikes in 1999 left the economy worse off than it was in 1990. In 2015, Serbia’s GDP was 27.5% below where it was in 1989.</p><p></p><p>After former Federal Yugoslav President MILOSEVIC was ousted in September 2000, the Democratic Opposition of Serbia (DOS) coalition government implemented stabilization measures and embarked on a market reform program. Serbia renewed its membership in the IMF in December 2000 and rejoined the World Bank and the European Bank for Reconstruction and Development. Serbia has made progress in trade liberalization and enterprise restructuring and privatization, but many large enterprises - including the power utilities, telecommunications company, natural gas company, and others - remain state-owned. Serbia has made some progress towards EU membership, gaining candidate status in March 2012. In January 2014, Serbia's EU accession talks officially opened and, as of December 2017, Serbia had opened 12 negotiating chapters including one on foreign trade. Serbia's negotiations with the WTO are advanced, with the country's complete ban on the trade and cultivation of agricultural biotechnology products representing the primary remaining obstacle to accession. Serbia maintains a three-year Stand-by Arrangement with the IMF worth approximately $1.3 billion that is scheduled to end in February 2018. The government has shown progress implementing economic reforms, such as fiscal consolidation, privatization, and reducing public spending.</p><p></p><p>Unemployment in Serbia, while relatively low (16% in 2017) compared with its Balkan neighbors, remains significantly above the European average. Serbia is slowly implementing structural economic reforms needed to ensure the country's long-term prosperity. Serbia reduced its budget deficit to 1.7% of GDP and its public debt to 71% of GDP in 2017. Public debt had more than doubled between 2008 and 2015. Serbia's concerns about inflation and exchange-rate stability preclude the use of expansionary monetary policy.</p><p></p><p>Major economic challenges ahead include: stagnant household incomes; the need for private sector job creation; structural reforms of state-owned companies; strategic public sector reforms; and the need for new foreign direct investment. Other serious longer-term challenges include an inefficient judicial system, high levels of corruption, and an aging population. Factors favorable to Serbia's economic growth include the economic reforms it is undergoing as part of its EU accession process and IMF agreement, its strategic location, a relatively inexpensive and skilled labor force, and free trade agreements with the EU, Russia, Turkey, and countries that are members of the Central European Free Trade Agreement.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$126.625 billion (2019 est.)<br>
-$121.464 billion (2018 est.)<br>
-$116.239 billion (2017 est.)<br>
+$125.8 billion note: data are in 2017 dollars (2020 est.)<br>
+$127.04 billion note: data are in 2017 dollars (2019 est.)<br>
+$121.87 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -402,9 +408,9 @@ $116.239 billion (2017 est.)<br>
 2.05% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$18,233 (2019 est.)<br>
-$17,395 (2018 est.)<br>
-$16,556 (2017 est.)<br>
+$18,200 note: data are in 2017 dollars (2020 est.)<br>
+$18,300 note: data are in 2017 dollars (2019 est.)<br>
+$17,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,8 +491,9 @@ _expenditures_: 17.59 billion (2017 est.)<br>
 -$1.189 billion (2016 est.)<br>
 
 **Exports**<br>
-$15.92 billion (2017 est.)<br>
-$13.99 billion (2016 est.)<br>
+$25.42 billion note: data are in current year dollars (2020 est.)<br>
+$26.13 billion note: data are in current year dollars (2019 est.)<br>
+$24.97 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (2019)<br>
@@ -495,8 +502,9 @@ Germany 12%, Italy 10%, Bosnia and Herzegovina 7%, Romania 6%, Russia 5%&nbsp; (
 insulated wiring, tires, corn, cars, iron products, copper (2019)<br>
 
 **Imports**<br>
-$20.44 billion (2017 est.)<br>
-$17.63 billion (2016 est.)<br>
+$30.15 billion note: data are in current year dollars (2020 est.)<br>
+$31.29 billion note: data are in current year dollars (2019 est.)<br>
+$29.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 13%, Russia 9%, Italy 8%, Hungary 6%, China 5%, Turkey 5% (2019)<br>
@@ -700,10 +708,10 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 <p>Serbia with several other states protest the US and other states' recognition of Kosovo's declaration of its status as a sovereign and independent state in February 2008; ethnic Serbian municipalities along Kosovo's northern border challenge final status of Kosovo-Serbia boundary; several thousand NATO-led Kosovo Force peacekeepers under UN Interim Administration Mission in Kosovo authority continue to keep the peace within Kosovo between the ethnic Albanian majority and the Serb minority in Kosovo; Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 17,972 (Croatia), 8,198 (Bosnia and Herzegovina) (2019)<br>
+_refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 794,042 estimated refugee and migrant arrivals (January 2015-September 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
+<strong>note:</strong> 795,629 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

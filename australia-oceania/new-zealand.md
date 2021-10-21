@@ -236,14 +236,6 @@ _particulate matter emissions_: 5.73 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 34.38 megatons (2016 est.)<br>
 _methane emissions_: 34.3 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 810 million cubic meters (2017 est.)<br>
-_industrial_: 1.184 billion cubic meters (2017 est.)<br>
-_agricultural_: 3.207 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-327 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate with sharp regional contrasts<br>
 
@@ -255,18 +247,26 @@ _agricultural land: permanent pasture_: permanent pasture: 41.1% (2018 est.)<br>
 _forest_: 31.4% (2018 est.)<br>
 _other_: 25.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 86.8% of total population (2021)<br>
+_rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.5% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 86.8% of total population (2021)<br>
-_rate of urbanization_: 0.92% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.405 million tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 810 million cubic meters (2017 est.)<br>
+_industrial_: 1.184 billion cubic meters (2017 est.)<br>
+_agricultural_: 3.207 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+327 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -374,9 +374,9 @@ _lyrics/music_: Thomas BRACKEN [English], Thomas Henry SMITH [Maori]/John Joseph
 <p>Over the past 40 years, the government has transformed New Zealand from an agrarian economy, dependent on concessionary British market access, to a more industrialized, free market economy that can compete globally. This dynamic growth has boosted real incomes, but left behind some at the bottom of the ladder and broadened and deepened the technological capabilities of the industrial sector.</p><p></p><p>Per capita income rose for 10 consecutive years until 2007 in purchasing power parity terms, but fell in 2008-09. Debt-driven consumer spending drove robust growth in the first half of the decade, fueling a large balance of payments deficit that posed a challenge for policymakers. Inflationary pressures caused the central bank to raise its key rate steadily from January 2004 until it was among the highest in the OECD in 2007 and 2008. The higher rate attracted international capital inflows, which strengthened the currency and housing market while aggravating the current account deficit. Rising house prices, especially in Auckland, have become a political issue in recent years, as well as a policy challenge in 2016 and 2017, as the ability to afford housing has declined for many.</p><p></p><p>Expanding New Zealand’s network of free trade agreements remains a top foreign policy priority. New Zealand was an early promoter of the Trans-Pacific Partnership (TPP) and was the second country to ratify the agreement in May 2017. Following the United States’ withdrawal from the TPP in January 2017, on 10 November 2017 the remaining 11 countries agreed on the core elements of a modified agreement, which they renamed the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). In November 2016, New Zealand opened negotiations to upgrade its FTA with China; China is one of New Zealand’s most important trading partners.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$210.877 billion (2019 est.)<br>
-$205.112 billion (2018 est.)<br>
-$198.913 billion (2017 est.)<br>
+$215.6 billion note: data are in 2017 dollars (2020 est.)<br>
+$213.5 billion note: data are in 2017 dollars (2019 est.)<br>
+$210.07 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -385,9 +385,9 @@ $198.913 billion (2017 est.)<br>
 3.8% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$42,888 (2019 est.)<br>
-$42,370 (2018 est.)<br>
-$41,493 (2017 est.)<br>
+$42,400 note: data are in 2017 dollars (2020 est.)<br>
+$42,900 note: data are in 2017 dollars (2019 est.)<br>
+$42,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -470,9 +470,9 @@ _expenditures_: 70.97 billion (2017 est.)<br>
 -$8.742 billion (2018 est.)<br>
 
 **Exports**<br>
-$56.219 billion (2019 est.)<br>
-$54.977 billion (2018 est.)<br>
-$53.457 billion (2017 est.)<br>
+$50.43 billion note: data are in current year dollars (2020 est.)<br>
+$57.16 billion note: data are in current year dollars (2019 est.)<br>
+$57.71 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
@@ -481,9 +481,9 @@ China 28%, Australia 14%, United States 9%, Japan 6% (2019)<br>
 dairy products, sheep/goat meats, lumber, beef products, fresh fruits (2019)<br>
 
 **Imports**<br>
-$63.622 billion (2019 est.)<br>
-$62.276 billion (2018 est.)<br>
-$58.494 billion (2017 est.)<br>
+$47.86 billion note: data are in current year dollars (2020 est.)<br>
+$57.75 billion note: data are in current year dollars (2019 est.)<br>
+$58.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, Australia 15%, United States 9%, Japan 6%, Germany 5% (2019)<br>

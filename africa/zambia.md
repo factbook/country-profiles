@@ -61,6 +61,12 @@ _other_: 2% (2018 est.)<br>
 **Irrigated land**<br>
 1,560 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Major aquifers**<br>
+Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ periodic drought; tropical storms (November to April)<br>
 
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zimbabwe; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
-**Major aquifers**<br>
-Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## People and Society
 
@@ -246,14 +246,6 @@ _particulate matter emissions_: 24.7 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 5.14 megatons (2016 est.)<br>
 _methane emissions_: 14.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 290 million cubic meters (2017 est.)<br>
-_industrial_: 130 million cubic meters (2017 est.)<br>
-_agricultural_: 1.152 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-104.8 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; modified by altitude; rainy season (October to April)<br>
 
@@ -265,15 +257,15 @@ _agricultural land: permanent pasture_: permanent pasture: 26.9% (2018 est.)<br>
 _forest_: 66.3% (2018 est.)<br>
 _other_: 2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 45.2% of total population (2021)<br>
+_rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.45% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.04% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 45.2% of total population (2021)<br>
-_rate of urbanization_: 4.15% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -293,6 +285,14 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 
 **Major aquifers**<br>
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 290 million cubic meters (2017 est.)<br>
+_industrial_: 130 million cubic meters (2017 est.)<br>
+_agricultural_: 1.152 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+104.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -347,9 +347,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2021</em>: Hakainde HICHILEMA elected president; percent of the vote -   Hakainde HICHILEMA (UPND) 57.9%, Edgar LUNGU (PF) 37.3%, other 4.8%<br><br><em>2016</em>: Edgar LUNGU re-elected president; percent of vote - Edgar LUNGU (PF) 50.4%, Hakainde HICHILEMA (UPND) 47.6%, other 2%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 11 are appointed<br>
+_description_: unicameral National Assembly (167 seats; 156 members directly elected in single-seat constituencies by simple majority vote in 2 rounds if needed, and up to 8 appointed by the president; members serve 5-year terms); 3&nbsp;&nbsp; ex-officio members elected by National Assembly membership<br>
 _elections_: last held on 12 August 2021 (next to be held in 2026)<br>
-_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%; 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency is scheduled for 21 October 2021.<br>
+_election results_: percent of vote by party - UPND 53.9%, PF 38.1%, PNUP 0.6%, independent 7.4%; seats by party - UPND 82, PF 61, PNUP 1, independent 11; composition - men 135, women 20, percent of women 13.5%; 155 seats were filled with one seat left vacant; the election for Kaumbwe Constituency is scheduled for 21 October 2021<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice, deputy chief justice, and at least 11 judges); Constitutional Court (consists of the court president, vice president, and 11 judges); note - the Constitutional Court began operation in June 2016<br>
@@ -394,9 +394,9 @@ _lyrics/music_: multiple/Enoch Mankayi SONTONGA<br>
 <p>Zambia had one of the world’s fastest growing economies for the ten years up to 2014, with real GDP growth averaging roughly 6.7% per annum, though growth slowed during the period 2015 to 2017, due to falling copper prices, reduced power generation, and depreciation of the kwacha. Zambia’s lack of economic diversification and dependency on copper as its sole major export makes it vulnerable to fluctuations in the world commodities market and prices turned downward in 2015 due to declining demand from China; Zambia was overtaken by the Democratic Republic of Congo as Africa’s largest copper producer. GDP growth picked up in 2017 as mineral prices rose.</p><p></p><p>Despite recent strong economic growth and its status as a lower middle-income country, widespread and extreme rural poverty and high unemployment levels remain significant problems, made worse by a high birth rate, a relatively high HIV/AIDS burden, by market-distorting agricultural and energy policies, and growing government debt. Zambia raised $7 billion from international investors by issuing separate sovereign bonds in 2012, 2014, and 2015. Concurrently, it issued over $4 billion in domestic debt and agreed to Chinese-financed infrastructure projects, significantly increasing the country’s public debt burden to more than 60% of GDP. The government has considered refinancing $3 billion worth of Eurobonds and significant Chinese loans to cut debt servicing costs.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$61.985 billion (2019 est.)<br>
-$61.104 billion (2018 est.)<br>
-$58.735 billion (2017 est.)<br>
+$60.12 billion note: data are in 2017 dollars (2020 est.)<br>
+$61.99 billion note: data are in 2017 dollars (2019 est.)<br>
+$61.1 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -405,9 +405,9 @@ $58.735 billion (2017 est.)<br>
 2.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,470 (2019 est.)<br>
-$3,522 (2018 est.)<br>
-$3,485 (2017 est.)<br>
+$3,300 note: data are in 2017 dollars (2020 est.)<br>
+$3,500 note: data are in 2017 dollars (2019 est.)<br>
+$3,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -490,8 +490,9 @@ calendar year<br>
 -$934 million (2016 est.)<br>
 
 **Exports**<br>
-$8.216 billion (2017 est.)<br>
-$6.514 billion (2016 est.)<br>
+$8.55 billion note: data are in current year dollars (2020 est.)<br>
+$8.26 billion note: data are in current year dollars (2019 est.)<br>
+$9.98 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Singapore 5% (2019)<br>
@@ -500,8 +501,9 @@ Switzerland 29%, China 16%, Namibia 12%, Democratic Republic of the Congo 9%, Si
 copper, gold, gemstones, sulfuric acid, raw sugar, tobacco (2019)<br>
 
 **Imports**<br>
-$7.852 billion (2017 est.)<br>
-$6.539 billion (2016 est.)<br>
+$5.92 billion note: data are in current year dollars (2020 est.)<br>
+$8.04 billion note: data are in current year dollars (2019 est.)<br>
+$10.19 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 29%, China 14%, United Arab Emirates 12%, India 5% (2019)<br>

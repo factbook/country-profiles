@@ -234,14 +234,6 @@ _particulate matter emissions_: 10.91 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.54 megatons (2016 est.)<br>
 _methane emissions_: 11.05 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 223.5 million cubic meters (2017 est.)<br>
-_industrial_: 167.6 million cubic meters (2017 est.)<br>
-_agricultural_: 1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-801 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; northwest monsoon (December to March), southeast monsoon (May to October); slight seasonal temperature variation<br>
 
@@ -253,15 +245,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.4% (2018 est.)<br>
 _forest_: 63.1% (2018 est.)<br>
 _other_: 34.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 13.5% of total population (2021)<br>
+_rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.08% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 13.5% of total population (2021)<br>
-_rate of urbanization_: 2.91% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -272,6 +264,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 223.5 million cubic meters (2017 est.)<br>
+_industrial_: 167.6 million cubic meters (2017 est.)<br>
+_agricultural_: 1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+801 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -376,9 +376,9 @@ _lyrics/music_: Thomas SHACKLADY<br>
 <p>Papua New Guinea (PNG) is richly endowed with natural resources, but exploitation has been hampered by rugged terrain, land tenure issues, and the high cost of developing infrastructure. The economy has a small formal sector, focused mainly on the export of those natural resources, and an informal sector, employing the majority of the population. Agriculture provides a subsistence livelihood for 85% of the people. The global financial crisis had little impact because of continued foreign demand for PNG's commodities.</p><p></p><p>Mineral deposits, including copper, gold, and oil, account for nearly two-thirds of export earnings. Natural gas reserves amount to an estimated 155 billion cubic meters. Following construction of a $19 billion liquefied natural gas (LNG) project, PNG LNG, a consortium led by ExxonMobil, began exporting liquefied natural gas to Asian markets in May 2014. The project was delivered on time and only slightly above budget. The success of the project has encouraged other companies to look at similar LNG projects. French supermajor Total is hopes to begin construction on the Papua LNG project by 2020. Due to lower global commodity prices, resource revenues of all types have fallen dramatically. PNG’s government has recently been forced to adjust spending levels downward.</p><p></p><p>Numerous challenges still face the government of Peter O'NEILL, including providing physical security for foreign investors, regaining investor confidence, restoring integrity to state institutions, promoting economic efficiency by privatizing moribund state institutions, and maintaining good relations with Australia, its former colonial ruler. Other socio-cultural challenges could upend the economy including chronic law and order and land tenure issues. In August, 2017, PNG launched its first-ever national trade policy, PNG Trade Policy 2017-2032. The policy goal is to maximize trade and investment by increasing exports, to reduce imports, and to increase foreign direct investment (FDI).</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.218 billion (2019 est.)<br>
-$36.089 billion (2018 est.)<br>
-$36.19 billion (2017 est.)<br>
+$36.69 billion note: data are in 2017 dollars (2020 est.)<br>
+$38.17 billion note: data are in 2017 dollars (2019 est.)<br>
+$36.06 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -387,9 +387,9 @@ $36.19 billion (2017 est.)<br>
 5.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,355 (2019 est.)<br>
-$4,193 (2018 est.)<br>
-$4,289 (2017 est.)<br>
+$4,100 note: data are in 2017 dollars (2020 est.)<br>
+$4,300 note: data are in 2017 dollars (2019 est.)<br>
+$4,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -469,7 +469,7 @@ $4.859 billion (2017 est.)<br>
 $4.569 billion (2016 est.)<br>
 
 **Exports**<br>
-$8.522 billion (2017 est.)<br>
+$10.6 billion note: data are in current year dollars (2018 est.)<br>
 $9.224 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -479,7 +479,7 @@ Australia 26%, China 26%, Japan 22%, Taiwan 7% (2019)<br>
 natural gas, gold, copper, lumber, crude petroleum, nickel, palm oil, fish, coffee (2019)<br>
 
 **Imports**<br>
-$1.876 billion (2017 est.)<br>
+$4.84 billion note: data are in current year dollars (2018 est.)<br>
 $2.077 billion (2016 est.)<br>
 
 **Imports - partners**<br>
@@ -684,7 +684,7 @@ the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplie
 <p>relies on assistance from Australia to keep out illegal cross-border activities from primarily Indonesia, including goods smuggling, illegal narcotics trafficking, and squatters and secessionists</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,368 (Indonesia) (2019)<br>
+_refugees (country of origin)_: 10,501 (Indonesia) (2020)<br>
 _IDPs_: 14,000 (natural disasters, tribal conflict, inter-communal violence, development projects) (2020)<br>
 _stateless persons_: 9 (2020)<br>
 

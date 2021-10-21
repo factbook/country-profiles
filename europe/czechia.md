@@ -61,6 +61,9 @@ _other_: 10.8% (2018 est.)<br>
 **Irrigated land**<br>
 320 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
 
@@ -69,9 +72,6 @@ flooding<br>
 
 **Geography - note**<br>
 <strong>note 1:</strong> landlocked; strategically located astride some of oldest and most significant land routes in Europe; Moravian Gate is a traditional military corridor between the North European Plain and the Danube in central Europe<br><br><strong>note 2:</strong> the Hranice Abyss in Czechia is the world's deepest surveyed underwater cave at 404 m (1,325 ft); its survey is not complete and it could end up being some 800-1,200 m deep<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -236,14 +236,6 @@ _particulate matter emissions_: 15.15 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 102.22 megatons (2016 est.)<br>
 _methane emissions_: 13.11 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 616.6 million cubic meters (2017 est.)<br>
-_industrial_: 967.2 million cubic meters (2017 est.)<br>
-_agricultural_: 46.6 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-13.15 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cool summers; cold, cloudy, humid winters<br>
 
@@ -255,15 +247,15 @@ _agricultural land: permanent pasture_: permanent pasture: 12.8% (2018 est.)<br>
 _forest_: 34.4% (2018 est.)<br>
 _other_: 10.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 74.2% of total population (2021)<br>
+_rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.17% of GDP (2017 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.14% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 74.2% of total population (2021)<br>
-_rate of urbanization_: 0.2% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>
@@ -272,6 +264,14 @@ _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 616.6 million cubic meters (2017 est.)<br>
+_industrial_: 967.2 million cubic meters (2017 est.)<br>
+_agricultural_: 46.6 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+13.15 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -303,7 +303,7 @@ Czechoslovak Founding Day, 28 October (1918)<br>
 
 **Constitution**<br>
 _history_: previous 1960; latest ratified 16 December 1992, effective 1 January 1993<br>
-_amendments_: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2013<br>
+_amendments_: passage requires at least three-fifths concurrence of members present in both houses of Parliament; amended several times, last in 2021<br>
 
 **Legal system**<br>
 new civil code enacted in 2014, replacing civil code of 1964 - based on former Austro-Hungarian civil codes and socialist theory - and reintroducing former Czech legal terminology<br>
@@ -377,9 +377,9 @@ _lyrics/music_: Josef Kajetan TYL/Frantisek Jan SKROUP<br>
 <p>Czechia is a prosperous market economy that boasts one of the highest GDP growth rates and lowest unemployment levels in the EU, but its dependence on exports makes economic growth vulnerable to contractions in external demand. Czechia’s exports comprise some 80% of GDP and largely consist of automobiles, the country’s single largest industry. Czechia acceded to the EU in 2004 but has yet to join the euro-zone. While the flexible koruna helps Czechia weather external shocks, it was one of the world’s strongest performing currencies in 2017, appreciating approximately 16% relative to the US dollar after the central bank (Czech National Bank - CNB) ended its cap on the currency’s value in early April 2017, which it had maintained since November 2013. The CNB hiked rates in August and November 2017 - the first rate changes in nine years - to address rising inflationary pressures brought by strong economic growth and a tight labor market.</p><p></p><p>Since coming to power in 2014, the new government has undertaken some reforms to try to reduce corruption, attract investment, and improve social welfare programs, which could help increase the government’s revenues and improve living conditions for Czechs. The government introduced in December 2016 an online tax reporting system intended to reduce tax evasion and increase revenues. The government also plans to remove labor market rigidities to improve the business climate, bring procurement procedures in line with EU best practices, and boost wages. The country's low unemployment rate has led to steady increases in salaries, and the government is facing pressure from businesses to allow greater migration of qualified workers, at least from Ukraine and neighboring Central European countries.</p><p></p><p>Long-term challenges include dealing with a rapidly aging population, a shortage of skilled workers, a lagging education system, funding an unsustainable pension and health care system, and diversifying away from manufacturing and toward a more high-tech, services-based, knowledge economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$435.987 billion (2019 est.)<br>
-$426.038 billion (2018 est.)<br>
-$412.902 billion (2017 est.)<br>
+$409.97 billion note: data are in 2017 dollars (2020 est.)<br>
+$434.31 billion note: data are in 2017 dollars (2019 est.)<br>
+$424.48 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -388,9 +388,9 @@ $412.902 billion (2017 est.)<br>
 5.35% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$40,862 (2019 est.)<br>
-$40,079 (2018 est.)<br>
-$38,974 (2017 est.)<br>
+$38,300 note: data are in 2017 dollars (2020 est.)<br>
+$40,700 note: data are in 2017 dollars (2019 est.)<br>
+$39,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -473,9 +473,9 @@ calendar year<br>
 $1.259 billion (2018 est.)<br>
 
 **Exports**<br>
-$229.578 billion (2019 est.)<br>
-$226.887 billion (2018 est.)<br>
-$218.794 billion (2017 est.)<br>
+$174.92 billion note: data are in current year dollars (2020 est.)<br>
+$186.54 billion note: data are in current year dollars (2019 est.)<br>
+$191.69 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
@@ -484,9 +484,9 @@ Germany 31%, Slovakia 7%, Poland 6%, France 5% (2019)<br>
 cars and vehicle parts, computers, broadcasting equipment, office machinery/parts, seating (2019)<br>
 
 **Imports**<br>
-$211.922 billion (2019 est.)<br>
-$209.225 billion (2018 est.)<br>
-$197.808 billion (2017 est.)<br>
+$157.95 billion note: data are in current year dollars (2020 est.)<br>
+$171.43 billion note: data are in current year dollars (2019 est.)<br>
+$176.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 27%, China 12%, Poland 9%, Slovakia 5% (2019)<br>
@@ -680,7 +680,7 @@ the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000
 the Czech military has a mix of Soviet-era and more modern equipment, mostly of European origin; since 2010, the leading suppliers of military equipment to Czechia are Austria and Spain (2020)<br>
 
 **Military deployments**<br>
-<p>the Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali</p> <p> </p><br>
+the Czechia military has small numbers of troops deployed under EU, NATO, and UN command in several countries, including Bosnia and Herzegovina, the Central African Republic, Egypt, Iraq, Israel, Kosovo, Latvia, Lithuania, and Mali (2021)<br>
 
 **Military service age and obligation**<br>
 18-28 years of age for male and female voluntary military service; conscription abolished 2004 (2019)<br>

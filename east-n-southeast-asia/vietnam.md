@@ -64,6 +64,9 @@ _other_: 20.2% (2018 est.)<br>
 **Irrigated land**<br>
 46,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
 
@@ -237,14 +240,6 @@ _particulate matter emissions_: 29.66 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 192.67 megatons (2016 est.)<br>
 _methane emissions_: 110.4 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.206 billion cubic meters (2017 est.)<br>
-_industrial_: 3.074 billion cubic meters (2017 est.)<br>
-_agricultural_: 77.75 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-884.12 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical in south; monsoonal in north with hot, rainy season (May to September) and warm, dry season (October to March)<br>
 
@@ -256,15 +251,15 @@ _agricultural land: permanent pasture_: permanent pasture: 2.1% (2018 est.)<br>
 _forest_: 45% (2018 est.)<br>
 _other_: 20.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 38.1% of total population (2021)<br>
+_rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.49% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.35% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 38.1% of total population (2021)<br>
-_rate of urbanization_: 2.7% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -275,6 +270,17 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _municipal solid waste generated annually_: 9,570,300 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.206 billion cubic meters (2017 est.)<br>
+_industrial_: 3.074 billion cubic meters (2017 est.)<br>
+_agricultural_: 77.75 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+884.12 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +388,9 @@ _lyrics/music_: Nguyen Van CAO<br>
 <p>Vietnam is a densely populated developing country that has been transitioning since 1986 from the rigidities of a centrally planned, highly agrarian economy to a more industrial and market based economy, and it has raised incomes substantially. Vietnam exceeded its 2017 GDP growth target of 6.7% with growth of 6.8%, primarily due to unexpected increases in domestic demand, and strong manufacturing exports.</p><p></p><p>Vietnam has a young population, stable political system, commitment to sustainable growth, relatively low inflation, stable currency, strong FDI inflows, and strong manufacturing sector. In addition, the country is committed to continuing its global economic integration. Vietnam joined the WTO in January 2007 and concluded several free trade agreements in 2015-16, including the EU-Vietnam Free Trade Agreement (which the EU has not yet ratified), the Korean Free Trade Agreement, and the Eurasian Economic Union Free Trade Agreement. In 2017, Vietnam successfully chaired the Asia-Pacific Economic Cooperation (APEC) Conference with its key priorities including inclusive growth, innovation, strengthening small and medium enterprises, food security, and climate change. Seeking to diversify its opportunities, Vietnam also signed the Comprehensive and Progressive Agreement for the Transpacific Partnership in 2018 and continued to pursue the Regional Comprehensive Economic Partnership.</p><p></p><p>To continue its trajectory of strong economic growth, the government acknowledges the need to spark a ‘second wave’ of reforms, including reforming state-owned-enterprises, reducing red tape, increasing business sector transparency, reducing the level of non-performing loans in the banking sector, and increasing financial sector transparency. Vietnam’s public debt to GDP ratio is nearing the government mandated ceiling of 65%.</p><p></p><p>In 2016, Vietnam cancelled its civilian nuclear energy development program, citing public concerns about safety and the high cost of the program; it faces growing pressure on energy infrastructure. Overall, the country’s infrastructure fails to meet the needs of an expanding middle class. Vietnam has demonstrated a commitment to sustainable growth over the last several years, but despite the recent speed-up in economic growth the government remains cautious about the risk of external shocks.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$775.669 billion (2019 est.)<br>
-$724.806 billion (2018 est.)<br>
-$676.909 billion (2017 est.)<br>
+$798.21 billion note: data are in 2017 dollars (2020 est.)<br>
+$775.67 billion note: data are in 2017 dollars (2019 est.)<br>
+$724.81 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +398,9 @@ $676.909 billion (2017 est.)<br>
 6.2% (2016 est.)<br>
 
 **Real GDP per capita**<br>
-$8,041 (2019 est.)<br>
-$7,586 (2018 est.)<br>
-$7,156 (2017 est.)<br>
+$8,200 note: data are in 2017 dollars (2020 est.)<br>
+$8,000 note: data are in 2017 dollars (2019 est.)<br>
+$7,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,8 +484,8 @@ $12.478 billion (2019 est.)<br>
 $5.769 billion (2018 est.)<br>
 
 **Exports**<br>
-$248.953 billion (2019 est.)<br>
-$233.294 billion (2018 est.)<br>
+$280.83 billion note: data are in current year dollars (2019 est.)<br>
+$258.49 billion note: data are in current year dollars (2018 est.)<br>
 $204.169 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -489,8 +495,8 @@ United States 23%, China 14%, Japan 8%, South Korea 7% (2019)<br>
 broadcasting equipment, telephones, integrated circuits, footwear, furniture (2019)<br>
 
 **Imports**<br>
-$266.066 billion (2019 est.)<br>
-$245.563 billion (2018 est.)<br>
+$261.68 billion note: data are in current year dollars (2019 est.)<br>
+$245.63 billion note: data are in current year dollars (2018 est.)<br>
 $217.684 billion (2017 est.)<br>
 
 **Imports - partners**<br>

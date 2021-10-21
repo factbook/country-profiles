@@ -220,14 +220,6 @@ _particulate matter emissions_: 22.24 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.28 megatons (2016 est.)<br>
 _methane emissions_: 2.35 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2017 est.)<br>
-_industrial_: 6.2 million cubic meters (2017 est.)<br>
-_agricultural_: 54.8 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-80 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy season (June to October)<br>
 
@@ -239,20 +231,28 @@ _agricultural land: permanent pasture_: permanent pasture: 4.7% (2018 est.)<br>
 _forest_: 19.4% (2018 est.)<br>
 _other_: 48% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 31.2% of total population (2021)<br>
+_rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 31.2% of total population (2021)<br>
-_rate of urbanization_: 0.46% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 174,815 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 15,733 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 9% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 20 million cubic meters (2017 est.)<br>
+_industrial_: 6.2 million cubic meters (2017 est.)<br>
+_agricultural_: 54.8 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+80 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -354,9 +354,9 @@ _lyrics/music_: Irving BURGIE/C. Van Roland EDWARDS<br>
 Barbados is the wealthiest and one of the most developed countries in the Eastern Caribbean and enjoys one of the highest per capita incomes in the region. Historically, the Barbadian economy was dependent on sugarcane cultivation and related activities. However, in recent years the economy has diversified into light industry and tourism. Offshore finance and information services are important foreign exchange earners, boosted by being in the same time zone as eastern US financial centers and by a relatively highly educated workforce. Following the 2008-09 recession, external vulnerabilities such as fluctuations in international oil prices have hurt economic growth, raised Barbados' already high public debt to GDP ratio - which stood at 105% of GDP in 2016 - and cut into its international reserves.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$4.488 billion (2019 est.)<br>
-$4.493 billion (2018 est.)<br>
-$4.519 billion (2017 est.)<br>
+$3.7 billion note: data are in 2017 dollars (2020 est.)<br>
+$4.49 billion note: data are in 2017 dollars (2019 est.)<br>
+$4.49 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -365,9 +365,9 @@ $4.519 billion (2017 est.)<br>
 2.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$15,639 (2019 est.)<br>
-$15,675 (2018 est.)<br>
-$15,789 (2017 est.)<br>
+$12,900 note: data are in 2017 dollars (2020 est.)<br>
+$15,600 note: data are in 2017 dollars (2019 est.)<br>
+$15,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -626,7 +626,7 @@ the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (
 the RBDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>
 
 **Military service age and obligation**<br>
-Voluntary service only; 17 years, 9 months to 17 years, 11 months with a letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizen of Barbados by descent or naturalization (2021)<br>
+Voluntary service only; 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>
 
 **Military - note**<br>
 <p>Barbados has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Dominica, Grenada, Saint Kitts, Saint Lucia, and Saint Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security; the RSS is headquartered in Barbados</p><br>

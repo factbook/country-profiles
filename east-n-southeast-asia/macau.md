@@ -204,15 +204,15 @@ subtropical; marine with cool winters, warm summers<br>
 _agricultural land_: 0% (2018 est.)<br>
 _other_: 100% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 100% of total population (2021)<br>
+_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
-_rate of urbanization_: 1.46% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 377,942 tons (2016 est.)<br>
@@ -265,8 +265,8 @@ _election results_: Fernando CHUI Sai On reelected chief executive; Election Com
 
 **Legislative branch**<br>
 _description_: unicameral Legislative Assembly or Regiao Administrativa Especial de Macau (33 seats; 14 members directly elected by proportional representation vote, 12 indirectly elected by an electoral college of professional and commercial interest groups, and 7 appointed by the chief executive; members serve 4-year terms)<br>
-_elections_: last held on 17 September 2017 (next to be held on 12 September 2021)<br>
-_election results_: percent of vote - UMG 10%, UPD 9.7%, ACUM 8.6%, NE 8.3%, UPP 7.2, ANMD 6.6%, NUDM 6.1%, ACDM 5.9%, APMD 5.8%, Civic Watch 5.6%, ABL 5.5%, ANPM 5.3%, other 15.4%; seats by political group - UMG 2, UPD 2, ABL 1, ACDM 1, ACUM 1, ANMD 1, ANPM 1, APMD 1, Civic Watch 1, NE 1, NUDM 1, UPP 1; 12 seats filled by professional and business groups; 7 members appointed by the chief executive; composition - men 27, women 6, percent of women 18.6%<br>
+_elections_: last held on 12 September 2021 (next to be held in September 2025)<br>
+_election results_: percent of vote - ACUM 20.1%, UPD 18%, NE 13.8%, UMG 12.7%, UPP 11.4%, ABL 10.8%, PS 6.6%, other 6.6%; seats by political group - ACUM 3, UPD 2, UMG 2, UPP 2, ABL 2, NE 2, PS 1; composition NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Final Appeal of Macau Special Administrative Region (consists of the court president and 2 associate justices)<br>
@@ -301,9 +301,9 @@ lotus blossom; national colors: green, white, yellow<br>
 <p>Since opening up its locally-controlled casino industry to foreign competition in 2001, Macau has attracted tens of billions of dollars in foreign investment, transforming the territory into one of the world's largest gaming centers. Macau's gaming and tourism businesses were fueled by China's decision to relax travel restrictions on Chinese citizens wishing to visit Macau. In 2016, Macau's gaming-related taxes accounted for more than 76% of total government revenue.</p><p></p><p>Macau's economy slowed dramatically in 2009 as a result of the global economic slowdown, but strong growth resumed in the 2010-13 period, largely on the back of tourism from mainland China and the gaming sectors. In 2015, this city of 646,800 hosted nearly 30.7 million visitors. Almost 67% came from mainland China. Macau's traditional manufacturing industry has slowed greatly since the termination of the Multi-Fiber Agreement in 2005. Services export — primarily gaming — increasingly has driven Macau’s economic performance. Mainland China’s anti-corruption campaign brought Macau’s gambling boom to a halt in 2014, with spending in casinos contracting 34.3% in 2015. As a result, Macau's inflation-adjusted GDP contracted 21.5% in 2015 and another 2.1% in 2016 - down from double-digit expansion rates in the period 2010-13 - but the economy recovered handsomely in 2017.</p><p></p><p>Macau continues to face the challenges of managing its growing casino industry, risks from money-laundering activities, and the need to diversify the economy away from heavy dependence on gaming revenues. Macau's currency, the pataca, is closely tied to the Hong Kong dollar, which is also freely accepted in the territory.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$79.392 billion (2019 est.)<br>
-$83.317 billion (2018 est.)<br>
-$79.017 billion (2017 est.)<br>
+$35.58 billion note: data are in 2017 dollars (2020 est.)<br>
+$81.44 billion note: data are in 2017 dollars (2019 est.)<br>
+$83.64 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -312,9 +312,9 @@ $79.017 billion (2017 est.)<br>
 -21.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$123,965 (2019 est.)<br>
-$131,908 (2018 est.)<br>
-$126,918 (2017 est.)<br>
+$54,800 note: data are in 2017 dollars (2020 est.)<br>
+$127,200 note: data are in 2017 dollars (2019 est.)<br>
+$132,400 note: data are in 2017 dollars (2018 est.)<br>
 
 **GDP (official exchange rate)**<br>
 $53.841 billion (2019 est.)<br>
@@ -401,7 +401,8 @@ $16.75 billion (2017 est.)<br>
 $12.22 billion (2016 est.)<br>
 
 **Exports**<br>
-$1.45 billion (2018)<br>
+$45.35 billion note: data are in current year dollars (2019 est.)<br>
+$45.62 billion note: data are in current year dollars (2018 est.)<br>
 <strong>note:</strong> includes reexports<br>
 
 **Exports - partners**<br>
@@ -411,8 +412,8 @@ Hong Kong 66%, China 9% (2019)<br>
 broadcasting equipment, jewelry, watches, trunks/cases, telephones (2019)<br>
 
 **Imports**<br>
-$11.1 billion (2018)<br>
-$9.7 billion (2017 est.)<br>
+$17.35 billion note: data are in current year dollars (2019 est.)<br>
+$18.28 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 33%, Hong Kong 31%, France 5% (2019)<br>

@@ -63,6 +63,9 @@ _other_: 14.2% (2018 est.)<br>
 **Irrigated land**<br>
 1,430 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
@@ -71,9 +74,6 @@ flash flood threat during rainy seasons<br>
 
 **Geography - note**<br>
 the third-smallest country in South America after Suriname and Uruguay; substantial portions of its western and eastern territories are claimed by Venezuela and Suriname respectively; contains some of the largest unspoiled rainforests on the continent<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 ## People and Society
 
@@ -247,14 +247,6 @@ _particulate matter emissions_: 20.46 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.38 megatons (2016 est.)<br>
 _methane emissions_: 1.81 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 61.3 million cubic meters (2017 est.)<br>
-_industrial_: 20.4 million cubic meters (2017 est.)<br>
-_agricultural_: 1.363 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-271 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid, moderated by northeast trade winds; two rainy seasons (May to August, November to January)<br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 6.2% (2018 est.)<br>
 _forest_: 77.4% (2018 est.)<br>
 _other_: 14.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 26.9% of total population (2021)<br>
+_rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 4.56% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 26.9% of total population (2021)<br>
-_rate of urbanization_: 1.01% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -288,6 +280,14 @@ _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 61.3 million cubic meters (2017 est.)<br>
+_industrial_: 20.4 million cubic meters (2017 est.)<br>
+_agricultural_: 1.363 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+271 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -390,9 +390,9 @@ _lyrics/music_: Archibald Leonard LUKERL/Robert Cyril Gladstone POTTER<br>
 <p>The Guyanese economy exhibited moderate economic growth in recent years and is based largely on agriculture and extractive industries. The economy is heavily dependent upon the export of six commodities - sugar, gold, bauxite, shrimp, timber, and rice - which represent nearly 60% of the country's GDP and are highly susceptible to adverse weather conditions and fluctuations in commodity prices. Guyana closed or consolidated several sugar estates in 2017, reducing production of sugar to a forecasted 147,000 tons in 2018, less than half of 2017 production. Much of Guyana's growth in recent years has come from a surge in gold production. With a record-breaking 700,000 ounces of gold produced in 2016, Gold production in Guyana has offset the economic effects of declining sugar production. In January 2018, estimated 3.2 billion barrels of oil were found offshore and Guyana is scheduled to become a petroleum producer by March 2020.</p><p></p><p>Guyana's entrance into the Caricom Single Market and Economy in January 2006 broadened the country's export market, primarily in the raw materials sector. Guyana has experienced positive growth almost every year over the past decade. Inflation has been kept under control. Recent years have seen the government's stock of debt reduced significantly - with external debt now less than half of what it was in the early 1990s. Despite these improvements, the government is still juggling a sizable external debt against the urgent need for expanded public investment. In March 2007, the Inter-American Development Bank, Guyana's principal donor, canceled Guyana's nearly $470 million debt, equivalent to 21% of GDP, which along with other Highly Indebted Poor Country debt forgiveness, brought the debt-to-GDP ratio down from 183% in 2006 to 52% in 2017. Guyana had become heavily indebted as a result of the inward-looking, state-led development model pursued in the 1970s and 1980s. Chronic problems include a shortage of skilled labor and a deficient infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$10.24 billion (2019 est.)<br>
-$9.72 billion (2018 est.)<br>
-$9.306 billion (2017 est.)<br>
+$14.69 billion note: data are in 2017 dollars (2020 est.)<br>
+$10.24 billion note: data are in 2017 dollars (2019 est.)<br>
+$9.72 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -401,9 +401,9 @@ $9.306 billion (2017 est.)<br>
 3.1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$13,082 (2019 est.)<br>
-$12,478 (2018 est.)<br>
-$12,005 (2017 est.)<br>
+$18,700 note: data are in 2017 dollars (2020 est.)<br>
+$13,100 note: data are in 2017 dollars (2019 est.)<br>
+$12,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -480,8 +480,8 @@ calendar year<br>
 $13 million (2016 est.)<br>
 
 **Exports**<br>
-$1.439 billion (2017 est.)<br>
-$1.38 billion (2016 est.)<br>
+$1.8 billion note: data are in current year dollars (2019 est.)<br>
+$1.58 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United Arab Emirates 5% (2019)<br>
@@ -490,8 +490,8 @@ Trinidad and Tobago 31%, Canada 11%, Portugal 11%, Ghana 8%, Norway 6%, United A
 ships, gold, shipping containers, excavation machinery, aluminum ores, rice (2019)<br>
 
 **Imports**<br>
-$1.626 billion (2017 est.)<br>
-$1.341 billion (2016 est.)<br>
+$4 billion note: data are in current year dollars (2019 est.)<br>
+$3.12 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 26%, Trinidad and Tobago 16%, Singapore 18%, Liberia 11%, China 5%, Norway 5% (2019)<br>
@@ -656,7 +656,7 @@ _major seaport(s)_: Georgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-the Guyana Defense Force is a unified service with an Army, Air Corps, Coast Guard, Guyana People's Militia (reserves) (2020)<br>
+the Guyana Defense Force is a unified force with ground, air, and coast guard components, as well as a militia (Guyana People's Militia) (2021)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>

@@ -237,14 +237,6 @@ _particulate matter emissions_: 7.87 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 48.74 megatons (2016 est.)<br>
 _methane emissions_: 10.93 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 914.1 million cubic meters (2017 est.)<br>
-_industrial_: 1.497 billion cubic meters (2017 est.)<br>
-_agricultural_: 8.767 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-77.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 maritime temperate; cool and rainy in north, warmer and drier in south<br>
 
@@ -256,20 +248,28 @@ _agricultural land: permanent pasture_: permanent pasture: 20% (2018 est.)<br>
 _forest_: 37.8% (2018 est.)<br>
 _other_: 22.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 66.8% of total population (2021)<br>
+_rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.13% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 66.8% of total population (2021)<br>
-_rate of urbanization_: 0.44% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.71 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 764,433 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 16.2% (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 914.1 million cubic meters (2017 est.)<br>
+_industrial_: 1.497 billion cubic meters (2017 est.)<br>
+_agricultural_: 8.767 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+77.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +378,9 @@ _lyrics/music_: Henrique LOPES DE MENDOCA/Alfredo KEIL<br>
 <p>Portugal has become a diversified and increasingly service-based economy since joining the European Community - the EU's predecessor - in 1986. Over the following two decades, successive governments privatized many state-controlled firms and liberalized key areas of the economy, including the financial and telecommunications sectors. The country joined the Economic and Monetary Union in 1999 and began circulating the euro on 1 January 2002 along with 11 other EU members.</p><p></p><p>The economy grew by more than the EU average for much of the 1990s, but the rate of growth slowed in 2001-08. After the global financial crisis in 2008, Portugal’s economy contracted in 2009 and fell into recession from 2011 to 2013, as the government implemented spending cuts and tax increases to comply with conditions of an EU-IMF financial rescue package, signed in May 2011. Portugal successfully exited its EU-IMF program in May 2014, and its economic recovery gained traction in 2015 because of strong exports and a rebound in private consumption. GDP growth accelerated in 2016, and probably reached 2.5 % in 2017. Unemployment remained high, at 9.7% in 2017, but has improved steadily since peaking at 18% in 2013.</p><p></p><p>The center-left minority Socialist government has unwound some unpopular austerity measures while managing to remain within most EU fiscal targets. The budget deficit fell from 11.2% of GDP in 2010 to 1.8% in 2017, the country’s lowest since democracy was restored in 1974, and surpassing the EU and IMF projections of 3%. Portugal exited the EU’s excessive deficit procedure in mid-2017.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$358.344 billion (2019 est.)<br>
-$350.507 billion (2018 est.)<br>
-$340.796 billion (2017 est.)<br>
+$331.64 billion note: data are in 2017 dollars (2020 est.)<br>
+$358.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$350.07 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +389,9 @@ $340.796 billion (2017 est.)<br>
 3.51% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$34,894 (2019 est.)<br>
-$34,083 (2018 est.)<br>
-$33,086 (2017 est.)<br>
+$32,200 note: data are in 2017 dollars (2020 est.)<br>
+$34,900 note: data are in 2017 dollars (2019 est.)<br>
+$34,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -475,9 +475,9 @@ calendar year<br>
 $988 million (2018 est.)<br>
 
 **Exports**<br>
-$114.512 billion (2019 est.)<br>
-$110.591 billion (2018 est.)<br>
-$106.201 billion (2017 est.)<br>
+$85.28 billion note: data are in current year dollars (2020 est.)<br>
+$104.77 billion note: data are in current year dollars (2019 est.)<br>
+$105.76 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<br>
@@ -486,9 +486,9 @@ Spain 23%, France 13%, Germany 12%, United Kingdom 6%, United States 5% (2019)<b
 cars and vehicle parts, refined petroleum, leather footwear, paper products, tires (2019)<br>
 
 **Imports**<br>
-$120.334 billion (2019 est.)<br>
-$114.957 billion (2018 est.)<br>
-$109.515 billion (2017 est.)<br>
+$89.31 billion note: data are in current year dollars (2020 est.)<br>
+$103.05 billion note: data are in current year dollars (2019 est.)<br>
+$103.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Spain 29%, Germany 13%, France 9%, Italy 5%, Netherlands 5% (2019)<br>

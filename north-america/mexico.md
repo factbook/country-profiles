@@ -64,6 +64,12 @@ _other_: 11.8% (2018 est.)<br>
 **Irrigated land**<br>
 65,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
+
+**Major aquifers**<br>
+Atlantic and Gulf Coastal Plains Aquifer<br>
+
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
 
@@ -72,12 +78,6 @@ most of the population is found in the middle of the country between the states 
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> strategic location on southern border of the US; Mexico is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire</p> <p><strong>note 2:</strong> some of the world's most important food crops were first domesticated in Mexico; the "Three Sisters" companion plants - winter squash, maize (corn), and climbing beans - served as the main agricultural crops for various North American Indian groups; all three apparently originated in Mexico but then were widely disseminated through much of North America; avocado, amaranth, and chili peppers also emanate from Mexico, as does vanilla, the world's most popular aroma and flavor spice; although cherry tomatoes originated in Ecuador, their domestication in Mexico transformed them into the larger modern tomato<br><br><strong>note 3: </strong>the Sac Actun cave system at 348 km (216 mi) is the longest underwater cave in the world and the second longest cave worldwide, after Mammoth Cave in the United States (see "Geography - note" under United States)<br><br><strong>note 4:</strong> the prominent Yucatan Peninsula that divides the Gulf of Mexico from the Caribbean Sea is shared by Mexico, Guatemala, and Belize; just on the northern coast of Yucatan, near the town of Chicxulub (pronounce cheek-sha-loob), lie the remnants of a massive crater (some 150 km in diameter and extending well out into the Gulf of Mexico); formed by an asteroid or comet when it struck the earth 66 million years ago, the impact is now widely accepted as initiating a worldwide climate disruption that caused a mass extinction of 75% of all the earth's plant and animal species - including the non-avian dinosaurs</p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
-
-**Major aquifers**<br>
-Atlantic and Gulf Coastal Plains Aquifer<br>
 
 ## People and Society
 
@@ -250,14 +250,6 @@ _particulate matter emissions_: 20.08 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 486.41 megatons (2016 est.)<br>
 _methane emissions_: 135.77 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 14.23 billion cubic meters (2017 est.)<br>
-_industrial_: 6.814 billion cubic meters (2017 est.)<br>
-_agricultural_: 66.8 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-461.888 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical to desert<br>
 
@@ -269,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 41.7% (2018 est.)<br>
 _forest_: 33.3% (2018 est.)<br>
 _other_: 11.8% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81% of total population (2021)<br>
+_rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81% of total population (2021)<br>
-_rate of urbanization_: 1.4% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -295,6 +287,14 @@ Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq 
 
 **Major aquifers**<br>
 Atlantic and Gulf Coastal Plains Aquifer<br>
+
+**Total water withdrawal**<br>
+_municipal_: 14.23 billion cubic meters (2017 est.)<br>
+_industrial_: 6.814 billion cubic meters (2017 est.)<br>
+_agricultural_: 66.8 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+461.888 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -406,9 +406,9 @@ _lyrics/music_: Francisco Gonzalez BOCANEGRA/Jaime Nuno ROCA<br>
 <p>Mexico's $2.4 trillion economy – 11th largest in the world - has become increasingly oriented toward manufacturing since the North American Free Trade Agreement (NAFTA) entered into force in 1994. Per capita income is roughly one-third that of the US; income distribution remains highly unequal.</p><p></p><p>Mexico has become the US' second-largest export market and third-largest source of imports. In 2017, two-way trade in goods and services exceeded $623 billion. Mexico has free trade agreements with 46 countries, putting more than 90% of its trade under free trade agreements. In 2012, Mexico formed the Pacific Alliance with Peru, Colombia, and Chile.</p><p></p><p>Mexico's current government, led by President Enrique PENA NIETO, has emphasized economic reforms, passing and implementing sweeping energy, financial, fiscal, and telecommunications reform legislation, among others, with the long-term aim to improve competitiveness and economic growth across the Mexican economy. Since 2015, Mexico has held public auctions of oil and gas exploration and development rights and for long-term electric power generation contracts. Mexico has also issued permits for private sector import, distribution, and retail sales of refined petroleum products in an effort to attract private investment into the energy sector and boost production.</p><p></p><p>Since 2013, Mexico’s economic growth has averaged 2% annually, falling short of private-sector expectations that President PENA NIETO’s sweeping reforms would bolster economic prospects. Growth is predicted to remain below potential given falling oil production, weak oil prices, structural issues such as low productivity, high inequality, a large informal sector employing over half of the workforce, weak rule of law, and corruption. Mexico’s economy remains vulnerable to uncertainty surrounding the future of NAFTA — because the United States is its top trading partner and the two countries share integrated supply chains — and to potential shifts in domestic policies following the inauguration of a new a president in December 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2,525,481,000,000 (2019 est.)<br>
-$2,526,859,000,000 (2018 est.)<br>
-$2,472,586,000,000 (2017 est.)<br>
+$2,306,320,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$2,513,410,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$2,514,780,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -417,9 +417,9 @@ $2,472,586,000,000 (2017 est.)<br>
 2.34% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$19,796 (2019 est.)<br>
-$20,024 (2018 est.)<br>
-$19,816 (2017 est.)<br>
+$17,900 note: data are in 2017 dollars (2020 est.)<br>
+$19,700 note: data are in 2017 dollars (2019 est.)<br>
+$19,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,9 +503,9 @@ calendar year<br>
 -$25.415 billion (2018 est.)<br>
 
 **Exports**<br>
-$491.593 billion (2019 est.)<br>
-$484.595 billion (2018 est.)<br>
-$457.693 billion (2017 est.)<br>
+$434.93 billion note: data are in current year dollars (2020 est.)<br>
+$492.73 billion note: data are in current year dollars (2019 est.)<br>
+$480.1 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 75% (2019)<br>
@@ -514,9 +514,9 @@ United States 75% (2019)<br>
 cars and vehicle parts, computers, delivery trucks, crude petroleum, insulated wiring (2019)<br>
 
 **Imports**<br>
-$480.886 billion (2019 est.)<br>
-$485.211 billion (2018 est.)<br>
-$458.381 billion (2017 est.)<br>
+$410.66 billion note: data are in current year dollars (2020 est.)<br>
+$495.79 billion note: data are in current year dollars (2019 est.)<br>
+$505.05 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 54%, China 14% (2019)<br>
@@ -732,7 +732,7 @@ the Mexican military under President LOPEZ OBRADOR has expanded its role in publ
 <p>abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 9,257 (Honduras) (2019); 102,223 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 15,676 (Honduras), 9,231 (El Salvador) (2020); 102,223 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
 _IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2020)<br>
 _stateless persons_: 13 (2020)<br>
 

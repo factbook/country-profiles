@@ -64,6 +64,9 @@ _other_: 11.4% (2018 est.)<br>
 **Irrigated land**<br>
 3,540 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
 
@@ -72,9 +75,6 @@ monsoonal rains (June to November); flooding; occasional droughts<br>
 
 **Geography - note**<br>
 a land of paddies and forests dominated by the Mekong River and Tonle Sap (Southeast Asia's largest freshwater lake)<br>
-
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 23.98 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 9.92 megatons (2016 est.)<br>
 _methane emissions_: 14.88 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 98 million cubic meters (2017 est.)<br>
-_industrial_: 33 million cubic meters (2017 est.)<br>
-_agricultural_: 2.053 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-476.1 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy, monsoon season (May to November); dry season (December to April); little seasonal temperature variation<br>
 
@@ -267,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 8.5% (2018 est.)<br>
 _forest_: 56.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 24.7% of total population (2021)<br>
+_rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.84% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 24.7% of total population (2021)<br>
-_rate of urbanization_: 3.06% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -287,6 +279,14 @@ _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 98 million cubic meters (2017 est.)<br>
+_industrial_: 33 million cubic meters (2017 est.)<br>
+_agricultural_: 2.053 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+476.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -390,9 +390,9 @@ _lyrics/music_: CHUON NAT/F. PERRUCHOT and J. JEKYLL<br>
 <p>Cambodia has experienced strong economic growth over the last decade; GDP grew at an average annual rate of over 8% between 2000 and 2010 and about 7% since 2011. The tourism, garment, construction and real estate, and agriculture sectors accounted for the bulk of growth. Around 700,000 people, the majority of whom are women, are employed in the garment and footwear sector. An additional 500,000 Cambodians are employed in the tourism sector, and a further 200,000 people in construction. Tourism has continued to grow rapidly with foreign arrivals exceeding 2 million per year in 2007 and reaching 5.6 million visitors in 2017. Mining also is attracting some investor interest and the government has touted opportunities for mining bauxite, gold, iron and gems.</p> <p> </p> <p>Still, Cambodia remains one of the poorest countries in Asia, and long-term economic development remains a daunting challenge, inhibited by corruption, limited human resources, high income inequality, and poor job prospects. According to the Asian Development Bank (ADB), the percentage of the population living in poverty decreased to 13.5% in 2016. More than 50% of the population is less than 25 years old. The population lacks education and productive skills, particularly in the impoverished countryside, which also lacks basic infrastructure.</p> <p> </p> <p>The World Bank in 2016 formally reclassified Cambodia as a lower middle-income country as a result of continued rapid economic growth over the past several years. Cambodia’s graduation from a low-income country will reduce its eligibility for foreign assistance and will challenge the government to seek new sources of financing. The Cambodian Government has been working with bilateral and multilateral donors, including the Asian Development Bank, the World Bank and IMF, to address the country's many pressing needs; more than 20% of the government budget will come from donor assistance in 2018. A major economic challenge for Cambodia over the next decade will be fashioning an economic environment in which the private sector can create enough jobs to handle Cambodia's demographic imbalance.</p> <p> </p> <p>Textile exports, which accounted for 68% of total exports in 2017, have driven much of Cambodia’s growth over the past several years. The textile sector relies on exports to the United States and European Union, and Cambodia’s dependence on its comparative advantage in textile production is a key vulnerability for the economy, especially because Cambodia has continued to run a current account deficit above 9% of GDP since 2014.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$72.356 billion (2019 est.)<br>
-$67.588 billion (2018 est.)<br>
-$62.89 billion (2017 est.)<br>
+$70.08 billion note: data are in 2017 dollars (2020 est.)<br>
+$72.36 billion note: data are in 2017 dollars (2019 est.)<br>
+$67.59 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -401,9 +401,9 @@ $62.89 billion (2017 est.)<br>
 7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$4,389 (2019 est.)<br>
-$4,159 (2018 est.)<br>
-$3,928 (2017 est.)<br>
+$4,200 note: data are in 2017 dollars (2020 est.)<br>
+$4,400 note: data are in 2017 dollars (2019 est.)<br>
+$4,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,8 +485,9 @@ calendar year<br>
 -$1.731 billion (2016 est.)<br>
 
 **Exports**<br>
-$11.42 billion (2017 est.)<br>
-$10.07 billion (2016 est.)<br>
+$19.4 billion note: data are in current year dollars (2020 est.)<br>
+$21.07 billion note: data are in current year dollars (2019 est.)<br>
+$18.41 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Canada 5%, United Kingdom 5% (2019)<br>
@@ -495,8 +496,9 @@ United States 21%, Singapore 8%, Thailand 8%, Germany 7%, Japan 6%, China 5%, Ca
 clothing, precious metal scraps, trunks/cases, gold, leather footwear (2019)<br>
 
 **Imports**<br>
-$14.37 billion (2017 est.)<br>
-$12.65 billion (2016 est.)<br>
+$23.12 billion note: data are in current year dollars (2020 est.)<br>
+$25.52 billion note: data are in current year dollars (2019 est.)<br>
+$21.86 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 27%, Thailand 25%, Vietnam 15%, Singapore 8% (2019)<br>
@@ -676,7 +678,8 @@ _river port(s)_: Phnom Penh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2020)<br>
+Royal Cambodian Armed Forces: High Command Headquarters, Royal Cambodian Army, Royal Khmer Navy, Royal Cambodian Air Force, Royal Gendarmerie; the National Committee for Maritime Security (performs Coast Guard functions and has representation from military and civilian agencies) (2021)<br>
+note - the Cambodian National Police is under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>

@@ -64,6 +64,12 @@ _other_: 62.7% (2018 est.)<br>
 **Irrigated land**<br>
 202,000 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
+
+**Major aquifers**<br>
+Indus Basin<br>
+
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
 
@@ -72,12 +78,6 @@ frequent earthquakes, occasionally severe especially in north and west; flooding
 
 **Geography - note**<br>
 controls Khyber Pass and Bolan Pass, traditional invasion routes between Central Asia and the Indian Subcontinent<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
-
-**Major aquifers**<br>
-Indus Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 55.21 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 201.15 megatons (2016 est.)<br>
 _methane emissions_: 142.12 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 9.65 billion cubic meters (2017 est.)<br>
-_industrial_: 1.4 billion cubic meters (2017 est.)<br>
-_agricultural_: 172.4 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-246.8 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly hot, dry desert; temperate in northwest; arctic in north<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 6.5% (2018 est.)<br>
 _forest_: 2.1% (2018 est.)<br>
 _other_: 62.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 37.4% of total population (2021)<br>
+_rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.1% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.06% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 37.4% of total population (2021)<br>
-_rate of urbanization_: 2.1% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -296,10 +288,18 @@ _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Aral Sea drainage <em>(endorheic basin)</em>: Amu Darya (534,739 sq km)<br>Tarim Basin drainage <em>(endorheic basin)</em>: Tarim Basin (1,152,448 sq km)<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Major aquifers**<br>
 Indus Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 9.65 billion cubic meters (2017 est.)<br>
+_industrial_: 1.4 billion cubic meters (2017 est.)<br>
+_agricultural_: 172.4 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+246.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -407,9 +407,9 @@ _lyrics/music_: Abu-Al-Asar Hafeez JULLANDHURI/Ahmed Ghulamali CHAGLA<br>
 <p>Decades of internal political disputes and low levels of foreign investment have led to underdevelopment in Pakistan. Pakistan has a large English-speaking population, with English-language skills less prevalent outside urban centers. Despite some progress in recent years in both security and energy, a challenging security environment, electricity shortages, and a burdensome investment climate have traditionally deterred investors. Agriculture accounts for one-fifth of output and two-fifths of employment. Textiles and apparel account for more than half of Pakistan's export earnings; Pakistan's failure to diversify its exports has left the country vulnerable to shifts in world demand. Pakistan’s GDP growth has gradually increased since 2012, and was 5.3% in 2017. Official unemployment was 6% in 2017, but this fails to capture the true picture, because much of the economy is informal and underemployment remains high. Human development continues to lag behind most of the region.</p><p></p><p>In 2013, Pakistan embarked on a $6.3 billion IMF Extended Fund Facility, which focused on reducing energy shortages, stabilizing public finances, increasing revenue collection, and improving its balance of payments position. The program concluded in September 2016. Although Pakistan missed several structural reform criteria, it restored macroeconomic stability, improved its credit rating, and boosted growth. The Pakistani rupee has remained relatively stable against the US dollar since 2015, though it declined about 10% between November 2017 and March 2018. Balance of payments concerns have reemerged, however, as a result of a significant increase in imports and weak export and remittance growth.</p><p></p><p>Pakistan must continue to address several longstanding issues, including expanding investment in education, healthcare, and sanitation; adapting to the effects of climate change and natural disasters; improving the country’s business environment; and widening the country’s tax base. Given demographic challenges, Pakistan’s leadership will be pressed to implement economic reforms, promote further development of the energy sector, and attract foreign investment to support sufficient economic growth necessary to employ its growing and rapidly urbanizing population, much of which is under the age of 25.</p><p></p><p>In an effort to boost development, Pakistan and China are implementing the "China-Pakistan Economic Corridor" (CPEC) with $60 billion in investments targeted towards energy and other infrastructure projects. Pakistan believes CPEC investments will enable growth rates of over 6% of GDP by laying the groundwork for increased exports. CPEC-related obligations, however, have raised IMF concern about Pakistan’s capital outflows and external financing needs over the medium term.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,015,796,000,000 (2019 est.)<br>
-$1,005,850,000,000 (2018 est.)<br>
-$950.381 billion (2017 est.)<br>
+$1,021,130,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,015,800,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,005,850,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>data are for fiscal years<br>
 
 **Real GDP growth rate**<br>
@@ -419,9 +419,9 @@ $950.381 billion (2017 est.)<br>
 <strong>note:</strong> data are for fiscal years<br>
 
 **Real GDP per capita**<br>
-$4,690 (2019 est.)<br>
-$4,740 (2018 est.)<br>
-$4,571 (2017 est.)<br>
+$4,600 note: data are in 2017 dollars (2020 est.)<br>
+$4,700 note: data are in 2017 dollars (2019 est.)<br>
+$4,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -507,9 +507,9 @@ _expenditures_: 64.49 billion (2017 est.)<br>
 -$19.482 billion (2018 est.)<br>
 
 **Exports**<br>
-$31.517 billion (2019 est.)<br>
-$27.604 billion (2018 est.)<br>
-$25.613 billion (2017 est.)<br>
+$27.3 billion note: data are in current year dollars (2020 est.)<br>
+$30.67 billion note: data are in current year dollars (2019 est.)<br>
+$30.77 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
@@ -518,9 +518,9 @@ United States 14%, China 8%, Germany 7%, United Kingdom 6% (2019)<br>
 textiles, clothing and apparel, rice, leather goods, surgical instruments (2019)<br>
 
 **Imports**<br>
-$42.27 billion (2019 est.)<br>
-$51.602 billion (2018 est.)<br>
-$47.165 billion (2017 est.)<br>
+$51.07 billion note: data are in current year dollars (2020 est.)<br>
+$57.98 billion note: data are in current year dollars (2019 est.)<br>
+$68.42 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 28%, United Arab Emirates 11%, United States 5% (2019)<br>

@@ -61,6 +61,12 @@ _other_: 18% (2018 est.)<br>
 **Irrigated land**<br>
 1,740 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 **Population distribution**<br>
 Aside from major urban agglomerations in Harare and Bulawayo, population distribution is fairly even, with slightly greater overall numbers in the eastern half as shown in this population distribution map<br>
 
@@ -69,12 +75,6 @@ recurring droughts; floods and severe storms are rare<br>
 
 **Geography - note**<br>
 landlocked; the Zambezi forms a natural riverine boundary with Zambia; in full flood (February-April) the massive Victoria Falls on the river forms the world's largest curtain of falling water; Lake Kariba on the Zambia-Zimbabwe border forms the world's largest reservoir by volume (180 cu km; 43 cu mi)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
-
-**Major aquifers**<br>
-Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## People and Society
 
@@ -250,14 +250,6 @@ _particulate matter emissions_: 19.35 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 10.98 megatons (2016 est.)<br>
 _methane emissions_: 12.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 487.7 million cubic meters (2017 est.)<br>
-_industrial_: 81.4 million cubic meters (2017 est.)<br>
-_agricultural_: 2.77 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-20 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by altitude; rainy season (November to March)<br>
 
@@ -269,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 31.3% (2018 est.)<br>
 _forest_: 39.5% (2018 est.)<br>
 _other_: 18% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 32.3% of total population (2021)<br>
+_rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.61% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.4% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 32.3% of total population (2021)<br>
-_rate of urbanization_: 2.41% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -295,10 +287,18 @@ _municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2005 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 487.7 million cubic meters (2017 est.)<br>
+_industrial_: 81.4 million cubic meters (2017 est.)<br>
+_agricultural_: 2.77 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+20 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -400,9 +400,9 @@ _lyrics/music_: Solomon MUTSWAIRO/Fred Lecture CHANGUNDEGA<br>
 <p>Zimbabwe's economy depends heavily on its mining and agriculture sectors. Following a contraction from 1998 to 2008, the economy recorded real growth of more than 10% per year in the period 2010-13, before falling below 3% in the period 2014-17, due to poor harvests, low diamond revenues, and decreased investment. Lower mineral prices, infrastructure and regulatory deficiencies, a poor investment climate, a large public and external debt burden, and extremely high government wage expenses impede the country’s economic performance.</p><p></p><p>Until early 2009, the Reserve Bank of Zimbabwe (RBZ) routinely printed money to fund the budget deficit, causing hyperinflation. Adoption of a multi-currency basket in early 2009 - which allowed currencies such as the Botswana pula, the South Africa rand, and the US dollar to be used locally - reduced inflation below 10% per year. In January 2015, as part of the government’s effort to boost trade and attract foreign investment, the RBZ announced that the Chinese renmimbi, Indian rupee, Australian dollar, and Japanese yen would be accepted as legal tender in Zimbabwe, though transactions were predominantly carried out in US dollars and South African rand until 2016, when the rand’s devaluation and instability led to near-exclusive use of the US dollar. The government in November 2016 began releasing bond notes, a parallel currency legal only in Zimbabwe which the government claims will have a one-to-one exchange ratio with the US dollar, to ease cash shortages. Bond notes began trading at a discount of up to 10% in the black market by the end of 2016.</p><p></p><p>Zimbabwe’s government entered a second Staff Monitored Program with the IMF in 2014 and undertook other measures to reengage with international financial institutions. Zimbabwe repaid roughly $108 million in arrears to the IMF in October 2016, but financial observers note that Zimbabwe is unlikely to gain new financing because the government has not disclosed how it plans to repay more than $1.7 billion in arrears to the World Bank and African Development Bank. International financial institutions want Zimbabwe to implement significant fiscal and structural reforms before granting new loans. Foreign and domestic investment continues to be hindered by the lack of land tenure and titling, the inability to repatriate dividends to investors overseas, and the lack of clarity regarding the government’s Indigenization and Economic Empowerment Act.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$41.533 billion (2019 est.)<br>
-$45.194 billion (2018 est.)<br>
-$43.112 billion (2017 est.)<br>
+$40.79 billion note: data are in 2017 dollars (2020 est.)<br>
+$44.34 billion note: data are in 2017 dollars (2019 est.)<br>
+$48.25 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -411,9 +411,9 @@ $43.112 billion (2017 est.)<br>
 1.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,836 (2019 est.)<br>
-$3,130 (2018 est.)<br>
-$3,028 (2017 est.)<br>
+$2,700 note: data are in 2017 dollars (2020 est.)<br>
+$3,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

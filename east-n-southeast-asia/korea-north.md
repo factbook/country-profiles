@@ -228,14 +228,6 @@ _particulate matter emissions_: 30.4 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 28.28 megatons (2016 est.)<br>
 _methane emissions_: 18.68 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 902.8 million cubic meters (2017 est.)<br>
-_industrial_: 1.145 billion cubic meters (2017 est.)<br>
-_agricultural_: 6.61 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-77.15 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate, with rainfall concentrated in summer; long, bitter winters<br>
 
@@ -253,6 +245,14 @@ _rate of urbanization_: 0.85% annual rate of change (2020-25 est.)<br>
 
 **Food insecurity**<br>
 _widespread lack of access_: due to low food consumption levels, poor dietary diversity, and economic downturn - a large portion of the population suffers from low levels of food consumption and very poor dietary diversity; the economic constraints, particularly resulting from the global impact of the COVID‑19 pandemic, have increased the population&rsquo;s vulnerability to food insecurity; the food gap is estimated at about 860,000 mt in the 2020/21 marketing year (November/October); if this gap is not adequately covered through commercial imports and/or food aid, households could experience a harsh lean period, particularly from August until October, when the 2021 main season grain crops are expected to be available for consumption (2021)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 902.8 million cubic meters (2017 est.)<br>
+_industrial_: 1.145 billion cubic meters (2017 est.)<br>
+_agricultural_: 6.61 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+77.15 billion cubic meters (2017 est.)<br>
 
 ## Government
 

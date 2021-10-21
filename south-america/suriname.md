@@ -62,6 +62,9 @@ _other_: 4.9% (2018 est.)<br>
 **Irrigated land**<br>
 570 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
 **Population distribution**<br>
 population concentrated along the nothern coastal strip; the remainder of the country is sparsely populated<br>
 
@@ -234,14 +237,6 @@ _particulate matter emissions_: 23.6 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 1.74 megatons (2016 est.)<br>
 _methane emissions_: 2.28 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 49.3 million cubic meters (2017 est.)<br>
-_industrial_: 135.5 million cubic meters (2017 est.)<br>
-_agricultural_: 431.1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-99 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; moderated by trade winds<br>
 
@@ -253,15 +248,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.1% (2018 est.)<br>
 _forest_: 94.6% (2018 est.)<br>
 _other_: 4.9% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 66.2% of total population (2021)<br>
+_rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.36% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 66.2% of total population (2021)<br>
-_rate of urbanization_: 0.88% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -270,6 +265,17 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 78,620 tons (2010 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 49.3 million cubic meters (2017 est.)<br>
+_industrial_: 135.5 million cubic meters (2017 est.)<br>
+_agricultural_: 431.1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+99 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -374,9 +380,9 @@ _lyrics/music_: Cornelis Atses HOEKSTRA and Henry DE ZIEL/Johannes Corstianus DE
 <p>Suriname’s economy is dominated by the mining industry, with exports of oil and gold accounting for approximately 85% of exports and 27% of government revenues. This makes the economy highly vulnerable to mineral price volatility. The worldwide drop in international commodity prices and the cessation of alumina mining in Suriname significantly reduced government revenue and national income during the past few years. In November 2015, a major US aluminum company discontinued its mining activities in Suriname after 99 years of operation. Public sector revenues fell, together with exports, international reserves, employment, and private sector investment.</p><p></p><p>Economic growth declined annually from just under 5% in 2012 to -10.4% in 2016. In January 2011, the government devalued the currency by 20% and raised taxes to reduce the budget deficit. Suriname began instituting macro adjustments between September 2015 and 2016; these included another 20% currency devaluation in November 2015 and foreign currency interventions by the Central Bank until March 2016, after which time the Bank allowed the Surinamese dollar (SRD) to float. By December 2016, the SRD had lost 46% of its value against the dollar. Depreciation of the Surinamese dollar and increases in tariffs on electricity caused domestic prices in Suriname to rise 22.0% year-over-year by December 2017.</p><p></p><p>Suriname's economic prospects for the medium-term will depend on its commitment to responsible monetary and fiscal policies and on the introduction of structural reforms to liberalize markets and promote competition. The government's over-reliance on revenue from the extractive sector colors Suriname's economic outlook. Following two years of recession, the Fitch Credit Bureau reported a positive growth of 1.2% in 2017 and the World Bank predicted 2.2% growth in 2018. Inflation declined to 9%, down from 55% in 2016 , and increased gold production helped lift exports. Yet continued budget imbalances and a heavy debt and interest burden resulted in a debt-to-GDP ratio of 83% in September 2017. Purchasing power has fallen rapidly due to the devalued local currency. The government has announced its intention to pass legislation to introduce a new value-added tax in 2018. Without this and other measures to strengthen the country’s fiscal position, the government may face liquidity pressures.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$9.606 billion (2019 est.)<br>
-$9.581 billion (2018 est.)<br>
-$9.34 billion (2017 est.)<br>
+$9.46 billion note: data are in 2017 dollars (2020 est.)<br>
+$11.07 billion note: data are in 2017 dollars (2019 est.)<br>
+$10.95 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -385,9 +391,9 @@ $9.34 billion (2017 est.)<br>
 -2.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$16,525 (2019 est.)<br>
-$16,634 (2018 est.)<br>
-$16,373 (2017 est.)<br>
+$16,100 note: data are in 2017 dollars (2020 est.)<br>
+$19,000 note: data are in 2017 dollars (2019 est.)<br>
+$19,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -465,8 +471,8 @@ calendar year<br>
 -$169 million (2016 est.)<br>
 
 **Exports**<br>
-$2.028 billion (2017 est.)<br>
-$1.449 billion (2016 est.)<br>
+$2.29 billion note: data are in current year dollars (2019 est.)<br>
+$2.24 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
@@ -475,8 +481,8 @@ Switzerland 39%, United Arab Emirates 31%, Belgium 10% (2019)<br>
 gold, lumber, refined petroleum, fish, cigarettes (2019)<br>
 
 **Imports**<br>
-$1.293 billion (2017 est.)<br>
-$1.203 billion (2016 est.)<br>
+$2.41 billion note: data are in current year dollars (2019 est.)<br>
+$2.07 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 22%, Netherlands 14%, China 13%, Trinidad and Tobago 7%, Antigua and Barbuda 5% (2019)<br>

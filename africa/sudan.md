@@ -64,6 +64,12 @@ _other_: 0% (2018 est.)<br>
 **Irrigated land**<br>
 18,900 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
 **Population distribution**<br>
 with the exception of a ribbon of settlement that corresponds to the banks of the Nile, northern Sudan, which extends into the dry Sahara, is sparsely populated; more abundant vegetation and broader access to water increases population distribution in the south extending habitable range along nearly the entire border with South Sudan; sizeable areas of population are found around Khartoum, southeast between the Blue and White Nile Rivers, and througout South Darfur as shown on this population distribution map<br>
 
@@ -72,12 +78,6 @@ dust storms and periodic persistent droughts<br>
 
 **Geography - note**<br>
 the Nile is Sudan's primary water source; its major tributaries, the White Nile and the Blue Nile, meet at Khartoum to form the River Nile which flows northward through Egypt to the Mediterranean Sea<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 ## People and Society
 
@@ -247,14 +247,6 @@ _particulate matter emissions_: 47.92 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 20 megatons (2016 est.)<br>
 _methane emissions_: 75.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 950 million cubic meters (2017 est.)<br>
-_industrial_: 75 million cubic meters (2017 est.)<br>
-_agricultural_: 25.91 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-37.8 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 hot and dry; arid desert; rainy season varies by region (April to November)<br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 84.2% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 35.6% of total population (2021)<br>
+_rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 3.01% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 35.6% of total population (2021)<br>
-_rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -291,10 +283,18 @@ _severe localized food insecurity_: due to conflict, civil insecurity, and soari
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Nubian Aquifer System, Sudd Basin (Umm Ruwaba Aquifer)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 950 million cubic meters (2017 est.)<br>
+_industrial_: 75 million cubic meters (2017 est.)<br>
+_agricultural_: 25.91 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+37.8 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -398,9 +398,9 @@ _lyrics/music_: Sayed Ahmad Muhammad SALIH/Ahmad MURJAN<br>
 <p>Sudan has experienced protracted social conflict and the loss of three quarters of its oil production due to the secession of South Sudan. The oil sector had driven much of Sudan's GDP growth since 1999. For nearly a decade, the economy boomed on the back of rising oil production, high oil prices, and significant inflows of foreign direct investment. Since the economic shock of South Sudan's secession, Sudan has struggled to stabilize its economy and make up for the loss of foreign exchange earnings. The interruption of oil production in South Sudan in 2012 for over a year and the consequent loss of oil transit fees further exacerbated the fragile state of Sudan’s economy. Ongoing conflicts in Southern Kordofan, Darfur, and the Blue Nile states, lack of basic infrastructure in large areas, and reliance by much of the population on subsistence agriculture, keep close to half of the population at or below the poverty line.</p> <p>Sudan was subject to comprehensive US sanctions, which were lifted in October 2017. Sudan is attempting to develop non-oil sources of revenues, such as gold mining and agriculture, while carrying out an austerity program to reduce expenditures. The world’s largest exporter of gum Arabic, Sudan produces 75-80% of the world’s total output. Agriculture continues to employ 80% of the work force.</p> <p>Sudan introduced a new currency, still called the Sudanese pound, following South Sudan's secession, but the value of the currency has fallen since its introduction. Khartoum formally devalued the currency in June 2012, when it passed austerity measures that included gradually repealing fuel subsidies. Sudan also faces high inflation, which reached 47% on an annual basis in November 2012 but fell to about 35% per year in 2017.</p> (2017)<br>
 
 **Real GDP (purchasing power parity)**<br>
-$168.28 billion (2019 est.)<br>
-$172.601 billion (2018 est.)<br>
-$176.646 billion (2017 est.)<br>
+$176.4 billion note: data are in 2017 dollars (2020 est.)<br>
+$179.2 billion note: data are in 2017 dollars (2019 est.)<br>
+$181.61 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -409,9 +409,9 @@ $176.646 billion (2017 est.)<br>
 1.3% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,958 (2019 est.)<br>
-$4,161 (2018 est.)<br>
-$4,363 (2017 est.)<br>
+$4,000 note: data are in 2017 dollars (2020 est.)<br>
+$4,200 note: data are in 2017 dollars (2019 est.)<br>
+$4,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -488,8 +488,8 @@ calendar year<br>
 -$4.213 billion (2016 est.)<br>
 
 **Exports**<br>
-$4.1 billion (2017 est.)<br>
-$3.094 billion (2016 est.)<br>
+$5.11 billion note: data are in current year dollars (2019 est.)<br>
+$5 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019)<br>
@@ -498,8 +498,8 @@ United Arab Emirates 31%, China 19%, Saudi Arabia 14%, India 12%, Egypt 5% (2019
 gold, crude petroleum, sesame seeds, sheep, goats, cotton, ground nuts (2019)<br>
 
 **Imports**<br>
-$8.22 billion (2017 est.)<br>
-$7.48 billion (2016 est.)<br>
+$9.79 billion note: data are in current year dollars (2019 est.)<br>
+$8.24 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 31%, India 14%, United Arab Emirates 11%, Egypt 6% (2019)<br>

@@ -64,6 +64,12 @@ _other_: 9.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,200 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
+
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin<br>
+
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
 
@@ -247,14 +253,6 @@ _particulate matter emissions_: 37.52 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 10.9 megatons (2016 est.)<br>
 _methane emissions_: 11.74 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 98 million cubic meters (2017 est.)<br>
-_industrial_: 58 million cubic meters (2017 est.)<br>
-_agricultural_: 2.065 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-38.97 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; rainy season (May to November) has strong southeast winds; dry season (December to April) dominated by hot, dry, harmattan wind<br>
 
@@ -266,15 +264,15 @@ _agricultural land: permanent pasture_: permanent pasture: 29.1% (2018 est.)<br>
 _forest_: 43.8% (2018 est.)<br>
 _other_: 9.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 48.6% of total population (2021)<br>
+_rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.46% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 48.6% of total population (2021)<br>
-_rate of urbanization_: 3.59% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -289,6 +287,20 @@ _severe localized food insecurity_: due to localized shortfalls in cereal produc
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
+
+**Major aquifers**<br>
+Senegalo-Mauritanian Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 98 million cubic meters (2017 est.)<br>
+_industrial_: 58 million cubic meters (2017 est.)<br>
+_agricultural_: 2.065 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+38.97 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +405,9 @@ _lyrics/music_: Leopold Sedar SENGHOR/Herbert PEPPER<br>
 <p>Senegal’s economy is driven by mining, construction, tourism, fisheries and agriculture, which are the primary sources of employment in rural areas. The country's key export industries include phosphate mining, fertilizer production, agricultural products and commercial fishing and Senegal is also working on oil exploration projects. It relies heavily on donor assistance, remittances and foreign direct investment. Senegal reached a growth rate of 7% in 2017, due in part to strong performance in agriculture despite erratic rainfall.</p><p></p><p>President Macky SALL, who was elected in March 2012 under a reformist policy agenda, inherited an economy with high energy costs, a challenging business environment, and a culture of overspending. President SALL unveiled an ambitious economic plan, the Emerging Senegal Plan (ESP), which aims to implement priority economic reforms and investment projects to increase economic growth while preserving macroeconomic stability and debt sustainability. Bureaucratic bottlenecks and a challenging business climate are among the perennial challenges that may slow the implementation of this plan.</p><p></p><p>Senegal receives technical support from the IMF under a Policy Support Instrument (PSI) to assist with implementation of the ESP. The PSI implementation continues to be satisfactory as concluded by the IMF’s fifth review in December 2017. Financial markets have signaled confidence in Senegal through successful Eurobond issuances in 2014, 2017, and 2018.</p><p></p><p>The government is focusing on 19 projects under the ESP to continue The government’s goal under the ESP is structural transformation of the economy. Key projects include the Thiès-Touba Highway, the new international airport opened in December 2017, and upgrades to energy infrastructure. The cost of electricity is a chief constraint for Senegal’s development. Electricity prices in Senegal are among the highest in the world. Power Africa, a US presidential initiative led by USAID, supports Senegal’s plans to improve reliability and increase generating capacity.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$55.324 billion (2019 est.)<br>
-$52.553 billion (2018 est.)<br>
-$49.402 billion (2017 est.)<br>
+$55.26 billion note: data are in 2017 dollars (2020 est.)<br>
+$54.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$52.47 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +416,9 @@ $49.402 billion (2017 est.)<br>
 6.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,395 (2019 est.)<br>
-$3,315 (2018 est.)<br>
-$3,204 (2017 est.)<br>
+$3,300 note: data are in 2017 dollars (2020 est.)<br>
+$3,400 note: data are in 2017 dollars (2019 est.)<br>
+$3,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -486,7 +498,7 @@ calendar year<br>
 -$769 million (2016 est.)<br>
 
 **Exports**<br>
-$2.362 billion (2017 est.)<br>
+$5.29 billion note: data are in current year dollars (2018 est.)<br>
 $2.498 billion (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -496,7 +508,7 @@ Mali 22%, Switzerland 14%, India 9%, China 7% (2019)<br>
 gold, refined petroleum, phosphoric acid, fish, ground nuts (2019)<br>
 
 **Imports**<br>
-$5.217 billion (2017 est.)<br>
+$8.96 billion note: data are in current year dollars (2018 est.)<br>
 $4.966 billion (2016 est.)<br>
 
 **Imports - partners**<br>

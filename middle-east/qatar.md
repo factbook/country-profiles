@@ -63,6 +63,9 @@ _other_: 94.4% (2018 est.)<br>
 **Irrigated land**<br>
 130 sq km (2012)<br>
 
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 most of the population is clustered in or around the capital of Doha on the eastern side of the peninsula<br>
 
@@ -224,14 +227,6 @@ _particulate matter emissions_: 90.35 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 103.26 megatons (2016 est.)<br>
 _methane emissions_: 8.34 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 477.2 million cubic meters (2017 est.)<br>
-_industrial_: 143.7 million cubic meters (2017 est.)<br>
-_agricultural_: 291.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-58 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
@@ -243,20 +238,31 @@ _agricultural land: permanent pasture_: permanent pasture: 4.3% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 94.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 99.3% of total population (2021)<br>
+_rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 99.3% of total population (2021)<br>
-_rate of urbanization_: 1.66% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,000,990 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 30,030 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 3% (2014 est.)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 477.2 million cubic meters (2017 est.)<br>
+_industrial_: 143.7 million cubic meters (2017 est.)<br>
+_agricultural_: 291.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+58 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -361,9 +367,9 @@ _lyrics/music_: Sheikh MUBARAK bin Saif al-Thani/Abdul Aziz Nasser OBAIDAN<br>
 <p>Qatar’s oil and natural gas resources are the country’s main economic engine and government revenue source, driving Qatar’s high economic growth and per capita income levels, robust state spending on public entitlements, and booming construction spending, particularly as Qatar prepares to host the World Cup in 2022. Although the government has maintained high capital spending levels for ongoing infrastructure projects, low oil and natural gas prices in recent years have led the Qatari Government to tighten some spending to help stem its budget deficit.</p><p></p><p>Qatar’s reliance on oil and natural gas is likely to persist for the foreseeable future. Proved natural gas reserves exceed 25 trillion cubic meters - 13% of the world total and, among countries, third largest in the world. Proved oil reserves exceed 25 billion barrels, allowing production to continue at current levels for about 56 years. Despite the dominance of oil and natural gas, Qatar has made significant gains in strengthening non-oil sectors, such as manufacturing, construction, and financial services, leading non-oil GDP to steadily rise in recent years to just over half the total.</p><p></p><p>Following trade restriction imposed by Saudi Arabia, the UAE, Bahrain, and Egypt in 2017, Qatar established new trade routes with other countries to maintain access to imports.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$255.01 billion (2019 est.)<br>
-$253.049 billion (2018 est.)<br>
-$249.963 billion (2017 est.)<br>
+$245.66 billion note: data are in 2017 dollars (2020 est.)<br>
+$255.01 billion note: data are in 2017 dollars (2019 est.)<br>
+$253.05 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -372,9 +378,9 @@ $249.963 billion (2017 est.)<br>
 3.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$90,044 (2019 est.)<br>
-$90,970 (2018 est.)<br>
-$91,739 (2017 est.)<br>
+$85,300 note: data are in 2017 dollars (2020 est.)<br>
+$90,000 note: data are in 2017 dollars (2019 est.)<br>
+$91,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -451,8 +457,9 @@ $6.426 billion (2017 est.)<br>
 -$8.27 billion (2016 est.)<br>
 
 **Exports**<br>
-$67.5 billion (2017 est.)<br>
-$57.25 billion (2016 est.)<br>
+$70.93 billion note: data are in current year dollars (2020 est.)<br>
+$92.05 billion note: data are in current year dollars (2019 est.)<br>
+$102.56 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
@@ -461,8 +468,9 @@ Japan 17%, South Korea 16%, India 14%, China 13%, Singapore 7% (2019)<br>
 natural gas, crude petroleum, refined petroleum, ethylene polymers, fertilizers (2019)<br>
 
 **Imports**<br>
-$30.77 billion (2017 est.)<br>
-$31.93 billion (2016 est.)<br>
+$59.06 billion note: data are in current year dollars (2020 est.)<br>
+$66.77 billion note: data are in current year dollars (2019 est.)<br>
+$65.81 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 15%, France 13%, United Kingdom 9%, China 9%, Germany 5%, Italy 5% (2019)<br>

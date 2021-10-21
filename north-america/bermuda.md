@@ -320,8 +320,8 @@ _lyrics/music_: Bette JOHNS<br>
 <p>International business, which consists primarily of insurance and other financial services, is the real bedrock of Bermuda's economy, consistently accounting for about 85% of the island's GDP. Tourism is the country’s second largest industry, accounting for about 5% of Bermuda's GDP but a much larger share of employment. Over 80% of visitors come from the US and the sector struggled in the wake of the global recession of 2008-09. Even the financial sector has lost roughly 5,000 high-paying expatriate jobs since 2008, weighing heavily on household consumption and retail sales. Bermuda must import almost everything. Agriculture and industry are limited due to the small size of the island.</p><p></p><p>Bermuda's economy returned to negative growth in 2016, reporting a contraction of 0.1% GDP, after growing by 0.6% in 2015. Unemployment reached 7% in 2016 and 2017, public debt is growing and exceeds $2.4 billion, and the government continues to work on attracting foreign investment. Still, Bermuda enjoys one of the highest per capita incomes in the world.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.228 billion (2019 est.)<br>
-$5.204 billion (2018 est.)<br>
+$5.23 billion note: data are in 2017 dollars (2019 est.)<br>
+$5.2 billion note: data are in 2017 dollars (2018 est.)<br>
 $5.227 billion (2017 est.)<br>
 
 **Real GDP growth rate**<br>
@@ -330,8 +330,8 @@ $5.227 billion (2017 est.)<br>
 -0.3% (2014 est.)<br>
 
 **Real GDP per capita**<br>
-$81,798 (2019 est.)<br>
-$81,421 (2018 est.)<br>
+$81,800 note: data are in 2017 dollars (2019 est.)<br>
+$81,400 note: data are in 2017 dollars (2018 est.)<br>
 $81,835 (2017 est.)<br>
 
 **GDP (official exchange rate)**<br>
@@ -408,8 +408,8 @@ $818.6 million (2017 est.)<br>
 $763 million (2016 est.)<br>
 
 **Exports**<br>
-$19 million (2017 est.)<br>
-$19 million (2016 est.)<br>
+$1.59 billion note: data are in current year dollars (2019 est.)<br>
+$1.59 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
@@ -418,8 +418,8 @@ Jamaica 49.1%, Luxembourg 36.1%, US 4.9% (2017)<br>
 re-exports of pharmaceuticals<br>
 
 **Imports**<br>
-$1.094 billion (2017 est.)<br>
-$980 million (2016 est.)<br>
+$2.23 billion note: data are in current year dollars (2019 est.)<br>
+$2.2 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 44%, South Korea 17%, Germany 10%, Canada 8% (2019)<br>
@@ -571,7 +571,7 @@ note - the Royal Bermuda Regiment is a reserve multi-role battalion that carries
 the Royal Bermuda Regiment has about 350 troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Regiment is equipped with small arms<br>
+the Regiment is equipped with small arms (2021)<br>
 
 **Military service age and obligation**<br>
 females and males who are Commonwealth citizens and 18-45 years of age for voluntary enlistment in the Bermuda Regiment; service is for a minimum period of three years and two months from the date of enlistment; service can be extended only by volunteering or an executive order from the Governor; annual training commitment is about 30 days a year, which includes a two-week camp, weekends, and drill nights (2021)<br>

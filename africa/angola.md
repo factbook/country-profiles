@@ -62,6 +62,12 @@ _forest_: 54.3% (2018 est.)<br>
 **Irrigated land**<br>
 860 sq km (2014)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
 
@@ -70,12 +76,6 @@ locally heavy rainfall causes periodic flooding on the plateau<br>
 
 **Geography - note**<br>
 the province of Cabinda is an exclave, separated from the rest of the country by the Democratic Republic of the Congo<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 27.95 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 34.69 megatons (2016 est.)<br>
 _methane emissions_: 23.28 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 319.5 million cubic meters (2017 est.)<br>
-_industrial_: 239.6 million cubic meters (2017 est.)<br>
-_agricultural_: 146.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-148.4 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 semiarid in south and along coast to Luanda; north has cool, dry season (May to October) and hot, rainy season (November to April)<br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent crops_: permanent crops: 0.3% (2018 est.)<br>
 _agricultural land: permanent pasture_: permanent pasture: 41.5% (2018 est.)<br>
 _forest_: 54.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 67.5% of total population (2021)<br>
+_rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.36% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 67.5% of total population (2021)<br>
-_rate of urbanization_: 4.04% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -287,10 +279,18 @@ _animal contact diseases_: rabies<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Okavango Basin drainage <em>(endorheic basin)</em>: Okavango (863,866 sq km)<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 319.5 million cubic meters (2017 est.)<br>
+_industrial_: 239.6 million cubic meters (2017 est.)<br>
+_agricultural_: 146.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+148.4 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -397,9 +397,9 @@ _lyrics/music_: Manuel Rui Alves MONTEIRO/Rui Alberto Vieira Dias MINGAO<br>
 <p>Angola's economy is overwhelmingly driven by its oil sector. Oil production and its supporting activities contribute about 50% of GDP, more than 70% of government revenue, and more than 90% of the country's exports; Angola is an OPEC member and subject to its direction regarding oil production levels. Diamonds contribute an additional 5% to exports. Subsistence agriculture provides the main livelihood for most of the people, but half of the country's food is still imported.</p><p></p><p>Increased oil production supported growth averaging more than 17% per year from 2004 to 2008. A postwar reconstruction boom and resettlement of displaced persons led to high rates of growth in construction and agriculture as well. Some of the country's infrastructure is still damaged or undeveloped from the 27-year-long civil war (1975-2002). However, the government since 2005 has used billions of dollars in credit from China, Brazil, Portugal, Germany, Spain, and the EU to help rebuild Angola's public infrastructure. Land mines left from the war still mar the countryside, and as a result, the national military, international partners, and private Angolan firms all continue to remove them.</p><p></p><p>The global recession that started in 2008 stalled Angola’s economic growth and many construction projects stopped because Luanda accrued billions in arrears to foreign construction companies when government revenue fell. Lower prices for oil and diamonds also resulted in GDP falling 0.7% in 2016. Angola formally abandoned its currency peg in 2009 but reinstituted it in April 2016 and maintains an overvalued exchange rate. In late 2016, Angola lost the last of its correspondent relationships with foreign banks, further exacerbating hard currency problems. Since 2013 the central bank has consistently spent down reserves to defend the kwanza, gradually allowing a 40% depreciation since late 2014. Consumer inflation declined from 325% in 2000 to less than 9% in 2014, before rising again to above 30% from 2015-2017.</p><p></p><p>Continued low oil prices, the depreciation of the kwanza, and slower than expected growth in non-oil GDP have reduced growth prospects, although several major international oil companies remain in Angola. Corruption, especially in the extractive sectors, is a major long-term challenge that poses an additional threat to the economy.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$212.285 billion (2019 est.)<br>
-$213.619 billion (2018 est.)<br>
-$217.987 billion (2017 est.)<br>
+$203.71 billion note: data are in 2017 dollars (2020 est.)<br>
+$212.29 billion note: data are in 2017 dollars (2019 est.)<br>
+$213.62 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -408,9 +408,9 @@ $217.987 billion (2017 est.)<br>
 0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$6,670 (2019 est.)<br>
-$6,934 (2018 est.)<br>
-$7,311 (2017 est.)<br>
+$6,200 note: data are in 2017 dollars (2020 est.)<br>
+$6,700 note: data are in 2017 dollars (2019 est.)<br>
+$6,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -491,8 +491,9 @@ calendar year<br>
 -$4.834 billion (2016 est.)<br>
 
 **Exports**<br>
-$33.07 billion (2017 est.)<br>
-$31.03 billion (2016 est.)<br>
+$21 billion note: data are in current year dollars (2020 est.)<br>
+$35.18 billion note: data are in current year dollars (2019 est.)<br>
+$41.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
@@ -501,8 +502,9 @@ China 62%, India 10%, United Arab Emirates 4%, Portugal 3%, Spain 3% (2019)<br>
 crude petroleum, diamonds, natural gas, refined petroleum, ships (2019)<br>
 
 **Imports**<br>
-$19.5 billion (2017 est.)<br>
-$13.04 billion (2016 est.)<br>
+$15.12 billion note: data are in current year dollars (2020 est.)<br>
+$22.3 billion note: data are in current year dollars (2019 est.)<br>
+$25.89 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 22%, Portugal 15%, Nigeria 6%, Belgium 6%, United States 5%, South Africa 5%, Brazil 5% (2019)<br>
@@ -610,7 +612,7 @@ _total subscriptions_: 14,830,154<br>
 _subscriptions per 100 inhabitants_: 47.19 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Angola’s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: <p>Angola’s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China</p> (2021)<br>
 _domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 47 telephones per 100 persons (2019)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

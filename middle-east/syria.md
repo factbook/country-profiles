@@ -63,6 +63,9 @@ _other_: 21.5% (2018 est.)<br>
 **Irrigated land**<br>
 14,280 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
 <strong>note:</strong> the ongoing civil war has altered the population distribution<br>
@@ -72,9 +75,6 @@ significant population density along the Mediterranean coast; larger concentrati
 
 **Geography - note**<br>
 the capital of Damascus - located at an oasis fed by the Barada River - is thought to be one of the world's oldest continuously inhabited cities; there are 42 Israeli settlements and civilian land use sites in the Israeli-controlled Golan Heights (2017)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## People and Society
 
@@ -239,14 +239,6 @@ _particulate matter emissions_: 39.43 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 28.83 megatons (2016 est.)<br>
 _methane emissions_: 12.93 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 1.475 billion cubic meters (2017 est.)<br>
-_industrial_: 615.4 million cubic meters (2017 est.)<br>
-_agricultural_: 14.67 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-16.802 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly desert; hot, dry, sunny summers (June to August) and mild, rainy winters (December to February) along coast; cold weather with snow or sleet periodically in Damascus<br>
 
@@ -272,6 +264,14 @@ _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 1.475 billion cubic meters (2017 est.)<br>
+_industrial_: 615.4 million cubic meters (2017 est.)<br>
+_agricultural_: 14.67 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+16.802 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -685,7 +685,7 @@ Abdallah Azzam Brigades; Ansar al-Islam; Asa’ib Ahl Al-Haq; Hizballah; Hurras 
 <p>Golan Heights is Israeli-controlled with UN Disengagement Observer Force (UNDOF) patrolling a buffer zone since 1974; lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms in the Golan Heights; 2004 Agreement and pending demarcation would settle border dispute with Jordan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 13,311 (Iraq) (2019); 562,312 (Palestinian Refugees) (2020)<br>
+_refugees (country of origin)_: 12,399 (Iraq) (2020); 568,730 (Palestinian Refugees) (2020)<br>
 _IDPs_: 6.568 million (ongoing civil war since 2011) (2020)<br>
 _stateless persons_: 160,000 (2020); note - Syria's stateless population consists of Kurds and Palestinians; stateless persons are prevented from voting, owning land, holding certain jobs, receiving food subsidies or public healthcare, enrolling in public schools, or being legally married to Syrian citizens; in 1962, some 120,000 Syrian Kurds were stripped of their Syrian citizenship, rendering them and their descendants stateless; in 2011, the Syrian Government granted citizenship to thousands of Syrian Kurds as a means of appeasement; however, resolving the question of statelessness is not a priority given Syria's ongoing civil war<br>
 <strong>note:</strong> the ongoing civil war has resulted in more than 5.6 million registered Syrian refugees - dispersed in Egypt, Iraq, Jordan, Lebanon, and Turkey - as of July 2021<br>

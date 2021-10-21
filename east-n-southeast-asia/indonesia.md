@@ -245,14 +245,6 @@ _particulate matter emissions_: 15.58 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 563.32 megatons (2016 est.)<br>
 _methane emissions_: 244.5 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 23.8 billion cubic meters (2017 est.)<br>
-_industrial_: 9.135 billion cubic meters (2017 est.)<br>
-_agricultural_: 189.7 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-2,018,700,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; more moderate in highlands<br>
 
@@ -264,15 +256,15 @@ _agricultural land: permanent pasture_: permanent pasture: 6.1% (2018 est.)<br>
 _forest_: 51.7% (2018 est.)<br>
 _other_: 17.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 57.3% of total population (2021)<br>
+_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.39% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 1.06% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 57.3% of total population (2021)<br>
-_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -284,6 +276,14 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 23.8 billion cubic meters (2017 est.)<br>
+_industrial_: 9.135 billion cubic meters (2017 est.)<br>
+_agricultural_: 189.7 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+2,018,700,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -393,9 +393,9 @@ _lyrics/music_: Wage Rudolf SOEPRATMAN<br>
 <p>Indonesia, the largest economy in Southeast Asia, has seen a slowdown in growth since 2012, mostly due to the end of the commodities export boom. During the global financial crisis, Indonesia outperformed its regional neighbors and joined China and India as the only G20 members posting growth. Indonesia’s annual budget deficit is capped at 3% of GDP, and the Government of Indonesia lowered its debt-to-GDP ratio from a peak of 100% shortly after the Asian financial crisis in 1999 to 34% today. In May 2017 Standard &amp; Poor’s became the last major ratings agency to upgrade Indonesia’s sovereign credit rating to investment grade.</p><p></p><p>Poverty and unemployment, inadequate infrastructure, corruption, a complex regulatory environment, and unequal resource distribution among its regions are still part of Indonesia’s economic landscape. President Joko WIDODO - elected in July 2014 – seeks to develop Indonesia’s maritime resources and pursue other infrastructure development, including significantly increasing its electrical power generation capacity. Fuel subsidies were significantly reduced in early 2015, a move which has helped the government redirect its spending to development priorities. Indonesia, with the nine other ASEAN members, will continue to move towards participation in the ASEAN Economic Community, though full implementation of economic integration has not yet materialized.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$3,196,682,000,000 (2019 est.)<br>
-$3,043,743,000,000 (2018 est.)<br>
-$2,894,125,000,000 (2017 est.)<br>
+$3,130,470,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$3,196,620,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$3,043,880,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -404,9 +404,9 @@ $2,894,125,000,000 (2017 est.)<br>
 5.07% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$11,812 (2019 est.)<br>
-$11,372 (2018 est.)<br>
-$10,936 (2017 est.)<br>
+$11,400 note: data are in 2017 dollars (2020 est.)<br>
+$11,800 note: data are in 2017 dollars (2019 est.)<br>
+$11,400 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -489,9 +489,9 @@ calendar year<br>
 -$30.633 billion (2018 est.)<br>
 
 **Exports**<br>
-$249.628 billion (2019 est.)<br>
-$251.827 billion (2018 est.)<br>
-$236.354 billion (2017 est.)<br>
+$178.26 billion note: data are in current year dollars (2020 est.)<br>
+$200.1 billion note: data are in current year dollars (2019 est.)<br>
+$211.93 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (2019)<br>
@@ -500,9 +500,9 @@ China 15%, United States 10%, Japan 9%, Singapore 8%, India 7%, Malaysia 5% (201
 coal, palm oil, natural gas, cars, gold (2019)<br>
 
 **Imports**<br>
-$223.44 billion (2019 est.)<br>
-$242.046 billion (2018 est.)<br>
-$216.342 billion (2017 est.)<br>
+$159.64 billion note: data are in current year dollars (2020 est.)<br>
+$204.23 billion note: data are in current year dollars (2019 est.)<br>
+$218.65 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 27%, Singapore 12%, Japan 8%, Thailand 5%, United States 5%, South Korea 5%, Malaysia 5% (2019)<br>
@@ -705,7 +705,7 @@ the<strong> </strong>Indonesian National Armed Forces have<strong> </strong>appr
 the Indonesian military inventory is comprised of equipment from a wide variety of sources; since 2010, the top suppliers are China, Germany, the Netherlands, Russia, South Korea, the UK, and the US; Indonesia has a growing defense industry fueled by technology transfers and cooperation agreements with several countries; in 2019, the Indonesian Government publicly said that growing its domestic defense industry is a national priority over the next 5-10 years (2020)<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA); 1,025 Democratic Republic of the Congo (MONUSCO); 1,250 Lebanon (UNIFIL) (Jan 2021)<br>
+200 Central African Republic (MINUSCA); 1,000 Democratic Republic of the Congo (MONUSCO); 1,250 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks increased slightly from 25 incidents in 2019 to 26 in 2020 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with two crew taken hostage and two threatened in 2020; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
@@ -714,7 +714,7 @@ the International Maritime Bureau continues to report the territorial and offsho
 18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only (2019)<br>
 
 **Military - note**<br>
-Indonesian military and police forces are engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969<br><br>in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands province, and held military exercises in surrounding waters<br>
+as of 2021, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969<br><br>in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands province, and held military exercises in surrounding waters<br>
 
 ## Terrorism
 
@@ -728,7 +728,7 @@ Islamic State of Iraq and ash-Sham (aka Jemaah Anshorut Daulah); Jemaah Islamiya
 <p>Indonesia has a stated foreign policy objective of establishing stable fixed land and maritime boundaries with all of its neighbors; three stretches of land borders with Timor-Leste have yet to be delimited, two of which are in the Oecussi exclave area, and no maritime or Exclusive Economic Zone (EEZ) boundaries have been established between the countries; all borders between Indonesia and Australia have been agreed upon bilaterally, but a 1997 treaty that would settle the last of their maritime and EEZ boundary has yet to be ratified by Indonesia's legislature; Indonesian groups challenge Australia's claim to Ashmore Reef; Australia has closed parts of the Ashmore and Cartier Reserve to Indonesian traditional fishing and placed restrictions on certain catches; land and maritime negotiations with Malaysia are ongoing, and disputed areas include the controversial Tanjung Datu and Camar Wulan border area in Borneo and the maritime boundary in the Ambalat oil block in the Celebes Sea; Indonesia and Singapore continue to work on finalizing their 1973 maritime boundary agreement by defining unresolved areas north of Indonesia's Batam Island; Indonesian secessionists, squatters, and illegal migrants create repatriation problems for Papua New Guinea; maritime delimitation talks continue with Palau; EEZ negotiations with Vietnam are ongoing, and the two countries in Fall 2011 agreed to work together to reduce illegal fishing along their maritime boundary</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,866 (Afghanistan) (2019)<br>
+_refugees (country of origin)_: 5,863 (Afghanistan) (2020)<br>
 _IDPs_: 40,000 (inter-communal, inter-faith, and separatist violence between 1998 and 2004 in Aceh and Papua; religious attacks and land conflicts in 2007 and 2013; most IDPs in Aceh, Maluku, East Nusa Tengarra) (2020)<br>
 _stateless persons_: 874 (2020)<br>
 

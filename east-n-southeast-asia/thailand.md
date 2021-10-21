@@ -63,6 +63,9 @@ _other_: 21.6% (2018 est.)<br>
 **Irrigated land**<br>
 64,150 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
 
@@ -71,9 +74,6 @@ land subsidence in Bangkok area resulting from the depletion of the water table;
 
 **Geography - note**<br>
 controls only land route from Asia to Malaysia and Singapore; ideas for the construction of a canal across the Kra Isthmus that would create a bypass to the Strait of Malacca and shorten shipping times around Asia continue to be discussed<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 ## People and Society
 
@@ -247,14 +247,6 @@ _particulate matter emissions_: 26.23 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 283.76 megatons (2016 est.)<br>
 _methane emissions_: 86.98 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.739 billion cubic meters (2017 est.)<br>
-_industrial_: 2.777 billion cubic meters (2017 est.)<br>
-_agricultural_: 51.79 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-438.61 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; rainy, warm, cloudy southwest monsoon (mid-May to September); dry, cool northeast monsoon (November to mid-March); southern isthmus always hot and humid<br>
 
@@ -266,15 +258,15 @@ _agricultural land: permanent pasture_: permanent pasture: 1.6% (2018 est.)<br>
 _forest_: 37.2% (2018 est.)<br>
 _other_: 21.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 52.2% of total population (2021)<br>
+_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.03% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 52.2% of total population (2021)<br>
-_rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -288,6 +280,14 @@ _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.739 billion cubic meters (2017 est.)<br>
+_industrial_: 2.777 billion cubic meters (2017 est.)<br>
+_agricultural_: 51.79 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+438.61 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -395,9 +395,9 @@ _lyrics/music_: Luang SARANUPRAPAN/Phra JENDURIYANG<br>
 <p>With a relatively well-developed infrastructure, a free-enterprise economy, and generally pro-investment policies, Thailand is highly dependent on international trade, with exports accounting for about two thirds of GDP. Thailand’s exports include electronics, agricultural commodities, automobiles and parts, and processed foods. The industry and service sectors produce about 90% of GDP. The agricultural sector, comprised mostly of small-scale farms, contributes only 10% of GDP but employs about one third of the labor force. Thailand has attracted an estimated 3.0-4.5 million migrant workers, mostly from neighboring countries.</p> <p>Over the last few decades, Thailand has reduced poverty substantially. In 2013, the Thai Government implemented a nationwide 300 baht (roughly $10) per day minimum wage policy and deployed new tax reforms designed to lower rates on middle-income earners.</p> <p>Thailand’s economy is recovering from slow growth during the years since the 2014 coup. Thailand’s economic fundamentals are sound, with low inflation, low unemployment, and reasonable public and external debt levels. Tourism and government spending - mostly on infrastructure and short-term stimulus measures – have helped to boost the economy, and The Bank of Thailand has been supportive, with several interest rate reductions.</p> <p>Over the longer-term, household debt levels, political uncertainty, and an aging population pose risks to growth.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,285,287,000,000 (2019 est.)<br>
-$1,255,719,000,000 (2018 est.)<br>
-$1,205,674,000,000 (2017 est.)<br>
+$1,206,620,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,284,830,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1,256,360,000,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -406,9 +406,9 @@ $1,205,674,000,000 (2017 est.)<br>
 4.26% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$18,460 (2019 est.)<br>
-$18,087 (2018 est.)<br>
-$17,421 (2017 est.)<br>
+$17,300 note: data are in 2017 dollars (2020 est.)<br>
+$18,500 note: data are in 2017 dollars (2019 est.)<br>
+$18,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -492,9 +492,9 @@ $37.033 billion (2019 est.)<br>
 $28.423 billion (2018 est.)<br>
 
 **Exports**<br>
-$291.169 billion (2019 est.)<br>
-$298.968 billion (2018 est.)<br>
-$289.239 billion (2017 est.)<br>
+$258.42 billion note: data are in current year dollars (2020 est.)<br>
+$323.88 billion note: data are in current year dollars (2019 est.)<br>
+$328.58 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
@@ -503,9 +503,9 @@ United States 13%, China 12%, Japan 10%, Vietnam 5% (2019)<br>
 office machinery/parts, cars and vehicle parts, integrated circuits, delivery trucks, gold (2019)<br>
 
 **Imports**<br>
-$257.873 billion (2019 est.)<br>
-$269.455 billion (2018 est.)<br>
-$248.698 billion (2017 est.)<br>
+$233.75 billion note: data are in current year dollars (2020 est.)<br>
+$272.83 billion note: data are in current year dollars (2019 est.)<br>
+$283.66 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 22%, Japan 14%, United States 7%, Malaysia 6% (2019)<br>
@@ -719,7 +719,7 @@ including the most recent in 2014, the military has attempted nearly 20 coups si
 <p>separatist violence in Thailand's predominantly Malay-Muslim southern provinces prompt border closures and controls with Malaysia to stem insurgent activities; Southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Laos but disputes remain over several islands in the Mekong River; despite continuing border committee talks, Thailand must deal with Karen and other ethnic rebels, refugees, and illegal cross-border activities; Cambodia and Thailand dispute sections of boundary; in 2011, Thailand and Cambodia resorted to arms in the dispute over the location of the boundary on the precipice surmounted by Preah Vihear temple ruins, awarded to Cambodia by ICJ decision in 1962 and part of a planned UN World Heritage site; Thailand is studying the feasibility of jointly constructing the Hatgyi Dam on the Salween river near the border with Burma; in 2004, international environmentalist pressure prompted China to halt construction of 13 dams on the Salween River that flows through China, Burma, and Thailand; approximately 100,000 mostly Karen refugees fleeing civil strife, political upheaval and economic stagnation in Burma live in remote camps in Thailand near the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 91,806 (Burma) (2020)<br>
+_refugees (country of origin)_: 91,479 (Burma) (2021)<br>
 _IDPs_: 41,000<br>
 _stateless persons_: 480,695 (2020) (estimate represents stateless persons registered with the Thai Government; actual number may be as high as 3.5 million); note - about half of Thailand's northern hill tribe people do not have citizenship and make up the bulk of Thailand's stateless population; most lack documentation showing they or one of their parents were born in Thailand; children born to Burmese refugees are not eligible for Burmese or Thai citizenship and are stateless; most Chao Lay, maritime nomadic peoples, who travel from island to island in the Andaman Sea west of Thailand are also stateless; stateless Rohingya refugees from Burma are considered illegal migrants by Thai authorities and are detained in inhumane conditions or expelled; stateless persons are denied access to voting, property, education, employment, healthcare, and driving<br>
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)<br>

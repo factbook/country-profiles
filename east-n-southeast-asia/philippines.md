@@ -248,14 +248,6 @@ _particulate matter emissions_: 18.38 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 122.29 megatons (2016 est.)<br>
 _methane emissions_: 51.32 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 8.929 billion cubic meters (2017 est.)<br>
-_industrial_: 15.85 billion cubic meters (2017 est.)<br>
-_agricultural_: 67.97 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-479 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical marine; northeast monsoon (November to April); southwest monsoon (May to October)<br>
 
@@ -267,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 5% (2018 est.)<br>
 _forest_: 25.9% (2018 est.)<br>
 _other_: 33.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 47.7% of total population (2021)<br>
+_rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.18% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.07% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 47.7% of total population (2021)<br>
-_rate of urbanization_: 2.04% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -288,6 +280,14 @@ _water contact diseases_: leptospirosis<br>
 _municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4,096,938 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 8.929 billion cubic meters (2017 est.)<br>
+_industrial_: 15.85 billion cubic meters (2017 est.)<br>
+_agricultural_: 67.97 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+479 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -392,9 +392,9 @@ _lyrics/music_: Jose PALMA (revised by Felipe PADILLA de Leon)/Julian FELIPE<br>
 <p>The economy has been relatively resilient to global economic shocks due to less exposure to troubled international securities, lower dependence on exports, relatively resilient domestic consumption, large remittances from about 10 million overseas Filipino workers and migrants, and a rapidly expanding services industry. During 2017, the current account balance fell into the negative range, the first time since the 2008 global financial crisis, in part due to an ambitious new infrastructure spending program announced this year. However, international reserves remain at comfortable levels and the banking system is stable.</p><p></p><p>Efforts to improve tax administration and expenditures management have helped ease the Philippines' debt burden and tight fiscal situation. The Philippines received investment-grade credit ratings on its sovereign debt under the former AQUINO administration and has had little difficulty financing its budget deficits. However, weak absorptive capacity and implementation bottlenecks have prevented the government from maximizing its expenditure plans. Although it has improved, the low tax-to-GDP ratio remains a constraint to supporting increasingly higher spending levels and sustaining high and inclusive growth over the longer term.</p><p></p><p>Economic growth has accelerated, averaging over 6% per year from 2011 to 2017, compared with 4.5% under the MACAPAGAL-ARROYO government; and competitiveness rankings have improved. Although 2017 saw a new record year for net foreign direct investment inflows, FDI to the Philippines has continued to lag regional peers, in part because the Philippine constitution and other laws limit foreign investment and restrict foreign ownership in important activities/sectors - such as land ownership and public utilities.</p><p></p><p>Although the economy grew at a rapid pace under the AQUINO government, challenges to achieving more inclusive growth remain. Wealth is concentrated in the hands of the rich. The unemployment rate declined from 7.3% to 5.7% between 2010 and 2017; while there has been some improvement, underemployment remains high at around 17% to 18% of the employed population. At least 40% of the employed work in the informal sector. Poverty afflicts more than a fifth of the total population but is as high as 75% in some areas of the southern Philippines. More than 60% of the poor reside in rural areas, where the incidence of poverty (about 30%) is more severe - a challenge to raising rural farm and non-farm incomes. Continued efforts are needed to improve governance, the judicial system, the regulatory environment, the infrastructure, and the overall ease of doing business.</p><p></p><p>2016 saw the election of President Rodrigo DUTERTE, who has pledged to make inclusive growth and poverty reduction his top priority. DUTERTE believes that illegal drug use, crime and corruption are key barriers to economic development. The administration wants to reduce the poverty rate to 17% and graduate the economy to upper-middle income status by the end of President DUTERTE’s term in 2022. Key themes under the government’s Ten-Point Socioeconomic Agenda include continuity of macroeconomic policy, tax reform, higher investments in infrastructure and human capital development, and improving competitiveness and the overall ease of doing business. The administration sees infrastructure shortcomings as a key barrier to sustained economic growth and has pledged to spend $165 billion on infrastructure by 2022. Although the final outcome has yet to be seen, the current administration is shepherding legislation for a comprehensive tax reform program to raise revenues for its ambitious infrastructure spending plan and to promote a more equitable and efficient tax system. However, the need to finance rehabilitation and reconstruction efforts in the southern region of Mindanao following the 2017 Marawi City siege may compete with other spending on infrastructure.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$963.121 billion (2019 est.)<br>
-$908.257 billion (2018 est.)<br>
-$854.095 billion (2017 est.)<br>
+$871.56 billion note: data are in 2017 dollars (2020 est.)<br>
+$963.83 billion note: data are in 2017 dollars (2019 est.)<br>
+$908.26 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -403,9 +403,9 @@ $854.095 billion (2017 est.)<br>
 6.94% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$8,908 (2019 est.)<br>
-$8,516 (2018 est.)<br>
-$8,121 (2017 est.)<br>
+$8,000 note: data are in 2017 dollars (2020 est.)<br>
+$8,900 note: data are in 2017 dollars (2019 est.)<br>
+$8,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -488,9 +488,9 @@ calendar year<br>
 -$8.877 billion (2018 est.)<br>
 
 **Exports**<br>
-$131.193 billion (2019 est.)<br>
-$128.138 billion (2018 est.)<br>
-$114.597 billion (2017 est.)<br>
+$78.82 billion note: data are in current year dollars (2020 est.)<br>
+$94.74 billion note: data are in current year dollars (2019 est.)<br>
+$90.37 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5% (2019)<br>
@@ -499,9 +499,9 @@ China 16%, United States 15%, Japan 13%, Hong Kong 12%, Singapore 7%, Germany 5%
 integrated circuits, office machinery/parts, insulated wiring, semiconductors, transformers (2019)<br>
 
 **Imports**<br>
-$158.307 billion (2019 est.)<br>
-$155.441 billion (2018 est.)<br>
-$135.585 billion (2017 est.)<br>
+$97.58 billion note: data are in current year dollars (2020 est.)<br>
+$131.01 billion note: data are in current year dollars (2019 est.)<br>
+$129.74 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 29%, Japan 8%, South Korea 7%, United States 6%, Singapore 6%, Indonesia 6%, Thailand 5%, Taiwan 5% (2019)<br>

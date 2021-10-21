@@ -62,6 +62,9 @@ _other_: 21.4% (2018 est.)<br>
 **Irrigated land**<br>
 24 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
 
@@ -70,9 +73,6 @@ destructive earthquakes<br>
 
 **Geography - note**<br>
 strategic location along the Adriatic coast<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -244,11 +244,6 @@ _particulate matter emissions_: 20.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.02 megatons (2016 est.)<br>
 _methane emissions_: 0.75 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 96.4 million cubic meters (2017 est.)<br>
-_industrial_: 62.8 million cubic meters (2017 est.)<br>
-_agricultural_: 1.7 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 Mediterranean climate, hot dry summers and autumns and relatively cold winters with heavy snowfalls inland<br>
 
@@ -260,15 +255,15 @@ _agricultural land: permanent pasture_: permanent pasture: 24.1% (2018 est.)<br>
 _forest_: 40.4% (2018 est.)<br>
 _other_: 21.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 67.8% of total population (2021)<br>
+_rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.43% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.12% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 67.8% of total population (2021)<br>
-_rate of urbanization_: 0.45% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -282,6 +277,11 @@ _percent of municipal solid waste recycled_: 5.4% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 96.4 million cubic meters (2017 est.)<br>
+_industrial_: 62.8 million cubic meters (2017 est.)<br>
+_agricultural_: 1.7 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -387,9 +387,9 @@ _lyrics/music_: Sekula DRLJEVIC/unknown, arranged by Zarko MIKOVIC<br>
 <p>Montenegro's economy is transitioning to a market system. Around 90% of Montenegrin state-owned companies have been privatized, including 100% of banking, telecommunications, and oil distribution. Tourism, which accounts for more than 20% of Montenegro’s GDP, brings in three times as many visitors as Montenegro’s total population every year. Several new luxury tourism complexes are in various stages of development along the coast, and a number are being offered in connection with nearby boating and yachting facilities. In addition to tourism, energy and agriculture are considered two distinct pillars of the economy. Only 20% of Montenegro’s hydropower potential is utilized. Montenegro plans to become a net energy exporter, and the construction of an underwater cable to Italy, which will be completed by the end of 2018, will help meet its goal.</p><p></p><p>Montenegro uses the euro as its domestic currency, though it is not an official member of the euro zone. In January 2007, Montenegro joined the World Bank and IMF, and in December 2011, the WTO. Montenegro began negotiations to join the EU in 2012, having met the conditions set down by the European Council, which called on Montenegro to take steps to fight corruption and organized crime.</p><p></p><p>The government recognizes the need to remove impediments in order to remain competitive and open the economy to foreign investors. Net foreign direct investment in 2017 reached $848 million and investment per capita is one of the highest in Europe, due to a low corporate tax rate. The biggest foreign investors in Montenegro in 2017 were Norway, Russia, Italy, Azerbaijan and Hungary.</p><p></p><p>Montenegro is currently planning major overhauls of its road and rail networks, and possible expansions of its air transportation system. In 2014, the Government of Montenegro selected two Chinese companies to construct a 41 km-long section of the country’s highway system, which will become part of China’s Belt and Road Initiative. Cheaper borrowing costs have stimulated Montenegro’s growing debt, which currently sits at 65.9% of GDP, with a forecast, absent fiscal consolidation, to increase to 80% once the repayment to China’s Ex/Im Bank of a €800 million highway loan begins in 2019. Montenegro first instituted a value-added tax (VAT) in April 2003, and introduced differentiated VAT rates of 17% and 7% (for tourism) in January 2006. The Montenegrin Government increased the non-tourism Value Added Tax (VAT) rate to 21% as of January 2018, with the goal of reducing its public debt.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$13.357 billion (2019 est.)<br>
-$12.835 billion (2018 est.)<br>
-$12.215 billion (2017 est.)<br>
+$11.36 billion note: data are in 2017 dollars (2020 est.)<br>
+$13.39 billion note: data are in 2017 dollars (2019 est.)<br>
+$12.87 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -398,9 +398,9 @@ $12.215 billion (2017 est.)<br>
 3.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$21,470 (2019 est.)<br>
-$20,629 (2018 est.)<br>
-$19,627 (2017 est.)<br>
+$18,300 note: data are in 2017 dollars (2020 est.)<br>
+$21,500 note: data are in 2017 dollars (2019 est.)<br>
+$20,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -483,8 +483,9 @@ calendar year<br>
 -$710 million (2016 est.)<br>
 
 **Exports**<br>
-$422.2 million (2017 est.)<br>
-$362 million (2016 est.)<br>
+$1.24 billion note: data are in current year dollars (2020 est.)<br>
+$2.42 billion note: data are in current year dollars (2019 est.)<br>
+$2.35 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, Germany 6%, Italy 5%, Poland 5% (2019)<br>
@@ -493,8 +494,9 @@ Serbia 17%, Hungary 15%, China 11%, Russia 7%, Bosnia and Herzegovina 6%, German
 aluminum, packaged medicines, cars, zinc, wine (2019)<br>
 
 **Imports**<br>
-$2.618 billion (2017 est.)<br>
-$2.29 billion (2016 est.)<br>
+$2.9 billion note: data are in current year dollars (2020 est.)<br>
+$3.59 billion note: data are in current year dollars (2019 est.)<br>
+$3.67 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Serbia 30%, Bosnia and Herzegovina 8%, Croatia 8%, Italy 6%, Greece 6%, Germany 5% (2019)<br>
@@ -692,5 +694,5 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 20,220 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 20,290 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 

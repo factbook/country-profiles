@@ -62,6 +62,9 @@ _other_: 27.7% (2018 est.)<br>
 **Irrigated land**<br>
 70 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Volta (410,991 sq km)<br>
+
 **Population distribution**<br>
 one of the more densely populated African nations with most of the population residing in rural communities, density is highest in the south on or near the Atlantic coast as shown in this population distribution map<br>
 
@@ -247,14 +250,6 @@ _particulate matter emissions_: 32.71 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 3 megatons (2016 est.)<br>
 _methane emissions_: 3.06 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 140.7 million cubic meters (2017 est.)<br>
-_industrial_: 6.3 million cubic meters (2017 est.)<br>
-_agricultural_: 76 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-14.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid in south; semiarid in north<br>
 
@@ -266,15 +261,15 @@ _agricultural land: permanent pasture_: permanent pasture: 18.4% (2018 est.)<br>
 _forest_: 4.9% (2018 est.)<br>
 _other_: 27.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 43.4% of total population (2021)<br>
+_rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 3.96% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 43.4% of total population (2021)<br>
-_rate of urbanization_: 3.6% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -288,6 +283,17 @@ _respiratory diseases_: meningococcal meningitis<br>
 _municipal solid waste generated annually_: 1,109,030 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 22,181 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2012 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Volta (410,991 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 140.7 million cubic meters (2017 est.)<br>
+_industrial_: 6.3 million cubic meters (2017 est.)<br>
+_agricultural_: 76 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+14.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -392,9 +398,9 @@ _lyrics/music_: Alex CASIMIR-DOSSEH<br>
 <p>Togo has enjoyed a period of steady economic growth fueled by political stability and a concerted effort by the government to modernize the country’s commercial infrastructure, but discontent with President Faure GNASSINGBE has led to a rapid rise in protests, creating downside risks. The country completed an ambitious large-scale infrastructure improvement program, including new principal roads, a new airport terminal, and a new seaport. The economy depends heavily on both commercial and subsistence agriculture, providing employment for around 60% of the labor force. Some basic foodstuffs must still be imported. Cocoa, coffee, and cotton and other agricultural products generate about 20% of export earnings with cotton being the most important cash crop. Togo is among the world's largest producers of phosphate and seeks to develop its carbonate phosphate reserves, which provide more than 20% of export earnings.</p><p></p><p>Supported by the World Bank and the IMF, the government's decade-long effort to implement economic reform measures, encourage foreign investment, and bring revenues in line with expenditures has moved slowly. Togo completed its IMF Extended Credit Facility in 2011 and reached a Heavily Indebted Poor Country debt relief completion point in 2010 at which 95% of the country's debt was forgiven. Togo continues to work with the IMF on structural reforms, and in January 2017, the IMF signed an Extended Credit Facility arrangement consisting of a three-year $238 million loan package. Progress depends on follow through on privatization, increased transparency in government financial operations, progress toward legislative elections, and continued support from foreign donors.</p><p></p><p>Togo’s 2017 economic growth probably remained steady at 5.0%, largely driven by infusions of foreign aid, infrastructure investment in its port and mineral industry, and improvements in the business climate. Foreign direct investment inflows have slowed in recent years.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$12.904 billion (2019 est.)<br>
-$12.25 billion (2018 est.)<br>
-$11.674 billion (2017 est.)<br>
+$17.45 billion note: data are in 2017 dollars (2020 est.)<br>
+$17.15 billion note: data are in 2017 dollars (2019 est.)<br>
+$16.26 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -403,9 +409,9 @@ $11.674 billion (2017 est.)<br>
 5.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$1,597 (2019 est.)<br>
-$1,553 (2018 est.)<br>
-$1,517 (2017 est.)<br>
+$2,100 note: data are in 2017 dollars (2020 est.)<br>
+$2,100 note: data are in 2017 dollars (2019 est.)<br>
+$2,100 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -485,8 +491,8 @@ calendar year<br>
 -$416 million (2016 est.)<br>
 
 **Exports**<br>
-$1.862 billion (2018 est.)<br>
-$1.881 billion (2017 est.)<br>
+$1.67 billion note: data are in current year dollars (2019 est.)<br>
+$1.7 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
@@ -495,8 +501,8 @@ India 16%, Benin 15%, Burkina Faso 6%, France 6%, Morocco 5% (2019)<br>
 refined petroleum, crude petroleum, electricity, calcium phosphates, cotton (2019)<br>
 
 **Imports**<br>
-$2.911 billion (2018 est.)<br>
-$2.789 billion (2017 est.)<br>
+$2.26 billion note: data are in current year dollars (2019 est.)<br>
+$2.33 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 18%, South Korea 13%, India 11%, Belgium 10%, Netherlands 8%, United States 5% (2019)<br>

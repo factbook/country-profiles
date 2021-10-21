@@ -63,6 +63,9 @@ _other_: 19% (2018 est.)<br>
 **Irrigated land**<br>
 1,840 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
 
@@ -71,9 +74,6 @@ the largest and most populous East African country; population distribution is e
 
 **Geography - note**<br>
 Kilimanjaro is the highest point in Africa and one of only three mountain ranges on the continent that has glaciers (the others are Mount Kenya [in Kenya] and the Ruwenzori Mountains [on the Uganda-Democratic Republic of the Congo border]); Tanzania is bordered by three of the largest lakes on the continent: Lake Victoria (the world's second-largest freshwater lake) in the north, Lake Tanganyika (the world's second deepest) in the west, and Lake Nyasa (Lake Malawi) in the southwest<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 25.59 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 11.97 megatons (2016 est.)<br>
 _methane emissions_: 59.08 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 527 million cubic meters (2017 est.)<br>
-_industrial_: 25 million cubic meters (2017 est.)<br>
-_agricultural_: 4.632 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-96.27 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical along coast to temperate in highlands<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 27.1% (2018 est.)<br>
 _forest_: 37.3% (2018 est.)<br>
 _other_: 19% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 36% of total population (2021)<br>
+_rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.19% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.02% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 36% of total population (2021)<br>
-_rate of urbanization_: 4.89% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -295,6 +287,14 @@ _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 527 million cubic meters (2017 est.)<br>
+_industrial_: 25 million cubic meters (2017 est.)<br>
+_agricultural_: 4.632 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+96.27 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -400,9 +400,9 @@ _lyrics/music_: collective/Enoch Mankayi SONTONGA<br>
 <p>Tanzania has achieved high growth rates based on its vast natural resource wealth and tourism with GDP growth in 2009-17 averaging 6%-7% per year. Dar es Salaam used fiscal stimulus measures and easier monetary policies to lessen the impact of the global recession and in general, benefited from low oil prices. Tanzania has largely completed its transition to a market economy, though the government retains a presence in sectors such as telecommunications, banking, energy, and mining.</p><p></p><p>The economy depends on agriculture, which accounts for slightly less than one-quarter of GDP and employs about 65% of the work force, although gold production in recent years has increased to about 35% of exports. All land in Tanzania is owned by the government, which can lease land for up to 99 years. Proposed reforms to allow for land ownership, particularly foreign land ownership, remain unpopular.</p><p></p><p>The financial sector in Tanzania has expanded in recent years and foreign-owned banks account for about 48% of the banking industry's total assets. Competition among foreign commercial banks has resulted in significant improvements in the efficiency and quality of financial services, though interest rates are still relatively high, reflecting high fraud risk. Banking reforms have helped increase private-sector growth and investment.</p><p></p><p>The World Bank, the IMF, and bilateral donors have provided funds to rehabilitate Tanzania's aging infrastructure, including rail and port, which provide important trade links for inland countries. In 2013, Tanzania completed the world's largest Millennium Challenge Compact (MCC) grant, worth $698 million, but in late 2015, the MCC Board of Directors deferred a decision to renew Tanzania’s eligibility because of irregularities in voting in Zanzibar and concerns over the government's use of a controversial cybercrime bill.</p><p></p><p>The new government elected in 2015 has developed an ambitious development agenda focused on creating a better business environment through improved infrastructure, access to financing, and education progress, but implementing budgets remains challenging for the government. Recent policy moves by President MAGUFULI are aimed at protecting domestic industry and have caused concern among foreign investors.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$149.785 billion (2019 est.)<br>
-$141.585 billion (2018 est.)<br>
-$134.274 billion (2017 est.)<br>
+$152.79 billion note: data are in 2017 dollars (2020 est.)<br>
+$149.79 billion note: data are in 2017 dollars (2019 est.)<br>
+$141.59 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -411,9 +411,9 @@ $134.274 billion (2017 est.)<br>
 6.78% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$2,660 (2019 est.)<br>
-$2,590 (2018 est.)<br>
-$2,530 (2017 est.)<br>
+$2,600 note: data are in 2017 dollars (2020 est.)<br>
+$2,700 note: data are in 2017 dollars (2019 est.)<br>
+$2,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -493,8 +493,8 @@ _expenditures_: 8.818 billion (2017 est.)<br>
 -$1.898 billion (2018 est.)<br>
 
 **Exports**<br>
-$7.827 billion (2017 est.)<br>
-$5.697 billion (2016 est.)<br>
+$9.66 billion note: data are in current year dollars (2019 est.)<br>
+$8.46 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 5%, Vietnam 5% (2019)<br>
@@ -503,8 +503,8 @@ India 20%, United Arab Emirates 13%, China 8%, Switzerland 7%, Rwanda 6%, Kenya 
 gold, tobacco, cashews, sesame seeds, refined petroleum (2019)<br>
 
 **Imports**<br>
-$9.972 billion (2017 est.)<br>
-$8.464 billion (2016 est.)<br>
+$10.36 billion note: data are in current year dollars (2019 est.)<br>
+$10.2 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 34%, India 15%, United Arab Emirates 12% (2019)<br>

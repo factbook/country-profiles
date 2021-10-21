@@ -64,6 +64,9 @@ _other_: 2.6% (2018 est.)<br>
 **Irrigated land**<br>
 2,380 sq km (2012)<br>
 
+**Major aquifers**<br>
+Guarani Aquifer System<br>
+
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
 
@@ -72,9 +75,6 @@ seasonally high winds (the pampero is a chilly and occasional violent wind that 
 
 **Geography - note**<br>
 second-smallest South American country (after Suriname); most of the low-lying landscape (three-quarters of the country) is grassland, ideal for cattle and sheep raising<br>
-
-**Major aquifers**<br>
-Guarani Aquifer System<br>
 
 ## People and Society
 
@@ -241,14 +241,6 @@ _particulate matter emissions_: 8.63 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 6.77 megatons (2016 est.)<br>
 _methane emissions_: 25.59 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 410 million cubic meters (2017 est.)<br>
-_industrial_: 80 million cubic meters (2017 est.)<br>
-_agricultural_: 3.17 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-172.2 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 warm temperate; freezing temperatures almost unknown<br>
 
@@ -260,15 +252,15 @@ _agricultural land: permanent pasture_: permanent pasture: 76.9% (2018 est.)<br>
 _forest_: 10.2% (2018 est.)<br>
 _other_: 2.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 95.6% of total population (2021)<br>
+_rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 1.56% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 95.6% of total population (2021)<br>
-_rate of urbanization_: 0.4% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
@@ -277,6 +269,14 @@ _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 410 million cubic meters (2017 est.)<br>
+_industrial_: 80 million cubic meters (2017 est.)<br>
+_agricultural_: 3.17 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+172.2 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -382,9 +382,9 @@ _lyrics/music_: Francisco Esteban ACUNA de Figueroa/Francisco Jose DEBALI<br>
 <p>Uruguay has a free market economy characterized by an export-oriented agricultural sector, a well-educated workforce, and high levels of social spending. Uruguay has sought to expand trade within the Common Market of the South (Mercosur) and with non-Mercosur members, and President VAZQUEZ has maintained his predecessor's mix of pro-market policies and a strong social safety net. <br><br></p> Following financial difficulties in the late 1990s and early 2000s, Uruguay's economic growth averaged 8% annually during the 2004-08 period. The 2008-09 global financial crisis put a brake on Uruguay's vigorous growth, which decelerated to 2.6% in 2009. Nevertheless, the country avoided a recession and kept growth rates positive, mainly through higher public expenditure and investment; GDP growth reached 8.9% in 2010 but slowed markedly in the 2012-16 period as a result of a renewed slowdown in the global economy and in Uruguay's main trade partners and Mercosur counterparts, Argentina and Brazil. Reforms in those countries should give Uruguay an economic boost. Growth picked up in 2017.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$74.638 billion (2019 est.)<br>
-$74.473 billion (2018 est.)<br>
-$73.285 billion (2017 est.)<br>
+$75.06 billion note: data are in 2017 dollars (2020 est.)<br>
+$79.73 billion note: data are in 2017 dollars (2019 est.)<br>
+$79.45 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -393,9 +393,9 @@ $73.285 billion (2017 est.)<br>
 0.4% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$21,561 (2019 est.)<br>
-$21,591 (2018 est.)<br>
-$21,325 (2017 est.)<br>
+$21,600 note: data are in 2017 dollars (2020 est.)<br>
+$23,000 note: data are in 2017 dollars (2019 est.)<br>
+$23,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -479,8 +479,9 @@ $879 million (2017 est.)<br>
 $410 million (2016 est.)<br>
 
 **Exports**<br>
-$11.41 billion (2017 est.)<br>
-$8.387 billion (2016 est.)<br>
+$13.55 billion note: data are in current year dollars (2020 est.)<br>
+$16.99 billion note: data are in current year dollars (2019 est.)<br>
+$17.04 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
@@ -489,8 +490,9 @@ China 29%, Brazil 12%, United States 5%, Netherlands 5%, Argentina 5% (2019)<br>
 sulfate wood pulp, beef, soybeans, concentrated milk, rice (2019)<br>
 
 **Imports**<br>
-$8.607 billion (2017 est.)<br>
-$8.463 billion (2016 est.)<br>
+$11.29 billion note: data are in current year dollars (2020 est.)<br>
+$13.31 billion note: data are in current year dollars (2019 est.)<br>
+$13.82 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Brazil 25%, China 15%, United States 11%, Argentina 11% (2019)<br>

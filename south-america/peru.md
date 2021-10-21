@@ -63,6 +63,12 @@ _other_: 28.2% (2018 est.)<br>
 **Irrigated land**<br>
 25,800 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
+
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
 
@@ -71,12 +77,6 @@ approximately one-third of the population resides along the desert coastal belt 
 
 **Geography - note**<br>
 <p><strong>note 1:</strong> shares control of Lago Titicaca, world's highest navigable lake, with Bolivia; a remote slope of Nevado Mismi, a 5,316 m peak, is the ultimate source of the Amazon River</p> <p><strong>note 2:</strong> Peru is one of the countries along the Ring of Fire, a belt of active volcanoes and earthquake epicenters bordering the Pacific Ocean; up to 90% of the world's earthquakes and some 75% of the world's volcanoes occur within the Ring of Fire<br><br><strong>note 3:</strong> on 19 February 1600, Mount Huaynaputina in the southern Peruvian Andes erupted in the largest volcanic explosion in South America in historical times; intermittent eruptions lasted until 5 March 1600 and pumped an estimated 16 to 32 million metric tons of particulates into the atmosphere reducing the amount of sunlight reaching the earth's surface and affecting weather worldwide; over the next two and a half years, millions died around the globe in famines from bitterly cold winters, cool summers, and the loss of crops and animals<br><br><strong>note 4:</strong> the southern regions of Peru and the extreme northwestern part of Bolivia are considered to be the place of origin for the common potato </p><br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
 
 ## People and Society
 
@@ -251,14 +251,6 @@ _particulate matter emissions_: 24.27 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 57.41 megatons (2016 est.)<br>
 _methane emissions_: 30.17 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 2.797 billion cubic meters (2017 est.)<br>
-_industrial_: 206.6 million cubic meters (2017 est.)<br>
-_agricultural_: 13.1 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-1,879,800,000,000 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies from tropical in east to dry desert in west; temperate to frigid in Andes<br>
 
@@ -270,15 +262,15 @@ _agricultural land: permanent pasture_: permanent pasture: 14.6% (2018 est.)<br>
 _forest_: 53% (2018 est.)<br>
 _other_: 28.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 78.3% of total population (2020)<br>
+_rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.12% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 78.3% of total population (2020)<br>
-_rate of urbanization_: 1.33% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -296,6 +288,14 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 
 **Major aquifers**<br>
 Amazon Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 2.797 billion cubic meters (2017 est.)<br>
+_industrial_: 206.6 million cubic meters (2017 est.)<br>
+_agricultural_: 13.1 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+1,879,800,000,000 cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -401,9 +401,9 @@ _lyrics/music_: Jose DE LA TORRE Ugarte/Jose Bernardo ALZEDO<br>
 <p>Peru's economy reflects its varied topography - an arid lowland coastal region, the central high sierra of the Andes, and the dense forest of the Amazon. A wide range of important mineral resources are found in the mountainous and coastal areas, and Peru's coastal waters provide excellent fishing grounds. Peru is the world's second largest producer of silver and copper.</p><p></p><p>The Peruvian economy grew by an average of 5.6% per year from 2009-13 with a stable exchange rate and low inflation. This growth was due partly to high international prices for Peru's metals and minerals exports, which account for 55% of the country's total exports. Growth slipped from 2014 to 2017, due to weaker world prices for these resources. Despite Peru's strong macroeconomic performance, dependence on minerals and metals exports and imported foodstuffs makes the economy vulnerable to fluctuations in world prices.</p><p></p><p>Peru's rapid expansion coupled with cash transfers and other programs have helped to reduce the national poverty rate by over 35 percentage points since 2004, but inequality persists and continued to pose a challenge for the Ollanta HUMALA administration, which championed a policy of social inclusion and a more equitable distribution of income. Poor infrastructure hinders the spread of growth to Peru's non-coastal areas. The HUMALA administration passed several economic stimulus packages in 2014 to bolster growth, including reforms to environmental regulations in order to spur investment in Peru’s lucrative mining sector, a move that was opposed by some environmental groups. However, in 2015, mining investment fell as global commodity prices remained low and social conflicts plagued the sector.</p><p></p><p>Peru's free trade policy continued under the HUMALA administration; since 2006, Peru has signed trade deals with the US, Canada, Singapore, China, Korea, Mexico, Japan, the EU, the European Free Trade Association, Chile, Thailand, Costa Rica, Panama, Venezuela, Honduras, concluded negotiations with Guatemala and the Trans-Pacific Partnership, and begun trade talks with El Salvador, India, and Turkey. Peru also has signed a trade pact with Chile, Colombia, and Mexico, called the Pacific Alliance, that seeks integration of services, capital, investment and movement of people. Since the US-Peru Trade Promotion Agreement entered into force in February 2009, total trade between Peru and the US has doubled. President Pedro Pablo KUCZYNSKI succeeded HUMALA in July 2016 and is focusing on economic reforms and free market policies aimed at boosting investment in Peru. Mining output increased significantly in 2016-17, which helped Peru attain one of the highest GDP growth rates in Latin America, and Peru should maintain strong growth in 2018. However, economic performance was depressed by delays in infrastructure mega-projects and the start of a corruption scandal associated with a Brazilian firm. Massive flooding in early 2017 also was a drag on growth, offset somewhat by additional public spending aimed at recovery efforts.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$417.69 billion (2019 est.)<br>
-$408.898 billion (2018 est.)<br>
-$393.259 billion (2017 est.)<br>
+$371.29 billion note: data are in 2017 dollars (2020 est.)<br>
+$417.88 billion note: data are in 2017 dollars (2019 est.)<br>
+$408.87 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -412,9 +412,9 @@ $393.259 billion (2017 est.)<br>
 2.48% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$12,848 (2019 est.)<br>
-$12,782 (2018 est.)<br>
-$12,507 (2017 est.)<br>
+$11,300 note: data are in 2017 dollars (2020 est.)<br>
+$12,900 note: data are in 2017 dollars (2019 est.)<br>
+$12,800 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -501,8 +501,8 @@ calendar year<br>
 -$3.821 billion (2018 est.)<br>
 
 **Exports**<br>
-$55.583 billion (2019 est.)<br>
-$55.129 billion (2018 est.)<br>
+$54.88 billion note: data are in current year dollars (2019 est.)<br>
+$55.84 billion note: data are in current year dollars (2018 est.)<br>
 $53.823 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -512,8 +512,8 @@ China 29%, United States 12%, Canada 5%, South Korea 5%, Switzerland 5% (2019)<b
 copper, gold, refined petroleum, zinc, fishmeal, tropical fruits, lead, iron, molybdenum (2019)<br>
 
 **Imports**<br>
-$48.211 billion (2019 est.)<br>
-$47.616 billion (2018 est.)<br>
+$51.38 billion note: data are in current year dollars (2019 est.)<br>
+$51.41 billion note: data are in current year dollars (2018 est.)<br>
 $46.15 billion (2017 est.)<br>
 
 **Imports - partners**<br>

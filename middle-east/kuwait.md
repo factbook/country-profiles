@@ -61,6 +61,12 @@ _other_: 91.1% (2018 est.)<br>
 **Irrigated land**<br>
 105 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 densest settlement is along the Persian Gulf, particularly in Kuwait City and on Bubiyan Island; significant population threads extend south and west along highways that radiate from the capital, particularly in the southern half of the country<br>
 
@@ -69,12 +75,6 @@ sudden cloudbursts are common from October to April and bring heavy rain, which 
 
 **Geography - note**<br>
 strategic location at head of Persian Gulf<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
-**Major aquifers**<br>
-Arabian Aquifer System<br>
 
 ## People and Society
 
@@ -230,14 +230,6 @@ _particulate matter emissions_: 57.17 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 98.73 megatons (2016 est.)<br>
 _methane emissions_: 6.21 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 448.3 million cubic meters (2017 est.)<br>
-_industrial_: 23.3 million cubic meters (2017 est.)<br>
-_agricultural_: 778.4 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-20 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 dry desert; intensely hot summers; short, cool winters<br>
 
@@ -249,15 +241,15 @@ _agricultural land: permanent pasture_: permanent pasture: 7.6% (2018 est.)<br>
 _forest_: 0.4% (2018 est.)<br>
 _other_: 91.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 100% of total population (2021)<br>
+_rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 100% of total population (2021)<br>
-_rate of urbanization_: 1.35% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.75 million tons (2010 est.)<br>
@@ -267,6 +259,14 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 448.3 million cubic meters (2017 est.)<br>
+_industrial_: 23.3 million cubic meters (2017 est.)<br>
+_agricultural_: 778.4 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+20 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -370,8 +370,8 @@ _lyrics/music_: Ahmad MUSHARI al-Adwani/Ibrahim Nasir al-SOULA<br>
 <p>Kuwait has a geographically small, but wealthy, relatively open economy with crude oil reserves of about 102 billion barrels - more than 6% of world reserves. Kuwaiti officials plan to increase production to 4 million barrels of oil equivalent per day by 2020. Petroleum accounts for over half of GDP, 92% of export revenues, and 90% of government income.</p><p></p><p>With world oil prices declining, Kuwait realized a budget deficit in 2015 for the first time more than a decade; in 2016, the deficit grew to 16.5% of GDP. Kuwaiti authorities announced cuts to fuel subsidies in August 2016, provoking outrage among the public and National Assembly, and the Amir dissolved the government for the seventh time in ten years. In 2017 the deficit was reduced to 7.2% of GDP, and the government raised $8 billion by issuing international bonds. Despite Kuwait’s dependence on oil, the government has cushioned itself against the impact of lower oil prices, by saving annually at least 10% of government revenue in the Fund for Future Generations.</p><p></p><p>Kuwait has failed to diversify its economy or bolster the private sector, because of a poor business climate, a large public sector that employs about 74% of citizens, and an acrimonious relationship between the National Assembly and the executive branch that has stymied most economic reforms. The Kuwaiti Government has made little progress on its long-term economic development plan first passed in 2010. While the government planned to spend up to $104 billion over four years to diversify the economy, attract more investment, and boost private sector participation in the economy, many of the projects did not materialize because of an uncertain political situation or delays in awarding contracts. To increase non-oil revenues, the Kuwaiti Government in August 2017 approved draft bills supporting a Gulf Cooperation Council-wide value added tax scheduled to take effect in 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$209.738 billion (2019 est.)<br>
-$208.845 billion (2018 est.)<br>
+$209.74 billion note: data are in 2017 dollars (2019 est.)<br>
+$208.85 billion note: data are in 2017 dollars (2018 est.)<br>
 $206.274 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -381,8 +381,8 @@ $206.274 billion (2017 est.)<br>
 -1% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$49,854 (2019 est.)<br>
-$50,479 (2018 est.)<br>
+$49,900 note: data are in 2017 dollars (2019 est.)<br>
+$50,500 note: data are in 2017 dollars (2018 est.)<br>
 $50,856 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -462,8 +462,8 @@ $7.127 billion (2017 est.)<br>
 -$5.056 billion (2016 est.)<br>
 
 **Exports**<br>
-$84.825 billion (2018 est.)<br>
-$89.098 billion (2017 est.)<br>
+$72.83 billion note: data are in current year dollars (2019 est.)<br>
+$85.2 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<br>
@@ -472,8 +472,8 @@ China 20%, South Korea 16%, India 15%, Japan 10%, Taiwan 6%, Vietnam 5% (2019)<b
 crude petroleum, refined petroleum, aircraft, natural gas, industrial hydrocarbon products (2019)<br>
 
 **Imports**<br>
-$54.556 billion (2018 est.)<br>
-$55.025 billion (2017 est.)<br>
+$59.65 billion note: data are in current year dollars (2019 est.)<br>
+$68.2 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 14%, United Arab Emirates 12%, United States 10%, Saudi Arabia 6%, Japan 6%, Germany 5%, India 5% (2019)<br>
@@ -661,7 +661,7 @@ the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army
 the inventory of the Kuwaiti Armed Forces consists of a range of European- and US-sourced weapons systems; the US is the leading supplier of arms to Kuwait since 2010 (2020)<br>
 
 **Military service age and obligation**<br>
-17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases &ndash; four months for training and eight months for military service (2018)<br>
+17-21 years of age for voluntary military service; Kuwait reintroduced one-year mandatory service for men aged 18-35 in May 2017 after having suspended conscription in 2001; service is divided in two phases &ndash; four months for training and eight months for military service (2019)<br>
 
 **Military - note**<br>
 Kuwait has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>

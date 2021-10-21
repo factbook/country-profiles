@@ -61,6 +61,9 @@ _other_: 88% (2018 est.)<br>
 **Irrigated land**<br>
 40 sq km (2012)<br>
 
+**Major aquifers**<br>
+Arabian Aquifer System<br>
+
 **Population distribution**<br>
 smallest population of the Gulf States, but urbanization rate exceeds 90%; largest settlement concentration is found on the far northern end of the island in and around Manamah and Al Muharraq<br>
 
@@ -69,9 +72,6 @@ periodic droughts; dust storms<br>
 
 **Geography - note**<br>
 close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean<br>
-
-**Major aquifers**<br>
-Arabian Aquifer System<br>
 
 ## People and Society
 
@@ -226,14 +226,6 @@ _particulate matter emissions_: 69.04 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 31.69 megatons (2016 est.)<br>
 _methane emissions_: 15.47 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 275.6 million cubic meters (2017 est.)<br>
-_industrial_: 14.1 million cubic meters (2017 est.)<br>
-_agricultural_: 144.7 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-116 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 arid; mild, pleasant winters; very hot, humid summers<br>
 
@@ -245,15 +237,15 @@ _agricultural land: permanent pasture_: permanent pasture: 5.3% (2018 est.)<br>
 _forest_: 0.7% (2018 est.)<br>
 _other_: 88% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 89.6% of total population (2021)<br>
+_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 89.6% of total population (2021)<br>
-_rate of urbanization_: 1.99% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 951,943 tons (2016 est.)<br>
@@ -262,6 +254,14 @@ _percent of municipal solid waste recycled_: 8% (2012 est.)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
+
+**Total water withdrawal**<br>
+_municipal_: 275.6 million cubic meters (2017 est.)<br>
+_industrial_: 14.1 million cubic meters (2017 est.)<br>
+_agricultural_: 144.7 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+116 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -368,9 +368,9 @@ _lyrics/music_: unknown<br>
 <p>Oil and natural gas play a dominant role in Bahrain’s economy. Despite the Government’s past efforts to diversify the economy, oil still comprises 85% of Bahraini budget revenues. In the last few years lower world energy prices have generated sizable budget deficits - about 10% of GDP in 2017 alone. Bahrain has few options for covering these deficits, with low foreign assets and fewer oil resources compared to its GCC neighbors. The three major US credit agencies downgraded Bahrain’s sovereign debt rating to "junk" status in 2016, citing persistently low oil prices and the government’s high debt levels. Nevertheless, Bahrain was able to raise about $4 billion by issuing foreign currency denominated debt in 2017.</p><p></p><p>Other major economic activities are production of aluminum - Bahrain's second biggest export after oil and gas –finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In April 2018 Bahrain announced it had found a significant oil field off the country’s west coast, but is still assessing how much of the oil can be extracted profitably.</p><p></p><p>In addition to addressing its current fiscal woes, Bahraini authorities face the long-term challenge of boosting Bahrain’s regional competitiveness — especially regarding industry, finance, and tourism — and reconciling revenue constraints with popular pressure to maintain generous state subsidies and a large public sector. Since 2015, the government lifted subsidies on meat, diesel, kerosene, and gasoline and has begun to phase in higher prices for electricity and water. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. It plans to introduce a Value Added Tax (VAT) by the end of 2018.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$73.87 billion (2019 est.)<br>
-$72.55 billion (2018 est.)<br>
-$71.282 billion (2017 est.)<br>
+$69.65 billion note: data are in 2017 dollars (2020 est.)<br>
+$73.95 billion note: data are in 2017 dollars (2019 est.)<br>
+$72.51 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -379,9 +379,9 @@ $71.282 billion (2017 est.)<br>
 3.85% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$45,011 (2019 est.)<br>
-$46,227 (2018 est.)<br>
-$47,710 (2017 est.)<br>
+$40,900 note: data are in 2017 dollars (2020 est.)<br>
+$45,100 note: data are in 2017 dollars (2019 est.)<br>
+$46,200 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -461,7 +461,7 @@ calendar year<br>
 -$1.493 billion (2016 est.)<br>
 
 **Exports**<br>
-$27.635 billion (2018 est.)<br>
+$30.1 billion note: data are in current year dollars (2018 est.)<br>
 $26.762 billion (2017 est.)<br>
 
 **Exports - partners**<br>
@@ -471,7 +471,7 @@ United Arab Emirates 31%, Saudi Arabia 12%, Japan 8%, United States 8% (2019)<br
 refined petroleum, aluminum and plating, crude petroleum, iron ore, gold (2019)<br>
 
 **Imports**<br>
-$23.399 billion (2018 est.)<br>
+$27.19 billion note: data are in current year dollars (2018 est.)<br>
 $22.132 billion (2017 est.)<br>
 
 **Imports - partners**<br>
@@ -578,7 +578,7 @@ _total subscriptions_: 1,900,361<br>
 _subscriptions per 100 inhabitants_: 128.95 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE (2021)</p> (2020)<br>
+_general assessment_: <p>Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE</p> (2021)<br>
 _domestic_: 17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2019)<br>
 _international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

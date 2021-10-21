@@ -236,14 +236,6 @@ _particulate matter emissions_: 13.25 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 8.23 megatons (2016 est.)<br>
 _methane emissions_: 1.08 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 140 million cubic meters (2017 est.)<br>
-_industrial_: 1.1 billion cubic meters (2017 est.)<br>
-_agricultural_: 114 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-10.823 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; hot, humid; temperate interior<br>
 
@@ -255,18 +247,26 @@ _agricultural land: permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
 _forest_: 31.1% (2018 est.)<br>
 _other_: 27.5% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 56.7% of total population (2021)<br>
+_rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.15% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 56.7% of total population (2021)<br>
-_rate of urbanization_: 0.79% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,051,695 tons (2016 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 140 million cubic meters (2017 est.)<br>
+_industrial_: 1.1 billion cubic meters (2017 est.)<br>
+_agricultural_: 114 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+10.823 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -369,9 +369,9 @@ _lyrics/music_: Hugh Braham SHERLOCK/Robert Charles LIGHTBOURNE<br>
 <p>The Jamaican economy is heavily dependent on services, which accounts for more than 70% of GDP. The country derives most of its foreign exchange from tourism, remittances, and bauxite/alumina. Earnings from remittances and tourism each account for 14% and 20% of GDP, while bauxite/alumina exports have declined to less than 5% of GDP.</p><p></p><p>Jamaica's economy has grown on average less than 1% a year for the last three decades and many impediments remain to growth: a bloated public sector which crowds out spending on important projects; high crime and corruption; red-tape; and a high debt-to-GDP ratio. Jamaica, however, has made steady progress in reducing its debt-to-GDP ratio from a high of almost 150% in 2012 to less than 110% in 2017, in close collaboration with the International Monetary Fund (IMF). The current IMF Stand-By Agreement requires Jamaica to produce an annual primary surplus of 7%, in an attempt to reduce its debt burden below 60% by 2025.</p><p></p><p>Economic growth reached 1.6% in 2016, but declined to 0.9% in 2017 after intense rainfall, demonstrating the vulnerability of the economy to weather-related events. The HOLNESS administration therefore faces the difficult prospect of maintaining fiscal discipline to reduce the debt load while simultaneously implementing growth inducing policies and attacking a serious crime problem. High unemployment exacerbates the crime problem, including gang violence fueled by advanced fee fraud (lottery scamming) and the drug trade.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$28.779 billion (2019 est.)<br>
-$28.579 billion (2018 est.)<br>
-$28.035 billion (2017 est.)<br>
+$25.89 billion note: data are in 2017 dollars (2020 est.)<br>
+$28.83 billion note: data are in 2017 dollars (2019 est.)<br>
+$28.57 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -380,9 +380,9 @@ $28.035 billion (2017 est.)<br>
 0.9% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$9,762 (2019 est.)<br>
-$9,738 (2018 est.)<br>
-$9,598 (2017 est.)<br>
+$8,700 note: data are in 2017 dollars (2020 est.)<br>
+$9,800 note: data are in 2017 dollars (2019 est.)<br>
+$9,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -465,8 +465,8 @@ _expenditures_: 4.314 billion (2017 est.)<br>
 -$288 million (2018 est.)<br>
 
 **Exports**<br>
-$5.114 billion (2018 est.)<br>
-$4.747 billion (2017 est.)<br>
+$5.92 billion note: data are in current year dollars (2019 est.)<br>
+$5.79 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
@@ -475,8 +475,8 @@ United States 32%, Netherlands 11%, Germany 9%, Canada 7%, Iceland 7% (2019)<br>
 bauxite, refined petroleum, aluminum, rum, fruits, nuts (2019)<br>
 
 **Imports**<br>
-$7.314 billion (2018 est.)<br>
-$6.924 billion (2017 est.)<br>
+$8.25 billion note: data are in current year dollars (2019 est.)<br>
+$7.89 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 43%, China 11% (2019)<br>

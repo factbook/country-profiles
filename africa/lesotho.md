@@ -61,6 +61,9 @@ _other_: 22.4% (2018 est.)<br>
 **Irrigated land**<br>
 30 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
 
@@ -238,14 +241,6 @@ _particulate matter emissions_: 27.78 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 2.51 megatons (2016 est.)<br>
 _methane emissions_: 2.56 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 20 million cubic meters (2017 est.)<br>
-_industrial_: 20 million cubic meters (2017 est.)<br>
-_agricultural_: 3.8 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-3.022 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; cool to cold, dry winters; hot, wet summers<br>
 
@@ -257,15 +252,15 @@ _agricultural land: permanent pasture_: permanent pasture: 65.9% (2018 est.)<br>
 _forest_: 1.5% (2018 est.)<br>
 _other_: 22.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 29.5% of total population (2021)<br>
+_rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 3.34% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 29.5% of total population (2021)<br>
-_rate of urbanization_: 2.77% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -276,6 +271,17 @@ _severe localized food insecurity_: <p>due to localized shortfalls in production
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Orange (941,351 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 20 million cubic meters (2017 est.)<br>
+_industrial_: 20 million cubic meters (2017 est.)<br>
+_agricultural_: 3.8 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+3.022 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -378,9 +384,9 @@ _lyrics/music_: Francois COILLARD/Ferdinand-Samuel LAUR<br>
 <p>Small, mountainous, and completely landlocked by South Africa, Lesotho depends on a narrow economic base of textile manufacturing, agriculture, remittances, and regional customs revenue. About three-fourths of the people live in rural areas and engage in animal herding and subsistence agriculture, although Lesotho produces less than 20% of the nation's demand for food. Agriculture is vulnerable to weather and climate variability.</p><p></p><p>Lesotho relies on South Africa for much of its economic activity; Lesotho imports 85% of the goods it consumes from South Africa, including most agricultural inputs. Households depend heavily on remittances from family members working in South Africa in mines, on farms, and as domestic workers, though mining employment has declined substantially since the 1990s. Lesotho is a member of the Southern Africa Customs Union (SACU), and revenues from SACU accounted for roughly 26% of total GDP in 2016; however, SACU revenues are volatile and expected to decline over the next 5 years. Lesotho also gains royalties from the South African Government for water transferred to South Africa from a dam and reservoir system in Lesotho. However, the government continues to strengthen its tax system to reduce dependency on customs duties and other transfers.</p><p></p><p>The government maintains a large presence in the economy - government consumption accounted for about 26% of GDP in 2017. The government remains Lesotho's largest employer; in 2016, the government wage bill rose to 23% of GDP – the largest in Sub-Saharan Africa. Lesotho's largest private employer is the textile and garment industry - approximately 36,000 Basotho, mainly women, work in factories producing garments for export to South Africa and the US. Diamond mining in Lesotho has grown in recent years and accounted for nearly 35% of total exports in 2015. Lesotho managed steady GDP growth at an average of 4.5% from 2010 to 2014, dropping to about 2.5% in 2015-16, but poverty remains widespread around 57% of the total population.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$5.747 billion (2019 est.)<br>
-$5.794 billion (2018 est.)<br>
-$5.82 billion (2017 est.)<br>
+$4.88 billion note: data are in 2017 dollars (2020 est.)<br>
+$5.49 billion note: data are in 2017 dollars (2019 est.)<br>
+$5.51 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -389,9 +395,9 @@ $5.82 billion (2017 est.)<br>
 2.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,704 (2019 est.)<br>
-$2,749 (2018 est.)<br>
-$2,783 (2017 est.)<br>
+$2,300 note: data are in 2017 dollars (2020 est.)<br>
+$2,600 note: data are in 2017 dollars (2019 est.)<br>
+$2,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -472,9 +478,9 @@ _expenditures_: 1.255 billion (2017 est.)<br>
 -$201 million (2016 est.)<br>
 
 **Exports**<br>
-$1.106 billion (2019 est.)<br>
-$1.271 billion (2018 est.)<br>
-$1.145 billion (2017 est.)<br>
+$900 million note: data are in current year dollars (2020 est.)<br>
+$1.09 billion note: data are in current year dollars (2019 est.)<br>
+$1.25 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
@@ -483,9 +489,9 @@ United States 29%, Belgium 26%, South Africa 25%, Switzerland 6% (2019)<br>
 diamonds, clothing and apparel, low-voltage protection equipment, wheat products, footwear (2019)<br>
 
 **Imports**<br>
-$2.613 billion (2019 est.)<br>
-$2.707 billion (2018 est.)<br>
-$2.688 billion (2017 est.)<br>
+$1.96 billion note: data are in current year dollars (2020 est.)<br>
+$2.2 billion note: data are in current year dollars (2019 est.)<br>
+$2.39 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 85%, China 5% (2019)<br>
@@ -652,7 +658,7 @@ Lesotho Defense Force (LDF): Army (includes Air Wing) (2021)<br>
 the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF has a small inventory of older equipment from a variety of countries; the only reported delivery to the LDF since 2007 was two second-hand helicopters from France in 2017 and 2019 (2019 est.)<br>
+the LDF has a small inventory of older equipment from a variety of countries; since 2007, it has received only very small quantities of second hand equipment (2020)<br>
 
 **Military service age and obligation**<br>
 18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2019)<br>

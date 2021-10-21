@@ -216,14 +216,6 @@ _particulate matter emissions_: 12.31 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.24 megatons (2016 est.)<br>
 _methane emissions_: 0.1 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 15.4 million cubic meters (2017 est.)<br>
-_industrial_: 0 cubic meters (2017 est.)<br>
-_agricultural_: 200,000 cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-24 million cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical, tempered by constant sea breezes; little seasonal temperature variation; rainy season (May to November)<br>
 
@@ -235,18 +227,26 @@ _agricultural land: permanent pasture_: permanent pasture: 3.5% (2018 est.)<br>
 _forest_: 42.3% (2018 est.)<br>
 _other_: 34.6% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 30.9% of total population (2021)<br>
+_rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
 
-**Urbanization**<br>
-_urban population_: 30.9% of total population (2021)<br>
-_rate of urbanization_: 1.06% annual rate of change (2020-25 est.)<br>
-
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 32,892 tons (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 15.4 million cubic meters (2017 est.)<br>
+_industrial_: 0 cubic meters (2017 est.)<br>
+_agricultural_: 200,000 cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+24 million cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -343,9 +343,9 @@ _lyrics/music_: Kenrick Anderson GEORGES<br>
 <p>The economy of Saint Kitts and Nevis depends on tourism; since the 1970s, tourism has replaced sugar as the economy’s traditional mainstay. Roughly 200,000 tourists visited the islands in 2009, but reduced tourism arrivals and foreign investment led to an economic contraction in the 2009-2013 period, and the economy returned to growth only in 2014. Like other tourist destinations in the Caribbean, Saint Kitts and Nevis is vulnerable to damage from natural disasters and shifts in tourism demand.</p><p></p><p>Following the 2005 harvest, the government closed the sugar industry after several decades of losses. To compensate for lost jobs, the government has embarked on a program to diversify the agricultural sector and to stimulate other sectors of the economy, such as export-oriented manufacturing and offshore banking. The government has made notable progress in reducing its public debt, from 154% of GDP in 2011 to 83% in 2013, although it still faces one of the highest levels in the world, largely attributable to public enterprise losses. Saint Kitts and Nevis is among other countries in the Caribbean that supplement their economic activity through economic citizenship programs, whereby foreigners can obtain citizenship from Saint Kitts and Nevis by investing there.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.396 billion (2019 est.)<br>
-$1.358 billion (2018 est.)<br>
-$1.319 billion (2017 est.)<br>
+$1.24 billion note: data are in 2017 dollars (2020 est.)<br>
+$1.39 billion note: data are in 2017 dollars (2019 est.)<br>
+$1.36 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -354,9 +354,9 @@ $1.319 billion (2017 est.)<br>
 2.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$26,438 (2019 est.)<br>
-$25,902 (2018 est.)<br>
-$25,360 (2017 est.)<br>
+$23,300 note: data are in 2017 dollars (2020 est.)<br>
+$26,200 note: data are in 2017 dollars (2019 est.)<br>
+$25,900 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -423,7 +423,7 @@ calendar year<br>
 -$102 million (2016 est.)<br>
 
 **Exports**<br>
-$57.4 million (2017 est.)<br>
+$610 million note: data are in current year dollars (2018 est.)<br>
 $53.9 million (2016 est.)<br>
 
 **Exports - partners**<br>
@@ -433,7 +433,7 @@ United States 69%, Germany 8%, Italy 5% (2019)<br>
 low-voltage protection equipment, broadcasting equipment, measuring instruments, electric motor parts, electrical transformers (2019)<br>
 
 **Imports**<br>
-$335.3 million (2017 est.)<br>
+$590 million note: data are in current year dollars (2018 est.)<br>
 $307.9 million (2016 est.)<br>
 
 **Imports - partners**<br>

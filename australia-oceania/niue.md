@@ -186,9 +186,6 @@ _signed, but not ratified_: none of the selected agreements<br>
 **Air pollutants**<br>
 _particulate matter emissions_: 11.47 micrograms per cubic meter (2016 est.)<br>
 
-**Total renewable water resources**<br>
-0 cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical; modified by southeast trade winds<br>
 
@@ -208,6 +205,9 @@ _rate of urbanization_: 1.43% annual rate of change (2020-25 est.)<br>
 _degree of risk_: high (2020)<br>
 _food or waterborne diseases_: bacterial diarrhea<br>
 _vectorborne diseases_: malaria<br>
+
+**Total renewable water resources**<br>
+0 cubic meters (2017 est.)<br>
 
 ## Government
 

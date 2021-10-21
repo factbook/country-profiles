@@ -241,14 +241,6 @@ _particulate matter emissions_: 15.85 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 8.02 megatons (2016 est.)<br>
 _methane emissions_: 5.61 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 652 million cubic meters (2017 est.)<br>
-_industrial_: 240 million cubic meters (2017 est.)<br>
-_agricultural_: 2.302 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-113 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical and subtropical; dry season (December to April); rainy season (May to November); cooler in highlands<br>
 
@@ -260,15 +252,15 @@ _agricultural land: permanent pasture_: permanent pasture: 25.5% (2018 est.)<br>
 _forest_: 51.5% (2018 est.)<br>
 _other_: 11.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 81.4% of total population (2021)<br>
+_rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.82% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 81.4% of total population (2021)<br>
-_rate of urbanization_: 1.5% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -279,6 +271,14 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 1.46 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 18,396 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.3% (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 652 million cubic meters (2017 est.)<br>
+_industrial_: 240 million cubic meters (2017 est.)<br>
+_agricultural_: 2.302 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+113 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -384,9 +384,9 @@ _lyrics/music_: Jose Maria ZELEDON Brenes/Manuel Maria GUTIERREZ<br>
 <p>Since 2010, Costa Rica has enjoyed strong and stable economic growth - 3.8% in 2017. Exports of bananas, coffee, sugar, and beef are the backbone of its commodity exports. Various industrial and processed agricultural products have broadened exports in recent years, as have high value-added goods, including medical devices. Costa Rica's impressive biodiversity also makes it a key destination for ecotourism.</p><p></p><p>Foreign investors remain attracted by the country's political stability and relatively high education levels, as well as the incentives offered in the free-trade zones; Costa Rica has attracted one of the highest levels of foreign direct investment per capita in Latin America. The US-Central American-Dominican Republic Free Trade Agreement (CAFTA-DR), which became effective for Costa Rica in 2009, helped increase foreign direct investment in key sectors of the economy, including insurance and telecommunication. However, poor infrastructure, high energy costs, a complex bureaucracy, weak investor protection, and uncertainty of contract enforcement impede greater investment.</p><p></p><p>Costa Rica’s economy also faces challenges due to a rising fiscal deficit, rising public debt, and relatively low levels of domestic revenue. Poverty has remained around 20-25% for nearly 20 years, and the government’s strong social safety net has eroded due to increased constraints on its expenditures. Costa Rica’s credit rating was downgraded from stable to negative in 2015 and again in 2017, upping pressure on lending rates - which could hurt small business, on the budget deficit - which could hurt infrastructure development, and on the rate of return on investment - which could soften foreign direct investment (FDI). Unlike the rest of Central America, Costa Rica is not highly dependent on remittances - which represented just 1 % of GDP in 2016, but instead relies on FDI - which accounted for 5.1% of GDP.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$99.146 billion (2019 est.)<br>
-$97.122 billion (2018 est.)<br>
-$94.605 billion (2017 est.)<br>
+$100.25 billion note: data are in 2017 dollars (2020 est.)<br>
+$105.02 billion note: data are in 2017 dollars (2019 est.)<br>
+$102.79 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -395,9 +395,9 @@ $94.605 billion (2017 est.)<br>
 3.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$19,642 (2019 est.)<br>
-$19,427 (2018 est.)<br>
-$19,112 (2017 est.)<br>
+$19,700 note: data are in 2017 dollars (2020 est.)<br>
+$20,800 note: data are in 2017 dollars (2019 est.)<br>
+$20,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -481,8 +481,8 @@ calendar year<br>
 -$1.326 billion (2016 est.)<br>
 
 **Exports**<br>
-$10.81 billion (2017 est.)<br>
-$10.15 billion (2016 est.)<br>
+$21.2 billion note: data are in current year dollars (2019 est.)<br>
+$20.53 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br>
@@ -491,8 +491,8 @@ United States 38%, Netherlands 6%, Belgium 5%, Guatemala 5%, Panama 5% (2019)<br
 medical instruments, bananas, tropical fruits, orthopedic appliances, food preparations (2019)<br>
 
 **Imports**<br>
-$15.15 billion (2017 est.)<br>
-$14.53 billion (2016 est.)<br>
+$19.39 billion note: data are in current year dollars (2019 est.)<br>
+$19.64 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United States 41%, China 13%, Mexico 7% (2019)<br>
@@ -672,11 +672,11 @@ no regular military forces; Ministry of Public Security: the Public Force (Fuerz
 note: Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
+0.7% of GDP (2020)<br>
+0.7% of GDP (2019)<br>
+0.7% of GDP (2018)<br>
 0.7% of GDP (2017)<br>
 0.7% of GDP (2016)<br>
-0.7% of GDP (2015)<br>
-0.8% of GDP (2014)<br>
-0.8% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
 12,500 Public Force personnel; approximately 400-500 air and 400-500 coast guard personnel (2021)<br>

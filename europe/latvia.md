@@ -240,14 +240,6 @@ _particulate matter emissions_: 12.72 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7 megatons (2016 est.)<br>
 _methane emissions_: 1.85 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 94.4 million cubic meters (2017 est.)<br>
-_industrial_: 25.2 million cubic meters (2017 est.)<br>
-_agricultural_: 61.5 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-34.94 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 maritime; wet, moderate winters<br>
 
@@ -259,15 +251,15 @@ _agricultural land: permanent pasture_: permanent pasture: 10.5% (2018 est.)<br>
 _forest_: 54.1% (2018 est.)<br>
 _other_: 16.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 68.4% of total population (2021)<br>
+_rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.85% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 68.4% of total population (2021)<br>
-_rate of urbanization_: -0.68% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -277,6 +269,14 @@ _vectorborne diseases_: tickborne encephalitis<br>
 _municipal solid waste generated annually_: 857,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 181,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 21.2% (2015 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 94.4 million cubic meters (2017 est.)<br>
+_industrial_: 25.2 million cubic meters (2017 est.)<br>
+_agricultural_: 61.5 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+34.94 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -381,9 +381,9 @@ _lyrics/music_: Karlis BAUMANIS<br>
 <p>Latvia is a small, open economy with exports contributing more than half of GDP. Due to its geographical location, transit services are highly-developed, along with timber and wood-processing, agriculture and food products, and manufacturing of machinery and electronics industries. Corruption continues to be an impediment to attracting foreign direct investment and Latvia's low birth rate and decreasing population are major challenges to its long-term economic vitality.</p><p></p><p>Latvia's economy experienced GDP growth of more than 10% per year during 2006-07, but entered a severe recession in 2008 as a result of an unsustainable current account deficit and large debt exposure amid the slowing world economy. Triggered by the collapse of the second largest bank, GDP plunged by more than 14% in 2009 and, despite strong growth since 2011, the economy took until 2017 return to pre-crisis levels in real terms. Strong investment and consumption, the latter stoked by rising wages, helped the economy grow by more than 4% in 2017, while inflation rose to 3%. Continued gains in competitiveness and investment will be key to maintaining economic growth, especially in light of unfavorable demographic trends, including the emigration of skilled workers, and one of the highest levels of income inequality in the EU.</p><p></p><p>In the wake of the 2008-09 crisis, the IMF, EU, and other international donors provided substantial financial assistance to Latvia as part of an agreement to defend the currency's peg to the euro in exchange for the government's commitment to stringent austerity measures. The IMF/EU program successfully concluded in December 2011, although, the austerity measures imposed large social costs. The majority of companies, banks, and real estate have been privatized, although the state still holds sizable stakes in a few large enterprises, including 80% ownership of the Latvian national airline. Latvia officially joined the World Trade Organization in February 1999 and the EU in May 2004. Latvia also joined the euro zone in 2014 and the OECD in 2016.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$59.102 billion (2019 est.)<br>
-$57.912 billion (2018 est.)<br>
-$55.672 billion (2017 est.)<br>
+$56.92 billion note: data are in 2017 dollars (2020 est.)<br>
+$59.06 billion note: data are in 2017 dollars (2019 est.)<br>
+$57.88 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -392,9 +392,9 @@ $55.672 billion (2017 est.)<br>
 3.23% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$30,898 (2019 est.)<br>
-$30,050 (2018 est.)<br>
-$28,664 (2017 est.)<br>
+$29,900 note: data are in 2017 dollars (2020 est.)<br>
+$30,900 note: data are in 2017 dollars (2019 est.)<br>
+$30,000 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -478,9 +478,9 @@ calendar year<br>
 -$99 million (2018 est.)<br>
 
 **Exports**<br>
-$20.444 billion (2019 est.)<br>
-$20.007 billion (2018 est.)<br>
-$19.153 billion (2017 est.)<br>
+$20.23 billion note: data are in current year dollars (2020 est.)<br>
+$20.5 billion note: data are in current year dollars (2019 est.)<br>
+$21.12 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% (2019)<br>
@@ -489,9 +489,9 @@ Lithuania 16%, Estonia 10%, Russia 9%, Germany 7%, Sweden 6%, United Kingdom 6% 
 lumber, broadcasting equipment, whiskey and other hard liquors, wheat, packaged medicines (2019)<br>
 
 **Imports**<br>
-$22.049 billion (2019 est.)<br>
-$21.397 billion (2018 est.)<br>
-$20.096 billion (2017 est.)<br>
+$19.84 billion note: data are in current year dollars (2020 est.)<br>
+$20.79 billion note: data are in current year dollars (2019 est.)<br>
+$21.38 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Russia 21%, Lithuania 14%, Germany 9%, Poland 7%, Estonia 7% (2019)<br>

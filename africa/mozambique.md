@@ -62,6 +62,9 @@ _other_: 0% (2018 est.)<br>
 **Irrigated land**<br>
 1,180 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
 
@@ -70,9 +73,6 @@ severe droughts; devastating cyclones and floods in central and southern provinc
 
 **Geography - note**<br>
 the Zambezi River flows through the north-central and most fertile part of the country<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 ## People and Society
 
@@ -248,14 +248,6 @@ _particulate matter emissions_: 19.44 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 7.94 megatons (2016 est.)<br>
 _methane emissions_: 16.26 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 372 million cubic meters (2017 est.)<br>
-_industrial_: 25 million cubic meters (2017 est.)<br>
-_agricultural_: 1.076 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-217.1 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical to subtropical<br>
 
@@ -267,15 +259,15 @@ _agricultural land: permanent pasture_: permanent pasture: 49.6% (2018 est.)<br>
 _forest_: 43.7% (2018 est.)<br>
 _other_: 0% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 37.6% of total population (2021)<br>
+_rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 6.46% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 4.17% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 37.6% of total population (2021)<br>
-_rate of urbanization_: 4.24% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -294,6 +286,14 @@ _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 372 million cubic meters (2017 est.)<br>
+_industrial_: 25 million cubic meters (2017 est.)<br>
+_agricultural_: 1.076 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+217.1 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -398,9 +398,9 @@ _lyrics/music_: Salomao J. MANHICA/unknown<br>
 <p>At independence in 1975, Mozambique was one of the world's poorest countries. Socialist policies, economic mismanagement, and a brutal civil war from 1977 to 1992 further impoverished the country. In 1987, the government embarked on a series of macroeconomic reforms designed to stabilize the economy. These steps, combined with donor assistance and with political stability since the multi-party elections in 1994, propelled the country’s GDP, in purchasing power parity terms, from $4 billion in 1993 to about $37 billion in 2017. Fiscal reforms, including the introduction of a value-added tax and reform of the customs service, have improved the government's revenue collection abilities. In spite of these gains, about half the population remains below the poverty line and subsistence agriculture continues to employ the vast majority of the country's work force.</p><p></p><p>Mozambique's once substantial foreign debt was reduced through forgiveness and rescheduling under the IMF's Heavily Indebted Poor Countries (HIPC) and Enhanced HIPC initiatives. However, in 2016, information surfaced revealing that the Mozambican Government was responsible for over $2 billion in government-backed loans secured between 2012-14 by state-owned defense and security companies without parliamentary approval or national budget inclusion; this prompted the IMF and international donors to halt direct budget support to the Government of Mozambique. An international audit was performed on Mozambique’s debt in 2016-17, but debt restructuring and resumption of donor support have yet to occur.</p><p></p><p>Mozambique grew at an average annual rate of 6%-8% in the decade leading up to 2015, one of Africa's strongest performances, but the sizable external debt burden, donor withdrawal, elevated inflation, and currency depreciation contributed to slower growth in 2016-17.</p><p></p><p>Two major International consortiums, led by American companies ExxonMobil and Anadarko, are seeking approval to develop massive natural gas deposits off the coast of Cabo Delgado province, in what has the potential to become the largest infrastructure project in Africa. . The government predicts sales of liquefied natural gas from these projects could generate several billion dollars in revenues annually sometime after 2022.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$38.91 billion (2019 est.)<br>
-$38.042 billion (2018 est.)<br>
-$36.775 billion (2017 est.)<br>
+$38.42 billion note: data are in 2017 dollars (2020 est.)<br>
+$38.91 billion note: data are in 2017 dollars (2019 est.)<br>
+$38.04 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -408,9 +408,9 @@ $36.775 billion (2017 est.)<br>
 4.07% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$1,281 (2019 est.)<br>
-$1,290 (2018 est.)<br>
-$1,284 (2017 est.)<br>
+$1,200 note: data are in 2017 dollars (2020 est.)<br>
+$1,300 note: data are in 2017 dollars (2019 est.)<br>
+$1,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -493,9 +493,9 @@ calendar year<br>
 -$4.499 billion (2018 est.)<br>
 
 **Exports**<br>
-$3.349 billion (2019 est.)<br>
-$3.874 billion (2018 est.)<br>
-$2.505 billion (2017 est.)<br>
+$4.35 billion note: data are in current year dollars (2020 est.)<br>
+$5.6 billion note: data are in current year dollars (2019 est.)<br>
+$5.97 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germany 5% (2019)<br>
@@ -504,9 +504,9 @@ South Africa 16%, India 13%, China 12%, Italy 7%, United Arab Emirates 5%, Germa
 coal, aluminum, natural gas, tobacco, electricity, gold, lumber (2019)<br>
 
 **Imports**<br>
-$7.371 billion (2019 est.)<br>
-$7.614 billion (2018 est.)<br>
-$5.076 billion (2017 est.)<br>
+$8.38 billion note: data are in current year dollars (2020 est.)<br>
+$9.57 billion note: data are in current year dollars (2019 est.)<br>
+$10.52 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 South Africa 31%, India 18%, China 17% (2019)<br>
@@ -707,7 +707,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of mid-2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of September 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
+the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of late 2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
 
 ## Terrorism
 

@@ -227,14 +227,6 @@ _particulate matter emissions_: 30.67 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 24.8 megatons (2016 est.)<br>
 _methane emissions_: 3.37 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 240 million cubic meters (2017 est.)<br>
-_industrial_: 900 million cubic meters (2017 est.)<br>
-_agricultural_: 700 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-4.503 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 Mediterranean; mild to cool, wet winters with hot, dry summers; the Lebanon Mountains experience heavy winter snows<br>
 
@@ -246,15 +238,15 @@ _agricultural land: permanent pasture_: permanent pasture: 39.1% (2018 est.)<br>
 _forest_: 13.4% (2018 est.)<br>
 _other_: 23.3% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 89.1% of total population (2021)<br>
+_rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 89.1% of total population (2021)<br>
-_rate of urbanization_: -1.23% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring throughout Lebanon; as of 6 October 2021, Lebanon has reported a total of 626,926 cases of COVID-19 or 9,185.13 cumulative cases of COVID-19 per 100,000 population with 122.54 cumulative deaths per 100,000 population; as of 6 October 2021, 24.21% of the population has received at least one dose of COVID-19 vaccine<br>
@@ -266,6 +258,14 @@ _exceptional shortfall in aggregate food production/supplies_: <p>due to the ong
 _municipal solid waste generated annually_: 2.04 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 163,200 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 240 million cubic meters (2017 est.)<br>
+_industrial_: 900 million cubic meters (2017 est.)<br>
+_agricultural_: 700 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+4.503 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -372,9 +372,9 @@ _lyrics/music_: Rachid NAKHLE/Wadih SABRA<br>
 <p>Lebanon has a free-market economy and a strong laissez-faire commercial tradition. The government does not restrict foreign investment; however, the investment climate suffers from red tape, corruption, arbitrary licensing decisions, complex customs procedures, high taxes, tariffs, and fees, archaic legislation, and inadequate intellectual property rights protection. The Lebanese economy is service-oriented; main growth sectors include banking and tourism.</p><p></p><p>The 1975-90 civil war seriously damaged Lebanon's economic infrastructure, cut national output by half, and derailed Lebanon's position as a Middle Eastern banking hub. Following the civil war, Lebanon rebuilt much of its war-torn physical and financial infrastructure by borrowing heavily, mostly from domestic banks, which saddled the government with a huge debt burden. Pledges of economic and financial reforms made at separate international donor conferences during the 2000s have mostly gone unfulfilled, including those made during the Paris III Donor Conference in 2007, following the July 2006 war. The "CEDRE" investment event hosted by France in April 2018 again rallied the international community to assist Lebanon with concessional financing and some grants for capital infrastructure improvements, conditioned upon long-delayed structural economic reforms in fiscal management, electricity tariffs, and transparent public procurement, among many others.</p><p></p><p>The Syria conflict cut off one of Lebanon's major markets and a transport corridor through the Levant. The influx of nearly one million registered and an estimated 300,000 unregistered Syrian refugees has increased social tensions and heightened competition for low-skill jobs and public services. Lebanon continues to face several long-term structural weaknesses that predate the Syria crisis, notably, weak infrastructure, poor service delivery, institutionalized corruption, and bureaucratic over-regulation. Chronic fiscal deficits have increased Lebanon’s debt-to-GDP ratio, the third highest in the world; most of the debt is held internally by Lebanese banks. These factors combined to slow economic growth to the 1-2% range in 2011-17, after four years of averaging 8% growth. Weak economic growth limits tax revenues, while the largest government expenditures remain debt servicing, salaries for government workers, and transfers to the electricity sector. These limitations constrain other government spending, limiting its ability to invest in necessary infrastructure improvements, such as water, electricity, and transportation. In early 2018, the Lebanese government signed long-awaited contract agreements with an international consortium for petroleum exploration and production as part of the country’s first offshore licensing round. Exploration is expected to begin in 2019.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$99.761 billion (2019 est.)<br>
-$106.925 billion (2018 est.)<br>
-$109.025 billion (2017 est.)<br>
+$79.51 billion note: data are in 2017 dollars (2020 est.)<br>
+$99.76 billion note: data are in 2017 dollars (2019 est.)<br>
+$106.93 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -383,9 +383,9 @@ $109.025 billion (2017 est.)<br>
 0.2% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$14,552 (2019 est.)<br>
-$15,612 (2018 est.)<br>
-$16,005 (2017 est.)<br>
+$11,600 note: data are in 2017 dollars (2020 est.)<br>
+$14,600 note: data are in 2017 dollars (2019 est.)<br>
+$15,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -468,8 +468,8 @@ calendar year<br>
 -$11.18 billion (2016 est.)<br>
 
 **Exports**<br>
-$3.524 billion (2017 est.)<br>
-$3.689 billion (2016 est.)<br>
+$18.17 billion note: data are in current year dollars (2019 est.)<br>
+$19.16 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuwait 6% (2019)<br>
@@ -478,8 +478,8 @@ Switzerland 27%, United Arab Emirates 15%, South Korea 11%, Saudi Arabia 7%, Kuw
 gold, jewelry, shotguns, diamonds, scrap copper (2019)<br>
 
 **Imports**<br>
-$18.34 billion (2017 est.)<br>
-$17.71 billion (2016 est.)<br>
+$31.34 billion note: data are in current year dollars (2019 est.)<br>
+$32.78 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 United Arab Emirates 11%, China 10%, Italy 8%, Greece 8%, Turkey 7%, United States 6% (2019)<br>
@@ -670,13 +670,13 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 AF) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2019 est.)<br>
+the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2020)<br>
 
 **Military service age and obligation**<br>
 17-25 years of age for voluntary military service (including women); no conscription (2019)<br>
 
 **Military - note**<br>
-<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war- torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of September 2021<br>
+<p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of September 2021<br>
 
 ## Terrorism
 
@@ -690,7 +690,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolu
 <p>lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon has been in place since 1978</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 476,033 (Palestinian refugees) (2020); 855,172 (Syria) (2021)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 851,717 (Syria) (2021)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

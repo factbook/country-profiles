@@ -61,6 +61,9 @@ _other_: 14.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,170 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
 
@@ -69,9 +72,6 @@ landslides; avalanches; earthquakes<br>
 
 **Geography - note**<br>
 note 1: landlocked; strategic location at the crossroads of central Europe with many easily traversable Alpine passes and valleys; major river is the Danube; population is concentrated on eastern lowlands because of steep slopes, poor soils, and low temperatures elsewhere<br><br>note 2: the world's largest and longest ice cave system at 42 km (26 mi) is the Eisriesenwelt (Ice Giants World) inside the Hochkogel mountain near Werfen, about 40 km south of Salzburg; ice caves are bedrock caves that contain year-round ice formations; they differ from glacial caves, which are transient and are formed by melting ice and flowing water within and under glaciers<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 ## People and Society
 
@@ -233,14 +233,6 @@ _particulate matter emissions_: 12.43 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 61.45 megatons (2016 est.)<br>
 _methane emissions_: 6.34 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 720 million cubic meters (2017 est.)<br>
-_industrial_: 2.695 billion cubic meters (2017 est.)<br>
-_agricultural_: 77.1 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-77.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 temperate; continental, cloudy; cold winters with frequent rain and some snow in lowlands and snow in mountains; moderate summers with occasional showers<br>
 
@@ -252,15 +244,15 @@ _agricultural land: permanent pasture_: permanent pasture: 21.1% (2018 est.)<br>
 _forest_: 47.2% (2018 est.)<br>
 _other_: 14.4% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 59% of total population (2021)<br>
+_rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.07% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 59% of total population (2021)<br>
-_rate of urbanization_: 0.68% annual rate of change (2020-25 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
@@ -269,6 +261,14 @@ _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 720 million cubic meters (2017 est.)<br>
+_industrial_: 2.695 billion cubic meters (2017 est.)<br>
+_agricultural_: 77.1 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+77.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -325,9 +325,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms) (e.g. 2019)<br>
-_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election (e.g. 2019)<br>
-_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition - men 44, women 17, percent of women 27.9% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition - men 115, women 68, percent of women 37.2%; note - total Federal Assembly percent of women 34.8% (e.g. 2019)<br>
+_description_: bicameral Federal Assembly or Bundesversammlung consists of:<br>Federal Council or Bundesrat (61 seats; members appointed by state parliaments with each state receiving 3 to 12 seats in proportion to its population; members serve 5- or 6-year terms)<br>National Council or Nationalrat (183 seats; members directly elected in single-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
+_elections_: <br>Federal Council - last appointed - NA<br>National Council - last held on 29 September 2019 (next to be held in 2024); note - election was originally scheduled for 2022, but President VAN DER BELLEN called for an early election<br>
+_election results_: <br>Federal Council - percent of vote by party - NA; seats by party - NA; composition (as of September 2021) - men 39, women 22, percent of women 36.1% <br>National Council - percent of vote by party - OeVP 37.5%, SPOe 21.2%, FPOe 16.2%, The Greens 13.9%, NEOS 8.1%, other 3.1%; seats by party - OeVP 71, SPOe 40, FPOe 31, The Greens 26,  NEOS 15; composition (as of September 2021) - men 109, women 74, percent of women 40.4%; note - total Federal Assembly percent of women 39.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Oberster Gerichtshof (consists of 85 judges organized into 17 senates or panels of 5 judges each); Constitutional Court or Verfassungsgerichtshof (consists of 20 judges including 6 substitutes; Administrative Court or Verwaltungsgerichtshof - 2 judges plus other members depending on the importance of the case)<br>
@@ -374,9 +374,9 @@ _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (d
 <p>Austria is a well-developed market economy with skilled labor force and high standard of living. It is closely tied to other EU economies, especially Germany's, but also the US’, its third-largest trade partner. Its economy features a large service sector, a sound industrial sector, and a small, but highly developed agricultural sector.</p><p></p><p>Austrian economic growth strengthen in 2017, with a 2.9% increase in GDP. Austrian exports, accounting for around 60% of the GDP, were up 8.2% in 2017. Austria’s unemployment rate fell by 0.3% to 5.5%, which is low by European standards, but still at its second highest rate since the end of World War II, driven by an increased number of refugees and EU migrants entering the labor market.</p><p></p><p>Austria's fiscal position compares favorably with other euro-zone countries. The budget deficit stood at a low 0.7% of GDP in 2017 and public debt declined again to 78.4% of GDP in 2017, after reaching a post-war high 84.6% in 2015. The Austrian government has announced it plans to balance the fiscal budget in 2019. Several external risks, such as Austrian banks' exposure to Central and Eastern Europe, the refugee crisis, and continued unrest in Russia/Ukraine, eased in 2017, but are still a factor for the Austrian economy. Exposure to the Russian banking sector and a deep energy relationship with Russia present additional risks.</p><p></p><p>Austria elected a new pro-business government in October 2017 that campaigned on promises to reduce bureaucracy, improve public sector efficiency, reduce labor market protections, and provide positive investment incentives.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$498.78 billion (2019 est.)<br>
-$491.803 billion (2018 est.)<br>
-$479.433 billion (2017 est.)<br>
+$463.12 billion note: data are in 2017 dollars (2020 est.)<br>
+$495.8 billion note: data are in 2017 dollars (2019 est.)<br>
+$488.86 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -385,9 +385,9 @@ $479.433 billion (2017 est.)<br>
 2.4% (2017 est.)<br>
 
 **Real GDP per capita**<br>
-$56,188 (2019 est.)<br>
-$55,631 (2018 est.)<br>
-$54,496 (2017 est.)<br>
+$51,900 note: data are in 2017 dollars (2020 est.)<br>
+$55,800 note: data are in 2017 dollars (2019 est.)<br>
+$55,300 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2010 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -471,9 +471,9 @@ $12.667 billion (2019 est.)<br>
 $5.989 billion (2018 est.)<br>
 
 **Exports**<br>
-$270.888 billion (2019 est.)<br>
-$263.145 billion (2018 est.)<br>
-$249.312 billion (2017 est.)<br>
+$226.79 billion note: data are in current year dollars (2020 est.)<br>
+$247.17 billion note: data are in current year dollars (2019 est.)<br>
+$253.3 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
@@ -482,9 +482,9 @@ Germany 28%, United States 7%, Italy 6%, Switzerland 5% (2019)<br>
 cars, packaged medical supplies, vehicle parts, medical vaccines/cultures, flavored water (2019)<br>
 
 **Imports**<br>
-$253.276 billion (2019 est.)<br>
-$247.225 billion (2018 est.)<br>
-$235.385 billion (2017 est.)<br>
+$211.85 billion note: data are in current year dollars (2020 est.)<br>
+$232.8 billion note: data are in current year dollars (2019 est.)<br>
+$238.79 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 Germany 39%, Italy 7%, Czechia 5% (2019)<br>
@@ -590,7 +590,7 @@ _total subscriptions_: 10.726 million<br>
 _subscriptions per 100 inhabitants_: 121.53 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2021)</p> (2020)<br>
+_general assessment_: <p>mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China</p> (2021)<br>
 _domestic_: developed and efficient; 41 per 100 fixed-line for households, 174 per 100 for companies; 120 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; 62 per 100 fixed broadband, 54 per 100 mobile broadband (2019)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -682,7 +682,7 @@ the Austrian military's inventory includes a mix of domestically-produced and im
 290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO); 180 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2015)<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2019)<br>
 
 **Military - note**<br>
 <p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis-management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
@@ -699,7 +699,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>none</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 51,955 (Syria), 37,276 (Afghanistan), 8,664 (Russia), 8,568 (Iraq), 7,636 (Somalia), 6,393 (Iran) (2019)<br>
+_refugees (country of origin)_: 54,903 (Syria), 40,096 (Afghanistan), 9,152 (Iraq), 8,074 (Somalia), 7,513 (Russia), 6,878 (Iran) (2020)<br>
 _stateless persons_: 3,267 (2020)<br>
 
 **Illicit drugs**<br>

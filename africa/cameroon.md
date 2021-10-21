@@ -62,6 +62,12 @@ _other_: 37.7% (2018 est.)<br>
 **Irrigated land**<br>
 290 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin<br>
+
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
 
@@ -70,12 +76,6 @@ population concentrated in the west and north, with the interior of the country 
 
 **Geography - note**<br>
 sometimes referred to as the hinge of Africa because of its central location on the continent and its position at the west-south juncture of the Gulf of Guinea; throughout the country there are areas of thermal springs and indications of current or prior volcanic activity; Mount Cameroon, the highest mountain in Sub-Saharan west Africa, is an active volcano<br>
-
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin<br>
 
 ## People and Society
 
@@ -253,14 +253,6 @@ _particulate matter emissions_: 65.26 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 8.29 megatons (2016 est.)<br>
 _methane emissions_: 30.71 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 246.8 million cubic meters (2017 est.)<br>
-_industrial_: 104.6 million cubic meters (2017 est.)<br>
-_agricultural_: 737 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-283.15 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 varies with terrain, from tropical along coast to semiarid and hot in north<br>
 
@@ -272,15 +264,15 @@ _agricultural land: permanent pasture_: permanent pasture: 4.2% (2018 est.)<br>
 _forest_: 41.7% (2018 est.)<br>
 _other_: 37.7% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 58.1% of total population (2021)<br>
+_rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 2.5% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 58.1% of total population (2021)<br>
-_rate of urbanization_: 3.43% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: very high (2020)<br>
@@ -299,10 +291,18 @@ _municipal solid waste recycled annually_: 13,082 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
 
 **Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Lake Chad drainage <em>(endorheic basin)</em>: Lake Chad (2,497,738 sq km)<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin<br>
+
+**Total water withdrawal**<br>
+_municipal_: 246.8 million cubic meters (2017 est.)<br>
+_industrial_: 104.6 million cubic meters (2017 est.)<br>
+_agricultural_: 737 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+283.15 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -408,9 +408,9 @@ _lyrics/music_: Rene Djam AFAME, Samuel Minkio BAMBA, Moise Nyatte NKO'O [French
 <p>Cameroon’s market-based, diversified economy features oil and gas, timber, aluminum, agriculture, mining and the service sector. Oil remains Cameroon’s main export commodity, and despite falling global oil prices, still accounts for nearly 40% of exports. Cameroon’s economy suffers from factors that often impact underdeveloped countries, such as stagnant per capita income, a relatively inequitable distribution of income, a top-heavy civil service, endemic corruption, continuing inefficiencies of a large parastatal system in key sectors, and a generally unfavorable climate for business enterprise.</p><p></p><p>Since 1990, the government has embarked on various IMF and World Bank programs designed to spur business investment, increase efficiency in agriculture, improve trade, and recapitalize the nation's banks. The IMF continues to press for economic reforms, including increased budget transparency, privatization, and poverty reduction programs. The Government of Cameroon provides subsidies for electricity, food, and fuel that have strained the federal budget and diverted funds from education, healthcare, and infrastructure projects, as low oil prices have led to lower revenues.</p><p></p><p>Cameroon devotes significant resources to several large infrastructure projects currently under construction, including a deep seaport in Kribi and the Lom Pangar Hydropower Project. Cameroon’s energy sector continues to diversify, recently opening a natural gas-powered electricity generating plant. Cameroon continues to seek foreign investment to improve its inadequate infrastructure, create jobs, and improve its economic footprint, but its unfavorable business environment remains a significant deterrent to foreign investment.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$94.248 billion (2019 est.)<br>
-$90.868 billion (2018 est.)<br>
-$87.32 billion (2017 est.)<br>
+$94.94 billion note: data are in 2017 dollars (2020 est.)<br>
+$94.25 billion note: data are in 2017 dollars (2019 est.)<br>
+$90.87 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -419,9 +419,9 @@ $87.32 billion (2017 est.)<br>
 5.7% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$3,642 (2019 est.)<br>
-$3,604 (2018 est.)<br>
-$3,555 (2017 est.)<br>
+$3,600 note: data are in 2017 dollars (2020 est.)<br>
+$3,600 note: data are in 2017 dollars (2019 est.)<br>
+$3,600 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -503,8 +503,8 @@ _expenditures_: 6.556 billion (2017 est.)<br>
 -$1.034 billion (2016 est.)<br>
 
 **Exports**<br>
-$4.732 billion (2017 est.)<br>
-$4.561 billion (2016 est.)<br>
+$7.73 billion note: data are in current year dollars (2019 est.)<br>
+$7.3 billion note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United States 6%, Belgium 6%, Spain 5%, France 5% (2019)<br>
@@ -513,8 +513,8 @@ China 17%, Netherlands 14%, Italy 9%, United Arab Emirates 8%, India 7%, United 
 crude petroleum, cocoa beans, lumber, gold, natural gas, bananas (2019)<br>
 
 **Imports**<br>
-$4.812 billion (2017 est.)<br>
-$4.827 billion (2016 est.)<br>
+$9.09 billion note: data are in current year dollars (2019 est.)<br>
+$8.42 billion note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 28%, Nigeria 15%, France 9%, Belgium 6% (2019)<br>
@@ -713,7 +713,7 @@ information varies widely; approximately 40,000 active duty troops; (25,000 grou
 the FAC inventory includes a mix of mostly older or second-hand Chinese, Russian, and Western equipment, with a limited quantity of more modern weapons; since 2010, China is the leading supplier of armaments to the FAC (2020)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA) (Jan 2021)<br>
+750 Central African Republic (MINUSCA) (Aug 2021)<br>
 note: Cameroon has committed approximately 2,000-2,500 troops to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations occur occasionally<br>
 
 **Maritime threats**<br>

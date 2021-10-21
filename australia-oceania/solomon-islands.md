@@ -228,9 +228,6 @@ _particulate matter emissions_: 10.67 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.17 megatons (2016 est.)<br>
 _methane emissions_: 0.43 megatons (2020 est.)<br>
 
-**Total renewable water resources**<br>
-44.7 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 tropical monsoon; few temperature and weather extremes<br>
 
@@ -242,15 +239,15 @@ _agricultural land: permanent pasture_: permanent pasture: 0.3% (2018 est.)<br>
 _forest_: 78.9% (2018 est.)<br>
 _other_: 17.2% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 25.1% of total population (2021)<br>
+_rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 20.27% of GDP (2018 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0% of GDP (2018 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 25.1% of total population (2021)<br>
-_rate of urbanization_: 3.57% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: high (2020)<br>
@@ -259,6 +256,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 179,972 tons (2013 est.)<br>
+
+**Total renewable water resources**<br>
+44.7 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -358,9 +358,9 @@ _lyrics/music_: Panapasa BALEKANA and Matila BALEKANA/Panapasa BALEKANA<br>
 The bulk of the population depends on agriculture, fishing, and forestry for at least part of its livelihood. Most manufactured goods and petroleum products must be imported. The islands are rich in undeveloped mineral resources such as lead, zinc, nickel, and gold. Prior to the arrival of The Regional Assistance Mission to the Solomon Islands (RAMSI), severe ethnic violence, the closure of key businesses, and an empty government treasury culminated in economic collapse. RAMSI's efforts, which concluded in Jun 2017, to restore law and order and economic stability have led to modest growth as the economy rebuilds.<br>
 
 **Real GDP (purchasing power parity)**<br>
-$1.783 billion (2019 est.)<br>
-$1.762 billion (2018 est.)<br>
-$1.695 billion (2017 est.)<br>
+$1.71 billion note: data are in 2017 dollars (2020 est.)<br>
+$1.78 billion note: data are in 2017 dollars (2019 est.)<br>
+$1.76 billion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -369,9 +369,9 @@ $1.695 billion (2017 est.)<br>
 2.5% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$2,663 (2019 est.)<br>
-$2,700 (2018 est.)<br>
-$2,666 (2017 est.)<br>
+$2,500 note: data are in 2017 dollars (2020 est.)<br>
+$2,700 note: data are in 2017 dollars (2019 est.)<br>
+$2,700 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>
@@ -449,8 +449,9 @@ calendar year<br>
 -$49 million (2016 est.)<br>
 
 **Exports**<br>
-$468.6 million (2017 est.)<br>
-$419.9 million (2016 est.)<br>
+$430 million note: data are in current year dollars (2020 est.)<br>
+$590 million note: data are in current year dollars (2019 est.)<br>
+$680 million note: data are in current year dollars (2018 est.)<br>
 
 **Exports - partners**<br>
 China 65%, Italy 9%, India 6% (2019)<br>
@@ -459,8 +460,9 @@ China 65%, Italy 9%, India 6% (2019)<br>
 lumber, fish, aluminum, palm oil, cocoa beans (2019)<br>
 
 **Imports**<br>
-$462.1 million (2017 est.)<br>
-$419.3 million (2016 est.)<br>
+$560 million note: data are in current year dollars (2020 est.)<br>
+$750 million note: data are in current year dollars (2019 est.)<br>
+$750 million note: data are in current year dollars (2018 est.)<br>
 
 **Imports - partners**<br>
 China 24%, Australia 13%, South Korea 12%, Singapore 12%, Malaysia 10% (2019)<br>

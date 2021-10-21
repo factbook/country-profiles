@@ -64,6 +64,9 @@ _other_: 63.1% (2018 est.)<br>
 **Irrigated land**<br>
 95,530 sq km (2012)<br>
 
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
@@ -72,9 +75,6 @@ periodic droughts, floods; dust storms, sandstorms; earthquakes<br>
 
 **Geography - note**<br>
 strategic location on the Persian Gulf and Strait of Hormuz, which are vital maritime pathways for crude oil transport<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 ## People and Society
 
@@ -242,14 +242,6 @@ _particulate matter emissions_: 35.09 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 661.71 megatons (2016 est.)<br>
 _methane emissions_: 158.71 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 6.2 billion cubic meters (2017 est.)<br>
-_industrial_: 1.1 billion cubic meters (2017 est.)<br>
-_agricultural_: 86 billion cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-137.045 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 mostly arid or semiarid, subtropical along Caspian coast<br>
 
@@ -261,15 +253,15 @@ _agricultural land: permanent pasture_: permanent pasture: 18.1% (2018 est.)<br>
 _forest_: 6.8% (2018 est.)<br>
 _other_: 63.1% (2018 est.)<br>
 
+**Urbanization**<br>
+_urban population_: 76.3% of total population (2021)<br>
+_rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
+
 **Revenue from forest resources**<br>
 _forest revenues_: 0.01% of GDP (2017 est.)<br>
 
 **Revenue from coal**<br>
 _coal revenues_: 0.01% of GDP (2017 est.)<br>
-
-**Urbanization**<br>
-_urban population_: 76.3% of total population (2021)<br>
-_rate of urbanization_: 1.32% annual rate of change (2020-25 est.)<br>
 
 **Major infectious diseases**<br>
 _degree of risk_: intermediate (2020)<br>
@@ -284,6 +276,14 @@ _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 6.2 billion cubic meters (2017 est.)<br>
+_industrial_: 1.1 billion cubic meters (2017 est.)<br>
+_agricultural_: 86 billion cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+137.045 billion cubic meters (2017 est.)<br>
 
 ## Government
 
@@ -380,9 +380,9 @@ _lyrics/music_: multiple authors/Hassan RIAHI<br>
 <p>Iran's economy is marked by statist policies, inefficiencies, and reliance on oil and gas exports, but Iran also possesses significant agricultural, industrial, and service sectors. The Iranian government directly owns and operates hundreds of state-owned enterprises and indirectly controls many companies affiliated with the country's security forces. Distortions - including corruption, price controls, subsidies, and a banking system holding billions of dollars of non-performing loans - weigh down the economy, undermining the potential for private-sector-led growth.</p><p></p><p>Private sector activity includes small-scale workshops, farming, some manufacturing, and services, in addition to medium-scale construction, cement production, mining, and metalworking. Significant informal market activity flourishes and corruption is widespread.</p><p></p><p>The lifting of most nuclear-related sanctions under the Joint Comprehensive Plan of Action (JCPOA) in January 2016 sparked a restoration of Iran’s oil production and revenue that drove rapid GDP growth, but economic growth declined in 2017 as oil production plateaued. The economy continues to suffer from low levels of investment and declines in productivity since before the JCPOA, and from high levels of unemployment, especially among women and college-educated Iranian youth.</p><p></p><p>In May 2017, the re-election of President Hasan RUHANI generated widespread public expectations that the economic benefits of the JCPOA would expand and reach all levels of society. RUHANI will need to implement structural reforms that strengthen the banking sector and improve Iran’s business climate to attract foreign investment and encourage the growth of the private sector. Sanctions that are not related to Iran’s nuclear program remain in effect, and these—plus fears over the possible re-imposition of nuclear-related sanctions—will continue to deter foreign investors from engaging with Iran.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$1,027,238,000,000 (2019 est.)<br>
-$1.102 trillion (2018 est.)<br>
-$1,172,665,000,000 (2017 est.)<br>
+$1,044,310,000,000 note: data are in 2017 dollars (2020 est.)<br>
+$1,027,240,000,000 note: data are in 2017 dollars (2019 est.)<br>
+$1.102 trillion note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **Real GDP growth rate**<br>
@@ -391,9 +391,9 @@ $1,172,665,000,000 (2017 est.)<br>
 -1.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$12,389 (2019 est.)<br>
-$13,472 (2018 est.)<br>
-$14,536 (2017 est.)<br>
+$12,400 note: data are in 2017 dollars (2020 est.)<br>
+$12,400 note: data are in 2017 dollars (2019 est.)<br>
+$13,500 note: data are in 2017 dollars (2018 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
 **GDP (official exchange rate)**<br>

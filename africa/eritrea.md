@@ -237,14 +237,6 @@ _particulate matter emissions_: 42.4 micrograms per cubic meter (2016 est.)<br>
 _carbon dioxide emissions_: 0.71 megatons (2016 est.)<br>
 _methane emissions_: 4.48 megatons (2020 est.)<br>
 
-**Total water withdrawal**<br>
-_municipal_: 31 million cubic meters (2017 est.)<br>
-_industrial_: 1 million cubic meters (2017 est.)<br>
-_agricultural_: 550 million cubic meters (2017 est.)<br>
-
-**Total renewable water resources**<br>
-7.315 billion cubic meters (2017 est.)<br>
-
 **Climate**<br>
 hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually, heaviest June to September); semiarid in western hills and lowlands<br>
 
@@ -267,6 +259,14 @@ _vectorborne diseases_: malaria and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
+
+**Total water withdrawal**<br>
+_municipal_: 31 million cubic meters (2017 est.)<br>
+_industrial_: 1 million cubic meters (2017 est.)<br>
+_agricultural_: 550 million cubic meters (2017 est.)<br>
+
+**Total renewable water resources**<br>
+7.315 billion cubic meters (2017 est.)<br>
 
 ## Government
 

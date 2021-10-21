@@ -221,12 +221,12 @@ _agricultural land: permanent pasture_: permanent pasture: 0% (2018 est.)<br>
 _forest_: 0% (2018 est.)<br>
 _other_: 83.3% (2018 est.)<br>
 
-**Revenue from forest resources**<br>
-_forest revenues_: 0% of GDP (2018 est.)<br>
-
 **Urbanization**<br>
 _urban population_: 97.6% of total population (2021)<br>
 _rate of urbanization_: 0.41% annual rate of change (2020-25 est.)<br>
+
+**Revenue from forest resources**<br>
+_forest revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 17,175 tons (2016 est.)<br>
@@ -331,7 +331,8 @@ _lyrics/music_: no lyrics/Federico CONSOLO<br>
 <p>San Marino's economy relies heavily on tourism, banking, and the manufacture and export of ceramics, clothing, fabrics, furniture, paints, spirits, tiles, and wine. The manufacturing and financial sectors account for more than half of San Marino's GDP. The per capita level of output and standard of living are comparable to those of the most prosperous regions of Italy.</p><p></p><p>San Marino's economy contracted considerably in the years since 2008, largely due to weakened demand from Italy - which accounts for nearly 90% of its export market - and financial sector consolidation. Difficulties in the banking sector, the global economic downturn, and the sizable decline in tax revenues all contributed to negative real GDP growth. The government adopted measures to counter the downturn, including subsidized credit to businesses and is seeking to shift its growth model away from a reliance on bank and tax secrecy. San Marino does not issue public debt securities; when necessary, it finances deficits by drawing down central bank deposits.</p><p></p><p>The economy benefits from foreign investment due to its relatively low corporate taxes and low taxes on interest earnings. The income tax rate is also very low, about one-third the average EU level. San Marino continues to work towards harmonizing its fiscal laws with EU and international standards. In September 2009, the OECD removed San Marino from its list of tax havens that have yet to fully adopt global tax standards, and in 2010 San Marino signed Tax Information Exchange Agreements with most major countries. In 2013, the San Marino Government signed a Double Taxation Agreement with Italy, but a referendum on EU membership failed to reach the quorum needed to bring it to a vote.</p><br>
 
 **Real GDP (purchasing power parity)**<br>
-$2.008 billion (2018 est.)<br>
+$2.06 billion note: data are in 2017 dollars (2019 est.)<br>
+$2.01 billion note: data are in 2017 dollars (2018 est.)<br>
 $1.982 billion (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
@@ -341,7 +342,8 @@ $1.982 billion (2017 est.)<br>
 0.6% (2015 est.)<br>
 
 **Real GDP per capita**<br>
-$59,439 (2018 est.)<br>
+$60,800 note: data are in 2017 dollars (2019 est.)<br>
+$59,600 note: data are in 2017 dollars (2018 est.)<br>
 $58,867 (2017 est.)<br>
 <strong>note:</strong> data are in 2017 dollars<br>
 
