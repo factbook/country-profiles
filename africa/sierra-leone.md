@@ -656,7 +656,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): combined ground, air, and maritime forces (2020)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): combined ground, air, and maritime forces (2021)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>

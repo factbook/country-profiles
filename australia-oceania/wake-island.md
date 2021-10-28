@@ -104,6 +104,9 @@ NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
+**HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
 **HIV/AIDS - deaths**<br>
 NA<br>
 

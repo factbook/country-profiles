@@ -673,7 +673,7 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Slovenian Armed Forces have approximately 7,000 active duty troops (2020)<br>
+the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovenian Armed Forces is a mix of Soviet-era and limited quantities of more modern Western equipment; since 2010, it has received limited supplies of military equipment from Finland, France, Norway, Russia, Sweden, and the US (2020)<br>

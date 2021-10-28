@@ -717,7 +717,7 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Armed Forces: Royal Moroccan Army, Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force, Morroccan Royal Guard (provides security for the royal family; officially part of the Royal Army); Royal Morroccan Gendarmerie (Ministry of Defense); Mobile Intervention Corps (a motorized paramilitary security force under the Ministry of Interior that supplements the military and the police as needed) (2020)<br>
+Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense: Royal Moroccan Gendarmerie; Ministry of Interior: National Police; Auxiliary Forces (provides support to the Gendarmerie and National Police; includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed) (2021)<br>
 
 **Military expenditures**<br>
 4.5% of GDP (2020 est.)<br>
@@ -733,7 +733,7 @@ the Royal Armed Forces have approximately 200,000 active personnel (175,000 Army
 the Moroccan military's inventory is comprised of mostly older French and US equipment; since 2010, France and the US are the leading suppliers of weapons to Morocco (2020)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); 925 Democratic Republic of the Congo (MONUSCO) (Jan 2021)<br>
+870 Central African Republic (MINUSCA); 920 Democratic Republic of the Congo (MONUSCO) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 19 years of age for compulsory military service (reintroduced in 2019); both sexes are obligated to military service; conscript service obligation - 12 months (2019)<br>

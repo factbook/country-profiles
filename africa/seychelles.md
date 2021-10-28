@@ -625,7 +625,7 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles People&rsquo;s Defence Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force (2020)<br>
+Seychelles People&rsquo;s Defence Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force (2021)<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>

@@ -87,7 +87,7 @@ Tongan and English 76.8%, Tongan, English, and other language 10.6%, Tongan only
 <strong>note:</strong> data represent persons aged 5 and older who can read and write a simple sentence in Tongan, English, or another language<br>
 
 **Religions**<br>
-Protestant 64.1% (includes Free Wesleyan Church 35%, Free Church of Tonga 11.9%, Church of Tonga 6.8%, Assembly of God 2.3%, Seventh Day Adventist 2.2%, Tokaikolo Christian Church 1.6%, other 4.3%), Mormon 18.6%, Roman Catholic 14.2%, other 2.4%, none 0.5%, unspecified 0.1% (2016 est.)<br>
+Protestant 64.1% (includes Free Wesleyan Church 35%, Free Church of Tonga 11.9%, Church of Tonga 6.8%, Assembly of God 2.3%, Seventh Day Adventist 2.2%, Tokaikolo Christian Church 1.6%, other 4.3%), Church of Jesus Christ 18.6%, Roman Catholic 14.2%, other 2.4%, none 0.5%, unspecified 0.1% (2016 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 32% (male 17,250/female 16,698)<br>

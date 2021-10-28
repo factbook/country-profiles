@@ -87,7 +87,7 @@ Tuvaluan 86.8%, Tuvaluan/I-Kiribati 5.6%, Tuvaluan/other 6.7%, other 0.9% (2012 
 Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)<br>
 
 **Religions**<br>
-Protestant 92.4% (Congregational Christian Church of Tuvalu 85.7%, Brethren 3%, Seventh Day Adventist 2.8%, Assemblies of God .9%), Baha'i 2%, Jehovah's Witness 1.3%, Mormon 1%, other 3.1%, none 0.2% (2012 est.)<br>
+Protestant 92.4% (Congregational Christian Church of Tuvalu 85.7%, Brethren 3%, Seventh Day Adventist 2.8%, Assemblies of God .9%), Baha'i 2%, Jehovah's Witness 1.3%, Church of Jesus Christ 1%, other 3.1%, none 0.2% (2012 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 29.42% (male 1,711/female 1,626)<br>

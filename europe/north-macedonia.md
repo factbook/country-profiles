@@ -656,7 +656,7 @@ note: the Operations Command includes air, ground, special operations, support, 
 0.89% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Army of the Republic of North Macedonia (ARSM) has approximately 7,000 active duty personnel (2020)<br>
+the Army of the Republic of North Macedonia (ARSM) has approximately 7,500 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2020)<br>

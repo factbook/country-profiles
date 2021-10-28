@@ -91,7 +91,7 @@ English (de facto official) 95.4%, Maori (de jure official) 4%, Samoan 2.2%, Nor
 <strong>note:</strong> shares sum to 124.1% due to multiple responses on the 2018 census<br>
 
 **Religions**<br>
-Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Mormon 1.2%, other 10.7%), Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6% (includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism), no religion 48.6%, objected to answering 6.7% (2018 est.)<br>
+Christian 37.3% (Catholic 10.1%, Anglican 6.8%, Presbyterian and Congregational 5.2%, Pentecostal 1.8%, Methodist 1.6%, Church of Jesus Christ 1.2%, other 10.7%), Hindu 2.7%, Maori 1.3%, Muslim, 1.3%, Buddhist 1.1%, other religion 1.6% (includes Judaism, Spiritualism and New Age religions, Baha'i, Asian religions other than Buddhism), no religion 48.6%, objected to answering 6.7% (2018 est.)<br>
 <strong>note:</strong> based on the 2018 census of the usually resident population; percentages add up to more than 100% because respondents were able to identify more than one religion<br>
 
 **Age structure**<br>
@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 3 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Patricia Lee REDDY (since 28 September 2016)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor-General Dame Cindy KIRO (since 21 October 2021)<br>
 _head of government_: Prime Minister Jacinda ARDERN (since 26 October 2017); Deputy Prime Minister Grant ROBERTSON (since 2 November 2020)<br>
 _cabinet_: Executive Council appointed by the governor-general on the recommendation of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor-general appointed by the monarch on the advice of the prime minister; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the governor-general; deputy prime minister appointed by the governor-general; note - Prime Minister ARDERN heads up a minority coalition government consisting of the Labor and New Zealand First parties with confidence and supply support from the Green Party<br>

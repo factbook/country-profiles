@@ -703,7 +703,8 @@ the Senegalese Armed Forces consist of approximately 19,000 active personnel (12
 the FAS inventory includes mostly older or second-hand equipment from a variety of countries, including France, South Africa, and Russia/former Soviet Union; in recent years, the FAS has been undergoing a significant modernization program; since 2010, it has received newer equipment from nearly 15 countries, led by China, France, and Israel (2020)<br>
 
 **Military deployments**<br>
-750 Gambia; 1,000 Mali (MINUSMA) (Jan 2021)<br>
+750 Gambia (ECOMIG); 1,000 Mali (MINUSMA) (2021)<br>
+note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2019)<br>
@@ -714,7 +715,7 @@ the FAS inventory includes mostly older or second-hand equipment from a variety 
 <p>cross-border trafficking in persons, timber, wildlife, and cannabis; rebels from the Movement of Democratic Forces in the Casamance find refuge in Guinea-Bissau</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 14,196 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 14,199 (Mauritania) (2021)<br>
 _IDPs_: 8,400 (2020)<br>
 
 **Trafficking in persons**<br>

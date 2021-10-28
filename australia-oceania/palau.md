@@ -88,7 +88,7 @@ Palauan (official on most islands) 65.2%, other Micronesian 1.9%, English (offic
 <strong>note:</strong> Sonsoralese is official in Sonsoral; Tobian is official in Tobi; Angaur and Japanese are official in Angaur<br>
 
 **Religions**<br>
-Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical 26.4%, Seventh Day Adventist 6.9%, Assembly of God .9%, Baptist .7%), Modekngei 5.7% (indigenous to Palau), Muslim 3%, Mormon 1.5%, other 9.7% (2015 est.)<br>
+Roman Catholic 45.3%, Protestant 34.9% (includes Evangelical 26.4%, Seventh Day Adventist 6.9%, Assembly of God .9%, Baptist .7%), Modekngei 5.7% (indigenous to Palau), Muslim 3%, Church of Jesus Christ 1.5%, other 9.7% (2015 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 18.68% (male 2,090/female 1,961)<br>

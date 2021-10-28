@@ -345,14 +345,14 @@ _residency requirement for naturalization_: 15 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
-_head of government_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country<br>
+_chief of state_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, newly reelected President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
+_head of government_: Interim President Mahamat Idriss DEBY; note - on 20 April 2021, President Idriss DEBY Itno, Lt. Gen. died of injuries he sustained following clashes between government forces he was commanding and insurgents in the northern part of the country; following his death, Mahamat took control of the country and dismissed the Chadian parliament, promising elections within eighteen months<br>
 _cabinet_: Council of Ministers<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 10 April 2016 (next to be held on 10 April 2021)<br>
-_election results_: Lt. Gen. Idriss DEBY Itno reelected president in first round; percent of vote - Lt. Gen. Idriss DEBY (MPS) 61.6%, Saleh KEBZABO (UNDR) 12.8%, Laokein Kourayo MEDAR (CTPD) 10.7%, Djimrangar DADNADJI (CAP-SUR) 5.1%, other 9.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (no term limits); election last held on 11 April 2021<br>
+_election results_: Lt. Gen. Idriss DEBY Itno reelected; percent of vote - Lt. Gen. Idriss DEBY (MPS) 79.3%, Pahimi PADACKET Albert (RNDT) 10.3%, Lydie BEASSEMDA (Party for Democracy and Independence) 3.16%<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly (188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms)<br>
+_description_: formerly a unicameral National Assembly or <em>Assemblée Nationale </em>(188 seats; 163 directly elected in multi-seat constituencies by proportional representation vote and 25 directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 4-year terms); note - on 5 October 2021, Interim President Mahamat Idriss DEBY installed 93 members of an interim parliament, called the National Transitional Council (NTC); according to DEBY, the NTC will act as a national assembly of transition until the country’s next elections take place<br>
 _elections_: <p>last held on 13 February and 6 May 2011 (next originally scheduled on 13 December 2020 but postponed due to the COVID-19 pandemic)</p><br>
 _election results_: percent of vote by party - NA; seats by party - MPS 117, UNDR 10, RDP 9, RNDT/Le Reveil 8, URD 8, Viva-RNDP 5, FAR 4, CTPD 2, PDSA 2, PUR 2, UDR 2, other 19; composition - men 164, women 24, percent of women 12.8%<br>
 <strong>note:</strong> the National Assembly mandate was extended to 2020, reportedly due to a lack of funding for the scheduled 2015 election; the MPS has held a majority in the NA since 1997<br>

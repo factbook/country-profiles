@@ -670,13 +670,13 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 0.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2020)<br>
+the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papau New Guinea receives most of its military assistance from Australia; since 2010, it has also received equipment from China and New Zealand (2020)<br>
 
 **Military service age and obligation**<br>
-16 years of age for voluntary military service (with parental consent); no conscription; graduation from grade 12 required (2013)<br>
+16 years of age for voluntary military service (with parental consent); no conscription; graduation from grade 12 required (2019)<br>
 
 ## Transnational Issues
 

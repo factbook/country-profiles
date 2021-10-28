@@ -682,19 +682,19 @@ note: the Guard is a brigade-sized unit that is directly subordinate to the Serb
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
-2.2% of GDP (2019)<br>
+2.2% of GDP (2019 est.)<br>
 1.6% of GDP (2018 est.)<br>
 1.8% of GDP (2017 est.)<br>
-1.7% of GDP (2016)<br>
+1.7% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2020)<br>
+information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, most of its weapons imports have come from Russia (2020)<br>
 
 **Military deployments**<br>
-200 Lebanon (UNIFIL) (March 2021)<br>
+200 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; conscription abolished January 2011 (2021)<br>
@@ -711,7 +711,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 795,629 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
+<strong>note:</strong> 797,027 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
 
 **Illicit drugs**<br>
 transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>

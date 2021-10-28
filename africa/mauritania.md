@@ -693,13 +693,13 @@ the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 
 the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, including Brazil, China, France, and Turkey (2020)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA) (Jan 2021)<br>
+450 Central African Republic (MINUSCA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
 
 **Military - note**<br>
-since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2020)<br>
+since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2021)<br>
 
 ## Terrorism
 
@@ -712,7 +712,8 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 70,912 (Mali) (2021)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 72,033 (Mali) (2021)<br>
+_IDPs_: 744,944 (conflict in North Mozambique) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Mauritania is a source, transit, and destination country for men, women, and children subjected to conditions of forced labor and sex trafficking; adults and children from traditional slave castes are subjected to slavery-related practices rooted in ancestral master-slave relationships; Mauritanian boys&nbsp; are trafficked within the country by religious teachers for forced begging; Mauritanian girls, as well as girls from Mali, Senegal, The Gambia, and other West African countries, are forced into domestic servitude; Mauritanian women and girls are forced into prostitution in the country or transported to countries in the Middle East for the same purpose<br>

@@ -738,7 +738,7 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,742,927 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
-_IDPs_: 8,137,396 (conflict between government and illegal armed groups and drug traffickers since 1985; about 300,000 new IDPs each year since 2000) (2021)<br>
+_IDPs_: 8,154,542 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
 _stateless persons_: 11 (2020)<br>
 
 **Illicit drugs**<br>

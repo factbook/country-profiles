@@ -86,7 +86,7 @@ Chuukese/Mortlockese 49.3%, Pohnpeian 29.8%, Kosraean 6.3%, Yapese 5.7%, Yap out
 English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi<br>
 
 **Religions**<br>
-Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Mormon 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)<br>
+Roman Catholic 54.7%, Protestant 41.1% (includes Congregational 38.5%, Baptist 1.1%, Seventh Day Adventist 0.8%, Assembly of God 0.7%), Church of Jesus Christ 1.5%, other 1.9%, none 0.7%, unspecified 0.1% (2010 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 28.24% (male 14,585/female 14,129)<br>
@@ -578,7 +578,7 @@ _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<
 ## Military and Security
 
 **Military and security forces**<br>
-no military forces; Federated States of Micronesia National Police (includes a maritime wing) (2021)<br>
+no military forces; Federated States of Micronesia National Police (includes a maritime wing)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

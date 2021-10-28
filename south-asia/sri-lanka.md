@@ -685,13 +685,13 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force) (2020)<br>
+the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2020)<br>
 
 **Military deployments**<br>
-110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA); 170 South Sudan (UNMISS) (Jan 2021)<br>
+110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service; no conscription (2019)<br>

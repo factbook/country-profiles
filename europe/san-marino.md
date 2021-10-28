@@ -289,9 +289,9 @@ _election results_: Francesco MUSSONI (PDCS) and Giacomo SIMONCINI (We for the R
 <strong>note:</strong> the captains regent preside over meetings of the Grand and General Council and its cabinet (Congress of State), which has 7 other members who are selected by the Grand and General Council; assisting the captains regent are 7 secretaries of state; the secretary of state for Foreign Affairs has some prime ministerial roles<br>
 
 **Legislative branch**<br>
-_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
-_elections_: last held on 8 December 2019 (next to be held by December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition - men 42, women 18, percent of women 30%<br>
+_description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
+_elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
+_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -504,7 +504,7 @@ _paved_: 292 km (2006)<br>
 No regular military forces; Voluntary Military Corps (Corpi Militari), which includes a Uniformed Militia (performs ceremonial duties and limited police support functions) and Guard of the Great and General Council (defends the Captains Regent and the Great and General Council, participates in official ceremonies, cooperates with the maintenance of public order on special occasions, and performs guard duties during parliamentary sittings); the Police Corps includes the Gendarmerie, which is responsible for maintaining public order, protecting citizens and their property, and providing assistance during disasters (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2012)<br>
+18 is the legal minimum age for voluntary military service; no conscription; government has the authority to call up all San Marino citizens from 16-60 years of age to service in the military (2019)<br>
 
 **Military - note**<br>
 defense is the responsibility of Italy<br>

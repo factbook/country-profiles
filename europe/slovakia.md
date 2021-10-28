@@ -666,7 +666,7 @@ Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land 
 1.12% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2020)<br>
+the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2020)<br>

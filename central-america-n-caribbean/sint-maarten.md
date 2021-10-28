@@ -399,7 +399,7 @@ _oil terminal(s)_: Coles Bay oil terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB)) (2021)<br>
+no regular military forces; Police Department for local law enforcement, supported by the Royal Netherlands Marechaussee (Gendarmerie), the Dutch Caribbean Police Force (Korps Politie Caribisch Nederland, KPCN), and the Dutch Caribbean Coast Guard (DCCG or Kustwacht Caribisch Gebied (KWCARIB))<br>
 
 **Military - note**<br>
 defense is the responsibility of the Kingdom of the Netherlands<br>

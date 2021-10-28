@@ -672,7 +672,7 @@ National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air 
 0.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Moldovan National Army has approximately 6,000 active troops (2020)<br>
+the Moldovan National Army has approximately 6,000 active troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Moldovan military's inventory is limited and almost entirely comprised of older Russian and Soviet-era equipment; since 2000, it has received small amounts of donated material from other nations, including the US (2020)<br>
@@ -681,7 +681,7 @@ the Moldovan military's inventory is limited and almost entirely comprised of ol
 18-27 years of age for compulsory or voluntary military service; male registration required at age 16; 1-year service obligation (2020)<br>
 
 **Military - note**<br>
-<p>Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO’s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO’s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support</p><br>
+Moldova is constitutionally neutral, but has maintained a relationship with NATO since 1992; bilateral cooperation started when Moldova joined NATO&rsquo;s Partnership for Peace program in 1994; Moldova has contributed small numbers of troops to NATO&rsquo;s Kosovo Force (KFOR) since 2014, and a civilian NATO liaison office was established in Moldova in 2017 at the request of the Moldovan Government to promote practical cooperation and facilitate support (2021)<br>
 
 ## Transnational Issues
 

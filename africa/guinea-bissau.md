@@ -658,7 +658,7 @@ the FARP is poorly armed with an inventory consisting of Soviet-era equipment, m
 <p>a longstanding low-grade conflict continues in parts of Casamance, in Senegal across the border; some rebels use Guinea-Bissau as a safe haven</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 7,696 (Senegal) (2021)<br>
+_refugees (country of origin)_: 7,757 (Senegal) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Guinea-Bissau is a country of origin and destination for children subjected to forced labor and sex trafficking; the scope of the problem of trafficking women or men for forced labor or forced prostitution is unknown; boys reportedly were transported to southern Senegal for forced manual and agricultural labor; girls may be subjected to forced domestic service and child prostitution in Senegal and Guinea; both boys and girls are forced to work as street vendors in cities in Guinea-Bissau and Senegal<br>

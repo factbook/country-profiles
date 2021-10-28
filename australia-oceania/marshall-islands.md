@@ -90,7 +90,7 @@ _major-language sample(s)_: <p><br>Bok eo an Lalin kin Melele ko Rejimwe ej jiki
 <strong>note:</strong> English (official), widely spoken as a second language<br>
 
 **Religions**<br>
-Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%,&nbsp;Mormon 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)<br>
+Protestant 80.5% (United Church of Christ 47%, Assembly of God 16.2%, Bukot Nan Jesus 5.4%, Full Gospel 3.3%, Reformed Congressional Church 3%, Salvation Army 1.9%, Seventh Day Adventist 1.4%, Meram in Jesus 1.2%, other Protestant 1.1%), Roman Catholic 8.5%, Church of Jesus Christ 7%, Jehovah's Witness 1.7%,&nbsp; other 1.2%, none 1.1% (2011 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 32.94% (male 13,090/female 12,575)<br>
@@ -621,7 +621,7 @@ _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Marshall Islands Police Department (MIPD) (2021)<br>
+no regular military forces; Marshall Islands Police Department (MIPD)<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

@@ -87,7 +87,7 @@ Niuean 65.4%, part-Niuean 14%, non-Niuean 20.6% (2017 est.)<br>
 Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoan), Niuean and English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)<br>
 
 **Religions**<br>
-Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Mormon 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
+Ekalesia Niue (Congregational Christian Church of Niue - a Protestant church founded by missionaries from the London Missionary Society) 61.7%, Church of Jesus Christ 8.7%, Roman Catholic 8.4%, Jehovah's Witness 2.7%, Seventh Day Adventist 1.4%, other 8.2%, none 8.9% (2017 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: NA<br>

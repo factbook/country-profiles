@@ -318,7 +318,7 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: Gudni Thorlacius JOHANNESSON reelected president; percent of vote - Gudni Thorlacius JOHANNESSON (independent) 92.2%, Gudmundur Franklin JONSSON (independent) 7.8%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral Althingi or Parliament (63 seats; members directly elected in multi-seat constituencies by closed-list proportional representation vote using the D'Hondt method; members serve 4-year terms)<br>
 _elections_: last held on 25 September 2021 (next to be held in 2025)<br>
 _election results_: <p>percent of vote by party - IP 24.4%, PP 17.3%, LGM 12.6%, SDA 9.9%, People's Party 8.8%, Pirate Party 8.6%, Reform Party 8.3%. CP 5.4%, other 4.7%; seats by party - IP 16, PP 13, LGM 8, SDA 6, People's Party 6, Pirate Party 6, Reform Party 5, CP 3; composition - men 33, women 30; percent of women 47.6%</p><br>
 

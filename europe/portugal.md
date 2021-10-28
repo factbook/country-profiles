@@ -329,8 +329,8 @@ _election results_: Marcelo REBELO DE SOUSA reelected president in the first rou
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 6 October 2019 (next to be held 2023) (e.g. 2019)<br>
-_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition - men 158, women 72, percent of women 31.3% (e.g. 2019)<br>
+_elections_: last held on 6 October 2019 (next to be held on 14 September 2023) (e.g. 2019)<br>
+_election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition (as of October 2021) - men 138, women 92, percent of women 40% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Supremo Tribunal de Justica (consists of 12 justices); Constitutional Court or Tribunal Constitucional (consists of 13 judges)<br>

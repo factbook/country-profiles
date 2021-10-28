@@ -87,7 +87,7 @@ Samoan 96%, Samoan/New Zealander 2%, other 1.9% (2011 est.)<br>
 Samoan (Polynesian) (official) 91.1%, Samoan/English 6.7%, English (official) 0.5%, other 0.2%, unspecified 1.6% (2006 est.)<br>
 
 **Religions**<br>
-Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Mormon 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)<br>
+Protestant 54.9% (Congregationalist 29%, Methodist 12.4%, Assembly of God 6.8%, Seventh Day Adventist 4.4%, other Protestant 2.3%), Roman Catholic 18.8%, Church of Jesus Christ 16.9%, Worship Centre 2.8%, other Christian 3.6%, other 2.9% (includes Baha'i, Muslim), none 0.2% (2016 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 29.31% (male 30,825/female 28,900)<br>

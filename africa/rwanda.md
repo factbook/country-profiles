@@ -675,14 +675,14 @@ the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000
 the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2020)<br>
 
 **Military deployments**<br>
-1,370 Central African Republic (MINUSCA); 1,125 Sudan (UNAMID); 2,750 South Sudan (UNMISS) (2021)<br>
+1,390 Central African Republic (MINUSCA); 2,775 South Sudan (UNMISS) (2021)<br>
 note - in mid-2021, Rwanda sent about 1,000 combat troops to Mozambique to assist the Mozambique Government in combating an insurgency<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2019)<br>
 
 **Military - note**<br>
-<p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of August 2021, over 6,000 RDF personnel were deployed on missions in four African countries, including the Central African Republic, Mozambique, South Sudan, and Sudan</p><br>
+<p>the RDF is widely regarded as one of Africa’s best trained and most capable and professional military forces; as of August 2021, over 5,000 RDF personnel were deployed on missions in the African countries of the Central African Republic, Mozambique, and South Sudan</p><br>
 
 ## Transnational Issues
 

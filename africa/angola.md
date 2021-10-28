@@ -714,7 +714,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,274 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
+_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
 
 **Illicit drugs**<br>
 used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa<br>

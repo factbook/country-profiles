@@ -88,7 +88,7 @@ English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, othe
 <strong>note:</strong> shares sum to more than 100% because some respondents gave more than one answer on the census<br>
 
 **Religions**<br>
-Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Mormon 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)<br>
+Protestant 62.8% (Cook Islands Christian Church 49.1%, Seventh Day Adventist 7.9%, Assemblies of God 3.7%, Apostolic Church 2.1%), Roman Catholic 17%, Church of Jesus Christ 4.4%, other 8%, none 5.6%, no response 2.2% (2011 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.93% (male 901/female 808)<br>

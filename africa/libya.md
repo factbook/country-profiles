@@ -670,6 +670,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 <p>dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco; various Chadian rebels from the Aozou region reside in southern Libya</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,429 (Sudan) (refugees and asylum seekers), 14,433 (Syria) (refugees and asylum seekers) (2021)<br>
-_IDPs_: 245,483 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
+_refugees (country of origin)_: 16,766 (Sudan) (refugees and asylum seekers), 14,262 (Syria) (refugees and asylum seekers) (2021)<br>
+_IDPs_: 212,593 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
 

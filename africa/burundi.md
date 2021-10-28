@@ -687,7 +687,7 @@ in addition to its foreign deployments, the FDN as of 2021 was focused on intern
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; cross-border conflicts persist among Tutsi, Hutu, other ethnic groups, associated political rebels, armed gangs, and various government forces in the Great Lakes region</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 79,662 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 81,426 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 109,169 (some ethnic Tutsis remain displaced from intercommunal violence that broke out after the 1,993 coup and fighting between government forces and rebel groups; violence since April 2015) (2021)<br>
 _stateless persons_: 974 (2020)<br>
 

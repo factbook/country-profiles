@@ -721,7 +721,7 @@ information varies; approximately 640,000 active personnel (550,000 Army; 30,000
 the Pakistan military inventory includes a broad mix of equipment, primarily from China, France, Ukraine, the UK, and the US; since 2010, China and the US are the leading suppliers of arms to Pakistan; Pakistan also has a large domestic defense industry (2020)<br>
 
 **Military deployments**<br>
-1,240 Central African Republic (MINUSCA); 1,950 Democratic Republic of the Congo (MONUSCO); 150 Mali (MINUSMA); 900 Sudan (UNAMID) (Jan 2021)<br>
+1,250 Central African Republic (MINUSCA); 1,975 Democratic Republic of the Congo (MONUSCO); 200 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 16-23 years of age for voluntary military service; soldiers cannot be deployed for combat until age 18; women serve in all three armed forces; reserve obligation to age 45 for enlisted men, age 50 for officers (2019)<br>

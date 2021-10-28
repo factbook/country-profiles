@@ -87,7 +87,7 @@ I-Kiribati 96.2%, I-Kiribati/mixed 1.8%, Tuvaluan 0.2%, other 1.8% (2015 est.)<b
 I-Kiribati, English (official)<br>
 
 **Religions**<br>
-Roman Catholic 57.3%, Kiribati Uniting Church 31.3%, Mormon 5.3%, Baha'i 2.1%, Seventh Day Adventist 1.9%, other 2.1% (2015 est.)<br>
+Roman Catholic 57.3%, Kiribati Uniting Church 31.3%, Christ of Jesus Christ 5.3%, Baha'i 2.1%, Seventh Day Adventist 1.9%, other 2.1% (2015 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 28.47% (male 16,223/female 15,604)<br>

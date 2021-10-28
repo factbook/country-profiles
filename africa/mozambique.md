@@ -687,7 +687,7 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force (2020)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force (2021)<br>
 note: the FADM and Ministry of Interior forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
@@ -698,7 +698,7 @@ note: the FADM and Ministry of Interior forces are referred to collectively as t
 1% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 11,000 personnel (10,000 Army; 200 Navy; 1,000 Air Force) (2020)<br>
+information limited and varied; approximately 11,000 personnel (10,000 Army; 200 Navy; 800 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2020)<br>
@@ -721,7 +721,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,515 (Democratic Republic of Congo) (refugees and asylum seekers), 8,948 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,518 (Democratic Republic of Congo) (refugees and asylum seekers), 8,948 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

@@ -323,8 +323,8 @@ _elections/appointments_: president indirectly elected by the House of Represent
 _election results_: George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - the parliament elected in 2013 had 69 seats; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
-_elections_: last held on 3 June 2017 (next to be held in 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
+_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note -&nbsp; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
+_elections_: last held on 3 June 2017 (next to be held on 31 July 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
 _election results_: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%<br>
 
 **Judicial branch**<br>

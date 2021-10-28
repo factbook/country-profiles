@@ -700,6 +700,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,549 (Somalia), 16,447 (Ethiopia) (2021)<br>
+_refugees (country of origin)_: 113,549 (Somalia), 16,649 (Ethiopia) (2021)<br>
 _IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
 

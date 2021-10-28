@@ -711,7 +711,7 @@ Islamic Revolutionary Guard Corps/Qods Force; Jaysh al Adl (Jundallah); Kurdista
 <p>Iran protests Afghanistan's limiting flow of dammed Helmand River tributaries during drought; Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Iran and UAE dispute Tunb Islands and Abu Musa Island, which are occupied by Iran; Azerbaijan, Kazakhstan, and Russia ratified Caspian seabed delimitation treaties based on equidistance, while Iran continues to insist on a one-fifth slice of the sea; Afghan and Iranian commissioners have discussed boundary monument densification and resurvey</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2.1-2.25 million undocumented Afghans, 586,000 Afghan passport holders, 780,000 Afghan refugee card holders, 20,000 Iraqi refugee card holders (2020)<br>
+_refugees (country of origin)_: 2.6 million undocumented Afghans, 780,000 Afghan refugee card holders, 20,000 Iraqi refugee card holders (2020)<br>
 _stateless persons_: 34 (2020)<br>
 
 **Trafficking in persons**<br>

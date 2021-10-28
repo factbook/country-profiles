@@ -242,8 +242,8 @@ _election results_: Gavin ST PIER (independent) elected president of the Policy 
 
 **Legislative branch**<br>
 _description_: unicameral States of Deliberation (40 seats; 38 People's Deputies and 2 representatives of the States of Alderney; members directly elected by majority vote to serve 4-year terms); note - non-voting members include the bailiff (presiding officer), attorney-general, and solicitor-general<br>
-_elections_: last held on 27 April 2016 (next to be held in June 2020)<br>
-_election results_: percent of vote - NA; seats - independent 38; composition - men 27, women 13, percent of women 32.5%<br>
+_elections_: last held on 7 October 2020 (next to be held in June 2025)<br>
+_election results_: percent of vote - NA; seats - independent 38; composition - men 32, women 8, percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Guernsey Court of Appeal (consists of the Bailiff of Guernsey, who is the ex-officio president of the Guernsey Court of Appeal, and at least 12 judges); Royal Court (organized into 3 divisions - Full Court sits with 1 judge and 7 to 12 jurats acting as judges of fact, Ordinary Court sits with 1 judge and normally 3 jurats, and Matrimonial Causes Division sits with 1 judge and 4 jurats); note - appeals beyond Guernsey courts are heard by the Judicial Committee of the Privy Council (in London)<br>

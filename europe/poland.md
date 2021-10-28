@@ -92,7 +92,7 @@ Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - dat
 _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Mormon), unspecified 12.1% (2017 est.)<br>
+Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 12.1% (2017 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.83% (male 2,918,518/female 2,756,968)<br>
@@ -696,7 +696,7 @@ note: the Polish Armed Forces are organized into a General Staff, an Armed Force
 1.89% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 120,000 total active duty personnel (60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2020)<br>
+approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,000 Navy; 17,000 Air Force; 3,500 Special Forces; 25,000 Territorial Defense Forces; 7,500 joint service) (2021)<br>
 note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade<br>
 
 **Military equipment inventories and acquisitions**<br>

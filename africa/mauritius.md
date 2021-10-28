@@ -649,13 +649,13 @@ no regular military forces; the Mauritius Police Force (MPF) includes a paramili
 0.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Special Mobile Force has approximately 1,700 personnel; the National Coast Guard has about 800 (2020)<br>
+approximately 1,700 Special Mobile Force; approximately 800 National Coast Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the MPF's inventory is comprised of mostly second-hand equipment from France, Germany, India, and the UK (2021)<br>
 
 **Military service age and obligation**<br>
-service is voluntary<br>
+service is voluntary (2021)<br>
 
 ## Transnational Issues
 

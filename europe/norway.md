@@ -326,9 +326,9 @@ _cabinet_: Council of State appointed by the monarch, approved by Parliament<br>
 _elections/appointments_: the monarchy is hereditary; following parliamentary elections, the leader of the majority party or majority coalition usually appointed prime minister by the monarch with the approval of the parliament<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 13 September 2021 (next to be held in September 2025)<br>
-_election results_: <p>percent of vote by party - Ap 26.3%, H 20.4%, SP 13.5%, FrP 11.6%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF .2%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, V 8, R 8, KrF 3, MDG 3, PF 1</p><br>
+_description_: unicameral Parliament or Storting (169 seats; members directly elected in multi-seat constituencies by list proportional representation vote; members serve 4-year terms)<br>
+_elections_: last held on 13 September 2021 (next to be held on 30 September 2025)<br>
+_election results_: <p>percent of vote by party - Ap 26.3%, H 20.5%, SP 13.6%, FrP 11.7%, SV 7.6%, R 4.7%, V 4.6%, MDG 3.9%, KrF 3.8%, PF 0.2%, other 3.1%; seats by party - Ap 48, H 36, SP 28, FrP 21, SV 13, R 8, V 8, , KrF 3, MDG 3, PF 1; composition (as of October 2021) men 93, women 76, percent of women 45%</p><br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Hoyesterett (consists of the chief justice and 18 associate justices)<br>
@@ -685,7 +685,7 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 note - Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1988); it also has an all-female commando unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
 
 **Military - note**<br>
-Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>
+Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)<br>
 
 ## Transnational Issues
 

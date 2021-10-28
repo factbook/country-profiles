@@ -610,7 +610,7 @@ _major seaport(s)_: Bridgetown<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<br>
+Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>

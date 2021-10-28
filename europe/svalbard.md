@@ -139,6 +139,9 @@ NA<br>
 **HIV/AIDS - adult prevalence rate**<br>
 NA<br>
 
+**HIV/AIDS - people living with HIV/AIDS**<br>
+NA<br>
+
 **HIV/AIDS - deaths**<br>
 NA<br>
 
@@ -320,10 +323,10 @@ _major seaport(s)_: Barentsburg, Longyearbyen, Ny-Alesund, Pyramiden<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; military installations prohibited by treaty<br>
+no regular military forces<br>
 
 **Military - note**<br>
-Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; Norwegian military activity is limited to fisheries surveillance by the Norwegian Coast Guard<br>
+Svalbard is a territory of Norway, demilitarized by treaty on 9 February 1920; Norwegian military activity is limited to fisheries surveillance by the Norwegian Coast Guard (2021)<br>
 
 ## Transnational Issues
 

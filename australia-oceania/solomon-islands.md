@@ -635,7 +635,7 @@ _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
 no regular military forces; Royal Solomon Islands Police Force<br>
 
 **Military equipment inventories and acquisitions**<br>
-the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia<br>
+the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia (2021)<br>
 
 ## Transnational Issues
 

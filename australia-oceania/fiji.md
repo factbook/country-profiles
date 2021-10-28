@@ -321,8 +321,8 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 _chief of state_: President Jioji Konousi KONROTE (since 12 November 2015)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
-_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 31 August 2018 (next to be held in 2021); prime minister endorsed by the president<br>
-_election results_: Jioji Konousi KONROTE reelected president (unopposed)<br>
+_elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
+_election results_: Ratu Wiliame KATONIVERE elected president with 28 votes against 23 votes for Teimumu KEPA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament (51 seats; members directly elected in a nationwide, multi-seat constituency by open-list proportional representation vote to serve 4-year terms)<br>

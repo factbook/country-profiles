@@ -682,7 +682,7 @@ _by type_: general cargo 1 (2020)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2020)<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2021)<br>
 note: the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
@@ -693,19 +693,19 @@ note: the Gendarmerie is subordinate to the Ministry of Defense and has primary 
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2020)<br>
+information varies; approximately 10,000 active troops (est. 6,000 Army; 200 Air Force; 4,000 Gendarmerie); est. 3,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAN's inventory consists of a wide variety of older weapons; since 2010, the FAN has received small amounts of mostly second-hand equipment and donations from China, France, South Africa, Sweden, Ukraine, and the US (2020)<br>
 
 **Military deployments**<br>
-870 Mali (MINUSMA) (Jan 2021)<br>
+870 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 has conscription, although it is reportedly not always enforced; 18 is the legal minimum age for compulsory or voluntary military service; enlistees must be Nigerien citizens and unmarried; 2-year service term; women may serve in health care (2019)<br>
 
 **Military - note**<br>
-as of late 2020, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger’s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021<br><br>Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically<br>
+as of 2021, the FAN was conducting counterinsurgency and counter-terrorism operations against Islamic militants on two fronts; in the Diffa region, the Nigeria-based Boko Haram terrorist group has conducted dozens of attacks on security forces, army bases, and civilians; on Niger’s western border with Mali, the Islamic State-West Africa (ISWA) has conducted numerous attacks on security personnel; a series of ISWA attacks on FAN forces near the Malian border in December of 2019 and January of 2020 resulted in the deaths of more than 170 soldiers; terrorist attacks continued throughout 2020 and into 2021<br><br>Niger is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Mali, Mauritania, and Chad; it has committed 1,100 troops and 200 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane<br><br>Niger also has about 1,000 troops committed to the Multinational Joint Task Force (MNJTF) against Boko Haram; national MNJTF troop contingents are deployed within their own country territories, although cross‐border operations are conducted periodically (2021)<br>
 
 ## Terrorism
 
@@ -719,6 +719,6 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 186,957 (Nigeria), 61,348 (Mali) (2021)<br>
+_refugees (country of origin)_: 186,957 (Nigeria), 61,320 (Mali) (2021)<br>
 _IDPs_: 291,061 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
 

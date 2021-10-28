@@ -675,14 +675,14 @@ no regular military forces; Ministry of Public Security: the Panama National Pol
 note - the PNP includes paramilitary special forces units for counterterrorism and counternarcotics missions; in addition to its 3 regionally-based border security brigades, SENAFRONT includes a special forces brigade, which is comprised of special forces, counternarcotics, maritime, and rapid reaction units<br>
 
 **Military expenditures**<br>
+1.4% of GDP (2020 est.)<br>
+1.2% of GDP (2019)<br>
+1.2% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
 1.3% of GDP (2016)<br>
-1.2% of GDP (2015)<br>
-1.3% of GDP (2014)<br>
-1.4% of GDP (2013)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2020)<br>
+approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2020)<br>

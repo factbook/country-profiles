@@ -322,8 +322,8 @@ _elections/appointments_: the monarchy is hereditary; following elections to the
 
 **Legislative branch**<br>
 _description_: unicameral Chamber of Deputies or Chambre des Deputes (60 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 5-year terms); note - a 21-member Council of State appointed by the Grand Duke on the advice of the prime minister serves as an advisory body to the Chamber of Deputies<br>
-_elections_: last held on&nbsp;14 October 2018 (next to be held by October 2023)<br>
-_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition - men 46, women 14, percent of women 23.3%<br>
+_elections_: last held on 14 October 2018 (next to be held by 31 October 2023)<br>
+_election results_: percent of vote by party - CSV 28.3%, LSAP 17.6%, DP 16.9%, Green Party 15.1%, ADR 8.3%, Pirate Party 6.4%, The Left 5.5%, other 1.9%; seats by party - CSV 21, DP 12, LSAP 10, Green Party 9, ADR 4, Pirate Party 2, The Left 2; composition (as of September 2021) - men 39, women 21, percent of women 35%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice includes Court of Appeal and Court of Cassation (consists of 27 judges on 9 benches); Constitutional Court (consists of 9 members)<br>

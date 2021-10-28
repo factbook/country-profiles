@@ -292,7 +292,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Landtag (25 seats; members directly elected in 2 multi-seat constituencies by open-list proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 7 February 2021 (next to be held in February 2025)<br>
+_elections_: last held on 7 February 2021 (next to be held on 7 February 2025)<br>
 _election results_: percent of vote by party - FBP 35.9%, VU 35.9%, FL 12.9%, DpL 11.1%, independent 4.2%; seats by party - FBP 10, VU 10, FL 3, DpL 2; composition - men 18, women 7, percent of women 28%<br>
 
 **Judicial branch**<br>

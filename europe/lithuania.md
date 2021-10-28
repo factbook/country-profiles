@@ -672,11 +672,11 @@ _LNG terminal(s) (import)_: Klaipeda<br>
 Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos Pajegos), Naval Forces (Karines Juru Pajegos), Air Forces (Karines Oro Pajegos), Special Operations Forces (Specialiuju Operaciju Pajegos); National Defense Volunteer Forces (Savanoriu Pajegos); National Riflemen's Union (paramilitary force that acts as an additional reserve force) (2021)<br>
 
 **Military expenditures**<br>
+2.03% of GDP (2021 est.)<br>
 2.13% of GDP (2020 est.)<br>
 2% of GDP (2019)<br>
 1.97% of GDP (2018)<br>
 1.71% of GDP (2017)<br>
-1.48% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,500 Army, including about 5,000 National Defense Voluntary Forces; 600 Navy; 1,000 Air Force; 2,000 other, including special operations forces, logistics support, training, etc); est. 11,000 Riflemen Union (2021)<br>

@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 10 out 12 years preceding applicatio
 
 **Executive branch**<br>
 _chief of state_: King Sultan ABDULLAH Sultan Ahmad Shah (since 24 January 2019); note - King MUHAMMAD V (formerly known as Tuanku Muhammad Faris Petra) (selected on 14 October 2016; installed on 13 December 2016) resigned on 6 January 2019; the position of the king is primarily ceremonial, but he is the final arbiter on the appointment of the prime minister<br>
-_head of government_: Prime Minister Ismail SABRI Yaakob (since 21 August 2021); note - Tan Sri MUHYIDDIN Yassin resigned on 16 August 2021<br>
+_head of government_: Prime Minister ISMAIL SABRI Yaakob (since 21 August 2021); note - Tan Sri MUHYIDDIN Yassin resigned on 16 August 2021<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament with the consent of the king; note - cabinet dissolved 24 February 2020 with Prime Minister MAHATHIR resignation<br>
 _elections/appointments_: king elected by and from the hereditary rulers of 9 states for a 5-year term; election is on a rotational basis among rulers of the 9 states; election last held on 24 January 2019 (next to be held in 2024); prime minister designated from among members of the House of Representatives; following legislative elections, the leader who commands support of the majority of members in the House becomes prime minister<br>
 
@@ -698,7 +698,7 @@ the Malaysian Armed Forces have approximately 115,000 active duty troops (80,000
 the Malaysian Armed Forces field a diverse mix of imported weapons systems; the top&nbsp; suppliers of military hardware since 2010 are France, Germany, Spain, and Turkey (2020)<br>
 
 **Military deployments**<br>
-825 Lebanon (UNIFIL) (March 2021)<br>
+825 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents</p><br>

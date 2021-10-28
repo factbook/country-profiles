@@ -93,7 +93,7 @@ Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority); note -
 _major-language sample(s)_: <br>Verdens Faktabog, den uundværlig kilde til grundlæggende oplysninger. (Danish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Mormon, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
+Evangelical Lutheran (official) 74.7%, Muslim 5.5%, other/none/unspecified (denominations of less than 1% each in descending order of size include Roman Catholic, Jehovah's Witness, Serbian Orthodox Christian, Jewish, Baptist, Buddhist, Church of Jesus Christ, Pentecostal, and nondenominational Christian) 19.8% (2019 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.42% (male 494,806/female 469,005)<br>
