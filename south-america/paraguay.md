@@ -67,6 +67,9 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 **Major aquifers**<br>
 Guarani Aquifer System<br>
 
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
+
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
 
@@ -276,6 +279,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>

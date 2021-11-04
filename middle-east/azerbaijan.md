@@ -62,6 +62,9 @@ _other_: 31.1% (2018 est.)<br>
 **Irrigated land**<br>
 14,277 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
+
 **Population distribution**<br>
 highest population density is found in the far eastern area of the county, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
 
@@ -212,7 +215,7 @@ _unimproved: total_: total: 4.9% of population (2017 est.)<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 99.8%<br>
 _male_: 99.9%<br>
-_female_: 99.7% (2017)<br>
+_female_: 99.7% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -262,6 +265,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,930,349 tons (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 449.6 million cubic meters (2017 est.)<br>
@@ -584,15 +590,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,673,211<br>
-_subscriptions per 100 inhabitants_: 16.52 (2019 est.)<br>
+_total subscriptions_: 1,652,688 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,750,300<br>
-_subscriptions per 100 inhabitants_: 106.13 (2019 est.)<br>
+_total subscriptions_: 10,344,300 (2020)<br>
+_subscriptions per 100 inhabitants_: 102 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a landlocked country with historically poor infrastructure; state control of telecom systems; progress with Digital Hub project despite economic contraction in 2020; government launched e-school and e-service programs; risk of delays in infrastructure and launch of new technologies, including 5G due to slow market demand; LTE supports most data traffic while mobile broadband subscribership grows rapidly; fixed-line broadband market has slight upward trend; Internet access is expensive and suffers from outages and intentional government disruption; importer of broadcasting equipment from Russia (2021)<br>
+_general assessment_: a landlocked country with historically poor infrastructure; state control of telecom systems; progress with Digital Hub project despite economic contraction in 2020; government launched e-school and e-service programs; risk of delays in infrastructure and launch of new technologies, including 5G due to slow market demand; LTE supports most data traffic while mobile broadband subscribership grows rapidly; fixed-line broadband market has slight upward trend; Internet access is expensive and suffers from outages and intentional government disruption; importer of broadcasting equipment from Russia (2020)<br>
 _domestic_: teledensity of some 17 fixed-lines per 100 persons; mobile-cellular teledensity has increased to 107 telephones per 100 persons; satellite service connects Baku to a modern switch in its exclave of Naxcivan (Nakhchivan) (2019)<br>
 _international_: country code - 994; the TAE fiber-optic link transits Azerbaijan providing international connectivity to neighboring countries; the old Soviet system of cable and microwave is still serviceable; satellite earth stations - 2 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -608,8 +614,8 @@ _total_: 8,017,120<br>
 _percent of population_: 79.8% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,943,013<br>
-_subscriptions per 100 inhabitants_: 19.18 (2019 est.)<br>
+_total_: 1,995,474 (2020)<br>
+_subscriptions per 100 inhabitants_: 19.68 (2020 est.)<br>
 
 ## Transportation
 

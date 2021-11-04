@@ -63,6 +63,12 @@ _other_: 14.3% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
+
+**Major rivers (by length in km)**<br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
 
@@ -281,6 +287,12 @@ _widespread lack of access_: due to reduced incomes, and floods - in traditional
 _municipal solid waste generated annually_: 7,045,050 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 422,703 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2017 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
+
+**Major rivers (by length in km)**<br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -693,7 +705,7 @@ information varies; approximately 45-50,000 troops, including about 1,000-1,500 
 the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited mix of more modern Russian- and Western-origin arms; since 2010, the leading suppliers of arms to the UPDF are Russia and Ukraine (2020)<br>
 
 **Military deployments**<br>
-6,200 Somalia (AMISOM); 620 Somalia (UNSOM); 250 Equatorial Guinea (Jan 2021)<br>
+6,200 Somalia (AMISOM); 620 Somalia (UNSOM); 250 Equatorial Guinea (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation (2019)<br>

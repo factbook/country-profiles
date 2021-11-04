@@ -65,6 +65,9 @@ _other_: 21.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - largest lake in the Balkans<br>
+
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
 
@@ -274,6 +277,9 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 _municipal solid waste generated annually_: 332,000 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 17,994 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.4% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - largest lake in the Balkans<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>

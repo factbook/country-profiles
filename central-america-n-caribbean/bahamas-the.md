@@ -542,12 +542,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 91,129<br>
-_subscriptions per 100 inhabitants_: 26.29 (2019 est.)<br>
+_total subscriptions_: 91,129 (2019)<br>
+_subscriptions per 100 inhabitants_: 23.4 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 425,507<br>
-_subscriptions per 100 inhabitants_: 122.76 (2019 est.)<br>
+_total subscriptions_: 425,507 (2019)<br>
+_subscriptions per 100 inhabitants_: 109.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the telecom sector across the Caribbean continues to be a growth area, contributing to the country's overall GDP; totally automatic system; highly developed; operators focus investment on mobile networks; the activation of (mobile number portability) MNP in April 2017, allowing mobile subscribers to port their numbers between competing MNO (mobile network operators) has contributed to the competition and liberalization of the market (2020)<br>
@@ -566,8 +566,8 @@ _total_: 282,739<br>
 _percent of population_: 85% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 82,295<br>
-_subscriptions per 100 inhabitants_: 23.74 (2019 est.)<br>
+_total_: 82,295 (2019)<br>
+_subscriptions per 100 inhabitants_: 21.13 (2019 est.)<br>
 
 ## Transportation
 
@@ -639,5 +639,5 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 <p>disagrees with the US on the alignment of the northern axis of a potential maritime boundary</p><br>
 
 **Illicit drugs**<br>
-transshipment point for cocaine and marijuana bound for US and Europe; offshore financial center<br>
+<p>a transit point for illegal drugs bound for the United States; illicit production of marijuana continues</p><br>
 

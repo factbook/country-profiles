@@ -76,6 +76,12 @@ Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas 
 **Major aquifers**<br>
 Paris Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rhine&nbsp; (shared with Switzerland, Germany, and Netherlands) - 1,233 km;&nbsp;&nbsp;Loire - 1,012 km;<br>
+
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
 
@@ -275,6 +281,12 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 33.399 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 7,434,617 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rhine&nbsp; (shared with Switzerland, Germany, and Netherlands) - 1,233 km;&nbsp;&nbsp;Loire - 1,012 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>

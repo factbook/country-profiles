@@ -67,6 +67,9 @@ _other_: 32.6% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Mekong (shared with China, Laos, Thailand, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Thailand) - 3,060 km; Irrawaddy (shared with China) - 2,809 km; Chindwin - 1,158 km<br>
+
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
 
@@ -224,9 +227,9 @@ _animal contact diseases_: rabies<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 75.6%<br>
-_male_: 80%<br>
-_female_: 71.8% (2016)<br>
+_total population_: 89.1%<br>
+_male_: 92.4%<br>
+_female_: 86.3% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -284,6 +287,9 @@ _severe localized food insecurity_: due to conflict, political instability, and 
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with China, Laos, Thailand, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Thailand) - 3,060 km; Irrawaddy (shared with China) - 2,809 km; Chindwin - 1,158 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -691,7 +697,7 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 
 **Military and security forces**<br>
 Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Border Guard Forces; Ministry of Home Affairs: People's Police Force (2021)<br>
-note: the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br>
+note(s) - the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br><br>the National Unity Government anti-junta military forces are known as the People's Defense Force (formed May 2021)<br>
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>

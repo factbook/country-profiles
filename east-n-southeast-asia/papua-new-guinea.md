@@ -64,6 +64,9 @@ _other_: 34.3% (2018 est.)<br>
 **Irrigated land**<br>
 0 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Sepik (shared with Indonesia) - 1,126 km; Fly (shared with Indonesia) - 1,050 km<br>
+
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
 
@@ -264,6 +267,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 1 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2016 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Sepik (shared with Indonesia) - 1,126 km; Fly (shared with Indonesia) - 1,050 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 223.5 million cubic meters (2017 est.)<br>
@@ -673,7 +679,7 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papau New Guinea receives most of its military assistance from Australia; since 2010, it has also received equipment from China and New Zealand (2020)<br>
+the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papau New Guinea receives most of its military assistance from Australia; since 2010, it has also received equipment from China and New Zealand (2021)<br>
 
 **Military service age and obligation**<br>
 16 years of age for voluntary military service (with parental consent); no conscription; graduation from grade 12 required (2019)<br>

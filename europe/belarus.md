@@ -64,6 +64,9 @@ _other_: 13.6% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Dnieper (shared with Russia and Ukraine) - 2,287 km; Vistula (shared with Poland and Ukraine) - 1,213 km<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -211,9 +214,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.8%<br>
-_male_: 99.8%<br>
-_female_: 99.7% (2018)<br>
+_total population_: 99.9%<br>
+_male_: 99.9%<br>
+_female_: 99.9% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -264,6 +267,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 4.28 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 684,800 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2016 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Dnieper (shared with Russia and Ukraine) - 2,287 km; Vistula (shared with Poland and Ukraine) - 1,213 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
@@ -334,7 +340,7 @@ _election results_: Aleksandr LUKASHENKO reelected president; percent of vote - 
 **Legislative branch**<br>
 _description_: bicameral National Assembly or Natsionalnoye Sobraniye consists of:<br>Council of the Republic or Sovet Respubliki (64 seats; 56 members indirectly elected by regional and Minsk city councils and 8 members appointed by the president; members serve 4-year terms)<br>House of Representatives or Palata Predstaviteley (110 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 4-year terms)<br>
 _elections_: <br>Council of the Republic - indirect election last held on 7 November 2019<br>House of Representatives - last held on 17 November 2019 (next to be held in 2023); OSCE observers determined that the election was neither free nor impartial and that vote counting was problematic in a number of polling stations; pro-LUKASHENKO candidates won every seat; international observers determined that the previous elections, on 28 September 2008, 23 September 2012, and 11 September 2016 also fell short of democratic standards, with pro-LUKASHENKO candidates winning every, or virtually every, seat<br>
-_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition - NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%; note - total National Assembly percent of women - NA<br>
+_election results_: <br>Council of the Republic - percent of vote by party - NA; seats by party - NA; composition -NA<br>House of Representatives - percent of vote by party - NA; seats by party - KPB 11, Republican Party of Labor and Justice 6, Belarusian Patriotic Party 2, LDP 1, AP 1, independent 89; composition - men 66, women 44, percent of women 40%<br>
 <strong>note:</strong> the US does not recognize the legitimacy of the National Assembly<br>
 
 **Judicial branch**<br>
@@ -589,15 +595,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,451,144<br>
-_subscriptions per 100 inhabitants_: 46.88 (2019 est.)<br>
+_total subscriptions_: 4,406,585 (2020)<br>
+_subscriptions per 100 inhabitants_: 46.63 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,627,249<br>
-_subscriptions per 100 inhabitants_: 122.46 (2019 est.)<br>
+_total subscriptions_: 11,704,084 (2020)<br>
+_subscriptions per 100 inhabitants_: 123.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>government owns and administers backbone network and much of telecom market with no independent regulator; government and telecom regulator are concluding three major programs aimed at developing the telecom sector and digital economy to enable 5G services and extension of fiber infrastructure; growing applications for smart cities; developing mobile broadband and data services to rural areas; commercial LTE services extended to 80% of the population; operators provide standalone 5G service and NB-IoT services; international connection through fiber optic and terrestrial link, nascent satellite system; importer of broadcasting equipment from China</p> (2021)<br>
+_general assessment_: government owns and administers backbone network and much of telecom market with no independent regulator; government and telecom regulator are concluding three major programs aimed at developing the telecom sector and digital economy to enable 5G services and extension of fiber infrastructure; growing applications for smart cities; developing mobile broadband and data services to rural areas; commercial LTE services extended to 80% of the population; operators provide standalone 5G service and NB-IoT services; international connection through fiber optic and terrestrial link, nascent satellite system; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line teledensity is improving although rural areas continue to be underserved, 48 per 100 fixed-line; mobile-cellular teledensity now approaches 123 telephones per 100 persons (2019)<br>
 _international_: country code - 375; Belarus is landlocked and therefore a member of the Trans-European Line (TEL), Trans-Asia-Europe (TAE) fiber-optic line, and has access to the Trans-Siberia Line (TSL); 3 fiber-optic segments provide connectivity to Latvia, Poland, Russia, and Ukraine; worldwide service is available to Belarus through this infrastructure; additional analog lines to Russia; Intelsat, Eutelsat, and Intersputnik earth stations; almost 31,000 base stations in service in 2019 (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -613,8 +619,8 @@ _total_: 7,539,145<br>
 _percent of population_: 79.13% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,214,869<br>
-_subscriptions per 100 inhabitants_: 33.86 (2019 est.)<br>
+_total_: 3,255,552 (2020)<br>
+_subscriptions per 100 inhabitants_: 34.45 (2020 est.)<br>
 
 ## Transportation
 

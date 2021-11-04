@@ -557,7 +557,7 @@ _major seaport(s)_: Funafuti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force (2021)<br>
+no regular military forces; Tuvalu Police Force<br>
 
 ## Transnational Issues
 

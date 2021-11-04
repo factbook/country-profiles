@@ -334,9 +334,9 @@ _elections/appointments_: <p>president indirectly elected by Parliament for a 5-
 _election results_: <p>Alar KARIS elected president on 31 August 2021; parliament vote-Alar KARIS (independent) 72 of 101 votes; note – KARIS follows Kersti KALJULAID, who was Estonia's first female president; KALLAS is Estonia's first female prime minister</p><br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
+_description_: unicameral Parliament or Riigikogu (101 seats; members directly elected in multi-seat constituencies by open- list proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 3 March 2019 (next to be held in March 2023)<br>
-_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 72, women 29, percent of women 28.7%<br>
+_election results_: percent of vote by party - RE 28.9%, K 23.1%, EKRE 17.8%, Pro Patria 11.4%, SDE 9.8%, other 9%; seats by party - RE 34, K 26, EKRE 19, Pro Patria 12, SDE 10; composition - men 75, women 26, percent of women 25.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 justices, including the chief justice, and organized into civil, criminal, administrative, and constitutional review chambers)<br>

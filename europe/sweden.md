@@ -63,6 +63,9 @@ _other_: 23.8% (2018 est.)<br>
 **Irrigated land**<br>
 1,640 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
+
 **Population distribution**<br>
 most Swedes live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the Baltic coast in the east; the interior areas of the north remain sparsely populated<br>
 
@@ -258,6 +261,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 4.377 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,416,835 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 32.4% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Vanern - 5,580 sq km; Vattern - 1,910 sq km; Malaren - 1,140 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 955 million cubic meters (2017 est.)<br>

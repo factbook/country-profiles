@@ -62,6 +62,9 @@ _other_: 33.1% (2018 est.)<br>
 **Irrigated land**<br>
 16,270 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Laguna de Bay - 890 sq km<br>
+
 **Population distribution**<br>
 population concentrated where good farmlands lie; highest concentrations are northwest and south-central Luzon, the southeastern extension of Luzon, and the islands of the Visayan Sea, particularly Cebu and Negros; Manila is home to one-eighth of the entire national population<br>
 
@@ -280,6 +283,9 @@ _water contact diseases_: leptospirosis<br>
 _municipal solid waste generated annually_: 14,631,923 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4,096,938 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2014 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Laguna de Bay - 890 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 8.929 billion cubic meters (2017 est.)<br>

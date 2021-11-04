@@ -554,12 +554,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 128,043<br>
-_subscriptions per 100 inhabitants_: 42.67 (2019 est.)<br>
+_total subscriptions_: 128,043 (2019)<br>
+_subscriptions per 100 inhabitants_: 44.61 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 329,326<br>
-_subscriptions per 100 inhabitants_: 109.75 (2019 est.)<br>
+_total subscriptions_: 329,326 (2019)<br>
+_subscriptions per 100 inhabitants_: 114.7 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: island-wide automatic telephone system; telecom sector across the Caribbean region remains one of the key growth areas and contributors to the overall GDP; numerous competitors licensed, but small and localized (2020)<br>
@@ -578,8 +578,8 @@ _total_: 239,664<br>
 _percent of population_: 81.76% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 106,803<br>
-_subscriptions per 100 inhabitants_: 35.59 (2019 est.)<br>
+_total_: 106,803 (2019)<br>
+_subscriptions per 100 inhabitants_: 37.21 (2019 est.)<br>
 
 ## Transportation
 
@@ -641,5 +641,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in B
 _tier rating_: Tier 2 Watch List &mdash; Barbados does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government completed an anti-trafficking manual on assisting and interviewing victims, reinstated the anti-trafficking task force, and increased training for law enforcement and child care officials; however, authorities again did not identify any trafficking victims, reported no new prosecutions, and have never convicted anyone of trafficking; the national action plan has yet to be completed (2020)<br>
 
 **Illicit drugs**<br>
-one of many Caribbean transshipment points for narcotics bound for Europe and the US; offshore financial center<br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
 

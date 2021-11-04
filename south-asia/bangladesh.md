@@ -70,6 +70,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
 
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, Nepal, China, and Bhutan) - 3,969 km; Ganges (shared with India and Nepal) - 2,704 km<br>
+
 **Natural hazards**<br>
 droughts; cyclones; much of the country routinely inundated during the summer monsoon season<br>
 
@@ -218,9 +221,9 @@ _animal contact diseases_: rabies<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 74.7%<br>
-_male_: 77.4%<br>
-_female_: 72% (2019)<br>
+_total population_: 74.9%<br>
+_male_: 77.8%<br>
+_female_: 72% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -280,6 +283,9 @@ _severe localized food insecurity_: due to economic constraints - food insecurit
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, Nepal, China, and Bhutan) - 3,969 km; Ganges (shared with India and Nepal) - 2,704 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
@@ -609,15 +615,15 @@ _electrification - rural areas_: 77% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,449,646<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 1,450,321 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 165.572 million<br>
-_subscriptions per 100 inhabitants_: 102.87 (2019 est.)<br>
+_total subscriptions_: 170,136,762 (2020)<br>
+_subscriptions per 100 inhabitants_: 103.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bangladesh’s economic constraints hinder network infrastructure, resulting in the lowest fixed-line penetration rate in South Asia and a very low fixed broadband rate; most consumers utilize mobile broadband for data on LTE networks but rates are still well below that of most other Asian countries; the government approved a modernization project to support investment and prepare for 5G launches; 2020 test of 5G technology in Dhaka; government directive allows IoT for smart buildings and automation industries; government project aims to provide network to services and schools; importer of broadcasting equipment from China</p> (2021)<br>
+_general assessment_: Bangladesh&rsquo;s economic constraints hinder network infrastructure, resulting in the lowest fixed-line penetration rate in South Asia and a very low fixed broadband rate; most consumers utilize mobile broadband for data on LTE networks but rates are still well below that of most other Asian countries; the government approved a modernization project to support investment and prepare for 5G launches; 2020 test of 5G technology in Dhaka; government directive allows IoT for smart buildings and automation industries; government project aims to provide network to services and schools; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line teledensity remains less than 1 per 100 persons; mobile-cellular telephone subscribership has been increasing rapidly and now exceeds&nbsp;101 telephones per 100 persons; mobile subscriber growth is&nbsp;anticipated over the next five years to 2023; strong local competition (2019)<br>
 _international_: country code - 880; landing points for the SeaMeWe-4 and SeaMeWe-5 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; satellite earth stations - 6; international radiotelephone communications and landline service to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -633,8 +639,8 @@ _total_: 23,917,950<br>
 _percent of population_: 15% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,085,500<br>
-_subscriptions per 100 inhabitants_: 5.02 (2019 est.)<br>
+_total_: 9,521,970<br>
+_subscriptions per 100 inhabitants_: 5.78 (2019 est.)<br>
 
 ## Transportation
 
@@ -739,5 +745,5 @@ _IDPs_: 427,000 (conflict, development, human rights violations, religious perse
 _stateless persons_: 866,457 (2020)<br>
 
 **Illicit drugs**<br>
-transit country for illegal drugs produced in neighboring countries<br>
+<p>transit country for illegal drugs produced in neighboring countries; does not manufacture precursor chemicals with the exception of sulphuric acid, hydrochloric acid, and toluene</p><br>
 

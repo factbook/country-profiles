@@ -570,16 +570,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 272,614<br>
-_subscriptions per 100 inhabitants_: 18.5 (2019 est.)<br>
+_total subscriptions_: 266,659 (2020)<br>
+_subscriptions per 100 inhabitants_: 15.67 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,900,361<br>
-_subscriptions per 100 inhabitants_: 128.95 (2019 est.)<br>
+_total subscriptions_: 1,748,672 (2020)<br>
+_subscriptions per 100 inhabitants_: 102.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE</p> (2021)<br>
-_domestic_: 17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2019)<br>
+_general assessment_: Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE (2020)<br>
+_domestic_: 17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
 _international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -594,8 +594,8 @@ _total_: 1,423,039<br>
 _percent of population_: 98.64% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 140,992<br>
-_subscriptions per 100 inhabitants_: 9.57 (2019 est.)<br>
+_total_: 148,595 (2020)<br>
+_subscriptions per 100 inhabitants_: 8.73 (2020 est.)<br>
 
 ## Transportation
 

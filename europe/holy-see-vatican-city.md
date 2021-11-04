@@ -213,7 +213,7 @@ _elections/appointments_: pope elected by the College of Cardinals, usually for 
 _election results_: Jorge Mario BERGOGLIO, former Archbishop of Buenos Aires, elected Pope FRANCIS<br>
 
 **Legislative branch**<br>
-_description_: unicameral Pontifical Commission for Vatican City State or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; members appointed by the pope to serve 5-year terms)<br>
+_description_: unicameral Pontifical Commission for the State of Vatican City or Pontificia Commissione per lo Stato della Citta del Vaticano (7 seats; the president of the Governorate of Vatican City State and 6 cardinals appointed by the pope to serve 5-year terms)<br>
 _elections_: last held on 11 July 2018<br>
 _election results_: composition - men 7, women 0<br>
 

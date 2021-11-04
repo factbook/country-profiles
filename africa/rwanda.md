@@ -64,6 +64,12 @@ _other_: 7.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<strong><br>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
 
@@ -273,6 +279,12 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<strong><br>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>

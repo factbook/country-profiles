@@ -646,6 +646,8 @@ _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>
 
 **Military and security forces**<br>
 the Haitian Armed Forces (FAdH), disbanded in 1995, began to be reconstituted in 2017 to assist with natural disaster relief, border security, and combating transnational crime; it established an Army command in 2018; the small Coast Guard is not part of the military, but rather the Haitian National Police (2021)<br>
+note - the National Police has a paramilitary, rapid-response unit known as the Motorized Intervention Unit or BIM
+<p class="gmail-css-axufdj"> </p><br>
 
 **Military and security service personnel strengths**<br>
 the FAdH has approximately 500 troops (the force is planned to eventually have around 5,000 personnel); approximately 16,000 National Police (2021)<br>

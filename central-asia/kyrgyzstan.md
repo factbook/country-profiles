@@ -64,6 +64,12 @@ _other_: 39.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
+
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kazakhstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
 
@@ -260,6 +266,12 @@ _coal revenues_: 0.21% of GDP (2018 est.)<br>
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
+
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kazakhstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
@@ -327,8 +339,8 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: Sadyr JAPAROV elected president in first round; percent of vote - Sadyr JAPAROV 79.5%, Adakhan MADUMAROV 6.5%, other 14%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; members selected from party lists; winning parties limited to no more than 65 seats; members&nbsp;serve 5-year terms)<br>
-_elections_: last held on 4 October 2020 (next to be held NA); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
+_description_: unicameral Supreme Council or Jogorku Kengesh (120 seats; parties directly elected in a single nationwide constituency by closed party-list proportional representation vote; winning parties limited to no more than 65 seats; members serve 5-year terms)<br>
+_elections_: last held on 4 October 2020 (next to be held on 28 November 2021); note - the results of the 2020 election were annulled on 6 October 2020 following mass protests<br>
 _election results_: percent of vote by party - NA; seats by party - NA<br>
 
 **Judicial branch**<br>

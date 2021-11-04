@@ -67,6 +67,9 @@ _other_: 10.6% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Population distribution**<br>
 urbanization is not particularly high, and a fairly even population distribution can be found throughout most of the country, with urban areas attracting larger and denser populations; Hungarians, the country's largest minority, have a particularly strong presence in eastern Transylvania<br>
 
@@ -267,6 +270,9 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 4.895 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>

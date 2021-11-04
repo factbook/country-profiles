@@ -64,6 +64,13 @@ _other_: 6.8% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
+_Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;<br>
+
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
 
@@ -281,6 +288,13 @@ _severe localized food insecurity_: due to reduced incomes - nationally, cereal 
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,297,844 tons (2013 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
+_Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>

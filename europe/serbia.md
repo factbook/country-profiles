@@ -64,6 +64,9 @@ _other_: 10.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -279,6 +282,9 @@ _municipal solid waste generated annually_: 1.84 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -344,7 +350,7 @@ _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in 2022); prime minister elected by the National Assembly<br>
-_election results_: Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br>
+_election results_: <br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br><br><em>2012: </em>Tomislav NIKOLIC elected president; percent of vote in second round - Tomislav NIKOLIC (SNS) 51.2%, Boris TADIC (NDS-Z) 48.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>

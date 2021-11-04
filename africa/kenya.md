@@ -69,6 +69,10 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 **Major aquifers**<br>
 Ogaden-Juba Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 sq km<br>
+_Salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
+
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
 
@@ -288,6 +292,10 @@ _exceptional shortfall in aggregate food production/supplies_: due to poor seaso
 _municipal solid waste generated annually_: 5,595,099 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 447,608 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 sq km<br>
+_Salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>

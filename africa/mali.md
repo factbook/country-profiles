@@ -67,6 +67,12 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta
 **Major aquifers**<br>
 Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Niger, and Nigeria) - 4,200 km; Senegal (shared with Senegal and Mauritania) - 1,641 km;&nbsp;<br>
+
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
 
@@ -285,6 +291,12 @@ _severe localized food insecurity_: <p>due to civil insecurity - according to th
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Niger, and Nigeria) - 4,200 km; Senegal (shared with Senegal and Mauritania) - 1,641 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>

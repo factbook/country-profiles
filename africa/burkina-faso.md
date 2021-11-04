@@ -64,6 +64,9 @@ _other_: 36.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Volta (shared with Ghana) - 1,600 km<br>
+
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
 
@@ -220,9 +223,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 41.2%<br>
-_male_: 50.1%<br>
-_female_: 32.7% (2018)<br>
+_total population_: 39.3%<br>
+_male_: 49.2%<br>
+_female_: 31% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -284,6 +287,9 @@ _severe localized food insecurity_: due to civil insecurity in the north - accor
 _municipal solid waste generated annually_: 2,575,251 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 309,030 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 12% (2005 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Volta (shared with Ghana) - 1,600 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>

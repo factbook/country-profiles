@@ -61,6 +61,9 @@ _other_: 9.8% (2018 est.)<br>
 **Irrigated land**<br>
 210 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Nile (shared with Sudan, South Sudan, Egypt, Ethiopia, Kenya, the Democratic Republic of the Congo, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km;<br>
+
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
 
@@ -259,6 +262,9 @@ _vectorborne diseases_: malaria and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Sudan, South Sudan, Egypt, Ethiopia, Kenya, the Democratic Republic of the Congo, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km;<br>
 
 **Total water withdrawal**<br>
 _municipal_: 31 million cubic meters (2017 est.)<br>

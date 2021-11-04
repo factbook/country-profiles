@@ -63,6 +63,9 @@ _other_: 19% (2018 est.)<br>
 **Irrigated land**<br>
 24,690 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Biwa-ko 688 sq km<br>
+
 **Population distribution**<br>
 all primary and secondary regions of high population density lie on the coast; one-third of the population resides in and around Tokyo on the central plain (Kanto Plain)<br>
 
@@ -260,6 +263,9 @@ _municipal solid waste generated annually_: 43.981 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,155,069 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Biwa-ko 688 sq km<br>
+
 **Total water withdrawal**<br>
 _municipal_: 15.41 billion cubic meters (2017 est.)<br>
 _industrial_: 11.61 billion cubic meters (2017 est.)<br>
@@ -322,9 +328,9 @@ _elections/appointments_: the monarchy is hereditary; the leader of the majority
 _election results_: Fumio KISHIDA elected prime minister on 4 October 2021 by the lower house with 311 votes against 124 for Yukio EDANO<br>
 
 **Legislative branch**<br>
-_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br> House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: <br> House of Councillors - last held on 10 July 2016 (next to be held in July 2019)<br> House of Representatives - last held on 22 October 2017 (next to be held by 21 October 2021)<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br> House of Representatives - percent of vote by party - NA; seats by party - LDP 284, CDP 55, Party of Hope 50, Komeito 29, JCP 12, JIP 11, SDP 2, independent 22<br>
+_description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
+_elections_: <br>House of Councillors - last held on 21 July 2019 (next to be held in July 2022)<br>House of Representatives - last held on 31 October 2021 (next to be held by October 2025)<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - LDP 55, DP 32, Komeito 14, JCP 6, Osaka Ishin no Kai (Initiatives from Osaka) 7, PLPTYF 1, SDP 1, independent 5<br>House of Representatives - percent of vote by party - NA; seats by party - LDP 261, CDP 96, Ishin 41, Komeito 32, DPFP 11, JCP 10, Reiwa 3, SDP 1, independent 10<br>
 <strong>note: </strong>the Diet in June 2017 redrew Japan's electoral district boundaries and reduced from 475 to 465 seats in the House of Representatives; the amended electoral law, which cuts 6 seats in single-seat districts and 4 in multi-seat districts, was reportedly intended to reduce voting disparities between densely and sparsely populated voting districts<br>
 
 **Judicial branch**<br>
@@ -333,7 +339,7 @@ _judge selection and term of office_: Supreme Court chief justice designated by 
 _subordinate courts_: 8 High Courts (Koto-saiban-sho), each with a Family Court (Katei-saiban-sho); 50 District Courts (Chiho saibansho), with 203 additional branches; 438 Summary Courts (Kani saibansho)<br>
 
 **Political parties and leaders**<br>
-Constitutional Democratic Party of Japan or CDP [Yukio EDANO]<br>Democratic Party of Japan or DPJ [Kohei OTSUKA]<br>Group of Reformists [Sakihito OZAWA]<br>Initiatives from Osaka (Osaka Ishin no kai) [Ichiro MATSUI]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or JIP [Ichiro MATSUI]<br>Party of Hope or Kibo no To [Yuichiro TAMAKI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Yoshihide SUGA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)New Renaissance Party [Hiroyuki ARAI]<br>Party for Japanese Kokoro or PJK [Masashi NAKANO]Social Democratic Party or SDP [Tadatomo YOSHIDA]The Assembly to Energize Japan and the Independents [Kota MATSUDA]<br>
+Constitutional Democratic Party of Japan or CDP [Yukio EDANO]<br>Democratic Party for the People Japan or DPFP [Yuichiro TAMAKI]<br>Group of Reformists [Sakihito OZAWA]<br>Japan Communist Party or JCP [Kazuo SHII]<br>Japan Innovation Party or Nippon Ishin no kai or Ishin [Ichiro MATSUI]<br>Party of Hope or Kibo no To [Yuichiro TAMAKI]<br>Komeito [Natsuo YAMAGUCHI]<br>Liberal Democratic Party or LDP [Yoshihide SUGA]<br>Liberal Party [Ichiro OZAWA] (formerly People's Life Party &amp; Taro Yamamoto and Friends or PLPTYF)New Renaissance Party [Hiroyuki ARAI]<br>Party for Japanese Kokoro or PJK [Masashi NAKANO]<br>Reiwa Shinsengumi [Taro YAMAMOTO]<br>Social Democratic Party or SDP [Tadatomo YOSHIDA]<br>The Assembly to Energize Japan and the Independents [Kota MATSUDA]<br>
 
 **International organization participation**<br>
 ADB, AfDB (nonregional member), APEC, Arctic Council (observer), ARF, ASEAN (dialogue partner), Australia Group, BIS, CD, CE (observer), CERN (observer), CICA (observer), CP, CPLP (associate), EAS, EBRD, EITI (implementing country), FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NEA, NSG, OAS (observer), OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SAARC (observer), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>

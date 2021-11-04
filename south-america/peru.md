@@ -69,6 +69,12 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
 **Major aquifers**<br>
 Amazon Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amazon (shared with Brazil) - 6,400 km;<br>
+
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
 
@@ -282,6 +288,12 @@ _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<b
 _municipal solid waste generated annually_: 8,356,711 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 334,268 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2012 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amazon (shared with Brazil) - 6,400 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>

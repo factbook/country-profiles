@@ -85,7 +85,7 @@ Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), Engli
 <strong>note:</strong> most people are bilingual<br>
 
 **Religions**<br>
-Christian 98.3%, other 1%, unaffiliated 0.7% (2010 est.)<br>
+Christian 98.3%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 27.76% (male 7,063/female 6,662)<br>

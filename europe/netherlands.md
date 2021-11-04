@@ -67,6 +67,9 @@ _other_: 34.1% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Rhine&nbsp; (shared with Switzerland, Germany, and France) - 1,233 km;&nbsp;<br>
+
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
 
@@ -261,6 +264,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 8.855 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Rhine&nbsp; (shared with Switzerland, Germany, and France) - 1,233 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>

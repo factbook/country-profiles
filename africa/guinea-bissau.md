@@ -634,7 +634,8 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Guard Nacional (a gendarmerie force under the Ministry of Internal Administration) (2021)<br>
+People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2021)<br>
+note - the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
 1.7% of GDP (2020 est.)<br>

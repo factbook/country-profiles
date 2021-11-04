@@ -70,6 +70,12 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 **Major aquifers**<br>
 Nubian Aquifer System<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+
+**Major rivers (by length in km)**<br>
+Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
 
@@ -279,6 +285,12 @@ _water contact diseases_: schistosomiasis<br>
 _municipal solid waste generated annually_: 21 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.625 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
+
+**Major rivers (by length in km)**<br>
+Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>

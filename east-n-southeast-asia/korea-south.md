@@ -324,7 +324,7 @@ _chief of state_: President MOON Jae-in (since 10 May 2017); the president is bo
 _head of government_: President MOON Jae-in (since 10 May 2017)<br>
 _cabinet_: State Council appointed by the president on the prime minister's recommendation<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a single 5-year term; election last held on 9 May 2017 (next to be held in March 2022); prime minister appointed by president with consent of National Assembly<br>
-_election results_: MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br>
+_election results_: <em><br>2017:</em> MOON Jae-in elected president; percent of vote - MOON Jae-in (DP) 41.1%, HONG Joon-pyo (LKP) 25.5%, AHN Cheol-soo (PP) 21.4%, other 12%<br><br><em>2012: </em>PARK Geun-Hye elected president; percent of vote - PARK Geun-Hye (NFP) 51.6%, MOON Jae-In (DUP) 48%, other 0.4% <br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Kuk Hoe (300 seats statutory); 253 members directly elected in single-seat constituencies by simple majority vote and 47 directly elected in a single national constituency by proportional representation vote; members serve 4-year terms)<br>

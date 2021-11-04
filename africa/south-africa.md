@@ -71,6 +71,9 @@ Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 **Major aquifers**<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
 
+**Major rivers (by length in km)**<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
 
@@ -279,6 +282,9 @@ _water contact diseases_: schistosomiasis<br>
 _municipal solid waste generated annually_: 18,457,232 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -699,7 +705,7 @@ South African National Defence Force (SANDF): South African Army (includes Reser
 1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the South African National Defence Force (SANDF) is comprised of approximately 75,000 personnel (40,000 Army; 7,000 Navy; 10,000 Air Force; 8,000 Military Health Service; 10,000 other, including administrative, logistics, military police) (2021)<br>
+the South African National Defence Force (SANDF) is comprised of approximately 72,000 personnel (38,000 Army; 6,500 Navy; 9,500 Air Force; 7,500 Military Health Service; 10,500 other, including administrative, logistics, military police) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2020)<br>

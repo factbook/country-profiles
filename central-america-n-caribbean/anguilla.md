@@ -406,18 +406,18 @@ East Caribbean dollars (XCD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,461<br>
-_subscriptions per 100 inhabitants_: 42.02 (2019 est.)<br>
+_total subscriptions_: 6,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 42.02 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 32,332<br>
+_total subscriptions_: 26,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 182.09 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern internal telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; major growth sectors include the mobile telephony and data segments (2020)<br>
 _domestic_: fixed-line teledensity is about 42 per 100 persons; mobile-cellular teledensity is roughly 182 per 100 persons (2019)<br>
 _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, GCN&nbsp;and Southern Caribbean Fiber with submarine cable&nbsp;links to&nbsp;Caribbean islands&nbsp;and to the US; microwave radio relay to island of Saint Martin/Sint Maarten (2019)<br>
-<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
+<strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments but the contribution to the sector has been insufficient to offset steep falls in other areas of the market<br>
 
 **Broadcast media**<br>
 1 private TV station; multi-channel cable TV subscription services are available; about 10 radio stations, one of which is government-owned<br>
@@ -468,5 +468,5 @@ defense is the responsibility of the UK<br>
 <p>none</p><br>
 
 **Illicit drugs**<br>
-transshipment point for South American narcotics destined for the US and Europe<br>
+<p>transshipment point for South American narcotics destined for the US and Europe</p><br>
 

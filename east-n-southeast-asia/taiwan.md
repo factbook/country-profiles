@@ -608,7 +608,7 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>
+the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)<br>

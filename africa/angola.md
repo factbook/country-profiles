@@ -68,6 +68,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 **Major aquifers**<br>
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>
 
@@ -277,6 +280,9 @@ _animal contact diseases_: rabies<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -604,15 +610,15 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 124,726<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 119,164 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,830,154<br>
-_subscriptions per 100 inhabitants_: 47.19 (2019 est.)<br>
+_total subscriptions_: 14,645,050 (2020)<br>
+_subscriptions per 100 inhabitants_: 44.56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Angola’s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China</p> (2021)<br>
+_general assessment_: Angola&rsquo;s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China (2021)<br>
 _domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 47 telephones per 100 persons (2019)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -628,8 +634,8 @@ _total_: 4,353,033<br>
 _percent of population_: 14.34% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 119,068<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 230,610 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -717,5 +723,5 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 _refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
 
 **Illicit drugs**<br>
-used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa<br>
+<p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>
 

@@ -75,6 +75,13 @@ Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km
 **Major aquifers**<br>
 Northern Great Plains Aquifer, Cambrian-Ordovician Aquifer System, Californian Central Valley Aquifer System, Ogallala Aquifer (High Plains), Atlantic and Gulf Coastal Plains Aquifer<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
+_Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
+
+**Major rivers (by length in km)**<br>
+<p>Missouri - 3,768 km; Mississippi (shared with Canada) - 3,544 km; Yukon (shared with Canada) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande (shared with Mexico) - 3,057 km; Colorado (shared with Mexico) - 2,333 km; Arkansas - 2,348 km; Columbia (shared with Canada) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km</p><br>
+
 **Population distribution**<br>
 large urban clusters are spread throughout the eastern half of the US (particularly the Great Lakes area, northeast, east, and southeast) and the western tier states; mountainous areas, principally the Rocky Mountains and Appalachian chain, deserts in the southwest, the dense boreal forests in the extreme north, and the central prarie states are less densely populated; Alaska's population is concentrated along its southern coast - with particular emphasis on the city of Anchorage - and Hawaii's is centered on the island of Oahu<br>
 
@@ -267,6 +274,13 @@ _municipal solid waste generated annually_: 258 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 89.268 million tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 34.6% (2014 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Huron* – 23,597 sq km; Erie* – 12,890 sq km; Ontario* – 9,220 sq km; Lake of the Woods – 4,350 sq km; Iliamna – 2,590 sq km; Okeechobee – 1,810 sq km; Belcharof – 1,190 sq km; Red – 1,170 sq km; Saint Clair – 1,113 sq km; Champlain – 1,100 sq km<br>note - Great Lakes* area shown as US waters<br>
+_Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
+
+**Major rivers (by length in km)**<br>
+<p>Missouri - 3,768 km; Mississippi (shared with Canada) - 3,544 km; Yukon (shared with Canada) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande (shared with Mexico) - 3,057 km; Colorado (shared with Mexico) - 2,333 km; Arkansas - 2,348 km; Columbia (shared with Canada) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km</p><br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
 
@@ -337,7 +351,7 @@ _chief of state_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice Pr
 _head of government_: President Joseph R. BIDEN Jr. (since 20 January 2021); Vice President Kamala D. HARRIS (since 20 January 2021)<br>
 _cabinet_: Cabinet appointed by the president, approved by the Senate<br>
 _elections/appointments_: president and vice president indirectly elected on the same ballot by the Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); election last held on 3 November 2020 (next to be held on 5 November 2024)<br>
-_election results_: Joseph R. BIDEN Jr. elected president; electoral vote - Joseph R. BIDEN Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br>
+_election results_: <em><br>2020:</em> Joseph R. BIDEN Jr. elected president; electoral vote - Joseph R. BIDEN Jr. (Democratic Party) 306, Donald J. TRUMP (Republican Party) 232; percent of direct popular vote - Joseph R. BIDEN Jr. 51.3%, Donald J. TRUMP 46.9%, other 1.8%<br><br><em>2016:</em> Donald J. TRUMP elected president; electoral vote - Donald J. TRUMP (Republican Party) 304, Hillary D. CLINTON (Democratic Party) 227, other 7; percent of direct popular vote - Hillary D. CLINTON 48.2%, Donald J. TRUMP 46.1%, other 5.7%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress consists of:<br>Senate (100 seats; 2 members directly elected in each of the 50 state constituencies by simple majority vote except in Georgia and Louisiana which require an absolute majority vote with a second round if needed; members serve 6-year terms with one-third of membership renewed every 2 years)<br>House of Representatives (435 seats; members directly elected in single-seat constituencies by simple majority vote except in Georgia which requires an absolute majority vote with a second round if needed; members serve 2-year terms)<br>

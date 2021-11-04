@@ -67,6 +67,12 @@ _other_: 63.1% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iraq, Syria, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Syria) - 1,950 km; Helmand (shared with Afghanistan) - 1,130 km<br>
+
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
 
@@ -273,6 +279,12 @@ _vectorborne diseases_: Crimean-Congo hemorrhagic fever<br>
 _municipal solid waste generated annually_: 17.885 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 894,250 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iraq, Syria, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Syria) - 1,950 km; Helmand (shared with Afghanistan) - 1,130 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>

@@ -532,12 +532,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,403<br>
-_subscriptions per 100 inhabitants_: 25.15 (2019 est.)<br>
+_total subscriptions_: 24,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 25.15 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 187,095<br>
-_subscriptions per 100 inhabitants_: 192.82 (2019 est.)<br>
+_total subscriptions_: 184,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 192.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good automatic telephone system with fiber-optic lines; telecom sector contributes heavily to GDP; numerous mobile network competitors licensed, but small and local; govt. to spend EC80 million in 2019 to improve state-owned telecom market competitiveness; legislative amendments extend jurisdiction of its telecom regulator in Barbuda to include mobile services (2020)<br>
@@ -556,7 +556,7 @@ _total_: 72,870<br>
 _percent of population_: 76% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,261<br>
+_total_: 9,261 (2017 est.)<br>
 _subscriptions per 100 inhabitants_: 10 (2017 est.)<br>
 
 ## Transportation
@@ -617,5 +617,5 @@ the ABDF's equipment inventory is limited to small arms, light weapons, and soft
 <p>none</p><br>
 
 **Illicit drugs**<br>
-considered a minor transshipment point for narcotics bound for the US and Europe; more significant as an offshore financial center<br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
 

@@ -67,6 +67,12 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambe
 **Major aquifers**<br>
 Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
+
+**Major rivers (by length in km)**<br>
+<p>Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+
 **Population distribution**<br>
 one of the highest levels of urbanization in Africa; high density in the central area, particularly around the cities of Lusaka, Ndola, Kitwe, and Mufulira as shown in this population distribution map<br>
 
@@ -279,6 +285,12 @@ _severe localized food insecurity_: due to reduced incomes - the effects of the 
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
+
+**Major rivers (by length in km)**<br>
+<p>Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -694,13 +706,13 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 1.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2020)<br>
+the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments, with a small mix of Israeli, South African, and US equipment; since 2010, China is the leading supplier of arms to Zambia (2020)<br>
 
 **Military deployments**<br>
-920 Central African Republic (MINUSCA) (Jan 2021)<br>
+925 Central African Republic (MINUSCA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2019)<br>

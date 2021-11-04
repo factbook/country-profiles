@@ -270,10 +270,9 @@ _elections/appointments_: president and vice president indirectly elected on the
 _election results_: Lourdes LEON GUERRERO elected governor; percent of vote - &nbsp;Lourdes LEON GUERRERO (Democratic Party) 50.7%, Ray TENORIO (Republican Party) 26.4%; Josh TENORIO (Democratic Party) elected lieutenant governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>
-_elections_: last held on 6 November 2018 (next to be held on 3 November 2020)<br>
-_election results_: percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>
-<strong>note:</strong> Guam directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 6 November 2018 (next to be held on 3 November 2020); election results - seat by party - Democratic Party 1; composition 1 man<br>
+_description_: unicameral Legislature of Guam or Liheslaturan Guahan (15 seats; members elected in a single countrywide constituency by simple majority vote to serve 2-year terms)<br>Guam directly elects 1 member by simple majority vote to serve a 2-year term as the delegate to the US House of Representatives; note - the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote<br>
+_elections_: Guam Legislature - last held on 3 November 2020 (next to be held on 5 November 2022)<br>delegate to the US House of Representatives - last held on 3 November 2020 with runoff on 17 November (next to be held on 5 November 2022)<br>
+_election results_: Guam Legislature - percent of vote by party - NA; seats by party - Democratic Party 10, Republican Party 5; composition - men 5, women 10, percent of women 66.7%<br>Guam delegate to the US House of Representatives - Democratic Party 1 (man)<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Guam (consists of 3 justices); note - appeals beyond the Supreme Court of Guam are referred to the US Supreme Court<br>

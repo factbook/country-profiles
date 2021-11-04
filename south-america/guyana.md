@@ -66,6 +66,9 @@ _other_: 14.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Orinoco (shared with Colombia and Venezuela) - 2,101 km;&nbsp;<br>
+
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
@@ -277,6 +280,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 179,252 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 968 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Orinoco (shared with Colombia and Venezuela) - 2,101 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>

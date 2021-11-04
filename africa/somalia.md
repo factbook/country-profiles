@@ -319,7 +319,7 @@ _residency requirement for naturalization_: 7 years<br>
 _chief of state_: President Mohamed ABDULLAHI Mohamed "Farmaajo" (since 8 February 2017)<br>
 _head of government_: Prime Minister Mohamed Hussein ROBLE (since 27 September 2020)<br>
 _cabinet_: Cabinet appointed by the prime minister, approved by the House of the People<br>
-_elections/appointments_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 8 February 2017 (next election delayed until 10 October 2021); prime minister appointed by the president, approved by the House of the People<br>
+_elections/appointments_: president indirectly elected by the Federal Parliament by two-thirds majority vote in 2 rounds if needed for a single 4-year term; election last held on 8 February 2017; prime minister appointed by the president, approved by the House of the People; note - elections were scheduled for 10 October 2021 but did not take place; clan elders are scheduled to pick members of a lower house of parliament in November 2021; the parliament will then select a new president at an undetermined future date<br>
 _election results_: Mohamed ABDULLAHI Mohamed "Farmaajo" elected president in second round; Federal Parliament second round vote - Mohamed ABDULLAHI Mohamed "Farmaajo" (TPP) 184, HASSAN SHEIKH Mohamud (PDP) 97, Sheikh SHARIF Sheikh Ahmed (ARS) 46<br>
 
 **Legislative branch**<br>

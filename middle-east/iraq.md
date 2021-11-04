@@ -68,6 +68,12 @@ Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iran, Syria, and Turkey) - 3,596 km; Tigris (shared with Turkey, Syria, and Iran) - 1,950 km;&nbsp;<br>
+
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
 
@@ -271,6 +277,12 @@ _severe localized food insecurity_: due to civil conflict, low oil prices, and e
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iran, Syria, and Turkey) - 3,596 km; Tigris (shared with Turkey, Syria, and Iran) - 1,950 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
@@ -341,8 +353,8 @@ _election results_: <p><em>2018:</em> COR vote in first round - Barham SALIH (PU
 
 **Legislative branch**<br>
 _description_: unicameral Council of Representatives or Majlis an-Nuwwab al-Iraqiyy (329 seats; 320 members directly elected in 83 multi-seat constituencies by simple majority vote and 9 seats at the national level reserved for minorities - 5 for Christians, 1 each for Sabaean-Mandaeans, Yazidis, Shabaks, Fayli Kurds; 25% of seats allocated to women; members serve 4-year terms); note - in early November 2020, the president ratified a new electoral law - approved by the Council of Representatives in late October - that eliminates the proportional representation electoral system<br>
-_elections_: last held on 12 May 2018 (next to be held on 10 October 2021)<br>
-_election results_: percent of vote by party/coalition - NA; seats by party/coalition - Sa'irun Alliance 54, Al&nbsp;Fatah Alliance 48, Al Nasr Alliance 42, KDP 25, State of Law Coalition 25, Wataniyah 21, National Wisdom Trend 19, PUK 18, Iraqi Decision Alliance 14, Anbar Our Identity 6, Goran Movement 5, New Generation 4, other 48; composition - men 245, women 84, percent of women 25.5%<br>
+_elections_: last held on 10 October 2021 (next to be held in October 2025)<br>
+_election results_: percent of vote by party/coalition - NA; seats by party/coalition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court or FSC (consists of 9 judges); note - court jurisdiction limited to constitutional issues and disputes between regions or governorates and the central government; Court of Cassation (consists of a court president, 5 vice presidents, and at least 24 judges)<br>

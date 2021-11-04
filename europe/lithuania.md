@@ -61,6 +61,9 @@ _other_: 20.6% (2018 est.)<br>
 **Irrigated land**<br>
 44 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Kursiu Marios/Kurshskiy Zaliv/ (shared with Russia) - 1,620 sq km<br>
+
 **Population distribution**<br>
 fairly even population distribution throughout the country, but somewhat greater concentrations in the southern cities of Vilnius and Kaunas, and the western port of Klaipeda<br>
 
@@ -267,6 +270,9 @@ _municipal solid waste generated annually_: 1.3 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 297,960 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 22.9% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Kursiu Marios/Kurshskiy Zaliv/ (shared with Russia) - 1,620 sq km<br>
+
 **Total water withdrawal**<br>
 _municipal_: 130.4 million cubic meters (2017 est.)<br>
 _industrial_: 69.7 million cubic meters (2017 est.)<br>
@@ -333,7 +339,7 @@ _election results_: Gitanas NAUSEDA elected president in second round; percent o
 **Legislative branch**<br>
 _description_: unicameral Parliament or Seimas (141 seats; 71 members directly elected in single-seat constituencies by absolute majority vote and 70 directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 and 25 October 2020 (next to be held in October 2024)<br>
-_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 103, women 38, percent of women 27%<br>
+_election results_: percent of vote by party - NA; seats by party - TS-LKD 50, LVZS 32, LSDP 13, LRLS 13, Freedom 11, DP 10, AWPL 3, LSDDP 3, LT 1, Greens 1, independent 4; composition - men 102, women 39, percent of women 27.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 37 judges); Constitutional Court (consists of 9 judges)<br>

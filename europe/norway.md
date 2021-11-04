@@ -83,7 +83,7 @@ _noun_: Norwegian(s)<br>
 _adjective_: Norwegian<br>
 
 **Ethnic groups**<br>
-Norwegian 83.2% (includes about 60,000 Sami), other European 8.3%, other 8.5% (2017 est.)<br>
+Norwegian 81.5% (includes about 60,000 Sami), other European 8.9%, other 9.6% (2021 est.)<br>
 
 **Languages**<br>
 Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities; note - Sami has three dialects: Lule, North Sami, and South Sami; Sami is an official language in nine municipalities in Norway's three northernmost counties: Finnmark, Nordland, and Troms<br>

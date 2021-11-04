@@ -568,15 +568,15 @@ _electrification - rural areas_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 18,500<br>
-_subscriptions per 100 inhabitants_: 4.72 (2019 est.)<br>
+_total subscriptions_: 18,500 (2019)<br>
+_subscriptions per 100 inhabitants_: 4.74 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 254,919<br>
-_subscriptions per 100 inhabitants_: 65.01 (2019 est.)<br>
+_total subscriptions_: 254,919 (2019)<br>
+_subscriptions per 100 inhabitants_: 65.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States&nbsp; (2021)<br>
+_general assessment_: Belize&rsquo;s fixed-line tele-density and mobile penetration is lower than average for the region, due to insufficient competition, underinvestment in services, and lax standards; mobile accounts for 90% of all phones; operator aims to provide cheaper prices and customer retention through investment in broadband to over 80% of premises and LTE infrastructure; operator launched safe cities project to fight crime; government distributed tablets to students to promote e-learning; submarine cable to Ambergris Caye enables FttP service in San Pedro; importer of broadcast equipment from the United States (2020)<br>
 _domestic_: 5 per 100 fixed-line and mobile-cellular teledensity approaching 65 per 100 persons; mobile sector accounting for over 90% of all phone subscriptions (2019)<br>
 _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&nbsp;fiber-optic telecommunications submarine cable that provides links to South and Central America, parts of the Caribbean, and the US; satellite earth station - 8 (Intelsat - 2, unknown - 6) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -592,8 +592,8 @@ _total_: 181,660<br>
 _percent of population_: 47.08% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 29,600<br>
-_subscriptions per 100 inhabitants_: 7.55 (2019 est.)<br>
+_total_: 29,600 (2019)<br>
+_subscriptions per 100 inhabitants_: 7.58 (2019 est.)<br>
 
 ## Transportation
 
@@ -667,5 +667,5 @@ _current situation_: human traffickers exploit domestic and foreign victims and 
 _tier rating_: Tier 2 Watch List &mdash; Belize does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities initiated more trafficking investigations, convicted a trafficker, screened for potential trafficking victims during labor inspections, and continued to implement a 2018-2020 national anti-trafficking action plan; anti-trafficking training was provided to the anti-trafficking police unit, immigration officers, prosecutors, judges, prison officials, and social workers; however, the government did not initiate any new trafficking prosecutions and continued to apply victim identification procedures inconsistently; corruption and official complicity in trafficking remained concerns, but no investigations, prosecutions, or convictions of government employees were reported (2020)<br>
 
 **Illicit drugs**<br>
-major transshipment point for cocaine; small-scale illicit producer of cannabis, primarily for local consumption; offshore sector money-laundering activity related to narcotics trafficking and other crimes<br>
+<p>Belize is a transit country for illegal drugs, mainly cocaine, originating from countries in South America; low domestic drug consumption problem outside of recreational cannabis</p><br>
 

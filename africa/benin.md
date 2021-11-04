@@ -598,15 +598,15 @@ _electrification - rural areas_: 9% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 35,917<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 32,386 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,349,847<br>
-_subscriptions per 100 inhabitants_: 83.25 (2019 est.)<br>
+_total subscriptions_: 11,140,891 (2020)<br>
+_subscriptions per 100 inhabitants_: 91.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Benin’s telecom market is restricted by poor fixed-line infrastructure; low use of fixed-line voice and Internet; mobile networks account for almost all Internet and voice traffic; progress on fiber infrastructure through World Bank and the government investment to extend broadband and develop Smart Government program; monopolized fixed-line Internet services access is limited; ICT development will provide telecom services to 80% of the country, mostly via mobile and DSL infrastructure; Benin Smart City construction has begun; improved international Internet connectivity supports growth of m-commerce and m-banking; submarine cable connectivity from African coast to Europe</p> (2021)<br>
+_general assessment_: Benin&rsquo;s telecom market is restricted by poor fixed-line infrastructure; low use of fixed-line voice and Internet; mobile networks account for almost all Internet and voice traffic; progress on fiber infrastructure through World Bank and the government investment to extend broadband and develop Smart Government program; monopolized fixed-line Internet services access is limited; ICT development will provide telecom services to 80% of the country, mostly via mobile and DSL infrastructure; Benin Smart City construction has begun; improved international Internet connectivity supports growth of m-commerce and m-banking; submarine cable connectivity from African coast to Europe (2020)<br>
 _domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, exceeding 88 per 100 persons (2019)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -622,8 +622,8 @@ _total_: 2,403,596<br>
 _percent of population_: 20% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 25,032<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 29,981 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -714,5 +714,5 @@ al-Qa’ida (Jama’at Nusrat al Islam wal Muslimeen); Islamic State in the Grea
 <p>talks continue between Benin and Togo on funding the Adjrala hydroelectric dam on the Mona River; Benin retains a border dispute with Burkina Faso near the town of Koualou; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Illicit drugs**<br>
-transshipment point used by traffickers for cocaine destined for Western Europe; vulnerable to money laundering due to poorly enforced financial regulations<br>
+<p>a significant transit and departure country for cocaine shipments in Africa destined for Europe</p><br>
 

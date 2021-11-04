@@ -661,7 +661,7 @@ Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (
 1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Timor-Leste Defense Force is comprised of approximately 2,000 personnel (2020)<br>
+the Timor-Leste Defense Force is comprised of approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 Timor-Leste Defense Force's limited inventory consists of equipment donated by other countries; the only recorded deliveries of major arms to Timor-Leste since 2010 are naval patrol craft from China and South Korea (2020)<br>

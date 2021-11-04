@@ -632,10 +632,10 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tonga Defense Services: Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2020)<br>
+Tonga Defense Services: Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
 
 **Military and security service personnel strengths**<br>
-the Tonga Defense Services have approximately 500 personnel (2020)<br>
+the Tonga Defense Services have approximately 500 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2020)<br>

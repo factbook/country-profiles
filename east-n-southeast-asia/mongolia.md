@@ -61,6 +61,13 @@ _other_: 20% (2018 est.)<br>
 **Irrigated land**<br>
 840 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
+_Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amur (shared with Russia and China) - 4,444 km<br>
+
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
 
@@ -258,6 +265,13 @@ _coal revenues_: 8.62% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2.9 million tons (2016 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nbsp;<br>
+_Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amur (shared with Russia and China) - 4,444 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 45.3 million cubic meters (2017 est.)<br>

@@ -71,6 +71,13 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Para
 **Major aquifers**<br>
 Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
+_Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amazon (shared with Peru) - 6,400 km; Rio de la Plata/Parana (shared with Argentina, Paraguay, Uruguay, and Bolivia) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay (shared with Paraguay and Argentina) - 2,549 km; Negro (shared with Venezuela and Colombia) - 2,250 km; Uruguay (shared with Argentina and Uruguay) - 1,610 km<br>
+
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
 
@@ -283,6 +290,13 @@ _water contact diseases_: schistosomiasis<br>
 _municipal solid waste generated annually_: 79,889,010 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,118,446 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1.4% (2014 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
+_Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amazon (shared with Peru) - 6,400 km; Rio de la Plata/Parana (shared with Argentina, Paraguay, Uruguay, and Bolivia) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay (shared with Paraguay and Argentina) - 2,549 km; Negro (shared with Venezuela and Colombia) - 2,250 km; Uruguay (shared with Argentina and Uruguay) - 1,610 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -734,5 +748,5 @@ _refugees (country of origin)_: 261,441 (Venezuela) (economic and political cris
 _stateless persons_: 14 (2020)<br>
 
 **Illicit drugs**<br>
-second-largest consumer of cocaine in the world; illicit producer of cannabis; trace amounts of coca cultivation in the Amazon region, used for domestic consumption; government has a large-scale eradication program to control cannabis; important transshipment country for Bolivian, Colombian, and Peruvian cocaine headed for Europe; also used by traffickers as a way station for narcotics air transshipments between Peru and Colombia; upsurge in drug-related violence and weapons smuggling; important market for Colombian, Bolivian, and Peruvian cocaine; illicit narcotics proceeds are often laundered through the financial system; significant illicit financial activity in the Tri-Border Area<br>
+<p>a significant transit and destination country for cocaine;  most of the cocaine that entering Brazil is destined for domestic use or transits to Europe via West Africa;  substantial and growing domestic drug consumption problem;  second-largest consumer of cocaine hydrochloride and cocaine-derivative products</p><br>
 

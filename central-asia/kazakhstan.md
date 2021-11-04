@@ -64,6 +64,13 @@ _other_: 21.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
 
@@ -263,6 +270,13 @@ _municipal solid waste generated annually_: 4,659,740 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 136,064 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 2.9% (2012 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
@@ -331,9 +345,9 @@ _elections/appointments_: president directly elected by simple majority popular 
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (49 seats; 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
-_elections_: <br>Senate - last held on 12 August 2020 (next to be held in 2026)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
-_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 42, women 5, percent of women 10.6%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition - men 78, women 29, percent of women 27%<br>
+_description_: bicameral Parliament consists of:<br>Senate (49 seats statutory, 48 as of October 2021); 34 members indirectly elected by 2-round majority vote by the oblast-level assemblies and 15 members appointed by decree of the president; members serve 6-year terms, with one-half of the membership renewed every 3 years)<br>Mazhilis (107 seats; 98 members directly elected in a single national constituency by proportional representation vote to serve 5-year terms and 9 indirectly elected by the Assembly of People of Kazakhstan, a 351-member, presidentially appointed advisory body designed to represent the country's ethnic minorities)<br>
+_elections_: <br>Senate - last held on 12 August 2020 (next to be held in August 2023)<br>Mazhilis - last held on 10 January 2021 (next to be held in 2026)<br>
+_election results_: <strong> </strong><br>Senate - percent of vote by party - NA; seats by party - NA; composition (as of October 2021) - men 39, women 9, percent of women 13.1%<br>Mazhilis - percent of vote by party - Nur Otan 71.1%, Ak Zhol 11%, People's Party 9.1%, other 8.8%; seats by party - Nur Otan 76, Ak Zhol 12, People's Party 10; composition (as of October 2021) - men 78, women 29, percent of women 27%; note - total Parliament percent of women 24.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of the Republic (consists of 44 members); Constitutional Council (consists of the chairman and 6 members)<br>

@@ -64,6 +64,12 @@ _other_: 20.1% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Egypt, Sudan, South Sudan, Uganda, Rwanda, and Tanzania) - 6,650 km;<br>
+
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
 
@@ -282,6 +288,12 @@ _widespread lack of access_: due to floods, and lack of rain - about 1 million p
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Egypt, Sudan, South Sudan, Uganda, Rwanda, and Tanzania) - 6,650 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>

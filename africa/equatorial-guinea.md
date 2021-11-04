@@ -644,7 +644,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 1% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the<strong> </strong>Equatorial Guinea Armed Forces (FAGE) have approximately 1,400 active duty troops; approximately 400 Guardia Civil (2021)<br>
+approximately 1,400 active duty troops; approximately 400 Guardia Civil (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years,it has sought to modernize its naval inventory; Ukraine is the leading provider of equipment since 2010, followed by Israel (2020)<br>

@@ -67,6 +67,13 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq k
 **Major aquifers**<br>
 Amazon Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
+_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Uruguay) - 4,880 km;<br>
+
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
 
@@ -274,6 +281,13 @@ _vectorborne diseases_: dengue fever and&nbsp;malaria<br>
 _municipal solid waste generated annually_: 2,219,052 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 268,727 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
+_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Uruguay) - 4,880 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
@@ -714,5 +728,5 @@ compulsory for all men between the ages of 18 and 22; men can volunteer from the
 <p>Chile and Peru rebuff Bolivia's reactivated claim to restore the Atacama corridor, ceded to Chile in 1884, but Chile offers instead unrestricted but not sovereign maritime access through Chile for Bolivian products; contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of its border regions with all of its neighbors (Argentina, Brazil, Chile, Paraguay, and Peru)</p><br>
 
 **Illicit drugs**<br>
-world's third-largest cultivator of coca (after Colombia and Peru) with an estimated 37,500 hectares under cultivation in 2016, a 3 percent increase over 2015; third largest producer of cocaine, estimated at 275 metric tons potential pure cocaine in 2016; transit country for Peruvian and Colombian cocaine destined for Brazil, Argentina, Chile, Paraguay, and Europe; weak border controls; some money-laundering activity related to narcotics trade; major cocaine consumption<br>
+<p>third-largest source country of cocaine and a major transit for Peruvian cocaine; in 2020 coca cultivation totaled 39,400 hectares (ha); illicit drug consumption is low in Bolivia;  most cocaine is exported to other Latin American countries, such as  Brazil, Paraguay, and Argentina, for domestic consumption, or for onward transit to West Africa and Europe, not the United States</p><br>
 

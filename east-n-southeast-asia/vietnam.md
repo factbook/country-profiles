@@ -67,6 +67,9 @@ _other_: 20.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, Thailand, Cambodia, and China) - 4,350 km; Pearl (shared with China) - 2,200 km; Red (shared with China) - 1,149 km<br>
+
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
 
@@ -270,6 +273,9 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 _municipal solid waste generated annually_: 9,570,300 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, Thailand, Cambodia, and China) - 4,350 km; Pearl (shared with China) - 2,200 km; Red (shared with China) - 1,149 km<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -680,7 +686,7 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2020)<br>
+People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2021)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>

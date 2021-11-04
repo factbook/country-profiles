@@ -70,6 +70,9 @@ Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
 
+**Major rivers (by length in km)**<br>
+Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
+
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
 
@@ -287,6 +290,9 @@ _severe localized food insecurity_: due to localized shortfalls in cereal produc
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>

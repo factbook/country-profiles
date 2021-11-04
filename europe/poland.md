@@ -65,6 +65,12 @@ _other_: 21.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Vistula (shared with Belarus and Ukraine) - 1,213 km<br>
+
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
 
@@ -272,6 +278,12 @@ _municipal solid waste generated annually_: 10.863 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2,866,746 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Vistula (shared with Belarus and Ukraine) - 1,213 km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -339,9 +351,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2020:</em> Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
 
 **Legislative branch**<br>
-_description_: bicameral legislature consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br> Sejm (460 seats; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br> Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition - men 87, women 13, percent of women 13%<br> Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 334, women 126, percent of women 27.4%; note - total legislature percent of women 24.8%<br>
+_description_: bicameral Parliament consists of:<br>Senate or Senat (100 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>Sejm (460 seats statutory - current 459; members elected in multi-seat constituencies by party-list proportional representation vote with 5% threshold of total votes needed for parties and 8% for coalitions to gain seats; minorities exempt from threshold; members serve 4-year terms)<br>
+_elections_: <br>Senate - last held on 13 October 2019 (next to be held in October 2023)<br>Sejm - last held on 13 October 2019 (next to be held in October 2023)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - PiS 48, KO 43, PSL 3, SLD 2, independent 4; composition (as of October 2021) - men 76, women 24, percent of women 24%<br>Sejm - percent of vote by party - PiS 43.6%, KO 27.4%, SLD 12.6%, PSL 8.5% Confederation 6.8%, other 1.1%; seats by party - PiS 235, KO 134, SLD 49, PSL 30, KWiN 11, MN 1; men 329, women 130, percent of women 28.3%; note - total Parliament percent of women 27.5%<br>
 <strong>note:</strong> the designation National Assembly or Zgromadzenie Narodowe is only used on those rare occasions when the 2 houses meet jointly<br>
 
 **Judicial branch**<br>

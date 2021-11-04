@@ -514,12 +514,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,808<br>
-_subscriptions per 100 inhabitants_: 34.71 (2019 est.)<br>
+_total subscriptions_: 21,883 (2018)<br>
+_subscriptions per 100 inhabitants_: 34.71 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 73,680<br>
-_subscriptions per 100 inhabitants_: 103.09 (2019 est.)<br>
+_total subscriptions_: 64,997 (2018)<br>
+_subscriptions per 100 inhabitants_: 103.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a good, fully automatic digital telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; telecom sector a growth area across the Caribbean (2020)<br>
@@ -536,6 +536,10 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 **Internet users**<br>
 _total_: 70,016<br>
 _percent of population_: 98.37% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 21,883 (2018)<br>
+_subscriptions per 100 inhabitants_: 36.18 (2017 est.)<br>
 
 ## Transportation
 

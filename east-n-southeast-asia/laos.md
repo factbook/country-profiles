@@ -64,6 +64,9 @@ _other_: 21.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, China, Thailand, Cambodia, and Vietnam) - 4,350 km;<br>
+
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
 
@@ -270,6 +273,9 @@ _municipal solid waste generated annually_: 351,900 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
 
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, China, Thailand, Cambodia, and Vietnam) - 4,350 km;<br>
+
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
@@ -332,7 +338,7 @@ _chief of state_: President THONGLOUN Sisoulit (since 22 March 2021); Vice Presi
 _head of government_: Prime Minister PHANKHAM Viphavan (since 22 March 2021); Deputy Prime Ministers CHANSAMON Chan-gnalat, SONXAI Siphandon, KIKEO Khaikhamphithoun (since 22 March 2021)<br>
 _cabinet_: Council of Ministers appointed by the president, approved by the National Assembly<br>
 _elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (no term limits); election last held on 22 March 2021; prime minister nominated by the president, elected by the National Assembly for 5-year term<br>
-_election results_: THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br>
+_election results_: <em><br>2021: </em>THONGLOUN Sisoulit (LPRP) elected president; National Assembly vote: 161-1; PANI Yathotou and BOUNTHONG Chitmani (LPRP) elected vice presidents; National Assembly vote NA; PHANKHAM Viphavan (LPRP) elected prime minister; National Assembly vote: 158-3<br><br><em>2016:</em> BOUNNYANG Vorachit (LPRP) elected president; PHANKHAM Viphavan (LPRP) elected vice president; percent of National Assembly vote - NA; THONGLOUN Sisoulit (LPRP) elected prime minister; percent of National Assembly vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Sapha Heng Xat (164 seats; members directly elected in multi-seat constituencies by simple majority vote from candidate lists provided by the Lao People's Revolutionary Party; members serve 5-year terms)<br>

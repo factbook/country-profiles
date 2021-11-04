@@ -65,6 +65,9 @@ _other_: 7.7% (2018 est.)<br>
 **Irrigated land**<br>
 3,070 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
+
 **Population distribution**<br>
 coastal development is significant, especially in the southern coastal plains and the Cibao Valley, where population density is highest; smaller population clusters exist in the interior mountains (Cordillera Central)<br>
 
@@ -274,6 +277,9 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 4,063,910 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 333,241 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 8.2% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lago de Enriquillo - 500 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 855 million cubic meters (2017 est.)<br>

@@ -68,6 +68,13 @@ Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 **Major aquifers**<br>
 Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
+_Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
+
+**Major rivers (by length in km)**<br>
+Blue Nile (shared with Sudan) - 1,600 km;<br>
+
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
 
@@ -287,6 +294,13 @@ _widespread lack of access_: due to civil conflict - more than 16 million people
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 6,532,787 tons (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
+_Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
+
+**Major rivers (by length in km)**<br>
+Blue Nile (shared with Sudan) - 1,600 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -714,7 +728,7 @@ note - in August 2021, Sudan asked the UN to remove the Ethiopian troops from th
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
 
 **Military - note**<br>
-each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>in November 2021, long-simmering tensions between the Ethiopian Government and the state of Tigray’s ruling party (Tigray People’s Liberation Front, TPLF) led to armed clashes between ENDF and Tigrayan paramilitary forces; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through 2021 with heavy civilian and military casualties and widespread human rights abuses reported</p> <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict</p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
+each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>in November 2021, long-simmering tensions between the Ethiopian Government and the state of Tigray’s ruling party (Tigray People’s Liberation Front, TPLF) led to armed clashes between ENDF and Tigrayan paramilitary forces; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through 2021 with heavy civilian and military casualties and widespread human rights abuses reported</p> <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict; in August 2021, the TPLF struck an alliance with with the the Oromo Liberation Army (OLA); the OLA is a splinter rebel group of the Oromo Liberation Front, a formerly banned opposition group that returned from exile in 2018 </p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
 
 ## Terrorism
 

@@ -68,6 +68,12 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> N
 **Major aquifers**<br>
 Congo Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Sudan, South Sudan, Eritrea, Ethiopia, Kenya, Egypt, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km; Congo (shared with Angola, and Republic of Congo) - 4,700 km; Ubangi (shared with Central African Republic and Republic of Congo) - 2,270 km;&nbsp;<br>
+
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
 
@@ -286,6 +292,12 @@ _widespread lack of access_: due to persistent civil insecurity and COVID-19 res
 _municipal solid waste generated annually_: 14,385,226 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 704,876 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Sudan, South Sudan, Eritrea, Ethiopia, Kenya, Egypt, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km; Congo (shared with Angola, and Republic of Congo) - 4,700 km; Ubangi (shared with Central African Republic and Republic of Congo) - 2,270 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>

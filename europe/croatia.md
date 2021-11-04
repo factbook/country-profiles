@@ -65,6 +65,9 @@ _other_: 41.9% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Population distribution**<br>
 more of the population lives in the northern half of the country, with approximately a quarter of the populace residing in and around the capital of Zagreb; many of the islands are sparsely populated<br>
 
@@ -273,6 +276,9 @@ _vectorborne diseases_: tickborne encephalitis<br>
 _municipal solid waste generated annually_: 1.654 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>

@@ -64,6 +64,12 @@ _other_: 19.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amu Darya (shared with Uzbekistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
 
@@ -255,6 +261,12 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amu Darya (shared with Uzbekistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>

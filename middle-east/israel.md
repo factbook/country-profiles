@@ -62,6 +62,9 @@ _other_: 69.1% (2018 est.)<br>
 **Irrigated land**<br>
 2,250 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+
 **Population distribution**<br>
 population concentrated in and around Tel-Aviv, as well as around the Sea of Galilee; the south remains sparsely populated with the exception of the shore of the Gulf of Aqaba<br>
 
@@ -260,6 +263,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 5.4 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1.35 million tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 25% (2017 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Dead Sea (shared with Jordan and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 983 million cubic meters (2017 est.)<br>

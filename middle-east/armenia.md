@@ -61,6 +61,9 @@ _other_: 31.2% (2018 est.)<br>
 **Irrigated land**<br>
 2,740 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
+
 **Population distribution**<br>
 most of the population is located in the northern half of the country; the capital of Yerevan is home to more than five times as many people as Gyumri, the second largest city in the country<br>
 
@@ -205,9 +208,9 @@ _unimproved: total_: total: 6.4% of population (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.7%<br>
+_total population_: 99.8%<br>
 _male_: 99.8%<br>
-_female_: 99.7% (2017)<br>
+_female_: 99.7% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -256,6 +259,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 492,800 tons (2014 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Sevan - 1,360 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 616.4 million cubic meters (2017 est.)<br>
@@ -575,15 +581,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 451,571<br>
-_subscriptions per 100 inhabitants_: 14.9 (2019 est.)<br>
+_total subscriptions_: 427,539 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,618,747<br>
-_subscriptions per 100 inhabitants_: 119.42 (2019 est.)<br>
+_total subscriptions_: 3,488,797 (2020)<br>
+_subscriptions per 100 inhabitants_: 117.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market struggles to provide an effective national telecom service; country remains dependent on the economic health of  Russian and EU economies; fixed-line penetration falling, driven by growth in mobile and fixed-line broadband; growth of 4G networks and falling prices due to growing competition; fixed broadband is growing but remains low by international comparisons; flat mobile market; strong growth predicted for mobile broadband market; government participating in a project to ensure eventual nationwide 5G network; government approved plans for a new data center built via public-private partnership; communication technologies sectors have attracted foreign investment; top importer of broadcast equipment from China </p> (2021)<br>
+_general assessment_: telecom market struggles to provide an effective national telecom service; country remains dependent on the economic health of&nbsp; Russian and EU economies; fixed-line penetration falling, driven by growth in mobile and fixed-line broadband; growth of 4G networks and falling prices due to growing competition; fixed broadband is growing but remains low by international comparisons; flat mobile market; strong growth predicted for mobile broadband market; government participating in a project to ensure eventual nationwide 5G network; government approved plans for a new data center built via public-private partnership; communication technologies sectors have attracted foreign investment; top importer of broadcast equipment from China&nbsp; (2020)<br>
 _domestic_: 15 per 100 fixed-line, 122 per 100 mobile-cellular; reliable fixed-line and mobile-cellular services are available across Yerevan and in major cities and towns; mobile-cellular coverage available in most rural areas (2019)<br>
 _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus Cable System&nbsp;fiber-optic cable through Georgia and Iran to Europe; additional international service is available by microwave radio relay and landline connections to the other countries of the Commonwealth of Independent States, through the Moscow international switch, and by satellite to the rest of the world; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -599,8 +605,8 @@ _total_: 1,966,942<br>
 _percent of population_: 64.74% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 385,704<br>
-_subscriptions per 100 inhabitants_: 12.73 (2019 est.)<br>
+_total_: 430,407 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.52 (2020 est.)<br>
 
 ## Transportation
 
@@ -676,5 +682,5 @@ _current situation_: Armenians may be exploited domestically or abroad, and fore
 _tier rating_: <p>Tier 2 Watch List — Armenia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; law enforcement authorities did not conduct proactive investigations and relied on victims to self-identify; prevention efforts decreased and protection efforts were weak, with the government continuing to lack a formal victim-witness protection program; the government had no convictions, including convictions of complicit government employees, for the second consecutive year and has not had a forced labor conviction since 2014; legislation was passed to strengthen the health and labor body and training was provided to law enforcement officials; government and local NGOs provided legal, medical, and psychological assistance, housing, and monetary compensation to victims; however, civil society continued to provide reintegration and long-term support services without government funding (2020)</p><br>
 
 **Illicit drugs**<br>
-illicit cultivation of small amount of cannabis for domestic consumption; minor transit point for illicit drugs - mostly opium and hashish - moving from Southwest Asia to Russia and to a lesser extent the rest of Europe<br>
+<p>a transit country for illicit drugs with its location between source countries Afghanistan and Iran and the markets of Europe and Russia</p><br>
 

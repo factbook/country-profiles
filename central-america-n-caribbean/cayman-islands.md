@@ -185,12 +185,6 @@ NA<br>
 **Education expenditures**<br>
 NA<br>
 
-**Literacy**<br>
-_definition_: age 15 and over has ever attended school<br>
-_total population_: 98.9%<br>
-_male_: 98.7%<br>
-_female_: 99% (2007)<br>
-
 **Unemployment, youth ages 15-24**<br>
 _total_: 13.8%<br>
 _male_: 16.4%<br>

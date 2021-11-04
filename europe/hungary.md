@@ -64,6 +64,12 @@ _other_: 18.6% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
 
@@ -268,6 +274,12 @@ _municipal solid waste generated annually_: 3.712 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 962,893 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -335,9 +347,9 @@ _elections/appointments_: president indirectly elected by the National Assembly 
 _election results_: Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
 
 **Legislative branch**<br>
-_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party list proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral National Assembly or Orszaggyules (199 seats; 106 members directly elected in single-member constituencies by simple majority vote and 93 members directly elected in a single nationwide constituency by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
-_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition - men 174, women 25, percent of women 12.6%<br>
+_election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition (as of October 2021) - men 173, women 26, percent of women 13.1%<br>
 
 **Judicial branch**<br>
 _highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and approximately 91 judges and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>

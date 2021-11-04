@@ -67,6 +67,9 @@ _other_: 21% (2018 est.)<br>
 **Irrigated land**<br>
 14,850 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Draa - 1,100 km<br>
+
 **Population distribution**<br>
 the highest population density is found along the Atlantic and Mediterranean coasts; a number of densely populated agglomerations are found scattered through the Atlas Mountains as shown in this population distribution map<br>
 
@@ -311,6 +314,9 @@ _municipal solid waste recycled annually_: 548,160 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2014 est.)<br>
 <strong>note:</strong>  data does not include former Western Sahara<br>
 
+**Major rivers (by length in km)**<br>
+Draa - 1,100 km<br>
+
 **Total water withdrawal**<br>
 _municipal_: 1.063 billion cubic meters (2017 est.)<br>
 _industrial_: 212 million cubic meters (2017 est.)<br>
@@ -378,8 +384,8 @@ _elections/appointments_: the monarchy is hereditary; prime minister appointed b
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>House of Councilors or Majlis al-Mustacharine (120 seats; members indirectly elected by an electoral college of local councils, professional organizations, and labor unions; members serve 6-year terms)<br>House of Representatives or Majlis al-Nuwab (395 seats; 305 members directly elected in multi-seat constituencies by proportional representation vote and 90 directly elected in a single nationwide constituency by proportional representation vote; members serve 5-year terms); note - in the national constituency, 60 seats are reserved for women and 30 reserved for those under age 40<br>
-_elections_: House of Councillors - last held on 2 October 2015 (next to be held in fall 2021)<br>House of Representatives - last held on 8 September 2021 (next to be held in 2027 )<br>
-_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - NA; composition as of September 2021) men 106, women 14, percent of women 11.7% <br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition - men 305, women 90, percent of women 22.8%; note - overall percent of women in Parliament 20.2%<br>
+_elections_: House of Councillors - last held on 5 October 2021 (next to be held by 31 October 2027)<br>House of Representatives - last held on 8 September 2021 (next to be held by 30 September 2026)<br>
+_election results_: <br>House of Councillors - percent of vote by party - NA; seats by party - RNI 27, PAM 19, PI 17, MP 12, USFP 8, UGIM 6, CDT 3, PJD 3, UC 2, UMT 2, Amal 1, FDT 1, MDS 1, PRD 1, independent 1; composition as of October 2021) men 106, women 14, percent of women 11.7% <br>House of Representatives - percent of vote by party NA; seats by party - RNI 102, PAM 87, PI 81, USFP 34, MP 28, PPS 22, UC 18, PJD 13, MDS 5, other 5; composition (as of October 2021)- men 305, women 90, percent of women 22.8%; note - overall percent of women in Parliament 20.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Court of Cassation (consists of 5-judge panels organized into civil, family matters, commercial, administrative, social, and criminal sections); Constitutional Court (consists of 12 members)<br>
@@ -387,7 +393,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the Supe
 _subordinate courts_: courts of appeal; High Court of Justice; administrative and commercial courts; regional and sadad courts (for religious, civil and administrative, and penal adjudication); first instance courts<br>
 
 **Political parties and leaders**<br>
-Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Ilyas al-OMARI]<br>Constitutional Union Party or UC [Mohamed SAJID]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Oath Party or SD<br>Democratic Socialist Vanguard Party or PADS [Abderrahman BENAMROU]<br>Democratic Society Party [Zhour CHAKKAFI]<br>Environment and Development Party or PED [Karim HRITAN]<br>Green Left Party [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Ittihadi National Congress or CNI [Abdesalam EL AZIZ]<br>Labor Party or PT<br>Moroccan Liberal Party or PML [Mohammed ZIANE]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Saad Eddine al-OTHMANI]<br>Party of Liberty and Social Justice [Miloud MOUSSAOUI]<br>Popular Movement or MP [Mohand LAENSER]<br>Progress and Socialism Party or PPS [Nabil BENABDELLAH]<br>Renaissance and Virtue Party [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Social Center Party or PCS [Lahcen MADIH]<br>Socialist Party [Abdelmajid BOUZOUBAA]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
+Action Party or PA [Mohammed EL IDRISSI]<br>Amal (hope) Party [Mohamed BANI]<br>An-Nahj Ad-Dimocrati or An-Nahj [Mustapha BRAHMA]<br>Authenticity and Modernity Party or PAM [Ilyas al-OMARI]<br>Constitutional Union Party or UC [Mohamed SAJID]<br>Democratic and Social Movement or MDS [Abdessamad ARCHANE]<br>Democratic Confederation of Labor or CDT [Noubir El AMAOUI] (national trade union center)<br>Democratic Forces Front or FFD [Mustapha BENALI]<br>Democratic Oath Party or SD<br>Democratic Socialist Vanguard Party or PADS [Abderrahman BENAMROU]<br>Democratic Society Party [Zhour CHAKKAFI]<br>Environment and Development Party or PED [Karim HRITAN]<br>Green Left Party [Mohamed FARES]<br>Istiqlal (Independence) Party or PI [Nizar BARAKA]<br>Ittihadi National Congress or CNI [Abdesalam EL AZIZ]<br>Labor Party or PT<br>Moroccan Liberal Party or PML [Mohammed ZIANE]<br>Moroccan Union for Democracy or UMD [Jamal MANDRI]<br>National Rally of Independents or RNI [Aziz AKHANNOUCH]<br>Neo-Democrats Party [Mohamed DARIF]<br>Party of Development Reform or PRD [Abderrahmane EL KOHEN]<br>Party of Justice and Development or PJD [Saad Eddine al-OTHMANI]<br>Party of Liberty and Social Justice [Miloud MOUSSAOUI]<br>Popular Movement or MP [Mohand LAENSER]<br>Progress and Socialism Party or PPS [Nabil BENABDELLAH]<br>Reform and Development Party or PRD<br>Renaissance and Virtue Party [Mohamed KHALIDI]<br>Renaissance Party [Said EL GHENNIOUI]<br>Renewal and Equity Party or PRE [Chakir ACHEHABAR]<br>Shoura (consultation) and Istiqlal Party [Ahmed BELGHAZI]<br>Social Center Party or PCS [Lahcen MADIH]<br>Socialist Party [Abdelmajid BOUZOUBAA]<br>Socialist Union of Popular Forces or USFP [Driss LACHGAR]<br>Unified Socialist Party or GSU [Nabila MOUNIB]<br>Unity and Democracy Party [Ahmed FITRI]<br>
 
 **International organization participation**<br>
 ABEDA, AfDB, AFESD, AMF, AMU, CAEU, CD, EBRD, FAO, G-11, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club (associate), PCA, SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNSC (temporary), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

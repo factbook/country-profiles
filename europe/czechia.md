@@ -64,6 +64,9 @@ _other_: 10.8% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Slovakia, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Germany) - 1,252 km;<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
 
@@ -262,6 +265,9 @@ _municipal solid waste generated annually_: 3.337 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Slovakia, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Germany) - 1,252 km;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -325,12 +331,12 @@ _chief of state_: President Milos ZEMAN (since 8 March 2013)<br>
 _head of government_: Prime Minister Andrej BABIS (since 13 December 2017); First Deputy Prime Minister Jan HAMACEK (since 27 June 2018), Deputy Prime Minister Alena SCHILLEROVA (since 30 April 2019)<br>
 _cabinet_: Cabinet appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (limited to 2 consecutive terms); elections last held on 12-13 January 2018 with a runoff on 26-27 January 2018 (next to be held in January 2023); prime minister appointed by the president for a 4-year term<br>
-_election results_: Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br>
+_election results_: <em><br>2018:</em> Milos ZEMAN reelected president in the second round; percent of vote - Milos ZEMAN (SPO) 51.4%, Jiri DRAHOS (independent) 48.6%<br><br><em>2013:</em> Milos ZEMAN elected president; percent of vote - Milos ZEMAN (SPO) 54.8%, Karel SCHWARZENBERG (TOP 09) 45.2%<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
+_description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (81 seats; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed; members serve 6-year terms with one-third of the membership renewed every 2 years)<br><br>Chamber of Deputies or Poslanecka Snemovna (200 seats; members directly elected in 14 multi-seat constituencies by proportional representation vote with a 5% threshold required to fill a seat; members serve 4-year terms)<br>
 _elections_: <br>Senate - last held in 2 rounds on 2-3 and 9-10 October 2020 (next to be held in October 2022)<br>Chamber of Deputies - last held on 8-9 October 2021 (next to be held by October 2025)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4<br> <p>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition - NA</p><br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - STAN 19, ODS 18, KDU-CSL 12, ANO 5, TOP 09 5, CSSD 3, SEN 21 3, Pirates 2, SZ 1, minor parties with one seat each 9, independents 4; composition (as of October 2021) - men 69, women 12, percent of women 14.8%<br>Chamber of Deputies - percent of vote by party – SPOLU 27.8%, Action of Dissatisfied Persons 27.1%, Pirates and Mayors 15.6%, Freedom and Direct Democracy 9.6%, other 19.9%; seats by party - Action of Dissatisfied Persons 72, SPOLU 71, Pirates and Mayors 37, Freedom and Direct Democracy 20; composition (as of October 2021) - men 154, women 46, percent of women 23%; note - total Parliament percent of women 26%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (organized into Civil Law and Commercial Division, and Criminal Division each with a court chief justice, vice justice, and several judges); Constitutional Court (consists of 15 justices); Supreme Administrative Court (consists of 36 judges, including the court president and vice president, and organized into 6-, 7-, and 9-member chambers)<br>

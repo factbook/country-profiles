@@ -87,7 +87,7 @@ Andorran 48.7%, Spanish 24.6%, Portuguese 11.6%, French 4.4%, other 10.6% (2020 
 Catalan (official), French, Castilian, Portuguese<br>
 
 **Religions**<br>
-Roman Catholic (predominant)<br>
+Christian (predominantly Roman Catholic) 89.5, other 8.8%, unaffiliated 1.7% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 13.37% (male 5,901/female 5,551)<br>
@@ -512,12 +512,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 39,657<br>
-_subscriptions per 100 inhabitants_: 46.23 (2019 est.)<br>
+_total subscriptions_: 39,657 (2019)<br>
+_subscriptions per 100 inhabitants_: 51.41 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 87,909<br>
-_subscriptions per 100 inhabitants_: 102.48 (2019 est.)<br>
+_total subscriptions_: 87,909 (2019)<br>
+_subscriptions per 100 inhabitants_: 114 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system; broadband Internet and&nbsp;LTE mobile lines for both consumer and enterprise customers available (2019)<br>
@@ -536,8 +536,8 @@ _total_: 78,483<br>
 _percent of population_: 91.57% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 36,358<br>
-_subscriptions per 100 inhabitants_: 42.38 (2019 est.)<br>
+_total_: 36,358 (2019)<br>
+_subscriptions per 100 inhabitants_: 47.13 (2019 est.)<br>
 
 ## Transportation
 

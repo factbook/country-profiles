@@ -96,7 +96,7 @@ Arabic (official), French (lingua franca), Berber or Tamazight (official); diale
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official; predominantly Sunni) 99%, other (includes Christian and Jewish) &lt;1% (2012 est.)<br>
+Muslim (official; predominantly Sunni) 99%, other (includes Christian, Jewish, Ahmadi&nbsp; Muslims, Shia Muslims, Ibadi&nbsp; Muslims) &lt;1% (2012 est.)<br>
 
 **Demographic profile**<br>
 <p>For the first two thirds of the 20th century, Algeria's high fertility rate caused its population to grow rapidly. However, about a decade after independence from France in 1962, the total fertility rate fell dramatically from 7 children per woman in the 1970s to about 2.4 in 2000, slowing Algeria's population growth rate by the late 1980s. The lower fertility rate was mainly the result of women's rising age at first marriage (virtually all Algerian children being born in wedlock) and to a lesser extent the wider use of contraceptives. Later marriages and a preference for smaller families are attributed to increases in women's education and participation in the labor market; higher unemployment; and a shortage of housing forcing multiple generations to live together. The average woman's age at first marriage increased from about 19 in the mid-1950s to 24 in the mid-1970s to 30.5 in the late 1990s.</p> <p>Algeria's fertility rate experienced an unexpected upturn in the early 2000s, as the average woman's age at first marriage dropped slightly. The reversal in fertility could represent a temporary fluctuation in marriage age or, less likely, a decrease in the steady rate of contraceptive use.</p> <p>Thousands of Algerian peasants - mainly Berber men from the Kabylia region - faced with land dispossession and economic hardship under French rule migrated temporarily to France to work in manufacturing and mining during the first half of the 20th century. This movement accelerated during World War I, when Algerians filled in for French factory workers or served as soldiers. In the years following independence, low-skilled Algerian workers and Algerians who had supported the French (known as Harkis) emigrated en masse to France. Tighter French immigration rules and Algiers' decision to cease managing labor migration to France in the 1970s limited legal emigration largely to family reunification.</p> <p>Not until Algeria's civil war in the 1990s did the country again experience substantial outmigration. Many Algerians legally entered Tunisia without visas claiming to be tourists and then stayed as workers. Other Algerians headed to Europe seeking asylum, although France imposed restrictions. Sub-Saharan African migrants came to Algeria after its civil war to work in agriculture and mining. In the 2000s, a wave of educated Algerians went abroad seeking skilled jobs in a wider range of destinations, increasing their presence in North America and Spain. At the same time, legal foreign workers principally from China and Egypt came to work in Algeria's construction and oil sectors. Illegal migrants from Sub-Saharan Africa, particularly Malians, Nigeriens, and Gambians, continue to come to Algeria in search of work or to use it as a stepping stone to Libya and Europe.</p> <p>Since 1975, Algeria also has been the main recipient of Sahrawi refugees from the ongoing conflict in Western Sahara (today part of Morocco). More than 1000,000 Sahrawis are estimated to be living in five refugee camps in southwestern Algeria near Tindouf.</p><br>
@@ -333,7 +333,7 @@ _chief of state_: President Abdelmadjid TEBBOUNE (since 12 December 2019)<br>
 _head of government_: Prime Minister Ayman BENABDERRAHMANE (since 7 July 2021); note - President TEBBOUNE appointed BENABDERRAHMANE as prime minister following the resignation of Prime Minister Abdelaziz DJERAD on 24 June <h1> </h1> <h1> </h1> Abdelaziz DJERAD (since 28 December 2019)<br>
 _cabinet_: Cabinet of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in two rounds if needed for a 5-year term (eligible for a second term); election last held on 12 December 2019 (next to be held in 2024); prime minister nominated by the president after consultation with the majority party in Parliament<br>
-_election results_: Abdelmadjid TEBBOUNE (NLF) 58.1%, Abdelkader BENGRINA (Movement of National Construction) 17.4%, Ali BENFLIS (Vanguard of Freedoms) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br>
+_election results_: <em><br>2019:</em> Abdelmadjid TEBBOUNE (NLF) 58.1%, Abdelkader BENGRINA (Movement of National Construction) 17.4%, Ali BENFLIS (Vanguard of Freedoms) 10.6%, Azzedine MIHOUBI (RND) 7.3%, Abdelaziz BELAID (Future Front) 6.7%<br><br><em>2014:</em> Abdelaziz BOUTEFLIKA reelected president for a fourth term; percent of vote - Abdelaziz BOUTEFLIKA (FLN) 81.5%, Ali BENFLIS (FLN) 12.2%, Abdelaziz BELAID (Future Front) 3.4%, other 2.9%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament consists of:<br>Council of the Nation (upper house with 144 seats; one-third of members appointed by the president, two-thirds indirectly elected by simple majority vote by an electoral college composed of local council members; members serve 6-year terms with one-half of the membership renewed every 3 years)<br>National People's Assembly (lower house with 407 seats including 8 seats for Algerian diaspora); members directly elected in multi-seat constituencies by open-list proportional representation vote to serve 5-year terms); note - in March 2021, President TEBBOUNE ordered the number of Assembly seats be reduced to 407 from 462<br>
@@ -587,15 +587,15 @@ _electrification - rural areas_: 97% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,635,217<br>
-_subscriptions per 100 inhabitants_: 10.96 (2019 est.)<br>
+_total subscriptions_: 4,784,306 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.91 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,081,131<br>
-_subscriptions per 100 inhabitants_: 111.29 (2019 est.)<br>
+_total subscriptions_: 45,555,673 (2020)<br>
+_subscriptions per 100 inhabitants_: 103.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Algeria has a steadily developing telecom infrastructure through sound regulatory measures and government policies aimed at providing Internet connections across the country, including underserved areas; mobile penetration and LTE services are growing steadily; in common with other markets in the region, mobile connections account for the vast majority of Internet accesses; well served by satellite and submarine cable connections; importer of broadcasting equipment from China </p> (2021)<br>
+_general assessment_: Algeria has a steadily developing telecom infrastructure through sound regulatory measures and government policies aimed at providing Internet connections across the country, including underserved areas; mobile penetration and LTE services are growing steadily; in common with other markets in the region, mobile connections account for the vast majority of Internet accesses; well served by satellite and submarine cable connections; importer of broadcasting equipment from China (2020)<br>
 _domestic_: a limited network of fixed-lines with a teledensity of less than 11 telephones per 100 persons has been offset by the rapid increase in mobile-cellular subscribership; mobile-cellular teledensity was roughly 109 telephones per 100 persons (2019)<br>
 _international_: country code - 213;&nbsp;ALPAL-2 is a submarine telecommunications cable system in the Mediterranean Sea linking Algeria and the Spanish Balearic island of Majorca;&nbsp;ORVAL is a submarine cable to Spain; landing points for the TE North/TGN-Eurasia/SEACOM/SeaMeWe-4 fiber-optic submarine cable system that provides links to Europe, the Middle East, and Asia; MED cable connecting Algeria with France;&nbsp;microwave radio relay to Italy, France, Spain, Morocco, and Tunisia;&nbsp;Algeria part of the 4,500 Km terrestrial Trans Sahara Backbone network which connects to other fiber networks in the region; Alcomstat-1 satellite offering&nbsp; telemedicine network (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,8 +611,8 @@ _total_: 24,819,531<br>
 _percent of population_: 59.58% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,582,739<br>
-_subscriptions per 100 inhabitants_: 8.47 (2019 est.)<br>
+_total_: 3,790,459 (2020)<br>
+_subscriptions per 100 inhabitants_: 8.64 (2020 est.)<br>
 
 ## Transportation
 

@@ -653,7 +653,8 @@ _major seaport(s)_: Lautoka, Levuka, Suva<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command (2021)<br>
+Republic of Fiji Military Forces (RFMF): Land Force Command, Maritime Command; Fiji Police (2021)<br>
+both the RFMF and the Fiji Police report to the the Ministry of Defense, National Security, and Policing<br>
 
 **Military expenditures**<br>
 1.4% of GDP (2020 est.)<br>

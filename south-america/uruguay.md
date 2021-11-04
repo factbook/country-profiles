@@ -67,6 +67,12 @@ _other_: 2.6% (2018 est.)<br>
 **Major aquifers**<br>
 Guarani Aquifer System<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Bolivia) - 4,880 km; Uruguay (shared with Brazil and Argentina) - 1,610 km<br>
+
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
 
@@ -266,6 +272,12 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 1,260,140 tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 100,811 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Bolivia) - 4,880 km; Uruguay (shared with Brazil and Argentina) - 1,610 km<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -683,7 +695,7 @@ the Armed Forces of Uruguay have approximately 22,000 active personnel (14,500 A
 the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2020)<br>
 
 **Military deployments**<br>
-925 Democratic Republic of the Congo (MINUSCO); 210 Golan Heights (UNDOF) (Jan 2021)<br>
+800 Democratic Republic of the Congo (MINUSCO); 210 Golan Heights (UNDOF) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>

@@ -64,6 +64,12 @@ _other_: 40.1% (2018)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amu Darya (shared with Turkmenistan, Tajikistan, and Uzbekistan) - 2,620 km; Helmand (shared with Iran) - 1,130 km<br>
+
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
 
@@ -218,9 +224,9 @@ _vectorborne diseases_: Crimea-Congo hemorrhagic fever, malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 43%<br>
-_male_: 55.5%<br>
-_female_: 29.8% (2018)<br>
+_total population_: 37.3%<br>
+_male_: 52.1%<br>
+_female_: 22.6% (2021)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -277,6 +283,12 @@ _severe localized food insecurity_: due to civil conflict, population displaceme
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Amu Darya (shared with Turkmenistan, Tajikistan, and Uzbekistan) - 2,620 km; Helmand (shared with Iran) - 1,130 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
@@ -717,5 +729,5 @@ _current situation_: human traffickers exploit domestic and foreign victims and 
 _tier rating_: <p>Tier 3<strong> —</strong><strong> </strong>Afghanistan does not fully comply with the minimum standards for the elimination of trafficking in persons and is not making significant efforts to do so; the government decreased law enforcement efforts against civilian and official perpetrators of trafficking, and officials complicit in recruitment and use of child soldiers and the sexual exploitation of boys continued to operate with impunity; authorities continued to arrest, detain, and penalize many trafficking victims, including punishing sex trafficking victims for “moral crimes”; the judiciary remained underfunded, understaffed, and undertrained (2020)</p><br>
 
 **Illicit drugs**<br>
-world's largest producer of opium; poppy cultivation increased 63 percent, to 328,304 hectares in 2017; while eradication increased slightly, it still remains well below levels achieved in 2015; the 2017 crop yielded an estimated 9,000 mt of raw opium, a 88% increase over 2016; the Taliban and other antigovernment groups participate in and profit from the opiate trade, which is a key source of revenue for the Taliban inside Afghanistan; widespread corruption and instability impede counterdrug efforts; most of the heroin consumed in Europe and Eurasia is derived from Afghan opium; Afghanistan is also struggling to respond to a burgeoning domestic opiate addiction problem; a 2015 national drug use survey found that roughly 11% of the population tested positive for one or more illicit drugs; vulnerable to drug money laundering through informal financial networks; illicit cultivation of cannabis and regional source of hashish (2018)<br>
+<p>the world’s largest producer of illicit opiates but it is not a major supplier to the United States; 215,000 hectares (ha) of opium poppy cultivated in Afghanistan in 2019; also produces methamphetamine and cannabis products; one of the highest domestic substance abuse rates in the world</p> (2018)<br>
 

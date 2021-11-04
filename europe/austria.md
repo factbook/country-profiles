@@ -64,6 +64,12 @@ _other_: 14.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Population distribution**<br>
 the northern and eastern portions of the country are more densely populated; nearly two-thirds of the populace lives in urban areas<br>
 
@@ -258,6 +264,12 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 4.836 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 1,240,918 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -582,15 +594,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,722,128<br>
-_subscriptions per 100 inhabitants_: 42.17 (2019 est.)<br>
+_total subscriptions_: 3,786,725 (2020)<br>
+_subscriptions per 100 inhabitants_: 42.04 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10.726 million<br>
-_subscriptions per 100 inhabitants_: 121.53 (2019 est.)<br>
+_total subscriptions_: 10,682,294 (2020)<br>
+_subscriptions per 100 inhabitants_: 118.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China</p> (2021)<br>
+_general assessment_: mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2020)<br>
 _domestic_: developed and efficient; 41 per 100 fixed-line for households, 174 per 100 for companies; 120 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; 62 per 100 fixed broadband, 54 per 100 mobile broadband (2019)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -606,8 +618,8 @@ _total_: 7,712,665<br>
 _percent of population_: 87.71% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2.519 million<br>
-_subscriptions per 100 inhabitants_: 28.54 (2019 est.)<br>
+_total_: 2.606 million (2020)<br>
+_subscriptions per 100 inhabitants_: 28.93 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the Austrian National Library contains important collections of the Imperial Library of the Holy Roman Empire and of the Austrian Empire, as well as of the Austrian Republic; among its more than 12 million items are outstanding holdings of rare books, maps, globes, papyrus, and music; its Globe Museum is the only one in the world<br><br><strong>note 2:</strong> on 1 October 1869, Austria-Hungary introduced the world's first postal card - postal stationery with an imprinted stamp indicating the prepayment of postage; simple and cheap (sent for a fraction of the cost of a regular letter), postal cards became an instant success, widely produced in the millions worldwide<br><br><strong>note 3:</strong> Austria followed up with the creation of the world's first commercial picture postcards - cards bearing a picture or photo to which postage is affixed - in May 1871; sent from Vienna, the image served as a souvenir of the city; together, postal cards and post cards served as the world's e-mails of the late 19th and early 20th centuries<br><br><strong>note 4:</strong> Austria was also an airmail pioneer; from March to October of 1918, it conducted the world's first regular (daily) airmail service - between the imperial cities of Vienna, Krakow, and Lemberg - a combined distance of some 650 km (400 mi) (earlier airmail services had been set up in a few parts of the world, but only for short stretches and none lasted beyond a few days or weeks); an expansion of the route in June of 1918 allowed private mail to be flown to Kyiv, in newly independent Ukraine, which made the route the world's first regular international airmail service (covering a distance of some 1,200 km; 750 mi)<br>

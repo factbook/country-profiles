@@ -66,6 +66,9 @@ _other_: 16.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
 
@@ -265,6 +268,9 @@ _municipal solid waste generated annually_: 3.011 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -329,7 +335,7 @@ _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President 
 _head of government_: Interim Prime Minister Stefan YANEV (since 12 May 2021); note - YANEV is leading a caretaker government until elections are held on 11 July 2021<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
 _elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13 November 2016 (next to be held in fall 2021); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
-_election results_: Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br>
+_election results_: <br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>

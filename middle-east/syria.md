@@ -66,6 +66,9 @@ _other_: 21.5% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iran, Iraq, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Iran) - 1,950 km;&nbsp;<br>
+
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
 <strong>note:</strong> the ongoing civil war has altered the population distribution<br>
@@ -261,6 +264,9 @@ _exceptional shortfall in aggregate food production/supplies_: due to civil conf
 _municipal solid waste generated annually_: 4.5 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Iran, Iraq, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Iran) - 1,950 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>

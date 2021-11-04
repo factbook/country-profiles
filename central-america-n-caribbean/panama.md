@@ -63,6 +63,9 @@ _other_: 25.9% (2018 est.)<br>
 **Irrigated land**<br>
 321 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
+
 **Population distribution**<br>
 population is concentrated towards the center of the country, particularly around the Canal, but a sizeable segment of the populace also lives in the far west around David; the eastern third of the country is sparsely inhabited<br>
 
@@ -270,6 +273,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,472,262 tons (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Laguna de Chiriqui - 900 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 759.1 million cubic meters (2017 est.)<br>

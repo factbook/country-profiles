@@ -69,6 +69,12 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 **Major aquifers**<br>
 Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Mali, and Niger) - 4,200 km;&nbsp;&nbsp;<br>
+
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
 
@@ -289,6 +295,12 @@ _widespread lack of access_: due to persistent civil conflict in the northern ar
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Mali, and Niger) - 4,200 km;&nbsp;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>

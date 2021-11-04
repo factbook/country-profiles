@@ -72,6 +72,12 @@ Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km
 **Major aquifers**<br>
 Northern Great Plains Aquifer<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
+
+**Major rivers (by length in km)**<br>
+Mackenzie - 4, 241 km; Yukon (shared with the US) - 3,185 km; Nelson - 2,570 km; Columbia (shared with the US) - 1,953 km; Churchill - 1,600 km; Fraser (shared with the US) - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br>
+
 **Population distribution**<br>
 vast majority of Canadians are positioned in a discontinuous band within approximately 300 km of the southern border with the United States; the most populated province is Ontario, followed by Quebec and British Columbia<br>
 
@@ -264,6 +270,12 @@ _coal revenues_: 0.08% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 25,103,034 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 5,168,715 tons (2008 est.)<br>
 _percent of municipal solid waste recycled_: 20.6% (2008 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
+
+**Major rivers (by length in km)**<br>
+Mackenzie - 4, 241 km; Yukon (shared with the US) - 3,185 km; Nelson - 2,570 km; Columbia (shared with the US) - 1,953 km; Churchill - 1,600 km; Fraser (shared with the US) - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>

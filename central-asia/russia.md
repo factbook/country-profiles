@@ -70,6 +70,13 @@ Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972
 **Major aquifers**<br>
 Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km; Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Kurshskiy Zaliv/Kursiu Marios (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
+
+**Major rivers (by length in km)**<br>
+Yenisey - 5,539 km; Ob' - 5,410 km;&nbsp; Amur (shared with China and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural (shared with Kazakhstan) - 2,428 km; Dnieper (shared with Ukraine and Belarus) - 2,287 km; Don (shared with Ukraine) - 1,870 km; Pechora - 1,809 km<br>
+
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
 
@@ -283,6 +290,13 @@ _municipal solid waste generated annually_: 60 million tons (2012 est.)<br>
 _municipal solid waste recycled annually_: 2.7 million tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2012 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km; Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
+_Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Kurshskiy Zaliv/Kursiu Marios (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
+
+**Major rivers (by length in km)**<br>
+Yenisey - 5,539 km; Ob' - 5,410 km;&nbsp; Amur (shared with China and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural (shared with Kazakhstan) - 2,428 km; Dnieper (shared with Ukraine and Belarus) - 2,287 km; Don (shared with Ukraine) - 1,870 km; Pechora - 1,809 km<br>
+
 **Major watersheds (area sq km)**<br>
 Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
 
@@ -353,13 +367,13 @@ _chief of state_: President Vladimir Vladimirovich PUTIN (since 7 May 2012)<br>
 _head of government_: Premier Mikhail MISHUSTIN (since 16 January 2020); First Deputy Premier Andrey Removich BELOUSOV (since 21 January 2020); Deputy Premiers Yuriy TRUTNEV (since 31 August 2013), Yuriy Ivanovich BORISOV, Tatiana Alekseyevna GOLIKOVA (since 18 May 2018), Dmitriy Yuriyevich GRIGORENKO, Viktoriya Valeriyevna ABRAMCHENKO, Aleksey Logvinovich OVERCHUK, Marat Shakirzyanovich KHUSNULLIN, Dmitriy Nikolayevich CHERNYSHENKO (since 21 January 2020), Aleksandr NOVAK (since 10 November 2020)<br>
 _cabinet_: the "Government" is composed of the premier, his deputies, and ministers, all appointed by the president; the premier is also confirmed by the Duma<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (2020 constitutional amendments allow a second consecutive term); election last held on 18 March 2018 (next to be held in March 2024); note - for the 2024 presidential election, previous presidential terms are discounted; there is no vice president; premier appointed by the president with the approval of the Duma<br>
-_election results_: Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 5.8%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br>
+_election results_: <em><br>2018:</em> Vladimir PUTIN reelected president; percent of vote - Vladimir PUTIN (independent) 77.5%, Pavel GRUDININ (CPRF) 11.9%, Vladimir ZHIRINOVSKIY (LDPR) 5.7%, other 5.8%; Mikhail MISHUSTIN (independent) approved as premier by Duma; vote - 383 to 0<br><br><em>2012:</em> Vladimir PUTIN elected president; percent of vote - Vladimir PUTIN (United Russia) 63.6%, Gennadiy ZYUGANOV (CPRF) 17.2%, Mikhail PROKHOROV (CP) 8%, Vladimir ZHIRINOVSKIY (LDPR) 6.2%, Sergey MIRONOV (A Just Russia) 3.9%, other 1.1%; Dmitriy MEDVEDEV (United Russia) approved as premier by Duma; vote - 299 to 144<br>
 <strong>note:</strong> there is also a Presidential Administration that provides staff and policy support to the president, drafts presidential decrees, and coordinates policy among government agencies; a Security Council also reports directly to the president<br>
 
 **Legislative branch**<br>
 _description_: bicameral Federal Assembly or Federalnoye Sobraniye consists of:<br>Federation Council or Sovet Federatsii (170 seats; 2 members in each of the 83 federal administrative units (see note below) - oblasts, krays, republics, autonomous okrugs and oblasts, and federal cities of Moscow and Saint Petersburg - appointed by the top executive and legislative officials; members serve 4-year terms)<br>State Duma or Gosudarstvennaya Duma (450 seats (see note below); as of February 2014, the electoral system reverted to a mixed electoral system for the 2016 election, in which one-half of the members are directly elected by simple majority vote and one-half directly elected by proportional representation vote; members serve 5-year terms)<br>
-_elections_: <br>State Duma - last held 17 - 19 September 2021 (next to be held in fall 2026)<br>
-_election results_: <br>Federation Council (members appointed); composition - men 145, women 25, percent of women 14.7%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and Independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5</p><br>
+_elections_: <br>State Duma - last held 17 - 19 September 2021 (next to be held in September 2026)<br>
+_election results_: <br>Federation Council (members appointed); composition (as of October 2021) - men 141, women 29, percent of women 17.1%<br> <p>State Duma - United Russia 50.9%, CPRF 19.3%, LDPR 7.7%, A Just Russia 7.6%, New People 5.3% other minor parties and Independents 9.2%; seats by party - United Russia 324, CPRF 57, LDPR 21, A Just Russia 27, New People 13; Rodina 1, CP 1, Party of Growth 1, independent 5; composition (as of October 2021) - men 377, women 73, percent of women 16.2%; note - total Federation Council percent of women 16.5%</p><br>
 <strong>note 1:</strong> the State Duma now includes 3 representatives from the "Republic of Crimea," while the Federation Council includes 2 each from the "Republic of Crimea" and the "Federal City of Sevastopol," both regions that Russia occupied and attempted to annex from Ukraine and that the US does not recognize as part of Russia<br>
 
 **Judicial branch**<br>
@@ -726,7 +740,7 @@ the Russian Federation's military and paramilitary services are equipped with do
 
 **Military deployments**<br>
 information varies; est. 3,000-5,000 Armenia; est. 1,500 Belarus; est. 7,000-10,000 Georgia; est. 100 Central African Republic; est. 500 Kyrgyzstan; est. 1,500-2,000 Moldova (Trannistria); est. 3,000-5,000 Syria; est. 5,000-7,000 Tajikistan; est. 25,000-30,000 Ukraine (including Crimea) (2020)<br>
-note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of 2021, a Russian Government-backed private military company was assessed to have 1-2,000 personnel in Libya supporting Libyan National Army forces;<br>
+note(s): since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a truce agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020<br><br>as of 2021, Russia was assessed to have 1-2,000 private military contractors in Libya and as many as 2,300 private military contractors in the Central African Republic <br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory or voluntary military service; males are registered for the draft at 17 years of age; one-year service obligation (Russia offers the option of serving on a two-year contract instead of completing a one-year conscription period); reserve obligation for non-officers to age 50; enrollment in military schools from the age of 16, cadets classified as members of the armed forces (2019)<br>

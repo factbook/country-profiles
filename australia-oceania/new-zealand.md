@@ -64,6 +64,9 @@ _other_: 25.4% (2018 est.)<br>
 **Irrigated land**<br>
 7,210 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Taupo - 610 sq km<br>
+
 **Population distribution**<br>
 over three-quarters of New Zealanders, including the indigenous Maori, live on the North Island, primarily in urban areas<br>
 
@@ -259,6 +262,9 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3.405 million tons (2016 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Taupo - 610 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 810 million cubic meters (2017 est.)<br>

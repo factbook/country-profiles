@@ -62,6 +62,9 @@ _other_: 55.2% (2018 est.)<br>
 **Irrigated land**<br>
 240 sq km; note - includes Gaza Strip (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+
 **Population distribution**<br>
 Palestinian settlements are primarily located in the central to western half of the territory; Jewish settlements are found in pockets throughout, particularly in the northeast, north-central, and around Jerusalem<br>
 
@@ -257,6 +260,9 @@ _municipal solid waste generated annually_: 1.387 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 6,935 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2013 est.)<br>
 <strong>note:</strong> data represent combined total from the Gaza Strip and the West Bank.<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Dead Sea (shared with Jordan and Israel) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Total water withdrawal**<br>
 _municipal_: 181.2 million cubic meters (2017 est.)<br>
@@ -539,7 +545,7 @@ _paved_: 4,686 km (2010)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated almost exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventative Security Service, the General Intelligence Organization, and the Military Intelligence Organization (2020)<br>
+per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated almost exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventative Security Service, the General Intelligence Organization, and the Military Intelligence Organization (2021)<br>
 
 **Military and security service personnel strengths**<br>
 the Palestinian Authority Security Forces have approximately 30,000 active personnel (2020)<br>

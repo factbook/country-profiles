@@ -70,6 +70,9 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
 
+**Major rivers (by length in km)**<br>
+Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
+
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>
 
@@ -281,6 +284,9 @@ _severe localized food insecurity_: due to poor performance of pastoral cropping
 _municipal solid waste generated annually_: 454,000 tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>

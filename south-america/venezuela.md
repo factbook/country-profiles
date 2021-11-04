@@ -67,6 +67,12 @@ _other_: 23.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Negro (shared with Colombia and Brazil) - 2,250 km; Orinoco (shared with Colombia and Guyana) - 2,101 km;<br>
+
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
 
@@ -255,6 +261,12 @@ _widespread lack of access_: due to severe economic crisis - the total number of
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Negro (shared with Colombia and Brazil) - 2,250 km; Orinoco (shared with Colombia and Guyana) - 2,101 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -657,7 +669,7 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana, NMB)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2020)<br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana, NMB)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
 note(s): the CODAI is a joint service command with personnel drawn from other services; the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses<br>
 
 **Military expenditures**<br>
@@ -681,7 +693,7 @@ The International Maritime Bureau continues to report the territorial and offsho
 18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2019)<br>
 
 **Military - note**<br>
-between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of mid-2019, military officers reportedly led at least 60 state-owned companies<br>
+between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies<br>
 
 ## Terrorism
 

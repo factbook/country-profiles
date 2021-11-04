@@ -260,9 +260,8 @@ _elections/appointments_: French president elected by absolute majority popular 
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Assembly or Assemblee Territoriale (20 seats - Wallis 13, Futuna 7; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 5-year terms)<br>Wallis and Futuna indirectly elects 1 senator to the French Senate by an electoral college by absolute majority vote in 2 rounds if needed for a 6-year term, and directly elects 1 deputy to the French National Assembly by absolute majority vote for a 5-year term<br>
-_elections_: Territorial Assembly - last held on 26 March 2017 (next to be held in March 2022)<br>French Senate - last held on 28 September 2014 (next to be held by September 2020)<br>French National Assembly - last held on 11 June 2017 (next to be held in June 2022)<br>
-_election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Fia gaue fakatahi kihe kaha'u e lelei and 1 each from 18 other lists; composition - men 14, women 6, percent of women 30%<br> French Senate - LR 1<br>French National Assembly - independent 1<br>
-&nbsp;<br>
+_elections_: Territorial Assembly - last held on 26 March 2017 (next to be held in March 2022)<br>French Senate - last held on 24 and 27 September 2020 (next to be held by September 2023)<br>French National Assembly - last held on 11 June 2017 (next to be held in June 2022)<br>
+_election results_: Territorial Assembly - percent of vote by party - NA; seats by party - 2 members are elected from the list Fia gaue fakatahi kihe kaha'u e lelei and 1 each from 18 other lists; composition - men 14, women 6, percent of women 30%<br>representation in French Senate - LR 1 (man)<br>representation in French National Assembly - independent 1 (man)<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Assizes or Cour d'Assizes (consists of 1 judge; court hears primarily serious criminal cases); note - appeals beyond the Court of Assizes are heard before the Court of Appeal or Cour d'Appel (in Noumea, New Caledonia)<br>

@@ -64,6 +64,9 @@ _other_: 62.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Kazakhstan) - 3,078 km; Amu Darya (shared with Turkmenistan, Uzbekistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
 
@@ -266,6 +269,9 @@ _vectorborne diseases_: malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Kazakhstan) - 3,078 km; Amu Darya (shared with Turkmenistan, Uzbekistan, and Afghanistan) - 2,620 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -659,7 +665,7 @@ _total_: 30,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces (airborne, mountain infantry troops), Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2020)<br>
+Armed Forces of the Republic of Tajikistan: Land Forces, Mobile Forces (airborne, mountain infantry troops), Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Troops (reserves for Armed Forces in wartime); State Committee on National Security: Border Guard Forces (2021)<br>
 
 **Military expenditures**<br>
 1.1% of GDP (2020 est.)<br>

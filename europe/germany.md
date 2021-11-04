@@ -66,6 +66,13 @@ _other_: 20.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
+_Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Czechia) - 1,252 km; Rhine&nbsp; (shared with Switzerland, France, and Netherlands) - 1,233 km;<br>
+
 **Population distribution**<br>
 most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
 
@@ -262,6 +269,13 @@ _municipal solid waste generated annually_: 51.046 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 24,415,302 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 47.8% (2015 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
+_Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Czechia) - 1,252 km; Rhine&nbsp; (shared with Switzerland, France, and Netherlands) - 1,233 km;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
@@ -331,7 +345,7 @@ _election results_: Frank-Walter STEINMEIER elected president; Federal Conventio
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Federal Council or Bundesrat (69 seats; members appointed by each of the 16 state governments)<br>Federal Diet or Bundestag (735 seats for the 2021-25 term - total seats can vary each electoral term; approximately one-half of members directly elected in multi-seat constituencies by proportional representation vote and approximately one-half directly elected in single-seat constituencies by simple majority vote; members' terms depend upon the states they represent)<br>
 _elections_: <br>Bundesrat - none; determined by the composition of the state-level governments; the composition of the Bundesrat has the potential to change any time one of the 16 states holds an election<br>Bundestag - last held on 26 September 2021 (next to be held in September 2025 at the latest); most postwar German governments have been coalitions<br>
-_election results_: <br>Bundesrat - composition - men 50, women 23, percent of women 33.3%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; note - total Bundestag percent of women NA%<br>
+_election results_: <br>Bundesrat - composition - men 46, women 23, percent of women 33.3%<br>Bundestag - percent of vote by party - SPD 25.7%, CDU/CSU 24.1%, Alliance '90/Greens 14.8%, FDP 11.5%, AfD 10.3%, The Left 4.9%, other 8.7%; seats by party - SPD 206, CDU/CSU 196, Alliance '90/Greens 118, FDP 92, AfD 83, The Left 39, other 1; composition - men 479, women 257, percent of women 34.9%; note - total Parliament percent of women 34.8%<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Court of Justice (court consists of 127 judges, including the court president, vice presidents, presiding judges, other judges and organized into 25 Senates subdivided into 12 civil panels, 5 criminal panels, and 8 special panels); Federal Constitutional Court or Bundesverfassungsgericht (consists of 2 Senates each subdivided into 3 chambers, each with a chairman and 8 members)<br>

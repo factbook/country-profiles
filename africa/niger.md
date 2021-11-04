@@ -67,6 +67,12 @@ Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basi
 **Major aquifers**<br>
 Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Mali, and Nigeria) - 4,200 km;&nbsp;&nbsp;<br>
+
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
 
@@ -287,6 +293,12 @@ _municipal solid waste generated annually_: 1,865,646 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 74,626 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
+**Major rivers (by length in km)**<br>
+Niger (shared with Guinea, Mali, and Nigeria) - 4,200 km;&nbsp;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
@@ -352,8 +364,8 @@ _residency requirement for naturalization_: unknown<br>
 _chief of state_: President Mohamed BAZOUM (since 2 April 2021)<br>
 _head of government_: Prime Minister Ouhoumoudou MAHAMADOU (since 3 April 2021)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff scheduled for 21 February 2021; prime minister appointed by the president, authorized by the National Assembly<br>
-_election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.33%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 8.95%, Albade ABOUDA (MPR-Jamhuriya) 7.07%<br><br>2016 results: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 27 December 2020 with a runoff held on 21 February 2021, which BAZOUM won; prime minister appointed by the president, authorized by the National Assembly<br>
+_election results_: percent of vote in 2020 first round - Mohamed BAZOUM (PNDS-Tarrayya) 39.33%, Mahamane OUSMANE (MODEN/FA Lumana Africa) 17%, Seini OUMAROU (MNSD-Nassara) 8.95%, Albade ABOUDA (MPR-Jamhuriya) 7.07%; percent of vote in 2021 second round - Mohamed BAZOUM (PNDS-Tarrayya) 55.67%, Mahamane OUSMANE (RDR Tchanji) 44.33%<br><br>2016 results: ISSOUFOU Mahamadou reelected president in second round; percent of vote in first round - ISSOUFOU Mahamadou (PNDS-Tarrayya) 48.6%, Hama AMADOU (MODEN/FA Lumana Africa) 17.8%, Seini OUMAROU (MNSD-Nassara) 11.3%, other 22.3%; percent of vote in second round - ISSOUFOU Mahamadou 92%, Hama AMADOU 8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (171 seats; 158 members directly elected from 8 multi-member constituencies in 7 regions and Niamey by party-list proportional representation, 8 reserved for minorities elected in special single-seat constituencies by simple majority vote, 5 seats reserved for Nigeriens living abroad - l seat per continent - elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>

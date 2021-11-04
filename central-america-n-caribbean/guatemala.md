@@ -63,6 +63,9 @@ _other_: 25.2% (2018 est.)<br>
 **Irrigated land**<br>
 3,375 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
+
 **Population distribution**<br>
 the vast majority of the populace resides in the southern half of the country, particularly in the mountainous regions; more than half of the population lives in rural areas<br>
 
@@ -272,6 +275,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 2,756,741 tons (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago de Izabal - 590 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 835 million cubic meters (2017 est.)<br>

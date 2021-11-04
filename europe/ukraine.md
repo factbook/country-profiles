@@ -67,6 +67,9 @@ _other_: 12% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Moldova) - 2,888 km; Dnieper (shared with Russia and Belarus) - 2,287 km; Don (shared with Russia) - 1,870 km; Dniester (shared with Moldova) - 1,411 km; Vistula (shared with Poland and Belarus) - 1,213 km<br>
+
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
 
@@ -266,6 +269,9 @@ _coal revenues_: 0.42% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 15,242,025 tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 487,745 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Moldova) - 2,888 km; Dnieper (shared with Russia and Belarus) - 2,287 km; Don (shared with Russia) - 1,870 km; Dniester (shared with Moldova) - 1,411 km; Vistula (shared with Poland and Belarus) - 1,213 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
@@ -696,7 +702,7 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 3.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2020)<br>
+information varies; approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Ukrainian military is equipped mostly with older Russian and Soviet-era weapons systems; since 2010, it has imported limited quantities of weapons from several European countries, as well as Canada, the US, and the United Arab Emirates; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2020)<br>
@@ -709,7 +715,7 @@ note - Ukraine contributes about 500 troops to the Lithuania, Poland, and Ukrain
 conscription abolished in 2012, but reintroduced in 2014; 20-27 years of age for compulsory military service; conscript service obligation is 12 months; note - the Ukrainian military has a mix of conscript and professional soldiers on contracts; by law, conscripts cannot serve on the frontlines but have the opportunity to sign short or long-term contracts upon the expiration of their terms of service<br> (2020)<br>
 
 **Military - note**<br>
-the Ukrainian military’s primary concern is Russia’s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, Ukrainian military casualties along the front line have fallen significantly despite continued sporadic exchanges of fire through 2020 and 2021<br> <p>since 2014, the Ukrainian military has undertaken considerable efforts to improve its capabilities; it has sought to implement reforms in line with NATO standards, improve individual and unit training, revise doctrine, upgrade arms and equipment, streamline command and control, reduce reliance on conscripts, and expand elite units such as the Air Assault and Special Operations Forces; the military also has received considerable assistance and material support from NATO and the US</p><br>
+the Ukrainian military’s primary concern is Russia’s material support for armed separatist forces in the eastern provinces of Donetsk and Luhansk where the conflict has become stalemated along a 250-mile front known as the line of contact; since the cease-fire of October 2019, Ukrainian military casualties along the front line have fallen significantly despite continued sporadic exchanges of fire through 2020 and 2021<br> <p>since 2014, the Ukrainian military has undertaken considerable efforts to improve its capabilities; it has sought to implement reforms in line with NATO standards, improve individual and unit training, revise doctrine, upgrade arms and equipment, streamline command and control, reduce reliance on conscripts, and expand elite units such as the Air Assault and Special Operations Forces; the military also has received considerable assistance and material support from NATO and the US (2021)</p><br>
 
 ## Transnational Issues
 

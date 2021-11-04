@@ -65,6 +65,9 @@ _other_: 9.1% (2018 est.)<br>
 **Irrigated land**<br>
 38,000 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Tagus (shared with Portugal) - 1,006;<br>
+
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
 
@@ -276,6 +279,9 @@ _respiratory diseases_: Covid-19 (see note) (2020)<br>
 _municipal solid waste generated annually_: 20.151 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Tagus (shared with Portugal) - 1,006;<br>
 
 **Total water withdrawal**<br>
 _municipal_: 4.89 billion cubic meters (2017 est.)<br>

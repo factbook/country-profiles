@@ -64,6 +64,9 @@ _other_: 22.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Orange (shared with South Africa and Namibia) - 2,092 km;&nbsp;<br>
+
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
 
@@ -271,6 +274,9 @@ _severe localized food insecurity_: <p>due to localized shortfalls in production
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Orange (shared with South Africa and Namibia) - 2,092 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>

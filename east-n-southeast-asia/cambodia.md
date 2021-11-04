@@ -67,6 +67,12 @@ _other_: 11.4% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, Thailand, China, and Vietnam) - 4,350 km;<br>
+
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
 
@@ -276,6 +282,12 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, Thailand, China, and Vietnam) - 4,350 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>

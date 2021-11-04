@@ -67,6 +67,9 @@ _other_: 0% (2018 est.)<br>
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
 
+**Major rivers (by length in km)**<br>
+Gambia (shared with Senegal and Guinea) - 1,094 km<br>
+
 **Population distribution**<br>
 settlements are found scattered along the Gambia River; the largest communities, including the capital of Banjul, and the country's largest city, Serekunda, are found at the mouth of the Gambia River along the Atlantic coast as shown in this population distribution map<br>
 
@@ -283,6 +286,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Gambia (shared with Senegal and Guinea) - 1,094 km<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>

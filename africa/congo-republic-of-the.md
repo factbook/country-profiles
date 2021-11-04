@@ -69,6 +69,9 @@ Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 **Major aquifers**<br>
 Congo Basin<br>
 
+**Major rivers (by length in km)**<br>
+Ubangi (shared with Central African Republic and Democratic Republic of Congo) - 2,270 km;&nbsp;<br>
+
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
 
@@ -280,6 +283,9 @@ _severe localized food insecurity_: due to restrictive measures related to the C
 _municipal solid waste generated annually_: 451,200 tons (1993 est.)<br>
 _municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Ubangi (shared with Central African Republic and Democratic Republic of Congo) - 2,270 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>

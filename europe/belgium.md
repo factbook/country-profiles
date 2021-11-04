@@ -582,16 +582,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,930,410<br>
-_subscriptions per 100 inhabitants_: 33.78 (2019 est.)<br>
+_total subscriptions_: 3,634,639 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,509,573<br>
-_subscriptions per 100 inhabitants_: 98.92 (2019 est.)<br>
+_total subscriptions_: 11,529,728 (2020)<br>
+_subscriptions per 100 inhabitants_: 99.48 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2021)<br>
-_domestic_: 34 per 100 fixed-line, 100 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2019)<br>
+_general assessment_: Belgium has a highly developed, technologically advanced telecom system; LTE is nearly universal; ongoing investment in 5G with services to dozens of cities and towns; competition between the DSL and cable platforms with investment in fiber networks; 5G; operators accelerating fiber roll-out program; Brussels Airport collaborating with operator to deploy 5G and IoT solutions; international connections through satellite and submarine cables; importer of broadcast equipment from EU neighbors (2020)<br>
+_domestic_: 34 per 100 fixed-line, 100 per 100 mobile-cellular; nationwide mobile-cellular telephone system; extensive cable network; limited microwave radio relay network (2020)<br>
 _international_: country code - 32; landing points for Concerto, UK-Belgium, Tangerine, and SeaMeWe-3, submarine cables that provide links to Europe, the Middle East, Australia and Asia; satellite earth stations - 7 (Intelsat - 3) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -606,8 +606,8 @@ _total_: 10,258,638<br>
 _percent of population_: 88.66% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,590,707<br>
-_subscriptions per 100 inhabitants_: 39.45 (2019 est.)<br>
+_total_: 4,734,210 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.85 (2020 est.)<br>
 
 ## Transportation
 
@@ -706,5 +706,5 @@ _refugees (country of origin)_: 16,693 (Syria), 5,515 (Iraq) (2020)<br>
 _stateless persons_: 1,264 (2020)<br>
 
 **Illicit drugs**<br>
-growing producer of synthetic drugs and cannabis; transit point for US-bound ecstasy; source of precursor chemicals for South American cocaine processors; transshipment point for cocaine, heroin, hashish, and marijuana entering Western Europe; despite a strengthening of legislation, the country remains vulnerable to money laundering related to narcotics, automobiles, alcohol, and tobacco; significant domestic consumption of ecstasy<br>
+<p>a primary entry point for cocaine smuggled into Europe; also a transit point for precursor chemicals from China for amphetamine and MDMA production labs in Belgium; a transit country for new psychoactive substances (NPS); increasing number of amphetamine and ecstasy production labs in Belgium; heroin also transits through Belgium.</p><br>
 

@@ -66,6 +66,12 @@ _other_: 21.6% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, China, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Burma) - 3,060 km; Mun - 1,162 km<br>
+
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
 
@@ -277,6 +283,12 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 _municipal solid waste generated annually_: 26,853,366 tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,128,993 tons (2012 est.)<br>
 _percent of municipal solid waste recycled_: 19.1% (2012 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Mekong (shared with Burma, Laos, China, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Burma) - 3,060 km; Mun - 1,162 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -699,13 +711,13 @@ note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers’) is a paramili
 1.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 350,000 active duty personnel (240,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2020)<br>
+estimates for the size of the Royal Thai Armed Forces (RTARF) vary widely; approximately 350,000 active duty personnel (240,000 Army; 65,000 Navy; 45,000 Air Force); est. 20,000 Thai Rangers; est. 5-6,000 Internal Security Operations Command (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the RTARF has a diverse array of foreign-supplied weapons systems, including a large amount of obsolescent or second-hand US equipment; since 2010, Thailand has received military equipment from nearly 20 countries with China, South Korea, Sweden, Ukraine, and the US as the leading suppliers (2020)<br>
 
 **Military deployments**<br>
-275 South Sudan (UNMISS) (Jan 2021)<br>
+275 South Sudan (UNMISS) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 21 years of age for compulsory military service; 18 years of age for voluntary military service; males register at 18 years of age; 2-year conscript service obligation based on lottery (2019)<br>

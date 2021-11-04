@@ -66,6 +66,13 @@ _other_: 19% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
+_Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
 
@@ -285,6 +292,13 @@ _severe localized food insecurity_: due to localized shortfalls in staple food p
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 9,276,995 tons (2012 est.)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
+_Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
@@ -347,7 +361,7 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); note - the president is both chief of state and head of government<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
-_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 25 October 2015 (next to be held 28 October 2020); prime minister appointed by the president<br>
+_elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October, 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
 <strong>note:</strong> Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun<br>
 
@@ -697,13 +711,13 @@ note: the National Building Army is a paramilitary organization under the Defens
 1.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Tanzania People's Defense Forces (TPDF) have an estimated 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2020)<br>
+estimated 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China is the leading supplier of arms to the TPDF (2020)<br>
 
 **Military deployments**<br>
-450 Central African Republic (MINUSCA); 775 Democratic Republic of the Congo (MONUSCO); 120 Lebanon (UNIFIL); 330 Sudan (UNAMID) (Jan 2021)<br>
+450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports that shipping in territorial and offshore waters in the Indian Ocean remain at risk for piracy and armed robbery against ships</p><br>
@@ -712,7 +726,7 @@ the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010,
 18-25 years of age for voluntary military service; 6-year commitment (2-year contracts afterwards); selective conscription for 2 years of public service (2021)<br>
 
 **Military - note**<br>
-as of late 2020, the TPDF had deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado<br>
+as of 2020-2021, the TPDF had deployed additional troops to its border with Mozambique to prevent a spillover of the growing violence in the northern Mozambican province of Cabo Delgado<br>
 
 ## Terrorism
 

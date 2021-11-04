@@ -61,6 +61,9 @@ _other_: 0.9% (2018 est.)<br>
 **Irrigated land**<br>
 320 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, Nepal, Bangladesh, and China) - 3,969 km<br>
+
 **Natural hazards**<br>
 violent storms from the Himalayas are the source of the country's Bhutanese name, which translates as Land of the Thunder Dragon; frequent landslides during the rainy season<br>
 
@@ -248,6 +251,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 111,314 tons (2007 est.)<br>
 _municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, Nepal, Bangladesh, and China) - 3,969 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 17 million cubic meters (2017 est.)<br>

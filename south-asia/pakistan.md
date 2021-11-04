@@ -70,6 +70,9 @@ Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin)
 **Major aquifers**<br>
 Indus Basin<br>
 
+**Major rivers (by length in km)**<br>
+Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
+
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
 
@@ -286,6 +289,9 @@ _severe localized food insecurity_: due to population displacements, economic co
 _municipal solid waste generated annually_: 30.76 million tons (2017 est.)<br>
 _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>

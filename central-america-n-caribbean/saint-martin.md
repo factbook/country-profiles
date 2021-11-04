@@ -211,7 +211,7 @@ _elections/appointments_: French president directly elected by absolute majority
 _election results_: Daniel GIBBS (TDG) elected president; Territorial Council vote - 18 votes, 4 blank, 1 invalid<br>
 
 **Legislative branch**<br>
-_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and one member (shared with Saint Barthelemy) to the French National Assembly<br>
+_description_: unicameral Territorial Council (23 seats; members directly elected by absolute majority vote in 2 rounds if needed to serve 5-year terms); Saint Martin elects 1 member to the French Senate and 1member (shared with Saint Barthelemy) to the French National Assembly<br>
 _elections_: Territorial Council - last held on 18 and 25 March 2017 (next to be held in March 2022)<br>
 _election results_: Territorial Council - percent of vote by party (first round) - TDG 49.1%, MJP 13.7%, MVP 12.3%, HOPE 8.7%, Continuons pour Saint-Martin 6.5%, other 9.7%; seats by party - NA; percent of vote by party (second round) - TDG 64.3%, MJP 24.2%, MVP 11.5.5%; seats by party - TDG 18, MJP 4, MVP 1; composition - men 13, women 10, percent of women 43.5%<br>
 French Senate - held on 28 September 2014 (next to be held not later than September 2020) French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022) French Senate - 1 seat: UMP 1 French National Assembly - 1 seat: UMP 1<br>

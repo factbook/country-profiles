@@ -67,6 +67,9 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
 
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
+
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
 
@@ -274,6 +277,9 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>

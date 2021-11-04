@@ -70,6 +70,13 @@ Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,1
 **Major aquifers**<br>
 Great Artesian Basin, Canning Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
+_Salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
+
+**Major rivers (by length in km)**<br>
+River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
+
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
 
@@ -263,6 +270,13 @@ _coal revenues_: 0.78% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 13.345 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 5,618,245 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 42.1% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
+_Salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 sq km; Lake Gairdner - 4,470 sq km; Lake Mackay (ephemeral) - 3,494 sq km; Lake Frome - 2,410 sq km; Lake Amadeus (ephemeral) - 1,032 sq km<br>
+
+**Major rivers (by length in km)**<br>
+River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
@@ -587,15 +601,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7.82 million<br>
-_subscriptions per 100 inhabitants_: 31.14 (2019 est.)<br>
+_total subscriptions_: 6.2 million (2020)<br>
+_subscriptions per 100 inhabitants_: 24.31 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 27.88 million<br>
-_subscriptions per 100 inhabitants_: 111.01 (2019 est.)<br>
+_total subscriptions_: 27.454 million (2020)<br>
+_subscriptions per 100 inhabitants_: 107.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable to be completed by end of 2021; two of Australia's major imports are broadcast equipment and computers from China (2021)<br>
+_general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable to be completed by end of 2021; two of Australia's major imports are broadcast equipment and computers from China (2020)<br>
 _domestic_: 31 per 100 fixed-line, 111 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2019)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 <strong>note</strong>: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,8 +625,8 @@ _total_: 21,419,302<br>
 _percent of population_: 86.55% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,752,830<br>
-_subscriptions per 100 inhabitants_: 34.85 (2019 est.)<br>
+_total_: 8,937,550 (2020)<br>
+_subscriptions per 100 inhabitants_: 35.05 (2020 est.)<br>
 
 ## Transportation
 

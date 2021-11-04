@@ -517,12 +517,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 39,582<br>
-_subscriptions per 100 inhabitants_: 33.54 (2019 est.)<br>
+_total subscriptions_: 35,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 33.54 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 159,471<br>
-_subscriptions per 100 inhabitants_: 135.13 (2019 est.)<br>
+_total subscriptions_: 141,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 135.1 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern fully automatic telecommunications system; increased competition through privatization has increased mobile-cellular teledensity; three mobile-cellular service providers are now licensed; MNO (mobile network operator) launched island-wide LTE services; MNP (mobile number portability) introduced (2018)<br>
@@ -539,6 +539,10 @@ _international_: country code - 297; landing&nbsp;points for the PAN-AM, PCCS, D
 **Internet users**<br>
 _total_: 113,277<br>
 _percent of population_: 97.17% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 19,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 18.21 (2018 est.)<br>
 
 ## Transportation
 
@@ -583,5 +587,5 @@ _current situation_: <p>human traffickers exploit domestic and foreign victims; 
 _tier rating_: Tier 2 Watch List &mdash; Aruba does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government provided officials with anti-trafficking training, continued an awareness campaign, and continued to implement the 2018-2022 national action plan; however, officials investigated fewer trafficking cases and did not report prosecuting or convicting any traffickers; efforts were hindered by the conflation of trafficking with migrant smuggling; authorities also did not report identifying any victims, including Venezuelan migrants and refugees, who are vulnerable to trafficking (2020)<br>
 
 **Illicit drugs**<br>
-transit point for US- and Europe-bound narcotics with some accompanying money-laundering activity; relatively high percentage of population consumes cocaine<br>
+<p>northbound transshipment point for cocaine from Colombia and Venezuela; Cocaine shipped to the United States, other Caribbean islands, Africa, and Europe</p><br>
 

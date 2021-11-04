@@ -334,9 +334,9 @@ _elections/appointments_: president indirectly elected by Parliament for a 4-yea
 _election results_: Egils LEVITS elected president; Parliament vote - Egils LEVITS 61 votes,&nbsp;Didzis SMITS 24, Juris JANSONS 8; Krisjanis KARINS confirmed prime minister 61-39<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party list proportional representation vote; members serve 4-year terms)<br>
+_description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition - men 69, women 31, percent of women 31%<br>
+_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition (as of October 2021) - men 71, women 29, percent of women 29%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>

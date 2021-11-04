@@ -64,6 +64,9 @@ _other_: 19.6% (2018 est.)<br>
 **Irrigated land**<br>
 690 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
+
 **Population distribution**<br>
 the vast majority of people are found in the south; the northern interior areas remain sparsely poplulated<br>
 
@@ -256,6 +259,9 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 2.738 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 769,926 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 28.1% (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Saimaa - 1,760 sq km; Paijanne - 1,090 sq km; Inarijarvi - 1,000 sq km; Oulujarvi - 900 sq km; Pielinen - 850 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 400 million cubic meters (2017 est.)<br>

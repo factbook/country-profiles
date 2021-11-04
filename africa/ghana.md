@@ -67,6 +67,9 @@ _other_: 9.7% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Volta (shared with Burkina Faso) - 1,600 km<br>
+
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
 
@@ -283,6 +286,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Volta (shared with Burkina Faso) - 1,600 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>

@@ -70,6 +70,13 @@ Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 **Major aquifers**<br>
 Guarani Aquifer System<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km<br>
+
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
 
@@ -270,6 +277,13 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 17,910,550 tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 1,074,633 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 6% (2010 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
+_Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
+
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -599,12 +613,12 @@ _electrification - rural areas_: 85% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,757,243<br>
-_subscriptions per 100 inhabitants_: 17.2 (2019 est.)<br>
+_total subscriptions_: 7,356,165 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.28 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 56,352,947<br>
-_subscriptions per 100 inhabitants_: 124.98 (2019 est.)<br>
+_total subscriptions_: 54,763,900 (2020)<br>
+_subscriptions per 100 inhabitants_: 121.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Argentina has one of the most vigorous mobile markets in Latin America; with additional operators in the market, mobile penetration fell in 2020 as incentives for multiple-SIM card ownership eased; LTE with tests of 5G; government plan to boost fixed broadband coverage nationally and declared TV, cable, and mobile services were essential public services; submarine system linking Sao Paolo and Rio De Janeiro with Buenos Aires is operational; national operator increased investment in Uruguay; importer of broadcasting equipment from China (2021)<br>
@@ -623,8 +637,8 @@ _total_: 33,203,320<br>
 _percent of population_: 74.29% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,793,181<br>
-_subscriptions per 100 inhabitants_: 19.5 (2019 est.)<br>
+_total_: 9,571,562 (2020)<br>
+_subscriptions per 100 inhabitants_: 21.18 (2020 est.)<br>
 
 ## Transportation
 
@@ -725,5 +739,5 @@ as of 2021, the Argentine military was focused primarily on border security and 
 _refugees (country of origin)_: 174,333 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-a transshipment country for cocaine headed for Europe, heroin headed for the US, and ephedrine and pseudoephedrine headed for Mexico; some money-laundering activity, especially in the Tri-Border Area; law enforcement corruption; a source for precursor chemicals; increasing domestic consumption of drugs in urban centers, especially cocaine base and synthetic drugs<br>
+<p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>
 

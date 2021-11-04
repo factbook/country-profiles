@@ -65,6 +65,9 @@ _other_: 28.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
+
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
 
@@ -264,6 +267,9 @@ _coal revenues_: 0.03% of GDP (2018 est.)<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,142,964 tons (2015 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -587,15 +593,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 242,859<br>
-_subscriptions per 100 inhabitants_: 7.9 (2019 est.)<br>
+_total subscriptions_: 223,469 (2020)<br>
+_subscriptions per 100 inhabitants_: 7.77 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,630,076<br>
-_subscriptions per 100 inhabitants_: 85.59 (2019 est.)<br>
+_total subscriptions_: 2,618,880 (2020)<br>
+_subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Albania’s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed €100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors </p> (2021)<br>
+_general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2020)<br>
 _domestic_: fixed-line 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,8 +617,8 @@ _total_: 2,196,613<br>
 _percent of population_: 71.85% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 436,192<br>
-_subscriptions per 100 inhabitants_: 14.19 (2019 est.)<br>
+_total_: 508,937 (2020)<br>
+_subscriptions per 100 inhabitants_: 17.68 (2020 est.)<br>
 
 ## Transportation
 
@@ -692,5 +698,5 @@ _stateless persons_: 1,031 (2020)<br>
 <strong>note:</strong> 11,827 estimated refugee and migrant arrivals (January 2015-January 2021)<br>
 
 **Illicit drugs**<br>
-active transshipment point for Southwest Asian opiates, hashish, and cannabis transiting the Balkan route and - to a lesser extent - cocaine from South America destined for Western Europe; significant source country for cannabis production; ethnic Albanian narcotrafficking organizations active and expanding in Europe; vulnerable to money laundering associated with regional trafficking in narcotics, arms, contraband, and illegal aliens<br>
+<p>active transshipment point for Albanian narco-trafficking organizations moving illicit drugs such as cocaine and heroin from Turkey and countries in South America and Asia throughout Europe; significant source country for cannabis production</p><br>
 

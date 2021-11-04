@@ -63,6 +63,12 @@ _other_: 17.1% (2018 est.)<br>
 **Irrigated land**<br>
 67,220 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
+
+**Major rivers (by length in km)**<br>
+Sepik (shared with Papua New Guinea) - 1,126 km; Fly (shared with Papua New Guinea) - 1,050 km<br>
+
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
 
@@ -276,6 +282,12 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 65.2 million tons (2016 est.)<br>
 _municipal solid waste recycled annually_: 4.564 million tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
+
+**Major rivers (by length in km)**<br>
+Sepik (shared with Papua New Guinea) - 1,126 km; Fly (shared with Papua New Guinea) - 1,050 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 23.8 billion cubic meters (2017 est.)<br>

@@ -70,6 +70,12 @@ Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), In
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with China, Nepal, Bangladesh, and Bhutan) - 3,969 km; Indus (shared with Pakistan and China) - 3,610 km; Ganges (shared with Bangladesh and Nepal) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with Pakistan) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab (shared with Pakistan) - 1,086 km; Ghaghara (shared with Nepal) - 1,080 km<br>
+
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
 
@@ -284,6 +290,12 @@ _animal contact diseases_: rabies<br>
 _municipal solid waste generated annually_: 168,403,240 tons (2001 est.)<br>
 _municipal solid waste recycled annually_: 8,420,162 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with China, Nepal, Bangladesh, and Bhutan) - 3,969 km; Indus (shared with Pakistan and China) - 3,610 km; Ganges (shared with Bangladesh and Nepal) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with Pakistan) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab (shared with Pakistan) - 1,086 km; Ghaghara (shared with Nepal) - 1,080 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>

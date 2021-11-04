@@ -70,6 +70,10 @@ Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq 
 **Major aquifers**<br>
 Atlantic and Gulf Coastal Plains Aquifer<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
+_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
+
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
 
@@ -281,6 +285,10 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 53.1 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 2.655 million tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
+_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>

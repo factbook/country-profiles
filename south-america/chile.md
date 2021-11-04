@@ -65,6 +65,9 @@ _other_: 57% (2018 est.)<br>
 **Irrigated land**<br>
 11,100 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
+
 **Population distribution**<br>
 90% of the population is located in the middle third of the country around the capital of Santiago; the far north (anchored by the Atacama Desert) and the extreme south are relatively underpopulated<br>
 
@@ -262,6 +265,9 @@ _coal revenues_: 0.01% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 6.517 million tons (2009 est.)<br>
 _municipal solid waste recycled annually_: 24,113 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 0.4% (2009 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago General Carrera (shared with Argentina) - 2,240 sq km; Lago O'Higgins (shared with Argentina) - 1,010 sq km; Lago Llanquihue - 800 sq km; Lago Fagnano (shared with Argentina) - 590 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 1.267 billion cubic meters (2017 est.)<br>

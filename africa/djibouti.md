@@ -63,6 +63,9 @@ _other_: 26.4% (2018 est.)<br>
 **Irrigated land**<br>
 10 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
+
 **Population distribution**<br>
 most densely populated areas are in the east; the largest city is Djibouti, with a population over 600,000; no other city in the country has a total population over 50,000 as shown in this population distribution map<br>
 
@@ -264,6 +267,9 @@ _widespread lack of access_: due to floods - about 194,000 people were estimated
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 114,997 tons (2002 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Abhe Bad/Abhe Bid Hayk (shared with Ethiopia) - 780 sq km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 16 million cubic meters (2017 est.)<br>

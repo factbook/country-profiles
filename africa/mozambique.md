@@ -65,6 +65,12 @@ _other_: 0% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
+
+**Major rivers (by length in km)**<br>
+Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Population distribution**<br>
 three large populations clusters are found along the southern coast between Maputo and Inhambane, in the central area between Beira and Chimoio along the Zambezi River, and in and around the northern cities of Nampula, Cidade de Nacala, and Pemba; the northwest and southwest are the least populated areas as shown in this population distribution map<br>
 
@@ -283,6 +289,12 @@ _severe localized food insecurity_: <p>due to economic downturn, localized short
 _municipal solid waste generated annually_: 2.5 million tons (2014 est.)<br>
 _municipal solid waste recycled annually_: 25,000 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
+
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
+
+**Major rivers (by length in km)**<br>
+Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>

@@ -64,6 +64,9 @@ _other_: 19.7% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+
 **Population distribution**<br>
 a fairly even distribution throughout most of the country; slightly larger concentration in the west in proximity to the Czech border<br>
 
@@ -256,6 +259,9 @@ _coal revenues_: 0.01% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 1.784 million tons (2015 est.)<br>
 _municipal solid waste recycled annually_: 135,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 7.6% (2015 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>

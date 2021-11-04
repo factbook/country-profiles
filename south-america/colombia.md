@@ -70,6 +70,9 @@ Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 **Major aquifers**<br>
 Amazon Basin<br>
 
+**Major rivers (by length in km)**<br>
+Negro (shared with Venezuela and Brazil) - 2,250 km; Orinoco (shared with Venezuela and Guyana) - 2,101 km;<br>
+
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
 
@@ -224,9 +227,9 @@ _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95.1%<br>
-_male_: 94.9%<br>
-_female_: 95.3% (2018)<br>
+_total population_: 95.6%<br>
+_male_: 95.4%<br>
+_female_: 95.9% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -283,6 +286,9 @@ _vectorborne diseases_: dengue fever, malaria, and yellow fever<br>
 _municipal solid waste generated annually_: 12,150,120 tons (2011 est.)<br>
 _municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
+
+**Major rivers (by length in km)**<br>
+Negro (shared with Venezuela and Brazil) - 2,250 km; Orinoco (shared with Venezuela and Guyana) - 2,101 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
