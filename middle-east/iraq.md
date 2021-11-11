@@ -62,17 +62,17 @@ _other_: 80% (2018 est.)<br>
 **Irrigated land**<br>
 35,250 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Euphrates (shared with Iran, Syria, and Turkey) - 3,596 km; Tigris (shared with Turkey, Syria, and Iran) - 1,950 km;&nbsp;<br>
 
 **Population distribution**<br>
 population is concentrated in the north, center, and eastern parts of the country, with many of the larger urban agglomerations found along extensive parts of the Tigris and Euphrates Rivers; much of the western and southern areas are either lightly populated or uninhabited<br>
@@ -222,9 +222,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 50.1%<br>
-_male_: 56.2%<br>
-_female_: 44% (2018)<br>
+_total population_: 85.6%<br>
+_male_: 91.2%<br>
+_female_: 79.9% (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 25.6%<br>
@@ -281,7 +281,7 @@ _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
 _Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iran, Syria, and Turkey) - 3,596 km; Tigris (shared with Turkey, Syria, and Iran) - 1,950 km;&nbsp;<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -690,8 +690,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br><br>Popular Mobilization Commission and Affiliated Forces (PMF); Ministry of Pershmerga (Kurdistan Regional Government) (2021)<br>
-note: the PMF is a collection of approximately 50 paramilitary militias of different sizes and with varying political interests<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br> <p>Ministry of Pershmerga (Kurdistan Regional Government): Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)</p> Popular Mobilization Commission and Affiliated Forces (PMC or PMF); a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -701,7 +700,7 @@ note: the PMF is a collection of approximately 50 paramilitary militias of diffe
 3.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); est. 100-160,000 Popular Mobilization Forces; est. 150,000-200,000 Peshmerga Forces (2020-21)<br>
+information varies; approximately 200,000 personnel under the Ministry of Defense (190,000 Army/Aviation Command/Special Forces; 5,000 Navy; 5,000 Air/Air Defense Forces); approximately 25,000 National-Level Security Forces (10,000 Iraqi Counterterrorism Service; 10,000 Presidential Brigades; 5,000 Prime Minister&rsquo;s Special Forces Division); Ministry of Peshmerga: approximately 150,000-plus (35,000 Regional Guard Brigades; 50,000 Unit 70 Forces; 70,000 Unit 80 Forces); estimated 100-160,000 Popular Mobilization Forces (2020-21)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Iraqi military inventory is comprised of Russian and Soviet-era equipment combined with newer European- and US-sourced platforms; since 2010, Russia and the US are the leading suppliers of military hardware to Iraq (2020)<br>
@@ -710,7 +709,7 @@ the Iraqi military inventory is comprised of Russian and Soviet-era equipment co
 18-40 years of age for voluntary military service; no conscription (2019)<br>
 
 **Military - note**<br>
-<p>as of early 2021, Iraqi military and security forces continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq</p> <p>Shia militia and paramilitary units from the Popular Mobilization Committee and Affiliated Forces (PMF) have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps</p> <p>the Kurdish Peshmerga are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; the Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p><br>
+<p>as of early 2021, Iraqi security forces (ISF) continued to conduct counterinsurgency and counter-terrorism operations against the Islamic State of Iraq and ash-Sham (ISIS) terrorist group, particularly in northern and western Iraq; Kurdish Security Forces (KSF, aka Peshmerga) also conducted operations against ISIS<br><br>the KSF are formally recognized as a legitimate Iraqi military force under the country’s constitution and have operated jointly with the Iraqi military against ISIS militants, but they also operate outside of Iraqi military command structure; in mid-2021, the KSF and ISF conducted a joint counter-ISIS operation in an area known as the Kurdistan Coordination Line, a swath of disputed territory in northern Iraq claimed by both the Kurdistan Regional Government and the central Iraqi Government; the KSF/Peshmerga report to the Kurdistan Regional Government or Kurdistan Democratic Party and Patriotic Union of Kurdistan parties instead of the Iraqi Ministry of Defense<br><br>Popular Mobilization Commission and Affiliated Forces (PMF or PMC), also known as Popular Mobilization Units (PMU, or al-Hashd al-Sha’abi in Arabic), tribal militia units have fought alongside the Iraqi military against ISIS since 2014, but the majority of these forces continue to largely ignore the 2016 Law of the Popular Mobilization Authority, which mandated that armed militias must be regulated in a fashion similar to Iraq’s other security forces and act under the Iraqi Government’s direct control; the Iraqi prime minister legally commands the PMF, but most of the militia brigades take orders from associated political parties and/or other government officials, including some with ties to the Iranian Revolutionary Guard Corps (IRGC) and two that have been designated as terrorist organizations by the US; the PMF/PMU is an umbrella organization comprised of many different militias, the majority of which are Shia; there are typically three types of Shia militia:</p> <p>--militias backed by Iran, particularly the IRGC; they are considered the most active and capable, and include such groups as the Badr Organization, Asaib Ahl al-Haq, and Kataib Hizballah</p> <p>--militias affiliated with Shia political parties, but not aligned with Iran, such as Moqtada al-SADR's Saray al-Salam (Peace Brigades)</p> <p>--militias not connected with political parties, but affiliated with the Najaf-based Grand Ayatollah Ali al-SISTANI (Iraq’s supreme Shia cleric), such as the Hawza militias</p> <p>other PMF/PMU militias include Tribal Mobilization militias, or Hashd al-Asha’iri, which are composed of fighters from Sunni tribes; some of these militias take orders from the ISF and local authorities while others respond to orders from the larger Shia PMU militias; still other militias include Yazidi and Christian militias and the Turkmen brigades; the links of these forces to the PMU is not always clear-cut and may be loosely based on financial, legal, or political incentives</p> <p>at the request of the Iraqi government, NATO agreed to establish an advisory, training and capacity-building mission in Iraq in October 2018 to help Iraqi forces in their fight against ISIS; NATO Mission Iraq (NMI) currently has about 500 troops, but in February 2021 NATO announced it would increase the presence to about 4,000, although no timeframe was given</p> (2021)<br>
 
 ## Terrorism
 

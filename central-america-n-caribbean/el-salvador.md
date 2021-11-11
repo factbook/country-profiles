@@ -216,9 +216,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 88.5%<br>
-_male_: 90.6%<br>
-_female_: 86.7% (2017)<br>
+_total population_: 89.1%<br>
+_male_: 91.3%<br>
+_female_: 87.3% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -702,5 +702,5 @@ as of 2021 about half of the Army was reportedly deployed on internal security d
 <p>International Court of Justice (ICJ) ruled on the delimitation of "bolsones" (disputed areas) along the El Salvador-Honduras boundary, in 1992, with final agreement by the parties in 2006 after an Organization of American States survey and a further ICJ ruling in 2003; the 1992 ICJ ruling advised a tripartite resolution to a maritime boundary in the Gulf of Fonseca advocating Honduran access to the Pacific; El Salvador continues to claim tiny Conejo Island, not identified in the ICJ decision, off Honduras in the Gulf of Fonseca</p><br>
 
 **Illicit drugs**<br>
-transshipment point for cocaine; small amounts of marijuana produced for local consumption; significant use of cocaine<br>
+<p>a transit country for illicit drugs destined for the United States  </p><br>
 

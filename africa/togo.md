@@ -222,9 +222,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 63.7%<br>
-_male_: 77.3%<br>
-_female_: 51.2% (2015)<br>
+_total population_: 66.5%<br>
+_male_: 80%<br>
+_female_: 55.1% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>

@@ -666,5 +666,5 @@ no conscription; 18-23 for voluntary military service (17 with parental consent;
 <p>none</p><br>
 
 **Illicit drugs**<br>
-transshipment point for cocaine from South America to North America and Europe; illicit cultivation and consumption of cannabis; government has an active manual cannabis eradication program; corruption is a major concern; substantial money-laundering activity; Colombian narcotics traffickers favor Jamaica for illicit financial transactions<br>
+the largest Caribbean source of marijuana which is trafficked to other Caribbean countries for illegal weapons and other contraband; transit point for cocaine trafficked from South America to North America and other international markets<br>
 

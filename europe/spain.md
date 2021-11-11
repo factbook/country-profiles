@@ -221,9 +221,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.4%<br>
-_male_: 98.9%<br>
-_female_: 98% (2018)<br>
+_total population_: 98.6%<br>
+_male_: 99%<br>
+_female_: 98.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -732,8 +732,8 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>193,685 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note: </strong>194,127 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
-despite rigorous law enforcement efforts, North African, Latin American, Galician, and other European traffickers take advantage of Spain's long coastline to land large shipments of cocaine and hashish for distribution to the European market; consumer for Latin American cocaine and North African hashish; destination and minor transshipment point for Southwest Asian heroin; money-laundering site for Colombian narcotics trafficking organizations and organized crime<br>
+primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>
 

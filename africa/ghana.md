@@ -64,11 +64,11 @@ _other_: 9.7% (2018 est.)<br>
 **Irrigated land**<br>
 340 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Volta (410,991 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Volta (shared with Burkina Faso) - 1,600 km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 population is concentrated in the southern half of the country, with the highest concentrations being on or near the Atlantic coast as shown in this population distribution map<br>
@@ -227,9 +227,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 76.6%<br>
-_male_: 82%<br>
-_female_: 71.4% (2015)<br>
+_total population_: 79%<br>
+_male_: 83.5%<br>
+_female_: 74.5% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -719,5 +719,5 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 _refugees (country of origin)_: 6,425 (Cote d'Ivoire) (flight from 2010 post-election fighting) (2021)<br>
 
 **Illicit drugs**<br>
-illicit producer of cannabis for the international drug trade; major transit hub for Southwest and Southeast Asian heroin and, to a lesser extent, South American cocaine destined for Europe and the US; widespread crime and money-laundering problem, but the lack of a well-developed financial infrastructure limits the country's utility as a money-laundering center; significant domestic cocaine and cannabis use<br>
+a transit and destination point for illicit drugs trafficked from Asia and South America to other African nations and Europe, and to a lesser extent the United States; cultivation of cannabis for domestic use and is trafficked to regional markets or to Europe<br>
 

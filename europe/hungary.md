@@ -61,14 +61,14 @@ _other_: 18.6% (2018 est.)<br>
 **Irrigated land**<br>
 1,721 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany, Austria, Slovakia, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>

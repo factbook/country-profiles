@@ -219,9 +219,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 92.8%<br>
-_male_: 93.8%<br>
-_female_: 92.1% (2017)<br>
+_total population_: 93.6%<br>
+_male_: 94.8%<br>
+_female_: 92.5% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -715,8 +715,8 @@ the International Maritime Bureau continues to report the territorial and offsho
 <p>organized illegal narcotics operations in Colombia penetrate across Ecuador's shared border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 451,093 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 482,897 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay), 65,854 (Colombia) (refugees and asylum seekers) (2021)<br>
 
 **Illicit drugs**<br>
-significant transit country for cocaine originating in Colombia and Peru, with much of the US-bound cocaine passing through Ecuadorian Pacific waters; importer of precursor chemicals used in production of illicit narcotics; attractive location for cash-placement by drug traffickers laundering money because of dollarization and weak anti-money-laundering regime; increased activity on the northern frontier by trafficking groups and Colombian insurgents<br>
+Ecuador is a major transit country for illicit drugs such as cocaine, heroin and chemical precursors to process cocaine from Colombia and Peru; not a major drug producing country<br>
 

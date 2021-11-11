@@ -581,12 +581,12 @@ _electrification - rural areas_: 1% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 37,107<br>
-_subscriptions per 100 inhabitants_: 4.12 (2019 est.)<br>
+_total subscriptions_: 38,866 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.93 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 413,866<br>
-_subscriptions per 100 inhabitants_: 45.94 (2019 est.)<br>
+_total subscriptions_: 434,035 (2020)<br>
+_subscriptions per 100 inhabitants_: 43.93 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Djibouti has a poor domestic infrastructure and a monopolized telecom system relying on microwave radio relay; rural areas connected via wireless local loop; mobile coverage limited to Djibouti city; despite challenges, foreign investment lends progress toward improvements; one of the best international fiber cables in the region, the Djibouti Internet Exchange, is a meeting point for cable systems passing between the Red Sea and Indian Ocean; national operator managed the Australia West Cable landing and signed an agreement for IP traffic through Paris and Marseille; international operator signed MoU for extension of cable from the Gulf to Djibouti (2021)</p> (2020)<br>
@@ -605,8 +605,8 @@ _total_: 492,221<br>
 _percent of population_: 55.68% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,416<br>
-_subscriptions per 100 inhabitants_: 2.71 (2019 est.)<br>
+_total_: 25,053 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.54 (2020 est.)<br>
 
 ## Transportation
 

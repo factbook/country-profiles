@@ -219,9 +219,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 81.5%<br>
-_male_: 87.4%<br>
-_female_: 76.3% (2015)<br>
+_total population_: 80.8%<br>
+_male_: 85.3%<br>
+_female_: 76.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
@@ -715,5 +715,5 @@ all male citizens between the ages of 18 and 50 are eligible for military servic
 _IDPs_: 242,000 (more than three decades of internal conflict that ended in 1996 displaced mainly the indigenous Maya population and rural peasants; ongoing drug cartel and gang violence) (2020)<br>
 
 **Illicit drugs**<br>
-major transit country for cocaine and heroin; it is estimated that 1,000 mt of cocaine are smuggled through the country each year, primarily destined for the US market; in 2016, the Guatamalan government estimated that an average of 4,500 hectares of opium poppy were being cultivated; marijuana cultivation for mostly domestic consumption; proximity to Mexico makes Guatemala a major staging area for drugs (particularly for cocaine); money laundering is a serious problem; corruption is a major problem<br>
+a major transit country for illegal drugs destined for the United States; farmers &nbsp;cultivate opium poppy and cannabis<br>
 

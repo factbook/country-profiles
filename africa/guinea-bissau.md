@@ -666,5 +666,5 @@ _current situation_: Guinea-Bissau is a country of origin and destination for ch
 _tier rating_: Tier 2 Watch List &mdash; Guinea-Bissau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include identifying forced child begging victims, cooperating with Moroccan authorities on international crime investigations, and approving a new action plan; yet, the government has not convicted a trafficker, identified fewer trafficking victims, and lacked resources or the political will to fight trafficking or to enact its action plan, which would meet minimum standards; Guinea-Bissau was granted a waiver under the Trafficking Victims Protection Act from downgrade to Tier 3 (2020)<br>
 
 **Illicit drugs**<br>
-increasingly important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling<br>
+important transit country for South American cocaine en route to Europe; enabling environment for trafficker operations due to pervasive corruption; archipelago-like geography near the capital facilitates drug smuggling<br>
 

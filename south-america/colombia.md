@@ -64,14 +64,14 @@ _other_: 8.1% (2018 est.)<br>
 **Irrigated land**<br>
 10,900 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Major aquifers**<br>
 Amazon Basin<br>
-
-**Major rivers (by length in km)**<br>
-Negro (shared with Venezuela and Brazil) - 2,250 km; Orinoco (shared with Venezuela and Guyana) - 2,101 km;<br>
 
 **Population distribution**<br>
 the majority of people live in the north and west where agricultural opportunities and natural resources are found; the vast grasslands of the llanos to the south and east, which make up approximately 60% of the country, are sparsely populated<br>
@@ -288,7 +288,7 @@ _municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Negro (shared with Venezuela and Brazil) - 2,250 km; Orinoco (shared with Venezuela and Guyana) - 2,101 km;<br>
+Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -748,5 +748,5 @@ _IDPs_: 8,154,542 (conflict between government and illegal armed groups and drug
 _stateless persons_: 11 (2020)<br>
 
 **Illicit drugs**<br>
-illicit producer of coca, opium poppy, and cannabis; world's leading coca cultivator with 188,000 hectares in coca cultivation in 2016, a 18% increase over 2015, producing a potential of 710 mt of pure cocaine; the world's largest producer of coca derivatives; supplies cocaine to nearly all of the US market and the great majority of other international drug markets; in 2016, the Colombian government reported manual eradication of 17,642 hectares; Colombia suspended aerial eradication in October 2015 making 2016 the first full year without aerial eradication; a significant portion of narcotics proceeds are either laundered or invested in Colombia through the black market peso exchange; Colombia probably remains the second largest supplier of heroin to the US market; opium poppy cultivation was estimated to be 1,100 hectares in 2015, sufficient to potentially produce three metric tons of pure heroin<br>
+<p>Colombia is the world’s top cocaine producer; exports and is a source of heroin and marijuana; coca cultivation was estimated at 245,000 hectares (ha) in 2020; potential pure cocaine production reached 1,010 mega tons in 2020</p> <p> </p><br>
 

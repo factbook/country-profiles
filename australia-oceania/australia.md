@@ -54,21 +54,15 @@ _mean elevation_: 330 m<br>
 alumina, coal, iron ore, copper, tin, gold, silver, uranium, nickel, tungsten, rare earth elements, mineral sands, lead, zinc, diamonds, natural gas, petroleum; note -&nbsp;Australia is the world's largest net exporter of coal accounting for 29% of global coal exports<br>
 
 **Land use**<br>
-_agricultural land_: 52.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.09% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 88.4% (2018 est.)<br>
-_forest_: 16.2% (2018 est.)<br>
-_other_: 30.9% (2018 est.)<br>
+_agricultural land_: 46.65% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 4.03% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.04% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
+_forest_: 17.42% (2018 est.)<br>
+_other_: 33.42% (2018 est.)<br>
 
 **Irrigated land**<br>
 25,460 sq km (2014)<br>
-
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
-
-**Major aquifers**<br>
-Great Artesian Basin, Canning Basin<br>
 
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Alexandrina - 570 sq km<br>
@@ -76,6 +70,12 @@ _Salt water lake(s)_: Lake Eyre - 9,690 sq km; Lake Torrens (ephemeral) - 5,780 
 
 **Major rivers (by length in km)**<br>
 River Murray - 2,508 km; Darling River - 1,545 km; Murrumbidgee River - 1,485 km; Lachlan River - 1,339 km; Cooper Creek - 1,113 km; Flinders River - 1,004 km<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Great Australian Bight)</em> Murray-Darling (1,050,116 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Eyre (1,212,198 sq km)<br>
+
+**Major aquifers**<br>
+Great Artesian Basin, Canning Basin<br>
 
 **Population distribution**<br>
 population is primarily located on the periphery, with the highest concentration of people residing in the east and southeast; a secondary population center is located in and around Perth in the west; of the States and Territories, New South Wales has, by far, the largest population; the interior, or "outback", has a very sparse population<br>
@@ -248,12 +248,12 @@ _methane emissions_: 105.01 megatons (2020 est.)<br>
 generally arid to semiarid; temperate in south and east; tropical in north<br>
 
 **Land use**<br>
-_agricultural land_: 52.9% (2018 est.)<br>
-_agricultural land: arable land_: arable land: 11.6% (2018 est.)<br>
-_agricultural land: permanent crops_: permanent crops: 0.09% (2018 est.)<br>
-_agricultural land: permanent pasture_: permanent pasture: 88.4% (2018 est.)<br>
-_forest_: 16.2% (2018 est.)<br>
-_other_: 30.9% (2018 est.)<br>
+_agricultural land_: 46.65% (2018 est.)<br>
+_agricultural land: arable land_: arable land: 4.03% (2018 est.)<br>
+_agricultural land: permanent crops_: permanent crops: 0.04% (2018 est.)<br>
+_agricultural land: permanent pasture_: permanent pasture: 42.58% (2018 est.)<br>
+_forest_: 17.42% (2018 est.)<br>
+_other_: 33.42% (2018 est.)<br>
 
 **Urbanization**<br>
 _urban population_: 86.4% of total population (2021)<br>

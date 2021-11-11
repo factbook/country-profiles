@@ -62,11 +62,11 @@ _other_: 15.4% (2018 est.)<br>
 **Irrigated land**<br>
 950 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Niger (shared with Mali, Niger, and Nigeria) - 4,200 km; Gambia (shared with Senegal and The Gambia) - 1,094 km<br>
 
 **Population distribution**<br>
 areas of highest density are in the west and south; interior is sparsely populated as shown in this population distribution map<br>
@@ -225,9 +225,9 @@ _aerosolized dust or soil contact diseases_: Lassa fever (2016)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 30.4%<br>
-_male_: 38.1%<br>
-_female_: 22.8% (2015)<br>
+_total population_: 39.6%<br>
+_male_: 54.4%<br>
+_female_: 27.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
@@ -292,7 +292,7 @@ _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Mali, Niger, and Nigeria) - 4,200 km; Gambia (shared with Senegal and The Gambia) - 1,094 km<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>

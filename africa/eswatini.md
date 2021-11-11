@@ -213,7 +213,7 @@ _water contact diseases_: schistosomiasis<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 88.4%<br>
 _male_: 88.3%<br>
-_female_: 88.5% (2015)<br>
+_female_: 88.5% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>

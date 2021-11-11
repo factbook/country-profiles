@@ -221,9 +221,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 87.2%<br>
-_male_: 87.1%<br>
-_female_: 87.3% (2016)<br>
+_total population_: 88.5%<br>
+_male_: 88.2%<br>
+_female_: 88.7% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
@@ -709,5 +709,5 @@ the armed forces, including the PMOP, are subordinate to the Secretariat of Defe
 _IDPs_: 247,000 (violence, extortion, threats, forced recruitment by urban gangs between 2004 and 2018) (2020)<br>
 
 **Illicit drugs**<br>
-transshipment point for drugs and narcotics; illicit producer of cannabis, cultivated on small plots and used principally for local consumption; corruption is a major problem; some money-laundering activity<br>
+<p>transshipment point for cocaine destined for the United States and precursor chemicals used to produce illicit drugs; some experimental coca cultivation</p><br>
 

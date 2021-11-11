@@ -61,11 +61,11 @@ _other_: 10.8% (2018 est.)<br>
 **Irrigated land**<br>
 320 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Danube (shared with Germany, Slovakia, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Germany) - 1,252 km;<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, but the northern and eastern regions tend to have larger urban concentrations<br>
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Slovakia, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Germany) - 1,252 km;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -703,5 +703,5 @@ Czechia joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin 
 _stateless persons_: 1,492 (2020)<br>
 
 **Illicit drugs**<br>
-transshipment point for Southwest Asian heroin and minor transit point for Latin American cocaine to Western Europe; producer of synthetic drugs for local and regional markets; susceptible to money laundering related to drug trafficking, organized crime; significant consumer of ecstasy<br>
+<p>manufacture of methamphetamine continues to be mostly based on pseudoephedrine from  Poland or Turkey.</p> <p> </p><br>
 

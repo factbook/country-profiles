@@ -63,15 +63,15 @@ _other_: 19% (2018 est.)<br>
 **Irrigated land**<br>
 1,840 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq km; Lake Tanganyika (shared with Democratic Republic of Congo, Burundi, and Zambia) - 32,000 sq km; Lake Malawi (shared with Mozambique and Malawi) - 22,490<br>
 _Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
 the largest and most populous East African country; population distribution is extremely uneven, but greater population clusters occur in the northern half of country and along the east coast as shown in this population distribution map<br>
@@ -627,7 +627,7 @@ _total subscriptions_: 47,685,232<br>
 _subscriptions per 100 inhabitants_: 81.29 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Tanzania&rsquo;s telecom services are marginal and&nbsp;operating below capacity;&nbsp;one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile&nbsp;use is growing with popularity of 3G/LTE services; government allocated funds in 2019 to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country (2020) (2020)<br>
+_general assessment_: Tanzania&rsquo;s telecom services are marginal and operating below capacity; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use is growing with popularity of 3G/LTE services; government allocated funds in 2019 to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country (2020)<br>
 _domestic_: fixed-line telephone network inadequate with less than 1 connection per 100 persons; mobile-cellular service, aided by multiple providers, is increasing rapidly and exceeds 82 telephones per 100 persons; trunk service provided by open-wire, microwave radio relay, tropospheric scatter, and fiber-optic cable; some links being made digital (2019)<br>
 _international_: country code - 255; landing points for the EASSy, SEACOM/Tata TGN-Eurasia, and SEAS&nbsp;fiber-optic submarine cable system linking East Africa with the Middle East; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -740,12 +740,12 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,534 (Burundi), 79,002 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 126,534 (Burundi), 78,676 (Democratic Republic of the Congo) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>
 _tier rating_: Tier 2 Watch List &mdash; Tanzania does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts were made to&nbsp; identify and refer victims for care; investigations and convictions of traffickers, training for officials, and public awareness campaigns were increased along with a National Guideline for Safe Houses; however, the government did not amend its law to remove sentencing provisions that allow fines in lieu of imprisonment; fewer prosecutions were initiated; the government did not implement the 2018-2021 national action plan; officials did not fully implement the creation of the anti-trafficking fund nor disperse funds; no formal victim identification and protection was provided (2020)<br>
 
 **Illicit drugs**<br>
-targeted by traffickers moving hashish, Afghan heroin, and South American cocaine transported down the East African coastline, through airports, or overland through Central Africa; Zanzibar likely used by traffickers for drug smuggling; traffickers in the past have recruited Tanzanian couriers to move drugs through Iran into East Asia<br>
+<p>significant transit country for illicit drugs in East Africa; international drug     trafficking organizations and courier networks transit through Tanzania to smuggle heroin from Southwest Asia; produces cannabis products and khat for domestic consumption and regional and international distribution; traffickers influence politicians, law enforcement, and others in positions of power with money</p><br>
 

@@ -209,9 +209,9 @@ _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 99.4%<br>
-_male_: 99.4%<br>
-_female_: 99.3% (2017)<br>
+_total population_: 99.6%<br>
+_male_: 99.7%<br>
+_female_: 99.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -692,5 +692,5 @@ _IDPs_: 304,000 (displaced in the 1990s as a result of armed conflict in the bre
 _stateless persons_: 531 (2020)<br>
 
 **Illicit drugs**<br>
-limited cultivation of cannabis and opium poppy, mostly for domestic consumption; used as transshipment point for opiates via Central Asia to Western Europe and Russia<br>
+<p>located on a major drug trafficking route where Southwest Asian opium, heroin and precursor chemicals are transported; marijuana trafficking increased</p><br>
 

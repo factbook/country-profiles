@@ -60,14 +60,14 @@ _other_: 14.3% (2018 est.)<br>
 **Irrigated land**<br>
 140 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
 <p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 population density is relatively high in comparison to other African nations; most of the population is concentrated in the central and southern parts of the country, particularly along the shores of Lake Victoria and Lake Albert; the northeast is least populated as shown in this population distribution map<br>
@@ -622,7 +622,7 @@ _total subscriptions_: 25,395,503<br>
 _subscriptions per 100 inhabitants_: 60.71 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: telecom infrastructure has developed through private partnerships; as of 2018, fixed-fiber backbone infrastructure is available in over half of Uganda&rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in small cities and most rural areas with road access; price of commercial Internet services dropped substantially in 2019; consumers rely on mobile infrastructure to provide voice and broadband services as fixed-line infrastructure is poor; 5G migration is developing slowly; government commissioned broadband satellite services for rural areas in 2019 (2020) (2020)<br>
+_general assessment_: telecom infrastructure has developed through private partnerships; as of 2018, fixed-fiber backbone infrastructure is available in over half of Uganda&rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in small cities and most rural areas with road access; price of commercial Internet services dropped substantially in 2019; consumers rely on mobile infrastructure to provide voice and broadband services as fixed-line infrastructure is poor; 5G migration is developing slowly; government commissioned broadband satellite services for rural areas in 2019 (2020)<br>
 _domestic_: fixed-line 1 per 100 and mobile- cellular systems teledensity about 57 per 100 persons; intercity traffic by wire, microwave radio relay, and radiotelephone communication stations (2019)<br>
 _international_: country code - 256; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 Inmarsat; analog and digital links to Kenya and Tanzania<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -725,7 +725,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 933,089 (South Sudan) (refugees and asylum seekers), 432,390 (Democratic Republic of the Congo), 51,410 (Burundi), 48,797 (Somalia) (refugees and asylum seekers), 22,005 (Rwanda), 18,436 (Eritrea) (2021)<br>
+_refugees (country of origin)_: 943,991 (South Sudan) (refugees and asylum seekers), 432,390 (Democratic Republic of the Congo), 51,410 (Burundi), 50,290 (Somalia) (refugees and asylum seekers), 22,005 (Rwanda), 18,436 (Eritrea) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

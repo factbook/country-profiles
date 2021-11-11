@@ -64,11 +64,11 @@ _other_: 20.2% (2018 est.)<br>
 **Irrigated land**<br>
 46,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Mekong (shared with Burma, Laos, Thailand, Cambodia, and China) - 4,350 km; Pearl (shared with China) - 2,200 km; Red (shared with China) - 1,149 km<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 though it has one of the highest population densities in the world, the population is not evenly dispersed; clustering is heaviest along the South China Sea and Gulf of Tonkin, with the Mekong Delta (in the south) and the Red River Valley (in the north) having the largest concentrations of people<br>
@@ -220,9 +220,9 @@ _vectorborne diseases_: dengue fever, malaria, and Japanese encephalitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95%<br>
-_male_: 96.5%<br>
-_female_: 93.6% (2018)<br>
+_total population_: 95.8%<br>
+_male_: 97%<br>
+_female_: 94.6% (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 7.6%<br>
@@ -723,5 +723,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in V
 _tier rating_: Tier 2 Watch List —<strong> </strong>Vietnam does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include providing trafficking victims the right to legal representation in judicial proceedings, increasing the amount of shelter time for victims by one month, providing financial support, continuing large-scale awareness campaigns in vulnerable communities and to workers going overseas, and training law enforcement; however, fewer victims were identified or assisted and procedures remained slow and ineffective; provincial officials unfamiliar with anti-trafficking law impede anti-trafficking efforts; labor recruitment firms extorted illegal high fees from workers looking for overseas employment putting them at risk for forced labor; no investigations, prosecutions, or convictions of officials complicit in trafficking offenses were made (2020)<br>
 
 **Illicit drugs**<br>
-minor producer of opium poppy; probable minor transit point for Southeast Asian heroin; government continues to face domestic opium/heroin/methamphetamine addiction problems despite longstanding crackdowns; enforces the death penalty for drug trafficking<br>
+transshipment point for transnational criminal organizations (TCOs) trafficking traffic heroin, crystal methamphetamine, and ketamine throughout East Asia and the Pacific; approximately 90% of the illicit drugs in the country originate in Laos, Burma, and Thailand<br>
 

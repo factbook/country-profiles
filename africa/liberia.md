@@ -687,5 +687,5 @@ the AFL has almost no significant combat hardware as nearly all aircraft, equipm
 _refugees (country of origin)_: 8,309 (Cote d'Ivoire) (2021)<br>
 
 **Illicit drugs**<br>
-transshipment point for Southeast and Southwest Asian heroin and South American cocaine for the European and US markets; corruption, criminal activity, arms-dealing, and diamond trade provide significant potential for money laundering, but the lack of well-developed financial system limits the country's utility as a major money-laundering center<br>
+<p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>
 

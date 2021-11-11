@@ -62,18 +62,18 @@ _other_: 51.5% (2018 est.)<br>
 **Irrigated land**<br>
 2,900 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo Hayk - 550 sq km<br>
 _Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile (shared with Sudan) - 1,600 km;<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Ogaden-Juba Basin, Sudd Basin (Umm Ruwaba Aquifer)<br>
 
 **Population distribution**<br>
 highest density is found in the highlands of the north and middle areas of the country, particularly around the centrally located capital city of Addis Ababa; the far east and southeast are sparsely populated as shown in this population distribution map<br>
@@ -300,7 +300,7 @@ _Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo
 _Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile (shared with Sudan) - 1,600 km;<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -631,12 +631,12 @@ _electrification - rural areas_: 34% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,095,946<br>
-_subscriptions per 100 inhabitants_: 1.04 (2019 est.)<br>
+_total subscriptions_: 1.181 million (2017)<br>
+_subscriptions per 100 inhabitants_: 1.11 (2017 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38,147,361<br>
-_subscriptions per 100 inhabitants_: 36.2 (2019 est.)<br>
+_total subscriptions_: 39.6 million (2017)<br>
+_subscriptions per 100 inhabitants_: 37.22 (2017 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>telecom market challenged by political factionalism and reorganization of ruling party; despite some gains in access, Ethiopia remains one of the least-connected countries in the world; state-owned telecom held a monopoly over services until 2019 when government approved legislation and opened the market to competition and foreign investment; new expansion of LTE services; government reduced tariffs leading to increases in data and voice traffic; government launched mobile app as part of e-government initiative to build smart city; Huawei provides infrastructure to government operator and built data center in Addis Ababa; government disrupted service during political crises; importer of broadcasting equipment from China (2020)</p> (2020)<br>
@@ -655,8 +655,8 @@ _total_: 19,118,470<br>
 _percent of population_: 18.62% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 580,120<br>
-_subscriptions per 100 inhabitants_: 1 (2017 est.)<br>
+_total_: 62,950 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation
 
@@ -721,14 +721,14 @@ information varies; approximately 150,000 active duty troops, including about 3,
 the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, Russia and Ukraine are the leading suppliers of largely second-hand weapons and equipment to the ENDF, followed by China and Hungary; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2020)<br>
 
 **Military deployments**<br>
-estimated as many as 10,000 Somalia (4,500 for AMISOM); 3,300 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2021)<br>
+up to 10,000 Somalia (4,500 for AMISOM); 3,300 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2021)<br>
 note - in August 2021, Sudan asked the UN to remove the Ethiopian troops from the UNISFA mission<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no compulsory military service, but the military can conduct callups when necessary and compliance is compulsory (2019)<br>
 
 **Military - note**<br>
-each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>in November 2021, long-simmering tensions between the Ethiopian Government and the state of Tigray’s ruling party (Tigray People’s Liberation Front, TPLF) led to armed clashes between ENDF and Tigrayan paramilitary forces; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through 2021 with heavy civilian and military casualties and widespread human rights abuses reported</p> <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict; in August 2021, the TPLF struck an alliance with with the the Oromo Liberation Army (OLA); the OLA is a splinter rebel group of the Oromo Liberation Front, a formerly banned opposition group that returned from exile in 2018 </p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
+each of the nine states has a regional and/or a "special" paramilitary security forces that report to regional civilian authorities; local militias operate across the country in loose and varying coordination with these regional security and police forces, the Ethiopian Federal Police (EFP), and the Ethiopian military; the EFP reports to the Ministry of Peace, which was created in October of 2018<br> <p>in November 2021, long-simmering tensions between the Ethiopian Government and the state of Tigray’s ruling party (Tigray People’s Liberation Front, TPLF) led to armed clashes between ENDF and Tigrayan paramilitary forces; the Ethiopian Government sent large elements of the ENDF into Tigray to remove the TPLF and invited militia and paramilitary forces from the states of Afar and Amara, as well as the military forces of Eritrea, to assist; fighting continued through 2021 with heavy civilian and military casualties and widespread human rights abuses reported</p> <p>the military forces of the Tigray regional government are known as the Tigray Defense Force (TDF); the TDF is comprised of state paramilitary forces, local militia, and troops that defected from the ENDF; it reportedly had up to 250,000 fighters at the start of the conflict; in August 2021, the TPLF struck an alliance with the Oromo Liberation Army (OLA)</p> <p>as of 2021, the Ethiopian military consisted of approximately 22 Army divisions (approximately 14 light infantry, 6 mechanized, and 1 commando/special operations), while the Air Force had 2 fighter/ground attack and 2 mixed attack/transport helicopter squadrons</p> <br> <p> </p><br>
 
 ## Terrorism
 
@@ -742,7 +742,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 378,423 (South Sudan), 215,300 (Somalia), 150,960 (Eritrea), 46,014 (Sudan) (2021)<br>
+_refugees (country of origin)_: 380,320 (South Sudan), 216,558 (Somalia), 150,960 (Eritrea), 46,014 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

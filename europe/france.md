@@ -70,17 +70,17 @@ _other_: 18.1% (2018 est.)<br>
 26,420 sq km 26,950 sq km (2012)<br>
 <strong>metropolitan France: </strong>26,000 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Major aquifers**<br>
 Paris Basin<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Switzerland, Germany, and Netherlands) - 1,233 km;&nbsp;&nbsp;Loire - 1,012 km;<br>
 
 **Population distribution**<br>
 much of the population is concentrated in the north and southeast; although there are many urban agglomerations throughout the country, Paris is by far the largest city, with Lyon ranked a distant second<br>
@@ -286,7 +286,7 @@ _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
 _Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Switzerland, Germany, and Netherlands) - 1,233 km;&nbsp;&nbsp;Loire - 1,012 km;<br>
+Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -759,5 +759,5 @@ _refugees (country of origin)_: 31,546 (Afghanistan), 23,764 (Sri Lanka), 21,849
 _stateless persons_: 2,068 (2020)<br>
 
 **Illicit drugs**<br>
-<p><strong>metropolitan France:</strong> transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics; </p><p><strong>French Guiana:</strong> small amount of marijuana grown for local consumption; minor transshipment point to Europe; </p><p><strong>Martinique:</strong> transshipment point for cocaine and marijuana bound for the US and Europe</p><br>
+<p><strong>metropolitan France:</strong> transshipment point for South American cocaine, Southwest Asian heroin, and European synthetics;</p> <p><strong>French Guiana:</strong> small amount of marijuana grown for local consumption; minor transshipment point to Europe;</p> <p><strong>Martinique:</strong> transshipment point for cocaine and marijuana bound for the US and Europe</p><br>
 

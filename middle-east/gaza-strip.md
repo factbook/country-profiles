@@ -196,9 +196,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.2%<br>
-_male_: 98.7%<br>
-_female_: 95.7% (2018)<br>
+_total population_: 97.5%<br>
+_male_: 98.8%<br>
+_female_: 96.2% (2020)<br>
 <strong>note:</strong> estimates are for Gaza and the West Bank<br>
 
 **School life expectancy (primary to tertiary education)**<br>

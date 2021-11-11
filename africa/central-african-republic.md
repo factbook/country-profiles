@@ -61,14 +61,14 @@ _other_: 55.7% (2018 est.)<br>
 **Irrigated land**<br>
 10 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Ubangi (shared with Democratic Republic of Congo and Republic of Congo) - 2,270 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Lake Chad Basin<br>
-
-**Major rivers (by length in km)**<br>
-Ubangi (shared with Democratic Republic of Congo and Republic of Congo) - 2,270 km;&nbsp;<br>
 
 **Population distribution**<br>
 majority of residents live in the western and central areas of the country, especially in and around the capital of Bangui as shown in this population distribution map<br>
@@ -598,12 +598,12 @@ _electrification - rural areas_: 0.4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,934<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 2,193 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,595,294<br>
-_subscriptions per 100 inhabitants_: 30.86 (2019 est.)<br>
+_total subscriptions_: 1,595,294 (2019)<br>
+_subscriptions per 100 inhabitants_: 33.62 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&nbsp;obstructed&nbsp;telecommunication and media development,&nbsp;although there are&nbsp;ISP (Internet service providers) and mobile phone carriers,&nbsp;radio is the most-popular communications medium (2018)<br>
@@ -622,8 +622,8 @@ _total_: 249,336<br>
 _percent of population_: 4.34% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 499<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 499 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

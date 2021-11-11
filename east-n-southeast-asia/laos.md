@@ -61,11 +61,11 @@ _other_: 21.5% (2018 est.)<br>
 **Irrigated land**<br>
 3,100 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Mekong (shared with Burma, China, Thailand, Cambodia, and Vietnam) - 4,350 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 most densely populated area is in and around the capital city of Vientiane; large communities are primarily found along the Mekong River along the southwestern border; overall density is considered one of the lowest in Southeast Asia<br>
@@ -690,5 +690,5 @@ the LPAF is armed largely with weapons from the former Soviet Union; since 2010,
 <p>southeast Asian states have enhanced border surveillance to check the spread of avian flu; talks continue on completion of demarcation with Thailand but disputes remain over islands in the Mekong River; Cambodia and Laos have a longstanding border demarcation dispute; concern among Mekong River Commission members that China's construction of eight dams on the Upper Mekong River and construction of more dams on its tributaries will affect water levels, sediment flows, and fisheries; Cambodia and Vietnam are concerned about Laos' extensive plans for upstream dam construction for the same reasons</p><br>
 
 **Illicit drugs**<br>
-estimated opium poppy cultivation in 2015 was estimated to be 5,700 hectares, compared with 6,200 hectares in 2014; estimated potential production of between 84 and 176 mt of raw opium; unsubstantiated reports of domestic methamphetamine production; growing domestic methamphetamine problem<br>
+<p>Bokeo Province part of the “Golden Triangle,” a notorious drug production and transit area; remains a poppy cultivator and source of illicit opium and a transit hub for other illicit drugs such as amphetamine-type stimulants (ATS) and chemical precursors; estimate of 4,925 ha of opium poppy cultivated in Laos in 2018</p><br>
 

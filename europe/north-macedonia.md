@@ -209,9 +209,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.8%<br>
-_male_: 98.8%<br>
-_female_: 96.8% (2015)<br>
+_total population_: 98.4%<br>
+_male_: 99.1%<br>
+_female_: 97.6% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -680,7 +680,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 520,750 estimated refugee and migrant arrivals (January 2015-September 2021)<br>
+<strong>note:</strong> 523,033 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

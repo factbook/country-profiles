@@ -695,5 +695,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in C
 _tier rating_: <p>Tier 3 — Cuba does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government made some efforts to investigate, prosecute, and convict sex traffickers and sex tourists and identified and provided assistance to some victims; however, no efforts were made to address forced labor; there was a government policy or pattern to profit from labor export programs with strong indications of forced labor, particularly in foreign medical missions; authorities did not protect potential trafficking victims, leaving them at risk of being detained or charged for crimes their traffickers forced them to commit (2020)</p><br>
 
 **Illicit drugs**<br>
-territorial waters and air space serve as transshipment zone for US- and European-bound drugs; established the death penalty for certain drug-related crimes in 1999<br>
+<p>Cuba is not a major consumer, producer, or transit point of illicit drugs; strict policing on smuggling, production and consumption; prescription drug abuse is increasing</p><br>
 

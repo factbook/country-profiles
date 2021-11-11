@@ -223,9 +223,9 @@ _vectorborne diseases_: dengue fever and malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95.7%<br>
-_male_: 97.3%<br>
-_female_: 94% (2018)<br>
+_total population_: 96%<br>
+_male_: 97.4%<br>
+_female_: 94.6% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -745,5 +745,5 @@ _IDPs_: 40,000 (inter-communal, inter-faith, and separatist violence between 199
 _stateless persons_: 874 (2020)<br>
 
 **Illicit drugs**<br>
-illicit producer of cannabis largely for domestic use; producer of methamphetamine and ecstasy; President WIDODO's war on drugs has led to an increase in death sentences and executions, particularly of foreign drug traffickers<br>
+<p>a transit and destination point for illicit narcotics; consumer of crystal methamphetamine trafficked in Burma and Pakistan and also transit to Australia and New Zealand; significant consumer of ecstasy from China and the Netherlands and domestically grown cannabis</p> <p> </p><br>
 

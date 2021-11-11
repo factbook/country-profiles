@@ -63,15 +63,15 @@ _other_: 45.8% (2018 est.)<br>
 **Irrigated land**<br>
 1,030 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 sq km<br>
+_Salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Major aquifers**<br>
 Ogaden-Juba Basin<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Uganda) - 62,940 sq km<br>
-_Salt water lake(s)_: Lake Turkana (shared with Ethiopia) - 6,400 sq km<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west along the shore of Lake Victoria; other areas of high density include the capital of Nairobi, and in the southeast along the Indian Ocean coast as shown in this population distribution map<br>
@@ -624,12 +624,12 @@ _electrification - rural areas_: 79% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 70,394<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 66,646 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,555,497<br>
-_subscriptions per 100 inhabitants_: 104.22 (2019 est.)<br>
+_total subscriptions_: 61,408,904 (2020)<br>
+_subscriptions per 100 inhabitants_: 114.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>through increased competition, Kenya’s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2021)</p> (2020)<br>
@@ -648,8 +648,8 @@ _total_: 9,129,243<br>
 _percent of population_: 17.83% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 491,183<br>
-_subscriptions per 100 inhabitants_: 1 less than 1 (2018 est.)<br>
+_total_: 674,191 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.25 (2020 est.)<br>
 
 ## Transportation
 
@@ -746,10 +746,10 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 274,499 (Somalia), 135,771 (South Sudan), 30,576 (Democratic Republic of the Congo), 20,668 (Ethiopia), 7,160 (Burundi) (2021)<br>
+_refugees (country of origin)_: 262,736 (Somalia), 148,249 (South Sudan), 30,576 (Democratic Republic of the Congo), 20,668 (Ethiopia), 7,160 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 
 **Illicit drugs**<br>
-widespread harvesting of small plots of marijuana; transit country for South Asian heroin destined for Europe and North America; Indian methaqualone also transits on way to South Africa; significant potential for money-laundering activity given the country's status as a regional financial center; massive corruption, and relatively high levels of narcotics-associated activities<br>
+<p>a transit country for a variety of illicit drugs, including heroin and cocaine; transit location for precursor chemicals used to produce methamphetamine and other drugs; heroin from Southwest Asia enters Kenya destined for international markets, mainly Europe; cocaine transits through Kenya shipped through Ethiopia from South America;  cultivates cannabis and miraa (khat) for both local use and export</p><br>
 

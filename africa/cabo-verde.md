@@ -312,11 +312,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jorge Carlos FONSECA (since 9 September 2011)<br>
+_chief of state_: President Jose Maria NEVES (since 9 November 2021)<br>
 _head of government_: Prime Minister Ulisses CORREIA E. SILVA (since 22 April 2016)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 October 2016 (next to be held on 17 October 2021); prime minister nominated by the National Assembly and appointed by the president<br>
-_election results_: Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74%, Albertino GRACA (independent) 23%, other 3%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 17 October 2021 (next to be held on 17 October 2026); prime minister nominated by the National Assembly and appointed by the president<br>
+_election results_: Jose Maria NEVES elected president; percent of vote - Jose Maria NEVES (APICV) 51.73%, Carlos Veiga (MFD) 42.37%, Casimiro de Pina (Independent) 1.81%, Fernando Rocha Delgado (Independent) 1.36%, Helio Sanches (Independent) 1.14%, Gilson Alves (Independent)  0.84%, Joaquim Monteiro (Independent) 0.74%<br><br>Jorge Carlos FONSECA reelected president; percent of vote - Jorge Carlos FONSECA (MPD) 74%, Albertino GRACA (independent) 23%, other 3%<br>
+African Party for the Independence of Cape Verde (APICV)<br>Movement for Democracy (MFD)<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assembleia Nacional (72 seats; members directly elected in multi-seat constituencies by proportional representation vote; members serve 5-year terms)<br>
@@ -659,5 +660,5 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 _stateless persons_: 115 (2020)<br>
 
 **Illicit drugs**<br>
-used as a transshipment point for Latin American cocaine destined for Western Europe, particularly because of Lusophone links to Brazil, Portugal, and Guinea-Bissau; has taken steps to deter drug money laundering, including a 2002 anti-money laundering reform that criminalizes laundering the proceeds of narcotics trafficking and other crimes and the establishment in 2008 of a Financial Intelligence Unit<br>
+Cabo Verde is a transit hub for cocaine, marijuana, and other drugs trafficked from Latin America to Europe; marijuana, cocaine, hashish, heroin, and methamphetamine are the most frequently consumed drugs in Cabo Verde<br>
 

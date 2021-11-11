@@ -611,5 +611,5 @@ St. Kitts joined the Caribbean Regional Security System (RSS) in 1984; RSS signa
 <p>joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
-transshipment point for South American drugs destined for the US and Europe; some money-laundering activity<br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
 

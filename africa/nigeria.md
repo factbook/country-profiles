@@ -63,17 +63,17 @@ _other_: 12.5% (2018 est.)<br>
 **Irrigated land**<br>
 2,930 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea, Mali, and Niger) - 4,200 km;&nbsp;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Aquifer System<br>
 
 **Population distribution**<br>
 largest population of any African nation; significant population clusters are scattered throughout the country, with the highest density areas being in the south and southwest as shown in this population distribution map<br>
@@ -760,5 +760,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in N
 _tier rating_: Tier 2 Watch List —<strong> </strong>Nigeria does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government is continuing to train officials and raise public awareness; the government established anti-trafficking task forces in Borno and Ekiti states and used new technology to collect victim testimony; authorities prosecuted three government officials complicit in human trafficking; the government is drafting a memoranda of understanding that will improve coordination between government agencies; however, security forces used at least two children in support roles; some security officials were involved in sex trafficking; no criminal charges were made against military officials or members of the Civilian Joint Task Force for sex trafficking or the use of child soldiers; no protections were given to female and child trafficking victims allegedly associated with insurgencies; fewer traffickers were convicted; Nigeria was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
-a transit point for heroin and cocaine intended for European, East Asian, and North American markets; consumer of amphetamines; safe haven for Nigerian narcotraffickers operating worldwide; major money-laundering center; massive corruption and criminal activity; Nigeria has improved some anti-money-laundering controls, resulting in its removal from the Financial Action Task Force's (FATF's) Noncooperative Countries and Territories List in June 2006; Nigeria's anti-money-laundering regime continues to be monitored by FATF<br>
+a significant source for cannabis cultivation and methamphetamine production; a major place for transnational drug trafficking networks that supply cocaine to Asia and Europe, heroin to Europe and North America, and methamphetamine to South Africa, Southeast Asia, Australia, and New Zealand; traffickers also involved in the transportation, facilitation, and distribution of illicitly diverted tramadol<br>
 

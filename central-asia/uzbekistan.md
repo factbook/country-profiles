@@ -60,14 +60,14 @@ _other_: 29.7% (2018 est.)<br>
 **Irrigated land**<br>
 42,150 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan, Kazakhstan, and Tajikistan) - 3,078 km; Amu Darya (shared with Turkmenistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the fertile Fergana Valley in the easternmost arm of the country; the south has significant clusters of people, while the central and western deserts are sparsely populated<br>
@@ -216,7 +216,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 100%<br>
 _male_: 100%<br>
-_female_: 100% (2016)<br>
+_female_: 100% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -701,5 +701,5 @@ _current situation_: Uzbekistan is a source country for men, women, and children
 _tier rating_: Tier 2 Watch List &mdash; Uzbekistan does not fully comply with the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts included addressing the use of forced adult labor during the cotton harvest by increasing pay to laborers and improving working conditions for voluntary workers and ceasing the forced use of students, teachers, and health care workers; third-party monitors were allowed access to the harvest to view changes; the government created a National Commission on Trafficking chaired by the regional governor in every area of the country; however, reports continued of corrupt officials requiring public sector employees to pick cotton or pay for a replacement worker with extorted penalties paid to them; fewer cases of traffickers were investigated and prosecuted, fewer victims of trafficking were identified, and fewer convictions carried a prison sentence; authorities conducted no investigations against corrupt officials extorting money during the cotton harvest (2020)<br>
 
 **Illicit drugs**<br>
-transit country for Afghan narcotics bound for Russian and, to a lesser extent, Western European markets; limited illicit cultivation of cannabis and small amounts of opium poppy for domestic consumption; poppy cultivation almost wiped out by government crop eradication program; transit point for heroin precursor chemicals bound for Afghanistan<br>
+<p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, marijuana, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>
 

@@ -61,11 +61,11 @@ _other_: 13.2% (2018 est.)<br>
 **Irrigated land**<br>
 2,283 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Ukraine) - 2,888 km; Dniester (shared with Ukraine) - 1,411 km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 pockets of agglomeration exist throughout the country, the largest being in the center of the country around the capital of Chisinau, followed by Tiraspol and Balti<br>

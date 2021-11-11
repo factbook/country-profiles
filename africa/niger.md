@@ -61,17 +61,17 @@ _other_: 63.9% (2018 est.)<br>
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
-
-**Major aquifers**<br>
-Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea, Mali, and Nigeria) - 4,200 km;&nbsp;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
+
+**Major aquifers**<br>
+Lake Chad Basin, Lullemeden-Irhazer Basin, Murzuk-Djado Basin<br>
 
 **Population distribution**<br>
 majority of the populace is located in the southernmost extreme of the country along the border with Nigeria and Benin as shown in this population distribution map<br>
@@ -228,9 +228,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 19.1%<br>
-_male_: 27.3%<br>
-_female_: 11% (2015)<br>
+_total population_: 35.1%<br>
+_male_: 43.6%<br>
+_female_: 26.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 6 years<br>
@@ -630,7 +630,7 @@ _total subscriptions_: 8,921,769<br>
 _subscriptions per 100 inhabitants_: 40.64 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>difficult economic climate, with lack of fixed telecom infrastructure; mobile services stronger than fixed telecom; low broadband penetration; adopted free mobile roaming with other G5 Sahel countries; World Bank project to facilitate digital progress; government contributes to Trans-Sahara Backbone network, with aims to extend fiber-optic and international capacity; LTE license awarded; government substantially taxes telecom sector (2021)</p> (2020)<br>
+_general assessment_: difficult economic climate, with lack of fixed telecom infrastructure; mobile services stronger than fixed telecom; low broadband penetration; adopted free mobile roaming with other G5 Sahel countries; World Bank project to facilitate digital progress; government contributes to Trans-Sahara Backbone network, with aims to extend fiber-optic and international capacity; LTE license awarded; government substantially taxes telecom sector (2020)<br>
 _domestic_: fixed-line 1 per 100 persons and mobile-cellular teledensity remains 41 per 100 persons despite a rapidly increasing cellular subscribership base; small system of wire, radio telephone communications, and microwave radio relay links concentrated in southwestern Niger; domestic satellite system with 3 earth stations and 1 planned (2019)<br>
 _international_: country code - 227; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -733,4 +733,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 186,957 (Nigeria), 61,320 (Mali) (2021)<br>
 _IDPs_: 291,061 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
+
+**Illicit drugs**<br>
+<p>a transit point for illicit drugs narcotics trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>
 

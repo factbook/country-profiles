@@ -61,11 +61,11 @@ _other_: 62.4% (2018 est.)<br>
 **Irrigated land**<br>
 7,420 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Kazakhstan) - 3,078 km; Amu Darya (shared with Turkmenistan, Uzbekistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
 the country's population is concentrated at lower elevations, with perhaps as much as 90% of the people living in valleys; overall density increases from east to west<br>
@@ -702,5 +702,5 @@ _refugees (country of origin)_: 5,573 (Afghanistan) (2020)<br>
 _stateless persons_: 6,385 (2020)<br>
 
 **Illicit drugs**<br>
-Tajikistan sits on one of the world's highest volume illicit drug trafficking routes, between Afghan opiate production to the south and the illicit drug markets of Russia and Eastern Europe to the north; limited illicit cultivation of opium poppy for domestic consumption; significant consumer of opiates<br>
+Tajikistan is a major route for drug trafficking in Central Asia; opiates and cannabis travel from Afghanistan through Tajikistan to markets in Russia, Belarus, and Western and Central Europe<br>
 

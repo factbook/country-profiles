@@ -220,9 +220,9 @@ _water contact diseases_: leptospirosis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.2%<br>
-_male_: 98.1%<br>
-_female_: 98.2% (2015)<br>
+_total population_: 96.3%<br>
+_male_: 95.7%<br>
+_female_: 96.9% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>

@@ -64,14 +64,14 @@ _other_: 9.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,200 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
-
-**Major rivers (by length in km)**<br>
-Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
 
 **Population distribution**<br>
 the population is concentrated in the west, with Dakar anchoring a well-defined core area; approximately 70% of the population is rural as shown in this population distribution map<br>
@@ -729,5 +729,5 @@ _current situation_: Senegal is a source, transit, and destination country for c
 _tier rating_: Tier 2 Watch List &mdash; Senegal does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include establishing an anti-trafficking database; planning the third phase of its program to remove vulnerable children, including trafficking victims, from the streets of major cities; launching an emergency campaign to place vulnerable children and forced begging victims in shelters due to COVID 19 pandemic; however, the government rarely proactively investigated or prosecuted traffickers exploiting children in forced begging; authorities did not take action against officials who refused to investigate such cases; officials only applied adequate prison terms in accordance with the 2005 anti-trafficking law to two convicted traffickers; authorities did not identify any adult trafficking victims; government officials continued to have a limited knowledge of trafficking; Senegal was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
-transshipment point for Southwest and Southeast Asian heroin and South American cocaine moving to Europe and North America; illicit cultivator of cannabis<br>
+<p>major transit point on the cocaine route from South America to Europe; the third-largest cannabis-producing country in West Africa</p><br>
 

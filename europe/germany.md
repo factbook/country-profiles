@@ -63,15 +63,15 @@ _other_: 20.2% (2018 est.)<br>
 **Irrigated land**<br>
 6,500 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 540 sq km<br>
 _Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Danube (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Czechia) - 1,252 km; Rhine&nbsp; (shared with Switzerland, France, and Netherlands) - 1,233 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 most populous country in Europe; a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations, particularly in the far western part of the industrial state of North Rhine-Westphalia<br>
@@ -731,5 +731,5 @@ _refugees (country of origin)_: 605,338 (Syria), 147,994 (Afghanistan), 146,009 
 _stateless persons_: 26,675 (2020)<br>
 
 **Illicit drugs**<br>
-source of precursor chemicals for South American cocaine processors; transshipment point for and consumer of Southwest Asian heroin, Latin American cocaine, and European-produced synthetic drugs; major financial center<br>
+<p>maritime transshipment point for cocaine heading to Europe</p><br>
 

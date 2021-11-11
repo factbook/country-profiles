@@ -569,12 +569,12 @@ _electrification - rural areas_: 62% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 10,042<br>
-_subscriptions per 100 inhabitants_: 1.2 (2019 est.)<br>
+_total subscriptions_: 7,573<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 575,218<br>
-_subscriptions per 100 inhabitants_: 68.51 (2019 est.)<br>
+_total subscriptions_: 472,815 (2020)<br>
+_subscriptions per 100 inhabitants_: 54.37 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
@@ -593,7 +593,7 @@ _total_: 69,635<br>
 _percent of population_: 8.48% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,181<br>
+_total_: 912<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation

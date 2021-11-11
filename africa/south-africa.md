@@ -65,14 +65,14 @@ _other_: 13% (2018 est.)<br>
 **Irrigated land**<br>
 16,700 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
 
 **Major aquifers**<br>
 Karoo Basin, Lower Kalahari-Stampriet Basin<br>
-
-**Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Population distribution**<br>
 the population concentrated along the southern and southeastern coast, and inland around Pretoria; the eastern half of the country is more densly populated than the west as shown in this population distribution map<br>
@@ -226,9 +226,9 @@ _water contact diseases_: schistosomiasis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 87%<br>
-_male_: 87.7%<br>
-_female_: 86.5% (2017)<br>
+_total population_: 95%<br>
+_male_: 95.5%<br>
+_female_: 94.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -732,5 +732,5 @@ _refugees (country of origin)_: 23,054 (Somalia), 15,629 (Ethiopia) (2020); 57,5
 _IDPs_: 5,000 (2020)<br>
 
 **Illicit drugs**<br>
-transshipment center for heroin, hashish, and cocaine, as well as a major cultivator of marijuana in its own right; cocaine and heroin consumption on the rise; world's largest market for illicit methaqualone, usually imported illegally from India through various east African countries, but increasingly producing its own synthetic drugs for domestic consumption; attractive venue for money launderers given the increasing level of organized criminal and narcotics activity in the region and the size of the South African economy<br>
+leading regional importer of chemicals used in the production of illicit drugs especially synthetic drugs<br>
 

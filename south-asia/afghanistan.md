@@ -61,14 +61,14 @@ _other_: 40.1% (2018)<br>
 **Irrigated land**<br>
 32,080 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Turkmenistan, Tajikistan, and Uzbekistan) - 2,620 km; Helmand (shared with Iran) - 1,130 km<br>
+Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>
 
 **Population distribution**<br>
 populations tend to cluster in the foothills and periphery of the rugged Hindu Kush range; smaller groups are found in many of the country's interior valleys; in general, the east is more densely settled, while the south is sparsely populated<br>
@@ -288,7 +288,7 @@ _municipal solid waste generated annually_: 5,628,525 tons (2016 est.)<br>
 _Salt water lake(s)_: Ab-e Istadah-ye Muqur (endorheic basin) - 520 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Turkmenistan, Tajikistan, and Uzbekistan) - 2,620 km; Helmand (shared with Iran) - 1,130 km<br>
+Amu Darya (shared with Tajikistan [s], Turkmenistan, and Uzbekistan [m]) - 2,620 km; Helmand river source (shared with Iran) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Amu Darya (534,739 sq km); Tarim Basin (1,152,448 sq km)<br>

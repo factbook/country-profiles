@@ -725,5 +725,5 @@ _refugees (country of origin)_: 20,433 (Iran), 14,016 (Eritrea), 10,994 (Sudan),
 _stateless persons_: 4,662 (2020)<br>
 
 **Illicit drugs**<br>
-producer of limited amounts of synthetic drugs and synthetic precursor chemicals; major consumer of Southwest Asian heroin, Latin American cocaine, and synthetic drugs; money-laundering center<br>
+<p>consumer and transit country for illicit drugs; cocaine and heroin consumption rates among Europe’s highest; criminal organizations engage in domestic drug trafficking and financial crimes; drug use remains linked to serious violence; major source of precursor chemicals used in the production of illicit narcotics</p><br>
 

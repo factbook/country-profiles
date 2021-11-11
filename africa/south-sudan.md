@@ -60,11 +60,11 @@ _other_: 43.5% (2018)<br>
 **Irrigated land**<br>
 1,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 clusters found in urban areas, particularly in the western interior and around the White Nile as shown in this population distribution map<br>
@@ -541,7 +541,7 @@ _total subscriptions_: 2,221,967<br>
 _subscriptions per 100 inhabitants_: 21.61 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>landlocked and war-torn with little infrastructure and electricity, Sudan has one of the least developed telecom and Internet systems in the world and one of the lowest mobile penetration rates in Africa; instability, widespread poverty, and low literacy rate all contribute to a struggling telecom sector; due to revenue losses, the few carriers in the market have reduced the areas in which they offer service; the government recognizes positive effects of ICT on development and is providing a range of investment incentives; international community provided billions in aid to help the young country; Chinese investment plays a growing role in the infrastructure build-out and energy sectors; by 2020, one operator had initiated e-money service; international fiber cable link from Juba to Mombasa will drive down costs of Internet; government utilizes unchecked power to conduct surveillance and monitor communications; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: landlocked and war-torn with little infrastructure and electricity, Sudan has one of the least developed telecom and Internet systems in the world and one of the lowest mobile penetration rates in Africa; instability, widespread poverty, and low literacy rate all contribute to a struggling telecom sector; due to revenue losses, the few carriers in the market have reduced the areas in which they offer service; the government recognizes positive effects of ICT on development and is providing a range of investment incentives; international community provided billions in aid to help the young country; Chinese investment plays a growing role in the infrastructure build-out and energy sectors; by 2020, one operator had initiated e-money service; international fiber cable link from Juba to Mombasa will drive down costs of Internet; government utilizes unchecked power to conduct surveillance and monitor communications; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line less than 1 per 100 subscriptions, mobile-cellular 33 per 100 persons (2019)<br>
 _international_: country code - 211 (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

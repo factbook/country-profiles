@@ -63,11 +63,11 @@ _other_: 2.5% (2018 est.)<br>
 **Irrigated land**<br>
 730 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Lagune Aby - 780 sq km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
 the population is primarily located in the forested south, with the highest concentration of people residing in and around the cities on the Atlantic coast; most of the northern savanna remains sparsely populated with higher concentrations located along transportation corridors as shown in this population distribution map<br>
@@ -224,9 +224,9 @@ _respiratory diseases_: meningococcal meningitis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 47.2%<br>
-_male_: 53.7%<br>
-_female_: 40.5% (2018)<br>
+_total population_: 89.9%<br>
+_male_: 93.1%<br>
+_female_: 86.7% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>

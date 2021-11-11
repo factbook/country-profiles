@@ -213,7 +213,7 @@ _vectorborne diseases_: malaria<br>
 _definition_: can read and write Tongan and/or English<br>
 _total population_: 99.4%<br>
 _male_: 99.4%<br>
-_female_: 99.5% (2015)<br>
+_female_: 99.5% (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 8.9%<br>

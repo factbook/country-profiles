@@ -64,18 +64,18 @@ _other_: 35.4% (2018 est.)<br>
 **Irrigated land**<br>
 23,600 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
-
-**Major aquifers**<br>
-Guarani Aquifer System<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago Argentino - 1,410 sq km; Lago Viedma - 1,090 sq km; Lago San Martin (shared with Chile) - 1,010 sq km; Lago Colhue Huapi - 800 sq km; Lago Fagnano (shared with Chile) - 590 sq km; Lago Nahuel Huapi - 550 sq km<br>
 _Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
 
 **Population distribution**<br>
 one-third of the population lives in Buenos Aires; pockets of agglomeration occur throughout the northern and central parts of the country; Patagonia to the south remains sparsely populated<br>
@@ -283,7 +283,7 @@ _Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago
 _Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Paraguay, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Paraguay and Brazil) - 2,549 km; Uruguay (shared with Brazil and Uruguay) - 1,610 km<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -736,7 +736,7 @@ as of 2021, the Argentine military was focused primarily on border security and 
 <p>Argentina continues to assert its claims to the UK-administered Falkland Islands (Islas Malvinas), South Georgia, and the South Sandwich Islands in its constitution, forcibly occupying the Falklands in 1982, but in 1995 agreed to no longer seek settlement by force; UK continues to reject Argentine requests for sovereignty talks; territorial claim in Antarctica partially overlaps UK and Chilean claims; uncontested dispute between Brazil and Uruguay over Braziliera/Brasiliera Island in the Quarai/Cuareim River leaves the tripoint with Argentina in question; in 2010, the ICJ ruled in favor of Uruguay's operation of two paper mills on the Uruguay River, which forms the border with Argentina; the two countries formed a joint pollution monitoring regime; the joint boundary commission, established by Chile and Argentina in 2001 has yet to map and demarcate the delimited boundary in the inhospitable Andean Southern Ice Field (Campo de Hielo Sur); contraband smuggling, human trafficking, and illegal narcotic trafficking are problems in the porous areas of the border with Bolivia</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 174,333 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 173,248 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
 <p>counterfeiting, drug trafficking, and other smuggling offenses in the Tri-Border area; some money laundering organizations in the TBA have may have links to the terrorist organization Hizballah; a large producer of chemical precursors</p><br>

@@ -61,14 +61,14 @@ _other_: 39.5% (2018 est.)<br>
 **Irrigated land**<br>
 10,233 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kazakhstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
 
 **Population distribution**<br>
 the vast majority of Kyrgyzstanis live in rural areas; densest population settlement is to the north in and around the capital, Bishkek, followed by Osh in the west; the least densely populated area is the east, southeast in the Tien Shan mountains<br>
@@ -699,5 +699,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in K
 _tier rating_: Tier 2 Watch List —<strong> </strong>Kyrgyzstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted a National Referral Mechanism (NRM) that established formal policies on victim identification and the provision of social services;  the government established an interagency focus group to accelerate implementation of the NRM and improve law enforcement investigations; authorities increased investigations but did not prosecute or convict any traffickers; the government conducted limited training on the NRM; some officials reportedly  dropped charges or tipped off suspects and allowed victims to be pressured or paid to drop charges against alleged traffickers; the government’s written plan, if implemented, would meet the minimum standards for the elimination of trafficking, Kyrgyzstan was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 (2020)<br>
 
 **Illicit drugs**<br>
-limited illicit cultivation of cannabis and opium poppy for CIS markets; limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; major consumer of opiates<br>
+<p>a prime transshipment location; illegal drugs move from Afghanistan to Russia, and sometimes into Europe</p> <p> </p><br>
 

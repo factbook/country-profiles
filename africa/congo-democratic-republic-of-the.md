@@ -62,17 +62,17 @@ _other_: 20.7% (2018 est.)<br>
 **Irrigated land**<br>
 110 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
-**Major aquifers**<br>
-Congo Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile (shared with Sudan, South Sudan, Eritrea, Ethiopia, Kenya, Egypt, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km; Congo (shared with Angola, and Republic of Congo) - 4,700 km; Ubangi (shared with Central African Republic and Republic of Congo) - 2,270 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
+
+**Major aquifers**<br>
+Congo Basin<br>
 
 **Population distribution**<br>
 urban clusters are spread throughout the country, particularly in the northeast along the boarder with Uganda, Rwanda, and Burundi; the largest city is the capital, Kinshasha, located in the west along the Congo River; the south is least densely populated as shown in this population distribution map<br>
@@ -748,5 +748,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in D
 _tier rating_: <p>Tier 2 Watch List — The Democratic Republic of the Congo (DRC) does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the DRC was upgraded to Tier 2 Watch List because of several accomplishments; the government drafted and launched its first national anti-trafficking action plan; authorities increased law enforcement efforts, including investigating and prosecuting more trafficking crimes; a number of traffickers were convicted, including a high-ranking army officer and the leader of an armed group; however, authorities continued to lack standard operating procedures for identifying victims and referring them to care; there were credible allegations that the army abducted women and girls for sexual slavery and recruited and used child soldiers (2020)</p><br>
 
 **Illicit drugs**<br>
-traffickers exploit lax shipping controls to transit pseudoephedrine through the capital; while rampant corruption and inadequate supervision leave the banking system vulnerable to money laundering, the lack of a well-developed financial system limits the country's utility as a money-laundering center<br>
+country of origin of methamphetamine destined for overseas markets<br>
 

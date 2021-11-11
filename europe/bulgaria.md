@@ -63,11 +63,11 @@ _other_: 16.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,020 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Romania, Moldova, and Ukraine) - 2,888 km;<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger populations<br>
@@ -269,7 +269,7 @@ _municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -717,5 +717,5 @@ _stateless persons_: 1,141 (2020)<br>
 <strong>note:</strong> 64,658 estimated refugee and migrant arrivals (January 2015-September 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
-major European transshipment point for Southwest Asian heroin and, to a lesser degree, South American cocaine for the European market; limited producer of precursor chemicals; vulnerable to money laundering because of corruption, organized crime; some money laundering of drug-related proceeds through financial institutions<br>
+source country for amphetamine tablets<br>
 

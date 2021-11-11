@@ -61,9 +61,6 @@ _other_: 9.8% (2018 est.)<br>
 **Irrigated land**<br>
 210 sq km (2012)<br>
 
-**Major rivers (by length in km)**<br>
-Nile (shared with Sudan, South Sudan, Egypt, Ethiopia, Kenya, the Democratic Republic of the Congo, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km;<br>
-
 **Population distribution**<br>
 density is highest in the center of the country in and around the cities of Asmara (capital) and Keren; smaller settlements exist in the north and south as shown in this population distribution map<br>
 
@@ -262,9 +259,6 @@ _vectorborne diseases_: malaria and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 726,957 tons (2011 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Nile (shared with Sudan, South Sudan, Egypt, Ethiopia, Kenya, the Democratic Republic of the Congo, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km;<br>
 
 **Total water withdrawal**<br>
 _municipal_: 31 million cubic meters (2017 est.)<br>
@@ -573,12 +567,12 @@ _electrification - rural areas_: 13% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 116,882<br>
-_subscriptions per 100 inhabitants_: 1.94 (2019 est.)<br>
+_total subscriptions_: 66,170 (2017)<br>
+_subscriptions per 100 inhabitants_: 1.94 (2017 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,226,660<br>
-_subscriptions per 100 inhabitants_: 20.36 (2019 est.)<br>
+_total subscriptions_: 695,000 (2017)<br>
+_subscriptions per 100 inhabitants_: 20.36 (2017 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: least developed telecommunications market in Africa, largely due to restrictions of state-owned telecom monopoly; most fixed-line telephones are in Asmara; cell phone use is limited by government control of SIM card issuance; low penetration of computer use and Internet; market ripe for competition and investment; direct phone service between Eritrea and Ethiopia restored in September 2018; government operator working on roll-out of 3G network (2020) (2020)<br>
@@ -597,7 +591,7 @@ _total_: 78,215<br>
 _percent of population_: 1.31% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 600<br>
+_total_: 1,000 (2017 est.)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation

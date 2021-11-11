@@ -61,17 +61,17 @@ _other_: 55.7% (2018 est.)<br>
 **Irrigated land**<br>
 3,780 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
-
-**Major aquifers**<br>
-Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
 Niger (shared with Guinea, Niger, and Nigeria) - 4,200 km; Senegal (shared with Senegal and Mauritania) - 1,641 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
+
+**Major aquifers**<br>
+Lullemeden-Irhazer Basin, Taodeni-Tanezrouft Basin<br>
 
 **Population distribution**<br>
 the overwhelming majority of the population lives in the southern half of the country, with greater density along the border with Burkina Faso as shown in this population distribution map<br>
@@ -728,4 +728,7 @@ _IDPs_: 401,736 (Tuareg rebellion since 2012) (2021)<br>
 **Trafficking in persons**<br>
 _current situation_: Mali is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; women and girls are forced into domestic servitude, agricultural labor, and support roles in gold mines, as well as subjected to sex trafficking; Malian boys are found in conditions of forced labor in agricultural settings, gold mines, and the informal commercial sector, as well as forced begging in Mali and neighboring countries; Malians and other Africans who travel through Mali to Mauritania, Algeria, or Libya in hopes of reaching Europe are particularly at risk of becoming victims of human trafficking; men and boys, primarily of Songhai ethnicity, are subjected to debt bondage in the salt mines of Taoudenni in northern Mali; some members of Mali's Tuareg community are subjected to traditional slavery-related practices, and this involuntary servitude reportedly has extended to their children; reports indicate that non-governmental armed groups operating in northern Mali recruited children as combatants, cooks, porters, guards, spies, and sex slaves; slaveholders use some members of the Tuareg community in hereditary servitude where communities rather than individuals or families exploit the enslaved<br>
 _tier rating_: Tier 2 Watch List &mdash; Mali does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts included prosecuting hereditary slavery cases, increasing convictions, continuing training and awareness raising activities, releasing all children associated with the Malian armed forces (FAMa) to an international organization for care, training law enforcement officials on protection of children in armed conflict, identifying 215 children used by armed groups and referring them to international organizations for care; however, the government did not stop all use of children in the FAMa; the government continued to provide support to and collaborate with the Imghad Tuareg and the Allies Self-Defense Group, which recruited and used child soldiers; authorities did not investigate any suspects for child soldier offenses or make efforts to prevent it; law enforcement lacked resources and training about human trafficking; services for victims remained insufficient; therefore, Mali was downgraded to Tier 2 Watch List (2020)<br>
+
+**Illicit drugs**<br>
+<p>a transit point for illicit drugs trafficked to Europe; trafficking controlled by armed groups, criminal organizations, terrorist groups and government officials that facilitate, protect and profit from the activity</p><br>
 

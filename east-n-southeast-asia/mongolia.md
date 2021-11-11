@@ -214,9 +214,9 @@ _unimproved: total_: total: 13.5% of population (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.4%<br>
-_male_: 98.2%<br>
-_female_: 98.6% (2018)<br>
+_total population_: 99.2%<br>
+_male_: 99.1%<br>
+_female_: 99.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>

@@ -64,14 +64,14 @@ _other_: 2.6% (2018 est.)<br>
 **Irrigated land**<br>
 2,380 sq km (2012)<br>
 
-**Major aquifers**<br>
-Guarani Aquifer System<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Bolivia) - 4,880 km; Uruguay (shared with Brazil and Argentina) - 1,610 km<br>
+
+**Major aquifers**<br>
+Guarani Aquifer System<br>
 
 **Population distribution**<br>
 most of the country's population resides in the southern half of the country; approximately 80% of the populace is urban, living in towns or cities; nearly half of the population lives in and around the capital of Montevideo<br>
@@ -219,9 +219,9 @@ _unimproved: total_: total: 2.1% of population (2017 est.)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.7%<br>
-_male_: 98.4%<br>
-_female_: 99% (2018)<br>
+_total population_: 98.8%<br>
+_male_: 98.5%<br>
+_female_: 99% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>

@@ -202,9 +202,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.8%<br>
-_male_: 93.1%<br>
-_female_: 95.8% (2015)<br>
+_total population_: 97.6%<br>
+_male_: 98%<br>
+_female_: 96.9% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -688,5 +688,5 @@ estimates vary; reportedly a few hundred remain in Yemen (2021)<br>
 <p>boundary agreement was signed and ratified with Oman in 2003 for entire border, including Oman's Musandam Peninsula and Al Madhah enclaves, but contents of the agreement and detailed maps showing the alignment have not been published; Iran and UAE dispute Tunb Islands and Abu Musa Island, which Iran occupies</p><br>
 
 **Illicit drugs**<br>
-the UAE is a drug transshipment point for traffickers given its proximity to Southwest Asian drug-producing countries; the UAE's position as a major financial center makes it vulnerable to money laundering; anti-money-laundering controls improving, but informal banking remains unregulated<br>
+a transshipment point for illegal narcotics and a pass-through for drug proceeds; numerous exchange houses and general trading companies increase potential for money; major source of precursor chemicals used in the production of illicit narcotics<br>
 

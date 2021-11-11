@@ -61,14 +61,14 @@ _other_: 87.5% (2018 est.)<br>
 **Irrigated land**<br>
 964 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Major aquifers**<br>
 Arabian Aquifer System<br>
-
-**Major lakes (area sq km)**<br>
-_Salt water lake(s)_: Dead Sea (shared with Israel and West Bank) - 1,020 sq km<br>note - endorheic hypersaline lake; 9.6 times saltier than the ocean; lake shore is 431 meters below sea level<br>
 
 **Population distribution**<br>
 population heavily concentrated in the west, and particularly the northwest, in and around the capital of Amman; a sizeable, but smaller population is located in the southwest along the shore of the Gulf of Aqaba<br>
@@ -714,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 670,364 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 672,023 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
 _stateless persons_: 17 (2020)<br>
 
 **Trafficking in persons**<br>

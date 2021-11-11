@@ -61,14 +61,14 @@ _other_: 29.8% (2018 est.)<br>
 **Irrigated land**<br>
 630 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Rhine&nbsp; (shared with Germany, France, and Netherlands) - 1,233 km;&nbsp;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
 
 **Population distribution**<br>
 population distribution corresponds to elevation with the northern and western areas far more heavily populated; the higher Alps of the south limit settlement<br>
@@ -722,5 +722,5 @@ _refugees (country of origin)_: 37,816 (Eritrea), 19,869 (Syria), 14,523 (Afghan
 _stateless persons_: 711 (2020)<br>
 
 **Illicit drugs**<br>
-a major international financial center vulnerable to the layering and integration stages of money laundering; despite significant legislation and reporting requirements, secrecy rules persist and nonresidents are permitted to conduct business through offshore entities and various intermediaries; transit country for and consumer of South American cocaine, Southwest Asian heroin, and Western European synthetics; domestic cannabis cultivation and limited ecstasy production<br>
+major source of precursor chemicals used in the production of illicit narcotics; a significant importer and exporter of ephedrine and pseudoephedrine<br>
 

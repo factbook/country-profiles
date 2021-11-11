@@ -644,8 +644,8 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 <p>Barbados and Trinidad and Tobago abide by the April 2006 Permanent Court of Arbitration decision delimiting a maritime boundary and limiting catches of flying fish in Trinidad and Tobago's EEZ; in 2005, Barbados and Trinidad and Tobago agreed to compulsory international arbitration under UN Convention on the Law of the Sea challenging whether the northern limit of Trinidad and Tobago's and Venezuela's maritime boundary extends into Barbadian waters; Guyana has expressed its intention to include itself in the arbitration, as the Trinidad and Tobago-Venezuela maritime boundary may also extend into its waters</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 24,200 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 28,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-transshipment point for South American drugs destined for the US and Europe; producer of cannabis<br>
+<p>a transit point for illegal drugs destined for Europe, North America, and the rest of the Caribbean; drug trafficking organizations use proximity to Venezuela, porous borders, vulnerabilities at ports of entry, limited law enforcement capacity and resources, and law enforcement corruption to traffic illicit drugs;  marijuana the only locally-produced illicit drug</p> <p> </p><br>
 

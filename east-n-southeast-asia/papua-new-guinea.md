@@ -699,5 +699,5 @@ _current situation_: Papua New Guinea is a source, destination, and transit coun
 _tier rating_: Tier 3 &mdash; Papua New Guinea does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; despite remaining at Tier 3, the government continued to identify some trafficking victims and a prominent trafficking case was advanced; however, the government did not provide protective services for victims and did not systematically implement its victim identification procedures; corruption among officials in the logging sector remains a problem, and they continue to facilitate sex trafficking and forced labor; no alleged traffickers were convicted; the government dedicates little financial and human resources to combat trafficking, and awareness of trafficking is low among government officials (2020)<br>
 
 **Illicit drugs**<br>
-major consumer of cannabis<br>
+<p>transit point for smuggling drugs such as methamphetamine and cocaine; major consumer of cannabis</p><br>
 

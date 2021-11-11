@@ -695,5 +695,5 @@ _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 
 **Illicit drugs**<br>
-Lebanon is a transit country for hashish, cocaine, heroin, and fenethylene; fenethylene, cannabis, hashish, and some opium are produced in the Bekaa Valley; small amounts of Latin American cocaine and Southwest Asian heroin transit country on way to European markets and for Middle Eastern consumption; money laundering of drug proceeds fuels concern that extremists are benefiting from drug trafficking<br>
+source country for &nbsp;amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan<br>
 

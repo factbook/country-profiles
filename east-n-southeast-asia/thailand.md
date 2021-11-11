@@ -63,14 +63,14 @@ _other_: 21.6% (2018 est.)<br>
 **Irrigated land**<br>
 64,150 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Thalesap Songkhla - 1,290 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with Burma, Laos, China, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Burma) - 3,060 km; Mun - 1,162 km<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 highest population density is found in and around Bangkok; significant population clusters found througout large parts of the country, particularly north and northeast of Bangkok and in the extreme southern region of the country<br>
@@ -225,9 +225,9 @@ _vectorborne diseases_: dengue fever, Japanese encephalitis, and malaria<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 92.9%<br>
-_male_: 94.7%<br>
-_female_: 91.2% (2015)<br>
+_total population_: 93.8%<br>
+_male_: 95.2%<br>
+_female_: 92.4% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -737,5 +737,5 @@ _stateless persons_: 480,695 (2020) (estimate represents stateless persons regis
 <strong>note:</strong> Thai nationality was granted to more than 23,000 stateless persons between 2012 and 2016; in 2016, the Government of Thailand approved changes to its citizenship laws that could make 80,000 stateless persons eligible for citizenship, as part of its effort to achieve zero statelessness by 2024 (2018)<br>
 
 **Illicit drugs**<br>
-a minor producer of opium, heroin, and marijuana; transit point for illicit heroin en route to the international drug market from Burma and Laos; eradication efforts have reduced the area of cannabis cultivation and shifted some production to neighboring countries; opium poppy cultivation has been reduced by eradication efforts; also a drug money-laundering center; minor role in methamphetamine production for regional consumption; major consumer of methamphetamine since the 1990s despite a series of government crackdowns<br>
+a minor producer of opium, heroin, and marijuana; major part of the illegal drug market for the Southeast Asia region and the interconnected markets in East Asia and Oceania; transit point for illicit heroin en route to the international drug market from Burma and Laos; . &ldquo;Yaba,&rdquo; a tablet containing methamphetamine, caffeine, and other stimulants, is the most widely abused drug in Thailand<br>
 

@@ -63,15 +63,15 @@ _other_: 35.4% (2018 est.)<br>
 **Irrigated land**<br>
 52,150 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
 _Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iraq, Iran, and Syria) - 3,596 km; Tigris (shared with Iraq, Syria, and Iran) - 1,950 km; Kizil - 1,182 km<br>
+Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
 the most densely populated area is found around the Bosporus in the northwest where 20% of the population lives in Istanbul; with the exception of Ankara, urban centers remain small and scattered throughout the interior of Anatolia; an overall pattern of peripheral development exists, particularly along the Aegean Sea coast in the west, and the Tigris and Euphrates River systems in the southeast<br>
@@ -221,9 +221,9 @@ _respiratory diseases_: Covid-19 (2020)<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 96.2%<br>
-_male_: 98.8%<br>
-_female_: 93.5% (2017)<br>
+_total population_: 96.7%<br>
+_male_: 99.1%<br>
+_female_: 94.4% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
@@ -282,7 +282,7 @@ _Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
 _Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iraq, Iran, and Syria) - 3,596 km; Tigris (shared with Iraq, Syria, and Iran) - 1,950 km; Kizil - 1,182 km<br>
+Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -731,10 +731,10 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,723,674 (Syria) (2021)<br>
+_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,728,612 (Syria) (2021)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 
 **Illicit drugs**<br>
-key transit route for Southwest Asian heroin to Western Europe and, to a lesser extent, the US - via air, land, and sea routes; major Turkish and other international trafficking organizations operate out of Istanbul; laboratories to convert imported morphine base into heroin exist in remote regions of Turkey and near Istanbul; government maintains strict controls over areas of legal opium poppy cultivation and over output of poppy straw concentrate; lax enforcement of money-laundering controls<br>
+<p>transit country for heroin, opium, and cocaine trafficked to European markets;  amphetamine-type stimulants (ATS) are trafficked to Middle East and Southeast Asia markets; one of the major transit routes for opiates smuggled from Afghanistan via Iran destined for Western Europe; smugglers involved in both heroin sales and transport and production and smuggling of synthetic drugs; criminal networks have interests in heroin conversion laboratories operating in Iran near the Turkish border;  hashish imported or grown domestically for local consumption</p><br>
 

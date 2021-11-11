@@ -62,11 +62,11 @@ _other_: 21.4% (2018 est.)<br>
 **Irrigated land**<br>
 24 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Scutari (shared with Albania) - 400 sq km<br>note - largest lake in the Balkans<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 highest population density is concentrated in the south, southwest; the extreme eastern border is the least populated area<br>
@@ -700,5 +700,8 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 20,290 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 20,416 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+
+**Illicit drugs**<br>
+<p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>
 

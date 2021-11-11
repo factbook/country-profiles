@@ -64,14 +64,14 @@ _other_: 61.3% (2018 est.)<br>
 **Irrigated land**<br>
 450 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin, Taodeni-Tanzerouft Basin<br>
-
-**Major rivers (by length in km)**<br>
-Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
 
 **Population distribution**<br>
 with most of the country being a desert, vast areas of the country, particularly in the central, northern, and eastern areas, are without sizeable population clusters; half the population lives in or around the coastal capital of Nouakchott; smaller clusters are found near the southern border with Mali and Senegal as shown in this population distribution map<br>

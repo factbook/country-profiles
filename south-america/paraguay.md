@@ -61,14 +61,14 @@ _other_: 2.4% (2018 est.)<br>
 **Irrigated land**<br>
 1,362 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
-
-**Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
 
 **Population distribution**<br>
 most of the population resides in the eastern half of the country; to the west lies the Gran Chaco (a semi-arid lowland plain), which accounts for 60% of the land territory, but only 2% of the overall population<br>
@@ -223,9 +223,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 94%<br>
-_male_: 94.5%<br>
-_female_: 93.5% (2018)<br>
+_total population_: 94.5%<br>
+_male_: 94.9%<br>
+_female_: 94.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
@@ -710,5 +710,5 @@ as of 2021, the armed forces were principally focused on the Paraguayan People's
 <p>unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Illicit drugs**<br>
-major illicit producer of cannabis, most or all of which is consumed in Brazil, Argentina, and Chile; transshipment country for Andean cocaine headed for Brazil, other Southern Cone markets, and Europe; weak border controls, extensive corruption and money-laundering activity, especially in the Tri-Border Area; weak anti-money-laundering laws and enforcement<br>
+<p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering</p><br>
 

@@ -61,15 +61,15 @@ _other_: 21.4% (2018 est.)<br>
 **Irrigated land**<br>
 20,660 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
 
 **Population distribution**<br>
 most of the country displays a low population density, particularly the interior; population clusters appear in urban agglomerations in the far northern and southern portions of the country<br>
@@ -218,7 +218,7 @@ _unimproved: total_: total: 0.1% of population (2017 est.)<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 99.8%<br>
 _male_: 99.8%<br>
-_female_: 99.8% (2015)<br>
+_female_: 99.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
@@ -721,5 +721,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in K
 _tier rating_: Tier 2 Watch List —<strong> </strong>Kazakhstan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government adopted amendments increasing criminal penalties for traffickers, including rescinding the provision allowing alleged traffickers to pay a settlement to victims to withdraw their criminal cases; authorities developed victim identification guidelines for diplomatic staff and provided victim identification training to some labor inspectors; the government took initial steps toward improving its annual NGO funding process; the government’s efforts to identify and protect foreign victims increased; foreign victims who did not participate in criminal investigations were ineligible for services and were deported; law enforcement continued to make limited efforts to investigate, prosecute, and convict labor trafficking crimes; trafficking convictions decreased for the fourth consecutive year; NGOs reported allegations of police officers’ involvement in human trafficking, but few police or other officials suspected of complicity were investigated or prosecuted (2020)<br>
 
 **Illicit drugs**<br>
-significant illicit cultivation of cannabis for CIS markets, as well as limited cultivation of opium poppy and ephedra (for the drug ephedrine); limited government eradication of illicit crops; transit point for Southwest Asian narcotics bound for Russia and the rest of Europe; significant consumer of opiates<br>
+<p>a transit country for Afghan opiates destined for Russia and Europe; increase in  clandestine laboratories producing synthetic drugs; Synthetic drugs also trafficked from Southeast Asia, China, Russia, and Europe, and precursor chemicals shipped from Russia</p><br>
 

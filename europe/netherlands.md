@@ -64,11 +64,11 @@ _other_: 34.1% (2018 est.)<br>
 **Irrigated land**<br>
 4,860 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Rhine&nbsp; (shared with Switzerland, Germany, and France) - 1,233 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
 
 **Population distribution**<br>
 an area known as the Randstad, anchored by the cities of Amsterdam, Rotterdam, the Hague, and Utrecht, is the most densely populated region; the north tends to be less dense, though sizeable communities can be found throughout the entire country<br>
@@ -723,5 +723,5 @@ _refugees (country of origin)_: 22,547 (Syria), 11,961 (Eritrea), 11,642 (Somali
 _stateless persons_: 2,006 (2020)<br>
 
 **Illicit drugs**<br>
-major European producer of synthetic drugs, including ecstasy, and cannabis cultivator; important gateway for cocaine, heroin, and hashish entering Europe; major source of US-bound ecstasy and a significant consumer of ecstasy; a large financial sector vulnerable to money laundering<br>
+<p>a significant transit country for illicit drugs, especially cocaine from South America destined for Europe; one of the largest sources of synthetic drugs for international markets; numerous methamphetamine laboratories; traffickers use postage companies to send cocaine, ecstasy or methamphetamines distribute narcotics to global customers</p><br>
 

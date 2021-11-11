@@ -213,9 +213,9 @@ _water contact diseases_: leptospirosis<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 93.7%<br>
-_male_: 96.3%<br>
-_female_: 91.1% (2016)<br>
+_total population_: 95%<br>
+_male_: 96.2%<br>
+_female_: 93.6% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
@@ -726,5 +726,5 @@ _current situation_: Malaysia is a destination and, to a lesser extent, a source
 _tier rating_: Tier 2 Watch List &mdash; Malaysia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government identified more victims, increased the number of trafficking-specialist prosecutors, drafted victim identification standard operating procedures, identified two volunteer victim assistance specialists that worked with more than 100 victims, and co-hosted the first national conference on anti-trafficking; however, authorities prosecuted and convicted fewer traffickers and investigated few trafficking cases; despite the issue of corruption, insufficient efforts were made to prosecute officials&rsquo; complicity in trafficking-related crimes or to report the results of investigations into such crimes; insufficient interagency coordination and victim services discouraged foreign victims from participating in criminal proceedings; no resources were devoted to a written plan that, if implemented, would constitute significant efforts to meet the minimum standards; Malaysia was granted a waiver per the Trafficking Victims Protection Act from an otherwise required downgrade to Tier 3 (2020)<br>
 
 **Illicit drugs**<br>
-drug trafficking prosecuted vigorously, including enforcement of the death penalty; heroin still primary drug of abuse, but synthetic drug demand remains strong; continued ecstasy and methamphetamine producer for domestic users and, to a lesser extent, the regional drug market<br>
+<p>methamphetamine is the most used and trafficked drug controlled by criminal organizations that produce it; crystal methamphetamine, MDMA (ecstasy), cannabis products, heroin, ketamine, and Erimin 5 (nimetazepam) are smuggled into the country; a transit point for trafficking cocaine and other drugs to the Australian market</p> <p> </p><br>
 

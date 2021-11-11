@@ -611,5 +611,5 @@ no regular military forces; the Royal Grenada Police Force includes a Coast Guar
 <p>none</p><br>
 
 **Illicit drugs**<br>
-small-scale cannabis cultivation; lesser transshipment point for marijuana and cocaine to US<br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
 

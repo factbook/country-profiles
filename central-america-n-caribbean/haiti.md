@@ -668,5 +668,5 @@ _IDPs_: 17,105 (violence among armed gangs in the metropolitan area os Port-au-P
 _stateless persons_: 2,992 (2018); note - individuals without a nationality who were born in the Dominican Republic prior to January 2010<br>
 
 **Illicit drugs**<br>
-Caribbean transshipment point for cocaine en route to the US and Europe; substantial bulk cash smuggling activity; Colombian narcotics traffickers favor Haiti for illicit financial transactions; pervasive corruption; significant consumer of cannabis<br>
+<p>a transit point for cocaine from South America and marijuana from Jamaica en route to the United States; not a producer or large consumer of illicit drugs; some cultivation of cannabis for local consumption</p><br>
 

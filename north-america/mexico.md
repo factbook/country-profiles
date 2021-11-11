@@ -64,15 +64,15 @@ _other_: 11.8% (2018 est.)<br>
 **Irrigated land**<br>
 65,000 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
+_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
 
 **Major aquifers**<br>
 Atlantic and Gulf Coastal Plains Aquifer<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
-_Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 
 **Population distribution**<br>
 most of the population is found in the middle of the country between the states of Jalisco and Veracruz; approximately a quarter of the population lives in and around Mexico City<br>
@@ -225,9 +225,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95.4%<br>
-_male_: 95.8%<br>
-_female_: 94.6% (2018)<br>
+_total population_: 95.2%<br>
+_male_: 96.1%<br>
+_female_: 94.5% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -740,10 +740,10 @@ the Mexican military under President LOPEZ OBRADOR has expanded its role in publ
 <p>abundant rainfall in recent years along much of the Mexico-US border region has ameliorated periodically strained water-sharing arrangements; the US has intensified security measures to monitor and control legal and illegal personnel, transport, and commodities across its border with Mexico; Mexico must deal with thousands of impoverished Guatemalans and other Central Americans who cross the porous border looking for work in Mexico and the US; Belize and Mexico are working to solve minor border demarcation discrepancies arising from inaccuracies in the 1898 border treaty</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,676 (Honduras), 9,231 (El Salvador) (2020); 102,223 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 15,676 (Honduras), 9,231 (El Salvador) (2020); 82,976 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern Chiapas Region; drug cartel violence and government's military response since 2007; violence between and within indigenous groups) (2020)<br>
 _stateless persons_: 13 (2020)<br>
 
 **Illicit drugs**<br>
-major drug-producing and transit nation; Mexico is estimated to be the world's third largest producer of opium with poppy cultivation in 2015 estimated to be 28,000 hectares yielding a potential production of 475 metric tons of raw opium; government conducts the largest independent illicit-crop eradication program in the world; continues as the primary transshipment country for US-bound cocaine from South America, with an estimated 95% of annual cocaine movements toward the US stopping in Mexico; major drug syndicates control the majority of drug trafficking throughout the country; producer and distributor of ecstasy; significant money-laundering center; major supplier of heroin and largest foreign supplier of marijuana and methamphetamine to the US market<br>
+<p>major source and transit country for heroin, marijuana, methamphetamine, and illicit synthetic including fentanyl and counterfeit pills destined for the United States; main transit country for cocaine from South America, a transit route and destination for fentanyl and associated precursors originating from China</p><br>
 

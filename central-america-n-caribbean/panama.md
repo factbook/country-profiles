@@ -217,9 +217,9 @@ _vectorborne diseases_: dengue fever<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 95.4%<br>
-_male_: 96%<br>
-_female_: 94.9% (2018)<br>
+_total population_: 95.7%<br>
+_male_: 98.8%<br>
+_female_: 95.4% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -705,5 +705,5 @@ the Panamanian Defense Force was disbanded after the 1989 US invasion; the Army 
 _refugees (country of origin)_: 80,021 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum or have received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-major cocaine transshipment point and primary money-laundering center for narcotics revenue; money-laundering activity is especially heavy in the Colon Free Zone; offshore financial center; negligible signs of coca cultivation; monitoring of financial transactions is improving; official corruption remains a major problem<br>
+<p>a prime sea and land passage for drugs, primarily cocaine from Colombia, from South America to North America and Europe; traffickers ship drugs in containers passing through the Panama Canal each year North America and Europe</p> <p> </p><br>
 

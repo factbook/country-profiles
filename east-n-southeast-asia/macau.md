@@ -589,5 +589,5 @@ _current situation_: Macau is a destination and, to a much lesser extent, source
 _tier rating_: Tier 2 Watch List &mdash; Macau does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government trained police, customs, and social welfare officials on human trafficking, funded an awareness campaign, and provided services to victims; authorities convicted three sex traffickers but did not sentence anyone to significant prison terms; authorities investigated only one potential trafficking case and made no prosecutions; the government provided no assistance to any victims, and officials did not initiate any prosecutions or sentence convicted traffickers to significant terms of imprisonment; Macau was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
-transshipment point for drugs going into mainland China; consumer of opiates and amphetamines<br>
+<p>asian organized crime groups involved in drug trafficking and money laundering</p><br>
 

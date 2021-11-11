@@ -64,14 +64,14 @@ _other_: 11.4% (2018 est.)<br>
 **Irrigated land**<br>
 3,540 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Pacific Ocean drainage: Mekong (805,604 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Mekong (shared with Burma, Laos, Thailand, China, and Vietnam) - 4,350 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 population concentrated in the southeast, particularly in and around the capital of Phnom Penh; further distribution is linked closely to the Tonle Sap and Mekong Rivers<br>
@@ -725,5 +725,5 @@ _current situation_: human traffickers exploit Cambodian men, women, and childre
 _tier rating_: Tier 2 Watch List &mdash; Cambodia does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; authorities continued to prosecute and convict traffickers and utilized new victim identification and data collection technologies; the government enacted a five-year national action plan to combat human trafficking; however, corruption continued to impede law enforcement efforts, criminal proceedings, and services to victims; some corrupt officials may have profited directly from sex and labor trafficking or accepted bribes to dismiss charges or reduce sentences; insufficient judicial monitoring systems enabled suspected traffickers to flee before trial; authorities failed to issue formal guidance allowing the use of undercover techniques in anti-trafficking investigations (2020)<br>
 
 **Illicit drugs**<br>
-narcotics-related corruption reportedly involving some in the government, military, and police; limited methamphetamine production; vulnerable to money laundering due to its cash-based economy and porous borders<br>
+<p>manufacture of methamphetamine expanding due to  transnational crime syndicates moving from China to evade the law; drugs destined for Australia, Japan, New Zealand and the Republic of Korea and the rest of East and South-East Asia</p><br>
 

@@ -568,5 +568,5 @@ defense is the responsibility of the UK<br>
 <p>none</p><br>
 
 **Illicit drugs**<br>
-major offshore financial center; vulnerable to drug transshipment to the US and Europe<br>
+<p>major offshore financial center vulnerable to drug trafficking money laundering</p> <p> </p><br>
 

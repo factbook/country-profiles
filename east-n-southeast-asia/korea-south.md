@@ -206,9 +206,6 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write (2019)<br>
-_total population_: 98% (2019)<br>
-_male_: 99.2%<br>
-_female_: 96.6%<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -699,4 +696,7 @@ note:&nbsp; South Korea intends to reduce the length of military service to 18 &
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 203 (2020)<br>
+
+**Illicit drugs**<br>
+<p>precursor chemicals used for illicit drugs, such as acetic anhydride, pseudoephedrine, and ephedrine, imported from the United States, Japan, India, and China and then either resold within South Korea or smuggled into other countries</p> <p> </p><br>
 

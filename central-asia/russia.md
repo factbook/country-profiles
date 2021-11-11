@@ -64,18 +64,18 @@ _other_: 37.5% (2018 est.)<br>
 **Irrigated land**<br>
 43,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
-
-**Major aquifers**<br>
-Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; Lake Onega - 9,720 sq km; Lake Khanka (shared with China) - 5,010 sq km; Lake Peipus - 4,300 sq km; Ozero Vygozero - 1,250 sq km; Ozero Beloye - 1,120 sq km<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Kurshskiy Zaliv/Kursiu Marios (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
 
 **Major rivers (by length in km)**<br>
 Yenisey - 5,539 km; Ob' - 5,410 km;&nbsp; Amur (shared with China and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural (shared with Kazakhstan) - 2,428 km; Dnieper (shared with Ukraine and Belarus) - 2,287 km; Don (shared with Ukraine) - 1,870 km; Pechora - 1,809 km<br>
+
+**Major watersheds (area sq km)**<br>
+Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
+
+**Major aquifers**<br>
+Angara-Lena Basin, Pechora Basin, North Caucasus Basin, East European Aquifer System, West Siberian Basin, Tunguss Basin, Yakut Basin<br>
 
 **Population distribution**<br>
 population is heavily concentrated in the westernmost fifth of the country extending from the Baltic Sea, south to the Caspian Sea, and eastward parallel to the Kazakh border; elsewhere, sizeable pockets are isolated and generally found in the south<br>
@@ -769,5 +769,5 @@ _current situation_: Russia is a source, transit, and destination country for me
 _tier rating_: Tier 3 &mdash; Russia does not fully meet the minimum standards for the elimination of trafficking, is not making significant efforts to do, and remains in Tier 3; the government took some steps to address trafficking by convicting some traffickers, facilitating the return of Russian children from Iraq and Syria, and identifying some victims, including foreign nationals; however, there was a government policy of forced labor, the number of victims identified was negligible, and authorities penalized potential victims without screening for signs of trafficking; the government offered no funding or programs for trafficking victims&rsquo; rehabilitation, prosecutions remained low compared with the scope of Russia&rsquo;s trafficking problem, no national anti-trafficking strategy has been drafted, and government agencies have not been assigned roles or responsibilities (2020)<br>
 
 **Illicit drugs**<br>
-limited cultivation of illicit cannabis and opium poppy and producer of methamphetamine, mostly for domestic consumption; government has active illicit crop eradication program; used as transshipment point for Asian opiates, cannabis, and Latin American cocaine bound for growing domestic markets, to a lesser extent Western and Central Europe, and occasionally to the US; major source of heroin precursor chemicals; corruption and organized crime are key concerns; major consumer of opiates<br>
+<p>a destination country for Afghan opium and heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; cannabis cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p><br>
 

@@ -65,18 +65,18 @@ _other_: 5.2% (2018 est.)<br>
 **Irrigated land**<br>
 54,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon (shared with Peru) - 6,400 km; Rio de la Plata/Parana (shared with Argentina, Paraguay, Uruguay, and Bolivia) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay (shared with Paraguay and Argentina) - 2,549 km; Negro (shared with Venezuela and Colombia) - 2,250 km; Uruguay (shared with Argentina and Uruguay) - 1,610 km<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin, Guarani Aquifer System, Maranhao Basin<br>
 
 **Population distribution**<br>
 the vast majority of people live along, or relatively near, the Atlantic coast in the east; the population core is in the southeast, anchored by the cities of Sao Paolo, Brasilia, and Rio de Janeiro<br>
@@ -296,7 +296,7 @@ _Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon (shared with Peru) - 6,400 km; Rio de la Plata/Parana (shared with Argentina, Paraguay, Uruguay, and Bolivia) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay (shared with Paraguay and Argentina) - 2,549 km; Negro (shared with Venezuela and Colombia) - 2,250 km; Uruguay (shared with Argentina and Uruguay) - 1,610 km<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>

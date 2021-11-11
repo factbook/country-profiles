@@ -61,14 +61,14 @@ _other_: 7.5% (2018 est.)<br>
 **Irrigated land**<br>
 96 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<strong><br>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; large concentrations tend to be in the central regions and along the shore of Lake Kivu in the west as shown in this population distribution map<br>
@@ -687,8 +687,7 @@ the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000
 the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2020)<br>
 
 **Military deployments**<br>
-1,390 Central African Republic (MINUSCA); 2,775 South Sudan (UNMISS) (2021)<br>
-note - in mid-2021, Rwanda sent about 1,000 combat troops to Mozambique to assist the Mozambique Government in combating an insurgency<br>
+2,150 Central African Republic (approximately 1,400 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,775 South Sudan (UNMISS) (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; Rwandan citizenship is required; enlistment is either as contract (5-years, renewable twice) or career (2019)<br>
@@ -702,5 +701,5 @@ note - in mid-2021, Rwanda sent about 1,000 combat troops to Mozambique to assis
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 74,836 (Democratic Republic of the Congo), 47,669 (Burundi) (2021)<br>
+_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,669 (Burundi) (2021)<br>
 

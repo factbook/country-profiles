@@ -612,5 +612,5 @@ no regular military forces; Royal Saint Lucia Police Force (includes Special Ser
 <p>joins other Caribbean states to counter Venezuela's claim that Aves Island sustains human habitation, a criterion under UN Convention on the Law of the Sea, which permits Venezuela to extend its EEZ/continental shelf over a large portion of the eastern Caribbean Sea</p><br>
 
 **Illicit drugs**<br>
-transit point for South American drugs destined for the US and Europe<br>
+<p>a transit point for cocaine and marijuana destined for North America, Europe, and elsewhere in the Caribbean</p><br>
 

@@ -708,5 +708,5 @@ Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuani
 _stateless persons_: 2,720 (2020)<br>
 
 **Illicit drugs**<br>
-transshipment and destination point for cannabis, cocaine, ecstasy, and opiates from Southwest Asia, Latin America, Western Europe, and neighboring Baltic countries; growing production of high-quality amphetamines, but limited production of cannabis, methamphetamines; susceptible to money laundering despite changes to banking legislation<br>
+<p>source country for  amphetamine tablets</p><br>
 

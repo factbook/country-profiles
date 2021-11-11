@@ -64,14 +64,14 @@ _other_: 62.7% (2018 est.)<br>
 **Irrigated land**<br>
 202,000 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Major aquifers**<br>
 Indus Basin<br>
-
-**Major rivers (by length in km)**<br>
-Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
 
 **Population distribution**<br>
 the Indus River and its tributaries attract most of the settlement, with Punjab province the most densely populated<br>
@@ -226,9 +226,9 @@ _animal contact diseases_: rabies<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 59.1%<br>
-_male_: 71.1%<br>
-_female_: 46.5% (2015)<br>
+_total population_: 58%<br>
+_male_: 69.3%<br>
+_female_: 46.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 8 years<br>
@@ -755,5 +755,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in P
 _tier rating_: Tier 2 Watch List —<strong> </strong>Pakistan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts include convicting traffickers under the comprehensive human trafficking law, convicting more traffickers for bonded labor, and increasing registration of brick kilns nationwide for the oversight of workers traffickers target; more trafficking victims were identified; authorities initiated eight investigations against suspected traffickers of Pakistani victims overseas; authorities collaborated with international partners and foreign governments on anti-trafficking efforts; however, the government  significantly decreased investigations and prosecutions of sex traffickers; bonded labor exists on farms and in brick kilns in Punjab province; no action was taken against officials involved in trafficking; several high-profile trafficking cases were dropped during the reporting period; resources were lacking for the care of identified victims; Pakistan was downgraded to Tier 2 Watch List (2020)<br>
 
 **Illicit drugs**<br>
-significant transit area for Afghan drugs, including heroin, opium, morphine, and hashish, bound for Iran, Western markets, the Gulf States, Africa, and Asia; financial crimes related to drug trafficking, terrorism, corruption, and smuggling remain problems; opium poppy cultivation estimated to be 930 hectares in 2015; federal and provincial authorities continue to conduct anti-poppy campaigns that utilizes forced eradication, fines, and arrests<br>
+<p>minor cultivator of opium poppy and cannabis with 1,400 of poppy cultivated 2016; one of the world’s top transit corridors for opiates and cannabis products along with Afghanistan and Iran; precursor chemicals also pass through Pakistan as a major transit point for global distribution</p> <p> </p><br>
 

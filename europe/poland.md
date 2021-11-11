@@ -62,14 +62,14 @@ _other_: 21.2% (2018 est.)<br>
 **Irrigated land**<br>
 970 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Vistula (shared with Belarus and Ukraine) - 1,213 km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 population concentrated in the southern area around Krakow and the central area around Warsaw and Lodz, with an extension to the northern coastal city of Gdansk<br>
@@ -740,5 +740,5 @@ _refugees (country of origin)_: 9,870 (Russia) (2019)<br>
 _stateless persons_: 1,390 (2020)<br>
 
 **Illicit drugs**<br>
-despite diligent counternarcotics measures and international information sharing on cross-border crimes, a major illicit producer of synthetic drugs for the international market; minor transshipment point for Southwest Asian heroin and Latin American cocaine to Western Europe<br>
+<p>source country for amphetamines</p><br>
 

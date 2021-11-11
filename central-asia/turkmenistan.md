@@ -61,14 +61,14 @@ _other_: 19.2% (2018 est.)<br>
 **Irrigated land**<br>
 19,950 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amu Darya (shared with Uzbekistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+
+**Major watersheds (area sq km)**<br>
+Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
 
 **Population distribution**<br>
 the most densely populated areas are the southern, eastern, and northeastern oases; approximately 50% of the population lives in and around the capital of Ashgabat<br>
@@ -697,5 +697,5 @@ _current situation_: Turkmenistan is a source, and to a much lesser degree, dest
 _tier rating_: Tier 3 &mdash; Turkmenistan does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government approved the 2020-2022 national action plan, continued anti-trafficking awareness campaigns, worked with international organizations on combating trafficking, provided training to its diplomatic corps on human trafficking, and identified potential trafficking victims at the international airport; however, the &nbsp;government used forced labor in the cotton harvest and public works projects; no officials were held accountable for their role in trafficking crimes; authorities did not prosecute or convict any traffickers; no victims were identified and offered protection or assistance programs (2020)<br>
 
 **Illicit drugs**<br>
-transit country for Afghan narcotics bound for Russian and Western European markets; transit point for heroin precursor chemicals bound for Afghanistan<br>
+<p>transit country for Afghan opiates to Turkish, Russian, and European markets, either directly from Afghanistan or through Iran; not a major producer or source country for illegal drugs or precursor chemicals</p> <p> </p><br>
 

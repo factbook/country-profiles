@@ -214,9 +214,9 @@ _animal contact diseases_: rabies<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 91.9%<br>
+_total population_: 92.3%<br>
 _male_: 93%<br>
-_female_: 91% (2017)<br>
+_female_: 91.6% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>

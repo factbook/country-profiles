@@ -61,11 +61,11 @@ _other_: 10.5% (2018 est.)<br>
 **Irrigated land**<br>
 950 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -223,9 +223,9 @@ _food or waterborne diseases_: bacterial diarrhea<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 98.3%<br>
-_male_: 99.1%<br>
-_female_: 97.5% (2016)<br>
+_total population_: 99.5%<br>
+_male_: 99.9%<br>
+_female_: 99.1% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -717,8 +717,8 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 797,027 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 5,255 migrants and asylum seekers as of May 2021<br>
+<strong>note:</strong> 802,301 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
-transshipment point for Southwest Asian heroin moving to Western Europe on the Balkan route; economy vulnerable to money laundering<br>
+<p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>
 

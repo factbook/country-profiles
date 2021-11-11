@@ -62,14 +62,14 @@ _forest_: 54.3% (2018 est.)<br>
 **Irrigated land**<br>
 860 sq km (2014)<br>
 
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
-
-**Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Population distribution**<br>
 most people live in the western half of the country; urban areas account for the highest concentrations of people, particularly the capital of Luanda as shown in this population distribution map<br>

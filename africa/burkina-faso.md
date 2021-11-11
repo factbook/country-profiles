@@ -61,11 +61,11 @@ _other_: 36.5% (2018 est.)<br>
 **Irrigated land**<br>
 550 sq km (2016)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Volta (shared with Ghana) - 1,600 km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
 
 **Population distribution**<br>
  <p>Most of the population is located in the center and south. Nearly one-third of the population lives in cities. The capital and largest city is Ouagadougou (Ouaga), with a population of 1.8 million as shown in this population distribution map</p>  (2019)<br>
@@ -610,15 +610,15 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 75,291<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 75,039 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,364,508<br>
-_subscriptions per 100 inhabitants_: 100.39 (2019 est.)<br>
+_total subscriptions_: 22,117,218 (2020)<br>
+_subscriptions per 100 inhabitants_: 105.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Burkina Faso’s telecom services are some of the most expensive in the world, hindered by regulatory procedures, insufficient mobile spectrum, poor fixed-line networks; mobile telephony but below African average; Internet is provided by mobile operators; Internet penetration is low and expensive, despite improved international bandwidth via fiber links through submarine cables to adjacent countries; increased telecom tax; government infrastructure project largely completed; parliament launched inquiry on mobile network infrastructure coverage, pricing of services, and quality of service; government began computer subsidy program for university students; government progressed with large project to provide metropolitan fiber-optic infrastructure (2021)</p> (2020)<br>
+_general assessment_: Burkina Faso&rsquo;s telecom services are some of the most expensive in the world, hindered by regulatory procedures, insufficient mobile spectrum, poor fixed-line networks; mobile telephony but below African average; Internet is provided by mobile operators; Internet penetration is low and expensive, despite improved international bandwidth via fiber links through submarine cables to adjacent countries; increased telecom tax; government infrastructure project largely completed; parliament launched inquiry on mobile network infrastructure coverage, pricing of services, and quality of service; government began computer subsidy program for university students; government progressed with large project to provide metropolitan fiber-optic infrastructure (2020)<br>
 _domestic_: fixed-line connections stand at less than 1 per 100 persons; mobile-cellular usage 100 per 100, with multiple providers there is competition and the hope for growth from a low base; Internet penetration is 11% countrywide, but higher in urban areas (2019)<br>
 _international_: country code - 226; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -634,8 +634,8 @@ _total_: 3,158,834<br>
 _percent of population_: 16% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 12,015<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 13,979 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 

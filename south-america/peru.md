@@ -63,17 +63,17 @@ _other_: 28.2% (2018 est.)<br>
 **Irrigated land**<br>
 25,800 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
-
-**Major aquifers**<br>
-Amazon Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Amazon (shared with Brazil) - 6,400 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
+
+**Major aquifers**<br>
+Amazon Basin<br>
 
 **Population distribution**<br>
 approximately one-third of the population resides along the desert coastal belt in the west, with a strong focus on the capital city of Lima; the Andean highlands, or sierra, which is strongly identified with the country's Amerindian population, contains roughly half of the overall population; the eastern slopes of the Andes, and adjoining rainforest, are sparsely populated<br>
@@ -229,9 +229,9 @@ _vectorborne diseases_: dengue fever, malaria, and Bartonellosis (Oroya fever)<b
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 94.4%<br>
-_male_: 97.1%<br>
-_female_: 91.7% (2018)<br>
+_total population_: 94.5%<br>
+_male_: 97%<br>
+_female_: 92% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
@@ -749,9 +749,9 @@ Shining Path (Sendero Luminoso)<br>
 <p>Chile and Ecuador rejected Peru's November 2005 unilateral legislation to shift the axis of their joint treaty-defined maritime boundaries along the parallels of latitude to equidistance lines which favor Peru; organized illegal narcotics operations in Colombia have penetrated Peru's shared border; Peru rejects Bolivia's claim to restore maritime access through a sovereign corridor through Chile along the Peruvian border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 1,049,970 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
+_refugees (country of origin)_: 1,286,434 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2020)<br>
 
 **Illicit drugs**<br>
-until 1996 the world's largest coca leaf producer, Peru is now the world's second largest producer of coca leaf, though it lags far behind Colombia; cultivation of coca in Peru was estimated at 44,000 hectares in 2016, a decrease of 16 per cent over 2015; second largest producer of cocaine, estimated at 410 metric tons of potential pure cocaine in 2016; finished cocaine is shipped out from Pacific ports to the international drug market; increasing amounts of base and finished cocaine, however, are being moved to Brazil, Chile, Argentina, and Bolivia for use in the Southern Cone or transshipment to Europe and Africa; increasing domestic drug consumption<br>
+<p>a regional transshipment and destination point for illegal drugs;</p> <p>cannabis products, methamphetamine hydrochloride (locally known as ‘shabu’), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals are in transit from China to Burma</p> <p> </p><br>
 

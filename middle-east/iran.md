@@ -64,14 +64,14 @@ _other_: 63.1% (2018 est.)<br>
 **Irrigated land**<br>
 95,530 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iraq, Syria, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Syria) - 1,950 km; Helmand (shared with Afghanistan) - 1,130 km<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
 
 **Population distribution**<br>
 population is concentrated in the north, northwest, and west, reflecting the position of the Zagros and Elburz Mountains; the vast dry areas in the center and eastern parts of the country, around the deserts of the Dasht-e Kavir and Dasht-e Lut, have a much lower population density<br>
@@ -284,7 +284,7 @@ _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iraq, Syria, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Syria) - 1,950 km; Helmand (shared with Afghanistan) - 1,130 km<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -731,5 +731,5 @@ _current situation_: Iran is a presumed source, transit, and destination country
 _tier rating_: Tier 3 &mdash; Iran does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; therefore, Iran remained in Tier 3; the government continued a policy of recruiting and using child soldiers, government officials perpetrated sex trafficking of adults and children and continued trafficking both in Iran and overseas; the government continued to force or coerce children and adults to fight for Iranian-led militias operating in Syria and provided financial support to militias fighting in armed conflicts in the region using child soldiers; authorities failed to identify and protect trafficking victims among vulnerable populations; law enforcement treated trafficking victims as criminals, facing severe punishment or death for unlawful acts traffickers compelled them to commit (2020)<br>
 
 **Illicit drugs**<br>
-despite substantial interdiction efforts and considerable control measures along the border with Afghanistan, Iran remains one of the primary transshipment routes for Southwest Asian heroin to Europe; suffers one of the highest opiate addiction rates in the world, and has an increasing problem with synthetic drugs; regularly enforces the death penalty for drug offences; lacks anti-money laundering laws; has reached out to neighboring countries to share counter-drug intelligence<br>
+<p>significant transit and destination country for opiates and cannabis products mainly from Afghanistan; produces and consumes methamphetamine and traffics it to  international markets; one of the primary transshipment routes for Southwest Asian heroin to Europe</p><br>
 

@@ -64,11 +64,11 @@ _other_: 32.6% (2018 est.)<br>
 **Irrigated land**<br>
 22,950 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Mekong (shared with China, Laos, Thailand, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Thailand) - 3,060 km; Irrawaddy (shared with China) - 2,809 km; Chindwin - 1,158 km<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
 
 **Population distribution**<br>
 population concentrated along coastal areas and in general proximity to the shores of the Irrawaddy River; the extreme north is relatively underpopulated<br>
@@ -733,5 +733,5 @@ _current situation_: human traffickers exploit men, women, and children through 
 _tier rating_: Tier 3 &mdash; Burma does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; authorities increased the investigation and prosecution of trafficking crimes, including those involving officials, and the investigation of forced labor in the fishing sector; the government identified and referred more victims to care and enacted legislation enhancing protections for child victims; however, a policy or pattern of forced labor existed; the use of children in labor and support roles by the military increased in conflict zones in Rakhine and Shan States; displacement resulting from military conflict made Rohingya and other ethnic groups vulnerable to human trafficking; the constitutionally guaranteed power of the military continued to limit the government&rsquo;s ability to address forced adult labor and child soldier recruitment; although authorities allocated increased funding to victim protection, most services to trafficking victims were provided by NGOs and foreign donors (2020)<br>
 
 **Illicit drugs**<br>
-world's second largest producer of illicit opium with an estimated poppy cultivation totaling 41,000 hectares in 2017, a decrease of 25% from the last survey in 2015; Shan state is the source of 91% of Burma's poppy cultivation; lack of government will to take on major narcotrafficking groups and lack of serious commitment against money laundering continues to hinder the overall antidrug effort; Burma is one of the world&rsquo;s largest producers of amphetamine-type stimulants, which are trafficked throughout the region, as far afield as Australia and New Zealand<br>
+<p>a major source of illicit methamphetamine and opiates; illicit import of precursor chemicals from China increased production and trafficking of synthetic drugs; second-largest opium poppy cultivator in Asia, with an estimated 20,200 hectares grown in 2019; “Yaba,” a tablet containing methamphetamine, caffeine, and other stimulants, is produced in Burma and trafficked regionally; ethnic armed groups (EAGs), military-affiliated militias, and transnational criminal organizations oversee billion dollar a drug production and trafficking industry; drugs produced in Burma are trafficked beyond Southeast Asia to Australia, New Zealand, and Japan; not a major source or transit country for drugs entering the United States</p> <p> </p><br>
 

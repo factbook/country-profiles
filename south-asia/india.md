@@ -64,17 +64,17 @@ _other_: 16.4% (2018 est.)<br>
 **Irrigated land**<br>
 667,000 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
-
-**Major aquifers**<br>
-Indus-Ganges-Brahmaputra Basin<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Brahmaputra (shared with China, Nepal, Bangladesh, and Bhutan) - 3,969 km; Indus (shared with Pakistan and China) - 3,610 km; Ganges (shared with Bangladesh and Nepal) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with Pakistan) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab (shared with Pakistan) - 1,086 km; Ghaghara (shared with Nepal) - 1,080 km<br>
+
+**Major watersheds (area sq km)**<br>
+Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
+
+**Major aquifers**<br>
+Indus-Ganges-Brahmaputra Basin<br>
 
 **Population distribution**<br>
 with the notable exception of the deserts in the northwest, including the Thar Desert, and the mountain fringe in the north, a very high population density exists throughout most of the country; the core of the population is in the north along the banks of the Ganges, with other river valleys and southern coastal areas also having large population concentrations<br>
@@ -758,5 +758,5 @@ _IDPs_: 473,000 (armed conflict and intercommunal violence) (2020)<br>
 _stateless persons_: 18,174 (2020)<br>
 
 **Illicit drugs**<br>
-world's largest producer of licit opium for the pharmaceutical trade, but an undetermined quantity of opium is diverted to illicit international drug markets; transit point for illicit narcotics produced in neighboring countries and throughout Southwest Asia; illicit producer of methaqualone; vulnerable to narcotics money laundering through the hawala system; licit ketamine and precursor production<br>
+<p>source and transit point for illicit narcotics and precursor chemicals bound for Europe, Africa, Southeast Asia, and North America; in 2020 India exported over $19 billion of illegal pharmaceutical drugs; illegal opium poppy growing in the  the Northeast; traffickers retool commercial chemical factories to produce large volumes of ephedrine, methamphetamine, and other drugs illicitly</p> <p> </p><br>
 

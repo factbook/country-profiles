@@ -61,14 +61,14 @@ _other_: 45.8% (2018 est.)<br>
 **Irrigated land**<br>
 13,320 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
 
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
-
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
 
 **Population distribution**<br>
 most of the population is divided nearly equally between a concentration in the southern-most plains of the Tarai region and the central hilly region; overall density is quite low<br>
@@ -708,5 +708,5 @@ _refugees (country of origin)_: 12,540 (Tibet/China), 6,365 (Bhutan) (2020)<br>
 _stateless persons_: undetermined (2016); note - the UNHCR is working with the Nepali Government to address the large number of individuals lacking citizenship certificates in Nepal; smaller numbers of Bhutanese Hindu refugees of Nepali origin (the Lhotshampa) who were stripped of Bhutanese nationality and forced to flee their country in the late 1980s and early 1990s - and undocumented Tibetan refugees who arrived in Nepal prior to the 1990s - are considered stateless<br>
 
 **Illicit drugs**<br>
-illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West<br>
+<p>illicit producer of cannabis and hashish for the domestic and international drug markets; transit point for opiates from Southeast Asia to the West</p><br>
 

@@ -62,14 +62,14 @@ _other_: 37.7% (2018 est.)<br>
 **Irrigated land**<br>
 290 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Chad) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Chad) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Population distribution**<br>
 population concentrated in the west and north, with the interior of the country sparsely populated as shown in this population distribution map<br>
@@ -743,7 +743,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 332,594 (Central African Republic), 118,728 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 333,409 (Central African Republic), 118,996 (Nigeria) (2021)<br>
 _IDPs_: 1,052,591 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

@@ -66,9 +66,6 @@ _other_: 14.2% (2018 est.)<br>
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
-**Major rivers (by length in km)**<br>
-Orinoco (shared with Colombia and Venezuela) - 2,101 km;&nbsp;<br>
-
 **Population distribution**<br>
 population is heavily concentrated in the northeast in and around Georgetown, with noteable concentrations along the Berbice River to the east; the remainder of the country is sparsely populated<br>
 
@@ -280,9 +277,6 @@ _vectorborne diseases_: dengue fever and malaria<br>
 _municipal solid waste generated annually_: 179,252 tons (2010 est.)<br>
 _municipal solid waste recycled annually_: 968 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 0.5% (2010 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Orinoco (shared with Colombia and Venezuela) - 2,101 km;&nbsp;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -672,13 +666,13 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 1.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Guyana Defense Force has approximately 3,000 active personnel (2021)<br>
+the Guyana Defense Force has approximately 4,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US; since 2000, Guyana has received small amounts of military equipment from Brazil, China, and the UK (2020)<br>
 
 **Military service age and obligation**<br>
-limited information; 18 years of age or older for voluntary military service; no conscription (2019)<br>
+18 years of age or older for voluntary military service; no conscription (2021)<br>
 
 ## Transnational Issues
 
@@ -686,8 +680,8 @@ limited information; 18 years of age or older for voluntary military service; no
 <p>all of the area west of the Essequibo River is claimed by Venezuela preventing any discussion of a maritime boundary; Guyana has expressed its intention to join Barbados in asserting claims before UN Convention on the Law of the Sea (UNCLOS) that Trinidad and Tobago's maritime boundary with Venezuela extends into their waters; Suriname claims a triangle of land between the New and Kutari/Koetari Rivers in a historic dispute over the headwaters of the Courantyne</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,300 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2020)<br>
+_refugees (country of origin)_: 24,500 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
 
 **Illicit drugs**<br>
-transshipment point for narcotics from South America - primarily Venezuela - to Europe and the US; producer of cannabis; rising money laundering related to drug trafficking and human smuggling<br>
+<p>transshipment point for cocaine destined for the United States, Canada, the Caribbean, Europe, and West Africa; growing domestic drug consumption problem</p><br>
 

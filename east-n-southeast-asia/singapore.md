@@ -207,9 +207,9 @@ NA<br>
 
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
-_total population_: 97.3%<br>
+_total population_: 97.5%<br>
 _male_: 98.9%<br>
-_female_: 95.9% (2018)<br>
+_female_: 96.1% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
@@ -689,5 +689,5 @@ the International Maritime Bureau reports the territorial and offshore waters in
 _stateless persons_: 1,109 (2020)<br>
 
 **Illicit drugs**<br>
-drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering<br>
+<p>drug abuse limited because of aggressive law enforcement efforts, including carrying out death sentences; as a transportation and financial services hub, Singapore is vulnerable, despite strict laws and enforcement, as a venue for money laundering</p><br>
 

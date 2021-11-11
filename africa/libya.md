@@ -650,13 +650,13 @@ note - in transition; the Government of National Accord (GNA) has various ground
 not available<br>
 
 **Military and security service personnel strengths**<br>
-not available<br>
+estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
 both the forces of the Government of National Accord and the Libyan National Army are largely equipped with weapons of Russian or Soviet origin; as of 2020, Russia, Turkey, and the UAE were reportedly providing weapons and military equipment to the forces in Libya (2020)<br>
 
 **Military - note**<br>
-as of late 2020, there were at least 10,000 foreign mercenaries and proxy forces estimated to be deployed in Libya to bolster both GNA- and LNA-aligned forces (2020)<br>
+as of late 2020, there were at least 10,000 and as many as 20,000 foreign mercenaries and proxy forces estimated to be deployed in Libya to bolster both GNA- and LNA-aligned forces<br>
 
 ## Terrorism
 

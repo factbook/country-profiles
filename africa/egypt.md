@@ -64,17 +64,17 @@ _other_: 96.3% (2018 est.)<br>
 **Irrigated land**<br>
 36,500 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
-**Major aquifers**<br>
-Nubian Aquifer System<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
 Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
+
+**Major aquifers**<br>
+Nubian Aquifer System<br>
 
 **Population distribution**<br>
 approximately 95% of the population lives within 20 km of the Nile River and its delta; vast areas of the country remain sparsely populated or uninhabited as shown in this population distribution map<br>
@@ -750,5 +750,5 @@ _refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 134,95
 _stateless persons_: 10 (2020)<br>
 
 **Illicit drugs**<br>
-transit point for cannabis, heroin, and opium moving to Europe, Israel, and North Africa; transit stop for Nigerian drug couriers; concern as money laundering site due to lax enforcement of financial regulations<br>
+<p>major source of precursor chemicals used in the production of illicit narcotics</p><br>
 

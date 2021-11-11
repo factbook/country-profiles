@@ -63,11 +63,11 @@ _other_: 21.5% (2018 est.)<br>
 **Irrigated land**<br>
 14,280 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Euphrates (shared with Iran, Iraq, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Iran) - 1,950 km;&nbsp;<br>
 
 **Population distribution**<br>
 significant population density along the Mediterranean coast; larger concentrations found in the major cities of Damascus, Aleppo (the country's largest city), and Hims (Homs); more than half of the population lives in the coastal plain, the province of Halab, and the Euphrates River valley<br>
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 112,500 tons (2010 est.)<br>
 _percent of municipal solid waste recycled_: 2.5% (2010 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Iran, Iraq, and Turkey) - 3,596 km; Tigris (shared with Iraq, Turkey, and Iran) - 1,950 km;&nbsp;<br>
+Euphrates (shared with Turkey [s], Iran, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -701,5 +701,5 @@ _current situation_: due to Syria&rsquo;s civil war, hundreds of thousands of Sy
 _tier rating_: Tier 3 &mdash; Syria does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government does not hold any traffickers, including complicit officials, criminally accountable for trafficking; no trafficking victims were identified or received protection during the reporting period; government and pro-Syrian militias continued to forcibly recruit and use child soldiers; the government does not prevent armed opposition forces and designated terrorist organizations from recruiting children; authorities continued to arrest, detain, and severely abuse trafficking victims, including child soldiers, and punished them for unlawful acts traffickers compelled them to commit (2020)<br>
 
 **Illicit drugs**<br>
-a transit point for opiates, hashish, and cocaine bound for regional and Western markets; weak anti-money-laundering controls and bank privatization may leave it vulnerable to money laundering<br>
+source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan<br>
 

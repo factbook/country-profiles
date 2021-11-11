@@ -214,7 +214,7 @@ NA<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 99.9%<br>
 _male_: 99.9%<br>
-_female_: 99.9% (2015)<br>
+_female_: 99.9% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>

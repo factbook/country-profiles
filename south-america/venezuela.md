@@ -64,14 +64,14 @@ _other_: 23.4% (2018 est.)<br>
 **Irrigated land**<br>
 10,550 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
 Negro (shared with Colombia and Brazil) - 2,250 km; Orinoco (shared with Colombia and Guyana) - 2,101 km;<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
 
 **Population distribution**<br>
 most of the population is concentrated in the northern and western highlands along an eastern spur at the northern end of the Andes, an area that includes the capital of Caracas<br>
@@ -715,5 +715,5 @@ _current situation_: Venezuela is a source, transit, and destination country for
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
 
 **Illicit drugs**<br>
-small-scale illicit producer of opium and coca for the processing of opiates and coca derivatives; however, large quantities of cocaine, heroin, and marijuana transit the country from Colombia bound for US and Europe; significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; active eradication program primarily targeting opium; increasing signs of drug-related activities by Colombian insurgents on border<br>
+<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government reportedly complicity with illegal armed narcotrafficking groups with practically nonexistent international drug control cooperation;  significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; active eradication program primarily targeting opium; increasing signs of drug-related activities by Colombian insurgents on border</p><br>
 

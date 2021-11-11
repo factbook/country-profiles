@@ -64,11 +64,11 @@ _other_: 12% (2018 est.)<br>
 **Irrigated land**<br>
 21,670 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
-
 **Major rivers (by length in km)**<br>
 Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Moldova) - 2,888 km; Dnieper (shared with Russia and Belarus) - 2,287 km; Don (shared with Russia) - 1,870 km; Dniester (shared with Moldova) - 1,411 km; Vistula (shared with Poland and Belarus) - 1,213 km<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
 
 **Population distribution**<br>
 densest settlement in the eastern (Donbas) and western regions; noteable concentrations in and around major urban areas of Kyiv, Kharkiv, Donets'k, Dnipropetrovs'k, and Odesa<br>
@@ -727,5 +727,5 @@ _IDPs_: 734,000 (Russian-sponsored separatist violence in Crimea and eastern Ukr
 _stateless persons_: 35,875 (2020); note - citizens of the former USSR who were permanently resident in Ukraine were granted citizenship upon Ukraine's independence in 1991, but some missed this window of opportunity; people arriving after 1991, Crimean Tatars, ethnic Koreans, people with expired Soviet passports, and people with no documents have difficulty acquiring Ukrainian citizenship; following the fall of the Soviet Union in 1989, thousands of Crimean Tatars and their descendants deported from Ukraine under the STALIN regime returned to their homeland, some being stateless and others holding the citizenship of Uzbekistan or other former Soviet republics; a 1998 bilateral agreement between Ukraine and Uzbekistan simplified the process of renouncing Uzbek citizenship and obtaining Ukrainian citizenship<br>
 
 **Illicit drugs**<br>
-limited cultivation of cannabis and opium poppy, mostly for CIS consumption; some synthetic drug production for export to the West; limited government eradication program; used as transshipment point for opiates and other illicit drugs from Africa, Latin America, and Turkey to Europe and Russia; Ukraine has improved anti-money-laundering controls, resulting in its removal from the Financial Action Task Force's (FATF's) Noncooperative Countries and Territories List in February 2004; Ukraine's anti-money-laundering regime continues to be monitored by FATF<br>
+<p>a transit country for illicit drug trafficking into the European Union due to its location amidst several important trafficking routes into western Europe, ports on the Black and Azov seas, extensive river routes, and porous northern and eastern borders; South American cocaine moves through Ukrainian seaports and airports; secret amphetamine and methamphetamine laboratories supply the local market</p><br>
 
