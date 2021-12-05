@@ -225,13 +225,13 @@ _female_: 92.5% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2015)<br>
+_male_: 14 years<br>
+_female_: 15 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.8%<br>
-_male_: 6.9%<br>
-_female_: 12% (2019 est.)<br>
+_total_: 11.1%<br>
+_male_: 8.7%<br>
+_female_: 15.4% (2020 est.)<br>
 
 ## Environment
 
@@ -603,15 +603,15 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,195,840<br>
-_subscriptions per 100 inhabitants_: 13.15 (2019 est.)<br>
+_total subscriptions_: 2,063,044<br>
+_subscriptions per 100 inhabitants_: 11.69 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 15,853,100<br>
-_subscriptions per 100 inhabitants_: 94.97 (2019 est.)<br>
+_total subscriptions_: 15,485,366<br>
+_subscriptions per 100 inhabitants_: 87.77 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2021) (2020)<br>
+_general assessment_: Ecuador&rsquo;s remote and mountainous geography lends challenges to tele-density; government-owned provider to improve fixed-line and LTE infrastructure, with emphasis on fiber expansion from urban to rural areas and installation of a 5G network; small telecom market dominated by the non-competitive mobile sector; inadequate fixed-line infrastructure and slowed fixed-line broadband services (2020)<br>
 _domestic_: fixed-line services with digital networks provided by multiple telecommunications operators; fixed-line teledensity stands at about 13 per 100 persons and mobile-cellular use has surged and subscribership has reached 91 per 100 persons (2019)<br>
 _international_: country code - 593; landing points for the PAN-AM, PCCS, America Movil-Telxius West&nbsp;Coast&nbsp;Cable&nbsp;and SAm-1 submarine cables that provide links to South and Central America, and extending onward to&nbsp;the Caribbean&nbsp;and the US;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -627,8 +627,8 @@ _total_: 9,448,692<br>
 _percent of population_: 57.27% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,092,458<br>
-_subscriptions per 100 inhabitants_: 12.53 (2019 est.)<br>
+_total_: 2,346,923 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.3 (2020 est.)<br>
 
 ## Transportation
 
@@ -677,8 +677,8 @@ _unpaved_: 35,055 km (2015)<br>
 1,500 km (most inaccessible) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 147<br>
-_by type_: container ship 1, general cargo 7, oil tanker 29, other 110 (2020)<br>
+_total_: 145<br>
+_by type_: container ship 1, general cargo 7, oil tanker 27, other 110 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Esmeraldas, Manta, Puerto Bolivar<br>
@@ -708,6 +708,9 @@ the International Maritime Bureau continues to report the territorial and offsho
 
 **Military service age and obligation**<br>
 18 years of age for selective conscript military service; conscription has been suspended; 18 years of age for voluntary military service; Ecuadorian birth requirement; 1-year service obligation; females have been allowed to serve in all branches since 2012 (2019)<br>
+
+**Military - note**<br>
+<p>border conflicts with Peru dominated the military’s focus until the late 1990s; as of 2021, border security remained a priority, but in more recent years, security challenges have shifted towards counterinsurgency and counter-narcotics operations, particularly in the northern border area where violence and other criminal activity related to terrorism, insurgency, and narco-trafficking in Colombia, as well as refugees from Venezuela, has spilled over the border; troop deployments along the border with Colombia were scaled back following the 2016 signing of a peace agreement between the Colombian Government and the Revolutionary Armed Forces of Colombia (FARC) terrorist group (see Appendix T), but recent violence associated with FARC dissidents to the agreement have led Ecuador and Colombia to reinforce their shared border; since 2012, the Ecuadorian Government has also expanded the military’s role in general public security and counter-narcotics operations, in part due to police corruption and ineffectiveness</p> <p>the military has had a large role in Ecuador’s political history; it ruled the country from 1963-1966 and 1972-1979, and supported a dictatorship in 1970-1972; during the 1980s, the military remained loyal to the civilian government, but civilian-military relations were at times tenuous, and the military had considerable autonomy from civilian oversight; it was involved in coup attempts in 2000 and 2010</p> <p> </p><br>
 
 ## Transnational Issues
 

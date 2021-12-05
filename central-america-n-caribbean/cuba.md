@@ -219,7 +219,7 @@ _female_: 99.8% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2020)<br>
 
 **People - note**<br>
 illicit emigration is a continuing problem; Cubans attempt to depart the island and enter the US using homemade rafts, alien smugglers, direct flights, or falsified visas; Cubans also use non-maritime routes to enter the US including direct flights to Miami and overland via the southwest border; the number of Cubans migrating to the US surged after the announcement of normalization of US-Cuban relations in late December 2014 but has decreased since the end of the so-called "wet-foot, dry-foot" policy on 12 January 2017<br>
@@ -582,15 +582,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,447,134<br>
-_subscriptions per 100 inhabitants_: 13.05 (2019 est.)<br>
+_total subscriptions_: 1,502,230 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.26 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,042,629<br>
-_subscriptions per 100 inhabitants_: 54.5 (2019 est.)<br>
+_total subscriptions_: 6,661,763 (2020)<br>
+_subscriptions per 100 inhabitants_: 58.82 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet available in Havana, though costs are too high for most Cubans;  international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)</p> (2020)<br>
+_general assessment_: state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet available in Havana, though costs are too high for most Cubans;&nbsp; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2020)<br>
 _domestic_: fixed-line density remains low at about 13 per 100 inhabitants; mobile-cellular service is expanding to about 53 per 100 persons (2019)<br>
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -607,8 +607,8 @@ _percent of population_: 57.15% (July 2018 est.)<br>
 <strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 182,732<br>
-_subscriptions per 100 inhabitants_: 1.65 less than 1 (2019 est.)<br>
+_total_: 231,654 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.05 (2020 est.)<br>
 
 ## Transportation
 
@@ -655,8 +655,8 @@ _unpaved_: 40,000 km (2001)<br>
 240 km (almost all navigable inland waterways are near the mouths of rivers) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 55<br>
-_by type_: general cargo 12, oil tanker 6, other 37 (2020)<br>
+_total_: 59<br>
+_by type_: general cargo 12, oil tanker 7, other 40 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, Nuevitas Bay, Santiago de Cuba<br>

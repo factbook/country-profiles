@@ -63,7 +63,7 @@ _forest_: 54.3% (2018 est.)<br>
 860 sq km (2014)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -282,7 +282,7 @@ _animal contact diseases_: rabies<br>
 _municipal solid waste generated annually_: 4,213,644 tons (2012 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s], Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Okavango river source (shared with Namibia and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -687,7 +687,7 @@ _unpaved_: 12,400 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 54<br>
-_by type_: general cargo 14, oil tanker 8, other 32 (2020)<br>
+_by type_: general cargo 13, oil tanker 8, other 33 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cabinda, Lobito, Luanda, Namibe<br>
@@ -714,13 +714,16 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 **Military service age and obligation**<br>
 20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2019)<br>
 
+**Military - note**<br>
+<p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania)&nbsp; (2021)<br>
+_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

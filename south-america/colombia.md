@@ -65,7 +65,7 @@ _other_: 8.1% (2018 est.)<br>
 10,900 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -191,7 +191,7 @@ _unimproved: total_: total: 2.7% of population (2017 est.)<br>
 2.19 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-1.7 beds/1,000 population (2017)<br>
+1.7 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.3% of population<br>
@@ -234,12 +234,12 @@ _female_: 95.9% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 20%<br>
-_male_: 15.9%<br>
-_female_: 25.4% (2019 est.)<br>
+_total_: 25.8%<br>
+_male_: 20.7%<br>
+_female_: 33% (2020 est.)<br>
 
 ## Environment
 
@@ -288,7 +288,7 @@ _municipal solid waste recycled annually_: 2,089,821 tons (2013 est.)<br>
 _percent of municipal solid waste recycled_: 17.2% (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rio Negro river source (shared with Venezuela and Brazil [m]) - 2,250 km; Orinoco (shared with Venezuela [s]) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -354,12 +354,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018); the president is both chief of state and head of government<br>
 _head of government_: President Ivan DUQUE Marquez (since 7 August 2018); Vice President Marta Lucia RAMIREZ Blanco (since 7 August 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held in 2022); note - political reform in 2015 eliminated presidential reelection<br>
+_elections/appointments_: president directly elected by absolute majority vote in 2 rounds if needed for a single 4-year term; election last held on 27 May 2018 with a runoff held on 17 June 2018 (next to be held on 29 May 2022); note - political reform in 2015 eliminated presidential reelection<br>
 _election results_: <em><br>2018:</em> Ivan DUQUE Marquez elected president in second round; percent of vote - Ivan DUQUE Marquez (CD) 54%, Gustavo PETRO (Humane Colombia) 41.8%, other/blank/invalid 4.2%<br><br><em>2014:</em> Juan Manuel SANTOS Calderon reelected president in second round; percent of vote - Juan Manuel SANTOS Calderon (U Party) 51.0%, Oscar Ivan ZULUAGA (CD) 45.0%, other 4.0%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Congress or Congreso consists of:<br>Senate or Senado (108 seats; 100 members elected in a single nationwide constituency by party-list proportional representation vote, 2 members elected in a special nationwide constituency for indigenous communities, 5 members of the People's Alternative Revolutionary Force (FARC) political party for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up presidential candidate in the recent election; all members serve 4-year terms)<br>Chamber of Representatives or Camara de Representantes (172 seats; 165 members elected in multi-seat constituencies by party-list proportional representation vote, 5 members of the FARC for the 2018 and 2022 elections only as per the 2016 peace accord, and 1 seat reserved for the runner-up vice presidential candidate in the recent election; all members serve 4-year terms)<br>
-_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held in March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held in March 2022)<br>
+_elections_: <strong> </strong><br>Senate - last held on 11 March 2018 (next to be held on 13 March 2022)<br>Chamber of Representatives - last held on 11 March 2018 (next to be held on 13 March 2022)<br>
 _election results_: <br>Senate - percent of vote by party - NA; seats by party - CD 19, CR 16, PC 15, PL 14, U Party 14, Green Alliance 10, PDA 5, other 9; composition - men 77, women 31, percent of women 28.7%<br>Chamber of Representatives - percent of vote by party - NA; seats by party - PL 35, CD 32, CR 30, U Party 25, PC 21, Green Alliance 9, other 13; composition - men 147, women 25, percent of women 14.5%; total Congress percent of women 20%<br>
 
 **Judicial branch**<br>
@@ -619,15 +619,15 @@ _electrification - rural areas_: 86% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,012,306<br>
-_subscriptions per 100 inhabitants_: 14.23 (2019 est.)<br>
+_total subscriptions_: 7,248,026 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 66,283,175<br>
-_subscriptions per 100 inhabitants_: 134.47 (2019 est.)<br>
+_total subscriptions_: 67,672,570 (2020)<br>
+_subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Colombia’s telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 5G, focusing on infrastructure in small urban centers and rural areas; national ICT Plan increased broadband and fiber connectivity; operators testing 5G and completed 20k terrestrial cable connecting 80% of the country; benefit due to access to commercial submarine cable (2021)</p> (2020)<br>
+_general assessment_: Colombia&rsquo;s telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 5G, focusing on infrastructure in small urban centers and rural areas; national ICT Plan increased broadband and fiber connectivity; operators testing 5G and completed 20k terrestrial cable connecting 80% of the country; benefit due to access to commercial submarine cable (2020)<br>
 _domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is about 132 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2019)<br>
 _international_: country code - 57; landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1&nbsp;submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -643,8 +643,8 @@ _total_: 29,990,017<br>
 _percent of population_: 62.26% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,949,852<br>
-_subscriptions per 100 inhabitants_: 14.1 (2019 est.)<br>
+_total_: 7,764,772 (2020)<br>
+_subscriptions per 100 inhabitants_: 15.26 (2020 est.)<br>
 
 ## Transportation
 
@@ -693,8 +693,8 @@ _total_: 206,500 km (2016)<br>
 24,725 km (18,300 km navigable; the most important waterway, the River Magdalena, of which 1,488 km is navigable, is dredged regularly to ensure safe passage of cargo vessels and container barges) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 120<br>
-_by type_: general cargo 22, oil tanker 8, other 90 (2020)<br>
+_total_: 122<br>
+_by type_: general cargo 23, oil tanker 7, other 92 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Cartagena, Santa Marta, Turbo<br>Pacific Ocean - Buenaventura<br>
@@ -744,9 +744,9 @@ National Liberation Army (ELN); Revolutionary Armed Forces of Colombia (FARC)<br
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 1,742,927 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or received alternative legal stay) (2021)<br>
-_IDPs_: 8,154,542 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
+_IDPs_: 8,176,460 (conflict between government and illegal armed groups and drug traffickers since 1985) (2021)<br>
 _stateless persons_: 11 (2020)<br>
 
 **Illicit drugs**<br>
-<p>Colombia is the world’s top cocaine producer; exports and is a source of heroin and marijuana; coca cultivation was estimated at 245,000 hectares (ha) in 2020; potential pure cocaine production reached 1,010 mega tons in 2020</p> <p> </p><br>
+<p>Colombia is the world’s top cocaine producer; exports and is a source of heroin and marijuana; coca cultivation was estimated at 245,000 hectares (ha) in 2020; potential pure cocaine production reached 1,010 metric tons in 2020</p> <p> </p><br>
 

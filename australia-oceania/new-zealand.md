@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.59 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-2.7 beds/1,000 population (2017)<br>
+2.6 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,14 +216,14 @@ NA<br>
 6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 19 years<br>
-_male_: 18 years<br>
-_female_: 20 years (2018)<br>
+_total_: 20 years<br>
+_male_: 20 years<br>
+_female_: 21 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 11.3%<br>
-_male_: 11.1%<br>
-_female_: 11.5% (2019 est.)<br>
+_total_: 12.4%<br>
+_male_: 12.2%<br>
+_female_: 12.6% (2020 est.)<br>
 
 ## Environment
 
@@ -595,7 +595,7 @@ _total subscriptions_: 6,550,687<br>
 _subscriptions per 100 inhabitants_: 134.93 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>excellent domestic and international systems with progress in mobile services; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enabled network capabilities to propel the digital economy, e-government, and e-commerce across the country; new satellite to improve telecom in the Asia Pacific region; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: excellent domestic and international systems with progress in mobile services; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enabled network capabilities to propel the digital economy, e-government, and e-commerce across the country; new satellite to improve telecom in the Asia Pacific region; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: fixed-line 37 per 100 and mobile-cellular telephone subscribership 135 per 100 persons (2019)<br>
 _international_: country code - 64; landing points for the Southern Cross NEXT, Aqualink, Nelson-Levin, SCCN and Hawaiki submarine cable system providing links to Australia, Fiji, American Samoa, Kiribati, Samo, Tokelau, US and around New Zealand; satellite earth stations - 8 (1 Inmarsat - Pacific Ocean, 7 other) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,8 +611,8 @@ _total_: 4,340,672<br>
 _percent of population_: 90.81% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.647 million<br>
-_subscriptions per 100 inhabitants_: 34 (2018 est.)<br>
+_total_: 1.647 million (2018)<br>
+_subscriptions per 100 inhabitants_: 34.72 (2018 est.)<br>
 
 ## Transportation
 
@@ -655,8 +655,8 @@ _paved_: 61,600 km (includes 199 km of expressways) (2017)<br>
 _unpaved_: 32,400 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 114<br>
-_by type_: container ship 1, general cargo 12, oil tanker 4, other 97 (2020)<br>
+_total_: 115<br>
+_by type_: container ship 1, general cargo 12, oil tanker 4, other 98 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga, Wellington<br>
@@ -686,7 +686,7 @@ up to 220 Antarctica (summer season only) (2021)<br>
 17 years of age for voluntary military service; soldiers cannot be deployed until the age of 18; no conscription (2021)<br>
 
 **Military - note**<br>
-<p>New Zealand’s closest security partner is Australia; New Zealand is a member of the 1951 ANZUS Treaty Alliance with Australia and the US<br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>
+<p>New Zealand has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; however, the US suspended its ANZUS security obligations to New Zealand in 1986 after New Zealand implemented a policy barring nuclear-armed and nuclear-powered warships from its ports; the US and New Zealand signed the Wellington Declaration in 2010, which reaffirmed close ties between the two countries, and in 2012 signed the Washington Declaration, which provided a framework for future security cooperation and defense dialogues; in 2016, a US naval ship conducted the first bilateral warship visit to New Zealand since the 1980s<br><br>New Zealand has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br></p> <p> </p><br>
 
 ## Terrorism
 

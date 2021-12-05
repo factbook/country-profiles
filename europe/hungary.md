@@ -65,7 +65,7 @@ _other_: 18.6% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.41 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-7 beds/1,000 population (2017)<br>
+7 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -221,14 +221,14 @@ _male_: 99.1%<br>
 _female_: 99% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2018)<br>
+_total_: 13 years<br>
+_male_: 12 years<br>
+_female_: 14 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 11.4%<br>
+_total_: 12.8%<br>
 _male_: 11.9%<br>
-_female_: 10.6% (2019 est.)<br>
+_female_: 14% (2020 est.)<br>
 
 ## Environment
 
@@ -278,7 +278,7 @@ _percent of municipal solid waste recycled_: 25.9% (2015 est.)<br>
 _Fresh water lake(s)_: Lake Balaton - 590 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -604,15 +604,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,048,754<br>
-_subscriptions per 100 inhabitants_: 31.16 (2019 est.)<br>
+_total subscriptions_: 2,970,347 (2020)<br>
+_subscriptions per 100 inhabitants_: 30.75 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,272,694<br>
-_subscriptions per 100 inhabitants_: 105 (2019 est.)<br>
+_total subscriptions_: 10,332,660 (2020)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2021) (2020)<br>
+_general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2020)<br>
 _domestic_: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, 31 per 100 persons, while mobile-cellular is 106 per 100 (2019)<br>
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -628,8 +628,8 @@ _total_: 7,474,413<br>
 _percent of population_: 76.07% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,189,689<br>
-_subscriptions per 100 inhabitants_: 32.6 (2019 est.)<br>
+_total_: 3,265,308 (2020)<br>
+_subscriptions per 100 inhabitants_: 33.8 (2020 est.)<br>
 
 ## Transportation
 
@@ -680,7 +680,7 @@ _unpaved_: 126,514 km (2014)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2020)<br>
+_by type_: other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danube)<br>

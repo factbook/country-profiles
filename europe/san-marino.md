@@ -188,9 +188,9 @@ _male_: 99.9%<br>
 _female_: 99.9% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2012)<br>
+_total_: 12 years<br>
+_male_: 13 years<br>
+_female_: 12 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 27.4%<br>

@@ -64,7 +64,7 @@ _other_: 29.7% (2018 est.)<br>
 _Fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Kazakhstan, and Tajikistan) - 3,078 km; Amu Darya (shared with Turkmenistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -219,7 +219,7 @@ _male_: 100%<br>
 _female_: 100% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
+_total_: 12 years<br>
 _male_: 13 years<br>
 _female_: 12 years (2019)<br>
 
@@ -265,7 +265,7 @@ _municipal solid waste generated annually_: 4 million tons (2016 est.)<br>
 _Fresh water lake(s)_: Aral Sea (shared with Kazakhstan) - largely dried up<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Kazakhstan, and Tajikistan) - 3,078 km; Amu Darya (shared with Turkmenistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Syr Darya (shared with Kyrgyzstan [s], Tajikistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river mouth (shared with Tajikistan [s], Afghanistan, and Turkmenistan) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -335,8 +335,8 @@ _election results_: <em><br>2021</em>: Shavkat MIRZIYOYEV reelected president in
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
-_elections_: <br>Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
+_elections_: Senate - last held 16-17 January 2020 (next to be held in 2025)<br>Legislative Chamber - last held on 22 December 2019 and 5 January 2020 (next to be held in December 2024)<br>
+_election results_: Senate - percent of vote by party - NA; seats by party - NA; composition - men 77, women 23, percent of women 23%<br>Legislative Chamber - percent of vote by party - NA; seats by party - LDPU 53, National Revival Democratic Party 36, Adolat 24, PDP 22, Ecological Movement 15; composition - men 83, women, 17, percent of women 17%<br>
 <strong>note:</strong> all parties in the Supreme Assembly support President Shavkat MIRZIYOYEV<br>
 
 **Judicial branch**<br>
@@ -599,7 +599,7 @@ _total subscriptions_: 33.38 million<br>
 _subscriptions per 100 inhabitants_: 110.15 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely&nbsp;reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2021) (2020)<br>
+_general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line 11 per 100 person and mobile-cellular 101 per 100; the state-owned telecommunications company, Uzbek Telecom, owner of the fixed-line telecommunications system, has used loans from the Japanese government and the China Development Bank to upgrade fixed-line services including conversion to digital exchanges; mobile-cellular services are provided by 2 private and 3 state-owned operators with a total subscriber base of 22.8 million as of January 2018 (2019)<br>
 _international_: country code - 998; linked by fiber-optic cable or microwave radio relay with CIS member states and to other countries by leased connection via the Moscow international gateway switch; the country also has a link to the Trans-Asia-Europe (TAE) fiber-optic cable; Uzbekistan has supported the national fiber-optic backbone project of Afghanistan since 2008<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -666,7 +666,8 @@ _river port(s)_: Termiz (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Internal Affairs: Internal Security Troops (2021)<br>
+Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Interior: police, border forces (2021)<br>
+note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
@@ -701,5 +702,5 @@ _current situation_: Uzbekistan is a source country for men, women, and children
 _tier rating_: Tier 2 Watch List &mdash; Uzbekistan does not fully comply with the minimum standards for the elimination of trafficking but is making significant efforts to do so; government efforts included addressing the use of forced adult labor during the cotton harvest by increasing pay to laborers and improving working conditions for voluntary workers and ceasing the forced use of students, teachers, and health care workers; third-party monitors were allowed access to the harvest to view changes; the government created a National Commission on Trafficking chaired by the regional governor in every area of the country; however, reports continued of corrupt officials requiring public sector employees to pick cotton or pay for a replacement worker with extorted penalties paid to them; fewer cases of traffickers were investigated and prosecuted, fewer victims of trafficking were identified, and fewer convictions carried a prison sentence; authorities conducted no investigations against corrupt officials extorting money during the cotton harvest (2020)<br>
 
 **Illicit drugs**<br>
-<p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, marijuana, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>
+<p>transit country for Afghan opium and heroin destined for Russia and the European Union; also transit country for hashish, cannabis products, New Psychoactive Substances (NPS), and synthetic drugs; cannabis and poppy are cultivated in small amounts for personal use and local sale</p><br>
 

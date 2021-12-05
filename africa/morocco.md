@@ -253,7 +253,7 @@ _female_: 64.6% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 14 years (2019)<br>
+_female_: 14 years (2020)<br>
 <strong>note:</strong> does not include data from the former Western Sahara<br>
 
 **Unemployment, youth ages 15-24**<br>
@@ -639,15 +639,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,054,545<br>
-_subscriptions per 100 inhabitants_: 5.83 (2019 est.)<br>
+_total subscriptions_: 2,357,286 (2020)<br>
+_subscriptions per 100 inhabitants_: 6.39 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 46,666,722<br>
-_subscriptions per 100 inhabitants_: 132.51 (2019 est.)<br>
+_total subscriptions_: 49,421,023 (2020)<br>
+_subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; 5G tests underway; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco’s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment and video displays from China (2021)</p> (2020)<br>
+_general assessment_: despite Morocco's economic progress, the country suffers from high unemployment and illiteracy affecting telecom market, particularly in rural areas; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay; one of the most state-of-the-art markets in Africa; high mobile penetration rates in the region with low cost for broadband Internet access; improvement in LTE reach and capabilities; 5G tests underway; mobile Internet accounts for 93% of all Internet connections; World Bank provided funds for Morocco&rsquo;s digital transformation; government supported digital education during pandemic; submarine cables and satellite provide connectivity to Asia, Africa, the Middle East, Europe, and Australia; importer of broadcasting equipment and video displays from China (2020)<br>
 _domestic_: fixed-line teledensity is&nbsp;6 per 100 persons and&nbsp;mobile-cellular subscribership exceeds 128 per 100 persons; good system composed of open-wire lines, cables, and microwave radio relay links; principal switching centers are Casablanca and Rabat (2019)<br>
 _international_: country code - 212; landing point for the Atlas Offshore, Estepona-Tetouan, Canalink&nbsp;and SEA-ME-WE-3 fiber-optic telecommunications undersea cables that provide connectivity to Asia,&nbsp;Africa,&nbsp;the Middle East, Europe and Australia; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -663,8 +663,8 @@ _total_: 22,596,729<br>
 _percent of population_: 64.8% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,751,341<br>
-_subscriptions per 100 inhabitants_: 4.97 (2019 est.)<br>
+_total_: 2,102,434 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.7 (2020 est.)<br>
 
 **Communications - note**<br>
 the University of al-Quarawiyyin Library in Fez is recognized as the oldest existing, continually operating library in the world, dating back to A.D. 859; among its holdings are approximately 4,000 ancient Islamic manuscripts<br>
@@ -712,8 +712,8 @@ _standard gauge_: 2,067 km 1.435-m gauge (1,022 km electrified) (2014)<br>
 _total_: 57,300 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 88<br>
-_by type_: container ship 7, general cargo 4, oil tanker 2, other 75 (2020)<br>
+_total_: 93<br>
+_by type_: container ship 6, general cargo 5, oil tanker 2, other 80 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dakhla, Agadir, Casablanca, Jorf Lasfar, Laayoune (El Aaiun), Mohammedia, Safi, Tangier<br>

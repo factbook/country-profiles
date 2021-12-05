@@ -425,6 +425,10 @@ _total_: 2<br>
 _1,524 to 2,437 m_: 1<br>
 _914 to 1,523 m_: 1 (2019)<br>
 
+**Merchant marine**<br>
+_total_: 1<br>
+_by type_: other 1 (2021)<br>
+
 **Ports and terminals**<br>
 _major seaport(s)_: Leava, Mata-Utu<br>
 

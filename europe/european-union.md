@@ -187,9 +187,9 @@ NA<br>
 4.7% of GDP (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16.8%<br>
-_male_: 16.8%<br>
-_female_: 16.9% (2019 est.)<br>
+_total_: 18.7%<br>
+_male_: 18.5%<br>
+_female_: 19.2% (2020 est.)<br>
 
 ## Environment
 

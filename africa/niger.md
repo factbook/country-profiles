@@ -65,7 +65,7 @@ _other_: 63.9% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Mali, and Nigeria) - 4,200 km;&nbsp;&nbsp;<br>
+Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -297,7 +297,7 @@ _percent of municipal solid waste recycled_: 4% (2005 est.)<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Chad, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Mali, and Nigeria) - 4,200 km;&nbsp;&nbsp;<br>
+Niger (shared with Guinea [s], Mali, Benin, and Nigeria [m]) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -622,11 +622,11 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 116,352<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 114,352 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,921,769<br>
+_total subscriptions_: 8,778,880 (2018)<br>
 _subscriptions per 100 inhabitants_: 40.64 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -646,7 +646,7 @@ _total_: 1,110,778<br>
 _percent of population_: 5.25% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,650<br>
+_total_: 8,650 (2017 est.)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation
@@ -689,7 +689,7 @@ _unpaved_: 15,037 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: general cargo 1 (2020)<br>
+_by type_: general cargo 1 (2021)<br>
 
 ## Military and Security
 
@@ -732,7 +732,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 186,957 (Nigeria), 61,320 (Mali) (2021)<br>
-_IDPs_: 291,061 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
+_IDPs_: 280,818 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
 
 **Illicit drugs**<br>
 <p>a transit point for illicit drugs narcotics trafficked through the Sahara; drugs from South America, particularly cocaine, heroin, cannabis products, and synthetic drugs, transit en route to European and Middle Eastern markets; synthetic opioid tramadol is shipped from Nigeria through Niger to other African countries; hashish from Morocco is trafficked to Libya, Egypt, Europe, and the Middle East; traffickers are formalized networks of Arab, Tuareg, and Toubou transportation groups</p><br>

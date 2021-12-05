@@ -502,15 +502,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 63,769<br>
-_subscriptions per 100 inhabitants_: 21.78 (2019 est.)<br>
+_total subscriptions_: 60,123 (2018)<br>
+_subscriptions per 100 inhabitants_: 32.51 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 305,233<br>
-_subscriptions per 100 inhabitants_: 104.25 (2019 est.)<br>
+_total subscriptions_: 302,673 (2018)<br>
+_subscriptions per 100 inhabitants_: 104.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>French Polynesia has one of the most advanced telecom infrastructures in the Pacific islands; high penetration of mobile broadband coverage; almost half of mobile connections on 3G, growing subscribership to 4G LTE; universal mobile penetration; host of uplink systems for the Galileo satellite network, creating hub for communications in the region and vastly improving international connectivity; submarine cable connections increase international bandwidth; additional domestic submarine cable will connect remote islands (2021)</p> (2020)<br>
+_general assessment_: French Polynesia has one of the most advanced telecom infrastructures in the Pacific islands; high penetration of mobile broadband coverage; almost half of mobile connections on 3G, growing subscribership to 4G LTE; universal mobile penetration; host of uplink systems for the Galileo satellite network, creating hub for communications in the region and vastly improving international connectivity; submarine cable connections increase international bandwidth; additional domestic submarine cable will connect remote islands (2020)<br>
 _domestic_: fixed-line subscriptions 22 per 100 persons and mobile-cellular density is roughly 104 per 100 persons (2019)<br>
 _international_: country code - 689; landing points for the NATITUA, Manatua, and Honotua submarine cables to other French Polynesian Islands, Cook Islands, Niue, Samoa and US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -526,8 +526,8 @@ _total_: 211,101<br>
 _percent of population_: 72.7% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 59,790<br>
-_subscriptions per 100 inhabitants_: 21 (2018 est.)<br>
+_total_: 59,790 (2018)<br>
+_subscriptions per 100 inhabitants_: 21.53 (2018 est.)<br>
 
 ## Transportation
 
@@ -563,7 +563,7 @@ _unpaved_: 855 km (1999)<br>
 
 **Merchant marine**<br>
 _total_: 24<br>
-_by type_: general cargo 14, other 10 (2020)<br>
+_by type_: general cargo 14, other 10 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Papeete<br>

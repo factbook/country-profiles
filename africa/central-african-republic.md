@@ -62,7 +62,7 @@ _other_: 55.7% (2018 est.)<br>
 10 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi (shared with Democratic Republic of Congo and Republic of Congo) - 2,270 km;&nbsp;<br>
+Ubangi river source (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -282,7 +282,7 @@ _exceptional shortfall in aggregate food production/supplies_: due to conflict a
 _municipal solid waste generated annually_: 1,105,983 tons (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi (shared with Democratic Republic of Congo and Republic of Congo) - 2,270 km;&nbsp;<br>
+Ubangi river source (shared with Democratic Republic of Congo and Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -686,7 +686,7 @@ note: since 2013, CAR has been under a UNSC arms embargo; the embargo bans all s
 18 years of age for military service; no conscription (2019)<br>
 
 **Military - note**<br>
-the FACA is currently assessed as unable to provide adequate internal security for the country; the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of August 2021, MINUSCA had about 15,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br>
+the 2013 coup resulted in the institutional collapse of the FACA; its forces were overwhelmed and forced to flee to neighboring countries; reportedly only 10% of the FACA returned after the coup, and it has struggled to rebuild in the years of instability since; the European Union, France, Russia, the UN, and the US are providing various levels of security assistance <br><br>in 2018, the UN Security Council approved Russian security assistance for the CAR to help train and advise FACA personnel, as well as transport them to operational areas, provide logistical support, and assist with medical evacuation; Russia sent private military contractors, and as of late 2021, there were reportedly as many as 2,300 providing assistance to the FACA, as well as performing other security roles such as guarding mines and government officials; some Russian contractors and the CAR forces they supported have been accused of carrying out indiscriminate killings, using excessive force against civilians, and looting<br><br>the UN Multidimensional Integrated Stabilization Mission in the Central African Republic (MINUSCA) has operated in the country since 2014; its peacekeeping mission includes providing security, protecting civilians, facilitating humanitarian assistance, disarming and demobilizing armed groups, and supporting the country’s fragile transitional government; in November 2019, the UN Security Council extended the mandate of the MINUSCA peacekeeping mission another year; as of August 2021, MINUSCA had about 15,000 total personnel<br><br>the European Union Training Mission in the Central African Republic (EUTM-RCA) has operated in the country since 2016; the EUTM-RCA contributes to the restructuring of the country's military and defense sector through advice, training, and educational programs; as of mid-2021, it had trained 4 territorial infantry battalions (Bataillon d’Infanterie Territorial) and 1 amphibious infantry battalion<br><br> <p> </p><br>
 
 ## Transnational Issues
 
@@ -694,6 +694,6 @@ the FACA is currently assessed as unable to provide adequate internal security f
 <p>periodic skirmishes persist over water and grazing rights among related pastoral populations along the border with southern Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,774 (Democratic Republic of Congo) (2021)<br>
-_IDPs_: 727,161 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2021)<br>
+_refugees (country of origin)_: 5,570 (Democratic Republic of Congo) (2021)<br>
+_IDPs_: 722,101 (clashes between army and rebel groups since 2005; tensions between ethnic groups) (2021)<br>
 

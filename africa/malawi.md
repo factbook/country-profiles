@@ -61,15 +61,15 @@ _other_: 6.8% (2018 est.)<br>
 **Irrigated land**<br>
 740 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,490<br>
 _Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;<br>
+Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
 
 **Population distribution**<br>
 population density is highest south of Lake Nyasa as shown in this population distribution map<br>
@@ -237,9 +237,9 @@ _male_: 11 years<br>
 _female_: 11 years (2011)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 40.5%<br>
-_male_: 33.1%<br>
-_female_: 47.7% (2017 est.)<br>
+_total_: 8.5%<br>
+_male_: 6.7%<br>
+_female_: 10.6% (2017 est.)<br>
 
 ## Environment
 
@@ -294,7 +294,7 @@ _Fresh water lake(s)_: Lake Malawi (shared with Mozambique and Tanzania) - 22,49
 _Salt water lake(s)_: Lake Chilwa - 1,040 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Angola, Zimbabwe, Mozambique, Zambia, Tanzania, and Namibia) - 2,740 km;&nbsp;<br>
+Zambezi (shared with Zambia [s], Angola, Zimbabwe, Namibia, Tanzania, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -612,15 +612,15 @@ _electrification - rural areas_: 5% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13,101<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 12,465 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,901,027<br>
-_subscriptions per 100 inhabitants_: 46.03 (2019 est.)<br>
+_total subscriptions_: 10,004,680 (2020)<br>
+_subscriptions per 100 inhabitants_: 52.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Malawi remains one of the world’s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2021)</p> (2020)<br>
+_general assessment_: Malawi remains one of the world&rsquo;s least developed countries, with few resources to build efficient fixed-line telecom infrastructure; mobile penetration low compared to region with ample opportunity for growth and competition; some mobile services to rural areas; LTE services are available; national fiber backbone near completion; progress in m-payment methods; prospect of international submarine cables from neighboring countries; importer of broadcast equipment from China (2020)<br>
 _domestic_: limited fixed-line subscribership less than 1 per 100 households; mobile-cellular services are expanding but network coverage is limited and is based around the main urban areas; mobile-cellular subscribership 48 per 100 households (2019)<br>
 _international_: country code - 265; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -636,8 +636,8 @@ _total_: 2,734,305<br>
 _percent of population_: 13.78% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,358<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 12,255 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -704,11 +704,14 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; high school equivalent required for enlisted recruits and college equivalent for officer recruits; initial engagement is 7 years for enlisted personnel and 10 years for officers (2021)<br>
 
+**Military - note**<br>
+<p>as of 2021, the Malawi Defense Force’s primary responsibility was external security; it was also tasked as necessary with carrying out policing or other domestic activities, such as disaster relief; Malawi contributes regularly to African Union and UN peace support operations</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 31,818 (Democratic Republic of the Congo) (refugees and asylum seekers), 11,873 (Burundi) (refugees and asylum seekers), 7,314 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 31,992 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,068 (Burundi) (refugees and asylum seekers), 7,392 (Rwanda) (refugees and asylum seekers) (2021)<br>
 

@@ -68,7 +68,7 @@ _other_: 23.4% (2018 est.)<br>
 _Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Negro (shared with Colombia and Brazil) - 2,250 km; Orinoco (shared with Colombia and Guyana) - 2,101 km;<br>
+Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -266,7 +266,7 @@ _municipal solid waste generated annually_: 9,779,093 tons (2010 est.)<br>
 _Salt water lake(s)_: Lago de Maracaibo - 13,010 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Negro (shared with Colombia and Brazil) - 2,250 km; Orinoco (shared with Colombia and Guyana) - 2,101 km;<br>
+Rio Negro (shared with Colombia [s] and Brazil [m]) - 2,250 km; Orinoco river source and mouth (shared with Colombia) - 2,101 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km)<br>
@@ -594,7 +594,7 @@ _total subscriptions_: 13,476,287<br>
 _subscriptions per 100 inhabitants_: 47.01 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators’ inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to government sanction and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2021)</p> (2020)<br>
+_general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to government sanction and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
 _domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line 19 per 100 and mobile-cellular telephone subscribership about 58 per 100 persons (2019)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -659,8 +659,8 @@ _total_: 96,189 km (2014)<br>
 7,100 km (Orinoco River (400 km) and Lake de Maracaibo navigable by oceangoing vessels) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 282<br>
-_by type_: bulk carrier 4, container ship 1, general cargo 26, oil tanker 21, other 230 (2020)<br>
+_total_: 281<br>
+_by type_: bulk carrier 4, container ship 1, general cargo 26, oil tanker 18, other 232 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Guaira, Maracaibo, Puerto Cabello, Punta Cardon<br>
@@ -715,5 +715,5 @@ _current situation_: Venezuela is a source, transit, and destination country for
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
 
 **Illicit drugs**<br>
-<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government reportedly complicity with illegal armed narcotrafficking groups with practically nonexistent international drug control cooperation;  significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; active eradication program primarily targeting opium; increasing signs of drug-related activities by Colombian insurgents on border</p><br>
+<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government reportedly complicity with illegal armed narcotrafficking groups with practically nonexistent international drug control cooperation;  significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; increasing signs of drug-related activities by Colombian insurgents on border</p><br>
 

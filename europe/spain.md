@@ -66,7 +66,7 @@ _other_: 9.1% (2018 est.)<br>
 38,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Tagus (shared with Portugal) - 1,006;<br>
+Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 with the notable exception of Madrid, Sevilla, and Zaragoza, the largest urban agglomerations are found along the Mediterranean and Atlantic coasts; numerous smaller cities are spread throughout the interior reflecting Spain's agrarian heritage; very dense settlement around the capital of Madrid, as well as the port city of Barcelona<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.87 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+3 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -228,12 +228,12 @@ _female_: 98.2% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
-_female_: 18 years (2018)<br>
+_female_: 18 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 32.5%<br>
-_male_: 30.9%<br>
-_female_: 34.5% (2019 est.)<br>
+_total_: 38.3%<br>
+_male_: 37.1%<br>
+_female_: 39.7% (2020 est.)<br>
 
 ## Environment
 
@@ -281,7 +281,7 @@ _municipal solid waste recycled annually_: 3,393,428 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.8% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Tagus (shared with Portugal) - 1,006;<br>
+Tagus river source (shared with Portugal [m]) - 1,006<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 4.89 billion cubic meters (2017 est.)<br>
@@ -614,7 +614,7 @@ _total subscriptions_: 55,354,944<br>
 _subscriptions per 100 inhabitants_: 117.09 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2021)</p> (2020)<br>
+_general assessment_: well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)<br>
 _domestic_: fixed-line 42 per 100 and mobile-cellular 118 telephones per 100 persons (2019)<br>
 _international_: country code - 34; landing points for the MAREA, Tata TGN-Western Europe, Pencan-9, SAT-3/WASC, Canalink, Atlantis-2, Columbus -111, Estepona-Tetouan, FEA, Balalink, ORVAL and PENBAL-5 submarine cables providing connectivity to Europe, the&nbsp;Middle East, Africa,&nbsp;South America,&nbsp;Asia, Southeast Asia&nbsp;and the&nbsp;US; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to adjacent countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -681,8 +681,8 @@ _paved_: 683,175 km (includes 16,205 km of expressways) (2011)<br>
 1,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 474<br>
-_by type_: bulk carrier 1, general cargo 36, oil tanker 25, other 412 (2020)<br>
+_total_: 478<br>
+_by type_: bulk carrier 1, general cargo 36, oil tanker 24, other 417 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Atlantic Ocean:</em> Bilbao, Huelva; Las Palmas, Santa Cruz de Tenerife (in the Canary Islands)<br><em>Mediterranean Sea:</em> Algeciras, Barcelona, Cartagena, Tarragona, Valencia <br>
@@ -732,7 +732,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>194,127 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note: </strong>194,932 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.59 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population (2017)<br>
+2.1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -218,13 +218,13 @@ _female_: 96.3% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_male_: 17 years<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 19.6%<br>
-_male_: 19.1%<br>
-_female_: 20.3% (2019 est.)<br>
+_total_: 24.9%<br>
+_male_: 23.7%<br>
+_female_: 26.6% (2020 est.)<br>
 
 ## Environment
 
@@ -330,13 +330,13 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Sebastian PINERA Echenique (since 11 March 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Sebastian PINERA Echenique (since 11 March 2018)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 19 November 2017 with a runoff held 17 December 2017 (next to be held on 21 November 2021 with runoff if need on 19 December)<br>
-_election results_: <br><em>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br><br><em>2013:</em> Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8%<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single 4-year term; election last held on 21 November 2021 with a runoff to be held on 19 December 2021 (next to be held on 23 November 2025 with runoff if need on 20 December)<br>
+_election results_: <br><em>2021: </em>Jose Antonio KAST (FSC) wins the first round of the presidential election; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; KAST and BORIC will participate in the 19 December runoff election<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br><br><em>2013:</em> Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>Senate - last held on 19 November 2017 (next to be held on 21 November 2021)<br>Chamber of Deputies - last held on 19 November 2017 (next to be held on 21 November 2021)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - New Majority Coalition (formerly known as Concertacion) 19 (PDC 6, PS 6, PPD 6, MAS 1), Let's Go Chile Coalition (formerly known as the Coalition for Change and the Alianza coalition) 15 (RN 6, UDI 8, Amplitude Party 1), independent 4; composition - men 33, women 10, percent of women 23.3%<br>Chamber of Deputies - percent of vote by party - NA; seats by party - New Majority 68 (PDC 21, PS 16, PPD 14, PC 6, PRSD 6, Citizen Left 1, independent 4), Coalition for Change 47 (UDI 29, RN 14, independent 3, EP 1), Liberal Party 1, independent 4; composition -men 120, women 35, percent of women 22.6%; note - total National Congress percent of women 22.7%<br>
+_elections_: <br>Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2;<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court president and judges (minist
 _subordinate courts_: Courts of Appeal; oral criminal tribunals; military tribunals; local police courts; specialized tribunals and courts in matters such as family, labor, customs, taxes, and electoral affairs<br>
 
 **Political parties and leaders**<br>
-Amplitude (Amplitud) [Lily PEREZ]<br>Broad Front Coalition (Frente Amplio) or FA (includes RD, PL, PH, PEV, Igualdad, and Poder) [Beatriz SANCHEZ]<br>Broad Social Movement of Leftist Citizens (includes former MAS and Izquierda Ciudadana) [Fernando ZAMORANO]<br>Christian Democratic Party or PDC [Fuad CHAHIN]<br>Citizen Power (Poder) [Karina OLIVA]<br>Communist Party of Chile or PC [Guillermo TEILLIER del Valle]<br>Democratic Revolution or RD [Rodrigo ECHECOPAR]<br>Equality Party (Igualdad) [Guillermo GONZALEZ]<br>Green Ecological Party or PEV [Felix GONZALEZ]<br>Humanist Party or PH [Octavio GONZALEZ]<br>Independent Democratic Union or UDI [Jacqueline VAN RYSSELBERGHE Herrera])<br>Independent Regionalist Democratic Party or PRI [Hugo ORTIZ de Filippi]<br>Let’s Go Chile Coalition (Chile Vamos) [Sebastian PINERA] (includes EVOPOLI, PRI, RN, UDI)<br>Liberal Party (Partido Liberal de Chile) or PL [Luis Felipe RAMOS]<br>National Renewal or RN [Mario DESBORDES]<br>New Majority Coalition (Nueva Mayoria) [Michelle BACHELET] (includes PDC, PC, PPD, PRSD, PS); note - dissolved in March 2018<br>Party for Democracy or PPD [Heraldo MUNOZ]<br>Political Evolution or EVOPOLI [Hernan LARRAIN MATTE]<br>Progressive Party or PRO [Camilo LAGOS]<br>Radical Social Democratic Party or PRSD [Carlos MALDONADO Curti],<br>Socialist Party or PS [Alvaro ELIZALDE Soto] (formerly known as Concertacion)<br>
+Approve Dignity or AD [Gabriel BORIC]<br>Broad Front Coalition (Frente Amplio) or FA (includes RD, PL, PH, PEV, Igualdad, and Poder) [Beatriz SANCHEZ]<br>Broad Social Movement of Leftist Citizens (includes former MAS and Izquierda Ciudadana) [Fernando ZAMORANO]<br>Chile We Can Do More or ChP+ [Sebastian SICHEL] (includes EVOPOLI, PRI, RN, UDI)<br>Christian Conservative Party or PCC [Antaris VARELA]<br>Christian Democratic Party or PDC [Yasna PROVOSTE]<br>Christian Social Front or FSC [Jose Antonio KAST] (includes PCC, PLR)<br>Citizen Power (Poder) [Karina OLIVA]<br>Citizens or CIU [María Ignacia GOMEZ Martinez]<br>Commons (Comunes) [Javiera TORO] <br>Communist Party of Chile or PCCh [Guillermo TEILLIER del Valle]<br>Democratic Revolution or RD [Rodrigo ECHECOPAR]<br>Dignity Now or DA [Pamela JILES Moreno and Guillermo GONZALEZ Castro]<br>Equality Party (Igualdad) [Guillermo GONZALEZ Castro]<br>Green Ecological Party or PEV [Felix GONZALEZ]<br>Humanist Party or PH [Octavio GONZALEZ]<br>Independent Democratic Union or UDI [Javier MACAYA]<br>Independent Regionalist Democratic Party or PRI [Hugo ORTIZ de Filippi]<br>Liberal Party (Partido Liberal de Chile) or PL [Luis Felipe RAMOS]<br>National Renewal or RN [Mario DESBORDES]<br>New Social Pact or NPS [Yasna PROVOSTE] (includes PDC, PL, PPD, PRSD, PS)<br>Party for Democracy or PPD [Heraldo MUNOZ]<br>Party of the People or PDG [Franco PARISI]<br>Political Evolution or EVOPOLI [Hernan LARRAIN MATTE]<br>Progressive Party or PRO [Marco Antonio ENRIQUEZ-OMINAMI Gumucio]<br>Radical Social Democratic Party or PRSD [Carlos MALDONADO Curti]<br>Republican Party or PLR [Jose Antonio KAST]<br>Social Convergence or CS [Gabriel BORIC]<br>Social Green Regionalist Federation or FREVS [Jaime Francisco MULET Martínez]<br>Socialist Party or PS [Alvaro Antonio ELIZALDE Soto]<br>United Independents or IU [Cristian Alejandro CONTRERAS Radovic]<br>
 
 **International organization participation**<br>
 APEC, BIS, CAN (associate), CD, CELAC, FAO, G-15, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, NAM, OAS, OECD (enhanced engagement), OPANAL, OPCW, Pacific Alliance, PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina, UNMOGIP, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -590,15 +590,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,750,272<br>
-_subscriptions per 100 inhabitants_: 15.23 (2019 est.)<br>
+_total subscriptions_: 2,567,938 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,051,668<br>
-_subscriptions per 100 inhabitants_: 138.76 (2019 est.)<br>
+_total subscriptions_: 25,068,249 (2020)<br>
+_subscriptions per 100 inhabitants_: 131.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Chile&rsquo;s telecom systems are highly competitive and rapidly evolving; mobile penetration rate is among the highest in South America; deployment of 5G networks expected; fixed broadband penetration is high for region, with fast and inexpensive services; government initiatives provide high-capacity connectivity across the country and increase fixed-line broadband penetration; progress with national satellite system; schools received free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; program; submarine cable project to link Chile with New Zealand and Australia; importer of broadcasting equipment from USA (2020) (2020)<br>
+_general assessment_: Chile&rsquo;s telecom systems are highly competitive and rapidly evolving; mobile penetration rate is among the highest in South America; deployment of 5G networks expected; fixed broadband penetration is high for region, with fast and inexpensive services; government initiatives provide high-capacity connectivity across the country and increase fixed-line broadband penetration; progress with national satellite system; schools received free broadband as part of the &lsquo;Connectivity for Education 2030&rsquo; program; submarine cable project to link Chile with New Zealand and Australia; importer of broadcasting equipment from USA (2020)<br>
 _domestic_: number of fixed-line connections have stagnated to 15 per 100 in recent years as mobile-cellular usage continues to increase, reaching 132 telephones per 100 persons; domestic satellite system with 3 earth stations (2019)<br>
 _international_: country code - 56; landing points for the Pan-Am, Prat, SAm-1, American Movil-Telxius West Coast Cable, FOS Quellon-Chacabuco, Fibra Optical Austral, SAC&nbsp;and&nbsp;Curie submarine cables providing links to the US, Caribbean&nbsp;and to Central and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -614,8 +614,8 @@ _total_: 14,757,868<br>
 _percent of population_: 82.33% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,429,305<br>
-_subscriptions per 100 inhabitants_: 18.99 (2019 est.)<br>
+_total_: 3,751,227 (2020)<br>
+_subscriptions per 100 inhabitants_: 19.62 (2020 est.)<br>
 
 ## Transportation
 
@@ -661,8 +661,8 @@ _broad gauge_: 3,428 km 1.676-m gauge (1,691 km electrified) (2014)<br>
 _total_: 77,801 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 229<br>
-_by type_: bulk carrier 8, container ship 5, general cargo 56, oil tanker 13, other 147 (2020)<br>
+_total_: 231<br>
+_by type_: bulk carrier 6, container ship 5, general cargo 58, oil tanker 14, other 148 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Coronel, Huasco, Lirquen, Puerto Ventanas, San Antonio, San Vicente, Valparaiso<br>
@@ -690,6 +690,9 @@ the Chilean military inventory is comprised of a wide mix of mostly Western equi
 
 **Military service age and obligation**<br>
 18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force (2019)<br>
+
+**Military - note**<br>
+<p>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school</p><br>
 
 ## Transnational Issues
 

@@ -175,7 +175,7 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 0.78 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
-2.1 beds/1,000 population (2010)<br>
+2.1 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 87.8% of population<br>
@@ -570,12 +570,12 @@ _electrification - rural areas_: 89% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 57,511<br>
-_subscriptions per 100 inhabitants_: 10.01 (2019 est.)<br>
+_total subscriptions_: 57,668 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 595,681<br>
-_subscriptions per 100 inhabitants_: 103.63 (2019 est.)<br>
+_total subscriptions_: 544,729 (2020)<br>
+_subscriptions per 100 inhabitants_: 97.98 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: LTE reaches almost 40% of the population; regulator awards commercial 4G licenses and starts 5G pilot; govt. extends USD 25 million for submarine fiber-optic cable project&nbsp;linking Africa to Portugal and Brazil;&nbsp;major service provider is Cabo Verde Telecom (CVT) (2020)<br>
@@ -594,8 +594,8 @@ _total_: 330,623<br>
 _percent of population_: 58.17% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,066<br>
-_subscriptions per 100 inhabitants_: 3.32 (2019 est.)<br>
+_total_: 24,839 (2020)<br>
+_subscriptions per 100 inhabitants_: 4.47 (2020 est.)<br>
 
 ## Transportation
 
@@ -624,8 +624,8 @@ _paved_: 932 km (2013)<br>
 _unpaved_: 418 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 43<br>
-_by type_: general cargo 16, oil tanker 2, other 25 (2020)<br>
+_total_: 46<br>
+_by type_: general cargo 16, oil tanker 3, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Porto Grande<br>
@@ -650,6 +650,9 @@ the FACV has a limited amount of mostly dated and second-hand equipment, largely
 
 **Military service age and obligation**<br>
 18-35 years of age for male and female selective compulsory military service; 2-years conscript service obligation; 17 years of age for voluntary service (with parental consent) (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, the FACV/National Guard was mostly a ground force with 2 infantry battalions and a small air component with a maritime patrol squadron; the Coast Guard had a few coastal patrol craft and patrol boats</p><br>
 
 ## Transnational Issues
 

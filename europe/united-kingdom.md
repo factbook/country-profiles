@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.81 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2017)<br>
+2.5 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,7 +216,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 18 years (2018)<br>
+_female_: 18 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 11.2%<br>
@@ -599,7 +599,7 @@ _total subscriptions_: 80.967 million<br>
 _subscriptions per 100 inhabitants_: 123.79 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>UK’s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; legislation banned Chinese company Huawei from UK 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; legislation banned Chinese company Huawei from UK 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2020)<br>
 _domestic_: equal mix of buried cables, microwave radio relay, and fiber-optic systems; fixed-line 48 per 100 and mobile-cellular 118 per 100 (2019)<br>
 _international_: country code - 44;&nbsp;Landing points for the GTT Atlantic, Scotland-Northern Ireland -1, &amp; -2, Lanis 1,-2, &amp;-3, Sirius North, BT-MT-1, SHEFA-2, BT Highlands and Islands Submarine Cable System, Northern Lights, FARICE-1, Celtic Norse, Tampnet Offshore FOC Network, England Cable, CC-2, E-LLan, Sirius South, ESAT -1 &amp; -2, Rockabill, Geo-Eirgrid, UK-Netherlands-14, Circle North &amp; South, Ulysses2, Conceto, Farland North, Pan European Crossing,&nbsp;Solas, Swansea-Bream, GTT Express, Tata TGN-Atlantic &amp; -Western Europe, Apollo, EIG, Glo-1, TAT-14, Yellow, Celtic,&nbsp;FLAG Atlantic-1, FEA, Isle of Scilly Cable, UK-Channel Islands-8 and SeaMeWe-3&nbsp;submarine cables providing links throughout Europe, Asia, Africa, the Middle East, Southeast Asia, Australia,&nbsp;and US; satellite earth stations - 10 Intelsat (7 Atlantic Ocean and 3 Indian Ocean), 1 Inmarsat (Atlantic Ocean region), and 1 Eutelsat; at least 8 large international switching centers (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -668,8 +668,8 @@ _paved_: 394,428 km (includes 3,519 km of expressways) (2009)<br>
 3,200 km (620 km used for commerce) (2009)<br>
 
 **Merchant marine**<br>
-_total_: 1,304<br>
-_by type_: bulk carrier 147, container ship 59, general cargo 116, oil tanker 99, other 883 (2020)<br>
+_total_: 1,249<br>
+_by type_: bulk carrier 140, container ship 59, general cargo 109, oil tanker 84, other 857 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dover, Felixstowe, Immingham, Liverpool, London, Southampton, Teesport (England); Forth Ports (Scotland); Milford Haven (Wales)<br>

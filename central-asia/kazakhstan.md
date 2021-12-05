@@ -66,7 +66,7 @@ _Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -223,12 +223,12 @@ _female_: 99.7% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 3.8%<br>
-_male_: 3.6%<br>
-_female_: 4% (2017 est.)<br>
+_male_: 3.4%<br>
+_female_: 4.2% (2020 est.)<br>
 
 ## Environment
 
@@ -275,7 +275,7 @@ _Fresh water lake(s)_: Ozero Balkhash - 22,000 sq km; Ozero Zaysan - 1,800 sq km
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Russia) - 374,000 sq km; Aral Sea (north) - 3,300 sq km; Ozero Alakol - 2,650 sq km; Ozero Teniz 1,590 sq km; Ozero Seletytenzi - 780 sq km; Ozero Sasykkol - 740 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+Syr Darya river mouth (shared with Kyrgyzstan [s], Uzbekistan, and Tajikistan) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), Amu Darya (534,739 sq km), Syr Darya (782,617 sq km), Lake Balkash (510,015 sq km)<br>
@@ -601,15 +601,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,072,500<br>
-_subscriptions per 100 inhabitants_: 16.24 (2019 est.)<br>
+_total subscriptions_: 2,616,500 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,717,700<br>
-_subscriptions per 100 inhabitants_: 135.96 (2019 est.)<br>
+_total subscriptions_: 25.177 million (2020)<br>
+_subscriptions per 100 inhabitants_: 134.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration; mobile market highly competitive and growth is slow due to saturation (2020)</p> (2020)<br>
+_general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration; mobile market highly competitive and growth is slow due to saturation (2020)<br>
 _domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is 17 per 100 persons; mobile-cellular usage increased rapidly and the subscriber base approaches 139 per 100 persons (2019)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -625,8 +625,8 @@ _total_: 14,789,448<br>
 _percent of population_: 78.9% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,511,100<br>
-_subscriptions per 100 inhabitants_: 13.28 (2019 est.)<br>
+_total_: 2,616,500 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.93 (2020 est.)<br>
 
 ## Transportation
 
@@ -677,8 +677,8 @@ _unpaved_: 13,595 km (2017)<br>
 4,000 km (on the Ertis (Irtysh) River (80%) and Syr Darya (Syrdariya) River) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 128<br>
-_by type_: general cargo 3, oil tanker 8, other 117 (2020)<br>
+_total_: 119<br>
+_by type_: general cargo 3, oil tanker 7, other 109 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Aqtau (Shevchenko), Atyrau (Gur'yev)<br>

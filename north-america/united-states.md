@@ -74,7 +74,7 @@ _Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Hu
 _Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Missouri - 3,768 km; Mississippi (shared with Canada) - 3,544 km; Yukon (shared with Canada) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande (shared with Mexico) - 3,057 km; Colorado (shared with Mexico) - 2,333 km; Arkansas - 2,348 km; Columbia (shared with Canada) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km</p><br>
+<p>Missouri - 3,768 km; Mississippi - 3,544 km; Yukon river mouth (shared with Canada [s]) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande river source ( mouth shared with Mexico) - 3,057 km; Colorado river source (shared with Mexico [m]) - 2,333 km; Arkansas - 2,348 km; Columbia river mouth (shared with Canada [s]) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
@@ -197,6 +197,9 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 **Physicians density**<br>
 2.61 physicians/1,000 population (2017)<br>
 
+**Hospital bed density**<br>
+2.9 beds/1,000 population (2017)<br>
+
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -226,7 +229,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 14.9%<br>
@@ -279,7 +282,7 @@ _Fresh water lake(s)_: Michigan – 57,750 sq km; Superior* – 53,348 sq km; Hu
 _Salt water lake(s)_: Great Salt &ndash; 4,360 sq km; Pontchartrain &ndash; 1,620 sq km; &nbsp;Selawik &ndash; 1,400 sq km; Salton Sea &ndash; 950 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Missouri - 3,768 km; Mississippi (shared with Canada) - 3,544 km; Yukon (shared with Canada) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande (shared with Mexico) - 3,057 km; Colorado (shared with Mexico) - 2,333 km; Arkansas - 2,348 km; Columbia (shared with Canada) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km</p><br>
+<p>Missouri - 3,768 km; Mississippi - 3,544 km; Yukon river mouth (shared with Canada [s]) - 3,190 km; Saint Lawrence (shared with Canada) - 3,058 km; Rio Grande river source ( mouth shared with Mexico) - 3,057 km; Colorado river source (shared with Mexico [m]) - 2,333 km; Arkansas - 2,348 km; Columbia river mouth (shared with Canada [s]) - 2,250 km; Red - 2,188 km; Ohio - 2,102 km; Snake - 1,670 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico) </em>Mississippi* (3,202,185 sq km); Rio Grande (607,965 sq km); <em>(Gulf of Saint Lawrence)</em> Saint Lawrence* (1,049,636 sq km total, US only 505,000 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, US only 23,820 sq km); Colorado (703,148 sq km); Columbia* (657,501 sq km, US only 554,501 sq km)<br>note - watersheds shared with Canada shown with *<br>
@@ -612,7 +615,7 @@ _total subscriptions_: 442.457 million<br>
 _subscriptions per 100 inhabitants_: 134.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a large, technologically advanced, multipurpose communications system; reliable Internet available for most of the population though challenges remain in rural areas and tribal lands; concentration among industry operators; saturated mobile subscriber penetration rate;&nbsp;national LTE-M services with reassignment of 2G spectrum for 5G, centered in urban areas; operators signed alliance to develop 6G in line with technology standards, and government policies; almost all citizens have access to both fixed-line and mobile-broadband services; government fund to connect 5.3 million residences and businesses in rural areas; in pandemic, emergency funding for Internet and devices related to education; cooperative approach to e-commerce, health, education, and energy with smart city technology in several areas; federal subsidies to private satellite Internet constellation with aims for fast, world-wide connections; government policy designated Chinese companies Huawei and ZTE as national security threats and restricted partnership; importer of broadcasting equipment from China with export of same to Hong Kong (2021) (2020)<br>
+_general assessment_: a large, technologically advanced, multipurpose communications system; reliable Internet available for most of the population though challenges remain in rural areas and tribal lands; concentration among industry operators; saturated mobile subscriber penetration rate; national LTE-M services with reassignment of 2G spectrum for 5G, centered in urban areas; operators signed alliance to develop 6G in line with technology standards, and government policies; almost all citizens have access to both fixed-line and mobile-broadband services; government fund to connect 5.3 million residences and businesses in rural areas; in pandemic, emergency funding for Internet and devices related to education; cooperative approach to e-commerce, health, education, and energy with smart city technology in several areas; federal subsidies to private satellite Internet constellation with aims for fast, world-wide connections; government policy designated Chinese companies Huawei and ZTE as national security threats and restricted partnership; importer of broadcasting equipment from China with export of same to Hong Kong (2020)<br>
 _domestic_: a large system of fiber-optic cable, microwave radio relay, coaxial cable, and domestic satellites carries every form of telephone traffic; a rapidly growing cellular system carries mobile telephone traffic throughout the country; fixed-line 33 per 100 and mobile-cellular 124 per 100 (2019)<br>
 _international_: country code - 1; landing points for the Quintillion Subsea Cable Network, TERRA SW, AU-Aleutian, KKFL, AKORN, Alaska United -West, &amp; -East &amp; -Southeast, North Star, Lynn Canal Fiber, KetchCar 1, PC-1, SCCN, Tat TGN-Pacific &amp; -Atlantic, Jupiter, Hawaiki, NCP, FASTER, HKA, JUS, AAG, BtoBE, Currie, Southern Cross NEXT, SxS, PLCN, Utility EAC-Pacific, SEA-US, Paniolo Cable Network, HICS, HIFN, ASH, Telstra Endeavor, Honotua, AURORA, ARCOS, AMX-1, Americas -I &amp;&nbsp;-II, Columbus IIb &amp; -III, Maya-1, MAC, GTMO-1, BICS, CFX-1, GlobeNet, Monet, SAm-1, Bahamas 2, PCCS, BRUSA, Dunant, MAREA, SAE x1,&nbsp;TAT 14,&nbsp;Apollo, Gemini Bermuda, Havfrue/AEC-2, Seabras-1,&nbsp;WALL-LI, NYNJ-1, FLAG Atalantic-1, Yellow, Atlantic Crossing-1,&nbsp;AE Connect -1, sea2shore, Challenger Bermuda-1, and&nbsp;GTT Atlantic&nbsp;submarine cable systems providing international connectivity to Europe, Africa,&nbsp;the Middle East, Asia, Southeast Asia, Australia,&nbsp;New Zealand, Pacific, &amp;&nbsp;Atlantic, and Indian Ocean&nbsp;Islands, Central and South America, Caribbean, Canada&nbsp;and US; satellite earth stations - 61 Intelsat (45 Atlantic Ocean and 16 Pacific Ocean), 5 Intersputnik (Atlantic Ocean region), and 4 Inmarsat (Pacific and Atlantic Ocean regions) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -683,11 +686,11 @@ _unpaved_: 2,281,895 km (2012)<br>
 41,009 km (19,312 km used for commerce; Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, is shared with Canada) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 3,652<br>
-_by type_: bulk carrier 5, container ship 63, general cargo 104, oil tanker 68, other 3,412 (2020)<br>
+_total_: 3,627<br>
+_by type_: bulk carrier 4, container ship 60, general cargo 103, oil tanker 69, other 3,391 (2021)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: <em><br>Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New Jersey, Savannah<br><em>Pacific Ocean:</em> Long Beach, Los Angele, Oakland, Seattle/Tacoma<br><em>Gulf of Mexico:</em> Houston<br>
+_major seaport(s)_: <em><br>Atlantic Ocean:</em> Charleston, Hampton Roads, New York/New Jersey, Savannah<br><em>Pacific Ocean:</em> Long Beach, Los Angeles, Oakland, Seattle/Tacoma<br><em>Gulf of Mexico:</em> Houston<br>
 _oil terminal(s)_: LOOP terminal, Haymark terminal<br>
 _container port(s) (TEUs)_: Charleston (2,436,185), Hampton Roads (2,937,962), Houston (2,987,291), Long Beach (7,632,032), Los Angeles (9,337,632), New York/New Jersey (7,471,131), Oakland (2,500,431), Savannah (4,599,177), Seattle/Tacoma (3,775,303) (2019)<br>
 _LNG terminal(s) (export)_: Cameron (LA), Corpus Christi (TX), Cove Point (MD), Elba Island (GA), Freeport (TX), Sabine Pass (LA)<br>note - two additional export facilities are under construction and expected to begin commercial operations in 2023-2024<br>
@@ -723,7 +726,7 @@ US military rotational policies affect deployed numbers; for example, the US dep
 18 years of age (17 years of age with parental consent) for male and female voluntary service; no conscription; maximum enlistment age 34 (Army), 39 (Air Force), 39 (Navy), 28 (Marines), 31 (Coast Guard); 8-year service obligation, including 2-5 years active duty (Army), 2 years active (Navy), 4 years active (Air Force, Marines, Coast Guard); all military occupations and positions open to women (2020)<br>
 
 **Military - note**<br>
-the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+the US is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Congress officially created the US military in September 1789; the US Army was established in June 1775 as the Continental Army; after the declaration of independence in July 1776, the Continental Army and the militia in the service of Congress became known collectively as the Army of the United States; when Congress ordered the Continental Army to disband in 1784, it retained a small number of personnel that would form the nucleus of the 1st American Regiment for national service formed later that year; both the US Navy and the US Marines were also established in 1775, but the Navy fell into disuse after the Revolutionary War, and was reestablished by Congress in 1794; the US Air Force was established in 1947, but the first military unit of the US Army devoted exclusively to aviation began operations in 1913</p><br>
 
 ## Terrorism
 

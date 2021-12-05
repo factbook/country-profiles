@@ -174,9 +174,6 @@ NA<br>
 **Physicians density**<br>
 3.68 physicians/1,000 population (2017)<br>
 
-**Hospital bed density**<br>
-13.2 beds/1,000 population (2012)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 91.9% of population<br>
 _improved: rural_: rural: 72.3% of population<br>
@@ -543,7 +540,7 @@ _total subscriptions_: 3,821,857<br>
 _subscriptions per 100 inhabitants_: 14.98 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: underdeveloped yet growing market dependent on 3G; nationwide fiber-optic network; some mobile-cellular service beyond Pyongyang; remote areas on manual switchboards; though currently under sanction, dependent on foreign investment (primarily Chinese) for equipment and infrastructure; low broadband penetration; international communication restricted and domestic use monitored by state (2021) (2020)<br>
+_general assessment_: underdeveloped yet growing market dependent on 3G; nationwide fiber-optic network; some mobile-cellular service beyond Pyongyang; remote areas on manual switchboards; though currently under sanction, dependent on foreign investment (primarily Chinese) for equipment and infrastructure; low broadband penetration; international communication restricted and domestic use monitored by state (2020)<br>
 _domestic_: fiber-optic links installed down to the county level; telephone directories unavailable; mobile service launched in late 2008 for the Pyongyang area and considerable progress in expanding to other parts of the country since; fixed-lines are 5 per 100 and mobile-cellular 15 per 100 persons (2019)<br>
 _international_: country code - 850; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Russian - Indian Ocean region); other international connections through Moscow and Beijing<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -603,8 +600,8 @@ _unpaved_: 24,830 km (2006)<br>
 2,250 km (most navigable only by small craft) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 261<br>
-_by type_: bulk carrier 8, container ship 5, general cargo 187, oil tanker 32, other 29 (2020)<br>
+_total_: 264<br>
+_by type_: bulk carrier 8, container ship 5, general cargo 189, oil tanker 33, other 29 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerly Unggi), Wonsan<br>
@@ -612,19 +609,24 @@ _major seaport(s)_: Ch'ongjin, Haeju, Hungnam, Namp'o, Songnim, Sonbong (formerl
 ## Military and Security
 
 **Military and security forces**<br>
-Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force (includes air defense), KPA Strategic Forces (missile forces); Security Guard Command (protects the Kim family, other senior leadership figures, and government facilities); Ministry of Public Security: Border Guards, civil security forces (2021)<br>
+Korean People's Army (KPA): KPA Ground Forces, KPA Navy, KPA Air Force (includes air defense), KPA Strategic Forces (missile forces); Security Guard Command (aka Bodyguard Command; protects the Kim family, other senior leadership figures, and government facilities); Ministry of Public Security: Border Guards, civil security forces (2021)<br>
+note - the North also has a large paramilitary force organized into the Worker Peasant Red Guard and Red Youth Guard; these organizations are present at all levels of government (province, county, ward) and are under the control of the Korean Workers' Party in peacetime, but revert to KPA control in crisis or war; they are often mobilized for domestic projects, such as road building and agricultural support<br>
 
 **Military expenditures**<br>
 an estimated 20-30% of North Korea's GDP is allocated to the military<br>
 
 **Military and security service personnel strengths**<br>
-assessments of the size of the Korean People&rsquo;s Army (KPA) vary widely; approximately 1.1-1.2 million active troops (950,000-1.0 million Army; 110-120,000 Air Force; 60,000 Navy; 10,000 Strategic Missile Forces); est. 200,000 Public Security forces (2021)<br>
+assessments of the size of the Korean People’s Army (KPA) vary widely; approximately 1.1-1.3 million active troops (950,000-1.0 million Army; 110-120,000 Air Force; 60,000 Navy; 10,000 Strategic Missile Forces); est. 200,000 Public Security forces (2021)<br><br>note - <br>
+note -&nbsp;<br>
 
 **Military equipment inventories and acquisitions**<br>
-the KPA is equipped mostly with older weapon systems originally acquired from the former Soviet Union, Russia, and China; North Korea manufactures copies and provides some upgrades to these weapon systems; it also has a robust domestic ballistic missile program based largely on missiles acquired from the former Soviet Union; since 2010, there were no publicly-reported transfers of weapons to North Korea; between 2000 and 2010, Russia was the only recorded provider of arms (2021)<br>
+the KPA is equipped with older weapon systems originally acquired from the former Soviet Union, Russia, and China, as well as some domestically-produced equipment; North Korea manufactures copies and provides some upgrades to the older foreign weapon systems; it also produces a diverse array of military hardware, including small arms, munitions, light armored vehicles, tanks, naval vessels and submarines, and advanced weapons systems; since 2010, there were no publicly-reported transfers of weapons to North Korea; between 2000 and 2010, Russia was the only recorded provider of arms (2021)<br>
 
 **Military service age and obligation**<br>
 17 years of age for compulsory male and female military service; service obligation 10 years for men, to age 23 for women (reportedly reduced in 2021 to 8 years for men and 5 years for women) (2021)<br>
+
+**Military - note**<br>
+<p>in addition to the invasion of South Korea and the subsequent Korean War (1950-53), North Korea from the 1960s to the 1980s launched a considerable number of limited military and subversive actions against South Korea using special forces and terrorist tactics; including aggressive skirmishes along the DMZ, overt attempts to assassinate South Korean leaders, kidnappings, the bombing of an airliner, and a failed effort in 1968 to foment an insurrection and conduct a guerrilla war in the South with more than 100 seaborne commandos; from the 1990s until 2010, the North lost two submarines and a semi-submersible boat attempting to insert infiltrators into the South (1996, 1998) and provoked several engagements in the Northwest Islands area along the disputed Northern Limit Line, including naval skirmishes between patrol boats in 1999 and 2002, the torpedoing and sinking of a South Korean corvette, the <em>Cheonan</em>, in 2010, and the bombardment a South Korean Marine Corps installation on Yeonpyeong Island, also in 2010; since 2010, further minor incidents continue to occur periodically along the DMZ, where both the KPA and the South Korean military maintain large numbers of troops</p> <p>the KPA was founded in 1948; Kim Jong Un is the KPA supreme commander, while operational control of the armed forces resides in the General Staff Department (GSD), which reports directly to Kim; the GSD maintains overall control of all military forces and is charged with turning Kim’s directives into operational military orders; the Ministry of National Defense (MND) is responsible for administrative control of the military and external relations with foreign militaries</p> <p>as of 2021, North Korea’s growing ballistic missile program included close- (CRBM), short- (SRBM), medium- (MRBM), intermediate- (IRBM), and intercontinental- (ICBM) range ballistic missiles; the North received its first ballistic missiles, short-range FROGs (free rocket over ground), from the Soviet Union in the 1960s, but its modern ballistic missile program is generally thought to date back to the mid-1970s when it received a Soviet Scud-class missile, likely from Egypt; the North reverse-engineered the missile and developed an indigenously built version in 1984; it flight-tested its first Scud-based medium-range Nodong missile in 1990, and probably began development of the multi-stage Taepodong missiles around this time as well; the North revealed its first road-mobile ICBM in 2012 and conducted the first test of an ICBM-class system in 2017</p> <p> </p><br>
 
 ## Transnational Issues
 

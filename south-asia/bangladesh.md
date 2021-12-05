@@ -64,14 +64,14 @@ _other_: 18.8% (2018 est.)<br>
 **Irrigated land**<br>
 53,000 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
 
 **Major aquifers**<br>
 Indus-Ganges-Brahmaputra Basin<br>
-
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, Nepal, China, and Bhutan) - 3,969 km; Ganges (shared with India and Nepal) - 2,704 km<br>
 
 **Natural hazards**<br>
 droughts; cyclones; much of the country routinely inundated during the summer monsoon season<br>
@@ -97,7 +97,7 @@ Bangla 98.8% (official, also known as Bengali), other 1.2% (2011 est.)<br>
 _major-language sample(s)_: <br>বিশ্ব ফেসবুক, মৌলিক তথ্যের অপরিহার্য উৎস (Bangla)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 89.1%, Hindu 10%, other 0.9% (includes Buddhist, Christian) (2013 est.)<br>
+Muslim 88.4%, other 11.6% (2018 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 26.48% (male 21,918,651/female 21,158,574)<br>
@@ -228,7 +228,7 @@ _female_: 72% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 12 years<br>
-_female_: 12 years (2018)<br>
+_female_: 13 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 12.8%<br>
@@ -285,7 +285,7 @@ _severe localized food insecurity_: due to economic constraints - food insecurit
 _municipal solid waste generated annually_: 14,778,497 tons (2012 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, Nepal, China, and Bhutan) - 3,969 km; Ganges (shared with India and Nepal) - 2,704 km<br>
+Brahmaputra river mouth (shared with China [s] and India) - 3,969 km; Ganges river mouth (shared with India [s]) - 2,704 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km)<br>
@@ -689,8 +689,8 @@ _unpaved_: 258,794 km (2018)<br>
 8,370 km (includes up to 3,060 km of main cargo routes; network reduced to 5,200 km in the dry season) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 427<br>
-_by type_: bulk carrier 46, container ship 4, general cargo 118, oil tanker 142, other 117 (2020)<br>
+_total_: 468<br>
+_by type_: bulk carrier 48, container ship 6, general cargo 140, oil tanker 144, other 130 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chattogram (Chittagong)<br>
@@ -740,7 +740,7 @@ Harakat ul-Jihad-i-Islami/Bangladesh; Islamic State of Iraq and ash-Sham in Bang
 <p>Bangladesh referred its maritime boundary claims with Burma and India to the International Tribunal on the Law of the Sea; Indian Prime Minister Singh's September 2011 visit to Bangladesh resulted in the signing of a Protocol to the 1974 Land Boundary Agreement between India and Bangladesh, which had called for the settlement of longstanding boundary disputes over undemarcated areas and the exchange of territorial enclaves, but which had never been implemented; Bangladesh struggles to accommodate 912,000 Rohingya, Burmese Muslim minority from Rakhine State, living as refugees in Cox's Bazar; Burmese border authorities are constructing a 200 km (124 mi) wire fence designed to deter illegal cross-border transit and tensions from the military build-up along border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 902,947 (Burma) (2021) (includes an estimated 751,862 Rohingya refugees who have fled conflict since 25 August 2017)<br>
+_refugees (country of origin)_: 907,766 (Burma) (2021) (includes an estimated 756,554 Rohingya refugees who have fled conflict since 25 August 2017)<br>
 _IDPs_: 427,000 (conflict, development, human rights violations, religious persecution, natural disasters) (2020)<br>
 _stateless persons_: 866,457 (2020)<br>
 

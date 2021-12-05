@@ -474,12 +474,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 53,500<br>
-_subscriptions per 100 inhabitants_: 35.47 (2019 est.)<br>
+_total subscriptions_: 53,500 (2019)<br>
+_subscriptions per 100 inhabitants_: 32.74 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,236<br>
-_subscriptions per 100 inhabitants_: 122.15 (2019 est.)<br>
+_total subscriptions_: 184,236 (2019)<br>
+_subscriptions per 100 inhabitants_: 112.7 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic modern telecommunications system; telecom sector across the Caribbean region continues to be one of&nbsp;the growth areas; given the lack of economic diversity in the region, with a high dependence on tourism and activities such as fisheries and offshore financial services the telecom sector contributes greatly to the GDP (2020)<br>
@@ -498,8 +498,8 @@ _total_: 102,359<br>
 _percent of population_: 68.13% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 53,297<br>
-_subscriptions per 100 inhabitants_: 35.34 (2019 est.)<br>
+_total_: 53,297 (2019)<br>
+_subscriptions per 100 inhabitants_: 32.61 (2019 est.)<br>
 
 ## Transportation
 
@@ -521,8 +521,8 @@ _over 3,047 m_: 1 (2019)<br>
 _total_: 550 km<br>
 
 **Merchant marine**<br>
-_total_: 66<br>
-_by type_: general cargo 8, oil tanker 1, other 57 (2020)<br>
+_total_: 63<br>
+_by type_: general cargo 6, oil tanker 1, other 56 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Willemstad<br>

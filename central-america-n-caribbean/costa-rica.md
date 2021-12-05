@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.89 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-1.1 beds/1,000 population (2017)<br>
+1.1 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.4% of population<br>
@@ -218,14 +218,14 @@ _male_: 97.8%<br>
 _female_: 97.9% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
-_male_: 17 years<br>
+_total_: 17 years<br>
+_male_: 16 years<br>
 _female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 31.5%<br>
-_male_: 28%<br>
-_female_: 37.1% (2019 est.)<br>
+_total_: 40.7%<br>
+_male_: 34%<br>
+_female_: 50.9% (2020 est.)<br>
 
 ## Environment
 
@@ -590,15 +590,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 640,302<br>
-_subscriptions per 100 inhabitants_: 12.7 (2019 est.)<br>
+_total subscriptions_: 559,882 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.99 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,550,243<br>
-_subscriptions per 100 inhabitants_: 169.59 (2019 est.)<br>
+_total subscriptions_: 7,512,370 (2020)<br>
+_subscriptions per 100 inhabitants_: 147.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Costa Rica has broad telecom coverage though geographical distribution of digital service is unequal; recent regulator liberalization spurred expansion in all sectors; broadband market is the most advanced and highest penetration in Central America yet lags behind many South American countries; operators investing in NGN technology; number portability and cheaper broadband costs will increase competition; government aims to subsidize tele-health and e-learning (2021)</p> (2018)<br>
+_general assessment_: Costa Rica has broad telecom coverage though geographical distribution of digital service is unequal; recent regulator liberalization spurred expansion in all sectors; broadband market is the most advanced and highest penetration in Central America yet lags behind many South American countries; operators investing in NGN technology; number portability and cheaper broadband costs will increase competition; government aims to subsidize tele-health and e-learning (2018)<br>
 _domestic_: 13 per 100 fixed-line, 162 per 100 mobile-cellular; point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available (2019)<br>
 _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -614,8 +614,8 @@ _total_: 3,694,974<br>
 _percent of population_: 74.09% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 904,734<br>
-_subscriptions per 100 inhabitants_: 17.95 (2019 est.)<br>
+_total_: 992,725 (2020)<br>
+_subscriptions per 100 inhabitants_: 19.49 (2020 est.)<br>
 
 ## Transportation
 
@@ -658,8 +658,8 @@ _total_: 5,035 km (2017)<br>
 730 km (seasonally navigable by small craft) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 10<br>
-_by type_: other 10 (2020)<br>
+_total_: 11<br>
+_by type_: other 11 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Atlantic Ocean (Caribbean) - Puerto Limon<br>
@@ -683,6 +683,9 @@ note: Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment; since 2000, the only reported major equipment deliveries were from the US (light helicopters in 2012 and 2014 and second-hand coast guard cutters in 2018) (2020)<br>
+
+**Military - note**<br>
+Costa Rica relies on specialized paramilitary units within the MPS for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided equipment, including aircraft and patrol boats (2021)<br>
 
 ## Transnational Issues
 

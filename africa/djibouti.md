@@ -91,7 +91,7 @@ Somali 60%, Afar 35%, other 5% (mostly Yemeni Arab, also French, Ethiopian, and 
 French (official), Arabic (official), Somali, Afar<br>
 
 **Religions**<br>
-Sunni Muslim 94% (nearly all Djiboutians), Christian 6% (mainly foreign-born residents)<br>
+Sunni Muslim 94% (nearly all Djiboutians), other 6% (mainly foreign-born residents - Shia Muslim, Christian, Hindu, Jewish, Baha'i, and atheist)<br>
 
 **Demographic profile**<br>
 <p>Djibouti is a poor, predominantly urban country, characterized by high rates of illiteracy, unemployment, and childhood malnutrition. More than 75% of the population lives in cities and towns (predominantly in the capital, Djibouti). The rural population subsists primarily on nomadic herding. Prone to droughts and floods, the country has few natural resources and must import more than 80% of its food from neighboring countries or Europe. Health care, particularly outside the capital, is limited by poor infrastructure, shortages of equipment and supplies, and a lack of qualified personnel. More than a third of health care recipients are migrants because the services are still better than those available in their neighboring home countries. The nearly universal practice of female genital cutting reflects Djibouti’s lack of gender equality and is a major contributor to obstetrical complications and its high rates of maternal and infant mortality. A 1995 law prohibiting the practice has never been enforced.</p><p>Because of its political stability and its strategic location at the confluence of East Africa and the Gulf States along the Gulf of Aden and the Red Sea, Djibouti is a key transit point for migrants and asylum seekers heading for the Gulf States and beyond. Each year some hundred thousand people, mainly Ethiopians and some Somalis, journey through Djibouti, usually to the port of Obock, to attempt a dangerous sea crossing to Yemen. However, with the escalation of the ongoing Yemen conflict, Yemenis began fleeing to Djibouti in March 2015, with almost 20,000 arriving by August 2017. Most Yemenis remain unregistered and head for Djibouti City rather than seeking asylum at one of Djibouti’s three spartan refugee camps. Djibouti has been hosting refugees and asylum seekers, predominantly Somalis and lesser numbers of Ethiopians and Eritreans, at camps for 20 years, despite lacking potable water, food shortages, and unemployment.</p><br>
@@ -589,7 +589,7 @@ _total subscriptions_: 434,035 (2020)<br>
 _subscriptions per 100 inhabitants_: 43.93 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Djibouti has a poor domestic infrastructure and a monopolized telecom system relying on microwave radio relay; rural areas connected via wireless local loop; mobile coverage limited to Djibouti city; despite challenges, foreign investment lends progress toward improvements; one of the best international fiber cables in the region, the Djibouti Internet Exchange, is a meeting point for cable systems passing between the Red Sea and Indian Ocean; national operator managed the Australia West Cable landing and signed an agreement for IP traffic through Paris and Marseille; international operator signed MoU for extension of cable from the Gulf to Djibouti (2021)</p> (2020)<br>
+_general assessment_: Djibouti has a poor domestic infrastructure and a monopolized telecom system relying on microwave radio relay; rural areas connected via wireless local loop; mobile coverage limited to Djibouti city; despite challenges, foreign investment lends progress toward improvements; one of the best international fiber cables in the region, the Djibouti Internet Exchange, is a meeting point for cable systems passing between the Red Sea and Indian Ocean; national operator managed the Australia West Cable landing and signed an agreement for IP traffic through Paris and Marseille; international operator signed MoU for extension of cable from the Gulf to Djibouti (2020)<br>
 _domestic_: 4 per 100 fixed-line and 41 per 100 mobile-cellular; Djibouti Telecom (DT) is the sole provider of telecommunications services and utilizes mostly a microwave radio relay network; fiber-optic cable is installed in the capital; rural areas connected via wireless local loop radio systems; mobile cellular coverage is primarily limited to the area in and around Djibouti city (2019)<br>
 _international_: country code - 253; landing points for the SEA-ME-WE-3 &amp; 5, EASSy, Aden-Djibouti, Africa-1, DARE-1, EIG, MENA, Bridge International, PEACE Cable, and SEACOM&nbsp;fiber-optic submarine cable systems providing links to Asia, the Middle East, Europe,&nbsp;Southeast Asia, Australia&nbsp;and Africa; satellite earth stations - 2 (1 Intelsat - Indian Ocean and 1 Arabsat) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -640,8 +640,8 @@ _standard gauge_: 97 km 1.435-m gauge (2017)<br>
 _total_: 2,893 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 18<br>
-_by type_: general cargo 1, other 17 (2020)<br>
+_total_: 33<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 2, oil tanker 8, other 21 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Djibouti<br>
@@ -672,6 +672,9 @@ the International Maritime Bureau&rsquo;s (IMB) Piracy Reporting Center (PRC) re
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 16-25 years of age for voluntary military training; no conscription (2020)<br>
+
+**Military - note**<br>
+<p>as of 2021, China, France, Italy, Japan, and the US maintained bases in Djibouti for regional military missions, including counter-terrorism, counter-piracy, crisis response, and security assistance (note – France has multiple bases and hosts troop contingents from Germany and Spain); the EU and NATO have also maintained a presence to support multinational naval counter-piracy operations and maritime training efforts; in 2017, Djibouti and Saudi Arabia announced plans for the Saudis to build a military base there, although no start date was announced</p><br>
 
 ## Terrorism
 

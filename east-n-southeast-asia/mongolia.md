@@ -66,7 +66,7 @@ _Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nb
 _Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amur (shared with Russia and China) - 4,444 km<br>
+Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 sparsely distributed population throughout the country; the capital of Ulaanbaatar and the northern city of Darhan support the highest population densities<br>
@@ -221,12 +221,12 @@ _female_: 99.2% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 16 years (2015)<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 25.3%<br>
-_male_: 24.9%<br>
-_female_: 25.9% (2019 est.)<br>
+_total_: 17.9%<br>
+_male_: 16.9%<br>
+_female_: 19.5% (2020 est.)<br>
 
 ## Environment
 
@@ -271,7 +271,7 @@ _Fresh water lake(s)_: Hovsgol Nuur - 2,620 sq km; Har Us Nuur - 1,760 sq km;&nb
 _Salt water lake(s)_: Uvs Nuur - 3,350 sq km; Hyargas Nuur - 1,360 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amur (shared with Russia and China) - 4,444 km<br>
+Amur (shared with China [s] and Russia [m]) - 4,444 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 45.3 million cubic meters (2017 est.)<br>
@@ -595,15 +595,15 @@ NA bbl (1 January 2017)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 351,361<br>
-_subscriptions per 100 inhabitants_: 11.2 (2019 est.)<br>
+_total subscriptions_: 160,153 (2020)<br>
+_subscriptions per 100 inhabitants_: 4.89 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,418,919<br>
-_subscriptions per 100 inhabitants_: 140.87 (2019 est.)<br>
+_total subscriptions_: 4,363,919 (2020)<br>
+_subscriptions per 100 inhabitants_: 133.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>liberalized and competitive telecom market; steady growth in mobile broadband, but fixed-line broadband is still an economical option; installation of a fiber-optic network improved broadband and communication services between major urban centers; compared to other Asian countries, Mongolia's growth in telecom is moderate; mobile broadband rate is growing through competition among operators with reasonable tariffs; launch of 4G LTE services by all major operators; South Korean investment in landline and cellular services; partner in China’s economic corridor project; import of broadcasting equipment from China (2020)</p> (2020)<br>
+_general assessment_: liberalized and competitive telecom market; steady growth in mobile broadband, but fixed-line broadband is still an economical option; installation of a fiber-optic network improved broadband and communication services between major urban centers; compared to other Asian countries, Mongolia's growth in telecom is moderate; mobile broadband rate is growing through competition among operators with reasonable tariffs; launch of 4G LTE services by all major operators; South Korean investment in landline and cellular services; partner in China&rsquo;s economic corridor project; import of broadcasting equipment from China (2020)<br>
 _domestic_: very low fixed-line teledensity 12 per 100; there are four mobile-cellular providers and subscribership is increasing with 137 per 100 persons (2019)<br>
 _international_: country code - 976; satellite earth stations - 7 (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -619,8 +619,8 @@ _total_: 735,823<br>
 _percent of population_: 23.71% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 317,317<br>
-_subscriptions per 100 inhabitants_: 10.12 (2019 est.)<br>
+_total_: 307,166 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.37 (2020 est.)<br>
 
 ## Transportation
 
@@ -666,13 +666,13 @@ _unpaved_: 102,600 km (2017)<br>
 580 km (the only waterway in operation is Lake Hovsgol) (135 km); Selenge River (270 km) and Orhon River (175 km) are navigable but carry little traffic; lakes and rivers ice free from May to September) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 294<br>
-_by type_: bulk carrier 3, container ship 4, general cargo 113, oil tanker 70, other 104 (2020)<br>
+_total_: 302<br>
+_by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, other 96 (2021)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br> (2020)<br>
+Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br><br>Ministry of Justice and Home Affairs: National Police Agency, General Authority for Border Protection<br><br> (2020)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>

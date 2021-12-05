@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 5.12 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-3.4 beds/1,000 population (2017)<br>
+3.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,12 +216,12 @@ _female_: 95.1% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 18.3%<br>
-_male_: 15.5%<br>
-_female_: 21.4% (2019 est.)<br>
+_total_: 22.6%<br>
+_male_: 21%<br>
+_female_: 24.4% (2020 est.)<br>
 
 ## Environment
 
@@ -594,7 +594,7 @@ _total subscriptions_: 11,909,751<br>
 _subscriptions per 100 inhabitants_: 115.46 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed towards provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to fiber, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2021)</p> (2020)<br>
+_general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed towards provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to fiber, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
 _domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons (2019)<br>
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -658,8 +658,8 @@ _unpaved_: 11,606 km (2008)<br>
 210 km (on Douro River from Porto) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 673<br>
-_by type_: bulk carrier 74, container ship 255, general cargo 122, oil tanker 23, other 199 (2020)<br>
+_total_: 726<br>
+_by type_: bulk carrier 86, container ship 267, general cargo 137, oil tanker 27, other 209 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Leixoes, Lisbon, Setubal, Sines<br>

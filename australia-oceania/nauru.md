@@ -163,9 +163,6 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Physicians density**<br>
 1.35 physicians/1,000 population (2015)<br>
 
-**Hospital bed density**<br>
-5 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.3% of population<br>
 _improved: total_: total: 96.3% of population<br>
@@ -194,11 +191,6 @@ NA<br>
 
 **Education expenditures**<br>
 NA<br>
-
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 10 years (2008)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 26.6%<br>
@@ -526,11 +518,11 @@ _electrification - rural areas_: 98.7% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,900<br>
-_subscriptions per 100 inhabitants_: 14 (July 2016 est.)<br>
+_total subscriptions_: 0 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,212<br>
+_total subscriptions_: 10,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 94.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -548,6 +540,10 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 **Internet users**<br>
 _total_: 5,524<br>
 _percent of population_: 57% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 950 (2010)<br>
+_subscriptions per 100 inhabitants_: 9.5 (2018)<br>
 
 ## Transportation
 
@@ -573,8 +569,8 @@ _paved_: 24 km (2002)<br>
 _unpaved_: 6 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 5<br>
-_by type_: oil tanker 2, other 3 (2020)<br>
+_total_: 3<br>
+_by type_: oil tanker 1, other 2 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nauru<br>

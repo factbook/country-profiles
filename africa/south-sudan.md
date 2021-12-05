@@ -61,7 +61,7 @@ _other_: 43.5% (2018)<br>
 1,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -264,7 +264,7 @@ _widespread lack of access_: due to economic downturn, civil insecurity, lingeri
 _municipal solid waste generated annually_: 2,680,681 tons (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Tanzania, Uganda, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -534,11 +534,12 @@ _electrification - rural areas_: 23.6% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
+_total subscriptions_: less than 1<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,221,967<br>
-_subscriptions per 100 inhabitants_: 21.61 (2019 est.)<br>
+_total subscriptions_: 2,221,967 (2019)<br>
+_subscriptions per 100 inhabitants_: 20.09 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: landlocked and war-torn with little infrastructure and electricity, Sudan has one of the least developed telecom and Internet systems in the world and one of the lowest mobile penetration rates in Africa; instability, widespread poverty, and low literacy rate all contribute to a struggling telecom sector; due to revenue losses, the few carriers in the market have reduced the areas in which they offer service; the government recognizes positive effects of ICT on development and is providing a range of investment incentives; international community provided billions in aid to help the young country; Chinese investment plays a growing role in the infrastructure build-out and energy sectors; by 2020, one operator had initiated e-money service; international fiber cable link from Juba to Mombasa will drive down costs of Internet; government utilizes unchecked power to conduct surveillance and monitor communications; importer of broadcasting equipment from China (2020)<br>
@@ -557,8 +558,8 @@ _total_: 814,326<br>
 _percent of population_: 7.98% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 200<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 200 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -633,7 +634,7 @@ the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s 
 <p>South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan; periodic violent skirmishes with South Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; the boundary that separates Kenya and South Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 303,857 (Sudan), 16,985 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 304,341 (Sudan), 17,483 (Democratic Republic of the Congo) (2021)<br>
 _IDPs_: 1,436,000 (alleged coup attempt and ethnic conflict beginning in December 2013; information is lacking on those displaced in earlier years by: fighting in Abyei between the Sudanese Armed Forces and the Sudan People's Liberation Army (SPLA) in May 2011; clashes between the SPLA and dissident militia groups in South Sudan; inter-ethnic conflicts over resources and cattle; attacks from the Lord's Resistance Army; floods and drought) (2020)<br>
 _stateless persons_: 10,000 (2020)<br>
 

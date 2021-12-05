@@ -175,9 +175,6 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Physicians density**<br>
 0.54 physicians/1,000 population (2013)<br>
 
-**Hospital bed density**<br>
-2.6 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.6% of population<br>
 _improved: rural_: rural: 93.6% of population<br>
@@ -214,6 +211,11 @@ _definition_: can read and write Tongan and/or English<br>
 _total population_: 99.4%<br>
 _male_: 99.4%<br>
 _female_: 99.5% (2018)<br>
+
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 16 years<br>
+_male_: 15 years<br>
+_female_: 17 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 8.9%<br>
@@ -623,8 +625,8 @@ _paved_: 184 km (2011)<br>
 _unpaved_: 496 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 36<br>
-_by type_: bulk carrier 1, container ship 4, general cargo 14, oil tanker 1, other 16 (2020)<br>
+_total_: 32<br>
+_by type_: container ship 4, general cargo 13, oil tanker 1, other 14 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
@@ -632,7 +634,7 @@ _major seaport(s)_: Nuku'alofa, Neiafu, Pangai<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tonga Defense Services: Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
+Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, Territorial Forces, Land Force, Tonga Navy, Training Wing, Air Wing, and Support Unit (2021)<br>
 
 **Military and security service personnel strengths**<br>
 the Tonga Defense Services have approximately 500 personnel (2021)<br>

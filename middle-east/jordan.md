@@ -226,8 +226,8 @@ _female_: 97.8% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 11 years (2012)<br>
+_male_: 10 years<br>
+_female_: 11 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 37.3%<br>
@@ -311,7 +311,7 @@ parliamentary constitutional monarchy<br>
 _name_: Amman<br>
 _geographic coordinates_: 31 57 N, 35 56 E<br>
 _time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Friday in March; ends last Friday in October<br>
+_daylight saving time_: +1hr, begins last Friday in February; ends last Friday in October<br>
 _etymology_: in the 13th century B.C., the Ammonites named their main city "Rabbath Ammon"; "rabbath" designated "capital," so the name meant "The Capital of [the] Ammon[ites]"; over time, the "Rabbath" came to be dropped and the city became known simply as "Ammon" and then "Amman"<br>
 
 **Administrative divisions**<br>
@@ -603,15 +603,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 355,537<br>
-_subscriptions per 100 inhabitants_: 3.33 (2019 est.)<br>
+_total subscriptions_: 391,486 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.84 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,778,770<br>
-_subscriptions per 100 inhabitants_: 72.91 (2019 est.)<br>
+_total subscriptions_: 6,987,891 (2020)<br>
+_subscriptions per 100 inhabitants_: 68.49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Jordan is host to a growing number of ICT companies and has emerged as a technology start-up hub for the Middle East; recently focused on telecom solutions to pandemic issues such as e-health and education; progress in the digital financial services; economic goals rely on digital economy, developed mobile sector, and extensive LTE infrastructure; preparation for 5G and e-commerce; importer of broadcasting equipment from Vietnam and China (2021)</p> (2020)<br>
+_general assessment_: Jordan is host to a growing number of ICT companies and has emerged as a technology start-up hub for the Middle East; recently focused on telecom solutions to pandemic issues such as e-health and education; progress in the digital financial services; economic goals rely on digital economy, developed mobile sector, and extensive LTE infrastructure; preparation for 5G and e-commerce; importer of broadcasting equipment from Vietnam and China (2020)<br>
 _domestic_: 1995 a telecommunications law opened all non-fixed-line services to private competition; in 2005, the monopoly over fixed-line services terminated and the entire telecommunications sector was opened to competition; currently fixed-line 4 per 100 persons and multiple mobile-cellular providers with subscribership up to 77 per 100 persons (2019)<br>
 _international_: country code - 962; landing point for the&nbsp;FEA and&nbsp;Taba-Aqaba submarine cable networks providing connectivity to Europe, the Middle East, Southeast Asia and Asia; satellite earth stations - 33 (3 Intelsat, 1 Arabsat, and 29 land and maritime Inmarsat terminals (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -627,8 +627,8 @@ _total_: 6,985,174<br>
 _percent of population_: 66.79% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 457,496<br>
-_subscriptions per 100 inhabitants_: 4.29 (2019 est.)<br>
+_total_: 625,657 (2020)<br>
+_subscriptions per 100 inhabitants_: 6.13 (2020 est.)<br>
 
 ## Transportation
 
@@ -671,7 +671,7 @@ _paved_: 7,203 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 35<br>
-_by type_: general cargo 7, oil tanker 1, other 27 (2020)<br>
+_by type_: general cargo 6, oil tanker 1, other 28 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al 'Aqabah<br>
@@ -689,7 +689,7 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 4.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Jordanian Armed Forces (JAF) have approximately 90,000 active personnel (77,000 Army; 500 Navy; 12,500 Air Force); est. 15,000 Gendarmerie Forces (2021)<br>
+approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the JAF inventory is comprised of a wide mix of imported weapons, mostly second-hand equipment from Europe, the Gulf States, and the US; since 2010, the Netherlands and the US are the leading suppliers of military hardware to Jordan (2020)<br>

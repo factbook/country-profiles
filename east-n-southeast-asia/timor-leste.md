@@ -216,11 +216,6 @@ _total population_: 68.1%<br>
 _male_: 71.9%<br>
 _female_: 64.2% (2018)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 14 years<br>
-_female_: 13 years (2010)<br>
-
 **Unemployment, youth ages 15-24**<br>
 _total_: 13.2%<br>
 _male_: 10.9%<br>
@@ -592,7 +587,7 @@ _total subscriptions_: 1,425,256<br>
 _subscriptions per 100 inhabitants_: 105.41 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>following years of civil unrest, the government and operators are working toward regeneration of the economy and telecom infrastructure; service in urban and some rural areas expanding with competition; most of the population has access to 4G LTE service; increase in mobile-broadband penetration; government aims to boost e-government services with new national terrestrial fiber-optic network; launch of satellite and approval for submarine cable link to Australia will boost sector growth; importer of broadcasting equipment from Indonesia and China (2021)</p> (2020)<br>
+_general assessment_: following years of civil unrest, the government and operators are working toward regeneration of the economy and telecom infrastructure; service in urban and some rural areas expanding with competition; most of the population has access to 4G LTE service; increase in mobile-broadband penetration; government aims to boost e-government services with new national terrestrial fiber-optic network; launch of satellite and approval for submarine cable link to Australia will boost sector growth; importer of broadcasting equipment from Indonesia and China (2020)<br>
 _domestic_: system suffered significant damage during the violence associated with independence; limited fixed-line services, less than 1 per 100 and mobile-cellular services have been expanding and are now available in urban and most rural areas with teledensity of 110 per 100 (2019)<br>
 _international_: country code - 670; &nbsp;international service is available; partnership with Australia telecom companies for potential deployment of a submarine fiber-optic link (NWCS);&nbsp;geostationary earth orbit satellite<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -643,7 +638,7 @@ _unpaved_: 3,440 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2020)<br>
+_by type_: other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dili<br>
@@ -651,7 +646,7 @@ _major seaport(s)_: Dili<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components (2021)<br>
+Timor-Leste Defense Force (Falintil-Forcas de Defesa de Timor-L'este, Falintil (F-FDTL)): Joint Headquarters with Land, Air, Naval, Service Support, and Education/Training components; National Police (Pol&iacute;cia Nacional de Timor-Leste, PNTL) (2021)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2020 est.)<br>

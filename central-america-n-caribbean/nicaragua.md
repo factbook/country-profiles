@@ -333,12 +333,12 @@ _chief of state_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007);
 _head of government_: President Jose Daniel ORTEGA Saavedra (since 10 January 2007); Vice President Rosario MURILLO Zambrana (since 10 January 2017)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by qualified plurality vote for a 5-year term (no term limits as of 2014); election last held on 7 November 2021 (next to be held on 1 November 2026)<br>
-_election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75%, Walter ESPINOZA (PLC) 14.4%, Guillermo OSORNO (CCN) 3.4%, Marcelo MONTIEL (ALN) 3.2%, other 4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
+_election results_: <br><em>2021:</em> Jose Daniel ORTEGA Saavedra reelected president for a fourth consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 75.9%, Walter ESPINOZA (PLC) 14.3%, Guillermo OSORNO (CCN) 3.3%, Marcelo MONTIEL (ALN) 3.1%, other 3.4%<br><em><br>2016:</em> Jose Daniel ORTEGA Saavedra reelected president for a third consecutive term; percent of vote - Jose Daniel ORTEGA Saavedra (FSLN) 72.4%, Maximino RODRIGUEZ (PLC) 15%, Jose del Carmen ALVARADO (PLI) 4.5%, Saturnino CERRATO Hodgson (ALN) 4.3%, other 3.7%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Asamblea Nacional (92 seats; 70 members in multi-seat constituencies, representing the country's 15 departments and 2 autonomous regions, and 20 members in a single nationwide constituency directly elected by party-list proportional representation vote; 2 seats reserved for the previous president and the runner-up candidate in the previous presidential election; members serve 5-year terms)<br>
-_elections_: last held on 6 November 2016 (next to be held on 7 November 2021)<br>
-_election results_: percent of vote by party - NA; seats by party - FSLN 71, PLC 14, ALN 2, PLI 2, APRE 1, PC 1, YATAMA 1; composition - men 50, women 42, percent of women 45.7%<br>
+_elections_: last held on 7 November 2021 (next to be held on 1 November 2026)<br>
+_election results_: percent of vote by party - NA; seats by party - FSLN 75, PLC 9, ALN 2, APRE 1, CCN 1, PLI 1, YATAMA 1; composition - men 46, women 45, percent of women 49.4%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema de Justicia (consists of 16 judges organized into administrative, civil, criminal, and constitutional chambers)<br>
@@ -595,15 +595,15 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 228,782<br>
-_subscriptions per 100 inhabitants_: 3.73 (2019 est.)<br>
+_total subscriptions_: 210,981 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.18 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,788,432<br>
-_subscriptions per 100 inhabitants_: 94.46 (2019 est.)<br>
+_total subscriptions_: 5,976,479 (2020)<br>
+_subscriptions per 100 inhabitants_: 90.22 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>with authoritarian government, weak public institutions, and impoverished citizenry, Nicaragua’s telecom system is dependent on upgrades through foreign investment, primarily from Russia and China; World Bank funded national fiber broadband network and links to Caribbean submarine cables; Chinese-financed projects, including airport, oil pipeline, and roads in process; nearly all installed telecom capacity now uses financed digital technology; lowest fixed-line tele-density and mobile penetration in Central America; Internet cafes provide access to Internet and email services; rural areas lack access to most basic telecom infrastructure; LTE service in dozens of towns and cities; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: with authoritarian government, weak public institutions, and impoverished citizenry, Nicaragua&rsquo;s telecom system is dependent on upgrades through foreign investment, primarily from Russia and China; World Bank funded national fiber broadband network and links to Caribbean submarine cables; Chinese-financed projects, including airport, oil pipeline, and roads in process; nearly all installed telecom capacity now uses financed digital technology; lowest fixed-line tele-density and mobile penetration in Central America; Internet cafes provide access to Internet and email services; rural areas lack access to most basic telecom infrastructure; LTE service in dozens of towns and cities; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: since privatization, access to fixed-line and mobile-cellular services has improved; fixed-line teledensity roughly 4 per 100 persons; mobile-cellular telephone subscribership has increased to 88 per 100 persons (2019)<br>
 _international_: country code - 505; landing point for the ARCOS fiber-optic submarine cable which provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 1 Intersputnik (Atlantic Ocean region) and 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -619,8 +619,8 @@ _total_: 1,695,340<br>
 _percent of population_: 27.86% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 217,618<br>
-_subscriptions per 100 inhabitants_: 3.55 (2019 est.)<br>
+_total_: 290,351 (2020)<br>
+_subscriptions per 100 inhabitants_: 4.38 (2020 est.)<br>
 
 ## Transportation
 
@@ -660,7 +660,7 @@ _unpaved_: 20,551 km (2014)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
-_by type_: general cargo 1, oil tanker 1, other 3 (2020)<br>
+_by type_: general cargo 1, oil tanker 1, other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bluefields, Corinto<br>
@@ -668,7 +668,8 @@ _major seaport(s)_: Bluefields, Corinto<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza A&eacute;rea); Special Operations Command (Comando de Operaciones Especiales) (2021)<br>
+Army of Nicaragua (Ejercito de Nicaragua, EN): Land Forces (Fuerza Terrestre); Naval Forces (Fuerza Naval); Air Forces (Fuerza Aérea); Special Operations Command (Comando de Operaciones Especiales); Nicaraguan National Police (2021)<br>
+note - both the military and the police report directly to the president<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020 est.)<br>

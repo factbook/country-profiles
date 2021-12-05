@@ -209,14 +209,14 @@ _male_: 98.6%<br>
 _female_: 96% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
+_total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 16 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 28.8%<br>
-_male_: 19.9%<br>
-_female_: 62.6% (2018 est.)<br>
+_total_: 27.2%<br>
+_male_: 21.5%<br>
+_female_: 43.8% (2020 est.)<br>
 
 ## Environment
 
@@ -590,7 +590,7 @@ _total subscriptions_: 41,298,629<br>
 _subscriptions per 100 inhabitants_: 122.66 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the most progressive telecom markets in the Middle East; mobile penetration high, with a saturated market; mobile operators competitive and meeting the demand for workers, students and citizens working from home; Huawei partners with operator to provide 5G to dozens of cities; broadband is available with DSL, fiber, and wireless; mobile penetration is high; restrictive monarchy places limits on information and services available online; authorities operate extensive censorship and surveillance systems; major importer of broadcasting equipment from UAE and China (2020)</p> (2020)<br>
+_general assessment_: one of the most progressive telecom markets in the Middle East; mobile penetration high, with a saturated market; mobile operators competitive and meeting the demand for workers, students and citizens working from home; Huawei partners with operator to provide 5G to dozens of cities; broadband is available with DSL, fiber, and wireless; mobile penetration is high; restrictive monarchy places limits on information and services available online; authorities operate extensive censorship and surveillance systems; major importer of broadcasting equipment from UAE and China (2020)<br>
 _domestic_: fixed-line 16 per 100 and mobile-cellular subscribership has been increasing rapidly to 121 per 100 persons (2019)<br>
 _international_: country code - 966; landing points for the SeaMeWe-3, -4, -5, AAE-1, EIG, FALCON, FEA, IMEWE, MENA/Gulf Bridge International, SEACOM, SAS-1, -2, GBICS/MENA, and the Tata TGN-Gulf submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; microwave radio relay to Bahrain, Jordan, Kuwait, Qatar, UAE, Yemen, and Sudan; coaxial cable to Kuwait and Jordan; satellite earth stations - 5 Intelsat (3 Atlantic Ocean and 2 Indian Ocean), 1 Arabsat, and 1 Inmarsat (Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -657,8 +657,8 @@ _paved_: 47,529 km (includes 3,891 km of expressways) (2006)<br>
 _unpaved_: 173,843 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 376<br>
-_by type_: bulk carrier 5, container ship 1, general cargo 22, oil tanker 61, other 287 (2020)<br>
+_total_: 392<br>
+_by type_: bulk carrier 5, container ship 1, general cargo 21, oil tanker 58, other 307 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ad Dammam, Al Jubayl, Jeddah, King Abdulla, Yanbu'<br>

@@ -63,7 +63,7 @@ _other_: 41.9% (2018 est.)<br>
 240 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -225,13 +225,13 @@ _female_: 98.9% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 16 years (2018)<br>
+_male_: 14 years<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16.6%<br>
-_male_: 14.5%<br>
-_female_: 19.8% (2019 est.)<br>
+_total_: 21.1%<br>
+_male_: 18.7%<br>
+_female_: 25% (2020 est.)<br>
 
 ## Environment
 
@@ -278,7 +278,7 @@ _municipal solid waste recycled annually_: 269,933 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 16.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -606,15 +606,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,333,661<br>
-_subscriptions per 100 inhabitants_: 31.38 (2019 est.)<br>
+_total subscriptions_: 1,300,105 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.67 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,404,652<br>
-_subscriptions per 100 inhabitants_: 103.63 (2019 est.)<br>
+_total subscriptions_: 4,375,699 (2020)<br>
+_subscriptions per 100 inhabitants_: 106.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Croatia’s telecom market improved through partnership with the EU in 2013, opening a competitive market in mobile and broadband and conducive regulatory environment; one of the highest mobile penetration rates in the Balkans, covering most remote areas; local lines are digital; international operator investment provides relatively high broadband penetration; tests for 5G technologies in 2020 (2020)</p> (2020)<br>
+_general assessment_: Croatia&rsquo;s telecom market improved through partnership with the EU in 2013, opening a competitive market in mobile and broadband and conducive regulatory environment; one of the highest mobile penetration rates in the Balkans, covering most remote areas; local lines are digital; international operator investment provides relatively high broadband penetration; tests for 5G technologies in 2020 (2020)<br>
 _domestic_: fixed-line teledensity has dropped somewhat to about 32 per 100 persons; mobile-cellular telephone subscriptions 107 per 100 (2019)<br>
 _international_: country code - 385; &nbsp;the ADRIA-1 submarine cable provides connectivity to Albania and Greece;&nbsp;digital international service is provided through the main switch in Zagreb; Croatia participates in the Trans-Asia-Europe fiber-optic project, which consists of 2 fiber-optic trunk connections with Slovenia and a fiber-optic trunk line from Rijeka to Split and Dubrovnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -630,8 +630,8 @@ _total_: 3,104,212<br>
 _percent of population_: 72.69% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,154,773<br>
-_subscriptions per 100 inhabitants_: 27.17 (2019 est.)<br>
+_total_: 1,030,973 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.11 (2020 est.)<br>
 
 ## Transportation
 
@@ -678,8 +678,8 @@ _total_: 26,958 km (includes 1,416 km of expressways) (2015)<br>
 785 km (2009)<br>
 
 **Merchant marine**<br>
-_total_: 343<br>
-_by type_: bulk carrier 14, general cargo 33, oil tanker 19, other 277 (2020)<br>
+_total_: 354<br>
+_by type_: bulk carrier 14, general cargo 32, oil tanker 16, other 292 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ploce, Rijeka, Sibenik, Split<br>

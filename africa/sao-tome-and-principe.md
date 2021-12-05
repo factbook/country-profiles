@@ -631,8 +631,8 @@ _paved_: 230 km (2018)<br>
 _unpaved_: 1,070 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 17<br>
-_by type_: general cargo 12, other 5 (2020)<br>
+_total_: 22<br>
+_by type_: general cargo 13, oil tanker 2, other 7 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sao Tome<br>
@@ -640,7 +640,7 @@ _major seaport(s)_: Sao Tome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP; also called "Navy"), Presidential Guard, National Guard (2021)<br>
+Armed Forces of Sao Tome and Principe (Forcas Armadas de Sao Tome e Principe, FASTP): Army, Coast Guard of Sao Tome e Principe (Guarda Costeira de Sao Tome e Principe, GCSTP), Presidential Guard, National Guard (2021)<br>
 
 **Military and security service personnel strengths**<br>
 the FASTP has approximately 4-500 personnel (2020)<br>

@@ -179,7 +179,7 @@ NA<br>
 1.45 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2018)<br>
+1.3 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,14 +216,14 @@ _female_: 96.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2019)<br>
+_male_: 12 years<br>
+_female_: 14 years (2020)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 40.2%<br>
-_male_: 34.8%<br>
-_female_: 67.2% (2019 est.)<br>
+_total_: 42.1%<br>
+_male_: 36.6%<br>
+_female_: 70% (2020 est.)<br>
 <strong>note:</strong> includes Gaza Strip<br>
 
 ## Environment
@@ -546,6 +546,7 @@ _paved_: 4,686 km (2010)<br>
 
 **Military and security forces**<br>
 per the Oslo Accords, the PA is not permitted a conventional military but maintains security and police forces; PA security personnel have operated almost exclusively in the West Bank since HAMAS seized power in the Gaza Strip in 2007; PA forces include National Security Forces, Presidential Guard, Civil Police, Civil Defense, Preventative Security Service, the General Intelligence Organization, and the Military Intelligence Organization (2021)<br>
+note(s) - the National Security Forces conduct gendarmerie-style security operations in circumstances that exceed the capabilities of the civil police; it is the largest branch of the Palestinian Authority security service and acts as the Palestinian army; the Presidential Guard protects facilities and provides dignitary protection; the Preventive Security Organization is responsible for internal intelligence gathering and investigations related to internal security cases, including political dissent<br>
 
 **Military and security service personnel strengths**<br>
 the Palestinian Authority Security Forces have approximately 30,000 active personnel (2020)<br>

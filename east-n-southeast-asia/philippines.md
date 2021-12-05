@@ -227,12 +227,12 @@ _female_: 96.9% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 15 years (2017)<br>
+_female_: 13 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 6.8%<br>
-_male_: 5.9%<br>
-_female_: 8.3% (2019 est.)<br>
+_total_: 7%<br>
+_male_: 6.1%<br>
+_female_: 8.5% (2020 est.)<br>
 
 **People - note**<br>
 one of only two predominantly Christian nations in Southeast Asia, the other being Timor-Leste<br>
@@ -615,7 +615,7 @@ _total subscriptions_: 167,322,432<br>
 _subscriptions per 100 inhabitants_: 155.61 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2020)<br>
 _domestic_: telecommunications infrastructure includes the following platforms: fixed line, mobile cellular, cable TV, over-the-air TV, radio and (very small aperture terminal) VSAT, fiber-optic cable, and satellite for redundant international connectivity; fixed-line 4 per 100 and mobile-cellular 155 per 100 (2019)<br>
 _international_: country code - 63; landing points for the NDTN, TGN-IA, AAG, PLCN, EAC-02C, DFON, SJC, APCN-2, SeaMeWe, Boracay-Palawan Submarine Cable System, Palawa-Illoilo Cable System, NDTN, SEA-US, SSSFOIP, ASE and JUPITAR submarine cables that together provide connectivity to the US, Southeast Asia, Asia, Europe, Africa, the Middle East, and Australia (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -682,8 +682,8 @@ _unpaved_: 155,294 km (2014)<br>
 3,219 km (limited to vessels with draft less than 1.5 m) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,747<br>
-_by type_: bulk carrier 69, container ship 45, general cargo 682, oil tanker 203, other 748 (2020)<br>
+_total_: 1,805<br>
+_by type_: bulk carrier 62, container ship 44, general cargo 716, oil tanker 205, other 778 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Batangas, Cagayan de Oro, Cebu, Davao, Liman, Manila<br>
@@ -733,5 +733,5 @@ _IDPs_: 153,000 (government troops fighting the Moro Islamic Liberation Front, t
 _stateless persons_: 387 (2020); note - stateless persons are descendants of Indonesian migrants<br>
 
 **Illicit drugs**<br>
-domestic methamphetamine production has been a growing problem in recent years despite government crackdowns; major consumer of amphetamines; longstanding marijuana producer mainly in rural areas where Manila's control is limited<br>
+cannabis products, methamphetamine hydrochloride (locally known as "shabu"), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals are in transit from China to Burma<br>
 

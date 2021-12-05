@@ -221,7 +221,7 @@ _female_: 91.6% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2018)<br>
+_female_: 14 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 21.1%<br>
@@ -665,8 +665,8 @@ _unpaved_: 97,116 km (2010)<br>
 160 km (primarily on rivers in southwest) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 96<br>
-_by type_: bulk carrier 6, container ship 1, general cargo 19, oil tanker 12, other 58 (2020)<br>
+_total_: 90<br>
+_by type_: bulk carrier 6, general cargo 13, oil tanker 11, other 60 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colombo<br>
@@ -685,7 +685,7 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force) (2021)<br>
+the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2020)<br>

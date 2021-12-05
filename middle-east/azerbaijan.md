@@ -66,7 +66,7 @@ _other_: 31.1% (2018 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Russia, Turkmenistan, and Kazakhstan) - 374,000 sq km<br>
 
 **Population distribution**<br>
-highest population density is found in the far eastern area of the county, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
+highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
 
 **Natural hazards**<br>
 droughts<br>
@@ -93,7 +93,7 @@ _major-language sample(s)_: <br>Dünya fakt kitabı, əsas məlumatlar üçün �
 <strong>note:</strong> Russian is widely spoken<br>
 
 **Religions**<br>
-Muslim 96.9% (predominantly Shia), Christian 3%, other &lt;0.1, unaffiliated &lt;0.1 (2010 est.)<br>
+Muslim 97.3% (predominantly Shia), Christian 2.6%, other &lt;0.1, unaffiliated &lt;0.1 (2020 est.)<br>
 <strong>note:</strong> religious affiliation for the majority of Azerbaijanis is largely nominal, percentages for actual practicing adherents are probably much lower<br>
 
 **Age structure**<br>
@@ -127,7 +127,7 @@ _female_: 34.2 years (2020 est.)<br>
 0 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
-highest population density is found in the far eastern area of the county, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
+highest population density is found in the far eastern area of the country, in and around Baku; apart from smaller urbanized areas, the rest of the country has a fairly light and evenly distributed population<br>
 
 **Urbanization**<br>
 _urban population_: 56.8% of total population (2021)<br>
@@ -220,7 +220,7 @@ _female_: 99.7% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2019)<br>
+_female_: 14 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 12.4%<br>
@@ -657,8 +657,8 @@ _broad gauge_: 2,944.3 km 1.520-m gauge (approx. 1,767 km electrified) (2017)<br
 _total_: 24,981 km (2013)<br>
 
 **Merchant marine**<br>
-_total_: 303<br>
-_by type_: general cargo 38, oil tanker 45, other 220 (2020)<br>
+_total_: 305<br>
+_by type_: general cargo 38, oil tanker 43, other 224 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baku (Baki) located on the Caspian Sea<br>
@@ -688,7 +688,7 @@ the inventory of the Azerbaijan military is comprised mostly of Russian and Sovi
 18-35 years of age for compulsory military service; service obligation 18 months or 12 months for university graduates; 17 years of age for voluntary service; 17 year olds are considered to be on active service at cadet military schools (2020)<br>
 
 **Military - note**<br>
-since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high through 2021, and Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory including along a lake shared by the two countries since the fighting ended<br>
+since November 2020, Russia has deployed about 2,000 peacekeeping troops to the area in and around Nagorno-Karabakh as part of a cease-fire agreement between Armenia and Azerbaijan; fighting erupted between the two countries over the Nagorno-Karabakh region in September of 2020; Nagorno-Karabakh lies within Azerbaijan but has been under control of ethnic Armenian forces (the "Nagorno-Karabakh Defense Army") backed by Armenia since a separatist war there ended in 1994; six weeks of fighting resulted in about 6,000 deaths and ended after Armenia ceded swathes of Nagorno-Karabakh territory; tensions remained high through 2021, and both sides have accused the other of provocations since the fighting ended; Armenia has accused Azerbaijani forces of a series of border intrusions and of seizing pockets of territory<br>
 
 ## Terrorism
 

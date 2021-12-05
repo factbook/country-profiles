@@ -184,7 +184,7 @@ _unimproved: total_: total: 23.6% of population (2017 est.)<br>
 0.08 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-0.5 beds/1,000 population (2010)<br>
+0.5 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 58.7% of population<br>
@@ -231,9 +231,9 @@ _male_: 14 years<br>
 _female_: 11 years (2016)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 5.6%<br>
-_male_: 5.2%<br>
-_female_: 5.9% (2011 est.)<br>
+_total_: 3.9%<br>
+_male_: 3.2%<br>
+_female_: 4.5% (2018 est.)<br>
 
 ## Environment
 
@@ -666,7 +666,7 @@ _unpaved_: 14,600 km (2006)<br>
 
 **Merchant marine**<br>
 _total_: 6<br>
-_by type_: other 6 (2020)<br>
+_by type_: other 6 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cotonou<br>
@@ -700,7 +700,7 @@ the FAB is equipped with a small mix of mostly older French and Soviet-era equip
 18-35 years of age for selective compulsory and voluntary military service; a higher education diploma is required; both sexes are eligible for military service; conscript tour of duty - 18 months (2019)<br>
 
 **Military - note**<br>
-Benin participates in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties (2021)<br>
+as of 2021, Benin participated in the Multinational Joint Task Force (MNJTF) against Boko Haram along with Cameroon, Chad, Niger, and Nigeria; the Benin military contingent is in charge of MNJTF garrison duties<br> <p>the FAB has a close working relationship with the Belgian armed forces; the Belgians offer advice, training, and secondhand equipment donations, and deploy to Benin for limited military exercises</p><br>
 
 ## Terrorism
 

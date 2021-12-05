@@ -214,12 +214,12 @@ _female_: 96.1% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 9.1%<br>
-_male_: 6.2%<br>
-_female_: 12.5% (2016 est.)<br>
+_total_: 10.6%<br>
+_male_: 8.1%<br>
+_female_: 13.5% (2020 est.)<br>
 
 ## Environment
 
@@ -591,7 +591,7 @@ _total subscriptions_: 9,034,300<br>
 _subscriptions per 100 inhabitants_: 157.02 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; operators proceeded with investment programs, particularly in 5G standalone networks; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers, controls Internet content, and regulators lack independence; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)</p> (2020)<br>
+_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; operators proceeded with investment programs, particularly in 5G standalone networks; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers, controls Internet content, and regulators lack independence; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2020)<br>
 _domestic_: excellent domestic facilities; fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity; multiple providers of high-speed Internet connectivity (2019)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -640,8 +640,8 @@ _total_: 3,500 km (2017)<br>
 _paved_: 3,500 km (includes 164 km of expressways) (2017)<br>
 
 **Merchant marine**<br>
-_total_: 3,420<br>
-_by type_: bulk carrier 570, container ship 497, general cargo 123, oil tanker 748, other 1,482 (2020)<br>
+_total_: 3,321<br>
+_by type_: bulk carrier 576, container ship 514, general cargo 113, oil tanker 699, other 1,419 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Singapore<br>

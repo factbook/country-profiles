@@ -65,7 +65,7 @@ _other_: 9.7% (2018 est.)<br>
 340 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Volta (shared with Burkina Faso) - 1,600 km<br>
+Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
@@ -234,7 +234,7 @@ _female_: 74.5% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
 _male_: 12 years<br>
-_female_: 12 years (2019)<br>
+_female_: 12 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 9.1%<br>
@@ -288,7 +288,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 _municipal solid waste generated annually_: 3,538,275 tons (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Volta (shared with Burkina Faso) - 1,600 km<br>
+Volta river mouth (shared with Burkina Faso [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Volta (410,991 sq km)<br>
@@ -610,15 +610,15 @@ _electrification - rural areas_: 75% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 288,531<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 307,668 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,857,077<br>
-_subscriptions per 100 inhabitants_: 132.15 (2019 est.)<br>
+_total subscriptions_: 40,461,609 (2020)<br>
+_subscriptions per 100 inhabitants_: 130.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>challenged by unreliable electricity, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services; launch of LTE has improved mobile data services, including m-commerce and banking; highly competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices (2020)</p> (2020)<br>
+_general assessment_: challenged by unreliable electricity, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services; launch of LTE has improved mobile data services, including m-commerce and banking; highly competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices (2020)<br>
 _domestic_: fixed-line 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 134 per 100 persons and rising (2019)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; Ghana-1 satellite launched in 2020 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -634,8 +634,8 @@ _total_: 10,959,964<br>
 _percent of population_: 39% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 58,518<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 78,371 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -677,8 +677,8 @@ _unpaved_: 95,728 km (2009)<br>
 1,293 km (168 km for launches and lighters on Volta, Ankobra, and Tano Rivers; 1,125 km of arterial and feeder waterways on Lake Volta) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 50<br>
-_by type_: general cargo 6, oil tanker 3, other 41 (2020)<br>
+_total_: 51<br>
+_by type_: general cargo 7, oil tanker 3, other 41 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Takoradi, Tema<br>
@@ -709,6 +709,9 @@ the inventory of the Ghana Armed Forces is a mix of Russian, Chinese, and Wester
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service, with basic education certificate; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>the military of Ghana traces its origins to the Gold Coast Constabulary that was established in 1879 and renamed the Gold Coast Regiment in 1901; the Gold Coast Regiment was part of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; following independence in 1957, the Gold Coast Regiment formed the basis for the new Ghanaian Army</p> <p>as of 2021, the primary missions for the Ghanaian military included assisting other security services with internal security and patrolling the country’s economic exclusion zone, which has led to efforts to expand the Navy’s capabilities in recent years; since sending a contingent of troops to the Congo in 1960, the Ghana military has been a regular contributor to African- and UN-sponsored peacekeeping missions</p><br>
 
 ## Transnational Issues
 

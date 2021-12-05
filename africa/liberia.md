@@ -180,9 +180,6 @@ _unimproved: total_: total: 19% of population (2017 est.)<br>
 **Physicians density**<br>
 0.04 physicians/1,000 population (2015)<br>
 
-**Hospital bed density**<br>
-0.8 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 64.1% of population<br>
 _improved: rural_: rural: 23.5% of population<br>
@@ -586,15 +583,15 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,394<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 8,000 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,793,316<br>
+_total subscriptions_: 2.66 million (2018)<br>
 _subscriptions per 100 inhabitants_: 56.57 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>due to history of civil war and ruin of infrastructure, almost entirely wireless telecom market; good competition for mobile services; high cost and limited bandwidth means Internet access is low; additional investment needed for increased submarine cable access; progress in creating an attractive business-friendly environment is hampered by a weak regulatory environment, corruption, lack of transparency, poor infrastructure, and low private sector capacity; rural areas have little access; fixed-line service is stagnant and extremely limited; operators introducing e-commerce; importer of broadcast equipment from China (2021)</p> (2020)<br>
+_general assessment_: due to history of civil war and ruin of infrastructure, almost entirely wireless telecom market; good competition for mobile services; high cost and limited bandwidth means Internet access is low; additional investment needed for increased submarine cable access; progress in creating an attractive business-friendly environment is hampered by a weak regulatory environment, corruption, lack of transparency, poor infrastructure, and low private sector capacity; rural areas have little access; fixed-line service is stagnant and extremely limited; operators introducing e-commerce; importer of broadcast equipment from China (2020)<br>
 _domestic_: fixed-line less than 1 per 100; mobile-cellular subscription base growing and teledensity approached 57 per 100 persons (2019)<br>
 _international_: country code - 231; landing point for the ACE submarine cable&nbsp;linking 20 West&nbsp;African countries and Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -610,8 +607,8 @@ _total_: 383,819<br>
 _percent of population_: 7.98% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,000<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_total_: 9,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -647,8 +644,8 @@ _paved_: 657 km (2018)<br>
 _unpaved_: 9,943 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 3,716<br>
-_by type_: bulk carrier 1,325, container ship 858, general cargo 141, oil tanker 820, other 572 (2020)<br>
+_total_: 3,942<br>
+_by type_: bulk carrier 1,487, container ship 878, general cargo 131, oil tanker 851, other 595 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Buchanan, Monrovia<br>
@@ -657,7 +654,8 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 
 **Military and security forces**<br>
 Armed Forces of Liberia (AFL): Army, Liberian Coast Guard (2021)<br>
-note - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
+note(s) - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
+the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
@@ -670,7 +668,7 @@ note - an AFL Air Wing is under development; it was previously disbanded in 2005
 the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFL has almost no significant combat hardware as nearly all aircraft, equipment, materiel, and facilities were damaged or destroyed during the country's civil war; it has received little new equipment outside of ammunition, small arms, and trucks from China in 2008, and boats and vehicles donated by the US in the 2010s (2020)<br>
+the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US&nbsp; (2020)<br>
 
 **Military deployments**<br>
 150 Mali (MINUSMA) (Sep 2021)<br>
@@ -678,13 +676,16 @@ the AFL has almost no significant combat hardware as nearly all aircraft, equipm
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription (2019)<br>
 
+**Military - note**<br>
+<p>the first militia unit established for defense of the colony was raised in 1832; the Armed Forces of Liberia (AFL) traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970; at the end of the second civil war in 2003, military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed; the AFL began to rebuild in 2003 with US assistance and the first infantry battalion of the restructured AFL was re-activated in late 2007; a second battalion was added in 2008</p> <p>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018</p> <p>as of 2021, the AFL was comprised mostly of a small ground force consisting of 2 infantry battalions, while the Coast Guard had only a few small patrol boats; the AFL had no aircraft</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>as the UN Mission in Liberia (UNMIL) continues to drawdown prior to the 1 March 2018 closure date, the peacekeeping force is being reduced to 434 soldiers and two police units; some Liberian refugees still remain in Guinea, Cote d'Ivoire, Sierra Leone, and Ghana; Liberia shelters 8,804 Ivoirian refugees, as of 2019</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 8,309 (Cote d'Ivoire) (2021)<br>
+_refugees (country of origin)_: 8,295 (Cote d'Ivoire) (2021)<br>
 
 **Illicit drugs**<br>
 <p>not a significant transit country for illicit narcotics but proximity to major drug routes contribute to trafficking; not a significant producer of illicit narcotics; local drug use involves marijuana, heroin, cocaine, the synthetic opioid tramadol, and amphetamine-type stimulants</p><br>

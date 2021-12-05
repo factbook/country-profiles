@@ -177,7 +177,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.56 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-4.3 beds/1,000 population (2009)<br>
+4.3 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -211,10 +211,15 @@ _total population_: 97.7%<br>
 _male_: 97.3%<br>
 _female_: 98.1% (2016)<br>
 
+**School life expectancy (primary to tertiary education)**<br>
+_total_: 13 years<br>
+_male_: 12 years<br>
+_female_: 14 years (2019)<br>
+
 **Unemployment, youth ages 15-24**<br>
-_total_: 15.9%<br>
-_male_: 19.1%<br>
-_female_: 12.1% (2016 est.)<br>
+_total_: 15.5%<br>
+_male_: 18.5%<br>
+_female_: 11.7% (2019 est.)<br>
 
 ## Environment
 
@@ -558,15 +563,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,664<br>
-_subscriptions per 100 inhabitants_: 4.26 (2019 est.)<br>
+_total subscriptions_: 14,508 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 828,042<br>
-_subscriptions per 100 inhabitants_: 211.51 (2019 est.)<br>
+_total subscriptions_: 717,708 (2020)<br>
+_subscriptions per 100 inhabitants_: 132.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>upgrades to telecom infrastructure extended to outer islands; two mobile operators extend LTE coverage; tourism has strengthened the telecom market with investment and accounts for the high mobile penetration rate; launched 5G tests (2020)</p> (2020)<br>
+_general assessment_: upgrades to telecom infrastructure extended to outer islands; two mobile operators extend LTE coverage; tourism has strengthened the telecom market with investment and accounts for the high mobile penetration rate; launched 5G tests (2020)<br>
 _domestic_: fixed-line is at 3 per 100 persons and high mobile-cellular subscriptions stands at 156 per 100 persons (2019)<br>
 _international_: country code - 960; landing points for Dhiraagu Cable Network, NaSCOM, Dhiraagu-SLT Submarine Cable Networks and WARF submarine cables providing connections to 8 points in Maldives, India, and Sri Lanka;&nbsp;satellite earth station - 3 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -582,8 +587,8 @@ _total_: 248,004<br>
 _percent of population_: 63.19% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 52,976<br>
-_subscriptions per 100 inhabitants_: 13.53 (2019 est.)<br>
+_total_: 63,685 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.78 (2020 est.)<br>
 
 ## Transportation
 
@@ -616,8 +621,8 @@ _paved_: 93 km - 60 km in Male; 16 km on Addu Atolis; 17 km on Laamu (2018)<br>
 <strong>note:</strong> island roads are mainly compacted coral<br>
 
 **Merchant marine**<br>
-_total_: 67<br>
-_by type_: general cargo 21, oil tanker 18, other 28 (2020)<br>
+_total_: 68<br>
+_by type_: general cargo 21, oil tanker 19, other 28 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Male<br>

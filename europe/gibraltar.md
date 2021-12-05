@@ -452,15 +452,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,968<br>
-_subscriptions per 100 inhabitants_: 57.71 (2019 est.)<br>
+_total subscriptions_: 16,968 (2019)<br>
+_subscriptions per 100 inhabitants_: 50.35 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 40,537<br>
-_subscriptions per 100 inhabitants_: 137.88 (2019 est.)<br>
+_total subscriptions_: 40,537 (2019)<br>
+_subscriptions per 100 inhabitants_: 120.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2020) (2018)<br>
+_general assessment_: Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2020)<br>
 _domestic_: automatic exchange facilities; 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)<br>
 _international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
@@ -475,8 +475,8 @@ _total_: 27,823<br>
 _percent of population_: 94.44% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,497<br>
-_subscriptions per 100 inhabitants_: 66.32 (2019 est.)<br>
+_total_: 19,497 (2019)<br>
+_subscriptions per 100 inhabitants_: 57.85 (2019 est.)<br>
 
 ## Transportation
 
@@ -495,8 +495,8 @@ _total_: 29 km (2007)<br>
 _paved_: 29 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 217<br>
-_by type_: bulk carrier 8, container ship 24, general cargo 64, oil tanker 21, other 100 (2020)<br>
+_total_: 202<br>
+_by type_: bulk carrier 8, container ship 19, general cargo 55, oil tanker 20, other 100 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gibraltar<br>

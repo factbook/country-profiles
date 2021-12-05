@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.48 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-4.7 beds/1,000 population (2017)<br>
+4.6 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -217,14 +217,14 @@ _male_: 99.8%<br>
 _female_: 99.8% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_total_: 16 years<br>
+_male_: 15 years<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 11.1%<br>
-_male_: 10.5%<br>
-_female_: 11.7% (2019 est.)<br>
+_total_: 17.9%<br>
+_male_: 17.4%<br>
+_female_: 18.4% (2020 est.)<br>
 
 ## Environment
 
@@ -590,15 +590,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 324,388<br>
-_subscriptions per 100 inhabitants_: 26.24 (2019 est.)<br>
+_total subscriptions_: 304,728 (2020)<br>
+_subscriptions per 100 inhabitants_: 22.97 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,951,051<br>
-_subscriptions per 100 inhabitants_: 157.82 (2019 est.)<br>
+_total subscriptions_: 1,925,789 (2020)<br>
+_subscriptions per 100 inhabitants_: 145.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: greatly improved telecom service through a range of regulatory measures, competition,&nbsp;and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and&nbsp;highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2021) (2020)<br>
+_general assessment_: greatly improved telecom service through a range of regulatory measures, competition, and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2020)<br>
 _domestic_: 25 per 100 for fixed-line and 147 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2019)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -614,8 +614,8 @@ _total_: 1,111,896<br>
 _percent of population_: 89.36% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 431,251<br>
-_subscriptions per 100 inhabitants_: 34.88 (2019 est.)<br>
+_total_: 415,610 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.33 (2020 est.)<br>
 
 ## Transportation
 
@@ -663,8 +663,8 @@ _unpaved_: 47,985 km (2011)<br>
 335 km (320 km are navigable year-round) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 67<br>
-_by type_: general cargo 2, oil tanker 5, other 60 (2020)<br>
+_total_: 68<br>
+_by type_: general cargo 2, oil tanker 4, other 62 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>

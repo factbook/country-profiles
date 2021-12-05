@@ -591,15 +591,15 @@ _electrification - rural areas_: 90% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 130,497<br>
-_subscriptions per 100 inhabitants_: 17.52 (2019 est.)<br>
+_total subscriptions_: 135,795 (2018)<br>
+_subscriptions per 100 inhabitants_: 17.52 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 617,998<br>
+_total subscriptions_: 643,210 (2018)<br>
 _subscriptions per 100 inhabitants_: 82.97 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: revenues gained from newly tapped off-shore oil reserves may provide a boost of Guyana&rsquo;s infrastructure, including upgrade of aging telecom systems to LTE and fiber broadband; competition in mobile services but monopoly in fixed-line; submarine cable improved broadband availability but service is still slow and expensive; second cable will improve delivery and pricing; government promotes ICT for e-government, e-health, and tele-education, and connection to remote locations (2021) (2020)<br>
+_general assessment_: revenues gained from newly tapped off-shore oil reserves may provide a boost of Guyana&rsquo;s infrastructure, including upgrade of aging telecom systems to LTE and fiber broadband; competition in mobile services but monopoly in fixed-line; submarine cable improved broadband availability but service is still slow and expensive; second cable will improve delivery and pricing; government promotes ICT for e-government, e-health, and tele-education, and connection to remote locations (2020)<br>
 _domestic_: fixed-line teledensity is about 18 per 100 persons; mobile-cellular teledensity about 83 per 100 persons (2019)<br>
 _international_: country code - 592; landing point for the SG-SCS submarine cable to Suriname,&nbsp;and the Caribbean;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -615,8 +615,8 @@ _total_: 276,498<br>
 _percent of population_: 37.33% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 64,889<br>
-_subscriptions per 100 inhabitants_: 9 (2017 est.)<br>
+_total_: 64,889 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 8.37 (2017 est.)<br>
 
 ## Transportation
 
@@ -647,8 +647,8 @@ _unpaved_: 3,196 km (2019)<br>
 330 km (the Berbice, Demerara, and Essequibo Rivers are navigable by oceangoing vessels for 150 km, 100 km, and 80 km respectively) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 58<br>
-_by type_: general cargo 28, oil tanker 7, other 23 (2020)<br>
+_total_: 56<br>
+_by type_: general cargo 26, oil tanker 7, other 23 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Georgetown<br>
@@ -673,6 +673,9 @@ the Guyana Defense Force's limited inventory is mostly comprised of second-hand 
 
 **Military service age and obligation**<br>
 18 years of age or older for voluntary military service; no conscription (2021)<br>
+
+**Military - note**<br>
+<p>the Guyana Defense Force was established in 1965; as of 2021, its primary missions were defense of the country, assisting civil authorities with law and order as needed, and contributing to the economic development of the country; the GDF’s ground force officers are trained at the British Royal Military Academy at Sandhurst, while coast guard officers receive training the British Royal Naval College</p><br>
 
 ## Transnational Issues
 

@@ -198,7 +198,7 @@ NA<br>
 2.6% of GDP (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 18 years<br>
+_total_: 17 years<br>
 _male_: 16 years<br>
 _female_: 19 years (2015)<br>
 
@@ -582,8 +582,8 @@ _paved_: 163 km (2002)<br>
 _unpaved_: 220 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 218<br>
-_by type_: bulk carrier 4, container ship 3, general cargo 35, oil tanker 52, other 124 (2020)<br>
+_total_: 244<br>
+_by type_: bulk carrier 6, container ship 7, general cargo 45, oil tanker 53, other 133 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Basseterre, Charlestown<br>

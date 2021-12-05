@@ -302,6 +302,14 @@ _electrification - total population_: 100% (2020)<br>
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: NA<br>
+_subscriptions per 100 inhabitants_: NA<br>
+
+**Telephones - mobile cellular**<br>
+_total subscriptions_: NA<br>
+_subscriptions per 100 inhabitants_: NA<br>
+
 **Telecommunication systems**<br>
 _general assessment_: automatic digital exchange (2018)<br>
 _domestic_: connected via fiber-optic cable to Telecom Italia network (2018)<br>

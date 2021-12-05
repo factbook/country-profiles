@@ -68,7 +68,7 @@ _other_: 96.3% (2018 est.)<br>
 _Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
-Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -103,7 +103,7 @@ Arabic (official), English, and French widely understood by educated classes<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، أفضل مصدر للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10% (2015 est.)<br>
+Muslim (predominantly Sunni) 90%, Christian (majority Coptic Orthodox, other Christians include Armenian Apostolic, Catholic, Maronite, Orthodox, and Anglican) 10%<br>
 
 **Demographic profile**<br>
 <p>Egypt is the most populous country in the Arab world and the third most populous country in Africa, behind Nigeria and Ethiopia. Most of the country is desert, so about 95% of the population is concentrated in a narrow strip of fertile land along the Nile River, which represents only about 5% of Egypt’s land area. Egypt’s rapid population growth – 46% between 1994 and 2014 – stresses limited natural resources, jobs, housing, sanitation, education, and health care.</p><p>Although the country’s total fertility rate (TFR) fell from roughly 5.5 children per woman in 1980 to just over 3 in the late 1990s, largely as a result of state-sponsored family planning programs, the population growth rate dropped more modestly because of decreased mortality rates and longer life expectancies. During the last decade, Egypt’s TFR decline stalled for several years and then reversed, reaching 3.6 in 2011, and has plateaued the last few years. Contraceptive use has held steady at about 60%, while preferences for larger families and early marriage may have strengthened in the wake of the recent 2011 revolution. The large cohort of women of or nearing childbearing age will sustain high population growth for the foreseeable future (an effect called population momentum).</p><p>Nevertheless, post-MUBARAK governments have not made curbing population growth a priority. To increase contraceptive use and to prevent further overpopulation will require greater government commitment and substantial social change, including encouraging smaller families and better educating and empowering women. Currently, literacy, educational attainment, and labor force participation rates are much lower for women than men. In addition, the prevalence of violence against women, the lack of female political representation, and the perpetuation of the nearly universal practice of female genital cutting continue to keep women from playing a more significant role in Egypt’s public sphere.</p><p>Population pressure, poverty, high unemployment, and the fragmentation of inherited land holdings have historically motivated Egyptians, primarily young men, to migrate internally from rural and smaller urban areas in the Nile Delta region and the poorer rural south to Cairo, Alexandria, and other urban centers in the north, while a much smaller number migrated to the Red Sea and Sinai areas. Waves of forced internal migration also resulted from the 1967 Arab-Israeli War and the floods caused by the completion of the Aswan High Dam in 1970. Limited numbers of students and professionals emigrated temporarily prior to the early 1970s, when economic problems and high unemployment pushed the Egyptian Government to lift restrictions on labor migration. At the same time, high oil revenues enabled Saudi Arabia, Iraq, and other Gulf states, as well as Libya and Jordan, to fund development projects, creating a demand for unskilled labor (mainly in construction), which attracted tens of thousands of young Egyptian men.</p><p>Between 1970 and 1974 alone, Egyptian migrants in the Gulf countries increased from approximately 70,000 to 370,000. Egyptian officials encouraged legal labor migration both to alleviate unemployment and to generate remittance income (remittances continue to be one of Egypt’s largest sources of foreign currency and GDP). During the mid-1980s, however, depressed oil prices resulting from the Iran-Iraq War, decreased demand for low-skilled labor, competition from less costly South Asian workers, and efforts to replace foreign workers with locals significantly reduced Egyptian migration to the Gulf States. The number of Egyptian migrants dropped from a peak of almost 3.3 million in 1983 to about 2.2 million at the start of the 1990s, but numbers gradually recovered.</p><p>In the 2000s, Egypt began facilitating more labor migration through bilateral agreements, notably with Arab countries and Italy, but illegal migration to Europe through overstayed visas or maritime human smuggling via Libya also rose. The Egyptian Government estimated there were 6.5 million Egyptian migrants in 2009, with roughly 75% being temporary migrants in other Arab countries (Libya, Saudi Arabia, Jordan, Kuwait, and the United Arab Emirates) and 25% being predominantly permanent migrants in the West (US, UK, Italy, France, and Canada).</p><p>During the 2000s, Egypt became an increasingly important transit and destination country for economic migrants and asylum seekers, including Palestinians, East Africans, and South Asians and, more recently, Iraqis and Syrians. Egypt draws many refugees because of its resettlement programs with the West; Cairo has one of the largest urban refugee populations in the world. Many East African migrants are interned or live in temporary encampments along the Egypt-Israel border, and some have been shot and killed by Egyptian border guards.</p><br>
@@ -235,14 +235,14 @@ _male_: 76.5%<br>
 _female_: 65.5% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2017)<br>
+_total_: 14 years<br>
+_male_: 14 years<br>
+_female_: 14 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 24.7%<br>
-_male_: 17.1%<br>
-_female_: 51.6% (2018 est.)<br>
+_total_: 19.2%<br>
+_male_: 12.2%<br>
+_female_: 49.3% (2019 est.)<br>
 
 ## Environment
 
@@ -290,7 +290,7 @@ _percent of municipal solid waste recycled_: 12.5% (2013 est.)<br>
 _Salt water lake(s)_: Lake Manzala - 1,360 sq km<br>note - largest of Nile Delta lakes<br>
 
 **Major rivers (by length in km)**<br>
-Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile river mouth (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Sudan) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -619,15 +619,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,760,436<br>
-_subscriptions per 100 inhabitants_: 8.61 (2019 est.)<br>
+_total subscriptions_: 9,858,331 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.63 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 95,340,262<br>
-_subscriptions per 100 inhabitants_: 93.68 (2019 est.)<br>
+_total subscriptions_: 95,357,427 (2020)<br>
+_subscriptions per 100 inhabitants_: 93.18 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: with a large urbanized population and effective competition, Egypt has one of the largest fixed-line and mobile telecom markets in North Africa; investment has spurred broadband infrastructure and migration to digital economy; operator has ambitions for satellite/smart infrastructure based on 5G and fiber networks; Egypt&rsquo;s geographical position enabled inexpensive bandwidth through fiber and cable connection to Europe, Middle East, and Asia; rural Internet connections continue to suffer from poor quality and low speeds; government disrupted service during political crises (2021) (2020)<br>
+_general assessment_: with a large urbanized population and effective competition, Egypt has one of the largest fixed-line and mobile telecom markets in North Africa; investment has spurred broadband infrastructure and migration to digital economy; operator has ambitions for satellite/smart infrastructure based on 5G and fiber networks; Egypt&rsquo;s geographical position enabled inexpensive bandwidth through fiber and cable connection to Europe, Middle East, and Asia; rural Internet connections continue to suffer from poor quality and low speeds; government disrupted service during political crises (2020)<br>
 _domestic_: fixed-line 9 per 100, mobile-cellular 95 per 100 (2019)<br>
 _international_: country code - 20; landing points for Aletar, Africa-1, FEA, Hawk, IMEWE,&nbsp;and the SEA-ME-WE-3 &amp; 4&nbsp;submarine cable networks linking to Asia, Africa, the Middle East, and Australia&nbsp;; satellite earth stations - 4 (2 Intelsat - Atlantic Ocean and Indian Ocean, 1 Arabsat, and 1 Inmarsat); tropospheric scatter to Sudan; microwave radio relay to Israel; a participant in Medarabtel (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -643,8 +643,8 @@ _total_: 46,644,728<br>
 _percent of population_: 46.92% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,598,941<br>
-_subscriptions per 100 inhabitants_: 7.47 (2019 est.)<br>
+_total_: 9,349,469 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.14 (2020 est.)<br>
 
 **Communications - note**<br>
 one of the largest and most famous libraries in the ancient world was the Great Library of Alexandria in Egypt (founded about 295 B.C., it may have survived in some form into the 5th century A.D.); seeking to resurrect the great center of learning and communication, the Egyptian Government in 2002 inaugurated the Bibliotheca Alexandrina, an Egyptian National Library on the site of the original Great Library, which commemorates the original archive and also serves as a center of cultural and scientific excellence<br>
@@ -696,8 +696,8 @@ _unpaved_: 17,050 km (2017)<br>
 3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 402<br>
-_by type_: bulk carrier 14, container ship 8, general cargo 28, oil tanker 37, other 315 (2020)<br>
+_total_: 421<br>
+_by type_: bulk carrier 14, container ship 8, general cargo 27, oil tanker 40, other 332 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mediterranean Sea - Alexandria, Damietta, El Dekheila, Port Said<br>
@@ -746,7 +746,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 134,952 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 135,239 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
 _stateless persons_: 10 (2020)<br>
 
 **Illicit drugs**<br>

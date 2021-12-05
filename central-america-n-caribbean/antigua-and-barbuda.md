@@ -588,8 +588,8 @@ _paved_: 386 km (2011)<br>
 _unpaved_: 784 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 727<br>
-_by type_: bulk carrier 27, container ship 135, general cargo 507, oil tanker 2, other 56 (2020)<br>
+_total_: 677<br>
+_by type_: bulk carrier 24, container ship 123, general cargo 473, oil tanker 2, other 55 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint John's<br>

@@ -68,7 +68,7 @@ _Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
 _Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -187,7 +187,7 @@ _unimproved: total_: total: 1.1% of population (2017 est.)<br>
 1.85 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-2.8 beds/1,000 population (2017)<br>
+2.9 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -228,12 +228,12 @@ _female_: 94.4% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 19 years<br>
-_female_: 18 years (2018)<br>
+_female_: 18 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 25.2%<br>
-_male_: 22.4%<br>
-_female_: 30.3% (2019 est.)<br>
+_total_: 25.1%<br>
+_male_: 22.5%<br>
+_female_: 29.9% (2020 est.)<br>
 
 ## Environment
 
@@ -282,7 +282,7 @@ _Fresh water lake(s)_: Lake Beysehir - 650 sq km; Lake Egridir - 520 sq km<br>
 _Salt water lake(s)_: Lake Van - 3,740 sq km; Lake Tuz - 1,640 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates river source (shared with Syria, Iran, and Iraq [m]) - 3,596 km; Tigris river source (shared with Syria, Iran, and Iraq [m]) - 1,950 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -359,7 +359,7 @@ _judge selection and term of office_: Constitutional Court members - 3 appointed
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
 **Political parties and leaders**<br>
-Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]<br>Felicity Party or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Ishak SAGLAM]<br>Good Party or TYIi [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
+Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]<br>Felicity Party or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Ishak SAGLAM]<br>Good Party or iYi [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
 <strong>note: </strong> as of December 2018, 83 political parties were legally registered<br>
 
 **International organization participation**<br>
@@ -616,7 +616,7 @@ _total subscriptions_: 80,790,877<br>
 _subscriptions per 100 inhabitants_: 98.97 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>following earthquake damage to infrastructure in 2020, telecom sector undergoing rapid modernization and expansion, especially in mobile-cellular services; mobile broadband becoming increasingly popular; near saturation of 4G LTE coverage for the population; strides made with 5G through investment by Huawei and Ericcson; fixed and mobile infrastructure will help to underpin Smart City initiatives; tight government control on social media platforms; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: following earthquake damage to infrastructure in 2020, telecom sector undergoing rapid modernization and expansion, especially in mobile-cellular services; mobile broadband becoming increasingly popular; near saturation of 4G LTE coverage for the population; strides made with 5G through investment by Huawei and Ericcson; fixed and mobile infrastructure will help to underpin Smart City initiatives; tight government control on social media platforms; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: additional digital exchanges are permitting a rapid increase in subscribers; the construction of a network of technologically advanced intercity trunk lines, using both fiber-optic cable and digital microwave radio relay, is facilitating communication between urban centers; remote areas are reached by a domestic satellite system; fixed-line 14 per 100 and mobile-cellular teledensity is 97 telephones per 100 persons (2019)<br>
 _international_: country code - 90; landing points for the SeaMeWe-3 &amp; -5, MedNautilus Submarine System, Turcyos-1 &amp; -2 submarine cables providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia&nbsp;; satellite earth stations - 12 Intelsat; mobile satellite terminals - 328 in the Inmarsat and Eutelsat systems (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -682,8 +682,8 @@ _unpaved_: 43,251 km (2018)<br>
 1,200 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,216<br>
-_by type_: bulk carrier 50, container ship 42, general cargo 338, oil tanker 121, other 665 (2020)<br>
+_total_: 1,217<br>
+_by type_: bulk carrier 39, container ship 41, general cargo 317, oil tanker 126, other 694 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aliaga, Ambarli, Diliskelesi, Eregli, Izmir, Kocaeli (Izmit), Mersin (Icel), Limani, Yarimca<br>
@@ -693,8 +693,8 @@ _LNG terminal(s) (import)_: Izmir Aliaga, Marmara Ereglisi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic, Turkish Coast Guard Command (2021)<br>
-note: in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
+Turkish Armed Forces (TSK): Turkish Land Forces (Turk Kara Kuvvetleri), Turkish Naval Forces (Turk Deniz Kuvvetleri; includes naval air and naval infantry), Turkish Air Forces (Turk Hava Kuvvetleri); Ministry of Interior: Gendarmerie of the Turkish Republic (aka Gendarmerie General Command), Turkish Coast Guard Command (2021)<br>
+note(s) - the Gendarmerie is responsible for the maintenance of the public order in areas that fall outside the jurisdiction of police forces (generally in rural areas); in wartime, the Gendarmerie and Coast Guard would be placed under the operational control of the Land Forces and Naval Forces, respectively<br>
 
 **Military expenditures**<br>
 1.86% of GDP (2020 est.)<br>
@@ -710,7 +710,7 @@ information varies; approximately 425,000 active duty personnel (325,000 Army; 5
 the Turkish Armed Forces inventory is mostly comprised of a mix of domestically-produced and Western weapons systems, although in recent years, Turkey has also acquired some Chinese, Russian, and South Korean equipment; since 2010, the US is the leading provider of armaments to Turkey, followed by Italy, South Korea, and Spain; Turkey has a robust defense industry capable of producing a range of weapons systems for both export and internal use, including armored vehicles, naval vessels, and unmanned aerial platforms, although it is heavily dependent on Western technology; Turkey's defense industry also partners with other countries for defense production (2020)<br>
 
 **Military deployments**<br>
-est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 1,500-2,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
+est. 200 (Azerbaijan; monitoring cease-fire, clearing mines); 250 Bosnia-Herzegovina (EUFOR); est. 25-35,000 Cyprus; 300 Kosovo (NATO/KFOR); 100 Lebanon (UNIFIL); est. 3-5,000 Qatar; est. 200 Somalia (training mission); est. 10-20,000 Syria (2021)<br>
 note(s): between 2016 and 2020, Turkey conducted four major military campaigns in northern Syria; Turkey has deployed troops into northern Iraq on numerous occasions to combat the Kurdistan Worker's Party (PKK), including large operations involving thousands of troops in 2007, 2011, and 2018; its most recent incursions were smaller-scale raids in April and February of 2021; in 2020, Turkey deployed an undetermined number of Turkish military troops and an estimated 3,500-5,000 Syrian fighters to Libya to support the Libyan Government of National Accord (GNA)<br><br>in October of 2021, Turkey’s parliament extended the military’s mandate to launch cross-border operations in Iraq and Syria by two more years<br>
 
 **Military service age and obligation**<br>
@@ -731,7 +731,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,728,612 (Syria) (2021)<br>
+_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,735,807 (Syria) (2021)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

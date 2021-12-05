@@ -628,8 +628,8 @@ _paved_: 3,392 km (2010)<br>
 _unpaved_: 730 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 234<br>
-_by type_: general cargo 11, oil tanker 4, other 219 (2020)<br>
+_total_: 205<br>
+_by type_: general cargo 12, oil tanker 4, other 189 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Salman, Sitrah<br>

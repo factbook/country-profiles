@@ -172,7 +172,7 @@ _unimproved: total_: total: 0.2% of population (2017 est.)<br>
 0.42 physicians/1,000 population (2012)<br>
 
 **Hospital bed density**<br>
-2.7 beds/1,000 population (2010)<br>
+2.7 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.3% of population<br>
@@ -217,8 +217,9 @@ _male_: 10 years<br>
 _female_: 10 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_male_: 12.2%<br>
-_female_: 8.7%<br>
+_total_: 26%<br>
+_male_: 31%<br>
+_female_: 14.2% (2019 est.)<br>
 
 ## Environment
 
@@ -552,11 +553,11 @@ _electrification - rural areas_: 98.4% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,172<br>
-_subscriptions per 100 inhabitants_: 4.13 (2019 est.)<br>
+_total subscriptions_: 2,361 (2018)<br>
+_subscriptions per 100 inhabitants_: 4.13 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,169<br>
+_total subscriptions_: 16,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 27.56 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -576,8 +577,8 @@ _total_: 29,290<br>
 _percent of population_: 38.7% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000<br>
-_subscriptions per 100 inhabitants_: 1 (2017 est.)<br>
+_total_: 1,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 1.72 (2019 est.)<br>
 
 **Communications - note**<br>
 Kwajalein hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are at Cape Canaveral, Florida (US), on Ascension (Saint Helena, Ascension, and Tristan da Cunha), and at Diego Garcia (British Indian Ocean Territory))<br>
@@ -612,8 +613,8 @@ _paved_: 75 km (2007)<br>
 _unpaved_: 1,953 km<br>
 
 **Merchant marine**<br>
-_total_: 3,683<br>
-_by type_: bulk carrier 1,647, container ship 249, general cargo 73, oil tanker 915, other 799 (2020)<br>
+_total_: 3,817<br>
+_by type_: bulk carrier 1,733, container ship 248, general cargo 66, oil tanker 970, other 800 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>

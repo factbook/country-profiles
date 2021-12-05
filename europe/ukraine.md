@@ -65,7 +65,7 @@ _other_: 12% (2018 est.)<br>
 21,670 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Moldova) - 2,888 km; Dnieper (shared with Russia and Belarus) - 2,287 km; Don (shared with Russia) - 1,870 km; Dniester (shared with Moldova) - 1,411 km; Vistula (shared with Poland and Belarus) - 1,213 km<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnieper river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dniester river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
@@ -226,9 +226,9 @@ _male_: 15 years<br>
 _female_: 15 years (2014)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 15.4%<br>
-_male_: 15.5%<br>
-_female_: 15.3% (2019 est.)<br>
+_total_: 19.3%<br>
+_male_: 19.8%<br>
+_female_: 18.5% (2020 est.)<br>
 
 ## Environment
 
@@ -271,7 +271,7 @@ _municipal solid waste recycled annually_: 487,745 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 3.2% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Moldova) - 2,888 km; Dnieper (shared with Russia and Belarus) - 2,287 km; Don (shared with Russia) - 1,870 km; Dniester (shared with Moldova) - 1,411 km; Vistula (shared with Poland and Belarus) - 1,213 km<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Romania [m]) - 2,888 km; Dnieper river mouth (shared with Russia [s] and Belarus) - 2,287 km; Dniester river source and mouth (shared with Moldova) - 1,411 km; Vistula (shared with Poland [s/m] and Belarus) - 1,213 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km), Don (458,694 sq km), Dnieper (533,966 sq km)<br>
@@ -612,7 +612,7 @@ _total subscriptions_: 54,842,940<br>
 _subscriptions per 100 inhabitants_: 124.78 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Ukraine’s telecom market continues to face challenges resulting from the annexation of Crimea by Russia and unrest in eastern regions; developing telecom market has attracted international investors from Russia, Turkey, and Azerbaijan; government plan emphasizes improvement of domestic trunk lines, international connections, and a national mobile-cellular system; operators moving from 3G services to 4G, but some areas still use 2G; LTE services available in cities; FttP networks taking over DSL platforms; government approved plan in 2020 for 5G migration and operator is developing IoT capabilities; improvement of licensing requirements for operators and positive reforms for users; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Ukraine&rsquo;s telecom market continues to face challenges resulting from the annexation of Crimea by Russia and unrest in eastern regions; developing telecom market has attracted international investors from Russia, Turkey, and Azerbaijan; government plan emphasizes improvement of domestic trunk lines, international connections, and a national mobile-cellular system; operators moving from 3G services to 4G, but some areas still use 2G; LTE services available in cities; FttP networks taking over DSL platforms; government approved plan in 2020 for 5G migration and operator is developing IoT capabilities; improvement of licensing requirements for operators and positive reforms for users; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line teledensity is 10 per 100; the mobile-cellular telephone system's expansion has slowed, largely due to saturation of the market that is now 131 mobile phones per 100 persons (2019)<br>
 _international_: country code - 380; landing point for the Kerch Strait Cable connecting Ukraine to Russia; 2 new domestic trunk lines are a part of the fiber-optic TAE system and 3 Ukrainian links have been installed in the fiber-optic TEL project that connects 18 countries; additional international service is provided by the Italy-Turkey-Ukraine-Russia (ITUR) fiber-optic submarine cable and by an unknown number of earth stations in the Intelsat, Inmarsat, and Intersputnik satellite systems<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -683,7 +683,7 @@ _unpaved_: 3,599 km (2012)<br>
 
 **Merchant marine**<br>
 _total_: 409<br>
-_by type_: container ship 1, general cargo 85, oil tanker 15, other 308 (2020)<br>
+_by type_: bulk carrier 1, container ship 1, general cargo 84, oil tanker 15, other 308 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Feodosiya (Theodosia), Chornomosk (Illichivsk), Mariupol, Mykolayiv, Odesa, Yuzhnyy<br>
@@ -705,7 +705,7 @@ Armed Forces of Ukraine (Zbroyni Syly Ukrayiny, ZSU): Ground Forces (Sukhoputni 
 information varies; approximately 200,000 active troops (150,000 Army, including Airborne/Air Assault Forces; 12,000 Navy; 40,000 Air Force); approximately 50,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Ukrainian military is equipped mostly with older Russian and Soviet-era weapons systems; since 2010, it has imported limited quantities of weapons from several European countries, as well as Canada, the US, and the United Arab Emirates; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2020)<br>
+the Ukrainian military is equipped mostly with older Russian and Soviet-era weapons systems; since 2010, it has imported limited quantities of weapons from several European countries, as well as Canada, the US, and the United Arab Emirates; Ukraine has a broad defense industry capable of building Soviet-era land systems and maintaining and upgrading Soviet-era combat aircraft, as well as missile and air defense systems (2021)<br>
 
 **Military deployments**<br>
 250 Democratic Republic of the Congo (MONUSCO) (2021)<br>
@@ -727,5 +727,5 @@ _IDPs_: 734,000 (Russian-sponsored separatist violence in Crimea and eastern Ukr
 _stateless persons_: 35,875 (2020); note - citizens of the former USSR who were permanently resident in Ukraine were granted citizenship upon Ukraine's independence in 1991, but some missed this window of opportunity; people arriving after 1991, Crimean Tatars, ethnic Koreans, people with expired Soviet passports, and people with no documents have difficulty acquiring Ukrainian citizenship; following the fall of the Soviet Union in 1989, thousands of Crimean Tatars and their descendants deported from Ukraine under the STALIN regime returned to their homeland, some being stateless and others holding the citizenship of Uzbekistan or other former Soviet republics; a 1998 bilateral agreement between Ukraine and Uzbekistan simplified the process of renouncing Uzbek citizenship and obtaining Ukrainian citizenship<br>
 
 **Illicit drugs**<br>
-<p>a transit country for illicit drug trafficking into the European Union due to its location amidst several important trafficking routes into western Europe, ports on the Black and Azov seas, extensive river routes, and porous northern and eastern borders; South American cocaine moves through Ukrainian seaports and airports; secret amphetamine and methamphetamine laboratories supply the local market</p><br>
+<p>a transit country for illicit drug trafficking into the European Union due to its location amidst several important trafficking routes into western Europe, ports on the Black and Azov seas, extensive river routes, and porous northern and eastern borders; South American cocaine moves through Ukrainian seaports and airports; amphetamine and methamphetamine laboratories supply the local market</p><br>
 

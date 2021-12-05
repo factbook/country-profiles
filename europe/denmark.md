@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.01 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-2.6 beds/1,000 population (2017)<br>
+2.6 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -212,14 +212,14 @@ NA<br>
 7.8% of GDP (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 18 years<br>
-_male_: 19 years<br>
-_female_: 19 years (2018)<br>
+_total_: 19 years<br>
+_male_: 18 years<br>
+_female_: 19 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10.1%<br>
-_male_: 10.4%<br>
-_female_: 9.7% (2019 est.)<br>
+_total_: 11.6%<br>
+_male_: 12.6%<br>
+_female_: 10.6% (2020 est.)<br>
 
 ## Environment
 
@@ -581,15 +581,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,003,524<br>
-_subscriptions per 100 inhabitants_: 17.18 (2019 est.)<br>
+_total subscriptions_: 937,469 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.19 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,243,465<br>
-_subscriptions per 100 inhabitants_: 124.01 (2019 est.)<br>
+_total subscriptions_: 7,144,123 (2020)<br>
+_subscriptions per 100 inhabitants_: 123.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Denmark has one of the highest broadband penetration rates globally, with near universal availability of superfast connections; progressive regulator encouraged upgrades to cable and DSL infrastructure; fast growing fiber networks with aim for nation-wide build-out; comprehensive LTE with 90% coverage of 5G; operator expands NB-IoT across its LTE network; survey underway for cable connecting Denmark to Norway; upgrades to submarine cable connection to North America; importer of broadcasting equipment from EU neighbors (2021)</p> (2020)<br>
+_general assessment_: Denmark has one of the highest broadband penetration rates globally, with near universal availability of superfast connections; progressive regulator encouraged upgrades to cable and DSL infrastructure; fast growing fiber networks with aim for nation-wide build-out; comprehensive LTE with 90% coverage of 5G; operator expands NB-IoT across its LTE network; survey underway for cable connecting Denmark to Norway; upgrades to submarine cable connection to North America; importer of broadcasting equipment from EU neighbors (2020)<br>
 _domestic_: fixed-line 17 per 100, 126 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp;&nbsp;6, Skagenfiber West &amp;&nbsp;East, GC1,&nbsp;GC2, GC3, GC-KPN, Kattegat 1 &amp;&nbsp;2 &amp;&nbsp;3, Energinet Lyngsa-Laeso,&nbsp;Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian&nbsp;South, Scandinavian Ring North, Danica North, 34&nbsp;series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -605,8 +605,8 @@ _total_: 5,672,398<br>
 _percent of population_: 97.64% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,536,508<br>
-_subscriptions per 100 inhabitants_: 43.42 (2019 est.)<br>
+_total_: 2,571,736 (2020)<br>
+_subscriptions per 100 inhabitants_: 44.4 (2020 est.)<br>
 
 ## Transportation
 
@@ -650,8 +650,8 @@ _paved_: 74,558 km (includes 1,205 km of expressways) (2017)<br>
 400 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 692<br>
-_by type_: bulk carrier 1, container ship 148, general cargo 62, oil tanker 87, other 394 (2020)<br>
+_total_: 717<br>
+_by type_: bulk carrier 8, container ship 148, general cargo 68, oil tanker 105, other 388 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Baltic Sea - Aarhus, Copenhagen, Fredericia, Kalundborg<br>

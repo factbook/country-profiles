@@ -181,7 +181,7 @@ _unimproved: total_: total: 44.5% of population (2017 est.)<br>
 0.18 physicians/1,000 population (2014)<br>
 
 **Hospital bed density**<br>
-0.2 beds/1,000 population (2010)<br>
+0.2 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 42.5% of population<br>
@@ -590,15 +590,15 @@ _electrification - rural areas_: 23% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 68,426<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 69,046 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,677,153<br>
-_subscriptions per 100 inhabitants_: 40.57 (2019 est.)<br>
+_total subscriptions_: 10,654,710 (2018)<br>
+_subscriptions per 100 inhabitants_: 40.57 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>penetration rates below African average; competition among mobile service providers has spurred recent growth in the mobile market and reduced consumer costs; 3G and LTE services available; fiber backbone connects major cities with wireless networks upgraded to LTE; government committed to free WiFi hotspots to ensure universal access; telecom service tax raised to 10%; investment in submarine cable to South Africa and Mauritius; importer of broadcasting and video equipment from China (2021)</p> (2020)<br>
+_general assessment_: penetration rates below African average; competition among mobile service providers has spurred recent growth in the mobile market and reduced consumer costs; 3G and LTE services available; fiber backbone connects major cities with wireless networks upgraded to LTE; government committed to free WiFi hotspots to ensure universal access; telecom service tax raised to 10%; investment in submarine cable to South Africa and Mauritius; importer of broadcasting and video equipment from China (2020)<br>
 _domestic_: less than 1 per 100 for fixed-line and mobile-cellular teledensity about&nbsp;41 per 100 persons (2019)<br>
 _international_: country code - 261; landing points for the EASSy, METISS, and LION fiber-optic submarine cable systems connecting to numerous Indian Ocean Islands, South Africa, and Eastern African countries; satellite earth stations - 2 (1 Intelsat - Indian Ocean, 1 Intersputnik - Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -614,7 +614,7 @@ _total_: 2,516,994<br>
 _percent of population_: 9.8% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 27,211<br>
+_total_: 27,211 (2018)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation
@@ -656,8 +656,8 @@ _total_: 31,640 km (2018)<br>
 600 km (432 km navigable) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 29<br>
-_by type_: general cargo 16, oil tanker 2, other 11 (2020)<br>
+_total_: 27<br>
+_by type_: general cargo 14, oil tanker 2, other 11 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (Tulear)<br>
@@ -666,6 +666,7 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 
 **Military and security forces**<br>
 People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2021)<br>
+note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas; the military is also active in rural areas, particularly in maintaining order in areas affected by cattle rustling and banditry<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
@@ -683,11 +684,14 @@ the PAF's inventory consists mostly of ageing Soviet-era equipment; since 2010, 
 **Military service age and obligation**<br>
 Madagascar has an all-volunteer military; 18-25 years of age for males; service obligation 18 months; women are permitted to serve in all branches (2021)<br>
 
+**Military - note**<br>
+<p>one of the military’s duties is assisting the gendarmerie with maintaining law and order in rural areas, particularly in areas affected by cattle rustling and banditry (2021)</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>claims Bassas da India, Europa Island, Glorioso Islands, and Juan de Nova Island (all administered by France); the vegetated drying cays of Banc du Geyser, which were claimed by Madagascar in 1976, also fall within the EEZ claims of the Comoros and France (Glorioso Islands, part of the French Southern and Antarctic Lands)</p><br>
 
 **Illicit drugs**<br>
-illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for heroin<br>
+illicit producer of cannabis (cultivated and wild varieties) used mostly for domestic consumption; transshipment point for Southwest Asian heroin<br>
 

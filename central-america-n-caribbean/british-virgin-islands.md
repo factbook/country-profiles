@@ -475,12 +475,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,640<br>
-_subscriptions per 100 inhabitants_: 20.88 (2019 est.)<br>
+_total subscriptions_: 7,311 (2019)<br>
+_subscriptions per 100 inhabitants_: 24.35 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 72,589<br>
-_subscriptions per 100 inhabitants_: 198.38 (2019 est.)<br>
+_total subscriptions_: 35,163 (2020)<br>
+_subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good overall telephone service; major&nbsp;expansion sectors include the mobile telephony and data segments, which continue to&nbsp;appeal to&nbsp;operator investment;&nbsp;several operators licensed to provide services within individual markets, most of them are small and localized; telecommunication contributes to overall GDP (2020)<br>
@@ -499,8 +499,8 @@ _total_: 27,818<br>
 _percent of population_: 77.7% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,715<br>
-_subscriptions per 100 inhabitants_: 13 (2018 est.)<br>
+_total_: 6,738 (2020)<br>
+_subscriptions per 100 inhabitants_: 22.29 (2020 est.)<br>
 
 ## Transportation
 
@@ -524,8 +524,8 @@ _total_: 200 km (2007)<br>
 _paved_: 200 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 31<br>
-_by type_: general cargo 4, other 27 (2020)<br>
+_total_: 30<br>
+_by type_: general cargo 3, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Road Harbor<br>

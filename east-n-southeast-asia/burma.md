@@ -65,7 +65,7 @@ _other_: 32.6% (2018 est.)<br>
 22,950 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China, Laos, Thailand, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Thailand) - 3,060 km; Irrawaddy (shared with China) - 2,809 km; Chindwin - 1,158 km<br>
+Mekong (shared with China [s], Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Salween river mouth (shared with China [s] and Thailand) - 3,060 km; Irrawaddy river mouth (shared with China [s]) - 2,809 km; Chindwin - 1,158 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -233,7 +233,7 @@ _female_: 86.3% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
-_male_: 11 years<br>
+_male_: 10 years<br>
 _female_: 11 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
@@ -289,7 +289,7 @@ _severe localized food insecurity_: due to conflict, political instability, and 
 _municipal solid waste generated annually_: 4,677,307 tons (2000 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with China, Laos, Thailand, Cambodia, and Vietnam) - 4,350 km; Salween (shared with China and Thailand) - 3,060 km; Irrawaddy (shared with China) - 2,809 km; Chindwin - 1,158 km<br>
+Mekong (shared with China [s], Laos, Thailand, Cambodia, and Vietnam [m]) - 4,350 km; Salween river mouth (shared with China [s] and Thailand) - 3,060 km; Irrawaddy river mouth (shared with China [s]) - 2,809 km; Chindwin - 1,158 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Irrawaddy (413,710 sq km), Salween (271,914 sq km)<br>Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -612,12 +612,12 @@ _electrification - rural areas_: 39% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 544,283<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 520,863 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 63,877,526<br>
-_subscriptions per 100 inhabitants_: 113.84 (2019 est.)<br>
+_total subscriptions_: 61,143,964 (2018)<br>
+_subscriptions per 100 inhabitants_: 89.82 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burma, one of the last underdeveloped telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks; infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform; healthy m-banking platform; tests for NB-IoT; benefit from launch of regional satellite; government utilizes intermittent censorship and shut-down of Internet in political crisis; top importer of broadcasting equipment from China (2021) (2020)<br>
@@ -636,8 +636,8 @@ _total_: 17,064,985<br>
 _percent of population_: 30.68% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 129,050<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 129,050 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (201 est.)<br>
 
 ## Transportation
 
@@ -686,8 +686,8 @@ _unpaved_: 122,300 km (2013)<br>
 12,800 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 93<br>
-_by type_: bulk carrier 2, general cargo 37, oil tanker 5, other 49 (2020)<br>
+_total_: 95<br>
+_by type_: bulk carrier 2, general cargo 39, oil tanker 5, other 49 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mawlamyine (Moulmein), Sittwe<br>

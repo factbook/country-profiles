@@ -202,8 +202,8 @@ _unimproved: total_: total: 0.8% of population (2017 est.)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 13 years (2019)<br>
+_male_: 12 years<br>
+_female_: 13 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 37.2%<br>
@@ -302,7 +302,7 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Neville CENAC (since 12 January 2018)<br>
+_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Acting Governor General Errol CHARLES (since 11 November 2021)<br>
 _head of government_: Prime Minister Philip J. PIERRE (since 28 July 2021)<br>
 _cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by governor general; deputy prime minister appointed by governor general<br>

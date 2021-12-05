@@ -511,7 +511,7 @@ _unpaved_: 97 km (2003)<br>
 
 **Merchant marine**<br>
 _total_: 3<br>
-_by type_: general cargo 1, other 2 (2020)<br>
+_by type_: general cargo 1, other 2 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cockburn Harbour, Grand Turk, Providenciales<br>

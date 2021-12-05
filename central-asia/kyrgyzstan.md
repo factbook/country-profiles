@@ -65,7 +65,7 @@ _other_: 39.5% (2018 est.)<br>
 _Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kazakhstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -221,7 +221,7 @@ _female_: 99.5% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 13 years (2019)<br>
+_female_: 13 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 9.6%<br>
@@ -270,7 +270,7 @@ _municipal solid waste generated annually_: 1,113,300 tons (2015 est.)<br>
 _Salt water lake(s)_: Ozero Issyk-Kul 6,240 sq km<br>note - second largest saline lake after the Caspian Sea; second highest mountain lake after Lake Titicaca; it is an endorheic mountain basin; although surrounded by snow capped mountains it never freezes<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kazakhstan, Uzbekistan, and Tajikistan) - 3,078 km;&nbsp;<br>
+Syr Darya river source (shared with Tajikistan, Uzbekistan, and Kazakhstan [m] ) - 3,078 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -593,15 +593,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 298,855<br>
-_subscriptions per 100 inhabitants_: 5.06 (2019 est.)<br>
+_total subscriptions_: 298,855 (2019)<br>
+_subscriptions per 100 inhabitants_: 4.66 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,622,565<br>
-_subscriptions per 100 inhabitants_: 145.98 (2019 est.)<br>
+_total subscriptions_: 8,622,565 (2019)<br>
+_subscriptions per 100 inhabitants_: 134.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>fixed-line declining as 4G LTE mobile is universally available; brief interruptions of service with security as pretext; ICT sector rocked by allegation of corruption in 2020; digital radio-relay stations and fiber-optic links; 5G in development; importer of broadcasting equipment from UAE and computers from China; Chinese Economic Corridor investment into domestic backbone; World Bank investment into digital infrastructure with aims to provide broadband Internet to 60% of the population; social disparity evident in pandemic as many school children could not attend classes on-line (2021)</p> (2020 )<br>
+_general assessment_: fixed-line declining as 4G LTE mobile is universally available; brief interruptions of service with security as pretext; ICT sector rocked by allegation of corruption in 2020; digital radio-relay stations and fiber-optic links; 5G in development; importer of broadcasting equipment from UAE and computers from China; Chinese Economic Corridor investment into domestic backbone; World Bank investment into digital infrastructure with aims to provide broadband Internet to 60% of the population; social disparity evident in pandemic as many school children could not attend classes on-line (2020 )<br>
 _domestic_: fixed-line penetration 5 per 100 persons remains low and concentrated in urban areas; mobile-cellular subscribership up to over 134 per 100 persons (2019)<br>
 _international_: country code - 996; connections with other CIS (Commonwealth of Independent States, 9 members post-Soviet Republics in EU) countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 2 (1 Intersputnik, 1 Intelsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -617,8 +617,8 @@ _total_: 2,222,732<br>
 _percent of population_: 38% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 269,091<br>
-_subscriptions per 100 inhabitants_: 4.56 (2019 est.)<br>
+_total_: 269,091 (2019)<br>
+_subscriptions per 100 inhabitants_: 4.19 (2019 est.)<br>
 
 ## Transportation
 

@@ -482,12 +482,12 @@ NZ dollars (NZD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,305<br>
-_subscriptions per 100 inhabitants_: 37.56 (2019 est.)<br>
+_total subscriptions_: 6,576 (2017)<br>
+_subscriptions per 100 inhabitants_: 37.56 (2017 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,308<br>
-_subscriptions per 100 inhabitants_: 83.05 (2019 est.)<br>
+_total subscriptions_: 14,539 (2017)<br>
+_subscriptions per 100 inhabitants_: 83.05 (2017 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)<br>
@@ -504,6 +504,10 @@ _international_: country code - 682; the Manatua submarine cable to surrounding 
 **Internet users**<br>
 _total_: 4,881<br>
 _percent of population_: 54% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 2,700 (2013)<br>
+_subscriptions per 100 inhabitants_: 15.14 (2013)<br>
 
 ## Transportation
 
@@ -533,8 +537,8 @@ _paved_: 207 km (2018)<br>
 _unpaved_: 88 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 204<br>
-_by type_: bulk carrier 22, container ship 1, general cargo 80, oil tanker 34, other 67 (2020)<br>
+_total_: 194<br>
+_by type_: bulk carrier 19, container ship 1, general cargo 57, oil tanker 54, other 63 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Avatiu<br>

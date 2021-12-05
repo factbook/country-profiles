@@ -65,7 +65,7 @@ _other_: 0% (2018 est.)<br>
 18,900 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -286,7 +286,7 @@ _severe localized food insecurity_: due to conflict, civil insecurity, and soari
 _municipal solid waste generated annually_: 2,831,291 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, Uganda, South Sudan, and Egypt [m]) - 6,650 km; Blue Nile river mouth (shared with Ethiopia [s]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -605,12 +605,12 @@ _electrification - rural areas_: 35% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 137,842<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 129,408 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33,014,160<br>
-_subscriptions per 100 inhabitants_: 74.46 (2019 est.)<br>
+_total subscriptions_: 35,195,207 (2020)<br>
+_subscriptions per 100 inhabitants_: 80.26 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-equipped system by regional standards with ongoing upgrades; despite economic challenges, government continues to boost mobile infrastructure through build-out of fiber-broadband network across country; economic climate has not encouraged client growth in telecom, but some investment has been made to build mobile towers and expand LTE services; growth of e-money services; 2020 launch of Chinese-based satellite to develop space technology sector; interim constitution safeguards rights and freedoms, though some Internet users continue to face harassment for activities; importer of broadcasting equipment from UAE and China (2020)<br>
@@ -629,7 +629,7 @@ _total_: 13,311,404<br>
 _percent of population_: 30.87% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,762<br>
+_total_: 28,782 (2020)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation
@@ -681,7 +681,7 @@ _urban_: 1,000 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 15<br>
-_by type_: other 15 (2020)<br>
+_by type_: other 15 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Sudan<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>the effects of Sudan's ethnic and rebel militia fighting since the mid-20th century have penetrated all of the neighboring states; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; as of early 2019, more than 590,000 Sudanese refugees are being hosted in the Central African Republic, Chad, Egypt, Ethiopia, Kenya, and South Sudan; Sudan, in turn, is hosting more than 975,000 refugees and asylum seekers, including more than 845,000 from South Sudan; Sudan accuses South Sudan of supporting Sudanese rebel groups; Sudan claims but Egypt de facto administers security and economic development of the Halaib region north of the 22nd parallel boundary; periodic violent skirmishes with Sudanese residents over water and grazing rights persist among related pastoral populations along the border with the Central African Republic; South Sudan-Sudan boundary represents 1 January 1956 alignment, final alignment pending negotiations and demarcation; final sovereignty status of Abyei Area pending negotiations between South Sudan and Sudan</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 786,524 (South Sudan) (refugees and asylum seekers), 126,228 (Eritrea) (refugees and asylum seekers), 93,484 (Syria) (refugees and asylum seekers), 70,246 (Ethiopia) (refugees and asylum seekers), 27,569 (Central African Republic) (2021)<br>
+_refugees (country of origin)_: 793,833 (South Sudan) (refugees and asylum seekers), 126,080 (Eritrea) (refugees and asylum seekers), 93,483 (Syria) (refugees and asylum seekers), 70,568 (Ethiopia) (refugees and asylum seekers), 27,627 (Central African Republic) (2021)<br>
 _IDPs_: 2,276,000 (civil war 1983-2005; ongoing conflict in Darfur region; government and rebel fighting along South Sudan border; inter-tribal clashes) (2020)<br>
 
 **Trafficking in persons**<br>

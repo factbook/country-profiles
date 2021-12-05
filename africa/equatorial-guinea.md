@@ -175,9 +175,6 @@ _unimproved: total_: total: 32.4% of population (2017 est.)<br>
 **Physicians density**<br>
 0.4 physicians/1,000 population (2017)<br>
 
-**Hospital bed density**<br>
-2.1 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 81.2% of population<br>
 _improved: rural_: rural: 63.4% of population<br>
@@ -565,15 +562,15 @@ _electrification - rural areas_: 45% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,779<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 10,848 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 368,920<br>
-_subscriptions per 100 inhabitants_: 45.17 (2019 est.)<br>
+_total subscriptions_: 591,223 (2018)<br>
+_subscriptions per 100 inhabitants_: 45.17 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Equatorial Guinea’s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2021)</p> (2018)<br>
+_general assessment_: Equatorial Guinea&rsquo;s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2018)<br>
 _domestic_: fixed-line density is about 1 per 100 persons and mobile-cellular subscribership is 45 per 100 (2019)<br>
 _international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -589,7 +586,7 @@ _total_: 209,253<br>
 _percent of population_: 26.24% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,620<br>
+_total_: 1,620 (2018)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation
@@ -624,8 +621,8 @@ _2,438 to 3,047 m_: 1 (2013)<br>
 _total_: 2,880 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 40<br>
-_by type_: bulk carrier 1, general cargo 8, oil tanker 6, other 25 (2020)<br>
+_total_: 42<br>
+_by type_: bulk carrier 1, general cargo 8, oil tanker 6, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bata, Luba, Malabo<br>
@@ -654,6 +651,9 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory military service, although conscription is rare in practice; 2-year service obligation; women hold only administrative positions in the Navy (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, the FAGE’s National Guard (Army) had only three small infantry battalions with limited combat capabilities; the Navy focused on anti-piracy and protecting the country’s natural resources in the Gulf of Guinea; the Navy is small is size, but its inventory included a light frigate and a corvette, as well as several off-shore patrol boats; the Air Force possessed only a few operational combat aircraft and ground attack-capable helicopters</p><br>
 
 ## Transnational Issues
 

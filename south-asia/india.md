@@ -68,7 +68,7 @@ _other_: 16.4% (2018 est.)<br>
 _Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Brahmaputra (shared with China, Nepal, Bangladesh, and Bhutan) - 3,969 km; Indus (shared with Pakistan and China) - 3,610 km; Ganges (shared with Bangladesh and Nepal) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with Pakistan) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab (shared with Pakistan) - 1,086 km; Ghaghara (shared with Nepal) - 1,080 km<br>
+Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
@@ -235,13 +235,13 @@ _female_: 65.8% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 12 years<br>
-_male_: 11 years<br>
-_female_: 12 years (2019)<br>
+_male_: 12 years<br>
+_female_: 12 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 22.3%<br>
-_male_: 21.9%<br>
-_female_: 23.8% (2019 est.)<br>
+_total_: 19.8%<br>
+_male_: 19.5%<br>
+_female_: 21% (2020 est.)<br>
 
 ## Environment
 
@@ -295,7 +295,7 @@ _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
 _Salt water lake(s)_: Chilika Lake - 1,170 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Brahmaputra (shared with China, Nepal, Bangladesh, and Bhutan) - 3,969 km; Indus (shared with Pakistan and China) - 3,610 km; Ganges (shared with Bangladesh and Nepal) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with Pakistan) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab (shared with Pakistan) - 1,086 km; Ghaghara (shared with Nepal) - 1,080 km<br>
+Brahmaputra (shared with China [s] and Bangladesh [m]) - 3,969 km; Indus (shared with China [s] and Pakistan [m]) - 3,610 km; Ganges river source (shared with Bangladesh [m]) - 2,704 km; Godavari - 1,465 km; Sutlej (shared with China [s] and Pakistan [m]) - 1,372 km; Yamuna - 1,370 km; Narmada - 1,289 km; Chenab river source (shared with Pakistan [m]) - 1,086 km; Ghaghara river mouth (shared with China [s] and Nepal) - 1,080 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km), Irrawaddy (413,710 sq km)<br>
@@ -628,15 +628,15 @@ _electrification - rural areas_: 99% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 21,004,534<br>
-_subscriptions per 100 inhabitants_: 1.6 (2019 est.)<br>
+_total subscriptions_: 20,052,162 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.45 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,151,480,361<br>
-_subscriptions per 100 inhabitants_: 87.82 (2019 est.)<br>
+_total subscriptions_: 1,153,709,832 (2020)<br>
+_subscriptions per 100 inhabitants_: 83.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 250,000 villages to broadband networks; expansive foreign investment with reliance of operators on Chinese vendors; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars (2021) (2020)<br>
+_general assessment_: supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 250,000 villages to broadband networks; expansive foreign investment with reliance of operators on Chinese vendors; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars (2020)<br>
 _domestic_: fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2019)<br>
 _international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON,&nbsp;FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn&nbsp;that provide connectivity&nbsp;to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands&nbsp;including&nbsp;Australia&nbsp;; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -652,8 +652,8 @@ _total_: 446,759,327<br>
 _percent of population_: 34.45% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,156,559<br>
-_subscriptions per 100 inhabitants_: 1.46 (2019 est.)<br>
+_total_: 22.29 million (2020)<br>
+_subscriptions per 100 inhabitants_: 1.62 (2020 est.)<br>
 
 ## Transportation
 
@@ -705,8 +705,8 @@ _total_: 4,699,024 km (2015)<br>
 14,500 km (5,200 km on major rivers and 485 km on canals suitable for mechanized vessels) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 1,768<br>
-_by type_: bulk carrier 63, container ship 23, general cargo 579, oil tanker 141, other 962 (2020)<br>
+_total_: 1,801<br>
+_by type_: bulk carrier 63, container ship 22, general cargo 587, oil tanker 136, other 993 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chennai, Jawaharal Nehru Port, Kandla, Kolkata (Calcutta), Mumbai (Bombay), Sikka, Vishakhapatnam<br>

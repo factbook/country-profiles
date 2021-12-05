@@ -190,7 +190,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 16 years<br>
-_female_: 14 years (2018)<br>
+_female_: 14 years (2019)<br>
 
 ## Environment
 
@@ -451,12 +451,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13,727<br>
-_subscriptions per 100 inhabitants_: 35.34 (2019 est.)<br>
+_total subscriptions_: 12,723 (2020)<br>
+_subscriptions per 100 inhabitants_: 33.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,748<br>
-_subscriptions per 100 inhabitants_: 122.92 (2019 est.)<br>
+_total subscriptions_: 48,904 (2020)<br>
+_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system; 44 Internet service providers in Liechtenstein and Switzerland combined; FttP (fiber to the home) penetration marketed 3rd highest in EU; fiber network reaches 3/4 of the population (2020)<br>
@@ -475,8 +475,8 @@ _total_: 37,815<br>
 _percent of population_: 98.1% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,173<br>
-_subscriptions per 100 inhabitants_: 44.21 (2019 est.)<br>
+_total_: 18,063 (2020)<br>
+_subscriptions per 100 inhabitants_: 47.37 (2020 est.)<br>
 
 ## Transportation
 
@@ -498,8 +498,8 @@ _total_: 630 km (2019)<br>
 28 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 28<br>
-_by type_: bulk carrier 21, general cargo 3, oil tanker 1, other 3 (includes Switzerland) (2020)<br>
+_total_: 20<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Switzerland) (2021)<br>
 
 ## Military and Security
 

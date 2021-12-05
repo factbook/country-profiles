@@ -166,7 +166,7 @@ NA<br>
 2.77 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2018)<br>
+1.3 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -203,14 +203,14 @@ _female_: 96.2% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
-_male_: 13 years<br>
-_female_: 14 years (2013)<br>
+_male_: 12 years<br>
+_female_: 14 years (2020)<br>
 <strong>note:</strong> data represent Gaza Strip and the West Bank<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 40.2%<br>
-_male_: 34.8%<br>
-_female_: 67.2% (2019 est.)<br>
+_total_: 42.1%<br>
+_male_: 36.6%<br>
+_female_: 70% (2020 est.)<br>
 <strong>note:</strong> includes the West Bank<br>
 
 ## Environment
@@ -451,6 +451,9 @@ the military wing of HAMAS has an estimated 20-25,000 fighters (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction; Iran provides military support to HAMAS (2020)<br>
+
+**Military - note**<br>
+<p>since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the Israel Defense Forces (IDF); HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Gaza and retaliatory IDF strikes; Palestine Islamic Jihad (PIJ) has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in 2020, also prompting IDF counter-strikes; see Appendix-T for more details on HAMAS and PIJ</p><br>
 
 ## Terrorism
 

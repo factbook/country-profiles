@@ -190,7 +190,7 @@ _unimproved: total_: total: 23.5% of population (2017 est.)<br>
 0.09 physicians/1,000 population (2011)<br>
 
 **Hospital bed density**<br>
-1.3 beds/1,000 population (2010)<br>
+1.3 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 83.3% of population<br>
@@ -620,15 +620,15 @@ _electrification - rural areas_: 32% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 856,411<br>
-_subscriptions per 100 inhabitants_: 3.17 (2019 est.)<br>
+_total subscriptions_: 883,015 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,400,736<br>
-_subscriptions per 100 inhabitants_: 79.31 (2019 est.)<br>
+_total subscriptions_: 25,245,134 (2020)<br>
+_subscriptions per 100 inhabitants_: 95.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Cameroon’s 3G and LTE services are improving through growing competition and a government program to improve national connectivity and support digital economy; saturated use of transactions through m-commerce; developing broadband sector; improved submarine and terrestrial cable connectivity strengthened international bandwidth and lowered prices; pushing start of fiber link to Congo; fiber rollout continues with new government funding; operators opened new data center in 2020 and developed contracts for satellite broadband; government awarded contract to provide connectivity to universities (2021)</p> (2020)<br>
+_general assessment_: Cameroon&rsquo;s 3G and LTE services are improving through growing competition and a government program to improve national connectivity and support digital economy; saturated use of transactions through m-commerce; developing broadband sector; improved submarine and terrestrial cable connectivity strengthened international bandwidth and lowered prices; pushing start of fiber link to Congo; fiber rollout continues with new government funding; operators opened new data center in 2020 and developed contracts for satellite broadband; government awarded contract to provide connectivity to universities (2020)<br>
 _domestic_: only about 4 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of over 82 per 100 persons (2019)<br>
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -644,8 +644,8 @@ _total_: 6,089,200<br>
 _percent of population_: 23.2% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 400,929<br>
-_subscriptions per 100 inhabitants_: 1.49 less than 1 (2019 est.)<br>
+_total_: 713,845 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.69 (2020 est.)<br>
 
 ## Transportation
 
@@ -691,8 +691,8 @@ _unpaved_: 72,456 km (2016)<br>
 (major rivers in the south, such as the Wouri and the Sanaga, are largely non-navigable; in the north, the Benue, which connects through Nigeria to the Niger River, is navigable in the rainy season only to the port of Garoua) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 61<br>
-_by type_: bulk carrier 1, general cargo 34, oil tanker 2, other 24 (2020)<br>
+_total_: 94<br>
+_by type_: bulk carrier 3, container ship 1,general cargo 35, oil tanker 24, other 31 (2021)<br>
 
 **Ports and terminals**<br>
 _oil terminal(s)_: Limboh Terminal<br>

@@ -66,7 +66,7 @@ _other_: 20.7% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Sudan, South Sudan, Eritrea, Ethiopia, Kenya, Egypt, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km; Congo (shared with Angola, and Republic of Congo) - 4,700 km; Ubangi (shared with Central African Republic and Republic of Congo) - 2,270 km;&nbsp;<br>
+Congo river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -297,7 +297,7 @@ _percent of municipal solid waste recycled_: 4.9% (2005 est.)<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Burundi, Tanzania, and Zambia) - 32,000 sq km; Lake Albert (shared with Uganda) - 5,590 sq km; Lake Mweru (shared with Zambia) - 4,350 sq km; Lac Mai-Ndombe - 2,300 sq km; Lake Kivu (shared with Rwanda) - 2,220 sq km; Lake Edward (shared with Uganda) - 2,150 sq km; Lac Tumba - 500 sq km; Lac Upemba - 530 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Sudan, South Sudan, Eritrea, Ethiopia, Kenya, Egypt, Burundi, Rwanda, Uganda, and Tanzania) - 6,650 km; Congo (shared with Angola, and Republic of Congo) - 4,700 km; Ubangi (shared with Central African Republic and Republic of Congo) - 2,270 km;&nbsp;<br>
+Congo river mouth (shared with Zambia [s], Angola, and Republic of Congo) - 4,700 km; Ubangi river mouth (shared with Central African Republic [s] and Republic of Congo) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -622,12 +622,16 @@ _electrification - rural areas_: 0.4% (2019)<br>
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: 0 (2019)<br>
+_subscriptions per 100 inhabitants_: 0 (2019 est.)<br>
+
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 42,166,976<br>
-_subscriptions per 100 inhabitants_: 42.77 (2019 est.)<br>
+_total subscriptions_: 40,798,396 (2019)<br>
+_subscriptions per 100 inhabitants_: 45.55 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>due to decades of conflict and poor infrastructure, the Democratic Republic of Congo’s telecom system is one of the least developed in the region; government aims to improve loose regulation through legislation; mobile networks are principal providers of telecom; LTE is geographically limited; investment from China and other foreign donors for fiber backbone; international bandwidth through WACS submarine cable; operator licensed to build landing station for submarine cable and tower upgrade that will provide competition in broadband, fixed, and mobile Internet services; operator added fiber link between Brazzaville and Kinshasa (2021)</p> (2020)<br>
+_general assessment_: due to decades of conflict and poor infrastructure, the Democratic Republic of Congo&rsquo;s telecom system is one of the least developed in the region; government aims to improve loose regulation through legislation; mobile networks are principal providers of telecom; LTE is geographically limited; investment from China and other foreign donors for fiber backbone; international bandwidth through WACS submarine cable; operator licensed to build landing station for submarine cable and tower upgrade that will provide competition in broadband, fixed, and mobile Internet services; operator added fiber link between Brazzaville and Kinshasa (2020)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons; given the backdrop of a wholly inadequate fixed-line infrastructure, the use of mobile-cellular services is over 43 per 100 persons (2019)<br>
 _international_: country code - 243; ACE and WACS submarine cables to West and South Africa and&nbsp;Europe;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -643,8 +647,8 @@ _total_: 8,231,357<br>
 _percent of population_: 8.62% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,620<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 11,900 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -696,8 +700,8 @@ _non-urban_: 144,973 km<br>
 15,000 km (including the Congo River, its tributaries, and unconnected lakes) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 21<br>
-_by type_: general cargo 4, oil tanker 2, other 15 (2020)<br>
+_total_: 22<br>
+_by type_: general cargo 4, oil tanker 2, other 16 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banana<br>
@@ -740,7 +744,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 211,259 (Rwanda) (refugees and asylum seekers), 206,346 (Central African Republic), 55,953 (South Sudan) (refugees and asylum seekers), 40,601 (Burundi) (2021)<br>
+_refugees (country of origin)_: 210,939 (Rwanda) (refugees and asylum seekers), 221,531 (Central African Republic), 56,531 (South Sudan) (refugees and asylum seekers), 42,025 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

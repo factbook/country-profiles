@@ -204,9 +204,9 @@ _male_: 92.4%<br>
 _female_: 94.7% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
+_total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 14 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 0.4%<br>
@@ -576,7 +576,7 @@ _total subscriptions_: 3,917,571<br>
 _subscriptions per 100 inhabitants_: 162.6 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom infrastructure in Qatar demonstrated resilience during the pandemic, following surge in Internet usage; highest fixed-line and mobile penetrations in Middle East with almost 100% LTE coverage; operator deployed 5G across the country with positive subscribership, primarily around Doha; largest user of the Internet in the Middle East; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: telecom infrastructure in Qatar demonstrated resilience during the pandemic, following surge in Internet usage; highest fixed-line and mobile penetrations in Middle East with almost 100% LTE coverage; operator deployed 5G across the country with positive subscribership, primarily around Doha; largest user of the Internet in the Middle East; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line 16 per 100 and mobile-cellular telephone subscribership 138 telephones per 100 persons (209)<br>
 _international_: country code - 974; landing points for the&nbsp;Qatar-UAE Submarine&nbsp;Cable&nbsp;System, AAE-1, FOG, GBICS/East North Africa MENA and the FALCON submarine cable network that provides links to Asia, Africa, the Middle East, Europe and Southeast Asia; tropospheric scatter to Bahrain; microwave radio relay to Saudi Arabia and the UAE; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) and 1 Arabsat; retains full ownership of two commercial satellites, Es'hailSat 1 and 2 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -629,8 +629,8 @@ _under 914 m_: 1 (2013)<br>
 _total_: 7,039 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 131<br>
-_by type_: bulk carrier 8, container ship 6, general cargo 5, oil tanker 5, other 107 (2020)<br>
+_total_: 129<br>
+_by type_: bulk carrier 9, container ship 4, general cargo 4, oil tanker 5, other 107 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Doha, Musay'id, Ra's Laffan<br>
@@ -653,6 +653,9 @@ information varies; approximately 14,000 active personnel (10,000 Land Force, in
 
 **Military equipment inventories and acquisitions**<br>
 the Qatari military's inventory includes a broad mix of older and modern weapons systems, mostly from the US and Europe; in the 2010s, Qatar embarked on an extensive military expansion and modernization program with large air, ground, and naval equipment purchases from European countries, Turkey, and the US (2021)<br>
+
+**Military deployments**<br>
+in 2021, Turkey agreed to train Qatari fighter pilots and allow the temporary deployment of up to 36 Qatari military aircraft and 250 personnel<br>
 
 **Military service age and obligation**<br>
 conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2019)<br>

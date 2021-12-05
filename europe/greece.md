@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 5.48 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-4.2 beds/1,000 population (2017)<br>
+4.2 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -217,12 +217,12 @@ _female_: 97.4% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 20 years<br>
-_female_: 20 years (2018)<br>
+_female_: 20 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 35.2%<br>
-_male_: 33.5%<br>
-_female_: 37.2% (2019 est.)<br>
+_total_: 35%<br>
+_male_: 31.4%<br>
+_female_: 39.3% (2020 est.)<br>
 
 ## Environment
 
@@ -586,15 +586,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,820,898<br>
-_subscriptions per 100 inhabitants_: 45.32 (2019 est.)<br>
+_total subscriptions_: 4,743,310 (2020)<br>
+_subscriptions per 100 inhabitants_: 45.51 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,882,081<br>
-_subscriptions per 100 inhabitants_: 111.69 (2019 est.)<br>
+_total subscriptions_: 11,412,995 (2020)<br>
+_subscriptions per 100 inhabitants_: 109.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market is susceptible to country’s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2021)</p> (2020)<br>
+_general assessment_: telecom market is susceptible to country&rsquo;s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2020)<br>
 _domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; 48 per 100 for fixed-line and 114 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -610,8 +610,8 @@ _total_: 7,783,381<br>
 _percent of population_: 72.95% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,149,146<br>
-_subscriptions per 100 inhabitants_: 39 (2019 est.)<br>
+_total_: 4,257,026 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.84 (2020 est.)<br>
 
 ## Transportation
 
@@ -659,8 +659,8 @@ _total_: 117,000 km (2018)<br>
 6 km (the 6-km-long Corinth Canal crosses the Isthmus of Corinth; it shortens a sea voyage by 325 km) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 1,294<br>
-_by type_: bulk carrier 165, container ship 6, general cargo 95, oil tanker 379, other 649 (2020)<br>
+_total_: 1,236<br>
+_by type_: bulk carrier 158, container ship 5, general cargo 89, oil tanker 337, other 647 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aspropyrgos, Pachi, Piraeus, Thessaloniki<br>
@@ -710,8 +710,8 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,448 (Syria), 21,456 (Afghanistan), 11,840 (Iraq) (2020)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,212,193 estimated refugee and migrant arrivals (January 2015-October 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,213,204 estimated refugee and migrant arrivals (January 2015-November 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
-a gateway to Europe for traffickers smuggling cannabis and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>
+a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>
 

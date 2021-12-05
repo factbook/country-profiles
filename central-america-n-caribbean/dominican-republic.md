@@ -229,9 +229,9 @@ _male_: 14 years<br>
 _female_: 15 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16%<br>
-_male_: 11.8%<br>
-_female_: 22.8% (2019 est.)<br>
+_total_: 14.9%<br>
+_male_: 11.6%<br>
+_female_: 20.7% (2020 est.)<br>
 
 ## Environment
 
@@ -598,15 +598,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,211,081<br>
-_subscriptions per 100 inhabitants_: 11.65 (2019 est.)<br>
+_total subscriptions_: 1,155,493 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.65 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,948,107<br>
-_subscriptions per 100 inhabitants_: 86.05 (2019 est.)<br>
+_total subscriptions_: 8,989,587 (2020)<br>
+_subscriptions per 100 inhabitants_: 82.87 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: the Dominican Republic&rsquo;s fixed-line tele-density is well below the Latin American average due to lack of infrastructure; distribution of telephony services is proportionate to income inequalities; small, localized operators provide services; telecom and mobile broadband growing with LTE available to most of the population; government program aims for universal access to broadband services, and development of a national backbone; 5G launch anticipated in 2021 (2021) (2020)<br>
+_general assessment_: the Dominican Republic&rsquo;s fixed-line tele-density is well below the Latin American average due to lack of infrastructure; distribution of telephony services is proportionate to income inequalities; small, localized operators provide services; telecom and mobile broadband growing with LTE available to most of the population; government program aims for universal access to broadband services, and development of a national backbone; 5G launch anticipated in 2021 (2020)<br>
 _domestic_: fixed-line teledensity is about 11 per 100 persons; multiple providers of mobile-cellular service with a subscribership of 83 per 100 persons (2019)<br>
 _international_: country code - 1-809; 1-829; 1-849; landing point for the&nbsp;ARCOS-1, Antillas 1, AMX-1, SAm-1,&nbsp;East-West, Deep Blue Cable and the Fibralink submarine cables that provide links to South and Central America, parts of the Caribbean, and US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -622,8 +622,8 @@ _total_: 7,705,529<br>
 _percent of population_: 74.82% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 951,970<br>
-_subscriptions per 100 inhabitants_: 9.15 (2019 est.)<br>
+_total_: 1,031,858 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.51 (2020 est.)<br>
 
 ## Transportation
 
@@ -669,7 +669,7 @@ _unpaved_: 9,833 km (2002)<br>
 
 **Merchant marine**<br>
 _total_: 38<br>
-_by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2020)<br>
+_by type_: container ship 1, general cargo 2, oil tanker 1, other 34 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Haina, Puerto Plata, Santo Domingo<br>

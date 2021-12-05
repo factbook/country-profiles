@@ -65,7 +65,7 @@ _other_: 7.5% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<strong><br>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -284,7 +284,7 @@ _municipal solid waste generated annually_: 4,384,969 tons (2016 est.)<br>
 _Fresh water lake(s)_: Lake Kivu (shared with Democratic Republic of Congo) - 2,220 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<strong><br>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile river source (shared with Tanzania, Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -614,7 +614,7 @@ _total subscriptions_: 9,658,548<br>
 _subscriptions per 100 inhabitants_: 77.53 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2020)<br>
 _domestic_: the capital, Kigali, is connected to provincial centers by microwave radio relay, and recently by cellular telephone service; much of the network depends on wire and HF radiotelephone; fixed-line less than 1 per 100 and mobile-cellular telephone density has increased to 76 telephones per 100 persons (2019)<br>
 _international_: country code - 250; international connections employ microwave radio relay to neighboring countries and satellite communications to more distant countries; satellite earth stations - 1 Intelsat (Indian Ocean) in Kigali (includes telex and telefax service); international submarine fiber-optic cables on the African east coast has brought international bandwidth and lessened the&nbsp;dependency on satellites<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -701,5 +701,5 @@ the RDF's inventory includes mostly Soviet-era and older Western - mostly French
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,669 (Burundi) (2021)<br>
+_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,806 (Burundi) (2021)<br>
 

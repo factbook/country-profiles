@@ -581,15 +581,15 @@ _electrification - rural areas_: 12% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,952<br>
+_total subscriptions_: 5,952 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,843,380<br>
-_subscriptions per 100 inhabitants_: 62.65 (2019 est.)<br>
+_total subscriptions_: 6,843,380 (2019)<br>
+_subscriptions per 100 inhabitants_: 60.76 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>plagued by political and economic turmoil complicated by natural disasters, Haiti’s telecommunications infrastructure is among the least-developed in the world; reliance on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2021)</p> (2020)<br>
+_general assessment_: plagued by political and economic turmoil complicated by natural disasters, Haiti&rsquo;s telecommunications infrastructure is among the least-developed in the world; reliance on satellite and wireless mobile technology due to poor fixed-line infrastructure; investment boosted broadband availability though customer base is poor and theft of equipment remains problematic; promotion of LTE will enable access to remote areas and e-money services; World Bank grant to provide digital preparation and response for any future crises (2020)<br>
 _domestic_: fixed-line is less than 1 per 100; mobile-cellular telephone services have expanded greatly in the last decade due to low-cost GSM (Global Systems for Mobile) phones and pay-as-you-go plans; mobile-cellular teledensity is 58 per 100 persons (2019)<br>
 _international_: country code - 509; landing points for the BDSNi and Fibralink submarine cables to 14 points in the Bahamas and Dominican Republic; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -605,8 +605,8 @@ _total_: 3,503,006<br>
 _percent of population_: 32.47% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,100<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 31,100 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -637,7 +637,7 @@ _unpaved_: 3,498 km (2009)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
-_by type_: general cargo 3, other 1 (2020)<br>
+_by type_: general cargo 3, other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cap-Haitien, Gonaives, Jacmel, Port-au-Prince<br>

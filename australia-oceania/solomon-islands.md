@@ -624,7 +624,7 @@ _unpaved_: 1,356 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 24<br>
-_by type_: general cargo 8, oil tanker 1, other 15 (2020)<br>
+_by type_: general cargo 8, oil tanker 1, other 15 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
@@ -632,7 +632,7 @@ _major seaport(s)_: Honiara, Malloco Bay, Viru Harbor, Tulagi<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Royal Solomon Islands Police Force<br>
+no regular military forces; the Royal Solomon Islands Police is responsible for internal and external security and reports to the Ministry of Police, National Security, and Correctional Services<br>
 
 **Military equipment inventories and acquisitions**<br>
 the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia (2021)<br>

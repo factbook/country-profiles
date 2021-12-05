@@ -184,7 +184,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.98 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-2.2 beds/1,000 population (2017)<br>
+2.1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -213,14 +213,14 @@ NA<br>
 7.6% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 20 years<br>
-_male_: 19 years<br>
-_female_: 21 years (2018)<br>
+_total_: 19 years<br>
+_male_: 18 years<br>
+_female_: 21 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 20.1%<br>
-_male_: 20.5%<br>
-_female_: 19.7% (2019 est.)<br>
+_total_: 24%<br>
+_male_: 25%<br>
+_female_: 22.8% (2020 est.)<br>
 
 ## Environment
 
@@ -591,7 +591,7 @@ _total subscriptions_: 12,895,854<br>
 _subscriptions per 100 inhabitants_: 127.57 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Sweden’s telecom market includes mature mobile and broadband sectors stimulated by investment of the main operators in new technologies; one of the best developed LTE infrastructures in the region; ranked among leading countries for fixed-line, mobile-cellular, Internet, and broadband penetration; best developed LTE infrastructure in the region; government promotes national broadband strategy to increase connectivity (2021)</p> (2020)<br>
+_general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors stimulated by investment of the main operators in new technologies; one of the best developed LTE infrastructures in the region; ranked among leading countries for fixed-line, mobile-cellular, Internet, and broadband penetration; best developed LTE infrastructure in the region; government promotes national broadband strategy to increase connectivity (2020)<br>
 _domestic_: fixed-line 19 per 100 and mobile-cellular 126 per 100; coaxial and multiconductor cables carry most of the voice traffic; parallel microwave radio relay systems carry some additional telephone channels (2019)<br>
 _international_: country code - 46; landing points for Botina, SFL, SFS-4, Baltic Sea Submarine Cable, Eastern Light, Sweden-Latvia, BCS North-Phase1, EE-S1, LV-SE1,&nbsp;BCS East-West Interlink, NordBalt, Baltica, Denmark-Sweden-15,-17,-18, Scandinavian Ring -North,-South, IP-Only Denmark-Sweden, Donica North,&nbsp;Kattegate-1,-2, Energinet Laeso-Varberg and GC2 submarine cables providing links to other Nordic countries and Europe; satellite earth stations - 1 Intelsat (Atlantic Ocean), 1 Eutelsat, and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Sweden shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Norway) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -656,8 +656,8 @@ _unpaved_: 433,034 km (2016)<br>
 2,052 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 368<br>
-_by type_: general cargo 49, oil tanker 20, other 299 (2020)<br>
+_total_: 370<br>
+_by type_: general cargo 49, oil tanker 22, other 299 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Brofjorden, Goteborg, Helsingborg, Karlshamn, Lulea, Malmo, Stockholm, Trelleborg, Visby<br>

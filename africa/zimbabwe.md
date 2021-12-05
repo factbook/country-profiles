@@ -62,7 +62,7 @@ _other_: 18% (2018 est.)<br>
 1,740 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -290,7 +290,7 @@ _municipal solid waste recycled annually_: 231,960 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Botswana, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Botswana, and Mozambique [m]) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -617,7 +617,7 @@ _total subscriptions_: 13,195,902<br>
 _subscriptions per 100 inhabitants_: 92.43 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the pandemic, drought, and rising hyperinflation have devastated the economy and hindered foreign investment; regulator extended tax exemption for Huawei, raising concerns of independence; mobile tariffs were increased three times since mid-2019, raising consumer prices; Internet is limited, exacerbated by inadequate electricity; mobile Internet connections make up almost all Internet connections; competition has driven some expansion of the telecommunications sector, though operators warn that lack of government investment will cause further deterioration, especially in rural areas; mobile network operators continue to invest in e-commerce and e-banking; slow progress on national and international fiber backbone network, as well as 3G and LTE mobile-broadband services; international bandwidth through submarine cables via neighboring countries (2021)</p> (2020)<br>
+_general assessment_: the pandemic, drought, and rising hyperinflation have devastated the economy and hindered foreign investment; regulator extended tax exemption for Huawei, raising concerns of independence; mobile tariffs were increased three times since mid-2019, raising consumer prices; Internet is limited, exacerbated by inadequate electricity; mobile Internet connections make up almost all Internet connections; competition has driven some expansion of the telecommunications sector, though operators warn that lack of government investment will cause further deterioration, especially in rural areas; mobile network operators continue to invest in e-commerce and e-banking; slow progress on national and international fiber backbone network, as well as 3G and LTE mobile-broadband services; international bandwidth through submarine cables via neighboring countries (2020)<br>
 _domestic_: consists of microwave radio relay links, open-wire lines, radiotelephone communication stations, fixed wireless local loop installations, fiber-optic cable, VSAT terminals, and a substantial mobile-cellular network; Internet connection is most readily available in Harare and major towns; two government owned and two private cellular providers; fixed-line 2 per 100 and mobile-cellular 90 per 100 (2019)<br>
 _international_: country code - 263; fiber-optic connections to neighboring states provide access to international networks via undersea cable; satellite earth stations - 2 Intelsat; 5 international digital gateway exchanges<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -711,7 +711,7 @@ the ZDF was formed after independence from the former Rhodesian Army and the two
 <p>Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river; South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 11,408 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 11,191 (Democratic Republic of Congo) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Zimbabwe is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; Zimbabwean women and girls from towns bordering South Africa, Mozambique, and Zambia are subjected to forced labor, including domestic servitude, and prostitution catering to long-distance truck drivers; Zimbabwean men, women, and children experience forced labor in agriculture and domestic servitude in rural areas; family members may recruit children and other relatives from rural areas with promises of work or education in cities and towns where they end up in domestic servitude and sex trafficking; Zimbabwean women and men are lured into exploitative labor situations in South Africa and other neighboring countries<br>

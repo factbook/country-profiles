@@ -226,12 +226,12 @@ _female_: 76.7% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
-_female_: 11 years (2015)<br>
+_female_: 10 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 5%<br>
-_male_: 3.7%<br>
-_female_: 8.1% (2017 est.)<br>
+_total_: 4.6%<br>
+_male_: 4%<br>
+_female_: 5.7% (2019 est.)<br>
 
 ## Environment
 
@@ -601,15 +601,15 @@ _electrification - rural areas_: 85% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,974,006<br>
-_subscriptions per 100 inhabitants_: 11.71 (2019 est.)<br>
+_total subscriptions_: 2,272,467 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 20,874,130<br>
-_subscriptions per 100 inhabitants_: 123.83 (2019 est.)<br>
+_total subscriptions_: 20,390,671 (2020)<br>
+_subscriptions per 100 inhabitants_: 113.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>due to years of underinvestment in infrastructure, has one of the lowest fixed-line tele densities in the region; rural areas rely on mobile services with little access to fixed-line access; mobile tele-density on par with region and is the most developed sector, with near universal phone connections; private investment to bring free Internet to parks; two submarine cables due for completion will support growth in fixed and mobile broadband (2021)</p> (2020)<br>
+_general assessment_: due to years of underinvestment in infrastructure, has one of the lowest fixed-line tele densities in the region; rural areas rely on mobile services with little access to fixed-line access; mobile tele-density on par with region and is the most developed sector, with near universal phone connections; private investment to bring free Internet to parks; two submarine cables due for completion will support growth in fixed and mobile broadband (2020)<br>
 _domestic_: fixed-line teledensity roughly 11 per 100 persons; fixed-line investments are concentrating on improving rural connectivity; mobile-cellular teledensity about 119 per 100 persons (2019)<br>
 _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, American Movil-Texius&nbsp;West Coast Cable and the SAm-1 fiber-optic submarine cable system that, together, provide connectivity to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -625,8 +625,8 @@ _total_: 10,777,827<br>
 _percent of population_: 65% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 506,000<br>
-_subscriptions per 100 inhabitants_: 3 (2017 est.)<br>
+_total_: 531,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 3.14 (2019 est.)<br>
 
 ## Transportation
 
@@ -676,8 +676,8 @@ _unpaved_: 10,132 km (includes 4,960 km of rural roads) (2016)<br>
 990 km (260 km navigable year round; additional 730 km navigable during high-water season) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 8<br>
-_by type_: oil tanker 1, other 7 (2020)<br>
+_total_: 9<br>
+_by type_: oil tanker 1, other 8 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Quetzal, Santo Tomas de Castilla<br>
@@ -705,6 +705,9 @@ the Guatemalan military inventory is small and mostly comprised of older US equi
 
 **Military service age and obligation**<br>
 all male citizens between the ages of 18 and 50 are eligible for military service; in practice, most of the force is volunteer, however, a selective draft system is employed, resulting in a small portion of 17-21 year-olds conscripted; conscript service obligation varies from 1 to 2 years; women can serve as officers (2019)<br>
+
+**Military - note**<br>
+<p>since the 2000s, the Guatemalan Government has frequently used the Army to support the National Civil Police (PNC; under the Ministry of Government) in internal security operations (as permitted by the constitution) to combat organized crime, gang violence, and narco-trafficking</p> <p>the military held power during most of the country’s 36-year civil war (1960-1996) and conducted a campaign of widespread violence and repression, particularly against the country’s majority indigenous population; more than 200,000 people were estimated to have been killed or disappeared during the conflict</p><br>
 
 ## Transnational Issues
 

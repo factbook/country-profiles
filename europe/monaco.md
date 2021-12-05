@@ -193,7 +193,7 @@ NA<br>
 1.2% of GDP (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 26.6%<br>
+_total_: 26.7%<br>
 _male_: 25.7%<br>
 _female_: 27.9% (2016 est.)<br>
 
@@ -443,12 +443,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 44,119<br>
-_subscriptions per 100 inhabitants_: 142.65 (2019 est.)<br>
+_total subscriptions_: 43,706 (2020)<br>
+_subscriptions per 100 inhabitants_: 111.4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33,783<br>
-_subscriptions per 100 inhabitants_: 109.23 (2019 est.)<br>
+_total subscriptions_: 35,485 (2020)<br>
+_subscriptions per 100 inhabitants_: 90.43 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern automatic telephone system; the country's sole fixed-line operator offers a full range of services to residential and business customers; competitive mobile telephony market; 4G LTE widely available (2020)<br>
@@ -467,8 +467,8 @@ _total_: 29,821<br>
 _percent of population_: 97.05% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 20,476<br>
-_subscriptions per 100 inhabitants_: 66.2 (2019 est.)<br>
+_total_: 20,877 (2020)<br>
+_subscriptions per 100 inhabitants_: 53.2 (2020 est.)<br>
 
 ## Transportation
 

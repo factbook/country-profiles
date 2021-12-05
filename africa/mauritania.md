@@ -65,7 +65,7 @@ _other_: 61.3% (2018 est.)<br>
 450 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
+Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -286,7 +286,7 @@ _municipal solid waste recycled annually_: 36,320 tons (2009 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2009 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Senegal and Mali) - 1,641 km;&nbsp;<br>
+Senegal river mouth (shared with Guinea [s], Senegal and Mali) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -609,15 +609,15 @@ _electrification - rural areas_: 4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 61,858<br>
-_subscriptions per 100 inhabitants_: 1.58 (2019 est.)<br>
+_total subscriptions_: 62,099 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,710,800<br>
-_subscriptions per 100 inhabitants_: 120.32 (2019 est.)<br>
+_total subscriptions_: 4,932,571 (2020)<br>
+_subscriptions per 100 inhabitants_: 106.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulations to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2021) (2020)<br>
+_general assessment_: Mauritania&rsquo;s small population and low economic output limit sustained growth; transparency and tax burdens hinder foreign investment; World Bank and European Investment Bank support regulations to promote fixed-line broadband, improvement of the national backbone network, and connectivity to international cables; limited system of cable and open-wire lines, mobile-cellular services expanding though monopolies, and little stimulus for competition; 3G penetration high yet little development in LTE; mobile broadband access speeds are low; importer of broadcasting equipment from UAE (2020)<br>
 _domestic_: fixed-line teledensity 1 per 100 persons; mobile-cellular network coverage extends mainly to urban areas with a teledensity of roughly 104 per 100 persons; mostly cable and open-wire lines; a domestic satellite telecommunications system links Nouakchott with regional capitals (2019)<br>
 _international_: country code - 222; landing point for the ACE submarine cable for connectivity&nbsp;to 19 West African countries and 2 European countries; satellite earth stations - 3 (1 Intelsat - Atlantic Ocean, 2 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -633,8 +633,8 @@ _total_: 798,809<br>
 _percent of population_: 20.8% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,815<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 19,246 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -675,7 +675,7 @@ _unpaved_: 8,265 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 5<br>
-_by type_: general cargo 2, other 3 (2020)<br>
+_by type_: general cargo 2, other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Nouadhibou, Nouakchott<br>
@@ -718,7 +718,7 @@ Al-Qaeda in the Islamic Maghreb (AQIM)<br>
 <p>Mauritanian claims to Western Sahara remain dormant</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 72,033 (Mali) (2021)<br>
+_refugees (country of origin)_: 26,001 (Sahrawis) (2020); 72,816 (Mali) (2021)<br>
 _IDPs_: 744,944 (conflict in North Mozambique) (2021)<br>
 
 **Trafficking in persons**<br>

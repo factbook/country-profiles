@@ -79,14 +79,14 @@ _noun_: Bruneian(s)<br>
 _adjective_: Bruneian<br>
 
 **Ethnic groups**<br>
-Malay 65.7%, Chinese 10.3%, other 24% (2019 est.)<br>
+Malay 65.8%, Chinese 10.2%, other 24% (2020 est.)<br>
 
 **Languages**<br>
 Malay (Bahasa Melayu) (official), English, Chinese dialects<br>
 _major-language sample(s)_: <br>Buku Fakta Dunia, sumber yang diperlukan untuk maklumat asas. (Malay)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 78.8%, Christian 8.7%, Buddhist 7.8%, other (includes indigenous beliefs) 4.7% (2011 est.)<br>
+Muslim (official) 80.9%, Christian 7.1%, Buddhist 7.1%, other (includes indigenous beliefs) 5% (2016 est.)<br>
 
 **Demographic profile**<br>
 <p>Brunei is a small, oil-rich sultanate of less than half a million people, making it the smallest country in Southeast Asia by population.  Its total fertility rate – the average number of births per woman – has been steadily declining over the last few decades, from over 3.5 in the 1980s to below replacement level today at nearly 1.8.  The trend is due to women’s increased years of education and participation in the workforce, which have resulted in later marriages and fewer children.  Yet, the population continues to grow because of the large number of women of reproductive age and a reliance on foreign labor – mainly from Malaysia, Thailand, the Philippines, Indonesia, and South Asian countries – to fill low-skilled jobs.</p> <p>Brunei is officially Muslim, and Malay is the official language.  The country follows an official Malay national ideology, Malay Islamic Monarchy, which promotes Malay language and culture, Islamic values, and the monarchy.  Only seven of Brunei’s native groups are recognized in the constitution and are defined as “Malay” – Brunei Malays, Belait, Kedayan, Dusun, Bisayak, Lun Bawang, and Sama-Baiau.  Together they make up about 66% percent of the population and are referred to as the Bumiputera.  The Bumiputera are entitled to official privileges, including land ownership, access to certain types of employment (Royal Brunei Armed Forces and Brunei Shell Petroleum), easier access to higher education, and better job opportunities in the civil service. </p> <p>Brunei’s Chinese population descends from migrants who arrived when Brunei was a British protectorate (1888 and 1984).  They are prominent in the non-state commercial sector and account for approximately 10% of the population.  Most Bruneian Chinese are permanent residents rather than citizens despite roots going back several generations.  Many are stateless and are denied rights granted to citizens, such as land ownership, subsidized health care, and free secondary and university education.  Because of the discriminatory policies, the number of Chinese in Brunei has shrunk considerably in the last 50 years.  Native ethnic groups that are not included in the Bumiputera are not recognized in the constitution and are not officially identified as “Malay” or automatically granted citizenship.  Foreign workers constitute some quarter of the labor force.</p><br>
@@ -197,7 +197,7 @@ _female_: 93.4% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 14 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 21.4%<br>
@@ -547,12 +547,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 86,590<br>
-_subscriptions per 100 inhabitants_: 18.94 (2019 est.)<br>
+_total subscriptions_: 103,885 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.75 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 574,799<br>
-_subscriptions per 100 inhabitants_: 125.73 (2019 est.)<br>
+_total subscriptions_: 526,732 (2020)<br>
+_subscriptions per 100 inhabitants_: 120.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Brunei is improving its national telecom network; telecommunications infrastructure and services are of high standard, due to healthy investment in networks and services; relatively mature telecom system compared to other Asian countries; mobile subscription increasing steadily to high penetration; launch of 5G services in 2021 will boost the mobile broadband sector; access to telecom services via the Kacific-1 satellite (2020)</p> (2020)<br>
@@ -571,8 +571,8 @@ _total_: 426,234<br>
 _percent of population_: 94.6% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 54,195<br>
-_subscriptions per 100 inhabitants_: 11.85 (2019 est.)<br>
+_total_: 71,078 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.25 (2020 est.)<br>
 
 ## Transportation
 
@@ -607,8 +607,8 @@ _unpaved_: 417 km (2014)<br>
 209 km (navigable by craft drawing less than 1.2 m; the Belait, Brunei, and Tutong Rivers are major transport links) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 102<br>
-_by type_: general cargo 18, oil tanker 2, other 82 (2020)<br>
+_total_: 96<br>
+_by type_: general cargo 18, oil tanker 3, other 75 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Muara<br>

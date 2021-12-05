@@ -201,12 +201,12 @@ _female_: 96.4% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
-_female_: 16 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 9.7%<br>
-_male_: 10.3%<br>
-_female_: 9% (2019 est.)<br>
+_total_: 16.4%<br>
+_male_: 17.4%<br>
+_female_: 15.5% (2020 est.)<br>
 
 ## Environment
 
@@ -555,12 +555,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 20,122<br>
-_subscriptions per 100 inhabitants_: 21.17 (2019 est.)<br>
+_total subscriptions_: 18,882 (2020)<br>
+_subscriptions per 100 inhabitants_: 19.2 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 193,672<br>
-_subscriptions per 100 inhabitants_: 203.78 (2019 est.)<br>
+_total subscriptions_: 183,498 (2020)<br>
+_subscriptions per 100 inhabitants_: 186.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: effective system; direct international calls to over 100 countries; radiotelephone communications between islands in the archipelago; 3 ISPs; use of Internet cafes' for access to Internet; 4G services and 5G pending (2020)<br>
@@ -579,8 +579,8 @@ _total_: 55,616<br>
 _percent of population_: 58.77% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 26,974<br>
-_subscriptions per 100 inhabitants_: 28.38 (2019 est.)<br>
+_total_: 34,966 (2020)<br>
+_subscriptions per 100 inhabitants_: 35.55 (2020 est.)<br>
 
 ## Transportation
 
@@ -616,8 +616,8 @@ _paved_: 514 km (2015)<br>
 _unpaved_: 12 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 26<br>
-_by type_: general cargo 4, oil tanker 6, other 16 (2020)<br>
+_total_: 27<br>
+_by type_: general cargo 5, oil tanker 6, other 16 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Victoria<br>
@@ -625,7 +625,10 @@ _major seaport(s)_: Victoria<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Seychelles People&rsquo;s Defence Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force (2021)<br>
+Seychelles People’s Defense Forces (SPDF): Army (includes infantry, special forces, and a presidential security unit), Coast Guard, and Air Force; Ministry of Internal Affairs: Seychelles Police Force (includes unarmed police and an armed paramilitary Police Special Support Wing, the Anti-Narcotics Bureau, and the Marine Police Unit) (2021)<br><br>note - the military reports to the president, who acts as minister of defense
+ <br>
+note - the military reports to the president, who acts as minister of defense
+&nbsp;<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>

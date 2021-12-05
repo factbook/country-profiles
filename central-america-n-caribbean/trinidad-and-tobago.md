@@ -609,8 +609,8 @@ _under 914 m_: 1 (2013)<br>
 257 km condensate, 11 km condensate/gas, 1567 km gas, 587 km oil (2013)<br>
 
 **Merchant marine**<br>
-_total_: 103<br>
-_by type_: general cargo 1, other 102 (2020)<br>
+_total_: 105<br>
+_by type_: general cargo 1, other 104 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Point Fortin, Point Lisas, Port of Spain, Scarborough<br>
@@ -620,7 +620,8 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves (2021)<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS)  (2021)<br>
+note - the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
@@ -630,7 +631,7 @@ Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago 
 1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Trinidad and Tobago Defense Force (TTDF) has approximately 4,500 personnel (2021)<br>
+has approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US; since 2010, the Netherlands is the leading supplier of military hardware to the TTDF (2020)<br>

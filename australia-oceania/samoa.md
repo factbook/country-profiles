@@ -282,7 +282,6 @@ parliamentary republic<br>
 _name_: Apia<br>
 _geographic coordinates_: 13 49 S, 171 46 W<br>
 _time difference_: UTC+13 (18 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins last Sunday in September; ends first Sunday in April<br>
 _etymology_: name derives from the native village around which the capital was constructed in the 1850s; the village still exists within the larger modern capital<br>
 
 **Administrative divisions**<br>
@@ -575,7 +574,7 @@ _total subscriptions_: 128,776<br>
 _subscriptions per 100 inhabitants_: 63.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; telecom sector has been inhibited by lack of international connectivity; most households have at least one mobile phone; businesses in the capital area have access to broadband and Wi-Fi; rural islands have some access to Internet and Wi-Fi; liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; importer of broadcasting equipment from USA (2020)</p> (2020)<br>
+_general assessment_: development of infrastructure is hampered by geography of remote islands, vulnerable to devastating storms; telecom sector has been inhibited by lack of international connectivity; most households have at least one mobile phone; businesses in the capital area have access to broadband and Wi-Fi; rural islands have some access to Internet and Wi-Fi; liberalized regulatory infrastructure and competition in the mobile market increased coverage and reduced cost; access to submarine cables improved Internet data rates and reliability; Australian companies countering Chinese companies in the acquisition of Pacific operations; importer of broadcasting equipment from USA (2020)<br>
 _domestic_: fixed-line 4 per 100 and mobile-cellular teledensity 64 telephones per 100 persons (2019)<br>
 _international_: country code - 685; landing points for the Tui-Samo, Manatua, SAS, and Southern Cross NEXT submarine cables providing connectivity to Samoa, Fiji,&nbsp;Wallis&nbsp;&amp; Futuna, Cook Islands, Niue, French Polynesia, American Samoa, Australia, New Zealand, Kiribati, Los Angeles (US), and Tokelau;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -620,7 +619,7 @@ _total_: 1,150 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 12<br>
-_by type_: general cargo 4, oil tanker 1, other 7 (2020)<br>
+_by type_: general cargo 3, oil tanker 3, other 6 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apia<br>

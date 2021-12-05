@@ -584,8 +584,8 @@ _total_: 1<br>
 _under 914 m_: 1 (2013)<br>
 
 **Merchant marine**<br>
-_total_: 813<br>
-_by type_: bulk carrier 22, container ship 17, general cargo 163, oil tanker 16, other 595 (2020)<br>
+_total_: 792<br>
+_by type_: bulk carrier 27, container ship 17, general cargo 155, oil tanker 16, other 577 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kingstown<br>

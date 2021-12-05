@@ -69,7 +69,7 @@ _Fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; L
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Kurshskiy Zaliv/Kursiu Marios (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
 
 **Major rivers (by length in km)**<br>
-Yenisey - 5,539 km; Ob' - 5,410 km;&nbsp; Amur (shared with China and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural (shared with Kazakhstan) - 2,428 km; Dnieper (shared with Ukraine and Belarus) - 2,287 km; Don (shared with Ukraine) - 1,870 km; Pechora - 1,809 km<br>
+Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnieper river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
@@ -194,7 +194,7 @@ _unimproved: total_: total: 2.9% of population (2017 est.)<br>
 3.75 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
-8.1 beds/1,000 population (2017)<br>
+7.1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 94.8% of population<br>
@@ -237,12 +237,12 @@ _female_: 99.7% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 16 years (2018)<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 15.2%<br>
-_male_: 14.8%<br>
-_female_: 15.6% (2019 est.)<br>
+_total_: 17%<br>
+_male_: 16%<br>
+_female_: 18.2% (2020 est.)<br>
 
 ## Environment
 
@@ -295,7 +295,7 @@ _Fresh water lake(s)_: Lake Baikal - 31,500 sq km; Lake Ladoga - 18,130 sq km; L
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Ozero Malyye Chany - 2,500 sq km; Kurshskiy Zaliv/Kursiu Marios (shared with Lithuania) - 1,620 sq km<br>note - the Caspian Sea is the World's largest lake<br>
 
 **Major rivers (by length in km)**<br>
-Yenisey - 5,539 km; Ob' - 5,410 km;&nbsp; Amur (shared with China and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural (shared with Kazakhstan) - 2,428 km; Dnieper (shared with Ukraine and Belarus) - 2,287 km; Don (shared with Ukraine) - 1,870 km; Pechora - 1,809 km<br>
+Yenisey-Angara - 5,539 km; Ob-Irtysh - 5,410 km;  Amur river mouth (shared with China [s] and Mongolia) - 4,444 km; Lena - 4,400 km; Volga - 3,645 km; Kolyma - 2,513 km; Ural river source (shared with Kazakhstan [m]) - 2,428 km; Dnieper river source (shared with Belarus and Ukraine [m]) - 2,287 km; Don - 1,870 km; Pechora - 1,809 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Arctic Ocean drainage: Kolyma (679,934 sq km), Lena (2,306,743 sq km), Ob (2,972,493 sq km), Pechora (289,532 sq km), Yenisei (2,554,388 sq km)<br>Atlantic Ocean drainage: <em>(Black Sea) </em>Don (458,694 sq km), Dnieper (533,966 sq km)<br>Pacific Ocean drainage: Amur (1,929,955 sq km)<br>Internal <em>(endorheic basin) </em>drainage: <em>(Caspian Sea basin)</em> Volga (1,410,951 sq km)<br>
@@ -639,7 +639,7 @@ _total subscriptions_: 239,795,946<br>
 _subscriptions per 100 inhabitants_: 167.9 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market is largest in Europe, centered in large cities; competition active in Moscow and St Petersburg; most users access Internet through mobile platforms; fiber broadband sector is growing, supported by government in aim to extend reach to outlying regions; tests of 5G with Moscow adopting smart city technology; government justifies censorship and website blocks under a range of laws and regulations; government program aims to provide 97% of households with fixed broadband by 2024; publicly accessible Internet connections in institutions such as hospitals, libraries, schools, and mass transit available in cities; in rural areas, the availability of public Internet connections remains limited; major importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: telecom market is largest in Europe, centered in large cities; competition active in Moscow and St Petersburg; most users access Internet through mobile platforms; fiber broadband sector is growing, supported by government in aim to extend reach to outlying regions; tests of 5G with Moscow adopting smart city technology; government justifies censorship and website blocks under a range of laws and regulations; government program aims to provide 97% of households with fixed broadband by 2024; publicly accessible Internet connections in institutions such as hospitals, libraries, schools, and mass transit available in cities; in rural areas, the availability of public Internet connections remains limited; major importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: cross-country digital trunk lines run from Saint Petersburg to Khabarovsk, and from Moscow to Novorossiysk; the telephone systems in 60 regional capitals have modern digital infrastructures; cellular services, both analog and digital, are available in many areas; in rural areas, telephone services are still outdated, inadequate, and low-density; 22 per 100 for fixed-line and mobile-cellular 164 per 100 persons (2019)<br>
 _international_: country code - 7; landing points for the Far East Submarine Cable System, HSCS, Sakhalin-Kuril Island Cable, RSCN, BCS North-Phase 2, Kerch Strait Cable and the Georgia-Russian submarine cable system connecting Russia, Japan, Finland, Georgia and Ukraine; satellite earth stations provide access to Intelsat, Intersputnik, Eutelsat, Inmarsat, and Orbita systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -709,8 +709,8 @@ _unpaved_: 355,666 km (2012)<br>
 102,000 km (including 48,000 km with guaranteed depth; the 72,000-km system in European Russia links Baltic Sea, White Sea, Caspian Sea, Sea of Azov, and Black Sea) (2009)<br>
 
 **Merchant marine**<br>
-_total_: 2,808<br>
-_by type_: bulk carrier 15, container ship 16, general cargo 923, oil tanker 406, other 1,448 (2020)<br>
+_total_: 2,873<br>
+_by type_: bulk carrier 13, container ship 17, general cargo 946, oil tanker 406, other 1,491 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Arctic Ocean: </em>Arkhangelsk, Murmansk<em><br>Baltic Sea:</em> Kaliningrad, Primorsk, Saint Petersburg<br><em>Black Sea:</em> Novorossiysk<br><em>Pacific Ocean:</em> Nakhodka, Vladivostok, Vostochnyy<br>
@@ -722,8 +722,8 @@ _river port(s)_: Astrakhan, Kazan (Volga River); Rostov-on-Don (Don River); Sain
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV), and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Naznacheniya, RVSN) referred to commonly as Strategic Rocket Forces, are independent "combat arms," not subordinate to any of the three branches<br><br>Federal National Guard Troops Service of the Russian Federation (National Guard (FSVNG), Russian Guard, or Rosgvardiya): created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD)<br><br>Federal Security Services Border Troops (includes land and maritime forces) (2021)<br><br>note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats <br>
-note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats&nbsp;<br>
+Armed Forces of the Russian Federation: Ground Troops (Sukhoputnyye Voyskia, SV), Navy (Voyenno-Morskoy Flot, VMF), Aerospace Forces (Vozdushno-Kosmicheskiye Sily, VKS); Airborne Troops (Vozdushno-Desantnyye Voyska, VDV), and Missile Troops of Strategic Purpose (Raketnyye Voyska Strategicheskogo Naznacheniya, RVSN) referred to commonly as Strategic Rocket Forces, are independent "combat arms," not subordinate to any of the three branches<br><br>Federal National Guard Troops Service of the Russian Federation (National Guard (FSVNG), Russian Guard, or Rosgvardiya): created in 2016 as an independent agency for internal/regime security, combating terrorism and narcotics trafficking, protecting important state facilities and government personnel, and supporting border security; forces under the National Guard include the Special Purpose Mobile Units (OMON), Special Rapid Response Detachment (SOBR), and Interior Troops (VV); these troops were originally under the command of the Interior Ministry (MVD)<br><br>Federal Security Services Border Troops (includes land and maritime forces) (2021)<br>
+note - the Air Force and Aerospace Defense Forces were merged into the VKS in 2015; VKS responsibilities also include launching military and dual‐use satellites, maintaining military satellites, and monitoring and defending against space threats<br>
 
 **Military expenditures**<br>
 4% of GDP (2020 est.)<br>
@@ -769,5 +769,5 @@ _current situation_: Russia is a source, transit, and destination country for me
 _tier rating_: Tier 3 &mdash; Russia does not fully meet the minimum standards for the elimination of trafficking, is not making significant efforts to do, and remains in Tier 3; the government took some steps to address trafficking by convicting some traffickers, facilitating the return of Russian children from Iraq and Syria, and identifying some victims, including foreign nationals; however, there was a government policy of forced labor, the number of victims identified was negligible, and authorities penalized potential victims without screening for signs of trafficking; the government offered no funding or programs for trafficking victims&rsquo; rehabilitation, prosecutions remained low compared with the scope of Russia&rsquo;s trafficking problem, no national anti-trafficking strategy has been drafted, and government agencies have not been assigned roles or responsibilities (2020)<br>
 
 **Illicit drugs**<br>
-<p>a destination country for Afghan opium and heroin and other Afghan opiates; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; cannabis cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p><br>
+<p>a destination country for Afghan opium and heroin; a transit country for cocaine from South America, especially Ecuador to Europe, Belgium and Netherlands; synthetic drugs are produced in clandestine drug laboratories throughout the country; cannabis cultivated in Russian Far East and the North Caucasus; the majority of hashish is smuggled in from Northern Africa</p><br>
 

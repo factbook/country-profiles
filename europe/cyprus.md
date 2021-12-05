@@ -216,14 +216,14 @@ _male_: 99.5%<br>
 _female_: 98.7% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 15 years<br>
-_female_: 15 years (2018)<br>
+_total_: 16 years<br>
+_male_: 16 years<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16.6%<br>
-_male_: 19.3%<br>
-_female_: 14.3% (2019 est.)<br>
+_total_: 18.2%<br>
+_male_: 24.4%<br>
+_female_: 12.3% (2020 est.)<br>
 
 **People - note**<br>
 demographic data for Cyprus represent the population of the government-controlled area and the area administered by Turkish Cypriots, unless otherwise indicated<br>
@@ -596,15 +596,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 323,914<br>
-_subscriptions per 100 inhabitants_: 25.86 (2019 est.)<br>
+_total subscriptions_: 311,439 (2020)<br>
+_subscriptions per 100 inhabitants_: 35.07 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,243,151<br>
-_subscriptions per 100 inhabitants_: 99.24 (2019 est.)<br>
+_total subscriptions_: 1,230,706 (2020)<br>
+_subscriptions per 100 inhabitants_: 138.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>despite the growth of Cyprus's telecom sector, the market is dominated by its state-owned operator; one of the highest broadband penetration rates in the region; DSL remains the dominant access platform as broadband is restricted to a few towns; fixed-line and mobile cable infrastructure available for more than half of premises; fiber infrastructure in development; improved regulations provide confidence for investment in network infrastructure and competing services; operator expanded FttP services and initiated cable connection to France and Egypt; operator signed vendor agreement with international investor, Huawei, to develop 5G; operators extended LTE services and upgraded transmission capacity on TE-North Cable System (2021)</p> (2020)<br>
+_general assessment_: despite the growth of Cyprus's telecom sector, the market is dominated by its state-owned operator; one of the highest broadband penetration rates in the region; DSL remains the dominant access platform as broadband is restricted to a few towns; fixed-line and mobile cable infrastructure available for more than half of premises; fiber infrastructure in development; improved regulations provide confidence for investment in network infrastructure and competing services; operator expanded FttP services and initiated cable connection to France and Egypt; operator signed vendor agreement with international investor, Huawei, to develop 5G; operators extended LTE services and upgraded transmission capacity on TE-North Cable System (2020)<br>
 _domestic_: fixed-line is 37 per 100, and&nbsp;&nbsp;144 per 100 for mobile-cellular; open-wire, fiber-optic cable, and microwave radio relay (2019)<br>
 _international_: country code - 357 (area administered by Turkish Cypriots uses the country code of Turkey - 90); a number of submarine cables, including the SEA-ME-WE-3, CADMOS, MedNautilus Submarine System, POSEIDON, TE North/TGN-Eurasia/SEACOM/Alexandros/Medes, UGARIT, Aphrodite2, Hawk, Lev Submarine System, and Tamares combine to provide connectivity to&nbsp;Europe, the Middle East, Africa, Asia, Australia, and Southeast Asia; Turcyos-1 and Turcyos-2 submarine cable in Turkish North Cyprus link to Turkey; tropospheric scatter; satellite earth stations - 8 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 2 Eutelsat, 2 Intersputnik, and 1 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -620,8 +620,8 @@ _total_: 1,044,473<br>
 _percent of population_: 84.43% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 326,565<br>
-_subscriptions per 100 inhabitants_: 26.07 (2019 est.)<br>
+_total_: 332,080 (2020)<br>
+_subscriptions per 100 inhabitants_: 37.4 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,8 +662,8 @@ _unpaved_: 4,270 km (2016)<br>
 _Turkish Cypriot control_: 7,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,065<br>
-_by type_: bulk carrier 286, container ship 197, general cargo 190, oil tanker 49, other 343 (2020)<br>
+_total_: 1,051<br>
+_by type_: bulk carrier 269, container ship 182, general cargo 197, oil tanker 59, other 344 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: area under government control: Larnaca, Limassol, Vasilikos<br>

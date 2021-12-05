@@ -62,7 +62,7 @@ _other_: 36.5% (2018 est.)<br>
 550 sq km (2016)<br>
 
 **Major rivers (by length in km)**<br>
-Volta (shared with Ghana) - 1,600 km<br>
+Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 24.4% of population (2017 est.)<br>
 0.09 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-0.4 beds/1,000 population (2010)<br>
+0.4 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 88.2% of population<br>
@@ -230,7 +230,7 @@ _female_: 31% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: 9 years<br>
-_female_: 9 years (2019)<br>
+_female_: 9 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 8.6%<br>
@@ -289,7 +289,7 @@ _municipal solid waste recycled annually_: 309,030 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 12% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Volta (shared with Ghana) - 1,600 km<br>
+Volta river source (shared with Ghana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Volta (410,991 sq km)<br>
@@ -712,6 +712,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,334 (Mali) (2021)<br>
-_IDPs_: <p>1,218,754 (2021)</p><br>
+_refugees (country of origin)_: 23,594 (Mali) (2021)<br>
+_IDPs_: <p>1,407,685 (2021)</p><br>
 

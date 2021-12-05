@@ -69,7 +69,7 @@ _Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago
 _Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -227,13 +227,13 @@ _female_: 99.1% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
-_male_: 16 years<br>
-_female_: 19 years (2017)<br>
+_male_: 17 years<br>
+_female_: 19 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 25.9%<br>
-_male_: 23.9%<br>
-_female_: 28.8% (2019 est.)<br>
+_total_: 30.2%<br>
+_male_: 26.8%<br>
+_female_: 35% (2020 est.)<br>
 
 ## Environment
 
@@ -283,7 +283,7 @@ _Fresh water lake(s)_: Lago Buenos Aires (shared with Chile) - 2,240 sq km; Lago
 _Salt water lake(s)_: Laguna Mar Chiquita - 1,850 sq km;<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Paraguay, and Uruguay) - 4,880 km; Paraguay (shared with Brazil [s], and Paraguay [m]) - 2,549 km; Uruguay (shared with Brazil [s] and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -355,8 +355,8 @@ _election results_: <br><em>2019:</em> Alberto Angel FERNANDEZ elected president
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate (72 seats; members directly elected on a provincial basis with 2 seats awarded to the party with the most votes and 1 seat to the party with the second highest number of votes; members serve 6-year terms with one-third of the membership renewed every 2 years)<br>Chamber of Deputies (257 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote using the D'Hondt method; members serve 4-year terms with one-half of the membership renewed every 2 years)<br>
-_elections_: <br>Senate - last held on 27 October 2019 (next to be held on 14 November 2021)<br>Chamber of Deputies - last held on 27 October 2019 (next to be held on 14 November 2021)<br>
-_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 13, Cambiemos 8, FCS 2, JSRN 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - TODOS 64, Cambiemos 56, CF 3, FCS 3, JSRN 1, other 3<br>
+_elections_: <br>Senate - last held on 14 November 2021 (next to be held in 2023)<br>Chamber of Deputies - last held on 14 November 2021 (next to be held in 2023)<br>
+_election results_: Senate - percent of vote by bloc or party - NA; seats by bloc or party - Together for Change 14, TODOS 9, other 1; <br>Chamber of Deputies - percent of vote by bloc or party - NA; seats by bloc or party - Together for Change 61, TODOS 50, NOS 5, FIT-U 4, other 7<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of the court president, vice president, and 5 justices)<br>
@@ -364,7 +364,7 @@ _judge selection and term of office_: justices nominated by the president and ap
 _subordinate courts_: federal level appellate, district, and territorial courts; provincial level supreme, appellate, and first instance courts<br>
 
 **Political parties and leaders**<br>
-Argentina Federal [coalition led by Pablo KOSINER]<br> Cambiemos [Mauricio MACRI] (coalition of CC-ARI, PRO, and UCR)<br>Citizen's Unity or UC [Cristina FERNANDEZ DE KIRCHNER]<br>Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano FERRARO]<br>Civic Front for Santiago or FCS [Gerardo ZAMORA]<br>Everyone's Front (Frente de Todos) or TODOS [Alberto Angel FERNANDEZ]<br>Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Front for the Renewal of Concord or FRC<br>Front for Victory or FpV [coalition led by Cristina FERNANDEZ DE KIRCHNER and Agustin ROSSI] <br>Generation for a National Encounter or GEN [Monica PERALTA]<br>Justicialist Party or PJ [Miguel Angel PICHETTO]<br>Radical Civic Union or UCR [Alfredo CORNEJO]<br>Renewal Front (Frente Renovador) or FR [Sergio MASSA]<br>Republican Proposal or PRO [Mauricio MACRI, Humberto SCHIAVONI]<br>Socialist Party or PS [Antonio BONFATTI]<br>Socialist Workers’ Party or PTS [Jose MONTES]<br>Together We Are Rio Negro or JSRN [Alberto Edgardo WERETILNECK]<br>We Do For Cordoba (Hacemos Por Cordoba) or HC [Juan SCHIARETTI]<br>Workers' Party or PO [Jorge ALTAMIRA]<br>Worker’s Socialist Movement or MST [Alejandro BODDART; Vilma RIPOLL]<br>numerous provincial parties<br>
+Civic Coalition ARI or CC-ARI [Elisa CARRIO, Maximiliano FERRARO]<br>Civic Front for Santiago or FCS [Gerardo ZAMORA]<br>Everyone's Front (Frente de Todos) or TODOS [Alberto Angel FERNANDEZ; Cristina FERNANDEZ DE KIRCHNER]<br>Federal Consensus or CF [Roberto LAVAGNA, Juan Manuel URTUBEY]<br>Front for the Renewal of Concord or FRC [Carlos Eduardo ROVIRA]<br>Generation for a National Encounter or GEN [Monica PERALTA]<br>Justicialist Party or PJ [Miguel Angel PICHETTO]<br>NOS [Juan Jose GOMEZ Centurion]<br>Radical Civic Union or UCR [Alfredo CORNEJO]<br>Renewal Front (Frente Renovador) or FR [Sergio MASSA]<br>Republican Proposal or PRO [Mauricio MACRI]<br>Socialist Left or IS<br>Socialist Party or PS [Antonio BONFATTI]<br>Socialist Workers’ Party or PTS [Jose MONTES]<br>Together for Change (Juntos por el Cambio) [Horacio Rodriguez LARRETA] (coalition of CC-ARI, PRO, and UCR)<br>Together We Are Rio Negro or JSRN [Alberto Edgardo WERETILNECK]<br>We Do For Cordoba (Hacemos Por Cordoba) or HC [Juan SCHIARETTI]<br>Workers' Left Front or FIT-U [Nicolas DEL CANO] (coalition of IS, MST, PO, and PTS)<br>Workers' Party or PO [Jorge ALTAMIRA]<br>Worker’s Socialist Movement or MST [Alejandro BODDART; Vilma RIPOLL]<br>numerous provincial parties<br>
 
 **International organization participation**<br>
 AfDB (nonregional member), Australia Group, BCIE, BIS, CAN (associate), CD, CELAC, FAO, FATF, G-15, G-20, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, NAM (observer), NSG, OAS, OPANAL, OPCW, Paris Club (associate), PCA, SICA (observer), UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, Union Latina (observer), UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -692,8 +692,8 @@ _unpaved_: 163,674 km (2017)<br>
 11,000 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 199<br>
-_by type_: container ship 1, general cargo 8, oil tanker 32, other 158 (2020)<br>
+_total_: 202<br>
+_by type_: container ship 1,bulk carrier 1 general cargo 8, oil tanker 33, other 159 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bahia Blanca, Buenos Aires, La Plata, Punta Colorada, Ushuaia<br>

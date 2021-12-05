@@ -218,14 +218,14 @@ _male_: 96.2%<br>
 _female_: 93.6% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
+_total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2017)<br>
+_female_: 14 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10.5%<br>
-_male_: 9.6%<br>
-_female_: 12% (2019 est.)<br>
+_total_: 12%<br>
+_male_: 11.4%<br>
+_female_: 13% (2020 est.)<br>
 
 ## Environment
 
@@ -337,7 +337,7 @@ _elections/appointments_: king elected by and from the hereditary rulers of 9 st
 
 **Legislative branch**<br>
 _description_: bicameral Parliament of Malaysia or Parlimen Malaysia consists of:<br>Senate or Dewan Negara (70 seats; 44 members appointed by the king and 26 indirectly elected by 13 state legislatures; members serve 3-year terms)<br>House of Representatives or Dewan Rakyat (222 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms) (2019)<br>
-_elections_: Senate - appointed<br>House of Representatives - last held on 9 May 2018 (next to be held no later than May 2023)<br>
+_elections_: Senate - appointed<br>House of Representatives - last held on 9 May 2018 (next national elections are not scheduled until 2023 but are widely expected to be called in 2022)<br>
 _election results_: <br>Senate - appointed; composition - men 54, women 14, percent of women 20.6%<br>House of Representatives - percent of vote by party/coalition - PH 45.6%, BN 33.8%, PAS 16.9%, WARISAN 2.3%, other 1.4%; seats by party/coalition - PH 113, BN 79, PAS 18, WARISAN 8, USA 1, independent 3; composition - men 199, women 23, percent of women 10.4%; note - total Parliament percent of women 12.8%<br>
 <strong>note:</strong> as of 16 November 2019, seats by party - PH 129, BN 41, GS 18, GPS 18, WARISAN 9, GBS 3, UPKO 1, PSB 1, independent 1, vacant 1<br>
 
@@ -595,15 +595,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,446,300<br>
-_subscriptions per 100 inhabitants_: 22.7 (2019 est.)<br>
+_total subscriptions_: 7,467,900 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.07 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 44,600,700<br>
-_subscriptions per 100 inhabitants_: 135.98 (2019 est.)<br>
+_total subscriptions_: 43,723,600 (2020)<br>
+_subscriptions per 100 inhabitants_: 135.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the most advanced telecom networks in the developing world; strong commitment to developing a technological society; Malaysia is promoting itself as an information tech hub in the Asian region; closing the urban rural divide; 4G and 5G networks with strong competition, mobile dominance over fixed-broadband; government development of five-year fiber and connectivity plan; some of Malaysia’s key exports are integrated circuits and broadcasting equipment to North America and China; importer of integrated circuits from Singapore and China (2021)</p> (2020)<br>
+_general assessment_: one of the most advanced telecom networks in the developing world; strong commitment to developing a technological society; Malaysia is promoting itself as an information tech hub in the Asian region; closing the urban rural divide; 4G and 5G networks with strong competition, mobile dominance over fixed-broadband; government development of five-year fiber and connectivity plan; some of Malaysia&rsquo;s key exports are integrated circuits and broadcasting equipment to North America and China; importer of integrated circuits from Singapore and China (2020)<br>
 _domestic_: fixed-line 20 per 100 and mobile-cellular teledensity exceeds 140 per 100 persons; domestic satellite system with 2 earth stations (2019)<br>
 _international_: country code - 60; landing points for BBG, FEA, SAFE, SeaMeWe-3 &amp; 4 &amp; 5, AAE-1, JASUKA, BDM, Dumai-Melaka Cable System, BRCS, ACE, AAG, East-West Submarine Cable System, SEAX-1, SKR1M, APCN-2, APG, BtoBe,&nbsp; BaSICS, and Labuan-Brunei Submarine and MCT submarine cables providing connectivity to Asia, the Middle East, Southeast Asia, Australia and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean, 1 Pacific Ocean); launch of Kacific-1 satellite in 2019 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -619,8 +619,8 @@ _total_: 25,829,444<br>
 _percent of population_: 81.2% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,964,500<br>
-_subscriptions per 100 inhabitants_: 9.04 (2019 est.)<br>
+_total_: 3,358,800 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.38 (2020 est.)<br>
 
 ## Transportation
 
@@ -669,8 +669,8 @@ _unpaved_: 28,234 km (2010)<br>
 7,200 km (Peninsular Malaysia 3,200 km; Sabah 1,500 km; Sarawak 2,500 km) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,772<br>
-_by type_: bulk carrier 16, container ship 26, general cargo 179, oil tanker 153, other 1,398 (2020)<br>
+_total_: 1,769<br>
+_by type_: bulk carrier 16, container ship 28, general cargo 174, oil tanker 153, other 1,398 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas<br>
@@ -705,6 +705,9 @@ the Malaysian Armed Forces field a diverse mix of imported weapons systems; the 
 
 **Military service age and obligation**<br>
 17 years 6 months of age for voluntary military service (younger with parental consent and proof of age); mandatory retirement age 60; women serve in the Malaysian Armed Forces; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>maritime security has long been a top priority for the Malaysian Armed Forces, but it has received even greater emphasis in the 2000s, particularly anti-piracy operations in the Strait of Malacca and countering Chinese naval incursions in Malaysia’s Economic Exclusion Zone, as well as addressing identified shortfalls in maritime capabilities; as such, it has undertaken modest efforts to procure more modern ships, improve air and maritime surveillance, expand the Navy’s support infrastructure (particularly bases/ports) and domestic ship-building capacities, restructure naval command and control, and increase naval cooperation with regional and international partners; as of 2021, for example, the Navy had 6 frigates fitting out or under construction and scheduled for completion by 2023, which will increase the number of operational frigates from 2 to 8; in addition, it began tri-lateral air and naval patrols with Indonesia and the Philippines in 2017; Malaysia also cooperates closely with the US military, including on maritime surveillance and participating regularly in bilateral and multilateral training exercises</p><br>
 
 ## Terrorism
 

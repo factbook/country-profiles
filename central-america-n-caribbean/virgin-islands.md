@@ -215,7 +215,7 @@ _abbreviation_: VI<br>
 _etymology_: the myriad islets, cays, and rocks surrounding the major islands reminded Christopher COLUMBUS in 1493 of Saint Ursula and her 11,000 virgin followers (Santa Ursula y las Once Mil Virgenes), which over time shortened to the Virgins (las Virgenes)<br>
 
 **Government type**<br>
-republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
+unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
 unincorporated organized territory of the US with policy relations between the Virgin Islands and the federal government under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>

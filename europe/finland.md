@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.81 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-3.3 beds/1,000 population (2017)<br>
+3.6 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -212,13 +212,13 @@ NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
-_male_: 20 years<br>
-_female_: 20 years (2018)<br>
+_male_: 18 years<br>
+_female_: 20 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 17.2%<br>
-_male_: 18.7%<br>
-_female_: 15.6% (2019 est.)<br>
+_total_: 21.4%<br>
+_male_: 23.2%<br>
+_female_: 19.4% (2020 est.)<br>
 
 ## Environment
 
@@ -583,15 +583,15 @@ NA cu m (1 January 2016 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 269,000<br>
-_subscriptions per 100 inhabitants_: 4.84 (2019 est.)<br>
+_total subscriptions_: 225,000 (2020)<br>
+_subscriptions per 100 inhabitants_: 4.06 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7.15 million<br>
-_subscriptions per 100 inhabitants_: 128.69 (2019 est.)<br>
+_total subscriptions_: 7.12 million (2020)<br>
+_subscriptions per 100 inhabitants_: 128.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Finland’s telecom market is among most progressive in Europe through favorable regulatory action and competitive technological innovation; orientation towards high technology, research, and development with high investment in information and communication sectors; large proportion of population on 5G and most on LTE; high broadband and mobile penetration; fixed-voice density falling; government provided universal 5Mb/s broadband (2021)</p> (2020)<br>
+_general assessment_: Finland&rsquo;s telecom market is among most progressive in Europe through favorable regulatory action and competitive technological innovation; orientation towards high technology, research, and development with high investment in information and communication sectors; large proportion of population on 5G and most on LTE; high broadband and mobile penetration; fixed-voice density falling; government provided universal 5Mb/s broadband (2020)<br>
 _domestic_: fixed-line 5 per 100 subscription and 129 per 100 mobile-cellular (2019)<br>
 _international_: country code - 358; landing points for Botnia, BCS North-1 &amp; 2, SFL, SFS-4, C-Lion1, Eastern Lights, Baltic Sea Submarine Cable, FEC, and EESF-2 &amp; 3 submarine cables that provide links to many&nbsp;Finland points, Estonia, Sweden, Germany, and Russia; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -608,8 +608,8 @@ _total_: 4,922,163<br>
 _percent of population_: 88.89% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.797 million<br>
-_subscriptions per 100 inhabitants_: 32.34 (2019 est.)<br>
+_total_: 1.846 million (2020)<br>
+_subscriptions per 100 inhabitants_: 33.32 (2020 est.)<br>
 
 ## Transportation
 
@@ -655,8 +655,8 @@ _urban_: 26,000 km (2012)<br>
 8,000 km (includes Saimaa Canal system of 3,577 km; southern part leased from Russia; water transport used frequently in the summer and widely replaced with sledges on the ice in winter; there are 187,888 lakes in Finland that cover 31,500 km); Finland also maintains 8,200 km of coastal fairways (2013)<br>
 
 **Merchant marine**<br>
-_total_: 274<br>
-_by type_: bulk carrier 9, container ship 1, general cargo 77, oil tanker 4, other 183 (2020)<br>
+_total_: 272<br>
+_by type_: bulk carrier 9, container ship 1, general cargo 74, oil tanker 4, other 184 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>

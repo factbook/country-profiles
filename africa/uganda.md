@@ -64,7 +64,7 @@ _other_: 14.3% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -187,7 +187,7 @@ _unimproved: total_: total: 19.2% of population (2017 est.)<br>
 0.17 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-0.5 beds/1,000 population (2010)<br>
+0.5 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 67.8% of population<br>
@@ -234,9 +234,9 @@ _male_: 10 years<br>
 _female_: 10 years (2011)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 14.8%<br>
-_male_: 12.7%<br>
-_female_: 17.3% (2017 est.)<br>
+_total_: 15.6%<br>
+_male_: 13.8%<br>
+_female_: 17.6% (2017 est.)<br>
 
 ## Environment
 
@@ -292,7 +292,7 @@ _percent of municipal solid waste recycled_: 6% (2017 est.)<br>
 _Fresh water lake(s)_: Lake Victoria (shared with Tanzania and Kenya) - 62,940 sq km; Lake Albert (shared with Democratic Republic of Congo) - 5,590 sq km; Lake Kyoga - 4,430 sq km; Lake Edward (shared with Democratic Republic of Congo) - 2,150 sq km<br>
 
 **Major rivers (by length in km)**<br>
-<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Nile (shared with Rwanda [s], Tanzania, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -614,12 +614,12 @@ _electrification - rural areas_: 17% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 76,492<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 90,774 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 25,395,503<br>
-_subscriptions per 100 inhabitants_: 60.71 (2019 est.)<br>
+_total subscriptions_: 27,688,987 (2020)<br>
+_subscriptions per 100 inhabitants_: 60.53 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure has developed through private partnerships; as of 2018, fixed-fiber backbone infrastructure is available in over half of Uganda&rsquo;s districts; mobile phone companies now provide 4G networks across all major cities and national parks, while offering 3G coverage in small cities and most rural areas with road access; price of commercial Internet services dropped substantially in 2019; consumers rely on mobile infrastructure to provide voice and broadband services as fixed-line infrastructure is poor; 5G migration is developing slowly; government commissioned broadband satellite services for rural areas in 2019 (2020)<br>
@@ -638,8 +638,8 @@ _total_: 9,620,681<br>
 _percent of population_: 23.71% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 9,485<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 34,596 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -678,10 +678,6 @@ _unpaved_: 16,287 km (2017)<br>
 
 **Waterways**<br>
 (there are no long navigable stretches of river in Uganda; parts of the Albert Nile that flow out of Lake Albert in the northwestern part of the country are navigable; several lakes including Lake Victoria and Lake Kyoga have substantial traffic; Lake Albert is navigable along a 200-km stretch from its northern tip to its southern shores) (2011)<br>
-
-**Merchant marine**<br>
-_total_: 1<br>
-_by type_: bulk carrier 1 (2019)<br>
 
 **Ports and terminals**<br>
 _lake port(s)_: Entebbe, Jinja, Port Bell (Lake Victoria)<br>
@@ -725,7 +721,7 @@ al-Shabaab; Islamic State of Iraq and ash-Sham - Democratic Republic of Congo (I
 <p>Uganda is subject to armed fighting among hostile ethnic groups, rebels, armed gangs, militias, and various government forces that extend across its borders; Ugandan refugees as well as members of the Lord's Resistance Army (LRA) seek shelter in southern Sudan and the Democratic Republic of the Congo's Garamba National Park; LRA forces have also attacked Kenyan villages across the border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 943,991 (South Sudan) (refugees and asylum seekers), 432,390 (Democratic Republic of the Congo), 51,410 (Burundi), 50,290 (Somalia) (refugees and asylum seekers), 22,005 (Rwanda), 18,436 (Eritrea) (2021)<br>
+_refugees (country of origin)_: 1,016,978 (South Sudan) (refugees and asylum seekers), 449,863 (Democratic Republic of the Congo), 51,938 (Burundi), 50,293 (Somalia) (refugees and asylum seekers), 25,507 (Rwanda), 19,468 (Eritrea) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Uganda, and traffickers exploit victims from Uganda abroad; young Ugandan children are exploited in forced labor in agriculture, fishing, forestry, cattle herding, mining, stone quarrying, brick making, carpentry, steel manufacturing, street vending, bars, restaurants, gold mining, and domestic service; traffickers exploit girls and boys in commercial sex; most are children from the northeastern region and are exploited in forced begging, commercial sex in brothels, or sold in markets; traffickers compel&nbsp; children from the Democratic Republic of Congo, Rwanda, Burundi, Kenya, Tanzania, and South Sudan into forced agricultural labor and sex trafficking in Uganda; young women most at risk for transnational trafficking seek employment as domestic workers in the Middle East and then are exploited in sex trafficking; traffickers subject Ugandans to forced labor and sex trafficking in UAE, Saudi Arabia, Oman, Qatar, Kuwait, Iraq, Iran, Egypt, Turkey, Algeria, Malaysia, Thailand, Bahrain, Jordan, China, Kenya, and India; traffickers are often relatives, friends of victims, or religious leaders who receive a fee per worker from recruiters<br>

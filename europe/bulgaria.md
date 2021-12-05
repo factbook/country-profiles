@@ -64,7 +64,7 @@ _other_: 16.4% (2018 est.)<br>
 1,020 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -221,12 +221,12 @@ _female_: 98.1% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 14 years (2018)<br>
+_female_: 14 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.9%<br>
-_male_: 9.3%<br>
-_female_: 8.3% (2019 est.)<br>
+_total_: 14.2%<br>
+_male_: 14.6%<br>
+_female_: 13.7% (2020 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _municipal solid waste recycled annually_: 572,993 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 19% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -332,15 +332,15 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Rumen RADEV (since 22 January 2017); Vice President Iliana IOTOVA (since 22 January 2017)<br>
-_head of government_: Interim Prime Minister Stefan YANEV (since 12 May 2021); note - YANEV is leading a caretaker government until elections are held on 11 July 2021<br>
+_head of government_: Interim Prime Minister Stefan YANEV (since 12 May 2021)<br>
 _cabinet_: Council of Ministers nominated by the prime minister, elected by the National Assembly<br>
-_elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 6 and 13 November 2016 (next to be held in fall 2021); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
-_election results_: <br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
+_elections/appointments_: president and vice president elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 14 and 21 November 2021 (next to be held in fall 2026); chairman of the Council of Ministers (prime minister) elected by the National Assembly; deputy prime ministers nominated by the prime minister, elected by the National Assembly<br>
+_election results_: <em>2021</em>: Rumen RADEV reelected president in second round; percent of vote in the first round - Rumen RADEV (independent) 49.4%, Anastas GERDZHIKOV (independent) 22.8%, Mustafa KARADAYI (DPS) 11.6%, Kostadin KOSTADINOV (Revival) 3.9%, Lozan PANOV (independent) 3.7%, other 8.6%; percent of vote in the second round - Rumen RADEV 66.7%, Anastas GERDZHIKOV 31.8%<br><br><em>2016: </em>Rumen RADEV elected president in second round; percent of vote - Rumen RADEV (independent, supported by Bulgarian Socialist Party) 59.4%, Tsetska TSACHEVA (GERB) 36.2%, neither 4.5%<br><br><em>2011:</em> Rosen PLEVNELIEV elected president in runoff election; percent of vote - Rosen PLEVNELIEV (independent) 52.6%, Ivailo KALFIN (BSP) 47.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodno Sabranie (240 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
-_elections_: last held on 11 July 2021 (next election to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - ITN 23.8%, GERB-SDS 23.2%, BSP for Bulgaria 13.2%, DB 12.5%, DPS 10.6%, ISMV 5%, other 11.7%; seats by party/coalition ITN 65, GERB-SDS 63, BSP for Bulgaria 36, DB 34, DPS 29, ISMV 13<br>
+_elections_: last held on 14 November 2021 (next election to be held in 2025)<br>
+_election results_: percent of vote by party/coalition - PP 25.3%, GERB-SDS 22.4%, DPS 12.8%, BSP for Bulgaria 10.1%, ITN 9.4%, DB 6.3%, Revival 4.8%, other 8.9%; seats by party/coalition - PP 67, GERB-SDS 59, DPS 34, BSP for Bulgaria 26, ITN 25, DB 16, Revival 13<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Cassation (consists of a chairman and approximately 72 judges organized into penal, civil, and commercial colleges); Supreme Administrative Court (organized into 2 colleges with various panels of 5 judges each); Constitutional Court (consists of 12 justices); note - Constitutional Court resides outside the judiciary<br>
@@ -348,7 +348,7 @@ _judge selection and term of office_: Supreme Court of Cassation and Supreme Adm
 _subordinate courts_: appeals courts; regional and district courts; administrative courts; courts martial<br>
 
 **Political parties and leaders**<br>
-Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, ZNS, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimiter DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISSOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up! Mafia, Get Out! or ISMV (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]  <br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS [Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>
+Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimiter DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISSOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB)[Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -596,12 +596,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 975,355<br>
-_subscriptions per 100 inhabitants_: 13.91 (2019 est.)<br>
+_total subscriptions_: 872,323 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,134,581<br>
-_subscriptions per 100 inhabitants_: 116.02 (2019 est.)<br>
+_total subscriptions_: 7,945,739 (2020)<br>
+_subscriptions per 100 inhabitants_: 114.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bulgaria’s telecoms sector benefited from adaptation of EU regulatory measures and privatization; population is moving to fiber over DSL for broadband connection; investment towards rural areas; migration from fixed-line voice to mobile and VoIP; private networks pursuing upgrades and development of services based on 5G; broadband market in Bulgaria enjoys cross-platform competition; operators deploy NB-IoT platform in several cities and released smart platform for utilities; government launched e-learning platform to help students continue their studies during lockdown (2021)</p> (2020)<br>
@@ -620,8 +620,8 @@ _total_: 4,571,851<br>
 _percent of population_: 64.78% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,014,772<br>
-_subscriptions per 100 inhabitants_: 28.74 (2019 est.)<br>
+_total_: 2,131,606 (2020)<br>
+_subscriptions per 100 inhabitants_: 30.68 (2020 est.)<br>
 
 ## Transportation
 
@@ -670,8 +670,8 @@ _unpaved_: 277 km (2011)<br>
 470 km (2009)<br>
 
 **Merchant marine**<br>
-_total_: 81<br>
-_by type_: bulk carrier 5, general cargo 15, oil tanker 8, other 53 (2020)<br>
+_total_: 79<br>
+_by type_: bulk carrier 4, general cargo 14, oil tanker 8, other 53 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Burgas, Varna (Black Sea)<br>
@@ -714,7 +714,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,310 (Syria) (2020)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 64,658 estimated refugee and migrant arrivals (January 2015-September 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 67,626 estimated refugee and migrant arrivals (January 2015-November 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

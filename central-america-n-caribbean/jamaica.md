@@ -576,15 +576,15 @@ _electrification - rural areas_: 97% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 398,048<br>
-_subscriptions per 100 inhabitants_: 14.15 (2019 est.)<br>
+_total subscriptions_: 436,249 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.73 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,023,873<br>
-_subscriptions per 100 inhabitants_: 107.46 (2019 est.)<br>
+_total subscriptions_: 2,873,259 (2020)<br>
+_subscriptions per 100 inhabitants_: 97.03 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>good domestic and international service; mobile sector dominates, accounting for majority of the Internet connections and half of telecom sector revenue; extensive LTE networks providing coverage to most of the island population; regulator encouraging competition with little success due to breach of license; government announced support of national broadband network to aid access to education, hospitals, police, and municipal institutions; operators provided customers with data plans to support educational platforms; US grant to fund New Kingston smart city program (2021)</p> (2020)<br>
+_general assessment_: good domestic and international service; mobile sector dominates, accounting for majority of the Internet connections and half of telecom sector revenue; extensive LTE networks providing coverage to most of the island population; regulator encouraging competition with little success due to breach of license; government announced support of national broadband network to aid access to education, hospitals, police, and municipal institutions; operators provided customers with data plans to support educational platforms; US grant to fund New Kingston smart city program (2020)<br>
 _domestic_: while the number of fixed-lines, 14 per 100, subscriptions has declined, cellular-mobile has grown 103 per 100 subscriptions (2019)<br>
 _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -600,8 +600,8 @@ _total_: 1,548,618<br>
 _percent of population_: 55.07% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 317,907<br>
-_subscriptions per 100 inhabitants_: 11.3 (2019 est.)<br>
+_total_: 385,603 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.02 (2020 est.)<br>
 
 ## Transportation
 
@@ -631,8 +631,8 @@ _paved_: 16,148 km (2011)<br>
 _unpaved_: 5,973 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 46<br>
-_by type_: bulk carrier 1, container ship 7, general cargo 8, oil tanker 1, other 29 (2020)<br>
+_total_: 43<br>
+_by type_: bulk carrier 1, container ship 5, general cargo 9, oil tanker 1, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Discovery Bay (Port Rhoades), Kingston, Montego Bay, Port Antonio, Port Esquivel, Port Kaiser, Rocky Point<br>
@@ -659,6 +659,9 @@ the Jamaica Defense Force is lightly armed with a limited inventory featuring mo
 
 **Military service age and obligation**<br>
 no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with JDF or seek other opportunities with law enforcement (2020)<br>
+
+**Military - note**<br>
+<p>as of 2021, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>
 
 ## Transnational Issues
 

@@ -561,12 +561,12 @@ _electrification - rural areas_: 4% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 74,800<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total subscriptions_: 74,800 (2018)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,612,338<br>
-_subscriptions per 100 inhabitants_: 48.8 (2019 est.)<br>
+_total subscriptions_: 7,653,040 (2018)<br>
+_subscriptions per 100 inhabitants_: 50.99 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the public telecom system was almost completely destroyed during years of civil war; private companies offer limited local fixed-line and wireless service in most major cities; early 2020 landing of DARE 1 submarine cables in Mogadishu and Bossaso eased dependence on expensive satellite dependency for Internet access; in 2019, Al Shabaab Islamic militant group forced closure of Internet services in some parts of the country; new telecom regulatory sector in place (2020)<br>
@@ -585,8 +585,8 @@ _total_: 225,181<br>
 _percent of population_: 2% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 92,000<br>
-_subscriptions per 100 inhabitants_: 1 (2017 est.)<br>
+_total_: 98,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation
 
@@ -619,7 +619,7 @@ _total_: 15,000 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
-_by type_: general cargo 1, other 3 (2020)<br>
+_by type_: general cargo 1, other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Berbera, Kismaayo<br>
@@ -627,7 +627,7 @@ _major seaport(s)_: Berbera, Kismaayo<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Somali National Security Forces: Somali National Army (SNA), Somali National Police (SNP, includes a maritime unit), National Intelligence and Security Agency (NISA) (2021)<br>
+Somali National Security Forces: Somali National Army (SNA), Somali National Police (SNP, includes a maritime unit and a Turkish-trained commando unit known as Harmacad, or Cheetah), National Intelligence and Security Agency (NISA) (2021)<br>
 note: Somalia has numerous militia formations operating throughout the country; these formations include ones that are clan- and warlord-based, semi-official paramilitary and special police forces (aka <em>darwish</em>), and externally-sponsored militias; the SNA is attempting to incorporate some of these militia units<br>
 
 **Military expenditures**<br>

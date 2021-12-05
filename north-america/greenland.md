@@ -513,12 +513,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,133<br>
-_subscriptions per 100 inhabitants_: 12.34 (2019 est.)<br>
+_total subscriptions_: 7,133 (2019)<br>
+_subscriptions per 100 inhabitants_: 12.59 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 61,656<br>
-_subscriptions per 100 inhabitants_: 106.7 (2019 est.)<br>
+_total subscriptions_: 61,656 (2019)<br>
+_subscriptions per 100 inhabitants_: 108.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)<br>
@@ -537,8 +537,8 @@ _total_: 40,084<br>
 _percent of population_: 69.48% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 14,404<br>
-_subscriptions per 100 inhabitants_: 24.93 (2019 est.)<br>
+_total_: 14,404 (2019)<br>
+_subscriptions per 100 inhabitants_: 25.42 (2019 est.)<br>
 
 ## Transportation
 
@@ -570,7 +570,7 @@ _under 914 m_: 2 (2013)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
-_by type_: other 8 (2020)<br>
+_by type_: other 8 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sisimiut<br>

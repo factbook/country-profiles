@@ -565,15 +565,15 @@ _electrification - total population_: 100% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,618,511<br>
-_subscriptions per 100 inhabitants_: 23.95 (2019 est.)<br>
+_total subscriptions_: 1.576 million (2018)<br>
+_subscriptions per 100 inhabitants_: 23.95 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,182,105<br>
+_total subscriptions_: 6.02 million (2018)<br>
 _subscriptions per 100 inhabitants_: 91.48 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>political and security instability in Libya has disrupted its telecom sector, as warring factions make mobile towers a target and construction workers regularly cut cables by mistake; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; importer of broadcasting equipment from UAE and video displays from China (2021)</p> (2020)<br>
+_general assessment_: political and security instability in Libya has disrupted its telecom sector, as warring factions make mobile towers a target and construction workers regularly cut cables by mistake; much of its infrastructure remains superior to that in most other African countries; rival operators fight for control; investment in fiber backbone and upgrades to international cables; limited LTE and 5G service; some satellite broadband; importer of broadcasting equipment from UAE and video displays from China (2020)<br>
 _domestic_: 24 per 100 fixed-line and 91 per 100 mobile-cellular subscriptions; service generally adequate (2019)<br>
 _international_: country code - 218; landing points for LFON, EIG, Italy-Libya, Silphium and Tobrok-Emasaed&nbsp;submarine cable system connecting Europe, Africa, the Middle East and Asia; satellite earth stations - 4 Intelsat, Arabsat, and Intersputnik;&nbsp; microwave radio relay to Tunisia and Egypt; tropospheric scatter to Greece; participant in Medarabtel (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -589,8 +589,8 @@ _total_: 1,440,859<br>
 _percent of population_: 21.76% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 168,920<br>
-_subscriptions per 100 inhabitants_: 3 (2017 est.)<br>
+_total_: 318,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 4.83 (2019 est.)<br>
 
 ## Transportation
 
@@ -634,7 +634,7 @@ _unpaved_: 3,000 km (2010)<br>
 
 **Merchant marine**<br>
 _total_: 94<br>
-_by type_: general cargo 2, oil tanker 12, other 80 (2020)<br>
+_by type_: general cargo 2, oil tanker 12, other 80 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsa al Burayqah (Marsa el Brega), Tripoli<br>
@@ -656,7 +656,7 @@ estimates not available<br>
 both the forces of the Government of National Accord and the Libyan National Army are largely equipped with weapons of Russian or Soviet origin; as of 2020, Russia, Turkey, and the UAE were reportedly providing weapons and military equipment to the forces in Libya (2020)<br>
 
 **Military - note**<br>
-as of late 2020, there were at least 10,000 and as many as 20,000 foreign mercenaries and proxy forces estimated to be deployed in Libya to bolster both GNA- and LNA-aligned forces<br>
+<p>in April 2019, Libyan National Army (LNA) forces launched an offensive to seize the capital, Tripoli, from the UN-recognized Government of National Accord (GNA); the GNA and its local supporting militia forces forced the LNA to withdraw by June 2020; at the signing of a UN-sponsored ceasefire in October 2020, GNA and LNA forces were separated by a line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak; as of late 2021, this line had grown increasingly fortified; in April 2021, the UN Security Council endorsed plans to deploy civilian ceasefire monitoring personnel at the request of the Libyans</p> <p>outside actors have played a large role in the fighting in Libya on both sides:</p> <p>as of 2021, GNA forces were backed militarily by Qatar and Turkey; Turkey has been the chief supporter; it signed a security agreement with the GNA in 2019, and Turkey’s aid to GNA military forces was assessed as vital in turning back the LNA offensive in 2019-2020;  Turkey’s support has included air defense, unmanned aerial vehicles (aka drones), equipment, weapons, training, and military personnel, including advisors, technicians, and equipment operators; in addition, Turkey has provided as many as 5,000 mercenary fighters from Syria</p> <p>as of 2021, LNA forces (aka Libyan Arab Armed Forces, LAAF) have received varying amounts of military support from Chad, Egypt, France, Jordan, Russia, Sudan, and the United Arab Emirates (UAE); Russia, Sudan, and the UAE have been the most active; Russia has provided equipment, weapons, aircraft, and air defense support, as well as an estimated 5,000 Russian mercenaries/private military contractors and Russian-sponsored Syrian mercenary fighters; Sudan reportedly provided at least 1,000 troops from its Rapid Support Forces in 2019-2020 and more than 1,000 Sudanese mercenaries were present in Libya as of late 2021; the UAE provided equipment, supplies, weapons, and air support, including air strikes from manned and unmanned aircraft; meanwhile, Egypt has provided arms, supplies, and training, as well as facilitated both Emirati and Russian operations in Libya by allowing them to use the country’s western bases and to transport arms over the border</p> <p>as of late 2021, it was estimated that as many as 20,000 third-country nationals were involved in military operations in Libya, despite the confidence building measure of the October 2020 ceasefire that called for all foreign forces to leave the country by early 2021; in addition to the military and proxy forces provided by Russia, Sudan, and Turkey, foreign fighters from Libya’s neighbors (Algeria, Chad, Egypt, Mali, Niger, and Tunisia, as well as Sudan) have travelled to Libya since the civil war began in 2011 to support various armed groups, including those aligned with the GNA and the LNA, as well as the Islamic State of Iraq and ash-Sham and Al Qa’ida terrorist group affiliates operating in Libya; most of these fighters arrived as individuals, but rebel groups from Chad and Sudan were also reportedly involved in the fighting</p><br>
 
 ## Terrorism
 
@@ -670,6 +670,6 @@ Ansar al-Sharia groups; Islamic State of Iraq and ash-Sham – Libya; al-Mulatha
 <p>dormant disputes include Libyan claims of about 32,000 sq km still reflected on its maps of southeastern Algeria and the FLN's assertions of a claim to Chirac Pastures in southeastern Morocco; various Chadian rebels from the Aozou region reside in southern Libya</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,766 (Sudan) (refugees and asylum seekers), 14,262 (Syria) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 16,781 (Sudan) (refugees and asylum seekers), 14,228 (Syria) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 212,593 (conflict between pro-QADHAFI and anti-QADHAFI forces in 2011; post-QADHAFI tribal clashes 2014) (2021)<br>
 

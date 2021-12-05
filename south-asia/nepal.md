@@ -61,9 +61,6 @@ _other_: 45.8% (2018 est.)<br>
 **Irrigated land**<br>
 13,320 sq km (2012)<br>
 
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
-
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
 
@@ -277,9 +274,6 @@ _vectorborne diseases_: Japanese encephalitis, malaria, and dengue fever<br>
 
 **Waste and recycling**<br>
 _municipal solid waste generated annually_: 1,768,977 tons (2016 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, China, Bangladesh, and Bhutan) - 3,969 km; Ganges (shared with Bangladesh and India) - 2,704 km<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Brahmaputra (651,335 sq km), Ganges (1,016,124 sq km), Indus (1,081,718 sq km)<br>
@@ -602,15 +596,15 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 855,926<br>
-_subscriptions per 100 inhabitants_: 2.85 (2019 est.)<br>
+_total subscriptions_: 799,368 (2018)<br>
+_subscriptions per 100 inhabitants_: 2.85 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 41,880,311<br>
-_subscriptions per 100 inhabitants_: 139.45 (2019 est.)<br>
+_total subscriptions_: 39,178,451 (2018)<br>
+_subscriptions per 100 inhabitants_: 130.6 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>poverty, inconsistent electricity, and mountainous topography stymie development of telecom infrastructure; mobile market is developed and has been extended to all districts covering 90% of Nepal; fixed broadband is low due to limited number of fixed-lines and preeminence of the mobile platform; increasing 3G and 4G subscribers; fiber-optic networks developing under private and public funding to meet demand for Internet; government supports digital society, whereby 90% of the population will have access to broadband and free Internet access for students; plans to launch a Nepalese satellite by 2022; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: poverty, inconsistent electricity, and mountainous topography stymie development of telecom infrastructure; mobile market is developed and has been extended to all districts covering 90% of Nepal; fixed broadband is low due to limited number of fixed-lines and preeminence of the mobile platform; increasing 3G and 4G subscribers; fiber-optic networks developing under private and public funding to meet demand for Internet; government supports digital society, whereby 90% of the population will have access to broadband and free Internet access for students; plans to launch a Nepalese satellite by 2022; importer of broadcasting equipment from China (2020)<br>
 _domestic_: 3G coverage is available in 20 major cities (2019); disparity between high coverage in cities and coverage available in underdeveloped rural regions; fixed-line 3 per 100 persons and mobile-cellular 139 per 100 persons; fair radiotelephone communication service; 20% of the market share is fixed (wired) broadband, 2% is fixed (wireless) broadband, and 78% is mobile broadband (2019)<br>
 _international_: country code - 977; Nepal, China and Tibet connected across borders with underground and all-dielectric self-supporting (ADSS) fiber-optic cables; radiotelephone communications; microwave and fiber landlines to India; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -626,8 +620,8 @@ _total_: 10,103,980<br>
 _percent of population_: 34% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 791,961<br>
-_subscriptions per 100 inhabitants_: 3 (2018 est.)<br>
+_total_: 791,961 (2018)<br>
+_subscriptions per 100 inhabitants_: 1.82 (2019 est.)<br>
 
 ## Transportation
 

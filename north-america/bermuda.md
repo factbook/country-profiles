@@ -184,7 +184,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 14 years (2015)<br>
+_female_: 13 years (2015)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 29.3%<br>
@@ -559,8 +559,8 @@ _paved_: 447 km (2010)<br>
 <strong>note:</strong> 225 km public roads; 222 km private roads<br>
 
 **Merchant marine**<br>
-_total_: 138<br>
-_by type_: container ship 12, oil tanker 18, other 108 (2020)<br>
+_total_: 147<br>
+_by type_: container ship 12, oil tanker 18, other 117 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hamilton, Ireland Island, Saint George<br>

@@ -66,7 +66,7 @@ _other_: 13% (2018 est.)<br>
 16,700 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -189,9 +189,6 @@ _unimproved: total_: total: 4.5% of population (2017 est.)<br>
 **Physicians density**<br>
 0.91 physicians/1,000 population (2017)<br>
 
-**Hospital bed density**<br>
-2.3 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 95.6% of population<br>
 _improved: rural_: rural: 80.9% of population<br>
@@ -233,12 +230,12 @@ _female_: 94.5% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2018)<br>
+_female_: 14 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 57%<br>
-_male_: 53.2%<br>
-_female_: 61.7% (2019 est.)<br>
+_total_: 59.4%<br>
+_male_: 55.4%<br>
+_female_: 64.1% (2020 est.)<br>
 
 ## Environment
 
@@ -284,7 +281,7 @@ _municipal solid waste recycled annually_: 5,168,025 tons (2011 est.)<br>
 _percent of municipal solid waste recycled_: 28% (2011 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Orange (shared with Lesotho [s], and Namibia [m]) - 2,092 km; Limpopo river source (shared with Botswana, Zimbabwe, and Mozambique [m]) - 1,800 km; Vaal [s] - 1,210 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -684,8 +681,8 @@ _paved_: 158,124 km (2016)<br>
 _unpaved_: 591,876 km (2016)<br>
 
 **Merchant marine**<br>
-_total_: 103<br>
-_by type_: bulk carrier 3, general cargo 1, oil tanker 6, other 93 (2020)<br>
+_total_: 105<br>
+_by type_: bulk carrier 2, general cargo 1, oil tanker 7, other 95 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cape Town, Durban, Port Elizabeth, Richards Bay, Saldanha Bay<br>
@@ -695,7 +692,7 @@ _LNG terminal(s) (import)_: Mossel Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defence Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services (2021)<br>
+South African National Defence Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; South African Police Service (2021)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>
@@ -705,13 +702,14 @@ South African National Defence Force (SANDF): South African Army (includes Reser
 1% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the South African National Defence Force (SANDF) is comprised of approximately 72,000 personnel (38,000 Army; 6,500 Navy; 9,500 Air Force; 7,500 Military Health Service; 10,500 other, including administrative, logistics, military police) (2021)<br>
+the South African National Defence Force (SANDF) is comprised of approximately 72,000 personnel (38,000 Army; 6,500 Navy; 9,500 Air Force; 7,500 Military Health Service; 10,500 other, including administrative, logistics, military police); 180,000 South African Police Service (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the SANDF's inventory consists of a mix of domestically-produced and foreign-supplied equipment; South Africa's domestic defense industry produced most of the Army's major weapons systems (some were jointly-produced with foreign companies), while the Air Force and Navy inventories include a mix of European, Israeli, and US-origin weapons systems; since 2010, Sweden is the largest supplier of weapons to the SANDF (2020)<br>
 
 **Military deployments**<br>
 950 Democratic Republic of the Congo (MONUSCO) (Sep 2021)<br>
+note - in 2021, South Africa sent a contingent of about 300 troops to Mozambique as part of a Southern African Development Community (SADC) force to help quell an insurgency<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>

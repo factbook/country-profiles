@@ -65,7 +65,7 @@ _other_: 34.1% (2018 est.)<br>
 4,860 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Switzerland, Germany, and France) - 1,233 km;&nbsp;<br>
+Rhine river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.61 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-3.3 beds/1,000 population (2017)<br>
+3.2 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -221,9 +221,9 @@ _male_: 18 years<br>
 _female_: 19 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 6.7%<br>
-_male_: 7.3%<br>
-_female_: 6.2% (2019 est.)<br>
+_total_: 9.1%<br>
+_male_: 9.2%<br>
+_female_: 9% (2020 est.)<br>
 
 ## Environment
 
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 2,179,216 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 24.6% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Switzerland, Germany, and France) - 1,233 km;&nbsp;<br>
+Rhine river mouth (shared with Switzerland [s], Germany, and France) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km)<br>
@@ -598,15 +598,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.56 million<br>
-_subscriptions per 100 inhabitants_: 32.31 (2019 est.)<br>
+_total subscriptions_: 4.937 million (2020)<br>
+_subscriptions per 100 inhabitants_: 28.81 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.762 million<br>
-_subscriptions per 100 inhabitants_: 126.45 (2019 est.)<br>
+_total subscriptions_: 21.415 million (2020)<br>
+_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>highly developed and well maintained; Dutch telecom market is gradually migrating to upgraded platforms; operators repurposing their spectrum and physical assets for LTE and 5G; one of the highest fixed broadband penetration rates in the world, with competition between DSL and fiber networks; fixed-line voice market is in decline while VoIP and mobile platforms advance; plans for 3G network shutdown in 2023; operators are concentrating investment on LTE-A and 5G services; operators and banks launch m-payments system; adoption of smart city concepts and technology in major cities; major exporter of broadcasting equipment and computers to Europe, and importer of same from China (2021)</p> (2020)<br>
+_general assessment_: highly developed and well maintained; Dutch telecom market is gradually migrating to upgraded platforms; operators repurposing their spectrum and physical assets for LTE and 5G; one of the highest fixed broadband penetration rates in the world, with competition between DSL and fiber networks; fixed-line voice market is in decline while VoIP and mobile platforms advance; plans for 3G network shutdown in 2023; operators are concentrating investment on LTE-A and 5G services; operators and banks launch m-payments system; adoption of smart city concepts and technology in major cities; major exporter of broadcasting equipment and computers to Europe, and importer of same from China (2020)<br>
 _domestic_: extensive fixed-line, fiber-optic network; large cellular telephone system with five major operators utilizing the third generation of the Global System for Mobile Communications technology; one in five households now use Voice over the Internet Protocol services; fixed-line 33 per 100 and mobile-cellular 127 per 100 persons (2019)<br>
 _international_: country code - 31; landing points for Farland North, TAT-14, Circe North, Concerto, Ulysses 2, AC-1, UK-Netherlands 14, and COBRAcable submarine cables which provide links to the US and Europe; satellite earth stations - 5 (3 Intelsat - 1 Indian Ocean and 2 Atlantic Ocean, 1 Eutelsat, and 1 Inmarsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -622,8 +622,8 @@ _total_: 16,243,928<br>
 _percent of population_: 94.71% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7.459 million<br>
-_subscriptions per 100 inhabitants_: 43.34 (2019 est.)<br>
+_total_: 7,525,016 (2020)<br>
+_subscriptions per 100 inhabitants_: 43.92 (2020 est.)<br>
 
 ## Transportation
 
@@ -669,8 +669,8 @@ _total_: 139,124 km (includes 3,654 km of expressways) (2016)<br>
 6,237 km (navigable by ships up to 50 tons) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 1,200<br>
-_by type_: bulk carrier 10, container ship 45, general cargo 557, oil tanker 23, other 565 (2020)<br>
+_total_: 1,199<br>
+_by type_: bulk carrier 10, container ship 40, general cargo 559, oil tanker 26, other 564 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: IJmuiden, Vlissingen<br>

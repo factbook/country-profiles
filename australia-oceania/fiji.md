@@ -286,7 +286,6 @@ parliamentary republic<br>
 _name_: Suva (on Viti Levu)<br>
 _geographic coordinates_: 18 08 S, 178 25 E<br>
 _time difference_: UTC+12 (17 hours ahead of Washington, DC, during Standard Time)<br>
-_daylight saving time_: +1hr, begins first Sunday in November; ends second Sunday in January<br>
 _etymology_: the name means "little hill" in the native Fijian (iTaukei) language and refers to a mound where a temple once stood<br>
 
 **Administrative divisions**<br>
@@ -318,7 +317,7 @@ _residency requirement for naturalization_: at least 5 years residency out of th
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Jioji Konousi KONROTE (since 12 November 2015)<br>
+_chief of state_: President Ratu Wiliame KATONIVERE (since 12 November 2021)<br>
 _head of government_: Prime Minister Voreqe "Frank" BAINIMARAMA (since 22 September 2014)<br>
 _cabinet_: Cabinet appointed by the prime minister from among members of Parliament and is responsible to Parliament<br>
 _elections/appointments_: president elected by Parliament for a 3-year term (eligible for a second term); election last held on 22 October 2021 (next to be held in 2024); prime minister endorsed by the president<br>
@@ -578,15 +577,15 @@ _electrification - rural areas_: 99.2% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 80,650<br>
-_subscriptions per 100 inhabitants_: 8.66 (2019 est.)<br>
+_total subscriptions_: 76,522 (2018)<br>
+_subscriptions per 100 inhabitants_: 8.66 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,097,345<br>
-_subscriptions per 100 inhabitants_: 117.83 (2019 est.)<br>
+_total subscriptions_: 1,033,920 (2018)<br>
+_subscriptions per 100 inhabitants_: 117.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Fiji has a relatively sophisticated communications infrastructure with the highest mobile and Internet penetration in the Pacific Islands; aggressively developing LTE and 5G, though the pandemic negatively affected the economy, largely reliant on tourism; population is spread across more than 100 islands, yet most live on two main islands, with communications based on link by a submarine cable system; cables provide a secure link during natural disasters, protecting telecom connectivity; provider plans to expand fiber infrastructure to remote islands (2021)</p> (2020)<br>
+_general assessment_: Fiji has a relatively sophisticated communications infrastructure with the highest mobile and Internet penetration in the Pacific Islands; aggressively developing LTE and 5G, though the pandemic negatively affected the economy, largely reliant on tourism; population is spread across more than 100 islands, yet most live on two main islands, with communications based on link by a submarine cable system; cables provide a secure link during natural disasters, protecting telecom connectivity; provider plans to expand fiber infrastructure to remote islands (2020)<br>
 _domestic_: fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 per 100 persons (2019)<br>
 _international_: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa&nbsp;submarine cable links&nbsp;to US,&nbsp;NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis &amp; Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -602,8 +601,8 @@ _total_: 462,860<br>
 _percent of population_: 49.97% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,033<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 13,033 (2018)<br>
+_subscriptions per 100 inhabitants_: 1.48 (2018 est.)<br>
 
 ## Transportation
 
@@ -644,8 +643,8 @@ _unpaved_: 1,754 km (2011)<br>
 203 km (122 km are navigable by motorized craft and 200-metric-ton barges) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 70<br>
-_by type_: general cargo 18, oil tanker 4, other 48 (2020)<br>
+_total_: 73<br>
+_by type_: general cargo 20, oil tanker 4, other 49 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Lautoka, Levuka, Suva<br>
@@ -674,6 +673,9 @@ the RFMF is lightly armed and equipped; Australia has provided patrol boats and 
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; mandatory retirement at age 55 (2019)<br>
+
+**Military - note**<br>
+<p>the RFMF consists of only 1 infantry regiment and a small naval element with a few patrol boats; as of 2021, it did not possess any aircraft</p> <p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>
 
 ## Transnational Issues
 

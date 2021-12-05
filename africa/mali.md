@@ -65,7 +65,7 @@ _other_: 55.7% (2018 est.)<br>
 _Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Niger, and Nigeria) - 4,200 km; Senegal (shared with Senegal and Mauritania) - 1,641 km;&nbsp;<br>
+Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
@@ -191,7 +191,7 @@ _unimproved: total_: total: 17.1% of population (2017 est.)<br>
 0.13 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-0.1 beds/1,000 population (2010)<br>
+0.1 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 82.5% of population<br>
@@ -234,7 +234,7 @@ _male_: 46.2%<br>
 _female_: 25.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 8 years<br>
+_total_: 7 years<br>
 _male_: 8 years<br>
 _female_: 7 years (2017)<br>
 
@@ -296,7 +296,7 @@ _municipal solid waste generated annually_: 1,937,354 tons (2012 est.)<br>
 _Fresh water lake(s)_: Lac Faguibine - 590 sq km<br>note - the Niger River is the only source of water for the lake; in recent years the lake is dry<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Niger, and Nigeria) - 4,200 km; Senegal (shared with Senegal and Mauritania) - 1,641 km;&nbsp;<br>
+Niger (shared with Guinea [s], Niger, and Nigeria [m]) - 4,200 km; Senegal (shared with Guinea [s], Senegal, and Mauritania [m]) - 1,641 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km), Volta (410,991 sq km)<br>
@@ -618,15 +618,15 @@ _electrification - rural areas_: 28% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 242,241<br>
-_subscriptions per 100 inhabitants_: 1.28 (2019 est.)<br>
+_total subscriptions_: 281,638 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.39 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,925,482<br>
-_subscriptions per 100 inhabitants_: 120.75 (2019 est.)<br>
+_total subscriptions_: 25,315,598 (2020)<br>
+_subscriptions per 100 inhabitants_: 125 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Mali’s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; Chinese investment in infrastructure stymied by security issues; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Mali&rsquo;s telecom systems are challenged by recent conflict, geography, areas of low population, poverty, security issues, and high illiteracy; telecom infrastructure is barely adequate in urban areas and not available in most of the country with underinvestment in fixed-line networks; high mobile penetration and potential for mobile broadband service; local plans for IXP; dependent on neighboring countries for international bandwidth and access to submarine cables; Chinese investment in infrastructure stymied by security issues; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line subscribership 1 per 100 persons; mobile-cellular subscribership has increased sharply to over 115 per 100 persons; increasing use of local radio loops to extend network coverage to remote areas (2019)<br>
 _international_: country code - 223; satellite communications center and fiber-optic links to neighboring countries; satellite earth stations - 2 Intelsat (1 Atlantic Ocean, 1 Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -642,8 +642,8 @@ _total_: 2,395,886<br>
 _percent of population_: 13% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 142,522<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 243,806 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.2 (2020 est.)<br>
 
 ## Transportation
 
@@ -722,7 +722,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 <p>demarcation is underway with Burkina Faso</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,938 (Niger), 15,031 (Mauritania), 12,913 (Burkina Faso) (2021)<br>
+_refugees (country of origin)_: 16,938 (Niger), 14,963 (Mauritania), 12,913 (Burkina Faso) (2021)<br>
 _IDPs_: 401,736 (Tuareg rebellion since 2012) (2021)<br>
 
 **Trafficking in persons**<br>

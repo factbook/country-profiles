@@ -62,7 +62,7 @@ _other_: 10.8% (2018 est.)<br>
 320 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.12 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-6.6 beds/1,000 population (2017)<br>
+6.6 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -218,12 +218,12 @@ _female_: 99% (2011)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 5.6%<br>
-_male_: 5.3%<br>
-_female_: 6% (2019 est.)<br>
+_total_: 8%<br>
+_male_: 7.2%<br>
+_female_: 9.2% (2020 est.)<br>
 
 ## Environment
 
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 850,935 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 25.5% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Austria, Slovakia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river source (shared with Germany [m]) - 1,252 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -590,15 +590,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,494,175<br>
-_subscriptions per 100 inhabitants_: 13.98 (2019 est.)<br>
+_total subscriptions_: 1,316,316 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,213,279<br>
-_subscriptions per 100 inhabitants_: 123.54 (2019 est.)<br>
+_total subscriptions_: 12,999,353 (2020)<br>
+_subscriptions per 100 inhabitants_: 121.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Czechia has a sophisticated telecom market with a developed telephone and Internet service attracting European investment; mobile sector showing steady growth through regulatory support for competition; licensees expanding reach of 5G and LTE networks; mobile penetration among the highest in the EU; operators extended fiber to an additional 143 rural zones in 2020 and commit to extending fiber to one million premises by 2027; its top import is broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Czechia has a sophisticated telecom market with a developed telephone and Internet service attracting European investment; mobile sector showing steady growth through regulatory support for competition; licensees expanding reach of 5G and LTE networks; mobile penetration among the highest in the EU; operators extended fiber to an additional 143 rural zones in 2020 and commit to extending fiber to one million premises by 2027; its top import is broadcasting equipment from China (2020)<br>
 _domestic_: 14 per 100 fixed-line and mobile telephone usage increased to 124 per 100 mobile-cellular, the number of cellular telephone subscriptions now greatly exceeds the population (2019)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -614,8 +614,8 @@ _total_: 8,622,750<br>
 _percent of population_: 80.69% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,739,614<br>
-_subscriptions per 100 inhabitants_: 34.98 (2019 est.)<br>
+_total_: 3,802,644 (2020)<br>
+_subscriptions per 100 inhabitants_: 35.51 (2020 est.)<br>
 
 ## Transportation
 

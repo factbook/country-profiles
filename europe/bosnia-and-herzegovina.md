@@ -219,9 +219,9 @@ _male_: 14 years<br>
 _female_: 15 years (2014)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 33.8%<br>
-_male_: 31.3%<br>
-_female_: 37.9% (2019 est.)<br>
+_total_: 36.6%<br>
+_male_: 32.5%<br>
+_female_: 42.8% (2020 est.)<br>
 
 ## Environment
 
@@ -589,12 +589,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 728,322<br>
-_subscriptions per 100 inhabitants_: 18.97 (2019 est.)<br>
+_total subscriptions_: 706,135 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,755,521<br>
-_subscriptions per 100 inhabitants_: 97.79 (2019 est.)<br>
+_total subscriptions_: 3,509,674 (2020)<br>
+_subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China</p> (2021)<br>
@@ -613,8 +613,8 @@ _total_: 2,699,544<br>
 _percent of population_: 70.12% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 745,887<br>
-_subscriptions per 100 inhabitants_: 19.42 (2019 est.)<br>
+_total_: 770,624 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.49 (2020 est.)<br>
 
 ## Transportation
 
@@ -702,7 +702,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 66 (2020)<br>
-<strong>note:</strong> 84,679 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 84,987 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

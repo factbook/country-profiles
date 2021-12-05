@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and it allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>Park was assassinated in 1979, and subsequent years were marked by political turmoil and continued authoritarian rule under the guise of democracy. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former ROK Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. <br><br>South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019. Nevertheless, relations were stagnant in 2020 and 2021.</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
+<p>The first recorded kingdom (Choson) on the Korean Peninsula dates from approximately 2300 B.C. Over the subsequent centuries, three main kingdoms - Kogoryo, Paekche, and Silla - were established on the Peninsula.  By the 5th century A.D., Kogoryo emerged as the most powerful, with control over much of the Peninsula, as well as part of Manchuria (modern-day northeast China).  However, Silla allied with the Chinese to create the first unified Korean state in the late 7th century (688).  Following the collapse of Silla in the 9th century, Korea was unified under the Koryo (Goryeo; 918-1392) and the Chosen (Joseon; 1392-1910) dynasties.</p> <p>Korea became the object of intense imperialistic rivalry between the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. Following the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-1905), Korea was occupied by Imperial Japan. In 1910, Tokyo formally annexed the entire Peninsula. Korea regained its independence following Japan's surrender to the US and it allies in 1945. After World War II, a democratic government (Republic of Korea, ROK) was set up in the southern half of the Korean Peninsula while a communist-style government was installed in the north (Democratic People's Republic of Korea, DPRK). During the Korean War (1950-53), US troops and UN forces fought alongside ROK soldiers to defend South Korea from a DPRK invasion supported by communist China and the Soviet Union. A 1953 armistice split the Peninsula along a demilitarized zone at about the 38th parallel. PARK Chung-hee took over leadership of the country in a 1961 coup. During his regime from 1961 to 1979, South Korea achieved rapid economic growth, with per capita income rising to roughly 17 times the level of North Korea in 1979.</p> <p>Park was assassinated in 1979, and Army general Army general Chun Doo-hwan succeeded Park in a coup two months after the assassination; subsequent years were marked by political turmoil and continued authoritarian rule under the guise of democracy. South Korea held its first free presidential election under a revised democratic constitution in 1987, with former Army general ROH Tae-woo winning a close race. In 1993, KIM Young-sam (1993-98) became the first civilian president of South Korea's new democratic era. President KIM Dae-jung (1998-2003) won the Nobel Peace Prize in 2000 for his contributions to South Korean democracy and his "Sunshine" policy of engagement with North Korea. President PARK Geun-hye, daughter of former ROK President PARK Chung-hee, took office in February 2013 as South Korea's first female leader. In December 2016, the National Assembly passed an impeachment motion against President PARK over her alleged involvement in a corruption and influence-peddling scandal, immediately suspending her presidential authorities. The impeachment was upheld in March 2017, triggering an early presidential election in May 2017 won by MOON Jae-in. <br><br>South Korea hosted the Winter Olympic and Paralympic Games in February 2018, in which North Korea also participated. Discord with North Korea has permeated inter-Korean relations for much of the past decade, highlighted by the North's attacks on a South Korean ship and island in 2010, the exchange of artillery fire across the DMZ in 2015, and multiple nuclear and missile tests in 2016 and 2017. North Korea’s participation in the Winter Olympics, dispatch of a senior delegation to Seoul, and three inter-Korean summits in 2018 appear to have ushered in a temporary period of respite, buoyed by the historic US-DPRK summits in 2018 and 2019. Nevertheless, relations were stagnant in 2020 and 2021.</p> <table> <tbody> <tr> <td> </td> </tr> </tbody> </table><br>
 
 ## Geography
 
@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.36 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-12.3 beds/1,000 population (2017)<br>
+12.4 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -210,7 +210,7 @@ _definition_: age 15 and over can read and write (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 16 years (2018)<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 10.3%<br>
@@ -580,15 +580,15 @@ NA (1 January 2017 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 24,727,415<br>
-_subscriptions per 100 inhabitants_: 48.07 (2019 est.)<br>
+_total subscriptions_: 23,858,239 (2020)<br>
+_subscriptions per 100 inhabitants_: 46.54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 68,892,541<br>
-_subscriptions per 100 inhabitants_: 133.93 (2019 est.)<br>
+_total subscriptions_: 70,513,676 (2020)<br>
+_subscriptions per 100 inhabitants_: 137.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>excellent domestic and international services featuring rapid incorporation of new technologies; exceedingly high mobile, mobile broadband, and fixed broadband penetration; strong support from government for initiatives; tech-savvy population has catapulted the nation into one of the world's most active telecommunication markets; all mobile operators offer 5G networks; Chinese telecom Huawei partnered with operators including launch of Seoul TechCity; import of integrated circuits, broadcasting equipment, and phones from China; government and private partnership on national e-commerce and smart city development (2021)</p> (2020)<br>
+_general assessment_: excellent domestic and international services featuring rapid incorporation of new technologies; exceedingly high mobile, mobile broadband, and fixed broadband penetration; strong support from government for initiatives; tech-savvy population has catapulted the nation into one of the world's most active telecommunication markets; all mobile operators offer 5G networks; Chinese telecom Huawei partnered with operators including launch of Seoul TechCity; import of integrated circuits, broadcasting equipment, and phones from China; government and private partnership on national e-commerce and smart city development (2020)<br>
 _domestic_: fixed-line 48 per 100 and mobile-cellular services 135 per 100 persons; rapid assimilation of a full range of telecommunications technologies leading to a boom in e-commerce (2019)<br>
 _international_: country code - 82;&nbsp;landing points for EAC-C2C, FEA, SeaMeWe-3, TPE, APCN-2, APG, FLAG North Asia Loop/REACH North Asia Loop, KJCN, NCP, and&nbsp;SJC2 submarine cables providing links throughout Asia, Australia, the Middle East, Africa, Europe, Southeast Asia and US; satellite earth stations - 66 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -604,8 +604,8 @@ _total_: 49,309,955<br>
 _percent of population_: 95.9% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 21,906,172<br>
-_subscriptions per 100 inhabitants_: 42.59 (2019 est.)<br>
+_total_: 22,330,182 (2020)<br>
+_subscriptions per 100 inhabitants_: 43.55 (2020 est.)<br>
 
 ## Transportation
 
@@ -653,8 +653,8 @@ _unpaved_: 7,633 km (2016)<br>
 1,600 km (most navigable only by small craft) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,889<br>
-_by type_: bulk carrier 88, container ship 84, general cargo 357, oil tanker 187, other 1,173 (2020)<br>
+_total_: 1,904<br>
+_by type_: bulk carrier 78, container ship 91, general cargo 360, oil tanker 184, other 1,191 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Busan, Incheon, Gunsan, Kwangyang, Mokpo, Pohang, Ulsan, Yeosu<br>
@@ -687,7 +687,7 @@ the Republic of Korea Armed Forces are equipped with a mix of domestically-produ
 note:&nbsp; South Korea intends to reduce the length of military service to 18 &ndash; 22 months by 2022<br>
 
 **Military - note**<br>
-<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2021, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> <p> </p><br>
+<p>the 1953 US-South Korea Mutual Defense Treaty is a cornerstone of South Korea’s security; the Treaty committed the US to provide assistance in the event of an attack, particularly from North Korea; in addition, the Treaty gave the US permission to station land, air, and sea forces in and about the territory of South Korea as determined by mutual agreement; as of 2021, the US maintained approximately 28,000 military personnel in the country</p> <p>the South Korean military has assisted the US in conflicts in Afghanistan (5,000 troops; 2001-2014), Iraq (20,000 troops; 2003-2008), and Vietnam (325,000 troops; 1964-1973)<br><br>South Korea has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>in 2016, South Korea concluded an agreement with the European Union for participation in EU Common Security and Defense Policy (CSDP) missions and operations, such as the EU Naval Force Somalia – Operation Atalanta, which protects maritime shipping and conducts counter-piracy operations off the coast of East Africa</p> <p>South Korea has been engaged with NATO through dialogue and security cooperation since 2005 and is considered by NATO to be a global partner; it has participated in NATO-led missions and exercises, including leading an integrated civilian-military reconstruction team in Afghanistan as part of the NATO-led International Security Assistance Force, 2010-2013; it has also cooperated with NATO in countering the threat of piracy in the Gulf of Aden by providing naval vessels as escorts</p> <p> </p><br>
 
 ## Transnational Issues
 

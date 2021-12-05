@@ -587,15 +587,15 @@ _electrification - rural areas_: 87% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 40,003<br>
-_subscriptions per 100 inhabitants_: 3.65 (2019 est.)<br>
+_total subscriptions_: 41,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 3.65 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,025,061<br>
+_total subscriptions_: 1.052 million (2018)<br>
 _subscriptions per 100 inhabitants_: 93.53 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: earlier government monopoly in telecom market hindered growth; liberalized regulators aided expansion in&nbsp;the telecom sector; lack of fixed-line infrastructure and competition stymies development of DSL and backbone network; 2G, 3G, 4G, and LTE services with coverage to most of the population; landlocked country depends on neighbors for international bandwidth; operator completed terrestrial cable linking Maputo through Eswatini to Johannesburg; importer of broadcasting equipment from South Africa (2020) (2019)<br>
+_general assessment_: earlier government monopoly in telecom market hindered growth; liberalized regulators aided expansion in the telecom sector; lack of fixed-line infrastructure and competition stymies development of DSL and backbone network; 2G, 3G, 4G, and LTE services with coverage to most of the population; landlocked country depends on neighbors for international bandwidth; operator completed terrestrial cable linking Maputo through Eswatini to Johannesburg; importer of broadcasting equipment from South Africa (2019)<br>
 _domestic_: Eswatini has 2 mobile-cellular providers; communication infrastructure has a geographic coverage of about 90% and a rising subscriber base; fixed-line stands at 4 per 100 and mobile-cellular teledensity roughly 94 telephones per 100 persons; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay (2019)<br>
 _international_: country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,7 +611,7 @@ _total_: 510,984<br>
 _percent of population_: 47% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,000<br>
+_total_: 8,000 (2017 est.)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation
@@ -659,6 +659,9 @@ the UEDF is lightly armed with mostly South African material; it has received mi
 
 **Military service age and obligation**<br>
 18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted (2019)<br>
+
+**Military - note**<br>
+<p>the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; as of 2021, the UEDF’s primary mission was external security but it also had domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force’s titular commissioner in chief</p> <p> </p><br>
 
 ## Transnational Issues
 

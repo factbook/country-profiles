@@ -177,9 +177,6 @@ _unimproved: total_: total: 26.5% of population (2017 est.)<br>
 **Physicians density**<br>
 0.13 physicians/1,000 population (2016)<br>
 
-**Hospital bed density**<br>
-1 beds/1,000 population (2009)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 66.5% of population<br>
 _improved: rural_: rural: 13.4% of population<br>
@@ -570,12 +567,12 @@ _electrification - rural areas_: 7% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total subscriptions_: 0 (2018)<br>
+_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,590,381<br>
-_subscriptions per 100 inhabitants_: 84.62 (2019 est.)<br>
+_total subscriptions_: 1,913,858 (2020)<br>
+_subscriptions per 100 inhabitants_: 97.25 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small system including a combination of microwave radio relay, open-wire lines, radiotelephone, and mobile cellular communications;&nbsp;2 mobile network operators; one of the poorest countries in the world and this is reflected in the countries telecommunications development; radio is the most important source of information for the public (2020)<br>
@@ -594,8 +591,8 @@ _total_: 72,047<br>
 _percent of population_: 3.93% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,227<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 2,383 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -626,7 +623,7 @@ _unpaved_: 3,947 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
-_by type_: general cargo 5, other 3 (2020)<br>
+_by type_: general cargo 5, other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
@@ -652,6 +649,9 @@ the FARP is poorly armed with an inventory consisting of Soviet-era equipment, m
 
 **Military service age and obligation**<br>
 18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2019)<br>
+
+**Military - note**<br>
+<p>from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal</p><br>
 
 ## Transnational Issues
 

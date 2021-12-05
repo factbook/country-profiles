@@ -544,12 +544,12 @@ _electrification - total population_: 95.3% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,011<br>
-_subscriptions per 100 inhabitants_: 29.3 (2019 est.)<br>
+_total subscriptions_: 32,491 (2018)<br>
+_subscriptions per 100 inhabitants_: 29.3 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 115,008<br>
-_subscriptions per 100 inhabitants_: 102.08 (2019 est.)<br>
+_total subscriptions_: 113,177 (2018)<br>
+_subscriptions per 100 inhabitants_: 102.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate, island-wide telephone system; lack of local competition, but telecoms are a high contributors to overall GDP; growth sectors include the mobile telephony and data segments (2020)<br>
@@ -568,8 +568,8 @@ _total_: 66,281<br>
 _percent of population_: 59.07% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 25,577<br>
-_subscriptions per 100 inhabitants_: 22.69 (2019 est.)<br>
+_total_: 25,577 (2019)<br>
+_subscriptions per 100 inhabitants_: 22.84 (2019 est.)<br>
 
 ## Transportation
 
@@ -592,7 +592,7 @@ _unpaved_: 225 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 6<br>
-_by type_: general cargo 3, other 3 (2020)<br>
+_by type_: general cargo 3, other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Saint George's<br>

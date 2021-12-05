@@ -65,7 +65,7 @@ _other_: 14.4% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -187,7 +187,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 5.17 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-7.4 beds/1,000 population (2017)<br>
+7.3 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -218,12 +218,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 16 years (2018)<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.5%<br>
-_male_: 9.2%<br>
-_female_: 7.8% (2019 est.)<br>
+_total_: 10.5%<br>
+_male_: 11.3%<br>
+_female_: 9.5% (2020 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _percent of municipal solid waste recycled_: 25.7% (2015 est.)<br>
 _Fresh water lake(s)_: Lake Constance (shared with Switzerland and Germany) - 540 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Danube (shared with Germany [s], Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -668,6 +668,10 @@ _paved_: 137,039 km (includes 2,232 km of expressways) (2018)<br>
 
 **Waterways**<br>
 358 km (2011)<br>
+
+**Merchant marine**<br>
+_total_: 1<br>
+_by type_: other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Enns, Krems, Linz, Vienna (Danube)<br>

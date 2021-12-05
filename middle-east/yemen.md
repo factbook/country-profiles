@@ -599,7 +599,7 @@ _total subscriptions_: 16,158,028<br>
 _subscriptions per 100 inhabitants_: 55.18 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>large percent of the population is in need of humanitarian assistance and telecom services are vital but disrupted; mobile towers are often deliberately targeted; maintenance is dangerous to staff; aid organizations rely on satellite and radio communications; scarcity of telecom equipment in rural areas; ownership of telecom services and the related revenues and taxes have become a political issue; Chinese company Huawei helping to rebuild some equipment (2020)</p> (2020)<br>
+_general assessment_: large percent of the population is in need of humanitarian assistance and telecom services are vital but disrupted; mobile towers are often deliberately targeted; maintenance is dangerous to staff; aid organizations rely on satellite and radio communications; scarcity of telecom equipment in rural areas; ownership of telecom services and the related revenues and taxes have become a political issue; Chinese company Huawei helping to rebuild some equipment (2020)<br>
 _domestic_: the national network consists of microwave radio relay, cable, tropospheric scatter, GSM and CDMA mobile-cellular telephone systems; fixed-line teledensity remains low by regional standards at 4 per 100 but mobile cellular use expanding at 55 per 100 (2019)<br>
 _international_: country code - 967; landing points for the FALCON, SeaMeWe-5, Aden-Djibouti, and the AAE-1 international submarine cable connecting Europe, Africa, the Middle East, Asia and Southeast Asia; satellite earth stations - 3 Intelsat (2 Indian Ocean and 1 Atlantic Ocean), 1 Intersputnik (Atlantic Ocean region), and 2 Arabsat; microwave radio relay to Saudi Arabia and Djibouti (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -656,8 +656,8 @@ _paved_: 6,200 km (2005)<br>
 _unpaved_: 65,100 km (2005)<br>
 
 **Merchant marine**<br>
-_total_: 33<br>
-_by type_: general cargo 2, oil tanker 4, other 27 (2020)<br>
+_total_: 34<br>
+_by type_: general cargo 2, oil tanker 4, other 28 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Aden, Al Hudaydah, Al Mukalla<br>
@@ -688,6 +688,9 @@ the inventory of the Yemeni Government forces consists primarily of Russian and 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; conscription abolished in 2001; 2-year service obligation (note - limited information since the start of the civil war) (2019)<br>
 
+**Military - note**<br>
+<p>in 2015, a Saudi-led coalition of Arab states intervened militarily in Yemen in support of the Republic of Yemen Government (ROYG) against the separatist Huthis; as of late 2021, the conflict had become largely stalemated, but the coalition (consisting largely of Saudi forces), ROYG forces, and the Huthis continued to engage in fighting, mostly with air and missile forces, although heavy ground fighting was also taking place over the key oil-rich province of Marib; the Saudis have conducted numerous air strikes in northern Yemen, while the Huthis have launched attacks into Saudi territory with ballistic missiles and unmanned aerial vehicles armed with explosives; Saudi Arabia also has raised and equipped paramilitary/militia security forces in Yemen based largely on tribal or regional affiliation to deploy along the Saudi-Yemen border, especially the areas bordering the governorates of Saada and Al-Jawf; as of late 2021, the Saudi-led coalition continued to control Yemen’s airspace and the port of Hodeida</p> <p>the United Arab Emirates (UAE) intervened in Yemen in 2015 as part of the Saudi-led coalition with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
+
 ## Terrorism
 
 **Terrorist group(s)**<br>
@@ -700,6 +703,6 @@ Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham
 <p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the fully demarcated border with Yemen to stem illegal cross-border activities</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 113,549 (Somalia), 16,649 (Ethiopia) (2021)<br>
+_refugees (country of origin)_: 113,845 (Somalia), 16,971 (Ethiopia) (2021)<br>
 _IDPs_: 4,002,012 (conflict in Sa'ada Governorate; clashes between al-Qa'ida in the Arabian Peninsula and government forces) (2020)<br>
 

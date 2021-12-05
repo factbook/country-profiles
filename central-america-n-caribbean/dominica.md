@@ -164,7 +164,7 @@ _unimproved: urban_: urban: 4.3% of population<br>
 1.12 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-3.8 beds/1,000 population (2010)<br>
+3.8 beds/1,000 population<br>
 
 **HIV/AIDS - adult prevalence rate**<br>
 0.6% (2018)<br>
@@ -523,15 +523,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,751<br>
-_subscriptions per 100 inhabitants_: 3.71 (2019 est.)<br>
+_total subscriptions_: 2,660 (2018)<br>
+_subscriptions per 100 inhabitants_: 3.71 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78,437<br>
-_subscriptions per 100 inhabitants_: 105.79 (2019 est.)<br>
+_total subscriptions_: 75,771 (2018)<br>
+_subscriptions per 100 inhabitants_: 105.8 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: fully automatic network;&nbsp;there are multiple competing operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas; (2020)<br>
+_general assessment_: fully automatic network; there are multiple competing operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas (2020)<br>
 _domestic_: fixed-line connections continue to decline slowly with only two active operators providing about 4 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 106 per 100 persons (2019)<br>
 _international_: country code - 1-767; landing points for the ECFS and the&nbsp;Southern Caribbean Fiber&nbsp;submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -547,8 +547,8 @@ _total_: 51,538<br>
 _percent of population_: 69.62% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,514<br>
-_subscriptions per 100 inhabitants_: 16 (2018 est.)<br>
+_total_: 11,514 (2018)<br>
+_subscriptions per 100 inhabitants_: 16.08 (2018 est.)<br>
 
 ## Transportation
 
@@ -569,8 +569,8 @@ _paved_: 762 km (2018)<br>
 _unpaved_: 750 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 98<br>
-_by type_: general cargo 28, oil tanker 22, other 48 (2020)<br>
+_total_: 93<br>
+_by type_: general cargo 30, oil tanker 19, other 44 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Portsmouth, Roseau<br>

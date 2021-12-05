@@ -177,9 +177,6 @@ _unimproved: total_: total: 8.9% of population (2017 est.)<br>
 **Physicians density**<br>
 0.27 physicians/1,000 population (2016)<br>
 
-**Hospital bed density**<br>
-2.2 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 62.4% of population<br>
 _improved: rural_: rural: 43.6% of population<br>
@@ -619,8 +616,8 @@ _paved_: 673 km (2002)<br>
 _unpaved_: 207 km (2002)<br>
 
 **Merchant marine**<br>
-_total_: 244<br>
-_by type_: bulk carrier 7, container ship 9, general cargo 105, oil tanker 28, other 95 (2020)<br>
+_total_: 236<br>
+_by type_: bulk carrier 8, container ship 7, general cargo 112, oil tanker 31, other 78 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Moroni, Moutsamoudou<br>

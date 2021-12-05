@@ -61,14 +61,14 @@ _other_: 51.3% (2018 est.)<br>
 **Irrigated land**<br>
 300 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
 
 **Major aquifers**<br>
 Lake Chad Basin, Nubian Aquifer System<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Nigeria, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Population distribution**<br>
 the population is unevenly distributed due to contrasts in climate and physical geography; the highest density is found in the southwest, particularly around Lake Chad and points south; the dry Saharan zone to the north is the least densely populated as shown in this population distribution map<br>
@@ -606,15 +606,15 @@ _electrification - rural areas_: 1% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,524<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 5,340 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,664,839<br>
-_subscriptions per 100 inhabitants_: 46.88 (2019 est.)<br>
+_total subscriptions_: 8,687,151 (2020)<br>
+_subscriptions per 100 inhabitants_: 52.89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Chad’s inadequate telecom infrastructure, corruption, and high taxes hinder penetration in fixed, mobile, and Internet sectors; with tax reform, operators are investing in voice and data infrastructure to 3G/4G; government approved telecom infrastructure upgrade; World Bank-funded Central African Backbone (CAB) project; Trans-Saharan Backbone project will link a fiber cable to Nigeria and Algeria (2021)</p> (2020)<br>
+_general assessment_: Chad&rsquo;s inadequate telecom infrastructure, corruption, and high taxes hinder penetration in fixed, mobile, and Internet sectors; with tax reform, operators are investing in voice and data infrastructure to 3G/4G; government approved telecom infrastructure upgrade; World Bank-funded Central African Backbone (CAB) project; Trans-Saharan Backbone project will link a fiber cable to Nigeria and Algeria (2020)<br>
 _domestic_: fixed-line connections less than 1 per 100 persons, with mobile-cellular subscribership base of about 48 per 100 persons (2019)<br>
 _international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -630,8 +630,8 @@ _total_: 1,029,153<br>
 _percent of population_: 6.5% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 68<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 0 (2020)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 ## Transportation
 
@@ -673,8 +673,8 @@ _total_: 40,000 km (2018)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; National Nomadic Guard of Chad (GNNT) (2021)<br>
-note(s): the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
+Chadian National Army (Armee Nationale du Tchad, ANT): Ground Forces (l'Armee de Terre, AdT), Chadian Air Force (l'Armee de l'Air Tchadienne, AAT), General Direction of the Security Services of State Institutions (Direction Generale des Services de Securite des Institutions de l'Etat, GDSSIE); National Gendarmerie; Ministry of Public Security and Immigration: National Nomadic Guard of Chad (GNNT), national police (2021)<br>
+note(s) - the GDSSIE, formerly known as the Republican Guard, is the presidential guard force and is considered to be Chad's elite military unit; it is reportedly a division-size unit with infantry, armor, and special forces/anti-terrorism regiments (known as the Special Anti-Terrorist Group or SATG, aka Division of Special Anti-Terrorist Groups or DGSAT)<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>
@@ -711,8 +711,8 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 373,080 (Sudan), 121,036 (Central African Republic), 18,600 (Nigeria), 7,956 (Cameroon) (2021)<br>
-_IDPs_: 401,511 (majority are in the east) (2021)<br>
+_refugees (country of origin)_: 374,804 (Sudan), 121,243 (Central African Republic), 18,995 (Nigeria), 8,841 (Cameroon) (2021)<br>
+_IDPs_: 406,573 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Chad and Chadians abroad; most trafficking is internal; some children are sent by their parents to relatives or intermediaries to receive education, an apprenticeship, goods, or money and are then forced to work in domestic service or cattle herding; children are also forced to work in agriculture, gold mines, charcoal vending, and fishing, and those attending Koranic schools are forced into begging and street vending; girls from rural areas who search for work in larger towns are exploited in sex trafficking and domestic servitude; terrorist groups abduct children to serve as soldiers, suicide bombers, brides, and forced laborers<br>

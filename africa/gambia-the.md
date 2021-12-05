@@ -65,7 +65,7 @@ _other_: 0% (2018 est.)<br>
 50 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
@@ -231,11 +231,6 @@ _total population_: 50.8%<br>
 _male_: 61.8%<br>
 _female_: 41.6% (2015)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 9 years<br>
-_male_: 9 years<br>
-_female_: 9 years (2010)<br>
-
 **Unemployment, youth ages 15-24**<br>
 _total_: 25.8%<br>
 _male_: 21%<br>
@@ -288,7 +283,7 @@ _respiratory diseases_: meningococcal meningitis<br>
 _municipal solid waste generated annually_: 193,441 tons (2002 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Gambia river mouth (shared with Senegal and Guinea [s]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Senegalo-Mauritanian Basin<br>
@@ -600,15 +595,15 @@ _electrification - rural areas_: 16% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 41,179<br>
-_subscriptions per 100 inhabitants_: 1.93 (2019 est.)<br>
+_total subscriptions_: 44,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 1.93 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,977,068<br>
-_subscriptions per 100 inhabitants_: 139.53 (2019 est.)<br>
+_total subscriptions_: 2,677,954 (2020)<br>
+_subscriptions per 100 inhabitants_: 110.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: state-owned telecom partially privatized but retains a monopoly with fixed-line service; multiple mobile networks provide 2G to almost all citizens and above the African average; high poverty rates continue to limit access to the Internet, especially via fixed-line services in rural areas; weak political support for development of communications infrastructure, including National Broadband Network program; government depends on donors and loans from China and Islamic Development banks; two submarine cables provide international connectivity within African continent and Europe (2021) (2020)<br>
+_general assessment_: state-owned telecom partially privatized but retains a monopoly with fixed-line service; multiple mobile networks provide 2G to almost all citizens and above the African average; high poverty rates continue to limit access to the Internet, especially via fixed-line services in rural areas; weak political support for development of communications infrastructure, including National Broadband Network program; government depends on donors and loans from China and Islamic Development banks; two submarine cables provide international connectivity within African continent and Europe (2020)<br>
 _domestic_: fixed-line stands at 2 per 100 subscriptions with one dominant company and mobile-cellular teledensity, aided by multiple mobile-cellular providers, is over 140 per 100 persons (2019)<br>
 _international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -624,7 +619,7 @@ _total_: 406,918<br>
 _percent of population_: 19.84% (July 2017 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,433<br>
+_total_: 4,433 (2018)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation
@@ -654,7 +649,7 @@ _unpaved_: 2,459 km (2011)<br>
 
 **Merchant marine**<br>
 _total_: 8<br>
-_by type_: other 8 (2020)<br>
+_by type_: other 8 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjul<br>
@@ -679,6 +674,9 @@ the GNA has a limited equipment inventory; since 2000, it has received only a fe
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service (18-22 for officers); no conscription; service obligation 6 months (2020)<br>
+
+**Military - note**<br>
+<p>in 2017, several members of the Economic Community of West African States (ECOWAS) sent security forces to The Gambia to conduct stability operations and provide assistance and training following the 2016 election; as of 2021, the ECOWAS Mission in the Gambia (ECOMIG) was comprised of about 1,000 military and gendarmerie personnel from Ghana, Nigeria, and Senegal; ECOMIG is slated to become a police mission by the end of 2021</p> <p>the Gambian Armed Forces (GAF) traces its origins to the Gambia Regiment of the British Army; established in 1901, the Gambia Regiment was part of the West African Frontier Force (WAFF, later Royal West African Frontier Force or RWAFF) and served in both World Wars, including the British 1944-45 military campaign in Burma; the Gambia Regiment was disbanded in 1958 and replaced by the Field Force, a police paramilitary unit; the Field Force was responsible for The Gambia’s security until the establishment of the Gambian Armed Forces in 1985; in addition, a defense agreement signed in 1965 between The Gambia and Senegal provided mutual assistance in the face of an external threat; from 1981-1989, The Gambia and Senegal formed a Confederal Army that was made up of two-thirds Senegalese and one-third Gambian soldiers</p> <p>the military in Gambia, including the Field Force, has a history of heavy involvement in the country’s politics, including multiple coups or coup attempts and mutinies</p> <p> </p><br>
 
 ## Transnational Issues
 

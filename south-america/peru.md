@@ -67,7 +67,7 @@ _other_: 28.2% (2018 est.)<br>
 _Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon (shared with Brazil) - 6,400 km;<br>
+Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
@@ -235,13 +235,13 @@ _female_: 92% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
-_male_: 14 years<br>
+_male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 7.3%<br>
-_male_: 6.9%<br>
-_female_: 7.9% (2019 est.)<br>
+_total_: 12.6%<br>
+_male_: 13%<br>
+_female_: 12.1% (2020 est.)<br>
 
 ## Environment
 
@@ -293,7 +293,7 @@ _percent of municipal solid waste recycled_: 4% (2012 est.)<br>
 _Fresh water lake(s)_: Lago Titicaca (shared with Bolivia) - 8,030 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon (shared with Brazil) - 6,400 km;<br>
+Amazon river source (shared with Brazil [m]) - 6,400 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km)<br>
@@ -626,15 +626,15 @@ _electrification - rural areas_: 86% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,099,172<br>
-_subscriptions per 100 inhabitants_: 9.8 (2019 est.)<br>
+_total subscriptions_: 2,728,617 (2018)<br>
+_subscriptions per 100 inhabitants_: 8.53 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 39,138,119<br>
-_subscriptions per 100 inhabitants_: 123.76 (2019 est.)<br>
+_total subscriptions_: 42,154,771 (2018)<br>
+_subscriptions per 100 inhabitants_: 131.8 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: fixed-line teledensity is only about 10 per 100 persons; mobile-cellular teledensity, spurred by competition among multiple providers, now 124 telephones per 100 persons; nationwide microwave radio relay system and a domestic satellite system with 12 earth stations (2019)<br>
 _international_: country code - 51; landing points for the SAM-1, IGW, American Movil-Telxius, SAC&nbsp;and PAN-AM submarine cable systems that provide links to parts of Central and South America, the Caribbean, and US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -650,8 +650,8 @@ _total_: 16,461,427<br>
 _percent of population_: 52.54% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,310,217<br>
-_subscriptions per 100 inhabitants_: 7 (2017 est.)<br>
+_total_: 2,536,077 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 7.93 (2018 est.)<br>
 
 ## Transportation
 
@@ -701,8 +701,8 @@ _total_: 140,672 km (18,699 km paved) (2012)<br>
 8,808 km (8,600 km of navigable tributaries on the Amazon River system and 208 km on Lago Titicaca) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 97<br>
-_by type_: general cargo 1, oil tanker 10, other 86 (2020)<br>
+_total_: 98<br>
+_by type_: general cargo 1, oil tanker 8, other 89 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Callao, Matarani, Paita<br>
@@ -713,7 +713,7 @@ _river port(s)_: Iquitos, Pucallpa, Yurimaguas (Amazon)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Joint Command of the Armed Forces of Peru: Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2021)<br>
+Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del Peru), Peruvian Navy (Marina de Guerra del Peru, MGP, includes naval infantry and Coast Guard), Air Force of Peru (Fuerza Aerea del Peru, FAP); Ministry of the Interior (Ministerio del Interior): Peruvian National Police (Polic&iacute;a Nacional del Per&uacute;, PNP) (2021)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
@@ -753,5 +753,5 @@ _refugees (country of origin)_: 1,286,434 (Venezuela) (economic and political cr
 _IDPs_: 60,000 (civil war from 1980-2000; most IDPs are indigenous peasants in Andean and Amazonian regions; as of 2011, no new information on the situation of these IDPs) (2020)<br>
 
 **Illicit drugs**<br>
-<p>a regional transshipment and destination point for illegal drugs;</p> <p>cannabis products, methamphetamine hydrochloride (locally known as ‘shabu’), and MDMA (ecstasy) are locally used; Chinese Transnational Criminal Organizations (TCOs) are the main source of methamphetamine; precursor chemicals are in transit from China to Burma</p> <p> </p><br>
+world&rsquo;s second-largest producer of cocaine, with an estimated 88,200 hectares under coca cultivation in 2020; cocaine is trafficked throughout South America for shipment to Europe, East Asia, Mexico, and the United States; major importer of precursor chemicals for cocaine production<br>
 

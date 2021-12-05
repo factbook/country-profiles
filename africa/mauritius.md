@@ -177,7 +177,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.6 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-3.4 beds/1,000 population (2019)<br>
+3.7 beds/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -573,15 +573,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 458,700<br>
-_subscriptions per 100 inhabitants_: 33.45 (2019 est.)<br>
+_total subscriptions_: 478,700 (2020)<br>
+_subscriptions per 100 inhabitants_: 37.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,866,600<br>
-_subscriptions per 100 inhabitants_: 136.12 (2019 est.)<br>
+_total subscriptions_: 1,912,900<br>
+_subscriptions per 100 inhabitants_: 150.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Mauritius is successfully pursuing a policy to make telecommunications a pillar of economic growth, and to have a fully digital-based smart infrastructure; the island nation is a pioneer in the telecom sector, with the first market in greater Africa to launch mobile networks and provide 3G, the first in the world to develop a nationwide WiMAX wireless broadband network, and one of the first to launch IPTV; LTE and fiber broadband are nationally available, and the government supports national Wi-Fi; international cable connectivity has improved, increasing bandwidth capacity; submarine cable provides connectivity to South Africa and beyond; major importer of broadcasting equipment from China (2021) (2020)<br>
+_general assessment_: Mauritius is successfully pursuing a policy to make telecommunications a pillar of economic growth, and to have a fully digital-based smart infrastructure; the island nation is a pioneer in the telecom sector, with the first market in greater Africa to launch mobile networks and provide 3G, the first in the world to develop a nationwide WiMAX wireless broadband network, and one of the first to launch IPTV; LTE and fiber broadband are nationally available, and the government supports national Wi-Fi; international cable connectivity has improved, increasing bandwidth capacity; submarine cable provides connectivity to South Africa and beyond; major importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line teledensity 34 per 100 persons and mobile-cellular services teledensity approaching 151 per 100 persons (2019)<br>
 _international_: country code - 230; landing points for the SAFE, MARS, IOX Cable System, METISS&nbsp;and LION submarine cable system that provides links to Asia, Africa, Southeast Asia, Indian Ocean Islands of Reunion, Madagascar, and Mauritius; satellite earth station - 1 Intelsat (Indian Ocean); new microwave link to Reunion; HF radiotelephone links to several countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -597,8 +597,8 @@ _total_: 799,470<br>
 _percent of population_: 58.6% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 307,200<br>
-_subscriptions per 100 inhabitants_: 22.4 (2019 est.)<br>
+_total_: 322,100 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.33 (2020 est.)<br>
 
 ## Transportation
 
@@ -630,8 +630,8 @@ _paved_: 2,379 km (includes 99 km of expressways) (2015)<br>
 _unpaved_: 49 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 30<br>
-_by type_: general cargo 1, oil tanker 5, other 24 (2020)<br>
+_total_: 29<br>
+_by type_: general cargo 1, oil tanker 4, other 24 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Port Louis<br>
@@ -639,7 +639,7 @@ _major seaport(s)_: Port Louis<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which includes a motorized infantry battalion and 2 light armored squadrons; the PMF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)<br>
+no regular military forces; the Mauritius Police Force (MPF) includes a paramilitary unit known as the Special Mobile Force, which includes a motorized infantry battalion and 2 light armored squadrons; the MPF also has a Police Helicopter Squadron, a Special Support Unit (riot police), and the National Coast Guard (also includes an air squadron) (2021)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2020 est.)<br>

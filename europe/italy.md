@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.98 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3.2 beds/1,000 population (2017)<br>
+3.1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.8% of population<br>
@@ -223,12 +223,12 @@ _female_: 99% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 29.2%<br>
-_male_: 27.8%<br>
-_female_: 31.2% (2019 est.)<br>
+_total_: 29.4%<br>
+_male_: 27.9%<br>
+_female_: 31.8% (2020 est.)<br>
 
 ## Environment
 
@@ -600,15 +600,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,519,434<br>
-_subscriptions per 100 inhabitants_: 31.35 (2019 est.)<br>
+_total subscriptions_: 19,430,559 (2020)<br>
+_subscriptions per 100 inhabitants_: 32.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 79,480,756<br>
-_subscriptions per 100 inhabitants_: 127.64 (2019 est.)<br>
+_total subscriptions_: 77,796,840 (2020)<br>
+_subscriptions per 100 inhabitants_: 128.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>well-developed, fully automated telephone, and data services; among highest mobile penetration rates in Europe; benefitted from progressive government programs aimed at developing fiber in broadband sector; leading edge of development with 5G in six cities; fiber network reaches more than half of population; Milan developing smart city technology; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: well-developed, fully automated telephone, and data services; among highest mobile penetration rates in Europe; benefitted from progressive government programs aimed at developing fiber in broadband sector; leading edge of development with 5G in six cities; fiber network reaches more than half of population; Milan developing smart city technology; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: high-capacity cable and microwave radio relay trunks; 32 per 100 for fixed-line and 133 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 39; landing points for&nbsp;Italy-Monaco, Italy-Libya, Italy-Malta, Italy-Greece-1, Italy-Croatia, BlueMed, Janna, FEA, SeaMeWe-3 &amp; 4 &amp; 5, Trapani-Kelibia, Columbus-III, Didon, GO-1, HANNIBAL System, MENA, Bridge International, Malta-Italy Interconnector, Melita1, IMEWE, VMSCS, AAE-1, and OTEGLOBE, submarine cables that provide links to Asia, the&nbsp;Middle East, Europe, North Africa, Southeast Asia, Australia and US; satellite earth stations - 3 Intelsat (with a total of 5 antennas - 3 for Atlantic Ocean and 2 for Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -624,8 +624,8 @@ _total_: 46,305,301<br>
 _percent of population_: 74.39% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,470,489<br>
-_subscriptions per 100 inhabitants_: 28.06 (2019 est.)<br>
+_total_: 17,855,620 (2020)<br>
+_subscriptions per 100 inhabitants_: 29.53 (2020 est.)<br>
 
 ## Transportation
 
@@ -675,8 +675,8 @@ _paved_: 487,700 km (includes 6,700 km of expressways) (2007)<br>
 2,400 km (used for commercial traffic; of limited overall value compared to road and rail) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 1,310<br>
-_by type_: bulk carrier 42, container ship 7, general cargo 114, oil tanker 107, other 1,040 (2020)<br>
+_total_: 1,296<br>
+_by type_: bulk carrier 36, container ship 7, general cargo 111, oil tanker 103, other 1,039 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Augusta, Cagliari, Genoa, Livorno, Taranto, Trieste, Venice<br>
@@ -725,7 +725,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 579,651 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 584,893 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

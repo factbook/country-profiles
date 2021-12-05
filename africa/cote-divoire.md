@@ -229,9 +229,9 @@ _male_: 93.1%<br>
 _female_: 86.7% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 10 years<br>
-_female_: 9 years (2017)<br>
+_total_: 10 years<br>
+_male_: 11 years<br>
+_female_: 10 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 5.5%<br>
@@ -608,15 +608,15 @@ _electrification - rural areas_: 51% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 271,724<br>
-_subscriptions per 100 inhabitants_: 1.01 (2019 est.)<br>
+_total subscriptions_: 264,073 (2020)<br>
+_subscriptions per 100 inhabitants_: 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37,376,603<br>
-_subscriptions per 100 inhabitants_: 139.16 (2019 est.)<br>
+_total subscriptions_: 40,095,246 (2020)<br>
+_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: C&ocirc;te d'Ivoire telecom systems continue to benefit from strong economic growth; fixed-line, Internet, and broadband sectors remain underdeveloped; mobile sector is strong; progress in national backbone network and connection to submarine cable that will increase Internet bandwidth; country is poised to develop broadband market and digital economy; government further tightened SIM card registration rules (2020) (2020)<br>
+_general assessment_: C&ocirc;te d'Ivoire telecom systems continue to benefit from strong economic growth; fixed-line, Internet, and broadband sectors remain underdeveloped; mobile sector is strong; progress in national backbone network and connection to submarine cable that will increase Internet bandwidth; country is poised to develop broadband market and digital economy; government further tightened SIM card registration rules (2020)<br>
 _domestic_: less than 1 per 100 fixed-line, with multiple mobile-cellular service providers competing in the market, usage has increased to about 145 per 100 persons (2019)<br>
 _international_: country code - 225; landing point for the SAT-3/WASC, ACE, MainOne, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 2 Intelsat (1 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -632,8 +632,8 @@ _total_: 12,295,204<br>
 _percent of population_: 46.82% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 216,723<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 260,097 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -683,7 +683,7 @@ _unpaved_: 75,494 km (2007)<br>
 
 **Merchant marine**<br>
 _total_: 25<br>
-_by type_: oil tanker 2, other 23 (2020)<br>
+_by type_: oil tanker 2, other 23 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Abidjan, San-Pedro<br>

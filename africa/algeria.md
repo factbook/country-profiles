@@ -661,7 +661,7 @@ _unpaved_: 32,344 km (2015)<br>
 
 **Merchant marine**<br>
 _total_: 114<br>
-_by type_: bulk carrier 1, container ship 2, general cargo 11, oil tanker 11, other 89 (2020)<br>
+_by type_: bulk carrier 1, container ship 2, general cargo 11, oil tanker 11, other 89 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Algiers, Annaba, Arzew, Bejaia, Djendjene, Jijel, Mostaganem, Oran, Skikda<br>

@@ -63,14 +63,14 @@ _other_: 3.3% (2018 est.)<br>
 **Irrigated land**<br>
 20 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Ubangi (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
 
 **Major aquifers**<br>
 Congo Basin<br>
-
-**Major rivers (by length in km)**<br>
-Ubangi (shared with Central African Republic and Democratic Republic of Congo) - 2,270 km;&nbsp;<br>
 
 **Population distribution**<br>
 the population is primarily located in the south, in and around the capital of Brazzaville as shown in this population distribution map<br>
@@ -285,7 +285,7 @@ _municipal solid waste recycled annually_: 118,214 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 26.2% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Ubangi (shared with Central African Republic and Democratic Republic of Congo) - 2,270 km;&nbsp;<br>
+Ubangi (shared with Central African Republic [s] and Democratic Republic of Congo [m]) - 2,270 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>
@@ -609,15 +609,15 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,076<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 17,000 (2017)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,933,529<br>
-_subscriptions per 100 inhabitants_: 95.34 (2019 est.)<br>
+_total subscriptions_: 5 million (2018)<br>
+_subscriptions per 100 inhabitants_: 95.34 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)</p> (2020)<br>
+_general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
 _domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 95 per 100 persons (2019)<br>
 _international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -631,6 +631,10 @@ _international_: country code - 242; WACS submarine cables to Europe and Western
 **Internet users**<br>
 _total_: 437,865<br>
 _percent of population_: 8.65% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 500 (2014)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2014 est.)<br>
 
 ## Transportation
 
@@ -676,7 +680,7 @@ _unpaved_: 20,213 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 11<br>
-_by type_: general cargo 1, oil tanker 1, other 9 (2020)<br>
+_by type_: general cargo 1, oil tanker 1, other 9 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Pointe-Noire<br>
@@ -707,12 +711,15 @@ the FAC is armed with mostly ageing Russian/Soviet-era weapons, with some French
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; women may serve in the Armed Forces (2019)<br>
 
+**Military - note**<br>
+<p>as of 2021, that FAC had limited capabilities due to obsolescent and poorly maintained equipment and low levels of training; its primary focus was internal security; since its creation in 1961, the FAC has had a turbulent history; it has been sidelined by some national leaders in favor of personal militias, endured  an internal rebellion (1996), and clashed with various rebel groups and political or ethnic militias (1993-1996, 2002-2005, 2017); during the 1997-1999 civil war, the military generally split along ethnic lines, with most northern officers supporting eventual winner SASSOU-Nguesso, and most southerners backing the rebels; others joined ethnic-based factions loyal to regional warlords; forces backing SASSOU-Nguesso were supported by Angolan troops and received some French assistance; the FAC also has undergone at least three reorganizations that included the incorporation of former rebel combatants and various ethnic and political militias; in recent years, France has provided some advice and training, and a military cooperation agreement was signed with Russia in 2019</p><br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>
 <p>the location of the boundary in the broad Congo River with the Democratic Republic of the Congo is undefined except in the Pool Malebo/Stanley Pool area</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 22,098 (Democratic Republic of the Congo) (refugees and asylum seekers), 27,755 (Central African Republic) (2021)<br>
+_refugees (country of origin)_: 20,371 (Democratic Republic of the Congo) (refugees and asylum seekers), 28,825 (Central African Republic) (2021)<br>
 _IDPs_: 304,430 (multiple civil wars since 1992) (2021)<br>
 

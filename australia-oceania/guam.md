@@ -229,7 +229,7 @@ _abbreviation_: GU<br>
 _etymology_: the native Chamorro name for the island "Guahan" (meaning "we have" or "ours") was changed to Guam in the 1898 Treaty of Paris, whereby Spain relinquished Guam, Cuba, Puerto Rico, and the Philippines to the US<br>
 
 **Government type**<br>
-republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
+unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
 unincorporated organized territory of the US with policy relations between Guam and the&nbsp;federal government&nbsp;under the jurisdiction of the Office of Insular Affairs, US Department of the Interior<br>
@@ -489,12 +489,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 70,639<br>
-_subscriptions per 100 inhabitants_: 42.01 (2019 est.)<br>
+_total subscriptions_: 68,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 42.01 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 181,000<br>
-_subscriptions per 100 inhabitants_: 113 (July 2016 est.)<br>
+_total subscriptions_: 98,000 (2004 est.)<br>
+_subscriptions per 100 inhabitants_: 61.99 (2004 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: integrated with US facilities for direct dialing, including free use of 800 numbers (2020)<br>
@@ -511,6 +511,10 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 **Internet users**<br>
 _total_: 135,073<br>
 _percent of population_: 80.51% (July 2018 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 3,000 (2014)<br>
+_subscriptions per 100 inhabitants_: 1.86 (2019)<br>
 
 ## Transportation
 
@@ -535,7 +539,7 @@ _total_: 1,045 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 3<br>
-_by type_: other 3 (2020)<br>
+_by type_: other 3 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Apra Harbor<br>

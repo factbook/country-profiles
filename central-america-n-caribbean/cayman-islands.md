@@ -495,15 +495,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,338<br>
-_subscriptions per 100 inhabitants_: 54.85 (2019 est.)<br>
+_total subscriptions_: 34,768 (2018)<br>
+_subscriptions per 100 inhabitants_: 54.85 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 92,691<br>
+_total subscriptions_: 96,656 (2018)<br>
 _subscriptions per 100 inhabitants_: 152.5 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: reasonably good overall telephone system with a high fixed-line teledensity;&nbsp;given&nbsp;the high dependence of tourism and activities such as fisheries and offshore financial services, the telecom sector provides a relatively high contribution to overall GDP;&nbsp;good competition in all sectors promotes&nbsp;advancement in mobile telephony and data segments (2018)<br>
+_general assessment_: reasonably good overall telephone system with a high fixed-line teledensity;&nbsp;given&nbsp;the high dependence of tourism and activities such as fisheries and offshore financial services, the telecom sector provides a relatively high contribution to overall GDP;&nbsp;good competition in all sectors promotes&nbsp;advancement in mobile telephony and data segments (2017)<br>
 _domestic_: introduction of competition in the mobile-cellular market in 2004 boosted subscriptions dramatically; 55 per 100 fixed-line, 153 per 100 mobile-cellular (2019)<br>
 _international_: country code - 1-345; landing points for the Maya-1, Deep Blue Cable, and the Cayman-Jamaica Fiber System submarine cables that provide links to the US and parts of Central and South America; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -519,8 +519,8 @@ _total_: 48,328<br>
 _percent of population_: 81.07% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 24,535<br>
-_subscriptions per 100 inhabitants_: 42 (2017 est.)<br>
+_total_: 31,232 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 49.28 (2017 est.)<br>
 
 ## Transportation
 
@@ -548,8 +548,8 @@ _total_: 785 km (2007)<br>
 _paved_: 785 km (2007)<br>
 
 **Merchant marine**<br>
-_total_: 163<br>
-_by type_: bulk carrier 31, general cargo 3, oil tanker 23, other 106 (2020)<br>
+_total_: 160<br>
+_by type_: bulk carrier 32, container ship 1, general cargo 1, oil tanker 23, other 103 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cayman Brac, George Town<br>

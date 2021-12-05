@@ -68,7 +68,7 @@ _other_: 11.4% (2018 est.)<br>
 _Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, Laos, Thailand, China, and Vietnam) - 4,350 km;<br>
+Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -92,14 +92,14 @@ _noun_: Cambodian(s)<br>
 _adjective_: Cambodian<br>
 
 **Ethnic groups**<br>
-Khmer 97.6%, Cham 1.2%, Chinese 0.1%, Vietnamese 0.1%, other 0.9% (2013 est.)<br>
+Khmer 95.4%, Cham 2.4%, Chinese 1.5%, other 0.7% (2019-20 est.)<br>
 
 **Languages**<br>
-Khmer (official) 95.8%, minority languages 2.9%, Chinese .6%, Vietnamese .5%, other .2% (2019 est.)<br>
+Khmer (official) 95.8%, minority languages 2.9%, Chinese 0.6%, Vietnamese 0.5%, other 0.2% (2019 est.)<br>
 _major-language sample(s)_: <br>សៀវភៅហេតុការណនៅលើពិភពលោក។ ទីតាំងពត៏មានមូលដានគ្រឹះយាងសំខាន់។. (Khmer)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Buddhist (official) 97.9%, Muslim 1.1%, Christian 0.5%, other 0.6% (2013 est.)<br>
+Buddhist (official) 97.1%, Muslim 2%, Christian 0.3%, other 0.5% (2019 est.)<br>
 
 **Demographic profile**<br>
 <p>Cambodia is a predominantly rural country with among the most ethnically and religiously homogenous populations in Southeast Asia: more than 95% of its inhabitants are Khmer and more than 95% are Buddhist.  The population’s size and age structure shrank and then rebounded during the 20th century as a result of conflict and mass death.  During the Khmer Rouge regime between 1975 and 1979 as many as 1.5 to 2 million people are estimated to have been killed or died as a result of starvation, disease, or overwork – a loss of about 25% of the population.  At the same time, emigration was high, and the fertility rate sharply declined.  In the 1980s, after the overthrow of the Khmer Rouge, fertility nearly doubled and reached pre-Khmer Rouge levels of close to 7 children per woman, reflecting in part higher infant survival rates.  The baby boom was followed by a sustained fertility decline starting in the early 1990s, eventually decreasing from 3.8 in 2000 to 2.9 in 2010, although the rate varied by income, education, and rural versus urban location.  Despite continuing fertility reduction, Cambodia still has a youthful population that is likely to maintain population growth through population momentum. Improvements have also been made in mortality, life expectancy, and contraceptive prevalence, although reducing malnutrition among children remains stalled.  Differences in health indicators are pronounced between urban and rural areas, which experience greater poverty.</p> <p>Cambodia is predominantly a country of migration, driven by the search for work, education, or marriage.  Internal migration is more prevalent than international migration, with rural to urban migration being the most common, followed by rural to rural migration.  Urban migration focuses on the pursuit of unskilled or semi-skilled jobs in Phnom Penh, with men working mainly in the construction industry and women working in garment factories.  Most Cambodians who migrate abroad do so illegally using brokers because it is cheaper and faster than through formal channels, but doing so puts them at risk of being trafficked for forced labor or sexual exploitation.  Young Cambodian men and women migrate short distances across the Thai border using temporary passes to work in agriculture, while others migrate long distances primarily into Thailand and Malaysia for work in agriculture, fishing, construction, manufacturing, and domestic service.  Cambodia was a refugee sending country in the 1970s and 1980s as a result of the brutality of the Khmer Rouge regime, its ousting by the Vietnamese invasion, and the resultant civil war.  Tens of thousands of Cambodians fled to Thailand; more than 100,000 were resettled in the US in the 1980s.  Cambodia signed a multi-million dollar agreement with Australia in 2014 to voluntarily resettle refugees seeking shelter in Australia.  However, the deal has proven to be a failure because of poor conditions and a lack of support services for the few refugees willing to accept the offer.</p><br>
@@ -233,12 +233,12 @@ _female_: 75% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 11 years<br>
 _male_: 11 years<br>
-_female_: 10 years (2008)<br>
+_female_: 10 years<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 1.1%<br>
-_male_: 1%<br>
-_female_: 1.2% (2016 est.)<br>
+_total_: 2.5%<br>
+_male_: 2.7%<br>
+_female_: 2.3% (2019 est.)<br>
 
 ## Environment
 
@@ -287,7 +287,7 @@ _municipal solid waste generated annually_: 1.089 million tons (2014 est.)<br>
 _Fresh water lake(s)_: Tonle Sap - 2,700-16,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, Laos, Thailand, China, and Vietnam) - 4,350 km;<br>
+Mekong (shared with China [s], Burma, Thailand, Laos, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -610,15 +610,15 @@ _electrification - rural areas_: 67% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 56,445<br>
+_total subscriptions_: 56,445 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,418,681<br>
-_subscriptions per 100 inhabitants_: 127.24 (2019 est.)<br>
+_total subscriptions_: 21,418,681 (2019)<br>
+_subscriptions per 100 inhabitants_: 129.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Cambodia&rsquo;s telecom infrastructure struggles with poor infrastructure and power outages; improvement through competition and foreign investment; fixed-line and fixed/mobile broadband penetration is still low compared to other Asian nations; government and operators preparing for 5G services through Huawei&rsquo;s infrastructure that will drive mobile broadband through faster speeds; online Internet content subject to government restrictions (2021) (2020)<br>
+_general assessment_: Cambodia&rsquo;s telecom infrastructure struggles with poor infrastructure and power outages; improvement through competition and foreign investment; fixed-line and fixed/mobile broadband penetration is still low compared to other Asian nations; government and operators preparing for 5G services through Huawei&rsquo;s infrastructure that will drive mobile broadband through faster speeds; online Internet content subject to government restrictions (2020)<br>
 _domestic_: fixed-line connections stand at about 1 per 100 persons and declining; mobile-cellular usage, aided by competition among service providers, has increased to about 130 per 100 persons (2019)<br>
 _international_: country code - 855; landing points for MCT and AAE-1 via submarine cables&nbsp;providing communication to Asia, the Middle East, Europe and Africa;&nbsp;satellite earth station - 1 Intersputnik (Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -634,8 +634,8 @@ _total_: 6,579,808<br>
 _percent of population_: 40% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 184,379<br>
-_subscriptions per 100 inhabitants_: 1.1 (2019 est.)<br>
+_total_: 713,845 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.12 (2019 est.)<br>
 
 ## Transportation
 
@@ -680,8 +680,8 @@ _unpaved_: 35,024 km (2013)<br>
 3,700 km (mainly on Mekong River) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 257<br>
-_by type_: container ship 2, general cargo 170, oil tanker 19, other 66 (2020)<br>
+_total_: 245<br>
+_by type_: container ship 2, general cargo 162, oil tanker 18, other 63 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Sihanoukville (Kampong Saom)<br>
@@ -711,6 +711,9 @@ the Royal Cambodian Armed Forces are armed largely with older Chinese and Russia
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory and voluntary military service (2019)<br>
+
+**Military - note**<br>
+<p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>
 
 ## Transnational Issues
 

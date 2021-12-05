@@ -178,7 +178,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.09 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-4.5 beds/1,000 population (2017)<br>
+4.4 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,12 +216,12 @@ _female_: 99.7% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 17 years<br>
-_female_: 18 years (2018)<br>
+_female_: 18 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.1%<br>
-_male_: 7.4%<br>
-_female_: 9.2% (2019 est.)<br>
+_total_: 14.2%<br>
+_male_: 12.7%<br>
+_female_: 16.2% (2020 est.)<br>
 
 ## Environment
 
@@ -594,7 +594,7 @@ _total subscriptions_: 2,511,979<br>
 _subscriptions per 100 inhabitants_: 119.48 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: well-developed telecom infrastructure with sound regulatory intervention; increase in Internet&nbsp;community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G;&nbsp;FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2021) (2020)<br>
+_general assessment_: well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)<br>
 _domestic_: fixed-line 34 per 100 and mobile-cellular 121 per 100 teledensity (2019)<br>
 _international_: country code - 386 (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -655,7 +655,7 @@ _paved_: 38,985 km (includes 769 km of expressways) (2012)<br>
 
 **Merchant marine**<br>
 _total_: 9<br>
-_by type_: other 9 (2020)<br>
+_by type_: other 9 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koper<br>

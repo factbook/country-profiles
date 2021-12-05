@@ -63,14 +63,14 @@ _other_: 44% (2018 est.)<br>
 **Irrigated land**<br>
 80 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
-
-**Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
 
 **Population distribution**<br>
 population density is very low, with the largest clustering found in the extreme north-central area along the border with Angola as shown in this population distribution map<br>
@@ -191,7 +191,7 @@ _unimproved: total_: total: 10.3% of population (2017 est.)<br>
 0.42 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-2.7 beds/1,000 population (2009)<br>
+2.7 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 72.9% of population<br>
@@ -286,7 +286,7 @@ _municipal solid waste recycled annually_: 11,553 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 4.5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Zambezi (shared with Zambia [s]), Angola, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km; Orange river mouth (shared with Lesotho [s], and South Africa) - 2,092 km; Okavango (shared with Angola [s], and Botswana [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -614,15 +614,15 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 139,698<br>
-_subscriptions per 100 inhabitants_: 5.41 (2019 est.)<br>
+_total subscriptions_: 141,334 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.56 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,823,655<br>
-_subscriptions per 100 inhabitants_: 109.39 (2019 est.)<br>
+_total subscriptions_: 2,594,382 (2020)<br>
+_subscriptions per 100 inhabitants_: 102.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>good competition in mobile market and investment in LTE government program to provide 95% of population with broadband by 2024; 5G delayed due to public concerns of privacy and security; high prices for international bandwidth due to lack of submarine cables, yet improved by diversification of satellite access (2021)</p> (2020)<br>
+_general assessment_: good competition in mobile market and investment in LTE government program to provide 95% of population with broadband by 2024; 5G delayed due to public concerns of privacy and security; high prices for international bandwidth due to lack of submarine cables, yet improved by diversification of satellite access (2020)<br>
 _domestic_: fixed-line subscribership is 6 per 100 and mobile-cellular 113 per 100 persons (2019)<br>
 _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nbsp;fiber-optic submarine cable linking southern and western African countries to Europe; satellite earth stations - 4 Intelsat (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -638,8 +638,8 @@ _total_: 1,291,944<br>
 _percent of population_: 51% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 63,314<br>
-_subscriptions per 100 inhabitants_: 2.45 (2019 est.)<br>
+_total_: 71,063 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.8 (2020 est.)<br>
 
 ## Transportation
 
@@ -679,7 +679,7 @@ _unpaved_: 40,982 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 14<br>
-_by type_: general cargo 1, other 13 (2020)<br>
+_by type_: general cargo 1, other 13 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Luderitz, Walvis Bay<br>
@@ -687,7 +687,7 @@ _major seaport(s)_: Luderitz, Walvis Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Namibian Defense Force (NDF): Army, Navy, Air Force; Namibian Police Force: Special Field Force (paramilitary unit responsible for protecting borders and government installations) (2021)<br>
+Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety and Security: Namibian Police Force (includes a paramilitary Special Field Force responsible for protecting borders and government installations) (2021)<br>
 
 **Military expenditures**<br>
 3.4% of GDP (2020 est.)<br>
@@ -711,5 +711,5 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 <p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,378 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 5,542 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 

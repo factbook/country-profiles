@@ -187,7 +187,7 @@ _unimproved: total_: total: 6.2% of population (2017 est.)<br>
 0.68 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-6.3 beds/1,000 population (2010)<br>
+6.3 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 77.7% of population<br>
@@ -596,15 +596,15 @@ _electrification - rural areas_: 39% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,291<br>
-_subscriptions per 100 inhabitants_: 1.02 (2019 est.)<br>
+_total subscriptions_: 25,428 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,992,811<br>
-_subscriptions per 100 inhabitants_: 137.57 (2019 est.)<br>
+_total subscriptions_: 3,088,742 (2020)<br>
+_subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>politically stable and oil laden, Gabon is one of wealthiest nations in Africa; liberalized and competitive market led development of mobile broadband, data service, and tests of 5G; fixed-line sector underdeveloped due to the lack of competition and high prices; South Korean investment in fiber segments as part of Central African backbone; sufficient international bandwidth through submarine cable systems; government committed to backbone infrastructure and e-health services; efforts towards new legal and regulatory improvements (2020)</p> (2020)<br>
+_general assessment_: politically stable and oil laden, Gabon is one of wealthiest nations in Africa; liberalized and competitive market led development of mobile broadband, data service, and tests of 5G; fixed-line sector underdeveloped due to the lack of competition and high prices; South Korean investment in fiber segments as part of Central African backbone; sufficient international bandwidth through submarine cable systems; government committed to backbone infrastructure and e-health services; efforts towards new legal and regulatory improvements (2020)<br>
 _domestic_: fixed-line is 1 per 100 subscriptions; a growing mobile cellular network with multiple providers is making telephone service more widely available with mobile cellular teledensity&nbsp;at 138 per 100 persons (2019)<br>
 _international_: country code - 241; landing points for the SAT-3/WASC, ACE and Libreville-Port Gentil Cable&nbsp;fiber-optic submarine cable that provides connectivity to Europe and West Africa; satellite earth stations - 3 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -620,8 +620,8 @@ _total_: 1,313,802<br>
 _percent of population_: 62% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 22,332<br>
-_subscriptions per 100 inhabitants_: 1.03 (2019 est.)<br>
+_total_: 44,607 (2020)<br>
+_subscriptions per 100 inhabitants_: 2 (2020 est.)<br>
 
 ## Transportation
 
@@ -665,8 +665,8 @@ _unpaved_: 13,400 km (2001)<br>
 1,600 km (310 km on Ogooue River) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 40<br>
-_by type_: general cargo 16, oil tanker 6, other 18 (2020)<br>
+_total_: 62<br>
+_by type_: bulk carrier 1, general cargo 17, oil tanker 17, other 27 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Libreville, Owendo, Port-Gentil<br>

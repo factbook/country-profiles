@@ -65,7 +65,7 @@ _other_: 2% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -192,7 +192,7 @@ _unimproved: total_: total: 32.5% of population (2017 est.)<br>
 1.19 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-2 beds/1,000 population (2010)<br>
+2 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 69.6% of population<br>
@@ -234,9 +234,9 @@ _male_: 90.6%<br>
 _female_: 83.1% (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 26%<br>
-_male_: 24.7%<br>
-_female_: 27.6% (2018 est.)<br>
+_total_: 30.1%<br>
+_male_: 32.1%<br>
+_female_: 27.6% (2019 est.)<br>
 
 ## Environment
 
@@ -290,7 +290,7 @@ _municipal solid waste generated annually_: 2,608,268 tons (2002 est.)<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Burundi) - 32,000 sq km; Lake Mweru (shared with Democratic Republic of Congo) - 4,350 sq km; Lake Bangweulu - 4,000-15,000 sq km seasonal variation<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Congo river source (shared with Angola, Republic of Congo, and Democratic Republic of Congo [m]) - 4,700 km; Zambezi river source (shared with Angola, Namibia, Botswana, Zimbabwe, and Mozambique [m]) - 2,740 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -623,7 +623,7 @@ _total subscriptions_: 17,220,607<br>
 _subscriptions per 100 inhabitants_: 95.78 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>service is among the best in Sub-Saharan Africa; regulator promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers, and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; operators focused on improvements to towers (2020)</p> (2020)<br>
+_general assessment_: service is among the best in Sub-Saharan Africa; regulator promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers, and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; operators focused on improvements to towers (2020)<br>
 _domestic_: fiber optic connections are available between most larger towns and cities with microwave radio relays serving more rural areas; 3G and LTE with FttX in limited urban areas and private Ku or Ka band VSAT terminals in remote locations; fixed-line 1 per 100 and mobile-cellular 96 per 100 (2019)<br>
 _international_: country code - 260; multiple providers operate overland fiber optic routes via Zimbabwe/South Africa, Botswana/Namibia and Tanzania provide access to the major undersea cables<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -687,8 +687,8 @@ _unpaved_: 52,783 km (2018)<br>
 2,250 km (includes Lake Tanganyika and the Zambezi and Luapula Rivers) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1<br>
-_by type_: other 1 (2019)<br>
+_total_: 2<br>
+_by type_: general cargo 1, oil tanker 1 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mpulungu (Zambezi)<br>
@@ -723,7 +723,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 63,279 (Democratic Republic of the Congo) (refugees and asylum seekers), 8,742 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 63,681 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,821 (Burundi) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

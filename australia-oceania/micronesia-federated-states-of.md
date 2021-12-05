@@ -164,7 +164,7 @@ _unimproved: total_: total: 21.4% of population (2017 est.)<br>
 12.6% (2018)<br>
 
 **Hospital bed density**<br>
-3.2 beds/1,000 population (2009)<br>
+3.2 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 88.3% of population<br>
@@ -525,11 +525,11 @@ _electrification - rural areas_: 78.7% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,420<br>
-_subscriptions per 100 inhabitants_: 6.23 (2019 est.)<br>
+_total subscriptions_: 6,947 (2018)<br>
+_subscriptions per 100 inhabitants_: 6.23 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,374<br>
+_total subscriptions_: 23,114 (2018)<br>
 _subscriptions per 100 inhabitants_: 20.74 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -549,8 +549,8 @@ _total_: 36,586<br>
 _percent of population_: 35.3% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,776<br>
-_subscriptions per 100 inhabitants_: 4 (2017 est.)<br>
+_total_: 3,776 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 3.39 (2019 est.)<br>
 
 ## Transportation
 
@@ -570,7 +570,7 @@ note - paved and unpaved circumferential roads, most interior roads are unpaved<
 
 **Merchant marine**<br>
 _total_: 38<br>
-_by type_: general cargo 18, oil tanker 4, other 16 (2020)<br>
+_by type_: general cargo 19, oil tanker 4, other 15 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Colonia (Tamil Harbor), Molsron Lele Harbor, Pohnepi Harbor<br>

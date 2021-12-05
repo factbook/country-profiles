@@ -214,14 +214,14 @@ _male_: 99.7%<br>
 _female_: 99.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
-_male_: 16 years<br>
-_female_: 16 years (2019)<br>
+_total_: 16 years<br>
+_male_: 15 years<br>
+_female_: 16 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 30.4%<br>
-_male_: 28.9%<br>
-_female_: 32.9% (2019 est.)<br>
+_total_: 39.4%<br>
+_male_: 40.1%<br>
+_female_: 38.3% (2020 est.)<br>
 
 ## Environment
 
@@ -582,15 +582,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 518,624<br>
-_subscriptions per 100 inhabitants_: 10.52 (2019 est.)<br>
+_total subscriptions_: 378,498 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.49 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,384,462<br>
-_subscriptions per 100 inhabitants_: 109.27 (2019 est.)<br>
+_total subscriptions_: 5,100,101 (2020)<br>
+_subscriptions per 100 inhabitants_: 127.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2021)</p> (2020)<br>
+_general assessment_: despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)<br>
 _domestic_: fixed-line 13 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 135 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2019)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -606,8 +606,8 @@ _total_: 3,151,218<br>
 _percent of population_: 63.97% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 941,509<br>
-_subscriptions per 100 inhabitants_: 19.11 (2019 est.)<br>
+_total_: 997,785 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.01 (2020 est.)<br>
 
 ## Transportation
 
@@ -652,8 +652,8 @@ _broad gauge_: 1,326 km 1.520-m gauge (1,251 km electrified) (2014)<br>
 _total_: 20,295 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 81<br>
-_by type_: bulk carrier 2, general cargo 22, oil tanker 2, other 55 (2020)<br>
+_total_: 25<br>
+_by type_: bulk carrier 2, general cargo 3, other 20 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Black Sea - Bat'umi, P'ot'i<br>

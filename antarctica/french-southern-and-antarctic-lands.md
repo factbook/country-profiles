@@ -176,8 +176,8 @@ has one or more meteorological stations on each possession<br>
 _total_: 4 (2020)<br>
 
 **Merchant marine**<br>
-_total_: 3<br>
-_by type_: other 3 (2020)<br>
+_total_: 2<br>
+_by type_: other 2 (2021)<br>
 
 **Ports and terminals**<br>
 none; offshore anchorage only<br>

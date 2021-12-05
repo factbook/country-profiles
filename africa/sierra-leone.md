@@ -598,7 +598,7 @@ _total subscriptions_: 6,729,804<br>
 _subscriptions per 100 inhabitants_: 103.77 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line less than 1 per 100 and mobile-cellular 86 per 100 (2019)<br>
 _international_: country code - 232; landing point for the ACE submarine cable linking to South Africa, over 20 western African countries and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -647,8 +647,8 @@ _non-urban_: 8,700 km (2015)<br>
 800 km (600 km navigable year-round) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 557<br>
-_by type_: bulk carrier 31, container ship 12, general cargo 286, oil tanker 104, other 124 (2020)<br>
+_total_: 591<br>
+_by type_: bulk carrier 30, container ship 9, general cargo 319, oil tanker 108, other 125 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
@@ -656,7 +656,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): combined ground, air, and maritime forces (2021)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing&nbsp; (2021)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>

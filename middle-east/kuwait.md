@@ -208,7 +208,7 @@ _female_: 95.4% (2020)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
-_male_: 14 years<br>
+_male_: 13 years<br>
 _female_: 16 years (2015)<br>
 
 **Unemployment, youth ages 15-24**<br>
@@ -571,15 +571,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 583,463<br>
-_subscriptions per 100 inhabitants_: 19.73 (2019 est.)<br>
+_total subscriptions_: 583,463 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.66 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,327,028<br>
-_subscriptions per 100 inhabitants_: 247.76 (2019 est.)<br>
+_total subscriptions_: 6,770,346 (2020)<br>
+_subscriptions per 100 inhabitants_: 158.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire, and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwait; Internet access is available via 4G LTE connections for fixed and mobile users; high ownership levels of smart phones in Kuwait; one of the highest mobile penetration rates in the world; exploring 5G opportunities; improvements to fiber-broadband underway (2020)</p> (2020)<br>
+_general assessment_: the quality of service is excellent; new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open-wire, and fiber-optic cable; a 4G LTE mobile-cellular telephone system operates throughout Kuwait; Internet access is available via 4G LTE connections for fixed and mobile users; high ownership levels of smart phones in Kuwait; one of the highest mobile penetration rates in the world; exploring 5G opportunities; improvements to fiber-broadband underway (2020)<br>
 _domestic_: fixed-line subscriptions are 12 per 100 and mobile-cellular stands at 174 per 100 subscriptions (2019)<br>
 _international_: country code - 965; landing points for the FOG, GBICS, MENA, Kuwait-Iran, and FALCON submarine cables&nbsp;linking Africa, the Middle East, and Asia; microwave radio relay to Saudi Arabia; satellite earth stations - 6 (3 Intelsat - 1 Atlantic Ocean and 2 Indian Ocean, 1 Inmarsat - Atlantic Ocean, and 2 Arabsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -595,8 +595,8 @@ _total_: 2,904,801<br>
 _percent of population_: 99.6% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 84,595<br>
-_subscriptions per 100 inhabitants_: 2.86 (2019 est.)<br>
+_total_: 73,948 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.73 (2020 est.)<br>
 
 ## Transportation
 
@@ -635,8 +635,8 @@ _paved_: 4,887 km (2018)<br>
 _unpaved_: 862 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 159<br>
-_by type_: general cargo 15, oil tanker 24, other 120 (2020)<br>
+_total_: 165<br>
+_by type_: general cargo 15, oil tanker 28, other 122 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'Abd Allah, Mina' al Ahmadi<br>

@@ -172,7 +172,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.33 physicians/1,000 population (2015)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2009)<br>
+2.5 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>

@@ -247,8 +247,8 @@ _cabinet_: Executive Council elected by the Legislative Council<br>
 _elections/appointments_: the monarchy is hereditary; governor appointed by the monarch; chief executive appointed by the governor<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -  the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br><br>
-_elections_: last held on 9 November 2017 (next to be held in November 2021)<br>
+_description_: unicameral Legislative Assembly, formerly the Legislative Council (10 seats; 5 members directly elected in the Stanley constituency and 3 members in the Camp constituency by simple majority vote, 2 appointed non-voting ex-officio members - the chief executive, appointed by the governor, and the financial secretary; members serve 4-year terms); note - several previous referendums -&nbsp; the latest in September 2020 - on whether to merge the Stanley and Camp constituencies into a single islands wide constituency, failed<br>
+_elections_: last held on 9 November 2017 (next to be held on 30 November 2021)<br>
 _election results_: percent of vote - NA; seats - independent 8; composition (elected members) -men 8, women 2, percent of women 20%<br>
 
 **Judicial branch**<br>
@@ -457,12 +457,12 @@ Falkland pounds (FKP) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,255<br>
-_subscriptions per 100 inhabitants_: 77 (July 2016 est.)<br>
+_total subscriptions_: 2,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 65.19 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,674<br>
-_subscriptions per 100 inhabitants_: 146 (July 2016 est.)<br>
+_total subscriptions_: 5,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 163 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands<br>
@@ -480,8 +480,8 @@ _total_: 3,000<br>
 _percent of population_: 98.3% (July 2016 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,610<br>
-_subscriptions per 100 inhabitants_: 50 (2017 est.)<br>
+_total_: 1,000 (2019 est.)<br>
+_subscriptions per 100 inhabitants_: 32.59 (2019 est.)<br>
 
 ## Transportation
 
@@ -511,7 +511,7 @@ _unpaved_: 390 km (2008)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: general cargo 1, other 1 (2020)<br>
+_by type_: general cargo 1, other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Stanley<br>

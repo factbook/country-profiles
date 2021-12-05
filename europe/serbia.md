@@ -62,7 +62,7 @@ _other_: 10.5% (2018 est.)<br>
 950 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -228,14 +228,14 @@ _male_: 99.9%<br>
 _female_: 99.1% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 15 years<br>
+_total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 27.5%<br>
-_male_: 26.1%<br>
-_female_: 29.9% (2019 est.)<br>
+_total_: 26.7%<br>
+_male_: 25%<br>
+_female_: 29.5% (2020 est.)<br>
 
 ## Environment
 
@@ -283,7 +283,7 @@ _municipal solid waste recycled annually_: 13,984 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 0.8% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -616,7 +616,7 @@ _total subscriptions_: 8,453,887<br>
 _subscriptions per 100 inhabitants_: 120.06 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2021)</p> (2020)<br>
+_general assessment_: Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2020)<br>
 _domestic_: fixed-line 29 per 100 and mobile-cellular 96 per 100 persons (2019)<br>
 _international_: country code - 381<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -717,7 +717,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 802,301 estimated refugee and migrant arrivals (January 2015-October 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 807,137 estimated refugee and migrant arrivals (January 2015-November 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

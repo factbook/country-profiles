@@ -66,7 +66,7 @@ _other_: 21.2% (2018 est.)<br>
 _Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Vistula (shared with Belarus and Ukraine) - 1,213 km<br>
+Vistula river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -186,7 +186,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.38 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-6.6 beds/1,000 population (2017)<br>
+6.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.7% of population<br>
@@ -227,12 +227,12 @@ _female_: 99.7% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 15 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 9.9%<br>
-_male_: 9.6%<br>
-_female_: 10.3% (2019 est.)<br>
+_total_: 10.8%<br>
+_male_: 10.3%<br>
+_female_: 11.6% (2020 est.)<br>
 
 ## Environment
 
@@ -282,7 +282,7 @@ _percent of municipal solid waste recycled_: 26.4% (2015 est.)<br>
 _Salt water lake(s)_: Zalew Szczecinski/Stettiner Haff (shared with Germany) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Vistula (shared with Belarus and Ukraine) - 1,213 km<br>
+Vistula river source and mouth (shared with Belarus and Ukraine) - 1,213 km<br><strong>note </strong>- longest river in Poland<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -618,7 +618,7 @@ _total subscriptions_: 48,392,944<br>
 _subscriptions per 100 inhabitants_: 126.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2021)</p> (2020)<br>
+_general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
 _domestic_: several nation-wide networks provide mobile-cellular service; coverage is generally good; fixed-line 18 per 100 service lags in rural areas, mobile-cellular 138 per 100 persons (2019)<br>
 _international_: country code - 48; landing points for the Baltica and the Denmark-Poland2 submarine cables connecting Poland, Denmark and Sweden; international direct dialing with automated exchanges; satellite earth station - 1 with access to Intelsat, Eutelsat, Inmarsat, and Intersputnik (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -685,8 +685,8 @@ _unpaved_: 129,000 km (2016)<br>
 3,997 km (navigable rivers and canals) (2009)<br>
 
 **Merchant marine**<br>
-_total_: 142<br>
-_by type_: general cargo 6, oil tanker 7, other 129 (2020)<br>
+_total_: 143<br>
+_by type_: general cargo 7, oil tanker 6, other 130 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Gdansk, Gdynia, Swinoujscie<br>

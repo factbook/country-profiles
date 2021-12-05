@@ -224,12 +224,12 @@ _female_: 95.4% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 12 years<br>
-_female_: 14 years (2016)<br>
+_female_: 13 years (2016)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 12.8%<br>
-_male_: 10.2%<br>
-_female_: 17.5% (2019 est.)<br>
+_total_: 40.1%<br>
+_male_: 30.8%<br>
+_female_: 51.9% (2020 est.)<br>
 
 ## Environment
 
@@ -598,15 +598,15 @@ _electrification - rural areas_: 77% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 741,269<br>
-_subscriptions per 100 inhabitants_: 19.32 (2019 est.)<br>
+_total subscriptions_: 616,698 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,599,005<br>
-_subscriptions per 100 inhabitants_: 145.92 (2019 est.)<br>
+_total subscriptions_: 5,708,163 (2020)<br>
+_subscriptions per 100 inhabitants_: 132.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>domestic and international facilities well-developed; steady increase in telecom revenue with effective competition; mobile connections account for 90% of connections; government-funded program to improve Internet infrastructure; connectivity through two submarine cables; launch of LTE services; Chinese company Huawei investment in bandwidth technologies; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: domestic and international facilities well-developed; steady increase in telecom revenue with effective competition; mobile connections account for 90% of connections; government-funded program to improve Internet infrastructure; connectivity through two submarine cables; launch of LTE services; Chinese company Huawei investment in bandwidth technologies; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line 17 per 100 and rapid subscribership of mobile-cellular telephone 132 per 100 (2019)<br>
 _international_: country code - 507; landing points for the&nbsp;PAN-AM, ARCOS, SAC, AURORA,&nbsp;PCCS, PAC, and the MAYA-1 submarine cable systems that together provide links to the US and parts of the Caribbean, Central America, and South America; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to the Central American Microwave System (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -622,8 +622,8 @@ _total_: 2,199,433<br>
 _percent of population_: 57.87% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 523,530<br>
-_subscriptions per 100 inhabitants_: 13.64 (2019 est.)<br>
+_total_: 562,413 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.03 (2020 est.)<br>
 
 ## Transportation
 
@@ -667,8 +667,8 @@ _standard gauge_: 77 km 1.435-m gauge (2014)<br>
 800 km (includes the 82-km Panama Canal that is being widened) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 7,886<br>
-_by type_: bulk carrier 2,604, container ship 615, general cargo 1,347, oil tanker 789, other 2,531 (2020)<br>
+_total_: 7,980<br>
+_by type_: bulk carrier 2,697, container ship 643, general cargo 1,381, oil tanker 771, other 2,488 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Balboa, Colon, Cristobal<br>

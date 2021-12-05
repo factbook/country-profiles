@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Ancient Vietnam was centered on the Red River Valley and was under Han Chinese rule until approximately the 10th century. The Ly Dynasty (11th-13th century) ruled the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), Dai Viet forces led by one of Vietnam’s national heroes, TRAN Hang Dao, fought off Mongol invaders in 1279. Following a brief Chinese occupation in the early 1400s, the leader of Vietnamese resistance, LE Thai To, made himself emperor and established the Le Dynasty, which lasted until the late 18th century, although not without decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>The Nguyen Dynasty would be the last Vietnamese dynasty before the conquest by France, which began in 1858 and was completed by 1884. Vietnam became part of French Indochina in 1887. It declared independence after World War II, but France continued to rule until its 1954 defeat by communist forces under Ho Chi MINH. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. US economic and military aid to South Vietnam grew through the 1960s in an attempt to bolster the government, but US armed forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South reuniting the country under communist rule. Despite the return of peace, for over a decade the country experienced little economic growth because of conservative leadership policies, the persecution and mass exodus of individuals - many of them successful South Vietnamese merchants - and growing international isolation. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, Vietnamese authorities have committed to increased economic liberalization and enacted structural reforms needed to modernize the economy and to produce more competitive, export-driven industries. Since implementation, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, and foreign investment. Increased tourism has also become a key component of economic growth. Nevertheless, the Communist Party maintains tight political and social control of the country and the country faces considerable challenges including rising income inequality, corruption, inadequate social welfare, and a poor human rights record.  <p>Despite some tensions with Beijing, particularly over rival claims in the South China Sea, China remains Vietnam’s most important bi-lateral relationship and is its largest trading partner.</p><br>
+Ancient Vietnam was centered on the Red River Valley and was under Han Chinese rule until approximately the 10th century. The Ly Dynasty (11th-13th century) ruled the first independent Vietnamese state, which was known as Dai Viet, and established their capital at Thang Long (Hanoi). Under the Tran Dynasty (13th-15th century), Dai Viet forces led by one of Vietnam’s national heroes, TRAN Hang Dao, fought off Mongol invaders in 1279. Following a brief Chinese occupation in the early 1400s, the leader of Vietnamese resistance, LE Thai To, made himself emperor and established the Le Dynasty, which lasted until the late 18th century, although not without decades of political turmoil, civil war, and division. During this period, Dai Viet expanded southward to the Central Highlands and Mekong Delta, reaching the approximate boundaries of modern-day Vietnam by the 1750s. Dai Viet suffered additional civil war and division in the latter half of the 18th century, but was reunited and renamed Vietnam under Emperor NGUYEN Phuc Anh (aka Gia Long) in 1802.<br><br>The Nguyen Dynasty would be the last Vietnamese dynasty before the conquest by France, which began in 1858 and was completed by 1884. Vietnam became part of French Indochina in 1887. It declared independence after World War II, but France continued to rule until its 1954 defeat by communist forces under Ho Chi MINH. Under the Geneva Accords of 1954, Vietnam was divided into the communist North and anti-communist South. US economic and military aid to South Vietnam grew through the 1960s in an attempt to bolster the government, but US armed forces were withdrawn following a cease-fire agreement in 1973. Two years later, North Vietnamese forces overran the South reuniting the country under communist rule. Despite the return of peace, for over a decade the country experienced little economic growth because of conservative leadership policies, the persecution and mass exodus of individuals - many of them successful South Vietnamese merchants - and growing international isolation. However, since the enactment of Vietnam's "doi moi" (renovation) policy in 1986, Vietnamese authorities have committed to increased economic liberalization and enacted structural reforms needed to modernize the economy and to produce more competitive, export-driven industries. Since implementation, the economy has seen strong growth, particularly in agricultural and industrial production, construction, exports, and foreign investment. Increased tourism has also become a key component of economic growth. Nevertheless, the Communist Party maintains tight political and social control of the country and the country faces considerable challenges including rising income inequality, corruption, inadequate social welfare, and a poor human rights record. <br> <p>Despite some tensions with Beijing, particularly over rival claims in the South China Sea, China remains Vietnam’s most important bi-lateral relationship and is its largest trading partner.</p><br>
 
 ## Geography
 
@@ -65,7 +65,7 @@ _other_: 20.2% (2018 est.)<br>
 46,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, Laos, Thailand, Cambodia, and China) - 4,350 km; Pearl (shared with China) - 2,200 km; Red (shared with China) - 1,149 km<br>
+Mekong river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 5.3% of population (2017 est.)<br>
 0.83 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-2.6 beds/1,000 population (2014)<br>
+3.2 beds/1,000 population (2013)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.9% of population<br>
@@ -275,7 +275,7 @@ _municipal solid waste recycled annually_: 2,201,169 tons (2014 est.)<br>
 _percent of municipal solid waste recycled_: 23% (2014 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, Laos, Thailand, Cambodia, and China) - 4,350 km; Pearl (shared with China) - 2,200 km; Red (shared with China) - 1,149 km<br>
+Mekong river mouth (shared with China [s], Burma, Laos, Thailand, Cambodia) - 4,350 km; Pearl river source (shared with China [m]) - 2,200 km; Red river mouth (shared with China [s]) - 1,149 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -609,7 +609,7 @@ _total subscriptions_: 136,230,406<br>
 _subscriptions per 100 inhabitants_: 135.32 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>though communist, government plans to partially privatize the state’s holdings in telecom companies; competition is thriving in the telecom market place and driving e-commerce; mobile dominates over fixed-line; FttH market is growing; government is the driving force for growth with aims of commercializing 5G services with test licenses; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers, and security-monitoring centers (2020)</p> (2020)<br>
+_general assessment_: though communist, government plans to partially privatize the state&rsquo;s holdings in telecom companies; competition is thriving in the telecom market place and driving e-commerce; mobile dominates over fixed-line; FttH market is growing; government is the driving force for growth with aims of commercializing 5G services with test licenses; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers, and security-monitoring centers (2020)<br>
 _domestic_: all provincial exchanges are digitalized and connected to Hanoi, Da Nang, and Ho Chi Minh City by fiber-optic cable or microwave radio relay networks; main lines have been increased, and the use of mobile telephones is growing rapidly; fixed-line 4 per 100 and mobile-cellular 141 per 100 (2019)<br>
 _international_: country code - 84; landing points for the SeaMeWe-3,&nbsp;APG, SJC2, AAE-1, AAG and the TGN-IA submarine cable system providing connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, and the US; satellite earth stations - 2 Intersputnik (Indian Ocean region) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -675,8 +675,8 @@ _unpaved_: 47,130 km (2013)<br>
 47,130 km (30,831 km weight under 50 tons) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,909<br>
-_by type_: bulk carrier 102, container ship 40, general cargo 1,196, oil tanker 121, other 450 (2020)<br>
+_total_: 1,926<br>
+_by type_: bulk carrier 116, container ship 41, general cargo 1,193, oil tanker 125, other 451 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Cam Pha Port, Da Nang, Haiphong, Phu My, Quy Nhon<br>
@@ -686,7 +686,8 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security; Vietnam Civil Defense Force (2021)<br>
+People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2021)<br>
+note(s) - the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units; the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
@@ -699,13 +700,13 @@ People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, 
 information is limited and estimates of the size of the People&rsquo;s Army of Vietnam (PAVN) vary; approximately 470,000 active duty troops (400,000 ground; 40,000 naval; 30,000 air); est. 40,000 Border Defense Force and Coast Guard (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, South Korea, and Ukraine (2020)<br>
+the PAVN is armed largely with weapons and equipment from Russia and the former Soviet Union; Russia remains the main supplier of newer PAVN military equipment, although in recent years Vietnam has begun diversifying its procurement with purchases from other countries including Belarus, India, Israel, South Korea, and Ukraine; Vietnam has a limited defense industry (2020)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; the number of reported incidents increased from two in 2019 to four in 2020, primarily near the port of Vung Tau<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2019)<br>
+18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2020)<br>
 
 **Military - note**<br>
 <p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances</p><br>
@@ -723,5 +724,5 @@ _current situation_: human traffickers exploit domestic and foreign victims in V
 _tier rating_: Tier 2 Watch List —<strong> </strong>Vietnam does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; efforts include providing trafficking victims the right to legal representation in judicial proceedings, increasing the amount of shelter time for victims by one month, providing financial support, continuing large-scale awareness campaigns in vulnerable communities and to workers going overseas, and training law enforcement; however, fewer victims were identified or assisted and procedures remained slow and ineffective; provincial officials unfamiliar with anti-trafficking law impede anti-trafficking efforts; labor recruitment firms extorted illegal high fees from workers looking for overseas employment putting them at risk for forced labor; no investigations, prosecutions, or convictions of officials complicit in trafficking offenses were made (2020)<br>
 
 **Illicit drugs**<br>
-transshipment point for transnational criminal organizations (TCOs) trafficking traffic heroin, crystal methamphetamine, and ketamine throughout East Asia and the Pacific; approximately 90% of the illicit drugs in the country originate in Laos, Burma, and Thailand<br>
+transshipment point for transnational criminal organizations (TCOs) trafficking heroin, crystal methamphetamine, and ketamine throughout East Asia and the Pacific; approximately 90% of the illicit drugs in the country originate in Laos, Burma, and Thailand<br>
 

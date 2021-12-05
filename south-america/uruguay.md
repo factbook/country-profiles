@@ -68,7 +68,7 @@ _other_: 2.6% (2018 est.)<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Bolivia) - 4,880 km; Uruguay (shared with Brazil and Argentina) - 1,610 km<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -224,14 +224,14 @@ _male_: 98.5%<br>
 _female_: 99% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
-_male_: NA<br>
-_female_: NA (2017)<br>
+_total_: 19 years<br>
+_male_: 17 years<br>
+_female_: 20 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 28.7%<br>
-_male_: 24.8%<br>
-_female_: 33.9% (2019 est.)<br>
+_total_: 33.5%<br>
+_male_: 29.4%<br>
+_female_: 38.8% (2020 est.)<br>
 
 ## Environment
 
@@ -277,7 +277,7 @@ _percent of municipal solid waste recycled_: 8% (2011 est.)<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Brazil) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Bolivia) - 4,880 km; Uruguay (shared with Brazil and Argentina) - 1,610 km<br>
+Rio de la Plata/Parana river mouth (shared with Brazil [s], Argentina, Paraguay) - 4,880 km; Uruguay river mouth (shared with Brazil [s] and Argentina) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major aquifers**<br>
 Guarani Aquifer System<br>
@@ -610,7 +610,7 @@ _total subscriptions_: 4,779,787<br>
 _subscriptions per 100 inhabitants_: 141.39 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fully digitized; high computer use and fixed-line/mobile penetrations; deployment of fiber infrastructure will encourage economic growth and stimulate e-commerce; state-owned monopoly on fixed-line market and dominance of mobile market; nationwide 3G coverage and LTE networks; limited 5G commercial reach; strong focus on fiber infrastructure with high percentage of residential fixed-broadband connections and near total business connections; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fully digitized; high computer use and fixed-line/mobile penetrations; deployment of fiber infrastructure will encourage economic growth and stimulate e-commerce; state-owned monopoly on fixed-line market and dominance of mobile market; nationwide 3G coverage and LTE networks; limited 5G commercial reach; strong focus on fiber infrastructure with high percentage of residential fixed-broadband connections and near total business connections; importer of broadcasting equipment from China (2020)<br>
 _domestic_: most modern facilities concentrated in Montevideo; nationwide microwave radio relay network; overall fixed-line 34 per 100 and mobile-cellular teledensity 138 per 100 persons (2019)<br>
 _international_: country code - 598; landing points for the Unisor, Tannat, and Bicentenario&nbsp;submarine cable system providing direct connectivity to Brazil and Argentina; Bicentenario 2012 and Tannat&nbsp;2017 cables helped end-users with Internet bandwidth; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -670,8 +670,8 @@ _unpaved_: 69,989 km (2010)<br>
 1,600 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 60<br>
-_by type_: &nbsp;container ship 1, general cargo 5, oil tanker 3, other 51 (2020)<br>
+_total_: 61<br>
+_by type_: container ship 1, general cargo 4, oil tanker 4, other 52 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Montevideo<br>

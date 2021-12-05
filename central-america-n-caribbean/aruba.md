@@ -564,6 +564,10 @@ _2,438 to 3,047 m_: 1 (2019)<br>
 **Roadways**<br>
 _total_: 1,000 km (2010)<br>
 
+**Merchant marine**<br>
+_total_: 1<br>
+_by type_: other 1 (2021)<br>
+
 **Ports and terminals**<br>
 _major seaport(s)_: Barcadera, Oranjestad<br>
 _oil terminal(s)_: Sint Nicolaas<br>

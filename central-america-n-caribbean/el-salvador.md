@@ -226,7 +226,7 @@ _male_: 12 years<br>
 _female_: 12 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 9.9%<br>
+_total_: 10%<br>
 _male_: 8.3%<br>
 _female_: 12.8% (2019)<br>
 
@@ -592,15 +592,15 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 882,498<br>
-_subscriptions per 100 inhabitants_: 13.73 (2019 est.)<br>
+_total subscriptions_: 893,630 (2019)<br>
+_subscriptions per 100 inhabitants_: 13.85 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,442,667<br>
-_subscriptions per 100 inhabitants_: 146.91 (2019 est.)<br>
+_total subscriptions_: 10,396,786<br>
+_subscriptions per 100 inhabitants_: 161.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>El Salvador’s telecom sector is challenged by low population, poor infrastructure, and unequal income distribution compounded by corruption and criminal influence; liberal regulation promotes mobile penetration in replacement of fixed-line density; operators testing 5G in 2020 (2020)</p> (2020)<br>
+_general assessment_: El Salvador&rsquo;s telecom sector is challenged by low population, poor infrastructure, and unequal income distribution compounded by corruption and criminal influence; liberal regulation promotes mobile penetration in replacement of fixed-line density; operators testing 5G in 2020 (2020)<br>
 _domestic_: growth in fixed-line services 14 per 100, has slowed in the face of mobile-cellular competition at 147 per 100 (2019)<br>
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -616,8 +616,8 @@ _total_: 2,153,776<br>
 _percent of population_: 33.82% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 492,265<br>
-_subscriptions per 100 inhabitants_: 8 (2018 est.)<br>
+_total_: 525,088 (2019)<br>
+_subscriptions per 100 inhabitants_: 8.14 (2019 est.)<br>
 
 ## Transportation
 
@@ -663,7 +663,7 @@ _unpaved_: 3,671 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: other 2 (2020)<br>
+_by type_: other 2 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Puerto Cutuco<br>
@@ -673,6 +673,7 @@ _oil terminal(s)_: Acajutla offshore terminal<br>
 
 **Military and security forces**<br>
 the Armed Force of El Salvador (La Fuerza Armada de El Salvador, FAES): Army of El Salvador (Ejercito de El Salvador, ES), Navy of El Salvador (Fuerza Naval de El Salvador, FNES), Salvadoran Air Force (Fuerza Aerea Salvadorena, FAS); Ministry of Justice and Public Security: National Civil Police (Policia Nacional Civil, PNC) (2021)<br>
+note - in 2016, El Salvador created a 1,000-strong combined Army commando and special police unit to combat criminal gang violence<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>
@@ -694,7 +695,7 @@ the FAES is dependent on a mix of mostly older imported platforms, largely from 
 18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2019)<br>
 
 **Military - note**<br>
-as of 2021 about half of the Army was reportedly deployed on internal security duties to support the National Police with combating gang violence, organized crime, and narcotics trafficking, as well as assisting with border security<br>
+<p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; Salvadoran presidents have deployed military troops for internal security duties for years, and President BUKELE has continued the tradition; in November 2019, he signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2021, about half of the Army was reportedly deployed in support of the National Police</p><br>
 
 ## Transnational Issues
 

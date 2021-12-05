@@ -61,9 +61,6 @@ _other_: 0.9% (2018 est.)<br>
 **Irrigated land**<br>
 320 sq km (2012)<br>
 
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, Nepal, Bangladesh, and China) - 3,969 km<br>
-
 **Natural hazards**<br>
 violent storms from the Himalayas are the source of the country's Bhutanese name, which translates as Land of the Thunder Dragon; frequent landslides during the rainy season<br>
 
@@ -205,7 +202,7 @@ _female_: 57.1% (2017)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 14 years (2018)<br>
+_female_: 13 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 10.7%<br>
@@ -251,9 +248,6 @@ _coal revenues_: 0% of GDP (2018 est.)<br>
 _municipal solid waste generated annually_: 111,314 tons (2007 est.)<br>
 _municipal solid waste recycled annually_: 957 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 0.9% (2016 est.)<br>
-
-**Major rivers (by length in km)**<br>
-Brahmaputra (shared with India, Nepal, Bangladesh, and China) - 3,969 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 17 million cubic meters (2017 est.)<br>
@@ -558,12 +552,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 21,581<br>
-_subscriptions per 100 inhabitants_: 2.57 (2019 est.)<br>
+_total subscriptions_: 22,987 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.98 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 729,239<br>
-_subscriptions per 100 inhabitants_: 86.79 (2019 est.)<br>
+_total subscriptions_: 745,137<br>
+_subscriptions per 100 inhabitants_: 96.57 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bhutan’s telecom market is dominated by the mobile sector for voice and data connections due to poor fixed-line infrastructure and topographic issues; investment is focused on mobile infrastructure and an emergency telecom network for natural disasters; extended LTE to 60% of all mobile Internet users; regulator developing 5G plan; international communication through landline and microwave relay; nascent satellite service; importer of broadcast equipment from India </p> (2021)<br>
@@ -582,8 +576,8 @@ _total_: 368,714<br>
 _percent of population_: 48.11% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,774<br>
-_subscriptions per 100 inhabitants_: 1.04 (2019 est.)<br>
+_total_: 2,139 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 

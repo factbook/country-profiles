@@ -74,7 +74,7 @@ _other_: 18.1% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -199,7 +199,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.27 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-6 beds/1,000 population (2017)<br>
+5.9 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -232,13 +232,13 @@ NA<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 16 years (2018)<br>
+_male_: 15 years<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 19.6%<br>
-_male_: 20.8%<br>
-_female_: 18.2% (2019 est.)<br>
+_total_: 20.2%<br>
+_male_: 20.3%<br>
+_female_: 19.9% (2020 est.)<br>
 
 ## Environment
 
@@ -286,7 +286,7 @@ _percent of municipal solid waste recycled_: 22.3% (2015 est.)<br>
 _Fresh water lake(s)_: Lake Geneva (shared with Switzerland) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Rhine  (shared with Switzerland [s], Germany, and Netherlands [m]) - 1,233 km;  Loire - 1,012 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Loire (115,282 sq km), Seine 78,919 sq km), Rhine-Maas (198,735 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -624,15 +624,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 37.797 million<br>
-_subscriptions per 100 inhabitants_: 55.89 (2019 est.)<br>
+_total subscriptions_: 37.759 million (2020)<br>
+_subscriptions per 100 inhabitants_: 57.85 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 72.04 million<br>
-_subscriptions per 100 inhabitants_: 106.53 (2019 est.)<br>
+_total subscriptions_: 72.751 million (2020)<br>
+_subscriptions per 100 inhabitants_: 111.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the largest mobile phone markets in Europe; LTE has universal coverage with extensive 5G; one of the largest broadband subscriber bases in Europe; regional government and telecom companies have invested in higher bandwidth with fiber infrastructure improvements, an investment of more than 20 billion euros; operator investment in developing markets, and on the greater use of artificial intelligence and data; satellite broadband connectivity across France; Paris adopted smart city technology; importer of broadcast equipment from China (2021)</p> (2020)<br>
+_general assessment_: one of the largest mobile phone markets in Europe; LTE has universal coverage with extensive 5G; one of the largest broadband subscriber bases in Europe; regional government and telecom companies have invested in higher bandwidth with fiber infrastructure improvements, an investment of more than 20 billion euros; operator investment in developing markets, and on the greater use of artificial intelligence and data; satellite broadband connectivity across France; Paris adopted smart city technology; importer of broadcast equipment from China (2020)<br>
 _domestic_: 58 per 100 persons for fixed-line and 111 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 33;&nbsp;landing points for Circe South, TAT-14, INGRID, FLAG Atlantic-1, Apollo, HUGO, IFC-1, ACE, SeaMeWe-3 &amp; 4, Dunant, Africa-1, AAE-1, Atlas Offshore, Hawk, IMEWE, Med Cable, PEACE Cable, and TE&nbsp;North/TGN-Eurasia/SEACOM/Alexandros/Medex&nbsp;submarine cables providing links throughout Europe, Asia, Australia, the Middle East,&nbsp;Southeast Asia, Africa&nbsp;and US; satellite earth stations - more than 3 (2 Intelsat (with total of 5 antennas - 2 for Indian Ocean and 3 for Atlantic Ocean), NA Eutelsat, 1 Inmarsat - Atlantic Ocean region); HF radiotelephone communications with more than 20 countries (2019)<br>
 _overseas departments_: country codes: French Guiana - 594; landing points for Ella Link, Kanawa, Americas II to South America, Europe, Caribbean and US; Guadeloupe - 590; landing points for GCN, Southern Caribbean Fiber, and&nbsp;ECFS&nbsp;around the Caribbean and&nbsp;US;&nbsp;Martinique - 596; landing points for Americas II, ECFS, and Southern Caribbean Fiber to South America, US and around the Caribbean; &nbsp;Mayotte - 262; landing points for FLY-LION3 and LION2 to&nbsp;East Africa and East African Islands in Indian Ocean;&nbsp;Reunion - 262; landing points for SAFE, METISS, and LION submarine cables to Asia, South and East Africa, Southeast Asia and nearby Indian Ocean Island countries of Mauritius, and Madagascar (2019)<br>
@@ -649,8 +649,8 @@ _total_: 55,265,718<br>
 _percent of population_: 82.04% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 29.76 million<br>
-_subscriptions per 100 inhabitants_: 44.01 (2019 est.)<br>
+_total_: 30.627 million (2020)<br>
+_subscriptions per 100 inhabitants_: 46.92 (2020 est.)<br>
 
 ## Transportation
 
@@ -700,8 +700,8 @@ _non-urban_: 399,014 km (2011)<br>
 <strong>metropolitan France:</strong> 8,501 km (1,621 km navigable by craft up to 3,000 metric tons) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 545<br>
-_by type_: container ship 30, general cargo 50, oil tanker 28, other 437 (2020)<br>
+_total_: 548<br>
+_by type_: container ship 29, general cargo 50, oil tanker 28, other 441 (2021)<br>
 <strong>note:</strong> includes Monaco<br>
 
 **Ports and terminals**<br>

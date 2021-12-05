@@ -61,11 +61,11 @@ _other_: 13.6% (2018 est.)<br>
 **Irrigated land**<br>
 1,140 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Dnieper (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Dnieper (shared with Russia and Ukraine) - 2,287 km; Vistula (shared with Poland and Ukraine) - 1,213 km<br>
 
 **Population distribution**<br>
 a fairly even distribution throughout most of the country, with urban areas attracting larger and denser populations<br>
@@ -224,9 +224,9 @@ _male_: 15 years<br>
 _female_: 16 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10.2%<br>
-_male_: 12.9%<br>
-_female_: 7.3% (2019 est.)<br>
+_total_: 12.4%<br>
+_male_: 14.3%<br>
+_female_: 10.2% (2020 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _municipal solid waste recycled annually_: 684,800 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 16% (2016 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Dnieper (shared with Russia and Ukraine) - 2,287 km; Vistula (shared with Poland and Ukraine) - 1,213 km<br>
+Dnieper (shared with Russia [s] and Ukraine [m]) - 2,287 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea) </em>Dnieper (533,966 sq km)<br>
@@ -670,7 +670,7 @@ _total_: 86,600 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 4<br>
-_by type_: other 4 (2020)<br>
+_by type_: other 4 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mazyr (Prypyats')<br>

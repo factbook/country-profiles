@@ -180,14 +180,14 @@ _male_: 98.2%<br>
 _female_: 95% (2016)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
+_total_: 17 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2019)<br>
+_female_: 18 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 4.9%<br>
-_male_: 5.5%<br>
-_female_: 4.2% (2019 est.)<br>
+_total_: 8.1%<br>
+_male_: 9.9%<br>
+_female_: 6.4% (2020 est.)<br>
 
 ## Environment
 
@@ -512,15 +512,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 119,355<br>
-_subscriptions per 100 inhabitants_: 19.55 (2019 est.)<br>
+_total subscriptions_: 123,469 (2018)<br>
+_subscriptions per 100 inhabitants_: 19.55 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,108,274<br>
-_subscriptions per 100 inhabitants_: 345.33 (2019 est.)<br>
+_total subscriptions_: 2,181,194 (2018)<br>
+_subscriptions per 100 inhabitants_: 345.3 (2018 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Macau’s sophisticated telecom market boasts one of the highest mobile penetration rates in the world due to high tourism; liberalized market is managed by independent regulator with effective competition in the mobile market; modern communication facilities maintained for domestic and international services; high mobile subscriber numbers and mobile penetration; offering 4G, LTE services and first phase of 5G network rollout; possible synchronizing with neighboring regions; Macau's smart city project spans areas of transportation, medical services, tourism, and e-government; importer of broadcast and video equipment from China (2021)</p> (2020)<br>
+_general assessment_: Macau&rsquo;s sophisticated telecom market boasts one of the highest mobile penetration rates in the world due to high tourism; liberalized market is managed by independent regulator with effective competition in the mobile market; modern communication facilities maintained for domestic and international services; high mobile subscriber numbers and mobile penetration; offering 4G, LTE services and first phase of 5G network rollout; possible synchronizing with neighboring regions; Macau's smart city project spans areas of transportation, medical services, tourism, and e-government; importer of broadcast and video equipment from China (2020)<br>
 _domestic_: fixed-line 20 per 100 and mobile-cellular 345 per 100 persons (2019)<br>
 _international_: country code - 853; landing point for the SEA-ME-WE-3 submarine cable network that provides links to Asia, Africa, Australia, the Middle East, and Europe; HF radiotelephone communication facility; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -536,8 +536,8 @@ _total_: 508,052<br>
 _percent of population_: 83.79% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 193,057<br>
-_subscriptions per 100 inhabitants_: 32 (2018 est.)<br>
+_total_: 193,057 (2018)<br>
+_subscriptions per 100 inhabitants_: 29.88 (2019 est.)<br>
 
 ## Transportation
 
@@ -566,7 +566,7 @@ _paved_: 428 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: other 1 (2020)<br>
+_by type_: other 1 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Macau<br>

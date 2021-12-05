@@ -66,7 +66,7 @@ _other_: 80% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -281,7 +281,7 @@ _municipal solid waste generated annually_: 13.14 million tons (2015 est.)<br>
 _Fresh water lake(s)_: Lake Hammar - 1,940 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates river mouth (shared with Turkey[s], Syria, and Iran) - 3,596 km; Tigris river mouth (shared with Turkey[s], Syria, and Iran) - 1,950 km; the Tigris and Euphrates join to form the Shatt al Arab<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -606,15 +606,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,859,094<br>
-_subscriptions per 100 inhabitants_: 7.52 (2019 est.)<br>
+_total subscriptions_: 4,166,461 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 37,224,759<br>
-_subscriptions per 100 inhabitants_: 97.96 (2019 est.)<br>
+_total subscriptions_: 36,946,600 (2020)<br>
+_subscriptions per 100 inhabitants_: 91.86 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>the 2003 liberation of Iraq severely disrupted telecommunications throughout the country; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; recent efforts create stability and developments in 4G and 5G technologies; operators focus on installations of new fiber-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid; operators focused on fixing and replacing networks (2020)</p> (2020)<br>
+_general assessment_: the 2003 liberation of Iraq severely disrupted telecommunications throughout the country; widespread government efforts to rebuild domestic and international communications have slowed due to political unrest; recent efforts create stability and developments in 4G and 5G technologies; operators focus on installations of new fiber-optic cables and growth in mobile broadband subscribers; the most popular plans are pre-paid; operators focused on fixing and replacing networks (2020)<br>
 _domestic_: the mobile cellular market continues to expand; 3G services offered by three major mobile operators; 4G offered by one operator in Iraqi; conflict has destroyed infrastructure in areas; 7 per 100 for fixed-line and 95 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 964; landing points for FALCON, and GBICS/MENA submarine cables providing connections to the Middle East, Africa and India; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Intersputnik - Atlantic Ocean region, and 1 Arabsat (inoperative)); local microwave radio relay connects border regions to Jordan, Kuwait, Syria, and Turkey (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -630,8 +630,8 @@ _total_: 18,364,390<br>
 _percent of population_: 49.36% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,559,053<br>
-_subscriptions per 100 inhabitants_: 12 (2019 est.)<br>
+_total_: 5,453,799 (2020)<br>
+_subscriptions per 100 inhabitants_: 13.56 (2020 est.)<br>
 
 ## Transportation
 
@@ -682,7 +682,7 @@ _paved_: 59,623 km (includes Kurdistan region) (2012)<br>
 
 **Merchant marine**<br>
 _total_: 68<br>
-_by type_: general cargo 1, oil tanker 6, other 61 (2020)<br>
+_by type_: general cargo 1, oil tanker 6, other 61 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az Zubayr waterway)<br>
@@ -690,7 +690,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br> <p>Ministry of Pershmerga (Kurdistan Regional Government): Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)</p> Popular Mobilization Commission and Affiliated Forces (PMC or PMF); a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br> <p>Ministry of Pershmerga (Kurdistan Regional Government): Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)</p> Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>
@@ -723,7 +723,7 @@ Ansar al-Islam; Asa'ib Ahl al-Haq; Islamic Revolutionary Guard Corps/Qods Force;
 <p>Iraq's lack of a maritime boundary with Iran prompts jurisdiction disputes beyond the mouth of the Shatt al Arab in the Persian Gulf; Turkey has expressed concern over the autonomous status of Kurds in Iraq</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 15,169 (Turkey), 7,868 (West Bank and Gaza Strip), 5,061 (Iran) (2020); 248,721 (Syria) (2021)<br>
+_refugees (country of origin)_: 15,169 (Turkey), 7,868 (West Bank and Gaza Strip), 5,061 (Iran) (2020); 250,419 (Syria) (2021)<br>
 _IDPs_: 1,198,940 (displacement in central and northern Iraq since January 2014) (2021)<br>
 _stateless persons_: 47,253 (2020); note - in the 1970s and 1980s under SADDAM Husayn's regime, thousands of Iraq's Faili Kurds, followers of Shia Islam, were stripped of their Iraqi citizenship, had their property seized by the government, and many were deported; some Faili Kurds had their citizenship reinstated under the 2,006 Iraqi Nationality Law, but others lack the documentation to prove their Iraqi origins; some Palestinian refugees persecuted by the SADDAM regime remain stateless<br>
 <strong>note:</strong> estimate revised to reflect the reduction of statelessness in line with Law 26 of 2006, which allows stateless persons to apply for nationality in certain circumstances; more accurate studies of statelessness in Iraq are pending (2015)<br>

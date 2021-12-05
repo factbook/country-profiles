@@ -217,7 +217,7 @@ _abbreviation_: CNMI<br>
 _etymology_: formally claimed and named by Spain in 1667 in honor of the Spanish Queen, MARIANA of Austria<br>
 
 **Government type**<br>
-republican form of government with separate executive, legislative, and judicial branches; a commonwealth in political union with and under the sovereignty of the US<br>
+a commonwealth in political union with and under the sovereignty of the US; republican form of government with separate executive, legislative, and judicial branches<br>
 
 **Dependency status**<br>
 commonwealth in political union with and under the sovereignty of&nbsp;the US; federal funds to the Commonwealth administered by the US Department of the Interior, Office of Insular Affairs<br>

@@ -63,7 +63,7 @@ _other_: 15.4% (2018 est.)<br>
 950 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -235,9 +235,9 @@ _male_: 10 years<br>
 _female_: 8 years (2014)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 1%<br>
-_male_: 1.5%<br>
-_female_: 0.6% (2012 est.)<br>
+_total_: 7.1%<br>
+_male_: 6.1%<br>
+_female_: 7.9% (2019 est.)<br>
 
 ## Environment
 
@@ -292,7 +292,7 @@ _municipal solid waste recycled annually_: 29,846 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 5% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Niger river source (shared with Mali, and Nigeria [m]) - 4,200 km; Gambia river source (shared with Senegal and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km), Senegal (456,397 sq km)<br>
@@ -628,15 +628,15 @@ _electrification - rural areas_: 24% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 0<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total subscriptions_: 0 (2018)<br>
+_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12.873 million<br>
-_subscriptions per 100 inhabitants_: 105.63 (2019 est.)<br>
+_total subscriptions_: 12.873 million (2019)<br>
+_subscriptions per 100 inhabitants_: 100.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Guinea’s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Guinea&rsquo;s mobile subscribership growing through investment of South African telecom operators and Chinese Huawei management; m-transactions supported commerce; broadband still limited and expensive though submarine cable and IXP improved reliability of infrastructure; 4G Wi-Fi in the capital; National Backbone Network will connect regional administrative centers; ECOWAS countries to launch free roaming; importer of broadcasting equipment from China (2020)<br>
 _domestic_: there is national coverage and Conakry is reasonably well-served; coverage elsewhere remains inadequate but is improving; fixed-line teledensity is&nbsp;less than 1 per 100 persons; mobile-cellular subscribership is expanding rapidly and now&nbsp;101 per 100 persons (2019)<br>
 _international_: country code - 224; ACE submarine cable connecting Guinea with 20 landing points in Western and South Africa and Europe; satellite earth station - 1 Intelsat (Atlantic Ocean (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -652,8 +652,8 @@ _total_: 2,133,974<br>
 _percent of population_: 18% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,250<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 1,250 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -689,7 +689,7 @@ _unpaved_: 40,955 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 2<br>
-_by type_: other 2 (2020)<br>
+_by type_: other 2 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Conakry, Kamsar<br>
@@ -718,6 +718,9 @@ the inventory of the Guinean military consists largely of ageing and outdated (m
 
 **Military service age and obligation**<br>
 no compulsory military service (2021)<br>
+
+**Military - note**<br>
+<p>the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats</p><br>
 
 ## Transnational Issues
 

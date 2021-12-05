@@ -605,8 +605,8 @@ _paved_: 1,620 km (2011)<br>
 _unpaved_: 1,080 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 1,381<br>
-_by type_: bulk carrier 345, container ship 53, general cargo 70, oil tanker 240, other 673 (2020)<br>
+_total_: 1,323<br>
+_by type_: bulk carrier 333, container ship 45, general cargo 64, oil tanker 224, other 657 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Freeport, Nassau, South Riding Point<br>
@@ -632,6 +632,9 @@ most of the RBDF's major equipment inventory is supplied by the Netherlands (202
 
 **Military service age and obligation**<br>
 18 years of age for voluntary male and female service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US </p><br>
 
 ## Transnational Issues
 

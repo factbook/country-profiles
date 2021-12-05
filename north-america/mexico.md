@@ -68,6 +68,9 @@ _other_: 11.8% (2018 est.)<br>
 _Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
 _Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
 
+**Major rivers (by length in km)**<br>
+Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
 
@@ -189,7 +192,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.38 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-1.5 beds/1,000 population (2015)<br>
+1 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.3% of population<br>
@@ -232,12 +235,12 @@ _female_: 94.5% (2020)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 7.2%<br>
-_male_: 6.7%<br>
-_female_: 8% (2019 est.)<br>
+_total_: 8.1%<br>
+_male_: 7.8%<br>
+_female_: 8.7% (2020 est.)<br>
 
 ## Environment
 
@@ -289,6 +292,9 @@ _percent of municipal solid waste recycled_: 5% (2013 est.)<br>
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Laguna de Chapala - 1,140 sq km<br>
 _Salt water lake(s)_: Laguna de Terminos - 1,550 sq km<br>
+
+**Major rivers (by length in km)**<br>
+Rio Grande river mouth (shared with US [s]) - 3,057 km; Colorado river mouth (shared with US [s]) - 2,333 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Gulf of Mexico)</em> Rio Grande/Bravo (607,965 sq km)<br>Pacific Ocean drainage: <em>(Gulf of California)</em> Colorado (703,148 sq km)<br>
@@ -623,15 +629,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22,717,180<br>
-_subscriptions per 100 inhabitants_: 17.82 (2019 est.)<br>
+_total subscriptions_: 23,800,105 (2020)<br>
+_subscriptions per 100 inhabitants_: 18.46 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 122,040,789<br>
-_subscriptions per 100 inhabitants_: 95.75 (2019 est.)<br>
+_total subscriptions_: 120,481,969 (2020)<br>
+_subscriptions per 100 inhabitants_: 93.45 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>with a large population and relatively low broadband and mobile penetration, Mexico’s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow given the existing capabilities of LTE; IXP in Mexico City; exporter of computers and broadcasting equipment to USA, and importer of same from China (2021)</p> (2020)<br>
+_general assessment_: with a large population and relatively low broadband and mobile penetration, Mexico&rsquo;s telecom sector has potential for growth; adequate telephone service for business and government; improving quality and increasing mobile cellular availability, with mobile subscribers far outnumbering fixed-line subscribers; relatively low broadband and mobile penetration, potential for growth and international investment; extensive microwave radio relay network; considerable use of fiber-optic cable and coaxial cable; 5G development slow given the existing capabilities of LTE; IXP in Mexico City; exporter of computers and broadcasting equipment to USA, and importer of same from China (2020)<br>
 _domestic_: competition has spurred the mobile-cellular market; fixed-line teledensity exceeds 18 per 100 persons; mobile-cellular teledensity is about 95 per 100 persons; domestic satellite system with 120 earth stations (2019)<br>
 _international_: country code - 52; Columbus-2 fiber-optic submarine cable with access to the US, Virgin Islands, Canary Islands, Spain, and Italy; the ARCOS-1 and the MAYA-1 submarine cable system together provide access to Central America, parts of South America and the Caribbean, and the US; satellite earth stations - 120 (32 Intelsat, 2 Solidaridad (giving Mexico improved access to South America, Central America, and much of the US as well as enhancing domestic communications), 1 Panamsat, numerous Inmarsat mobile earth stations); linked to Central American Microwave System of trunk connections (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -647,8 +653,8 @@ _total_: 82,843,369<br>
 _percent of population_: 65.77% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,354,980<br>
-_subscriptions per 100 inhabitants_: 15.19 (2019 est.)<br>
+_total_: 21,206,911 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.45 (2020 est.)<br>
 
 ## Transportation
 
@@ -699,8 +705,8 @@ _unpaved_: 223,237 km (2017)<br>
 2,900 km (navigable rivers and coastal canals mostly connected with ports on the country's east coast) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 668<br>
-_by type_: bulk carrier 6, general cargo 10, oil tanker 34, other 618 (2020)<br>
+_total_: 671<br>
+_by type_: container ship 1, bulk carrier 4, general cargo 11, oil tanker 31, other 624 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Altamira, Coatzacoalcos, Lazaro Cardenas, Manzanillo, Veracruz<br>
@@ -712,8 +718,8 @@ _LNG terminal(s) (import)_: Altamira, Ensenada<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Ministry of Security and Citizen Protection: Federal Police (includes Gendarmerie), National Guard (2021)<br>
-note: the National Guard was formed in 2019 and consists of personnel from the Federal Police and military police units of the Army and Navy; while the Guard is part of the civilian-led Ministry of Security and Citizen Protection, the Defense Ministry has day-to-day operational control; in addition, the armed forces provide the commanders and the training<br>
+Secretariat of National Defense (Secretaria de Defensa Nacional, SEDENA): Army (Ejercito), Mexican Air Force (Fuerza Aerea Mexicana, FAM); Secretariat of the Navy (Secretaria de Marina, SEMAR): Mexican Navy (Armada de Mexico (ARM), includes Naval Air Force (FAN), Mexican Naval Infantry Corps (Cuerpo de Infanteria de Marina, Mexmar or CIM)); Secretariat of Public Security and Civil Protection: National Guard (2021)<br>
+note - the National Guard was formed in 2019 and consists of personnel from the former Federal Police (disbanded in December 2019) and military police units of the Army and Navy; while the Guard is part of the civilian-led Secretariat of Public Security and Civil Protection, the Secretariat of National Defense has day-to-day operational control; in addition, the armed forces provide the commanders and the training; the Guard, along with state and municipal police are responsible for enforcing the law and maintaining order<br>
 
 **Military expenditures**<br>
 0.6% of GDP (2020 est.)<br>
@@ -732,7 +738,7 @@ the Mexican military inventory includes a mix of domestically-produced and impor
 18 years of age for compulsory military service for males (selection for service determined by lottery); conscript service obligation is 12 months; conscripts remain in reserve status until the age of 40; 16 years of age with consent for voluntary enlistment; cadets enrolled in military schools from the age of 15 are considered members of the armed forces; women are eligible for voluntary military service (2019)<br>
 
 **Military - note**<br>
-the Mexican military under President LOPEZ OBRADOR has expanded its role in public security duties and other tasks; as of 2021, Mexican military operations were focused primarily on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs some 2,700 branches of a state-owned bank<br>
+the constitution was amended in 2019 to grant the president the authority to use the armed forces to protect internal and national security, and courts have upheld the legality of the armed forces&rsquo; role in law enforcement activities in support of civilian authorities through 2024; under these authorities, President LOPEZ OBRADOR has expanded the Mexican military's role in public security duties and other internal tasks; as of 2021, Mexican military operations were heavily focused on internal security duties, particularly in countering drug cartels and organized crime groups, as well as border control and immigration enforcement; in addition, the military has been placed in charge of some infrastructure projects, such as building a new airport for Mexico City and sections of a train line in the country&rsquo;s southeast; in mid-2020, the armed forces were directed to administer the country&rsquo;s land and sea ports and customs services in order to fight crime and corruption; the military also runs approximately 2,700 branches of a state-owned bank<br>
 
 ## Transnational Issues
 
@@ -745,5 +751,5 @@ _IDPs_: 357,000 (government's quashing of Zapatista uprising in 1994 in eastern 
 _stateless persons_: 13 (2020)<br>
 
 **Illicit drugs**<br>
-<p>major source and transit country for heroin, marijuana, methamphetamine, and illicit synthetic including fentanyl and counterfeit pills destined for the United States; main transit country for cocaine from South America, a transit route and destination for fentanyl and associated precursors originating from China</p><br>
+<p>major source and transit country for heroin, marijuana, methamphetamine, and illicit synthetic drugs including fentanyl and counterfeit pills destined for the United States; main transit country for cocaine from South America, a transit route and destination for fentanyl and associated precursors originating from China</p><br>
 

@@ -67,7 +67,7 @@ _other_: 17.1% (2018 est.)<br>
 _Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Papua New Guinea) - 1,126 km; Fly (shared with Papua New Guinea) - 1,050 km<br>
+Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Population distribution**<br>
 major concentration on the island of Java, which is considered one of the most densely populated places on earth; of the outer islands (those surrounding Java and Bali), Sumatra contains some of the most significant clusters, particularly in the south near the Selat Sunda, and along the northeastern coast near Medan; the cities of Makasar (Sulawesi), Banjarmasin (Kalimantan) are also heavily populated<br>
@@ -233,9 +233,9 @@ _male_: 14 years<br>
 _female_: 14 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 13.5%<br>
-_male_: 13.8%<br>
-_female_: 13.2% (2019 est.)<br>
+_total_: 14.8%<br>
+_male_: 15.1%<br>
+_female_: 14.3% (2020 est.)<br>
 
 ## Environment
 
@@ -287,7 +287,7 @@ _percent of municipal solid waste recycled_: 7% (2016 est.)<br>
 _Fresh water lake(s)_: Danau Toba - 1,150 sq km<br>note - located in the caldera of a super volcano that erupted more than 70,000 years ago; it is the largest volcanic lake in the World<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Papua New Guinea) - 1,126 km; Fly (shared with Papua New Guinea) - 1,050 km<br>
+Sepik (shared with Papua New Guinea [s]) - 1,126 km; Fly (shared with Papua New Guinea [s]) - 1,050 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Total water withdrawal**<br>
 _municipal_: 23.8 billion cubic meters (2017 est.)<br>
@@ -613,15 +613,15 @@ _electrification - rural areas_: 99% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 9,662,135<br>
-_subscriptions per 100 inhabitants_: 3.57 (2019 est.)<br>
+_total subscriptions_: 9,186,370 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.36 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 341,277,549<br>
-_subscriptions per 100 inhabitants_: 126.15 (2019 est.)<br>
+_total subscriptions_: 355,748,606 (2020)<br>
+_subscriptions per 100 inhabitants_: 130.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>with large population, disbursed island geography, and slow economic growth, Indonesia’s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2021)</p> (2020)<br>
+_general assessment_: with large population, disbursed island geography, and slow economic growth, Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
 _domestic_: fixed-line 4 per 100 and mobile-cellular 127 per 100 persons; coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly (2019)<br>
 _international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -637,8 +637,8 @@ _total_: 104,563,108<br>
 _percent of population_: 39.79% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,284,364<br>
-_subscriptions per 100 inhabitants_: 3.8 (2019 est.)<br>
+_total_: 10,713,107 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.92 (2020 est.)<br>
 
 ## Transportation
 
@@ -688,8 +688,8 @@ _unpaved_: 213,505 km (2011)<br>
 21,579 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 10,137<br>
-_by type_: bulk carrier 129, container ship 226, general cargo 2,213, oil tanker 643, other 6,926 (2020)<br>
+_total_: 10,427<br>
+_by type_: bulk carrier 148, container ship 226, general cargo 2,238, oil tanker 676, other 7,139 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Banjarmasin, Belawan, Kotabaru, Krueg Geukueh, Palembang, Panjang, Sungai Pakning, Tanjung Perak, Tanjung Priok<br>

@@ -61,18 +61,15 @@ _other_: 13.2% (2018 est.)<br>
 **Irrigated land**<br>
 3,000 sq km (2012)<br>
 
+**Major lakes (area sq km)**<br>
+_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
+_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
 
 **Major aquifers**<br>
 Amazon Basin<br>
-
-**Major lakes (area sq km)**<br>
-_Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
-_Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Uruguay) - 4,880 km;<br>
 
 **Population distribution**<br>
 a high altitude plain in the west between two cordillera of the Andes, known as the Altiplano, is the focal area for most of the population; a dense settlement pattern is also found in and around the city of Santa Cruz, located on the eastern side of the Andes<br>
@@ -233,9 +230,9 @@ _male_: 96.5%<br>
 _female_: 88.6% (2015)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.8%<br>
-_male_: 8.2%<br>
-_female_: 9.7% (2019 est.)<br>
+_total_: 16.1%<br>
+_male_: 15.7%<br>
+_female_: 16.6% (2020 est.)<br>
 
 ## Environment
 
@@ -285,9 +282,6 @@ _percent of municipal solid waste recycled_: 12.1% (2015 est.)<br>
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lago Titicaca (shared with Peru) - 8,030 sq km<br>
 _Salt water lake(s)_: Lago Poopo - 1,340 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Paraguay, and Uruguay) - 4,880 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Paran&aacute; (2,582,704 sq km)<br>
@@ -621,12 +615,12 @@ _electrification - rural areas_: 79% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 652,272<br>
-_subscriptions per 100 inhabitants_: 5.71 (2019 est.)<br>
+_total subscriptions_: 598,082 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,688,830<br>
-_subscriptions per 100 inhabitants_: 102.25 (2019 est.)<br>
+_total subscriptions_: 11,804,343 (2020)<br>
+_subscriptions per 100 inhabitants_: 101.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>with low national GDP and remote landlocked geography, Bolivia’s telecom services are historically expensive and neglected resulting in low penetration; fixed telecom market is provided by non-profit cooperatives focused on improvement of services such as broadband and paid TV services; some operators adopted fixed-wireless technologies and fiber-optic capacity; fixed broadband services migrating from DSL to fiber remain expensive and largely unavailable in many areas; historically relied on satellite services or terrestrial links and inaugurated a new cable running via Peru to the Pacific; operator aims to increase coverage through mobile networks for voice and data access, especially to rural areas; space agency plans to boost satellite-based Internet; in 2020, communications towers in Yapacani were destroyed due to pandemic conspiracy fears; importer of broadcasting equipment from China</p> (2021)<br>
@@ -645,8 +639,8 @@ _total_: 4,955,569<br>
 _percent of population_: 43.83% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 746,872<br>
-_subscriptions per 100 inhabitants_: 6.53 (2019 est.)<br>
+_total_: 931,918 (2020)<br>
+_subscriptions per 100 inhabitants_: 7.98 (2020 est.)<br>
 
 ## Transportation
 
@@ -693,8 +687,8 @@ _unpaved_: 80,776 km (2017)<br>
 10,000 km (commercially navigable almost exclusively in the northern and eastern parts of the country) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 42<br>
-_by type_: general cargo 27, oil tanker 1, other 14 (2020)<br>
+_total_: 45<br>
+_by type_: general cargo 29, oil tanker 2, other 14 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
@@ -721,6 +715,9 @@ the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chi
 
 **Military service age and obligation**<br>
 compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2019)<br>
+
+**Military - note**<br>
+<p>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss</p><br>
 
 ## Transnational Issues
 

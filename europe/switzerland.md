@@ -65,7 +65,7 @@ _other_: 29.8% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Germany, France, and Netherlands) - 1,233 km;&nbsp;&nbsp;<br>
+Rhine  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -185,7 +185,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.3 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-4.7 beds/1,000 population (2017)<br>
+4.6 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,14 +216,14 @@ NA<br>
 4.9% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 16 years<br>
+_total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 16 years (2018)<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8%<br>
-_male_: 8.8%<br>
-_female_: 7.2% (2019 est.)<br>
+_total_: 8.6%<br>
+_male_: 9.2%<br>
+_female_: 8% (2020 est.)<br>
 
 ## Environment
 
@@ -269,7 +269,7 @@ _percent of municipal solid waste recycled_: 32% (2015 est.)<br>
 _Fresh water lake(s)_: Lake Constance (shared with Germany and Austria) - 540 sq km; Lake Geneva (shared with France) - 580 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Rhine&nbsp; (shared with Germany, France, and Netherlands) - 1,233 km;&nbsp;&nbsp;<br>
+Rhine  river source (shared with Germany, France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km), <em>(Adriatic Sea)</em> Po (76,997 sq km), <em>(Mediterranean Sea) </em>Rhone (100,543 sq km)<br>
@@ -608,7 +608,7 @@ _total subscriptions_: 10,829,031<br>
 _subscriptions per 100 inhabitants_: 129.79 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Switzerland emerged as a European leader for 1Gb/s fiber broadband, complemented by 5G to 97% of the population; competitive market buttressed by regulator assurances of 5G-compatible network infrastructure; although not a member of the EU, Switzerland follows the EU's telecom framework and regulations; Zurich is being developed as a smart city (2021) (2020)<br>
+_general assessment_: Switzerland emerged as a European leader for 1Gb/s fiber broadband, complemented by 5G to 97% of the population; competitive market buttressed by regulator assurances of 5G-compatible network infrastructure; although not a member of the EU, Switzerland follows the EU's telecom framework and regulations; Zurich is being developed as a smart city (2020)<br>
 _domestic_: ranked among leading countries for fixed-line teledensity and infrastructure; fixed-line 36 per 100 and mobile-cellular subscribership 127 per 100 persons; extensive cable and microwave radio relay networks (2019)<br>
 _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -673,8 +673,8 @@ _paved_: 71,557 km (includes 1,458 of expressways) (2017)<br>
 1,292 km (there are 1,227 km of waterways on lakes and rivers for public transport and 65 km on the Rhine River between Basel-Rheinfelden and Schaffhausen-Bodensee for commercial goods transport) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 28<br>
-_by type_: bulk carrier 21, general cargo 3, oil tanker 1, other 3 (includes Liechtenstein) (2020)<br>
+_total_: 20<br>
+_by type_: bulk carrier 16, general cargo 1, other 3 (includes Liechtenstein) (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Basel (Rhine)<br>

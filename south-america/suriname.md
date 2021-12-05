@@ -590,7 +590,7 @@ _total subscriptions_: 813,844<br>
 _subscriptions per 100 inhabitants_: 134.9 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>smallest nation in South America with low population and client base; state-owned fixed-line tele-density rates and broadband services below regional average for Latin America and Caribbean; operator building out fiber network; mobile penetration is above regional average; fixed-line effective along the coastline yet poor in the interior; competition in the mobile sector; launch of 5G in Paramaribo; importer of broadcasting equipment from USA (2021)</p> (2020)<br>
+_general assessment_: smallest nation in South America with low population and client base; state-owned fixed-line tele-density rates and broadband services below regional average for Latin America and Caribbean; operator building out fiber network; mobile penetration is above regional average; fixed-line effective along the coastline yet poor in the interior; competition in the mobile sector; launch of 5G in Paramaribo; importer of broadcasting equipment from USA (2020)<br>
 _domestic_: fixed-line 16 per 100 and mobile-cellular teledensity 140 telephones per 100 persons; microwave radio relay network is in place (2019)<br>
 _international_: country code - 597; landing point for the SG-SCS submarine cable linking South America with the Caribbean; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -646,7 +646,7 @@ _unpaved_: 3,185 km (2003)<br>
 
 **Merchant marine**<br>
 _total_: 10<br>
-_by type_: general cargo 5, oil tanker 3, other 2 (2020)<br>
+_by type_: general cargo 5, oil tanker 3, other 2 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Paramaribo, Wageningen<br>
@@ -668,7 +668,7 @@ no figures available after 2017<br>
 the Suriname Army is comprised of approximately 1,800 active personnel (ground, air, naval, and military police) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from Colombia, France, India, and the US (2020)<br>
+the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2019)<br>

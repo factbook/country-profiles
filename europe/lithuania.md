@@ -178,7 +178,7 @@ _unimproved: total_: total: 2.5% of population (2017 est.)<br>
 6.35 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-6.6 beds/1,000 population (2017)<br>
+6.4 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.3% of population<br>
@@ -217,14 +217,14 @@ _male_: 99.8%<br>
 _female_: 99.8% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 17 years<br>
+_total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 11.9%<br>
-_male_: 14.1%<br>
-_female_: 9.3% (2019 est.)<br>
+_total_: 19.6%<br>
+_male_: 21.5%<br>
+_female_: 17.3% (2020 est.)<br>
 
 ## Environment
 
@@ -593,15 +593,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 368,213<br>
-_subscriptions per 100 inhabitants_: 13.3 (2019 est.)<br>
+_total subscriptions_: 322,108 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.83 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,658,823<br>
-_subscriptions per 100 inhabitants_: 168.29 (2019 est.)<br>
+_total subscriptions_: 4,742,427 (2020)<br>
+_subscriptions per 100 inhabitants_: 174.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Lithuania’s small telecom market is among the most advanced in Europe, with universal access to LTE, extensive fiber footprint, and tests of 5G; operators focus on data speeds; improved international capability and better residential access; high SIM card penetration; increased demand for high-speed Internet for education, entertainment, and shopping during pandemic supporting growth in revenue through fiber lines; importer of broadcast equipment and video displays from neighboring EU countries (2021)</p> (2020)<br>
+_general assessment_: Lithuania&rsquo;s small telecom market is among the most advanced in Europe, with universal access to LTE, extensive fiber footprint, and tests of 5G; operators focus on data speeds; improved international capability and better residential access; high SIM card penetration; increased demand for high-speed Internet for education, entertainment, and shopping during pandemic supporting growth in revenue through fiber lines; importer of broadcast equipment and video displays from neighboring EU countries (2020)<br>
 _domestic_: 13 per 100 for fixed-line subscriptions; rapid expansion of mobile-cellular services has resulted in a steady decline in the number of fixed-line connections; mobile-cellular teledensity stands at about 169 per 100 persons (2019)<br>
 _international_: country code - 370; landing points for the BCS East, BCS East-West Interlink and NordBalt connecting Lithuania to Sweden, and Latvia&nbsp;; further transmission by satellite; landline connections to Latvia and Poland (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -617,8 +617,8 @@ _total_: 2,226,806<br>
 _percent of population_: 79.72% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 791,826<br>
-_subscriptions per 100 inhabitants_: 28.6 (2019 est.)<br>
+_total_: 796,814 (2020)<br>
+_subscriptions per 100 inhabitants_: 29.27 (2020 est.)<br>
 
 ## Transportation
 
@@ -664,8 +664,8 @@ _unpaved_: 11,869 km (2012)<br>
 441 km (navigable year-round) (2007)<br>
 
 **Merchant marine**<br>
-_total_: 61<br>
-_by type_: container ship 4, general cargo 23, oil tanker 2, other 32 (2020)<br>
+_total_: 64<br>
+_by type_: container ship 4, general cargo 24, oil tanker 2, other 34 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Klaipeda<br>

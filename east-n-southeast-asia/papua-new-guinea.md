@@ -65,7 +65,7 @@ _other_: 34.3% (2018 est.)<br>
 0 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Indonesia) - 1,126 km; Fly (shared with Indonesia) - 1,050 km<br>
+Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
 
 **Population distribution**<br>
 population concentrated in the highlands and eastern coastal areas on the island of New Guinea; predominantly a rural distribution with only about one-fifth of the population residing in urban areas<br>
@@ -269,7 +269,7 @@ _municipal solid waste recycled annually_: 20,000 tons (2016 est.)<br>
 _percent of municipal solid waste recycled_: 2% (2016 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Sepik (shared with Indonesia) - 1,126 km; Fly (shared with Indonesia) - 1,050 km<br>
+Sepik river source and mouth (shared with Indonesia) - 1,126 km; Fly river source and mouth (shared with Indonesia) - 1,050 km<br>
 
 **Total water withdrawal**<br>
 _municipal_: 223.5 million cubic meters (2017 est.)<br>
@@ -586,15 +586,15 @@ _electrification - rural areas_: 55.4% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 133,593<br>
-_subscriptions per 100 inhabitants_: 1.87 (2019 est.)<br>
+_total subscriptions_: 158,000 (2017)<br>
+_subscriptions per 100 inhabitants_: 1.87 (2017 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,401,971<br>
-_subscriptions per 100 inhabitants_: 47.62 (2019 est.)<br>
+_total subscriptions_: 4.018 million (2017)<br>
+_subscriptions per 100 inhabitants_: 47.62 (2017 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2020)<br>
 _domestic_: access to telephone services is not widely available; fixed-line 2 per 100 and mobile-cellular 48 per 100 person, teledensity has increased (2019)<br>
 _international_: country code - 675; landing points for the Kumul Domestic Submarine Cable System, PNG-LNG, APNG-2, CSCS and the PPC-1&nbsp;submarine cables to Australia, Guam, PNG and Solomon Islands; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -610,7 +610,7 @@ _total_: 787,764<br>
 _percent of population_: 11.21% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 17,000<br>
+_total_: 18,000 (2017 est.)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
 
 ## Transportation
@@ -656,8 +656,8 @@ _unpaved_: 6,349 km (2011)<br>
 11,000 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 175<br>
-_by type_: container ship 6, general cargo 80, oil tanker 3, other 86 (2020)<br>
+_total_: 177<br>
+_by type_: container ship 6, general cargo 81, oil tanker 3, other 87 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kimbe, Lae, Madang, Rabaul, Wewak<br>
@@ -666,7 +666,7 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements) (2021)<br>
+Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary&nbsp;&nbsp; (2021)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>

@@ -62,11 +62,11 @@ _other_: 28.2% (2018 est.)<br>
 **Irrigated land**<br>
 3,537 sq km (2014)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Scutari (shared with Montenegro) - 400 sq km<br>note - largest lake in the Balkans<br>
+
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
 
 **Population distribution**<br>
 a fairly even distribution, with somewhat higher concentrations of people in the western and central parts of the country<br>
@@ -223,7 +223,7 @@ _female_: 97.8% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 16 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 27%<br>
@@ -653,7 +653,7 @@ _total_: 3,945 km (2018)<br>
 
 **Merchant marine**<br>
 _total_: 70<br>
-_by type_: general cargo 50, oil tanker 1, other 19 (2020)<br>
+_by type_: general cargo 47, oil tanker 1, other 22 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Durres, Sarande, Shengjin, Vlore<br>

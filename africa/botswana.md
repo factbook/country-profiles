@@ -61,14 +61,14 @@ _other_: 34.4% (2018 est.)<br>
 **Irrigated land**<br>
 20 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
 
 **Major aquifers**<br>
 Lower Kalahari-Stampriet Basin, Upper Kalahari-Cuvelai-Upper Zambezi Basin<br>
-
-**Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
 
 **Population distribution**<br>
 the population is primarily concentrated in the east with a focus in and around the captial of Gaborone, and the far central-eastern city of Francistown; population density remains low in other areas in the country, especially in the Kalahari to the west as shown in this population distribution map<br>
@@ -184,7 +184,7 @@ _unimproved: total_: total: 3.8% of population (2017 est.)<br>
 0.53 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-1.8 beds/1,000 population (2010)<br>
+1.8 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 92.9% of population<br>
@@ -229,9 +229,9 @@ _male_: 13 years<br>
 _female_: 13 years (2013)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 37.8%<br>
-_male_: 39%<br>
-_female_: 36.4% (2019 est.)<br>
+_total_: 46.2%<br>
+_male_: 44.9%<br>
+_female_: 47.8% (2020 est.)<br>
 
 ## Environment
 
@@ -279,7 +279,7 @@ _municipal solid waste recycled annually_: 2,109 tons (2005 est.)<br>
 _percent of municipal solid waste recycled_: 1% (2005 est.)<br>
 
 **Major rivers (by length in km)**<br>
-<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth</p><br>
+<p>Zambezi (shared with Zambia [s]), Angola, Namibia, Zimbabwe, and Mozambique [m]) - 2,740 km; Limpopo (shared with South Africa [s], Zimbabwe, and Mozambique [m]) - 1,800 km; Okavango river mouth (shared with Angola [s], and Namibia) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth</p><br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Okavango Basin (863,866 sq km)<br>
@@ -604,12 +604,12 @@ _electrification - rural areas_: 29% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 142,587<br>
-_subscriptions per 100 inhabitants_: 6.25 (2019 est.)<br>
+_total subscriptions_: 142,587 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.95 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,746,760<br>
-_subscriptions per 100 inhabitants_: 164.12 (2019 est.)<br>
+_total subscriptions_: 3,819,019 (2020)<br>
+_subscriptions per 100 inhabitants_: 162.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>due to effective regulatory reform and active competition, Botswana’s telecom market is one of the most liberalized in the region; strategy to drive nationwide ICT penetration is slowed; one of the highest mobile penetration rates in Africa; operators developing 3G and LTE; Internet use rising due to lower prices; government has embraced digitalization, e-government and identity programs that require citizens to provide detailed personal information; previously dependent on satellites for international connectivity, country’s new submarine cable landings improved competition and tripled international Internet capacity; importer of broadcast equipment from Hong Kong and China (2020)</p> (2020)<br>
@@ -628,8 +628,8 @@ _total_: 1,057,079<br>
 _percent of population_: 47% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 49,295<br>
-_subscriptions per 100 inhabitants_: 2.16 (2019 est.)<br>
+_total_: 71,898 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.06 (2020 est.)<br>
 
 ## Transportation
 
@@ -687,6 +687,9 @@ the BDF has a mix of foreign-supplied and mostly older weapons and equipment, la
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>Bechuanaland/Botswana did not have a permanent military during colonial times, with the British colonial administrators relying instead on small, lightly armed constabularies such as the Bechuanaland Mounted Police, the Bechuanaland Border Police, and by the early 1960s, the Police Mobile Unit (PMU); after independence in 1966, Botswana militarized the PMU and gave it responsibility for the country’s defense rather than create a conventional military force; however, turmoil in neighboring countries and numerous cross-border incursions by Rhodesian and South African security forces demonstrated that the PMU was inadequate for defending the country and led to the establishment of the BDF in 1977; as of 2021, the BDF’s primary missions included securing territorial integrity/border security and internal duties such as disaster relief and anti-poaching</p> <p>as of 2021, the Army was comprised of approximately 4 small combat brigades (2 infantry, 1 light armored, 1 artillery), while the Air Force had 1 fighter/ground attack squadron; Botswana has no navy, but the Army has a marine unit with boats and other river craft for patrolling the country’s numerous waterways, particularly the Chobe River and Okavango swamps</p> <p>Botswana participates in the Southern African Development Community (SADC) Standby Force, and in 2021 contributed nearly 300 troops to the SADC’s effort to help the Mozambique Government suppress an insurgency</p><br>
 
 ## Transnational Issues
 

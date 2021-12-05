@@ -213,12 +213,12 @@ _female_: 96% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 9.1%<br>
-_male_: 10.5%<br>
-_female_: 7.6% (2019 est.)<br>
+_total_: 10.7%<br>
+_male_: 13.1%<br>
+_female_: 8% (2020 est.)<br>
 
 ## Environment
 
@@ -585,7 +585,7 @@ _total subscriptions_: 634,386<br>
 _subscriptions per 100 inhabitants_: 139.94 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; expansion of e-commerce; government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; operator delivered fiber network to public schools in 2020; launch of 5G network by 2020; submarine cable to France and Egypt in progress (2021)</p> (2020)<br>
+_general assessment_: blessed with advantageous topography and tech-savvy consumers, Malta has one of the most advanced telecom systems in Europe, with high penetration of mobile and broadband; expansion of e-commerce; government and regulator measures in 2020 reduced consumer prices and allowed extensive FttP network and investment in LTE and fiber thru 2023; operator delivered fiber network to public schools in 2020; launch of 5G network by 2020; submarine cable to France and Egypt in progress (2020)<br>
 _domestic_: fixed-line 58 per 100&nbsp; persons and mobile-cellular subscribership 144 per 100 persons; automatic system featuring submarine cable and microwave radio relay between islands (2019)<br>
 _international_: country code - 356; landing points for the Malta-Gozo Cable, VMSCS, GO-1 Mediterranean Cable System, Malta Italy Interconnector, Melita-1, and the Italy-Malta submarine cable connections to Italy; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -633,8 +633,8 @@ _urban_: 1,422 km (2001)<br>
 _non-urban_: 832 km (2001)<br>
 
 **Merchant marine**<br>
-_total_: 2,207<br>
-_by type_: bulk carrier 617, container ship 315, general cargo 240, oil tanker 422, other 613 (2020)<br>
+_total_: 2,137<br>
+_by type_: bulk carrier 601, container ship 310, general cargo 218, oil tanker 412, other 596 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Marsaxlokk (Malta Freeport), Valletta<br>
@@ -671,7 +671,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,800 estimated refugee and migrant arrivals by sea (January 2015-November 2021)<br>
+<strong>note:</strong> 7,943 estimated refugee and migrant arrivals by sea (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

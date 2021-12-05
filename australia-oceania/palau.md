@@ -169,9 +169,6 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **Physicians density**<br>
 1.42 physicians/1,000 population (2014)<br>
 
-**Hospital bed density**<br>
-4.8 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
 _improved: rural_: rural: 100% of population<br>
@@ -537,8 +534,8 @@ _paved_: 89 km (2018)<br>
 _unpaved_: 36 km (2018)<br>
 
 **Merchant marine**<br>
-_total_: 232<br>
-_by type_: bulk carrier 13, container ship 7, general cargo 104, oil tanker 25, other 83 (2020)<br>
+_total_: 264<br>
+_by type_: bulk carrier 16, container ship 7, general cargo 107, oil tanker 40, other 94 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Koror<br>

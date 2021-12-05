@@ -61,11 +61,11 @@ _other_: 22.4% (2018 est.)<br>
 **Irrigated land**<br>
 30 sq km (2012)<br>
 
+**Major rivers (by length in km)**<br>
+Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
+
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
-
-**Major rivers (by length in km)**<br>
-Orange (shared with South Africa and Namibia) - 2,092 km;&nbsp;<br>
 
 **Population distribution**<br>
 relatively higher population density in the western half of the nation, with the capital of Maseru, and the smaller cities of Mafeteng, Teyateyaneng, and Leribe attracting the most people as shown in this population distribution map<br>
@@ -226,9 +226,9 @@ _male_: 12 years<br>
 _female_: 13 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 34.4%<br>
-_male_: NA<br>
-_female_: NA (2013 est.)<br>
+_total_: 35.5%<br>
+_male_: 31.2% NA<br>
+_female_: 41.5% NA (2019 est.)<br>
 
 ## Environment
 
@@ -276,7 +276,7 @@ _severe localized food insecurity_: <p>due to localized shortfalls in production
 _municipal solid waste generated annually_: 73,457 tons (2006 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Orange (shared with South Africa and Namibia) - 2,092 km;&nbsp;<br>
+Orange river source (shared with South Africa and Namibia [m]) - 2,092 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Orange (941,351 sq km)<br>
@@ -597,15 +597,15 @@ _electrification - rural areas_: 26% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13,426<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 11,574 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,583,192<br>
-_subscriptions per 100 inhabitants_: 73.74 (2019 est.)<br>
+_total subscriptions_: 1,562,648 (2020)<br>
+_subscriptions per 100 inhabitants_: 72.94 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>small market with few business incentives; fixed-line tele-density and mobile penetration remains below regional average; introduction of mobile broadband in the country and LTE technology; 5G testing among first in region; landlocked, Lesotho has access to several submarine cables on African coast through neighboring countries yet Internet is expensive; importer of broadcasting equipment and computers from South Africa (2021)</p> (2020)<br>
+_general assessment_: small market with few business incentives; fixed-line tele-density and mobile penetration remains below regional average; introduction of mobile broadband in the country and LTE technology; 5G testing among first in region; landlocked, Lesotho has access to several submarine cables on African coast through neighboring countries yet Internet is expensive; importer of broadcasting equipment and computers from South Africa (2020)<br>
 _domestic_: fixed-line is 1 per 100 subscriptions; mobile-cellular service dominates the market with a subscribership now over 114 per 100 persons; rudimentary system consisting of a modest number of landlines, a small microwave radio relay system, and a small radiotelephone communication system (2019)<br>
 _international_: country code - 266; Internet accessibility has improved with several submarine fiber optic cables that land on African east and west coasts, but the country's land locked position makes access prices expensive; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -621,8 +621,8 @@ _total_: 569,114<br>
 _percent of population_: 29% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,329<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 5,060 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 

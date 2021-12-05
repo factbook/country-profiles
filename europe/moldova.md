@@ -62,7 +62,7 @@ _other_: 13.2% (2018 est.)<br>
 2,283 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Ukraine) - 2,888 km; Dniester (shared with Ukraine) - 1,411 km<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Dniester (shared with Ukraine [s/m]) - 1,411 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -181,7 +181,7 @@ _unimproved: total_: total: 9.5% of population (2017 est.)<br>
 3.21 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-5.8 beds/1,000 population (2013)<br>
+5.7 beds/1,000 population (2014)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.3% of population<br>
@@ -216,14 +216,14 @@ _male_: 99.7%<br>
 _female_: 99.1% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 12 years (2019)<br>
+_total_: 14 years<br>
+_male_: 14 years<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10.4%<br>
-_male_: 11.1%<br>
-_female_: 9.4% (2019 est.)<br>
+_total_: 10.9%<br>
+_male_: 9.9%<br>
+_female_: 12.3% (2020 est.)<br>
 
 ## Environment
 
@@ -266,7 +266,7 @@ _municipal solid waste recycled annually_: 609,920 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 15.3% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, and Ukraine) - 2,888 km; Dniester (shared with Ukraine) - 1,411 km<br>
+Danube (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, and Romania [m]) - 2,888 km; Dniester (shared with Ukraine [s/m]) - 1,411 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -593,15 +593,15 @@ NA cu m (1 January 2017 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,071,514<br>
-_subscriptions per 100 inhabitants_: 31.55 (2019 est.)<br>
+_total subscriptions_: 1,027,689 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.48 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,613,846<br>
-_subscriptions per 100 inhabitants_: 106.4 (2019 est.)<br>
+_total subscriptions_: 3,420,383 (2020)<br>
+_subscriptions per 100 inhabitants_: 84.79 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>high unemployment and economic pressures have reduced consumer spending in telecom market; endeavors to join the EU have promoted regulatory issues in line with EU standards; mobile market extended outside of cities and across most of the country; LTE services available; market is competitive, fiber accounts for 62% of all fixed broadband connections and most telecom revenue is from the mobile market; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: high unemployment and economic pressures have reduced consumer spending in telecom market; endeavors to join the EU have promoted regulatory issues in line with EU standards; mobile market extended outside of cities and across most of the country; LTE services available; market is competitive, fiber accounts for 62% of all fixed broadband connections and most telecom revenue is from the mobile market; importer of broadcasting equipment from China (2020)<br>
 _domestic_: competition among mobile telephone providers has spurred subscriptions; little interest in expanding fixed-line service 27 per 100; mobile-cellular teledensity sits at 89 per 100 persons (2019)<br>
 _international_: country code - 373; service through Romania and Russia via landline; satellite earth stations - at least 3 - Intelsat, Eutelsat, and Intersputnik<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -617,8 +617,8 @@ _total_: 2,616,792<br>
 _percent of population_: 76.12% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 670,530<br>
-_subscriptions per 100 inhabitants_: 19.74 (2019 est.)<br>
+_total_: 719,001 (2020)<br>
+_subscriptions per 100 inhabitants_: 17.82 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,13 +662,13 @@ _unpaved_: 517 km (2012)<br>
 558 km (in public use on Danube, Dniester and Prut Rivers) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 127<br>
-_by type_: bulk carrier 5, container ship 5, general cargo 84, oil tanker 8, other 25 (2020)<br>
+_total_: 147<br>
+_by type_: bulk carrier 5, container ship 5, general cargo 97, oil tanker 7, other 33 (2021)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Carabinieri Troops (a component of the Ministry of Internal Affairs that also has official status as a service of the Armed Forces during wartime) (2021)<br>
+National Army: Land Forces (Fortele Terestre ale Republicii Moldova, FTRM); Air Forces (Forţele Aeriene ale Republicii Moldova, FARM); Carabinieri Troops (a component of the Ministry of Internal Affairs that also has official status as a service of the Armed Forces during wartime; it is a quasi-militarized gendarmerie responsible for protecting public buildings, maintaining public order, and other national security functions) (2021)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>

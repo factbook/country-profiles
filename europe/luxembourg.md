@@ -178,7 +178,7 @@ _unimproved: total_: total: 1% of population (2017 est.)<br>
 3.01 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-4.7 beds/1,000 population (2017)<br>
+4.3 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,12 +209,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 14 years (2018)<br>
+_female_: 14 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 17%<br>
-_male_: 17.8%<br>
-_female_: 16% (2019 est.)<br>
+_total_: 23.2%<br>
+_male_: 24.8%<br>
+_female_: 21.3% (2020 est.)<br>
 
 ## Environment
 
@@ -578,15 +578,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 267,400<br>
-_subscriptions per 100 inhabitants_: 43.31 (2019 est.)<br>
+_total subscriptions_: 268,090 (2020)<br>
+_subscriptions per 100 inhabitants_: 42.83 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 835,900<br>
-_subscriptions per 100 inhabitants_: 135.39 (2019 est.)<br>
+_total subscriptions_: 890,000 (2020)<br>
+_subscriptions per 100 inhabitants_: 142.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>small but highly developed telecom system dominated by state-owned operator; gains in fixed-line and drop in mobile/roving sector during 2020 travel restrictions; government-state operator extended 1GB/s service with aims to make Luxembourg the first fully fiber country in Europe; regulator completed auction for 5G spectrum; importer of broadcast equipment from China (2021)</p> (2020)<br>
+_general assessment_: small but highly developed telecom system dominated by state-owned operator; gains in fixed-line and drop in mobile/roving sector during 2020 travel restrictions; government-state operator extended 1GB/s service with aims to make Luxembourg the first fully fiber country in Europe; regulator completed auction for 5G spectrum; importer of broadcast equipment from China (2020)<br>
 _domestic_: fixed-line teledensity about 43 per 100 persons; nationwide mobile-cellular telephone system with market for mobile-cellular phones virtually saturated with 136 per 100 mobile-cellular (2019)<br>
 _international_: country code - 352<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -602,8 +602,8 @@ _total_: 587,955<br>
 _percent of population_: 97.06% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 230,100<br>
-_subscriptions per 100 inhabitants_: 37.27 (2019 est.)<br>
+_total_: 235,155 (2020)<br>
+_subscriptions per 100 inhabitants_: 37.57 (2020 est.)<br>
 
 ## Transportation
 
@@ -644,8 +644,8 @@ _total_: 2,875 km (2019)<br>
 37 km (on Moselle River) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 150<br>
-_by type_: bulk carrier 4, container ship 1, general cargo 21, oil tanker 3, other 121 (2020)<br>
+_total_: 153<br>
+_by type_: bulk carrier 4, container ship 1, general cargo 23, oil tanker 3, other 122 (2021)<br>
 
 **Ports and terminals**<br>
 _river port(s)_: Mertert (Moselle)<br>

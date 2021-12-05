@@ -214,9 +214,9 @@ _male_: 97%<br>
 _female_: 92.7% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
+_total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2019)<br>
+_female_: 15 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 13.7%<br>
@@ -577,15 +577,15 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 592,196<br>
-_subscriptions per 100 inhabitants_: 16.66 (2019 est.)<br>
+_total subscriptions_: 594,550 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.68 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,383,458<br>
-_subscriptions per 100 inhabitants_: 179.57 (2019 est.)<br>
+_total subscriptions_: 6,276,535 (2020)<br>
+_subscriptions per 100 inhabitants_: 133.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>modern system consisting of open-wire, microwave, and radiotelephone communication stations; domestic satellite system; progressive mobile sector with both 3G and 4G LTE networks and readiness for 5G launch; competition among mobile operators; government program to improve fiber network; important communications hub in the Middle East, with access to numerous submarine cables enabling increased bandwidth; major importer of broadcasting equipment and computers from UAE (2021)</p> (2020)<br>
+_general assessment_: modern system consisting of open-wire, microwave, and radiotelephone communication stations; domestic satellite system; progressive mobile sector with both 3G and 4G LTE networks and readiness for 5G launch; competition among mobile operators; government program to improve fiber network; important communications hub in the Middle East, with access to numerous submarine cables enabling increased bandwidth; major importer of broadcasting equipment and computers from UAE (2020)<br>
 _domestic_: fixed-line 13 per 100 and mobile-cellular 138 per 100, subscribership both increasing with fixed-line phone service gradually being introduced to remote villages using wireless local loop systems (2019)<br>
 _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;SeaMeWe-5, Tata TGN-Gulf,&nbsp;FALCON, GBICS/MENA, MENA/Guld Bridge International, TW1, BBG, EIG, OMRAN/EPEG, and POI&nbsp;submarine cables providing connectivity to Asia,&nbsp;Africa, the Middle East, Southeast Asia&nbsp;and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -601,8 +601,8 @@ _total_: 2,801,932<br>
 _percent of population_: 80.19% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 473,070<br>
-_subscriptions per 100 inhabitants_: 13.31 (2019 est.)<br>
+_total_: 508,949 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.85 (2020 est.)<br>
 
 ## Transportation
 
@@ -644,8 +644,8 @@ _paved_: 29,685 km (includes 1,943 km of expressways) (2012)<br>
 _unpaved_: 30,545 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 55<br>
-_by type_: general cargo 10, other 45 (2020)<br>
+_total_: 57<br>
+_by type_: general cargo 10, other 47 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Mina' Qabus, Salalah, Suhar<br>
@@ -655,7 +655,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police Coast Guard (2021)<br>
+Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard; Internal Security Service (2021)<br>
 
 **Military expenditures**<br>
 11% of GDP (2020 est.)<br>

@@ -197,7 +197,7 @@ NA<br>
 **Unemployment, youth ages 15-24**<br>
 _total_: 20.6%<br>
 _male_: 9.8%<br>
-_female_: 45.8% (2016)<br>
+_female_: 45.9% (2016)<br>
 
 ## Environment
 
@@ -548,8 +548,8 @@ _total_: 8 km (2011)<br>
 _paved_: 8 km (2011)<br>
 
 **Merchant marine**<br>
-_total_: 246<br>
-_by type_: bulk carrier 20, container ship 3, general cargo 38, oil tanker 20, other 165 (2020)<br>
+_total_: 245<br>
+_by type_: bulk carrier 22, container ship 3, general cargo 32, oil tanker 21, other 167 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Funafuti<br>
@@ -557,7 +557,7 @@ _major seaport(s)_: Funafuti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Tuvalu Police Force<br>
+no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs)<br>
 
 ## Transnational Issues
 

@@ -207,9 +207,9 @@ _male_: 98%<br>
 _female_: 96.9% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 15 years (2017)<br>
+_total_: 16 years<br>
+_male_: 15 years<br>
+_female_: 17 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 7.2%<br>
@@ -647,8 +647,8 @@ _total_: 4,080 km (2008)<br>
 _paved_: 4,080 km (includes 253 km of expressways) (2008)<br>
 
 **Merchant marine**<br>
-_total_: 640<br>
-_by type_: container ship 3, general cargo 120, oil tanker 19, other 498 (2020)<br>
+_total_: 623<br>
+_by type_: bulk carrier 1, container ship 3, general cargo 117, oil tanker 19, other 483 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Al Fujayrah, Mina' Jabal 'Ali (Dubai), Khor Fakkan (Khawr Fakkan) (Sharjah), Mubarraz Island (Abu Dhabi), Mina' Rashid (Dubai), Mina' Saqr (Ra's al Khaymah)<br>
@@ -671,7 +671,7 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 the United Arab Emirates Armed Forces have approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier by far, followed by France and Russia (2020)<br>
+the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier, followed by France and Russia; in recent years, the UAE has tried to boost its domestic defense industry&nbsp; (2020)<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen (2021)<br>

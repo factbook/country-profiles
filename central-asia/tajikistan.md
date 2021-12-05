@@ -62,7 +62,7 @@ _other_: 62.4% (2018 est.)<br>
 7,420 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Kazakhstan) - 3,078 km; Amu Darya (shared with Turkmenistan, Uzbekistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -271,7 +271,7 @@ _vectorborne diseases_: malaria<br>
 _municipal solid waste generated annually_: 1,787,400 tons (2013 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Syr Darya (shared with Kyrgyzstan, Uzbekistan, and Kazakhstan) - 3,078 km; Amu Darya (shared with Turkmenistan, Uzbekistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Syr Darya (shared with Kyrgyzstan [s], Uzbekistan, and Kazakhstan [m]) - 3,078 km; Amu Darya river source (shared with Turkmenistan, Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea Basin)</em> Amu Darya (534,739 sq km), Syr Darya (782,617 sq km)<br>
@@ -602,7 +602,7 @@ _total subscriptions_: 9,747,803<br>
 _subscriptions per 100 inhabitants_: 111.53 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Tajikistan’s telecom sector continues to struggle due to geographic isolation, lack of electricity, dysfunctional business climate, and impoverished citizenry; despite the launch of 4G/LTE services, one of the lowest fixed-line penetrations in Asia and one of the lowest broadband levels in the world; with help from foreign investment, mobile sector near saturation phase; Russian loans and Chinese investment in infrastructure through Economic Corridor initiatives; a few cities have 4G coverage; LTE-based smart city concept in Dushanbe; government restricts political rights and civil liberties, controlling information through media interruptions; government raised rates on Internet-based calls and Internet services in 2020, making price one of the highest in the world; importer of video displays and broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Tajikistan&rsquo;s telecom sector continues to struggle due to geographic isolation, lack of electricity, dysfunctional business climate, and impoverished citizenry; despite the launch of 4G/LTE services, one of the lowest fixed-line penetrations in Asia and one of the lowest broadband levels in the world; with help from foreign investment, mobile sector near saturation phase; Russian loans and Chinese investment in infrastructure through Economic Corridor initiatives; a few cities have 4G coverage; LTE-based smart city concept in Dushanbe; government restricts political rights and civil liberties, controlling information through media interruptions; government raised rates on Internet-based calls and Internet services in 2020, making price one of the highest in the world; importer of video displays and broadcasting equipment from China (2020)<br>
 _domestic_: fixed line availability has not changed significantly since 1998, while mobile cellular subscribership, aided by competition among multiple operators, has expanded rapidly; coverage now extends to all major cities and towns; fixed-line 5 per 100 and mobile-cellular 112 per 100 (2019)<br>
 _international_: country code - 992; linked by cable and microwave radio relay to other CIS republics and by leased connections to the Moscow international gateway switch; Dushanbe linked by Intelsat to international gateway switch in Ankara (Turkey); 3 satellite earth stations - 2 Intelsat and 1 Orbita<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

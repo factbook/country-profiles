@@ -175,7 +175,7 @@ _unimproved: total_: total: 2.6% of population (2017 est.)<br>
 3.31 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+3 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 97.7% of population<br>
@@ -206,14 +206,14 @@ NA<br>
 3.4% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 20 years<br>
+_total_: 19 years<br>
 _male_: 19 years<br>
-_female_: 20 years (2018)<br>
+_female_: 19 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 12.5%<br>
-_male_: 14.2%<br>
-_female_: 10.6% (2019 est.)<br>
+_total_: 15.3%<br>
+_male_: 15.3%<br>
+_female_: 15.3% (2020 est.)<br>
 
 ## Environment
 
@@ -575,15 +575,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,766,937<br>
-_subscriptions per 100 inhabitants_: 34.51 (2019 est.)<br>
+_total subscriptions_: 1,678,651 (2020)<br>
+_subscriptions per 100 inhabitants_: 34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,160,309<br>
-_subscriptions per 100 inhabitants_: 100.78 (2019 est.)<br>
+_total subscriptions_: 5,234,027 (2020)<br>
+_subscriptions per 100 inhabitants_: 106 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: infrastructure projects are underway, including the national plan to deliver fiber-based service of at least 150Mb/s nationally by the end of 2022; operators invested in fiber-based networks to deliver a 1Gb/s service to most premises, and on 5G to cover more than half of population; operator test of satellite broadband; Dublin is smart city (2021) (2020)<br>
+_general assessment_: infrastructure projects are underway, including the national plan to deliver fiber-based service of at least 150Mb/s nationally by the end of 2022; operators invested in fiber-based networks to deliver a 1Gb/s service to most premises, and on 5G to cover more than half of population; operator test of satellite broadband; Dublin is a smart city (2020)<br>
 _domestic_: increasing levels of broadband access particularly in urban areas; fixed-line 36 per 100 and mobile-cellular 105 per 100 subscriptions; digital system using cable and microwave radio relay (2019)<br>
 _international_: country code - 353; landing point for the&nbsp;AEConnect&nbsp;-1,&nbsp;Celtic-Norse, Havfrue/AEC-2, GTT Express, Celtic, ESAT-1, IFC-1, Solas, Pan European Crossing, ESAT-2, CeltixConnect -1 &amp; 2, GTT Atlantic, Sirius South, Emerald Bridge Fibres&nbsp;and Geo Eirgrid&nbsp;submarine cable with links to the US, Canada, Norway, Isle of Man and UK; satellite earth stations - 81 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -599,8 +599,8 @@ _total_: 4,283,516<br>
 _percent of population_: 84.52% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,462,549<br>
-_subscriptions per 100 inhabitants_: 28.56 (2019 est.)<br>
+_total_: 1,516,252 (2020)<br>
+_subscriptions per 100 inhabitants_: 30.71 (2020 est.)<br>
 
 ## Transportation
 
@@ -646,8 +646,8 @@ _paved_: 99,830 km (includes 2,717 km of expressways) (2018)<br>
 956 km (pleasure craft only) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 95<br>
-_by type_: bulk carrier 11, general cargo 37, oil tanker 1, other 46 (2020)<br>
+_total_: 96<br>
+_by type_: bulk carrier 12, general cargo 36, oil tanker 1, other 47 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dublin, Shannon Foynes<br>

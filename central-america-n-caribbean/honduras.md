@@ -228,12 +228,12 @@ _female_: 88.7% (2019)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
 _male_: 10 years<br>
-_female_: 11 years (2017)<br>
+_female_: 11 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10.9%<br>
-_male_: 7.6%<br>
-_female_: 17.6% (2019 est.)<br>
+_total_: 17.8%<br>
+_male_: 11.1%<br>
+_female_: 27.7% (2020 est.)<br>
 
 ## Environment
 
@@ -339,8 +339,8 @@ _residency requirement for naturalization_: 1 to 3 years<br>
 _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018); note - the president is both chief of state and head of government<br>
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 26 November 2017 (next to be held in November 2021); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
+_election results_: <br><em>2021: </em>Official results pending; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) NA%, Nasry Juan ASFURA Zablah (PNH) NA%, Yani Benjamin ROSENTHAL Hidalgo (PL) NA%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -353,7 +353,7 @@ _judge selection and term of office_: court president elected by his peers; judg
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Freedom and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Luis Orlando ZELAYA Medrano] <br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>
+Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -600,15 +600,15 @@ _electrification - rural areas_: 68% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 490,103<br>
-_subscriptions per 100 inhabitants_: 5.38 (2019 est.)<br>
+_total subscriptions_: 531,763 (2020)<br>
+_subscriptions per 100 inhabitants_: 5.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,559,829<br>
-_subscriptions per 100 inhabitants_: 82.92 (2019 est.)<br>
+_total subscriptions_: 6,960,654 (2020)<br>
+_subscriptions per 100 inhabitants_: 70.28 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">among the poorest countries in Central America, Honduras has a neglected telecom sector complicated by political stalemate and geographic challenges; mobile subscribership is growing; DSL and cable Internet available in urban areas but expensive; government proposed ICT master plan to boost e-government and business, including free Internet to households; US based network ready to deploy 5G (2021)</p> (2020)<br>
+_general assessment_: <p style="background: white; margin: 0in 0in 6.4pt 0in;">among the poorest countries in Central America, Honduras has a neglected telecom sector complicated by political stalemate and geographic challenges; mobile subscribership is growing; DSL and cable Internet available in urban areas but expensive; government proposed ICT master plan to boost e-government and business, including free Internet to households; US based network ready to deploy 5G <br></p> (2020)<br>
 _domestic_: private sub-operators allowed to provide fixed lines in order to expand telephone coverage contributing to a small increase in fixed-line teledensity 5 per 100; mobile-cellular subscribership is roughly 73 per 100 persons (2019)<br>
 _international_: country code - 504; landing points for both the ARCOS and the MAYA-1 fiber-optic submarine cable systems that together provide connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -624,8 +624,8 @@ _total_: 2,853,505<br>
 _percent of population_: 31.7% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 390,377<br>
-_subscriptions per 100 inhabitants_: 4.28 (2019 est.)<br>
+_total_: 396,454 (2020)<br>
+_subscriptions per 100 inhabitants_: 4 (2020 est.)<br>
 
 ## Transportation
 
@@ -669,8 +669,8 @@ _unpaved_: 11,375 km (1,543 km summer only) (2012)<br>
 465 km (most navigable only by small craft) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 514<br>
-_by type_: general cargo 246, oil tanker 83, other 185 (2020)<br>
+_total_: 505<br>
+_by type_: bulk carrier 1, general cargo 244, oil tanker 82, other 178 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: La Ceiba, Puerto Cortes, San Lorenzo, Tela<br>

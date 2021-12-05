@@ -170,7 +170,7 @@ NA<br>
 2 physicians/1,000 population (2019)<br>
 
 **Hospital bed density**<br>
-5.4 beds/1,000 population (2018)<br>
+4.9 beds/1,000 population (2020)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 96.4% of population<br>
@@ -196,12 +196,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 18 years (2019)<br>
+_female_: 18 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.6%<br>
-_male_: 10.4%<br>
-_female_: 6.8% (2019 est.)<br>
+_total_: 15.5%<br>
+_male_: 17.3%<br>
+_female_: 13.6% (2020 est.)<br>
 
 ## Environment
 
@@ -538,15 +538,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,029,603<br>
-_subscriptions per 100 inhabitants_: 55.73 (2019 est.)<br>
+_total subscriptions_: 3,934,129 (2020)<br>
+_subscriptions per 100 inhabitants_: 52.48 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21,455,736<br>
-_subscriptions per 100 inhabitants_: 296.71 (2019 est.)<br>
+_total subscriptions_: 21,865,215 (2020)<br>
+_subscriptions per 100 inhabitants_: 291.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government&nbsp;has organized&nbsp;the development of&nbsp;smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020) (2020)<br>
+_general assessment_: excellent domestic and international services; some of the highest peak average broadband speeds and penetration rates in the world; HK government helps subsidize 5G projects and aims to be among earliest adopters of 5G mobile technology; almost all households have access to high-speed broadband connectivity through fiber; high mobile subscribership reflects tourism and multiple-device culture; government has organized the development of smart city and digital economy to encourage social inclusion and economic development, including health care, education, and utilities; US prevented use of Pacific Light submarine cable network due to security issues (2020)<br>
 _domestic_: microwave radio relay links and extensive fiber-optic network; fixed-line is 55 per 100 and mobile-cellular is 289 per 100 (2019)<br>
 _international_: country code - 852;&nbsp;landing points for the APG, ASE, EAC-C2C, HK-G,&nbsp;Bay-to-Bay Express Cable System, H2 Cable,&nbsp;HKA, SJC, SJC2, PLCN, SeaMeWe-3, TGN-IA, APCN-2, AAG, FLAG&nbsp;and FEA&nbsp;submarine cables that provide connections to Asia, US, Australia, the Middle East, and&nbsp;Europe; satellite earth stations - 3 Intelsat (1 Pacific Ocean and 2 Indian Ocean); coaxial cable to Guangzhou, China (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -562,8 +562,8 @@ _total_: 6,450,167<br>
 _percent of population_: 89.42% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,804,790<br>
-_subscriptions per 100 inhabitants_: 38.79 (2019 est.)<br>
+_total_: 2,871,081 (2020)<br>
+_subscriptions per 100 inhabitants_: 38.3 (2020 est.)<br>
 
 ## Transportation
 
@@ -592,8 +592,8 @@ _total_: 2,107 km (2017)<br>
 _paved_: 2,107 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 2,694<br>
-_by type_: bulk carrier 1,157, container ship 551, general cargo 188, oil tanker 372, other 426 (2020)<br>
+_total_: 2,718<br>
+_by type_: bulk carrier 1,158, container ship 558, general cargo 184, oil tanker 388, other 430 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Hong Kong<br>

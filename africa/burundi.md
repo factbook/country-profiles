@@ -61,14 +61,11 @@ _other_: 20.1% (2018 est.)<br>
 **Irrigated land**<br>
 230 sq km (2012)<br>
 
-**Major watersheds (area sq km)**<br>
-Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
-
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
 
-**Major rivers (by length in km)**<br>
-Nile (shared with Egypt, Sudan, South Sudan, Uganda, Rwanda, and Tanzania) - 6,650 km;<br>
+**Major watersheds (area sq km)**<br>
+Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
 
 **Population distribution**<br>
 one of Africa's most densely populated countries; concentrations tend to be in the north and along the northern shore of Lake Tanganyika in the west; most people live on farms near areas of fertile volcanic soil as shown in this population distribution map<br>
@@ -98,7 +95,7 @@ _major-language sample(s)_: <br>Igitabo Mpuzamakungu c'ibimenyetso bifatika, iso
 <strong>note:</strong> data represent languages read and written by people 10 years of age or older; spoken Kirundi is nearly universal<br>
 
 **Religions**<br>
-Roman Catholic 62.1%, Protestant 23.9% (includes Adventist 2.3% and other Protestant 21.6%), Muslim 2.5%, other 3.6%, unspecified 7.9% (2008 est.)<br>
+Roman Catholic 58.6%, Protestant 35.3% (includes Adventist 2.7% and other Protestant 32.6%), Muslim 3.4%, other 1.3%, none 1.3% (2016-17 est.)<br>
 
 **Demographic profile**<br>
 <p>Burundi is a densely populated country with a high population growth rate, factors that combined with land scarcity and poverty place a large share of its population at risk of food insecurity. About 90% of the population relies on subsistence agriculture. Subdivision of land to sons, and redistribution to returning refugees, results in smaller, overworked, and less productive plots. Food shortages, poverty, and a lack of clean water contribute to a 60% chronic malnutrition rate among children. A lack of reproductive health services has prevented a significant reduction in Burundi’s maternal mortality and fertility rates, which are both among the world’s highest. With two-thirds of its population under the age of 25 and a birth rate of about 6 children per woman, Burundi’s population will continue to expand rapidly for decades to come, putting additional strain on a poor country.</p><p>Historically, migration flows into and out of Burundi have consisted overwhelmingly of refugees from violent conflicts. In the last decade, more than a half million Burundian refugees returned home from neighboring countries, mainly Tanzania. Reintegrating the returnees has been problematic due to their prolonged time in exile, land scarcity, poor infrastructure, poverty, and unemployment. Repatriates and existing residents (including internally displaced persons) compete for limited land and other resources. To further complicate matters, international aid organizations reduced their assistance because they no longer classified Burundi as a post-conflict country. Conditions have deteriorated since renewed violence erupted in April 2015, causing another outpouring of refugees. In addition to refugee out-migration, Burundi has hosted thousands of refugees from neighboring countries, mostly from the Democratic Republic of the Congo and lesser numbers from Rwanda.</p><br>
@@ -291,9 +288,6 @@ _municipal solid waste generated annually_: 1,872,016 tons (2002 est.)<br>
 
 **Major lakes (area sq km)**<br>
 _Fresh water lake(s)_: Lake Tanganyika (shared with Democratic Republic of Congo, Tanzania, and Zambia) - 32,000 sq km<br>
-
-**Major rivers (by length in km)**<br>
-Nile (shared with Egypt, Sudan, South Sudan, Uganda, Rwanda, and Tanzania) - 6,650 km;<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -608,12 +602,12 @@ _electrification - rural areas_: 2% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 20,936<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 18,300 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,532,039<br>
-_subscriptions per 100 inhabitants_: 56.7 (2019 est.)<br>
+_total subscriptions_: 6,631,154 (2020)<br>
+_subscriptions per 100 inhabitants_: 55.77 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Burundi’s high population density and low telecom penetration rates make it an attractive market for investors; mobile operators have launched 3G and LTE to meet the demand for Internet; mobile subscription remains low; government/World Bank joint project to build a national broadband backbone connecting to submarine cable landings in Kenya and Tanzania; government launched e-health project (2021)</p> (2020)<br>
@@ -632,8 +626,8 @@ _total_: 298,684<br>
 _percent of population_: 2.66% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,891<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 4,230 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 

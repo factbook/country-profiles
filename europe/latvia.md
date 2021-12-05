@@ -178,7 +178,7 @@ _unimproved: total_: total: 1.4% of population (2017 est.)<br>
 3.19 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-5.6 beds/1,000 population (2017)<br>
+5.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 98.9% of population<br>
@@ -219,12 +219,12 @@ _female_: 99.9% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 12.4%<br>
-_male_: 14.2%<br>
-_female_: 10.1% (2019 est.)<br>
+_total_: 14.9%<br>
+_male_: 14.4%<br>
+_female_: 15.5% (2020 est.)<br>
 
 ## Environment
 
@@ -589,15 +589,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 227,616<br>
-_subscriptions per 100 inhabitants_: 11.96 (2019 est.)<br>
+_total subscriptions_: 211,849 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.23 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,071,814<br>
-_subscriptions per 100 inhabitants_: 108.83 (2019 est.)<br>
+_total subscriptions_: 2,051,359 (2020)<br>
+_subscriptions per 100 inhabitants_: 108.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line phones is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; government adopted measures to build a national fiber broadband network, partially funded by European Commission; new competition in mobile markets with extensive LTE-A technologies and 5G service growth; developing sophisticated digital economy with e-commerce and e-government widely available; operator working on cable to Sakhalin in Russia’s Far East (2021)</p> (2020)<br>
+_general assessment_: recent efforts focused on bringing competition to the telecommunications sector; the number of fixed-line phones is decreasing as mobile-cellular telephone service expands; EU regulatory policies, and framework provide guidelines for growth; government adopted measures to build a national fiber broadband network, partially funded by European Commission; new competition in mobile markets with extensive LTE-A technologies and 5G service growth; developing sophisticated digital economy with e-commerce and e-government widely available; operator working on cable to Sakhalin in Russia&rsquo;s Far East (2020)<br>
 _domestic_: fixed-line 12 per 100 and mobile-cellular 109 per 100 subscriptions (2019)<br>
 _international_: country code - 371; the Latvian network is now connected via fiber-optic cable to Estonia, Finland, and Sweden<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -613,8 +613,8 @@ _total_: 1,607,711<br>
 _percent of population_: 83.58% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 508,894<br>
-_subscriptions per 100 inhabitants_: 26.73 (2019 est.)<br>
+_total_: 503,804 (2020)<br>
+_subscriptions per 100 inhabitants_: 26.71 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,8 +662,8 @@ _unpaved_: 55,086 km (2018)<br>
 300 km (navigable year-round) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 66<br>
-_by type_: general cargo 16, oil tanker 9, other 41 (2020)<br>
+_total_: 70<br>
+_by type_: general cargo 22, oil tanker 9, other 39 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Riga, Ventspils<br>

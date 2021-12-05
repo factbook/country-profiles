@@ -5,7 +5,7 @@ _South America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. By far the largest and most populous country in South America, Brazil underwent more than a half century of populist and military government until 1985, when the military regime peacefully ceded power to civilian rulers. Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was seen as symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. In October 2018, Jair BOLSONARO won the presidency with 55 percent of the vote and assumed office on 1 January 2019.</p><br>
+<p>Following more than three centuries under Portuguese rule, Brazil gained its independence in 1822, maintaining a monarchical system of government until the abolition of slavery in 1888 and the subsequent proclamation of a republic by the military in 1889. Brazilian coffee exporters politically dominated the country until populist leader Getulio VARGAS rose to power in 1930. By far the largest and most populous country in South America, Brazil underwent more than a half century of populist and military government until 1985, when the military regime peacefully ceded power to civilian rulers. Brazil continues to pursue industrial and agricultural growth and development of its interior. Having successfully weathered a period of global financial difficulty in the late 20th century, Brazil was seen as one of the world's strongest emerging markets and a contributor to global growth. The awarding of the 2014 FIFA World Cup and 2016 Summer Olympic Games, the first ever to be held in South America, was seen as symbolic of the country's rise. However, from about 2013 to 2016, Brazil was plagued by a sagging economy, high unemployment, and high inflation, only emerging from recession in 2017. Former President Dilma ROUSSEFF (2011-2016) was removed from office in 2016 by Congress for having committed impeachable acts against Brazil's budgetary laws, and her vice president, Michel TEMER, served the remainder of her second term. In October 2018, Jair BOLSONARO won the presidency with 55% of the vote and assumed office on 1 January 2019.</p><br>
 
 ## Geography
 
@@ -70,7 +70,7 @@ _Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -235,14 +235,14 @@ _male_: 93%<br>
 _female_: 93.4% (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 14 years<br>
-_male_: 14 years<br>
-_female_: 14 years (2011)<br>
+_total_: 16 years<br>
+_male_: 15 years<br>
+_female_: 16 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 27.8%<br>
-_male_: 24.1%<br>
-_female_: 32.6% (2019 est.)<br>
+_total_: 31.3%<br>
+_male_: 27.5%<br>
+_female_: 36.3% (2020 est.)<br>
 
 ## Environment
 
@@ -296,7 +296,7 @@ _Fresh water lake(s)_: Lagoa dos Patos - 10,140 sq km<br>
 _Salt water lake(s)_: Lagoa Mirim (shared with Uruguay) - 2,970 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Amazon river mouth (shared with Peru [s]) - 6,400 km; Rio de la Plata/Parana river source (shared with Paraguay, Argentina, and Uruguay [m]) - 4,880 km; Tocantins - 3,650 km; Sao Francisco - 3,180 km; Paraguay river source (shared with Argentina and Paraguay [m]) - 2,549 km; Rio Negro river mouth (shared with Colombia [s] and Venezuela) - 2,250 km; Uruguay river source (shared with Argentina and Uruguay [m]) - 1,610 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Amazon (6,145,186 sq km), Orinoco (953,675 sq km), Paran&aacute; (2,582,704 sq km), S&atilde;o Francisco (617,814 sq km), Tocantins (764,213 sq km)<br>
@@ -368,7 +368,7 @@ _election results_: <br><em>2018: </em> Jair BOLSONARO elected president in sec
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congresso Nacional consists of:<br>Federal Senate or Senado Federal (81 seats; 3 members each from 26 states and 3 from the federal district directly elected in multi-seat constituencies by simple majority vote to serve 8-year terms, with one-third and two-thirds of the membership elected alternately every 4 years)<br>Chamber of Deputies or Camara dos Deputados (513 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote to serve 4-year terms)<br>
-_elections_: <br>Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held in October 2022 for one-third of the Senate)<br>Chamber of Deputies - last held on 7 October 2018 (next to be held in October 2022)<br>
+_elections_: <br>Federal Senate - last held on 7 October 2018 for two-thirds of the Senate (next to be held on 2 October 2022 for one-third of the Senate)<br>Chamber of Deputies - last held on 7 October 2018 (next to be held on 2 October 2022)<br>
 _election results_: <br>Federal Senate - percent of vote by party - NA; seats by party - PMDB 7, PP 5, REDE 5, DEM 4, PSDB 4, PSDC 4, PSL 4, PT 4, PDT 2, PHS 2, PPS 2, PSB 2, PTB 2, Podemos 1, PR 1, PRB 1, PROS 1, PRP 1, PSC 1, SD 1; composition - men 70, women 11, percent of women 13.6%     <br>Chamber of Deputies - percent of vote by party - NA; seats by party - PT 56, PSL 52, PP 37, PMDB 34, PSDC 34, PR 33, PSB 32, PRB 30, DEM 29, PSDB 29, PDT 28, SD 13, Podemos 11, PSOL 10, PTB 10, PCdoB 9, NOVO 8, PPS 8, PROS 8, PSC 8, Avante 7, PHS 6, Patriota 5, PRP 4, PV 4, PMN 3, PTC 2, DC 1, PPL 1, REDE 1; composition - men 462, women 51, percent of women 9.9%; total National Congress percent of women 10.4%<br>
 
 **Judicial branch**<br>
@@ -626,15 +626,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,712,877<br>
-_subscriptions per 100 inhabitants_: 16.01 (2019 est.)<br>
+_total subscriptions_: 30,653,813 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.42 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 202,009,290<br>
-_subscriptions per 100 inhabitants_: 95.92 (2019 est.)<br>
+_total subscriptions_: 205,834,781 (2020)<br>
+_subscriptions per 100 inhabitants_: 96.84 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G launched on limited basis; large fixed-line broadband market with focus on fiber; landing point for submarine cables and investment into terrestrial fiber cables to neighboring countries; Internet penetration has increased, access varies along geographic and socio-economic lines; government provides free WiFi in urban public spaces; pioneer in the region for M-commerce; major importer of integrated circuits from South Korea and China, and broadcasting equipment from China (2021)</p> <p> </p> (2020)<br>
+_general assessment_: Brazil is one of the largest mobile and broadband markets in Latin America with healthy competition and pricing; 5G launched on limited basis; large fixed-line broadband market with focus on fiber; landing point for submarine cables and investment into terrestrial fiber cables to neighboring countries; Internet penetration has increased, access varies along geographic and socio-economic lines; government provides free WiFi in urban public spaces; pioneer in the region for M-commerce; major importer of integrated circuits from South Korea and China, and broadcasting equipment from China <br> <p> </p> (2020)<br>
 _domestic_: fixed-line connections have remained relatively stable in recent years and stand at about 16 per 100 persons; less-expensive mobile-cellular technology has been a major impetus broadening telephone service to the lower-income segments of the population with mobile-cellular teledensity roughly 99 per 100 persons (2019)<br>
 _international_: country code - 55; landing points for a number of submarine cables, including Malbec, ARBR, Tamnat, SAC, SAm-1, Atlantis -2, Seabras-1, Monet, EllaLink, BRUSA, GlobeNet, AMX-1, Brazilian Festoon, Bicentenario, Unisur, Junior, Americas -II,&nbsp;SAE x1, SAIL, SACS&nbsp;and&nbsp;SABR that provide direct connectivity to South and Central America, the Caribbean, the US, Africa, and Europe;&nbsp;satellite earth stations - 3 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic Ocean region east), connected by microwave relay system to Mercosur Brazilsat B3 satellite earth station; satellites&nbsp;is a&nbsp;major communication platform, as it is almost impossible to lay fiber optic cable in the thick vegetation (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -650,8 +650,8 @@ _total_: 140,908,998<br>
 _percent of population_: 67.47% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,914,496<br>
-_subscriptions per 100 inhabitants_: 15.63 (2019 est.)<br>
+_total_: 36,344,670 (2020)<br>
+_subscriptions per 100 inhabitants_: 17.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -703,8 +703,8 @@ _unpaved_: 1.754 million km (2018)<br>
 50,000 km (most in areas remote from industry and population) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 875<br>
-_by type_: bulk carrier 12, container ship 18, general cargo 45, oil tanker 38, other 762 (2020)<br>
+_total_: 864<br>
+_by type_: bulk carrier 11, container ship 19, general cargo 42, oil tanker 31, other 761 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belem, Itajai, Paranagua, Rio Grande, Rio de Janeiro, Santos, Sao Sebastiao, Tubarao<br>

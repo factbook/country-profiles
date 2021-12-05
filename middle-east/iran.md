@@ -68,7 +68,7 @@ _other_: 63.1% (2018 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -230,9 +230,9 @@ _male_: 15 years<br>
 _female_: 15 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 27.7%<br>
-_male_: 24.4%<br>
-_female_: 40% (2018 est.)<br>
+_total_: 23.7%<br>
+_male_: 21.2%<br>
+_female_: 36% (2020 est.)<br>
 
 ## Environment
 
@@ -284,7 +284,7 @@ _percent of municipal solid waste recycled_: 5% (2017 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Russia, Azerbaijan, Turkmenistan, and Kazakhstan) - 374,000 sq km; Lake Urmia - 5,200 sq km; Lake Namak - 750 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Euphrates (shared with Turkey [s], Syria, and Iraq [m]) - 3,596 km; Tigris (shared with Turkey, Syria, and Iraq [m]) - 1,950 km; Helmand (shared with Afghanistan [s]) - 1,130 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: <em>(Persian Gulf)</em> Tigris and Euphrates (918,044 sq km)<br>
@@ -594,15 +594,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 28,954,855<br>
-_subscriptions per 100 inhabitants_: 34.45 (2019 est.)<br>
+_total subscriptions_: 29,093,587 (2020)<br>
+_subscriptions per 100 inhabitants_: 34.64 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 118,061,419<br>
-_subscriptions per 100 inhabitants_: 140.48 (2019 est.)<br>
+_total subscriptions_: 127,624,951 (2020)<br>
+_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: challenged by censorship and international sanctions; large, youthful, tech-savvy demographic with unmet demand; state-owned operators provided special offerings for services during pandemic, driving mobile broadband and deployment of 4G to nearly all of the population; government expanding fiber network and preparing for 5G to grow digital economy and smart city infrastructure; importer of broadcasting and computer equipment from UAE and China (2021) (2020)<br>
+_general assessment_: challenged by censorship and international sanctions; large, youthful, tech-savvy demographic with unmet demand; state-owned operators provided special offerings for services during pandemic, driving mobile broadband and deployment of 4G to nearly all of the population; government expanding fiber network and preparing for 5G to grow digital economy and smart city infrastructure; importer of broadcasting and computer equipment from UAE and China (2020)<br>
 _domestic_: 35 per 100 for fixed-line and 142 per 100 for mobile-cellular subscriptions; investment by Iran's state-owned telecom company has greatly improved and expanded both the fixed-line and mobile cellular networks; a huge percentage of the cell phones in the market have been smuggled into the country (2019)<br>
 _international_: country code - 98; landing points for Kuwait-Iran, GBICS &amp;&nbsp;MENA, FALCON, OMRAN/3PEG Cable System, POI and UAE-Iran submarine fiber-optic cable to&nbsp;the&nbsp;Middle East, Africa and India;&nbsp;(TAE) fiber-optic line runs from Azerbaijan through the northern portion of Iran to Turkmenistan with expansion to Georgia and Azerbaijan; HF radio and microwave radio relay to Turkey, Azerbaijan, Pakistan, Afghanistan, Turkmenistan, Syria, Kuwait, Tajikistan, and Uzbekistan; satellite earth stations - 13 (9 Intelsat and 4 Inmarsat) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -618,8 +618,8 @@ _total_: 58,117,322<br>
 _percent of population_: 70% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,771,251<br>
-_subscriptions per 100 inhabitants_: 10.44 (2019 est.)<br>
+_total_: 9,564,195 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.39 (2020 est.)<br>
 
 ## Transportation
 
@@ -671,8 +671,8 @@ _unpaved_: 28,000 km (2018)<br>
 850 km (on Karun River; some navigation on Lake Urmia) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 877<br>
-_by type_: bulk carrier 32, container ship 26, general cargo 373, oil tanker 83, other 363 (2020)<br>
+_total_: 893<br>
+_by type_: bulk carrier 32, container ship 31, general cargo 371, oil tanker 84, other 375 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bandar-e Asaluyeh, Bandar Abbas, Bandar-e Emam Khomeyni<br>

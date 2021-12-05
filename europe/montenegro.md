@@ -226,12 +226,12 @@ _female_: 98.3% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2019)<br>
+_female_: 16 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 25.2%<br>
-_male_: 25.8%<br>
-_female_: 24.3% (2019 est.)<br>
+_total_: 36%<br>
+_male_: 33.6%<br>
+_female_: 39.7% (2020 est.)<br>
 
 ## Environment
 
@@ -600,15 +600,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 188,175<br>
-_subscriptions per 100 inhabitants_: 30.74 (2019 est.)<br>
+_total subscriptions_: 191,768 (2020)<br>
+_subscriptions per 100 inhabitants_: 30.53 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,150,998<br>
-_subscriptions per 100 inhabitants_: 188.05 (2019 est.)<br>
+_total subscriptions_: 1,080,089 (2020)<br>
+_subscriptions per 100 inhabitants_: 172 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>a small population, with a compact but modern telecommunications system and access to European satellites; fiber network is dominant platform; mobile penetration is high due to tourism; mobile broadband based on LTE even in rural areas; operators testing 5G in 2021; telecom sector in-line with EU norms provides competition, access, and tariff structures (2021)</p> (2020)<br>
+_general assessment_: a small population, with a compact but modern telecommunications system and access to European satellites; fiber network is dominant platform; mobile penetration is high due to tourism; mobile broadband based on LTE even in rural areas; operators testing 5G in 2021; telecom sector in-line with EU norms provides competition, access, and tariff structures (2020)<br>
 _domestic_: GSM mobile-cellular service, available through multiple providers with national coverage growing; fixed-line 30 per 100 and mobile-cellular 183 per 100 persons (2019)<br>
 _international_: country code - 382; 2 international switches connect the national system<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -624,8 +624,8 @@ _total_: 439,311<br>
 _percent of population_: 71.52% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 178,781<br>
-_subscriptions per 100 inhabitants_: 29.21 (2019 est.)<br>
+_total_: 184,176 (2020)<br>
+_subscriptions per 100 inhabitants_: 29.32 (2020 est.)<br>
 
 ## Transportation
 
@@ -661,8 +661,8 @@ _paved_: 7,141 km (2010)<br>
 _unpaved_: 621 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 16<br>
-_by type_: bulk carrier 4, other 12 (2020)<br>
+_total_: 17<br>
+_by type_: bulk carrier 4, other 13 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bar<br>
@@ -700,7 +700,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 20,416 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 20,524 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

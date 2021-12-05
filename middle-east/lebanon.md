@@ -577,15 +577,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 882,175<br>
-_subscriptions per 100 inhabitants_: 15.1 (2019 est.)<br>
+_total subscriptions_: 875,480 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.83 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,237,962<br>
-_subscriptions per 100 inhabitants_: 72.55 (2019 est.)<br>
+_total subscriptions_: 4,288,221 (2020)<br>
+_subscriptions per 100 inhabitants_: 62.83 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>struggling with effects of economic malaise during pandemic and following explosion in Beirut port; Lebanon’s telecom infrastructure is relatively weak, and services are expensive; rural areas are less connected and have power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2021)</p> (2020)<br>
+_general assessment_: struggling with effects of economic malaise during pandemic and following explosion in Beirut port; Lebanon&rsquo;s telecom infrastructure is relatively weak, and services are expensive; rural areas are less connected and have power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
 _domestic_: fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -601,8 +601,8 @@ _total_: 4,769,039<br>
 _percent of population_: 78.18% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 420,000<br>
-_subscriptions per 100 inhabitants_: 7.19 (2019 est.)<br>
+_total_: 432,070 (2020)<br>
+_subscriptions per 100 inhabitants_: 6.33 (2020 est.)<br>
 
 ## Transportation
 
@@ -646,8 +646,8 @@ _narrow gauge_: 82 km 1.050-m gauge (2017)<br>
 _total_: 21,705 km (2017)<br>
 
 **Merchant marine**<br>
-_total_: 52<br>
-_by type_: bulk carrier 2, general cargo 37, oil tanker 1, other 12 (2020)<br>
+_total_: 48<br>
+_by type_: bulk carrier 2, general cargo 31, oil tanker 1, other 14 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beirut, Tripoli<br>
@@ -690,7 +690,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolu
 <p>lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon has been in place since 1978</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 851,717 (Syria) (2021)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 844,056 (Syria) (2021)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

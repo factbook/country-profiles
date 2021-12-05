@@ -65,7 +65,7 @@ _other_: 10.6% (2018 est.)<br>
 31,490 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km;<br>
+Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -224,12 +224,12 @@ _female_: 98.6% (2018)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 14 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16.8%<br>
-_male_: 16.3%<br>
-_female_: 17.5% (2019 est.)<br>
+_total_: 17.3%<br>
+_male_: 17.9%<br>
+_female_: 16.5% (2020 est.)<br>
 
 ## Environment
 
@@ -272,7 +272,7 @@ _municipal solid waste recycled annually_: 277,547 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 5.7% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km;<br>
+Danube river mouth (shared with Germany [s], Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Moldova, and Ukraine) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -335,7 +335,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
-_head of government_: Prime Minister Florin CITU (since 23 December 2020); Deputy Prime Ministers Dan BARNA and Kelemen HUNOR (since 23 December 2020)<br>
+_head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Kelemen HUNOR (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
 _election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%,&nbsp;Viorica DANCILA (PSD) 33.9%; Ludovic ORBAN approved as prime minister with 240 votes<br>
@@ -606,7 +606,7 @@ _total subscriptions_: 22.671 million<br>
 _subscriptions per 100 inhabitants_: 106 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Romania’s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks’ capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2021)</p> (2020)<br>
+_general assessment_: Romania&rsquo;s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks&rsquo; capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2020)<br>
 _domestic_: fixed-line teledensity is about 17 telephones per 100 persons; mobile market served by four mobile network operators; mobile-cellular teledensity over 117 telephones per 100 persons (2019)<br>
 _international_: country code - 40; landing point for the Diamond Link Global submarine cable linking Romania with Georgia; satellite earth stations - 10; digital, international, direct-dial exchanges operate in Bucharest (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -672,8 +672,8 @@ _unpaved_: 34,312 km (2012)<br>
 1,731 km (includes 1,075 km on the Danube River, 524 km on secondary branches, and 132 km on canals) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 120<br>
-_by type_: general cargo 11, oil tanker 7, other 102 (2020)<br>
+_total_: 121<br>
+_by type_: general cargo 11, oil tanker 6, other 104 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Constanta, Midia<br>
@@ -719,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 8,585 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 8,699 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

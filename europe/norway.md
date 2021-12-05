@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.92 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3.6 beds/1,000 population (2017)<br>
+3.5 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -213,12 +213,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 18 years<br>
 _male_: 18 years<br>
-_female_: 19 years (2018)<br>
+_female_: 19 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 10%<br>
-_male_: 10.4%<br>
-_female_: 9.5% (2019 est.)<br>
+_total_: 11.3%<br>
+_male_: 12.1%<br>
+_female_: 10.5% (2020 est.)<br>
 
 ## Environment
 
@@ -583,15 +583,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 444,600<br>
-_subscriptions per 100 inhabitants_: 8.2 (2019 est.)<br>
+_total subscriptions_: 348,808 (2020)<br>
+_subscriptions per 100 inhabitants_: 6.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5,775,830<br>
-_subscriptions per 100 inhabitants_: 106.57 (2019 est.)<br>
+_total subscriptions_: 5,825,584 (2020)<br>
+_subscriptions per 100 inhabitants_: 107.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;  broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: sophisticated telecom market with high broadband and mobile penetration rates and a highly developed digital media sector; synchronized with EC legislation; comprehensive LTE and focus on 5G;&nbsp; broadband penetration among highest in Europe; operators will migrate all DSL subscribers to fiber by 2023 and close 2G and 3G networks by 2025; regulator assigned spectrum for 5G; operator partners with Huawei for smart agriculture project; Oslo utilizes smart city technology; municipalities access EU-funded public Wi-Fi; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: Norway has a domestic satellite system; the prevalence of rural areas encourages the wide use of mobile-cellular systems; fixed-line 11 per 100 and mobile-cellular 107 per 100 (2019)<br>
 _international_: country code - 47;&nbsp;landing points for the&nbsp;Svalbard Undersea Cable System, Polar Circle Cable, Bodo-Rost Cable, NOR5KE Viking, Celtic Norse, Tempnet Offshore FOC Network, England Cable, Denmark-Norwary6, Havfrue/AEC-2, Skagerrak 4, and the Skagenfiber West &amp; East&nbsp;submarine cables providing links to other Nordic countries, Europe and the US; satellite earth stations - Eutelsat,&nbsp;Intelsat (Atlantic Ocean), and 1 Inmarsat (Atlantic and Indian Ocean regions); note - Norway shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Iceland, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -607,8 +607,8 @@ _total_: 5,183,627<br>
 _percent of population_: 96.49% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,260,605<br>
-_subscriptions per 100 inhabitants_: 41.71 (2019 est.)<br>
+_total_: 2,387,661 (2020)<br>
+_subscriptions per 100 inhabitants_: 44.04 (2020 est.)<br>
 
 ## Transportation
 
@@ -651,8 +651,8 @@ _total_: 94,902 km (includes 455 km of expressways) (2018)<br>
 1,577 km (2010)<br>
 
 **Merchant marine**<br>
-_total_: 1,619<br>
-_by type_: bulk carrier 102, general cargo 242, oil tanker 92, other 1,183 (2020)<br>
+_total_: 1,644<br>
+_by type_: bulk carrier 109, container ship 1, general cargo 242, oil tanker 96, other 1,196 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bergen, Haugesund, Maaloy, Mongstad, Narvik, Sture<br>

@@ -62,7 +62,7 @@ _other_: 2.4% (2018 est.)<br>
 1,362 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
+Rio de la Plata/Parana (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -227,15 +227,10 @@ _total population_: 94.5%<br>
 _male_: 94.9%<br>
 _female_: 94.2% (2020)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 12 years<br>
-_female_: 13 years (2010)<br>
-
 **Unemployment, youth ages 15-24**<br>
-_total_: 15.3%<br>
-_male_: 12.1%<br>
-_female_: 20.1% (2019 est.)<br>
+_total_: 17.1%<br>
+_male_: 13.1%<br>
+_female_: 23.3% (2020 est.)<br>
 
 ## Environment
 
@@ -281,7 +276,7 @@ _vectorborne diseases_: dengue fever<br>
 _municipal solid waste generated annually_: 1,818,501 tons (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Rio de la Plata/Parana (shared with Brazil, Argentina, Uruguay, and Bolivia) - 4,880 km; Paraguay (shared with Brazil and Argentina) - 2,549 km<br>
+Rio de la Plata/Parana (shared with Brazil [s], Argentina, and Uruguay [m]) - 4,880 km; Paraguay river mouth (shared with Brazil [s] and Argentina) - 2,549 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Paran&aacute; (2,582,704 sq km)<br>
@@ -607,15 +602,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 272,656<br>
-_subscriptions per 100 inhabitants_: 3.84 (2019 est.)<br>
+_total subscriptions_: 272,656 (2019)<br>
+_subscriptions per 100 inhabitants_: 3.87 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,761,848<br>
-_subscriptions per 100 inhabitants_: 109.24 (2019 est.)<br>
+_total subscriptions_: 7,761,848 (2019)<br>
+_subscriptions per 100 inhabitants_: 110.2 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 100 free Internet points across the country; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2021)</p> (2020)<br>
+_general assessment_: limited progress on structural reform and deficient infrastructure of the landlocked country are obstacles to telecom platform; monopolized fixed-line service; effective competition in mobile market, serving 96% of population through LTE; deployment of fiber; South Korean investment in education centers; operator enabled 100 free Internet points across the country; Inter-American Development Bank loan supports modernization within regulatory framework; dependent on neighboring countries for access to submarine cables; major importer of broadcasting equipment from the USA (2020)<br>
 _domestic_: deficiencies in provision of fixed-line service have resulted in a rapid expansion of mobile-cellular services fostered by competition among multiple providers; Internet market also open to competition; fixed-line 4 per 100 and mobile-cellular 107 per 100 (2019)<br>
 _international_: country code - 595; Paraguay's landlocked position means they must depend on neighbors for interconnection with submarine cable networks, making it cost more for broadband services; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -631,8 +626,8 @@ _total_: 4,566,043<br>
 _percent of population_: 64.99% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 377,379<br>
-_subscriptions per 100 inhabitants_: 5.31 (2019 est.)<br>
+_total_: 377,379 (2019)<br>
+_subscriptions per 100 inhabitants_: 5.36 (2019 est.)<br>
 
 ## Transportation
 
@@ -674,7 +669,7 @@ _unpaved_: 68,509 km (2017)<br>
 
 **Merchant marine**<br>
 _total_: 110<br>
-_by type_: container ship 3, general cargo 25, oil tanker 5, other 77 (2020)<br>
+_by type_: container ship 3, general cargo 25, oil tanker 5, other 77 (2021)<br>
 <strong>note:</strong> as of 2017, Paraguay registered 2,012 fluvial vessels of which 1,741 were commercial barges<br>
 
 **Ports and terminals**<br>

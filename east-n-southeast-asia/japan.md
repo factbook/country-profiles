@@ -179,7 +179,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.41 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-13.1 beds/1,000 population (2017)<br>
+13 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -212,12 +212,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 15 years<br>
-_female_: 15 years (2016)<br>
+_female_: 15 years (2018)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 3.8%<br>
-_male_: 3.9%<br>
-_female_: 3.7% (2019 est.)<br>
+_total_: 4.6%<br>
+_male_: 5%<br>
+_female_: 4.2% (2020 est.)<br>
 
 ## Environment
 
@@ -325,7 +325,7 @@ _chief of state_: Emperor NARUHITO (since 1 May 2019); note - succeeds his fathe
 _head of government_: Prime Minister Fumio KISHIDA (since 4 October 2021 )<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; the leader of the majority party or majority coalition in the House of Representatives usually becomes prime minister<br>
-_election results_: Fumio KISHIDA elected prime minister on 4 October 2021 by the lower house with 311 votes against 124 for Yukio EDANO<br>
+_election results_: Fumio KISHIDA relected prime minister on 10 November 2021 by the lower house with 297 votes against 108 for Yukio EDANO and in the upper houese 141 for KISHIDA and 60 for EDANO&nbsp;<br>
 
 **Legislative branch**<br>
 _description_: bicameral Diet or Kokkai consists of:<br>House of Councillors or Sangi-in (242 seats; 146 members directly elected in multi-seat districts by simple majority vote and 96 directly elected in a single national constituency by proportional representation vote; members serve 6-year terms with half the membership renewed every 3 years)<br>House of Representatives or Shugi-in (465 seats; 289 members directly elected in single-seat districts by simple majority vote and 176 directly elected in multi-seat districts by party-list proportional representation vote; members serve 4-year terms)<br>
@@ -586,15 +586,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 62,743,196<br>
-_subscriptions per 100 inhabitants_: 49.97 (2019 est.)<br>
+_total subscriptions_: 62,252,837 (2020)<br>
+_subscriptions per 100 inhabitants_: 49.22 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 186,514,109<br>
-_subscriptions per 100 inhabitants_: 148.55 (2019 est.)<br>
+_total subscriptions_: 192,284,308 (2020)<br>
+_subscriptions per 100 inhabitants_: 152 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>excellent domestic and international service; exceedingly high mobile, mobile broadband, and fixed broadband penetration; in last decade, government policies supported delivery of fiber-optic broadband to over 90% of households; one of Japan's largest e-commerce companies planning to build its own nationwide stand-alone 5G mobile network; government to implement a telecom tax to pay for rural 5G network; fixed broadband subscriptions grow as DSL is phased out; major importer of integrated circuits from China (2020)</p> (2020)<br>
+_general assessment_: excellent domestic and international service; exceedingly high mobile, mobile broadband, and fixed broadband penetration; in last decade, government policies supported delivery of fiber-optic broadband to over 90% of households; one of Japan's largest e-commerce companies planning to build its own nationwide stand-alone 5G mobile network; government to implement a telecom tax to pay for rural 5G network; fixed broadband subscriptions grow as DSL is phased out; major importer of integrated circuits from China (2020)<br>
 _domestic_: high level of modern technology and excellent service of every kind; 50 per 100 for fixed-line and 140 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 81; numerous submarine cables with landing points for HSCS, JIH, RJCN, APCN-2, JUS, EAC-C2C, PC-1, Tata TGN-Pacific, FLAG North Asia Loop/REACH North Asia Loop, APCN-2, FASTER, SJC, SJC2, Unity/EAC-Pacific, JGA-N, APG, ASE, AJC, JUPITER, MOC, Okinawa Cellular Cable, KJCN, GOKI, KJCN, and SeaMeWE-3, submarine cables provide links throughout Asia, Australia, the Middle East, Europe, Southeast Asia, Africa&nbsp;and US; satellite earth stations - 7 Intelsat (Pacific and Indian Oceans), 1 Intersputnik (Indian Ocean region), 2 Inmarsat (Pacific and Indian Ocean regions), and 8 SkyPerfect JSAT (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -610,8 +610,8 @@ _total_: 106,725,643<br>
 _percent of population_: 84.59% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 42,502,489<br>
-_subscriptions per 100 inhabitants_: 33.85 (2019 est.)<br>
+_total_: 43,633,244 (2020)<br>
+_subscriptions per 100 inhabitants_: 34.5 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,8 +662,8 @@ _unpaved_: 225,937 km (2015)<br>
 1,770 km (seagoing vessels use inland seas) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 5,041<br>
-_by type_: bulk carrier 161, container ship 43, general cargo 1,789, oil tanker 667, other 2,381 (2020)<br>
+_total_: 5,201<br>
+_by type_: bulk carrier 148, container ship 45, general cargo 1,900, oil tanker 666, other 2,442 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Chiba, Kawasaki, Kobe, Mizushima, Moji, Nagoya, Osaka, Tokyo, Tomakomai, Yokohama<br>

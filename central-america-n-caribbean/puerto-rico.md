@@ -251,7 +251,7 @@ _abbreviation_: PR<br>
 _etymology_: Christopher COLUMBUS named the island San Juan Bautista (Saint John the Baptist) and the capital city and main port Cuidad de Puerto Rico (Rich Port City); over time, however, the names were shortened and transposed and the island came to be called Puerto Rico and its capital San Juan<br>
 
 **Government type**<br>
-republican form of government with separate executive, legislative, and judicial branches; unincorporated organized territory of the US with local self-government<br>
+unincorporated organized territory of the US with local self-government; republican form of territorial government with separate executive, legislative, and judicial branches<br>
 Note: reference Puerto Rican Federal Relations Act, 2 March 1917, as amended by Public Law 600, 3 July 1950<br>
 
 **Dependency status**<br>
@@ -530,7 +530,7 @@ _total subscriptions_: 3,371,969<br>
 _subscriptions per 100 inhabitants_: 104.03 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2021)</p> (2020)<br>
+_general assessment_: small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)<br>
 _domestic_: digital telephone system; mobile-cellular services; fixed-line 23 per 100 and mobile-cellular 115 per 100 persons (2019)<br>
 _international_: country code - 1-787, 939; landing points for the GTMO-PR, AMX-1, BRUSA, GCN, PCCS, SAm-1, Southern Caribbean Fiber, Americas-II, Antillas, ARCOS, SMPR-1, and Taino-Carib submarine cables providing connectivity to the mainland US, Caribbean, Central and South America; satellite earth station - 1 Intelsat (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

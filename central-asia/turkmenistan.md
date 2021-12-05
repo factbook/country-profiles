@@ -65,7 +65,7 @@ _other_: 19.2% (2018 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Uzbekistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -222,7 +222,7 @@ _female_: 99.6% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 13 years (2019)<br>
+_female_: 13 years (2020)<br>
 
 ## Environment
 
@@ -266,7 +266,7 @@ _municipal solid waste generated annually_: 500,000 tons (2013 est.)<br>
 _Salt water lake(s)_: Caspian Sea (shared with Iran, Azerbaijan, Russia, and Kazakhstan) - 374,000 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Amu Darya (shared with Uzbekistan, Tajikistan, and Afghanistan) - 2,620 km;&nbsp;<br>
+Amu Darya (shared with Tajikistan [s], Afghanistan, and Uzbekistan [m]) - 2,620 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Internal <em>(endorheic basin) </em>drainage: <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -590,7 +590,7 @@ _total subscriptions_: 8,908,821<br>
 _subscriptions per 100 inhabitants_: 162.86 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>stagnant economy, rural geography, and authoritarian rule limit development of the telecom sector; in cooperation with Russian-based partners, operators have installed high-speed fiber-optic lines and upgraded most of the country's telephone switch centers with digital technology; some rural areas lack fixed-line coverage; mobile broadband is in the early stages of development; services are extremely slow, though Trans-Caspian cable will provide international Internet capacity and improvement in services; freedom of press and expression restricted through monitoring, media interruption, and removal of receivers from households; importer of broadcasting equipment from UAE (2021)</p> (2020)<br>
+_general assessment_: stagnant economy, rural geography, and authoritarian rule limit development of the telecom sector; in cooperation with Russian-based partners, operators have installed high-speed fiber-optic lines and upgraded most of the country's telephone switch centers with digital technology; some rural areas lack fixed-line coverage; mobile broadband is in the early stages of development; services are extremely slow, though Trans-Caspian cable will provide international Internet capacity and improvement in services; freedom of press and expression restricted through monitoring, media interruption, and removal of receivers from households; importer of broadcasting equipment from UAE (2020)<br>
 _domestic_: fixed-line 12 per 100 and mobile-cellular teledensity is about 163 per 100 persons; first telecommunication satellite was launched in 2015 (2019)<br>
 _international_: country code - 993; linked by fiber-optic cable and microwave radio relay to other CIS republics and to other countries by leased connections to the Moscow international gateway switch; an exchange in Ashgabat switches international traffic through Turkey via Intelsat; satellite earth stations - 1 Orbita and 1 Intelsat (2018)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -654,8 +654,8 @@ _unpaved_: 11,015 km (2002)<br>
 1,300 km (Amu Darya River and Kara Kum Canal are important inland waterways) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 68<br>
-_by type_: general cargo 6, oil tanker 8, other 54 (2020)<br>
+_total_: 73<br>
+_by type_: general cargo 6, oil tanker 8, other 59 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Caspian Sea - Turkmenbasy<br>

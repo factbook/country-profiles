@@ -5,7 +5,7 @@ _Central America and Caribbean / Countries_
 ## Introduction
 
 **Background**<br>
-The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados plans to remove the British monarch as its head of state by November 2021 and transition to a republic.<br>
+The island was uninhabited when first settled by the British in 1627. African slaves worked the sugar plantations established on the island, which initially dominated the Caribbean sugar industry. By 1720 Barbados was no longer a dominant force within the sugar industry, having been surpassed by the Leeward Islands and Jamaica. Slavery was abolished in 1834. The Barbadian economy remained heavily dependent on sugar, rum, and molasses production through most of the 20th century. The gradual introduction of social and political reforms in the 1940s and 1950s led to complete independence from the UK in 1966. In the 1990s, tourism and manufacturing surpassed the sugar industry in economic importance. Barbados became a republic on 30 November 2021, with the former Governor-General Sandra MASON elected as the first president.<br>
 
 ## Geography
 
@@ -262,7 +262,7 @@ _conventional short form_: Barbados<br>
 _etymology_: the name derives from the Portuguese "as barbadas," which means "the bearded ones" and can refer either to the long, hanging roots of the island's bearded fig trees or to the alleged beards of the native Carib inhabitants<br>
 
 **Government type**<br>
-parliamentary democracy&nbsp;under a constitutional monarchy; a Commonwealth realm<br>
+parliamentary republic; a Commonwealth realm<br>
 
 **Capital**<br>
 _name_: Bridgetown<br>
@@ -280,8 +280,9 @@ _etymology_: named after a bridge constructed over the swampy area (known as the
 Independence Day, 30 November (1966)<br>
 
 **Constitution**<br>
-_history_: adopted 22 November 1966, effective 30 November 1966<br>
-_amendments_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2020<br>
+_history_: adopted 22 November 1966, effective 30 November 1966; &nbsp;Constitution (Amendment) (No. 2) Bill, 2021 establishes Barbados as a republic and revokes the earlier Order in Council<br>
+_amendments_: proposed by Parliament; passage of amendments to constitutional sections such as citizenship, fundamental rights and freedoms, and the organization and authorities of the branches of government requires two-thirds majority vote by the membership of both houses of Parliament; passage of other amendments only requires a majority vote of both houses; amended several times, last in 2021<br>
+<strong>note </strong>- following the transition to a republic on 30 November 2021, the Government of Barbados plans a consultation on drafting a new constitution<br>
 
 **Legal system**<br>
 English common law; no judicial review of legislative acts<br>
@@ -299,20 +300,21 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Governor General Sandra MASON (since 8 January 2018)<br>
+_chief of state_: President Sandra MASON (since 30 November 2021)<br>
 _head of government_: Prime Minister Mia MOTTLEY (since 25 May 2018)<br>
-_cabinet_: Cabinet appointed by the governor general on the advice of the prime minister<br>
-_elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the governor general; the prime minister recommends the deputy prime minister<br>
+_cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
+_elections/appointments_: the president is elected by an electoral college of both Houses of Parliament for a four year renewable term; election last held 20 October 2021; following legislative elections, the leader of the majority party or leader of the majority coalition usually appointed prime minister by the president; the prime minister recommends the deputy prime minister<br>
+_election results_: Sandra MASON elected as first president on 20 October 2021 to take office on 30 November 2021<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the governor general - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the governor general) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
+_description_: bicameral Parliament consists of:<br>Senate (21 seats; members appointed by the president - 12 on the advice of the Prime Minister, 2 on the advice of the opposition leader, and 7 at the discretion of the president) <br>House of Assembly (30 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: <br>Senate - last appointments on 5 June 2018 (next appointments NA)<br>House of Assembly - last held on 24 May 2018 (next to be held in 2023)<br>
 _election results_: <br>Senate - appointed; composition - men 16, women 5, percent of women 23.8% <br>House of Assembly - percent of vote by party - BLP 74.6%, DLP 22.6%, other 2.8%; seats by party - BLP 30; composition - men 24, women 6, percent of women 20%; note - total Parliament percent of women 21.6%<br>
 <strong>note:</strong> tradition dictates that the election is held within 5 years of the last election, but constitutionally it is 5 years from the first seating of Parliament plus a 90-day grace period<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the High Court with 8 justices) and the Court of Appeal (consists of the High Court chief justice and president of the court and 4 justices; note - in 2005, Barbados acceded to the Caribbean Court of Justice as the final court of appeal, replacing that of the Judicial Committee of the Privy Council (in London)<br>
-_judge selection and term of office_: Supreme Court chief justice appointed by the governor general on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the governor general on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and governor general appointees recommended by the prime minister; justices serve until mandatory retirement at age 65<br>
+_judge selection and term of office_: Supreme Court chief justice appointed by the president on the recommendation of the prime minister and opposition leader of Parliament; other justices appointed by the president on the recommendation of the Judicial and Legal Service Commission, a 5-member independent body consisting of the Supreme Court chief justice, the commission head, and presidential appointees recommended by the prime minister; justices serve until mandatory retirement at age 65<br>
 _subordinate courts_: Magistrates' Courts<br>
 
 **Political parties and leaders**<br>
@@ -601,8 +603,8 @@ _total_: 1,700 km (2015)<br>
 _paved_: 1,700 km (2015)<br>
 
 **Merchant marine**<br>
-_total_: 145<br>
-_by type_: bulk carrier 31, general cargo 100, other 14 (2020)<br>
+_total_: 165<br>
+_by type_: bulk carrier 46, general cargo 103, other 16 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bridgetown<br>

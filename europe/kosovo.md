@@ -179,9 +179,9 @@ NA<br>
 NA<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 49.5%<br>
-_male_: 44.2%<br>
-_female_: 60.4% (2019 est.)<br>
+_total_: 49.7%<br>
+_male_: 45.9%<br>
+_female_: 57.6% (2020 est.)<br>
 
 ## Environment
 
@@ -530,7 +530,7 @@ _total subscriptions_: 620,186<br>
 _subscriptions per 100 inhabitants_: 32.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)</p> (2020)<br>
+_general assessment_: EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)<br>
 _domestic_: fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
 _international_: country code - 383<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

@@ -516,7 +516,7 @@ _total subscriptions_: 275,002<br>
 _subscriptions per 100 inhabitants_: 96.02 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>New Caledonia has a well-developed telecom sector with 3G and LTE network services; one of the highest smart phone adoption rates in the region; telecommunications sector is dominated by government-owned company with a monopoly on fixed and mobile services, Internet, and broadband access; hub for submarine cables that will increase competition and capacity; importer of broadcasting equipment and computers from France (2020)</p> (2020)<br>
+_general assessment_: New Caledonia has a well-developed telecom sector with 3G and LTE network services; one of the highest smart phone adoption rates in the region; telecommunications sector is dominated by government-owned company with a monopoly on fixed and mobile services, Internet, and broadband access; hub for submarine cables that will increase competition and capacity; importer of broadcasting equipment and computers from France (2020)<br>
 _domestic_: fixed-line 29 per 100 and mobile-cellular telephone subscribership 96 per 100 persons (2019)<br>
 _international_: country code - 687; landing points for the Gondwana-1 and Picot-1 providing connectivity via submarine cables&nbsp;around New&nbsp;Caledonia and&nbsp;to Australia; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -558,8 +558,8 @@ _under 914 m_: 8 (2013)<br>
 _total_: 5,622 km (2006)<br>
 
 **Merchant marine**<br>
-_total_: 26<br>
-_by type_: general cargo 5, oil tanker 1, other 20 (2020)<br>
+_total_: 24<br>
+_by type_: general cargo 5, oil tanker 1, other 18 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Noumea<br>

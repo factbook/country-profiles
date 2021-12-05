@@ -191,9 +191,6 @@ _unimproved: total_: total: 32% of population (2017 est.)<br>
 **Physicians density**<br>
 0.16 physicians/1,000 population (2018)<br>
 
-**Hospital bed density**<br>
-1.4 beds/1,000 population (2010)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 78.8% of population<br>
 _improved: rural_: rural: 41.2% of population<br>
@@ -233,15 +230,10 @@ _total population_: 81.5%<br>
 _male_: 85%<br>
 _female_: 78.2% (2018)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 11 years (2009)<br>
-
 **Unemployment, youth ages 15-24**<br>
-_total_: 7.4%<br>
-_male_: 7.3%<br>
-_female_: 7.4% (2016)<br>
+_total_: 12.9%<br>
+_male_: 12%<br>
+_female_: 13.8% (2019)<br>
 
 ## Environment
 
@@ -632,7 +624,7 @@ _total subscriptions_: 61,408,904 (2020)<br>
 _subscriptions per 100 inhabitants_: 114.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>through increased competition, Kenya’s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2021)</p> (2020)<br>
+_general assessment_: through increased competition, Kenya&rsquo;s telecom market has improved international bandwidth and experienced rapid development in mobile sector, including remote regions; four fiber-optic submarine cables reduced costs and increased service to population; government supported LTE and broadband, promising economic support of free WiFi; mobile operators progress with 5G tests; e-commerce interoperability; importer of broadcasting equipment, video displays, and computers from China (2020)<br>
 _domestic_: fixed-line subscriptions stand at less than 1 per 100 persons; multiple providers in the mobile-cellular segment of the market fostering a boom in mobile-cellular telephone usage with teledensity reaching 104 per 100 persons (2019)<br>
 _international_: country code - 254; landing point for the EASSy, TEAMS, LION2, DARE1, PEACE Cable, and SEACOM fiber-optic submarine cable systems covering East, North&nbsp;and South Africa, Europe, the Middle East, and Asia; satellite earth stations - 4 Intelsat; launched first micro satellites in 2018 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -696,8 +688,8 @@ _unpaved_: 147,032 km (2017)<br>
 none specifically; the only significant inland waterway is the part of Lake Victoria within the boundaries of Kenya; Kisumu is the main port and has ferry connections to Uganda and Tanzania (2011)<br>
 
 **Merchant marine**<br>
-_total_: 24<br>
-_by type_: oil tanker 2, other 22 (2020)<br>
+_total_: 26<br>
+_by type_: oil tanker 3, other 23 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kisumu, Mombasa<br>
@@ -746,7 +738,7 @@ al-Shabaab; Islamic Revolutionary Guard Corps/Qods Force<br>
 <p>Kenya served as an important mediator in brokering Sudan's north-south separation in February 2005; as of March 2019, Kenya provides shelter to nearly 475,000 refugees and asylum seekers, including Ugandans who flee across the border periodically to seek protection from Lord's Resistance Army rebels; Kenya works hard to prevent the clan and militia fighting in Somalia from spreading across the border, which has long been open to nomadic pastoralists; the boundary that separates Kenya's and Sudan's sovereignty is unclear in the "Ilemi Triangle," which Kenya has administered since colonial times; in 2018, Kenya signed an MoU with Uganda and South Sudan to help demarcate their borders</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 262,736 (Somalia), 148,249 (South Sudan), 30,576 (Democratic Republic of the Congo), 20,668 (Ethiopia), 7,160 (Burundi) (2021)<br>
+_refugees (country of origin)_: 262,736 (Somalia), 148,249 (South Sudan), 48,262 (Democratic Republic of the Congo), 30,241 (Ethiopia), 12,520 (Burundi) (2021)<br>
 _IDPs_: 190,000 (election-related violence, intercommunal violence, resource conflicts, al-Shabaab attacks in 2017 and 2018) (2020)<br>
 _stateless persons_: 16,820 (2020); note - the stateless population consists of Nubians, Kenyan Somalis, and coastal Arabs; the Nubians are descendants of Sudanese soldiers recruited by the British to fight for them in East Africa more than a century ago; Nubians did not receive Kenyan citizenship when the country became independent in 1963; only recently have Nubians become a formally recognized tribe and had less trouble obtaining national IDs; Galjeel and other Somalis who have lived in Kenya for decades are included with more recent Somali refugees and denied ID cards<br>
 

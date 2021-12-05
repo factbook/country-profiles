@@ -428,6 +428,10 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey; 
 _total_: 58,000<br>
 _percent of population_: 59.6% (July 2016 est.)<br>
 
+**Broadband - fixed subscriptions**<br>
+_total_: NA<br>
+_subscriptions per 100 inhabitants_: NA<br>
+
 ## Transportation
 
 **National air transport system**<br>

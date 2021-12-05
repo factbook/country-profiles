@@ -68,7 +68,7 @@ _Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Czechia) - 1,252 km; Rhine&nbsp; (shared with Switzerland, France, and Netherlands) - 1,233 km;<br>
+Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -222,12 +222,12 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 17 years<br>
 _male_: 17 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 5.8%<br>
-_male_: 6.6%<br>
-_female_: 4.8% (2019 est.)<br>
+_total_: 7.2%<br>
+_male_: 7.9%<br>
+_female_: 6.4% (2020 est.)<br>
 
 ## Environment
 
@@ -274,7 +274,7 @@ _Fresh water lake(s)_: Lake Constance (shared with Switzerland and Austria) - 54
 _Salt water lake(s)_: Stettiner Haff/Zalew Szczecinski (shared with Poland) - 900 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km; Elbe (shared with Czechia) - 1,252 km; Rhine&nbsp; (shared with Switzerland, France, and Netherlands) - 1,233 km;<br>
+Danube river source (shared with Austria, Slovakia, Czechia, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km; Elbe river mouth (shared with Czechia [s]) - 1,252 km; Rhine  (shared with Switzerland [s], France, and Netherlands [m]) - 1,233 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Rhine-Maas (198,735 sq km), <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -601,15 +601,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 40.4 million<br>
-_subscriptions per 100 inhabitants_: 50.35 (2019 est.)<br>
+_total subscriptions_: 38.3 million (2020)<br>
+_subscriptions per 100 inhabitants_: 45.71 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 107.2 million<br>
-_subscriptions per 100 inhabitants_: 133.61 (2019 est.)<br>
+_total subscriptions_: 107.5 million (2020)<br>
+_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the world's most technologically advanced telecom systems with additional security measures; LTE universally available and 5G service to over 80% of population; mobile market is driven by data, with increased broadband subscribership; regulatory measures aimed at facilitating wholesale network access to provide fiber-based broadband services; government aims to provide smart technology solutions; over 60 cities use smart technology in urban development, many through joint initiative with private sector, utility companies, and universities; importer of broadcast equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: one of the world's most technologically advanced telecom systems with additional security measures; LTE universally available and 5G service to over 80% of population; mobile market is driven by data, with increased broadband subscribership; regulatory measures aimed at facilitating wholesale network access to provide fiber-based broadband services; government aims to provide smart technology solutions; over 60 cities use smart technology in urban development, many through joint initiative with private sector, utility companies, and universities; importer of broadcast equipment and computers from China (2020)<br>
 _domestic_: extensive system of automatic telephone exchanges connected by modern networks of fiber-optic cable, coaxial cable, microwave radio relay, and a domestic satellite system; cellular telephone service is widely available, expanding rapidly, and includes roaming service to many foreign countries; 48 per 100 for fixed-line and 128 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 49;&nbsp;landing points for SeaMeWe-3, TAT-14, AC-1, CONTACT-3, Fehmarn Balt, C-Lion1,&nbsp;GC1, GlobalConnect-KPN, and Germany-Denmark 2 &amp; 3 -&nbsp;submarine&nbsp;cables to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; as well as earth stations in the Inmarsat, Intelsat, Eutelsat, and Intersputnik satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -625,8 +625,8 @@ _total_: 72,202,773<br>
 _percent of population_: 89.74% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 35,071,539<br>
-_subscriptions per 100 inhabitants_: 43.71 (2019 est.)<br>
+_total_: 36,040,739 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.01 (2020 est.)<br>
 
 ## Transportation
 
@@ -677,8 +677,8 @@ _paved_: 625,000 km (includes 12,996 km of expressways) (2017)<br>
 7,467 km (Rhine River carries most goods; Main-Danube Canal links North Sea and Black Sea) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 607<br>
-_by type_: bulk carrier 1, container ship 84, general cargo 86, oil tanker 37, other 399 (2020)<br>
+_total_: 599<br>
+_by type_: container ship 77, general cargo 85, oil tanker 36, other 401 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <br><em>Baltic Sea:</em> Kiel, Rostock<br><em>North Sea:</em> Bremerhaven, Brunsbuttel, Emden, Hamburg, Wilhelmshaven<br>

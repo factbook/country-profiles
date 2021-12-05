@@ -176,7 +176,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.08 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3.1 beds/1,000 population (2017)<br>
+2.8 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -209,12 +209,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 19 years<br>
 _male_: 18 years<br>
-_female_: 20 years (2018)<br>
+_female_: 20 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 8.7%<br>
-_male_: 11.8%<br>
-_female_: 5.6% (2019 est.)<br>
+_total_: 10%<br>
+_male_: 11.1%<br>
+_female_: 9% (2020 est.)<br>
 
 ## Environment
 
@@ -573,15 +573,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 125,567<br>
-_subscriptions per 100 inhabitants_: 36.16 (2019 est.)<br>
+_total subscriptions_: 107,032 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.37 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 413,446<br>
-_subscriptions per 100 inhabitants_: 119.08 (2019 est.)<br>
+_total subscriptions_: 421,384 (2020)<br>
+_subscriptions per 100 inhabitants_: 123.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2021)</p> (2020)<br>
+_general assessment_: small but most progressive telecom market in Europe; telecom infrastructure is modern and fully digitized, with satellite-earth stations, fiber-optic cables, and an extensive broadband network; near universal fixed broadband service of at least 100Mb/s by the end of 2021; operator aims for national 5G coverage by end of 2022; good competition among mobile and broadband markets; investment by operators and government in support of NGN, particularly in rural areas; submarine cable to Ireland; importer of broadcasting equipment from Vietnam and China (2020)<br>
 _domestic_: liberalization of the telecommunications sector beginning in the late 1990s has led to increased competition especially in the mobile services segment of the market; 37 per 100 for fixed line and 122 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 354; landing points for the CANTAT-3, FARICE-1, Greenland Connect and DANICE&nbsp;submarine cable system that provides connectivity to Canada, the Faroe Islands, Greenland, UK, Denmark, and Germany;&nbsp;satellite earth stations - 2 Intelsat (Atlantic Ocean), 1 Inmarsat (Atlantic and Indian Ocean regions); note - Iceland shares the Inmarsat earth station with the other Nordic countries (Denmark, Finland, Norway, and Sweden) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -597,8 +597,8 @@ _total_: 340,117<br>
 _percent of population_: 99.01% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 139,241<br>
-_subscriptions per 100 inhabitants_: 40.1 (2019 est.)<br>
+_total_: 141,816 (2020)<br>
+_subscriptions per 100 inhabitants_: 41.56 (2020 est.)<br>
 
 ## Transportation
 
@@ -632,8 +632,8 @@ _paved/oiled gravel_: 5,647 km (excludes urban roads) (2012)<br>
 _unpaved_: 7,251 km (2012)<br>
 
 **Merchant marine**<br>
-_total_: 40<br>
-_by type_: general cargo 5, oil tanker 2, other 33 (2020)<br>
+_total_: 41<br>
+_by type_: general cargo 5, oil tanker 2, other 34 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Grundartangi, Hafnarfjordur, Reykjavik<br>

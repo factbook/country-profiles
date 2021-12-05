@@ -68,7 +68,7 @@ _Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq 
 _Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -193,7 +193,7 @@ _unimproved: total_: total: 31.8% of population (2017 est.)<br>
 0.01 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-0.7 beds/1,000 population (2010)<br>
+0.7 beds/1,000 population<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 82.1% of population<br>
@@ -237,7 +237,7 @@ _female_: 73.1% (2015)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: 9 years<br>
-_female_: 9 years (2019)<br>
+_female_: 9 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 3.9%<br>
@@ -297,7 +297,7 @@ _Fresh water lake(s)_: Lake Victoria (shared with Uganda and Kenya) - 62,940 sq 
 _Salt water lake(s)_: Lake Rukwa - 5,760 sq km<br>
 
 **Major rivers (by length in km)**<br>
-Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Nile (shared with Rwanda [s], Uganda, South Sudan, Sudan, and Egypt [m]) - 6,650 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Congo (3,730,881 sq km), <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -619,12 +619,12 @@ _electrification - rural areas_: 23% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 76,288<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 72,469 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 47,685,232<br>
-_subscriptions per 100 inhabitants_: 81.29 (2019 est.)<br>
+_total subscriptions_: 51,220,233 (2020)<br>
+_subscriptions per 100 inhabitants_: 85.75 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tanzania&rsquo;s telecom services are marginal and operating below capacity; one fixed-line operator with competition in mobile networks; high tariffs on telecom; mobile use is growing with popularity of 3G/LTE services; government allocated funds in 2019 to improve rural telecom infrastructure and work on national fiber backbone network connecting population around country (2020)<br>
@@ -643,8 +643,8 @@ _total_: 13,862,836<br>
 _percent of population_: 25% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,039,655<br>
-_subscriptions per 100 inhabitants_: 1.77 (2019 est.)<br>
+_total_: 1,084,698 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.82 (2020 est.)<br>
 
 ## Transportation
 
@@ -691,8 +691,8 @@ _unpaved_: 77,556 km (2015)<br>
 (Lake Tanganyika, Lake Victoria, and Lake Nyasa (Lake Malawi) are the principal avenues of commerce with neighboring countries; the rivers are not navigable) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 315<br>
-_by type_: bulk carrier 3, container ship 5, general cargo 156, oil tanker 45, other 106 (2020)<br>
+_total_: 314<br>
+_by type_: bulk carrier 4, container ship 6, general cargo 144, oil tanker 49, other 111 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dar es Salaam, Zanzibar<br>
@@ -740,7 +740,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,534 (Burundi), 78,676 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 126,785 (Burundi), 78,676 (Democratic Republic of the Congo) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

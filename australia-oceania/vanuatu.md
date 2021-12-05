@@ -210,6 +210,11 @@ _total population_: 87.5%<br>
 _male_: 88.3%<br>
 _female_: 86.7% (2018)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 18%<br>
+_male_: 16.1%<br>
+_female_: 20.1% (2019 est.)<br>
+
 ## Environment
 
 **Environment - current issues**<br>
@@ -560,7 +565,7 @@ _total subscriptions_: 265,219<br>
 _subscriptions per 100 inhabitants_: 90.56 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>liberalized telecom services; mobile phones are primary means of communication; LTE services and rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed-broadband infrastructure and installation of fiber-optic cables supported sector growth; mobile broadband infrastructure expanded in 2020, resulting in reduced consumer prices; Kacific-1 broadband satellite has improved broadband capacity and access since 2019; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: liberalized telecom services; mobile phones are primary means of communication; LTE services and rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed-broadband infrastructure and installation of fiber-optic cables supported sector growth; mobile broadband infrastructure expanded in 2020, resulting in reduced consumer prices; Kacific-1 broadband satellite has improved broadband capacity and access since 2019; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line 1 per 100 and mobile-cellular 88 per 100 (2019)<br>
 _international_: country code - 678; landing points for the ICN1 &amp; ICN2 submarine cables providing connectivity to the Solomon Islands and Fiji; cables helped end-users with Internet bandwidth; satellite earth station - 1 Intelsat (Pacific Ocean) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -610,8 +615,8 @@ _paved_: 256 km (2000)<br>
 _unpaved_: 814 km (2000)<br>
 
 **Merchant marine**<br>
-_total_: 345<br>
-_by type_: bulk carrier 23, container ship 1, general cargo 43, other 278 (2020)<br>
+_total_: 306<br>
+_by type_: bulk carrier 18, container ship 2, general cargo 55, oil tanker 2, other 229 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br>

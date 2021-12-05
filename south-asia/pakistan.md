@@ -65,7 +65,7 @@ _other_: 62.7% (2018 est.)<br>
 202,000 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
+Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -231,12 +231,12 @@ _male_: 69.3%<br>
 _female_: 46.5% (2019)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 8 years<br>
+_total_: 9 years<br>
 _male_: 9 years<br>
-_female_: 8 years (2018)<br>
+_female_: 8 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 7.8%<br>
+_total_: 7.9%<br>
 _male_: 8.2%<br>
 _female_: 6.8% (2018 est.)<br>
 
@@ -291,7 +291,7 @@ _municipal solid waste recycled annually_: 2,460,800 tons (2017 est.)<br>
 _percent of municipal solid waste recycled_: 8% (2017 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Indus (shared with India and China) - 3,610 km; Sutlej (shared with India) - 1,372 km; Chenab (shared with India) - 1,086 km<br>
+Indus river mouth (shared with China [s] and India) - 3,610 km; Sutlej river mouth (shared with China [s] and India) - 1,372 km; Chenab river mouth (shared with India [s]) - 1,086 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Indus (1,081,718 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Tarim Basin (1,152,448 sq km), <em>(Aral Sea basin)</em> Amu Darya (534,739 sq km)<br>
@@ -626,15 +626,15 @@ _electrification - rural areas_: 72% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,461,916<br>
-_subscriptions per 100 inhabitants_: 1.08 (2019 est.)<br>
+_total subscriptions_: 2,876,794 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.3 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 165,405,847<br>
 _subscriptions per 100 inhabitants_: 72.33 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Pakistan’s telecom market recently transitioned from a regulated state-owned monopoly to a deregulated competitive structure, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; partner to Chinese Economic Corridor project; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: Pakistan&rsquo;s telecom market recently transitioned from a regulated state-owned monopoly to a deregulated competitive structure, now aided by foreign investment; moderate growth over the last six years, supported by a young population and a rising use of mobile services; telecom infrastructure is improving, with investments in mobile-cellular networks, fixed-line subscriptions declining; system consists of microwave radio relay, coaxial cable, fiber-optic cable, cellular, and satellite networks; 4G mobile services broadly available; 5G tests ongoing; data centers in major cities; mobile and broadband doing well and dominate over fixed-broadband sector; China-Pakistan Fiber Optic Project became operational in 2020; partner to Chinese Economic Corridor project; importer of broadcasting equipment and computers from China (2020)<br>
 _domestic_: mobile-cellular subscribership has skyrocketed; more than 90% of Pakistanis live within areas that have cell phone coverage; fiber-optic networks are being constructed throughout the country to increase broadband access, though broadband penetration in Pakistan is still relatively low; fixed-line 1 per 100 and mobile-cellular 76 per 100 persons (2019)<br>
 _international_: country code - 92; landing points for the SEA-ME-WE-3, -4, -5, AAE-1, IMEWE, Orient Express, PEACE Cable,&nbsp;and TW1 submarine cable systems that provide links to Europe, Africa, the Middle East, Asia, Southeast Asia, and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian Ocean); 3 operational international gateway exchanges (1 at Karachi and 2 at Islamabad); microwave radio relay to neighboring countries (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -650,8 +650,8 @@ _total_: 34,734,689<br>
 _percent of population_: 15.51% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,760,870<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 2,423,057 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.1 (2020 est.)<br>
 
 ## Transportation
 
@@ -700,7 +700,7 @@ _unpaved_: 78,712 km (2019)<br>
 
 **Merchant marine**<br>
 _total_: 57<br>
-_by type_: bulk carrier 5, oil tanker 7, other 45 (2020)<br>
+_by type_: bulk carrier 5, oil tanker 7, other 45 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Karachi, Port Muhammad Bin Qasim<br>

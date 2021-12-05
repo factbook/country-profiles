@@ -62,7 +62,7 @@ _other_: 21.5% (2018 est.)<br>
 3,100 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, China, Thailand, Cambodia, and Vietnam) - 4,350 km;<br>
+Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -222,9 +222,9 @@ _male_: 90%<br>
 _female_: 79.4% (2015)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 11 years<br>
-_male_: 11 years<br>
-_female_: 10 years (2019)<br>
+_total_: 10 years<br>
+_male_: 10 years<br>
+_female_: 10 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 18.2%<br>
@@ -274,7 +274,7 @@ _municipal solid waste recycled annually_: 35,190 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 10% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Mekong (shared with Burma, China, Thailand, Cambodia, and Vietnam) - 4,350 km;<br>
+Mekong (shared with China [s], Burma, Thailand, Cambodia, and Vietnam [m]) - 4,350 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Pacific Ocean drainage: Mekong (805,604 sq km)<br>
@@ -595,15 +595,15 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,490,831<br>
-_subscriptions per 100 inhabitants_: 20.28 (2019 est.)<br>
+_total subscriptions_: 1,490,831 (2019)<br>
+_subscriptions per 100 inhabitants_: 20.79 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,362,183<br>
-_subscriptions per 100 inhabitants_: 59.33 (2019 est.)<br>
+_total subscriptions_: 4,362,183 (2019)<br>
+_subscriptions per 100 inhabitants_: 60.84 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2021)</p> (2020)<br>
+_general assessment_: reliance on radio network to communicate with remote areas; regulatory reform is below industry standards; government aims to strengthen infrastructure and attract foreign investment; low fixed-broadband penetration; dominance in mobile broadband with 4G and LTE, but low compared to other Asian markets; ASEAN Digital Hub investment provides international capacity; state owns almost all media, except for some entertainment outlets, and has suppressed some news; importer of broadcasting equipment and computers from China; providers examining m-payment platforms and 5G tests (2020)<br>
 _domestic_: fixed-line 21 per 100 and 61 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 856; satellite earth station - 1 Intersputnik (Indian Ocean region) and a second to be developed by China<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -619,8 +619,8 @@ _total_: 1,845,437<br>
 _percent of population_: 25.51% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 45,379<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 76,280 (2019)<br>
+_subscriptions per 100 inhabitants_: 1.06 (2019 est.)<br>
 
 ## Transportation
 
@@ -661,12 +661,12 @@ _unpaved_: 34,171 km (2009)<br>
 
 **Merchant marine**<br>
 _total_: 1<br>
-_by type_: general cargo 1 (2020)<br>
+_by type_: general cargo 1 (2021)<br>
 
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces (2021)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br> <p>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units</p> (2021)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2017 est.)<br>
@@ -683,6 +683,9 @@ the LPAF is armed largely with weapons from the former Soviet Union; since 2010,
 
 **Military service age and obligation**<br>
 18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2019)<br>
+
+**Military - note**<br>
+<p>the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism</p><br>
 
 ## Transnational Issues
 

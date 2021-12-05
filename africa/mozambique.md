@@ -66,7 +66,7 @@ _other_: 0% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -232,8 +232,8 @@ _female_: 50.3% (2017)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 10 years<br>
-_male_: 11 years<br>
-_female_: 10 years (2017)<br>
+_male_: 10 years<br>
+_female_: 9 years (2017)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 7.4%<br>
@@ -294,7 +294,7 @@ _percent of municipal solid waste recycled_: 1% (2014 est.)<br>
 _Fresh water lake(s)_: Lake Malawi (shared with Malawi and Tanzania) - 22,490<br>
 
 **Major rivers (by length in km)**<br>
-Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Zambezi river mouth (shared with Zambia [s]), Angola, Namibia, Botswana, and Zimbabwe) - 2,740 km; Limpopo river mouth (shared with South Africa [s], Botswana, and Zimbabwe) - 1,800 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Indian Ocean drainage: Zambezi (1,332,412 sq km)<br>
@@ -618,15 +618,15 @@ _electrification - rural areas_: 22% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 80,791<br>
+_total subscriptions_: 80,791 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,773,364<br>
-_subscriptions per 100 inhabitants_: 50.38 (2019 est.)<br>
+_total subscriptions_: 14,773,364 (2019)<br>
+_subscriptions per 100 inhabitants_: 48.65 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the first countries in the region to reform telecom market and open it to competition; the mobile segment has shown strong growth; poor fixed-line infrastructure means most Internet access is through mobile accounts; DSL, cable broadband, 3G, and some fiber broadband available; LTE tests underway; roll out of national fiber backbone and upgrades to infrastructure; submarine cables reduced the cost of bandwidth; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: one of the first countries in the region to reform telecom market and open it to competition; the mobile segment has shown strong growth; poor fixed-line infrastructure means most Internet access is through mobile accounts; DSL, cable broadband, 3G, and some fiber broadband available; LTE tests underway; roll out of national fiber backbone and upgrades to infrastructure; submarine cables reduced the cost of bandwidth; importer of broadcasting equipment from China (2020)<br>
 _domestic_: extremely low fixed-line teledensity contrasts with rapid growth in the mobile-cellular network; operators provide coverage that includes all the main cities and key roads; fixed-line less than 1 per 100 and 48 per 100 mobile-cellular teledensity (2019)<br>
 _international_: country code - 258; landing points for the EASSy and SEACOM/ Tata TGN-Eurasia fiber-optic submarine cable systems linking numerous&nbsp;east African&nbsp;countries, the Middle East and Asia&nbsp;; satellite earth stations - 5 Intelsat (2 Atlantic Ocean and 3 Indian Ocean); TdM contracts for Itelsat for satellite broadband and bulk haul services (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -642,8 +642,8 @@ _total_: 2,855,670<br>
 _percent of population_: 10% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 69,975<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 69,975 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -690,8 +690,8 @@ _unpaved_: 23,718 km (2015)<br>
 460 km (Zambezi River navigable to Tete and along Cahora Bassa Lake) (2010)<br>
 
 **Merchant marine**<br>
-_total_: 29<br>
-_by type_: general cargo 9, other 20 (2020)<br>
+_total_: 30<br>
+_by type_: general cargo 9, other 21 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Beira, Maputo, Nacala<br>
@@ -719,7 +719,7 @@ the FADM's inventory consists primarily of Soviet-era equipment, although since 
 registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>
 
 **Military - note**<br>
-the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of late 2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance<br>
+the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of late 2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
 
 ## Terrorism
 
@@ -733,7 +733,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,518 (Democratic Republic of Congo) (refugees and asylum seekers), 8,948 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,560 (Democratic Republic of Congo) (refugees and asylum seekers), 8,198 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

@@ -201,15 +201,10 @@ _vectorborne diseases_: malaria<br>
 **Education expenditures**<br>
 12.4% of GDP NA (2019)<br>
 
-**School life expectancy (primary to tertiary education)**<br>
-_total_: 12 years<br>
-_male_: 11 years<br>
-_female_: 12 years (2008)<br>
-
 **Unemployment, youth ages 15-24**<br>
-_total_: 17.1%<br>
-_male_: 22.2%<br>
-_female_: 7.4% (2015 est.)<br>
+_total_: 22.5%<br>
+_male_: 21.2%<br>
+_female_: 24.6% (2019 est.)<br>
 
 ## Environment
 
@@ -546,12 +541,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 22<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 33 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,658<br>
-_subscriptions per 100 inhabitants_: 49.41 (2019 est.)<br>
+_total subscriptions_: 54,661 (2020)<br>
+_subscriptions per 100 inhabitants_: 45.76 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
@@ -570,8 +565,8 @@ _total_: 15,946<br>
 _percent of population_: 14.58% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 105<br>
-_subscriptions per 100 inhabitants_: 1 less than 1 (2018 est.)<br>
+_total_: 185 (2020)<br>
+_subscriptions per 100 inhabitants_: 1 less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -602,8 +597,8 @@ _total_: 670 km (2017)<br>
 5 km (small network of canals in Line Islands) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 87<br>
-_by type_: bulk carrier 2, general cargo 38, oil tanker 10, other 37 (2020)<br>
+_total_: 88<br>
+_by type_: bulk carrier 3, general cargo 35, oil tanker 12, other 38 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>

@@ -180,7 +180,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 4.63 physicians/1,000 population (2018)<br>
 
 **Hospital bed density**<br>
-3 beds/1,000 population (2017)<br>
+3 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -216,13 +216,13 @@ _female_: 96.8% (2011)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
-_male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_male_: 15 years<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 6.7%<br>
-_male_: 6.1%<br>
-_female_: 7.2% (2019 est.)<br>
+_total_: 7.9%<br>
+_male_: 7.6%<br>
+_female_: 8.2% (2020 est.)<br>
 
 ## Environment
 
@@ -597,15 +597,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.14 million<br>
-_subscriptions per 100 inhabitants_: 36.8 (2019 est.)<br>
+_total subscriptions_: 3.08 million (2020)<br>
+_subscriptions per 100 inhabitants_: 35.58 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11.7 million<br>
-_subscriptions per 100 inhabitants_: 137.11 (2019 est.)<br>
+_total subscriptions_: 11.4 million (2020)<br>
+_subscriptions per 100 inhabitants_: 131.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Israel has a highly developed economy with focus on technology products; investment in cyber-security industry and hub for start-ups; near universal broadband delivery to households and mobile penetration; LTE coverage, expanded fiber network with plans for 5G; emergency law allows mobile tracking; importer of broadcast equipment, integrated circuits, and computers from China; submarine cable connectivity to Europe (2021)</p> (2020)<br>
+_general assessment_: Israel has a highly developed economy with focus on technology products; investment in cyber-security industry and hub for start-ups; near universal broadband delivery to households and mobile penetration; LTE coverage, expanded fiber network with plans for 5G; emergency law allows mobile tracking; importer of broadcast equipment, integrated circuits, and computers from China; submarine cable connectivity to Europe (2020)<br>
 _domestic_: good system of coaxial cable and microwave radio relay; all systems are digital; competition among both fixed-line and mobile cellular providers results in good coverage countrywide; fixed-line 36 per 100 and 127 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 972; landing points for the MedNautilus Submarine System, Tameres North, Jonah and Lev Submarine System, submarine cables that provide links to Europe, Cyprus, and parts of the Middle East; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -621,8 +621,8 @@ _total_: 6,873,037<br>
 _percent of population_: 81.58% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2.481 million<br>
-_subscriptions per 100 inhabitants_: 29.08 (2019 est.)<br>
+_total_: 2,602,079 (2020)<br>
+_subscriptions per 100 inhabitants_: 30.06 (2020 est.)<br>
 
 ## Transportation
 
@@ -667,7 +667,7 @@ _paved_: 19,555 km (includes 449 km of expressways) (2017)<br>
 
 **Merchant marine**<br>
 _total_: 41<br>
-_by type_: container ship 6, general cargo 3, oil tanker 3, other 29 (2020)<br>
+_by type_: container ship 6, general cargo 2, oil tanker 4, other 29 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Ashdod, Elat (Eilat), Hadera, Haifa<br>

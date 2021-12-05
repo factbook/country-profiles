@@ -93,7 +93,7 @@ Dutch (official) 60%, French (official) 40%, German (official) less than 1%<br>
 _major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 50%, Protestant and other Christian 2.5%, Muslim 5%, Jewish 0.4%, Buddhist 0.3%, atheist 9.2%, none 32.6% (2009 est.)<br>
+Roman Catholic 57.1%, Protestant 2.3%, other Christian, 2.8%, Muslim 6.8%, other 1.7%, atheist 9.1%, nonbeliever/agnostic 20.2% (2018 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 17.22% (male 1,033,383/female 984,624)<br>
@@ -181,7 +181,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.07 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-5.7 beds/1,000 population (2017)<br>
+5.6 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -212,12 +212,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 20 years<br>
 _male_: 19 years<br>
-_female_: 21 years (2018)<br>
+_female_: 21 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 14.2%<br>
-_male_: 16%<br>
-_female_: 12.3% (2019 est.)<br>
+_total_: 15.3%<br>
+_male_: 15.5%<br>
+_female_: 15.1% (2020 est.)<br>
 
 ## Environment
 
@@ -653,8 +653,8 @@ _paved_: 118,414 km (includes 1,747 km of expressways) (2015)<br>
 2,043 km (1,528 km in regular commercial use) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 203<br>
-_by type_: bulk carrier 21, container ship 5, general cargo 16, oil tanker 25, other 136 (2020)<br>
+_total_: 201<br>
+_by type_: bulk carrier 19, container ship 7, general cargo 16, oil tanker 21, other 138 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Oostende, Zeebrugge<br>

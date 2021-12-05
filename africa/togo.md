@@ -669,8 +669,8 @@ _urban_: 1,783 km (2018)<br>
 50 km (seasonally navigable by small craft on the Mono River depending on rainfall) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 415<br>
-_by type_: bulk carrier 4, container ship 7, general cargo 271, oil tanker 49, other 84 (2020)<br>
+_total_: 411<br>
+_by type_: bulk carrier 1, container ship 9, general cargo 265, oil tanker 56, other 80 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Kpeme, Lome<br>
@@ -678,7 +678,8 @@ _major seaport(s)_: Kpeme, Lome<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l&rsquo;Air), National Gendarmerie (2021)<br>
+Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de Terre), Togolese Navy (Forces Naval Togolaises), Togolese Air Force (Armee de l’Air), National Gendarmerie (2021)<br>
+note - the Gendarmerie falls under the Ministry of Defense but also reports to the Ministry of Security and Civil Protection on many matters involving law enforcement and internal security<br>
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>
@@ -688,10 +689,10 @@ Togolese Armed Forces (Forces Armees Togolaise, FAT): Togolese Army (l'Armee de 
 1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Togolese Armed Forces (FAT) are comprised of approximately 9,000 personnel (2021)<br>
+approximately 9,000 personnel, including about 8,000 Army (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, France is the leading supplier of military hardware to Togo (2020)<br>
+the FAT's small inventory is a mix of older equipment from a variety of countries, including Brazil, France, Germany, Russia/former Soviet Union, the UK, and the US; since 2010, it has received limited amounts of newer--largely secondhand--equipment; the Navy has received patrol boats from China, France, South Africa, and the US (2021)<br>
 
 **Military deployments**<br>
 925 Mali (MINUSMA) (Sep 2021)<br>

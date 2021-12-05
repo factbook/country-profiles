@@ -67,7 +67,7 @@ _other_: 12.5% (2018 est.)<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Mali, and Niger) - 4,200 km;&nbsp;&nbsp;<br>
+Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -300,7 +300,7 @@ _municipal solid waste generated annually_: 27,614,830 tons (2009 est.)<br>
 _Fresh water lake(s)_: Lake Chad (endorheic lake shared with Niger, Chad, and Cameroon) - 10,360-25,900 sq km<br>note - area varies by season and year to year<br>
 
 **Major rivers (by length in km)**<br>
-Niger (shared with Guinea, Mali, and Niger) - 4,200 km;&nbsp;&nbsp;<br>
+Niger river mouth (shared with Guinea [s], Mali, Benin, and Niger) - 4,200 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Niger (2,261,741 sq km)<br>Internal <em>(endorheic basin) </em>drainage: Lake Chad (2,497,738 sq km)<br>
@@ -626,15 +626,15 @@ _electrification - rural areas_: 30% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 107,154<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 107,031 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 184,592,255<br>
-_subscriptions per 100 inhabitants_: 88.47 (2019 est.)<br>
+_total subscriptions_: 204,228,678 (2020)<br>
+_subscriptions per 100 inhabitants_: 99.07 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominate; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China (2020)</p> (2020)<br>
+_general assessment_: one of the larger telecom markets in Africa subject to sporadic access to electricity and vandalism of infrastructure; most Internet connections are via mobile networks; foreign investment presence, particularly from China; market competition with affordable access; LTE technologies available but GSM is dominate; mobile penetration high due to use of multiple SIM cards and phones; government committed to expanding broadband penetration; operators to deploy fiber optic cable in six geopolitical zones and Lagos; operators invested in base stations to deplete network congestion; submarine cable break in 2020 slowed speeds and interrupted connectivity; importer of phones and broadcast equipment from China (2020)<br>
 _domestic_: fixed-line subscribership remains less than 1 per 100 persons; mobile-cellular services growing rapidly, in part responding to the shortcomings of the fixed-line network; multiple cellular providers operate nationally with subscribership base over 88 per 100 persons (2019)<br>
 _international_: country code - 234; landing point for the SAT-3/WASC, NCSCS,&nbsp; MainOne, Glo-1 &amp; 2, ACE, and Equiano&nbsp;fiber-optic submarine cable that provides connectivity to Europe and South and West Africa; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -702,8 +702,8 @@ _unpaved_: 135,000 km (2017)<br>
 8,600 km (Niger and Benue Rivers and smaller rivers and creeks) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 728<br>
-_by type_: general cargo 15, oil tanker 110, other 603 (2020)<br>
+_total_: 791<br>
+_by type_: general cargo 14, oil tanker 110, other 667 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Bonny Inshore Terminal, Calabar, Lagos<br>
@@ -738,7 +738,7 @@ the Nigerian Armed Forces' inventory consists of a wide variety of imported weap
 18-26 years of age for voluntary military service; no conscription (2019)<br>
 
 **Military - note**<br>
-as of 2021, the Nigerian military was sub-Saharan Africa&rsquo;s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35,000 people, mostly civilians, since 2009 (as of Dec 2020); in the northwest, it faced threats from criminal gangs, bandits, and militants associated with ongoing farmer-herder violence, as well as BH and ISWA terrorists; the military also protected the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br>
+as of 2021, the Nigerian military was sub-Saharan Africa’s largest and regarded as one of its most capable forces; it was focused largely on internal security and faced a number of challenges that have stretched its resources, however; in the northeast, the military was conducting counterinsurgency/counter-terrorist operations against the Boko Haram (BH) and Islamic State in West Africa (ISWA) terrorist groups, where it has deployed as many as 70,000 troops at times and jihadist-related violence has killed an estimated 35,000 people, mostly civilians, since 2009 (as of Dec 2020); in the northwest, it faced growing threats from criminal gangs, bandits, and violence associated with historical and ongoing farmer-herder conflicts, as well as BH and ISWA terrorists; bandits in the northwest are estimated to number in the low 10,000s and violence there has killed more than 10,000 since the mid-2010s; in 2021, the military also continued to protect the oil industry in the Niger Delta region against militants and criminal activity, although the levels of violence there have decreased in recent years; in May 2021, a contingent of military troops and police were deployed to eastern Nigeria to quell renewed agitation for a state of Biafra (Biafra seceded from Nigeria in the late 1960s, sparking a civil war that caused more than 1 million deaths)<br> <p>the Nigerian military traces its origins to the Nigeria Regiment of the West African Frontier Force (WAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Gold Coast, Sierra Leone, and Gambia; the WAFF served with distinction in both East and West Africa during World War I; in 1928, it received royal recognition and was re-named the Royal West African Frontier Force (RWAFF); the RWAFF went on to serve in World War II as part of the British 81st and 82nd (West African) divisions in the East Africa and Burma campaigns; in 1956, the Nigeria Regiment of the RWAFF was renamed the Nigerian Military Forces (NMF) and in 1958, the colonial government of Nigeria took over control of the NMF from the British War Office; the Nigerian Armed Forces were established following independence in 1960</p><br>
 
 ## Terrorism
 
@@ -752,7 +752,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 <p>Joint Border Commission with Cameroon reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately cedes sovereignty of the Bakassi Peninsula to Cameroon with a phaseout of Nigerian control within two years while resolving patriation issues; the ICJ ruled on an equidistance settlement of Cameroon-Equatorial Guinea-Nigeria maritime boundary in the Gulf of Guinea, but imprecisely defined coordinates in the ICJ decision and a sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River all contribute to the delay in implementation; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty which also includes the Chad-Niger and Niger-Nigeria boundaries; location of Benin-Niger-Nigeria tripoint is unresolved</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 68,574 (Cameroon) (2021)<br>
+_refugees (country of origin)_: 69,380 (Cameroon) (2021)<br>
 _IDPs_: 3,024,199 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
 
 **Trafficking in persons**<br>

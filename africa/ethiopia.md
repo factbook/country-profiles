@@ -67,7 +67,7 @@ _Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo
 _Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -242,9 +242,9 @@ _male_: 8 years<br>
 _female_: 8 years (2012)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 25.2%<br>
-_male_: 17.1%<br>
-_female_: 30.9% (2016 est.)<br>
+_total_: 3.5%<br>
+_male_: 2.7%<br>
+_female_: 4.5% (2013 est.)<br>
 
 ## Environment
 
@@ -300,7 +300,7 @@ _Fresh water lake(s)_: Lake Tana - 3,600 sq km; Abaya Hayk - 1,160 sq km; Ch'amo
 _Salt water lake(s)_: Lake Turkana (shared with Kenya) - 6,400 sq km; Abhe Bid Hayk/Abhe Bad (shared with Djibouti) - 780 sq km;&nbsp;<br>
 
 **Major rivers (by length in km)**<br>
-Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – <strong>[s]</strong> after country name indicates river source; <strong>[m]</strong> after country name indicates river mouth<br>
+Blue Nile river source (shared with Sudan [m]) - 1,600 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Mediterranean Sea)</em> Nile (3,254,853 sq km)<br>
@@ -631,15 +631,15 @@ _electrification - rural areas_: 34% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1.181 million (2017)<br>
-_subscriptions per 100 inhabitants_: 1.11 (2017 est.)<br>
+_total subscriptions_: 1.14 million (2018)<br>
+_subscriptions per 100 inhabitants_: 1.04 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 39.6 million (2017)<br>
-_subscriptions per 100 inhabitants_: 37.22 (2017 est.)<br>
+_total subscriptions_: 39.54 million (2018)<br>
+_subscriptions per 100 inhabitants_: 37.22 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>telecom market challenged by political factionalism and reorganization of ruling party; despite some gains in access, Ethiopia remains one of the least-connected countries in the world; state-owned telecom held a monopoly over services until 2019 when government approved legislation and opened the market to competition and foreign investment; new expansion of LTE services; government reduced tariffs leading to increases in data and voice traffic; government launched mobile app as part of e-government initiative to build smart city; Huawei provides infrastructure to government operator and built data center in Addis Ababa; government disrupted service during political crises; importer of broadcasting equipment from China (2020)</p> (2020)<br>
+_general assessment_: telecom market challenged by political factionalism and reorganization of ruling party; despite some gains in access, Ethiopia remains one of the least-connected countries in the world; state-owned telecom held a monopoly over services until 2019 when government approved legislation and opened the market to competition and foreign investment; new expansion of LTE services; government reduced tariffs leading to increases in data and voice traffic; government launched mobile app as part of e-government initiative to build smart city; Huawei provides infrastructure to government operator and built data center in Addis Ababa; government disrupted service during political crises; importer of broadcasting equipment from China (2020)<br>
 _domestic_: fixed-line subscriptions at 1 per 100 while mobile-cellular stands at 36 per 100; the number of mobile telephones is increasing steadily (2019)<br>
 _international_: country code - 251; open-wire to Sudan and Djibouti; microwave radio relay to Kenya and Djibouti; 2 domestic satellites provide the national trunk service; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Pacific Ocean) (2016)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -742,7 +742,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 380,320 (South Sudan), 216,558 (Somalia), 150,960 (Eritrea), 46,014 (Sudan) (2021)<br>
+_refugees (country of origin)_: 380,320 (South Sudan), 216,558 (Somalia), 154,650 (Eritrea), 46,093 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

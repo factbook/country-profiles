@@ -62,7 +62,7 @@ _other_: 19.7% (2018 est.)<br>
 869 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -182,7 +182,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 3.42 physicians/1,000 population (2017)<br>
 
 **Hospital bed density**<br>
-5.8 beds/1,000 population (2017)<br>
+5.7 beds/1,000 population (2018)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 99.9% of population<br>
@@ -213,12 +213,12 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 15 years<br>
 _male_: 14 years<br>
-_female_: 15 years (2018)<br>
+_female_: 15 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 16.1%<br>
-_male_: 14%<br>
-_female_: 19.7% (2019 est.)<br>
+_total_: 19.4%<br>
+_male_: 18.3%<br>
+_female_: 21.2% (2020 est.)<br>
 
 ## Environment
 
@@ -261,7 +261,7 @@ _municipal solid waste recycled annually_: 135,941 tons (2015 est.)<br>
 _percent of municipal solid waste recycled_: 7.6% (2015 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Danube (shared with Germany, Austria, Hungary, Croatia, Serbia, Bulgaria, Romania, Moldova, and Ukraine) - 2,888 km;&nbsp;<br>
+Danube (shared with Germany [s], Austria, Hungary, Croatia, Serbia, Bulgaria, Ukraine, Moldova, and Romania [m]) - 2,888 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: <em>(Black Sea)</em> Danube (795,656 sq km)<br>
@@ -594,7 +594,7 @@ _total subscriptions_: 7,399,534<br>
 _subscriptions per 100 inhabitants_: 135.96 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>a modern telecom system; one operator has near monopoly of fixed-line market; competition in mobile- and fixed-broadband market; broadband growth in recent years; competition among DSL, cable, and fiber platforms; FttP growth in cities; operator launched 1Gb/s cable broadband service in 3 cities and 200,000 premises in 2019; EU funding for development and improvement of e-government and online services; regulator prepared groundwork for 5G services in 2020 (2021)</p> (2020)<br>
+_general assessment_: a modern telecom system; one operator has near monopoly of fixed-line market; competition in mobile- and fixed-broadband market; broadband growth in recent years; competition among DSL, cable, and fiber platforms; FttP growth in cities; operator launched 1Gb/s cable broadband service in 3 cities and 200,000 premises in 2019; EU funding for development and improvement of e-government and online services; regulator prepared groundwork for 5G services in 2020 (2020)<br>
 _domestic_: four companies have a license to operate cellular networks and provide nationwide cellular services; a few other companies provide services but do not have their own networks; fixed-line 12 per 100 and mobile-cellular 136 per 100 teledensity (2019)<br>
 _international_: country code - 421; 3 international exchanges (1 in Bratislava and 2 in Banska Bystrica) are available; Slovakia is participating in several international telecommunications projects that will increase the availability of external services; connects to DREAM cable (2017)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>

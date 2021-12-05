@@ -208,12 +208,12 @@ _unimproved: total_: total: 3.1% of population (2017 est.)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
 _male_: 13 years<br>
-_female_: 13 years (2019)<br>
+_female_: 13 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 15.3%<br>
-_male_: 9.5%<br>
-_female_: 24.8% (2017 est.)<br>
+_total_: 19.3%<br>
+_male_: 12.7%<br>
+_female_: 28.5% (2019 est.)<br>
 
 ## Environment
 
@@ -630,8 +630,8 @@ _unpaved_: 2,680 km (2017)<br>
 825 km (navigable only by small craft) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 790<br>
-_by type_: bulk carrier 50, container ship 4, general cargo 401, oil tanker 67, other 268 (2020)<br>
+_total_: 813<br>
+_by type_: bulk carrier 54, container ship 1, general cargo 428, oil tanker 70, other 260 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Belize City, Big Creek<br>
@@ -656,6 +656,9 @@ the BDF's inventory is limited and consists mostly of UK- and US-origin equipmen
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; laws allow for conscription only if volunteers are insufficient; conscription has never been implemented; volunteers typically outnumber available positions by 3:1; initial service obligation 12 years (2019)<br>
+
+**Military - note**<br>
+<p>the BDF was established in 1978 from the disbanded Police Special Force and the Belize Volunteer Guard to assist the resident British forces with the defense of Belize against Guatemala; the BDF traces its history back to the Prince Regent Royal Honduras Militia, a volunteer force established in 1817</p> <p>the British Army has maintained a presence in Belize since its independence; as of 2021, the presence consisted of a small training support unit that provides jungle training to troops from the UK and international partners</p><br>
 
 ## Transnational Issues
 

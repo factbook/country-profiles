@@ -163,7 +163,7 @@ NA<br>
 2.62 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-4.1 beds/1,000 population (2015)<br>
+4.2 beds/1,000 population (2016)<br>
 
 **Sanitation facility access**<br>
 _improved: total_: total: 100% of population<br>
@@ -492,12 +492,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,137<br>
-_subscriptions per 100 inhabitants_: 37.29 (2019 est.)<br>
+_total subscriptions_: 15,341 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.4 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 59,771<br>
-_subscriptions per 100 inhabitants_: 116.47 (2019 est.)<br>
+_total subscriptions_: 59,003 (2020)<br>
+_subscriptions per 100 inhabitants_: 120.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good international and domestic communications; telecommunications network of high standards with excellent coverage throughout most parts of the country and at competitive prices (2020)<br>
@@ -516,8 +516,8 @@ _total_: 49,783<br>
 _percent of population_: 97.58% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 18,181<br>
-_subscriptions per 100 inhabitants_: 36 (2018 est.)<br>
+_total_: 18,443 (2020)<br>
+_subscriptions per 100 inhabitants_: 37.74 (2020 est.)<br>
 
 ## Transportation
 
@@ -542,8 +542,8 @@ _unpaved_: 460 km (2017)<br>
 <strong>note:</strong> those islands not connected by roads (bridges or tunnels) are connected by seven different ferry links operated by the nationally owned company SSL; 28 km of tunnels<br>
 
 **Merchant marine**<br>
-_total_: 100<br>
-_by type_: container ships 6, general cargo 46, oil tanker 1, other 47 (2020)<br>
+_total_: 101<br>
+_by type_: container ships 6, general cargo 48, oil tanker 1, other 46 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Fuglafjordur, Torshavn, Vagur<br>

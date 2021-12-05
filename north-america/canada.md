@@ -70,7 +70,7 @@ _other_: 59.1% (2018 est.)<br>
 _Fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
 
 **Major rivers (by length in km)**<br>
-Mackenzie - 4, 241 km; Yukon (shared with the US) - 3,185 km; Nelson - 2,570 km; Columbia (shared with the US) - 1,953 km; Churchill - 1,600 km; Fraser (shared with the US) - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br>
+Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
@@ -193,7 +193,7 @@ _unimproved: total_: total: 0% of population (2017 est.)<br>
 2.31 physicians/1,000 population (2016)<br>
 
 **Hospital bed density**<br>
-2.5 beds/1,000 population (2017)<br>
+2.5 beds/1,000 population (2019)<br>
 
 **Sanitation facility access**<br>
 _improved: urban_: urban: 100% of population<br>
@@ -224,7 +224,7 @@ NA<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 16 years<br>
 _male_: 16 years<br>
-_female_: 17 years (2018)<br>
+_female_: 17 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 20.2%<br>
@@ -275,7 +275,7 @@ _percent of municipal solid waste recycled_: 20.6% (2008 est.)<br>
 _Fresh water lake(s)_: Huron* - 35,972 sq km; Great Bear Lake - 31,328 sq km; Superior* - 28,754 sq km; Great Slave Lake - 28,568 sq km; Lake Winnipeg - 24,387 sq km; Erie* - 12,776 sq km; Ontario* - 9,790 sq km; Lake Athabasca - 7,935 sq km; Reindeer Lake - 6,650 sq km; Nettilling Lake - 5,542 sq km<br>note - Great Lakes* area shown as Canadian waters<br>
 
 **Major rivers (by length in km)**<br>
-Mackenzie - 4, 241 km; Yukon (shared with the US) - 3,185 km; Nelson - 2,570 km; Columbia (shared with the US) - 1,953 km; Churchill - 1,600 km; Fraser (shared with the US) - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br>
+Mackenzie - 4, 241 km; Yukon river source (shared with the US [m]) - 3,185 km; Saint Lawrence river mouth (shared with US) - 3,058 km; Nelson - 2,570 km; Columbia river source (shared with the US [m]) - 1,953 km; Churchill - 1,600 km; Fraser - 1,368 km; Ottawa - 1,271 km; Athabasca - 1,231 km; North Saskatchewan - 1,220 km; Liard - 1,115 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Mississippi* <em>(Gulf of Mexico)</em> (3,202,185 sq km, Canada only 32,000 sq km), Nelson <em>(Hudson Bay)</em> (1,093,141 sq km), Saint Lawrence* (1,049,636 sq km, Canada only 839,200 sq km)<br>Arctic Ocean drainage: Mackenzie (1,706,388 sq km)<br>Pacific Ocean drainage: Yukon* (847,620 sq km, Canada only 823,800 sq km), Columbia* (657,501 sq km, Canada only 103,000 sq km)<br>note - watersheds shared with the US shown with *<br>
@@ -355,7 +355,7 @@ _judge selection and term of office_: chief justice and judges appointed by the 
 _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax Court; federal administrative tribunals; Courts Martial; provincial/territorial level: provincial superior, appeals, first instance, and specialized courts; note -&nbsp; in 1999, the Nunavut Court - a circuit court with the power of a provincial superior court, as well as a territorial court - was established to serve isolated settlements<br>
 
 **Political parties and leaders**<br>
-Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Erin O'TOOLE]<br>Green Party [Annamie PAUL]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
+Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Erin O'TOOLE]<br>Green Party [vacant]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -607,15 +607,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 13.267 million<br>
-_subscriptions per 100 inhabitants_: 35.52 (2019 est.)<br>
+_total subscriptions_: 13.926 million (2020)<br>
+_subscriptions per 100 inhabitants_: 36.9 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 34,366,950<br>
-_subscriptions per 100 inhabitants_: 92.01 (2019 est.)<br>
+_total subscriptions_: 36,093,021 (2020)<br>
+_subscriptions per 100 inhabitants_: 95.63 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Canada has highly developed, technologically advanced telecom services; LTE and broadband are nearly universal; competition between the DSL and cable platforms with investment in fiber networks; regulatory efforts ensure operators have spectrum available to develop 5G services; policy to improve service speeds and enable digital economy and e-services; operator’s 5G network facilitates smart-city vehicle and pedestrian traffic; high value in e-commerce transactions; international connections through submarine, terrestrial, and satellite systems; importer of broadcasting equipment from China (2021)</p> (2020)<br>
+_general assessment_: Canada has highly developed, technologically advanced telecom services; LTE and broadband are nearly universal; competition between the DSL and cable platforms with investment in fiber networks; regulatory efforts ensure operators have spectrum available to develop 5G services; policy to improve service speeds and enable digital economy and e-services; operator&rsquo;s 5G network facilitates smart-city vehicle and pedestrian traffic; high value in e-commerce transactions; international connections through submarine, terrestrial, and satellite systems; importer of broadcasting equipment from China (2020)<br>
 _domestic_: 35 per 100 fixed-line; 93 per 100 mobile-cellular; comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations (2019)<br>
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -631,8 +631,8 @@ _total_: 33,743,954<br>
 _percent of population_: 91% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,273,496<br>
-_subscriptions per 100 inhabitants_: 40.89 (2019 est.)<br>
+_total_: 15,776,602 (2020)<br>
+_subscriptions per 100 inhabitants_: 41.8 (2020 est.)<br>
 
 ## Transportation
 
@@ -681,8 +681,8 @@ _unpaved_: 626,700 km (2011)<br>
 636 km (Saint Lawrence Seaway of 3,769 km, including the Saint Lawrence River of 3,058 km, shared with United States) (2011)<br>
 
 **Merchant marine**<br>
-_total_: 691<br>
-_by type_: bulk carrier 20, container ship 1, general cargo 76, oil tanker 15, other 579 (2020)<br>
+_total_: 679<br>
+_by type_: bulk carrier 22, container ship 1, general cargo 66, oil tanker 15, other 575 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Halifax, Saint John (New Brunswick), Vancouver<br>
@@ -720,7 +720,7 @@ up to 530 Latvia (NATO); up to 200 Ukraine; up to 850 Middle East (multiple miss
 17 years of age for voluntary male and female military service (with parental consent); 16 years of age for Reserve and Military College applicants; Canadian citizenship or permanent residence status required; maximum 34 years of age; service obligation 3-9 years (2021)<br>
 
 **Military - note**<br>
-Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br>
+Canada is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Canada is part of the North American Aerospace Defense Command (NORAD; established 1958); NORAD is a Canada-US bi-national military command responsible for monitoring and defending North American airspace; traditionally, a Canadian Armed Forces officer has served as the deputy commander of NORAD</p> <p>Canada’s defense relationship with the US extends back to the Ogdensburg Declaration of 1940, when the two countries formally agreed on military cooperation, including the establishment of the Permanent Joint Board on Defense (PJBD), which continued to be the highest-level bilateral defense forum between Canada and the US as of 2021</p> <p>British troops withdrew from Canada in 1871 as part of the UK-US Treaty of Washington; following the withdrawal, the first Canadian militia, known as the Royal Canadian Regiment, was organized in 1883 to protect Canadian territory and defend British interests abroad, which it did in the South African War (1899-1902), Canada’s first overseas conflict; militia units formed the backbone of the more than 425,000 Canadian soldiers that went to Europe during World War I in what was called the Canadian Expeditionary Force; the Royal Canadian Navy was created in 1910, while the Canadian Air Force was established in 1920 and became the Royal Canadian Air Force in 1924; the Canadian Army was officially founded in 1942; a unified Canadian Armed Forces was created in 1968</p><br>
 
 ## Terrorism
 

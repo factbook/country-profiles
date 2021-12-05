@@ -221,9 +221,9 @@ NA<br>
 5.1% of GDP (2018)<br>
 
 **School life expectancy (primary to tertiary education)**<br>
-_total_: 21 years<br>
-_male_: 20 years<br>
-_female_: 21 years (2018)<br>
+_total_: 22 years<br>
+_male_: 21 years<br>
+_female_: 22 years (2019)<br>
 
 **Unemployment, youth ages 15-24**<br>
 _total_: 14.3%<br>
@@ -678,7 +678,7 @@ _non-urban_: 727,645 km (2015)<br>
 
 **Merchant marine**<br>
 _total_: 581<br>
-_by type_: bulk carrier 3, general cargo 78, oil tanker 6, other 494 (2020)<br>
+_by type_: bulk carrier 2, general cargo 76, oil tanker 7, other 496 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: <em><br>Indian Ocean:</em> Adelaide, Darwin, Fremantle, Geelong, Melbourne<br><em>Pacific Ocean:</em> Brisbane, Cairns, Gladstone, Hobart, Newcastle, Port Port Kembla, Sydney<br>
@@ -711,7 +711,7 @@ approximately 700 Middle East (2021)<br>
 17 years of age for voluntary military service (with parental consent); no conscription (abolished 1973); women allowed to serve in all roles (2021)<br>
 
 **Military - note**<br>
-Australia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br>
+<p>Australia has been part of the Australia, New Zealand, and US Security (ANZUS) Treaty since 1951; Australia and the US signed an agreement in 2014 that allowed for closer bi-lateral defense and security cooperation, including annual rotations of US Marines and enhanced rotations of US Air Force aircraft to Australia; Australia has Major Non-NATO Ally (MNNA) status with the US, a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; Australian military forces often train with US forces; Australian and US forces first fought together in France in 1918 at the Battle of Hamel, and have fought together in every major US conflict since</p> <p>Australia has long-standing defense and security ties to the UK, including a Defense and Security Cooperation Treaty signed in 2013; in 2020, Australia and the UK signed a memorandum of understanding to cooperate on the building of a next generation of frigates for their respective navies; the Australia-UK Ministerial Consultations (AUKMIN) is their premier bilateral forum on foreign policy, defense, and security issues</p> <p>in 2021, Australia, the UK, and the US announced an enhanced trilateral security partnership called “AUKUS” which would build on existing bilateral ties, including deeper integration of defense and security-related science, technology, industrial bases, and supply chains, as well as deeper cooperation on a range of defense and security capabilities; the first initiative under AUKUS was a commitment to support Australia in acquiring conventionally armed nuclear-powered submarines for the Royal Australian Navy</p> <p>since the 1990s, Australia has deployed more than 30,000 personnel on nearly 100 UN and coalition military operations, including in Cambodia, Rwanda, Somalia, and East Timor</p><br>
 
 ## Terrorism
 

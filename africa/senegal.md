@@ -65,7 +65,7 @@ _other_: 9.4% (2018 est.)<br>
 1,200 sq km (2012)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambia (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
@@ -189,9 +189,6 @@ _unimproved: total_: total: 16.7% of population (2017 est.)<br>
 **Physicians density**<br>
 0.07 physicians/1,000 population (2017)<br>
 
-**Hospital bed density**<br>
-0.3 beds/1,000 population (2008)<br>
-
 **Sanitation facility access**<br>
 _improved: urban_: urban: 91.2% of population<br>
 _improved: rural_: rural: 48.5% of population<br>
@@ -235,12 +232,12 @@ _female_: 39.8% (2017)<br>
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 9 years<br>
 _male_: 8 years<br>
-_female_: 9 years (2019)<br>
+_female_: 9 years (2020)<br>
 
 **Unemployment, youth ages 15-24**<br>
-_total_: 4.8%<br>
-_male_: 5%<br>
-_female_: 4.7% (2017 est.)<br>
+_total_: 4.1%<br>
+_male_: 2.9%<br>
+_female_: 6.7% (2019 est.)<br>
 
 ## Environment
 
@@ -292,7 +289,7 @@ _severe localized food insecurity_: due to localized shortfalls in cereal produc
 _municipal solid waste generated annually_: 2,454,059 tons (2016 est.)<br>
 
 **Major rivers (by length in km)**<br>
-Senegal (shared with Mauritania and Mali) - 1,641 km; Gambia (shared with Guinea and The Gambia) - 1,094 km<br>
+Senegal (shared with Guinea [s], Mali, and Mauritania [m] ) - 1,641 km; Gambia (shared with Guinea [s] and The Gambia [m]) - 1,094 km<br><strong>note</strong> – [s] after country name indicates river source; [m] after country name indicates river mouth<br>
 
 **Major watersheds (area sq km)**<br>
 Atlantic Ocean drainage: Senegal (456,397 sq km)<br>
@@ -623,7 +620,7 @@ _total subscriptions_: 17,880,594<br>
 _subscriptions per 100 inhabitants_: 116.37 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2021)</p> (2020)<br>
+_general assessment_: universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2020)<br>
 _domestic_: generally reliable urban system with a fiber-optic network; about two-thirds of all fixed-line connections are in Dakar; mobile-cellular service is steadily displacing fixed-line service, even in urban areas; fixed-line 1 per 100 and mobile-cellular 110 per 100 persons (2019)<br>
 _international_: country code - 221; landing points for the ACE, Atlantis-2, MainOne and SAT-3/WASC submarine cables providing connectivity from South Africa, numerous western African countries, Europe and South America;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -684,8 +681,8 @@ _unpaved_: 10,539 km (2017)<br>
 1,000 km (primarily on the Senegal, Saloum, and Casamance Rivers) (2012)<br>
 
 **Merchant marine**<br>
-_total_: 34<br>
-_by type_: general cargo 4, oil tanker 1, other 29 (2020)<br>
+_total_: 35<br>
+_by type_: general cargo 5, oil tanker 1, other 29 (2021)<br>
 
 **Ports and terminals**<br>
 _major seaport(s)_: Dakar<br>
@@ -693,7 +690,8 @@ _major seaport(s)_: Dakar<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components) (2021)<br>
+Senegalese Armed Forces (Forces Armées Sénégalaises, FAS): Army, Senegalese National Navy (Marine Senegalaise, MNS), Senegalese Air Force (Armee de l'Air du Senegal), National Gendarmerie (includes Territorial and Mobile components); Ministry of Interior: National Police (2021)<br>
+note - the National Police operates in major cities, while the Gendarmerie primarily operates outside urban areas<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2020)<br>
@@ -714,6 +712,11 @@ note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2019)<br>
+
+## Terrorism
+
+**Terrorist group(s)**<br>
+Jama&rsquo;at Nusrat al-Islam wal-Muslimin (JNIM)<br>
 
 ## Transnational Issues
 
