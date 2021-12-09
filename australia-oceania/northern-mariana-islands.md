@@ -420,8 +420,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 20,398<br>
-_subscriptions per 100 inhabitants_: 39.44 (2019 est.)<br>
+_total subscriptions_: 22,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 39.44 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: digital fiber-optic cables and satellites connect the islands to worldwide networks; demand for broadband growing given that mobile services are the source for Internet across region; future launch of 5G (2020)<br>

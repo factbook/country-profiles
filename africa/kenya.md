@@ -470,6 +470,11 @@ _services_: 32.2% (2005 est.)<br>
 40% (2013 est.)<br>
 40% (2001 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.9%<br>
+_male_: 12%<br>
+_female_: 13.8% (2019)<br>
+
 **Population below poverty line**<br>
 36.1% (2015 est.)<br>
 
@@ -699,7 +704,7 @@ _LNG terminal(s) (import)_: Mombasa<br>
 
 **Military and security forces**<br>
 Kenya Defence Forces: Kenya Army, Kenya Navy, Kenya Air Force (2021)<br>
-note - the National Police Service includes a paramilitary General Service Unit; the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
+note - the National Police Service maintains internal security and reports to the Ministry of Interior and Coordination of National Government; it includes a paramilitary General Service Unit; the Kenya Coast Guard Service (established 2018) is under the Ministry of Interior, but led by a military officer and comprised of personnel from the military, as well as the National Police Service, intelligence services, and other government agencies<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020)<br>

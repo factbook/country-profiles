@@ -448,6 +448,11 @@ _services_: 47% (31 December 2016)<br>
 4.83% (2019 est.)<br>
 4.44% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.1%<br>
+_male_: 16.6%<br>
+_female_: 29.4% (2018 est.)<br>
+
 **Population below poverty line**<br>
 4.1% (2016 est.)<br>
 
@@ -593,12 +598,12 @@ _electrification - total population_: 100% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,291,464<br>
-_subscriptions per 100 inhabitants_: 10.08 (2019 est.)<br>
+_total subscriptions_: 2,428,957 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.34 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 30,778,582<br>
-_subscriptions per 100 inhabitants_: 135.34 (2019 est.)<br>
+_total subscriptions_: 29,730,465 (2020)<br>
+_subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telephone services have improved significantly; strong growth&nbsp;anticipated as Sri Lanka is&nbsp;lagging behind&nbsp;other&nbsp;Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020)<br>
@@ -617,8 +622,8 @@ _total_: 7,700,876<br>
 _percent of population_: 34.11% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,666,317<br>
-_subscriptions per 100 inhabitants_: 7.33 (2019 est.)<br>
+_total_: 1,992,429 (2020)<br>
+_subscriptions per 100 inhabitants_: 9.3 (2020 est.)<br>
 
 ## Transportation
 
@@ -695,6 +700,9 @@ the Sri Lankan military inventory consists mostly of Chinese and Russian-origin 
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>
 
 ## Terrorism
 

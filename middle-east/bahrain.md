@@ -432,6 +432,11 @@ _services_: 67% (2004 est.)<br>
 3.7% (2016 est.)<br>
 <strong>note:</strong> official estimate; actual rate is higher<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 5.3%<br>
+_male_: 2.6%<br>
+_female_: 12.2% (2012 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -638,7 +643,7 @@ _major seaport(s)_: Mina' Salman, Sitrah<br>
 
 **Military and security forces**<br>
 Bahrain Defense Force (BDF): Royal Bahraini Army (includes the Royal Guard), Royal Bahraini Navy, Royal Bahraini Air Force; Ministry of Interior: National Guard, Special Security Forces Command (SSFC), Coast Guard<br> (2021)<br>
-note: the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
+note - the Royal Guard is officially under the command of the Army, but exercises considerable autonomy<br>
 
 **Military expenditures**<br>
 4.2% of GDP (2020 est.)<br>

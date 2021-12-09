@@ -407,6 +407,11 @@ _services_: 22% (2015 est.)<br>
 3.2% (2017 est.)<br>
 3.2% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.7%<br>
+_male_: 8.2%<br>
+_female_: 12.7% (2015 est.)<br>
+
 **Population below poverty line**<br>
 8.2% (2017 est.)<br>
 

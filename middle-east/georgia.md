@@ -437,6 +437,11 @@ _services_: 35.5% (2006 est.)<br>
 **Unemployment rate**<br>
 11.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 39.4%<br>
+_male_: 40.1%<br>
+_female_: 38.3% (2020 est.)<br>
+
 **Population below poverty line**<br>
 19.5% (2019 est.)<br>
 
@@ -661,7 +666,7 @@ _major seaport(s)_: Black Sea - Bat'umi, P'ot'i<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of the Interior: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2021)<br>
+Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces), Special Operations Forces, National Guard; Ministry of Internal Affairs: Border Police, Coast Guard (includes Georgian naval forces, which were merged with the Coast Guard in 2009) (2021)<br>
 
 **Military expenditures**<br>
 1.8% of GDP (2020 est.)<br>

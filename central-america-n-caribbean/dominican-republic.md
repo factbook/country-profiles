@@ -454,6 +454,11 @@ _services_: 64.7% (2014 est.)<br>
 5.1% (2017 est.)<br>
 5.5% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.9%<br>
+_male_: 11.6%<br>
+_female_: 20.7% (2020 est.)<br>
+
 **Population below poverty line**<br>
 21% (2019 est.)<br>
 
@@ -679,8 +684,8 @@ _LNG terminal(s) (import)_: Andres LNG terminal (Boca Chica)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD); National Police (Policia Nacional) (2021)<br>
-note: in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, and Border Security Corps<br>
+Armed Forces of the Dominican Republic: Army (Ejercito Nacional, EN), Navy (Marina de Guerra, MdG, includes naval infantry), Dominican Air Force (Fuerza Aerea Dominicana, FAD) (2021)<br>
+note(s) - in addition to the military, the Ministry of Armed Forces directs the Airport Security Authority and Civil Aviation, Port Security Authority, the Tourist Security Corps, and Border Security Corps; the National Police (Policia Nacional) are under the Ministry of Interior<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>

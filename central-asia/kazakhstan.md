@@ -457,6 +457,11 @@ _services_: 61.6% (2017 est.)<br>
 4.8% (2019 est.)<br>
 4.85% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 3.8%<br>
+_male_: 3.4%<br>
+_female_: 4.2% (2020 est.)<br>
+
 **Population below poverty line**<br>
 4.3% (2018 est.)<br>
 
@@ -687,7 +692,7 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Guard, Border Service (includes Coast Guard), State Security Service (2021)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard, Border Service (includes Coast Guard), State Security Service (2021)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>

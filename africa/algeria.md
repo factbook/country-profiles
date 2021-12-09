@@ -443,6 +443,11 @@ _services_: 58.4% (2011 est.)<br>
 11.7% (2017 est.)<br>
 10.5% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 39.3%<br>
+_male_: 33.1%<br>
+_female_: 82% (2017 est.)<br>
+
 **Population below poverty line**<br>
 5.5% (2011 est.)<br>
 
@@ -670,7 +675,7 @@ _LNG terminal(s) (export)_: Arzew, Bethioua, Skikda<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP, but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (2021)<br>
+Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast guard), Air Forces, Territorial Air Defense Forces, Republican Guard (under ANP, but responsible to the President), National Gendarmerie; Ministry of Interior: General Directorate of National Security (national police) (2021)<br>
 
 **Military expenditures**<br>
 7% of GDP (2020 est.)<br>
@@ -680,7 +685,7 @@ Algerian People's National Army (ANP): Land Forces, Naval Forces (includes coast
 6.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Algerian People's National Army (ANP) has approximately 130,000 total active personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); estimated 140,000 National Gendarmerie (information varies widely) (2021)<br>
+approximately 130,000 ANP personnel (110,000 Army; 6,000 Navy; 14,000 Air Force); approximately 130-140,000 National Gendarmerie; approximately 200,000 General Directorate of National Security&nbsp; (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the ANP's inventory includes mostly Russian-sourced equipment; since 2010, Russia is the leading supplier of armaments to Algeria, followed by China and Germany (2020)<br>

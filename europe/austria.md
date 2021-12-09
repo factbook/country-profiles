@@ -331,7 +331,7 @@ _residency requirement for naturalization_: 10 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Alexander VAN DER BELLEN (since 26 January 2017)<br>
-_head of government_: Chancellor Alexander SCHALLENBERG (since 9 October 2021); note - Chancellor Sebastian KURZ (since 2 January 2020) resigned on 9 October 2021<br>
+_head of government_: Chancellor Karl NEHAMMER (since 6 December 2021); note - Chancellor Alexander SCHALLENBERG (since 9 October 2021) resigned on 12/2/21<br>
 _cabinet_: Council of Ministers chosen by the president on the advice of the chancellor<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 6-year term (eligible for a second term); elections last held on 24 April 2016 (first round), 22 May 2016 (second round, which was annulled), and 4 December 2016 (second round re-vote) (next election to be held in April 2022); chancellor appointed by the president but determined by the majority coalition parties in the Federal Assembly; vice chancellor appointed by the president on the advice of the chancellor<br>
 _election results_: Alexander VAN DER BELLEN elected in second round; percent of vote in first round - Norbert HOFER (FPOe) 35.1%, Alexander VAN DER BELLEN (independent, allied with the Greens) 21.3%, Irmgard GRISS (independent) 18.9%, Rudolf HUNDSTORFER (SPOe) 11.3%, Andreas KHOL (OeVP) 11.1%, Richard LUGNER (independent) 2.3%; percent of vote in second round - Alexander VAN DER BELLEN 53.8%, Norbert HOFER 46.2%<br>
@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Sebastian KURZ]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>NOW-Pilz List (JETZT-Liste Pilz) or PILZ [Maria STERN]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>NOW-Pilz List (JETZT-Liste Pilz) or PILZ [Maria STERN]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -448,6 +448,11 @@ _services_: 74.1% (2017 est.)<br>
 **Unemployment rate**<br>
 7.35% (2019 est.)<br>
 7.7% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.5%<br>
+_male_: 11.3%<br>
+_female_: 9.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 13.3% (2018 est.)<br>

@@ -481,6 +481,11 @@ _services_: 31% (FY 2014 est.)<br>
 8.5% (2017 est.)<br>
 8.5% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 19.8%<br>
+_male_: 19.5%<br>
+_female_: 21% (2020 est.)<br>
+
 **Population below poverty line**<br>
 21.9% (2011 est.)<br>
 
@@ -730,7 +735,7 @@ note - the Assam Rifles are under the administrative control of the Ministry of 
 information on the size of the Indian Armed Forces varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Indian Armed Forces consists mostly of Russian-origin equipment, along with a smaller mix of Western and domestically-produced arms; since 2010, Russia is the leading supplier of arms to India; other major suppliers include France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2020)<br>
+the inventory of the Indian Armed Forces consists mostly of Russian-origin equipment, along with a smaller mix of Western and domestically-produced arms; since 2010, Russia is the leading supplier of arms to India; other major suppliers include France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2021)<br>
 
 **Military deployments**<br>
 1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Sep 2021)<br>

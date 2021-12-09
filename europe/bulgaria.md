@@ -451,6 +451,11 @@ _services_: 66.6% (2016 est.)<br>
 5.66% (2019 est.)<br>
 6.18% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.2%<br>
+_male_: 14.6%<br>
+_female_: 13.7% (2020 est.)<br>
+
 **Population below poverty line**<br>
 23.8% (2019 est.)<br>
 
@@ -714,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Revolutionary Guard Corps/Qod
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,310 (Syria) (2020)<br>
 _stateless persons_: 1,141 (2020)<br>
-<strong>note:</strong> 67,626 estimated refugee and migrant arrivals (January 2015-November 2021); Bulgaria is predominantly a transit country<br>
+<strong>note:</strong> 67,634 estimated refugee and migrant arrivals (January 2015-November 2021); Bulgaria is predominantly a transit country<br>
 
 **Illicit drugs**<br>
 source country for amphetamine tablets<br>

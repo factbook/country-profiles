@@ -469,6 +469,11 @@ _services_: 36.9% (2016 est.)<br>
 4.4% (2016 est.)<br>
 <strong>note:</strong> about 40% of the population is underemployed; many persons counted as employed work only a few hours a week and at low wages<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.8%<br>
+_male_: 10.8%<br>
+_female_: 16.8% (2017 est.)<br>
+
 **Population below poverty line**<br>
 24.3% (2016 est.)<br>
 
@@ -701,7 +706,7 @@ _river port(s)_: Mongla Port (Sela River)<br>
 
 **Military and security forces**<br>
 Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion, Ansars, Village Defense Party (VDP) (2021)<br>
-note: the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
+note - the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>

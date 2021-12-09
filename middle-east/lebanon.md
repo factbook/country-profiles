@@ -88,7 +88,7 @@ Arabic (official), French, English, Armenian<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 61.1% (30.6% Sunni, 30.5% Shia, smaller percentages of Alawites and Ismailis), Christian 33.7% (Maronite Catholics are the largest Christian group), Druze 5.2%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2018 est.)<br>
+Muslim 67.8% (31.9% Sunni, 31.2% Shia, smaller percentages of Alawites and Ismailis), Christian 32.4% (Maronite Catholics are the largest Christian group), Druze 4.5%, very small numbers of Jews, Baha'is, Buddhists, and Hindus (2020 est.)<br>
 <strong>note:</strong> data represent the religious affiliation of the citizen population (data do not include Lebanon's sizable Syrian and Palestinian refugee populations); 18 religious sects recognized<br>
 
 **Age structure**<br>
@@ -435,6 +435,11 @@ _services_: NA<br>
 **Unemployment rate**<br>
 9.7% (2007)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 23.4%<br>
+_male_: 24.5%<br>
+_female_: 21.4% (2019)<br>
+
 **Population below poverty line**<br>
 27.4% (2011 est.)<br>
 
@@ -656,8 +661,8 @@ _container port(s) (TEUs)_: Beirut (1,229,100) (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Lebanese Internal Security Forces Directorate (includes Mobile Gendarmerie); Directorate for General Security (DGS); Directorate General for State Security (2021)<br>
-note(s) - the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official checkpoints are under the authority of Customs and Internal Security Forces<br>
+Lebanese Armed Forces (LAF): Army Command (includes Presidential Guard Brigade, Land Border Regiments), Naval Forces, Air Forces; Ministry of Interior: Internal Security Forces Directorate (law enforcement; includes Mobile Gendarmerie), Directorate for General Security (DGS; border control, some domestic security duties) (2021)<br>
+note(s) - the commander of the LAF is also the commander of the Army; the LAF patrols external borders, while official checkpoints are under the authority of Directorate for General Security<br>
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>

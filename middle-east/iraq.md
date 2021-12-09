@@ -463,6 +463,11 @@ _services_: 59.8% (2008 est.)<br>
 16% (2012 est.)<br>
 15% (2010 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 25.6%<br>
+_male_: 22%<br>
+_female_: 63.3% (2017)<br>
+
 **Population below poverty line**<br>
 23% (2014 est.)<br>
 
@@ -690,7 +695,7 @@ _river port(s)_: Al Basrah (Shatt al Arab); Khawr az Zubayr, Umm Qasr (Khawr az 
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Energy Police Directorate<br> <p>Ministry of Pershmerga (Kurdistan Regional Government): Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)</p> Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
+Ministry of Defense: Iraqi Army, Army Aviation Command, Iraqi Navy, Iraqi Air Force, Iraqi Air Defense Command, Special Forces Command, Special Security Division (Green Zone protection)<br><br>National-Level Security Forces: Iraqi Counterterrorism Service (CTS; a Special Forces Division aka the "Golden Division"), Prime Minister's Special Forces Division, Presidential Brigades<br><br>Ministry of Interior: Federal Police Forces Command, Border Guard Forces Command, Federal Intelligence and Investigations Agency, Emergency Response Division, Facilities Protection Directorate, and Provincial Police<br><br>Ministry of Oil: Energy Police Directorate<br> <p>Ministry of Pershmerga (Kurdistan Regional Government): Regional Guard Brigades, Unit (or Division) 70 Forces, Unit (or Division) 80 Forces, special operations/counter-terrorism forces (Counter Terrorism Group, CTG and Counter Terrorism Directorate, CTD); note - Unit 70 and the CTG are associated with the Patriotic Union of Kurdistan (PUK) political party, while Unit 80 and the CTD are associated with the Kurdistan Democratic Party (KDP); Ministry of Interior: Zeravani and Emergency Response Forces (paramilitary internal security forces)</p> Popular Mobilization Committee (PMC): Popular Mobilization Forces (PMF), Tribal Mobilization Forces (TMF); the PMF and TMF are a collection of approximately 60 militias of widely varied sizes and political interests (2021)<br>
 
 **Military expenditures**<br>
 4.1% of GDP (2020 est.)<br>

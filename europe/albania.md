@@ -449,6 +449,11 @@ _services_: 40.3% (2017 est.)<br>
 6.32% (2018 est.)<br>
 <strong>note:</strong> these official rates may not include those working at near-subsistence farming<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 27%<br>
+_male_: 27.8%<br>
+_female_: 25.9% (2019 est.)<br>
+
 **Population below poverty line**<br>
 14.3% (2012 est.)<br>
 
@@ -613,8 +618,8 @@ Albania has more than 65 TV stations, including several that broadcast nationall
 .al<br>
 
 **Internet users**<br>
-_total_: 2,196,613<br>
-_percent of population_: 71.85% (July 2018 est.)<br>
+_total_: 2,000,000 (2021)<br>
+_percent of population_: 72.24% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,937 (2020)<br>

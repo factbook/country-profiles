@@ -417,6 +417,11 @@ _services_: 75% (1996 est.)<br>
 10.1% (2017 est.)<br>
 9.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26%<br>
+_male_: 30.3%<br>
+_female_: 21.2% (2019 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -622,10 +627,10 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<b
 0.9% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Barbados Defense Force (RBDF) has approximately 600 active personnel (2021)<br>
+the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RBDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>
+the BDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>
 
 **Military service age and obligation**<br>
 Voluntary service only; 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>

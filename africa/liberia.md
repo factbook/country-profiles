@@ -436,6 +436,11 @@ _services_: 22% (2000 est.)<br>
 **Unemployment rate**<br>
 2.8% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 2.3%<br>
+_male_: 2.4%<br>
+_female_: 2.2% (2016 est.)<br>
+
 **Population below poverty line**<br>
 50.9% (2016 est.)<br>
 
@@ -653,9 +658,8 @@ _major seaport(s)_: Buchanan, Monrovia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Liberia (AFL): Army, Liberian Coast Guard (2021)<br>
-note(s) - an AFL Air Wing is under development; it was previously disbanded in 2005, but two Liberian pilots completed training by the Nigerian Air Force in 2018<br>
-the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
+Armed Forces of Liberia (AFL): Army, Liberian Coast Guard, Air Wing (2021)<br>
+note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under development since 2019; the Liberian National Police and the Liberian Drug Enforcement Agency are under the Ministry of Justice<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>

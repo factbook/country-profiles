@@ -95,7 +95,7 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 
 **Religions**<br>
 Muslim (official) 74.6%, Christian 18.2%, other and unspecified 7.2% (2013 est.)<br>
-<strong>note:</strong> data represent the total population; about 69% of the population consists of immigrants<br>
+<strong>note:</strong> data represent the total population; about 72% of the population consists of immigrants<br>
 
 **Age structure**<br>
 _0-14 years_: 24.29% (male 378,778/female 348,512)<br>
@@ -433,6 +433,11 @@ _services_: NA<br>
 1.1% (2017 est.)<br>
 1.1% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 15.4%<br>
+_male_: 9.4%<br>
+_female_: 30% (2016 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -645,7 +650,7 @@ _major seaport(s)_: Ash Shu'aybah, Ash Shuwaykh, Az Zawr (Mina' Sa'ud), Mina' 'A
 
 **Military and security forces**<br>
 Kuwaiti Armed Forces: Kuwaiti Land Forces (KLF), Kuwaiti Navy, Kuwaiti Air Force (Al-Quwwat al-Jawwiya al-Kuwaitiya; includes Kuwaiti Air Defense Force, KADF), 25th Commando Brigade, and the Kuwait Emiri Guard Brigade; Kuwaiti National Guard (KNG); Coast Guard (Ministry of Interior) (2021)<br>
-note: the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the KNG possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
+note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercise independent command authority within the Kuwaiti Armed Forces, although activities such as training and equipment procurement are often coordinated with the other services; the Kuwaiti National Guard reports directly to the prime minister and amir and possesses an independent command structure, equipment inventory, and logistics corps separate from the Ministry of Defense, the regular armed services, and the Ministry of Interior<br>
 
 **Military expenditures**<br>
 6.3% of GDP (2020 est.)<br>

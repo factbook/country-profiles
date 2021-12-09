@@ -89,13 +89,13 @@ _noun_: Gambian(s)<br>
 _adjective_: Gambian<br>
 
 **Ethnic groups**<br>
-Mandinka/Jahanka 34%, Fulani/Tukulur/Lorobo 22.4%, Wolof 12.6%, Jola/Karoninka 10.7%, Serahuleh 6.6%, Serer 3.2%, Manjago 2.1%, Bambara 1%, Creole/Aku Marabout 0.7%, other 0.9%, non-Gambian 5.2%, no answer 0.6% (2013 est.)<br>
+Mandinka/Jahanka 33.3%, Fulani/Tukulur/Lorobo 18.2%, Wolof 12.9%, Jola/Karoninka 11%, Serahuleh 7.2%, Serer 3.5%, other 4%, non-Gambian 9.9% (2019-20 est.)<br>
 
 **Languages**<br>
 English (official), Mandinka, Wolof, Fula, other indigenous vernaculars<br>
 
 **Religions**<br>
-Muslim 95.7%, Christian 4.2%, none 0.1%, no response 0.1% (2013 est.)<br>
+Muslim 96.4%, Christian 3.5%, other or none 0.1% (2019-20 est.)<br>
 
 **Demographic profile**<br>
 <p>The Gambia’s youthful age structure – almost 60% of the population is under the age of 25 – is likely to persist because the country’s total fertility rate remains strong at nearly 4 children per woman. The overall literacy rate is around 55%, and is significantly lower for women than for men. At least 70% of the populace are farmers who are reliant on rain-fed agriculture and cannot afford improved seeds and fertilizers. Crop failures caused by droughts between 2011 and 2013 have increased poverty, food shortages, and malnutrition.</p><p>The Gambia is a source country for migrants and a transit and destination country for migrants and refugees. Since the 1980s, economic deterioration, drought, and high unemployment, especially among youths, have driven both domestic migration (largely urban) and migration abroad (legal and illegal). Emigrants are largely skilled workers, including doctors and nurses, and provide a significant amount of remittances. The top receiving countries for Gambian emigrants are Spain, the US, Nigeria, Senegal, and the UK. While the Gambia and Spain do not share historic, cultural, or trade ties, rural Gambians have migrated to Spain in large numbers because of its proximity and the availability of jobs in its underground economy (this flow slowed following the onset of Spain’s late 2007 economic crisis).</p><p>The Gambia’s role as a host country to refugees is a result of wars in several of its neighboring West African countries. Since 2006, refugees from the Casamance conflict in Senegal have replaced their pattern of flight and return with permanent settlement in The Gambia, often moving in with relatives along the Senegal-Gambia border. The strain of providing for about 7,400 Casamance refugees has increased poverty among Gambian villagers.</p><br>
@@ -344,8 +344,8 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019); note - the president is both chief of state and head of government<br>
 _head of government_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
-_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 1 December 2016 (next to be held in 2021); vice president appointed by the president<br>
-_election results_: Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
+_elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
+_election results_: Adama BARROW re-elected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.77%, Essa M. FAAL (Independent) 2.00%, Abdoulie Ebrima JAMMEH (NUP) 0.96<br><br>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
@@ -451,6 +451,11 @@ _services_: 6% (1996 est.)<br>
 
 **Unemployment rate**<br>
 <p>NA</p><br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 25.8%<br>
+_male_: 21%<br>
+_female_: 32.3% (2018 est.)<br>
 
 **Population below poverty line**<br>
 48.6% (2015 est.)<br>

@@ -438,6 +438,11 @@ _services_: NA<br>
 40% (2017 est.)<br>
 60% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 73%<br>
+_male_: 72%<br>
+_female_: 74.6% (2017)<br>
+
 **Population below poverty line**<br>
 21.1% (2017 est.)<br>
 
@@ -649,7 +654,8 @@ _major seaport(s)_: Djibouti<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Djibouti Armed Forces (FAD): Army, Navy, Air Force, National Gendarmerie; Djibouti Coast Guard (2021)<br>
+Djibouti Armed Forces (FAD): Army, Navy, Air Force; Djibouti Coast Guard; Ministry of Interior: National Gendarmerie, National Police (2021)<br>
+note - the National Police is responsible for security within Djibouti City and has primary control over immigration and customs procedures for all land border-crossing points, while the National Gendarmerie is responsible for all security outside of Djibouti City, as well as for protecting critical infrastructure within the city, such as the international airport<br>
 
 **Military expenditures**<br>
 4.9% of GDP (2017 est.)<br>

@@ -460,6 +460,11 @@ _services_: 78% (2013 est.)<br>
 18.61% (2018 est.)<br>
 <strong>note:</strong> official rate; unofficial rate is approximately 30%<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 37.3%<br>
+_male_: 34.8%<br>
+_female_: 49.4% (2019 est.)<br>
+
 **Population below poverty line**<br>
 15.7% (2018 est.)<br>
 
@@ -679,7 +684,7 @@ _major seaport(s)_: Al 'Aqabah<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: General Directorate of Gendarmerie Forces, Public Security Directorate (2021)<br>
+Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations Forces, Border Guards, Royal Guard), Royal Jordanian Air Force, Royal Jordanian Coast Guard; Ministry of Interior: Public Security Directorate (includes national police, the Gendarmerie, and the Civil Defense Directorate) (2021)<br>
 
 **Military expenditures**<br>
 4.7% of GDP (2020 est.)<br>
@@ -714,7 +719,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 <p>2004 Agreement settles border dispute with Syria pending demarcation</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 672,023 (Syria), 66,760 (Iraq), 13,902 (Yemen), 6,024 Sudan (2021)<br>
+_refugees (country of origin)_: 2,307,011 (Palestinian refugees) (2020); 672,804 (Syria), 66,665 (Iraq), 12,866 (Yemen), 6,013 Sudan (2021)<br>
 _stateless persons_: 17 (2020)<br>
 
 **Trafficking in persons**<br>

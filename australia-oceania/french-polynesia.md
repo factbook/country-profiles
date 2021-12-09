@@ -82,7 +82,7 @@ _adjective_: French Polynesian<br>
 Polynesian 78%, Chinese 12%, local French 6%, metropolitan French 4%<br>
 
 **Languages**<br>
-French (official) 70%, Polynesian (official) 28.2%, other 1.8% (2012 est.)<br>
+French (official) 73.5%, Tahitian 20.1%, Marquesan 2.6%, Austral languages 1.2%, Paumotu 1%, other 1.6% (2017 est.)<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -372,6 +372,11 @@ _services_: 68% (2013 est.)<br>
 **Unemployment rate**<br>
 21.8% (2012)<br>
 11.7% (2010)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 56.7%<br>
+_male_: 54.5%<br>
+_female_: 59.7% (2012 est.)<br>
 
 **Population below poverty line**<br>
 19.7% (2009 est.)<br>

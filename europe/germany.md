@@ -100,7 +100,7 @@ German (official); note - Danish, Frisian, Sorbian, and Romani are official mino
 _major-language sample(s)_: <br>Das World Factbook, die unverzichtbare Quelle für grundlegende Informationen. (German)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 27.1%, Protestant 24.9%, Muslim 5.2%, Orthodox 2%, other Christian 1%, other 1%, none 38.8% (2019 est.)<br>
+Roman Catholic 26.7%, Protestant 24.3%, Muslim 3.5%, other 4.8%, none 40.7% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 12.89% (male 5,302,850/female 5,025,863)<br>
@@ -455,6 +455,11 @@ _services_: 74.3% (2016)<br>
 **Unemployment rate**<br>
 4.98% (2019 est.)<br>
 5.19% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.2%<br>
+_male_: 7.9%<br>
+_female_: 6.4% (2020 est.)<br>
 
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>

@@ -477,6 +477,11 @@ _services_: 17% (2001 est.)<br>
 4.3% (2014 est.)<br>
 30% (2001 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 6.3%<br>
+_male_: 5.8%<br>
+_female_: 6.8% (2014 est.)<br>
+
 **Population below poverty line**<br>
 37.5% (2014 est.)<br>
 
@@ -703,7 +708,7 @@ Garoua (Benoue)<br>
 
 **Military and security forces**<br>
 Cameroon Armed Forces (Forces Armees Camerounaises, FAC): Army (L'Armee de Terre), Navy (Marine Nationale Republique, MNR, includes naval infantry), Air Force (Armee de l'Air du Cameroun, AAC), Rapid Intervention Battalion (Bataillons d’Intervention Rapide, BIR), Gendarmerie, Presidential Guard (2021)<br>
-note - the Rapid Intervention Battalion (RIB) is a large brigade-sized force comprised of approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism); the RIB maintains its own command and control structure and reports directly to the president, rather than the defense minister<br>
+note(s) - the National Police (under the General Delegation of National Security) and the Gendarmerie are responsible for internal security; the Rapid Intervention Battalion (RIB) is a large brigade-sized force comprised of approximately 9 battalions, detachments, or groups (5 infantry, 1 airborne, 1 amphibious, 1 armored reconnaissance, and 1 counter-terrorism); the RIB maintains its own command and control structure and reports directly to the president, rather than the defense minister<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>

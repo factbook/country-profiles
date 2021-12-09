@@ -459,6 +459,11 @@ _services_: 4.1% (2002 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 2.9%<br>
+_male_: 4.4%<br>
+_female_: 2% (2014 est.)<br>
+
 **Population below poverty line**<br>
 64.6% (2014 est.)<br>
 
@@ -663,7 +668,7 @@ _lake port(s)_: Bujumbura (Lake Tanganyika)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing), National Police (Police Nationale du Burundi) (2021)<br>
+National Defense Forces (Forces de Defense Nationale, FDN): Army (includes maritime wing, air wing); Ministry of Public Security: National Police (Police Nationale du Burundi) (2021)<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>

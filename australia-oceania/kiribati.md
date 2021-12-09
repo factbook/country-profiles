@@ -402,6 +402,11 @@ _services_: 75% (2010)<br>
 30.6% (2010 est.)<br>
 6.1% (2005)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 22.5%<br>
+_male_: 21.2%<br>
+_female_: 24.6% (2019 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -606,7 +611,7 @@ _major seaport(s)_: Betio (Tarawa Atoll), Canton Island, English Harbor<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Kiribati Police Service<br>
+no regular military forces; Kiribati Police and Prison Service (Ministry of Justice)<br>
 
 **Military - note**<br>
 defense assistance is provided by Australia and NZ<br>

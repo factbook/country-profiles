@@ -92,7 +92,7 @@ Hebrew (official), Arabic (special status under Israeli law), English (most comm
 _major-language sample(s)_: <br>ספר עובדות העולם, המקור החיוני למידע בסיסי (Hebrew)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Jewish 74.1%, Muslim 17.9%, Christian 1.9%, Druze 1.6%, other 4.5% (2019 est.)<br>
+Jewish 74%, Muslim 18%, Christian 1.9%, Druze 1.6%, other 4.5% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 26.76% (male 1,187,819/female 1,133,365)<br>
@@ -446,6 +446,11 @@ _services_: 81.6% (2015 est.)<br>
 4.4% (2020 est.)<br>
 3.81% (2019 est.)<br>
 4% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.9%<br>
+_male_: 7.6%<br>
+_female_: 8.2% (2020 est.)<br>
 
 **Population below poverty line**<br>
 22% (2014 est.)<br>

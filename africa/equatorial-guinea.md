@@ -88,7 +88,7 @@ Spanish (official) 67.6%, other (includes Fang, Bubi, Portuguese (official), Fre
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-nominally Christian and predominantly Roman Catholic, Muslim, Baha'i, animist, indigenous<br>
+Roman Catholic 88%, Protestant 5%, Muslim 2%, other 5% (animist, Baha'i, Jewish) (2015 est.)<br>
 
 **Demographic profile**<br>
 <p>Equatorial Guinea is one of the smallest and least populated countries in continental Africa and is the only independent African country where Spanish is an official language. Despite a boom in oil production in the 1990s, authoritarianism, corruption, and resource mismanagement have concentrated the benefits among a small elite. These practices have perpetuated income inequality and unbalanced development, such as low public spending on education and health care. Unemployment remains problematic because the oil-dominated economy employs a small labor force dependent on skilled foreign workers. The agricultural sector, Equatorial Guinea’s main employer, continues to deteriorate because of a lack of investment and the migration of rural workers to urban areas. About three-quarters of the population lives below the poverty line.</p><p>Equatorial Guinea’s large and growing youth population – about 60% are under the age of 25 – is particularly affected because job creation in the non-oil sectors is limited, and young people often do not have the skills needed in the labor market. Equatorial Guinean children frequently enter school late, have poor attendance, and have high dropout rates. Thousands of Equatorial Guineans fled across the border to Gabon in the 1970s to escape the dictatorship of MACIAS NGUEMA; smaller numbers have followed in the decades since. Continued inequitable economic growth and high youth unemployment increases the likelihood of ethnic and regional violence.</p><br>
@@ -631,7 +631,8 @@ _LNG terminal(s) (export)_: Bioko Island<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army), Navy, Air Force; Guardia Civil (paramilitary force for internal security) (2021)<br>
+Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equatorial Guinea National Guard (Guardia Nacional de Guinea Ecuatorial, GNGE (Army), Navy, Air Force; Gendarmerie  (2021)<br>
+note - the Gendarmerie reports to the Ministry of National Defense and is responsible for security outside cities and for special events; military personnel also fulfill some police functions in border areas, sensitive sites, and high-traffic areas<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2019 est.)<br>
@@ -641,7 +642,7 @@ Equatorial Guinea Armed Forces (Fuerzas Armadas de Guinea Ecuatorial, FAGE): Equ
 1% of GDP (2015 est.)<br>
 
 **Military and security service personnel strengths**<br>
-approximately 1,400 active duty troops; approximately 400 Guardia Civil (2021)<br>
+approximately 1,400 active duty troops; approximately 3-400 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAGE is armed with mostly older (typically Soviet-era) and second-hand weapons systems; in recent years,it has sought to modernize its naval inventory; Ukraine is the leading provider of equipment since 2010, followed by Israel (2020)<br>

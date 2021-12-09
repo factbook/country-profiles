@@ -437,6 +437,11 @@ _services_: 78% (2000 est.)<br>
 1.6% (2016 est.)<br>
 3.6% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.2%<br>
+_male_: 4.9%<br>
+_female_: 15% (2019 est.)<br>
+
 **Population below poverty line**<br>
 19.5% (2003 est.)<br>
 
@@ -579,15 +584,15 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,362,602<br>
-_subscriptions per 100 inhabitants_: 24.31 (2019 est.)<br>
+_total subscriptions_: 2,380,866 (2020)<br>
+_subscriptions per 100 inhabitants_: 24.07 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 19,602,815<br>
-_subscriptions per 100 inhabitants_: 201.67 (2019 est.)<br>
+_total subscriptions_: 18,374,332 (2020)<br>
+_subscriptions per 100 inhabitants_: 185.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: one of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2021) (2020)<br>
+_general assessment_: one of the world&rsquo;s most connected countries with modern infrastructure and record Internet, broadband, and mobile use; low-cost smartphones drive mobile-broadband penetration; LTE networks cover most of the population with launch of 5G in partnership with Chinese company ZTE; submarine cables connect to South Africa, Middle East, Pakistan, and Europe; ISPs are fully or partially owned by state, allowing control over flow of information; during pandemic, there was a surge of Internet use from home, with temporary government relaxation of restrictions on streaming such as Zoom, Skype, and Microsoft Teams; government censorship and surveillance of online platforms; service prices are highest in the region, yet affordable for population&rsquo;s affluent users; government launched free digital platforms for students; Dubai and Abu Dhabi are smart cities with government plan to digitize services across country; major importer of broadcasting equipment from China and exporter of broadcasting equipment to Iraq and Saudi Arabia (2020)<br>
 _domestic_: microwave radio relay, fiber-optic and coaxial cable; fixed-line 24 per 100 and mobile-cellular 201 per 100 (2019)<br>
 _international_: country code - 971;&nbsp;landing points for the&nbsp;FLAG, SEA-ME-WE-3&nbsp;,-4 &amp; -5, Qater UAE&nbsp;Submarine Cable System, FALCON, FOG, Tat TGN-Gulf, OMRAN/EPEG Cable System, AAE-1, BBG, EIG, FEA, GBICS/MENA, IMEWE, Orient Express, TEAMS, TW1 and the UAE-Iran submarine cables, linking to Europe, Africa, the Middle East, Asia, Southeast Asia and Australia; satellite earth stations - 3 Intelsat (1 Atlantic Ocean and 2 Indian) (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -603,8 +608,8 @@ _total_: 9,550,945<br>
 _percent of population_: 98.45% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,045,957<br>
-_subscriptions per 100 inhabitants_: 31.34 (2019 est.)<br>
+_total_: 3,245,123 (2020)<br>
+_subscriptions per 100 inhabitants_: 32.81 (2020 est.)<br>
 
 ## Transportation
 
@@ -671,7 +676,7 @@ United Arab Emirates Armed Forces: Land Forces, Navy Forces, Air Force, Presiden
 the United Arab Emirates Armed Forces have approximately 65,000 total active personnel (45,000 Land Forces; 3,000 Navy; 5,000 Air Force; 12,000 Presidential Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with the US as the leading supplier, followed by France and Russia; in recent years, the UAE has tried to boost its domestic defense industry&nbsp; (2020)<br>
+the UAE Armed Forces inventory is comprised of wide variety of mostly modern imported equipment; since 2010, the UAE has acquired military equipment from more than 20 countries with France, Russia, and the US as the leading suppliers; in recent years, the UAE has tried to boost its domestic defense industry (2021)<br>
 
 **Military deployments**<br>
 estimates vary; reportedly a few hundred remain in Yemen (2021)<br>
@@ -680,7 +685,7 @@ estimates vary; reportedly a few hundred remain in Yemen (2021)<br>
 18-30 years of age for compulsory military service for men; 17 years of age for male volunteers with parental approval; 24-month general service obligation, 16 months for secondary school graduates; women can volunteer to serve for 9 months regardless of education (2019)<br>
 
 **Military - note**<br>
-<p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
+<p>as of 2021, the UAE was closely aligned with Saudi Arabia and Bahrain on regional security issues; it hosted a multipurpose air, ground, and naval French military base, which included the French naval command for the Indian Ocean (ALINDIEN); the UAE has a defense cooperation agreement with the US and, as of 2021, hosted about 3,500 US troops, mostly air and naval personnel</p> <p>in 2015, UAE intervened militarily in Yemen as part of the Saudi-led coalition in support of the Republic of Yemen Government with about 3,500 troops, as well as supporting air and naval forces; UAE withdrew its main military force from Yemen in 2019, but has retained a small military presence while working with proxies in southern Yemen, most notably the Southern Transitional Council (STC); as of 2021, UAE had recruited, trained, and equipped an estimated 150-200,000 Yemeni fighters and formed them into dozens of militia and paramilitary units</p><br>
 
 ## Transnational Issues
 

@@ -465,6 +465,11 @@ _industry and services_: 15% (2003 est.)<br>
 **Unemployment rate**<br>
 6.6% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 17.3%<br>
+_male_: 17.9%<br>
+_female_: 16.7% (2014 est.)<br>
+
 **Population below poverty line**<br>
 32.3% (2018 est.)<br>
 
@@ -723,7 +728,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,427 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 37,426 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

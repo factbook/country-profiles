@@ -464,6 +464,11 @@ _agriculture_: 68% (2007 est.)<br>
 **Unemployment rate**<br>
 9.4% (2013 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 5.5%<br>
+_male_: 4.7%<br>
+_female_: 6.5% (2017 est.)<br>
+
 **Population below poverty line**<br>
 39.5% (2018 est.)<br>
 

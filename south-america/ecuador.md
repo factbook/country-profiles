@@ -457,6 +457,11 @@ _services_: 55.5% (2017 est.)<br>
 5.71% (2019 est.)<br>
 5.26% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 11.1%<br>
+_male_: 8.7%<br>
+_female_: 15.4% (2020 est.)<br>
+
 **Population below poverty line**<br>
 25% (2019 est.)<br>
 
@@ -688,7 +693,8 @@ _river port(s)_: Guayaquil (Guayas)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Ecuadorian Armed Forces: the Ecuadorian Army (El Ej&eacute;rcito Ecuatoriano), Ecuadorian Navy (Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE); Ministry of Interior: National Police (Polic&iacute;a Nacional del Ecuador) (2021)<br>
+Ecuadorian Armed Forces: the Ecuadorian Army (El Ejército Ecuatoriano), Ecuadorian Navy (Fuerza Naval del Ecuador, FNE, includes naval infantry, naval aviation, coast guard), Ecuadorian Air Force (Fuerza Aerea Ecuatoriana, FAE) (2021)<br><br>note - the National Police of Ecuador (Policía Nacional del Ecuador) is under the Ministry of Government<br>
+note - the National Police of Ecuador (Polic&iacute;a Nacional del Ecuador) is under the Ministry of Government<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>

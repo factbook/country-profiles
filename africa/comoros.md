@@ -423,6 +423,11 @@ _industry and services_: 20% (1996 est.)<br>
 **Unemployment rate**<br>
 6.5% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 19.5%<br>
+_male_: 20%<br>
+_female_: 18.8% (2014)<br>
+
 **Population below poverty line**<br>
 42.4% (2013 est.)<br>
 
@@ -625,7 +630,7 @@ _major seaport(s)_: Moroni, Moutsamoudou<br>
 ## Military and Security
 
 **Military and security forces**<br>
-National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Comoran Coast Guard, Comoran Federal Police (2021)<br>
+National Army for Development (l'Armee Nationale de Developpement, AND): Comoran Security Force (also called Comoran Defense Force (Force Comorienne de Defense, FCD), includes Gendarmerie); Ministry of Interior: Coast Guard, Federal Police, National Directorate of Territorial Safety (2021)<br>
 note - when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
 
 **Military and security service personnel strengths**<br>

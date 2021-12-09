@@ -88,7 +88,7 @@ Icelandic 81.7%, Polish 5.6%, Danish 1%, other 11.7% (2020 est.)<br>
 Icelandic, English, Nordic languages, German<br>
 
 **Religions**<br>
-Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Reykjavik Free Church 2.7%, Hafnarfjordur Free Church 2%, pagan worship 1.4%, Icelandic Ethical Humanist 1.1%, other religions 4% (includes Zuist and Pentecostal), none 7.6%, other or unspecified 15% (2020 est.)<br>
+Evangelical Lutheran Church of Iceland (official) 62.3%, Roman Catholic 4%, Reykjavik Free Church 2.7%, Hafnarfjordur Free Church 2%, pagan worship 1.4%, Icelandic Ethical Humanist 1.1%, other religions 4% (includes Zuist and Pentecostal), none 7.6%, other or unspecified 15% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 20.31% (male 36,394/female 34,837)<br>
@@ -428,6 +428,11 @@ _services_: 73% (2008)<br>
 **Unemployment rate**<br>
 3.62% (2019 est.)<br>
 2.73% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 10%<br>
+_male_: 11.1%<br>
+_female_: 9% (2020 est.)<br>
 
 **Population below poverty line**<br>
 8.8% (2017 est.)<br>

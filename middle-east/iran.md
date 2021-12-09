@@ -99,7 +99,7 @@ Persian Farsi&nbsp;(official), Azeri&nbsp;and other&nbsp;Turkic dialects, Kurdis
 _major-language sample(s)_: <br>چکیده نامه جهان، منبعی ضروری برای کسب اطلاعات کلی جهان (Persian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official) 99.4% (Shia 90-95%, Sunni 5-10%), other (includes Zoroastrian, Jewish, and Christian) 0.3%, unspecified 0.4% (2011 est.)<br>
+Muslim (official) 99.6% (Shia 90-95%, Sunni 5-10%), other (includes Zoroastrian, Jewish, and Christian) 0.3%, unspecified 0.2% (2016 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 24.11% (male 10,472,844/female 10,000,028)<br>
@@ -452,6 +452,11 @@ _services_: 48.6% (2013 est.)<br>
 12.4% (2016 est.)<br>
 <strong>note:</strong> data are Iranian Government numbers<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 23.7%<br>
+_male_: 21.2%<br>
+_female_: 36% (2020 est.)<br>
+
 **Population below poverty line**<br>
 18.7% (2007 est.)<br>
 
@@ -681,8 +686,8 @@ _container port(s) (TEUs)_: Bandar Abbas<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (Sepah, IRGC): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (special operations), Cyber Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2021)<br><br>note: the Iranian Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br>
-note: the Iranian Navy operates Iran&rsquo;s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz<br>
+Islamic Republic of Iran Regular Forces (Artesh): Ground Forces, Navy (includes marines), Air Force, Air Defense Forces; Islamic Revolutionary Guard Corps (Sepah, IRGC): Ground Forces, Navy (includes marines), Aerospace Force (controls strategic missile force), Qods Force (special operations), Cyber Command, Basij Paramilitary Forces (Popular Mobilization Army); Law Enforcement Forces (border and security troops, assigned to the armed forces in wartime) (2021)<br><br>note(s) - the Iranian Navy operates Iran’s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz; the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to Revolutionary Guard ground forces <br>
+note(s) - the Iranian Navy operates Iran&rsquo;s larger warships and operates in the Gulf of Oman, the Caspian Sea, and deep waters in the region and beyond; the IRGC Navy has responsibility for the closer-in Persian Gulf and Strait of Hormuz; the Basij is a volunteer paramilitary group with local organizations across the country, which sometimes acts as an auxiliary law enforcement unit subordinate to Revolutionary Guard ground forces&nbsp;<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>

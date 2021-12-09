@@ -466,6 +466,11 @@ _services_: 37.6% (2017 est.)<br>
 23.9% (2017 est.)<br>
 22.6% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 16.2%<br>
+_male_: 14.5%<br>
+_female_: 21.1% (2020)<br>
+
 **Population below poverty line**<br>
 54.5% (2016 est.)<br>
 
@@ -688,7 +693,7 @@ _river port(s)_: Kheyrabad, Shir Khan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-prior to August 2021, the Afghan National Defense and Security Forces (ANDSF) were comprised of military, police, and other security elements:<br><br>Ministry of Defense: Afghan National Army ((ANA), Afghan Air Force, Afghan Army Special Security Forces (ASSF; includes ANA Special Operations Command, General Command Police Special Units (GCPSU), and the Special Mission Wing (SMW)), Afghanistan National Army Territorial Forces (ANA-TF, lightly-armed local security forces); Afghan Border Force (ABF); Afghan National Civil Order Force (ANCOF)<br><br>Ministry of Interior: Afghan Uniform (National) Police (AUP); Public Security Police (PSP); Afghan Border Police (ABP); Afghan Anti-Crime Police; Afghan Local Police; Afghan Public Protection Force; Special Security Forces<br><br>National Directorate of Security ((NDS), intelligence service) (2021)<br>
+as of late 2021, the Taliban had not established an official military structure; prior to August 2021, the Afghan National Defense and Security Forces (ANDSF) were comprised of military, police, and other security elements:<br><br>Ministry of Defense: Afghan National Army ((ANA), Afghan Air Force, Afghan Army Special Security Forces (ASSF; includes ANA Special Operations Command, General Command Police Special Units (GCPSU), and the Special Mission Wing (SMW)), Afghanistan National Army Territorial Forces (ANA-TF, lightly-armed local security forces); Afghan Border Force (ABF); Afghan National Civil Order Force (ANCOF)<br><br>Ministry of Interior: Afghan Uniform (National) Police (AUP); Public Security Police (PSP); Afghan Border Police (ABP); Afghan Anti-Crime Police; Afghan Local Police; Afghan Public Protection Force; Special Security Forces<br><br>National Directorate of Security ((NDS), intelligence service) (2021)<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2019)<br>

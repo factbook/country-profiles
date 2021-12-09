@@ -402,6 +402,11 @@ _tourism_: 37% (2011 est.)<br>
 10.1% (2017 est.)<br>
 12.2% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 25.8%<br>
+_male_: 20.8%<br>
+_female_: 31.6% (2016 est.)<br>
+
 **Population below poverty line**<br>
 9.3% (2010 est.)<br>
 

@@ -446,6 +446,11 @@ _services_: 67.1% (2013)<br>
 7.22% (2019 est.)<br>
 7.33% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 24.9%<br>
+_male_: 23.7%<br>
+_female_: 26.6% (2020 est.)<br>
+
 **Population below poverty line**<br>
 8.6% (2017 est.)<br>
 
@@ -672,8 +677,8 @@ _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile):  Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of Interior: Carabineros de Chile (National Police Force) (2021)<br>
-note: Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of Interior<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile):  Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2021)<br>
+note - Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
 2% of GDP (2020 est.)<br>

@@ -460,6 +460,11 @@ _services_: NA<br>
 20% (2013 est.)<br>
 17.8% (2009 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 46.2%<br>
+_male_: 44.9%<br>
+_female_: 47.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 19.3% (2009 est.)<br>
 
@@ -670,7 +675,8 @@ _unpaved_: 21,937 km (2017)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Botswana Defence Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2021)<br>
+Botswana Defense Force (BDF): Ground Forces Command, Air Arm Command, Defense Logistics Command (2021)<br>
+note - both the armed forces and the Botswana Police Service report to the Ministry of Defense, Justice, and Security<br>
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>

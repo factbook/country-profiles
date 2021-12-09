@@ -340,12 +340,12 @@ _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 20
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2021: </em>Official results pending; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) NA%, Nasry Juan ASFURA Zablah (PNH) NA%, Yani Benjamin ROSENTHAL Hidalgo (PL) NA%<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 50.4%, Nasry Juan ASFURA Zablah (PNH) 36.1%, Yani Benjamin ROSENTHAL Hidalgo (PL) 9.8%, other 3.7%; note - percentages reflect 85% of the vote counted; official results pending; CASTRO is scheduled to take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
-_elections_: last held on 27 November 2017 (next to be held on 27 November 2021)<br>
-_election results_: percent of vote by party - PNH 47.7%, LIBRE 23.4%, PL 20.3%, AP 3.1%, PINU 3.1%, DC 0.8%, PAC 0.8%, UD 0.8%; seats by party - PNH 61, LIBRE 30, PL 26, AP 4, PINU 4, DC 1, PAC 1, UD 1; composition - men 101, women 27, percent of women 21.1%<br>
+_elections_: last held on 28 November 2021 (next to be held on 30 November 2025)<br>
+_election results_: percent of vote by party - LIBRE 39.8%, PNH 31.3%, PL 16.4%, PSH 10.9%, DC 0.8%, PAC 0.8%; seats by bloc or party - LIBRE 51, PNH 40, PL 21, PSH 14, DC 1, PAC 1<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Justice or Corte Suprema de Justicia (15 principal judges, including the court president, and 7 alternates; court organized into civil, criminal, constitutional, and labor chambers); note - the court has both judicial and constitutional jurisdiction<br>
@@ -353,7 +353,7 @@ _judge selection and term of office_: court president elected by his peers; judg
 _subordinate courts_: courts of appeal; courts of first instance; justices of the peace<br>
 
 **Political parties and leaders**<br>
-Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>
+Anti-Corruption Party or PAC [Marlene ALVARENGA] <br>Christian Democratic Party or DC [Lucas AGUILERA] <br>Democratic Unification Party or UD [Alfonso DIAZ] <br>Honduran Patriotic Alliance or AP [Romeo VASQUEZ Velasquez] <br>Innovation and Unity Party or PINU [Guillermo VALLE]<br>Liberal Party or PL [Yani Benjamin ROSENTHAL Hidalgo] <br>Liberty and Refoundation Party or LIBRE [Jose Manuel ZELAYA Rosales]<br>National Party of Honduras or PNH [Reinaldo SANCHEZ Rivera] <br>Opposition Alliance against the Dictatorship or Alianza de Oposicion contra la Dictadura [Salvador NASRALLA] (electoral coalition)<br>Savior Party of Honduras or PSH [Salvador Alejandro Cesar NASRALLA Salum]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, EITI (candidate country), FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC (suspended), IOM, IPU, ISO (subscriber), ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, MINURSO, MINUSTAH, NAM, OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO (suspended), WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -455,6 +455,11 @@ _services_: 39.8% (2005 est.)<br>
 5.6% (2017 est.)<br>
 6.3% (2016 est.)<br>
 <strong>note:</strong> about one-third of the people are underemployed<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 17.8%<br>
+_male_: 11.1%<br>
+_female_: 27.7% (2020 est.)<br>
 
 **Population below poverty line**<br>
 48.3% (2018 est.)<br>

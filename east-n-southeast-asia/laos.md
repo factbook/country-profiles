@@ -451,6 +451,11 @@ _services_: 20.6% (2012 est.)<br>
 0.7% (2017 est.)<br>
 0.7% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 18.2%<br>
+_male_: 20.8%<br>
+_female_: 15.5% (2017 est.)<br>
+
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
 
@@ -666,7 +671,7 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br> <p>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units</p> (2021)<br>
+Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Force), Air Force, Self-Defense Militia Forces<br><br>Ministry of Public Security (internal security and law enforcement):  local, traffic, immigration, and security police, as well as village police auxiliaries and other armed police units (2021)<br>
 
 **Military expenditures**<br>
 0.2% of GDP (2017 est.)<br>

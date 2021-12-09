@@ -97,7 +97,7 @@ Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, G
 <strong>note:</strong> only the 24 official languages are listed; German, the major language of Germany, Austria, and Switzerland, is the most widely spoken mother tongue - about 16% of the EU population; English is the most widely spoken foreign language - about 29% of the EU population is conversant with it (2020)<br>
 
 **Religions**<br>
-Roman Catholic 48%, Protestant 12%, Orthodox 8%, other Christian 4%, Muslim 2%, other 1% (includes Jewish, Sikh, Buddhist, Hindu), atheist 7%, non-believer/agnostic 16%, unspecified 2% (2012 est.)<br>
+Roman Catholic 41%, Orthodox 10%, Protestant 9%, other Christian 4%, Muslim 2%, other 4% (includes Jewish, Sikh, Buddhist, Hindu), atheist 10%, non-believer/agnostic&nbsp; 17%, unspecified 3% (2019 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 15.05% (male 34,978,216/female 33,217,600)<br>
@@ -367,6 +367,11 @@ _services_: 73.1% (2014 est.)<br>
 **Unemployment rate**<br>
 8.6% (2016 est.)<br>
 9.4% (2015 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 18.7%<br>
+_male_: 18.5%<br>
+_female_: 19.2% (2020 est.)<br>
 
 **Population below poverty line**<br>
 9.8% (2013 est.)<br>

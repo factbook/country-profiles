@@ -417,6 +417,11 @@ _services_: 20% (2000 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 1.3%<br>
+_male_: 1%<br>
+_female_: 1.6% (2013)<br>
+
 **Population below poverty line**<br>
 12.7% (2012 est.)<br>
 
@@ -562,12 +567,12 @@ _electrification - rural areas_: 63.5% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,104<br>
-_subscriptions per 100 inhabitants_: 1.07 (2019 est.)<br>
+_total subscriptions_: 7,104 (2019)<br>
+_subscriptions per 100 inhabitants_: 1.06 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 478,116<br>
-_subscriptions per 100 inhabitants_: 71.75 (2019 est.)<br>
+_total subscriptions_: 478,116 (2019)<br>
+_subscriptions per 100 inhabitants_: 71.38 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Internet penetration has reached 20%; 3G and&nbsp;4G LTE mobile network expansions, investment in mobile services in the region; otherwise 3G and satellite services for communication and Internet access; increase in broadband subscriptions; the launch of the Kacific-1 satellite in 2019 and the Coral Sea Cable System have vastly improved the telecom sector (2020)<br>
@@ -586,8 +591,8 @@ _total_: 78,686<br>
 _percent of population_: 11.92% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,045<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 1,045 (2019)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -636,6 +641,9 @@ no regular military forces; the Royal Solomon Islands Police is responsible for 
 
 **Military equipment inventories and acquisitions**<br>
 the maritime branch of the Royal Solomon Islands Police Force operates patrol boats provided by Australia (2021)<br>
+
+**Military - note**<br>
+<p>Australia and New Zealand provide material and training assistance to the police</p><br>
 
 ## Transnational Issues
 

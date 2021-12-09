@@ -448,6 +448,11 @@ _services_: 64% (2006 est.)<br>
 8.1% (2017 est.)<br>
 9.5% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 40.7%<br>
+_male_: 34%<br>
+_female_: 50.9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 21% (2019 est.)<br>
 
@@ -669,7 +674,7 @@ Pacific Ocean - Caldera<br>
 
 **Military and security forces**<br>
 no regular military forces; Ministry of Public Security: the Public Force (Fuerza Pública (National Police)), Air Surveillance Service (Servicio de Vigilancia Aérea), and National Coast Guard Service (Servicio Nacional de Guardacostas) (2021)<br>
-note: Costa Rica's armed forces were constitutionally abolished in 1949<br>
+note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 
 **Military expenditures**<br>
 0.7% of GDP (2020)<br>

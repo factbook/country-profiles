@@ -467,6 +467,11 @@ _services_: 23% (2001 est.)<br>
 4% (2017 est.)<br>
 4% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 1.5%<br>
+_male_: 1.4%<br>
+_female_: 1.6% (2019 est.)<br>
+
 **Population below poverty line**<br>
 24.8% (2017 est.)<br>
 
@@ -696,8 +701,8 @@ _river port(s)_: Rangoon (Yangon) (Rangoon River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Border Guard Forces; Ministry of Home Affairs: People's Police Force (2021)<br>
-note(s) - the Burmese military controls the People's Militia, Border Guard Forces, and the Ministry of Home Affairs<br><br>the National Unity Government anti-junta military forces are known as the People's Defense Force (formed May 2021)<br>
+Burmese Defense Service (Tatmadaw): Army (Tatmadaw Kyi), Navy (Tatmadaw Yay), Air Force (Tatmadaw Lay); People’s Militia; Ministry of Home Affairs: People's Police Force; Border Guard Forces/Police (2021)<br>
+note(s) - the Burmese military controls the Ministry of Home Affairs and the People's Militia<br><br>the National Unity Government anti-junta military forces are known as the People's Defense Force (formed May 2021)<br>
 
 **Military expenditures**<br>
 3% of GDP (2020 est.)<br>

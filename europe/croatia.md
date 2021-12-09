@@ -462,6 +462,11 @@ _services_: 70.8% (2017 est.)<br>
 8.07% (2019 est.)<br>
 9.86% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.1%<br>
+_male_: 18.7%<br>
+_female_: 25% (2020 est.)<br>
+
 **Population below poverty line**<br>
 18.3% (2018 est.)<br>
 
@@ -702,7 +707,7 @@ Armed Forces of the Republic of Croatia (Oruzane Snage Republike Hrvatske, OSRH)
 the Armed Forces of the Republic of Croatia have approximately 15,000 active duty personnel (10,000 Army; 1,500 Navy; 1,500 Air force; 2,000 joint/other) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including Finland, Germany, and the US (2020)<br>
+the inventory of the Croatian Armed Forces consists mostly of Soviet-era equipment, although in recent years, it has acquired a limited number of more modern weapon systems from some Western suppliers, including Finland, France, Germany, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for voluntary military service; conscription abolished in 2008 (2019)<br>

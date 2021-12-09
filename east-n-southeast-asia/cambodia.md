@@ -464,6 +464,11 @@ _services_: 31.5% (2013 est.)<br>
 0.2% (2016 est.)<br>
 <strong>note:</strong> high underemployment, according to official statistics<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 2.5%<br>
+_male_: 2.7%<br>
+_female_: 2.3% (2019 est.)<br>
+
 **Population below poverty line**<br>
 16.5% (2016 est.)<br>
 

@@ -468,6 +468,11 @@ _services_: 48.6% (2015 est.)<br>
 4% (2016 est.)<br>
 <strong>note:</strong> data are for urban areas; widespread underemployment<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 16.1%<br>
+_male_: 15.7%<br>
+_female_: 16.6% (2020 est.)<br>
+
 **Population below poverty line**<br>
 37.2% (2019 est.)<br>
 
@@ -697,7 +702,7 @@ _river port(s)_: Puerto Aguirre (Paraguay/Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT)  (2021)<br>
+Bolivian Armed Forces: Bolivian Army (Ejercito de Boliviano, EB), Bolivian Naval Force (Fuerza Naval Boliviana, FNB), Bolivian Air Force (Fuerza Aerea Boliviana, FAB); Ministry of Government: National Police (Policía Nacional de Bolivia, PNB; includes paramilitary Anti-Narcotics Special Forces (Fuerza Especial de Lucha Contra el Narcotráfico, FELCN)) and an Anti-Terrorist Group (GAT) (2021)<br>
 note - the National Police is part of the reserves for the Armed Forces<br>
 
 **Military expenditures**<br>

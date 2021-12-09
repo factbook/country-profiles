@@ -455,6 +455,11 @@ _services_: 67.8% (2011)<br>
 9.88% (2019 est.)<br>
 10.63% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 29.4%<br>
+_male_: 27.9%<br>
+_female_: 31.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 20.1% (2018 est.)<br>
 
@@ -725,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 584,893 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 586,598 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

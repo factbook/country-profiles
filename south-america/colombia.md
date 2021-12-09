@@ -472,6 +472,11 @@ _services_: 62% (2011 est.)<br>
 10.5% (2019 est.)<br>
 9.68% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 25.8%<br>
+_male_: 20.7%<br>
+_female_: 33% (2020 est.)<br>
+
 **Population below poverty line**<br>
 35.7% (2019 est.)<br>
 
