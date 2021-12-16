@@ -355,7 +355,7 @@ _email address and website_: <br>wshinfo@mfat.govt.nz<br><br>https://www.mfat.go
 _consulate(s) general_: Honolulu, Los Angeles, New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Kevin COVERT (20 December 2020) note - also accredited to Samoa<br>
+_chief of mission_: Ambassador Tom S. UDALL (since 1 December 2021) note - also accredited to Samoa<br>
 _embassy_: 29 Fitzherbert Terrace, Thorndon, Wellington 6011<br>
 _mailing address_: 4370 Auckland Place, Washington DC&nbsp; 20521-4370<br>
 _telephone_: [64] (4) 462-6000<br>
@@ -442,6 +442,11 @@ _services_: 72.7% (2017 est.)<br>
 **Unemployment rate**<br>
 4.13% (2019 est.)<br>
 4.32% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.4%<br>
+_male_: 12.2%<br>
+_female_: 12.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 NA<br>
@@ -587,12 +592,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,801,645<br>
-_subscriptions per 100 inhabitants_: 37.11 (2019 est.)<br>
+_total subscriptions_: 1.76 million (2018)<br>
+_subscriptions per 100 inhabitants_: 37.11 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,550,687<br>
-_subscriptions per 100 inhabitants_: 134.93 (2019 est.)<br>
+_total subscriptions_: 6.4 million (2018)<br>
+_subscriptions per 100 inhabitants_: 136.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international systems with progress in mobile services; LTE rates some of the fastest in the world; growth in mobile broadband and fiber sectors; roll out of 5G; investment and development of infrastructure enabled network capabilities to propel the digital economy, e-government, and e-commerce across the country; new satellite to improve telecom in the Asia Pacific region; importer of broadcasting equipment and computers from China (2020)<br>
@@ -607,12 +612,12 @@ state-owned Television New Zealand operates multiple TV networks and state-owned
 .nz<br>
 
 **Internet users**<br>
-_total_: 4,340,672<br>
-_percent of population_: 90.81% (July 2018 est.)<br>
+_total_: 4.55 million (2021 est.)<br>
+_percent of population_: 90.81% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.647 million (2018)<br>
-_subscriptions per 100 inhabitants_: 34.72 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 33.67 (2019 est.)<br>
 
 ## Transportation
 

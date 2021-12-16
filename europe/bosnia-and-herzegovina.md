@@ -614,8 +614,8 @@ _international_: country code - 387; no satellite earth stations<br>
 .ba<br>
 
 **Internet users**<br>
-_total_: 2,699,544<br>
-_percent of population_: 70.12% (July 2018 est.)<br>
+_total_: 2.32 million (2021 est.)<br>
+_percent of population_: 73.21% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 770,624 (2020)<br>
@@ -707,7 +707,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 66 (2020)<br>
-<strong>note:</strong> 85,264 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 85,572 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

@@ -459,6 +459,11 @@ _services_: 30% (1998 est.)<br>
 **Unemployment rate**<br>
 6.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 9.5%<br>
+_male_: 12.3%<br>
+_female_: 7.4% (2017 est.)<br>
+
 **Population below poverty line**<br>
 55.1% (2015 est.)<br>
 
@@ -602,12 +607,12 @@ _electrification - rural areas_: 19% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 43,605<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 46,499 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,239,183<br>
-_subscriptions per 100 inhabitants_: 79.25 (2019 est.)<br>
+_total subscriptions_: 6,516,510 (2020)<br>
+_subscriptions per 100 inhabitants_: 78.71 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: system based on a network of microwave radio relay routes supplemented by open-wire lines and a mobile-cellular system; telecoms supply 8% of GDP; 3 mobile operators; 12% of residents have access to the Internet; mobile subscribers and mobile broadband both increasing (2020)<br>
@@ -626,8 +631,8 @@ _total_: 1,010,609<br>
 _percent of population_: 12.36% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 31,899<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 52,706 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -702,6 +707,9 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18 years of age for military service; 2-year service obligation; the military is an all-volunteer force (2021)<br>
+
+**Military - note**<br>
+<p>the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize; over the same period, the military has increased its role in UN peacekeeping activities and as of 2021, more than 10% of the Army was deployed on peacekeeping missions; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea</p><br>
 
 ## Transnational Issues
 

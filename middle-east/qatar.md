@@ -425,6 +425,11 @@ liquefied natural gas, crude oil production and refining, ammonia, fertilizer, p
 8.9% (2017 est.)<br>
 11.1% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 0.4%<br>
+_male_: 0.2%<br>
+_female_: 1.5% (2018 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -568,12 +573,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 461,289<br>
-_subscriptions per 100 inhabitants_: 19.15 (2019 est.)<br>
+_total subscriptions_: 454,701 (2020)<br>
+_subscriptions per 100 inhabitants_: 15.78 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,917,571<br>
-_subscriptions per 100 inhabitants_: 162.6 (2019 est.)<br>
+_total subscriptions_: 3,798,514 (2020)<br>
+_subscriptions per 100 inhabitants_: 131.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom infrastructure in Qatar demonstrated resilience during the pandemic, following surge in Internet usage; highest fixed-line and mobile penetrations in Middle East with almost 100% LTE coverage; operator deployed 5G across the country with positive subscribership, primarily around Doha; largest user of the Internet in the Middle East; importer of broadcasting equipment from China (2020)<br>
@@ -592,8 +597,8 @@ _total_: 2,355,297<br>
 _percent of population_: 99.65% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 284,679<br>
-_subscriptions per 100 inhabitants_: 11.82 (2019 est.)<br>
+_total_: 296,126 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.28 (2020 est.)<br>
 
 ## Transportation
 
@@ -659,6 +664,9 @@ in 2021, Turkey agreed to train Qatari fighter pilots and allow the temporary de
 
 **Military service age and obligation**<br>
 conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019</p><br>
 
 ## Terrorism
 

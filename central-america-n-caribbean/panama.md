@@ -450,6 +450,11 @@ _services_: 64.4% (2009 est.)<br>
 6.14% (2018 est.)<br>
 6% (2017 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 40.1%<br>
+_male_: 30.8%<br>
+_female_: 51.9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 22.1% (2016 est.)<br>
 
@@ -694,7 +699,7 @@ approximately 20,000 National Police; 4,000 National Border Service; 3,000 Natio
 Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2020)<br>
 
 **Military - note**<br>
-the Panamanian Defense Force was disbanded after the 1989 US invasion; the Army was converted into a police force in 1990, and the armed forces were officially abolished under the 1994 Constitution<br>
+<p>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution</p><br>
 
 ## Transnational Issues
 

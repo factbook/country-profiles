@@ -469,6 +469,11 @@ _services_: 35.3% (2017 est.)<br>
 15% (2008 est.)<br>
 50% (2000 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 30.1%<br>
+_male_: 32.1%<br>
+_female_: 27.6% (2019 est.)<br>
+
 **Population below poverty line**<br>
 54.4% (2015 est.)<br>
 
@@ -615,12 +620,12 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 96,719<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 71,844 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17,220,607<br>
-_subscriptions per 100 inhabitants_: 95.78 (2019 est.)<br>
+_total subscriptions_: 19,104,208 (2019)<br>
+_subscriptions per 100 inhabitants_: 103.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: service is among the best in Sub-Saharan Africa; regulator promotes competition and is a partner to private sector service providers, offering mobile voice and Internet at some of the lowest prices in the region; investment made in data centers, education centers, and computer assembly training plants; operators invest in 3G and LTE-based services; Chinese company Huawei is helping to upgrade state-owned mobile infrastructure for 5G services; operators focused on improvements to towers (2020)<br>
@@ -639,8 +644,8 @@ _total_: 2,351,646<br>
 _percent of population_: 14.3% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 88,891<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 82,317 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -696,7 +701,7 @@ _river port(s)_: Mpulungu (Zambezi)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization that also does public work projects); Defense Force Medical Service; the Zambia Police includes a paramilitary battalion (2021)<br>
+Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Service (support organization that also does public work projects); Defense Force Medical Service; Ministry of Home Affairs: Zambia Police (includes a paramilitary battalion) (2021)<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
@@ -709,13 +714,16 @@ Zambia Defense Force (ZDF): Zambia Army, Zambia Air Force, Zambia National Servi
 the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Army; 1,500 Air) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments, with a small mix of Israeli, South African, and US equipment; since 2010, China is the leading supplier of arms to Zambia (2020)<br>
+the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>
 
 **Military deployments**<br>
 925 Central African Republic (MINUSCA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2019)<br>
+
+**Military - note**<br>
+<p>the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO)</p><br>
 
 ## Transnational Issues
 

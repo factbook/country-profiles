@@ -478,6 +478,11 @@ _services_: 17.5% (2012 est.)<br>
 0.3% (2017 est.)<br>
 0.3% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 16.6%<br>
+_male_: 16.1%<br>
+_female_: 17.5% (2017 est.)<br>
+
 **Population below poverty line**<br>
 40.8% (2018 est.)<br>
 
@@ -642,8 +647,8 @@ state-run TV station; 3 private TV stations provide a mix of local and foreign p
 .ne<br>
 
 **Internet users**<br>
-_total_: 1,110,778<br>
-_percent of population_: 5.25% (July 2018 est.)<br>
+_total_: 3.36 million (2021 est.)<br>
+_percent of population_: 10.22% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,650 (2017 est.)<br>
@@ -694,8 +699,8 @@ _by type_: general cargo 1 (2021)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2021)<br>
-note: the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
+Nigerien Armed Forces (Forces Armees Nigeriennes, FAN): Army, Nigerien Air Force, Niger Gendarmerie (GN); Ministry of Interior, Public Security, Decentralization, and Customary and Religious Affairs: Niger National Guard (GNN; aka Republican Guard), National Police (includes the Directorate of Territorial Surveillance, which is charged with border management) (2021)<br>
+note - the Gendarmerie is subordinate to the Ministry of Defense and has primary responsibility for rural security; the National Guard is responsible for domestic security and the protection of high-level officials and government buildings<br>
 
 **Military expenditures**<br>
 2.1% of GDP (2020 est.)<br>

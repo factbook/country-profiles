@@ -365,6 +365,11 @@ _services_: 78.1% (2013 est.)<br>
 4.5% (2017 est.)<br>
 3.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 29.4%<br>
+_male_: 29.7%<br>
+_female_: 28.9% (2011 est.)<br>
+
 **Population below poverty line**<br>
 23% (2001 est.)<br>
 
@@ -509,8 +514,8 @@ about a dozen TV channels, including digital channels; multi-channel cable TV se
 .gu<br>
 
 **Internet users**<br>
-_total_: 135,073<br>
-_percent of population_: 80.51% (July 2018 est.)<br>
+_total_: 136,500 (2021 est.)<br>
+_percent of population_: 80.51% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,000 (2014)<br>

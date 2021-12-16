@@ -462,6 +462,11 @@ _services_: 18% (2012 est.)<br>
 **Unemployment rate**<br>
 2.7% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 20.5%<br>
+_male_: 18.8%<br>
+_female_: 22.4% (2019 est.)<br>
+
 **Population below poverty line**<br>
 38.2% (2016 est.)<br>
 
@@ -606,12 +611,12 @@ _electrification - rural areas_: 48% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,393<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 11,671 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,658,548<br>
-_subscriptions per 100 inhabitants_: 77.53 (2019 est.)<br>
+_total subscriptions_: 10,614,408 (2020)<br>
+_subscriptions per 100 inhabitants_: 81.95 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market impacted by energy shortages and instability in neighboring states; government investing in smart city infrastructure; growing economy and foreign aid from South Korea help launch telecom sector, despite widespread poverty; expansion of LTE services; competing operators roll out national fiber optic backbone through connection to submarine cables, ending expensive dependence on satellite; importer of broadcasting equipment from China (2020)<br>
@@ -630,8 +635,8 @@ _total_: 2,653,197<br>
 _percent of population_: 21.77% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 8,885<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 17,685 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -701,5 +706,5 @@ the RDF's inventory includes mostly Soviet-era and older Western - mostly French
 <p>Burundi and Rwanda dispute two sq km (0.8 sq mi) of Sabanerwa, a farmed area in the Rukurazi Valley where the Akanyaru/Kanyaru River shifted its course southward after heavy rains in 1965; fighting among ethnic groups - loosely associated political rebels, armed gangs, and various government forces in Great Lakes region transcending the boundaries of Burundi, Democratic Republic of the Congo (DROC), Rwanda, and Uganda - abated substantially from a decade ago due largely to UN peacekeeping, international mediation, and efforts by local governments to create civil societies; nonetheless, 57,000 Rwandan refugees still reside in 21 African states, including Zambia, Gabon, and 20,000 who fled to Burundi in 2005 and 2006 to escape drought and recriminations from traditional courts investigating the 1994 massacres; the 2005 DROC and Rwanda border verification mechanism to stem rebel actions on both sides of the border remains in place</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,806 (Burundi) (2021)<br>
+_refugees (country of origin)_: 77,252 (Democratic Republic of the Congo), 47,905 (Burundi) (2021)<br>
 

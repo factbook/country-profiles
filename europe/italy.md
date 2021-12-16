@@ -625,8 +625,8 @@ two Italian media giants dominate - the publicly owned Radiotelevisione Italiana
 .it<br>
 
 **Internet users**<br>
-_total_: 46,305,301<br>
-_percent of population_: 74.39% (July 2018 est.)<br>
+_total_: 50.54 million (2021 est.)<br>
+_percent of population_: 63.08% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17,855,620 (2020)<br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 586,598 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 586,704 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

@@ -449,6 +449,11 @@ _services_: 58% (2011 est.)<br>
 6.9% (2016 est.)<br>
 <strong>note:</strong> data are official rates; but underemployment is high<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10%<br>
+_male_: 8.3%<br>
+_female_: 12.8% (2019)<br>
+
 **Population below poverty line**<br>
 22.8% (2019 est.)<br>
 
@@ -612,8 +617,8 @@ multiple privately owned national terrestrial TV networks, supplemented by cable
 .sv<br>
 
 **Internet users**<br>
-_total_: 2,153,776<br>
-_percent of population_: 33.82% (July 2018 est.)<br>
+_total_: 3.28 million (2021 est.)<br>
+_percent of population_: 50.49% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 525,088 (2019)<br>

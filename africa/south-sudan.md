@@ -85,11 +85,11 @@ _adjective_: South Sudanese<br>
 Dinka (Jieng) 35.8%, Nuer (Naath) 15.6%, Shilluk (Chollo), Azande, Bari, Kakwa, Kuku, Murle, Mandari, Didinga, Ndogo, Bviri, Lndi, Anuak, Bongo, Lango, Dungotona, Acholi, Baka, Fertit (2011 est.)<br>
 
 **Languages**<br>
-English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk<br>
+English (official), Arabic (includes Juba and Sudanese variants), ethnic languages include Dinka, Nuer, Bari, Zande, Shilluk<br>
 _major-language sample(s)_: <br>The World Factbook, the indispensable source for basic information. (English)<br><br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br>
 
 **Religions**<br>
-animist, Christian, Muslim<br>
+Christian 60.5%, folk religion 32.9%, Muslim 6.2%, other &lt;1%, unaffiliated &lt;1% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>South Sudan, independent from Sudan since July 2011 after decades of civil war, is one of the world’s poorest countries and ranks among the lowest in many socioeconomic categories. Problems are exacerbated by ongoing tensions with Sudan over oil revenues and land borders, fighting between government forces and rebel groups, and inter-communal violence. Most of the population lives off of farming, while smaller numbers rely on animal husbandry; more than 80% of the populace lives in rural areas. The maternal mortality rate is among the world’s highest for a variety of reasons, including a shortage of health care workers, facilities, and supplies; poor roads and a lack of transport; and cultural beliefs that prevent women from seeking obstetric care. Most women marry and start having children early, giving birth at home with the assistance of traditional birth attendants, who are unable to handle complications.</p><p>Educational attainment is extremely poor due to the lack of schools, qualified teachers, and materials. Less than a third of the population is literate (the rate is even lower among women), and half live below the poverty line. Teachers and students are also struggling with the switch from Arabic to English as the language of instruction. Many adults missed out on schooling because of warfare and displacement.</p><p>Almost 2 million South Sudanese have sought refuge in neighboring countries since the current conflict began in December 2013. Another 1.96 million South Sudanese are internally displaced as of August 2017. Despite South Sudan’s instability and lack of infrastructure and social services, more than 240,000 people have fled to South Sudan to escape fighting in Sudan.</p><br>
@@ -403,6 +403,11 @@ _imports of goods and services_: -27.2% (2011 est.)<br>
 **Agricultural products**<br>
 milk, sorghum, vegetables, cassava, goat milk, fruit, beef, sesame seed, sheep milk, mutton<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 38.6%<br>
+_male_: 39.5%<br>
+_female_: 37.4% (2017 est.)<br>
+
 **Population below poverty line**<br>
 76.4% (2016 est.)<br>
 
@@ -606,7 +611,8 @@ see entry for Sudan<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South Sudan People&rsquo;s Defence Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces (2021)<br>
+South Sudan People’s Defense Force (SSPDF): Ground Force (includes Presidential Guard), Air Force, Air Defense Forces (2021)<br>
+note - numerous irregular/militia forces operate in the country with official knowledge<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
@@ -626,7 +632,7 @@ the SSPDF inventory is primarily of Soviet origin; from 2010 to 2015, Russia and
 18 is the legal minimum age for compulsory and voluntary military service (2019)<br>
 
 **Military - note**<br>
-the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of early 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 18,300 personnel, including about 14,000 troops, deployed in the country as of August 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
+the South Sudan People’s Defense Force (SSPDF), formerly the Sudan People’s Liberation Army (SPLA), was founded as a guerrilla movement against the Sudanese Government in 1983 and participated in the Second Sudanese Civil War (1983-2005); the Juba Declaration that followed the Comprehensive Peace Agreement of 2005 unified the SPLA and the South Sudan Defense Forces (SSDF), the second-largest rebel militia remaining from the civil war, under the SPLA name; in 2017, the SPLA was renamed the South Sudan Defense Forces (SSDF) and in September 2018 was renamed again as the SSPDF<br><br>under the September 2018 peace agreement, all armed groups in South Sudan were to assemble at designated sites where fighters could be either disarmed and demobilized, or integrated into unified military and police forces; the unified forces were then to be retrained and deployed prior to the formation of a national unity government; all fighters were ordered to these sites in July 2019; some progress toward merging the various armed forces into a national army has been made; for example, in May 2020, South Sudan announced that it was graduating some unified forces at various training centers across the country, and in June the SSPDF incorporated some senior officers from the main opposition force, the Sudan People's Liberation Movement Army - in Opposition (SPLM/A-IO) into its rank structure; nevertheless, overall progress has been slow, and as of 2021 armed clashes continued to occur between government forces and armed militant groups in several states<br><br>the United Nations Mission in South Sudan (UNMISS) has operated in the country since 2011 with the objectives of consolidating peace and security and helping establish conditions for the successful economic and political development of South Sudan; UNMISS had about 18,300 personnel, including about 14,000 troops, deployed in the country as of August 2021<br><br>United Nations Interim Security Force for Abyei (UNISFA) has operated in the disputed Abyei region along the border between Sudan and South Sudan since 2011; UNISFA's mission includes ensuring security, protecting civilians, strengthening the capacity of the Abyei Police Service, de-mining, monitoring/verifying the redeployment of armed forces from the area, and facilitating the flow of humanitarian aid; as of July 2021, UNISFA had some 3,800 personnel deployed<br>
 
 ## Transnational Issues
 

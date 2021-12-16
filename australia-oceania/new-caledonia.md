@@ -86,7 +86,7 @@ French (official), 33 Melanesian-Polynesian dialects<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 60%, Protestant 30%, other 10%<br>
+Christian 85.2%, Muslim 2.8%, other 1.6%, unaffiliated 10.4% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 21.74% (male 32,227/female 30,819)<br>
@@ -243,7 +243,7 @@ _etymology_: British explorer Captain James COOK discovered and named New Caledo
 parliamentary democracy (Territorial Congress); an overseas collectivity of France<br>
 
 **Dependency status**<br>
-special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018 and 4 October 2020 with a majority voting to reject independence in favor of maintaining the status quo; an additional referenda, still unsceheduled, may occur in 2022<br>
+special collectivity (or a sui generis collectivity) of France since 1998; note - independence referenda took place on 4 November 2018, 4 October 2020, and 12 December 2021 with a majority voting in each case to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place&nbsp;<br>
 
 **Capital**<br>
 _name_: Noumea<br>
@@ -255,7 +255,7 @@ _etymology_: established in 1854 as Port-de-France, the settlement was renamed N
 3 provinces; Province Iles (Islands Province), Province Nord (North Province), and Province Sud (South Province)<br>
 
 **Independence**<br>
-none (overseas collectivity of France); note - in two independence referenda, on 4 November 2018 and 4 October 2020, the majority voted to reject independence in favor of maintaining the status quo<br>
+none (overseas collectivity of France); note - in three independence referenda, on 4 November 2018, 4 October 2020, and 12 December 2021, the majority voted to reject independence in favor of maintaining the status quo; an 18-month transition period is now in place (ending 30 June 2023), during which a referendum on the new status of New Caledonia within France will take place<br>
 
 **National holiday**<br>
 Fete de la Federation, 14 July (1790); note - the local holiday is New Caledonia Day, 24 September (1853)<br>
@@ -374,6 +374,11 @@ _services_: 74.9% (2010)<br>
 **Unemployment rate**<br>
 14.7% (2014)<br>
 14% (2009)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 38.4%<br>
+_male_: 37.1%<br>
+_female_: 40% (2014 est.)<br>
 
 **Population below poverty line**<br>
 17% (2008)<br>
@@ -508,11 +513,11 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 82,111<br>
-_subscriptions per 100 inhabitants_: 28.67 (2019 est.)<br>
+_total subscriptions_: 77,719 (2018)<br>
+_subscriptions per 100 inhabitants_: 28.67 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 275,002<br>
+_total subscriptions_: 260,277 (2018)<br>
 _subscriptions per 100 inhabitants_: 96.02 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -528,8 +533,12 @@ the publicly owned French Overseas Network (RFO), which operates in France's ove
 .nc<br>
 
 **Internet users**<br>
-_total_: 231,887<br>
-_percent of population_: 82.01% (July 2018 est.)<br>
+_total_: 235,200 (2021 est.)<br>
+_percent of population_: 82.01% (2019 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 55,371 (2016)<br>
+_subscriptions per 100 inhabitants_: 20.43 (2019)<br>
 
 ## Transportation
 

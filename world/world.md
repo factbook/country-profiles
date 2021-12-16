@@ -206,12 +206,6 @@ _unimproved: total_: total: 32.3% of population (2015 est.)<br>
 **Major infectious diseases**<br>
 <strong>note:</strong> widespread ongoing transmission of a respiratory illness caused by the novel coronavirus (COVID-19) is occurring globally; older adults and people of any age with serious chronic medical conditions are at increased risk for severe disease; some health care systems are becoming overwhelmed and there may be limited access to adequate medical care in affected areas; many countries are implementing travel restrictions and mandatory quarantines, closing borders, and prohibiting non-citizens from entry with little advance notice; US residents may have difficulty returning to the United States; as of 6 October 2021, 235,673,032 confirmed cases of COVID-19 and 4,814,651 deaths have been reported to the World Health Organization; as of 6 October 2021, 46.1% of the World population has received at least one dose of COVID-19 vaccine<br>
 
-**Children under the age of 5 years underweight**<br>
-NA<br>
-
-**Education expenditures**<br>
-NA<br>
-
 **Literacy**<br>
 _definition_: age 15 and over can read and write<br>
 _total population_: 86.7%<br>
@@ -496,8 +490,8 @@ _subscriptions per 100 inhabitants_: 14.8 (2017)<br>
 
 **Airports**<br>
 _total_: 41,820 (2020)<br>
-<strong>top ten by passengers </strong>(2020 preliminary)<strong>:</strong> Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020 preliminary)<br><br><strong>top ten by passengers </strong>(2019)<strong>: </strong>Atlanta (ATL) 110,531,300; Beijing (PEK) - 100,011,438; Los Angeles, CA (LAX) 88,068,013; Dubai, UAE (DXB) 86,396,757; Tokyo (HND) 85,505,054; Chicago (ORD) 84,649,115; London (LHR) 80,888,305; Shanghai (PVG) 76,153,455; Paris (CDG) 76,150,009; Dallas/Fort Worth, TX (DFW) 75,066,956; note - 2019 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020
-<br><br><strong>top ten by cargo (metric tons):</strong> Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020 preliminary)<br>
+<strong>top ten by passengers </strong>(2020)<strong>:</strong> Guangzhou (CAN) 43,767,558; Atlanta (ATL) - 42,918,685; Chengdu (CTU) 40,741,509; Dallas/Fort Worth, TX (DFW) 39,364,990; Shenzhen (SZX) 37,916,054; Beijing (PEK) - 34,513,827; Denver, CO (DEN) 33,741,129; Kunming (KMG) 32,990,805; Shanghai (PVG) 31,165,641; Xi'an (XIY)  31,073,924 (2020)<br><br><strong>top ten by passengers </strong>(2019)<strong>: </strong>Atlanta (ATL) 110,531,300; Beijing (PEK) - 100,011,438; Los Angeles, CA (LAX) 88,068,013; Dubai, UAE (DXB) 86,396,757; Tokyo (HND) 85,505,054; Chicago (ORD) 84,649,115; London (LHR) 80,888,305; Shanghai (PVG) 76,153,455; Paris (CDG) 76,150,009; Dallas/Fort Worth, TX (DFW) 75,066,956; note - 2019 numbers included to allow for a comparison with the effects of COVID-19 restrictions on international air travel in 2020
+<br><br><strong>top ten by cargo (metric tons):</strong> Memphis, TN (MEM) - 4,613,431; Hong Kong (HKG) - 4,468,089; Shanghai (PVG) - 3,686,627; Anchorage, AK (ANC) - 3,157,682; Louisville, KY (SDF) - 2,917,243; Incheon (ICN) - 2,822,370; Taipei (TPE) - 2,342,714; Los Angeles, CA (LAX) 2,229,476; Doha, Qatar (DOH) 2,175,292; Miami, FL (MIA) 2,137,699 (2020)<br>
 
 **Heliports**<br>
 6,524 (2013)<br>
@@ -519,14 +513,14 @@ _by type_: bulk carrier 12,319, container ship 5,428, general cargo 18,993, oil 
 ## Military and Security
 
 **Military expenditures**<br>
-2.4% of GDP (2020)<br>
+2.4% of GDP (2020 est.)<br>
 2.2% of GDP (2019 est.)<br>
 2.2% of GDP (2018 est.)<br>
 2.2% of GDP (2017 est.)<br>
 2.25% of GDP (2016 est.)<br>
 
 **Military deployments**<br>
-as of mid-2021, the UN had about 76,000 peacekeepers deployed worldwide<br>
+as of September 2021, the UN had about 76,000 peacekeepers deployed worldwide<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau (IMB) reports that 2020 saw an increase in global pirate activities; in 2020, pirates attacked a total of 195 ships worldwide including boarding 161 ships, hijacking three ships, and firing on 11; this activity is an increase from 162 incidents in 2019; in 2020, the number of hostages taken was 34, however, the number of seafarers kidnapped for ransom increased to 135 compared with 44 in 2019, with nearly all taken off West Africa<br><br>the EU naval mission, Operation ATALANTA, continues its operations in the Gulf of Aden and Indian Ocean through 2022; naval units from Japan, India, and China also operate in conjunction with EU forces; China has established a logistical base in Djibouti to support its deployed naval units in the Horn of Africa<br><br>the Horn of Africa saw no pirate activities in 2020, down from two attacks in 2019; the decrease in successful pirate attacks off the Horn of Africa since the peak in 2007 was due, in part, to anti-piracy operations by international naval forces, the hardening of vessels, and the increased use of armed security teams aboard merchant ships; despite these preventative measures, the assessed risk remains high<br><br>West Africa remains the most dangerous area for piracy in the world with 98 attacks in 2020 compared to 132 in 2019, including all three hijackings and 9 of 11 ships fired upon; Nigerian pirates are very aggressive, operating as far as 200 nm offshore and kidnapping 130 mariners in 22 incidents accounting for over 95% of crew kidnappings world-wide; attacks against ships underway in the Singapore Straits continued to increase to 23 incidents in 2020; there were 26 attacks in Indonesian waters in 2020 compared to 25 in 2019, primarily to ships anchored or berthed; the majority of global attacks against shipping have occurred in the offshore waters of five countries - Nigeria, Indonesia, Philippines, Venezuela, and Bangladesh (2021)<br>

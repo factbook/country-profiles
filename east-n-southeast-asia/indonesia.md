@@ -638,8 +638,8 @@ mixture of about a dozen national TV networks -&nbsp;1 public broadcaster, the r
 .id<br>
 
 **Internet users**<br>
-_total_: 104,563,108<br>
-_percent of population_: 39.79% (July 2018 est.)<br>
+_total_: 202.6 million (2021 est.)<br>
+_percent of population_: 53.73% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 10,713,107 (2020)<br>

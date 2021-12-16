@@ -482,6 +482,11 @@ _industry_: 24% (2006 est.)<br>
 2.7% (2017 est.)<br>
 2.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.1%<br>
+_male_: 6.1%<br>
+_female_: 7.9% (2019 est.)<br>
+
 **Population below poverty line**<br>
 43.7% (2018 est.)<br>
 
@@ -648,8 +653,8 @@ _international_: country code - 224; ACE submarine cable connecting Guinea with 
 .gn<br>
 
 **Internet users**<br>
-_total_: 2,133,974<br>
-_percent of population_: 18% (July 2018 est.)<br>
+_total_: 2.91 million (2021 est.)<br>
+_percent of population_: 18% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,250 (2019)<br>

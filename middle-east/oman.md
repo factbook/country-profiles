@@ -93,7 +93,7 @@ Arabic (official), English, Baluchi, Swahili, Urdu, Indian dialects<br>
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 85.9%, Christian 6.5%, Hindu 5.5%, Buddhist 0.8%, Jewish &lt;0.1%, other 1%, unaffiliated 0.2% (2010 est.)<br>
+Muslim 85.9%, Christian 6.4%, Hindu 5.7%, other and unaffiliated 2% (2020 est.)<br>
 <strong>note:</strong> Omani citizens represent approximately 56.4% of the population and are overwhelming Muslim (Ibadhi and Sunni sects each constitute about 45% and Shia about 5%); Christians, Hindus, and Buddhists account for roughly 5% of Omani citizens<br>
 
 **Age structure**<br>
@@ -436,6 +436,11 @@ _services_: 45% NA (2016 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 13.7%<br>
+_male_: 10.3%<br>
+_female_: 33.9% (2016)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -597,8 +602,8 @@ _international_: country code - 968;&nbsp;landing points for GSA, AAE-1,&nbsp;Se
 .om<br>
 
 **Internet users**<br>
-_total_: 2,801,932<br>
-_percent of population_: 80.19% (July 2018 est.)<br>
+_total_: 4.92 million (2021 est.)<br>
+_percent of population_: 95.23% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 508,949 (2020)<br>
@@ -655,7 +660,7 @@ _LNG terminal(s) (export)_: Qalhat<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard; Internal Security Service (2021)<br>
+Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO), Royal Air Force of Oman (RAFO), Royal Guard of Oman (RGO); Royal Oman Police (ROP): Civil Defense, Immigration, Customs, Royal Oman Police Coast Guard (2021)<br>
 
 **Military expenditures**<br>
 11% of GDP (2020 est.)<br>
@@ -675,6 +680,9 @@ the SAF's inventory includes a mix of older and some more modern weapons systems
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2021, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port</p><br>
 
 ## Transnational Issues
 

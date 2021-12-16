@@ -337,9 +337,9 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Frank-Walter STEINMEIER (since 19 March 2017)<br>
-_head of government_: Chancellor Angela MERKEL (since 22 November 2005)<br>
+_head of government_: Chancellor Olaf SCHOLZ (since 8 December 2021)<br>
 _cabinet_: Cabinet or Bundesminister (Federal Ministers) recommended by the chancellor, appointed by the president<br>
-_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor (Angela MERKEL since 2005) and appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 14 March 2018 (next to be held after the Bundestag elections in 2021)<br>
+_elections/appointments_: president indirectly elected by a Federal Convention consisting of all members of the Federal Parliament (Bundestag) and an equivalent number of delegates indirectly elected by the state parliaments; president serves a 5-year term (eligible for a second term); election last held on 12 February 2017 (next to be held in February 2022); following the most recent Federal Parliament election, the party or coalition with the most representatives usually elects the chancellor who is appointed by the president to serve a renewable 4-year term; Federal Parliament vote for chancellor last held on 8 December 2021 (next to be held in 2025)<br>
 _election results_: Frank-Walter STEINMEIER elected president; Federal Convention vote count - Frank-Walter STEINMEIER (SPD) 931, Christopher BUTTERWEGGE (The Left) 128, Albrecht GLASER (Alternative for Germany AfD) 42, Alexander HOLD (BVB/FW) 25, Engelbert SONNEBORN (Pirates) 10; Angela MERKEL (CDU) reelected chancellor; Federal Parliament vote - 364 to 315<br>
 
 **Legislative branch**<br>
@@ -626,8 +626,8 @@ a mixture of publicly operated and privately owned TV and radio stations; 70 nat
 .de<br>
 
 **Internet users**<br>
-_total_: 72,202,773<br>
-_percent of population_: 89.74% (July 2018 est.)<br>
+_total_: 78.81 million (2021 est.)<br>
+_percent of population_: 89.81% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,040,739 (2020)<br>

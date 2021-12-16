@@ -5,7 +5,7 @@ _Europe / Countries_
 ## Introduction
 
 **Background**<br>
-Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004. With its transformation to a democratic, market-oriented country largely completed and with large investments in defense, energy, and other infrastructure, Poland is an increasingly active member of Euro-Atlantic organizations.<br>
+Poland's history as a state began near the middle of the 10th century. By the mid-16th century, the Polish-Lithuanian Commonwealth ruled a vast tract of land in Central and Eastern Europe. During the 18th century, internal disorders weakened the nation, and in a series of agreements between 1772 and 1795, Russia, Prussia, and Austria partitioned Poland among themselves. Poland regained its independence in 1918 only to be overrun by Germany and the Soviet Union in World War II. It became a Soviet satellite state following the war. Labor turmoil in 1980 led to the formation of the independent trade union "Solidarity" that over time became a political force with over 10 million members. Free elections in 1989 and 1990 won Solidarity control of the parliament and the presidency, bringing the communist era to a close. A "shock therapy" program during the early 1990s enabled the country to transform its economy into one of the most robust in Central Europe. Poland joined NATO in 1999 and the EU in 2004.&nbsp;<br>
 
 ## Geography
 
@@ -98,7 +98,7 @@ Polish (official) 98.2%, Silesian 1.4%, other 1.1%, unspecified 1.3%; note - dat
 _major-language sample(s)_: <br>Księga Faktów Świata, niezbędne źródło podstawowych informacji. (Polish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 85.9% (includes Roman Catholic 85.6% and Greek Catholic, Armenian Catholic, and Byzantine-Slavic Catholic .3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentacostal), other 0.4% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 12.1% (2017 est.)<br>
+Catholic 85% (includes Roman Catholic 84.8% and other Catholic 0.3%), Orthodox 1.3% (almost all are Polish Autocephalous Orthodox), Protestant 0.4% (mainly Augsburg Evangelical and Pentecostal), other 0.3% (includes Jehovah's Witness, Buddhist, Hare Krishna, Gaudiya Vaishnavism, Muslim, Jewish, Church of Jesus Christ), unspecified 12.9% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.83% (male 2,918,518/female 2,756,968)<br>
@@ -345,7 +345,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Andrzej DUDA (since 6 August 2015)<br>
-_head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI and Jaroslaw GOWIN (since 16 November 2015), Jacek SASIN (since 4 June 2019)<br>
+_head of government_: Prime Minister Mateusz MORAWIECKI (since 11 December 2017); Deputy Prime Ministers Piotr GLINSKI (since 16 November 2015), Jacek SASIN (since 15 November 2019), Jaroslaw KACZYNSKI (6 October 2020) and Henryk KOWALCZYK (26 October 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, appointed by the president, and approved by the Sejm<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 June 2020 with a second round on 12 July 2020 (next to be held in 2025); prime minister, deputy prime ministers, and Council of Ministers appointed by the president and confirmed by the Sejm<br>
 _election results_: <em><br>2020:</em> Andrzej DUDA reelected president in runoff; percent of vote - Andrzej DUDA (independent) 51%, Rafal TRZASKOWSKI (KO) 49%<br><br><em>2015:</em> Andrzej DUDA elected president in runoff; percent of vote - Andrzej DUDA (independent) 51.5%, Bronislaw KOMOROWSKI (independent) 48.5%<br>
@@ -358,17 +358,17 @@ _election results_: <br>Senate - percent of vote by party - NA; seats by party -
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Sad Najwyzszy (consists of the first president of the Supreme Court and 120 justices organized in criminal, civil, labor and social insurance, and extraordinary appeals and public affairs and disciplinary chambers); Constitutional Tribunal (consists of 15 judges, including the court president and vice president)<br>
-_judge selection and term of office_: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for 9-year terms<br>
+_judge selection and term of office_: president of the Supreme Court nominated by the General Assembly of the Supreme Court and selected by the president of Poland; other judges nominated by the 25-member National Judicial Council and appointed by the president of Poland; judges serve until retirement, usually at age 65, but tenure can be extended; Constitutional Tribunal judges chosen by the Sejm for single 9-year terms<br>
 _subordinate courts_: administrative courts; military courts; local, regional and appellate courts subdivided into military, civil, criminal, labor, and family courts<br>
 
 **Political parties and leaders**<br>
-Civic Coalition or KO [Grzegorz SCHETYNA]<br>Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>Democratic Left Alliance or SLD [Wlodzimierz CZARZASTY]<br>German Minority or MN [Ryszard GALLA]<br>Kukiz 15 or K15 [Pawel KUKIZ]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>TERAZ! (NOW!) [Ryszard PETRU]<br>Nowoczesna (Modern) or N [Katarzyna LUBNAUER]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Razem (Together) [collective leadership]<br>Wiosna (Spring) [Robert BIEDRON]<br>
+Civic Coalition or KO [Donald TUSK]<br>Confederation Liberty and Independence or KWiN [Janusz KORWIN-MIKKE, Robert WINNICKI, Grzegorz BRAUN]<br>New Left [Wlodzimierz CZARZASTY]<br>German Minority or MN [Ryszard GALLA]<br>Kukiz 15 or K15 [Pawel KUKIZ]<br>Law and Justice or PiS [Jaroslaw KACZYNSKI]<br>TERAZ! (NOW!) [Ryszard PETRU]<br>Nowoczesna (Modern) or N [Adam SZLAPKA]<br>Poland 2050 or PL2050 [Szymon HOLOWNIA]<br>Polish People's Party or PSL [Wladyslaw KOSINIAK-KAMYSZ]<br>Razem (Together) [collective leadership]<br>
 
 **International organization participation**<br>
 Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UN Security Council (temporary), UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Piotr Antoni WILCZEK (since 18 January 2017)<br>
+_chief of mission_: Ambassador Piotr Mark MAGIEROWSKI (since 23 November 2021)<br>
 _chancery_: 2640 16th Street NW, Washington, DC 20009<br>
 _telephone_: [1] (202) 499-1700<br>
 _FAX_: [1] (202) 328-2152<br>
@@ -464,6 +464,11 @@ _services_: 57.6% (2015)<br>
 **Unemployment rate**<br>
 5.43% (2019 est.)<br>
 6.08% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.8%<br>
+_male_: 10.3%<br>
+_female_: 11.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 15.4% (2018 est.)<br>
@@ -610,12 +615,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,824,896<br>
-_subscriptions per 100 inhabitants_: 17.8 (2019 est.)<br>
+_total subscriptions_: 5,777,428 (2020)<br>
+_subscriptions per 100 inhabitants_: 15.27 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 48,392,944<br>
-_subscriptions per 100 inhabitants_: 126.2 (2019 est.)<br>
+_total subscriptions_: 49,350,724 (2020)<br>
+_subscriptions per 100 inhabitants_: 130.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom market supported by market competition in broadband and mobile sectors ensuring access to cable and fiber infrastructure; rapid extension of LTE networks and development of mobile data service; mobile penetration is above European average; fixed broadband benefits from DSL infrastructure and investment in fiber through EU support; major importer of broadcasting equipment and accessories from Germany (2020)<br>
@@ -634,8 +639,8 @@ _total_: 29,791,401<br>
 _percent of population_: 77.54% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,783,887<br>
-_subscriptions per 100 inhabitants_: 20.3 (2019 est.)<br>
+_total_: 8,212,601 (2020)<br>
+_subscriptions per 100 inhabitants_: 21.7 (2020 est.)<br>
 
 ## Transportation
 
@@ -669,7 +674,7 @@ _under 914 m_: 21 (2013)<br>
 6 (2013)<br>
 
 **Pipelines**<br>
-14198 km gas, 1374 km oil, 2483 km refined products (2016)<br>
+14198 km gas, 1374 km oil, 2483 km refined products (2019)<br>
 
 **Railways**<br>
 _total_: 19,231 km (2016)<br>

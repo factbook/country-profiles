@@ -340,7 +340,7 @@ _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 20
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 50.4%, Nasry Juan ASFURA Zablah (PNH) 36.1%, Yani Benjamin ROSENTHAL Hidalgo (PL) 9.8%, other 3.7%; note - percentages reflect 85% of the vote counted; official results pending; CASTRO is scheduled to take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 50.6%, Nasry Juan ASFURA Zablah (PNH) 36.4%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 3%; note - percentages reflect 98.8% of the vote counted; official results pending; CASTRO is scheduled to take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -625,8 +625,8 @@ multiple privately owned terrestrial TV networks, supplemented by multiple cable
 .hn<br>
 
 **Internet users**<br>
-_total_: 2,853,505<br>
-_percent of population_: 31.7% (July 2018 est.)<br>
+_total_: 3.81 million (2021 est.)<br>
+_percent of population_: 31.7% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 396,454 (2020)<br>

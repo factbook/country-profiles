@@ -338,7 +338,7 @@ _judge selection and term of office_: Supreme Court judges appointed by presiden
 _subordinate courts_: Courts of Appeal and Courts of First Instance (district courts)<br>
 
 **Political parties and leaders**<br>
-Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Yanis VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>Movement for Change or KINAL [Foteini (Fofi) GENIMMATA] <br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>People's Association-Golden Dawn [Nikolaos MICHALOLIAKOS]<br>Popular Unity or LAE [Panagiotis LAFAZANIS]<br>The River (To Potami) [Stavros THEODORAKIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
+Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>Movement for Change or KINAL [Nikos ANDROULAKIS] <br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -611,8 +611,8 @@ broadcast media dominated by the private sector; roughly 150 private TV channels
 .gr<br>
 
 **Internet users**<br>
-_total_: 7,783,381<br>
-_percent of population_: 72.95% (July 2018 est.)<br>
+_total_: 8.39 million (2021 est.)<br>
+_percent of population_: 78.12% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,257,026 (2020)<br>
@@ -715,7 +715,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,448 (Syria), 21,456 (Afghanistan), 11,840 (Iraq) (2020)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,213,286 estimated refugee and migrant arrivals (January 2015-November 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,213,612 estimated refugee and migrant arrivals (January 2015-December 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

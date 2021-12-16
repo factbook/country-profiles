@@ -87,7 +87,7 @@ African descent 92.5%, mixed 3%, White 2.1%, East Indian 1.5%, other 0.6%, unspe
 English (official)<br>
 
 **Religions**<br>
-Protestant 74.4% (includes Anglican 20.6%, Methodist 19.1%, Pentecostal 8.2%, Church of God 6.8%, Moravian 5.5%, Baptist 4.8%, Seventh Day Adventist 4.7%, Evangelical 2.6%, Bretheren 1.8%, other .3%), Roman Catholic 6.7%, Rastafarian 1.7%, Jehovah's Witness 1.3%, other 7.6%, none 5.2%, unspecified 3.2% (2001 est.)<br>
+Protestant 75.6% (includes Anglican 16.6%, Methodist 15.8%, Pentecostal 10.8%, Church of God 7.4%, Baptist 5.4%, Seventh Day Adventist 5.4%, Wesleyan Holiness 5.3%, Moravian 4.8%, Evangelical 2.1%, Brethren 1.7%, Presbyterian 0.3%), Roman Catholic 5.9%, Hindu 1.8%, Jehovah's Witness 1.4%, Rastafarian 1.3%, other 5%, none 8.8%, unspecified 0.1% (2011 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 19.87% (male 5,357/female 5,336)<br>
@@ -532,12 +532,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,766<br>
-_subscriptions per 100 inhabitants_: 33.23 (2019 est.)<br>
+_total subscriptions_: 17,293 (2018)<br>
+_subscriptions per 100 inhabitants_: 33.23 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 78,970<br>
-_subscriptions per 100 inhabitants_: 147.71 (2019 est.)<br>
+_total subscriptions_: 76,878 (2018)<br>
+_subscriptions per 100 inhabitants_: 147.7 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -556,8 +556,8 @@ _total_: 42,852<br>
 _percent of population_: 80.71% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 16,400<br>
-_subscriptions per 100 inhabitants_: 31 (2017 est.)<br>
+_total_: 29,272 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 55.82 (2018 est.)<br>
 
 ## Transportation
 

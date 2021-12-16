@@ -564,8 +564,8 @@ multiple publicly and privately owned television and radio stations; Grenada Inf
 .gd<br>
 
 **Internet users**<br>
-_total_: 66,281<br>
-_percent of population_: 59.07% (July 2018 est.)<br>
+_total_: 66,600 (2021 est.)<br>
+_percent of population_: 59.07% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 25,577 (2019)<br>

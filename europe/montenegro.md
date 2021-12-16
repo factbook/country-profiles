@@ -455,6 +455,11 @@ _services_: 75% (2017 est.)<br>
 15.82% (2019 est.)<br>
 18.8% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 36%<br>
+_male_: 33.6%<br>
+_female_: 39.7% (2020 est.)<br>
+
 **Population below poverty line**<br>
 24.5% (2018 est.)<br>
 
@@ -620,8 +625,8 @@ state-funded national radio-TV broadcaster operates 2 terrestrial TV networks, 1
 .me<br>
 
 **Internet users**<br>
-_total_: 439,311<br>
-_percent of population_: 71.52% (July 2018 est.)<br>
+_total_: 477,300 (2021 est.)<br>
+_percent of population_: 81.37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 184,176 (2020)<br>
@@ -700,7 +705,7 @@ Montenegro officially became a member of NATO in 2017<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 472 (2020)<br>
-<strong>note:</strong> 20,524 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 20,579 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of large quantities of cocaine  destined for  European markets</p><br>

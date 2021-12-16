@@ -87,7 +87,7 @@ Tigrinya 55%, Tigre 30%, Saho 4%, Kunama 2%, Rashaida 2%, Bilen 2%, other (Afar,
 Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar, other Cushitic languages<br>
 
 **Religions**<br>
-Sunni Muslim, Coptic Christian, Roman Catholic, Protestant<br>
+Eritrean Orthodox, Roman Catholic, Evangelical Lutheran, Sunni Muslim<br>
 
 **Demographic profile**<br>
 <p>Eritrea is a persistently poor country that has made progress in some socioeconomic categories but not in others. Education and human capital formation are national priorities for facilitating economic development and eradicating poverty. To this end, Eritrea has made great strides in improving adult literacy – doubling the literacy rate over the last 20 years – in large part because of its successful adult education programs. The overall literacy rate was estimated to be almost 74% in 2015; more work needs to be done to raise female literacy and school attendance among nomadic and rural communities. Subsistence farming fails to meet the needs of Eritrea’s growing population because of repeated droughts, dwindling arable land, overgrazing, soil erosion, and a shortage of farmers due to conscription and displacement. The government’s emphasis on spending on defense over agriculture and its lack of foreign exchange to import food also contribute to food insecurity.</p><p>Eritrea has been a leading refugee source country since at least the 1960s, when its 30-year war for independence from Ethiopia began. Since gaining independence in 1993, Eritreans have continued migrating to Sudan, Ethiopia, Yemen, Egypt, or Israel because of a lack of basic human rights or political freedom, educational and job opportunities, or to seek asylum because of militarization. Eritrea’s large diaspora has been a source of vital remittances, funding its war for independence and providing 30% of the country’s GDP annually since it became independent.</p><p>In the last few years, Eritreans have increasingly been trafficked and held hostage by Bedouins in the Sinai Desert, where they are victims of organ harvesting, rape, extortion, and torture. Some Eritrean trafficking victims are kidnapped after being smuggled to Sudan or Ethiopia, while others are kidnapped from within or around refugee camps or crossing Eritrea’s borders. Eritreans composed approximately 90% of the conservatively estimated 25,000-30,000 victims of Sinai trafficking from 2009-2013, according to a 2013 consultancy firm report.</p><br>
@@ -288,7 +288,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: the name means "they [women] made them unite," which according to Tigrinya oral tradition refers to the women of the four clans in the Asmara area who persuaded their menfolk to unite and defeat their common enemy; the name has also been translated as "live in peace"<br>
 
 **Administrative divisions**<br>
-6 regions (zobatat, singular - zoba); Anseba, Debub (South), Debubawi K'eyih Bahri (Southern Red Sea), Gash Barka, Ma'akel (Central), Semenawi K'eyih Bahri (Northern Red Sea)<br>
+6 regions (zobatat, singular - zoba); 'Anseba, Debub (South), Debubawi K'eyyih Bahri (Southern Red Sea), Gash-Barka, Ma'ikel (Central), Semienawi K'eyyih Bahri (Northern Red Sea)<br>
 
 **Independence**<br>
 24 May 1993 (from Ethiopia)<br>
@@ -587,8 +587,8 @@ government controls broadcast media with private ownership prohibited; 1 state-o
 .er<br>
 
 **Internet users**<br>
-_total_: 78,215<br>
-_percent of population_: 1.31% (July 2018 est.)<br>
+_total_: 248,200 (2021 est.)<br>
+_percent of population_: 1.31% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2017 est.)<br>

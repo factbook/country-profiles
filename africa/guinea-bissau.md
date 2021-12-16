@@ -587,8 +587,8 @@ _international_: country code - 245; ACE submarine cable connecting Guinea-Bissa
 .gw<br>
 
 **Internet users**<br>
-_total_: 72,047<br>
-_percent of population_: 3.93% (July 2018 est.)<br>
+_total_: 250,000 (2020 est.)<br>
+_percent of population_: 3.93% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,383 (2020)<br>

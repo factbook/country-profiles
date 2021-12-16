@@ -635,8 +635,8 @@ mixture of state-owned, joint public-private, and privately owned broadcast medi
 .kh<br>
 
 **Internet users**<br>
-_total_: 6,579,808<br>
-_percent of population_: 40% (July 2018 est.)<br>
+_total_: 8.86 million (2021 est.)<br>
+_percent of population_: 78.8% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 713,845 (2020)<br>
@@ -709,7 +709,7 @@ note - the Cambodian National Police is under the Ministry of Interior<br>
 information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider (2020)<br>
+the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider (2021)<br>
 
 **Military deployments**<br>
 200 Central African Republic (MINUSCA); 175 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2021)<br>

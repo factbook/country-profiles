@@ -97,7 +97,7 @@ _noun_: Brazilian(s)<br>
 _adjective_: Brazilian<br>
 
 **Ethnic groups**<br>
-White 47.7%, Mulatto (mixed White and Black) 43.1%, Black 7.6%, Asian 1.1%, Indigenous 0.4% (2010 est.)<br>
+White 47.7%, mixed 43.1%, Black 7.6%, Asian 1.1%, Indigenous 0.4% (2010 est.)<br>
 
 **Languages**<br>
 Portuguese (official and most widely spoken language); note - less common languages include Spanish (border areas and schools), German, Italian, Japanese, English, and a large number of minor Amerindian languages<br>
@@ -651,8 +651,8 @@ state-run Radiobras operates a radio and a TV network; more than 1,000 radio sta
 .br<br>
 
 **Internet users**<br>
-_total_: 140,908,998<br>
-_percent of population_: 67.47% (July 2018 est.)<br>
+_total_: 160 million (2021 est.)<br>
+_percent of population_: 73.91% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,344,670 (2020)<br>

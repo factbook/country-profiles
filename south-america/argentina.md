@@ -467,6 +467,11 @@ _services_: 66.1% (2017 est.)<br>
 9.84% (2019 est.)<br>
 9.18% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 30.2%<br>
+_male_: 26.8%<br>
+_female_: 35% (2020 est.)<br>
+
 **Population below poverty line**<br>
 35.5% (2019 est.)<br>
 
@@ -633,8 +638,8 @@ government owns a TV station and radio network; more than 2 dozen TV stations an
 .ar<br>
 
 **Internet users**<br>
-_total_: 33,203,320<br>
-_percent of population_: 74.29% (July 2018 est.)<br>
+_total_: 36.32 million (2021 est.)<br>
+_percent of population_: 74.29% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,571,562 (2020)<br>

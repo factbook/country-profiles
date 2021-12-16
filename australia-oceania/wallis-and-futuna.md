@@ -396,8 +396,12 @@ Comptoirs Francais du Pacifique francs (XPF) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,012<br>
-_subscriptions per 100 inhabitants_: 25.38 (2019 est.)<br>
+_total subscriptions_: 3,132 (2017)<br>
+_subscriptions per 100 inhabitants_: 25.38 (2017 est.)<br>
+
+**Telephones - mobile cellular**<br>
+_total subscriptions_: 0 (2017)<br>
+_subscriptions per 100 inhabitants_: 0 (2017)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: 2G widespread; bandwidth is limited; mobile subscriber numbers are higher than fixed-line and better suited for islands; good mobile coverage in the capital cities and also reasonable coverage across more remote atolls; recent international interest in infrastructure development; increase in demand for mobile broadband as mobile services serve as primary source for Internet access; Kacific-1 broadband satellite launched in 2019 to improve costs and capability (2020)<br>

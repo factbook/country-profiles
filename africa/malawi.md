@@ -466,6 +466,11 @@ _services_: 19% (2013 est.)<br>
 **Unemployment rate**<br>
 20.4% (2013 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.5%<br>
+_male_: 6.7%<br>
+_female_: 10.6% (2017 est.)<br>
+
 **Population below poverty line**<br>
 51.5% (2016 est.)<br>
 
@@ -632,8 +637,8 @@ radio is the main broadcast medium; privately owned Zodiak radio has the widest 
 .mw<br>
 
 **Internet users**<br>
-_total_: 2,734,305<br>
-_percent of population_: 13.78% (July 2018 est.)<br>
+_total_: 3.45 million (2021 est.)<br>
+_percent of population_: 13.78% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 12,255 (2020)<br>
@@ -684,6 +689,7 @@ _lake port(s)_: Chipoka, Monkey Bay, Nkhata Bay, Nkhotakota, Chilumba (Lake Nyas
 
 **Military and security forces**<br>
 Malawi Defense Force (MDF): Army (includes marine unit), Air Force (established as a separate service August 2019; previously was an air wing under the Army) (2021)<br>
+note - the Malawi Police Service is under the Ministry of Homeland Security<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2020 est.)<br>

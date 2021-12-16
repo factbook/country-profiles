@@ -99,7 +99,7 @@ Spanish (official)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 79%, Protestant 14% (includes Pentecostal 6%, mainline Protestant 2%, other 6%), other 2%, unspecified 5% (2014 est.)<br>
+Christian 92.3% (predominantly Roman Catholic), other 1%, unspecified 6.7% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>Colombia is in the midst of a demographic transition resulting from steady declines in its fertility, mortality, and population growth rates. The birth rate has fallen from more than 6 children per woman in the 1960s to just above replacement level today as a result of increased literacy, family planning services, and urbanization. However, income inequality is among the worst in the world, and more than a third of the population lives below the poverty line.</p><p>Colombia experiences significant legal and illegal economic emigration and refugee outflows. Large-scale labor emigration dates to the 1960s; the United States and, until recently, Venezuela have been the main host countries. Emigration to Spain picked up in the 1990s because of its economic growth, but this flow has since diminished because of Spain’s ailing economy and high unemployment. Colombia has been the largest source of Latin American refugees in Latin America, nearly 400,000 of whom live primarily in Venezuela and Ecuador. Venezuela’s political and economic crisis since 2015, however, has created a reverse flow, consisting largely of Colombians returning home.</p><p>Forced displacement continues to be prevalent because of violence among guerrillas, paramilitary groups, and Colombian security forces. Afro-Colombian and indigenous populations are disproportionately affected. Even with the Colombian Government’s December 2016 peace agreement with the Revolutionary Armed Forces of Colombia (FARC), the risk of displacement remains as other rebel groups fill the void left by the FARC. Between 1985 and September 2017, nearly 7.6 million persons have been internally displaced, the highest total in the world. These estimates may undercount actual numbers because many internally displaced persons are not registered. Historically, Colombia also has one of the world’s highest levels of forced disappearances. About 30,000 cases have been recorded over the last four decades—although the number is likely to be much higher—including human rights activists, trade unionists, Afro-Colombians, indigenous people, and farmers in rural conflict zones.</p><p>Because of political violence and economic problems, Colombia received limited numbers of immigrants during the 19th and 20th centuries, mostly from the Middle East, Europe, and Japan. More recently, growth in the oil, mining, and manufacturing sectors has attracted increased labor migration; the primary source countries are Venezuela, the US, Mexico, and Argentina. Colombia has also become a transit area for illegal migrants from Africa, Asia, and the Caribbean -- especially Haiti and Cuba -- who are en route to the US or Canada.</p><br>
@@ -644,8 +644,8 @@ combination of state-owned and privately owned broadcast media provide service; 
 .co<br>
 
 **Internet users**<br>
-_total_: 29,990,017<br>
-_percent of population_: 62.26% (July 2018 est.)<br>
+_total_: 34.73 million (2021 est.)<br>
+_percent of population_: 65.01% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,764,772 (2020)<br>

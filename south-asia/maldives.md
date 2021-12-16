@@ -424,6 +424,11 @@ _services_: 69.5% (2017 est.)<br>
 2.9% (2017 est.)<br>
 3.2% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 15.5%<br>
+_male_: 18.5%<br>
+_female_: 11.7% (2019 est.)<br>
+
 **Population below poverty line**<br>
 8.2% (2016 est.)<br>
 
@@ -583,8 +588,8 @@ state-owned radio and TV monopoly until recently;&nbsp;4 state-operated and 7 pr
 .mv<br>
 
 **Internet users**<br>
-_total_: 248,004<br>
-_percent of population_: 63.19% (July 2018 est.)<br>
+_total_: 342,500 (2021 est.)<br>
+_percent of population_: 63.19% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 63,685 (2020)<br>

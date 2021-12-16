@@ -438,6 +438,11 @@ _services_: 86% (2014 est.)<br>
 6.78% (2019 est.)<br>
 6.33% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 24%<br>
+_male_: 25%<br>
+_female_: 22.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
 
@@ -583,12 +588,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,750,989<br>
-_subscriptions per 100 inhabitants_: 17.32 (2019 est.)<br>
+_total subscriptions_: 1,624,271 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.08 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 12,895,854<br>
-_subscriptions per 100 inhabitants_: 127.57 (2019 est.)<br>
+_total subscriptions_: 12,959,858 (2020)<br>
+_subscriptions per 100 inhabitants_: 128.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Sweden&rsquo;s telecom market includes mature mobile and broadband sectors stimulated by investment of the main operators in new technologies; one of the best developed LTE infrastructures in the region; ranked among leading countries for fixed-line, mobile-cellular, Internet, and broadband penetration; best developed LTE infrastructure in the region; government promotes national broadband strategy to increase connectivity (2020)<br>
@@ -607,8 +612,8 @@ _total_: 9,251,773<br>
 _percent of population_: 92.14% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,038,725<br>
-_subscriptions per 100 inhabitants_: 39.95 (2019 est.)<br>
+_total_: 4,101,078 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.61 (2020 est.)<br>
 
 ## Transportation
 

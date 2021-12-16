@@ -370,6 +370,11 @@ _services_: 81.8% (2008 est.)<br>
 13% (2013 est.)<br>
 9.8% (2011 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 29.3%<br>
+_male_: 25.4%<br>
+_female_: 34.5% (2018 est.)<br>
+
 **Budget surplus (+) or deficit (-)**<br>
 -0.4% (of GDP) (2012 est.)<br>
 
@@ -494,8 +499,8 @@ government-run TeleCuracao operates a TV station and a radio station;&nbsp;2 oth
 <p>.cw</p><br>
 
 **Internet users**<br>
-_total_: 102,359<br>
-_percent of population_: 68.13% (July 2018 est.)<br>
+_total_: 112,000 (2021 est.)<br>
+_percent of population_: 68.13% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 53,297 (2019)<br>

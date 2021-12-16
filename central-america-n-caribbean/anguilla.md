@@ -426,8 +426,8 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 .ai<br>
 
 **Internet users**<br>
-_total_: 14,211<br>
-_percent of population_: 81.57% (July 2018 est.)<br>
+_total_: 12,300 (2021 est.)<br>
+_percent of population_: 81.57% (2019 est.)<br>
 
 ## Transportation
 

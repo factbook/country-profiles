@@ -629,8 +629,8 @@ _international_: country code - 242; WACS submarine cables to Europe and Western
 .cg<br>
 
 **Internet users**<br>
-_total_: 437,865<br>
-_percent of population_: 8.65% (July 2018 est.)<br>
+_total_: 790,000 (2021 est.)<br>
+_percent of population_: 8.65% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 500 (2014)<br>

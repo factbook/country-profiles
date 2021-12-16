@@ -439,6 +439,11 @@ _services_: 71.9% (2005 est.)<br>
 5.6% (2016 est.)<br>
 <strong>note:</strong> data are for total population; unemployment among Saudi nationals is more than double<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 27.2%<br>
+_male_: 21.5%<br>
+_female_: 43.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -582,12 +587,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,377,978<br>
-_subscriptions per 100 inhabitants_: 15.97 (2019 est.)<br>
+_total subscriptions_: 5,749,058 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.51 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 41,298,629<br>
-_subscriptions per 100 inhabitants_: 122.66 (2019 est.)<br>
+_total subscriptions_: 43,215,439 (2020)<br>
+_subscriptions per 100 inhabitants_: 124.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom markets in the Middle East; mobile penetration high, with a saturated market; mobile operators competitive and meeting the demand for workers, students and citizens working from home; Huawei partners with operator to provide 5G to dozens of cities; broadband is available with DSL, fiber, and wireless; mobile penetration is high; restrictive monarchy places limits on information and services available online; authorities operate extensive censorship and surveillance systems; major importer of broadcasting equipment from UAE and China (2020)<br>
@@ -606,8 +611,8 @@ _total_: 30,877,318<br>
 _percent of population_: 93.31% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,801,949<br>
-_subscriptions per 100 inhabitants_: 20.2 (2019 est.)<br>
+_total_: 7,890,261 (2020)<br>
+_subscriptions per 100 inhabitants_: 22.66 (2020 est.)<br>
 
 **Communications - note**<br>
 the innovative King Abdulaziz Center for World Culture (informally known as Ithra, meaning "enrichment") opened on 1 December 2017 in Dhahran, Eastern Region; its facilities include a grand library, several museums, an archive, an Idea Lab, a theater, a cinema, and an Energy Exhibit, all which are meant to provide visitors an immersive and transformative experience<br>
@@ -667,8 +672,8 @@ _container port(s) (TEUs)_: Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdu
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: Border Guard, Facilities Security Force (2021)<br>
-note: SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
+Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: police, Border Guard, Facilities Security Force; State Security Presidency: General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces  (2021)<br>
+note - SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
 7.9% of GDP (2020 est.)<br>
@@ -702,7 +707,7 @@ Islamic State of Iraq and ash-Sham (ISIS); al-Qa’ida; al-Qa’ida in the Arabi
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the now fully demarcated border with Yemen to stem illegal cross-border activities; Kuwait and Saudi Arabia continue discussions on a maritime boundary with Iran; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir</p><br>
+<p>Saudi Arabia has reinforced its concrete-filled security barrier along sections of the now fully demarcated border with Yemen to stem illegal cross-border activities; Kuwait and Saudi Arabia continue discussions on a maritime boundary with Iran</p><br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 70,000 (2020); note - thousands of biduns (stateless Arabs) are descendants of nomadic tribes who were not officially registered when national borders were established, while others migrated to Saudi Arabia in search of jobs; some have temporary identification cards that must be renewed every five years, but their rights remain restricted; most Palestinians have only legal resident status; some naturalized Yemenis were made stateless after being stripped of their passports when Yemen backed Iraq in its invasion of Kuwait in 1990; Saudi women cannot pass their citizenship on to their children, so if they marry a non-national, their children risk statelessness<br>

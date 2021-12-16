@@ -640,8 +640,8 @@ state-owned Bangladesh Television (BTV) broadcasts throughout the country. Some 
 .bd<br>
 
 **Internet users**<br>
-_total_: 23,917,950<br>
-_percent of population_: 15% (July 2018 est.)<br>
+_total_: 47.61 million (2021 est.)<br>
+_percent of population_: 12.9% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,521,970<br>

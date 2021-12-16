@@ -550,8 +550,8 @@ no TV broadcast stations; each state has a multi-channel cable service with TV t
 .fm<br>
 
 **Internet users**<br>
-_total_: 36,586<br>
-_percent of population_: 35.3% (July 2018 est.)<br>
+_total_: 40,800 (2021 est.)<br>
+_percent of population_: 35.3% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,776 (2018 est.)<br>

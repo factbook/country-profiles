@@ -532,8 +532,8 @@ _international_: country code - 376; landline circuits to France and Spain; mode
 .ad<br>
 
 **Internet users**<br>
-_total_: 78,483<br>
-_percent of population_: 91.57% (July 2018 est.)<br>
+_total_: 70,800 (2021 est.)<br>
+_percent of population_: 91.57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 36,358 (2019)<br>

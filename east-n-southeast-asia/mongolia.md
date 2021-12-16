@@ -95,7 +95,7 @@ Mongolian 90% (official) (Khalkha dialect is predominant), Turkic, Russian (1999
 _major-language sample(s)_: <br>Дэлхийн баримтат ном, үндсэн мэдээллийн зайлшгүй эх сурвалж. (Mongolian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Buddhist 53%, Muslim 3%, Shamanist 2.9%, Christian 2.2%, other 0.4%, none 38.6% (2010 est.)<br>
+Buddhist 51.7%, Muslim 3.2%, Shamanist 2.5%, Christian 1.3%, other 0.7%, none 40.6% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 26.96% (male 435,596/female 418,524)<br>
@@ -449,6 +449,11 @@ _services_: 50.5% (2016)<br>
 8% (2017 est.)<br>
 7.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 17.9%<br>
+_male_: 16.9%<br>
+_female_: 19.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 28.4% (2018 est.)<br>
 
@@ -615,8 +620,8 @@ following a law passed in 2005, Mongolia's state-run radio and TV provider conve
 .mn<br>
 
 **Internet users**<br>
-_total_: 735,823<br>
-_percent of population_: 23.71% (July 2018 est.)<br>
+_total_: 2.01 million (2021 est.)<br>
+_percent of population_: 62.5% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 307,166 (2020)<br>
@@ -693,6 +698,9 @@ note - from 2003 to July 2021, about 3,300 Mongolian troops served in Afghanista
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in army or air forces or police for males only (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2020)<br>
+
+**Military - note**<br>
+<p>Mongolia has been engaged in dialogue and cooperation with NATO since 2005 and is considered by NATO to be a global partner; Mongolia supported the NATO-led Kosovo Force from 2005-2007 and contributed troops to the NATO-led International Security Assistance Force in Afghanistan from 2009-2014, as well as to the follow-on Resolute Support Mission that provided training, advice, and other assistance to the Afghan security forces (2015-2021)</p><br>
 
 ## Transnational Issues
 

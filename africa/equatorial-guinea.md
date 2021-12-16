@@ -582,8 +582,8 @@ the state maintains control of broadcast media with domestic broadcast media lim
 .gq<br>
 
 **Internet users**<br>
-_total_: 209,253<br>
-_percent of population_: 26.24% (July 2018 est.)<br>
+_total_: 374,200 (2021 est.)<br>
+_percent of population_: 26.24% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,620 (2018)<br>

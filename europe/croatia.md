@@ -349,7 +349,7 @@ _election results_: <br><em>2019: </em>Zoran MILANOVIC elected president in seco
 **Legislative branch**<br>
 _description_: unicameral Assembly or Hrvatski Sabor (151 seats; 140 members in 10 multi-seat constituencies and 3 members in a single constituency for Croatian diaspora directly elected by proportional representation vote using the D'Hondt method with a 5% threshold; an additional 8 members elected from a nationwide constituency by simple majority by voters belonging to minorities recognized by Croatia; the Serb minority elects 3 Assembly members, the Hungarian and Italian minorities elect 1 each, the Czech and Slovak minorities elect 1 jointly, and all other minorities elect 2; all members serve 4-year terms<br>
 _elections_: early election held on 5 July 2020 (next to be held by 2024)<br>
-_election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, People's Party - Reformists 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, People's Party - Reformists - 1, national minorities 8; composition - men 116, women 35, percent of women 23.2%<br>
+_election results_: percent of vote by coalition/party - HDZ-led coalition 37.3%, Restart coalition 24.9%, DPMS-led coalition 10.9%, MOST 7.4%, Green-Left coalition 7%, P-F-SSIP 4%, HNS-LD 1.3%, NS-R 1%, other 6.2%; number of seats by coalition/party - HDZ-led coalition 66, Restart coalition 41, DPMS-led coalition 16, MOST 8, Green-Left coalition 7, P-F-SSIP 3, HNS-LD 1, NS-R 1, national minorities 8; composition - men 116, women 35, percent of women 23.2%<br>
 <strong>note:</strong> seats by party as of March 2021 - HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, BZH 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, NL 1, Reformists 1, SSIP 1, WF 1, independent 12<br>
 
 **Judicial branch**<br>
@@ -358,8 +358,7 @@ _judge selection and term of office_: president of Supreme Court nominated by th
 _subordinate courts_: Administrative Court; county, municipal, and specialized courts; note - there is an 11-member Constitutional Court with jurisdiction limited to constitutional issues but is outside of the judicial system<br>
 
 **Political parties and leaders**<br>
-Bloc for Croatia or BZH [Zlatko HASANBEGOVIC]<br>Bridge of Independent Lists or Most [Bozo PETROV]<br>Center [collective leadership] (formerly Pametno) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Christian Democratic Party or HDS [Goran DODIG]<br>Croatian Conservative Party or HKS [Marijan PAVLICEK]<br>Croatian Democratic Congress of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian Pensioner Party or HSU [Silvano HRELJA]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Ivan VRDOLJAK]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists coalition (includes HKS, HRAST)<br>FOKUS [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Miloslav SKORO]<br>Homeland Movement-led coalition (includes DP, Croatian Sovereignists coalition, BZH)<br>Istrian Democratic Assembly or IDS [Boris MILETIC]<br>Movement for Successful Croatia or HRAST [Ladislav ILCIC]<br>New Left or NL [Dragan MARKOVINA]<br>Pametno [Marijana PULJAK]<br>Pametno, FOKUS, SSIP coalition<br>Party with a First and Last Name or SSIP [Ivan KOVACIC]<br>People's Party - Reformists [Radimir CACIC]<br>Restart Coalition (includes HSLS, HDS, HDSSB)<br>Social Democratic Party of Croatia or SDP [Zlatko KOMADINA, acting leader]<br>We Can! or MOZEMO! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
-HDZ 62, SDP 33, DP 9, Most 6, Croatian Sovereignists 4, We Can! 4, IDS 3, SDSS 3, HSS 2, HSLS 2, Block 1, Center 1, FOKUS 1, GLAS 1, HDS 1, HSU 1, New Left 1, Reformists 1, SSIP 1, Workers' Front 1, independent 12<br>
+Bloc for Croatia or BLOK [Zlatko HASANBEGOVIC]<br>The Bridge or Most [Bozo PETROV] (formerly the Bridge of Independent Lists)<br>Center or Centar [Ivica PULJAK] (formerly Pametno and Party with a First and Last Name or SSIP) <br>Civic Liberal Alliance or GLAS [Ankar Mrak TARITAS]<br>Croatian Demochristian Party or HDS [Goran DODIG<br>Croatian Democratic Alliance of Slavonia and Baranja or HDSSB [Branimir GLAVAS]<br>Croatian Democratic Union or HDZ [Andrej PLENKOVIC]<br>Croatian Democratic Union-led coalition (includes HSLS, HDS, HDSSB)<br>Croatian Party of Pensioners or HSU [Veselko GABRICEVIC]<br>Croatian Peasant Party or HSS [Kreso BELJAK]<br>Croatian People's Party - Liberal Democrats or HNS-LD [Stjepan CURAJ]<br>Croatian Social Liberal Party or HSLS [Dario HREBAK]<br>Croatian Sovereignists or HS [Marijan PAVLICEK]<br>Focus on the Important or Focus [Davor NADI]<br>Green-Left coalition (includes MOZEMO!, RF, NL)<br>Homeland Movement or DP [Ivan PENAVA]<br>Independent Democratic Serb Party or SDSS [Milorad PUPOVAC]<br>Istrian Democratic Assembly or IDS [Dalibor PAUS]<br>New Left or NL [Ivana KEKIN]<br>People's Party - Reformists or NS-R [Radimir CACIC]<br>Restart Coalition (includes HSLS, HDS, HDSSB)<br>Social Democratic Party of Croatia or SDP [Peda GRBIN]<br>We Can! or Mozemo! [collective leadership]<br>Workers' Front or RF [collective leadership]<strong><br></strong><br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FAO, G-11, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NAM (observer), NATO, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -368,7 +367,7 @@ Australia Group, BIS, BSEC (observer), CD, CE, CEI, EAPC, EBRD, ECB, EMU, EU, FA
 _chief of mission_: Ambassador Pjer SIMUNOVIC (since 8 September 2017)<br>
 _chancery_: 2343 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 588-5899<br>
-_FAX_: [1] (202) 588-8936; [1] (202) 588-8936<br>
+_FAX_: [1] (202) 588-8936; [1] (202) 588-8937<br>
 _email address and website_: <br>washington@mvep.hr<br><br>http://us.mvep.hr/en/<br>
 _consulate(s) general_: Chicago, Los Angeles, New York, Seattle (WA), Washington, DC<br>
 _consulate(s)_: Anchorage (AL), Houston, Kansas City (MO), New Orleans, Pittsburgh (PA)<br>
@@ -631,8 +630,8 @@ the national state-owned public broadcaster, Croatian Radiotelevision, operates 
 .hr<br>
 
 **Internet users**<br>
-_total_: 3,104,212<br>
-_percent of population_: 72.69% (July 2018 est.)<br>
+_total_: 3.27 million (2021 est.)<br>
+_percent of population_: 78.32% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,030,973 (2020)<br>
@@ -722,7 +721,7 @@ Croatia officially became a member of NATO in 2009<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 2,900 (2020)<br>
-<strong>note: </strong>731,287 estimated refugee and migrant arrivals (January 2015-September 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
+<strong>note: </strong>732,698 estimated refugee and migrant arrivals (January 2015-November 2021); flows slowed considerably in 2017; Croatia is predominantly a transit country and hosts about 340 asylum seekers as of the end of June 2018<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p> <p> </p><br>

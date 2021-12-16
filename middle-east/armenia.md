@@ -437,6 +437,11 @@ _services_: 46.7% (2013 est.)<br>
 18.9% (2017 est.)<br>
 18.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 32.6%<br>
+_male_: 31.2%<br>
+_female_: 34.4% (2019 est.)<br>
+
 **Population below poverty line**<br>
 26.4% (2019 est.)<br>
 
@@ -601,8 +606,8 @@ _international_: country code - 374; Yerevan is connected to the&nbsp;Caucasus C
 .am<br>
 
 **Internet users**<br>
-_total_: 1,966,942<br>
-_percent of population_: 64.74% (July 2018 est.)<br>
+_total_: 2.02 million (2021 est.)<br>
+_percent of population_: 66.54% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 430,407 (2020)<br>

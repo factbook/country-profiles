@@ -474,6 +474,11 @@ _industry and services_: 20% (2005 est.)<br>
 7.9% (2017 est.)<br>
 7.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 2.4%<br>
+_male_: 2.6%<br>
+_female_: 2.3% (2018 est.)<br>
+
 **Population below poverty line**<br>
 42.1% (2019 est.)<br>
 
@@ -638,8 +643,8 @@ national public TV broadcaster; 2 privately owned companies provide subscription
 .ml<br>
 
 **Internet users**<br>
-_total_: 2,395,886<br>
-_percent of population_: 13% (July 2018 est.)<br>
+_total_: 5.74 million (2021 est.)<br>
+_percent of population_: 13% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 243,806 (2020)<br>
@@ -702,7 +707,7 @@ note(s): the Gendarmerie and the National Guard are under the authority of the M
 information varies; approximately 18,000 total troops (13,000 Army; 800 Air Force; 2,000 Gendarmerie; 2,000 National Guard) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than 15 countries (2020)<br>
+the FAMa's inventory consists primarily of Soviet-era equipment, although in recent years it has received limited quantities of mostly second-hand armaments from more than a dozen countries (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for selective compulsory and voluntary military service (men and women); 2-year conscript service obligation (2019)<br>

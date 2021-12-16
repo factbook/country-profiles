@@ -446,6 +446,11 @@ _services_: 33.4% (2014 est.)<br>
 15% (2017 est.)<br>
 17.2% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 9.4%<br>
+_male_: 14.8%<br>
+_female_: 6.1% (2014 est.)<br>
+
 **Population below poverty line**<br>
 56.8% (2018 est.)<br>
 
@@ -590,12 +595,12 @@ _electrification - rural areas_: 6% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,434<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 189 (2020)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 6,729,804<br>
-_subscriptions per 100 inhabitants_: 103.77 (2019 est.)<br>
+_total subscriptions_: 6,884,201 (2020)<br>
+_subscriptions per 100 inhabitants_: 86.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom sector is recovering from the decades of war, yet still constrained by inadequate power and pervasive corruption; recently installed terrestrial fiber backbone infrastructure; telephone service improving with the rapid growth of mobile sector; operators increased investment to provide national coverage; LTE available in some parts of the country; construction of 600 km ECOWAS Wide Area Network completed; fiber link to Guinea completed; importer of broadcasting equipment from China (2020)<br>
@@ -673,6 +678,9 @@ the RSLAF's small inventory includes a mix of Soviet-origin and other older fore
 
 **Military service age and obligation**<br>
 18-29 for voluntary military service; women are eligible to serve; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars</p><br>
 
 ## Transnational Issues
 

@@ -478,6 +478,11 @@ _services_: NA<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.7%<br>
+_male_: 11.3%<br>
+_female_: 6.8% (2012 est.)<br>
+
 **Population below poverty line**<br>
 63% (2014 est.)<br>
 
@@ -643,8 +648,8 @@ state-owned TV broadcast station with near national coverage; more than a dozen 
 .cd<br>
 
 **Internet users**<br>
-_total_: 8,231,357<br>
-_percent of population_: 8.62% (July 2018 est.)<br>
+_total_: 21.14 million (2021 est.)<br>
+_percent of population_: 8.62% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,900 (2019)<br>
@@ -744,7 +749,7 @@ Islamic State of Iraq and ash-Sham – Democratic Republic of the Congo (ISIS-DR
 <p>heads of the Great Lakes states and UN pledged in 2004 to abate tribal, rebel, and militia fighting in the region, including northeast Congo, where the UN Organization Mission in the Democratic Republic of the Congo (MONUC), organized in 1999, maintains over 16,500 uniformed peacekeepers; members of Uganda's Lord's Resistance Army forces continue to seek refuge in Congo's Garamba National Park as peace talks with the Uganda Government evolve; the location of the boundary in the broad Congo River with the Republic of the Congo is indefinite except in the Pool Malebo/Stanley Pool area; Uganda and DRC dispute Rukwanzi Island in Lake Albert and other areas on the Semliki River with hydrocarbon potential; boundary commission continues discussions over Congolese-administered triangle of land on the right bank of the Lunkinda River claimed by Zambia near the DRC village of Pweto; DRC accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 210,939 (Rwanda) (refugees and asylum seekers), 221,531 (Central African Republic), 56,531 (South Sudan) (refugees and asylum seekers), 42,025 (Burundi) (2021)<br>
+_refugees (country of origin)_: 210,939 (Rwanda) (refugees and asylum seekers), 217,940 (Central African Republic), 56,539 (South Sudan) (refugees and asylum seekers), 41,834 (Burundi) (2021)<br>
 _IDPs_: 5.268 million (fighting between government forces and rebels since mid-1990s; conflict in Kasai region since 2016) (2020)<br>
 
 **Trafficking in persons**<br>

@@ -425,6 +425,11 @@ food and beverages, fish processing, shoes and garments, salt mining, ship repai
 9% (2017 est.)<br>
 9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 50.4%<br>
+_male_: 41.4%<br>
+_female_: 65.3% (2019)<br>
+
 **Population below poverty line**<br>
 35% (2015 est.)<br>
 
@@ -590,8 +595,8 @@ state-run TV and radio broadcast network plus a growing number of private broadc
 .cv<br>
 
 **Internet users**<br>
-_total_: 330,623<br>
-_percent of population_: 58.17% (July 2018 est.)<br>
+_total_: 346,000 (2021 est.)<br>
+_percent of population_: 61.94% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 24,839 (2020)<br>

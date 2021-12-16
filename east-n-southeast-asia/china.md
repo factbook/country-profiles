@@ -648,8 +648,8 @@ all broadcast media are owned by, or affiliated with, the Communist Party of Chi
 .cn<br>
 
 **Internet users**<br>
-_total_: 751,886,119<br>
-_percent of population_: 54.3% (July 2018 est.)<br>
+_total_: 939.8 million (2021 est.)<br>
+_percent of population_: 70.64% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 483.55 million (2020)<br>
@@ -733,7 +733,7 @@ information varies; approximately 2 million total active duty troops (approximat
 
 **Military equipment inventories and acquisitions**<br>
 the PLA is outfitted primarily with a wide mix of older and modern domestically-produced systems heavily influenced by technology derived from other countries; Russia is the top supplier of foreign military equipment since 2010; the Chinese defense-industrial sector is large and capable of producing advanced weapons systems across all military domains; it is the world's second largest arms producer (2021)<br>
-note: the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
+note - the PLA is in the midst of a decades-long modernization effort; in 2017, President XI set three developmental goals for the force - becoming a mechanized force with increased information and strategic capabilities by 2020, a fully modernized force by 2035, and a worldwide first-class military by mid-century<br>
 
 **Military deployments**<br>
 425 Mali (MINUSMA); 225 Democratic Republic of the Congo (MONUSCO); 320 Sudan (UNAMID); 420 Lebanon (UNIFIL); 1,050 South Sudan (UNMISS); up to 2,000 Djibouti (Sep 2021)<br>

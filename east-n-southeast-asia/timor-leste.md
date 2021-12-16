@@ -437,6 +437,11 @@ _services_: 45.1% (2013)<br>
 4.4% (2014 est.)<br>
 3.9% (2010 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 13.2%<br>
+_male_: 10.9%<br>
+_female_: 15.9% (2016 est.)<br>
+
 **Population below poverty line**<br>
 41.8% (2014 est.)<br>
 
@@ -579,12 +584,12 @@ _electrification - rural areas_: 79.2% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,075<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 2,012 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 1,425,256<br>
-_subscriptions per 100 inhabitants_: 105.41 (2019 est.)<br>
+_total subscriptions_: 1,377,915 (2020)<br>
+_subscriptions per 100 inhabitants_: 104.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following years of civil unrest, the government and operators are working toward regeneration of the economy and telecom infrastructure; service in urban and some rural areas expanding with competition; most of the population has access to 4G LTE service; increase in mobile-broadband penetration; government aims to boost e-government services with new national terrestrial fiber-optic network; launch of satellite and approval for submarine cable link to Australia will boost sector growth; importer of broadcasting equipment from Indonesia and China (2020)<br>
@@ -603,8 +608,8 @@ _total_: 363,398<br>
 _percent of population_: 27.49% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 600<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 75 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -663,6 +668,9 @@ Timor-Leste Defense Force's limited inventory consists of equipment donated by o
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 18-month service obligation (2019)<br>
+
+**Military - note**<br>
+<p>since achieving independence, Timor-Leste has received security assistance from or has made defense cooperation arrangements with Australia, China, Indonesia, Malaysia, New Zealand, the Philippines, Portugal, the UN, and the US; some F-FDTL personnel train with the Indonesian military and the two countries maintain a joint Border Security Task Force to jointly monitor and patrol the border, particularly the Oecussi exclave area where smuggling and trafficking are prevalent</p> <p>the F-FDTL is a small force comprised of 2 infantry battalions and operates fewer than 10 patrol boats; it does not have any combat aircraft</p><br>
 
 ## Transnational Issues
 

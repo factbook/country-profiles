@@ -88,7 +88,7 @@ Spanish, English<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 85%, Protestant and other 15%<br>
+Roman Catholic 56%, Protestant 33% (largely Pentecostal), other 2%, atheist 1%, none 7% (2014 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.22% (male 231,406/female 222,061)<br>
@@ -393,6 +393,11 @@ _services_: 79% (2005 est.)<br>
 10.8% (2017 est.)<br>
 11.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.6%<br>
+_male_: 28.9%<br>
+_female_: 23.1% (2012 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -522,12 +527,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 686,901<br>
-_subscriptions per 100 inhabitants_: 21.19 (2019 est.)<br>
+_total subscriptions_: 711,512 (2020)<br>
+_subscriptions per 100 inhabitants_: 24.87 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 3,371,969<br>
-_subscriptions per 100 inhabitants_: 104.03 (2019 est.)<br>
+_total subscriptions_: 3,483,570 (2020)<br>
+_subscriptions per 100 inhabitants_: 121.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: small telecom market affected by mismanagement and natural disasters; hurricanes in 2017 and earthquake in 2020 caused destruction of telecom infrastructure, leading to market decline; US provided funds to rebuild after some delay; lags behind US in fixed and broadband penetration due to high unemployment and lack of operator investment; multi-national telcoms enable LTE and launch of 5G; growing number of submarine cables helps to reduce costs and supports streaming of international content and cloud services; operator launched connectivity for school children during pandemic (2020)<br>
@@ -546,8 +551,8 @@ _total_: 2,326,006<br>
 _percent of population_: 70.6% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 609,943<br>
-_subscriptions per 100 inhabitants_: 18.82 (2019 est.)<br>
+_total_: 671,284 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.46 (2020 est.)<br>
 
 ## Transportation
 

@@ -598,8 +598,8 @@ _international_: country code - 354; landing points for the CANTAT-3, FARICE-1, 
 .is<br>
 
 **Internet users**<br>
-_total_: 340,117<br>
-_percent of population_: 99.01% (July 2018 est.)<br>
+_total_: 338,900 (2021 est.)<br>
+_percent of population_: 98.26% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 141,816 (2020)<br>

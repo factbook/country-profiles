@@ -96,7 +96,7 @@ Arabic (official), Italian, English (all widely understood in the major cities);
 _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر الذي لا يمكن الاستغناء عنه للمعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist 0.3%, Hindu &lt;0.1, Jewish &lt;0.1, folk religion &lt;0.1, unafilliated 0.2%, other &lt;0.1 (2010 est.)<br>
+Muslim (official; virtually all Sunni) 96.6%, Christian 2.7%, Buddhist &lt;1%, Hindu &lt;1%, Jewish &lt;1%, folk religion &lt;1%, other  &lt;1%, unafilliated &lt;1% (2020 est.)<br>
 <strong>note:</strong> non-Sunni Muslims include native Ibadhi Muslims (&lt;1% of the population) and foreign Muslims<br>
 
 **Demographic profile**<br>
@@ -320,13 +320,13 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
 _head of government_: Prime Minister Abdul Hamid DBEIBEH (since 5 February 2021)<br>
 _cabinet_: GNA Presidency Council (pending approval by the House of Representatives - as of December 2018)<br>
-_elections/appointments_: <p>direct presidential election to be held pending election-related legislation and constitutional referendum law</p><br>
+_elections/appointments_: <p>election originally scheduled for 24 December 2021, but will likely be postponed by the election commission until a list of candidates is resolved</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DBEIBEH, prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; members directly elected by majority vote; member term NA); note - the High Council of State serves as an advisory group for the HoR<br>
-_elections_: last held on 25 June 2014 ( next election to be held on 24 December 2021); note - the Libyan Supreme Court in November 2014 declared the HoR election unconstitutional, but the HoR and the international community rejected the ruling<br>
-_election results_: percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014&nbsp;election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
+_description_: unicameral House of Representatives (Majlis Al Nuwab) or HoR (200 seats including 32 reserved for women; 188 seats filled as of December 2021; members directly elected by majority vote; member term NA); note - the HoR elected on 25 June 2014 was dissolved on 4 August 2014 and since then has served as a temporary body until a permanent legislature is elected<br>
+_elections_: last held on 25 June 2014 ( next to be held on 24 January 2022)<br>
+_election results_: for election held on 25 June 2014 - percent of vote by party - NA; seats by party - NA; composition - men 158, women 30, percent of women 16%; note - only 188 of the 200 seats were filled in the June 2014 election because of boycotts and lack of security at some polling stations; some elected members of the HoR also boycotted the election<br>
 
 **Judicial branch**<br>
 _highest courts_: NA; note - government is in transition<br>
@@ -424,6 +424,11 @@ _services_: 59% (2004 est.)<br>
 
 **Unemployment rate**<br>
 30% (2004 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 48.7%<br>
+_male_: 40.8%<br>
+_female_: 67.8% (2012 est.)<br>
 
 **Population below poverty line**<br>
 <p><strong>note:</strong> about one-third of Libyans live at or below the national poverty line</p><br>
@@ -585,8 +590,8 @@ state-funded and private TV stations; some provinces operate local TV stations; 
 .ly<br>
 
 **Internet users**<br>
-_total_: 1,440,859<br>
-_percent of population_: 21.76% (July 2018 est.)<br>
+_total_: 3.19 million (2021 est.)<br>
+_percent of population_: 21.76% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 318,000 (2017 est.)<br>
@@ -644,7 +649,7 @@ _LNG terminal(s) (export)_: Marsa el Brega<br>
 ## Military and Security
 
 **Military and security forces**<br>
-note - in transition; the Government of National Accord (GNA) has various ground, air, and naval/coast guard forces under its command; the forces are comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>forces under Khalifa HAFTER, known as the Libyan National Army (LNA), also include various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries (2020)<br>
+the Government of National Accord (GNA) has various ground, air, and naval/coast guard forces under its command; the forces are comprised of a mix of semi-regular military units, militias, civilian volunteers, and foreign troops and mercenaries<br><br>forces under Khalifa HAFTER, known as the Libyan National Army (LNA), also include various ground, air, and naval units comprised of semi-regular military personnel, militias, and foreign troops and mercenaries (2021)<br>
 
 **Military expenditures**<br>
 not available<br>
@@ -653,7 +658,7 @@ not available<br>
 estimates not available<br>
 
 **Military equipment inventories and acquisitions**<br>
-both the forces of the Government of National Accord and the Libyan National Army are largely equipped with weapons of Russian or Soviet origin; as of 2020, Russia, Turkey, and the UAE were reportedly providing weapons and military equipment to the forces in Libya (2020)<br>
+both the forces of the Government of National Accord and the Libyan National Army are largely equipped with weapons of Russian or Soviet origin; however, since 2014, a variety of countries have provided arms and military equipment to the forces in Libya, including Egypt, Jordan, Russia, Turkey, and the UAE (2020)<br>
 
 **Military - note**<br>
 <p>in April 2019, Libyan National Army (LNA) forces launched an offensive to seize the capital, Tripoli, from the UN-recognized Government of National Accord (GNA); the GNA and its local supporting militia forces forced the LNA to withdraw by June 2020; at the signing of a UN-sponsored ceasefire in October 2020, GNA and LNA forces were separated by a line of control running roughly from the coastal city of Sirte south to the vicinity of Al Jufra and Brak; as of late 2021, this line had grown increasingly fortified; in April 2021, the UN Security Council endorsed plans to deploy civilian ceasefire monitoring personnel at the request of the Libyans</p> <p>outside actors have played a large role in the fighting in Libya on both sides:</p> <p>as of 2021, GNA forces were backed militarily by Qatar and Turkey; Turkey has been the chief supporter; it signed a security agreement with the GNA in 2019, and Turkey’s aid to GNA military forces was assessed as vital in turning back the LNA offensive in 2019-2020;  Turkey’s support has included air defense, unmanned aerial vehicles (aka drones), equipment, weapons, training, and military personnel, including advisors, technicians, and equipment operators; in addition, Turkey has provided as many as 5,000 mercenary fighters from Syria</p> <p>as of 2021, LNA forces (aka Libyan Arab Armed Forces, LAAF) have received varying amounts of military support from Chad, Egypt, France, Jordan, Russia, Sudan, and the United Arab Emirates (UAE); Russia, Sudan, and the UAE have been the most active; Russia has provided equipment, weapons, aircraft, and air defense support, as well as an estimated 5,000 Russian mercenaries/private military contractors and Russian-sponsored Syrian mercenary fighters; Sudan reportedly provided at least 1,000 troops from its Rapid Support Forces in 2019-2020 and more than 1,000 Sudanese mercenaries were present in Libya as of late 2021; the UAE provided equipment, supplies, weapons, and air support, including air strikes from manned and unmanned aircraft; meanwhile, Egypt has provided arms, supplies, and training, as well as facilitated both Emirati and Russian operations in Libya by allowing them to use the country’s western bases and to transport arms over the border</p> <p>as of late 2021, it was estimated that as many as 20,000 third-country nationals were involved in military operations in Libya, despite the confidence building measure of the October 2020 ceasefire that called for all foreign forces to leave the country by early 2021; in addition to the military and proxy forces provided by Russia, Sudan, and Turkey, foreign fighters from Libya’s neighbors (Algeria, Chad, Egypt, Mali, Niger, and Tunisia, as well as Sudan) have travelled to Libya since the civil war began in 2011 to support various armed groups, including those aligned with the GNA and the LNA, as well as the Islamic State of Iraq and ash-Sham and Al Qa’ida terrorist group affiliates operating in Libya; most of these fighters arrived as individuals, but rebel groups from Chad and Sudan were also reportedly involved in the fighting</p><br>

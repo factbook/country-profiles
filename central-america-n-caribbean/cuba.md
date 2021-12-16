@@ -602,8 +602,8 @@ _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-opti
 .cu<br>
 
 **Internet users**<br>
-_total_: 6,353,020<br>
-_percent of population_: 57.15% (July 2018 est.)<br>
+_total_: 7.7 million (2021 est.)<br>
+_percent of population_: 67.97% (2019 est.)<br>
 <strong>note:</strong> private citizens are prohibited from buying computers or accessing the Internet without special authorization; foreigners may access the Internet in large hotels but are subject to firewalls; some Cubans buy illegal passwords on the black market or take advantage of public outlets to access limited email and the government-controlled "intranet"<br>
 
 **Broadband - fixed subscriptions**<br>

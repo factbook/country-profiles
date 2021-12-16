@@ -94,7 +94,7 @@ Tok Pisin (official), English (official), Hiri Motu (official), some 839 indigen
 
 **Religions**<br>
 Protestant 64.3% (Evangelical Lutheran 18.4%, Seventh Day Adventist 12.9%, Pentecostal 10.4%, United Church 10.3%, Evangelical Alliance 5.9%, Anglican 3.2%, Baptist 2.8%, Salvation Army .4%), Roman Catholic 26%, other Christian 5.3%, non-Christian 1.4%, unspecified 3.1% (2011 est.)<br>
-<strong>note:</strong> data represent only the citizen population; roughly .3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
+<strong>note:</strong> data represent only the citizen population; roughly 0.3% of the population are non-citizens, consisting of Christian 52% (predominantly Roman Catholic), other 10.7% , none 37.3%<br>
 
 **Age structure**<br>
 _0-14 years_: 31.98% (male 1,182,539/female 1,139,358)<br>
@@ -586,12 +586,12 @@ _electrification - rural areas_: 55.4% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 158,000 (2017)<br>
-_subscriptions per 100 inhabitants_: 1.87 (2017 est.)<br>
+_total subscriptions_: 158,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 1.87 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4.018 million (2017)<br>
-_subscriptions per 100 inhabitants_: 47.62 (2017 est.)<br>
+_total subscriptions_: 4.018 million (2018)<br>
+_subscriptions per 100 inhabitants_: 47.62 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom services stymied by rugged terrain, high cost of infrastructure, and poverty of citizens; services are minimal with little change in fixed-line tele-density in two decades; progress in mobile platforms with almost 90% coverage on 3G and LTE; GSM available in remote areas; Internet slow and expensive, available to pockets of the population; facilities provide radiotelephone, telegraph, coastal radio, aeronautical radio, and international radio communication services; launch of satellite and landing of submarine cable will improve most services in the region; government supports training to boost digital transformation; Australia attempted to block Chinese investment in cooperative network; importer of broadcasting equipment from China (2020)<br>
@@ -611,7 +611,7 @@ _percent of population_: 11.21% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -683,6 +683,9 @@ the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplie
 
 **Military service age and obligation**<br>
 16 years of age for voluntary military service (with parental consent); no conscription; graduation from grade 12 required (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II</p><br>
 
 ## Transnational Issues
 

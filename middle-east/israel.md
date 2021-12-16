@@ -355,7 +355,7 @@ _email address and website_: <br>consular@washington.mfa.gov.il<br><br>https://e
 _consulate(s) general_: Atlanta, Boston, Chicago, Houston, Los Angeles, Miami, New York, San Francisco<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: ambassador (vacant); Charge d'Affaires Michael RATNEY (since 1 June 2021)<br>
+_chief of mission_: ambassador Thomas NIDES (since 5 December 2021)<br>
 _embassy_: 14 David Flusser Street, Jerusalem, 9378322<br>
 _mailing address_: 6350 Jerusalem Place, Washington DC&nbsp; 20521-6350<br>
 _telephone_: [972] (2) 630-4000<br>
@@ -622,8 +622,8 @@ the Israel Broadcasting Corporation (est 2015) broadcasts on&nbsp;3 channels,&nb
 .il<br>
 
 **Internet users**<br>
-_total_: 6,873,037<br>
-_percent of population_: 81.58% (July 2018 est.)<br>
+_total_: 7.68 million (2021 est.)<br>
+_percent of population_: 86.79% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,602,079 (2020)<br>

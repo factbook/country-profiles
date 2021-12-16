@@ -448,6 +448,10 @@ New Zealand dollars (NZD) per US dollar -<br>
 
 ## Communications
 
+**Telephones - fixed lines**<br>
+_total subscriptions_: 1,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 61.77 (2018)<br>
+
 **Telecommunication systems**<br>
 _general assessment_: sole provider service for over 1000 landlines and fixed wireless lines; cellular telephone service operates on AMPS and GSM platforms; difficult geography presents challenges for rural areas; mobile is primary source of Internet access; mobile broadband demand is growing&nbsp;due to mobile services (2020)<br>
 _domestic_: single-line (fixed line) telephone system connects all villages (and virtually all households) on island (2018)<br>
@@ -461,8 +465,8 @@ _international_: country code - 683; landing point for the Manatua submarine cab
 .nu<br>
 
 **Internet users**<br>
-_total_: 1,090<br>
-_percent of population_: 91.6% (July 2016 est.)<br>
+_total_: 1,286 (2021 est.)<br>
+_percent of population_: 79.56% (2019 est.)<br>
 
 ## Transportation
 

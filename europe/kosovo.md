@@ -76,8 +76,8 @@ the 41-km long Nerodimka River divides into two branches each of which flows int
 1,935,259 (July 2021 est.)<br>
 
 **Nationality**<br>
-_noun_: Kosovar (Albanian)<br>
-_adjective_: Kosovo<br>
+_noun_: Kosovan<br>
+_adjective_: Kosovan<br>
 <strong>note:</strong> Kosovo, a neutral term, is sometimes also used as a noun or adjective as in Kosovo Albanian, Kosovo Serb, Kosovo minority, or Kosovo citizen<br>
 
 **Ethnic groups**<br>
@@ -263,16 +263,16 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Vjosa OSMANI (since 4 April 2021); note: President Hashim THACI (since 7 April 2016) resigned 5 November 2020<br>
-_head of government_: Prime Minister Albin KURTI (since 22 February 2021)<br>
+_chief of state_: President Vjosa OSMANI-Sadriu (since 4 April 2021)<br>
+_head of government_: Prime Minister Albin KURTI (since 22 March 2021)<br>
 _cabinet_: Cabinet elected by the Assembly<br>
 _elections/appointments_: president indirectly elected by at least two-thirds majority vote of the Assembly for a 5-year term; if a candidate does not attain a two-thirds threshold in the first two ballots, the candidate winning a simple majority vote in the third ballot is elected (eligible for a second term); election last held on 3-4 April 2021 (next to be held in 2026); prime minister indirectly elected by the Assembly<br>
-_election results_: Vjosa OSMANI elected president in the third ballot; Assembly vote - Vjosa OSMANI (VV) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
+_election results_: Vjosa OSMANI-Sadriu elected president in the third ballot; Assembly vote - Vjosa OSMANI-Sadriu (Guxo!) 71 votes; Albin KURTI (VV) elected prime minister; Assembly vote - 67-30<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi i Kosoves/Skupstina Kosova (120 seats; 100 members directly elected by open-list proportional representation vote with 20 seats reserved for ethnic minorities - 10 for Serbs and 10 for other ethnic minorities; members serve 4-year terms)<br>
 _elections_: last held on 14 February 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serb List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serb List 10, AAK 8, other 10; composition - NA<br>
+_election results_: percent of vote by party - VV 50%, PDK 16.9%, LDK 12.7%, AAK 7.1%, Serbian List 5.1%, other 8.2%; seats by party - VV 58, PDK 19, LDK 15, Serbian List 10, AAK 8, other 10; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges and organized into Appeals Panel of the Kosovo Property Agency and Special Chamber); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -281,7 +281,7 @@ _subordinate courts_: Court of Appeals (organized into 4 departments: General, S
 <strong>note:</strong> in August 2015, the Kosovo Assembly approved a constitutional amendment that establishes the Kosovo Relocated Specialist Judicial Institution, also referred to as the Kosovo Specialist Chambers or "Special Court"; the court, located at the Hague in the Netherlands, began operating in late 2016 and has jurisdiction to try crimes against humanity, war crimes, and other crimes under Kosovo law that occurred in the 1998-2000 period<br>
 
 **Political parties and leaders**<br>
-Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimoza KUSARI-LILA]<br>Ashkali Party for Integration or PAI<br>Democratic League of Kosovo or LDK<br>Democratic Party of Kosovo or PDK [Kadri VESELI]<br>Independent Liberal Party or SLS [Slobodan PETROVIC]<br>Initiative for Kosovo or NISMA [Fatmir LIMAJ]<br>Movement for Self-Determination (Vetevendosje) or VV [Albin KURTI]<br>New Democratic Initiative of Kosovo<br>New Democratic Party<br>New Kosovo Alliance or AKR [Behgjet PACOLLI]<br>Romani Initiative<br>Serb List [Goran RAKIC]<br>Social Democratic Party of Kosovo or PSD [Shpend AHMETI]<br>Turkish Democratic Party of Kosovo or KDTP [Mahir YAGCILAR]<br>Unique Gorani Party [Adem HODZA]<br>Vakat Coalition or VAKAT [Rasim DEMIRI]<br>
+Alliance for the Future of Kosovo or AAK [Ramush HARADINAJ]<br>Alternativa [Mimoza KUSARI-LILA]<br>Ashkali Party for Integration or PAI [Bekim ARIFI]<br>Democratic League of Kosovo or LDK [Lumir ABDIXHIKU]<br>Democratic Party of Kosovo or PDK [Memli KRASNIQI]<br>Guxo! [Donika GERVALLA-SCHWARZ]<br>Independent Liberal Party or SLS [Slobodan PETROVIC]<br>Initiative for Kosovo or NISMA [Fatmir LIMAJ]<br>New Democratic Initiative of Kosovo or IRDK [Elbert KRASNIQI]<br>New Democratic Party or NDS [Emilja REDXEPI]<br>New Kosovo Alliance or AKR [Behgjet PACOLLI]<br>Progressive Movement of Kosovar Roma or LPRK [Erxhan GALUSHI]<br>Romani Initiative [Gazmend SALIJEVCI]<br>Self-Determination Movement (Vetevendosje) or VV [Albin KURTI]<br>Serbian List or SL [Goran RAKIC]<br>Social Democratic Party of Kosovo or PSD [Shpend AHMETI]<br>Social Democratic Union [Duda BALJE]<br>Turkish Democratic Party of Kosovo or KDTP [Fikrim DAMKA]<br>Unique Gorani Party [Adem HODZA]<br>Vakat Coalition or VAKAT [Rasim DEMIRI]<br>
 
 **International organization participation**<br>
 IBRD, IDA, IFC, IMF, ITUC (NGOs), MIGA, OIF (observer)<br>
@@ -380,6 +380,11 @@ _services_: 78.2% (2017 est.)<br>
 30.5% (2017 est.)<br>
 27.5% (2016 est.)<br>
 <strong>note:</strong> Kosovo has a large informal sector that may not be reflected in these data<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 49.7%<br>
+_male_: 45.9%<br>
+_female_: 57.6% (2020 est.)<br>
 
 **Population below poverty line**<br>
 17.6% (2015 est.)<br>
@@ -540,8 +545,8 @@ _international_: country code - 383<br>
 <strong>note:</strong> assigned as a temporary code under UN Security Council resolution 1244/99<br>
 
 **Internet users**<br>
-_total_: 1,706,150<br>
-_percent of population_: 89.44% (July 2018 est.)<br>
+_total_: 1.76 million (2021 est.)<br>
+_percent of population_: 83.89% (2019 est.)<br>
 
 ## Transportation
 

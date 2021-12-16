@@ -98,7 +98,7 @@ Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), 
 _major-language sample(s)_: <br>كتاب ديال لحقائق متاع العالم، احسن مصدر متاع المعلومات الأساسية (Arabic)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 6,000 (2010 est.)<br>
+Muslim 99% (official; virtually all Sunni, &lt;0.1% Shia), other 1% (includes Christian, Jewish, and Baha'i); note - Jewish about 3,000-3,500 (2020 est.)<br>
 note: does not include data from the former Western Sahara<br>
 
 **Demographic profile**<br>
@@ -495,6 +495,12 @@ _services_: 40.5% (2014 est.)<br>
 9.23% (2019 est.)<br>
 9.65% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 22.2%<br>
+_male_: 22%<br>
+_female_: 22.8% (2016 est.)<br>
+<strong>note: </strong>does not include data from the former Western Sahara<br>
+
 **Population below poverty line**<br>
 4.8% (2013 est.)<br>
 
@@ -659,8 +665,8 @@ _international_: country code - 212; landing point for the Atlas Offshore, Estep
 .ma<br>
 
 **Internet users**<br>
-_total_: 22,596,729<br>
-_percent of population_: 64.8% (July 2018 est.)<br>
+_total_: 27.62 million (2021 est.)<br>
+_percent of population_: 84.12% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,102,434 (2020)<br>
@@ -723,7 +729,9 @@ _LNG terminal(s) (import)_: Jorf Lasfar (planned)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense: Royal Moroccan Gendarmerie; Ministry of Interior: National Police; Auxiliary Forces (provides support to the Gendarmerie and National Police; includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed) (2021)<br>
+Royal Armed Forces: Royal Moroccan Army (includes the Moroccan Royal Guard), Royal Moroccan Navy (includes Coast Guard, marines), Royal Moroccan Air Force; Ministry of Defense (aka Administration of National Defense): Royal Moroccan Gendarmerie; Ministry of Interior: National Police, Auxiliary Forces (provides support to the Gendarmerie and National Police; includes a Mobile Intervention Corps, a motorized paramilitary security force that supplements the military and the police as needed) (2021)<br>
+note(s) - the National Police manages internal law enforcement in cities; the Royal Gendarmerie is responsible for law enforcement in rural regions and on national highways
+<br><br> <br>
 
 **Military expenditures**<br>
 4.5% of GDP (2020 est.)<br>

@@ -456,6 +456,11 @@ _services_: 34% (2017)<br>
 3.11% (2018 est.)<br>
 2.2% (2017 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.6%<br>
+_male_: 6.6%<br>
+_female_: 8.9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 6.7% (2018 est.)<br>
 
@@ -601,12 +606,12 @@ _electrification - total population_: 100% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,658,005<br>
-_subscriptions per 100 inhabitants_: 3.63 (2019 est.)<br>
+_total subscriptions_: 3,205,775 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 136,230,406<br>
-_subscriptions per 100 inhabitants_: 135.32 (2019 est.)<br>
+_total subscriptions_: 138,934,626 (2020)<br>
+_subscriptions per 100 inhabitants_: 142.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: though communist, government plans to partially privatize the state&rsquo;s holdings in telecom companies; competition is thriving in the telecom market place and driving e-commerce; mobile dominates over fixed-line; FttH market is growing; government is the driving force for growth with aims of commercializing 5G services with test licenses; Ho Chi Minh City to become the first smart city in Vietnam with cloud computing infrastructure, big data, data centers, and security-monitoring centers (2020)<br>
@@ -625,8 +630,8 @@ _total_: 68,267,875<br>
 _percent of population_: 70.35% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 14,802,380<br>
-_subscriptions per 100 inhabitants_: 14.7 (2019 est.)<br>
+_total_: 16,699,249 (2020)<br>
+_subscriptions per 100 inhabitants_: 17.16 (2020 est.)<br>
 
 ## Transportation
 
@@ -687,7 +692,7 @@ _river port(s)_: Ho Chi Minh (Mekong)<br>
 
 **Military and security forces**<br>
 People's Army of Vietnam (PAVN; aka Vietnam People's Army, VPA): Ground Forces, Navy (includes naval infantry), Air Force and Air Defense, Border Defense Force, and Vietnam Coast Guard; Vietnam People's Public Security Ministry; Vietnam Civil Defense Force (2021)<br>
-note(s) - the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units; the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013<br>
+note(s) - the Public Security Ministry is responsible for internal security and controls the national police, a special national security investigative agency, and other internal security units; the Vietnam Coast Guard was established in 1998 as the Vietnam Marine Police and renamed in 2013; Vietnam officially established a maritime self-defense force (civilian militia) in 2010 after the National Assembly passed the Law on Militia and Self-Defense Forces in 2009; the Vietnam Fisheries Resources Surveillance (VFRS), established in 2013, is responsible for patrolling, monitoring for fishing violations, and carrying out fishery inspections; it is armed, allowed to use force if necessary, and works in tandem with the Vietnam Coast Guard<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2020 est.)<br>
@@ -709,7 +714,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 18-27 years of age for compulsory and voluntary military service (females eligible for conscription, but in practice only males are drafted); conscription typically takes place twice annually and service obligation is 2 years (Army, Air Defense) and 3 years (Navy and Air Force) (2020)<br>
 
 **Military - note**<br>
-<p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances</p><br>
+<p>the PAVN is the military arm of the ruling Communist Party of Vietnam (CPV) and responsible to the Central Military Commission (CMC), the highest party organ on military policy; the CMC is led by the CPV General Secretary</p> <p>as of 2021, Vietnam maintained a security policy of non-alignment, but noted in 2019 that it would consider developing appropriate defense and security relations with other countries depending on circumstances<br><br><br></p><br>
 
 ## Transnational Issues
 

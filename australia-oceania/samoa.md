@@ -427,6 +427,11 @@ _services_: 29% (2015 est.)<br>
 5.5% (2016 est.)<br>
 NA<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 31.9%<br>
+_male_: 24.6%<br>
+_female_: 43.4% (2017 est.)<br>
+
 **Population below poverty line**<br>
 20.3% (2013 est.)<br>
 
@@ -566,11 +571,11 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,770<br>
-_subscriptions per 100 inhabitants_: 4.33 (2019 est.)<br>
+_total subscriptions_: 8,454 (2018)<br>
+_subscriptions per 100 inhabitants_: 4.33 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 128,776<br>
+_total subscriptions_: 124,211 (2018)<br>
 _subscriptions per 100 inhabitants_: 63.58 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -590,8 +595,8 @@ _total_: 67,662<br>
 _percent of population_: 33.61% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,692<br>
-_subscriptions per 100 inhabitants_: 1 (2017 est.)<br>
+_total_: 1,692 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 
@@ -627,7 +632,7 @@ _major seaport(s)_: Apia<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Samoa Police Force<br>
+no regular military forces; Samoa Police Force (Ministry of Police)<br>
 
 **Military - note**<br>
 Samoa has no formal defense structure or regular armed forces; informal defense ties exist with NZ, which is required to consider any Samoan request for assistance under the 1962 Treaty of Friendship<br>

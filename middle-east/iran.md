@@ -619,8 +619,8 @@ state-run broadcast media with no private, independent broadcasters; Islamic Rep
 .ir<br>
 
 **Internet users**<br>
-_total_: 58,117,322<br>
-_percent of population_: 70% (July 2018 est.)<br>
+_total_: 59.16 million (2021 est.)<br>
+_percent of population_: 84.11% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,564,195 (2020)<br>

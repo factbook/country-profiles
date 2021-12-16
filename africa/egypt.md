@@ -644,8 +644,8 @@ mix of state-run and private broadcast media; state-run TV operates 2 national a
 .eg<br>
 
 **Internet users**<br>
-_total_: 46,644,728<br>
-_percent of population_: 46.92% (July 2018 est.)<br>
+_total_: 59.19 million (2021 est.)<br>
+_percent of population_: 71.91% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,349,469 (2020)<br>
@@ -748,7 +748,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 ## Transnational Issues
 
 **Disputes - international**<br>
-<p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border; Saudi Arabia claims Egyptian-administered islands of Tiran and Sanafir</p><br>
+<p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 135,239 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>

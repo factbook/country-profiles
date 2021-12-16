@@ -629,8 +629,8 @@ mixed system of state-supported public service broadcast media and private broad
 .hu<br>
 
 **Internet users**<br>
-_total_: 7,474,413<br>
-_percent of population_: 76.07% (July 2018 est.)<br>
+_total_: 8.01 million (2021 est.)<br>
+_percent of population_: 84.77% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,265,308 (2020)<br>

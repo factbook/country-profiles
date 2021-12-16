@@ -448,6 +448,11 @@ _services_: 50% (2011 est.)<br>
 6.2% (2016 est.)<br>
 <strong>note:</strong> underemployment was 46.5% in 2008<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.5%<br>
+_male_: 6.4%<br>
+_female_: 12.9% (2014 est.)<br>
+
 **Population below poverty line**<br>
 24.9% (2016 est.)<br>
 
@@ -615,8 +620,8 @@ multiple terrestrial TV stations, supplemented by cable TV in most urban areas; 
 .ni<br>
 
 **Internet users**<br>
-_total_: 1,695,340<br>
-_percent of population_: 27.86% (July 2018 est.)<br>
+_total_: 2.78 million (2021 est.)<br>
+_percent of population_: 27.86% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 290,351 (2020)<br>
@@ -686,6 +691,9 @@ the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-e
 
 **Military service age and obligation**<br>
 18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2019)<br>
+
+**Military - note**<br>
+<p>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA García, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas</p><br>
 
 ## Transnational Issues
 

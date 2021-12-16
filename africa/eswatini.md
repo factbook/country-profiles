@@ -442,6 +442,11 @@ _services_: 58.9% (2014 est.)<br>
 28% (2014 est.)<br>
 28% (2013 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 47.1%<br>
+_male_: 44.2%<br>
+_female_: 50% (2016)<br>
+
 **Population below poverty line**<br>
 58.9% (2016 est.)<br>
 
@@ -607,8 +612,8 @@ _international_: country code - 268; satellite earth station - 1 Intelsat (Atlan
 .sz<br>
 
 **Internet users**<br>
-_total_: 510,984<br>
-_percent of population_: 47% (July 2018 est.)<br>
+_total_: 548,100 (2021 est.)<br>
+_percent of population_: 47% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2017 est.)<br>

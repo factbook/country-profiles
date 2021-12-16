@@ -467,6 +467,11 @@ _services_: 51.5% (2015 est.)<br>
 0.99% (2019 est.)<br>
 1.06% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 5.2%<br>
+_male_: 4.6%<br>
+_female_: 5.9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 9.9% (2018 est.)<br>
 
@@ -612,12 +617,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5.415 million<br>
-_subscriptions per 100 inhabitants_: 7.84 (2019 est.)<br>
+_total subscriptions_: 5.003 million (2020)<br>
+_subscriptions per 100 inhabitants_: 7.17 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 129.614 million<br>
-_subscriptions per 100 inhabitants_: 187.62 (2019 est.)<br>
+_total subscriptions_: 116.294 million (2020)<br>
+_subscriptions per 100 inhabitants_: 166.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high-quality system, especially in urban areas; mobile and mobile broadband penetration are on the increase; FttH has strong growth in cities; 4G-LTE available with adoption of 5G services; seven smart cities with aim for 100 smart cities by 2024; one of the biggest e-commerce markets in Southeast Asia; fixed-broadband and mobile marketplace on par with other developed Asian markets; development of Asian data center underway; Internet connectivity supported by international bandwidth to Singapore, Malaysia, and Hong Kong, and terrestrial cables with neighboring countries; two more submarine cables under construction with anticipated landings in 2022; government restricts Internet and freedom of press, with additional constraints in response to pandemic-related criticism in 2020; importer of broadcasting equipment and integrated circuits from China and export of same to neighboring countries in Asia (2020)<br>
@@ -636,8 +641,8 @@ _total_: 38,987,531<br>
 _percent of population_: 56.82% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 10,108,819<br>
-_subscriptions per 100 inhabitants_: 14.63 (2019 est.)<br>
+_total_: 11,599,513 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.62 (2020 est.)<br>
 
 ## Transportation
 
@@ -697,7 +702,7 @@ _LNG terminal(s) (import)_: Map Ta Phut<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties); Ministry of Interior: Volunteer Defense Corps (2021)<br>
+Royal Thai Armed Forces (Kongthap Thai, RTARF): Royal Thai Army (Kongthap Bok Thai, RTA; includes Thai Rangers (Thahan Phrahan)), Royal Thai Navy (Kongthap Ruea Thai, RTN; includes Royal Thai Marine Corps), Royal Thai Air Force (Kongthap Akaat Thai, RTAF); Office of the Prime Minister: Royal Thai Police; Internal Security Operations Command (ISOC; oversees counter-insurgency operations, as well as countering terrorism, narcotics and weapons trafficking, and other internal security duties); Ministry of Interior: Volunteer Defense Corps (2021)<br>
 note: the Thai Rangers (aka Thahan Phrahan or 'Hunter Soldiers’) is a paramilitary force formed in 1978 to clear Communist Party of Thailand guerrillas from mountain strongholds in the country's northeast; it is a light infantry force led by regular officers and non-commissioned officers and comprised of both full‐ and part‐time personnel; it conducts counterinsurgency operations in the southern region; on the eastern border with Laos and Cambodia, the Rangers have primary responsibility for border surveillance and protection<br>
 
 **Military expenditures**<br>

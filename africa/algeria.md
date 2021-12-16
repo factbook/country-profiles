@@ -612,8 +612,8 @@ state-run Radio-Television Algerienne operates the broadcast media and carries p
 .dz<br>
 
 **Internet users**<br>
-_total_: 24,819,531<br>
-_percent of population_: 59.58% (July 2018 est.)<br>
+_total_: 26.35 million (2021 est.)<br>
+_percent of population_: 36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,790,459 (2020)<br>

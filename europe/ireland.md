@@ -600,8 +600,8 @@ publicly owned broadcaster Radio Telefis Eireann (RTE) operates&nbsp;4 TV statio
 .ie<br>
 
 **Internet users**<br>
-_total_: 4,283,516<br>
-_percent of population_: 84.52% (July 2018 est.)<br>
+_total_: 4.51 million (2021 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,516,252 (2020)<br>

@@ -607,8 +607,8 @@ _international_: country code - 995; landing points for the Georgia-Russia, Diam
 .ge<br>
 
 **Internet users**<br>
-_total_: 3,151,218<br>
-_percent of population_: 63.97% (July 2018 est.)<br>
+_total_: 2.74 million (2021 est.)<br>
+_percent of population_: 72.53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 997,785 (2020)<br>

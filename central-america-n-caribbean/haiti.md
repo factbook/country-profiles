@@ -601,8 +601,8 @@ _international_: country code - 509; landing points for the BDSNi and Fibralink 
 .ht<br>
 
 **Internet users**<br>
-_total_: 3,503,006<br>
-_percent of population_: 32.47% (July 2018 est.)<br>
+_total_: 4.28 million (2021 est.)<br>
+_percent of population_: 12.33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,100 (2019)<br>

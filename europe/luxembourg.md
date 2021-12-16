@@ -90,7 +90,7 @@ Luxembourger 51.1%, Portuguese 15.7%, French 7.5%, Italian 3.6%, Belgian 3.3%, G
 Luxembourgish (official administrative and judicial language and national language (spoken vernacular)) 55.8%, Portuguese 15.7%, French (official administrative, judicial, and legislative language) 12.1%, German (official administrative and judicial language) 3.1%, Italian 2.9%, English 2.1%, other 8.4% (2011 est.)<br>
 
 **Religions**<br>
-Christian (predominantly Roman Catholic) 70.4%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.5%, none 26.8% (2010 est.)<br>
+Christian (predominantly Roman Catholic) 70.6%, Muslim 2.3%, other (includes Buddhist, folk religions, Hindu, Jewish) 0.4%, unaffiliated 26.7%% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.73% (male 54,099/female 51,004)<br>
@@ -433,6 +433,11 @@ _services_: 78.9% (2013 est.)<br>
 5.36% (2019 est.)<br>
 5.46% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 23.2%<br>
+_male_: 24.8%<br>
+_female_: 21.3% (2020 est.)<br>
+
 **Population below poverty line**<br>
 17.5% (2018 est.)<br>
 
@@ -598,8 +603,8 @@ Luxembourg has a long tradition of operating radio and TV services for pan-Europ
 .lu<br>
 
 **Internet users**<br>
-_total_: 587,955<br>
-_percent of population_: 97.06% (July 2018 est.)<br>
+_total_: 612,100 (2021 est.)<br>
+_percent of population_: 98.82% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 235,155 (2020)<br>

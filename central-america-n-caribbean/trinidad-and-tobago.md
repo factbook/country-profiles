@@ -416,6 +416,11 @@ _services_: 85.4% (2016 est.)<br>
 4.9% (2017 est.)<br>
 4% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.7%<br>
+_male_: 8.9%<br>
+_female_: 8.4% (2016 est.)<br>
+
 **Population below poverty line**<br>
 20% (2014 est.)<br>
 
@@ -554,12 +559,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 343,385<br>
-_subscriptions per 100 inhabitants_: 27.99 (2019 est.)<br>
+_total subscriptions_: 323,905 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.14 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,163,725<br>
-_subscriptions per 100 inhabitants_: 176.36 (2019 est.)<br>
+_total subscriptions_: 1,987,996 (2020)<br>
+_subscriptions per 100 inhabitants_: 142.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent international service; good local service; broadband access; expanded FttP (Fiber to the Home) markets; LTE launch; regulatory development; major growth in mobile telephony and data segments which attacks operation investment in fiber infrastructure; moves to end roaming charges (2020)<br>
@@ -578,8 +583,8 @@ _total_: 939,967<br>
 _percent of population_: 77.33% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 339,340<br>
-_subscriptions per 100 inhabitants_: 27.66 (2019 est.)<br>
+_total_: 375,990 (2020)<br>
+_subscriptions per 100 inhabitants_: 26.87 (2020 est.)<br>
 
 ## Transportation
 
@@ -638,6 +643,9 @@ the TTDF's ground force inventory includes only light weapons, while the Coast G
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (some age variations between services, reserves); no conscription (2021)<br>
+
+**Military - note**<br>
+<p>as of 2021, the primary responsibilities for the TTDF were conducting border and maritime security, providing disaster relief, and countering narcotics trafficking in support of law enforcement</p> <p> </p><br>
 
 ## Transnational Issues
 

@@ -87,10 +87,10 @@ _noun_: Chilean(s)<br>
 _adjective_: Chilean<br>
 
 **Ethnic groups**<br>
-White and non-Indigenous 88.9%, Mapuche 9.1%, Aymara 0.7%, other indigenous groups 1% (includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana), unspecified 0.3% (2012 est.)<br>
+White and non-Indigenous 88.9%, Mapuche 9.1%, Aymara 0.7%, other Indigenous groups 1% (includes Rapa Nui, Likan Antai, Quechua, Colla, Diaguita, Kawesqar, Yagan or Yamana), unspecified 0.3% (2012 est.)<br>
 
 **Languages**<br>
-Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2012 est.)<br>
+Spanish 99.5% (official), English 10.2%, Indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%; note - shares sum to more than 100% because some respondents gave more than one answer on the census (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -308,7 +308,7 @@ _etymology_: Santiago is named after the biblical figure Saint James (ca. A.D. 3
 Independence Day, 18 September (1810)<br>
 
 **Constitution**<br>
-_history_: many previous; latest adopted 11 September 1980, effective 11 March 1981; a referendum held in late October 2020 approved forming a convention to draft a new constitution<br>
+_history_: many previous; latest adopted 11 September 1980, effective 11 March 1981; a referendum held on 25 October 2020 approved forming a convention to draft a new constitution, and on 15-16 May 2021, a referendum was held to elect members to the convention<br>
 _amendments_: proposed by members of either house of the National Congress or by the president of the republic; passage requires at least three-fifths majority vote of the membership in both houses and approval by the president; passage of amendments to constitutional articles, such as the republican form of government, basic rights and freedoms, the Constitutional Tribunal, electoral justice, the Council of National Security, or the constitutional amendment process, requires at least two-third majority vote by both houses of Congress and approval by the president; the president can opt to hold a referendum when Congress and the president disagree on an amendment; amended many times, last in 2020<br>
 
 **Legal system**<br>
@@ -334,9 +334,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <br><em>2021: </em>Jose Antonio KAST (FSC) wins the first round of the presidential election; percent of vote in first round - Jose Antonio KAST (FSC) 27.9%; Gabriel BORIC (AD) 25.8%; Franco PARISI (PDG) 12.8%; Sebastian SICHEL (ChP+) 12.8%; Yasna PROVOSTE (New Social Pact) 11.6%; other 9.1%; KAST and BORIC will participate in the 19 December runoff election<br><em><br>2017:</em> Sebastian PINERA Echenique elected president in second round; percent of vote in first round - Sebastian PINERA Echenique (independent) 36.6%; Alejandro GUILLIER (independent) 22.7%; Beatriz SANCHEZ (independent) 20.3%; Jose Antonio KAST (independent) 7.9%; Carolina GOIC (PDC) 5.9%; Marco ENRIQUEZ-OMINAMI (PRO) 5.7%; other 0.9%; percent of vote in second round - Sebastian PINERA Echenique 54.6%, Alejandro GUILLIER 45.4%<br><br><em>2013:</em> Michelle BACHELET Jeria elected president in runoff; percent of vote - Michelle BACHELET Jeria (PS/New Majority) 62.2%; Evelyn Rose MATTHEI Fornet (UDI/Let's Go Chile Coalition) 37.8%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (43 seats; increases to 50 for 2021 election); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
+_description_: bicameral National Congress or Congreso Nacional consists of:<br>Senate or Senado (50 seats); members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 8-year terms with one-half of the membership renewed every 4 years)<br>Chamber of Deputies or Camara de Diputados (155 seats; members directly elected in multi-seat constituencies by open party-list proportional representation vote to serve 4-year terms)<br>
 _elections_: <br>Senate - last held on 21 November 2021 (next to be held on 23 November 2025)<br>Chamber of Deputies - last held on 21 November 2021 (next to be held on 23 November 2025)<br>
-_election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2;<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1<br>
+_election results_: <br>Senate - percent of vote by party - NA; seats by party - ChP+ 12 (RN 5, UDI 5, EVOPOLI 2), NPS 8 (PS 4, PPD 2, PDC 2), PLR 1, AD 4 (PCCh 2, FREVS 2) independent 2; compostion - men 36, women 14, percent of women 27.9%<br><br>Chamber of Deputies - percent of vote by party - NA; seats by party - ChP+ 53 (RN 25, UDI 23, EVOPOLI 4, PRI 1), AD 37 (PCCh 12, CS 9, RD 8, Commons 6, FREVS 2), NPS 37 (PS 13, PDC 8, PPD 7, PL 4, PRSD 4, CIU 1), FSC 15 (PLR 14, PCC 1), PDG 6, DA 3, PEV 2, IU 1, independent 1; composition - men 100, women 55, percent of women 35.5%; note - overall National Congress percent of women 33.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Corte Suprema (consists of a court president and 20 members or ministros); Constitutional Court (consists of 10 members); Elections Qualifying Court (consists of 5 members)<br>
@@ -615,8 +615,8 @@ national and local terrestrial TV channels, coupled with extensive cable TV netw
 .cl<br>
 
 **Internet users**<br>
-_total_: 14,757,868<br>
-_percent of population_: 82.33% (July 2018 est.)<br>
+_total_: 15.78 million (2021 est.)<br>
+_percent of population_: 82.33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,751,227 (2020)<br>

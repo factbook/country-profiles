@@ -89,17 +89,16 @@ _noun_: Afghan(s)<br>
 _adjective_: Afghan<br>
 
 **Ethnic groups**<br>
-Pashtun, Tajik, Hazara, Uzbek, other (includes smaller numbers of Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, Pashai, and Kyrghyz) (2015)<br>
-<strong>note:</strong> current statistical data on the sensitive subject of ethnicity in Afghanistan are not available, and ethnicity data from small samples of respondents to opinion polls are not a reliable alternative; Afghanistan's 2004 constitution recognizes 14 ethnic groups: Pashtun, Tajik, Hazara, Uzbek, Baloch, Turkmen, Nuristani, Pamiri, Arab, Gujar, Brahui, Qizilbash, Aimaq, and Pashai<br>
+Current reliable statistical data on ethnicity in Afghanistan are not available; Afghanistan's 2004 Constitution cited Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, and Brahwui ethnicities; Afghanistan has dozens of other small ethnic groups<br>
 
 **Languages**<br>
-Afghan Persian or Dari (official) 78% (Dari functions as the lingua franca), Pashto (official) 50%, Uzbek 10%, English 5%, Turkmen 2%, Urdu 2%, Pashayi 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2017 est.)<br>
+Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
 _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note 1:</strong> data represent most widely spoken languages; shares sum to more than 100% because there is much bilingualism in the country and because respondents were allowed to select more than one language
-<br><br><strong>note 2:</strong> the Turkic languages Uzbek and Turkmen, as well as Balochi, Pashayi, Nuristani, and Pamiri are the third official languages in areas where the majority speaks them<br>
+<strong>note 1:</strong> percentages sum toi more than 100% because many people are multilingual
+<br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
 **Religions**<br>
-Muslim 99.7% (Sunni 84.7 - 89.7%, Shia 10 - 15%), other 0.3% (2009 est.)<br>
+Sunni 84.7 - 89.7%, Shia 10 - 15%, other &lt;0.3% (2009 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 40.62% (male 7,562,703/female 7,321,646)<br>
@@ -637,8 +636,8 @@ state-owned broadcaster, Radio Television Afghanistan (RTA), operates a series o
 .af<br>
 
 **Internet users**<br>
-_total_: 4,717,013<br>
-_percent of population_: 13.5% (July 2018 est.)<br>
+_total_: 8.64 million (2021 est.)<br>
+_percent of population_: 13.5% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 19,683<br>

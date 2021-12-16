@@ -369,6 +369,11 @@ _services_: 79% (2008 est.)<br>
 4% (2008)<br>
 4.4% (2004)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 13.8%<br>
+_male_: 16.4%<br>
+_female_: 11.4% (2015 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -515,8 +520,8 @@ _international_: country code - 1-345; landing points for the Maya-1, Deep Blue 
 .ky<br>
 
 **Internet users**<br>
-_total_: 48,328<br>
-_percent of population_: 81.07% (July 2018 est.)<br>
+_total_: 53,600 (2021 est.)<br>
+_percent of population_: 81.07% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 31,232 (2017 est.)<br>

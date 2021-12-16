@@ -340,7 +340,7 @@ _judge selection and term of office_: Supreme Court judges nominated by the Judi
 _subordinate courts_: Courts of Appeal; Basic Courts<br>
 
 **Political parties and leaders**<br>
-Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition)<br>Social Democratic Union of Macedonia or SDSM [Zoran ZAEV]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
+Alliance for Albanians or AfA [Ziadin SELA]<br>Alternative (Alternativa) [Afrim GASHI]<br>Besa Movement [Bilal KASAMI]<br>Democratic Party of Albanians or PDSh [Menduh THACI]<br>Democratic Union for Integration or BDI [Ali AHMETI]<br>Internal Macedonian Revolutionary Organization - Democratic Party for Macedonian National Unity or VMRO-DPMNE [Hristijan MICKOSKI]<br>Internal Macedonian Revolutionary Organization - People's Party or VMRO-NP [Ljubco GEORGIEVSKI]<br>Liberal Democratic Party or LDP [Goran MILEVSKI]<br>Renewal (VMRO-DPMNE coalition)<br>Social Democratic Union of Macedonia or SDSM [Dimitar KOVACHEVSKI]<br>The Left (Levica) [Dimitar APASIEV]<br>Turkish Democratic Party of DPT [Beycan ILYAS]<br>We Can (coalition includes SDSM/Besa/VMRO-NP, DPT, LDP)<br>
 
 **International organization participation**<br>
 BIS, CD, CE, CEI, EAPC, EBRD, EU (candidate country), FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO,&nbsp;OAS (observer), OIF, OPCW, OSCE, PCA, PFP, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -439,6 +439,11 @@ _services_: 54.5% (2017 est.)<br>
 **Unemployment rate**<br>
 17.29% (2019 est.)<br>
 20.7% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 37%<br>
+_male_: 35.2%<br>
+_female_: 40% (2020 est.)<br>
 
 **Population below poverty line**<br>
 21.6% (2018 est.)<br>
@@ -605,8 +610,8 @@ public service TV broadcaster Macedonian Radio and Television operates 3 nationa
 .mk<br>
 
 **Internet users**<br>
-_total_: 1,677,569<br>
-_percent of population_: 79.17% (July 2018 est.)<br>
+_total_: 1.71 million (2021 est.)<br>
+_percent of population_: 81.41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 454,300<br>
@@ -680,7 +685,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 523,033 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 524,176 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

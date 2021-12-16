@@ -92,7 +92,7 @@ _noun_: Mauritanian(s)<br>
 _adjective_: Mauritanian<br>
 
 **Ethnic groups**<br>
-Black Moors (Haratines - Arab-speaking slaves, former slaves, and their descendants of African origin, enslaved by white Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
+Black Moors (Haratines - Arab-speaking descendants of African origin who are or were enslaved by white Moors) 40%, White Moors (of Arab-Berber descent, known as Beydane) 30%, Sub-Saharan Mauritanians (non-Arabic speaking, largely resident in or originating from the Senegal River Valley, including Halpulaar, Fulani, Soninke, Wolof, and Bambara ethnic groups) 30%<br>
 
 **Languages**<br>
 Arabic (official and national), Pular, Soninke, Wolof (all national languages), French; note - the spoken Arabic in Mauritania differs considerably from the modern standard Arabic used for official written purposes or in the media; the Mauritanian dialect, which incorporates many Berber words, is referred to as Hassaniya<br>
@@ -463,6 +463,11 @@ _services_: 48.1% (2014 est.)<br>
 10.2% (2017 est.)<br>
 10.1% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.1%<br>
+_male_: 18.8%<br>
+_female_: 24.9% (2017 est.)<br>
+
 **Population below poverty line**<br>
 31% (2014 est.)<br>
 
@@ -629,8 +634,8 @@ _international_: country code - 222; landing point for the ACE submarine cable f
 .mr<br>
 
 **Internet users**<br>
-_total_: 798,809<br>
-_percent of population_: 20.8% (July 2018 est.)<br>
+_total_: 1.56 million (2021 est.)<br>
+_percent of population_: 20.8% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 19,246 (2020)<br>
@@ -683,7 +688,8 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); National Guard (Ministry of Interior) (2021)<br>
+Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Guard, General Group for Road Safety  (2021)<br>
+note(s) - the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>

@@ -380,6 +380,11 @@ _services_: 85% (2016 est.)<br>
 7% (2017 est.)<br>
 7% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 29.3%<br>
+_male_: 29.7%<br>
+_female_: 29% (2014 est.)<br>
+
 **Population below poverty line**<br>
 11% (2008 est.)<br>
 
@@ -534,8 +539,8 @@ _international_: country code - 1-441; landing points for the GlobeNet, Gemini B
 .bm<br>
 
 **Internet users**<br>
-_total_: 70,016<br>
-_percent of population_: 98.37% (July 2018 est.)<br>
+_total_: 61,200 (2021 est.)<br>
+_percent of population_: 98.37% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,883 (2018)<br>

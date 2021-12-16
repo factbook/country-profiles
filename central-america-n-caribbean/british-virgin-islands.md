@@ -495,8 +495,8 @@ _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep
 .vg<br>
 
 **Internet users**<br>
-_total_: 27,818<br>
-_percent of population_: 77.7% (July 2018 est.)<br>
+_total_: 23,600 (2021 est.)<br>
+_percent of population_: 77.7% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 6,738 (2020)<br>

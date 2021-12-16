@@ -384,6 +384,11 @@ fishing<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 20.6%<br>
+_male_: 9.8%<br>
+_female_: 45.9% (2016)<br>
+
 **Population below poverty line**<br>
 26.3% (2010 est.)<br>
 
@@ -504,11 +509,11 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,978<br>
-_subscriptions per 100 inhabitants_: 17.59 (2019 est.)<br>
+_total subscriptions_: 2,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 17.59 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,911<br>
+_total subscriptions_: 8,000 (2018)<br>
 _subscriptions per 100 inhabitants_: 70.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -528,8 +533,8 @@ _total_: 5,498<br>
 _percent of population_: 49.32% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,000<br>
-_subscriptions per 100 inhabitants_: 9 (2017 est.)<br>
+_total_: 450 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 3.96 (2019 est.)<br>
 
 ## Transportation
 
@@ -558,6 +563,9 @@ _major seaport(s)_: Funafuti<br>
 
 **Military and security forces**<br>
 no regular military forces; Tuvalu Police Force (Ministry of Justice, Communications, and Foreign Affairs)<br>
+
+**Military - note**<br>
+<p>Australia provides support to the Tuvalu Police Force, including donations of patrol boats</p><br>
 
 ## Transnational Issues
 

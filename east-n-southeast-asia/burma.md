@@ -637,8 +637,8 @@ government controls all domestic broadcast media; 2 state-controlled TV stations
 .mm<br>
 
 **Internet users**<br>
-_total_: 17,064,985<br>
-_percent of population_: 30.68% (July 2018 est.)<br>
+_total_: 23.65 million (2021 est.)<br>
+_percent of population_: 30.68% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 129,050 (2018)<br>

@@ -483,8 +483,8 @@ Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a r
 .ms<br>
 
 **Internet users**<br>
-_total_: 2,860<br>
-_percent of population_: 54.6% (July 2016 est.)<br>
+_total_: 2,806 (2021 est.)<br>
+_percent of population_: 54.55% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,700 (2017)<br>

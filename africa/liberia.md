@@ -608,8 +608,8 @@ _international_: country code - 231; landing point for the ACE submarine cable&n
 .lr<br>
 
 **Internet users**<br>
-_total_: 383,819<br>
-_percent of population_: 7.98% (July 2018 est.)<br>
+_total_: 761,000 (2021 est.)<br>
+_percent of population_: 7.98% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 9,000 (2017 est.)<br>

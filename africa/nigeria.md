@@ -480,6 +480,11 @@ _services_: 20% (1999 est.)<br>
 16.5% (2017 est.)<br>
 13.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 18.3%<br>
+_male_: 18.4% NA<br>
+_female_: 18.2% NA (2019 est.)<br>
+
 **Population below poverty line**<br>
 40.1% (2018 est.)<br>
 
@@ -646,8 +651,8 @@ nearly 70 federal government-controlled national and regional TV stations; all 3
 .ng<br>
 
 **Internet users**<br>
-_total_: 85,450,052<br>
-_percent of population_: 42% (July 2018 est.)<br>
+_total_: 104.4 million (2021 est.)<br>
+_percent of population_: 42% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 83,360<br>

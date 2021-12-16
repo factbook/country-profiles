@@ -426,6 +426,11 @@ _services_: 72.7% (2011 est.)<br>
 36% (2006 est.)<br>
 30.9% (2000 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26%<br>
+_male_: 31%<br>
+_female_: 14.2% (2019 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -573,8 +578,8 @@ no TV broadcast station; a cable network is available on Majuro with programming
 .mh<br>
 
 **Internet users**<br>
-_total_: 29,290<br>
-_percent of population_: 38.7% (July 2018 est.)<br>
+_total_: 23,000 (2021 est.)<br>
+_percent of population_: 38.7% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2017 est.)<br>
@@ -622,7 +627,7 @@ _major seaport(s)_: Enitwetak Island, Kwajalein, Majuro<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Marshall Islands Police Department (MIPD)<br>
+no regular military forces; the national police (Marshall Islands Police Department, MIPD), local police forces, and the Sea Patrol (maritime police) maintain internal security; the MIPD and Sea Patrol report to the Ministry of Justice; local police report to their respective local government councils<br>
 
 **Military - note**<br>
 defense is the responsibility of the US<br>

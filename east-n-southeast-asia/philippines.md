@@ -91,7 +91,7 @@ unspecified Filipino (official; based on Tagalog) and English (official); eight 
 _major-language sample(s)_: <br>Ang World Factbook, ang mapagkukunan ng kailangang impormasyon. (Tagalog)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 80.6%, Protestant 8.2% (includes Philippine Council of Evangelical Churches 2.7%, National Council of Churches in the Philippines 1.2%, other Protestant 4.3%), other Christian 3.4%, Muslim 5.6%, tribal religion 0.2%, other 1.9%, none 0.1% (2010 est.)<br>
+Roman Catholic 79.5%, Muslim 6%, Iglesia ni Cristo 2.6%, Evangelical 2.4%, National Council of Churches in the Philippines 1.1%, other 7.4%, none &lt;0.1% (2015 est.)<br>
 
 **Demographic profile**<br>
 <p>The Philippines is an ethnically diverse country that is in the early stages of demographic transition.  Its fertility rate has dropped steadily since the 1950s.  The decline was more rapid after the introduction of a national population program in the 1970s in large part due to the increased use of modern contraceptive methods, but fertility has decreased more slowly in recent years.  The country’s total fertility rate (TFR) – the average number of births per woman – dropped below 5 in the 1980s, below 4 in the 1990s, and below 3 in the 2010s.  TFR continues to be above replacement level at 2.9 and even higher among the poor, rural residents, and the less-educated.  Significant reasons for elevated TFR are the desire for more than two children, in part because children are a means of financial assistance and security for parents as they age, particularly among the poor.</p> <p>The Philippines are the source of one of the world’s largest emigrant populations, much of which consists of legal temporary workers known as Overseas Foreign Workers or OFWs.  As of 2019, there were 2.2 million OFWs.  They work in a wide array of fields, most frequently in services (such as caregivers and domestic work), skilled trades, and construction but also in professional fields, including nursing and engineering.  OFWs most often migrate to Middle Eastern countries, but other popular destinations include Hong Kong, China, and Singapore, as well as employment on ships.  Filipino seafarers make up 35-40% of the world’s seafarers, as of 2014.   Women OFWs, who work primarily in domestic services and entertainment, have outnumbered men since 1992. </p> <p>Migration and remittances have been a feature of Philippine culture for decades.  The government has encouraged and facilitated emigration, regulating recruitment agencies and adopting legislation to protect the rights of migrant workers.  Filipinos began emigrating to the US and Hawaii early in the 20th century.  In 1934, US legislation limited Filipinos to 50 visas per year except during labor shortages, causing emigration to plummet.  It was not until the 1960s, when the US and other destination countries – Canada, Australia, and New Zealand – loosened their immigration policies, that Filipino emigration expanded and diversified.  The government implemented an overseas employment program in the 1970s, promoting Filipino labor to Gulf countries needing more workers for their oil industries.  Filipino emigration increased rapidly.  The government had intended for international migration to be temporary, but a lack of jobs and poor wages domestically, the ongoing demand for workers in the Gulf countries, and new labor markets in Asia continue to spur Philippine emigration.</p><br>
@@ -461,6 +461,11 @@ _services_: 56.3% (2017 est.)<br>
 5.11% (2019 est.)<br>
 5.29% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7%<br>
+_male_: 6.1%<br>
+_female_: 8.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 16.7% (2018 est.)<br>
 
@@ -607,12 +612,12 @@ _electrification - rural areas_: 93% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,255,808<br>
-_subscriptions per 100 inhabitants_: 3.96 (2019 est.)<br>
+_total subscriptions_: 4,255,808 (2019)<br>
+_subscriptions per 100 inhabitants_: 3.94 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 167,322,432<br>
-_subscriptions per 100 inhabitants_: 155.61 (2019 est.)<br>
+_total subscriptions_: 167,322,432 (2019)<br>
+_subscriptions per 100 inhabitants_: 154.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high unemployment and rural population impede investment in fixed infrastructure; dominance in the mobile segment and rapid development of mobile broadband; investment focused on fiber infrastructure in urban areas with 4G available in most areas; national broadband plan to improve connectivity in rural areas underway; data center and smart city pilot in Manila; submarine cable link and satellite improves telecom for the region; major exporter of integrated circuits to China, and importer of circuits and broadcasting equipment from China (2020)<br>
@@ -631,8 +636,8 @@ _total_: 63,588,975<br>
 _percent of population_: 60.05% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,920,087<br>
-_subscriptions per 100 inhabitants_: 5.51 (2019 est.)<br>
+_total_: 5,920,087 (2019)<br>
+_subscriptions per 100 inhabitants_: 5.48 (2019 est.)<br>
 
 ## Transportation
 
@@ -693,7 +698,7 @@ _container port(s) (TEUs)_: Manila (5,315,500) (2019)<br>
 
 **Military and security forces**<br>
 Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air Force (2021)<br>
-note: the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Ministry of Interior and Local Government<br>
+note(s) - the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Ministry of Interior and Local Government<br><br>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
@@ -715,7 +720,7 @@ the AFP is equipped with a mix of imported weapons systems, particularly second-
 18-23 years of age (officers 21-29) for voluntary military service; no conscription (2019)<br>
 
 **Military - note**<br>
-<p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br><br>
+<p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>in addition to its typical roles of patrolling and defending the country's maritime claims, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands; in 2017, the Philippines began conducting joint maritime patrols with Indonesia and Malaysia to counter regional terrorist activities, particularly in the Sulu Sea; the Philippine Marine Corps assists the Army in counterinsurgency operations<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br>
 
 ## Terrorism
 

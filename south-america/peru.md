@@ -479,6 +479,11 @@ _services_: 56.8% (2011)<br>
 6.73% (2018 est.)<br>
 <strong>note:</strong> data are for metropolitan Lima; widespread underemployment<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.6%<br>
+_male_: 13%<br>
+_female_: 12.1% (2020 est.)<br>
+
 **Population below poverty line**<br>
 20.2% (2019 est.)<br>
 
@@ -626,12 +631,12 @@ _electrification - rural areas_: 86% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,728,617 (2018)<br>
-_subscriptions per 100 inhabitants_: 8.53 (2018 est.)<br>
+_total subscriptions_: 3,082,040 (2018)<br>
+_subscriptions per 100 inhabitants_: 9.8 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 42,154,771 (2018)<br>
-_subscriptions per 100 inhabitants_: 131.8 (2018 est.)<br>
+_total subscriptions_: 38,915,400 (2018)<br>
+_subscriptions per 100 inhabitants_: 123.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: economic impact on telcom services during pandemic due to consumer unemployment; good mobile operator competition with LTE services; fixed-line tele-density remains among lowest in South America, with obstacles to growth including widespread poverty, fixed-to-mobile substitution, expensive telephone services, and geographical inaccessibility in the Andean mountains and Amazon jungles; government investment in underserved areas with fiber backbone; government facilitated virtual learning during pandemic via tablets with Internet connectivity; 3G network and new LTE services expanded providing mobile broadband to rural communities, though low penetration still exists; major importer of broadcasting equipment and computers from China (2020)<br>
@@ -736,6 +741,9 @@ the International Maritime Bureau reports the territorial waters of Peru are a r
 
 **Military service age and obligation**<br>
 18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>
 
 ## Terrorism
 

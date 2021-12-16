@@ -618,8 +618,8 @@ government-owned network, Radiodiffusion Television Centrafricaine, provides lim
 .cf<br>
 
 **Internet users**<br>
-_total_: 249,336<br>
-_percent of population_: 4.34% (July 2018 est.)<br>
+_total_: 557,100 (2021 est.)<br>
+_percent of population_: 4.34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 499 (2019)<br>

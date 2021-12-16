@@ -436,7 +436,7 @@ _international_: country code - 1-670; landing points for the Atisa and Mariana-
 .mp<br>
 
 **Internet users**<br>
-_total_: 16,000<br>
+_total_: 14,500 (2021 est.)<br>
 _percent of population_: 30.6% (July 2016 est.)<br>
 
 ## Transportation

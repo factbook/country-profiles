@@ -310,7 +310,7 @@ presidential republic<br>
 **Capital**<br>
 _name_: Ankara<br>
 _geographic coordinates_: 39 56 N, 32 52 E<br>
-_time difference_: UTC+2 (7 hours ahead of Washington, DC, during Standard Time)<br>
+_time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: Ankara has been linked with a second millennium B.C. Hittite cult center of Ankuwash, although this connection is uncertain; in classical and medieval times, the city was known as Ankyra (meaning "anchor" in Greek and reflecting the city's position as a junction for multiple trade and military routes); by about the 13th century the city began to be referred to as Angora; following the establishment of the Republic of Turkey in 1923, the city's name became Ankara<br>
 
 **Administrative divisions**<br>
@@ -359,8 +359,8 @@ _judge selection and term of office_: Constitutional Court members - 3 appointed
 _subordinate courts_: regional appeals courts; basic (first instance) courts; peace courts; aggravated crime courts; specialized courts, including administrative and audit; note - a constitutional amendment in 2017 abolished military courts unless established to investigate military personnel actions during war conditions<br>
 
 **Political parties and leaders**<br>
-Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Sebahat TUNCEL, Mehmet ARSLAN]<br>Felicity Party or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Ishak SAGLAM]<br>Good Party or iYi [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Sezai TEMELLI]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
-<strong>note: </strong> as of December 2018, 83 political parties were legally registered<br>
+Democracy and Progress Party [Ali BABACAN]<br>Democrat Party or DP [Gultekin UYSAL]<br>Democratic Regions Party or DBP [Saliha AYDENIZ, Keskin BAYINDIR]<br>Felicity Party (Saadet Party) or SP [Temel KARAMOLLAOGLU]<br>Free Cause Party or HUDAPAR [Zekeriya YAPICIOGLU]<br>Future Party [Ahmet DAVUTOGLU]<br>IYI Party [Meral AKSENER]<br>Grand Unity Party or BBP [Mustafa DESTICI]<br>Justice and Development Party or AKP [Recep Tayyip ERDOGAN]<br>Nation Alliance (CHP, IYI, SP, DP) (electoral alliance)<br>Nationalist Movement Party or MHP [Devlet BAHCELI]<br>People's Alliance (AKP, MHP, BBP) (electoral alliance)<br>Patriotic Party or VP [Dogu PERINCEK]<br>Peoples' Democratic Party or HDP [Pervin BULDAN, Mithat SANCAR]<br>Republican People's Party or CHP [Kemal KILICDAROGLU]<br>
+<strong>note: </strong> as of September 2021, 116 political parties were legally registered<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CERN (observer), CICA, CPLP (associate observer), D-8, EAPC, EBRD, ECO, EU (candidate country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIC, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, PIF (partner), SCO (dialogue member), SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -463,6 +463,11 @@ _services_: 54.9% (2016)<br>
 **Unemployment rate**<br>
 13.68% (2019 est.)<br>
 11% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 25.1%<br>
+_male_: 22.5%<br>
+_female_: 29.9% (2020 est.)<br>
 
 **Population below poverty line**<br>
 14.4% (2018 est.)<br>
@@ -608,12 +613,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 11,532,903<br>
-_subscriptions per 100 inhabitants_: 14.13 (2019 est.)<br>
+_total subscriptions_: 12,448,604 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.76 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 80,790,877<br>
-_subscriptions per 100 inhabitants_: 98.97 (2019 est.)<br>
+_total subscriptions_: 82,128,104 (2020)<br>
+_subscriptions per 100 inhabitants_: 97.38 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: following earthquake damage to infrastructure in 2020, telecom sector undergoing rapid modernization and expansion, especially in mobile-cellular services; mobile broadband becoming increasingly popular; near saturation of 4G LTE coverage for the population; strides made with 5G through investment by Huawei and Ericcson; fixed and mobile infrastructure will help to underpin Smart City initiatives; tight government control on social media platforms; importer of broadcasting equipment and computers from China (2020)<br>
@@ -632,8 +637,8 @@ _total_: 57,725,143<br>
 _percent of population_: 71.04% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 14,231,978<br>
-_subscriptions per 100 inhabitants_: 17.44 (2019 est.)<br>
+_total_: 16,734,853 (2020)<br>
+_subscriptions per 100 inhabitants_: 19.84 (2020 est.)<br>
 
 ## Transportation
 
@@ -731,7 +736,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Islamic Movement of Uzbekistan; Islam
 <p>complex maritime, air, and territorial disputes with Greece in the Aegean Sea; status of north Cyprus question remains; Turkey has expressed concern over the status of Kurds in Iraq; in 2009, Swiss mediators facilitated an accord reestablishing diplomatic ties between Armenia and Turkey, but neither side has ratified the agreement and the rapprochement effort has faltered; Turkish authorities have complained that blasting from quarries in Armenia might be damaging the medieval ruins of Ani, on the other side of the Arpacay valley</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,735,807 (Syria) (2021)<br>
+_refugees (country of origin)_: 173,250 (Iraq) (asylum seekers), 116,400 (Afghanistan) (asylum seekers), 27,000 (Iran) (asylum seekers) (2020); 3,736,760 (Syria) (2021)<br>
 _IDPs_: 1.099 million (displaced from 1984-2005 because of fighting between the Kurdish PKK and Turkish military; most IDPs are Kurds from eastern and southeastern provinces; no information available on persons displaced by development projects) (2020)<br>
 _stateless persons_: 117 (2018)<br>
 

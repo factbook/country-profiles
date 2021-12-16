@@ -472,6 +472,11 @@ _services_: 21.7% (2015 est.)<br>
 24.5% (2017 est.)<br>
 25% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.4%<br>
+_male_: 7.7%<br>
+_female_: 7.1% (2015 est.)<br>
+
 **Population below poverty line**<br>
 46.1% (2014 est.)<br>
 
@@ -638,8 +643,8 @@ _international_: country code - 258; landing points for the EASSy and SEACOM/ Ta
 .mz<br>
 
 **Internet users**<br>
-_total_: 2,855,670<br>
-_percent of population_: 10% (July 2018 est.)<br>
+_total_: 6.72 million (2021 est.)<br>
+_percent of population_: 10% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 69,975 (2019)<br>
@@ -699,8 +704,8 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force (2021)<br>
-note: the FADM and Ministry of Interior forces are referred to collectively as the Defense and Security Forces (DFS)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals  (2021)<br>
+note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>

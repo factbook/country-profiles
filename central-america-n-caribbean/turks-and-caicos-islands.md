@@ -466,8 +466,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,096<br>
-_subscriptions per 100 inhabitants_: 11.12 (2019 est.)<br>
+_total subscriptions_: 4,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 11.12 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully digital system with international direct dialing; broadband access; expanded FttP (Fiber to the Home) markets; LTE expansion points to investment and focus on data; regulatory development; telecommunication contributes to greatly to GDP (2020)<br>

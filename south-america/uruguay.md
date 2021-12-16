@@ -100,7 +100,7 @@ Spanish (official)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 47.1%, non-Catholic Christians 11.1%, nondenominational 23.2%, Jewish 0.3%, atheist or agnostic 17.2%, other 1.1% (2006 est.)<br>
+Roman Catholic 42%, Protestant 15%, other 6%, agnostic 3%, atheist 10%, unspecified 24% (2014 est.)<br>
 
 **Demographic profile**<br>
 <p>Uruguay rates high for most development indicators and is known for its secularism, liberal social laws, and well-developed social security, health, and educational systems. It is one of the few countries in Latin America and the Caribbean where the entire population has access to clean water. Uruguay's provision of free primary through university education has contributed to the country's high levels of literacy and educational attainment. However, the emigration of human capital has diminished the state's return on its investment in education. Remittances from the roughly 18% of Uruguayans abroad amount to less than 1 percent of national GDP. The emigration of young adults and a low birth rate are causing Uruguay's population to age rapidly.</p><p>In the 1960s, Uruguayans for the first time emigrated en masse - primarily to Argentina and Brazil - because of economic decline and the onset of more than a decade of military dictatorship. Economic crises in the early 1980s and 2002 also triggered waves of emigration, but since 2002 more than 70% of Uruguayan emigrants have selected the US and Spain as destinations because of better job prospects. Uruguay had a tiny population upon its independence in 1828 and welcomed thousands of predominantly Italian and Spanish immigrants, but the country has not experienced large influxes of new arrivals since the aftermath of World War II. More recent immigrants include Peruvians and Arabs.</p><br>
@@ -457,6 +457,11 @@ _services_: 73% (2010 est.)<br>
 7.6% (2017 est.)<br>
 7.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 33.5%<br>
+_male_: 29.4%<br>
+_female_: 38.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 8.8% (2019 est.)<br>
 
@@ -602,12 +607,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,165,373<br>
-_subscriptions per 100 inhabitants_: 34.47 (2019 est.)<br>
+_total subscriptions_: 1,165,373 (2019)<br>
+_subscriptions per 100 inhabitants_: 33.66 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 4,779,787<br>
-_subscriptions per 100 inhabitants_: 141.39 (2019 est.)<br>
+_total subscriptions_: 4,779,787 (2019)<br>
+_subscriptions per 100 inhabitants_: 138.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Uruguay has an advanced telecom market, with excellent infrastructure and one of the highest broadband penetration rates in Latin America; fully digitized; high computer use and fixed-line/mobile penetrations; deployment of fiber infrastructure will encourage economic growth and stimulate e-commerce; state-owned monopoly on fixed-line market and dominance of mobile market; nationwide 3G coverage and LTE networks; limited 5G commercial reach; strong focus on fiber infrastructure with high percentage of residential fixed-broadband connections and near total business connections; importer of broadcasting equipment from China (2020)<br>
@@ -626,7 +631,7 @@ _total_: 2,300,557<br>
 _percent of population_: 68.28% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,012,410<br>
+_total_: 1,012,410 (2019)<br>
 _subscriptions per 100 inhabitants_: 29.95 (2019 est.)<br>
 
 ## Transportation
@@ -699,6 +704,9 @@ the inventory of the Armed Forces of Uruguay includes a wide variety of older or
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>
+
+**Military - note**<br>
+<p>as of 2021, the military had some domestic responsibilities, including perimeter security for a number of prisons and border security; in 2020, the military deployed more than 1,000 troops to assist the National Police in securing the land border with Brazil and the riverine border with Argentina as part of a border control law passed in 2018  </p><br>
 
 ## Transnational Issues
 

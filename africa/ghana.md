@@ -90,7 +90,7 @@ _noun_: Ghanaian(s)<br>
 _adjective_: Ghanaian<br>
 
 **Ethnic groups**<br>
-Akan 45.7%, Mole-Dagbon 18.5%, Ewe 12.8%, Ga-Dangme 7.1%, Gurma 6.4%, Guan 3.2%, Grusi 2.7%, Mande 2%, other 1.6% (2021 est.)<br>
+Akan 45.7%, Mole-Dagbani 18.5%, Ewe 12.8%, Ga-Dangme 7.1%, Gurma 6.4%, Guan 3.2%, Grusi 2.7%, Mande 2%, other 1.6% (2021 est.)<br>
 
 **Languages**<br>
 Asante 16%, Ewe 14%, Fante 11.6%, Boron (Brong) 4.9%, Dagomba 4.4%, Dangme 4.2%, Dagarte (Dagaba) 3.9%, Kokomba 3.5%, Akyem 3.2%, Ga 3.1%, other 31.2% (2010 est.)<br>
@@ -635,8 +635,8 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 .gh<br>
 
 **Internet users**<br>
-_total_: 10,959,964<br>
-_percent of population_: 39% (July 2018 est.)<br>
+_total_: 15.7 million (2021 est.)<br>
+_percent of population_: 39% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 78,371 (2020)<br>

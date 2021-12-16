@@ -356,6 +356,11 @@ _miscellaneous services_: 8% (2006 est.)<br>
 1.1% (2017 est.)<br>
 2% (April 2011 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.1%<br>
+_male_: 11.8%<br>
+_female_: 8.2% (2011 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -416,6 +421,9 @@ national public radio broadcasts over 3 FM stations and 1 AM station; 2 commerci
 
 **Internet country code**<br>
 .im<br>
+
+**Internet users**<br>
+_total_: 63,500 (2021 est.)<br>
 
 ## Transportation
 

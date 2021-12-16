@@ -437,6 +437,11 @@ _services_: 75.3% (2017 est.)<br>
 6.63% (2019 est.)<br>
 7.38% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.4%<br>
+_male_: 23.2%<br>
+_female_: 19.4% (2020 est.)<br>
+
 **Population below poverty line**<br>
 12.2% (2019 est.)<br>
 
@@ -604,8 +609,8 @@ a mix of 3 publicly operated TV stations and numerous privately owned TV station
 note - Aland Islands assigned .ax<br>
 
 **Internet users**<br>
-_total_: 4,922,163<br>
-_percent of population_: 88.89% (July 2018 est.)<br>
+_total_: 5.27 million (2021 est.)<br>
+_percent of population_: 92.17% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1.846 million (2020)<br>

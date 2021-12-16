@@ -425,6 +425,11 @@ _services_: 2,006% (2006 est.)<br>
 1.1% (2011 est.)<br>
 1.1% (2006)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.9%<br>
+_male_: 5.7%<br>
+_female_: 13.1% (2018)<br>
+
 **Population below poverty line**<br>
 22.5% (2010 est.)<br>
 
@@ -570,12 +575,12 @@ _electrification - rural areas_: 98.9% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,637<br>
-_subscriptions per 100 inhabitants_: 6.25 (2019 est.)<br>
+_total subscriptions_: 6,637 (2019)<br>
+_subscriptions per 100 inhabitants_: 6.35 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 62,104<br>
-_subscriptions per 100 inhabitants_: 58.48 (2019 est.)<br>
+_total subscriptions_: 62,104 (2019)<br>
+_subscriptions per 100 inhabitants_: 59.43 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high speed Internet provided by 3 MNOs, has subsequently allowed for better health care services, faster connections for education and growing e-commerce services; in 2018 new 4G LTE network; fixed-line teledensity has dropped given mobile subscriptions; mobile technology dominates given the island's geography; satellite technology is widespread and is important especially in areas away from the city; the launch in 2019 of the Kacific-1 broadband satellite has made broadband more widely available for around 89 remote communities (2020)<br>
@@ -594,8 +599,8 @@ _total_: 43,889<br>
 _percent of population_: 41.25% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,703<br>
-_subscriptions per 100 inhabitants_: 3.49 (2019 est.)<br>
+_total_: 3,703 (2019)<br>
+_subscriptions per 100 inhabitants_: 3.54 (2019 est.)<br>
 
 ## Transportation
 
@@ -644,6 +649,9 @@ the Tonga military's inventory includes mostly light weapons and equipment from 
 
 **Military service age and obligation**<br>
 Volunteers, 18-25; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014</p><br>
 
 ## Transnational Issues
 

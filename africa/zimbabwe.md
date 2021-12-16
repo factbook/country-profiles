@@ -465,6 +465,11 @@ _services_: 25.2% (2017 est.)<br>
 80% (2005 est.)<br>
 <strong>note:</strong> data include both unemployment and underemployment; true unemployment is unknown and, under current economic conditions, unknowable<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 27.5%<br>
+_male_: 25%<br>
+_female_: 31.4% (2019 est.)<br>
+
 **Population below poverty line**<br>
 38.3% (2019 est.)<br>
 
@@ -609,12 +614,12 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 265,734<br>
-_subscriptions per 100 inhabitants_: 1.86 (2019 est.)<br>
+_total subscriptions_: 252,067 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.7 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,195,902<br>
-_subscriptions per 100 inhabitants_: 92.43 (2019 est.)<br>
+_total subscriptions_: 13,191,708 (2020)<br>
+_subscriptions per 100 inhabitants_: 88.76 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: the pandemic, drought, and rising hyperinflation have devastated the economy and hindered foreign investment; regulator extended tax exemption for Huawei, raising concerns of independence; mobile tariffs were increased three times since mid-2019, raising consumer prices; Internet is limited, exacerbated by inadequate electricity; mobile Internet connections make up almost all Internet connections; competition has driven some expansion of the telecommunications sector, though operators warn that lack of government investment will cause further deterioration, especially in rural areas; mobile network operators continue to invest in e-commerce and e-banking; slow progress on national and international fiber backbone network, as well as 3G and LTE mobile-broadband services; international bandwidth through submarine cables via neighboring countries (2020)<br>
@@ -633,8 +638,8 @@ _total_: 3,796,618<br>
 _percent of population_: 27.06% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 204,424<br>
-_subscriptions per 100 inhabitants_: 1.43 (2019 est.)<br>
+_total_: 203,461 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.37 (2020 est.)<br>
 
 ## Transportation
 
@@ -703,7 +708,7 @@ the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equip
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>
 
 **Military - note**<br>
-the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017<br>
+the ZDF was formed after independence from the former Rhodesian Army and the two guerrilla forces that opposed it during the Rhodesian Civil War (aka "Bush War") of the 1970s, the Zimbabwe African National Liberation Army (ZANLA) and the Zimbabwe People's Revolutionary Army (ZIPRA); internal security is a key current responsibility, and the military continues to play an active role in the country&rsquo;s politics since the coup of 2017 (2021)<br>
 
 ## Transnational Issues
 

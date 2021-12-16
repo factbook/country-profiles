@@ -86,11 +86,11 @@ _adjective_: Slovenian<br>
 Slovene 83.1%, Serb 2%, Croat 1.8%, Bosniak 1.1%, other or unspecified 12% (2002 est.)<br>
 
 **Languages**<br>
-Slovene (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 est.)<br>
+Slovene (official) 87.7%, Croatian 2.8%, Serbo-Croatian 1.8%, Bosnian 1.6%, Serbian 1.6%, Hungarian 0.4% (official, only in municipalities where Hungarian national communities reside), Italian 0.2% (official, only in municipalities where Italian national communities reside), other or unspecified 3.9% (2002 est.)<br>
 _major-language sample(s)_: <br>Svetovni informativni zvezek - neobhoden vir osnovnih informacij. (Slovene)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 0.9%, unaffiliated 3.5%, other or unspecified 23%, none 10.1% (2002 est.)<br>
+Catholic 57.8%, Muslim 2.4%, Orthodox 2.3%, other Christian 1%, unaffiliated 3.5%, no response or unspecified 22.8%, none 10.1% (2002 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 14.84% (male 160,134/female 151,960)<br>
@@ -330,9 +330,9 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <em><br>2017:</em> Borut PAHOR is reelected president in second round; percent of vote in first round - Borut PAHOR (independent) 47.1%, Marjan SAREC (Marjan Sarec List) 25%, Romana TOMC (SDS) 13.7%, Ljudmila NOVAK (NSi) 7.2%, other 7%; percent of vote in second round - Borut PAHOR 52.9%, Marjan SAREC 47.1%; Janez JANSA (SDS) elected prime minister on 3 March 2020, National Assembly vote - 52-31<br><br><em>2012:</em> Borut PAHOR elected president; percent of vote in second round - Borut PAHOR (SD) 67.4%, Danilo TURK (independent) 32.6%; note - a snap election was held on 13 July 2014 following the resignation of Prime Minister Alenka BRATUSEK on 5 May 2014; Miro CERAR (SMC) elected prime minister; National Assembly vote - 57 to 11<br>
 
 **Legislative branch**<br>
-_description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br> National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
-_elections_: <br> National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held no later than 2022)<br>
-_election results_: <br> National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%<br>
+_description_: bicameral Parliament consists of:<br>National Council or Drzavni Svet (40 seats; members indirectly elected by an electoral college to serve 5-year terms); note - the Council is primarily an advisory body with limited legislative powers<br>National Assembly or Drzavni Zbor (90 seats; 88 members directly elected in single-seat constituencies by proportional representation vote and 2 directly elected in special constituencies for Italian and Hungarian minorities by simple majority vote; members serve 4-year terms)<br>
+_elections_: <br>National Council - last held on 22 November 2017 (next to be held in 2022)<br>National Assembly - last held on 3 June 2018 (next to be held on 24 April 2022)<br>
+_election results_: <br>National Council - percent of vote by party - NA; seats by party - NA; composition - men 36, women 4, percent of women 10%<br>National Assembly - percent of vote by party - SDS 24.9%, LMS 12.7%, SD 9.9%, SMC 9.8%, Levica 9.3%, NSi 7.1%, Stranka AB 5.1%, DeSUS 4.9%, SNS 4.2%, other 12.1%; seats by party - SDS 25, LMS 13, SD 10, SMC 10, Levica 9, NSi 7, Stranka AB 5, DeSUS 5, SNS 4, Italian and Hungarian minorities 2; composition - men 68, women 22, percent of women 24.4%; note - total Parliament percent of women 20%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 37 judges organized into civil, criminal, commercial, labor and social security, administrative, and registry departments); Constitutional Court (consists of the court president, vice president, and 7 judges)<br>
@@ -440,6 +440,11 @@ _services_: 63.3% (2017 est.)<br>
 **Unemployment rate**<br>
 7.64% (2019 est.)<br>
 8.25% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.2%<br>
+_male_: 12.7%<br>
+_female_: 16.2% (2020 est.)<br>
 
 **Population below poverty line**<br>
 12% (2018 est.)<br>
@@ -586,12 +591,12 @@ NA cu m (2017 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 707,059<br>
-_subscriptions per 100 inhabitants_: 33.63 (2019 est.)<br>
+_total subscriptions_: 704,909 (2020)<br>
+_subscriptions per 100 inhabitants_: 33.91 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 2,511,979<br>
-_subscriptions per 100 inhabitants_: 119.48 (2019 est.)<br>
+_total subscriptions_: 2,550,895 (2020)<br>
+_subscriptions per 100 inhabitants_: 122.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed telecom infrastructure with sound regulatory intervention; increase in Internet community utilizing e-government, e-commerce, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate retaining customers with bundled products; extensive reach of 5G; FttP to 90% of premises; importer of broadcasting equipment from neighboring Central Europe (2020)<br>
@@ -610,8 +615,8 @@ _total_: 1,676,445<br>
 _percent of population_: 79.75% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 627,939<br>
-_subscriptions per 100 inhabitants_: 29.87 (2019 est.)<br>
+_total_: 651,604 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.34 (2020 est.)<br>
 
 ## Transportation
 
@@ -694,7 +699,7 @@ Slovenia officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>533,174 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:  </strong>534,113 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

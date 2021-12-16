@@ -437,6 +437,11 @@ _services_: 67% (2008 est.)<br>
 50% (2017 est.)<br>
 50% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 35.8%<br>
+_male_: 26.6%<br>
+_female_: 71.1% (2011 est.)<br>
+
 **Population below poverty line**<br>
 82.5% (2014 est.)<br>
 
@@ -578,12 +583,12 @@ _electrification - rural areas_: 84% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,843,103<br>
-_subscriptions per 100 inhabitants_: 15.3 (2019 est.)<br>
+_total subscriptions_: 2,892,515 (2020)<br>
+_subscriptions per 100 inhabitants_: 16.53 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 21.115 million<br>
-_subscriptions per 100 inhabitants_: 113.58 (2019 est.)<br>
+_total subscriptions_: 16,660,253 (2020)<br>
+_subscriptions per 100 inhabitants_: 95.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Syria&rsquo;s telecom sector has paid a heavy toll from years of civil war and destruction leading to major disruptions to the network; operators focusing on rebuilding damaged networks, though lack of basic infrastructure, including power and security, hamper efforts; fairly high mobile penetration for region; remote areas rely on expensive satellite communications; mobile broadband infrastructure is predominantly 3G for about 85% of the population with some LTE ; international aid network provides emergency Internet and telecom services when necessary; &nbsp;government restrictions of Internet freedom; major importer of broadcasting equipment from UAE (2020)<br>
@@ -602,8 +607,8 @@ _total_: 6,077,510<br>
 _percent of population_: 34.25% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,490,344<br>
-_subscriptions per 100 inhabitants_: 8.02 (2019 est.)<br>
+_total_: 1,548,100 (2020)<br>
+_subscriptions per 100 inhabitants_: 8.85 (2020 est.)<br>
 
 ## Transportation
 
@@ -662,7 +667,7 @@ _major seaport(s)_: Baniyas, Latakia, Tartus<br>
 
 **Military and security forces**<br>
 Syrian Armed Forces: Syrian Arab Army (includes Republican Guard), Syrian Naval Forces, Syrian Air Forces, Syrian Air Defense Forces, National Defense Forces (pro-government militia and auxiliary forces) (2021)<br>
-note: the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
+note - the Syrian government is working to demobilize militias or integrate them into its regular forces<br>
 
 **Military expenditures**<br>
 not available<br>

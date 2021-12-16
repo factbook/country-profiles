@@ -446,6 +446,11 @@ crude oil production and petroleum refining; small-scale production of cotton te
 27% (2014 est.)<br>
 35% (2003 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 24.5%<br>
+_male_: 23.5%<br>
+_female_: 34.6% (2014 est.)<br>
+
 **Population below poverty line**<br>
 48.6% (2014 est.)<br>
 
@@ -591,11 +596,11 @@ _electrification - rural areas_: 31% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,253,287<br>
-_subscriptions per 100 inhabitants_: 4.28 (2019 est.)<br>
+_total subscriptions_: 1.19 million (2018)<br>
+_subscriptions per 100 inhabitants_: 4.28 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 16,158,028<br>
+_total subscriptions_: 15,297,789 (2018)<br>
 _subscriptions per 100 inhabitants_: 55.18 (2019 est.)<br>
 
 **Telecommunication systems**<br>
@@ -615,8 +620,8 @@ _total_: 7,659,884<br>
 _percent of population_: 26.72% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 386,330<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 386,330 (2018)<br>
+_subscriptions per 100 inhabitants_: 1.68 (2019 est.)<br>
 
 ## Transportation
 

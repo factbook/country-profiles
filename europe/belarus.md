@@ -451,6 +451,11 @@ _services_: 66.8% (2015 est.)<br>
 1% (2016 est.)<br>
 <strong>note:</strong> official registered unemployed; large number of underemployed workers<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.4%<br>
+_male_: 14.3%<br>
+_female_: 10.2% (2020 est.)<br>
+
 **Population below poverty line**<br>
 5% (2019 est.)<br>
 
@@ -615,8 +620,8 @@ _international_: country code - 375; Belarus is landlocked and therefore a membe
 .by<br>
 
 **Internet users**<br>
-_total_: 7,539,145<br>
-_percent of population_: 79.13% (July 2018 est.)<br>
+_total_: 7.82 million (2021 est.)<br>
+_percent of population_: 85.09% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,255,552 (2020)<br>

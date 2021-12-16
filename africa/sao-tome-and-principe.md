@@ -435,6 +435,11 @@ _services_: 52.5% (2014 est.)<br>
 12.2% (2017 est.)<br>
 12.6% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 20.8%<br>
+_male_: NA<br>
+_female_: NA (2012 est.)<br>
+
 **Population below poverty line**<br>
 66.7% (2017 est.)<br>
 
@@ -581,12 +586,12 @@ _electrification - rural areas_: 25% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,784<br>
-_subscriptions per 100 inhabitants_: 2.31 (2019 est.)<br>
+_total subscriptions_: 2,720 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 165,761<br>
-_subscriptions per 100 inhabitants_: 79.9 (2019 est.)<br>
+_total subscriptions_: 174,203 (2020)<br>
+_subscriptions per 100 inhabitants_: 79.49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: local telephone network of adequate quality with most lines connected to digital switches; mobile cellular superior choice to landland; dial-up quality low; broadband expensive (2018)<br>
@@ -605,8 +610,8 @@ _total_: 61,193<br>
 _percent of population_: 29.93% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,642<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 2,512 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.15 (2020 est.)<br>
 
 ## Transportation
 
@@ -653,6 +658,9 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for compulsory military service; 17 is the legal minimum age for voluntary service (2019)<br>
+
+**Military - note**<br>
+<p>the FASTP is one of the smallest militaries in Africa and consists of only a few companies of ground troops and a few small patrol boats; as of 2021, it did not have an air force</p><br>
 
 ## Transnational Issues
 

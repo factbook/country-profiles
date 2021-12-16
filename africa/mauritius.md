@@ -431,6 +431,11 @@ _services_: 62.2% (2014 est.)<br>
 6.65% (2019 est.)<br>
 6.84% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.8%<br>
+_male_: 16.8%<br>
+_female_: 28.4% (2019 est.)<br>
+
 **Population below poverty line**<br>
 10.3% (2017 est.)<br>
 
@@ -593,8 +598,8 @@ the government maintains control over TV broadcasting through the Mauritius Broa
 .mu<br>
 
 **Internet users**<br>
-_total_: 799,470<br>
-_percent of population_: 58.6% (July 2018 est.)<br>
+_total_: 814,500 (2021 est.)<br>
+_percent of population_: 64.88% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 322,100 (2020)<br>
@@ -656,6 +661,9 @@ the MPF's inventory is comprised of mostly second-hand equipment from France, Ge
 
 **Military service age and obligation**<br>
 service is voluntary (2021)<br>
+
+**Military - note**<br>
+<p>as of 2021, the country’s primary security partner was India, and Indian naval vessels often patrol Mauritian waters; the MPF has also received assistance and training from France, the UK, and the US; the MPF’s chief security concerns are piracy and narcotics trafficking</p> <p>the paramilitary Special Mobile Force was created in 1960 following the withdrawal of the British garrison</p><br>
 
 ## Transnational Issues
 

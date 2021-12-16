@@ -444,6 +444,11 @@ meat processing, seafood, soap, beer, leather, sugar, textiles, glassware, cemen
 1.8% (2017 est.)<br>
 1.8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 3.4%<br>
+_male_: 3.9%<br>
+_female_: 3% (2015 est.)<br>
+
 **Population below poverty line**<br>
 70.7% (2012 est.)<br>
 
@@ -610,8 +615,8 @@ state-owned Radio Nationale Malagasy (RNM) and Television Malagasy (TVM) have an
 .mg<br>
 
 **Internet users**<br>
-_total_: 2,516,994<br>
-_percent of population_: 9.8% (July 2018 est.)<br>
+_total_: 5.45 million (2021 est.)<br>
+_percent of population_: 9.8% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 27,211 (2018)<br>

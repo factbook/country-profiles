@@ -345,7 +345,7 @@ _chief of state_: President Adama BARROW (since 19 January 2017); Vice President
 _head of government_: President Adama BARROW (since 19 January 2017); Vice President Isatou TOURAY (since 15 March 2019)<br>
 _cabinet_: Cabinet appointed by the president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (no term limits); election last held on 4 December 2021 (next to be held in 2026); vice president appointed by the president<br>
-_election results_: Adama BARROW re-elected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.77%, Essa M. FAAL (Independent) 2.00%, Abdoulie Ebrima JAMMEH (NUP) 0.96<br><br>Adama BARROW elected president; percent of vote - Adama BARROW (Coalition 2016) 43.3%, Yahya JAMMEH (APRC) 39.6%, Mamma KANDEH (GDC) 17.1%<br>
+_election results_: Adama BARROW reelected president; percent of vote - Adama BARROW (National People's Party) 53.2%, Ousainou DARBOE (United Democratic Party) 27.7%, Mamma KANDEH (GDC)12.3%, Halifa SALLAH (PDOIS) 3.8%, Essa M. FAAL (Independent) 2%, Abdoulie Ebrima JAMMEH (NUP) 0.96%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (58 seats; 53 members directly elected in single-seat constituencies by simple majority vote and 5 appointed by the president; members serve 5-year terms)<br>
@@ -620,8 +620,8 @@ _international_: country code - 220; landing point for the ACE submarine cable t
 .gm<br>
 
 **Internet users**<br>
-_total_: 406,918<br>
-_percent of population_: 19.84% (July 2017 est.)<br>
+_total_: 580,200 (2021 est.)<br>
+_percent of population_: 19.84% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,433 (2018)<br>

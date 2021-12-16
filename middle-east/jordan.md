@@ -628,8 +628,8 @@ radio and TV dominated by the government-owned Jordan Radio and Television Corpo
 .jo<br>
 
 **Internet users**<br>
-_total_: 6,985,174<br>
-_percent of population_: 66.79% (July 2018 est.)<br>
+_total_: 6.84 million (2021 est.)<br>
+_percent of population_: 66.79% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 625,657 (2020)<br>

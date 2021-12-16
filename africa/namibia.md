@@ -99,7 +99,7 @@ Oshiwambo languages 49.7%, Nama/Damara 11%, Kavango languages 10.4%, Afrikaans 9
 <strong>note:</strong> Namibia has 13 recognized national languages, including 10 indigenous African languages and 3 European languages<br>
 
 **Religions**<br>
-Christian 80% to 90% (at least 50% Lutheran), indigenous beliefs 10% to 20%<br>
+Christian 97.5%, other 0.6% (includes Muslim, Baha'i, Jewish, Buddhist), unaffiliated 1.9% (2020 est.)<br>
 
 **Demographic profile**<br>
 <p>Planning officials view Namibia’s reduced population growth rate as sustainable based on the country’s economic growth over the past decade. Prior to independence in 1990, Namibia’s relatively small population grew at about 3% annually, but declining fertility and the impact of HIV/AIDS slowed this growth to 1.4% by 2011, rebounding to close to 2% by 2016. Namibia’s fertility rate has fallen over the last two decades – from about 4.5 children per woman in 1996 to 3.4 in 2016 – due to increased contraceptive use, higher educational attainment among women, and greater female participation in the labor force. The average age at first birth has stayed fairly constant, but the age at first marriage continues to increase, indicating a rising incidence of premarital childbearing.</p><p>The majority of Namibians are rural dwellers (about 55%) and live in the better-watered north and northeast parts of the country. Migration, historically male-dominated, generally flows from northern communal areas – non-agricultural lands where blacks were sequestered under the apartheid system – to agricultural, mining, and manufacturing centers in the center and south. After independence from South Africa, restrictions on internal movement eased, and rural-urban migration increased, bolstering urban growth.</p><p>Some Namibians – usually persons who are better-educated, more affluent, and from urban areas – continue to legally migrate to South Africa temporarily to visit family and friends and, much less frequently, to pursue tertiary education or better economic opportunities. Namibians concentrated along the country’s other borders make unauthorized visits to Angola, Zambia, Zimbabwe, or Botswana, to visit family and to trade agricultural goods. Few Namibians express interest in permanently settling in other countries; they prefer the safety of their homeland, have a strong national identity, and enjoy a well-supplied retail sector. Although Namibia is receptive to foreign investment and cross-border trade, intolerance toward non-citizens is widespread.</p><br>
@@ -468,6 +468,11 @@ _services_: 54% (2013 est.)<br>
 34% (2016 est.)<br>
 28.1% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 38%<br>
+_male_: 37.5%<br>
+_female_: 38.5% (2018 est.)<br>
+
 **Population below poverty line**<br>
 17.4% (2015 est.)<br>
 
@@ -634,8 +639,8 @@ _international_: country code - 264;&nbsp;landing points for the ACE and WACS&nb
 .na<br>
 
 **Internet users**<br>
-_total_: 1,291,944<br>
-_percent of population_: 51% (July 2018 est.)<br>
+_total_: 1.31 million (2021 est.)<br>
+_percent of population_: 51% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 71,063 (2020)<br>
@@ -704,6 +709,9 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (2021)<br>
+
+**Military - note**<br>
+<p>the Namibian Defense Force (NDF) was created in 1990, largely from demobilized former members of the People's Liberation Army of Namibia (PLAN) and the South West Africa Territorial Force (SWATF); PLAN was the armed wing of the South West Africa People’s Organization (SWAPO), while SWATF was an auxiliary of the South African Defense Force and comprised the armed forces of the former South West Africa, 1977-1989; from 1990-1995, the British military assisted with the forming and training the NDF</p><br>
 
 ## Transnational Issues
 

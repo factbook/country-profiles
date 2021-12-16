@@ -635,8 +635,8 @@ state controls all broadcast media with nationwide reach; state-owned Televisao 
 .ao<br>
 
 **Internet users**<br>
-_total_: 4,353,033<br>
-_percent of population_: 14.34% (July 2018 est.)<br>
+_total_: 10.36 million (2021 est.)<br>
+_percent of population_: 36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 230,610 (2020)<br>

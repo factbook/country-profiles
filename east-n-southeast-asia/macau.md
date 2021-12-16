@@ -82,7 +82,7 @@ Cantonese 80.1%, Mandarin 5.5%, other Chinese dialects 5.3%, Tagalog 3%, English
 _major-language sample(s)_: <br> <p>世界概况, 必須擁有的基本資料参考书 (Cantonese)</p> <br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2010 est.)<br>
+folk religion 58.9%, Buddhist 17.3%, Christian 7.2%, other 1.2%, none 15.4% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 13.43% (male 42,449/female 40,051)<br>
@@ -368,6 +368,11 @@ _commerce_: 20.3% (2013 est.)<br>
 2% (2017 est.)<br>
 1.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.1%<br>
+_male_: 9.9%<br>
+_female_: 6.4% (2020 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -532,8 +537,8 @@ local government dominates broadcast media; 2 television stations operated by th
 .mo<br>
 
 **Internet users**<br>
-_total_: 508,052<br>
-_percent of population_: 83.79% (July 2018 est.)<br>
+_total_: 565,600 (2021 est.)<br>
+_percent of population_: 86.47% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 193,057 (2018)<br>

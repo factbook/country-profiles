@@ -307,8 +307,8 @@ _etymology_: the name is associated with that of Kyi, who along with his brother
 
 **Administrative divisions**<br>
 24 provinces (oblasti, singular - oblast'), 1 autonomous republic* (avtonomna respublika), and 2 municipalities** (mista, singular - misto) with oblast status; Cherkasy, Chernihiv, Chernivtsi, Crimea or Avtonomna Respublika Krym* (Simferopol), Dnipropetrovsk (Dnipro), Donetsk, Ivano-Frankivsk, Kharkiv, Kherson, Khmelnytskyi, Kirovohrad (Kropyvnytskyi), Kyiv**, Kyiv, Luhansk, Lviv, Mykolaiv, Odesa, Poltava, Rivne, Sevastopol**, Sumy, Ternopil, Vinnytsia, Volyn (Lutsk), Zakarpattia (Uzhhorod), Zaporizhzhia, Zhytomyr<br>
-<strong>note:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment
-<br><br><strong>note:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
+<strong>note 1:</strong> administrative divisions have the same names as their administrative centers (exceptions have the administrative center name following in parentheses); plans include the eventual renaming of Dnipropetrovsk and Kirovohrad oblasts, but because these names are mentioned in the Constitution of Ukraine, the change will require a constitutional amendment
+<br><br><strong>note 2:</strong> the US Government does not recognize Russia's illegal annexation of Ukraine's Autonomous Republic of Crimea and the municipality of Sevastopol, nor their redesignation as the "Republic of Crimea" and the "Federal City of Sevastopol"<br>
 
 **Independence**<br>
 24 August 1991 (from the Soviet Union); notable earlier dates: ca. 982 (VOLODYMYR I consolidates Kyivan Rus); 1199 (Principality (later Kingdom) of Ruthenia formed); 1648 (establishment of the Cossack Hetmanate); 22 January 1918 (from Soviet Russia)<br>
@@ -355,7 +355,7 @@ _subordinate courts_: Courts of Appeal; district courts<br>
 <strong>note:</strong> specialized courts were abolished as part of Ukraine's judicial reform program; in November 2019, President ZELENSKYY signed a bill on legal reforms<br>
 
 **Political parties and leaders**<br>
-Batkivshchyna (Fatherland) [Yuliya TYMOSHENKO]<br>European Solidarity (BPP-Solidarity) [Petro POROSHENKO] <br>Holos (Voice) [Sviatoslav VAKARCHUK]<br>Opposition Bloc or OB [Evgeny MURAYEV]<br>Opposition Platform-For Life [Yuriy BOYKO, Vadim RABINOVICH]<br>Radical Party [Oleh LYASHKO]<br>Samopomich (Self Reliance) [Andriy SADOVYY]<br>Servant of the People [Oleksandr KORNIENKO]<br>Svoboda (Freedom) [Oleh TYAHNYBOK]<br>
+Batkivshchyna (Fatherland) [Yuliya TYMOSHENKO]<br>European Solidarity (BPP-Solidarity) [Petro POROSHENKO] <br>Holos (Voice) [Kira RUDYK]<br>Opposition Bloc or OB [Evgeny MURAYEV]<br>Opposition Platform-For Life [Yuriy BOYKO, Vadim RABINOVICH]<br>Radical Party [Oleh LYASHKO]<br>Samopomich (Self Reliance) [Andriy SADOVYY]<br>Servant of the People [Oleksandr KORNIENKO]<br>Svoboda (Freedom) [Oleh TYAHNYBOK]<br>
 
 **International organization participation**<br>
 Australia Group, BSEC, CBSS (observer), CD, CE, CEI, CICA (observer), CIS (participating member, has not signed the 1993 CIS charter), EAEC (observer), EAPC, EBRD, FAO, GCTU, GUAM, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NAM (observer), NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, PFP, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -457,6 +457,11 @@ _services_: 67.8% (2014)<br>
 8.89% (2019 est.)<br>
 9.42% (2018 est.)<br>
 <strong>note:</strong> officially registered workers; large number of unregistered or underemployed workers<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 19.3%<br>
+_male_: 19.8%<br>
+_female_: 18.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 1.1% (2019 est.)<br>
@@ -604,12 +609,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 4,182,994<br>
-_subscriptions per 100 inhabitants_: 9.52 (2019 est.)<br>
+_total subscriptions_: 3,314,263 (2020)<br>
+_subscriptions per 100 inhabitants_: 7.94 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 54,842,940<br>
-_subscriptions per 100 inhabitants_: 124.78 (2019 est.)<br>
+_total subscriptions_: 53,977,690 (2020)<br>
+_subscriptions per 100 inhabitants_: 129.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Ukraine&rsquo;s telecom market continues to face challenges resulting from the annexation of Crimea by Russia and unrest in eastern regions; developing telecom market has attracted international investors from Russia, Turkey, and Azerbaijan; government plan emphasizes improvement of domestic trunk lines, international connections, and a national mobile-cellular system; operators moving from 3G services to 4G, but some areas still use 2G; LTE services available in cities; FttP networks taking over DSL platforms; government approved plan in 2020 for 5G migration and operator is developing IoT capabilities; improvement of licensing requirements for operators and positive reforms for users; importer of broadcasting equipment from China (2020)<br>
@@ -618,7 +623,7 @@ _international_: country code - 380; landing point for the Kerch Strait Cable co
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-<p>Ukraine’s media landscape is dominated by oligarch-owned news outlets, which are often politically motivated and at odds with one another and/or the government; while polls suggest most Ukrainians still receive news from traditional media sources, social media is a crucial component of information dissemination in Ukraine; almost all Ukrainian politicians and opinion leaders communicate with the public via social media and maintain at least one social media page, if not more; this allows them direct communication with audiences, and news often breaks on Facebook or Twitter before being picked up by traditional news outlets</p> <p>Ukraine television serves as the principal source of news; the largest national networks are controlled by oligarchs: TRK Ukraina is owned by Rinat Akhmetov; Studio 1+1 is owned by Ihor Kolomoyskyy; Inter is owned by Dmytro Firtash and Serhiy Lyovochkin; and StarlightMedia channels (ICTV, STB, and Novyi Kanal) are owned by Victor Pinchuk;  a set of 24-hour news channels also have clear political affiliations: 112-Ukraine and NewsOne tacitly support pro-Russian opposition and are believed to be controlled by political and business tycoon Viktor Medvedchuk; pro-Ukrainian government Channel 5 and Pryamyi are linked to President Petro Poroshenko; 24 and ZIK are owned by opposition, but not pro-Russian, politicians; UA: Suspilne is a public television station under the umbrella of the National Public Broadcasting Company of Ukraine; while it is often praised by media experts for balanced coverage, it lags in popularity; Ukrainian Radio, institutionally linked to UA: Suspilne, is one of only two national talk radio networks, with the other being the privately owned Radio NV</p> (2019)<br>
+<p>Ukraine’s media landscape is dominated by oligarch-owned news outlets, which are often politically motivated and at odds with one another and/or the government; while polls suggest most Ukrainians still receive news from traditional media sources, social media is a crucial component of information dissemination in Ukraine; almost all Ukrainian politicians and opinion leaders communicate with the public via social media and maintain at least one social media page, if not more; this allows them direct communication with audiences, and news often breaks on Facebook or Twitter before being picked up by traditional news outlets</p> <p>Ukraine television serves as the principal source of news; the largest national networks are controlled by oligarchs: TRK Ukraina is owned by Rinat Akhmetov; Studio 1+1 is owned by Ihor Kolomoyskyy; Inter is owned by Dmytro Firtash and Serhiy Lyovochkin; and StarlightMedia channels (ICTV, STB, and Novyi Kanal) are owned by Victor Pinchuk;  a set of 24-hour news channels also have clear political affiliations: pro-Ukrainian government Channel 5 and Pryamyi are linked to President Petro Poroshenko; 24 is owned by opposition, but not pro-Russian, politicians; UA: Suspilne is a public television station under the umbrella of the National Public Broadcasting Company of Ukraine; while it is often praised by media experts for balanced coverage, it lags in popularity; Ukrainian Radio, institutionally linked to UA: Suspilne, is one of only two national talk radio networks, with the other being the privately owned Radio NV</p> (2021)<br>
 
 **Internet country code**<br>
 .ua<br>
@@ -628,8 +633,8 @@ _total_: 25,883,509<br>
 _percent of population_: 58.89% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,784,185<br>
-_subscriptions per 100 inhabitants_: 15.44 (2019 est.)<br>
+_total_: 7,769,401 (2020)<br>
+_subscriptions per 100 inhabitants_: 18.62 (2020 est.)<br>
 
 **Communications - note**<br>
 a sorting code to expeditiously handle large volumes of mail&nbsp;was first set up in Ukraine (then part of the Soviet Union) in the 1930s; the sophisticated, three-part (number-letter-number) postal code system, referred to as an "index," was the world's first postal zip code; the system functioned well and was in use from 1932 to 1939 when it was abruptly discontinued<br>

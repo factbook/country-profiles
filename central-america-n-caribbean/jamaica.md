@@ -601,8 +601,8 @@ _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, 
 .jm<br>
 
 **Internet users**<br>
-_total_: 1,548,618<br>
-_percent of population_: 55.07% (July 2018 est.)<br>
+_total_: 1.63 million (2021 est.)<br>
+_percent of population_: 55.07% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 385,603 (2020)<br>

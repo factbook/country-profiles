@@ -441,6 +441,11 @@ _services_: 73.4% (2015)<br>
 5% (2019 est.)<br>
 5.42% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 19.4%<br>
+_male_: 18.3%<br>
+_female_: 21.2% (2020 est.)<br>
+
 **Population below poverty line**<br>
 11.9% (2018 est.)<br>
 
@@ -586,12 +591,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 675,297<br>
-_subscriptions per 100 inhabitants_: 12.41 (2019 est.)<br>
+_total subscriptions_: 616,148 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.29 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,399,534<br>
-_subscriptions per 100 inhabitants_: 135.96 (2019 est.)<br>
+_total subscriptions_: 7,289,707 (2020)<br>
+_subscriptions per 100 inhabitants_: 133.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a modern telecom system; one operator has near monopoly of fixed-line market; competition in mobile- and fixed-broadband market; broadband growth in recent years; competition among DSL, cable, and fiber platforms; FttP growth in cities; operator launched 1Gb/s cable broadband service in 3 cities and 200,000 premises in 2019; EU funding for development and improvement of e-government and online services; regulator prepared groundwork for 5G services in 2020 (2020)<br>
@@ -610,8 +615,8 @@ _total_: 4,391,969<br>
 _percent of population_: 80.66% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,585,092<br>
-_subscriptions per 100 inhabitants_: 29.12 (2019 est.)<br>
+_total_: 1,701,561 (2020)<br>
+_subscriptions per 100 inhabitants_: 31.17 (2020 est.)<br>
 
 ## Transportation
 

@@ -466,6 +466,11 @@ _services_: 22% (2013 est.)<br>
 **Unemployment rate**<br>
 9.4% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 15.6%<br>
+_male_: 13.8%<br>
+_female_: 17.6% (2017 est.)<br>
+
 **Population below poverty line**<br>
 21.4% (2016 est.)<br>
 
@@ -707,7 +712,7 @@ the UPDF's inventory is mostly older Russian/Soviet-era equipment with a limited
 18-25 years of age for voluntary military duty (must be single, no children); 9-year service obligation (2019)<br>
 
 **Military - note**<br>
-<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates; during the 2020 election cycle, senior UPDF officer said that the military would not obey a non-NRM political leader</p> <p>the UPDF has conducted operations in the Democratic Republic of the Congo against a Congo-based Ugandan rebel group, the Allied Democratic Forces (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); beginning in 2012, the UPDF also led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020</p><br>
+<p>the UPDF, which is constitutionally granted seats in parliament, is widely viewed as a key constituency for MUSEVENI; it has been used by MUSEVENI and the NRM to break up rallies, raid opposition offices, and surveil rival candidates</p> <p>the UPDF has conducted operations in the Democratic Republic of the Congo against a Congo-based Ugandan rebel group, the Allied Democratic Forces (ADF), which was designated as a Foreign Terrorist Organization by the US State Department in March 2021 as the Islamic State of Iraq and ash-Sham in the Democratic Republic of the Congo (ISIS-DRC; see the Terrorist Group Appendix); beginning in 2012, the UPDF also led regional efforts to pursue the Lord’s Resistance Army (LRA), a small, violent group of Ugandan origin that conducted widespread attacks against civilians in much of Central Africa; the UPDF withdrew from the mission in 2017 after declaring that the LRA no longer posed a security threat</p> <p>Uganda intervened in the South Sudan civil war in 2013-2016 and UPDF forces have clashed with South Sudanese forces along the border as recently as 2020</p><br>
 
 ## Terrorism
 

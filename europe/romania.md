@@ -338,7 +338,7 @@ _chief of state_: President Klaus Werner IOHANNIS (since 21 December 2014)<br>
 _head of government_: Prime Minister Nicolae CIUCA (since 25 November 2021); Deputy Prime Ministers Sorin GRINDEANU (since 25 November 2021) and Kelemen HUNOR (since 23 December 2020)<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on&nbsp;10 November 2019 with a runoff on&nbsp;24 November 2019 (next to be held&nbsp;in November 2024); prime minister appointed by the president with consent of Parliament<br>
-_election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%,&nbsp;Viorica DANCILA (PSD) 33.9%; Ludovic ORBAN approved as prime minister with 240 votes<br>
+_election results_: Klaus IOHANNIS reelected president in second round; percent of vote - Klaus IOHANNIS (PNL) 66.1%, Viorica DANCILA (PSD) 33.9%; Nicolae CIUCA approved as prime minister with 318 votes<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlament consists of:<br>Senate or Senat (136 seats; members directly elected in single- and multi-seat constituencies - including 2 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>Chamber of Deputies or Camera Deputatilor (330 seats; members directly elected in single- and multi-seat constituencies - including 4 seats for diaspora - by party-list, proportional representation vote; members serve 4-year terms)<br>
@@ -351,13 +351,13 @@ _judge selection and term of office_: High Court of Cassation and Justice judges
 _subordinate courts_: Courts of Appeal; regional tribunals; first instance courts; military and arbitration courts<br>
 
 **Political parties and leaders**<br>
-2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS]<br>Alliance for the Unity of Romanians [George SIMION and Claudiu TARZIU]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Greater Romania Party or PRM [Adrian POPESCU]<br>M10 Party [Ioana CONSTANTIN]<br>National Liberal Party or PNL [Ludovic ORBAN]<br>New Romania Party or PNR [Sebastian POPESCU]<br>Our Romania Alliance [Marian MUNTEANU]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS]<br>Party of the Alliance of Liberals and Democrats or ALDE [Calin POPESCU TARICEANU]<br>Popular Movement Party or PMP [Traian BASESCU]<br>Romanian Social Party or PSRo [Mircea GEOANA]<br>Save Romania Union Party or Partidul USR [Dan BARNA]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>United Romania Party or PRU [Robert BUGA]<br>
+2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS] (dissolved 16 April 2021)<br>Alliance for the Fatherland or APP [Codrin STEFANESCU]<br>Alliance for the Unity of Romanians or AUR [George SIMION and Claudiu TARZIU]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Greater Romania Party or PRM [Victor IOVICI]<br>Green Party [Florin CALINESCU]<br>Liberal Force [Ludovic ORBAN]<br>National Liberal Party or PNL [Florin CITU]<br>Our Romania Alliance [Marian MUNTEANU]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS] (dissolved 16 April 2021)<br>Party of the Alliance of Liberals and Democrats or ALDE [Calin POPESCU TARICEANU]<br>Party of the Humanist Power-Social Liberal or PPU-SL [Daniel IONASCU]<br>Party of the Romanian Nation [Ninel PEIA]<br>Popular Movement Party or PMP [Cristian DIACONESCU]<br>PRO Romania [Victor PONTA]<br>Save Romania Union Party or USR [Dacian CIOLOS]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>United Romania Party or PRU [Robert BUGA]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Cristian GAGINSKY (since 19 June 2021)<br>
+_chief of mission_: Ambassador Andrei MURARU (since 15 September 2021)<br>
 _chancery_: 1607 23rd Street NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 332-4829; [1] (202) 332-4846<br>
 _FAX_: [1] (202) 232-4748<br>
@@ -452,6 +452,11 @@ _services_: 42.8% (2014)<br>
 **Unemployment rate**<br>
 3.06% (2019 est.)<br>
 3.56% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 17.3%<br>
+_male_: 17.9%<br>
+_female_: 16.5% (2020 est.)<br>
 
 **Population below poverty line**<br>
 23.8% (2018 est.)<br>
@@ -598,12 +603,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3.38 million<br>
-_subscriptions per 100 inhabitants_: 15.8 (2019 est.)<br>
+_total subscriptions_: 3.025 million (2020)<br>
+_subscriptions per 100 inhabitants_: 15.72 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22.671 million<br>
-_subscriptions per 100 inhabitants_: 106 (2019 est.)<br>
+_total subscriptions_: 22.592 million (2020)<br>
+_subscriptions per 100 inhabitants_: 117.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Romania&rsquo;s telecom sector benefits from infrastructure-based competition; domestic and international service improving rapidly, especially mobile-cellular services; fiber sector is one of strongest in Europe; government secured EU funding to extend broadband to rural areas; operators invest in networks&rsquo; capacity upgrades; operator testing IoT; importer of broadcasting equipment from EU neighbors (2020)<br>
@@ -622,8 +627,8 @@ _total_: 15,165,890<br>
 _percent of population_: 70.68% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,277,700<br>
-_subscriptions per 100 inhabitants_: 24.68 (2019 est.)<br>
+_total_: 5.685 million (2020)<br>
+_subscriptions per 100 inhabitants_: 29.55 (2020 est.)<br>
 
 ## Transportation
 
@@ -719,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 8,699 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 8,858 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

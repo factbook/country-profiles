@@ -469,6 +469,11 @@ _industry and services_: 22.5% (2007 est.)<br>
 **Unemployment rate**<br>
 48% (2007 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 4.1%<br>
+_male_: 2.9%<br>
+_female_: 6.7% (2019 est.)<br>
+
 **Population below poverty line**<br>
 46.7% (2011 est.)<br>
 
@@ -612,12 +617,12 @@ _electrification - rural areas_: 50% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 207,592<br>
-_subscriptions per 100 inhabitants_: 1.35 (2019 est.)<br>
+_total subscriptions_: 207,592 (2019)<br>
+_subscriptions per 100 inhabitants_: 1.27 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 17,880,594<br>
-_subscriptions per 100 inhabitants_: 116.37 (2019 est.)<br>
+_total subscriptions_: 19,078,948 (2020)<br>
+_subscriptions per 100 inhabitants_: 114 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: universal mobile penetration since 2019; mobile broadband accounts for 97% of Internet access; 3G and LTE services for half of the population; African consortium issued a bond to finance network upgrades and services; importer of broadcasting equipment from UAE and China (2020)<br>
@@ -636,8 +641,8 @@ _total_: 6,909,635<br>
 _percent of population_: 46% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 152,047<br>
-_subscriptions per 100 inhabitants_: 1 (2018 est.)<br>
+_total_: 177,363 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.06 (2020 est.)<br>
 
 ## Transportation
 
@@ -712,6 +717,9 @@ note - in 2021, Senegal also had over 700 police deployed on UN missions<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; 20 years of age for selective conscript service; 2-year service obligation; women have been accepted into military service since 2008 (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, Senegalese security forces continued to be engaged in a low-level counterinsurgency campaign in the southern Casamance region against various factions of the separatist Movement of Democratic Forces of the Casamance; while violent incidents have decreased since a tacit cease-fire was reached in 2012, the insurgency, which began in 1982, remains one of longest running low-level conflicts in the world, claiming more than 5,000 lives and leaving another 60,000 displaced</p><br>
 
 ## Terrorism
 

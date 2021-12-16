@@ -591,12 +591,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,553,310<br>
-_subscriptions per 100 inhabitants_: 11.73 (2019 est.)<br>
+_total subscriptions_: 3,550,069 (2020)<br>
+_subscriptions per 100 inhabitants_: 10.61 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 33.38 million<br>
-_subscriptions per 100 inhabitants_: 110.15 (2019 est.)<br>
+_total subscriptions_: 33.387 million (2020)<br>
+_subscriptions per 100 inhabitants_: 99.75 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: land-locked, authoritarian state with government grip on ICT technology and no integrated plan; government plans to develop infrastructure to improve geographical disparities in service; increased investment in infrastructure, with aims of expanding subscriber base and rising revenue; some villages have no connectivity, and 70% have 2G with development of 3G and 4G; free WiFi spots across country to boost tourism; Russian operator invested in joint venture on mobile services; government in discussion with Huawei on additional ventures; digital exchanges in large cities and some rural areas; fixed-line is underdeveloped due to preeminence of mobile market; introduction of prepaid Internet has contributed to home Internet usage; consumers largely reliant on terrestrial links and VSAT networks; media controlled by state; importer of broadcasting equipment from China (2020)<br>
@@ -615,8 +615,8 @@ _total_: 15,705,402<br>
 _percent of population_: 52.31% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,597,265<br>
-_subscriptions per 100 inhabitants_: 15.17 (2019 est.)<br>
+_total_: 4,820,009 (2020)<br>
+_subscriptions per 100 inhabitants_: 14.4 (2020 est.)<br>
 
 ## Transportation
 
@@ -682,6 +682,9 @@ the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory military service; 1-year conscript service obligation for males (conscripts have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2019)<br>
+
+**Military - note**<br>
+<p>the Uzbek armed forces were established in January 1992, following the dissolution of the Soviet Union, when the newly-established Ministry for Defense Affairs assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995; as of 2021, Uzbekistan continued to maintain bilateral defense ties with Russia based on a 2005 mutual security agreement</p> <p>as of 2021, Uzbekistan was not part of the Russian-sponsored Collective Security Treaty Organization (CSTO) that is comprised of former Soviet Republics; Uzbekistan joined in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012</p><br>
 
 ## Terrorism
 

@@ -95,7 +95,7 @@ _noun_: Indian(s)<br>
 _adjective_: Indian<br>
 
 **Ethnic groups**<br>
-Indo-Aryan 72%, Dravidian 25%, Mongoloid and other 3% (2000)<br>
+Indo-Aryan 72%, Dravidian 25%, and other 3% (2000)<br>
 
 **Languages**<br>
 Hindi 43.6%, Bengali 8%, Marathi 6.9%, Telugu 6.7%, Tamil 5.7%, Gujarati 4.6%, Urdu 4.2%, Kannada 3.6%, Odia 3.1%, Malayalam 2.9%, Punjabi 2.7%, Assamese 1.3%, Maithili 1.1%, other 5.6%; note - English enjoys the status of subsidiary official language but is the most important language for national, political, and commercial communication; there are 22 other officially recognized languages: Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu; Hindustani is a popular variant of Hindi/Urdu spoken widely throughout northern India but is not an official language (2011 est.)<br>
@@ -653,8 +653,8 @@ Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasti
 .in<br>
 
 **Internet users**<br>
-_total_: 446,759,327<br>
-_percent of population_: 34.45% (July 2018 est.)<br>
+_total_: 624 million (2021 est.)<br>
+_percent of population_: 34.45% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 22.29 million (2020)<br>

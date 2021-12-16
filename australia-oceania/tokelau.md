@@ -369,8 +369,8 @@ New Zealand dollars (NZD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 300<br>
-_subscriptions per 100 inhabitants_: 21 (July 2016 est.)<br>
+_total subscriptions_: 0 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern satellite-based communications system; demand for mobile broadband increasing due to mobile services being the method of access for Internet across the region; 2G widespread with some 4G LTE service; satellite services has improved with the launch of the Kacific-1 satellite launched in 2019 (2020)<br>

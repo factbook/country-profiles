@@ -437,6 +437,11 @@ _services_: 80.1% (2013 est.)<br>
 5.36% (2019 est.)<br>
 5.96% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 15.3%<br>
+_male_: 15.5%<br>
+_female_: 15.1% (2020 est.)<br>
+
 **Population below poverty line**<br>
 14.8% (2018 est.)<br>
 
@@ -602,8 +607,8 @@ a segmented market with the three major communities (Flemish, French, and German
 .be<br>
 
 **Internet users**<br>
-_total_: 10,258,638<br>
-_percent of population_: 88.66% (July 2018 est.)<br>
+_total_: 10.57 million (2021 est.)<br>
+_percent of population_: 91.52% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,734,210 (2020)<br>

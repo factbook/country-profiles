@@ -628,8 +628,8 @@ about 60 media outlets are recognized as national; the Ecuadorian Government con
 .ec<br>
 
 **Internet users**<br>
-_total_: 9,448,692<br>
-_percent of population_: 57.27% (July 2018 est.)<br>
+_total_: 10.17 million (2021 est.)<br>
+_percent of population_: 57.27% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,346,923 (2020)<br>

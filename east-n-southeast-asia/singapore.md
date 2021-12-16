@@ -437,6 +437,11 @@ _services_: 73.7% (2017)<br>
 2.25% (2019 est.)<br>
 2.1% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.6%<br>
+_male_: 8.1%<br>
+_female_: 13.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -583,12 +588,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,911,200<br>
-_subscriptions per 100 inhabitants_: 33.22 (2019 est.)<br>
+_total subscriptions_: 1,891,600 (2020)<br>
+_subscriptions per 100 inhabitants_: 32.33 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,034,300<br>
-_subscriptions per 100 inhabitants_: 157.02 (2019 est.)<br>
+_total subscriptions_: 8,427,500 (2020)<br>
+_subscriptions per 100 inhabitants_: 144.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; operators proceeded with investment programs, particularly in 5G standalone networks; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers, controls Internet content, and regulators lack independence; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2020)<br>
@@ -607,8 +612,8 @@ _total_: 5,286,665<br>
 _percent of population_: 88.17% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1.504 million<br>
-_subscriptions per 100 inhabitants_: 26.14 (2019 est.)<br>
+_total_: 1,517,600 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.94 (2020 est.)<br>
 
 ## Transportation
 

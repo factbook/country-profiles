@@ -391,6 +391,11 @@ _services_: 66.3% (September 2013 est.)<br>
 8.1% (2017 est.)<br>
 8.6% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 27.4%<br>
+_male_: 21.4%<br>
+_female_: 36% (2016 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -462,12 +467,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 16,000<br>
-_subscriptions per 100 inhabitants_: 47.03 (2019 est.)<br>
+_total subscriptions_: 16,000 (2019)<br>
+_subscriptions per 100 inhabitants_: 47.25 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 38,750<br>
-_subscriptions per 100 inhabitants_: 113.91 (2019 est.)<br>
+_total subscriptions_: 38,750 (2019)<br>
+_subscriptions per 100 inhabitants_: 114.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: automatic telephone system completely integrated into Italian system (2018)<br>
@@ -486,8 +491,8 @@ _total_: 20,328<br>
 _percent of population_: 60.18% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 11,081<br>
-_subscriptions per 100 inhabitants_: 32.57 (2019 est.)<br>
+_total_: 11,081 (2019)<br>
+_subscriptions per 100 inhabitants_: 32.73 (2019 est.)<br>
 
 ## Transportation
 

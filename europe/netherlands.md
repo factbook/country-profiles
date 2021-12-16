@@ -452,6 +452,11 @@ _services_: 81.6% (2015 est.)<br>
 3.41% (2019 est.)<br>
 3.84% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 9.1%<br>
+_male_: 9.2%<br>
+_female_: 9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 13.6% (2019 est.)<br>
 
@@ -618,8 +623,8 @@ more than 90% of households are connected to cable or satellite TV systems that 
 .nl<br>
 
 **Internet users**<br>
-_total_: 16,243,928<br>
-_percent of population_: 94.71% (July 2018 est.)<br>
+_total_: 16.47 million (2021 est.)<br>
+_percent of population_: 91.33% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,525,016 (2020)<br>

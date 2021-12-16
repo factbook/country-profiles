@@ -596,8 +596,8 @@ state-owned TV broadcaster operates 4 networks and a satellite channel; several 
 .kw<br>
 
 **Internet users**<br>
-_total_: 2,904,801<br>
-_percent of population_: 99.6% (July 2018 est.)<br>
+_total_: 4.26 million (2021 est.)<br>
+_percent of population_: 98.6% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 73,948 (2020)<br>

@@ -383,6 +383,11 @@ NA<br>
 23% (2011 est.)<br>
 90% (2004 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.6%<br>
+_male_: 20.9%<br>
+_female_: 37.5% (2013)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -538,8 +543,8 @@ _international_: country code - 674; satellite earth station - 1 Intelsat (Pacif
 .nr<br>
 
 **Internet users**<br>
-_total_: 5,524<br>
-_percent of population_: 57% (July 2018 est.)<br>
+_total_: 6,771 (2021 est.)<br>
+_percent of population_: 57% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 950 (2010)<br>
@@ -578,7 +583,7 @@ _major seaport(s)_: Nauru<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces<br>
+no regular military forces; the police force, under the Minister for Police and Emergency Services, maintains internal security and, as necessary, external security<br>
 
 **Military - note**<br>
 Nauru maintains no defense forces; under an informal agreement, defense is the responsibility of Australia<br>

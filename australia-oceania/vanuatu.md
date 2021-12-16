@@ -414,6 +414,11 @@ _services_: 30% (2000 est.)<br>
 **Unemployment rate**<br>
 1.7% (1999 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 18%<br>
+_male_: 16.1%<br>
+_female_: 20.1% (2019 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -557,12 +562,12 @@ _electrification - rural areas_: 51.1% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,809<br>
-_subscriptions per 100 inhabitants_: 1.3 (2019 est.)<br>
+_total subscriptions_: 3,472 (2020)<br>
+_subscriptions per 100 inhabitants_: 1.13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 265,219<br>
-_subscriptions per 100 inhabitants_: 90.56 (2019 est.)<br>
+_total subscriptions_: 246,232 (2020)<br>
+_subscriptions per 100 inhabitants_: 80.17 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: liberalized telecom services; mobile phones are primary means of communication; LTE services and rural satellite broadband services; mobile phone use in some rural areas is constrained by electricity shortages; investment in fixed-broadband infrastructure and installation of fiber-optic cables supported sector growth; mobile broadband infrastructure expanded in 2020, resulting in reduced consumer prices; Kacific-1 broadband satellite has improved broadband capacity and access since 2019; importer of broadcasting equipment from China (2020)<br>
@@ -581,8 +586,8 @@ _total_: 74,083<br>
 _percent of population_: 25.72% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 7,888<br>
-_subscriptions per 100 inhabitants_: 2.69 (2019 est.)<br>
+_total_: 2,785 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 
@@ -625,6 +630,9 @@ _major seaport(s)_: Forari Bay, Luganville (Santo, Espiritu Santo), Port-Vila<br
 
 **Military and security forces**<br>
 no regular military forces; Vanuatu Police Force (VPF; includes Vanuatu Mobile Force (VMF) and Police Maritime Wing (VPMW)) (2021)<br>
+
+**Military - note**<br>
+<p>the separate British and French police forces were unified in 1980 under Ni-Vanuatu officers as the New Hebrides Constabulary; the force retained some British and French officers as advisors; the Constabulary was subsequently renamed the Vanuatu Police Force later in 1980</p> <p>as of 2021, the Vanuatu Mobile Force had received training and other support from Australia, China, France, New Zealand, and the US</p><br>
 
 ## Transnational Issues
 

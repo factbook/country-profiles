@@ -615,8 +615,8 @@ _international_: country code - 420; satellite earth stations - 6 (2 Intersputni
 .cz<br>
 
 **Internet users**<br>
-_total_: 8,622,750<br>
-_percent of population_: 80.69% (July 2018 est.)<br>
+_total_: 9.43 million (2021 est.)<br>
+_percent of population_: 81.34% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,802,644 (2020)<br>

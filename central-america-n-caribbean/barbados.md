@@ -581,8 +581,8 @@ government-owned Caribbean Broadcasting Corporation (CBC) operates the lone terr
 .bb<br>
 
 **Internet users**<br>
-_total_: 239,664<br>
-_percent of population_: 81.76% (July 2018 est.)<br>
+_total_: 235,100 (2021 est.)<br>
+_percent of population_: 81.76% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 106,803 (2019)<br>

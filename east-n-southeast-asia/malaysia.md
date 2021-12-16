@@ -450,6 +450,11 @@ _services_: 53% (2012 est.)<br>
 3.3% (2019 est.)<br>
 3.33% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12%<br>
+_male_: 11.4%<br>
+_female_: 13% (2020 est.)<br>
+
 **Population below poverty line**<br>
 5.6% (2018 est.)<br>
 
@@ -615,8 +620,8 @@ state-owned TV broadcaster operates 2 TV networks with relays throughout the cou
 .my<br>
 
 **Internet users**<br>
-_total_: 25,829,444<br>
-_percent of population_: 81.2% (July 2018 est.)<br>
+_total_: 27.43 million (2021 est.)<br>
+_percent of population_: 89.56% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,358,800 (2020)<br>
@@ -673,7 +678,7 @@ _total_: 1,769<br>
 _by type_: bulk carrier 16, container ship 28, general cargo 174, oil tanker 153, other 1,398 (2021)<br>
 
 **Ports and terminals**<br>
-_major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Port Kelang (Port Klang), Tanjung Pelepas<br>
+_major seaport(s)_: Bintulu, Johor Bahru, George Town (Penang), Pelabuhan Klang (Port Klang), Tanjung Pelepas<br>
 _container port(s) (TEUs)_: Port Kelang (Port Klang) (13,580,717), Tanjung Pelepas (9,100,000) (2019)<br>
 _LNG terminal(s) (export)_: Bintulu (Sarawak)<br>
 _LNG terminal(s) (import)_: Sungei Udang<br>

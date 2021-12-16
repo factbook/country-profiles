@@ -464,6 +464,11 @@ _other services_: 17.6% (2009)<br>
 3.89% (2018 est.)<br>
 4.4% (2017 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.9%<br>
+_male_: 15%<br>
+_female_: 14.8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 15.1% (2010 est.)<br>
 
@@ -607,12 +612,12 @@ NA bbl (1 January 2018 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 107.568 million<br>
-_subscriptions per 100 inhabitants_: 32.77 (2019 est.)<br>
+_total subscriptions_: 103.052 million (2020)<br>
+_subscriptions per 100 inhabitants_: 31.13 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 442.457 million<br>
-_subscriptions per 100 inhabitants_: 134.8 (2019 est.)<br>
+_total subscriptions_: 442.457 million (2019)<br>
+_subscriptions per 100 inhabitants_: 134.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a large, technologically advanced, multipurpose communications system; reliable Internet available for most of the population though challenges remain in rural areas and tribal lands; concentration among industry operators; saturated mobile subscriber penetration rate; national LTE-M services with reassignment of 2G spectrum for 5G, centered in urban areas; operators signed alliance to develop 6G in line with technology standards, and government policies; almost all citizens have access to both fixed-line and mobile-broadband services; government fund to connect 5.3 million residences and businesses in rural areas; in pandemic, emergency funding for Internet and devices related to education; cooperative approach to e-commerce, health, education, and energy with smart city technology in several areas; federal subsidies to private satellite Internet constellation with aims for fast, world-wide connections; government policy designated Chinese companies Huawei and ZTE as national security threats and restricted partnership; importer of broadcasting equipment from China with export of same to Hong Kong (2020)<br>
@@ -631,8 +636,8 @@ _total_: 285,519,020<br>
 _percent of population_: 87.27% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 114.259 million<br>
-_subscriptions per 100 inhabitants_: 34.81 (2019 est.)<br>
+_total_: 120.531 million (2020)<br>
+_subscriptions per 100 inhabitants_: 36.41 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> The Library of Congress, Washington DC, USA, claims to be the largest library in the world with more than 167 million items (as of 2018); its collections are universal, not limited by subject, format, or national boundary, and include materials from all parts of the world and in over 450 languages; collections include: books, newspapers, magazines, sheet music, sound and video recordings, photographic images, artwork, architectural drawings, and copyright data<br><br><strong>note 2:</strong> Cape Canaveral, Florida, USA, hosts one of four dedicated ground antennas that assist in the operation of the Global Positioning System (GPS) navigation system (the others are on Ascension (Saint Helena, Ascension, and Tistan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Kwajalein (Marshall Islands)<br>

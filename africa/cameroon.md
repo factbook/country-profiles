@@ -645,8 +645,8 @@ government maintains tight control over broadcast media; state-owned Cameroon Ra
 .cm<br>
 
 **Internet users**<br>
-_total_: 6,089,200<br>
-_percent of population_: 23.2% (July 2018 est.)<br>
+_total_: 9.15 million (2021 est.)<br>
+_percent of population_: 23.2% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 713,845 (2020)<br>
@@ -748,7 +748,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 333,409 (Central African Republic), 118,996 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 345,471 (Central African Republic), 119,552 (Nigeria) (2021)<br>
 _IDPs_: 1,052,591 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

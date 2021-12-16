@@ -460,6 +460,11 @@ _services_: 75.3% (2009 est.)<br>
 5.16% (2019 est.)<br>
 5.29% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.3%<br>
+_male_: 15.3%<br>
+_female_: 13.2% (2020 est.)<br>
+
 **Gini Index coefficient - distribution of family income**<br>
 34.4 (2014 est.)<br>
 35.2 (1994)<br>
@@ -621,8 +626,8 @@ the Australian Broadcasting Corporation (ABC) runs multiple national and local r
 .au<br>
 
 **Internet users**<br>
-_total_: 21,419,302<br>
-_percent of population_: 86.55% (July 2018 est.)<br>
+_total_: 22.82 million (2021 est.)<br>
+_percent of population_: 86.55% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,937,550 (2020)<br>

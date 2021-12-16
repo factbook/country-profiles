@@ -370,7 +370,7 @@ _consulate(s) general_: Atlanta, Boston, Chicago, Dallas, Denver, Detroit, Los A
 _trade office(s)_: Houston, Palo Alto (CA), San Diego; note - there are trade offices in the Consulates General<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Arnold CHACON (since 28 May 2021)<br>
+_chief of mission_: Ambassador David COHEN (since December 2021)<br>
 _embassy_: 490 Sussex Drive, Ottawa, Ontario K1N 1G8<br>
 _mailing address_: 5480 Ottawa Place, Washington DC&nbsp; 20521-5480<br>
 _telephone_: [1] (613) 238-5335<br>
@@ -460,6 +460,11 @@ _manufacturing_: 3% (2006 est.)<br>
 **Unemployment rate**<br>
 5.67% (2019 est.)<br>
 5.83% (2018 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 20.2%<br>
+_male_: 20.9%<br>
+_female_: 19.4% (2020 est.)<br>
 
 **Population below poverty line**<br>
 9.4% (2008 est.)<br>
@@ -627,8 +632,8 @@ _international_: country code - 1; landing points for the Nunavut Undersea Fiber
 .ca<br>
 
 **Internet users**<br>
-_total_: 33,743,954<br>
-_percent of population_: 91% (July 2018 est.)<br>
+_total_: 35.63 million (2021 est.)<br>
+_percent of population_: 91% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 15,776,602 (2020)<br>

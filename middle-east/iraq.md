@@ -317,7 +317,7 @@ _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)
 _etymology_: although the origin of the name is disputed, it likely has compound Persian roots with "bagh" and "dad" meaning "god" and "given" respectively to create the meaning of "bestowed by God"<br>
 
 **Administrative divisions**<br>
-18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Kirkuk; Kurdistan Regional Government*; Maysan; Ninawa; Salah ad Din; Wasit<br>
+18 governorates (muhafazat, singular - muhafazah (Arabic); parezgakan, singular - parezga (Kurdish)) and 1 region*; 'Al Anbar; Al Basrah; Al Muthanna; Al Qadisiyah (Ad Diwaniyah); An Najaf; Arbil (Erbil) (Arabic), Hewler (Kurdish); As Sulaymaniyah (Arabic), Slemani (Kurdish); Babil; Baghdad; Dahuk (Arabic), Dihok (Kurdish); Dhi Qar; Diyala; Karbala'; Karkuk; Kurdistan Regional Government*; Maysan; Ninawa; Salah ad Din; Wasit<br>
 
 **Independence**<br>
 3 October 1932 (from League of Nations mandate under British administration); note - on 28 June 2004 the Coalition Provisional Authority transferred sovereignty to the Iraqi Interim Government<br>
@@ -631,8 +631,8 @@ the number of private radio and TV stations has increased rapidly since 2003; go
 .iq<br>
 
 **Internet users**<br>
-_total_: 18,364,390<br>
-_percent of population_: 49.36% (July 2018 est.)<br>
+_total_: 30.52 million (2021 est.)<br>
+_percent of population_: 49.36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,453,799 (2020)<br>

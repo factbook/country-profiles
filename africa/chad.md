@@ -463,6 +463,11 @@ _industry_: 20% (2006 est.)<br>
 **Unemployment rate**<br>
 <p>NA</p><br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 1.5%<br>
+_male_: 2.4%<br>
+_female_: 0.7% (2018)<br>
+
 **Population below poverty line**<br>
 42.3% (2018 est.)<br>
 
@@ -626,8 +631,8 @@ _international_: country code - 235; satellite earth station - 1 Intelsat (Atlan
 .td<br>
 
 **Internet users**<br>
-_total_: 1,029,153<br>
-_percent of population_: 6.5% (July 2018 est.)<br>
+_total_: 2.86 million (2021 est.)<br>
+_percent of population_: 10.4% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 0 (2020)<br>
@@ -711,7 +716,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,804 (Sudan), 121,243 (Central African Republic), 18,995 (Nigeria), 8,841 (Cameroon) (2021)<br>
+_refugees (country of origin)_: 374,804 (Sudan), 121,525 (Central African Republic), 19,321 (Nigeria), 8,841 (Cameroon) (2021)<br>
 _IDPs_: 406,573 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

@@ -594,12 +594,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 471,090<br>
-_subscriptions per 100 inhabitants_: 5.39 (2019 est.)<br>
+_total subscriptions_: 479,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 5.39 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 9,747,803<br>
-_subscriptions per 100 inhabitants_: 111.53 (2019 est.)<br>
+_total subscriptions_: 9.904 million (2018)<br>
+_subscriptions per 100 inhabitants_: 111.5 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tajikistan&rsquo;s telecom sector continues to struggle due to geographic isolation, lack of electricity, dysfunctional business climate, and impoverished citizenry; despite the launch of 4G/LTE services, one of the lowest fixed-line penetrations in Asia and one of the lowest broadband levels in the world; with help from foreign investment, mobile sector near saturation phase; Russian loans and Chinese investment in infrastructure through Economic Corridor initiatives; a few cities have 4G coverage; LTE-based smart city concept in Dushanbe; government restricts political rights and civil liberties, controlling information through media interruptions; government raised rates on Internet-based calls and Internet services in 2020, making price one of the highest in the world; importer of video displays and broadcasting equipment from China (2020)<br>
@@ -618,8 +618,8 @@ _total_: 1,889,632<br>
 _percent of population_: 21.96% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 6,000<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_total_: 6,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

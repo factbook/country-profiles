@@ -615,8 +615,8 @@ the publicly owned broadcaster, Eesti Rahvusringhaaling (ERR), operates 3 TV cha
 .ee<br>
 
 **Internet users**<br>
-_total_: 1,111,896<br>
-_percent of population_: 89.36% (July 2018 est.)<br>
+_total_: 1.21 million (2021 est.)<br>
+_percent of population_: 89.06% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 415,610 (2020)<br>

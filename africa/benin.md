@@ -89,7 +89,7 @@ _adjective_: Beninese<br>
 Fon and related 38.4%, Adja and related 15.1%, Yoruba and related 12%, Bariba and related 9.6%, Fulani and related 8.6%, Ottamari and related 6.1%, Yoa-Lokpa and related 4.3%, Dendi and related 2.9%, other 0.9%, foreigner 1.9% (2013 est.)<br>
 
 **Languages**<br>
-French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)<br>
+55 languages; French (official); Fon (a Gbe language) and Yoruba are the most important indigenous languages in the south; half a dozen regionally important languages in the north, including Bariba (once counted as a Gur language) and Fulfulde<br>
 
 **Religions**<br>
 Muslim 27.7%, Roman Catholic 25.5%, Protestant 13.5% (Celestial 6.7%, Methodist 3.4%, other Protestant 3.4%), Vodoun 11.6%, other Christian 9.5%, other traditional religions 2.6%, other 2.6%, none 5.8% (2013 est.)<br>
@@ -454,6 +454,11 @@ textiles, food processing, construction materials, cement<br>
 **Unemployment rate**<br>
 1% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 3.9%<br>
+_male_: 3.2%<br>
+_female_: 4.5% (2018 est.)<br>
+
 **Population below poverty line**<br>
 38.5% (2019 est.)<br>
 
@@ -618,8 +623,8 @@ state-run Office de Radiodiffusion et de Television du Benin (ORTB) operates a T
 .bj<br>
 
 **Internet users**<br>
-_total_: 2,403,596<br>
-_percent of population_: 20% (July 2018 est.)<br>
+_total_: 3.5 million (2021 est.)<br>
+_percent of population_: 20% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,981 (2020)<br>

@@ -615,8 +615,8 @@ multiple privately owned TV stations and 1 publicly owned TV station; cable netw
 .cr<br>
 
 **Internet users**<br>
-_total_: 3,694,974<br>
-_percent of population_: 74.09% (July 2018 est.)<br>
+_total_: 4.15 million (2021 est.)<br>
+_percent of population_: 80.53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 992,725 (2020)<br>

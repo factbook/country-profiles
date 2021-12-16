@@ -471,8 +471,8 @@ relies on foreign terrestrial and satellite broadcasters for most broadcast medi
 .li<br>
 
 **Internet users**<br>
-_total_: 37,815<br>
-_percent of population_: 98.1% (July 2018 est.)<br>
+_total_: 37,800 (2021 est.)<br>
+_percent of population_: 98.1% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,063 (2020)<br>

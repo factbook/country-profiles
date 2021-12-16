@@ -474,6 +474,11 @@ _services_: 26.6% (2014 est.)<br>
 **Unemployment rate**<br>
 10.3% (2014 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 3.9%<br>
+_male_: 3.1%<br>
+_female_: 4.6% (2014 est.)<br>
+
 **Population below poverty line**<br>
 26.4% (2017 est.)<br>
 

@@ -99,7 +99,7 @@ Spanish (official), numerous indigenous dialects<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-nominally Roman Catholic 96%, Protestant 2%, other 2%<br>
+Roman Catholic 96%, Protestant 2%, other 2%<br>
 
 **Demographic profile**<br>
 <p>Social investment in Venezuela during the CHAVEZ administration reduced poverty from nearly 50% in 1999 to about 27% in 2011, increased school enrollment, substantially decreased infant and child mortality, and improved access to potable water and sanitation through social investment. "Missions" dedicated to education, nutrition, healthcare, and sanitation were funded through petroleum revenues. The sustainability of this progress remains questionable, however, as the continuation of these social programs depends on the prosperity of Venezuela's oil industry. In the long-term, education and health care spending may increase economic growth and reduce income inequality, but rising costs and the staffing of new health care jobs with foreigners are slowing development.</p> <p>While CHAVEZ was in power, more than one million predominantly middle- and upper-class Venezuelans are estimated to have emigrated. The brain drain is attributed to a repressive political system, lack of economic opportunities, steep inflation, a high crime rate, and corruption. Thousands of oil engineers emigrated to Canada, Colombia, and the United States following CHAVEZ's firing of over 20,000 employees of the state-owned petroleum company during a 2002-03 oil strike. Additionally, thousands of Venezuelans of European descent have taken up residence in their ancestral homelands. Nevertheless, Venezuela has attracted hundreds of thousands of immigrants from South America and southern Europe because of its lenient migration policy and the availability of education and health care. Venezuela also has been a fairly accommodating host to Colombian refugees, numbering about 170,000 as of year-end 2016. However, since 2014, falling oil prices have driven a major economic crisis that has pushed Venezuelans from all walks of life to migrate or to seek asylum abroad to escape severe shortages of food, water, and medicine; soaring inflation; unemployment; and violence. As of March 2020, an estimated 5 million Venezuelans were refugees or migrants worldwide, with almost 80% taking refuge in Latin America and the Caribbean (notably Colombia, Peru, Chile, Ecuador, Argentina, and Brazil, as well as the Dominican Republic, Aruba, and Curacao). Asylum applications increased significantly in the US and Brazil in 2016 and 2017. Several receiving countries are making efforts to increase immigration restrictions and to deport illegal Venezuelan migrants - Ecuador and Peru in August 2018 began requiring valid passports for entry, which are difficult to obtain for Venezuelans. Nevertheless, Venezuelans continue to migrate to avoid economic collapse at home.</p><br>
@@ -441,6 +441,11 @@ _services_: 70.9% (4th quarter, 2011 est.)<br>
 6.9% (2018 est.)<br>
 27.1% (2017 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.1%<br>
+_male_: 10.5% NA<br>
+_female_: 14.9% NA (2017 est.)<br>
+
 **Population below poverty line**<br>
 33.1% (2015 est.)<br>
 
@@ -586,12 +591,12 @@ _electrification - rural areas_: 99% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,351,312<br>
-_subscriptions per 100 inhabitants_: 18.67 (2019 est.)<br>
+_total subscriptions_: 5,276,274 (2020)<br>
+_subscriptions per 100 inhabitants_: 18.55 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 13,476,287<br>
-_subscriptions per 100 inhabitants_: 47.01 (2019 est.)<br>
+_total subscriptions_: 18,028,388 (2020)<br>
+_subscriptions per 100 inhabitants_: 63.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to government sanction and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
@@ -610,8 +615,8 @@ _total_: 21,354,499<br>
 _percent of population_: 72% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 2,560,994<br>
-_subscriptions per 100 inhabitants_: 8.93 (2019 est.)<br>
+_total_: 2,407,187 (2020)<br>
+_subscriptions per 100 inhabitants_: 8.47 (2020 est.)<br>
 
 ## Transportation
 
@@ -670,7 +675,7 @@ _oil terminal(s)_: Jose terminal<br>
 
 **Military and security forces**<br>
 Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana, NMB)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
-note(s): the CODAI is a joint service command with personnel drawn from other services; the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses<br>
+note(s) - the CODAI is a joint service command with personnel drawn from other services; the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses; the GNB is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counternarcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2017)<br>

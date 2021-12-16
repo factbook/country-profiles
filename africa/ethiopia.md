@@ -487,6 +487,11 @@ _services_: 19.9% (2013 est.)<br>
 17.5% (2012 est.)<br>
 18% (2011 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 3.5%<br>
+_male_: 2.7%<br>
+_female_: 4.5% (2013 est.)<br>
+
 **Population below poverty line**<br>
 23.5% (2015 est.)<br>
 
@@ -651,8 +656,8 @@ _international_: country code - 251; open-wire to Sudan and Djibouti; microwave 
 .et<br>
 
 **Internet users**<br>
-_total_: 19,118,470<br>
-_percent of population_: 18.62% (July 2018 est.)<br>
+_total_: 23.96 million (2021 est.)<br>
+_percent of population_: 18.62% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 62,950 (2017 est.)<br>
@@ -718,7 +723,7 @@ note(s): in January 2020 the Ethiopian Government announced it had re-establishe
 information varies; approximately 150,000 active duty troops, including about 3,000 Air Force personnel (no personnel numbers available for the newly-established Navy) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, Russia and Ukraine are the leading suppliers of largely second-hand weapons and equipment to the ENDF, followed by China and Hungary; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2020)<br>
+the ENDF's inventory is comprised mostly of Soviet-era equipment from the 1970s; since 2010, Russia and Ukraine are the leading suppliers of largely second-hand weapons and equipment to the ENDF; Ethiopia has a modest industrial defense base centered on small arms and production of armored vehicles (2020)<br>
 
 **Military deployments**<br>
 up to 10,000 Somalia (4,500 for AMISOM); 3,300 Sudan (UNISFA); 1,500 South Sudan (UNMISS) (2021)<br>
@@ -742,7 +747,7 @@ al-Shabaab; IRGC/Qods Force<br>
 <p>Eritrea and Ethiopia agreed to abide by the 2002 Eritrea-Ethiopia Boundary Commission's (EEBC) delimitation decision, but neither party responded to the revised line detailed in the November 2006 EEBC Demarcation Statement; the undemarcated former British administrative line has little meaning as a political separation to rival clans within Ethiopia's Ogaden and southern Somalia's Oromo region; Ethiopian forces invaded southern Somalia and routed Islamist courts from Mogadishu in January 2007; "Somaliland" secessionists provide port facilities in Berbera and trade ties to landlocked Ethiopia; civil unrest in eastern Sudan has hampered efforts to demarcate the porous boundary with Ethiopia; Ethiopia's construction of a large dam (the Grand Ethiopian Renaissance Dam) on the Blue Nile since 2011 has become a focal point of relations with Egypt and Sudan; as of 2020, four years of three-way talks between the three capitals over operating the dam and filling its reservoir had made little progress; Ethiopia began filling the dam in July 2020</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 380,320 (South Sudan), 216,558 (Somalia), 154,650 (Eritrea), 46,093 (Sudan) (2021)<br>
+_refugees (country of origin)_: 383,084 (South Sudan), 218,022 (Somalia), 154,650 (Eritrea), 46,093 (Sudan) (2021)<br>
 _IDPs_: 1,990,168 (includes conflict- and climate-induced IDPs, excluding unverified estimates from the Amhara region; border war with Eritrea from 1998-2000; ethnic clashes; and ongoing fighting between the Ethiopian military and separatist rebel groups in the Somali and Oromia regions; natural disasters; intercommunal violence; most IDPs live in Sumale state) (2021)<br>
 
 **Illicit drugs**<br>

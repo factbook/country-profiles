@@ -582,12 +582,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 648,223<br>
-_subscriptions per 100 inhabitants_: 11.85 (2019 est.)<br>
+_total subscriptions_: 682,000 (2018)<br>
+_subscriptions per 100 inhabitants_: 11.85 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,908,821<br>
-_subscriptions per 100 inhabitants_: 162.86 (2019 est.)<br>
+_total subscriptions_: 9.377 million (2018)<br>
+_subscriptions per 100 inhabitants_: 162.9 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: stagnant economy, rural geography, and authoritarian rule limit development of the telecom sector; in cooperation with Russian-based partners, operators have installed high-speed fiber-optic lines and upgraded most of the country's telephone switch centers with digital technology; some rural areas lack fixed-line coverage; mobile broadband is in the early stages of development; services are extremely slow, though Trans-Caspian cable will provide international Internet capacity and improvement in services; freedom of press and expression restricted through monitoring, media interruption, and removal of receivers from households; importer of broadcasting equipment from UAE (2020)<br>
@@ -606,8 +606,8 @@ _total_: 1,149,840<br>
 _percent of population_: 21.25% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,000<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_total_: 5,000 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

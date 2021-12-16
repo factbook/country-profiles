@@ -486,6 +486,11 @@ _services_: 63% (2016 est.)<br>
 4.6% (2019 est.)<br>
 4.8% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 17%<br>
+_male_: 16%<br>
+_female_: 18.2% (2020 est.)<br>
+
 **Population below poverty line**<br>
 12.6% (2018 est.)<br>
 
@@ -631,12 +636,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 27,674,128<br>
-_subscriptions per 100 inhabitants_: 19.38 (2019 est.)<br>
+_total subscriptions_: 27,674,128 (2019)<br>
+_subscriptions per 100 inhabitants_: 18.97 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 239,795,946<br>
-_subscriptions per 100 inhabitants_: 167.9 (2019 est.)<br>
+_total subscriptions_: 238,733,217 (2020)<br>
+_subscriptions per 100 inhabitants_: 163.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market is largest in Europe, centered in large cities; competition active in Moscow and St Petersburg; most users access Internet through mobile platforms; fiber broadband sector is growing, supported by government in aim to extend reach to outlying regions; tests of 5G with Moscow adopting smart city technology; government justifies censorship and website blocks under a range of laws and regulations; government program aims to provide 97% of households with fixed broadband by 2024; publicly accessible Internet connections in institutions such as hospitals, libraries, schools, and mass transit available in cities; in rural areas, the availability of public Internet connections remains limited; major importer of broadcasting equipment and computers from China (2020)<br>
@@ -655,8 +660,8 @@ _total_: 114,920,477<br>
 _percent of population_: 80.86% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,857,614<br>
-_subscriptions per 100 inhabitants_: 23.01 (2019 est.)<br>
+_total_: 33,872,758 (2020)<br>
+_subscriptions per 100 inhabitants_: 23.21 (2020 est.)<br>
 
 ## Transportation
 

@@ -611,8 +611,8 @@ a mixture of public and commercial broadcast TV and radio stations; 6 national t
 .jp<br>
 
 **Internet users**<br>
-_total_: 106,725,643<br>
-_percent of population_: 84.59% (July 2018 est.)<br>
+_total_: 117.4 million (2021 est.)<br>
+_percent of population_: 92.73% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 43,633,244 (2020)<br>

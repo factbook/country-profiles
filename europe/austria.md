@@ -619,8 +619,8 @@ worldwide cable and satellite TV are available; the public incumbent ORF compete
 .at<br>
 
 **Internet users**<br>
-_total_: 7,712,665<br>
-_percent of population_: 87.71% (July 2018 est.)<br>
+_total_: 8.03 million (2021 est.)<br>
+_percent of population_: 87.53% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2.606 million (2020)<br>

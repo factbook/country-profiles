@@ -412,6 +412,11 @@ _services_: 74% (2006)<br>
 3% (2017 est.)<br>
 2.7% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 16.4%<br>
+_male_: 17.4%<br>
+_female_: 15.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 25.3% (2018 est.)<br>
 
@@ -645,6 +650,9 @@ the SPDF's inventory primarily consists of Soviet-era equipment delivered in the
 
 **Military service age and obligation**<br>
 18-28 years of age for voluntary military service (18-25 for officers); 6-year initial commitment; no conscription (2021)<br>
+
+**Military - note**<br>
+<p>formed in 1977, the SPDF's primary responsibility is maritime security, particularly countering illegal fishing, piracy, and drug smuggling</p><br>
 
 ## Transnational Issues
 

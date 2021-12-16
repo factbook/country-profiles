@@ -441,6 +441,11 @@ _services_: 67.5% (2014 est.)<br>
 6.55% (2019 est.)<br>
 7.05% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 22.6%<br>
+_male_: 21%<br>
+_female_: 24.4% (2020 est.)<br>
+
 **Population below poverty line**<br>
 17.2% (2018 est.)<br>
 
@@ -586,12 +591,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 5,087,977<br>
-_subscriptions per 100 inhabitants_: 49.33 (2019 est.)<br>
+_total subscriptions_: 5,212,507 (2020)<br>
+_subscriptions per 100 inhabitants_: 51.12 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 11,909,751<br>
-_subscriptions per 100 inhabitants_: 115.46 (2019 est.)<br>
+_total subscriptions_: 11,854,999 (2020)<br>
+_subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed towards provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to fiber, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
@@ -610,8 +615,8 @@ _total_: 7,731,411<br>
 _percent of population_: 74.66% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 3,967,699<br>
-_subscriptions per 100 inhabitants_: 38.47 (2019 est.)<br>
+_total_: 4,160,895 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.81 (2020 est.)<br>
 
 ## Transportation
 

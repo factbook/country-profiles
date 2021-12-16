@@ -515,12 +515,12 @@ New Taiwan dollars (TWD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,971,902<br>
-_subscriptions per 100 inhabitants_: 55.07 (2019 est.)<br>
+_total subscriptions_: 12,750,429 (2020)<br>
+_subscriptions per 100 inhabitants_: 53.54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29,049,784<br>
-_subscriptions per 100 inhabitants_: 123.21 (2019 est.)<br>
+_total subscriptions_: 29,351,150 (2020)<br>
+_subscriptions per 100 inhabitants_: 123.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: dynamic telecommunications industry defined by excellent infrastructure and competitive mobile market; solid availability of fixed and mobile broadband networks; investors attracted to regulatory certainty, market maturity, an educated workforce, and ICT sector at the heart of economic development; 4G LTE service with fiber is the most popular platform; 5G to 80% of subscribers; government funds development of 5G and IoT market; concerns include China&rsquo;s efforts to influence media and ICT policy (2020)<br>
@@ -539,8 +539,8 @@ _total_: 21,845,944<br>
 _percent of population_: 92.78% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 5,831,467<br>
-_subscriptions per 100 inhabitants_: 24.76 (2019 est.)<br>
+_total_: 5,952,411 (2020)<br>
+_subscriptions per 100 inhabitants_: 24.99 (2020 est.)<br>
 
 ## Transportation
 

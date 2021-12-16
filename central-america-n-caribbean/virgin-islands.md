@@ -472,8 +472,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 77,212<br>
-_subscriptions per 100 inhabitants_: 72.41 (2019 est.)<br>
+_total subscriptions_: 76,000 (2017)<br>
+_subscriptions per 100 inhabitants_: 72.41 (2017 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: modern system with total digital switching, uses fiber-optic cable and microwave radio relay; good interisland and international connections; broadband access; expansion of&nbsp;FttP (Fiber to the Home) markets; LTE launches; regulatory development and expansion in several markets point to investment and focus on data (2020)<br>

@@ -110,7 +110,7 @@ French (official) 100%, declining regional dialects and languages (Provencal, Br
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Christian (overwhelmingly Roman Catholic) 63-66%, Muslim 7-9%, Buddhist 0.5-0.75%, Jewish 0.5-0.75%, other 0.5-1.0%, none 23-28% (2015 est.)<br>
+Roman Catholic 47%, Muslim 4%, Protestant 2%, Buddhists 2%, Orthodox 1%, Jewish 1%, other 1%, none 33%, unspecified 9%<br>
 <strong>note:</strong> France maintains a tradition of secularism and has not officially collected data on religious affiliation since the 1872 national census, which complicates assessments of France's religious composition; an 1872 law prohibiting state authorities from collecting data on individuals' ethnicity or religious beliefs was reaffirmed by a 1978 law emphasizing the prohibition of the collection or exploitation of personal data revealing an individual's race, ethnicity, or political, philosophical, or religious opinions; a 1905 law codified France's separation of church and state<br>
 
 **Age structure**<br>
@@ -479,6 +479,11 @@ _services_: 77.2% (2016 est.)<br>
 8.69% (2018 est.)<br>
 <strong>note:</strong> includes overseas territories<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 20.2%<br>
+_male_: 20.3%<br>
+_female_: 19.9% (2020 est.)<br>
+
 **Population below poverty line**<br>
 13.6% (2018 est.)<br>
 
@@ -645,8 +650,8 @@ a mix of both publicly operated and privately owned TV stations; state-owned Fra
 metropolitan France - .fr; French Guiana - .gf; Guadeloupe - .gp; Martinique - .mq; Mayotte - .yt; Reunion - .re<br>
 
 **Internet users**<br>
-_total_: 55,265,718<br>
-_percent of population_: 82.04% (July 2018 est.)<br>
+_total_: 59.47 million (2021 est.)<br>
+_percent of population_: 83.34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 30.627 million (2020)<br>

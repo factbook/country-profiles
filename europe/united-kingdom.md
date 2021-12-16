@@ -446,6 +446,11 @@ _services_: 83.5% (2014 est.)<br>
 3.17% (2019 est.)<br>
 2.51% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 11.2%<br>
+_male_: 13%<br>
+_female_: 9.2% (2019 est.)<br>
+
 **Population below poverty line**<br>
 18.6% (2017 est.)<br>
 
@@ -591,12 +596,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 32.288 million<br>
-_subscriptions per 100 inhabitants_: 49.37 (2019 est.)<br>
+_total subscriptions_: 32.078 million (2020)<br>
+_subscriptions per 100 inhabitants_: 47.25 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 80.967 million<br>
-_subscriptions per 100 inhabitants_: 123.79 (2019 est.)<br>
+_total subscriptions_: 79.007 million (2020)<br>
+_subscriptions per 100 inhabitants_: 116.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: UK&rsquo;s telecom market remains one of the largest in Europe, characterized by competition, affordable pricing, and its technologically advanced systems; mobile penetration above the EU average; government to invest in infrastructure and 5G technologies with ambition for a fully-fibered nation by 2033; operators expanded the reach of 5G services in 2020; super-fast broadband available to about 95% of customers; London is developing smart city technology, in collaboration with private, tech, and academic sectors; legislation banned Chinese company Huawei from UK 5G networks following advisement from the National Cyber Security Centre (NCSC); importer of broadcasting equipment from China (2020)<br>
@@ -615,8 +620,8 @@ _total_: 61,784,878<br>
 _percent of population_: 94.9% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 26,786,963<br>
-_subscriptions per 100 inhabitants_: 40.96 (2019 est.)<br>
+_total_: 27,490,258 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.49 (2020 est.)<br>
 
 **Communications - note**<br>
 <strong>note 1:</strong> the British Library claims to be the largest library in the world with well over 150 million items and in most known languages; it receives copies of all books produced in the UK or Ireland, as well as a significant proportion of overseas titles distributed in the UK; in addition to books (print and digital), holdings include: journals, manuscripts, newspapers, magazines, sound and music recordings, videos, maps, prints, patents, and drawings<br><br><strong>note 2:</strong> on 1 May 1840, the United Kingdom led the world with the introduction of postage stamps; the Austrian Empire had examined the idea of an "adhesive tax postmark" for the prepayment of postage in 1835; while the suggestion was reviewed in detail, it was rejected for the time being; other countries (including Austria) soon followed the UK's example with their own postage stamps; by the 1860s, most countries were issuing stamps; originally, stamps had to be cut from sheets; the UK issued the first postage stamps with perforations in 1854<br>
@@ -694,8 +699,8 @@ note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy
 2.08% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the British military has approximately 199,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>
-note(s) - the total includes 149,000 Regular Forces and about 37,000 Volunteer Reserves (30,000 Army; 4,000 Navy; 3000 Air Force) and about 8,000 "Other Personnel" (4,500 Army; 2,500 Navy; 1,000 Air Force)<br><br>Volunteer Reserves voluntarily accept an annual training commitment and are liable to be mobilized to deploy on operations; they can be utilized on a part-time or full-time basis to provide support to the Regular Forces at home and overseas; "Other Personnel" include the Serving Regular Reserve, Sponsored Reserve, Military Provost Guard Service, Locally Engaged Personnel, and elements of the UK Full-time Reserve Service<br>
+the British military has approximately 194,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>
+note(s) - the total includes 149,000 Regular Forces and approximately 37,000 Volunteer Reserves (30,000 Army; 4,000 Navy; 3000 Air Force) and some 8,000 "Other Personnel" (4,500 Army; 2,500 Navy; 1,000 Air Force)<br><br>Volunteer Reserves voluntarily accept an annual training commitment and are liable to be mobilized to deploy on operations; they can be utilized on a part-time or full-time basis to provide support to the Regular Forces at home and overseas; "Other Personnel" include the Serving Regular Reserve, Sponsored Reserve, Military Provost Guard Service, Locally Engaged Personnel, and elements of the UK Full-time Reserve Service<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2020)<br>

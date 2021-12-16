@@ -85,7 +85,7 @@ _adjective_: Azerbaijani<br>
 
 **Ethnic groups**<br>
 Azerbaijani 91.6%, Lezghin 2%, Russian 1.3%, Armenian 1.3%, Talysh 1.3%, other 2.4% (2009 est.)<br>
-<strong>note:</strong> the separatist Nagorno-Karabakh region is populated almost entirely by ethnic Armenians<br>
+<strong>note:</strong> the Nagorno-Karabakh region, which is part of Azerbaijan on the basis of the borders recognized when the Soviet Union dissolved in 1991, is populated almost entirely by ethnic Armenians<br>
 
 **Languages**<br>
 Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)<br>
@@ -446,6 +446,11 @@ _services_: 48.9% (2014)<br>
 5% (2017 est.)<br>
 5% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 12.4%<br>
+_male_: 10.9%<br>
+_female_: 14.2% (2019 est.)<br>
+
 **Population below poverty line**<br>
 4.9% (2015 est.)<br>
 
@@ -610,8 +615,8 @@ _international_: country code - 994; the TAE fiber-optic link transits Azerbaija
 .az<br>
 
 **Internet users**<br>
-_total_: 8,017,120<br>
-_percent of population_: 79.8% (July 2018 est.)<br>
+_total_: 8.26 million (2021 est.)<br>
+_percent of population_: 81.1% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,995,474 (2020)<br>

@@ -455,6 +455,11 @@ _services_: 55.8% (2017 est.)<br>
 2.3% (2017 est.)<br>
 2.4% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 4.6%<br>
+_male_: 4%<br>
+_female_: 5.7% (2019 est.)<br>
+
 **Population below poverty line**<br>
 59.3% (2014 est.)<br>
 
@@ -621,8 +626,8 @@ _international_: country code - 502; landing points for&nbsp;the ARCOS, AMX-1, A
 .gt<br>
 
 **Internet users**<br>
-_total_: 10,777,827<br>
-_percent of population_: 65% (July 2018 est.)<br>
+_total_: 11.75 million (2021 est.)<br>
+_percent of population_: 65% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 531,000 (2017 est.)<br>

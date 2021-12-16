@@ -432,6 +432,11 @@ _services_: 77.7% (2016 est.)<br>
 0.78% (2019 est.)<br>
 0.89% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.7%<br>
+_male_: 13.1%<br>
+_female_: 8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 17.1% (2018 est.)<br>
 
@@ -597,8 +602,8 @@ _international_: country code - 356; landing points for the Malta-Gozo Cable, VM
 .mt<br>
 
 **Internet users**<br>
-_total_: 365,521<br>
-_percent of population_: 81.4% (July 2018 est.)<br>
+_total_: 380,300 (2021 est.)<br>
+_percent of population_: 86.86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 202,513<br>
@@ -671,7 +676,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,943 estimated refugee and migrant arrivals by sea (January 2015-November 2021)<br>
+<strong>note:</strong> 7,985 estimated refugee and migrant arrivals by sea (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

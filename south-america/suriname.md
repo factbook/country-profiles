@@ -442,6 +442,11 @@ _services_: 69.3% (2010)<br>
 8.9% (2017 est.)<br>
 9.7% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.5%<br>
+_male_: 18.7%<br>
+_female_: 39.9% (2016 est.)<br>
+
 **Population below poverty line**<br>
 70% (2002 est.)<br>
 
@@ -582,12 +587,12 @@ _electrification - rural areas_: 94.3% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 92,756<br>
-_subscriptions per 100 inhabitants_: 15.37 (2019 est.)<br>
+_total subscriptions_: 103,240 (2020)<br>
+_subscriptions per 100 inhabitants_: 17.6 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 813,844<br>
-_subscriptions per 100 inhabitants_: 134.9 (2019 est.)<br>
+_total subscriptions_: 899,339 (2020)<br>
+_subscriptions per 100 inhabitants_: 153.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: smallest nation in South America with low population and client base; state-owned fixed-line tele-density rates and broadband services below regional average for Latin America and Caribbean; operator building out fiber network; mobile penetration is above regional average; fixed-line effective along the coastline yet poor in the interior; competition in the mobile sector; launch of 5G in Paramaribo; importer of broadcasting equipment from USA (2020)<br>
@@ -606,8 +611,8 @@ _total_: 292,685<br>
 _percent of population_: 48.95% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 80,320<br>
-_subscriptions per 100 inhabitants_: 13.31 (2019 est.)<br>
+_total_: 92,270 (2020)<br>
+_subscriptions per 100 inhabitants_: 15.73 (2020 est.)<br>
 
 ## Transportation
 
@@ -672,6 +677,9 @@ the Suriname Army has a limited inventory comprised of a mix of older, foreign-s
 
 **Military service age and obligation**<br>
 18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
+
+**Military - note**<br>
+<p>as of 2021, a key mission of the National Leger was assisting the Suriname police as part of the government’s overall efforts to secure the country’s borders and combat crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams</p><br>
 
 ## Transnational Issues
 

@@ -626,8 +626,8 @@ the state owns nearly all radio and TV transmission facilities and operates nati
 .kz<br>
 
 **Internet users**<br>
-_total_: 14,789,448<br>
-_percent of population_: 78.9% (July 2018 est.)<br>
+_total_: 15.47 million (2021 est.)<br>
+_percent of population_: 85.94% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,616,500 (2020)<br>

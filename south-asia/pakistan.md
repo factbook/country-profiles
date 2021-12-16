@@ -479,6 +479,11 @@ _services_: 35.1% (FY2015 est.)<br>
 6% (2016 est.)<br>
 <strong>note:</strong> Pakistan has substantial underemployment<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 7.9%<br>
+_male_: 8.2%<br>
+_female_: 6.8% (2018 est.)<br>
+
 **Population below poverty line**<br>
 24.3% (2015 est.)<br>
 
@@ -710,8 +715,8 @@ _LNG terminal(s) (import)_: Port Qasim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior paramilitary forces: Frontier Corps, Pakistan Rangers (2021)<br><br>note:  the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
-note:&nbsp; the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers<br>
+Pakistan Army (includes National Guard), Pakistan Navy (includes Marine forces, Maritime Security Agency), Pakistan Air Force (Pakistan Fizaia); Ministry of Interior: Frontier Corps, Pakistan Rangers (2021)<br>
+note(s) - the National Guard is a paramilitary force and one of the Army's reserve forces, along with the Pakistan Army Reserve, the Frontier Corps, and the Pakistan Rangers; the Frontier Corps is a paramilitary force which operates in Balochistan and Khyber Pakhtunkhwa, including the former Federally Administered Tribal Areas; its primary mission is security of the Pakistan-Afghanistan border; the Pakistan Rangers are also a paramilitary force which operate in Sindh and Punjab<br>
 
 **Military expenditures**<br>
 4.3% of GDP (2020 est.)<br>

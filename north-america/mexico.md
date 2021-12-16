@@ -100,11 +100,11 @@ Mestizo (Amerindian-Spanish) 62%, predominantly Amerindian 21%, Amerindian 7%, o
 <strong>note:</strong> Mexico does not collect census data on ethnicity<br>
 
 **Languages**<br>
-Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%; note -indigenous languages include various Mayan, Nahuatl, and other regional languages (2005 est.)<br>
+Spanish only 93.8%, Spanish and indigenous languages 5.4%, indigenous only 0.6%, unspecified 0.2%; note -indigenous languages include various Mayan, Nahuatl, and other regional languages (2020 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 82.7%, Pentecostal 1.6%, Jehovah's Witness 1.4%, other Evangelical Churches 5%, other 1.9%, none 4.7%, unspecified 2.7% (2010 est.)<br>
+Roman Catholic 78%, Protestant/evangelical Christian 11.2%, other 0.002%, unaffiliated (includes atheism) 10.6% (2020 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 26.01% (male 17,111,199/female 16,349,767)<br>
@@ -484,6 +484,11 @@ _services_: 61.9% (2011)<br>
 3.33% (2018 est.)<br>
 <strong>note:</strong> underemployment may be as high as 25%<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.1%<br>
+_male_: 7.8%<br>
+_female_: 8.7% (2020 est.)<br>
+
 **Population below poverty line**<br>
 41.9% (2018 est.)<br>
 
@@ -649,8 +654,8 @@ telecom reform in 2013 enabled the creation of new broadcast television channels
 .mx<br>
 
 **Internet users**<br>
-_total_: 82,843,369<br>
-_percent of population_: 65.77% (July 2018 est.)<br>
+_total_: 92.01 million (2021 est.)<br>
+_percent of population_: 71.97% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 21,206,911 (2020)<br>

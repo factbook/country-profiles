@@ -502,8 +502,8 @@ _international_: country code - 682; the Manatua submarine cable to surrounding 
 .ck<br>
 
 **Internet users**<br>
-_total_: 4,881<br>
-_percent of population_: 54% (July 2018 est.)<br>
+_total_: 9,487 (2021 est.)<br>
+_percent of population_: 54% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,700 (2013)<br>

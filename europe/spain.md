@@ -462,6 +462,11 @@ _services_: 71.7% (2009)<br>
 14.13% (2019 est.)<br>
 15.25% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 38.3%<br>
+_male_: 37.1%<br>
+_female_: 39.7% (2020 est.)<br>
+
 **Population below poverty line**<br>
 20.7% (2018 est.)<br>
 
@@ -606,12 +611,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 19,639,778<br>
-_subscriptions per 100 inhabitants_: 41.54 (2019 est.)<br>
+_total subscriptions_: 19,455,779 (2020)<br>
+_subscriptions per 100 inhabitants_: 41.61 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 55,354,944<br>
-_subscriptions per 100 inhabitants_: 117.09 (2019 est.)<br>
+_total subscriptions_: 55,644,651 (2020)<br>
+_subscriptions per 100 inhabitants_: 119 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed and one of the largest telecom markets in Europe, with average mobile penetration for Europe; regulator has championed competition; LTE is nearly universal with shifts of service to 5G; operator joined government smart cities project; fixed-line broadband is backed by investment in fiber infrastructure; fiber broadband accounts for most of all fixed-line broadband connections; Chinese company Huawei contributes investment to the telecom sector; increased connectivity through submarine cable connection to Brazil; importer of broadcasting equipment from Europe (2020)<br>
@@ -630,8 +635,8 @@ _total_: 42,478,990<br>
 _percent of population_: 86.11% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 15,616,585<br>
-_subscriptions per 100 inhabitants_: 33.03 (2019 est.)<br>
+_total_: 15,850,358 (2020)<br>
+_subscriptions per 100 inhabitants_: 33.9 (2020 est.)<br>
 
 ## Transportation
 
@@ -732,7 +737,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>194,932 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note: </strong>195,301 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

@@ -451,6 +451,11 @@ _industry and services_: 14% (2002 est.)<br>
 28.1% (2014 est.)<br>
 25% (2008 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 35.5%<br>
+_male_: 31.2% NA<br>
+_female_: 41.5% NA (2019 est.)<br>
+
 **Population below poverty line**<br>
 49.7% (2017 est.)<br>
 
@@ -617,8 +622,8 @@ _international_: country code - 266; Internet accessibility has improved with se
 .ls<br>
 
 **Internet users**<br>
-_total_: 569,114<br>
-_percent of population_: 29% (July 2018 est.)<br>
+_total_: 1.03 million (2021 est.)<br>
+_percent of population_: 29% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,060 (2020)<br>
@@ -652,6 +657,7 @@ _unpaved_: 4,871 km (2011)<br>
 
 **Military and security forces**<br>
 Lesotho Defense Force (LDF): Army (includes Air Wing) (2021)<br>
+note - the Lesotho Mounted Police Service is responsible for internal security and reports to the Minister of Police and Public Safety<br>
 
 **Military expenditures**<br>
 1.6% of GDP (2020 est.)<br>

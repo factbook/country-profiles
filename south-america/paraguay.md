@@ -89,10 +89,10 @@ _noun_: Paraguayan(s)<br>
 _adjective_: Paraguayan<br>
 
 **Ethnic groups**<br>
-Mestizo (mixed Spanish and Amerindian) 95%, other 5%<br>
+Mestizo (mixed Spanish and Amerindian ancestry) 95%, other 5%<br>
 
 **Languages**<br>
-Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other indigenous languages) 4.1% , no response 0.4%; note - data represent predominant household language (2012 est.)<br>
+Spanish (official) and Guarani (official) 46.3%, only Guarani 34%, only Spanish 15.2%, other (includes Portuguese, German, other Indigenous languages) 4.1% , no response 0.4%; note - data represent predominant household language (2012 est.)<br>
 _major-language sample(s)_: <br>La Libreta Informativa del Mundo, la fuente indispensable de información básica. (Spanish)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -457,6 +457,11 @@ _services_: 55% (2008)<br>
 **Unemployment rate**<br>
 5.7% (2017 est.)<br>
 6% (2016 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 17.1%<br>
+_male_: 13.1%<br>
+_female_: 23.3% (2020 est.)<br>
 
 **Population below poverty line**<br>
 23.5% (2019 est.)<br>

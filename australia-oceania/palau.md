@@ -418,6 +418,9 @@ _services_: 86.4% (2016)<br>
 1.7% (2015 est.)<br>
 4.1% (2012)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 5.6%<br>
+
 **Population below poverty line**<br>
 24.9% NA (2006)<br>
 
@@ -485,12 +488,12 @@ _electrification - total population_: 100% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 8,808<br>
-_subscriptions per 100 inhabitants_: 40.78 (2019 est.)<br>
+_total subscriptions_: 7,204 (2018)<br>
+_subscriptions per 100 inhabitants_: 40.78 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 29,033<br>
-_subscriptions per 100 inhabitants_: 134.41 (2019 est.)<br>
+_total subscriptions_: 23,743 (2018)<br>
+_subscriptions per 100 inhabitants_: 134.4 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: well-developed mobile sector, recently boosted by satellite network capacity upgrades; 3G services available with satellite; lack of telecom regulations; newest and most powerful commercial satellite, Kacific-1 satellite, launched in 2019 to improve telecommunications in the Asia Pacific region (2020)<br>
@@ -507,6 +510,10 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 **Internet users**<br>
 _total_: 7,650<br>
 _percent of population_: 36% (July 2016 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 1,224 (2016)<br>
+_subscriptions per 100 inhabitants_: 6.93 (2018)<br>
 
 ## Transportation
 

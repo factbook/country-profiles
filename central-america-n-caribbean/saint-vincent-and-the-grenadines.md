@@ -87,7 +87,7 @@ African descent 71.2%, mixed 23%, Indigenous 3%, East Indian/Indian 1.1%, Europe
 English, Vincentian Creole English, French patois<br>
 
 **Religions**<br>
-Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,&nbsp; Baptist 8.9%, Methodist 8.7%,&nbsp;Evangelical 3.8%, Salvation Army .3%, Presbyterian/Congregational .3%), Roman Catholic 6.3%,&nbsp; Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)<br>
+Protestant 75% (Pentecostal 27.6%, Anglican 13.9%, Seventh Day Adventist 11.6%,&nbsp; Baptist 8.9%, Methodist 8.7%, Evangelical 3.8%, Salvation Army 0.3%, Presbyterian/Congregational 0.3%), Roman Catholic 6.3%,&nbsp; Rastafarian 1.1%, Jehovah's Witness 0.8%, other 4.7%, none 7.5%, unspecified 4.7% (2012 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 20.15% (male 10,309/female 10,121)<br>
@@ -534,12 +534,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 12,934<br>
-_subscriptions per 100 inhabitants_: 12.74 (2019 est.)<br>
+_total subscriptions_: 12,483 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.25 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 102,700<br>
-_subscriptions per 100 inhabitants_: 101.15 (2019 est.)<br>
+_total subscriptions_: 97,059 (2020)<br>
+_subscriptions per 100 inhabitants_: 87.49 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate island-wide, fully automatic telephone system; broadband access; expanded FttP (Fiber to the Home) markets; LTE launches; regulatory development; telecom sector contributes greatly to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -558,8 +558,8 @@ _total_: 22,803<br>
 _percent of population_: 22.39% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 22,491<br>
-_subscriptions per 100 inhabitants_: 22.15 (2019 est.)<br>
+_total_: 24,494 (2020)<br>
+_subscriptions per 100 inhabitants_: 22.08 (2020 est.)<br>
 
 ## Transportation
 

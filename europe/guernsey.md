@@ -389,8 +389,8 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey w
 .gg<br>
 
 **Internet users**<br>
-_total_: 55,050<br>
-_percent of population_: 83.3% (July 2016 est.)<br>
+_total_: 54,600 (2021 est.)<br>
+_percent of population_: 83.63% (2019 est.)<br>
 
 ## Transportation
 

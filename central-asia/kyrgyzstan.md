@@ -449,6 +449,11 @@ _services_: 39.5% (2005 est.)<br>
 3.18% (2019 est.)<br>
 2.59% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 9.6%<br>
+_male_: 7.8%<br>
+_female_: 13.4% (2018 est.)<br>
+
 **Population below poverty line**<br>
 20.1% (2019 est.)<br>
 
@@ -613,8 +618,8 @@ state-funded public TV broadcaster KTRK has nationwide coverage; also operates A
 .kg<br>
 
 **Internet users**<br>
-_total_: 2,222,732<br>
-_percent of population_: 38% (July 2018 est.)<br>
+_total_: 3.32 million (2021 est.)<br>
+_percent of population_: 38% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 269,091 (2019)<br>

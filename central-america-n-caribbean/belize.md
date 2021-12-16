@@ -426,6 +426,11 @@ _services_: 71.7% (2007 est.)<br>
 9% (2017 est.)<br>
 8% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 19.3%<br>
+_male_: 12.7%<br>
+_female_: 28.5% (2019 est.)<br>
+
 **Population below poverty line**<br>
 41% (2013 est.)<br>
 
@@ -588,8 +593,8 @@ _international_: country code - 501; landing points for the&nbsp;ARCOS and SEUL&
 .bz<br>
 
 **Internet users**<br>
-_total_: 181,660<br>
-_percent of population_: 47.08% (July 2018 est.)<br>
+_total_: 188,900 (2021 est.)<br>
+_percent of population_: 47.08% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,600 (2019)<br>

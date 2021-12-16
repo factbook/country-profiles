@@ -464,6 +464,11 @@ _services_: 71.9% (2014 est.)<br>
 28.53% (2019 est.)<br>
 27.09% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 59.4%<br>
+_male_: 55.4%<br>
+_female_: 64.1% (2020 est.)<br>
+
 **Population below poverty line**<br>
 55.5% (2014 est.)<br>
 
@@ -610,15 +615,15 @@ _electrification - rural areas_: 92% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,024,730<br>
-_subscriptions per 100 inhabitants_: 3.62 (2019 est.)<br>
+_total subscriptions_: 2,098,802 (2020)<br>
+_subscriptions per 100 inhabitants_: 3.54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 96,972,459<br>
-_subscriptions per 100 inhabitants_: 173.5 (2019 est.)<br>
+_total subscriptions_: 95,959,439 (2020)<br>
+_subscriptions per 100 inhabitants_: 161.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>one of the most advanced infrastructures on the continent; investment by operators and municipal providers to improve network capability focused on fiber and LTE to extend connectivity; increase in Internet use for e-commerce, e-government, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate and FttP to 90% of the premises; regulatory intervention has improved telecommunications market; 5G in Capetown with additional auction and tests; importer of broadcasting equipment and computers from China (2021)</p> (2020)<br>
+_general assessment_: <p>one of the most advanced infrastructures on the continent; investment by operators and municipal providers to improve network capability focused on fiber and LTE to extend connectivity; increase in Internet use for e-commerce, e-government, and e-health; government funds to improve broadband to more municipalities; high mobile penetration rate and FttP to 90% of the premises; regulatory intervention has improved telecommunications market; 5G in Capetown with additional auction and tests; importer of broadcasting equipment and computers from China</p> (2020)<br>
 _domestic_: fixed-line 3 per 100 persons and mobile-cellular 166 telephones per 100 persons; consists of carrier-equipped open-wire lines, coaxial cables, microwave radio relay links, fiber-optic cable, radiotelephone communication stations, and wireless local loops; key centers are Bloemfontein, Cape Town, Durban, Johannesburg, Port Elizabeth, and Pretoria (2019)<br>
 _international_: country code - 27; landing points for the WACS, ACE, SAFE, SAT-3, Equiano, SABR, SAEx1, SAEx2, IOX Cable System, METISS, EASSy, and SEACOM/ Tata TGN-Eurasia&nbsp;fiber-optic submarine cable systems connecting South Africa, East Africa, West Africa, Europe,&nbsp;Southeast Asia, Asia, South America, Indian Ocean Islands,&nbsp;and the&nbsp;US;&nbsp;satellite earth stations - 3 Intelsat (1 Indian Ocean and 2 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -634,8 +639,8 @@ _total_: 31,107,064<br>
 _percent of population_: 56.17% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,250,356<br>
-_subscriptions per 100 inhabitants_: 2.24 (2019 est.)<br>
+_total_: 1,303,057 (2020)<br>
+_subscriptions per 100 inhabitants_: 2.2 (2020 est.)<br>
 
 ## Transportation
 
@@ -713,6 +718,9 @@ note - in 2021, South Africa sent a contingent of about 300 troops to Mozambique
 
 **Military service age and obligation**<br>
 18-26 years of age for voluntary military service; women are eligible to serve in noncombat roles; 2-year service obligation (2021)<br>
+
+**Military - note**<br>
+<p>the SANDF was created in 1994 to replace the South African Defense Force (SADF); the SANDF was opened to all South Africans who met military requirements, while the SADF was a mostly white force (only whites were subject to conscription) with non-whites only allowed to join in a voluntary capacity; the SANDF also absorbed members of the guerrilla and militia forces of the various anti-apartheid opposition groups, including the African National Congress, the Pan Africanist Congress, and the Inkatha Freedom Party, as well as the security forces of the formerly independent Bantustan homelands</p> <p>as of 2021, the SANDF was one of Africa’s most capable militaries; it participated regularly in African and UN peacekeeping missions and had the ability to independently deploy throughout Africa; over the past decade, however, its operational readiness and modernization programs have been hampered by funding shortfalls</p><br>
 
 ## Terrorism
 

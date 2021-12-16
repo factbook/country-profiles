@@ -447,6 +447,11 @@ _services_: NA<br>
 11.1% (2013)<br>
 11.3% (2012)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.5%<br>
+_male_: 20.7%<br>
+_female_: 34.6% (2018 est.)<br>
+
 **Population below poverty line**<br>
 35% (2006 est.)<br>
 
@@ -611,8 +616,8 @@ government-dominated broadcast media; the National Communications Network (NCN) 
 .gy<br>
 
 **Internet users**<br>
-_total_: 276,498<br>
-_percent of population_: 37.33% (July 2018 est.)<br>
+_total_: 294,300 (2021 est.)<br>
+_percent of population_: 37.33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 64,889 (2017 est.)<br>

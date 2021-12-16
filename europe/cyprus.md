@@ -621,8 +621,8 @@ mixture of state and privately run TV and radio services; the public broadcaster
 .cy<br>
 
 **Internet users**<br>
-_total_: 1,044,473<br>
-_percent of population_: 84.43% (July 2018 est.)<br>
+_total_: 1.04 million (2021 est.)<br>
+_percent of population_: 90.8% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 332,080 (2020)<br>
@@ -713,7 +713,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 _refugees (country of origin)_: 8,797 (Syria) (2020)<br>
 _IDPs_: 228,000 (both Turkish and Greek Cypriots; many displaced since 1974) (2020)<br>
 _stateless persons_: 56 (2020)<br>
-<strong>note:</strong> 27,757 estimated refugee and migrant arrivals (January 2015-October 2021)<br>
+<strong>note:</strong> 29,826 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
 
 **Illicit drugs**<br>
 <p>vulnerable to money laundering from illegal drugs</p> <p> </p><br>

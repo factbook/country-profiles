@@ -350,8 +350,8 @@ _residency requirement for naturalization_: 10 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Roch Marc Christian KABORE (since 29 December 2015; re-elected 22 November 2020)<br>
-_head of government_: Prime Minister Christophe DABIRE (since 24 January 2019)<br>
+_chief of state_: President Roch Marc Christian KABORE (since 29 December 2015; reelected 22 November 2020)<br>
+_head of government_: Prime Minister Lassina ZERBO (since 10 December 2021); note - on 8 December 2021, President KABORE accepted the resignation of Prime Minister Christophe DABIRE; on 10 December 2021 Kabor&eacute; named ZERBO prime minister. (2021)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second); last held on 22 November 2020 (next to be held in November 2025); prime minister appointed by the president with consent of the National Assembly<br>
 _election results_: Roch Marc Christian KABORE reelected president in first round; percent of vote - Roch Marc Christian KABORE (MPP) 57.9%, Eddie KOMBOIGO (CDP) 15.5%, Zephirin DIABRE (UPC)12.5%, other 14.1%<br>
@@ -464,6 +464,11 @@ _industry and services_: 10% (2000 est.)<br>
 
 **Unemployment rate**<br>
 77% (2004)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.6%<br>
+_male_: 8.9%<br>
+_female_: 8.4% (2019)<br>
 
 **Population below poverty line**<br>
 41.4% (2018 est.)<br>
@@ -630,8 +635,8 @@ since the official inauguration of Terrestrial Digital Television (TNT) in Decem
 .bf<br>
 
 **Internet users**<br>
-_total_: 3,158,834<br>
-_percent of population_: 16% (July 2018 est.)<br>
+_total_: 5.46 million (2021 est.)<br>
+_percent of population_: 16% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 13,979 (2020)<br>

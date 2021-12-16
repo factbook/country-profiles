@@ -407,6 +407,11 @@ _services_: 53.6% (2002 est.)<br>
 **Unemployment rate**<br>
 20% (2003 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 37.2%<br>
+_male_: 39.6%<br>
+_female_: 34.3% (2019 est.)<br>
+
 **Population below poverty line**<br>
 25% (2016 est.)<br>
 
@@ -550,12 +555,12 @@ _electrification - rural areas_: 99.9% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 33,285<br>
-_subscriptions per 100 inhabitants_: 20.05 (2019 est.)<br>
+_total subscriptions_: 36,469 (2018)<br>
+_subscriptions per 100 inhabitants_: 20.05 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 168,797<br>
-_subscriptions per 100 inhabitants_: 101.68 (2019 est.)<br>
+_total subscriptions_: 184,944 (2018)<br>
+_subscriptions per 100 inhabitants_: 97.65 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: an adequate system that is automatically switched; good interisland and international connections; broadband access; expanded FttP (Fiber to the Home) and LTE markets; regulatory development; telecom sector contributes to the overall GDP; telecom sector is a growth area (2020)<br>
@@ -574,8 +579,8 @@ _total_: 84,112<br>
 _percent of population_: 50.82% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 32,265<br>
-_subscriptions per 100 inhabitants_: 19 (2018 est.)<br>
+_total_: 32,265 (2018)<br>
+_subscriptions per 100 inhabitants_: 17.56 (2019 est.)<br>
 
 ## Transportation
 

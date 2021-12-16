@@ -303,7 +303,7 @@ _etymology_: three possibilities exist for the derivation of the name; originall
 Independence Day, 20 March (1956); Revolution and Youth Day, 14 January (2011)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker 27 January 2014<br>
+_history_: several previous; latest approved by Constituent Assembly 26 January 2014, signed by the president, prime minister, and Constituent Assembly speaker 27 January 2014; note - in mid-December 2021 President Kais SAIED announced that a constitutional referendum would be held in late July 2022<br>
 _amendments_: proposed by the president of the republic or by one third of the Assembly of the Representatives of the People membership; following review by the Constitutional Court, approval to proceed requires an absolute majority vote by the Assembly and final passage requires a two-thirds majority vote by the Assembly; the president can opt to submit an amendment to a referendum, which requires an absolute majority of votes cast for passage<br>
 
 **Legal system**<br>
@@ -329,7 +329,7 @@ _elections/appointments_: president directly elected by absolute majority popula
 _election results_: <p>first round - Kais SAIED (independent) 18.4%, Nabil KAROUI (Heart of Tunisia) 15.6%, Abdelfattah MOUROU (Nahda Movement) 12.9%, Abdelkrim ZBIDI(independent) 10.7%,Youssef CHAHED (Long Live Tunisia) 7.4%, Safi SAID (independent) 7.1%, Lotfi MRAIHI (Republican People's Union) 6.6%, other 21.3%; runoff - Kais SAIED elected president; Kais SAIED 72.7%, Nabil KAROUI 27.3%</p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p> <p> </p><br>
 
 **Legislative branch**<br>
-_description_: note: on 25 July 2021, President SAIED suspended the Assembly for 30 days<br>unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies abroad by party-list proportional representation vote; members serve 5-year terms)<br>
+_description_: unicameral Assembly of the Representatives of the People or Majlis Nuwwab ash-Sha'b (Assemblee des representants du peuple) (217 seats; 199 members directly elected in Tunisian multi-seat constituencies and 18 members in multi-seat constituencies living abroad by party-list proportional representation vote; members serve 5-year terms); note - in mid-December 2021, President Kais SAIED announced that the parliament, which he suspended the previous July, would be extended until a general election in December 2022, nearly two years earlier than the expected election date of late October 2024<br>
 _elections_: initial election held on 6 October 2019 (next to be held in October 2024)<br>
 _election results_: percent of vote by party - Ennahdha 19.6%, Heart of Tunisia 14.6%, Free Destourian Party 6.6%, Democratic Current 6.4%, Dignity Coalition 5.9%, People's Movement 4.5%, TahyaTounes 4.1%, other 35.4%, independent 2.9%; seats by party -&nbsp; Ennahdha 52, Heart of Tunisia 38, Free Destourian Party 17, Democratic Current 22, Dignity Coalition 21, People's Movement 16, Tahya Tounes 14, other 25, independent 12; composition (as of October 2021) - men 160, women 57, percent of women 26.3%<br>
 
@@ -440,6 +440,11 @@ _services_: 51.7% (2014 est.)<br>
 **Unemployment rate**<br>
 15.5% (2017 est.)<br>
 15.5% (2016 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 34.9%<br>
+_male_: 33.8%<br>
+_female_: 37.2% (2017 est.)<br>
 
 **Population below poverty line**<br>
 15.2% (2015 est.)<br>
@@ -583,12 +588,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 1,454,183<br>
-_subscriptions per 100 inhabitants_: 12.51 (2019 est.)<br>
+_total subscriptions_: 1,533,273 (2020)<br>
+_subscriptions per 100 inhabitants_: 12.97 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,771,048<br>
-_subscriptions per 100 inhabitants_: 127.11 (2019 est.)<br>
+_total subscriptions_: 14,852,857 (2020)<br>
+_subscriptions per 100 inhabitants_: 125.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Tunisia has one of the most sophisticated telecom infrastructures in North Africa; penetration rates for mobile and Internet services are among the highest in the region; government program of regulation and infrastructure projects aims to improve Internet connectivity to underserved areas; operators built extensive LTE infrastructure in 2019, and are developing 5G networks and services; Chinese company Huawei invested in LTE network; operator planning nano-satellite launches in 2023; Internet censorship abolished, though concerns of government surveillance remain; legislation passed in 2017 supporting e-commerce and active e-government; importer of integrated circuits and broadcasting equipment from China (2020)<br>
@@ -607,8 +612,8 @@ _total_: 7,392,242<br>
 _percent of population_: 64.19% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,193,359<br>
-_subscriptions per 100 inhabitants_: 10.27 (2019 est.)<br>
+_total_: 1,334,551 (2020)<br>
+_subscriptions per 100 inhabitants_: 11.29 (2020 est.)<br>
 
 ## Transportation
 
@@ -659,7 +664,8 @@ _major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tunisian Armed Forces (Forces Armees Tunisiens, FAT): Tunisian Army (includes Tunisian Air Defense Force), Tunisian Navy, Republic of Tunisia Air Force; Ministry of Interior: Tunisian National Guard (2021)<br>
+Tunisian Armed Forces (Forces Armees Tunisiens, FAT): Tunisian Army (includes Tunisian Air Defense Force), Tunisian Navy, Republic of Tunisia Air Force; Ministry of Interior: National Police, National Guard (2021)<br>
+note - the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
 2.9% of GDP (2020 est.)<br>

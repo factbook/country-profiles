@@ -450,6 +450,11 @@ _services_: 19% (2015 est.)<br>
 3% (2017 est.)<br>
 3.2% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 21.4%<br>
+_male_: 19.7%<br>
+_female_: 23.9% (2017 est.)<br>
+
 **Population below poverty line**<br>
 25.2% (2011 est.)<br>
 
@@ -616,8 +621,8 @@ state operates 3 TV stations, as well as national and regional radio stations; 1
 .np<br>
 
 **Internet users**<br>
-_total_: 10,103,980<br>
-_percent of population_: 34% (July 2018 est.)<br>
+_total_: 10.78 million (2021 est.)<br>
+_percent of population_: 34% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 791,961 (2018)<br>

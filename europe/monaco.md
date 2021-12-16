@@ -382,6 +382,11 @@ _services_: 83.9% (2012 est.)<br>
 **Unemployment rate**<br>
 2% (2012)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.7%<br>
+_male_: 25.7%<br>
+_female_: 27.9% (2016 est.)<br>
+
 **Population below poverty line**<br>
 NA<br>
 
@@ -463,8 +468,8 @@ TV Monte-Carlo operates a TV network; cable TV available; Radio Monte-Carlo has 
 .mc<br>
 
 **Internet users**<br>
-_total_: 29,821<br>
-_percent of population_: 97.05% (July 2018 est.)<br>
+_total_: 38,200 (2021 est.)<br>
+_percent of population_: 97.05% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 20,877 (2020)<br>

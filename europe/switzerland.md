@@ -453,6 +453,11 @@ _services_: 76.9% (2015)<br>
 2.31% (2019 est.)<br>
 2.55% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 8.6%<br>
+_male_: 9.2%<br>
+_female_: 8% (2020 est.)<br>
+
 **Population below poverty line**<br>
 16% (2018 est.)<br>
 
@@ -600,12 +605,12 @@ NA cu m (1 January 2011 est.)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 3,102,504<br>
-_subscriptions per 100 inhabitants_: 37.19 (2019 est.)<br>
+_total subscriptions_: 2.952 million (2020)<br>
+_subscriptions per 100 inhabitants_: 34.11 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 10,829,031<br>
-_subscriptions per 100 inhabitants_: 129.79 (2019 est.)<br>
+_total subscriptions_: 10.9 million (2020)<br>
+_subscriptions per 100 inhabitants_: 125.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Switzerland emerged as a European leader for 1Gb/s fiber broadband, complemented by 5G to 97% of the population; competitive market buttressed by regulator assurances of 5G-compatible network infrastructure; although not a member of the EU, Switzerland follows the EU's telecom framework and regulations; Zurich is being developed as a smart city (2020)<br>
@@ -624,8 +629,8 @@ _total_: 7,437,820<br>
 _percent of population_: 89.69% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 4,029,445<br>
-_subscriptions per 100 inhabitants_: 48.3 (2019 est.)<br>
+_total_: 4.023 million (2020)<br>
+_subscriptions per 100 inhabitants_: 46.48 (2020 est.)<br>
 
 ## Transportation
 

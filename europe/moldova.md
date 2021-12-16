@@ -445,6 +445,11 @@ _services_: 55.7% (2017 est.)<br>
 4.99% (2019 est.)<br>
 3.16% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 10.9%<br>
+_male_: 9.9%<br>
+_female_: 12.3% (2020 est.)<br>
+
 **Population below poverty line**<br>
 7.3% (2018 est.)<br>
 
@@ -613,8 +618,8 @@ state-owned national radio-TV broadcaster operates 1 TV and 1 radio station; a t
 .md<br>
 
 **Internet users**<br>
-_total_: 2,616,792<br>
-_percent of population_: 76.12% (July 2018 est.)<br>
+_total_: 3.07 million (2021 est.)<br>
+_percent of population_: 76.12% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 719,001 (2020)<br>

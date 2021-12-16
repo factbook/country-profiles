@@ -92,7 +92,7 @@ _noun_: Sudanese (singular and plural)<br>
 _adjective_: Sudanese<br>
 
 **Ethnic groups**<br>
-unspecified Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Fallata<br>
+Sudanese Arab (approximately 70%), Fur, Beja, Nuba, Fallata<br>
 
 **Languages**<br>
 Arabic (official), English (official), Nubian, Ta Bedawie, Fur<br>
@@ -461,6 +461,11 @@ _services_: 13% (1998 est.)<br>
 **Unemployment rate**<br>
 19.6% (2017 est.)<br>
 20.6% (2016 est.)<br>
+
+**Unemployment, youth ages 15-24**<br>
+_total_: 32.6%<br>
+_male_: 27.4%<br>
+_female_: 43.5% (2011 est.)<br>
 
 **Population below poverty line**<br>
 46.5% (2009 est.)<br>

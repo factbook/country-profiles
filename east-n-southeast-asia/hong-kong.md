@@ -394,6 +394,11 @@ _manufacturing_: 17.1% (2013 est.)<br>
 2.93% (2019 est.)<br>
 2.83% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 15.5%<br>
+_male_: 17.3%<br>
+_female_: 13.6% (2020 est.)<br>
+
 **Population below poverty line**<br>
 19.9% (2016 est.)<br>
 
@@ -558,8 +563,8 @@ _international_: country code - 852;&nbsp;landing points for the APG, ASE, EAC-C
 .hk<br>
 
 **Internet users**<br>
-_total_: 6,450,167<br>
-_percent of population_: 89.42% (July 2018 est.)<br>
+_total_: 6.92 million (2021 est.)<br>
+_percent of population_: 92.41% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,871,081 (2020)<br>

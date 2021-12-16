@@ -466,6 +466,11 @@ _services_: 56.1% (2017 est.)<br>
 14.1% (2017 est.)<br>
 15.9% (2016 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 26.7%<br>
+_male_: 25%<br>
+_female_: 29.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 23.2% (2018 est.)<br>
 
@@ -608,12 +613,12 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 2,565,392<br>
-_subscriptions per 100 inhabitants_: 36.43 (2019 est.)<br>
+_total subscriptions_: 2,572,169 (2020)<br>
+_subscriptions per 100 inhabitants_: 37.43 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 8,453,887<br>
-_subscriptions per 100 inhabitants_: 120.06 (2019 est.)<br>
+_total subscriptions_: 8,260,758 (2020)<br>
+_subscriptions per 100 inhabitants_: 120.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Serbia's integration with the EU helped regulator reforms and promotion of telecom; EU development loans for broadband to rural areas; pandemic spurred use of mobile data and other services; wireless service is available through multiple providers; national coverage is growing rapidly; best telecom services are centered in urban centers; 4G/LTE mobile network launched; 5G tests ongoing with Ericsson and Huawei (2020)<br>
@@ -629,8 +634,8 @@ _total_: 5,192,501<br>
 _percent of population_: 73.36% (July 2018 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 1,623,790<br>
-_subscriptions per 100 inhabitants_: 23.06 (2019 est.)<br>
+_total_: 1,724,392 (2020)<br>
+_subscriptions per 100 inhabitants_: 25.09 (2020 est.)<br>
 
 ## Transportation
 
@@ -717,7 +722,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 807,137 estimated refugee and migrant arrivals (January 2015-November 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 808,437 estimated refugee and migrant arrivals (January 2015-November 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

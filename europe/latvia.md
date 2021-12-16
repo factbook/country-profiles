@@ -444,6 +444,11 @@ _services_: 68.1% (2016 est.)<br>
 6.14% (2019 est.)<br>
 6.51% (2018 est.)<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 14.9%<br>
+_male_: 14.4%<br>
+_female_: 15.5% (2020 est.)<br>
+
 **Population below poverty line**<br>
 22.9% (2018 est.)<br>
 
@@ -609,8 +614,8 @@ several national and regional commercial TV stations are foreign-owned, 2 nation
 .lv<br>
 
 **Internet users**<br>
-_total_: 1,607,711<br>
-_percent of population_: 83.58% (July 2018 est.)<br>
+_total_: 1.67 million (2021 est.)<br>
+_percent of population_: 88.9% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 503,804 (2020)<br>
