@@ -697,10 +697,10 @@ Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (
 the Bulgarian Armed Forces have approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, Italy, Norway, and the US (2020)<br>
+the Bulgarian Armed Forces inventory consists primarily of Soviet-era equipment, although in recent years Bulgaria has procured limited amounts of more modern weapons systems from Western countries, including France, Italy, Norway, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2019)<br>
+18-27 years of age for voluntary military service; conscription ended in 2007; service obligation 6-9 months (2021)<br>
 
 **Military - note**<br>
 Bulgaria officially became a member of NATO in 2004<br>

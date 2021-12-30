@@ -54,7 +54,7 @@ a 1,200-hectare marine nature reserve, the Reserve Naturelle, is made up of five
 7,116 (July 2021 est.)<br>
 
 **Ethnic groups**<br>
-other White, Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asia)<br>
+French, Portuguese, Caribbean, Afro-Caribbean<br>
 
 **Languages**<br>
 French (primary), English<br>
@@ -209,7 +209,7 @@ _elections_: Territorial Council - last held on 19 March 2017 (next to be held i
 _election results_: Territorial Council - percent of vote by party - SBA 53.7%, United for Saint Barth 20.6%, Saint Barth Essential 18.1%, All for Saint Barth 7.7%; seats by party - SBA 14, United for Saint Barth 2, Saint Barth Essential 2, All for Saint Barth 1; composition - men 9, women 10, percent of women 52.6% <br>French Senate - percent of vote by party NA; seats by party UMP 1 <br>French National Assembly - percent of vote by party NA; seats by party UMP 1<br>
 
 **Political parties and leaders**<br>
-All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Essential (Saint-Barth Autrement) [Marie-Helene BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Bruno MAGRAS]<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
+All for Saint Barth (Tous pour Saint-Barth) [Bettina COINTRE]<br>Saint Barth Essential (Saint-Barth Autrement) [Marie-Helene BERNIER]<br>Saint Barth First! (Saint-Barth d'Abord!) or SBA [Bruno MAGRAS] (affiliated with France's Republican party, Les Republicans)<br>Saint Barth United (Unis pour Saint-Barthelemy) [Xavier LEDEE]<br>
 
 **International organization participation**<br>
 UPU<br>
@@ -263,16 +263,19 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telecommunication systems**<br>
-_general assessment_: fully integrated access; 4G and LTE services (2020)<br>
+_general assessment_: fully integrated access; 4G and LTE services (2019)<br>
 _domestic_: direct dial capability with both fixed and wireless systems, 3 FM channels, no broadcasting (2018)<br>
 _international_: country code - 590; landing points for the SSCS and the Southern Caribbean Fiber submarine&nbsp;cables providing voice and data connectivity to numerous Caribbean Islands (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-no local TV broadcasters; 3 FM radio channels (2019)<br>
+2 local TV broadcasters; 5 FM radio channels (2021)<br>
 
 **Internet country code**<br>
 .bl; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
+
+**Internet users**<br>
+_total_: 2,025 (2021 est.)<br>
 
 ## Transportation
 

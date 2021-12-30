@@ -5,7 +5,7 @@ _Europe / Dependencies (Denmark)_
 ## Introduction
 
 **Background**<br>
-The population of the Faroe Islands is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. A high degree of self-government was granted the Faroese in 1948, who have autonomy over most internal affairs while Denmark is responsible for justice, defense, and foreign affairs. The Faroe Islands are not part of the European Union.<br>
+The population of the Faroe Islands, a self-governing dependency of Denmark, is largely descended from Viking settlers who arrived in the 9th century. The islands have been connected politically to Denmark since the 14th century. The Home Rule Act of 1948 granted a high degree of self-Government to the Faroese, who have autonomy over most internal affairs and external trade, while Denmark is responsible for justice, defense, and some foreign affairs. The Faroe Islands are not part of the European Union.<br>
 
 ## Geography
 
@@ -264,22 +264,22 @@ see Denmark<br>
 
 **Executive branch**<br>
 _chief of state_: Queen MARGRETHE II of Denmark (since 14 January 1972), represented by High Commissioner Lene Moyell JOHANSEN, chief administrative officer (since 15 May 2017)<br>
-_head of government_: Prime Minister Bardhur A STEIG NIELSEN (since 16 September 2019)<br>
+_head of government_: Prime Minister Bardur A STEIG NIELSEN (since 16 September 2019)<br>
 _cabinet_: Landsstyri appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; high commissioner appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually elected prime minister by the Faroese Parliament; election last held on 31 August 2019 (next to be held in 2023)<br>
-_election results_: Bardhur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br>
+_election results_: Bardur A STEIGNIELSEN elected prime minister; Parliament vote - NA<br>
 
 **Legislative branch**<br>
 _description_: unicameral Faroese Parliament or Logting (33 seats; members directly elected in a single nationwide constituency by proportional representation vote; members serve 4-year terms)<br>the Faroe Islands elect 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Faroese Parliament - last held on 31 August 2019 (next to be held in 2023)<br>Faroese seats in the Danish Parliament last held on 5 June 2019 (next to be held no later than June 2023)<br>
-_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progressive Party 4.6%, New Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progressive Party 2, New Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - Social Democratic Party 1, Republican Party 1; composition - men 2<br>
+_election results_: Faroese Parliament percent of vote by party - People's Party 24.5%, JF 22.1%, Union Party 20.3%, Republic 18.1%, Center Party 5.4%, Progress Party 4.6%, Self-Government Party 3.4%, other 1.4%, seats by party - People's Party 8, JF 7, Union Party 7, Republic 6, Center Party 2, Progress Party 2, Self-Government Party 1, composition - men 25, women 8; percent of women 24.2% <br>Faroese seats in Danish Parliament - percent of vote by party - NA; seats by party - JF 1, Republic 1; composition - men 2<br>
 
 **Judicial branch**<br>
 _highest courts_: Faroese Court or Raett (Rett - Danish) decides both civil and criminal cases; the Court is part of the Danish legal system<br>
 _subordinate courts_: Court of the First Instance or Tribunal de Premiere Instance; Court of Administrative Law or Tribunal Administratif; Mixed Commercial Court; Land Court<br>
 
 **Political parties and leaders**<br>
-Center Party (Midflokkurin) [Jenis av RANA]<br>Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br>Progressive Party (Framsokn) [Poul MICHELSEN]<br>Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party (Sambandsflokkurin) [Bardhur A STEIG NIELSEN]<br>
+Center Party (Midflokkurin) [Jenis av RANA]<br>People's Party (Folkaflokkurin) [Jorgen NICLASEN]<br>Progress Party (Framsokn) [Poul MICHELSEN]<br>Republic (Tjodveldi) [Hogni HOYDAL] (formerly the Republican Party)<br>Self-Government Party (Sjalvstyri or Sjalvstyrisflokkurin) [Jogvan SKORHEIM]<br>Social Democratic Party (Javnadarflokkurin) or JF [Aksel V. JOHANNESEN]<br>Union Party (Sambandsflokkurin) [Bardur A STEIG NIELSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, IMO (associate), NC, NIB, UNESCO (associate), UPU<br>
@@ -502,7 +502,7 @@ _subscriptions per 100 inhabitants_: 120.8 (2020 est.)<br>
 **Telecommunication systems**<br>
 _general assessment_: good international and domestic communications; telecommunications network of high standards with excellent coverage throughout most parts of the country and at competitive prices (2020)<br>
 _domestic_: 37 per 100 for fixed-line and 116 per 100 for mobile-cellular; both NMT (analog) and GSM (digital) mobile telephone systems are installed (2019)<br>
-_international_: country code - 298;&nbsp;landing points for the SHEFA-2, FARICE-1, and CANTAT-3&nbsp;fiber-optic submarine cables&nbsp;from the&nbsp;Faeroe Islands, to&nbsp;Denmark, Germany, UK&nbsp;and Iceland; satellite earth stations - 1 Orion; (2019)<br>
+_international_: country code - 298; landing points for the SHEFA-2, FARICE-1, and CANTAT-3 fiber-optic submarine cables from the Faroe Islands, to Denmark, Germany, UK and Iceland; satellite earth stations - 1 Orion; (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>

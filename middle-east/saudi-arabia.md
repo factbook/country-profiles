@@ -607,8 +607,8 @@ broadcast media are state-controlled; state-run TV operates 4 networks; Saudi Ar
 .sa<br>
 
 **Internet users**<br>
-_total_: 30,877,318<br>
-_percent of population_: 93.31% (July 2018 est.)<br>
+_total_: 33.58 million (2021 est.)<br>
+_percent of population_: 97.86% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 7,890,261 (2020)<br>
@@ -672,11 +672,11 @@ _container port(s) (TEUs)_: Ad Dammam (1,822,642), Jeddah (4,433,991), King Abdu
 ## Military and Security
 
 **Military and security forces**<br>
-Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: police, Border Guard, Facilities Security Force; State Security Presidency: General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces  (2021)<br>
+Ministry of Defense: Royal Saudi Land Forces, Royal Saudi Naval Forces (includes marines, special forces, naval aviation), Royal Saudi Air Force, Royal Saudi Air Defense Forces, Royal Saudi Strategic Missiles Force; Ministry of the National Guard (SANG); Ministry of Interior: police, Border Guard, Facilities Security Force; State Security Presidency: General Directorate of Investigation (Mabahith), Special Security Forces, Special Emergency Forces (2021)<br>
 note - SANG (also known as the White Army) is a land force separate from the Ministry of Defense that is responsible for internal security, protecting the royal family, and external defense<br>
 
 **Military expenditures**<br>
-7.9% of GDP (2020 est.)<br>
+7.8% of GDP (2020 est.)<br>
 8% of GDP (2019)<br>
 9.5% of GDP (2018)<br>
 11.1% of GDP (2017)<br>
@@ -684,10 +684,10 @@ note - SANG (also known as the White Army) is a land force separate from the Min
 
 **Military and security service personnel strengths**<br>
 the Saudi military forces have about 225,000 active troops; approximately 125,000 under the Ministry of Defense (75,000 Land Forces; 14,000 Naval Forces; 36,000 Air Force/Air Defense/Strategic Missile Forces) and approximately 100,000 in the Saudi Arabia National Guard (SANG) (2021)<br>
-note: SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
+note - SANG also has an irregular force (Fowj), primarily Bedouin tribal volunteers, with a total strength of approximately 25,000 men<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US is the leading supplier of armaments, followed by France and the UK; Saudi Arabia is the world's largest arms importer (2020)<br>
+the inventory of the Saudi military forces, including the SANG, includes a mix of mostly modern weapons systems from the US and Europe; since 2010, the US is the leading supplier of armaments, followed by France and the UK; Saudi Arabia is the world's largest arms importer (2021)<br>
 
 **Military deployments**<br>
 est. 2,500-5,000 Yemen (varies depending on operations, which continued into 2021) (2021)<br>
@@ -717,5 +717,5 @@ _current situation_: Saudi Arabia is a destination country for men and women sub
 _tier rating_: <p>Tier 2 Watch List — Saudi Arabia does not fully meet the minimum standards for the elimination of trafficking, but is making significant efforts to do so and was upgraded to Tier 2 Watch List;</p> the government enacted the country’s first-ever national referral mechanism (NRM) and increased the number of prosecutions and convictions under the anti-trafficking law; victims are identified and referred for care; the government convicted and sentenced two Saudi officials complicit in trafficking crimes; however, the government continued to fine, jail, and/or deport migrant workers for prostitution or immigration violations who may have been trafficking victims; authorities regularly misclassified potential trafficking crimes as labor law violations rather than as criminal offenses (2020)<br>
 
 **Illicit drugs**<br>
-regularly enforces the death penalty for drug traffickers, with foreigners being convicted and executed disproportionately; improving anti-money-laundering legislation and enforcement<br>
+regularly sentences drug traffickers to the death penalty, although a moratorium on executions for drug offences has been in place since at least 2020; improving anti-money-laundering legislation and enforcement<br>
 

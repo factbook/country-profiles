@@ -316,14 +316,14 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age (16 in local council elections); universal<br>
 
 **Executive branch**<br>
-_chief of state_: President George VELLA (since 4 April 2019)&nbsp;<br>
-_head of government_: &nbsp;Prime Minister Robert ABELA (13 January 2020)&nbsp;<br>
+_chief of state_: President George VELLA (since 4 April 2019)<br>
+_head of government_: Prime Minister Robert ABELA (13 January 2020)<br>
 _cabinet_: Cabinet appointed by the president on the advice of the prime minister<br>
 _elections/appointments_: president indirectly elected by the House of Representatives for a single 5-year term; election last held on 2 April 2019 (next to be held by April 2024); following legislative elections, the leader of the majority party or majority coalition usually appointed prime minister by the president for a 5-year term; deputy prime minister appointed by the president on the advice of the prime minister<br>
-_election results_: George VELLA (PL) elected president; House of Representatives vote - unanimous; Joseph MUSCAT (PL) reappointed prime minister<br>
+_election results_: George VELLA (PL) elected president; House of Representatives vote - unanimous; Robert ABELA (PL) appointed prime minister<br>
 
 **Legislative branch**<br>
-_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note -&nbsp; an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
+_description_: unicameral House of Representatives or Il-Kamra Tad-Deputati, a component of the Parliament of Malta (normally 65 seats but can include at-large members; members directly elected in 5 multi-seat constituencies by proportional representation vote; members serve 5-year terms); note - an additional two seats were added in 2016 by the Constitutional Court to correct for mistakes made in the 2013 vote-counting process<br>
 _elections_: last held on 3 June 2017 (next to be held on 31 July 2022); note - Prime Minister MUSCAT called for early elections amid corruption allegations<br>
 _election results_: percent of vote by party - PL 55%, PN 43.7%, other 1.3%; seats by party - PL 37 PN 30; note - PN was awarded two additional seats for a total of 30 in accordance with the proportionality provisions specified in the constitution; PD candidates ran under the PN list; composition - men 57, women 10, percent of women 14.9%<br>
 
@@ -333,7 +333,7 @@ _judge selection and term of office_: Court of Appeal and Constitutional Court j
 _subordinate courts_: Civil Court (divided into the General Jurisdiction Section, Family Section, and Voluntary Section); Criminal Court; Court of Magistrates; Gozo Courts (for the islands of Gozo and Comino)<br>
 
 **Political parties and leaders**<br>
-Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA]<br>Labor Party (Partit Laburista) or PL [Joseph MUSCAT]<br>Nationalist Party (Partit Nazzjonalista) or PN [Adrian DELIA]<br>
+Democratic Party (Partit Demokratiku) or PD [Godfrey FARRUGIA]<br>Labor Party (Partit Laburista) or PL [Robert ABELA]<br>Nationalist Party (Partit Nazzjonalista) or PN [Bernard GRECH]<br>
 
 **International organization participation**<br>
 Australia Group, C, CD, CE, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OAS (observer), OPCW, OSCE, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, Union Latina (observer), UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -676,7 +676,7 @@ the small inventory of the Armed Forces of Malta consists of equipment from a mi
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 11 (2020)<br>
-<strong>note:</strong> 7,985 estimated refugee and migrant arrivals by sea (January 2015-November 2021)<br>
+<strong>note:</strong> 7,985 estimated refugee and migrant arrivals by sea (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 minor transshipment point for hashish from North Africa to Western Europe<br>

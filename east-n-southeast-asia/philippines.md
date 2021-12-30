@@ -344,8 +344,8 @@ _residency requirement for naturalization_: 10 years<br>
 **Executive branch**<br>
 _chief of state_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016); note - the president is both chief of state and head of government<br>
 _head of government_: President Rodrigo DUTERTE (since 30 June 2016); Vice President Leni ROBREDO (since 30 June 2016)<br>
-_cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president&nbsp;<br>
-_elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held in May 2022)<br>
+_cabinet_: Cabinet appointed by the president with the consent of the Commission of Appointments, an independent body of 25 Congressional members including the Senate president (ex officio chairman), appointed by the president<br>
+_elections/appointments_: president and vice president directly elected on separate ballots by simple majority popular vote for a single 6-year term; election last held on 9 May 2016 (next to be held on 9 May 2022)<br>
 _election results_: Rodrigo DUTERTE elected president; percent of vote - Rodrigo DUTERTE (PDP-Laban) 39%, Manuel "Mar" ROXAS (LP) 23.5%, Grace POE (independent) 21.4%, Jejomar BINAY (UNA) 12.7%, Miriam Defensor SANTIAGO (PRP) 3.4%; Leni ROBREDO elected vice president; percent of vote Leni ROBREDO (LP) 35.1%, Bongbong MARCOS (independent) 34.5%, Alan CAYETANO 14.4%, Francis ESCUDERO (independent) 12%, Antonio TRILLANES (independent) 2.1%, Gregorio HONASAN (UNA) 1.9%<br>
 
 **Legislative branch**<br>
@@ -632,8 +632,8 @@ multiple national private TV and radio networks; multi-channel satellite and cab
 .ph<br>
 
 **Internet users**<br>
-_total_: 63,588,975<br>
-_percent of population_: 60.05% (July 2018 est.)<br>
+_total_: 73.91 million (2021 est.)<br>
+_percent of population_: 43.03% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,920,087 (2019)<br>

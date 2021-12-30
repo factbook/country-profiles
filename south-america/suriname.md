@@ -607,8 +607,8 @@ _international_: country code - 597; landing point for the SG-SCS submarine cabl
 .sr<br>
 
 **Internet users**<br>
-_total_: 292,685<br>
-_percent of population_: 48.95% (July 2018 est.)<br>
+_total_: 352,100 (2021 est.)<br>
+_percent of population_: 48.95% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 92,270 (2020)<br>
@@ -676,7 +676,7 @@ the Suriname Army is comprised of approximately 1,800 active personnel (ground, 
 the Suriname Army has a limited inventory comprised of a mix of older, foreign-supplied equipment; since 2010, Suriname has received small quantities of military hardware from several countries, including the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
+18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, a key mission of the National Leger was assisting the Suriname police as part of the government’s overall efforts to secure the country’s borders and combat crime, particularly narco-trafficking, including joint military and police patrols, as well as joint special security teams</p><br>

@@ -328,7 +328,7 @@ _election results_: Sauli NIINISTO reelected president; percent of vote Sauli NI
 **Legislative branch**<br>
 _description_: unicameral Parliament or Eduskunta (200 seats; 199 members directly elected in single- and multi-seat constituencies by proportional representation vote and 1 member in the province of Aland directly elected by simple majority vote; members serve 4-year terms)<br>
 _elections_: last held on 14 April 2019 (next to be held in April 2023)<br>
-_election results_: percent of vote by party/coalition - SDP 17.7%, Finn Party 17.5%, Kok 17.0%. Centre Party&nbsp; 13.8%, Green League 11.5%, Left Alliance 8.2%; seats by party/coalition -SDP 40, Finn Party 39, Kok 38, Centre Party 31, Green League 20, Left Alliance 16; composition men 108, women 92, percent of women 46%<br>
+_election results_: percent of vote by party/coalition - SDP 17.7%, PS 17.5%, Kok 17.0%. Center Party&nbsp; 13.8%, Vihr 11.5%, Vas 8.2%, SFP 4.5%, KD 3.9%, other 5.9%; seats by party/coalition - SDP 40, PS 39, Kok 38, Centre Party 31, Vihr 20, Vas 16, SFP 9, KD 5; composition men 108, women 92, percent of women 46%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Korkein Oikeus (consists of the court president and 18 judges); Supreme Administrative Court (consists of 21 judges, including the court president and organized into 3 chambers); note - Finland has a dual judicial system - courts with civil and criminal jurisdiction and administrative courts with jurisdiction for litigation between individuals and administrative organs of the state and communities<br>
@@ -336,7 +336,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: 6 Courts of Appeal; 8 regional administrative courts; 27 district courts; special courts for issues relating to markets, labor, insurance, impeachment, land, tenancy, and water rights<br>
 
 **Political parties and leaders**<br>
-Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Jussi HALLA-AHO]<br>Green League or Vihr [Maria OHISALO]<br>Left Alliance or Vas [Li ANDERSSON]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or SFP [Anna-Maja HENRIKSSON]<br>
+Aland Coalition (a coalition of several political parties on the Aland Islands)<br>Center Party or Kesk [Annika SAARIKKO]<br>Christian Democrats or KD [Sari ESSAYAH]<br>Finns Party or PS [Riikka PURRA]<br>Green League or Vihr [Maria OHISALO]<br>Left Alliance or Vas [Li ANDERSSON]<br>National Coalition Party or Kok [Petteri ORPO]<br>Social Democratic Party or SDP [Sanna MARIN]<br>Swedish People's Party or RKP or SFP [Anna-Maja HENRIKSSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNMIL, UNMOGIP, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -670,26 +670,26 @@ _major seaport(s)_: Helsinki, Kotka, Naantali, Porvoo, Raahe, Rauma<br>
 
 **Military and security forces**<br>
 Finnish Defense Forces (FDF): Army (Maavoimat), Navy (Merivoimat), Air Force (Ilmavoimat); Ministry of the Interior: Border Guard (Rajavartiolaitos) (2021)<br>
-note: the Border Guard becomes part of the FDF in wartime<br>
+note - the Border Guard becomes part of the FDF in wartime<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
-1.5% of GDP (2020)<br>
+1.53% of GDP (2020)<br>
 1.5% of GDP (2019)<br>
 1.4% of GDP (2018)<br>
 1.4% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 23,000 total active duty personnel (16,000 Army; 4,000 Navy; 3,000 Air Force) (2020)<br>
+information varies; approximately 22,000 total active duty personnel (15,000 Army; 4,000 Navy; 3,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Finnish Defense Forces consists of a wide mix of mostly modern Western and domestically-produced weapons systems, as well as a limited quantity of Soviet-era equipment; since 2010, the US and several European countries, including France and Italy, are the leading foreign suppliers of armaments to Finland; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2020)<br>
+the inventory of the Finnish Defense Forces consists of a wide mix of mostly modern US, European, and domestically-produced weapons systems; the Finnish defense industry produces a variety of military equipment, including wheeled armored vehicles and naval vessels (2021)<br>
 
 **Military deployments**<br>
-200 Lebanon (UNIFIL) (2021)<br>
+160 Lebanon (UNIFIL) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-at age 18, all Finnish men are obligated to serve 6-12 months of service within a branch of the military or the Border Guard, and women may volunteer for service; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 60 (2019)<br>
+at age 18, all Finnish men are obligated to serve 6-12 months of service within a branch of the military or the Border Guard, and women may volunteer for service; after completing their initial conscript obligation, individuals enter the reserves and remain eligible for mobilization until the age of 60 (2021)<br>
 
 **Military - note**<br>
 <p>Finland is not a member of NATO, but the two actively cooperate in peace-support operations, exercise together, and exchange analysis and information; Finland joined NATO’s Partnership for Peace program in 1994; Finnish Armed Forces participated in NATO-led military operations and missions in the Balkans, Afghanistan, and Iraq</p> <p>Finland is a signatory of the EU’s Common Security and Defense Policy (CSDP) and actively participates in CSDP crisis management missions and operations</p> <p>the Finnish Armed Forces closely cooperate with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p><br>

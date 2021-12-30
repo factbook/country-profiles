@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ethnic Kazakhs, a mix of Turkic and Mongol nomadic tribes with additional Persian cultural influences, migrated to the region in the 15th century. The area was conquered by Russia in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation associated with forced agricultural collectivization led to a massive number of deaths in the 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in the Central Asian states, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, obtaining membership in global and regional international economic institutions, enhancing Kazakhstan's economic competitiveness, and strengthening relations with neighboring states and foreign powers.</p><br>
+<p>Ethnic Kazakhs derive from a mix of Turkic nomadic tribes that migrated to the region in the 15th century. The Kazakh steppe was conquered by the Russian Empire in the 18th and 19th centuries, and Kazakhstan became a Soviet Republic in 1925. Repression and starvation caused by forced agricultural collectivization led to more than a million deaths in the early 1930s. During the 1950s and 1960s, the agricultural "Virgin Lands" program led to an influx of settlers (mostly ethnic Russians, but also other nationalities) and at the time of Kazakhstan’s independence in 1991, ethnic Kazakhs were a minority. Non-Muslim ethnic minorities departed Kazakhstan in large numbers from the mid-1990s through the mid-2000s and a national program has repatriated about a million ethnic Kazakhs (from Uzbekistan, Tajikistan, Mongolia, and the Xinjiang region of China) back to Kazakhstan. As a result of this shift, the ethnic Kazakh share of the population now exceeds two-thirds.<br><br>Kazakhstan's economy is the largest in the Central Asian states, mainly due to the country's vast natural resources. Current issues include: diversifying the economy, obtaining membership in global and regional international economic institutions, enhancing Kazakhstan's economic competitiveness, and strengthening relations with neighboring states and foreign powers.</p><br>
 
 ## Geography
 
@@ -296,7 +296,7 @@ _conventional short form_: Kazakhstan<br>
 _local long form_: Qazaqstan Respublikasy<br>
 _local short form_: Qazaqstan<br>
 _former_: Kazakh Soviet Socialist Republic<br>
-_etymology_: the name "Kazakh" derives from the Turkic word "kaz" meaning "to wander," recalling the Kazakh's nomadic lifestyle; the Persian suffix "-stan" means "place of" or "country," so the word Kazakhstan literally means "Land of the Wanderers"<br>
+_etymology_: the name "Kazakh" may derive from the Turkic word "kaz" meaning "to wander," recalling the Kazakh's nomadic lifestyle; the Persian suffix "-stan" means "place of" or "country," so the word Kazakhstan literally means "Land of the Wanderers"<br>
 
 **Government type**<br>
 presidential republic<br>
@@ -692,23 +692,23 @@ _river port(s)_: Oskemen (Ust-Kamenogorsk), Pavlodar, Semey (Semipalatinsk) (Irt
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard, Border Service (includes Coast Guard), State Security Service (2021)<br>
+Armed Forces of the Republic of Kazakhstan: Land Forces, Naval Forces, Air and Air Defense Forces; Ministry of Internal Affairs: National Police, National Guard, Border Service (includes Coast Guard), Committee for National Security (2021)<br>
 
 **Military expenditures**<br>
-0.9% of GDP (2020 est.)<br>
+1.1% of GDP (2020 est.)<br>
 1.1% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 0.9% of GDP (2017)<br>
 0.9% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 45,000 active duty personnel (30,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2020)<br>
+information varies; approximately 40,000 active duty personnel (25,000 Land Forces; 3,000 Naval Forces; 12,000 Air and Air Defense Forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia remains by far the leading supplier of weapons systems (2020)<br>
 
 **Military service age and obligation**<br>
-All men 18-27 are required to serve in the military for at least one year. (2019)<br>
+All men 18-27 are required to serve in the military for at least one year. (2021)<br>
 
 **Military - note**<br>
 Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

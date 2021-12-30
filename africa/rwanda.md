@@ -631,8 +631,8 @@ _international_: country code - 250; international connections employ microwave 
 .rw<br>
 
 **Internet users**<br>
-_total_: 2,653,197<br>
-_percent of population_: 21.77% (July 2018 est.)<br>
+_total_: 4.12 million (2021 est.)<br>
+_percent of population_: 21.77% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 17,685 (2020)<br>

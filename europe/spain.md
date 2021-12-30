@@ -359,7 +359,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the mona
 _subordinate courts_: National High Court; High Courts of Justice (in each of the autonomous communities); provincial courts; courts of first instance<br>
 
 **Political parties and leaders**<br>
-Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties)<br>Junts per Catalunia or JxCat  [Carles PUIDGEMONT]<br>Ciudadanos Party or C's [Albert RIVERA]<br>Compromis - Communist Coalition [Joan BALDOVI]<br>New Canary or NCa [Pedro QUEVEDOS]<br>Unidas Podemos [Pablo IGLESIAS Turrion] (formerly Podemos IU; electoral coalition formed for May 2016 election)<br>People's Party or PP [Pablo CASADO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>JxCat-Junts Together for Catalonia [Jordi SANCHEZ]<br>Union of People of Navarra or UPN [Javier ESPARZA]<br>Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election)<br>Vox or Vox [Santiago ABASCAL]<br>
+Asturias Forum or FAC [Carmen MORIYON]<br>Basque Country Unite (Euskal Herria Bildu) or EH Bildu (coalition of 4 Basque pro-independence parties)<br>Basque Nationalist Party or PNV or EAJ [Andoni ORTUZAR]<br>Canarian Coalition or CC [Ana ORAMAS] (coalition of 5 parties)<br>Junts per Catalunia or JxCat  [Carles PUIDGEMONT]<br>Ciudadanos Party or C's [Ines ARRIMADAS]<br>Compromis - Communist Coalition [Joan BALDOVI]<br>New Canary or NCa [Pedro QUEVEDOS]<br>Unidas Podemos [Ione BELARRA] (formerly Podemos IU; electoral coalition formed for May 2016 election)<br>People's Party or PP [Pablo CASADO]<br>Republican Left of Catalonia or ERC [Oriol JUNQUERAS i Vies]<br>Spanish Socialist Workers Party or PSOE [Pedro SANCHEZ]<br>JxCat-Junts Together for Catalonia [Jordi SANCHEZ]<br>Union of People of Navarra or UPN [Javier ESPARZA]<br>Navarra Suma (electoral Coaltion formed by Navarrese People's Union (UPN), Ciudadanos (C's), and the Popular Partty (PP) ahead of the 2019 election)<br>Vox or Vox [Santiago ABASCAL]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BCIE, BIS, CAN (observer), CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNOCI, UNRWA, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -631,8 +631,8 @@ _international_: country code - 34; landing points for the MAREA, Tata TGN-Weste
 .es<br>
 
 **Internet users**<br>
-_total_: 42,478,990<br>
-_percent of population_: 86.11% (July 2018 est.)<br>
+_total_: 42.54 million (2021 est.)<br>
+_percent of population_: 93.21% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 15,850,358 (2020)<br>
@@ -737,7 +737,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>195,301 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note: </strong>195,417 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

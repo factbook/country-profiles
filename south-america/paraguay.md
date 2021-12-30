@@ -627,8 +627,8 @@ _international_: country code - 595; Paraguay's landlocked position means they m
 .py<br>
 
 **Internet users**<br>
-_total_: 4,566,043<br>
-_percent of population_: 64.99% (July 2018 est.)<br>
+_total_: 4.92 million (2021 est.)<br>
+_percent of population_: 74.52% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 377,379 (2019)<br>
@@ -696,7 +696,7 @@ Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy 
 the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 Army; 3,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from Argentina, Brazil, Israel, Taiwan, and the US (2020)<br>
+the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2019)<br>
@@ -710,5 +710,5 @@ as of 2021, the armed forces were principally focused on the Paraguayan People's
 <p>unruly region at convergence of Argentina-Brazil-Paraguay borders is locus of money laundering, smuggling, arms and illegal narcotics trafficking, and fundraising for violent extremist organizations</p><br>
 
 **Illicit drugs**<br>
-<p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering</p><br>
+<p>cannabis cultivation and the trafficking of Andean cocaine in the tri-border area shared with Argentina, and Brazil facilitates money laundering, violence and other criminal activity. </p><br>
 

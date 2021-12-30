@@ -579,7 +579,7 @@ _major seaport(s)_: Macau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular indigenous military forces<br>
+no regular indigenous military forces; Macau Public Security Police Force (includes the Police Intervention Tactical Unit or UTIP for counterterrorism operations) (2021)<br>
 
 **Military - note**<br>
 defense is the responsibility of China; the Chinese People's Liberation Army (PLA) maintains a garrison in Macau<br>

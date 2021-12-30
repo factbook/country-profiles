@@ -84,7 +84,7 @@ Han Chinese (including Holo, who compose approximately 70% of Taiwan's populatio
 <strong>note 1:</strong> there are 16 officially recognized indigenous groups: Amis, Atayal, Bunun, Hla'alua, Kanakaravu, Kavalan, Paiwan, Puyuma, Rukai, Saisiyat, Sakizaya, Seediq, Thao, Truku, Tsou, and Yami; Amis, Paiwan, and Atayal are the largest and account for roughly 70% of the indigenous population<br><br><strong>note 2:</strong> although not definitive, the majority of current genetic, archeological, and linguistic data support the theory that Taiwan is the ultimate source for the spread of humans across the Pacific to Polynesia; the expansion (ca. 3000 B.C. to A.D. 1200) took place via the Philippines and eastern Indonesia and reached Fiji and Tonga by about 900 B.C.; from there voyagers spread across the rest of the Pacific islands over the next two millennia<br>
 
 **Languages**<br>
-Mandarin Chinese (official), Taiwanese (Min Nan), Hakka dialects, approximately 16 indigenous languages<br>
+Mandarin (official), Taiwanese (Min Nan), Hakka dialects, approximately 16 indigenous languages<br>
 _major-language sample(s)_: <br>世界概況  –  不可缺少的基本消息來源 (Mandarin)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -266,7 +266,7 @@ _election results_: TSAI Ing-wen elected president; percent of vote - TSAI Ing-w
 **Legislative branch**<br>
 _description_: unicameral Legislative Yuan (113 seats; 73 members directly elected in single-seat constituencies by simple majority vote, 34 directly elected in a single island-wide constituency by proportional representation vote, and 6 directly elected in multi-seat aboriginal constituencies by proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 11 January 2020 (next to be held on 11 January 2024)<br>
-_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%; seats by party - DPP 61, KMT 38, TPP 5<br>
+_election results_: percent of vote by party - Democratic Progressive Party (DPP) 34.0%, Kuomintang (KMT) 33.4%, Taiwan People's Party (TPP) 11.2%, New Power Party (NPP) 7.5%; seats by party - DPP 61, KMT 38, TPP 5, NPP 3<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president, vice president, and approximately 100 judges organized into 8 civil and 12 criminal divisions, each with a division chief justice and 4 associate justices); Constitutional Court (consists of the court president, vice president, and 13 justices)<br>
@@ -274,7 +274,7 @@ _judge selection and term of office_: Supreme Court justices appointed by the pr
 _subordinate courts_: high courts; district courts; hierarchy of administrative courts<br>
 
 **Political parties and leaders**<br>
-Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHIANG Chi-che, aka Johnny CHIANG]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [CHEN Jiau-hua]<br>Taiwan Statebuilding Party or TSP [TAN Ek-che]<br>
+Democratic Progressive Party or DPP [TSAI Ing-wen]<br>Kuomintang or KMT (Nationalist Party) [CHU Chi-luan, aka Eric CHU]<br>Taiwan People's Party or TPP [KO Wen-je]<br>New Power Party or NPP [KAO Yu-ting]<br>Taiwan Statebuilding Party or TSP [CHEN Yi-chi] (2021)<br>
 
 **International organization participation**<br>
 ADB (Taipei, China), APEC (Chinese Taipei), BCIE, IOC, ITUC (NGOs), SICA (observer), WTO (Taipei, China);<br>
@@ -535,8 +535,8 @@ _international_: country code - 886; landing points for the EAC-C2C,&nbsp;APCN-2
 .tw<br>
 
 **Internet users**<br>
-_total_: 21,845,944<br>
-_percent of population_: 92.78% (July 2018 est.)<br>
+_total_: 21.45 million (2021 est.)<br>
+_percent of population_: 88.96% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5,952,411 (2020)<br>
@@ -608,13 +608,13 @@ note - the Armed Forces also have Military Police and Armed Forces Reserve comma
 1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2020)<br>
+the Taiwan military has approximately 170,000 active duty troops (90,000 Army; 40,000 Navy, including approximately 10,000 marines; 40,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Taiwan military is armed mostly with second-hand weapons and equipment provided by the US; Taiwan also has a domestic defense industry capable of building and upgrading a range of weapons systems, including surface naval craft and submarines (2021)<br>
 
 **Military service age and obligation**<br>
-starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2019)<br>
+starting with those born in 1994, males 18-36 years of age may volunteer for military service or must complete 4 months of compulsory military training (or substitute civil service in some cases); men born before December 1993 are required to complete compulsory service for 1 year (military or civil); men are subject to training recalls up to four times for periods not to exceed 20 days for 8 years after discharge; women may enlist, but are restricted to noncombat roles in most cases; as part of its transition to an all-volunteer military in December 2018, the last cohort of one-year military conscripts completed their service obligations (2021)<br>
 
 **Military - note**<br>
 the US Taiwan Relations Act of April 1979 states that the US shall provide Taiwan with arms of a defensive character and shall maintain the capacity of the US to resist any resort to force or other forms of coercion that would jeopardize the security, or social or economic system, of the people of Taiwan (2021)<br>

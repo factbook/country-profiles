@@ -641,13 +641,13 @@ _total subscriptions_: 1,153,709,832 (2020)<br>
 _subscriptions per 100 inhabitants_: 83.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 250,000 villages to broadband networks; expansive foreign investment with reliance of operators on Chinese vendors; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars (2020)<br>
-_domestic_: fixed-line subscriptions stands at 2 per 100 and mobile-cellular at 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2019)<br>
+_general assessment_: supported by deregulation, India is one of the fastest-growing telecom markets in the world; implementation of 4G/LTE; fixed-line/broadband underdeveloped; government investment in national infrastructure; project aims to connect 600,000 villages to broadband networks; expansive foreign investment; imports of integrated circuits and broadcast equipment from China; steps taken towards a 5G auction and tests; submarine cable linking mainland to the Andaman and Nicobar Islands; smart cities mission to promote 100 model cities in providing core infrastructure, sustainable environment, and quality of life through economic growth and competition, including focus on social, economic, and institutional pillars (2020)<br>
+_domestic_: fixed-line subscriptions stands at 1 per 100 and mobile-cellular at 84 per 100; mobile cellular service introduced in 1994 and organized nationwide into four metropolitan areas and 19 telecom circles, each with multiple private service providers and one or more state-owned service providers; in recent years significant trunk capacity added in the form of fiber-optic cable and one of the world's largest domestic satellite systems, the Indian National Satellite system (INSAT), with 6 satellites supporting 33,000 (very small aperture terminals) VSAT (2020)<br>
 _international_: country code - 91; a number of major international submarine cable systems, including SEA-ME-WE-3 &amp; 4, AAE-1, BBG, EIG, FALCON,&nbsp;FEA, GBICS, MENA, IMEWE, SEACOM/ Tata TGN-Eurasia, SAFE, WARF, Bharat Lanka Cable System, IOX, Chennai-Andaman &amp; Nicobar Island Cable, SAEx2, Tata TGN-Tata Indicom and i2icn&nbsp;that provide connectivity&nbsp;to Europe, Africa, Asia, the Middle East, South East Asia, numerous Indian Ocean islands&nbsp;including&nbsp;Australia&nbsp;; satellite earth stations - 8 Intelsat (Indian Ocean) and 1 Inmarsat (Indian Ocean region (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2015, more than 230 million homes had access to cable and satellite TV offering more than 700 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly<br>
+Doordarshan, India's public TV network, has a monopoly on terrestrial broadcasting and operates about 20 national, regional, and local services; a large and increasing number of privately owned TV stations are distributed by cable and satellite service providers; in 2018, 197 million homes had access to cable and satellite TV offering 850 TV channels; government controls AM radio with All India Radio operating domestic and external networks; news broadcasts via radio are limited to the All India Radio Network; since 2000, privately owned FM stations have been permitted and their numbers have increased rapidly (2018)<br>
 
 **Internet country code**<br>
 .in<br>
@@ -694,16 +694,15 @@ _under 914 m_: 45 (2013)<br>
 45 (2013)<br>
 
 **Pipelines**<br>
-9 km condensate/gas, 13581 km gas, 2054 km liquid petroleum gas, 8943 km oil, 20 km oil/gas/water, 11069 km refined products (2013)<br>
+17,389 km natural gas, 10, 419 km crude oil, 3544 liquid petroleum gas, 14,729 km refined products (2020) 9 km condensate/gas, 20 km oil/gas/water (2013)&nbsp; (2013)<br>
 
 **Railways**<br>
 _total_: 68,525 km (2014)<br>
-_narrow gauge_: 9,499 km 1.000-m gauge (2014)<br>
-_broad gauge_: 58,404 km 1.676-m gauge (23,654 electrified) (2014)<br>
-622 0.762-m gauge<br>
+_narrow gauge_: 1,604 km 1.000-m gauge (2014)<br>
+_broad gauge_: 63,950 km (39, 329 km electrified) (2014)<br>
 
 **Roadways**<br>
-_total_: 4,699,024 km (2015)<br>
+_total_: 6,386,297 km note: includes 132,500 km of national highways and expressways, 186,528 km of state highways , and 6,067,269 km of other roads (2015)<br>
 <strong>note:</strong> includes 96,214 km of national highways and expressways, 147,800 km of state highways, and 4,455,010 km of other roads<br>
 
 **Waterways**<br>
@@ -732,16 +731,16 @@ note - the Assam Rifles are under the administrative control of the Ministry of 
 2.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information on the size of the Indian Armed Forces varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2020)<br>
+information varies; approximately 1.45 million active personnel (est. 1.25 million Army; 65,000 Navy; 140,000 Air Force; 12,000 Coast Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Indian Armed Forces consists mostly of Russian-origin equipment, along with a smaller mix of Western and domestically-produced arms; since 2010, Russia is the leading supplier of arms to India; other major suppliers include France, Israel, the UK, and the US; India's defense industry is capable of producing a range of air, land, missile, and naval weapons systems for both indigenous use and export (2021)<br>
 
 **Military deployments**<br>
-1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Sep 2021)<br>
+1,850 Democratic Republic of the Congo (MONUSCO); 200 Golan Heights (UNDOF); 850 Lebanon (UNIFIL); 2,350 South Sudan (UNMISS) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2020)<br>
+16-18 years of age for voluntary military service (Army 17 1/2, Air Force 17, Navy 16 1/2); no conscription; women may join as officers, currently serve in combat roles as Air Force pilots, and under consideration for Army and Navy combat roles (currently can fly naval reconnaissance aircraft) (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Indian Armed Forces were chiefly focused on China and Pakistan; the short 1962 Sino-India War left in place one of the world’s longest disputed international borders, resulting in occasional standoffs between Indian and Chinese security forces, including lethal clashes in 1975 and 2020; meanwhile, India and Pakistan have fought several conflicts since 1947, including the Indo-Pakistan War of 1965 and the Indo-Pakistan and Bangladesh War of Independence of 1971, as well as two clashes over the disputed region of Kashmir (the First Kashmir War of 1947 and the 1999 Kargil Conflict); a fragile cease-fire in Kashmir was reached in 2003 and revised in 2018, although the border, known as the Line of Control, remained contested as of 2021, and India has accused Pakistan of backing armed separatists and terrorist organizations in Jammu and Kashmir where Indian forces have conducted counterinsurgency operations since the 1980s; in addition, India and Pakistan have battled over the Siachen Glacier of Kashmir, which was seized by India in 1984 with Pakistan attempting to retake the area at least three times between 1985 and 1995; a cease-fire went into effect in 2003, but as of 2021, both sides continued to maintain a permanent military presence there with outposts at altitudes above 20,000 feet (over 6,000 meters) where most casualties were due to extreme weather and the hazards of operating in the high mountain terrain of the world’s highest conflict, including avalanches, exposure, and altitude sickness</p><br>

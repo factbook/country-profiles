@@ -340,7 +340,7 @@ _chief of state_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 20
 _head of government_: President Juan Orlando HERNANDEZ Alvarado (since 27 January 2014); Vice Presidents Ricardo ALVAREZ, Maria RIVERA, and Olga ALVARADO (since 26 January 2018)<br>
 _cabinet_: Cabinet appointed by president<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 4-year term; election last held on 28 November 2021 (next to be held in 30 November 2025); note - in 2015, the Constitutional Chamber of the Honduran Supreme Court struck down the constitutional provisions on presidential term limits<br>
-_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 50.6%, Nasry Juan ASFURA Zablah (PNH) 36.4%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 3%; note - percentages reflect 98.8% of the vote counted; official results pending; CASTRO is scheduled to take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br><br><em>2013:</em> Juan Orlando HERNANDEZ Alvarado elected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 36.9%, Xiomara CASTRO de Zelaya (LIBRE) 28.8%, Mauricio VILLEDA (PL) 20.3%, Salvador NASRALLA (PAC) 13.4%, other 0.6%<br>
+_election results_: <br><em>2021: </em>Xiomara CASTRO de Zelaya elected president; percent of vote - Xiomara CASTRO de Zelaya (LIBRE) 51.1%, Nasry Juan ASFURA Zablah (PNH) 36.9%, Yani Benjamin ROSENTHAL Hidalgo (PL) 10%, other 2%; note - CASTRO will take office 27 January 2022<em><br><br>2017:</em> Juan Orlando HERNANDEZ Alvarado reelected president; percent of vote - Juan Orlando HERNANDEZ Alvarado (PNH) 43%, Salvador NASRALLA (Alianza de Oposicion contra la Dictadura) 41.4%, Luis Orlando ZELAYA Medrano (PL) 14.7%, other 0.9%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Congress or Congreso Nacional (128 seats; members directly elected in 18 multi-seat constituencies by closed party-list proportional representation vote; members serve 4-year terms)<br>
@@ -697,10 +697,10 @@ note - the PMOP was created in 2013 as part of an effort by the Honduran Governm
 the Honduran Armed Forces (FFAA) have approximately 16,000 active personnel (7,500 Army; 1,500 Navy, including about 1,000 marines; 2,000 Air Force; 5,000 Public Order Military Police); approximately 18,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from Colombia, Israel, Netherlands, Taiwan, and the US (2020)<br>
+the FFAA's inventory is comprised of mostly older imported equipment from Israel, the UK, and the US; since 2010, Honduras has received limited amounts of military equipment from several countries, including Colombia, Israel, Netherlands, Taiwan, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary 2- to 3-year military service; no conscription (2019)<br>
+18 years of age for voluntary 2- to 3-year military service; no conscription (2021)<br>
 
 **Military - note**<br>
 the armed forces, including the PMOP, are subordinate to the Secretariat of Defense, while the HNP reports to the Secretariat of Security; the National Interinstitutional Security Force is an interagency command that coordinates the overlapping responsibilities of the HNP, PMOP, National Intelligence Directorate, and Public Ministry (public prosecutor), but exercises coordination, command, and control responsibilities only during interagency operations involving those forces; as of 2021, civilian authorities at times reportedly did not maintain effective control over security forces<br>

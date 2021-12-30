@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500 and to set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a late December 2016 ceasefire eventually led to the two sides signing a comprehensive peace deal in August 2019. Elections in October 2019, challenged by Western observers and civil society as being problematic, resulted in resounding wins for NYUSI and FRELIMO across the country. Since October 2017, violent extremists - who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in June 2019 - have been conducting attacks against civilians and security services in the northern province of Cabo Delgado.</p><br>
+<p>In the first half of the second millennium A.D., northern Mozambican port towns were frequented by traders from Somalia, Ethiopia, Egypt, Arabia, Persia, and India. The Portuguese were able to wrest much of the coastal trade from Arab Muslims in the centuries after 1500 and to set up their own colonies. Portugal did not relinquish Mozambique until 1975. Large-scale emigration, economic dependence on South Africa, a severe drought, and a prolonged civil war hindered the country's development until the mid-1990s. The ruling Front for the Liberation of Mozambique (FRELIMO) party formally abandoned Marxism in 1989, and a new constitution the following year provided for multiparty elections and a free market economy. A UN-negotiated peace agreement between FRELIMO and rebel Mozambique National Resistance (RENAMO) forces ended the fighting in 1992. In 2004, Mozambique underwent a delicate transition as Joaquim CHISSANO stepped down after 18 years in office. His elected successor, Armando GUEBUZA, served two terms and then passed executive power to Filipe NYUSI in 2015. RENAMO’s residual armed forces intermittently engaged in a low-level insurgency after 2012, but a late December 2016 ceasefire eventually led to the two sides signing a comprehensive peace deal in August 2019. Elections in October 2019, challenged by Western observers and civil society as being problematic, resulted in resounding wins for NYUSI and FRELIMO across the country. Since October 2017, violent extremists - who an official ISIS media outlet recognized as ISIS's network in Mozambique for the first time in June 2019 - have been conducting attacks against civilians and security services in the northern province of Cabo Delgado. In 2021, Rwanda and the Southern African Development Community deployed forces to support Mozambique’s efforts to counter the extremist group.</p><br>
 
 ## Geography
 
@@ -372,7 +372,7 @@ _judge selection and term of office_: Supreme Court president appointed by the p
 _subordinate courts_: Administrative Court (capital city only); provincial courts or Tribunais Judicias de Provincia; District Courts or Tribunais Judicias de Districto; customs courts; maritime courts; courts marshal; labor courts; community courts<br>
 
 **Political parties and leaders**<br>
-Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Daviz SIMANGO]<br>Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>Optimistic Party for the Development of Mozambique or Podemos [Helder Mendonca]<br>
+Democratic Movement of Mozambique (Movimento Democratico de Mocambique) or MDM [Lutero SIMANGO]<br>Front for the Liberation of Mozambique (Frente de Liberatacao de Mocambique) or FRELIMO [Filipe NYUSI]<br>Mozambican National Resistance (Resistencia Nacional Mocambicana) or RENAMO [Ossufo MOMADE]<br>Optimistic Party for the Development of Mozambique or Podemos [Helder Mendonca] (2021)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OIF (observer), OPCW, SADC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -704,7 +704,7 @@ _major seaport(s)_: Beira, Maputo, Nacala<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals  (2021)<br>
+Armed Defense Forces of Mozambique (Forcas Armadas de Defesa de Mocambique, FADM): Mozambique Army, Mozambique Navy (Marinha de Guerra de Mocambique, MGM), Mozambique Air Force (Forca Aerea de Mocambique, FAM)<br><br>Ministry of Interior: Mozambique National Police (PRM), the National Criminal Investigation Service (SERNIC), Rapid Intervention Unit (UIR; police special forces), Border Security Force<br><br>other security forces include the Presidential Guard and the Force for the Protection of High-Level Individuals (2021)<br>
 note - the FADM and other security forces are referred to collectively as the Defense and Security Forces (DFS)<br>
 
 **Military expenditures**<br>
@@ -718,10 +718,10 @@ note - the FADM and other security forces are referred to collectively as the De
 information limited and varied; approximately 11,000 personnel (10,000 Army; 200 Navy; 800 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2020)<br>
+the FADM's inventory consists primarily of Soviet-era equipment, although since 2010 it has received limited quantities of more modern equipment from a variety of countries, mostly as aid/donations (2021)<br>
 
 **Military service age and obligation**<br>
-registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2019)<br>
+registration for military service is mandatory for all males and females at 18 years of age; 18-35 years of age for selective compulsory military service; 18 years of age for voluntary service; 2-year service obligation; women may serve as officers or enlisted (2021)<br>
 
 **Military - note**<br>
 the Government of Mozambique is facing a growing insurgency driven by militants with ties to the Islamic State terrorist group (ISIS-Mozambique, which was declared a Foreign Terrorist Organization by the US State Department in March 2021) in the northern province of Cabo Delgado, an area known for rich liquid natural gas deposits; insurgent attacks in the province began in 2017 and as of late 2021, the fighting had left an estimated 2,500 dead and approximately 700,000 displaced; the FADM is widely assessed as lacking the training, equipment, and overall capabilities to address the insurgency; as of late 2021, several countries from the Southern Africa Development Community and the European Union, as well as Rwanda and the US are providing various forms of military assistance; African countries have provided approximately 3,000 troops<br>
@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,560 (Democratic Republic of Congo) (refugees and asylum seekers), 8,198 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,629 (Democratic Republic of Congo) (refugees and asylum seekers), 8,271 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

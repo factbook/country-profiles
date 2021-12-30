@@ -347,7 +347,7 @@ _judge selection and term of office_: Supreme Court judges nominated by executiv
 _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district courts (120); county courts<br>
 
 **Political parties and leaders**<br>
-Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>NOW-Pilz List (JETZT-Liste Pilz) or PILZ [Maria STERN]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
+Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -697,16 +697,16 @@ Austrian Armed Forces: Land Forces, Air Forces, Cyber Forces, Special Forces (20
 the Austrian Armed Forces have approximately 23,000 total active duty personnel (13,000 Land Forces; 2,500 Air Force; 7,500 other, support forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Austrian military's inventory includes a mix of domestically-produced and imported weapons systems from European countries and the US; since 2010, Germany and Italy are the leading suppliers of armaments to Austria; the Austrian defense industry produces a range of equipment and partners with other countries (2020)<br>
+the Austrian military's inventory includes a mix of domestically-produced and imported weapons systems from European countries and the US; the Austrian defense industry produces a range of equipment and partners with other countries (2021)<br>
 
 **Military deployments**<br>
-290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO); 180 Lebanon (UNIFIL) (Sep 2021)<br>
+290 Bosnia-Herzegovina (EUFOR stabilization force); 340 Kosovo (NATO/KFOR); 170 Lebanon (UNIFIL) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2019)<br>
+registration requirement at age 17, the legal minimum age for voluntary military service; 18 is the legal minimum age for compulsory military service (6 months), or optionally, alternative civil/community service (9 months); males 18 to 50 years old in the militia or inactive reserve are subject to compulsory service; in a January 2012 referendum, a majority of Austrians voted in favor of retaining the system of compulsory military service (with the option of alternative/non-military service) instead of switching to a professional army system (2021)<br>
 
 **Military - note**<br>
-<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis-management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
+<p>Austria is constitutionally non-aligned, but is an EU member and actively participates in EU peacekeeping and crisis management operations under the Common Security and Defense Policy; Austria is not a member of NATO, but joined NATO’s Partnership for Peace framework in 1995 and participates in NATO-led crisis management and peacekeeping operations; as of 2021, more than 100,000 Austrian military and civilian personnel have taken part in more than 50 international peace support and humanitarian missions since 1960</p><br>
 
 ## Terrorism
 

@@ -84,7 +84,7 @@ _noun_: Portuguese (singular and plural)<br>
 _adjective_: Portuguese<br>
 
 **Ethnic groups**<br>
-white homogeneous Mediterranean population; citizens from Portugal&rsquo;s former colonies in Africa and Asia and other foreign born<br>
+Portuguese 95%; citizens from Portugal&rsquo;s former colonies in Africa, Asia (Han Chinese), and South America (Brazilian) and other foreign born 5%<br>
 
 **Languages**<br>
 Portuguese (official), Mirandese (official, but locally used)<br>
@@ -324,12 +324,12 @@ _chief of state_: President Marcelo REBELO DE SOUSA (since 9 March 2016)<br>
 _head of government_: Prime Minister Antonio Luis Santos da COSTA (since 24 November 2015)<br>
 _cabinet_: Council of Ministers appointed by the president on the recommendation of the prime minister<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 24 January 2021 (next to be held in January 2026); following legislative elections the leader of the majority party or majority coalition is usually appointed prime minister by the president<br>
-_election results_: Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (independent) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br>
+_election results_: Marcelo REBELO DE SOUSA reelected president in the first round; percent of vote - Marcelo REBELO DE SOUSA (PSD) 60.7%, Ana GOMES (ran as an independent but is a member of PS) 12.97%, Andre VENTURA (CH) 11.9%, Jo&atilde;o FERREIRA (PCP-PEV) 4.32%, Marisa MATIAS (BE) 3.95%, other 6.16%<br>
 <strong>note:</strong> there is also a Council of State that acts as a consultative body to the president<br>
 
 **Legislative branch**<br>
 _description_: unicameral Assembly of the Republic or Assembleia da Republica (230 seats; 226 members directly elected in multi-seat constituencies by closed-list proportional representation vote and 4 members - 2 each in 2 constituencies representing Portuguese living abroad - directly elected by proportional representation vote; members serve 4-year terms) (e.g. 2019)<br>
-_elections_: last held on 6 October 2019 (next to be held on 23 January 2022); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget (e.g. 2019)<br>
+_elections_: last held on 6 October 2019 (next to be held on 30 January 2022); note - early elections were called after parliament was dissolved on 3 November 2021 because of the 27 October 2021 rejection of the government's budget (e.g. 2019)<br>
 _election results_: percent of vote by party - PS 36.4%, PSD 27.8%, B.E. 9.5%, CDU 6.5%, other 20.8%; seats by party - PS 108, PSD 79,&nbsp; B.E. 19, CDU 12, other 12; composition (as of October 2021) - men 138, women 92, percent of women 40% (e.g. 2019)<br>
 
 **Judicial branch**<br>
@@ -338,7 +338,7 @@ _judge selection and term of office_: Supreme Court justices nominated by the pr
 _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrativo); Audit Court (Tribunal de Contas); appellate, district, and municipal courts<br>
 
 **Political parties and leaders**<br>
-Democratic and Social Center/Popular Party (Partido do Centro Democratico   Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA] (formed in 2019)<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
+Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -599,7 +599,7 @@ _total subscriptions_: 11,854,999 (2020)<br>
 _subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed towards provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to fiber, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
+_general assessment_: Portugal has a medium-sized telecom market with a strong mobile sector and a growing broadband customer base; mobile market dominated by one operator with room for competition; 3G infrastructure is universal, with investment directed toward expanding provision of 90% LTE coverage in rural areas and 5G technologies; cable sector shifting to wireless, with access to 66% of population; developments in m-commerce; operator assessing installation of submarine cable between islands and mainland; importer of broadcasting equipment from EU (2020)<br>
 _domestic_: integrated network of coaxial cables, open-wire, microwave radio relay, and domestic satellite earth stations; fixed-line 50 per 100 persons and mobile-cellular 116 per 100 persons (2019)<br>
 _international_: country code - 351;&nbsp;landing points for the Ella Link, BUGIO, EIG, SAT-3/WASC, SeaMeWe-3, Equino, MainOne, Tat TGN-Western Europe, WACS, ACE, Atlantis2 and Columbus-III&nbsp;submarine cables provide connectivity to Europe, Africa, the Middle East, Asia, Southeast Asia, Australia, South America&nbsp;and the US; satellite earth stations - 3 Intelsat (2 Atlantic Ocean and 1 Indian Ocean), NA Eutelsat; tropospheric scatter to Azores (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -611,8 +611,8 @@ Radio e Televisao de Portugal (RTP), the publicly owned TV broadcaster, operates
 .pt<br>
 
 **Internet users**<br>
-_total_: 7,731,411<br>
-_percent of population_: 74.66% (July 2018 est.)<br>
+_total_: 8.58 million (2021 est.)<br>
+_percent of population_: 78.26% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,160,895 (2020)<br>

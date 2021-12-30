@@ -340,10 +340,10 @@ _residency requirement for naturalization_: 8 years<br>
 18 years of age, 16 if married and marriage is registered in Hungary; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Janos ADER (since 10 May 2012)&nbsp;<br>
-_head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)&nbsp;<br>
+_chief of state_: President Janos ADER (since 10 May 2012)<br>
+_head of government_: Prime Minister Viktor ORBAN (since 29 May 2010)<br>
 _cabinet_: Cabinet of Ministers proposed by the prime minister and appointed by the president<br>
-_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held by spring 2022)<br>
+_elections/appointments_: president indirectly elected by the National Assembly with two-thirds majority vote in first round or simple majority vote in second round for a 5-year term (eligible for a second term); election last held on 13 March 2017 (next to be held spring 2022); prime minister elected by the National Assembly on the recommendation of the president; election last held on 10 May 2018 (next to be held in April or May 2022)<br>
 _election results_: Janos ADER (Fidesz) reelected president; National Assembly vote - 131 to 39; Viktor ORBAN (Fidesz) reelected prime minister; National Assembly vote - 134 to 28<br>
 
 **Legislative branch**<br>
@@ -352,7 +352,7 @@ _elections_: last held on 8 April 2018 (next to be held in April 2022)<br>
 _election results_: percent of vote by party list - Fidesz-KDNP 49.3%, Jobbik 19.1%, MSZP-PM 11.9%, LMP 7.1%, DK 5.4%, Momentum Movement 3.1%, Together 0.7%, LdU 0.5%, other 2.9%; seats by party - Fidesz 117, Jobbik 26, KDNP 16, MSZP 15,&nbsp; DK 9, LMP 8, PM 5, Together 1, LdU 1, independent 1; composition (as of October 2021) - men 173, women 26, percent of women 13.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and approximately 91 judges and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
+_highest courts_: Curia or Supreme Judicial Court (consists of the president, vice president, department heads, and has a maximum of 113 judges, and is organized into civil, criminal, and administrative-labor departments; Constitutional Court (consists of 15 judges, including the court president and vice president)<br>
 _judge selection and term of office_: Curia president elected by the National Assembly on the recommendation of the president of the republic; other Curia judges appointed by the president upon the recommendation of the National Judicial Council, a separate 15-member administrative body; judge tenure based on interim evaluations until normal retirement at age 62; Constitutional Court judges, including the president of the court, elected by the National Assembly; court vice president elected by the court itself; members serve 12-year terms with mandatory retirement at age 62<br>
 _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts (including Budapest Metropolitan Court); 20 administrative-labor courts; 111 district or local courts<br>
 
@@ -707,13 +707,13 @@ the Hungarian Defense Forces have approximately 23,000 active duty troops (18,00
 note - in 2017, Hungary announced plans to increase the number of active soldiers to around 37,000, but did not give a timeline<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2020)<br>
+the inventory of the Hungarian Defense Forces consists largely of Soviet-era weapons, with a smaller mix of more modern European and US equipment; since 2010, Hungary has received limited quantities of equipment from several European countries and the US (2021)<br>
 
 **Military deployments**<br>
 160 Bosnia-Herzegovina (EUFOR stabilization force); 150 Iraq (counter-ISIS coalition); 430 Kosovo (NATO/KFOR) (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2019)<br>
+18-25 years of age for voluntary military service; no conscription (abolished 2005); 6-month service obligation (2021)<br>
 
 **Military - note**<br>
 Hungary joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997 and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br>

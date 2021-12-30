@@ -651,7 +651,7 @@ _unpaved_: 4,549 km (2017)<br>
 
 **Military and security forces**<br>
 Army of the Republic of North Macedonia (ARSM; includes a General Staff and subordinate Operations Command, Logistic Support Command, Training and Doctrine Command, Center for Electronic Reconnaissance, Aviation Brigade, and Honor Guard Battalion) (2021)<br>
-note: the Operations Command includes air, ground, special operations, support, and reserve forces<br>
+note - the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
 1.57% of GDP (2021 est.)<br>
@@ -664,10 +664,10 @@ note: the Operations Command includes air, ground, special operations, support, 
 the Army of the Republic of North Macedonia (ARSM) has approximately 7,500 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2020)<br>
+the inventory of North Macedonia's Army consists mostly of Soviet-era equipment; since 2010, it has received small amounts of equipment from Ireland and Turkey (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; conscription abolished in 2007 (2019)<br>
+18 years of age for voluntary military service; conscription abolished in 2007 (2021)<br>
 
 **Military - note**<br>
 North Macedonia officially became the 30th member of NATO in 2020<br>

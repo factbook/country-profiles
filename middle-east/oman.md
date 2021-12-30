@@ -673,13 +673,13 @@ Sultan's Armed Forces (SAF): Royal Army of Oman (RAO), Royal Navy of Oman (RNO),
 the Sultan's Armed Forces (SAF) have approximately 40,000 total active troops (26,000 Army, 4,000 Navy; 4,000 Air Force; 6,000 Royal Guard) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK is the leading provider of armaments to Oman, followed by the US (2020)<br>
+the SAF's inventory includes a mix of older and some more modern weapons systems from a variety of suppliers, particularly Europe and the US; since 2010, the UK and the US are the leading suppliers of arms to Oman (2021)<br>
 
 **Maritime threats**<br>
 <p>the Maritime Administration of the US Department of Transportation has issued a Maritime Advisory (2021-003A Persian Gulf, Strait of Hormuz, Gulf of Oman, Arabian Sea, Red Sea-Threats to US and International Shipping from Iran) effective 26 February 2021, which states in part that "heightened military activities and increased political tensions in this region continue to present risk to commercial shipping...there is a continued possibility that Iran and/or its regional proxies could take actions against US and partner interests in the region"; Coalition Task Force (CTF) Sentinel has been established to provide escorts for commercial shipping transiting the Persian Gulf, Strait of Hormuz, and Gulf of Oman</p><br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription (2019)<br>
+18-30 years of age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the Sultan’s Armed Forces (SAF) have a longstanding security relationship with the British military going back to the 18th century; as of 2021, the SAF and the British maintained a joint training base in Oman and exercised together regularly; in 2017, Oman and the British signed an agreement allowing the British military the use of facilities at Al Duqm Port; in 2019, the US obtained access to the port</p><br>

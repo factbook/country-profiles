@@ -529,8 +529,8 @@ no TV stations; many households use satellite dishes to watch foreign TV station
 .tv<br>
 
 **Internet users**<br>
-_total_: 5,498<br>
-_percent of population_: 49.32% (July 2018 est.)<br>
+_total_: 5,849 (2021 est.)<br>
+_percent of population_: 49.32% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 450 (2017 est.)<br>

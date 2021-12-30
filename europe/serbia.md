@@ -349,12 +349,12 @@ _residency requirement for naturalization_: 3 years<br>
 _chief of state_: President Aleksandar VUCIC (since 31 May 2017)<br>
 _head of government_: Prime Minister Ana BRNABIC (since 29 June 2017)<br>
 _cabinet_: Cabinet elected by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in 2022); prime minister elected by the National Assembly<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 2 April 2017 (next to be held in April 2022); prime minister elected by the National Assembly<br>
 _election results_: <br><em>2017:</em> Aleksandar VUCIC elected president in the first round; percent of vote - Aleksandar VUCIC (SNS) 55.1%, Sasa JANKOVIC (independent) 16.4%, Luka MAKSIMOVIC (independent) 9.4%, Vuk JEREMIC (independent) 5.7%, Vojislav SESELJ (SRS) 4.5%, Bosko OBRADOVIC (Dveri) 2.3%, other 5.0%, invalid/blank 1.6%; Prime Minister Ana BRNABIC reelected by the National Assembly on 5 October 2020<br><br><em>2012: </em>Tomislav NIKOLIC elected president; percent of vote in second round - Tomislav NIKOLIC (SNS) 51.2%, Boris TADIC (NDS-Z) 48.8%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Narodna Skupstina (250 seats; members directly elected by party list proportional representation vote in a single nationwide constituency to serve 4-year terms)<br>
-_elections_: last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in 2024)<br>
+_elections_: last held on 21 June 2020 (originally scheduled for 26 April 2020 but postponed due to the COVID-19 pandemic) (next to be held in April 2022)<br>
 _election results_: percent of vote by party/coalition - For Our Children 60.7%, SPS-JS 10.4%, SPAS 3.8%, SVM 2.2%, Straight Ahead 1%, Albanian Democratic Alternative .8%, SDA .8%, other 20.3%; seats by party/coalition For Our Children 188, SPS-JS 32, SPAS 11, SVM 9, Straight Ahead 4, Albanian Democratic Alternative 3, SDA 3; composition (preliminary) -&nbsp; men 165, women 85, percent of women 30%<br>
 
 **Judicial branch**<br>
@@ -363,7 +363,7 @@ _judge selection and term of office_: Supreme Court justices proposed by the Hig
 _subordinate courts_: basic courts, higher courts, appellate courts; courts of special jurisdiction include the Administrative Court, commercial courts, and misdemeanor courts<br>
 
 **Political parties and leaders**<br>
-Albanian Democratic Alternative (coalition of ethnic Albanian parties) Shaip KAMBERI<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Macedonians or DPM [Nenad KRSTESKI]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>For Our Children (electoral alliance includes SNS, PS, PUPS, PSS, SNP, SPO, NSS) [Aleksandar VUCIC]<br>Justice and Reconciliation Party or SPP [Muamer ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement of Socialists or PS [Aleksandar VULIN]<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NARODNA [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Patriotic Alliance or SPAS [Aleksandar SAPIC]<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Radical Party or SRS [Vojislav SESELJ]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party or SDS [Boris TADIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Straight Ahead (electoral coalition includes SPP, DPM)<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>
+Albanian Democratic Alternative (coalition of ethnic Albanian parties) Shaip KAMBERI<br>Alliance of Vojvodina Hungarians or SVM [Istvan PASZTOR]<br>Democratic Party or DS [Zoran LUTOVAC]<br>Democratic Party of Macedonians or DPM [Nenad KRSTESKI]<br>Democratic Party of Serbia or DSS [Milos JOVANOVIC]<br>Dveri [Bosko OBRADOVIC]<br>For Our Children (electoral alliance includes SNS, PS, PUPS, PSS, SNP, SPO, NSS) [Aleksandar VUCIC]<br>Justice and Reconciliation Party or SPP [Usame ZUKORLIC] (formerly Bosniak Democratic Union of Sandzak or BDZS)<br>Movement of Socialists or PS [Aleksandar VULIN]<br>Party of Democratic Action of the Sandzak or SDA [Sulejman UGLJANIN]<br>Party of United Pensioners of Serbia or PUPS [Milan KRKOBABIC]<br>People's Party or NARODNA [Vuk JEREMIC]<br>People's Peasant Party or NSS [Marijan RISTICEVIC]<br>Serbian Patriotic Alliance or SPAS [Aleksandar SAPIC] (merged into SNS)<br>Serbian People's Party or SNP [Nenad POPOVIC]<br>Serbian Progressive Party or SNS [Aleksandar VUCIC]<br>Serbian Radical Party or SRS [Vojislav SESELJ]<br>Serbian Renewal Movement or SPO [Vuk DRASKOVIC]<br>Social Democratic Party or SDS [Boris TADIC]<br>Social Democratic Party of Serbia or SDPS [Rasim LJAJIC]<br>Socialist Party of Serbia or SPS [Ivica DACIC]<br>Straight Ahead (electoral coalition includes SPP, DPM)<br>Strength of Serbia or PSS [Bogoljub KARIC]<br>Together for Serbia or ZZS [Nebojsa ZELENOVIC]<br>United Serbia or JS [Dragan MARKOVIC]<br>
 <strong>note:</strong> Serbia has more than 110 registered political parties and citizens' associations<br>
 
 **International organization participation**<br>
@@ -630,8 +630,8 @@ _international_: country code - 381<br>
 .rs<br>
 
 **Internet users**<br>
-_total_: 5,192,501<br>
-_percent of population_: 73.36% (July 2018 est.)<br>
+_total_: 6.89 million (2021 est.)<br>
+_percent of population_: 78.37% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,724,392 (2020)<br>
@@ -722,7 +722,7 @@ the inventory of the Serbian Armed Forces consists of Russian and Soviet-era wea
 _refugees (country of origin)_: 17,675 (Croatia), 8,129 (Bosnia and Herzegovina) (2019)<br>
 _IDPs_: 196,995 (most are Kosovar Serbs, some are Roma, Ashkalis, and Egyptian (RAE); some RAE IDPs are unregistered) (2021)<br>
 _stateless persons_: 2,144 (includes stateless persons in Kosovo) (2020)<br>
-<strong>note:</strong> 808,437 estimated refugee and migrant arrivals (January 2015-November 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
+<strong>note:</strong> 810,859 estimated refugee and migrant arrivals (January 2015-December 2021); Serbia is predominantly a transit country and hosts an estimated 6,228 migrants and asylum seekers as of September 2021<br>
 
 **Illicit drugs**<br>
 <p>drug trafficking groups are major players in the procurement and transportation of of large quantities of cocaine  destined for  European markets</p><br>

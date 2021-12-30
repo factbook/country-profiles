@@ -326,7 +326,7 @@ _elections/appointments_: the monarchy is hereditary; following legislative elec
 **Legislative branch**<br>
 _description_: unicameral People's Assembly or Folketing (179 seats, including 2 each representing Greenland and the Faroe Islands; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms unless the Folketing is dissolved earlier)<br>
 _elections_: last held on 5 June 2019 (next to be held in June 2023)<br>
-_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, A 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, A 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
+_election results_: percent of vote by party - SDP 25.9%, V 23.4%, DF 8.7%, SLP 8.6%, SF 7.7%, EL 6.9%, C 6.6%, AP 3.0%, NB 2.4%, LA 2.3%; seats by party - SDP 48, V 43, DF 16, SLP 16, SF 14, EL 13, C 12, AP 5, NB 4, LA 4; composition (as of September 2021) - men 108, women 71 (includes 2 from Greenland), percent of women 39.7%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the court president and 18 judges)<br>
@@ -334,7 +334,7 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; Maritime and Commercial Court; county courts<br>
 
 **Political parties and leaders**<br>
-The Alternative A or AP (Franciska ROSENKILDE)<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Kristian THULESEN DAHL]<br>Liberal Alliance or LA [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or D or NB [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or A or SDP [Mette FREDERIKSEN]<br>Social Liberal Party or B or SLP [Sofie CARSTEN NIELSEN]<br>Socialist People's Party or SF [Pia OLSEN DYHR]<br>
+The Alternative AP (Franciska ROSENKILDE)<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Kristian THULESEN DAHL]<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or NB or D [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>Socialist People's Party or SF or F [Pia OLSEN DYHR]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -669,10 +669,10 @@ North Sea - Esbjerg,<br>
 
 **Military and security forces**<br>
 Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Danish Air Force, Danish Home Guard (Reserves) (2021)<br>
-note: the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
+note - the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
-1.43% of GDP (2020 est.)<br>
+1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.28% of GDP (2018)<br>
 1.14% of GDP (2017)<br>
@@ -682,13 +682,13 @@ note: the Danish military maintains a Joint Arctic Command with the mission of p
 the Danish military has approximately 16,000 active duty personnel (8,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010, followed by Germany and the Netherlands; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2020)<br>
+the Danish military inventory is comprised of a mix of modern European, US, and domestically-produced equipment; the US is the largest supplier of military equipment to Denmark since 2010; the Danish defense industry is active in the production of naval vessels, defense electronics, and subcomponents of larger weapons systems, such as the US F-35 fighter aircraft (2021)<br>
 
 **Military deployments**<br>
 140 Middle East/Iraq (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2019)<br>
+18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>
 
 **Military - note**<br>
 Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework</p> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>

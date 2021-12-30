@@ -5,7 +5,7 @@ _East & Southeast Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br> <p>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, is providing 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which is set for completion in 2021. Laos is financing the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand.</p><br>
+Modern-day Laos has its roots in the ancient Lao kingdom of Lan Xang, established in the 14th century under King FA NGUM. For 300 years Lan Xang had influence reaching into present-day Cambodia and Thailand, as well as over all of what is now Laos. After centuries of gradual decline, Laos came under the domination of Siam (Thailand) from the late 18th century until the late 19th century, when it became part of French Indochina. The Franco-Siamese Treaty of 1907 defined the current Lao border with Thailand. In 1975, the communist Pathet Lao took control of the government, ending a six-century-old monarchy and instituting a strict socialist regime closely aligned to Vietnam. A gradual, limited return to private enterprise and the liberalization of foreign investment laws began in 1988. Laos became a member of ASEAN in 1997 and the WTO in 2013.<br> <p>In the 2010s, the country benefited from direct foreign investment, particularly in the natural resource and industry sectors. Construction of a number of large hydropower dams and expanding mining activities have also boosted the economy. Laos has retained its official commitment to communism and maintains close ties with its two communist neighbors, Vietnam and China, both of which continue to exert substantial political and economic influence on the country. China, for example, provided 70% of the funding for a $5.9 billion, 400-km railway line between the Chinese border and the capital Vientiane, which opened for operations in December 2021. Laos financed the remaining 30% with loans from China. At the same time, Laos has expanded its economic reliance on the West and other Asian countries, such as Japan, Malaysia, Singapore, Taiwan, and Thailand.</p><br>
 
 ## Geography
 
@@ -351,7 +351,7 @@ _judge selection and term of office_: president of People's Supreme Court appoin
 _subordinate courts_: appellate courts; provincial, municipal, district, and military courts<br>
 
 **Political parties and leaders**<br>
-Lao People's Revolutionary Party or LPRP [BOUNNYANG Vorachit]; Prime Minister THONGLOUN Sisoulit elected general secretary in mid-January 2021<br>
+Lao People's Revolutionary Party or LPRP [THONGLOUN Sisoulit]<br>
 <strong>note:</strong> other parties proscribed<br>
 
 **International organization participation**<br>
@@ -681,13 +681,13 @@ Lao People's Armed Forces (LPAF): Lao People's Army (LPA, includes Riverine Forc
 0.2% of GDP (2013 est.)<br>
 
 **Military and security service personnel strengths**<br>
-information is limited and estimates for the size of the Lao People&rsquo;s Armed Forces (LPAF) vary; approximately 30,000 active duty troops (26,000 Army; 4000 Air Force) (2020)<br>
+information is limited and estimates vary; approximately 30,000 active duty troops (26,000 Army; 4000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2020)<br>
+the LPAF is armed largely with weapons from the former Soviet Union; since 2010, China and Russia are the leading suppliers of military equipment to Laos (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2019)<br>
+18 years of age for compulsory or voluntary military service; conscript service obligation - minimum 18 months (2021)<br>
 
 **Military - note**<br>
 <p>the LPAF’s primary missions are border and internal security, including counterinsurgency and counterterrorism</p><br>

@@ -5,7 +5,7 @@ _Central Asia / Countries_
 ## Introduction
 
 **Background**<br>
-Uzbekistan is the geographic and population center of Central Asia. The country has a diverse economy and a relatively young population. Russia conquered and united the disparate territories of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to the overuse of agrochemicals and the depletion of water supplies, leaving the land degraded and the Aral Sea and certain rivers half-dry. Independent since the dissolution of the USSR in 1991, the country has diversified agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base, although cotton remains a major part of its economy. Uzbekistan&rsquo;s first president, Islam KARIMOV, led Uzbekistan for 25 years until his death in September 2016. His successor, former Prime Minister Shavkat MIRZIYOYEV, has improved relations with Uzbekistan&rsquo;s neighbors and introduced wide-ranging economic, judicial, and social reforms.<br>
+Uzbekistan is the geographic and population center of Central Asia. The country has a diverse economy and a relatively young population. Russia conquered and united the disparate territories of present-day Uzbekistan in the late 19th century. Stiff resistance to the Red Army after the Bolshevik Revolution was eventually suppressed and a socialist republic established in 1924. During the Soviet era, intensive production of "white gold" (cotton) and grain led to the overuse of agrochemicals and the depletion of water supplies, leaving the land degraded and the Aral Sea and certain rivers half-dry. Independent since the dissolution of the USSR in 1991, the country has diversified agricultural production while developing its mineral and petroleum export capacity and increasing its manufacturing base, although cotton remains a major part of its economy. Uzbekistan&rsquo;s first president, Islom KARIMOV, led Uzbekistan for 25 years until his death in September 2016. His successor, former Prime Minister Shavkat MIRZIYOYEV, has improved relations with Uzbekistan&rsquo;s neighbors and introduced wide-ranging economic, judicial, and social reforms. MIRZIYOYEV was reelected in October 2021 with 80% of the vote.<br>
 
 ## Geography
 
@@ -327,11 +327,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016)<br>
-_head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016); First Deputy Prime Minister/Minister of Transport Achilbay RAMATOV (since 15 December 2016)<br>
+_chief of state_: President Shavkat MIRZIYOYEV (interim president from 8 September 2016; formally elected president on 4 December 2016 to succeed longtime President Islom KARIMOV, who died on 2 September 2016; reelected president on 24 October 2021)<br>
+_head of government_: Prime Minister Abdulla ARIPOV (since 14 December 2016)<br>
 _cabinet_: Cabinet of Ministers appointed by the president with most requiring approval of the Senate chamber of the Supreme Assembly (Oliy Majlis)<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term; previously a 5-year term, extended by a 2002 constitutional amendment to 7 years, and reverted to 5 years in 2011); election last held on 24 October 2021 (next to be held in 2026); prime minister nominated by majority party in legislature since 2011, but appointed along with the ministers and deputy ministers by the president<br>
-_election results_: <em><br>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.1%, Maqsuda VORISOVA (PDP) 6.6%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
+_election results_: <em><br>2021</em>: Shavkat MIRZIYOYEV reelected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 80.1%, Maqsuda VORISOVA (PDP) 6.7%, Alisher QODIROV (National Revival Democratic Party) 5.5%, Narzullo OBLOMURODOV (Ecological Party) 4.1%, Bahrom ABDUHALIMOV (Adolat) 3.4%<br><br><em>2016:</em> Shavkat MIRZIYOYEV elected president in first round; percent of vote - Shavkat MIRZIYOYEV (LDPU) 88.6%, Hotamjon KETMONOV (PDP) 3.7%, Narimon UMAROV (Adolat) 3.5%, Sarvar OTAMURODOV (National Revival Democratic Party) 2.4%, other 1.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral Supreme Assembly or Oliy Majlis consists of:<br>Senate or Senat (100 seats; 84 members indirectly elected by regional governing councils and 16 appointed by the president; members serve 5-year terms)<br>Legislative Chamber or Qonunchilik Palatasi (150 seats; members directly elected in single-seat constituencies by absolute majority vote with a second round if needed; members serve 5-year terms)<br>
@@ -345,13 +345,13 @@ _judge selection and term of office_: judges of the highest courts nominated by 
 _subordinate courts_: regional, district, city, and town courts<br>
 
 **Political parties and leaders**<br>
-Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Boriy ALIKHANOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Narimon UMAROV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Hotamjon KETMONOV] (formerly Communist Party)<br>
+Ecological Party of Uzbekistan (O'zbekiston Ekologik Partivasi) [Narzullo OBLOMURODOV]<br>Justice (Adolat) Social Democratic Party of Uzbekistan [Bahrom ABDUHALIMOV]<br>Liberal Democratic Party of Uzbekistan (O'zbekiston Liberal-Demokratik Partiyasi) or LDPU [Aktam HAITOV]<br>National Revival Democratic Party of Uzbekistan (O'zbekiston Milliy Tiklanish Demokratik Partiyasi) [Alisher QODIROV]<br>People's Democratic Party of Uzbekistan (Xalq Demokratik Partiyas) or PDP [Ulugbek Ilyosovich INOYATOV] (formerly Communist Party)<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, EAPC, EBRD, ECO, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
+ADB, CICA, CIS, EAEU (observer), EAPC, EBRD, ECO, EEU (observer), FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, ISO, ITSO, ITU, MIGA, NAM, OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Javlon VAKHABOV (since 29 November 2017)<br>
+_chief of mission_: Ambassador Javlon VAHOBOV (since 29 November 2017)<br>
 _chancery_: 1746 Massachusetts Avenue NW, Washington, DC 20036<br>
 _telephone_: [1] (202) 887-5300<br>
 _FAX_: [1] (202) 293-6804<br>
@@ -611,8 +611,8 @@ the government controls media; 17 state-owned broadcasters - 13 TV and 4 radio -
 .uz<br>
 
 **Internet users**<br>
-_total_: 15,705,402<br>
-_percent of population_: 52.31% (July 2018 est.)<br>
+_total_: 18.6 million (2021 est.)<br>
+_percent of population_: 52.31% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,820,009 (2020)<br>
@@ -666,7 +666,7 @@ _river port(s)_: Termiz (Amu Darya)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Interior: police, border forces (2021)<br>
+Armed Forces of Uzbekistan: Army, Air and Air Defense Forces; National Guard; Ministry of Interior: Internal Security Troops, Border Guards, Security Service (2021)<br>
 note - the National Guard, also under the Ministry of Defense, ensures public order and security of diplomatic missions, radio and television broadcasting, and other state entities<br>
 
 **Military expenditures**<br>
@@ -678,10 +678,10 @@ note - the National Guard, also under the Ministry of Defense, ensures public or
 information varies; approximately 50-60,000 total active troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they have received weapons and aircraft from a variety of sources, including China, France, Russia, Spain, Turkey, and the US (2020)<br>
+the Uzbek Armed Forces use mainly Soviet-era equipment, although since 2010 they have received weapons and aircraft from a variety of sources, including China, France, Russia, Spain, Turkey, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory military service; 1-year conscript service obligation for males (conscripts have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2019)<br>
+18-27 years of age for compulsory military service; 1-year conscript service obligation for males (conscripts have the option of paying for a shorter service of one month while remaining in the reserves until the age of 27); Uzbek citizens who have completed their service terms in the armed forces have privileges in employment and admission to higher educational institutions (2021)<br>
 
 **Military - note**<br>
 <p>the Uzbek armed forces were established in January 1992, following the dissolution of the Soviet Union, when the newly-established Ministry for Defense Affairs assumed jurisdiction over all former Soviet ground, air, and air defense units, formations, and installations then deployed on its soil; the building hosting the headquarters for the ex-Soviet Turkestan Military District became the headquarters for the Uzbek armed forces; all former Soviet troops departed Uzbekistan by 1995; as of 2021, Uzbekistan continued to maintain bilateral defense ties with Russia based on a 2005 mutual security agreement</p> <p>as of 2021, Uzbekistan was not part of the Russian-sponsored Collective Security Treaty Organization (CSTO) that is comprised of former Soviet Republics; Uzbekistan joined in the 1990s but withdrew in 1999; it returned in 2006 but left again in 2012</p><br>

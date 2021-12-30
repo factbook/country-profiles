@@ -368,7 +368,7 @@ _judge selection and term of office_: judges appointed by the president of Namib
 _subordinate courts_: High Court; Electoral Court, Labor Court; regional and district magistrates' courts; community courts<br>
 
 **Political parties and leaders**<br>
-All People's Party or APP [Ignatius SHIXWAMENI]<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Estes MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM (formerly DTA) [McHenry VENAANI]<br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Tangeni IIYAMBO]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>Workers' Revolutionary Party or WRP (formerly CPN) [MPs Salmon FLEERMUYS and Benson KAAPALA]<br>
+All People's Party or APP [Vacant]<br>Christian Democratic Voice or CDV [Gothard KANDUME]<br>Landless People's Movement or LPM [Bernadus SWARTBOOI]<br>National Unity Democratic Organization or NUDO [Estes MUINJANGUE]<br>Namibian Economic Freedom Fighters or NEFF [Epafras MUKWIILONGO]<br>Popular Democratic Movement or PDM (formerly DTA) [McHenry VENAANI]<br>Rally for Democracy and Progress or RDP [Mike KAVEKOTORA]<br>Republican Party or RP [Henk MUDGE]<br>South West Africa National Union or SWANU [Tangeni IIYAMBO]<br>South West Africa People's Organization or SWAPO [Hage GEINGOB]<br>United Democratic Front or UDF [Apius AUCHAB]<br>United People's Movement or UPM [Jan J. VAN WYK]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, CPLP (associate observer), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -719,5 +719,5 @@ the inventory of the Namibian Defense Force consists mostly of Soviet-era equipm
 <p>concerns from international experts and local populations over the Okavango Delta ecology in Botswana and human displacement scuttled Namibian plans to construct a hydroelectric dam on Popa Falls along the Angola-Namibia border; the governments of South Africa and Namibia have not signed or ratified the text of the 1994 Surveyor's General agreement placing the boundary in the middle of the Orange River; Namibia has supported, and in 2004 Zimbabwe dropped objections to, plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 5,542 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 5,641 (Democratic Republic of the Congo) (refugees and asylum seekers) (2021)<br>
 

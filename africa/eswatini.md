@@ -345,7 +345,7 @@ _judge selection and term of office_: justices of the Supreme Court and High Cou
 _subordinate courts_: magistrates' courts; National Swazi Courts for administering customary/traditional laws (jurisdiction restricted to customary law for Swazi citizens)<br>
 
 **Political parties and leaders**<br>
-political parties exist, but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Sibusiso DLAMINI]<br>Ngwane National Liberatory Congress or NNLC [Dr. Alvit DLAMINI]<br>People's United Democratic Movement or PUDEMO [Mario MASUKU]<br>Swazi Democratic Party or SWADEPA [Jan SITHOLE]<br>
+political parties exist, but conditions for their operations, particularly in elections, are undefined, legally unclear, or culturally restricted; the following are considered political associations:<br>African United Democratic Party or AUDP [Sibusiso DLAMINI]<br>Ngwane National Liberatory Congress or NNLC [Sibongile MAZIBUKO]<br>People's United Democratic Movement or PUDEMO [Mlungisi MAKHANYA]<br>Swazi Democratic Party or SWADEPA [Vacant]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, PCA, SACU, SADC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

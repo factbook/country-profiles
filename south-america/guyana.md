@@ -674,7 +674,7 @@ the Guyana Defense Force is a unified force with ground, air, and coast guard co
 the Guyana Defense Force has approximately 4,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US; since 2000, Guyana has received small amounts of military equipment from Brazil, China, and the UK (2020)<br>
+the Guyana Defense Force's limited inventory is mostly comprised of second-hand platforms from a variety of foreign suppliers, including Brazil, China, the former Soviet Union, the UK, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age or older for voluntary military service; no conscription (2021)<br>

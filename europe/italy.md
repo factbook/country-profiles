@@ -351,7 +351,7 @@ _judge selection and term of office_: Supreme Court judges appointed by the High
 _subordinate courts_: various lower civil and criminal courts (primary and secondary tribunals and courts of appeal)<br>
 
 **Political parties and leaders**<br>
-<p><strong>Governing Coalition</strong><strong>:</strong> <br>Five Star Movement or M5S [Vito CRIMI, acting leader]<br>League or Lega [Matteo SALVINI]<br><br><strong>Left-center-right opposition:</strong> <br>Brothers of Italy or FdI [Giorgi MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN]</p> <p><strong>Other parties and parliamentary groups:<br></strong>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Possible [Beatrice BRIGNONE]<br>South American Union Italian Emigrants or USEI [Eugenion SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] <br>Us with Italy [Raffaele FITTO]</p><br>
+<p>Article One or Art.1-MDP [Roberto SPERANZA]<br>Associative Movement of Italians Abroad or MAIE [Ricardo Antonio MERIO]<br>Brothers of Italy or FdI [Giorgi MELONI]<br>Democratic Party or PD [Enrico LETTA]<br>Five Star Movement or M5S [Giuseppe CONTE]<br>Forza Italia or FI [Silvio BERLUSCONI]<br>Free and Equal (Liberi e Uguali) or LeU [Pietro GRASSO]<br>League or Lega [Matteo SALVINI]<br>More Europe or +EU [Emma BONINO]<br>Popular Civic List or CP [Beatrice LORENZIN]<br>Possible [Beatrice BRIGNONE]<br>South American Union Italian Emigrants or USEI [Eugenion SANGREGORIO]<br>South Tyrolean People's Party or SVP [Philipp ACHAMMER]<br>Trentino Tyrolean Autonomist Party (Partito Autonomista Trentino Tirolese) or PATT [Franco PANIZZA, secretary] <br>Us with Italy [Raffaele FITTO]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CDB, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINURSO, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), Schengen Convention, SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, Union Latina, UNMOGIP, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -693,7 +693,7 @@ _LNG terminal(s) (import)_: La Spezia, Panigaglia, Porto Levante<br>
 
 **Military and security forces**<br>
 Italian Armed Forces: Army (Esercito Italiano, EI), Navy (Marina Militare Italiana, MMI; includes aviation, marines), Italian Air Force (Aeronautica Militare Italiana, AMI); Carabinieri Corps (Arma dei Carabinieri, CC) (2021)<br>
-note(s): the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
+note(s) - the Carabinieri is the national gendarmerie; for its civil police functions, the Carabinieri falls under the control of the Ministry of the Interior; the Financial Guard (Guardia di Finanza) under the Ministry of Economy and Finance is a force with military status and nationwide remit for financial crime investigations, including narcotics trafficking, smuggling, and illegal immigration<br>
 
 **Military expenditures**<br>
 1.39% of GDP (2020 est.)<br>
@@ -703,16 +703,16 @@ note(s): the Carabinieri is the national gendarmerie; for its civil police funct
 1.18% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Italian Armed Forces have approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2020)<br>
+the Italian Armed Forces have approximately 170,000 active personnel (100,000 Army; 30,000 Navy; 40,000 Air Force); approximately 107,000 Carabinieri (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported European and US weapons systems; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2020)<br>
+the Italian Armed Forces' inventory includes a mix of domestically-produced, jointly-produced, and imported European and US weapons systems; the US is the leading supplier of weapons to Italy since 2010, followed by Germany; the Italian defense industry is capable of producing equipment across all the military domains with particular strengths in naval vessels and aircraft; it also participates in joint development and production of advanced weapons systems with other European countries and the US (2021)<br>
 
 **Military deployments**<br>
-120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 1,200 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
+120 Djibouti; 1,100 Middle East/Iraq/Kuwait (NATO, counter-ISIS campaign, European Assistance Mission Iraq); 630 Kosovo (NATO/KFOR); 200 Latvia (NATO); 900 Lebanon (UNIFIL); 400 Libya; 290 Niger; 150 Somalia (EUTM) (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2019)<br>
+18-25 years of age for voluntary military service; women may serve in any military branch; Italian citizenship required; 1-year service obligation; conscription abolished 2004 (2021)<br>
 
 **Military - note**<br>
 Italy is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Italy is an active participant in EU, NATO, UN, and other multinational military, security, and humanitarian operations abroad; as of 2021, it hosted the headquarters for the EU’s Mediterranean naval operations force (EUNAVFOR-MED) in Rome and the US Navy’s 6th Fleet in Naples; Italy was admitted to the UN in 1955 and in 1960 participated in its first UN peacekeeping mission, the UN Operation in Congo (ONUC); since 1960, it has committed more than 60,000 troops to UN missions, and as of 2021, was the top supplier of military and police forces among Western and EU nations to UN peacekeeping operations; since 2006, Italy has hosted a training center in Vicenza for police personnel destined for peacekeeping missions</p><br>
@@ -730,7 +730,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 18,473 (Nigeria), 14,484 (Pakistan), 12,096 (Afghanistan), 10,063 (Mali), 7,704 (Somalia), 5,740 (Gambia) (2020)<br>
 _stateless persons_: 3,000 (2020)<br>
-<strong>note:</strong> 586,704 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 590,074 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 important gateway for drug trafficking; organized crime groups allied with Colombian and Spanish groups trafficking cocaine to Europe<br>

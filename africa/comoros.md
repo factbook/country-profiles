@@ -334,7 +334,7 @@ _subordinate courts_: Court of Appeals (in Moroni); Tribunal de premiere instanc
 <br><br> <br>
 
 **Political parties and leaders**<br>
-Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Democratic Rally of the Comoros or RDC [Mouigni BARAKA]<br>Independent Party [N/A]<br>Juwa Party or PJ [[Ahmed Abdallah SAMBI, Mahamoudou AHAMADA]<br>Orange Party [Mohamed DAOUDOU]<br>Party for the Comorian Agreement (Partie Pour l'Entente Commorienne) or PEC [Fahmi Said IBRAHIM]<br>Rally for an Alternative of Harmonious and Integrated Development or RADHI [Houmed MSAIDIE, Abdou SOEFO]<br>Rally with a Development Initiative for Enlightened Youth or RIDJA [Said LARIFOU]<br>Union for the Development of the Comoros or UPDC [Mohamed HALIFA] (2018)<br>
+Convention for the Renewal of the Comoros or CRC [AZALI Assoumani]<br>Democratic Rally of the Comoros or RDC [Mouigni BARAKA]<br>Independent Party [N/A]<br>Juwa Party or PJ [[Ahmed Abdallah SAMBI, Mahamoudou AHAMADA]<br>Orange Party [Mohamed DAOUDOU]<br>Party for the Comorian Agreement (Partie Pour l'Entente Commorienne) or PEC [Fahmi Said IBRAHIM]<br>Rally for an Alternative of Harmonious and Integrated Development or RADHI [Mohamed AHMED]<br>Rally with a Development Initiative for Enlightened Youth or RIDJA [Said LARIFOU]<br>Union for the Development of the Comoros or UPDC [Mohamed HALIFA] (2018)<br>
 
 **International organization participation**<br>
 ACP, AfDB, AMF, AOSIS, AU, CAEU (candidates), COMESA, FAO, FZ, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, InOC, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
@@ -634,13 +634,13 @@ National Army for Development (l'Armee Nationale de Developpement, AND): Comoran
 note - when the Gendarmerie serves as the judicial police, it reports to the Minister of Justice<br>
 
 **Military and security service personnel strengths**<br>
-Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal Police (2020)<br>
+Comoran Defense Force has an estimated 600 personnel; est. 500 Comoran Federal Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the defense forces are lightly armed with a mix of equipment from a variety of countries, including France, Italy, Russia, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for 2-year voluntary male and female military service; no conscription (2019)<br>
+18 years of age for 2-year voluntary male and female military service; no conscription (2021)<br>
 
 **Military - note**<br>
 the AND is limited in capabilities to performing search and rescue operations and maintaining internal security; a defense treaty with France provides naval resources for protection of territorial waters, training of Comoran military personnel, and air surveillance; France maintains a small maritime base and a Foreign Legion contingent on neighboring Mayotte (2021)<br>

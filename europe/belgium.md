@@ -336,7 +336,7 @@ _judge selection and term of office_: Constitutional Court judges appointed by t
 _subordinate courts_: Courts of Appeal; regional courts; specialized courts for administrative, commercial, labor, immigration, and audit issues; magistrate's courts; justices of the peace<br>
 
 **Political parties and leaders**<br>
-<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Joachim COENS]<br>Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Groen or Green [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Social Progressive Alternative or SP.A [Conner ROUSSEAU]<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET, Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Olivier MAINGAIN]<br>Humanist and Democratic Center or CDH [Maxine PREVOT]<br>People's Party or PP [Mischael MODRIKAMEN]<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PTB [Peter MERTENS]<br>other minor parties<br>
+<strong>Flemish parties:</strong> <br>Christian Democratic and Flemish or CD&amp;V [Joachim COENS]<br>Flemish Liberals and Democrats or Open VLD [Egbert LACHAERT]<br>Groen or Green [Meyrem ALMACI] (formerly AGALEV, Flemish Greens)<br>New Flemish Alliance or N-VA [Bart DE WEVER]<br>Forward [Conner ROUSSEAU] (formerly Social Progressive Alternative or SP.A)<br>Vlaams Belang (Flemish Interest) or VB [Tom VAN GRIEKEN]<br><strong>Francophone parties:</strong> <br>Ecolo (Francophone Greens) [Jean-Marc NOLLET, Rajae MAOUANE]<br>Francophone Federalist Democrats or Defi [Francois DE SMET]<br>Humanist and Democratic Center or CDH [Maxine PREVOT]<br>People's Party or PP [Mischael MODRIKAMEN] (dissolved 18 June 2019)<br>Reform Movement or MR [George-Louis BOUCHEZ]<br>Socialist Party or PS [Paul MAGNETTE]<br>Workers' Party or PTB [Peter MERTENS]<br>other minor parties<br>
 
 **International organization participation**<br>
 ADB (nonregional members), AfDB (nonregional members), Australia Group, Benelux, BIS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -684,13 +684,13 @@ Belgian Armed Forces: Land Component, Marine (Naval) Component, Air Component, M
 the Belgian Armed Forces have approximately 26,000 active duty personnel (11,000 Land Component; 1,500 Marine Component; 5,000 Air Force Component; 1,500 Medical Service; 7,000 other, including joint staff, support, and training schools) (2020)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, France, Germany, and Switzerland are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2020)<br>
+the Belgian Armed Forces have a mix of weapons systems from European countries, Israel, and the US; since 2010, several European nations are the leading suppliers of armaments; Belgium has an export-focused defense industry that focuses on components and subcontracting (2021)<br>
 
 **Military deployments**<br>
 125 France (contributing member of EuroCorps); 100 Mali (EUTM/MINUSMA); 200 Lithuania (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for male and female voluntary military service; conscription abolished in 1995 (2019)<br>
+18 years of age for male and female voluntary military service; conscription abolished in 1995 (2021)<br>
 
 **Military - note**<br>
 Belgium is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949 <br><br>in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>

@@ -599,20 +599,20 @@ _total subscriptions_: 18,028,388 (2020)<br>
 _subscriptions per 100 inhabitants_: 63.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to government sanction and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
+_general assessment_: telecom industry struggling due to political upheaval in the country; poor quality of service in many areas of the country due to decrepit state of fixed-line network and operators&rsquo; inability to pay for equipment from foreign vendors; operator suffering from stolen or damaged infrastructure; many consumers favor mobile service, and cancel their fixed-line services; popularity of social networks caused growth in mobile data traffic; LTE coverage to about half of the population; government launched National Fiber Optic backbone project in 2019; national satellite drifted off course and became non-operational; American company closed a telecom service due to US sanctions and a Chilean company later acquired the service; Internet freedom deteriorating amid crisis, with frequent disruptions to service and monitoring; importer of broadcasting equipment from the USA (2020)<br>
 _domestic_: two domestic satellite systems with three earth stations; recent substantial improvement in telephone service in rural areas; 3 major providers operate in the mobile market and compete with state-owned company; fixed-line 19 per 100 and mobile-cellular telephone subscribership about 58 per 100 persons (2019)<br>
 _international_: country code - 58; landing points for the Venezuela Festoon, ARCOS, PAN-AM, SAC, GlobeNet, ALBA-1 and Americas II submarine cable system providing connectivity to the Caribbean, Central and South America, and US; satellite earth stations - 1 Intelsat (Atlantic Ocean) and 1 PanAmSat (2020)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-government supervises a mixture of state-run and private broadcast media; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a government-backed Pan-American channel; state-run radio network includes roughly 65 news stations and another 30 stations targeted at specific audiences; state-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation<br>
+Venezuela has a mixture of state-run and private broadcast media that are subject to high levels of government control, including the shuttering of opposition-leaning media outlets; 13 public service networks, 61 privately owned TV networks, a privately owned news channel with limited national coverage, and a government-backed Pan-American channel; 3 state-run radio networks officially control roughly 65 news stations and another 30 stations targeted at specific audiences; state-sponsored community broadcasters include 235 radio stations and 44 TV stations; the number of private broadcast radio stations has been declining, but many still remain in operation (2021)<br>
 
 **Internet country code**<br>
 .ve<br>
 
 **Internet users**<br>
-_total_: 21,354,499<br>
-_percent of population_: 72% (July 2018 est.)<br>
+_total_: 20.57 million (2021 est.)<br>
+_percent of population_: 72% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,407,187 (2020)<br>
@@ -674,7 +674,7 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana, NMB)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
 note(s) - the CODAI is a joint service command with personnel drawn from other services; the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses; the GNB is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counternarcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br>
 
 **Military expenditures**<br>
@@ -689,13 +689,13 @@ information varies; approximately 125-150,000 active personnel, including about 
 note - at the end of 2018, the Venezuelan Government claimed the Bolivarian Militia had 1.6 million members, but most reportedly have little to no military training<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries such as France, Germany, Italy, the Netherlands, Spain, the UK, and the US; since 2010, Russia is by far the top supplier of military hardware to Venezuela, followed by China, Spain, and Ukraine (2020)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries such as France, Germany, Italy, the Netherlands, Spain, the UK, and the US; since 2010, Russia is the top supplier of military hardware to Venezuela, followed by China, Spain, and Ukraine (2021)<br>
 
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2020, no attacks were reported which was a decrease from the six attacks in 2019<br>
 
 **Military service age and obligation**<br>
-18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2019)<br>
+18-30 (25 for women) for voluntary service; the minimum service obligation is 24-30 months; all citizens of military service age (18-50 years old) are obligated to register for military service and subject to military training, although &ldquo;forcible recruitment&rdquo; is forbidden (2021)<br>
 
 **Military - note**<br>
 between 2013 and 2017, Venezuela established at least a dozen military-led firms in a variety of economic sectors, such as agriculture, banking, construction, insurance, the media, mining, oil, and tourism; as of 2020, military officers reportedly led at least 60 state-owned companies<br>
@@ -720,5 +720,5 @@ _current situation_: Venezuela is a source, transit, and destination country for
 _tier rating_: Tier 3 &mdash; Venezuela does not fully meet the minimum standards for the elimination of trafficking and is not making significant efforts to do so; the government created a specialized prosecutor&rsquo;s office to oversee trafficking investigations and prosecutions; authorities began legal proceedings against three complicit officials in a notable case; however, the government did not assist any victims or investigate, prosecute, or convict any traffickers; little effort was made to curb the forced recruitment of Venezuelan children by Colombian armed groups operating illegally in Venezuela; authorities made little effort to screen Cuban medical professionals for trafficking indicators as the Cuban Government may have forced them to work by withholding their documentation, and coercing them to falsify medical records (2020)<br>
 
 **Illicit drugs**<br>
-<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government reportedly complicity with illegal armed narcotrafficking groups with practically nonexistent international drug control cooperation;  significant narcotics-related money-laundering activity, especially along the border with Colombia and on Margarita Island; increasing signs of drug-related activities by Colombian insurgents on border</p><br>
+<p> a major drug transit country and trafficking route in the Western Hemisphere largely destined for the Caribbean, Central America, the United States, West Africa, and Europe for illegal drugs, predominately cocaine; government officials reportedly complicit with illegal armed narcotrafficking groups little international drug control cooperation;  significant narcotics-related money-laundering activity, increasing signs of drug-related activities by Colombian insurgents on border</p><br>
 

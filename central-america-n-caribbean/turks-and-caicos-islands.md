@@ -481,6 +481,9 @@ no local terrestrial TV stations, broadcasts from the Bahamas can be received an
 **Internet country code**<br>
 .tc<br>
 
+**Internet users**<br>
+_total_: 31,000 (2020 est.)<br>
+
 ## Transportation
 
 **National air transport system**<br>

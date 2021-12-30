@@ -334,9 +334,9 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 
 **Executive branch**<br>
 _chief of state_: <p>President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President  Ignazio CASSIS (since 1 January 2021); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president</p><br>
-_head of government_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2021; Vice President Ignazio CASSIS (since 1 January 2021)<br>
+_head of government_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President Ignazio CASSIS (since 1 January 2021)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
-_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on&nbsp;11 December 2019 (next to be held in December 2020)<br>
+_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 9 December 2020 (next to be held in December 2021)<br>
 _election results_: Guy PARMELIN elected president; Federal Assembly vote - 192 of 205; Ignazio CASSIS elected vice president; Federal Assembly vote - 162 of 199<br>
 
 **Legislative branch**<br>
@@ -625,8 +625,8 @@ _international_: country code - 41; satellite earth stations - 2 Intelsat (Atlan
 .ch<br>
 
 **Internet users**<br>
-_total_: 7,437,820<br>
-_percent of population_: 89.69% (July 2018 est.)<br>
+_total_: 8.42 million (2021 est.)<br>
+_percent of population_: 93.15% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4.023 million (2020)<br>

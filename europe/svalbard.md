@@ -194,7 +194,7 @@ see Norway<br>
 
 **Executive branch**<br>
 _chief of state_: King HARALD V of Norway (since 17 January 1991); Heir Apparent Crown Prince Haakon MAGNUS (son of the king, born 20 July 1973)<br>
-_head of government_: Governor Kjerstin ASKHOLT (since 1 October 2015); Assistant Governor Berit SAGFOSSEN (since 1 April 2016)<br>
+_head of government_: Governor Lars FAUSE (since 24 June 2021); Vice Governor Solvi ELVEDAHL (since 1 May 2020)<br>
 _elections/appointments_: none; the monarchy is hereditary; governor and assistant governor responsible to the Polar Department of the Ministry of Justice<br>
 
 **Legislative branch**<br>
@@ -206,7 +206,7 @@ _election results_: seats by party - Conservatives 5, Labor Party 5, Liberals 3,
 _highest courts_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>
 
 **Political parties and leaders**<br>
-Svalbard Conservative Party [Kjetil FIGENSCHOU]<br>Svalbard Green Party [Helga Bardsdatter KRISTIANSEN, Espen Klungseth ROTEVATN]<br>Svalbard Labor Party [Elise STROMSENG]<br>Svalbard Liberal Party [Erik BERGER]<br>
+Svalbard Conservative Party [Kjetil FIGENSCHOU]<br>Svalbard Green Party [Pal BERG]<br>Svalbard Labor Party [Arild OLSEN]<br>Svalbard Liberal Party [Terie AUVENIK]<br>Svalbard Progress Party [Jorn DYBDAHL]<br>
 
 **International organization participation**<br>
 none<br>
@@ -297,6 +297,9 @@ the Norwegian Broadcasting Corporation (NRK) began direct TV transmission to Sva
 
 **Internet country code**<br>
 .sj<br>
+
+**Internet users**<br>
+_total_: 1,542 includes usage for Jan Mayen (2021 est.)<br>
 
 ## Transportation
 

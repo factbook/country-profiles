@@ -287,7 +287,7 @@ _election results_: Kim KIELSEN elected premier; Parliament vote - Kim KIELSEN (
 **Legislative branch**<br>
 _description_: unicameral Parliament or Inatsisartut (31 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote  - using the d'Hondt method - to serve 4-year terms)<br>Greenland elects 2 members to the Danish Parliament to serve 4-year terms<br>
 _elections_: Greenland Parliament - last held on 6 April 2021 (next to be held in 2025)<br>Greenland members to Danish Parliament - last held on 5 June 2019 (next to be held by 4 June 2023)<br>
-_election results_: Greenland Parliament - percent of vote by party - IA 37.4%, S 30.1%, PN 12.3%, D 9.3%, A 7.1%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
+_election results_: Greenland Parliament - percent of vote by party - IA 36.6%, S 29.5%, N 12%, D 9.1%, A 6.9%, other 3.8%; seats by party - IA 12, S 10, PN 4, D 3, A 2; composition - men 21, women 10, percent of women 32.2%<br><br>Greenland members in Danish Parliament - percent of vote by party - NA; seats by party - IA 1, S 1; composition - 2 women<br>
 
 **Judicial branch**<br>
 _highest courts_: High Court of Greenland (consists of the presiding professional judge and 2 lay assessors); note - appeals beyond the High Court of Greenland can be heard by the Supreme Court (in Copenhagen)<br>
@@ -295,17 +295,22 @@ _judge selection and term of office_: judges appointed by the monarch upon the r
 _subordinate courts_: Court of Greenland; 18 district or magistrates' courts<br>
 
 **Political parties and leaders**<br>
-Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or PN [Hans ENOKSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>
+Democrats Party (Demokraatit) or D [Jens Frederik NIELSEN]<br>Forward Party (Siumut) or S [Erik JENSEN]<br>Inuit Community (Inuit Ataqatigiit) or IA [Mute Bourup EGEDE]<br>Signpost Party (Partii Naleraq) or N [Hans ENOKSEN]<br>Fellowship Party (Atassut) or A [Aqqalu JERIMIASSEN]<br>
 
 **International organization participation**<br>
 Arctic Council, ICC, NC, NIB, UPU<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: none (self-governing overseas administrative division of Denmark); note - Greenland has an office in the Danish Embassy in the US; it also has offices in the Danish consulates in Chicago and New York<br>
-_email address and website_: <br>washington@nanoq.gl<br>
+_chief of mission_: Kenneth HOEGH, Head of Representation; note - Greenland also has offices in the Danish consulates in Chicago and New York<br>
+_chancery_: Greenland Representation<br>3200 Whitehaven Street, NW<br>Washington, DC  20008<br>
+_telephone_: 202-797-5392<br>
+_email address and website_: <br>washington@nanoq.gl<br><br>https://naalakkersuisut.gl/en/Naalakkersuisut/Groenlands-repraesentation-Washington<br>
 
 **Diplomatic representation from the US**<br>
-_embassy_: none (self-governing overseas administrative division of Denmark)<br>
+_chief of mission_: Joanie SIMON, Consul (since June 2021)<br>
+_embassy_: Aalisartut Aqqutaa 47<br>Nuuk 3900<br>Greenland<br>
+_telephone_: (+299) 384100<br>
+_email address and website_: <br>https://dk.usembassy.gov/embassy-consulate/nuuk/<br>
 
 **Flag description**<br>
 two equal horizontal bands of white (top) and red with a large disk slightly to the hoist side of center - the top half of the disk is red, the bottom half is white; the design represents the sun reflecting off a field of ice; the colors are the same as those of the Danish flag and symbolize Greenland's links to the Kingdom of Denmark<br>

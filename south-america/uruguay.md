@@ -627,8 +627,8 @@ mixture of privately owned and state-run broadcast media; more than 100 commerci
 .uy<br>
 
 **Internet users**<br>
-_total_: 2,300,557<br>
-_percent of population_: 68.28% (July 2018 est.)<br>
+_total_: 2.69 million (2021 est.)<br>
+_percent of population_: 77.37% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,012,410 (2019)<br>
@@ -687,20 +687,20 @@ _major seaport(s)_: Montevideo<br>
 Armed Forces of Uruguay (Fuerzas Armadas del Uruguay): National Army (Ejercito Nacional), National Navy (Armada Nacional, includes Maritime National Prefecture (Coast Guard)), Uruguayan Air Force (Fuerza Aerea); Guardia Nacional Republicana (paramilitary regiment of the National Police) (2021)<br>
 
 **Military expenditures**<br>
-2% of GDP (2020 est.)<br>
+2.3% of GDP (2021 est.)<br>
+2% of GDP (2020)<br>
 2% of GDP (2019)<br>
 2.1% of GDP (2018)<br>
 2% of GDP (2017)<br>
-1.9% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Uruguay have approximately 22,000 active personnel (14,500 Army; 5,000 Navy; 2,500 Air Force) (2021)<br>
+approximately 22,000 active personnel (14,500 Army; 5,000 Navy; 2,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2020)<br>
+the inventory of the Armed Forces of Uruguay includes a wide variety of older or second-hand equipment; since 2010, it has imported limited amounts of military hardware from about 10 countries with Spain as the leading supplier (2021)<br>
 
 **Military deployments**<br>
-800 Democratic Republic of the Congo (MINUSCO); 210 Golan Heights (UNDOF) (Sep 2021)<br>
+815 Democratic Republic of the Congo (MONUSCO); 210 Golan Heights (UNDOF) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
 18-30 years of age (18-22 years of age for Navy) for male or female voluntary military service; up to 40 years of age for specialists; enlistment is voluntary in peacetime, but the government has the authority to conscript in emergencies (2021)<br>

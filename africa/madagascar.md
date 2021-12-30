@@ -681,10 +681,10 @@ note - the National Gendarmerie is responsible for maintaining law and order in 
 0.6% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Peoples Armed Forces (PAF) have approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2020)<br>
+the Peoples Armed Forces (PAF) have approximately 13,000 personnel (12,000 Army; 500 Navy; 500 Air Force); est. 10,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PAF's inventory consists mostly of ageing Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2020)<br>
+the PAF's inventory consists mostly of aging Soviet-era equipment; since 2010, it has received limited amounts of second-hand equipment from France, South Africa, and UAE (2021)<br>
 
 **Military service age and obligation**<br>
 Madagascar has an all-volunteer military; 18-25 years of age for males; service obligation 18 months; women are permitted to serve in all branches (2021)<br>

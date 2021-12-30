@@ -623,8 +623,8 @@ a mixture of public and private TV stations; there are 7 public TV stations (2 n
 .ro<br>
 
 **Internet users**<br>
-_total_: 15,165,890<br>
-_percent of population_: 70.68% (July 2018 est.)<br>
+_total_: 15.49 million (2021)<br>
+_percent of population_: 78.46% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 5.685 million (2020)<br>
@@ -690,23 +690,23 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
-2.07% of GDP (2020 est.)<br>
+2% of GDP (2021 est.)<br>
+2.07% of GDP (2020)<br>
 1.84% of GDP (2019)<br>
 1.81% of GDP (2018)<br>
 1.72% of GDP (2017)<br>
-1.41% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force; note: 10-15,000 personnel are considered joint service) (2021)<br>
+the Romanian Armed Forces have approximately 67,000 active duty personnel (50,000 Land Forces; 7,000 Naval Forces; 10,000 Air Force; note - approximately 10-15,000 personnel are considered joint service) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment; Italy, Portugal (second-hand fighter aircraft), and the US are the leading suppliers of armaments to Romania since 2010 (2020)<br>
+the inventory of the Romanian Armed Forces is comprised mostly of Soviet-era and older domestically-produced weapons systems; there is also a smaller mix of Western-origin equipment received in more recent years from European countries and the US&nbsp; (2021)<br>
 
 **Military deployments**<br>
 up to 120 Poland (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2019)<br>
+conscription ended 2006; 18 years of age for male and female voluntary service; all military inductees (including women) contract for an initial 5-year term of service, with subsequent successive 3-year terms until age 36 (2021)<br>
 
 **Military - note**<br>
 Romania officially became a member of NATO in 2004<br>
@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 8,858 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 9,009 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

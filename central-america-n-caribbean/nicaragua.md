@@ -684,13 +684,13 @@ note - both the military and the police report directly to the president<br>
 0.5% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Army of Nicaragua has approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>
+approximately 12,000 active personnel (10,000 Army; 800 Navy; 1,200 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia is the leading arms supplier to Nicaragua (2020)<br>
+the Nicaraguan military's inventory includes mostly second-hand Russian/Soviet-era equipment; since 2010, Russia is the leading arms supplier to Nicaragua (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2019)<br>
+18-30 years of age for voluntary military service; no conscription; tour of duty 18-36 months; requires Nicaraguan nationality and 6th-grade education (2021)<br>
 
 **Military - note**<br>
 <p>the modern Army of Nicaragua was created in 1979 as the Sandinista Popular Army (1979-1984); prior to 1979, the military was known as the National Guard, which was organized and trained by the US in the 1920s and 1930s; the first commander of the National Guard, Anastasio SOMOZA García, seized power in 1937 and ran the country as a military dictator until his assassination in 1956; his sons ran the country either directly or through figureheads until the Sandinistas came to power in 1979; the defeated National Guard was disbanded by the Sandinistas</p><br>

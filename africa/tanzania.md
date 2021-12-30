@@ -358,12 +358,12 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); note - the president is both chief of state and head of government<br>
+_chief of state_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president Philip MPANGO; note - the president is both chief of state and head of government<br>
 _head of government_: President Samia Suluhu HASSAN (since 19 March 2021); note - President John MAGUFULI died on 17 March 2021; vice president (vacant); Prime Minister Kassim Majaliwa MAJALIWA (since 20 November 2015) has authority over the day-to-day functions of the government, is the leader of government business in the National Assembly, and is head of the Cabinet<br>
 _cabinet_: Cabinet appointed by the president from among members of the National Assembly<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a 5-year term (eligible for a second term); election last held on 28 October, 2020 (next to be held in October 2025); prime minister appointed by the president<br>
-_election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5%<br>
-<strong>note:</strong> Zanzibar elects a president as head of government for internal matters; election held on 25 October 2015 was annulled by the Zanzibar Electoral Commission and rerun on 20 March 2016; President Ali Mohamed SHEIN reelected; percent of vote - Ali Mohamed SHEIN (CCM) 91.4%, Hamad Rashid MOHAMED (ADC) 3%, other 5.6%; the main opposition party in Zanzibar CUF boycotted the 20 March 2016 election rerun<br>
+_election results_: John MAGUFULI elected president; percent of vote - John MAGUFULI (CCM) 58.5%, Edward LOWASSA (CHADEMA) 40%, other 1.5% (2020)<br>
+<strong>note:</strong> Zanzibar elects a president as head of government for internal matters; elections were held on 28 October, 2020 and CCM candidate Hussein MWINYI won with 76 percent of the vote followed by ACT-Wazalendo candidate Maalim Seif SHARIF with 19 percent of the vote<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Parliament (Bunge) (393 seats; 264 members directly elected in single-seat constituencies by simple majority vote, 113 women indirectly elected by proportional representation vote, 5 indirectly elected by simple majority vote by the Zanzibar House of Representatives, 10 appointed by the president, and 1 seat reserved for the attorney general; members serve a 5-year term); note - in addition to enacting laws that apply to the entire United Republic of Tanzania, the National Assembly enacts laws that apply only to the mainland; Zanzibar has its own House of Representatives or Baraza La Wawakilishi (82 seats; 50 members directly elected in single-seat constituencies by simple majority vote, 20 women directly elected by proportional representation vote, 10 appointed by the Zanzibar president, 1 seat for the House speaker, and 1 ex-officio seat for the attorney general; elected members serve a 5-year term)<br>
@@ -644,8 +644,8 @@ a state-owned TV station and multiple privately owned TV stations; state-owned n
 .tz<br>
 
 **Internet users**<br>
-_total_: 13,862,836<br>
-_percent of population_: 25% (July 2018 est.)<br>
+_total_: 15.15 million (2021 est.)<br>
+_percent of population_: 25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,084,698 (2020)<br>
@@ -706,7 +706,7 @@ _major seaport(s)_: Dar es Salaam, Zanzibar<br>
 
 **Military and security forces**<br>
 Tanzania People's Defense Forces (TPDF or Jeshi la Wananchi la Tanzania, JWTZ): Land Forces, Naval Forces, Air Force, National Building Army (Jeshi la Kujenga Taifa, JKT), People's Militia (Reserves); Ministry of Home Affairs paramilitary forces: Police Field Force (2021)<br>
-note: the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
+note - the National Building Army is a paramilitary organization under the Defense Forces that provides six months of military and vocational training to individuals as part of their two years of public service; after completion of training, some graduates join the regular Defense Forces while the remainder become part of the People's (or Citizen's) Militia<br>
 
 **Military expenditures**<br>
 1.3% of GDP (2020 est.)<br>
@@ -716,10 +716,10 @@ note: the National Building Army is a paramilitary organization under the Defens
 1.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-estimated 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
+approximately 26,000 active personnel (22,000 Land Forces; 1,000 Naval Forces; 3,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China is the leading supplier of arms to the TPDF (2020)<br>
+the TPDF inventory includes mostly Soviet-era and Chinese equipment; since 2010, China is the leading supplier of arms to the TPDF (2021)<br>
 
 **Military deployments**<br>
 450 Central African Republic (MINUSCA); 830 Democratic Republic of the Congo (MONUSCO); 125 Lebanon (UNIFIL) (Sep 2021)<br>
@@ -745,7 +745,7 @@ Islamic State of Iraq and ash-Sham - Mozambique<br>
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 126,785 (Burundi), 78,676 (Democratic Republic of the Congo) (2021)<br>
+_refugees (country of origin)_: 126,050 (Burundi), 79,583 (Democratic Republic of the Congo) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: Tanzania is a source, transit, and destination country for men, women, and children subjected to forced labor and sex trafficking; the exploitation of young girls in domestic servitude continues to be Tanzania&rsquo;s largest human trafficking problem; Tanzanian boys are subject to forced labor mainly on farms but also in mines, in the commercial service sector, in the sex trade, and possibly on small fishing boats; internal trafficking is more prevalent than transnational trafficking and is usually facilitated by friends, family members, or intermediaries offering education or legitimate job opportunities; trafficking victims from Burundi, Kenya, Bangladesh, Nepal, Yemen, and India are forced to work in Tanzania&rsquo;s agricultural, mining, and domestic service sectors or may be sex trafficked; traffickers transported Tanzanian children with physical disabilities to Kenya to work as beggars or in massage parlors; girls forced to donate a kidney to pay for supposed transportation fees to the United Arab Emirates; traffickers subject Tanzanians to forced labor, including in domestic service, and sex trafficking in other African countries, the Middle East, Europe, Asia, and the United States<br>

@@ -320,7 +320,7 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: &nbsp;President Umaro Cissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission; however, on 28 February 2020, Cipriano CASSAMA was appointed as interim president by the parliament until the Supreme Court rules on the legitimacy of the elections due to alleged irregularities in voting; CASSAMA resigned the following day stating he had received death threats&nbsp;<br>
+_chief of state_: President Umaro Sissoko EMBALO (since 27 February 2020); note - President EMBALO was declared winner of the 29 December 2019 runoff presidential election by the electoral commission. In late February 2020, Embalo seized power with the help of the military without being officially inaugurated, even though the Supreme Court of Justice had yet to rule on an electoral litigation appeal lodged by his political rival Domingos Simoes PEREIRA.<br>
 _head of government_: Prime Minister Nuno NABIAM (since 27 February 2020)<br>
 _cabinet_: Cabinet nominated by the prime minister, appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term; election last held on 24 November 2019 with a runoff on 29 December 2019 (next to be held in 2024); prime minister appointed by the president after consultation with party leaders in the National People's Assembly; note - the president cannot apply for a third consecutive term, nor during the 5 years following the end of the second term<br>

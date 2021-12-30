@@ -552,8 +552,8 @@ the government operates a national TV network that broadcasts on 2 channels; cab
 .kn<br>
 
 **Internet users**<br>
-_total_: 42,852<br>
-_percent of population_: 80.71% (July 2018 est.)<br>
+_total_: 43,100 (2021 est.)<br>
+_percent of population_: 80.71% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 29,272 (2018 est.)<br>

@@ -667,7 +667,7 @@ _under 914 m_: 2 (2013)<br>
 473 km gas, 49 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 509 km (2014)<br>
+_total_: 1,596 km (2014)<br>
 _narrow gauge_: 509 km 1.050-m gauge (2014)<br>
 
 **Roadways**<br>
@@ -697,13 +697,13 @@ Jordanian Armed Forces (JAF): Royal Jordanian Army (includes Special Operations 
 approximately 90,000 active JAF personnel (77,000 Army; 500 Navy; 12,500 Air Force); approximately 15,000 Gendarmerie Forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the JAF inventory is comprised of a wide mix of imported weapons, mostly second-hand equipment from Europe, the Gulf States, and the US; since 2010, the Netherlands and the US are the leading suppliers of military hardware to Jordan (2020)<br>
+the JAF inventory is comprised of a wide mix of imported weapons, mostly second-hand equipment from Europe, the Gulf States, and the US (2021)<br>
 
 **Military deployments**<br>
-400 Mali (MINUSMA) (Sep 2021)<br>
+325 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of three months of military training and nine months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least six months; service would include one month for military training with the remaining three months dedicated to vocational training in the sectors of construction and tourism (2020)<br>
+17 years of age for voluntary male military service (women can volunteer to serve in noncombat military positions in the Royal Jordanian Arab Army Women's Corps and RJAF); initial service term 2 years, with option to reenlist for 18 years; conscription abolished in 1991; however, in 2020, Jordan announced the reinstatement of compulsory military service for jobless men aged between 25 and 29 with 12 months of service, made up of three months of military training and nine months of professional and technical training; in 2019, announced a voluntary 4-month National Military Service program for men and women aged between 18-25 years who have been unemployed for at least six months; service would include one month for military training with the remaining three months dedicated to vocational training in the sectors of construction and tourism (2021)<br>
 
 **Military - note**<br>
 <p>the Jordanian military traces its origins back to the Arab Legion, which was formed under the British protectorate of Transjordan in the 1920s</p> <p>due largely to its proximity to regional conflicts in Iraq and Syria, the presence of major terrorist organizations in both of those countries, and the Israeli-Palestinian conflict, the highest priorities of Jordan’s military and security services in 2021 included securing its borders and the potential for domestic terrorist attacks; the terrorist group Hizballah and Iranian-backed militia forces were operating in southwestern Syria near Jordan’s border while fighters from the Islamic State of ash-Sham and Syria (ISIS) terrorist group continued operating in both Iraq and Syria; ISIS fighters included Jordanian nationals, some of whom have returned to Jordan; meanwhile, individuals and groups sympathetic to Palestine have planned and conducted terrorist attacks in Jordan</p> <p>Jordan has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments<br><br>Jordan signed a peace treaty with Israel in 1994</p><br>
@@ -725,4 +725,7 @@ _stateless persons_: 17 (2020)<br>
 **Trafficking in persons**<br>
 _current situation_: <p>human traffickers exploit domestic and foreign victims in Jordan and Jordanians abroad; victims are primarily from South and Southeast Asia, East Africa, Egypt, and Syria; foreign migrants, many undocumented, working in construction, agriculture, textiles, and domestic work are the most vulnerable to trafficking because of informal work agreements and frequently changing employers; forced labor victims experience withheld or unpaid wages, confiscation of identity documents, restricted freedom of movement, unsafe living conditions, long hours without rest, isolation, and verbal and physical abuse; child labor and potential forced child labor increased; traffickers exploit Lebanese, North African, and Eastern European women who have migrated to Jordan to work in restaurants and nightclubs are subject to sex trafficking</p><br>
 _tier rating_: Tier 2 Watch List —<strong> </strong>Jordan does not fully meet the minimum standards for the elimination of trafficking but is making significant efforts to do so; the government increased the training of law enforcement personnel and victim advocates, maintained a trafficking shelter offering a wide range of services, partnered with civil society actors to proactively identify and protect trafficking victims, and conducted anti-trafficking awareness campaigns; the government did not demonstrate overall increasing efforts as fewer traffickers were investigated, prosecuted, and convicted; fewer victims were identified and assisted, and victims were still arrested, detained, and deported for unlawful acts traffickers compelled them to commit; under Jordan’s anti-trafficking law, penalties for sex trafficking offenses were not commensurate with penalties for other serious crimes (2020)<br>
+
+**Illicit drugs**<br>
+primarily a transshipment country for amphetamine tablets originating in Lebanon and Syria and destined for Saudi Arabia, Israel, and Gulf countries; the government is increasingly concerned about domestic consumption of illicit drugs.&nbsp;<br>
 

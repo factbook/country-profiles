@@ -606,8 +606,8 @@ _international_: country code - 675; landing points for the Kumul Domestic Subma
 .pg<br>
 
 **Internet users**<br>
-_total_: 787,764<br>
-_percent of population_: 11.21% (July 2018 est.)<br>
+_total_: 1.37 million (2021 est.)<br>
+_percent of population_: 11.21% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 18,000 (2017 est.)<br>

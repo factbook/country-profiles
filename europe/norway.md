@@ -90,7 +90,7 @@ Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finni
 _major-language sample(s)_: <br>Verdens Faktabok, den essensielle kilden for grunnleggende informasjon. (Norwegian)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Church of Norway (Evangelical Lutheran - official) 68.1%, Muslim 3.4%, Roman Catholic 3.1%, other Christian 3.8%, other 9.6%, unspecified 15.4% (2020 est.)<br>
+Church of Norway (Evangelical Lutheran - official) 67.5%, Muslim 3.1%, Roman Catholic 3.1%, other Christian 3.8%, other 2.6%, unspecified 19.9% (2021 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 17.96% (male 503,013/female 478,901)<br>
@@ -336,7 +336,7 @@ _judge selection and term of office_: justices appointed by the monarch (King in
 _subordinate courts_: Courts of Appeal or Lagmennsrett; regional and district courts; Conciliation Boards; ordinary and special courts; note - in addition to professionally trained judges, elected lay judges sit on the bench with professional judges in the Courts of Appeal and district courts<br>
 
 **Political parties and leaders**<br>
-<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Kjell Ingolf ROPSTADT] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
+<p>Center Party or Sp [Trygve Slagsvold VEDUM]<br>Christian Democratic Party or KrF [Olaug BOLLESTAD] <br>Conservative Party or H [Erna SOLBERG] <br>Green Party or MDG [Une Aina BASTHOLM]  <br>Labor Party or Ap [Jonas Gahr STORE] <br>Liberal Party or V [Guri MELBY]<br>Patient Focus or PF [Irene OJALA]<br>Progress Party or FrP [Sylvi LISTHAUG] <br>Red Party or R [Bionar MOXNES]<br>Socialist Left Party or SV [Audun LYSBAKKEN]</p><br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, EFTA, EITI (implementing country), ESA, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNMISS, UNRWA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>

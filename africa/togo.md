@@ -627,8 +627,8 @@ _international_: country code - 228; landing point for the WACS submarine cable,
 .tg<br>
 
 **Internet users**<br>
-_total_: 1,010,609<br>
-_percent of population_: 12.36% (July 2018 est.)<br>
+_total_: 1.99 million (2021 est.)<br>
+_percent of population_: 12.36% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 52,706 (2020)<br>

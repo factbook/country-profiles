@@ -301,7 +301,7 @@ _judge selection and term of office_: Supreme Court members appointed by the mon
 _subordinate courts_: Court of Appeal; Civil Court of First Instance<br>
 
 **Political parties and leaders**<br>
-Horizon Monaco [Laurent NOUVION]<br>Priorite Monaco [Stephane VALERI]<br>Renaissance [SBM (public corporation)]<br>Union Monegasque [Jean-Francois ROBILLON]<br>
+Horizon Monaco [Laurent NOUVION]<br>Priorite Monaco [Stephane VALERI]<br>Union Monegasque [Jean-Francois ROBILLON]<br>
 
 **International organization participation**<br>
 CD, CE, FAO, IAEA, ICAO, ICC (national committees), ICRM, IFRCS, IHO, IMO, IMSO, Interpol, IOC, IPU, ITSO, ITU, OAS (observer), OIF, OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WHO, WIPO, WMO<br>

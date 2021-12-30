@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-<p>The Berber and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from former enslaved peoples and sub-Saharan ethnic groups originating mainly from the Senegal River Valley. These three groups constitute a strict caste system with deep ethnic divides that still exists today.<br><br>Formerly a French colony, Mauritania became an independent state in 1960. Mauritania initially began as a single-party authoritarian regime and saw 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Following the last coup in 2008, Ould Abdel AZIZ was elected president in 2009 and reelected in 2014. International observers recognized the elections as free and fair. Following his two terms, AZIZ became the first Mauritanian president to step down and observe a democratic transfer of power. This solidified Mauritania’s status as an emerging democracy. After winning 52% of the vote, Mohamed Cheikh El GHAZOUANI was inaugurated in 2019.</p> <p>The country faces a number of issues, including ethnic tensions and a terrorist threat. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region and continue to pose a threat to Mauritanians and foreign visitors.</p><br>
+<p>The Berber and Bafour people were among the first to settle in what is now Mauritania. Originally a nomadic people, they were among the first in recorded history to convert from a nomadic to agricultural lifestyle. These groups account for roughly one third of Mauritania’s ethnic makeup. The remainder of Mauritania’s ethnic groups derive from former enslaved peoples and sub-Saharan ethnic groups originating mainly from the Senegal River Valley. These three groups constitute a strict caste system with deep ethnic divides that still exists today.<br><br>Mauritania achieved independence from France in 1960. Mauritania initially began as a single-party authoritarian regime and saw 49 years of dictatorships, flawed elections, failed attempts at democracy, and military coups. Following the last coup in 2008, led by Ould Abdel AZIZ, AZIZ was elected president in 2009 and reelected in 2014. International observers recognized the elections as free and fair. Following his two terms, AZIZ became the first Mauritanian president to step down and observe a democratic transfer of power. This solidified Mauritania’s status as an emerging democracy. After winning 52% of the vote, Mohamed Ould Cheikh GHAZOUANI was inaugurated in 2019.</p> <p>The country is working to address the vestiges of slavery, which was officially abolished in 1981 but not criminalized until 2007. Between 2005 and 2011, Al-Qaeda in the Islamic Maghreb (AQIM) launched a series of attacks killing American and foreign tourists and aid workers, attacking diplomatic and government facilities, and ambushing Mauritanian soldiers and gendarmes. Although Mauritania has not seen an attack since 2011, AQIM and similar groups remain active in the Sahel region.</p><br>
 
 ## Geography
 
@@ -349,11 +349,11 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Mohamed Cheikh El GHAZOUANI (since 1 August 2019)<br>
-_head of government_: Prime Minister Mohamed Ould BILAL (since 6 August 2020)&nbsp;<br>
-_cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president&nbsp;<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next scheduled for 22 June 2024); prime minister appointed by the president<br>
-_election results_: Mohamed Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%<br>
+_chief of state_: President Mohamed Ould Cheikh el GHAZOUANI (since 1 August 2019) (2019)<br>
+_head of government_: Prime Minister Mohamed Ould BILAL (since 6 August 2020) (2020)<br>
+_cabinet_: Council of Ministers - nominees suggested by the prime minister, appointed by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 22 June 2019 (next scheduled for 22 June 2024); prime minister appointed by the president (2019)<br>
+_election results_: Mohamed Ould Cheikh El GHAZOUANI elected president in first round; percent of vote - Mahamed Ould Cheikh El GHAZOUANI (UPR) 52%, Biram Dah Ould ABEID (independent) 18.6%, Sidi Mohamed Ould BOUBACAR (independent) 17.9%, other 11.55%<br>
 
 **Legislative branch**<br>
 _description_: unicameral Parliament or Barlamane consists of the National Assembly or Al Jamiya Al Wataniya (157 seats; 113 members in single- and multi-seat constituencies directly elected by a combination of plurality and proportional representation voting systems, 40 members in a single, nationwide constituency directly elected by proportional representation vote, and 4 members directly elected by the diaspora; all members serve 5-year terms)<br>
@@ -688,7 +688,7 @@ _major seaport(s)_: Nouadhibou, Nouakchott<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Guard, General Group for Road Safety  (2021)<br>
+Mauritanian Armed Forces: Army, Mauritanian Navy (Marine Mauritanienne), Islamic Republic of Mauritania Air Group (Groupement Aerienne Islamique de Mauritanie, GAIM); Gendarmerie (Ministry of Defense); Ministry of Interior and Decentralization: National Guard, General Group for Road Safety (2021)<br>
 note(s) - the Gendarmerie is responsible for maintaining civil order around metropolitan areas and providing law enforcement services in rural areas; the National Guard performs a limited police function in keeping with its peacetime role of providing security at government facilities, to include prisons; the General Group for Road Safety maintains security on roads and operates checkpoints throughout the country<br>
 
 **Military expenditures**<br>
@@ -702,13 +702,14 @@ note(s) - the Gendarmerie is responsible for maintaining civil order around metr
 the Mauritanian Armed Forces have approximately 16,000 active personnel (15,000 Army; 700 Navy; 300 Air Force); est. 3,000 Gendarmerie; est. 2,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, including Brazil, China, France, and Turkey (2020)<br>
+the Mauritanian Armed Forces' inventory is limited and made up largely of older French and Soviet-era equipment; since 2010, Mauritania has received a limited amount of mostly secondhand military equipment from a variety of suppliers, including Brazil, China, France, and Turkey (2021)<br>
 
 **Military deployments**<br>
 450 Central African Republic (MINUSCA) (Sep 2021)<br>
+note - Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; no conscription (2019)<br>
+18 is the legal minimum age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 since a spate of terrorist attacks in the 2000s, including a 2008 attack on a military base in the country’s north that resulted in the deaths of 12 soldiers, the Mauritanian Government has increased the defense budget and military equipment acquisitions, enhanced military training, heightened security cooperation with its neighbors and the international community, and built up the military’s special operations and civil-military affairs forces<br><br>Mauritania is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Burkina Faso, Chad, Mali, and Niger; it has committed 550 troops and 100 gendarmes to the force; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane (2021)<br>

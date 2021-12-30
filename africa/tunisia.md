@@ -608,8 +608,8 @@ _international_: country code - 216; landing points for the SEA-ME-WE-4, Didon, 
 .tn<br>
 
 **Internet users**<br>
-_total_: 7,392,242<br>
-_percent of population_: 64.19% (July 2018 est.)<br>
+_total_: 7.92 million (2021 est.)<br>
+_percent of population_: 66.7% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,334,551 (2020)<br>
@@ -664,7 +664,7 @@ _major seaport(s)_: Bizerte, Gabes, Rades, Sfax, Skhira<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Tunisian Armed Forces (Forces Armees Tunisiens, FAT): Tunisian Army (includes Tunisian Air Defense Force), Tunisian Navy, Republic of Tunisia Air Force; Ministry of Interior: National Police, National Guard (2021)<br>
+Tunisian Armed Forces (Forces Armees Tunisiennes, FAT): Tunisian Army (includes Tunisian Air Defense Force), Tunisian Navy, Tunisia Air Force; Ministry of Interior: National Police, National Guard (2021)<br>
 note - the National Police has primary responsibility for law enforcement in the major cities, while the National Guard (gendarmerie) oversees border security and patrols smaller towns and rural areas<br>
 
 **Military expenditures**<br>
@@ -678,10 +678,10 @@ note - the National Police has primary responsibility for law enforcement in the
 the Tunisian Armed Forces (FAT) have approximately 36,000 active personnel (27,000 Army; 5,000 Navy; 4,000 Air Force); est. 10,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tunisian military's inventory includes mostly older or secondhand US and European equipment; since 2010, the Netherlands and US are the leading suppliers of arms to Tunisia (2020)<br>
+the Tunisian military's inventory includes mostly older or secondhand US and European equipment; since 2010, the Netherlands and US are the leading suppliers of arms to Tunisia (2021)<br>
 
 **Military service age and obligation**<br>
-20-23 years of age for compulsory service, 1-year service obligation; 18-23 years of age for voluntary service (2019)<br>
+20-23 years of age for compulsory service, 1-year service obligation; 18-23 years of age for voluntary service (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Tunisian military’s primary operational areas of focus were counter-terrorism, counterinsurgency, and border security; it was conducting counter-terrorism and counterinsurgency operations against al-Qa’ida in the Islamic Maghreb (AQIM) and Islamic State of ash-Sham (ISIS)-linked militants who have been fighting a low-intensity insurgency, mostly in the mountainous region along the border with Algeria, particularly the Chaambi Mountains near the city of Kasserine; the military maintained the lead role for security in this area and also routinely conducted joint operations with Algerian security forces against these  groups, as well to counter smuggling and trafficking activities; the military in recent years also has increased its role in securing the southern border against militant activity, smuggling, and trafficking from war-torn Libya; since 2015, Tunisia has constructed a complex structure of berms, trenches, and water-filled moats, complemented by electronic surveillance equipment such as motion detectors, ground surveillance radars, and infrared sensors along the 220-kilometer border with Libya; in the remote southern areas of the border with Libya, buffer/exclusion zones have also been established where the military has the lead for counter-terrorism efforts; outside of these border areas, the Ministry of Interior has the lead responsibility for counter-terrorism in Tunisia, particularly for urban areas; the National Police Anti-Terrorism Brigade (BAT) and the National Guard Special Unit have the lead for MOI counterterrorism operations<br><br>Tunisia has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

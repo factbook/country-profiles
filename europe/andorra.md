@@ -550,7 +550,7 @@ _total_: 320 km (2019)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Police Corps of Andorra (2021)<br>
+no regular military forces; Police Corps of Andorra<br>
 
 **Military - note**<br>
 defense is the responsibility of France and Spain<br>

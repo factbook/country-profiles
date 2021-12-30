@@ -575,8 +575,8 @@ _international_: country code - 1-758; landing points for the ECFS&nbsp;and Sout
 .lc<br>
 
 **Internet users**<br>
-_total_: 84,112<br>
-_percent of population_: 50.82% (July 2018 est.)<br>
+_total_: 104,400 (2021 est.)<br>
+_percent of population_: 50.82% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 32,265 (2018)<br>

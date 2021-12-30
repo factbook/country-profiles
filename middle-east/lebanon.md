@@ -590,7 +590,7 @@ _total subscriptions_: 4,288,221 (2020)<br>
 _subscriptions per 100 inhabitants_: 62.83 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: struggling with effects of economic malaise during pandemic and following explosion in Beirut port; Lebanon&rsquo;s telecom infrastructure is relatively weak, and services are expensive; rural areas are less connected and have power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
+_general assessment_: struggling with effects of the economic crisis compounded by the Covid-19 pandemic and the Port of Beirut explosion in 2020; Lebanon&rsquo;s telecom infrastructure is relatively weak and services are expensive; rural areas are less connected and experience frequent power cuts; state retains a monopoly over the Internet backbone and dominant ownership of the telecom industry; government backed improvements to fixed infrastructure; new landlines and fiber-optic networks provide faster DSL; limited 5G services; three international gateways through submarine cables; importer of broadcasting equipment from UAE; UAE investment in tech solutions (2020)<br>
 _domestic_: fixed-line 13 per 100 and 62 per 100 for mobile-cellular subscriptions (2019)<br>
 _international_: country code - 961; landing points for the IMEWE, BERYTAR AND CADMOS submarine cable links to Europe, Africa, the Middle East and Asia; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -672,13 +672,13 @@ note(s) - the commander of the LAF is also the commander of the Army; the LAF pa
 5.1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 AF) (2021)<br>
+the Lebanese Armed Forces (LAF) have approximately 80,000 active troops (77,000 Army; 1,500 Navy; 1,500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2020)<br>
+the LAF inventory includes a wide mix of mostly older equipment, largely from the US and European countries, particularly France and Germany; since 2010, the US is the leading supplier of armaments (mostly second hand equipment) to Lebanon (2021)<br>
 
 **Military service age and obligation**<br>
-17-25 years of age for voluntary military service (including women); no conscription (2019)<br>
+17-25 years of age for voluntary military service (including women); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of late 2021, the Lebanese military faced multiple challenges, including securing the border with war-torn Syria from infiltrations of militants linked to the Islamic State and al-Qa’ida terrorist groups and maintaining stability along its volatile border with Israel, where the Iranian-backed and Lebanon-based militant group Hizballah conducted a war with Israel in 2006 and tensions remained high, including occasional armed skirmishes; in 2021, the military also faced a financial crisis as government debt and national economic difficulties undercut its ability to fully pay and supply personnel, which has sparked domestic and international fears that the armed forces may disintegrate <br><br></p> the United Nations Interim Force In Lebanon (UNIFIL) has operated in the country since 1978, originally under UNSCRs 425 and 426 to confirm Israeli withdrawal from Lebanon, restore international peace and security, and assist the Lebanese Government in restoring its effective authority in the area; following the July-August 2006 war, the UN Security Council adopted resolution 1701 enhancing UNIFIL and deciding that in addition to the original mandate, it would, among other things, monitor the cessation of hostilities; accompany and support the Lebanese Armed Forces (LAF) as they deploy throughout the south of Lebanon; and extend its assistance to help ensure humanitarian access to civilian populations and the voluntary and safe return of displaced persons; UNIFIL had about 10,000 personnel deployed in the country as of September 2021<br>
@@ -700,5 +700,5 @@ _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 
 **Illicit drugs**<br>
-source country for &nbsp;amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan<br>
+source country for amphetamine tablets destined for Saudi Arabia, Qatar, United Arab Emirates, Libya and Sudan; in 2021 authorities in various Near Eastern countries seized millions of captagon tablets that originated in Lebanon, prompting Lebanese authorities to conduct raids on captagon production facilities within the country&nbsp;<br>
 

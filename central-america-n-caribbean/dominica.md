@@ -578,7 +578,7 @@ _major seaport(s)_: Portsmouth, Roseau<br>
 ## Military and Security
 
 **Military and security forces**<br>
-no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) under the Ministry of Justice, Immigration, and National Security&nbsp;<br>
+no regular military forces; Commonwealth of Dominica Police Force (includes Coast Guard) under the Ministry of Justice, Immigration, and National Security<br>
 
 **Military - note**<br>
 Dominica has been a member of the Caribbean Regional Security System (RSS) since its creation in 1982; RSS signatories (Antigua and Barbuda, Barbados, Grenada, St. Kitts, St. Lucia, and St. Vincent and the Grenadines) agreed to prepare contingency plans and assist one another, on request, in national emergencies, prevention of smuggling, search and rescue, immigration control, fishery protection, customs and excise control, maritime policing duties, protection of off-shore installations, pollution control, national and other disasters, and threats to national security (2021)<br>

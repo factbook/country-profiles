@@ -157,6 +157,9 @@ Jan Mayen is a volcanic island with no exploitable natural resources, although s
 **Broadcast media**<br>
 a coastal radio station has been remotely operated since 1994<br>
 
+**Internet users**<br>
+_total_: 1,542 includes usage for Svarlbard (2021)<br>
+
 ## Transportation
 
 **Airports**<br>

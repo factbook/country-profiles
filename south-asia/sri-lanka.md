@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 138.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telephone services have improved significantly; strong growth&nbsp;anticipated as Sri Lanka is&nbsp;lagging behind&nbsp;other&nbsp;Asian telecoms; increase in mobile broadband penetration; govt. funds telecom sector to expand fiber and LTE networks and growing investment in 5G services (2020)<br>
-_domestic_: fixed-line 12 per 100 and mobile-cellular 115 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2019)<br>
+_domestic_: fixed-line 11 per 100 and mobile-cellular 139 per 100; national trunk network consists of digital microwave radio relay and fiber-optic links; fixed wireless local loops have been installed; competition is strong in mobile cellular systems and mobile cellular subscribership is increasing (2020)<br>
 _international_: country code - 94; landing points for the SeaMeWe -3,-5,&nbsp;&nbsp;Dhiraagu-SLT Submarine Cable Network, WARF Submarine&nbsp;Cable, Bharat Lanka Cable System&nbsp;and the Bay of Bengal Gateway submarine cables providing connectivity to Asia, Africa, Southeast Asia, Australia, the Middle East, and Europe; satellite earth stations - 2 Intelsat (Indian Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -618,8 +618,8 @@ government operates 5 TV channels and 19 radio channels; multi-channel satellite
 .lk<br>
 
 **Internet users**<br>
-_total_: 7,700,876<br>
-_percent of population_: 34.11% (July 2018 est.)<br>
+_total_: 10.9 million (2021 est.)<br>
+_percent of population_: 35% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,992,429 (2020)<br>
@@ -693,13 +693,13 @@ Sri Lanka Army (includes National Guard and the Volunteer Force), Sri Lanka Navy
 the Sri Lankan military has approximately 250,000 total personnel (180,000 Army; 40,000 Navy; 30,000 Air Force); approximately 11,000 Special Task Force (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2020)<br>
+the Sri Lankan military inventory consists mostly of Chinese and Russian-origin equipment; since 2010, China, India, and the US have been the leading suppliers of arms to Sri Lanka (2021)<br>
 
 **Military deployments**<br>
 110 Central African Republic (MINUSCA); 125 Lebanon (UNIFIL); 240 Mali (MINUSMA) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-18-22 years of age for voluntary military service; no conscription (2019)<br>
+18-22 years of age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Sri Lanka traditionally has had close security ties to India; India participated in the counter-insurgency war against the LTTE from 1987-1991, losing over 1,000 soldiers in the conflict; as of 2021, the Sri Lankan and Indian militaries continued to conduct exercises together, and India trains over 1,000 Sri Lankan soldiers per year; however, since the end of the war with LTTE, Sri Lanka has also increased military ties with China, including acquiring military equipment, hosting naval port calls, and sending personnel to China for training</p><br>

@@ -656,8 +656,8 @@ _international_: country code - 7; landing points for the Far East Submarine Cab
 .ru; note - Russia also has responsibility for a legacy domain ".su" that was allocated to the Soviet Union and is being phased out<br>
 
 **Internet users**<br>
-_total_: 114,920,477<br>
-_percent of population_: 80.86% (July 2018 est.)<br>
+_total_: 124 million (2021 est.)<br>
+_percent of population_: 84.99% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 33,872,758 (2020)<br>

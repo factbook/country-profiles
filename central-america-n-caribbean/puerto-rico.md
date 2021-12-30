@@ -547,8 +547,8 @@ more than 30 TV stations operating; cable TV subscription services are available
 .pr<br>
 
 **Internet users**<br>
-_total_: 2,326,006<br>
-_percent of population_: 70.6% (July 2018 est.)<br>
+_total_: 2.21 million (2021 est.)<br>
+_percent of population_: 77.74% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 671,284 (2020)<br>

@@ -508,8 +508,8 @@ no broadcast TV stations; a cable TV network covers the major islands and provid
 .pw<br>
 
 **Internet users**<br>
-_total_: 7,650<br>
-_percent of population_: 36% (July 2016 est.)<br>
+_total_: 6,752 (2021 est.)<br>
+_percent of population_: 26.97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,224 (2016)<br>

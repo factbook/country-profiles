@@ -611,8 +611,8 @@ public TV broadcaster, Radiotelevizija Slovenija (RTV), operates a system of nat
 .si<br>
 
 **Internet users**<br>
-_total_: 1,676,445<br>
-_percent of population_: 79.75% (July 2018 est.)<br>
+_total_: 1.75 million (2021 est.)<br>
+_percent of population_: 86.6% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 651,604 (2020)<br>
@@ -681,13 +681,13 @@ Slovenian Armed Forces (Slovenska Vojska, SV): structured as a combined force wi
 the Slovenian Armed Forces have approximately 7,000 active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Slovenian Armed Forces is a mix of Soviet-era and limited quantities of more modern Western equipment; since 2010, it has received limited supplies of military equipment from Finland, France, Norway, Russia, Sweden, and the US (2020)<br>
+the inventory of the Slovenian Armed Forces is a mix of Soviet-era and smaller quantities of more modern Western equipment; since 2010, it has received limited amounts of military equipment from Finland, France, Norway, Russia, Sweden, and the US (2021)<br>
 
 **Military deployments**<br>
 230 Kosovo (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for voluntary military service; conscription abolished in 2003 (2019)<br>
+18-25 years of age for voluntary military service; conscription abolished in 2003 (2021)<br>
 
 **Military - note**<br>
 Slovenia officially became a member of NATO in 2004<br>

@@ -318,16 +318,16 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI<br>
-_head of government_: Prime Minister Pohiva TU'I'ONETOA (since 27 September 2019)<br>
+_head of government_: Prime Minister-Designate Siaosi SOVALENI (since 15 November 2021)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
-_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 27 September 2019 (next to be held in November 2020)<br>
-_election results_: Pohiva TU'I'ONETOA (Peoples Party) elected prime minister by parliament receiving 15of 23 votes cast<br>
+_elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 15 November 2021 (next to be held in in November 2025)<br>
+_election results_: Siaosi SOVALENI elected prime minister-designate by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2017-19 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 3-year terms)<br>
-_elections_: last held on 16 November 2017 (next to be held in 2020)<br>
-_election results_: percent of vote - NA; seats by party - Democratic Party 14, nobles' representatives 9,&nbsp; independent 3; composition - men 24, women 2, percent of women 7.7%<br>
+_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2021-25 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
+_election results_: percent of vote - NA; seats by party (elected members) - Democratic Party of the Friendly Islands 3, Tonga People's Party 1, independent 13; composition (elected members) - men 17, women 0, percent of women 0%<br>
 
 **Judicial branch**<br>
 _highest courts_: Court of Appeal (consists of the court president and a number of judges determined by the monarch); note - appeals beyond the Court of Appeal are brought before the King in Privy Council, the monarch's advisory organ that has both judicial and legislative powers<br>
@@ -335,7 +335,7 @@ _judge selection and term of office_: judge appointments and tenures made by the
 _subordinate courts_: Supreme Court; Magistrates' Courts; Land Courts<br>
 
 **Political parties and leaders**<br>
-Democratic Party of the Friendly Islands<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party<br>Tonga Human Rights and Democracy Movement or THRDM<br>
+Democratic Party of the Friendly Islands<br>People's Democratic Party or PDP [Tesina FUKO]<br>Sustainable Nation-Building Party [Sione FONUA]<br>Tonga Democratic Labor Party<br>Tonga Human Rights and Democracy Movement or THRDM<br>Tonga People's Party or PAK (<em lang="to">Paati ʻa e Kakai ʻo Tonga</em>) [Pohiva TU'I'ONETOA] (split from Democratic Party of the Friendly Islands)<br>
 
 **International organization participation**<br>
 ACP, ADB, AOSIS, C, FAO, G-77, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, IHO, IMF, IMO, IMSO, Interpol, IOC, IPU, ITU, ITUC (NGOs), OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -595,8 +595,8 @@ _international_: country code - 676; landing point for the Tonga Cable and the T
 .to<br>
 
 **Internet users**<br>
-_total_: 43,889<br>
-_percent of population_: 41.25% (July 2018 est.)<br>
+_total_: 43,800 (2021 est.)<br>
+_percent of population_: 41.25% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 3,703 (2019)<br>

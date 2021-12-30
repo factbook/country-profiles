@@ -579,8 +579,8 @@ _international_: country code - 1-868; landing points for the EC Link, ECFS, Sou
 .tt<br>
 
 **Internet users**<br>
-_total_: 939,967<br>
-_percent of population_: 77.33% (July 2018 est.)<br>
+_total_: 860,000 (2020 est.)<br>
+_percent of population_: 77.33% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 375,990 (2020)<br>
@@ -625,7 +625,7 @@ _LNG terminal(s) (export)_: Port Fortin<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS)  (2021)<br>
+Trinidad and Tobago Defense Force (TTDF): Army/Land Forces (Trinidad and Tobago Regiment), Coast Guard, Air Guard, Defense Force Reserves; Trinidad and Tobago Police Service (TTPS) (2021)<br>
 note - the Ministry of National Security oversees defense, immigration, and the police<br>
 
 **Military expenditures**<br>
@@ -639,7 +639,7 @@ note - the Ministry of National Security oversees defense, immigration, and the 
 has approximately 4,500 TTDF personnel; approximately 7,000 TTPS personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US; since 2010, the Netherlands is the leading supplier of military hardware to the TTDF (2020)<br>
+the TTDF's ground force inventory includes only light weapons, while the Coast Guard and Air Guard field mostly second-hand equipment from a mix of countries, including Australia, China, the Netherlands, the UK, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service (some age variations between services, reserves); no conscription (2021)<br>

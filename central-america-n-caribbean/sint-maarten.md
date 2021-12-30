@@ -379,6 +379,9 @@ _international_: country code - 1-721; landing points for SMPR-1 and the ECFS su
 **Internet country code**<br>
 <p>.sx; note - IANA has designated .sx for Sint Maarten, but has not yet assigned it to a sponsoring organization</p><br>
 
+**Internet users**<br>
+_total_: 29,600 (2021 est.)<br>
+
 ## Transportation
 
 **Airports**<br>

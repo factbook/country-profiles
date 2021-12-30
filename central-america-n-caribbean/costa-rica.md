@@ -687,7 +687,7 @@ note - Costa Rica's armed forces were constitutionally abolished in 1949<br>
 12,500 Public Force personnel; approximately 400-500 air and 400-500 coast guard personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment; since 2000, the only reported major equipment deliveries were from the US (light helicopters in 2012 and 2014 and second-hand coast guard cutters in 2018) (2020)<br>
+the Public Force is lightly armed with an inventory that includes mostly second-hand US equipment, including light helicopters and second-hand coast guard cutters (2021)<br>
 
 **Military - note**<br>
 Costa Rica relies on specialized paramilitary units within the MPS for internal security missions and countering transnational threats such as narcotics smuggling and organized crime, as well as for participating in regional security operations and exercises; MPS forces have received advisory and training support from both Colombia and the US; since 2012, the US has also provided equipment, including aircraft and patrol boats (2021)<br>

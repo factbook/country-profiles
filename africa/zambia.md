@@ -640,8 +640,8 @@ _international_: country code - 260; multiple providers operate overland fiber o
 .zm<br>
 
 **Internet users**<br>
-_total_: 2,351,646<br>
-_percent of population_: 14.3% (July 2018 est.)<br>
+_total_: 5.48 million (2021 est.)<br>
+_percent of population_: 27.85% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 82,317 (2020)<br>
@@ -731,7 +731,7 @@ the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era arm
 <p>in 2004, Zimbabwe dropped objections to plans between Botswana and Zambia to build a bridge over the Zambezi River, thereby de facto recognizing a short, but not clearly delimited, Botswana-Zambia boundary in the river</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 63,681 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,821 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 64,321 (Democratic Republic of the Congo) (refugees and asylum seekers), 7,847 (Burundi) (refugees and asylum seekers) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Zambia and Zambians abroad; most trafficking occurs within Zambia&rsquo;s borders, with traffickers exploiting women and children from rural areas in cities in domestic servitude or forced labor in agriculture, textile production, mining, construction, small businesses, such as bakeries, and forced begging; Jerabo gangs force Zambian children into illegal mining operations, such as loading stolen copper or crushing rocks; truck drivers exploit Zambian boys and girls in sex trafficking in towns along the Zimbabwean and Tanzanian borders, and miners exploit them in Solwezi; Zambian boys are exploited for sex trafficking in Zimbabwe and women and girls in South Africa; traffickers exploit victims from Tanzania and Malawi in the Zambian timber industry<br>

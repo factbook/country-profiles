@@ -285,7 +285,7 @@ _conventional long form_: Republic of Estonia<br>
 _conventional short form_: Estonia<br>
 _local long form_: Eesti Vabariik<br>
 _local short form_: Eesti<br>
-_former_: Estonian Soviet Socialist Republic<br>
+_former_: Estonian Soviet Socialist Republic (while occupied by the USSR)<br>
 _etymology_: the country name may derive from the Aesti, an ancient people who lived along the eastern Baltic Sea in the first centuries A.D.<br>
 
 **Government type**<br>
@@ -690,13 +690,13 @@ Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defence League (
 the Estonian Defense Forces have approximately 6,500 active duty personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from France and the Netherlands (2020)<br>
+the Estonian Defense Forces have a limited inventory of Soviet-era and more recently acquired modern weapons systems, largely from western European countries (2021)<br>
 
 **Military deployments**<br>
 approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2019)<br>
+18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2021)<br>
 
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the UK and had about 800 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>

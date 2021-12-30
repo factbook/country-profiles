@@ -635,8 +635,8 @@ the South African Broadcasting Corporation (SABC) operates 4 TV stations, 3 are 
 .za<br>
 
 **Internet users**<br>
-_total_: 31,107,064<br>
-_percent of population_: 56.17% (July 2018 est.)<br>
+_total_: 38.19 million (2021 est.)<br>
+_percent of population_: 56.17% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,303,057 (2020)<br>
@@ -697,7 +697,7 @@ _LNG terminal(s) (import)_: Mossel Bay<br>
 ## Military and Security
 
 **Military and security forces**<br>
-South African National Defence Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; South African Police Service (2021)<br>
+South African National Defense Force (SANDF): South African Army (includes Reserve Force), South African Navy (SAN), South African Air Force (SAAF), South African Military Health Services; South African Police Service (includes Special Task Force for counterterrorism, counterinsurgency, and hostage rescue operations) (2021)<br>
 
 **Military expenditures**<br>
 0.9% of GDP (2021 est.)<br>

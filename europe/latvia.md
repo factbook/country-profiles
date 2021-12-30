@@ -285,7 +285,7 @@ _conventional long form_: Republic of Latvia<br>
 _conventional short form_: Latvia<br>
 _local long form_: Latvijas Republika<br>
 _local short form_: Latvija<br>
-_former_: Latvian Soviet Socialist Republic<br>
+_former_: Latvian Soviet Socialist Republic (while occupied by the USSR)<br>
 _etymology_: the name "Latvia" originates from the ancient Latgalians, one of four eastern Baltic tribes that formed the ethnic core of the Latvian people (ca. 8th-12th centuries A.D.)<br>
 
 **Government type**<br>
@@ -336,7 +336,7 @@ _election results_: Egils LEVITS elected president; Parliament vote - Egils LEVI
 **Legislative branch**<br>
 _description_: unicameral Parliament or Saeima (100 seats; members directly elected in multi-seat constituencies by party-list proportional representation vote; members serve 4-year terms)<br>
 _elections_: last held on 6 October 2018 (next to be held in October 2022)<br>
-_election results_: percent of vote by party - SDPS 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, V 6.7%, other 12.7%; seats by party - SDPS 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, V 8; composition (as of October 2021) - men 71, women 29, percent of women 29%<br>
+_election results_: percent of vote by party - S 19.8%, KPV LV 14.3%, JKP 13.6%, AP! 12%, NA 11%, ZZS 9.9%, JV 6.7%, other 12.7%; seats by party - S 23, KPV LV 16, JKP 16, AP! 13, NA 13, ZZS 11, JV 8; composition (as of October 2021) - men 71, women 29, percent of women 29%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the Senate with 36 judges); Constitutional Court (consists of 7 judges)<br>
@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court judges nominated by chief ju
 _subordinate courts_: district (city) and regional courts<br>
 
 **Political parties and leaders**<br>
-Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] New Conservative Party or JKP [Janis BORDANS]<br>Social Democratic Party "Harmony" or SDPS [Nils USAKOVS] Union of Greens and Farmers or ZZS [Armands KRAUZE] Unity or V [Arvils ASERADENS]<br>Who Owns the State? or KPV LV [Artuss KAIMINS]<br>
+Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] New Conservative Party or JKP [Janis BORDANS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS] <br>Union of Greens and Farmers or ZZS [Armands KRAUZE] <br>New Unity or JV [Arvils ASERADENS]<br>Who Owns the State? or KPV LV (disbanded 2021)<br>
 
 **International organization participation**<br>
 Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -689,10 +689,10 @@ National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszem
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2020)<br>
+the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2019)<br>
+18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2021)<br>
 
 **Military - note**<br>
 Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Canada and had about 1,500 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>

@@ -356,7 +356,7 @@ _election results_: Nana Addo Dankwa AKUFO-ADDO reelected president in the first
 **Legislative branch**<br>
 _description_: unicameral Parliament (275 seats; members directly elected in single-seat constituencies by simple majority vote to serve 4-year terms)<br>
 _elections_: last held on 7 December 2020 (next to be held in December 2024)<br>
-_election results_: percent of vote by party - NA; seats by party (preliminary) - NPC 137, NDC 136, other 1, independent 1; composition - NA<br>
+_election results_: percent of vote by party - NA; seats by party (preliminary) - NPP 137, NDC 137, independent 1; composition - NA<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chief justice and 13 justices)<br>
@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 130.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services; launch of LTE has improved mobile data services, including m-commerce and banking; highly competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices (2020)<br>
-_domestic_: fixed-line 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 134 per 100 persons and rising (2019)<br>
+_domestic_: fixed-line about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 130 per 100 persons&nbsp; (2020)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; Ghana-1 satellite launched in 2020 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -636,7 +636,7 @@ state-owned TV station, 2 state-owned radio networks; several privately owned TV
 
 **Internet users**<br>
 _total_: 15.7 million (2021 est.)<br>
-_percent of population_: 39% (2019 est.)<br>
+_percent of population_: 53% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 78,371 (2020)<br>

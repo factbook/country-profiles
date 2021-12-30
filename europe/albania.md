@@ -332,7 +332,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President of the Republic Ilir META (since 24 July 2017)<br>
-_head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Senida MESI (since 13 September 2017)<br>
+_head of government_: Prime Minister Edi RAMA (since 10 September 2013); Deputy Prime Minister Arben AHMETAJ (since 18 September 2021)<br>
 _cabinet_: Council of Ministers proposed by the prime minister, nominated by the president, and approved by the Assembly<br>
 _elections/appointments_: president indirectly elected by the Assembly for a 5-year term (eligible for a second term); a candidate needs three-fifths majority vote of the Assembly in 1 of 3 rounds or a simple majority in 2 additional rounds to become president; election last held in 4 rounds on 19, 20, 27, and 28 April 2017 (next election to be held in 2022); prime minister appointed by the president on the proposal of the majority party or coalition of parties in the Assembly<br>
 _election results_: Ilir META elected president; Assembly vote - 87 - 2 in fourth round<br>
@@ -606,8 +606,8 @@ _total subscriptions_: 2,618,880 (2020)<br>
 _subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2020)<br>
-_domestic_: fixed-line 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2019)<br>
+_general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2021)<br>
+_domestic_: fixed-line 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -690,7 +690,7 @@ Albania officially became a member of NATO in 2009<br>
 ## Terrorism
 
 **Terrorist group(s)**<br>
-Islamic Revolutionary Guard Corps/Qods Force<br>
+Islamic Revolutionary Guard Corps/Qods Force; Islamic State of Iraq and ash-Sham (ISIS)<br>
 <strong>note: </strong>details about the history, aims, leadership, organization, areas of operation, tactics, targets, weapons, size, and sources of support of the group(s) appear(s) in Appendix T<br>
 
 ## Transnational Issues

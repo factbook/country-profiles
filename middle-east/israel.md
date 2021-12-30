@@ -663,7 +663,7 @@ _under 914 m_: 6 (2013)<br>
 763 km gas, 442 km oil, 261 km refined products (2013)<br>
 
 **Railways**<br>
-_total_: 1,384 km (2014)<br>
+_total_: 1,599 km (2019) (2014)<br>
 _standard gauge_: 1,384 km 1.435-m gauge (2014)<br>
 
 **Roadways**<br>
@@ -682,7 +682,7 @@ _container port(s) (TEUs)_: Ashdod (1,584,000) (2019)<br>
 
 **Military and security forces**<br>
 Israel Defense Forces (IDF): Ground Forces, Israel Naval Force (IN, includes commandos), Israel Air Force (IAF, includes air defense); Ministry of Public Security: Border Police (2021)<br>
-note: the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and Israel Defense Force<br>
+note - the Border Police is a unit within the Israel Police with its own organizational and command structure; it works both independently as well as in cooperation with or in support of the Israel Police and the IDF<br>
 
 **Military expenditures**<br>
 4.8% of GDP (2020 est.)<br>
@@ -695,10 +695,10 @@ note: the Border Police is a unit within the Israel Police with its own organiza
 the Israel Defense Forces (IDF) have approximately 173,000 active personnel (130,000 Ground Forces; 9,000 Naval; 34,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, the US is by far the leading supplier of arms to Israel, followed by Germany; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2021)<br>
+the majority of the IDF's inventory is comprised of weapons that are domestically-produced or imported from Europe and the US; since 2010, the US is the leading supplier of arms to Israel; Israel has a broad defense industrial base that can develop, produce, support, and sustain a wide variety of weapons systems for both domestic use and export, particularly armored vehicles, unmanned aerial systems, air defense, and guided missiles (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2020)<br>
+18 years of age for compulsory (Jews, Druze) military service; 17 years of age for voluntary (Christians, Muslims, Circassians) military service; both sexes are obligated to military service; conscript service obligation - 32 months for enlisted men and about 24 months for enlisted women (varies based on military occupation), 48 months for officers; pilots commit to 9-year service; reserve obligation to age 41-51 (men), age 24 (women) (2021)<br>
 
 **Military - note**<br>
 the United Nations Disengagement Observer Force (UNDOF) has operated in the Golan between Israel and Syria since 1974 to monitor the ceasefire following the 1973 Arab-Israeli War and supervise the areas of separation between the two countries; as of August 2021, UNDOF consisted of about 1,250 personnel<br><br> <p>as of 2021 and since the outbreak of the Syrian civil war in 2011, Israel has routinely carried out air strikes in Syria targeting Iranian, Iranian-backed militia and Hizballah forces, and some Syrian Government troops; over the same period, the IDF has carried out numerous strikes against Hizballah in Lebanon in response to attacks on Israeli territory; Israel fought a month-long war in Lebanon with Hizballah in 2006 (see Appendix-T for details on Hizballah)</p> <p>as of 2021, the IDF also conducted frequent operations against the HAMAS and Palestine Islamic Jihad (PIJ) terrorist groups operating out of the Gaza Strip; since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the IDF; HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Palestinian territory and retaliatory IDF strikes; PIJ has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in February 2020 (see Appendix-T for more details on HAMAS and Palestine Islamic Jihad)<br><br>Israel has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

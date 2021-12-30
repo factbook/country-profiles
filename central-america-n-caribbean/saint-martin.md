@@ -61,7 +61,7 @@ the southern border is shared with Sint Maarten, a country within the Kingdom of
 Creole (Mulatto), Black, Guadeloupe Mestizo (French-East Asia), White, East Indian, other<br>
 
 **Languages**<br>
-French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)<br>
+French (official), Dutch, English, Guadeloupian Creole, Haitian Creole, Italian, Martiniquan Creole, Papiamento (dialect of Netherlands Antilles), Spanish<br>
 _major-language sample(s)_: <br>The World Factbook, une source indispensable d'informations de base. (French)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
@@ -307,7 +307,7 @@ _international_: country code - 590;&nbsp;landing points for the SMPR-1, Souther
 .mf; note - .gp, the Internet country code for Guadeloupe, and .fr, the Internet country code for France, might also be encountered<br>
 
 **Internet users**<br>
-_total_: 1,100<br>
+_total_: 7,339 (2021 est.)<br>
 _percent of population_: 3.5% (July 2016 est.)<br>
 
 ## Transportation
@@ -323,6 +323,9 @@ _914 to 1,523 m_: 1 (2019)<br>
 nearest airport for international flights is Princess Juliana International Airport (SXM) located on Sint Maarten<br>
 
 ## Military and Security
+
+**Military and security forces**<br>
+no armed forces; Saint Martin Police Force (Korps Politie Sint Marteen)&nbsp;<br>
 
 **Military - note**<br>
 defense is the responsibility of France<br>

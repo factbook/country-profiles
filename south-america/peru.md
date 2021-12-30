@@ -651,8 +651,8 @@ _international_: country code - 51; landing points for the SAM-1, IGW, American 
 .pe<br>
 
 **Internet users**<br>
-_total_: 16,461,427<br>
-_percent of population_: 52.54% (July 2018 est.)<br>
+_total_: 19.9 million (2021 est.)<br>
+_percent of population_: 65.25% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,536,077 (2018 est.)<br>
@@ -731,16 +731,16 @@ Joint Command of the Armed Forces of Peru (CCFFAA): Peruvian Army (Ejercito del 
 information varies; approximately 95,000 active personnel (55,000 Army; 25,000 Navy, including about 4,000 naval infantry and 1,000 Coast Guard; 15,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2020)<br>
+the Peruvian military's inventory is a mix of mostly older equipment from a wide variety of suppliers, including Brazil, Europe, the former Soviet Union, and the US; since 2010, Peru has received military equipment from more than a dozen countries, led by Russia and South Korea (2021)<br>
 
 **Military deployments**<br>
-210 Central African Republic (MINUSCA) (Sep 2021)<br>
+220 Central African Republic (MINUSCA) (Oct 2021)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial waters of Peru are a risk for armed robbery against ships; in 2020, eight attacks against a commercial vessels were reported, down from 10 attacks in 2019; all of these occurred in the main port of Callao<br>
 
 **Military service age and obligation**<br>
-18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (2019)<br>
+18-50 years of age for male and 18-45 years of age for female voluntary military service (12 months); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Peruvian security forces continued to conduct operations against remnants of the Shining Path terrorist group (aka Sendero Luminoso; see Appendix T<u>)</u>, particularly in the Apurimac, Ene, and Mantaro River Valleys (VRAEM) of eastern Peru; the military had approximately 8,000-10,000 troops in the VRAEM under a special combined military-police command, including 3 army infantry battalions</p><br>

@@ -630,7 +630,7 @@ Barbados Defense Force: The Barbados Regiment, The Barbados Coast Guard (2021)<b
 the Barbados Defense Force (BDF) has approximately 600 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the BDF's major equipment inventory - maritime patrol boats - is supplied by the Netherlands (2020)<br>
+the Netherlands provide the BDF's major equipment inventory (maritime patrol boats) (2021)<br>
 
 **Military service age and obligation**<br>
 Voluntary service only; 17 years, 9 months to 17 years, 11 months with letter of consent from a parent or guardian, or be in the age range of 18-25 years at the start of recruit training; citizens of Barbados by descent or naturalization (2021)<br>

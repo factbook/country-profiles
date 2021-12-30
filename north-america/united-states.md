@@ -632,8 +632,8 @@ _international_: country code - 1; landing points for the Quintillion Subsea Cab
 .us<br>
 
 **Internet users**<br>
-_total_: 285,519,020<br>
-_percent of population_: 87.27% (July 2018 est.)<br>
+_total_: 298.8 million (2021 est.)<br>
+_percent of population_: 87.27% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 120.531 million (2020)<br>

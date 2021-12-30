@@ -288,8 +288,8 @@ _conventional long form_: Republic of Lithuania<br>
 _conventional short form_: Lithuania<br>
 _local long form_: Lietuvos Respublika<br>
 _local short form_: Lietuva<br>
-_former_: Lithuanian Soviet Socialist Republic<br>
-_etymology_: meaning of the name "Lietuva" remains unclear; it may derive from the Lietava, a stream in east central Lithuania<br>
+_former_: Lithuanian Soviet Socialist Republic (while occupied by the USSR)<br>
+_etymology_: meaning of the name "Lietuva" remains unclear and is debated by scholars; it may derive from the Lietava, a stream in east central Lithuania<br>
 
 **Government type**<br>
 semi-presidential republic<br>
@@ -696,10 +696,10 @@ the Lithuanian Armed Forces have approximately 16,000 active duty personnel (12,
 the Lithuanian Armed Forces' inventory is mostly a mix of Western weapons systems and Soviet-era equipment (primarily aircraft and helicopters); Germany and the UK are the leading suppliers of armaments to Lithuania since 2010 (2020)<br>
 
 **Military deployments**<br>
-contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
+contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units (2021)<br>
 
 **Military service age and obligation**<br>
-19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2019)<br>
+19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2021)<br>
 
 **Military - note**<br>
 Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Germany and had about 1,250 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>

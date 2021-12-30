@@ -606,8 +606,8 @@ _international_: country code - 239; landing points for the Ultramar GE and ACE 
 .st<br>
 
 **Internet users**<br>
-_total_: 61,193<br>
-_percent of population_: 29.93% (July 2018 est.)<br>
+_total_: 65,000 (2020 est.)<br>
+_percent of population_: 29.93% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 2,512 (2020)<br>

@@ -623,8 +623,8 @@ multiple privately owned TV networks and a government-owned educational TV stati
 .pa<br>
 
 **Internet users**<br>
-_total_: 2,199,433<br>
-_percent of population_: 57.87% (July 2018 est.)<br>
+_total_: 2.82 million (2021 est.)<br>
+_percent of population_: 63.63% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 562,413 (2020)<br>
@@ -696,7 +696,7 @@ note - the PNP includes paramilitary special forces units for counterterrorism a
 approximately 20,000 National Police; 4,000 National Border Service; 3,000 National Air-Naval Service (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2020)<br>
+Panama's security forces are lightly armed; Canada, Italy and the US have provided equipment to the security forces since 2010 (2021)<br>
 
 **Military - note**<br>
 <p>Panama created a paramilitary National Guard (Guardia Nacional de Panamá) in the 1950s from the former National Police (established 1904); the National Guard subsequently evolved into more of a military force with some police responsibilities; it seized power in a coup in 1968 and military officers ran the country until 1989; in 1983, the National Guard was renamed the Panama Defense Force (PDF); the PDF was disbanded after the 1989 US invasion and the current national police forces were formed in 1990; the armed forces were officially abolished under the 1994 Constitution</p><br>

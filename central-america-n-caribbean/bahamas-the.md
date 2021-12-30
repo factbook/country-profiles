@@ -633,10 +633,10 @@ Royal Bahamas Defense Force: includes land, air, maritime elements (2021)<br>
 the Royal Bahamas Defense Force (RBDF) has approximately 1,500 total personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most of the RBDF's major equipment inventory is supplied by the Netherlands (2020)<br>
+most of the RBDF's major equipment inventory is supplied by the Netherlands (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female service; no conscription (2019)<br>
+18 years of age for voluntary male and female service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the RBDF was established in 1980; its primary responsibilities are disaster relief, maritime security, and counter-narcotics operations; it is a naval force, but includes a lightly-armed marine infantry/commando squadron for base and internal security, as well as a few light non-combat aircraft; the maritime element has coastal patrol craft and patrol boats; the RBDF maintains training relationships with the UK and the US </p><br>

@@ -346,7 +346,7 @@ _subordinate courts_: People's Provincial Courts; People's Regional Courts; Peop
 Cuban Communist Party or PCC [Raul CASTRO Ruz]<br>
 
 **International organization participation**<br>
-ACP, ALBA, AOSIS, CELAC, FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Lianys TORRES RIVERA (since 14 January 2021)<br>
@@ -590,13 +590,13 @@ _total subscriptions_: 6,661,763 (2020)<br>
 _subscriptions per 100 inhabitants_: 58.82 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet available in Havana, though costs are too high for most Cubans;&nbsp; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2020)<br>
+_general assessment_: Internet availability has increased substantially over the past few years, but only about 64 percent of Cubans have Internet access, and even fewer Cubans--about 60 percent of the population--have access to cell phone service; in 2021 the Cuban Government passed a decree that strengthened its authority to censor Internet and telephonic communications; state control of the telecom sector hinders development; Cuba has the lowest mobile phone and Internet penetration rates in the region; fixed-line density is also very low; thaw of US-Cuba relations encouraged access to services, such as Wi-Fi hotspots; access to sites is controlled and censored; DSL and Internet are available in Havana, though costs are too high for most Cubans; international investment and agreement to improve Internet access through cost-free and direct connection between networks (2021)<br>
 _domestic_: fixed-line density remains low at about 13 per 100 inhabitants; mobile-cellular service is expanding to about 53 per 100 persons (2019)<br>
 _international_: country code - 53; the ALBA-1, GTMO-1, and GTMO-PR fiber-optic submarine cables link Cuba, Jamaica, and Venezuela; satellite earth station - 1 Intersputnik (Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-<p>Government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2,) 2 international channels (Cubavision Internacional and Caribe,) 16 regional TV stations, 6 national radio networks and multiple regional stations; the Cuban government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media</p> (2019)<br>
+government owns and controls all broadcast media: five national TV channels (Cubavision, Tele Rebelde, Multivision, Educational Channel 1 and 2), two international channels (Cubavision Internacional and Caribe), 16 regional TV stations, 6 national radio networks, and multiple regional stations; the Cuban Government beams over the Radio-TV Marti signal; although private ownership of electronic media is prohibited, several online independent news sites exist; those that are not openly critical of the government are often tolerated; the others are blocked by the government; there are no independent TV channels, but several outlets have created strong audiovisual content (El Toque, for example); a community of young Youtubers is also growing, mostly with channels about sports, technology and fashion; Christian denominations are creating original video content to distribute via social media (2019)<br>
 
 **Internet country code**<br>
 .cu<br>
@@ -641,13 +641,13 @@ _under 914 m_: 58 (2013)<br>
 41 km gas, 230 km oil (2013)<br>
 
 **Railways**<br>
-_total_: 8,367 km (2017)<br>
+_total_: 8,125 km (2017)<br>
 _standard gauge_: 8,195 km 1.435-m gauge (124 km electrified) (2017)<br>
 _narrow gauge_: 172 km 1.000-m gauge (2017)<br>
-<strong>note:</strong> 82 km of standard gauge track is not for public use<br>
+<strong>note: </strong>As of 2013, 70 km of standard gauge and 12 km of narrow gauge track were not for public use<br>
 
 **Roadways**<br>
-_total_: 60,000 km (2015)<br>
+_total_: 71,140 km (2015)<br>
 _paved_: 20,000 km (2001)<br>
 _unpaved_: 40,000 km (2001)<br>
 
@@ -664,23 +664,23 @@ _major seaport(s)_: Antilla, Cienfuegos, Guantanamo, Havana, Matanzas, Mariel, N
 ## Military and Security
 
 **Military and security forces**<br>
-Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security (2020)<br>
+Revolutionary Armed Forces (Fuerzas Armadas Revolucionarias, FAR): Revolutionary Army (Ejercito Revolucionario, ER), Revolutionary Navy (Marina de Guerra Revolucionaria, MGR, includes Marine Corps), Revolutionary Air and Air Defense Forces (Defensas Anti-Aereas y Fuerza Aerea Revolucionaria, DAAFAR); Paramilitary forces: Youth Labor Army (Ejercito Juvenil del Trabajo, EJT), Territorial Militia Troops (Milicia de Tropas de Territoriales, MTT), Civil Defense Force; Ministry of Interior: Border Guards, State Security (2021)<br>
 
 **Military expenditures**<br>
+4.2% of GDP (2020 est.)<br>
+3.7% of GDP (2019 est.)<br>
 2.9% of GDP (2018 est.)<br>
 2.9% of GDP (2017 est.)<br>
 3.1% of GDP (2016 est.)<br>
-3.1% of GDP (2015 est.)<br>
-3.5% of GDP (2014)<br>
 
 **Military and security service personnel strengths**<br>
 limited available information; estimated 50,000 active personnel (approximately 40,000 Army; 3,000 Navy; 8,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004 (2020)<br>
+the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2019)<br>
+17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2021)<br>
 
 **Military - note**<br>
 the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism (2021)<br>

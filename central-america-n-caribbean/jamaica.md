@@ -660,10 +660,10 @@ note - both the JDF and JCF are under the Ministry of National Security<br>
 information varies; approximately 4,000 total active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Jamaica Defense Force is lightly armed with a limited inventory featuring mostly older equipment imported from a variety of foreign suppliers, including the UK and US; since 2010, Jamaica has received limited quantities of military equipment from Australia, Austria, the Netherlands, and the US (2020)<br>
+the Jamaica Defense Force is lightly armed with a limited inventory featuring mostly older equipment imported from a variety of foreign suppliers, primarily the UK and US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with JDF or seek other opportunities with law enforcement (2020)<br>
+no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with JDF or seek other opportunities with law enforcement (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>

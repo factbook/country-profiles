@@ -5,7 +5,7 @@ _Africa / Countries_
 ## Introduction
 
 **Background**<br>
-Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate.<br><br>The area achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. The last successful coup occurred in 1987 when Blaise COMPAORE deposed the former president, established a government, and ruled for 27 years. In October 2014, COMPAORE resigned following protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition period organizing presidential and legislative elections. In November 2015, Roch Marc Christian KABORE was elected president; he was reelected in November 2020.<br><br>Terrorist groups - including groups affiliated with Al-Qa’ida and the Islamic State - began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By late 2020, terrorist attacks had resulted in approximately 4,000 deaths and over 1 million internally displaced persons. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br> <p> </p><br>
+<p>Many of Burkina Faso’s ethnic groups arrived in the region between the 12th and 15th centuries. The Gurma and Mossi peoples established several of the largest kingdoms in the area and used horse-mounted warriors in military campaigns. Of the various Mossi kingdoms, the most powerful were Ouagadougou and Yatenga. In the late 19th century, European states competed for control of the region. France eventually conquered the area and established it as a French protectorate.</p> <br>The area achieved independence from France in 1960 and changed its name to Burkina Faso in 1984. Repeated military coups were common in the country’s first few decades. The last successful coup occurred in 1987 when Blaise COMPAORE deposed the former president, established a government, and ruled for 27 years. In October 2014, COMPAORE resigned following protests against his repeated efforts to amend the constitution's two-term presidential limit. An interim administration led a year-long transition period organizing presidential and legislative elections. In November 2015, Roch Marc Christian KABORE was elected president; he was reelected in November 2020.<br><br>Terrorist groups - including groups affiliated with Al-Qa’ida and the Islamic State - began attacks in the country in 2016 and conducted attacks in the capital in 2016, 2017, and 2018. By late 2021, insecurity in Burkina Faso had displaced 1.4 million people and led to significant jumps in humanitarian needs and food insecurity. In addition to terrorism, the country faces a myriad of problems including high population growth, recurring drought, pervasive and perennial food insecurity, and limited natural resources. It is one of the world’s poorest countries.<br> <p> </p><br>
 
 ## Geography
 
@@ -681,7 +681,7 @@ _unpaved_: 11,662 km (2014)<br>
 
 **Military and security forces**<br>
 Armed Forces of Burkina Faso (FABF): Army of Burkina Faso (L’Armee de Terre, LAT), Air Force of Burkina Faso (Force Aerienne de Burkina Faso, FABF), National Gendarmerie; Volunteers for the Defense of the Fatherland (a civilian defense force established in 2019 to act as auxiliaries to the military in the fight against militants) (2021)<br>
-note: the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
+note - the National Gendarmerie officially reports to the Ministry of Defense, but usually operates in support of the Ministry of Security and the Ministry of Justice; Gendarmerie troops are typically integrated with Army forces in anti-terrorism operations; for example, Gendarmerie, Army, and police forces were combined to form a 1,500-member task force known as the <em>Groupement des Forces Anti-Terroristes</em> (GFAT) to address terrorist activities along the country's northern border in 2013<br>
 
 **Military expenditures**<br>
 2.5% of GDP (2020 est.)<br>
@@ -694,13 +694,14 @@ note: the National Gendarmerie officially reports to the Ministry of Defense, bu
 the Armed Forces of Burkina Faso (FABF) have approximately 12,000 personnel (7,000 Army; 500 Air Force; 4,500 National Gendarmerie) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from more than 10 countries (2020)<br>
+the FABF has a mix of foreign-supplied weapons; since 2010, it has received limited amounts of mostly donated second-hand equipment from more than 10 countries (2021)<br>
 
 **Military deployments**<br>
-1,075 Mali (MINUSMA) (Jan 2021)<br>
+900 Mali (MINUSMA) (Oct 2021)<br>
+note - Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2019)<br>
+18 years of age for voluntary military service; no conscription; women may serve in supporting roles (2021)<br>
 
 **Military - note**<br>
 since at least 2016, the Armed Forces of Burkina Faso have been actively engaged in combat operations with terrorist groups linked to al-Qa'ida and ISIS; military operations have occurred in the Centre‐Est, Centre‐Nord, Est, Nord, and Sahel administrative regions<br><br>Burkina Faso is part of a five-nation anti-jihadist task force known as the G5 Sahel Group, set up in 2014 with Chad, Mali, Mauritania, and Niger; it has committed 550 troops and 100 gendarmes to the force; the G5 force is backed by the UN, US, and France; G5 troops periodically conduct joint operations with French forces deployed to the Sahel under Operation Barkhane; in early 2020, G5 Sahel military chiefs of staff agreed to allow defense forces from each of the states to pursue terrorist fighters up to 100 km into neighboring countries (2021)<br>
@@ -717,6 +718,6 @@ Ansarul Islam; Islamic State of Iraq and ash-Sham in the Greater Sahara; al-Mula
 <p>adding to illicit cross-border activities, Burkina Faso has issues concerning unresolved boundary alignments with its neighbors; demarcation is currently underway with Mali; the dispute with Niger was referred to the ICJ in 2010, and a dispute over several villages with Benin persists; Benin retains a border dispute with Burkina Faso around the town of Koualou</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 23,594 (Mali) (2021)<br>
+_refugees (country of origin)_: 24,538 (Mali) (2021)<br>
 _IDPs_: <p>1,407,685 (2021)</p><br>
 

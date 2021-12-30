@@ -354,7 +354,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Macky SALL (since 2 April 2012)<br>
-_head of government_: President Macky SALL (since 2 April 2012)<br>
+_head of government_: On 11 December 2021, the National Assembly approved a constitutional amendment re-establishing the position of Prime Minister which SALL eliminated after his re-election in 2019. The new Prime Minister will be appointed in early 2022.<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a single renewable 5-year term; election last held on 24 February 2019 (next to be held in February 2024)<br>
 _election results_: Macky SALL elected president in first round; percent of vote - Macky SALL (APR) 58.3%, Idrissa SECK (Rewmi) 20.5%, Ousmane SONKO (PASTEF) 15.7%<br>
@@ -637,8 +637,8 @@ state-run Radiodiffusion Television Senegalaise (RTS) broadcasts TV programs fro
 .sn<br>
 
 **Internet users**<br>
-_total_: 6,909,635<br>
-_percent of population_: 46% (July 2018 est.)<br>
+_total_: 7.81 million (2021 est.)<br>
+_percent of population_: 46% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 177,363 (2020)<br>

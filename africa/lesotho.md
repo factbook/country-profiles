@@ -353,13 +353,13 @@ _judge selection and term of office_: Court of Appeal president and High Court c
 _subordinate courts_: Magistrate Courts; customary or traditional courts; military courts<br>
 
 **Political parties and leaders**<br>
-All Basotho Convention or ABC [Thomas Motsoahae THABANE]<br>Alliance of Democrats or AD [Monyane MOLELEKI]<br>Basotho Congress Party or BCP [Thulo MAHLAKENG]<br>Basotho National Party or BNP [Thesele MASERIBANE]<br>Democratic Congress or DC [Pakalitha MOSISILI]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
+All Basotho Convention or ABC [Moeketsi MAJORO]<br>Alliance of Democrats or AD [Monyane MOLELEKI]<br>Basotho Action Party or BAP [Ngosa MAHAO]<br>Basotho National Party or BNP [Thesele MASERIBANE]<br>Democratic Congress or DC [Mathibeli MOKHOTHU]<br>Democratic Party of Lesotho or DPL [Limpho TAU]<br>Lesotho Congress for Democracy or LCD [Mothetjoa METSING]<br>Movement of Economic Change or MEC [Selibe MOCHOBOROANE]<br>National Independent Party or NIP [Kimetso MATHABA]<br>Popular Front for Democracy of PFD [Lekhetho RAKUOANE]<br>Reformed Congress of Lesotho or RCL [Keketso RANTSO]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MIGA, NAM, OPCW, SACU, SADC, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador (vacant); Masopha Phoofolo Moses KAO,&nbsp; Counselor (28 May 2021)<br>
+_chief of mission_: Ambassador Sankatana Gabriel MAJA, Counselor (28 May 2021)<br>
 _chancery_: 2511 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 797-5533<br>
 _FAX_: [1] (202) 234-6815<br>

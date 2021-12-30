@@ -316,7 +316,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: Grand Duke HENRI (since 7 October 2000); Heir Apparent Prince GUILLAUME (son of the monarch, born 11 November 1981)<br>
-_head of government_: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Etienne SCHNEIDER (since 4 December 2013); Deputy Prime Minister Felix BRAZ (since 5 December 2018)<br>
+_head of government_: Prime Minister Xavier BETTEL (since 4 December 2013); Deputy Prime Minister Francois BAUSCH (since 11 October 2019); Deputy Prime Minister Daniel KERSCH (since 4 February 2020)<br>
 _cabinet_: Council of Ministers recommended by the prime minister, appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; following elections to the Chamber of Deputies, the leader of the majority party or majority coalition usually appointed prime minister by the monarch; deputy prime minister appointed by the monarch; prime minister and deputy prime minister are responsible to the Chamber of Deputies<br>
 
@@ -331,13 +331,13 @@ _judge selection and term of office_: judges of both courts appointed by the mon
 _subordinate courts_: Court of Accounts; district and local tribunals and courts<br>
 
 **Political parties and leaders**<br>
-Alternative Democratic Reform Party or ADR [Jean SCHOOS]<br>Christian Social People's Party or CSV [Marc SPAUTZ]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Francoise FOLMER, Christian KMIOTEK]<br>Luxembourg Socialist Workers' Party or LSAP [Claude HAAGEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>other minor parties<br>
+Alternative Democratic Reform Party or ADR [Jean SCHOOS]<br>Christian Social People's Party or CSV [Felix EISCHEN]<br>Democratic Party or DP [Corinne CAHEN]<br>Green Party [Djuna BERNARD, Meris SEHOVIC]<br>Luxembourg Socialist Workers' Party or LSAP [Yves CRUCHTEN]<br>The Left (dei Lenk/la Gauche) [collective leadership, Central Committee]<br>other minor parties<br>
 
 **International organization participation**<br>
 ADB (nonregional member), Australia Group, Benelux, BIS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNRWA, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Gaston Pierre Jean STRONCK (since 16 September 2019)<br>
+_chief of mission_: Ambassador Nicole BINTNER-BAKSHIAN (since 19 August 2021)<br>
 _chancery_: 2200 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 265-4171<br>
 _FAX_: [1] (202) 328-8270<br>
@@ -671,7 +671,7 @@ Luxembourg Army (l'Arm&eacute;e Luxembourgeoise) (2021)<br>
 the Luxembourg Army has approximately 900 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of Luxembourg's Army is a small mix of European and US equipment; since 2010, it has received small quantities of equipment from Germany, Norway, and Sweden (2020)<br>
+the inventory of Luxembourg's Army is a mix of European and US equipment; since 2010, it has received small quantities of equipment from Germany, Norway, and Sweden (2021)<br>
 
 **Military service age and obligation**<br>
 18-26 years of age for male and female voluntary military service; no conscription (abolished 1969); Luxembourg citizen or EU citizen with 3-year residence in Luxembourg (2021)<br>

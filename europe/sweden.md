@@ -322,7 +322,7 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King CARL XVI GUSTAF (since 15 September 1973); Heir Apparent Princess VICTORIA Ingrid Alice Desiree (daughter of the monarch, born 14 July 1977)<br>
-_head of government_: Prime Minister Stefan LOFVEN (since 3 October 2014); Deputy Prime Minister Isabella LOVIN (since 25 May 2016); note - Prime Minister Stefan LOFVEN was ousted in a no-confidence vote on 25 September 2018 and headed a caretaker government until the next government was formed; LOFVEN was reelected as Prime Minister and took office on 21 January 2019&nbsp;<br>
+_head of government_: Prime Minister Magdalena ANDERSSON (since 30 November 2021); Deputy Prime Minister Morgan JOHANSSON (since 10 September 2019)<br>
 _cabinet_: Cabinet appointed by the prime minister<br>
 _elections/appointments_: the monarchy is hereditary; following legislative elections, the leader of the majority party or majority coalition usually becomes the prime minister<br>
 
@@ -337,7 +337,7 @@ _judge selection and term of office_: Supreme Court and Supreme Administrative C
 _subordinate courts_: first instance, appellate, general, and administrative courts; specialized courts that handle cases such as land and environment, immigration, labor, markets, and patents<br>
 
 **Political parties and leaders**<br>
-Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba Busch THOR]<br>Green Party (Miljopartiet de Grona) or MP [Isabella LOVIN and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Jonas SJOSTEDT]<br>Liberal Party (Liberalerna) or L [Jan BJORKLUND]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>
+Center Party (Centerpartiet) or C [Annie LOOF]<br>Christian Democrats (Kristdemokraterna) or KD [Ebba BUSCH]<br>Green Party (Miljopartiet de Grona) or MP [Marta STEVENI and Per BOLUND]<br>Left Party (Vansterpartiet) or V [Nooshi DADGOSTAR]<br>Liberal Party (Liberalerna) or L [Nyamko SABUNI]<br>Moderate Party (Moderaterna) or M [Ulf KRISTERSSON]<br>Swedish Social Democratic Party (Socialdemokraterna) or SAP [Magdalena ANDERSSON]<br>Sweden Democrats (Sverigedemokraterna) or SD [Jimmie AKESSON]<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-9, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNMOGIP, UNRWA, UN Security Council (temporary), UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -608,8 +608,8 @@ publicly owned TV broadcaster operates 2 terrestrial networks plus regional stat
 .se<br>
 
 **Internet users**<br>
-_total_: 9,251,773<br>
-_percent of population_: 92.14% (July 2018 est.)<br>
+_total_: 9.93 million (2021 est.)<br>
+_percent of population_: 94.54% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,101,078 (2020)<br>

@@ -5,7 +5,7 @@ _North America / Countries_
 ## Introduction
 
 **Background**<br>
-<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada repatriated its constitution from the UK in 1982, severing a final colonial tie. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p><br>
+<p>A land of vast distances and rich natural resources, Canada became a self-governing dominion in 1867, while retaining ties to the British crown. Canada gained legislative independence from Britain in 1931 and formalized its constitutional independence from the UK in 1982 when it passed the Canada Act in 1982. Economically and technologically, the nation has developed in parallel with the US, its neighbor to the south across the world's longest international border. Canada faces the political challenges of meeting public demands for quality improvements in health care, education, social services, and economic competitiveness, as well as responding to the particular concerns of predominantly francophone Quebec. Canada also aims to develop its diverse energy resources while maintaining its commitment to the environment.</p><br>
 
 ## Geography
 
@@ -342,12 +342,12 @@ _chief of state_: Queen ELIZABETH II (since 6 February 1952); represented by Gov
 _head of government_: Prime Minister Justin Pierre James TRUDEAU (Liberal Party) (since 4 November 2015)<br>
 _cabinet_: Federal Ministry chosen by the prime minister usually from among members of his/her own party sitting in Parliament<br>
 _elections/appointments_: the monarchy is hereditary; governor general appointed by the monarch on the advice of the prime minister for a 5-year term; following legislative elections, the leader of the majority party or majority coalition in the House of Commons generally designated prime minister by the governor general<br>
-<strong>note:</strong> the governor general position is largely ceremonial; Julie PAYETTE, Canada's fourth female governor general, resigned on 21 January 2021; Richard WAGNER, chief justice of the Supreme Court, will be Acting Governor General in the interim<br>
+<strong>note:</strong> the governor general position is largely ceremonial<br>
 
 **Legislative branch**<br>
 _description_: bicameral Parliament or Parlement consists of:<br>Senate or Senat (105 seats; members appointed by the governor general on the advice of the prime minister and can serve until age 75)<br>House of Commons or Chambre des Communes (338 seats; members directly elected in single-seat constituencies by simple majority vote with terms up to 4 years)<br>
 _elections_: Senate - appointed; latest appointments in December 2018<br>House of Commons - last held on 20 September 2021 (next to be held NA)<br>
-_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 33, Greens 2; composition - men 236, women 102, percent of women 29%; note - total Parliament percent of women 30.2%<br>
+_election results_: <br>Senate - composition as of December 2018 - men 51, women 54, percent of women 51.4% <br><br>House of Commons - percent of vote by party - CPC 33.7%, Liberal Party 32.6%, NDP 17.8%, Bloc Quebecois 7.7%, Greens 2.3%, other 5.9%; seats by party - Liberal Party 159, CPC 119, NDP 25, Bloc Quebecois 32, Greens 2, independent 1; composition - men 236, women 102, percent of women 29%; note - total Parliament percent of women 30.2%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court of Canada (consists of the chief justice and 8 judges); note - in 1949, Canada abolished all appeals beyond its Supreme Court, which prior to that time, were heard by the Judicial Committee of the Privy Council (in London)<br>
@@ -671,10 +671,10 @@ _under 914 m_: 484 (2013)<br>
 26 (2013)<br>
 
 **Pipelines**<br>
-110000 km gas and liquid petroleum (2017)<br>
+840,000 km oil and gas&nbsp; (2017)<br>
 
 **Railways**<br>
-_total_: 77,932 km (2014)<br>
+_total_: 77,932 km note: 129 km electrified (2021) (2014)<br>
 _standard gauge_: 77,932 km 1.435-m gauge (2014)<br>
 
 **Roadways**<br>
@@ -702,7 +702,7 @@ Fraser River Port (Fraser) Hamilton (Lake Ontario)<br>
 
 **Military and security forces**<br>
 Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, Canadian Joint Operations Command, Canadian Special Operations Forces Command; Primary Reserve (army, air, naval reserves); Coast Guard (Department of Fisheries and Oceans) (2021)<br>
-note: the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
+note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
 1.42% of GDP (2020 est.)<br>
@@ -712,7 +712,7 @@ note: the Army reserves include the Canadian Rangers, which provides a limited p
 1.16% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Canadian Armed Forces have approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>
+approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>
 note - the Army also has 19,000 part-time, volunteer soldiers in the Reserve Force, including about 5,500 Rangers who serve in sparsely settled northern, coastal, and isolated areas of Canada<br>
 
 **Military equipment inventories and acquisitions**<br>
@@ -743,5 +743,5 @@ _refugees (country of origin)_: 22,400 (Venezuela) (refugees and migrants), 8,08
 _stateless persons_: 4,139 (2020)<br>
 
 **Illicit drugs**<br>
-transnational criminal organizations trafficked cocaine, heroin, methamphetamine, synthetic drugs, and counterfeit prescription drugs to Canada and United States for domestic consumption; primary source of synthetic drugs, cannabis, and MDMA (ecstasy) trafficked to the United States<br>
+illicit production of fentanyl primarily for Canada's domestic drug market with at least small quantities smuggled to the US; complex laboratories setup for fentanyl production have been found and Mexican traffickers present in the country; Canada legalized marijuana in 2018<br>
 

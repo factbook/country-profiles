@@ -635,8 +635,8 @@ state-run public TV operates 2 national channels supplemented by 16 regional cha
 .pl<br>
 
 **Internet users**<br>
-_total_: 29,791,401<br>
-_percent of population_: 77.54% (July 2018 est.)<br>
+_total_: 31.97 million (2021 est.)<br>
+_percent of population_: 86.84% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,212,601 (2020)<br>
@@ -703,7 +703,7 @@ _river port(s)_: Szczecin (River Oder)<br>
 
 **Military and security forces**<br>
 Polish Armed Forces: Land Forces (Wojska Ladowe), Navy (Marynarka Wojenna), Air Force (Sily Powietrzne), Special Forces (Wojska Specjalne), Territorial Defense Force (Wojska Obrony Terytorialnej); Ministry of the Interior: Border Guard (includes coast guard duties) (2021)<br>
-note: the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
+note - the Polish Armed Forces are organized into a General Staff, an Armed Forces General Command, an Armed Forces Operational Command, Territorial Defense Forces (established 2017), Military Police, and the Warsaw Garrison Command<br>
 
 **Military expenditures**<br>
 2.2% of GDP (2021 est.)<br>
@@ -720,11 +720,11 @@ note - in June 2019, the Polish Government approved a plan to increase the size 
 the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2020)<br>
 
 **Military deployments**<br>
-240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (June 2021)<br>
-note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Warsaw and is comprised of an international staff, three battalions, and specialized units<br>
+240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (2021)<br>
+note: Poland contributes about 2,500 troops to the Lithuania, Poland, and Ukraine joint military brigade (LITPOLUKRBRIG), which was established in 2014; the brigade is headquartered in Poland and is comprised of an international staff, three battalions, and specialized units<br>
 
 **Military service age and obligation**<br>
-18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2019)<br>
+18-28 years of age for male and female voluntary military service; conscription phased out in 2009-12; professional soldiers serve on a permanent basis (for an unspecified period of time) or on a contract basis (for a specified period of time); initial contract period is 24 months; women serve in the military on the same terms as men (2021)<br>
 
 **Military - note**<br>
 Poland joined NATO in 1999; Czechia, Hungary, and Poland were invited to begin accession talks at NATO's Madrid Summit in 1997, and in March 1999 they became the first former members of the Warsaw Pact to join the Alliance<br> <p>since 2017, Poland has hosted a multi-national NATO battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the US and had about 1,000 troops on a continuous rotational basis as of 2021</p><br>

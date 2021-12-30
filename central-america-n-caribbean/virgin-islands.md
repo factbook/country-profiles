@@ -488,8 +488,8 @@ about a dozen TV broadcast stations including 1 public TV station; multi-channel
 .vi<br>
 
 **Internet users**<br>
-_total_: 68,872<br>
-_percent of population_: 64.38% (July 2018 est.)<br>
+_total_: 67,200 (2021 est.)<br>
+_percent of population_: 64.38% (2019 est.)<br>
 
 ## Transportation
 

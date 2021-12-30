@@ -560,7 +560,7 @@ _total subscriptions_: 526,732 (2020)<br>
 _subscriptions per 100 inhabitants_: 120.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: <p>Brunei is improving its national telecom network; telecommunications infrastructure and services are of high standard, due to healthy investment in networks and services; relatively mature telecom system compared to other Asian countries; mobile subscription increasing steadily to high penetration; launch of 5G services in 2021 will boost the mobile broadband sector; access to telecom services via the Kacific-1 satellite (2020)</p> (2020)<br>
+_general assessment_: Brunei is improving its national telecom network; telecommunications infrastructure and services are of high standard, due to healthy investment in networks and services; relatively mature telecom system compared to other Asian countries; mobile subscription increasing steadily to high penetration; launch of 5G pilot services in April 2021 aimed to increase awareness of the benefits of 5G and boost the mobile broadband sector; access to telecom services via the Kacific-1 satellite (2021)<br>
 _domestic_: every service available; 20 per 100 fixed-line, 129 per 100 mobile-cellular (2019)<br>
 _international_: country code - 673; landing points for the SEA-ME-WE-3, SJC, AAG, Lubuan-Brunei Submarine Cable via&nbsp;optical telecommunications submarine cables that provides links to Asia, the Middle East, Southeast Asia, Africa, Australia, and the US; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -636,10 +636,10 @@ Royal Brunei Armed Forces: Royal Brunei Land Force, Royal Brunei Navy, Royal Bru
 the Royal Brunei Armed Forces is comprised of approximately 6,500 total active troops (4,500 Army; 1,000 Navy; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; the top supplier since 2010 is Germany (2020)<br>
+the Royal Brunei Armed Forces imports nearly all of its military equipment and weapons systems; suppliers since 2010 include France, Germany, Singapore, Sweden, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2019)<br>
+17 years of age for voluntary military service; non-Malays are ineligible to serve; recruits from the army, navy, and air force all undergo 43-week initial training (2021)<br>
 
 **Military - note**<br>
 Brunei has a long-standing defense relationship with the United Kingdom and hosts a British Army garrison, which includes the Gurkha Battalion and a jungle warfare school; Brunei also hosts a Singaporean military training base (2021)<br>

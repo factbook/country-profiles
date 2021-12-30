@@ -248,7 +248,7 @@ _elections/appointments_: French president directly elected by absolute majority
 
 **Legislative branch**<br>
 _description_: unicameral Territorial Council or Conseil Territorial (19 seats - Saint Pierre 15, Miquelon 4; members directly elected in single-seat constituencies by absolute majority vote in 2 rounds if needed to serve 6-year terms);<br>Saint Pierre and Miquelon indirectly elects 1 senator to the French Senate by an electoral college to serve a 6-year term and directly elects 1 deputy to the French National Assembly by absolute majority vote to serve a 5-year term<br>
-_elections_: Territorial Council - last held on 19 March 2017 (next to be held in March 2023)<br>French Senate - last held on 24 September 2017 (next to be held no later than September 2020)<br>French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
+_elections_: Territorial Council - last held on 19 March 2017 (next to be held in March 2023)<br>French Senate - last held on 24 September 2017 (next to be held no later than September 2023)<br>French National Assembly - last held on 11 and 18 June 2017 (next to be held by June 2022)<br>
 _election results_: Territorial Council - percent of vote by party - AD 70.2%, Cap sur l'Avenir 29.8%; seats by party - AD 17, Cap sur l'Avenir 2; composition - men 10, women 9, percent of women 47.4%<br>French Senate - percent of vote by party - NA; seats by party - PS 1 (affiliated with UMP)<br>French National Assembly - percent of vote by party - NA; seats by party - Ensemble pour l'Avenir 1 (affiliated with PRG); the Republicans (LR) 1<br>
 
 **Judicial branch**<br>
@@ -454,19 +454,19 @@ _total subscriptions_: 4,086<br>
 _subscriptions per 100 inhabitants_: 75.55 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: adequate (2018)<br>
+_general assessment_: adequate (2019)<br>
 _domestic_: fixed-line teledensity 76 per 100 persons (2019)<br>
 _international_: country code - 508; landing point for the St Pierre and Miquelon Cable connecting Saint Pierre&nbsp;&amp; Miquelon and Canada; radiotelephone communication with most countries in the world; satellite earth station - 1 in French domestic satellite system (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-2 TV stations with a third repeater station, all part of the French Overseas Network; radio stations on St. Pierre and on Miquelon are part of the French Overseas Network<br>
+8 TV stations, all part of the French Overseas Network, and local cable provided by SPM Telecom; 3 of 4 radio stations on St. Pierre and on Miquelon are part of the French Overseas Network (2021)<br>
 
 **Internet country code**<br>
 .pm<br>
 
 **Internet users**<br>
-_total_: 4,500<br>
+_total_: 4,600 (2020 est.)<br>
 _percent of population_: 79.5% (July 2016 est.)<br>
 
 ## Transportation

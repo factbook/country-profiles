@@ -378,7 +378,7 @@ _judge selection and term of office_: judges appointed by the president upon the
 _subordinate courts_: Court of Appeal; Federal High Court; High Court of the Federal Capital Territory; Sharia Court of Appeal of the Federal Capital Territory; Customary Court of Appeal of the Federal Capital Territory; state court system similar in structure to federal system<br>
 
 **Political parties and leaders**<br>
-Accord Party or ACC [Mohammad Lawal MALADO]<br>All Progressives Congress or APC [Adams OSHIOMHOLE]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Democratic Peoples Party or DPP [Biodun OGUNBIYI]<br>Labor Party or LP [Alhai Abdulkadir ABDULSALAM]<br>Peoples Democratic Party or PDP [Uche SECONDUS]<br>Young Progressive Party or YPP [Kingsley MOGHALU]<br>
+Accord Party or ACC [Mohammad Lawal MALADO]<br>Africa Democratic Congress (ADC) [Ralph Okey NWOSU] <br>All Progressives Congress or APC [Mai Mala BUNI, caretaker]<br>All Progressives Grand Alliance or APGA [Victor Ike OYE]<br>Labor Party or LP [Alhai Abdulkadir ABDULSALAM]<br>Peoples Democratic Party or PDP [Iyourchia AYU]<br>Young Progressive Party or YPP [Olufemi FOLAYAN]<br>
 
 **International organization participation**<br>
 ACP, AfDB, AU, C, CD, D-8, ECOWAS, EITI (compliant country), FAO, G-15, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OPCW, OPEC, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNITAR, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -758,7 +758,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa; Jama’atu Ansar
 
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 69,380 (Cameroon) (2021)<br>
-_IDPs_: 3,024,199 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
+_IDPs_: 3,015,619 (northeast Nigeria; Boko Haram attacks and counterinsurgency efforts in northern Nigeria; communal violence between Christians and Muslims in the middle belt region, political violence; flooding; forced evictions; cattle rustling; competition for resources) (2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Nigeria along with victims from Nigeria abroad; internal trafficking involving recruiting victims from rural areas for commercial sex  and forced labor in domestic work, street vending, mining, agriculture, begging and textile <br>manufacturing; traffickers operate “baby factories” where women held against their will are raped and children are sold into forced labor or sex trafficking or rented to beggars to increase their profits; women are often taken to other West and Central African countries, South Africa, Europe and the Middle East for commercial sex; Boko Haram and ISIS-WA forcibly recruit, abduct, and use child soldiers as young as 12 as cooks, spies, messengers, bodyguards, armed combatants, and suicide bombers; they abduct women and girls in the northern region of Nigeria for sexual slavery and forced labor<br>

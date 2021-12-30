@@ -89,14 +89,14 @@ _noun_: Dutchman(men), Dutchwoman(women)<br>
 _adjective_: Dutch<br>
 
 **Ethnic groups**<br>
-Dutch 76.9%, EU 6.4%, Turkish 2.4%, Moroccan 2.3%, Indonesian 2.1%, German 2.1%, Surinamese 2%, Polish 1%, other 4.8% (2018 est.)<br>
+Dutch 75.4%, EU (excluding Dutch) 6.4%, Turkish 2.4%, Moroccan 2.4%, Surinamese 2.1%, Indonesian 2%, other 9.3% (2021 est.)<br>
 
 **Languages**<br>
 Dutch (official); note - Frisian is an official language in Fryslan province; Frisian, Low Saxon, Limburgish, Romani, and Yiddish have protected status under the European Charter for Regional or Minority Languages; Dutch is the official language of the three special municipalities of the Caribbean Netherlands; English is a recognized regional language on Sint Eustatius and Saba; Papiamento is a recognized regional language on Bonaire<br>
 _major-language sample(s)_: <br>Het Wereld Feitenboek, een omnisbare bron van informatie. (Dutch)<br><br>The World Factbook, the indispensable source for basic information.<br>
 
 **Religions**<br>
-Roman Catholic 23.6%, Protestant 14.9% (includes Dutch Reformed 6.4%, Protestant Church of The Netherlands 5.6%, Calvinist 2.9%), Muslim 5.1%, other 5.6% (includes Hindu, Buddhist, Jewish), none 50.7% (2017 est.)<br>
+Roman Catholic 20.1%, Protestant 14.8% (includes Dutch Reformed, Protestant Church of The Netherlands, Calvinist), Muslim 5%, other 5.9% (includes Hindu, Buddhist, Jewish), none 54.1% (2019 est.)<br>
 
 **Age structure**<br>
 _0-14 years_: 16.11% (male 1,425,547/female 1,358,894)<br>
@@ -350,7 +350,7 @@ _judge selection and term of office_: justices appointed by the monarch from a l
 _subordinate courts_: courts of appeal; district courts, each with up to 5 subdistrict courts; Netherlands Commercial Court<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Appeal or CDA [Sybrand VAN HAERSMA BUMA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Rob JETTEN]<br>Denk [Tunahan KUZU]<br>50 Plus [Henk KROL]<br>Forum for Democracy or FvD (vacant)<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Lodewijk ASSCHER]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Marianne THIEME]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Emile ROEMER]<br>plus a few minor parties<br>
+Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Rob JETTEN]<br>Denk [Tunahan KUZU]<br>50 Plus [Henk KROL]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Lilianne PLOUMEN]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>plus a few minor parties<br>
 
 **International organization participation**<br>
 ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
@@ -687,7 +687,7 @@ _river port(s)_: Amsterdam (Nordsee Kanaal); Moerdijk (Hollands Diep River); Rot
 
 **Military and security forces**<br>
 Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and Marine Corps), Royal Netherlands Air Force, Royal Netherlands Marechaussee (Military Constabulary) (2021)<br>
-note: the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
+note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
 1.49% of GDP (2020 est.)<br>
@@ -697,17 +697,17 @@ note: the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civili
 1.16% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2020)<br>
+the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>
 note - the Navy includes about 2,300 marines<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands, followed by several European countries; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2020)<br>
+the inventory of the Netherlands Armed Forces consists of a mix of domestically-produced and modern European- and US-sourced equipment; since 2010, the US is the leading supplier of weapons systems to the Netherlands, followed by several European countries; the Netherlands has an advanced domestic defense industry that focuses on armored vehicles, naval ships, and air defense systems; it also participates with the US and other European countries on joint development and production of advanced weapons systems (2021)<br>
 
 **Military deployments**<br>
 270 Lithuania (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-17 years of age for an all-volunteer force; conscription abolished in 1996 (2019)<br>
+17 years of age for an all-volunteer force; conscription abolished in 1996 (2021)<br>
 
 **Military - note**<br>
 the Netherlands is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>since 1973, the Dutch Marine Corps has worked closely with the British Royal Marines, including jointly in the UK-Netherlands amphibious landing force</p> <p>a Dutch Army airmobile infantry brigade and a mechanized infantry brigade have been integrated into the German Army since 2014 and 2016 respectively<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020 (2021)<br>

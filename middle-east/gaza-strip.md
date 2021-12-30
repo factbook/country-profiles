@@ -79,7 +79,7 @@ _major-language sample(s)_: <br>كتاب حقائق العالم، المصدر 
 
 **Religions**<br>
 Muslim 98.0 - 99.0% (predominantly Sunni), Christian &lt;1.0%, other, unaffiliated, unspecified &lt;1.0% (2012 est.)<br>
-<strong>note:</strong> dismantlement of Israeli settlements was completed in September 2005; Gaza has had no Jewish population since then<br>
+<strong>note:</strong>  Israel dismantled its settlements in September 2005; Gaza has had no Jewish population since then<br>
 
 **Age structure**<br>
 _0-14 years_: 42.53% (male 418,751/female 397,013)<br>
@@ -199,7 +199,7 @@ _definition_: age 15 and over can read and write<br>
 _total population_: 97.5%<br>
 _male_: 98.8%<br>
 _female_: 96.2% (2020)<br>
-<strong>note:</strong> estimates are for Gaza and the West Bank<br>
+<strong>note:</strong> estimates are for Gaza Strip and the West Bank<br>
 
 **School life expectancy (primary to tertiary education)**<br>
 _total_: 13 years<br>
@@ -327,6 +327,12 @@ _services_: 84.8% (2015 est.)<br>
 27% (2016 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
 
+**Unemployment, youth ages 15-24**<br>
+_total_: 42.1%<br>
+_male_: 36.6%<br>
+_female_: 70% (2020 est.)<br>
+<strong>note:</strong> includes the West Bank<br>
+
 **Population below poverty line**<br>
 30% (2011 est.)<br>
 <strong>note:</strong> data exclude the West Bank<br>
@@ -444,13 +450,16 @@ _major seaport(s)_: Gaza<br>
 ## Military and Security
 
 **Military and security forces**<br>
-HAMAS does not have a conventional military in the Gaza Strip but maintains security forces in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing reports to the HAMAS Political Bureau leadership; there are several other militant groups operating in Gaza, most notably the Al-Quds Brigades of Palestine Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2021)<br>
+HAMAS does not have a conventional military in the Gaza Strip but maintains security forces in addition to its military wing, the 'Izz al-Din al-Qassam Brigades; the military wing reports to the HAMAS Political Bureau; there are several other militant groups operating in the Gaza Strip, most notably the Al-Quds Brigades of Palestine Islamic Jihad, which are usually but not always beholden to HAMAS's authority (2021)<br>
+
+**Military expenditures**<br>
+not available<br>
 
 **Military and security service personnel strengths**<br>
-the military wing of HAMAS has an estimated 20-25,000 fighters (2020)<br>
+the military wing of HAMAS has an estimated 20-25,000 fighters (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction; Iran provides military support to HAMAS (2020)<br>
+the military wing of HAMAS is armed with light weapons, including an inventory of improvised rocket, anti-tank missile, and mortar capabilities; HAMAS acquires its weapons through smuggling or local construction and receives some military support from Iran (2021)<br>
 
 **Military - note**<br>
 <p>since seizing control of the Gaza Strip in 2007, HAMAS has claimed responsibility for numerous rocket attacks into Israel and organized protests at the border between Gaza and Israel, resulting in violent clashes, casualties, and reprisal military actions by the Israel Defense Forces (IDF); HAMAS and Israel fought an 11-day conflict in May of 2021, which ended in an informal truce; sporadic clashes continued through 2021, including incendiary balloon attacks from Gaza and retaliatory IDF strikes; Palestine Islamic Jihad (PIJ) has conducted numerous attacks on Israel since the 1980s, including a barrage of mortar and rocket strikes in 2020, also prompting IDF counter-strikes; see Appendix-T for more details on HAMAS and PIJ</p><br>

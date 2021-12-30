@@ -291,7 +291,7 @@ _election results_: Francesco MUSSONI (PDCS) and Giacomo SIMONCINI (We for the R
 **Legislative branch**<br>
 _description_: unicameral Grand and General Council or Consiglio Grande e Generale (60 seats; members directly elected in single- and multi-seat constituencies by list proportional representation vote in 2 rounds if needed; members serve 5-year terms)<br>
 _elections_: last held on 8 December 2019 (next to be held by 31 December 2024)<br>
-_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
+_election results_: percent of vote by coalition/party - PDCS 33.3%, Tomorrow in Movement coalition 24.7% (RETE Movement 18.2%, Domani - Motus Liberi 6.2%, other 0.3%), Free San Marino 16.5%, We for the Republic 13.1%, Future Republic 10.3%, I Elect for a New Republic 2%; seats by coalition/party - PDCS 21, Tomorrow in Movement coalition 15 (RETE Movement 11, Domani - Motus Liberi 4), Free San Marino 10, We for the Republic 8, Future Republic 6; composition (as of October 2021) - men 40, women 20, percent of women 33.3%<br>
 
 **Judicial branch**<br>
 _highest courts_: Council of Twelve or Consiglio dei XII (consists of 12 members); note - the College of Guarantors for the Constitutionality and General Norms functions as San Marino's constitutional court<br>
@@ -299,7 +299,7 @@ _judge selection and term of office_: judges elected by the Grand and General Co
 _subordinate courts_: first instance and first appeal criminal, administrative, and civil courts; Court for the Trust and Trustee Relations; justices of the peace or conciliatory judges<br>
 
 **Political parties and leaders**<br>
-DOMANI - Modus Liberi or DML<br>Free San Marino (Libera)<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement<br>Sammarinese Christian Democratic Party (PDCS) [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic<br>
+Civic 10 [Franco SANTI]<br>Domani - Modus Liberi or DML [Lorenzo Forcellini REFFI]<br>Free San Marino or Libera<br>Future Republic or RF [Mario VENTURINI]<br>I Elect for a New Republic<br>Party of Socialists and Democrats or PSD [Paride ANDREOLI]<br>RETE Movement<br>Sammarinese Christian Democratic Party or PDCS [Marco GATTI]<br>Socialist Party or PS [Alessandro BEVITORI]<br>Tomorrow in Movement coalition (includes RETE Movement, DML)<br>We for the Republic<br>
 
 **International organization participation**<br>
 CE, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM (observer), IPU, ITU, ITUC (NGOs), LAIA (observer), OPCW, OSCE, Schengen Convention (de facto member), UN, UNCTAD, UNESCO, Union Latina, UNWTO, UPU, WHO, WIPO<br>
@@ -487,8 +487,8 @@ state-owned public broadcaster operates 1 TV station and 3 radio stations; recei
 .sm<br>
 
 **Internet users**<br>
-_total_: 20,328<br>
-_percent of population_: 60.18% (July 2018 est.)<br>
+_total_: 20,400 (2021 est.)<br>
+_percent of population_: 60.18% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 11,081 (2019)<br>

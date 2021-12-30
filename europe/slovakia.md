@@ -339,7 +339,7 @@ _judge selection and term of office_: Supreme Court judge candidates nominated b
 _subordinate courts_: regional and district civil courts; Special Criminal Court; Higher Military Court; military district courts; Court of Audit;<br>
 
 **Political parties and leaders**<br>
-Christian Democratic Movement or KDH [Alojz HLINA]<br>Bridge or Most-Hid [Bela BUGAR]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Andrej KISKA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Party of the Hungarian Community or SMK [Jozsef MENYHART]<br>Progressive Slovakia or PS [Michal TRUBAN]<br>Slovak National Party or SNS [Andrej DANKO]<br>Together or SPOLU [Miroslav BEBLAVY]<br>We Are Family or Sme-Rodina [Boris KOLLAR]<br>
+Alliance-Szovetseg [Krisztian FORRO]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR]<br>
 
 **International organization participation**<br>
 Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
@@ -611,8 +611,8 @@ state-owned public broadcaster, Radio and Television of Slovakia (RTVS), operate
 .sk<br>
 
 **Internet users**<br>
-_total_: 4,391,969<br>
-_percent of population_: 80.66% (July 2018 est.)<br>
+_total_: 4.64 million (2021 est.)<br>
+_percent of population_: 89.92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,701,561 (2020)<br>
@@ -670,23 +670,23 @@ _river port(s)_: Bratislava, Komarno (Danube)<br>
 Armed Forces of the Slovak Republic (Ozbrojene Sily Slovenskej Republiky): Land Forces (Slovenské Pozemné Sily), Air Forces (Slovenské Vzdušné Sily), Special Operations Forces (Sily Pre Speciálne Operácie) (2021)<br>
 
 **Military expenditures**<br>
+1.73% of GDP (2021 est.)<br>
 2% of GDP (2020 est.)<br>
 1.71% of GDP (2019)<br>
 1.23% of GDP (2018)<br>
 1.11% of GDP (2017)<br>
-1.12% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Slovak Republic have approximately 13,000 active duty personnel (6,000 Land Forces; 4,000 Air Forces; 3,000 other, including staff, special operations, and support forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2020)<br>
+the inventory of the Slovakian military consists mostly of Soviet-era platforms; since 2010, it has imported limited quantities of equipment from China, Czechia, Italy, Russia, and the US (2021)<br>
 
 **Military deployments**<br>
 240 Cyprus (UNFICYP); up to 175 Latvia (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2019)<br>
+18-30 years of age for voluntary military service; conscription in peacetime suspended in 2004; women are eligible to serve (2021)<br>
 
 **Military - note**<br>
 Slovakia officially became a member of NATO in 2004<br>

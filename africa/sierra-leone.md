@@ -615,8 +615,8 @@ _international_: country code - 232; landing point for the ACE submarine cable l
 .sl<br>
 
 **Internet users**<br>
-_total_: 568,099<br>
-_percent of population_: 9% (July 2018 est.)<br>
+_total_: 2.39 million (2021 est.)<br>
+_percent of population_: 9% (2019 est.)<br>
 
 ## Transportation
 

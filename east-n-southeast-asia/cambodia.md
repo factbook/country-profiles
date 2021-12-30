@@ -349,7 +349,7 @@ _residency requirement for naturalization_: 7 years<br>
 
 **Executive branch**<br>
 _chief of state_: King Norodom SIHAMONI (since 29 October 2004)<br>
-_head of government_: Prime Minister HUN SEN (since 14 January 1985); Permanent Deputy Prime Minister MEN SAM AN (since 25 September 2008); Deputy Prime Ministers SAR KHENG (since 3 February 1992), TEA BANH, Gen., HOR NAMHONG, (since 16 July 2004), BIN CHHIN (since 5 September 2007), YIM CHHAI LY (since 24 September 2008), KE KIMYAN (since 12 March 2009), AUN PORNMONIROTH (since 24 September 2012), Prak SOKONN, CHEA SOPHARA (since 5 April 2016)<br>
+_head of government_: Prime Minister HUN SEN (since 14 January 1985)<br>
 _cabinet_: Council of Ministers named by the prime minister and appointed by the monarch<br>
 _elections/appointments_: monarch chosen by the 9-member Royal Council of the Throne from among all eligible males of royal descent; following legislative elections, a member of the majority party or majority coalition named prime minister by the Chairman of the National Assembly and appointed by the monarch<br>
 
@@ -364,7 +364,7 @@ _judge selection and term of office_: Supreme Court and Constitutional Council j
 _subordinate courts_: Appellate Court; provincial and municipal courts; Military Court<br>
 
 **Political parties and leaders**<br>
-Cambodia National Rescue Party or CNRP [KHEM SOKHA] (dissolved by the Cambodian Supreme Court in November 2017; formed from a 2012 merger of the Sam Rangsi Party or SRP and the former Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA])<br>Cambodian Nationality Party or CNP [SENG SOKHENG]<br>Cambodian People's Party or CPP [HUN SEN]<br>Khmer Economic Development Party or KEDP [HUON REACH CHAMROEUN]<br>Khmer National Unity Party or KNUP [NHEK BUN CHHAY]<br>Khmer Will Party [KONG MONIKA]<br>League for Democracy Party or LDP [KHEM Veasna]<br>National United Front for an Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM RANARIDDH]<br>
+Cambodian People's Party or CPP [HUN SEN]<br>National United Front for Independent, Neutral, Peaceful, and Cooperative Cambodia or FUNCINPEC [Prince NORODOM CHAKRAVUTH]<br>League for Democracy Party or LDP [KHEM Veasna]<br>Khmer Will Party [KONG MONIKA]<br>Khmer National Unity Party or KNUP [NHEK BUN CHHAY]<br>Cambodia National Rescue Party or CNRP [KHEM SOKHA] (dissolved by the Cambodian Supreme Court in November 2017; formed from a 2012 merger of the Sam Rangsi Party or SRP and the former Human Rights Party or HRP [KHEM SOKHA, also spelled KEM SOKHA])<br>  (Dec 2021)<br>
 
 **International organization participation**<br>
 ADB, ARF, ASEAN, CICA, EAS, FAO, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, MINUSMA, MIGA, NAM, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -706,16 +706,16 @@ note - the Cambodian National Police is under the Ministry of Interior<br>
 2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2020)<br>
+information varies; approximately 100,000 total active troops including about 3,000 Navy and 1,000 Air Force; est. 10,000 Gendarmerie (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Royal Cambodian Armed Forces are armed largely with older Chinese and Russian-origin equipment; it has received limited amounts of more modern (mostly second-hand) equipment since 2010 with China as the principal provider (2021)<br>
 
 **Military deployments**<br>
-200 Central African Republic (MINUSCA); 175 Lebanon (UNIFIL); 290 Mali (MINUSMA) (Jan 2021)<br>
+200 Central African Republic (MINUSCA); 180 Lebanon (UNIFIL); 330 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for compulsory and voluntary military service (2019)<br>
+18 is the legal minimum age for compulsory and voluntary military service (2021)<br>
 
 **Military - note**<br>
 <p>the Royal Cambodian Armed Forces (RCAF) was re-established in 1993 under the first coalition government from the merger of the Cambodian Government’s military forces (Cambodian People’s Armed Forces) and the two non-communist resistance forces (Sihanoukist National Army, aka National Army for Khmer Independence, and the Khmer People's National Liberation Armed Forces); thousands of communist Khmer Rouge fighters began surrendering by 1994 under a government amnesty program and the last of the Khmer Rouge forces (National Army of Democratic Kampuchea) were demobilized or absorbed into the RCAF in 1999</p> <p> </p><br>

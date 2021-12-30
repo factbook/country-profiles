@@ -353,8 +353,8 @@ _residency requirement for naturalization_: na<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government, on 17 September 2021 DOUMBOUYA is declared President; a charter of transition, issued 27 September 2021, makes him transitional president for an undefined period. On 1 October 2021, Doumbouya was sworn in as transitional president.<br>
-_head of government_: Prime Minister (vacant); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup by a National Committee of Rally and Development that arrested President CONDE, suspended the constitution, and dissolved the government of Prime Minister Ibrahima Kassory FOFANA<br>
+_chief of state_: President Col. Mamady DOUMBOUYA (since 1 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup that arrested President CONDE, suspended the constitution, and dissolved the government and legislature. On 1 October 2021, Doumbouya was sworn in as transitional president.<br>
+_head of government_: Prime Minister Mohamed BEAVOGUI (since 6 October 2021); note - on 5 September 2021, Col. Mamady DOUMBOUYA led a military coup that arrested President CONDE, suspended the constitution, and dissolved the government of Prime Minister Ibrahima Kassory FOFANA<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 18 October 2020 (next to be held in October 2025); prime minister appointed by the president<br>
 _election results_: Alpha CONDE reelected president in the first round; percent of vote - Alpha CONDE (RPG) 59.5%, Cellou Dalein DIALLO (UFDG) 33.5%, other 7%<br>
@@ -362,7 +362,7 @@ _election results_: Alpha CONDE reelected president in the first round; percent 
 **Legislative branch**<br>
 _description_: unicameral People's National Assembly or Assemblee Nationale Populaire (114 seats; 76 members directly elected in a single nationwide constituency by proportional representation vote and 38 directly elected in single-seat constituencies by simple majority vote; members serve 5-year terms)<br>
 _elections_: last held on 21 March 2020 (next to be held 1 March 2027)<br>
-_election results_: In parliamentary elections, the Rally of the Guinean People-Rainbow wins 57.5% of the vote (79 of 114 seats), the Democratic Union of Guinea 5.3% (4), the Democratic Popular Movement of Guinea 4.1% (3), and the New Democratic Forces 2.8% (3). Turnout is 58.0%.<br>
+_election results_: In parliamentary elections, the Rally of the Guinean People-Rainbow wins 57.5% of the vote (79 of 114 seats), the Democratic Union of Guinea 5.3% (4), the Democratic Popular Movement of Guinea 4.1% (3), and the New Democratic Forces 2.8% (3). Turnout is 58.0%. The military junta dissolved the legislature in September 2021 after military officers overthrew President Alpha CONDE. Junta leaders intend to create a transitional legislature by appointment. New legislative elections will be held on an unspecified date in the future.<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court or Cour Supreme (organized into Administrative Chamber and Civil, Penal, and Social Chamber; court consists of the first president, 2 chamber presidents,&nbsp;10 councilors, the solicitor general, and NA deputies); Constitutional Court (consists of 9 members)<br>
@@ -370,10 +370,10 @@ _judge selection and term of office_: Supreme Court first president appointed by
 _subordinate courts_: Court of Appeal or Cour d'Appel; High Court of Justice or Cour d'Assises; Court of Account (Court of Auditors); Courts of First Instance (Tribunal de Premiere Instance); labor court; military tribunal; justices of the peace; specialized courts<br>
 
 **Political parties and leaders**<br>
-Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Alpha CONDE]<br>Union for the Progress of Guinea or UPG<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]<br>
+Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development or PEDN [Lansana KOUYATE]<br>Rally for the Guinean People or RPG [Vacant]<br>Union for the Progress of Guinea or UPG<br>Union of Democratic Forces of Guinea or UFDG [Cellou Dalein DIALLO]<br>Union of Republican Forces or UFR [Sidya TOURE]<br>
 <h3>Ruling party</h3>
 <ul>
-<li>Rally of the Guinean People (<em>Rassemblement du Peuple Guinéen, RPG</em>)</li>
+<li>Former ruling party Rally of the Guinean People (<em>Rassemblement du Peuple Guinéen, RPG</em>)</li>
 </ul>
 <h3>Opposition parties</h3>
 <ul>
@@ -387,6 +387,7 @@ Bloc Liberal or BL [Faya MILLIMONO]<br>National Party for Hope and Development o
 <li>Union of Democratic Forces of Guinea ( Union des Forces Démocratiques de Guinée, UFDG ), led by Cellou Dalein Diallo</li>
 <li>Union of Republican Forces (<em>Union des Forces Républicaines</em>, UFR)</li>
 <li>the Party of Democrats for Hope  (" PADES") Led by Dr Ousmane Kaba</li>
+<li>National Alliance for Change and Democracy (ANAD) led by Cellou Dalein Diallo</li>
 </ul><br>
 
 **International organization participation**<br>

@@ -316,14 +316,14 @@ _residency requirement for naturalization_: 10 years<br>
 21 years of age; universal and compulsory<br>
 
 **Executive branch**<br>
-_chief of state_: President HALIMAH Yacob (since 14 September 2017); note - President TAN's term ended on 31 August 2017; HALIMAH is Singapore's first female president; the head of the Council of Presidential Advisors, J.Y. PILLAY, served as acting president until HALIMAH was sworn in as president on 14 September 2017<br>
+_chief of state_: President HALIMAH Yacob (since 14 September 2017)<br>
 _head of government_: Prime Minister LEE Hsien Loong (since 12 August 2004, reelected 10 July 2020); Deputy Prime Ministers HENG Swee Keat (since 1 May 2019) (2019)<br>
-_cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament&nbsp;<br>
+_cabinet_: Cabinet appointed by the president on the advice of the prime minister; Cabinet responsible to Parliament<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a fixed term of 6-years&nbsp;(there are no term limits); election last held on 13 September 2017 (next to be held in 2023); following legislative elections, leader of majority party or majority coalition appointed prime minister by president; deputy prime ministers appointed by the president<br>
 _election results_: HALIMAH Yacob was declared president on 13 September 2017, being the only eligible candidate; Tony TAN Keng Yam elected president in the previous contested election on 27 August 2011; percent of vote - Tony TAN Keng Yam (independent) 35.2% , TAN Cheng Bock (independent) 34.9%, TAN Jee Say (independent) 25%, TAN Kin Lian (independent) 4.9%<br>
 
 **Legislative branch**<br>
-_description_: unicameral Parliament (104 seats;&nbsp;93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to&nbsp;12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members will increase to 12 for the&nbsp;2020 election for the first time (2020)<br>
+_description_: unicameral Parliament (104 seats; 93 members directly elected by popular vote, up to 9 nominated by a parliamentary selection committee and appointed by the president, and up to 12 non-constituency members from opposition parties to ensure political diversity; members serve 5-year terms); note - the number of nominated members increased to 12 for the 2020 election for the first time (2021)<br>
 _elections_: last held on 10 July 2020 (next must be held by 2025)<br>
 _election results_: percent of vote by party - PAP 61.2%, WP 11.2%, PSP 10.2%; seats by party - PAP 83, WP 10, PSP 2; composition - men 79, women 25, percent of women 24%<br>
 
@@ -333,7 +333,7 @@ _judge selection and term of office_: judges appointed by the president from can
 _subordinate courts_: district, magistrates', juvenile, family, community, and coroners' courts; small claims tribunals; employment claims tribunals<br>
 
 **Political parties and leaders**<br>
-National Solidarity Party or NSP [Reno FONG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Tan Cheng Bock]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Abu MOHAMED]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore People's Party or SPP [Steve Chia]<br>Workers' Party or WP [Pritam SINGH] (2020)<br>
+National Solidarity Party or NSP [Spencer NG]<br>People's Action Party or PAP [LEE Hsien Loong]<br>People's Power Party or (PPP) [Goh Meng SENG]<br>People's Voice or PV [Lim TEAN]<br>Progress Singapore Party or PSP [Francis YUENT]<br>Red Dot United or RDU [Ravi PHILEMON]<br>Reform Party or RP [Kenneth JEYARETNAM]<br>Singapore Democratic Alliance or SDA [Abu MOHAMED]<br>Singapore Democratic Party or SDP [Dr. CHEE Soon Juan]<br>Singapore People's Party or SPP [Steve Chia]<br>Workers' Party or WP [Pritam SINGH] (2021)<br>
 
 **International organization participation**<br>
 ADB, AOSIS, APEC, Arctic Council (observer), ARF, ASEAN, BIS, C, CP, EAS, FAO, FATF, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OPCW, Pacific Alliance (observer), PCA, UN, UNCTAD, UNESCO, UNHCR, UPU, WCO, WHO, WIPO, WMO, WTO<br>
@@ -348,7 +348,7 @@ _consulate(s) general_: San Francisco<br>
 _consulate(s)_: New York<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Rafik MANSOUR (since July 2019)<br>
+_chief of mission_: Ambassador Jonathan KAPLAN (since December 2021)<br>
 _embassy_: 27 Napier Road, Singapore 258508<br>
 _mailing address_: 4280 Singapore Place, Washington DC&nbsp; 20521-4280<br>
 _telephone_: [65] 6476-9100<br>
@@ -596,7 +596,7 @@ _total subscriptions_: 8,427,500 (2020)<br>
 _subscriptions per 100 inhabitants_: 144.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; operators proceeded with investment programs, particularly in 5G standalone networks; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers, controls Internet content, and regulators lack independence; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2020)<br>
+_general assessment_: a wealthy city-state, Singapore has a highly developed ICT infrastructure; government supported near universal home broadband penetration and free public access to wireless network; the government's telecommunication regulator, Infocomm Media Development Authority (IMDA), issued awards in mid-2020 to telecom operators with the goal of having at least 50% of the city-state covered with a standalone 5G network by the end of 2022; government actively promoting Smart Nation initiative supporting digital innovation; government oversees service providers and controls Internet content; well served by submarine cable and satellite connections; major importer of integrated circuits and broadcasting equipment from China and exporter of same to SE Asian neighboring countries (2021)<br>
 _domestic_: excellent domestic facilities; fixed-line 33 per 100 and mobile-cellular 156 per 100 teledensity; multiple providers of high-speed Internet connectivity (2019)<br>
 _international_: country code - 65; landing points for INDIGO-West, SeaMeWe -3,-4,-5, SIGMAR, SJC, i2icn,&nbsp;PGASCOM, BSCS,&nbsp;IGG,&nbsp;B3JS, SAEx2, APCN-2, APG, ASC, SEAX-1, ASE, EAC-C2C, Matrix Cable System and SJC2 submarine cables providing links throughout Asia, Southeast Asia, Africa, Australia, the Middle East, and Europe; satellite earth stations - 3, Bukit Timah, Seletar, and Sentosa; supplemented by VSAT coverage (2019 )<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
@@ -608,8 +608,8 @@ state controls broadcast media;&nbsp;6 domestic TV stations operated by MediaCor
 .sg<br>
 
 **Internet users**<br>
-_total_: 5,286,665<br>
-_percent of population_: 88.17% (July 2018 est.)<br>
+_total_: 5.29 million (2021 est.)<br>
+_percent of population_: 92% (2020 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,517,600 (2020)<br>
@@ -656,29 +656,30 @@ _LNG terminal(s) (import)_: Singapore<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Singapore Armed Forces (aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Police Coast Guard (subordinate to the Singapore Police Force) (2021)<br>
+Singapore Armed Forces (aka Singapore Defense Force): Singapore Army, Republic of Singapore Navy, Republic of Singapore Air Force (includes air defense); Police Coast Guard (subordinate to the Singapore Police Force) (2021)<br><br>note - in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore’s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
+note - in 2009, Singapore established a multi-agency national Maritime Security Task Force (MSTF) to work with law enforcement and maritime agencies to guard Singapore&rsquo;s waters, including conducting daily patrols, as well as boarding and escort operations in the Singapore Strait; the MSTF is subordinate to the Singapore Navy<br>
 
 **Military expenditures**<br>
-3.3% of GDP (2020 est.)<br>
+3.2% of GDP (2021 est.)<br>
+3.3% of GDP (2020)<br>
 3.2% of GDP (2019)<br>
 3.1% of GDP (2018)<br>
 3.1% of GDP (2017)<br>
-3.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 60,000 active duty troops (45,000 Army; 7,000 Navy; 8,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; Singapore has the most developed arms industry in Southeast Asia and is also the largest importer of weapons; since 2010, the US is the chief supplier of arms to Singapore, followed by a diverse array of countries, including France, Germany, and Spain (2020)<br>
+the SAF has a diverse and largely modern mix of domestically-produced and imported weapons; Singapore has the most developed arms industry in Southeast Asia and is also the largest importer of weapons; since 2010, the US is the chief supplier of arms to Singapore, followed by a diverse array of countries, including France, Germany, and Spain (2021)<br>
 
 **Military deployments**<br>
-maintains permanent training bases and detachments of military personnel in Australia, France, and the US (2021)<br>
+maintains permanent training detachments of military personnel in Australia, France, and the US (2021)<br>
 
 **Maritime threats**<br>
 the International Maritime Bureau reports the territorial and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargo diverted to ports in East Asia; crews have been murdered or cast adrift; the Singapore Straits saw 23 attacks against commercial vessels in 2020, vessels were boarded in 22 of the 23 incidents, one crew was injured, another taken hostage and two threatened during these incidents<br>
 
 **Military service age and obligation**<br>
-18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2020)<br>
+18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the Singapore Armed Forces were widely viewed as the best equipped in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>

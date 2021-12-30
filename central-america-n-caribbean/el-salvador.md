@@ -691,13 +691,13 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from Chile, Israel, Spain, and the US (2020)<br>
+the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2021)<br>
 
 **Military deployments**<br>
-170 Mali (MINUSMA) (Sep 2021)<br>
+175 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2019)<br>
+18 years of age for selective compulsory military service; 16-22 years of age for voluntary male or female service; service obligation is 12 months, with 11 months for officers and NCOs (2021)<br>
 
 **Military - note**<br>
 <p>the National Civilian Police (Ministry of Justice and Public Security) is responsible for maintaining public security, while the Ministry of Defense is responsible for maintaining national security; the constitution separates public security and military functions, but allows the president to use the armed forces in exceptional circumstances to maintain internal peace and public security; Salvadoran presidents have deployed military troops for internal security duties for years, and President BUKELE has continued the tradition; in November 2019, he signed a decree authorizing military involvement in police duties to combat gang violence, organized crime, and narcotics trafficking, as well as assisting with border security; as of 2021, about half of the Army was reportedly deployed in support of the National Police</p><br>

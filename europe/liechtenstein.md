@@ -301,7 +301,7 @@ _judge selection and term of office_: judges of both courts elected by the Landt
 _subordinate courts_: Court of Appeal or Obergericht (second instance), Court of Justice (first instance), Administrative Court, county courts<br>
 
 **Political parties and leaders**<br>
-Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>The Independents (Die Unabhaengigen) or DU [Harry QUADERER]<br>
+Fatherland Union (Vaterlaendische Union) or VU [Guenther FRITZ]<br>Progressive Citizens' Party (Fortschrittliche Buergerpartei) or FBP [Thomas BANZER]<br>The Free List (Die Freie Liste) or FL [Pepo FRICK and Conny BUECHEL BRUEHWILER]<br>Democrats for Liechtenstein (Demokraten pro Liechtenstein) of DpL [Thomas REHAK]<br>The Independents (Die Unabhaengigen) or DU [Harry QUADERER]<br>
 
 **International organization participation**<br>
 CD, CE, EBRD, EFTA, IAEA, ICCt, ICRM, IFRCS, Interpol, IOC, IPU, ITSO, ITU, ITUC (NGOs), OAS (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UPU, WIPO, WTO<br>
