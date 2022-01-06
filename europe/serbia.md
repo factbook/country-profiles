@@ -702,7 +702,7 @@ note: the Guard is a brigade-sized unit that is directly subordinate to the Serb
 information varies; approximately 25,000 active duty troops (15,000 Land Forces; 5,000 Air/Air Defense; 5,000 other) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, most of its weapons imports have come from Russia (2020)<br>
+the inventory of the Serbian Armed Forces consists of Russian and Soviet-era weapons systems; since 2010, most of its weapons imports have come from Russia (2021)<br>
 
 **Military deployments**<br>
 200 Lebanon (UNIFIL) (Sep 2021)<br>

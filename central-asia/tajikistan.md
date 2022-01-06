@@ -40,10 +40,10 @@ none (landlocked)<br>
 mid-latitude continental, hot summers, mild winters; semiarid to polar in Pamir Mountains<br>
 
 **Terrain**<br>
-mountainous region dominated by the Trans-Alay Range in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofarnihon and Vakhsh Valleys in southwest<br>
+mountainous region dominated by the Alay Mountains in the north and the Pamirs in the southeast; western Fergana Valley in north, Kofirnihon and Vakhsh Valleys in southwest<br>
 
 **Elevation**<br>
-_highest point_: Qullai Ismoili Somoni 7,495 m<br>
+_highest point_: Qullai Somoniyon 7,495 m<br>
 _lowest point_: Syr Darya (Sirdaryo) 300 m<br>
 _mean elevation_: 3,186 m<br>
 

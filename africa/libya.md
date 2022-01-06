@@ -320,7 +320,7 @@ _residency requirement for naturalization_: varies from 3 to 5 years<br>
 _chief of state_: Chairman, Presidential Council, Mohammed Al MENFI (since 5 February 2021)<br>
 _head of government_: Prime Minister Abdul Hamid DBEIBEH (since 5 February 2021)<br>
 _cabinet_: GNA Presidency Council (pending approval by the House of Representatives - as of December 2018)<br>
-_elections/appointments_: <p>election originally scheduled for 24 December 2021, but will likely be postponed by the election commission until a list of candidates is resolved</p><br>
+_elections/appointments_: <p>election originally scheduled for 24 December 2021, has been delayed until late January 2022 due to disagreements among the political factions</p><br>
 _election results_: on 5 February 2021, a UN-led forum elected - in a runoff - Mohammed Al MENFI&nbsp; chairman, Presidential Council and Abdul Hamid DBEIBEH, prime minister<br>
 
 **Legislative branch**<br>

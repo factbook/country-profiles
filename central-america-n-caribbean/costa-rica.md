@@ -344,7 +344,7 @@ _judge selection and term of office_: Supreme Court of Justice judges elected by
 _subordinate courts_: appellate courts; trial courts; first instance and justice of the peace courts; Superior Electoral Tribunal<br>
 
 **Political parties and leaders**<br>
-Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Jorge Julio PATTONI Saenz]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Sergio MENA]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Dragos DOLANESCU Valenciano]<br>Social Christian Unity Party or PUSC [Pedro MUNOZ Fonseca]<br>
+Accessibility Without Exclusion or PASE [Oscar Andres LOPEZ Arias]<br>Broad Front (Frente Amplio) or PFA [Ana Patricia MORA Castellanos]<br>Christian Democratic Alliance or ADC [Mario REDONDO Poveda]<br>Citizen Action Party or PAC [Marta Eugenia SOLANO Arias]<br>Costa Rican Renewal Party or PRC [Justo OROZCO Alvarez]<br>Libertarian Movement Party or ML [Victor Danilo CUBERO Corrales]<br>National Integration Party or PIN [Walter MUNOZ Cespedes]<br>National Liberation Party or PLN [Jorge Julio PATTONI Saenz]<br>National Restoration Party or PRN [Carlos Luis AVENDANO Calvo]<br>New Generation or PNG [Sergio MENA]<br>Patriotic Alliance [Jorge ARAYA Westover]<br>Social Christian Republican Party or PRS [Otto ROBERTO Vargas]<br>Social Christian Unity Party or PUSC [Randall QUIROS]<br>
 
 **International organization participation**<br>
 BCIE, CACM, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA (observer), MIGA, NAM (observer), OAS, OIF (observer), OPANAL, OPCW, Pacific Alliance (observer), PCA, SICA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
@@ -359,7 +359,7 @@ _consulate(s) general_: Atlanta, Chicago, Houston, Los Angeles, Miami, New York,
 _honorary consulate(s)_: San Juan (Puerto Rico), Saint Paul (MN), Tucson (AZ)<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Gloria BERBENA (since January 2021)<br>
+_chief of mission_: Ambassador (vacant); Charge d'Affaires Marcos MANDOJANA (since August 2021)<br>
 _embassy_: Calle 98 Via 104, Pavas, San Jose<br>
 _mailing address_: 3180 St. George's Place, Washington DC&nbsp; 20521-3180<br>
 _telephone_: [506] 2519-2000<br>

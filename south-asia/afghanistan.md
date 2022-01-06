@@ -357,8 +357,8 @@ _election results_: Ashraf GHANI declared winner by the Independent Election Com
 <strong>note:</strong> Ashraf GHANI left the country on 15 August 2021; on 7 September 2021, Mullah Mohammad HASSAN was announced as the head of an interim government<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
+_description_: bicameral National Assembly (Jirga) consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
+_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held on 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
 _election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
 <strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
 
@@ -615,12 +615,12 @@ _electrification - rural areas_: 98% (2018)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 134,636<br>
+_total subscriptions_: 134,636 (2019)<br>
 _subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 22,580,071<br>
-_subscriptions per 100 inhabitants_: 63.18 (2019 est.)<br>
+_total subscriptions_: 22,580,071 (2019)<br>
+_subscriptions per 100 inhabitants_: 59.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: before the Taliban takeover in August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2019)<br>
@@ -639,8 +639,8 @@ _total_: 8.64 million (2021 est.)<br>
 _percent of population_: 13.5% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 19,683<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 26,570 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 0 (2020 est.)<br>
 
 ## Transportation
 

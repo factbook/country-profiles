@@ -702,10 +702,10 @@ Namibian Defense Force (NDF): Army, Navy, Air Force<br><br>Ministry of Safety an
 3.9% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2020)<br>
+information varies; approximately 12,500 personnel (11,000 Army; 1,000 Navy; 500 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China is the leading supplier of weapons to Namibia since 2010 (2020)<br>
+the inventory of the Namibian Defense Force consists mostly of Soviet-era equipment; China is the leading supplier of weapons to Namibia since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
 18-25 years of age for voluntary military service; no conscription (2021)<br>

@@ -325,12 +325,12 @@ _residency requirement for naturalization_: unknown<br>
 16 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: President Miguel DIAZ-CANEL Bermudez (since 10 October 2019); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019); note - the president is both chief of state and head of government<br>
-_head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Roberto MORALES Ojeda, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019)<br>
-_cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly; it is subordinate to the 21-member Council of State, which is elected by the Assembly to act on its behalf when it is not in session<br>
-_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held in 2024)<br>
+_chief of state_: President Miguel DIAZ-CANEL Bermudez (since 19 April 2018); Vice President Salvador Antonio VALDES Mesa (since 10 October 2019)<br>
+_head of government_: Prime Minister Manuel MARRERO Cruz (since 21 December 2019); Deputy Prime Ministers Ramiro VALDES Menendez, Ines Maria CHAPMAN Waugh, Jorge Luis TAPIA Fonseca, Alejandro GIL Fernandez, Ricardo CABRISAS Ruiz (since 21 December 2019), and Jorge Luis PERDOMO DI-LELLA (since 20 April 2021)<br>
+_cabinet_: Council of Ministers proposed by the president and appointed by the National Assembly<br>
+_elections/appointments_: president and vice president indirectly elected by the National Assembly for a 5-year term (may be reelected for another 5-year term); election last held on 10 October 2019 (next to be held NA)<br>
 _election results_: Miguel DIAZ-CANEL Bermudez (PCC) elected president; percent of National Assembly vote - 98.8%; Salvador Antonio VALDES Mesa (PCC) elected vice president; percent of National Assembly vote - 98.1%<br>
-<em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Council of State; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Council of State<br>
+<em>note</em> - on 19 April 2018, DIAZ-CANEL succeeded Raul CASTRO as president of the Councils of State and Ministers; on 10 October 2019 he was elected to the newly created position of President of the Republic, which replaced the position of President of the Councils of State and Ministers<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly of People's Power or Asamblea Nacional del Poder Popular (605 seats; (586 seats filled in 2021); members directly elected by absolute majority vote; members serve 5-year terms); note 1 - the National Candidature Commission submits a slate of approved candidates; to be elected, candidates must receive more than 50% of valid votes otherwise the seat remains vacant or the Council of State can declare another election; note 2 - in July 2019, the National Assembly passed a law which reduces the number of members from 605 to 474, effective with the 2023 general election<br>
@@ -343,7 +343,7 @@ _judge selection and term of office_: professional judges elected by the Nationa
 _subordinate courts_: People's Provincial Courts; People's Regional Courts; People's Courts<br>
 
 **Political parties and leaders**<br>
-Cuban Communist Party or PCC [Raul CASTRO Ruz]<br>
+Cuban Communist Party or PCC [Miguel DIAZ-CANEL Bermudez]<br>
 
 **International organization participation**<br>
 ACP, ALBA, AOSIS, CELAC, EAEU (observer), FAO, G-77, IAEA, ICAO, ICC (national committees), ICRM, IFAD, IFRCS, IHO, ILO, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, LAES, LAIA, NAM, OAS (excluded from formal participation since 1962), OPANAL, OPCW, PCA, Petrocaribe, PIF (partner), UN, UNCTAD, UNESCO, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>

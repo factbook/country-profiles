@@ -657,13 +657,13 @@ Umbutfo Eswatini Defense Force (UEDF): Army (includes a small air wing) (2021)<b
 2% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Umbutfo Eswatini Defense Force has approximately 3,000 active personnel (2020)<br>
+the Umbutfo Eswatini Defense Force has approximately 3,000 active personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the UEDF is lightly armed with mostly South African material; it has received minimal amounts of secondhand equipment since 2010&nbsp; (2021)<br>
+the UEDF is lightly armed with mostly South African material; it has received minimal amounts of secondhand equipment since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-18-30 years of age for male and female voluntary military service; no conscription; compulsory HIV testing required, only HIV-negative applicants accepted (2019)<br>
+18-30 years of age for male and female voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the UEDF was originally created in 1973 as the Royal Swaziland Defense Force; as of 2021, the UEDF’s primary mission was external security but it also had domestic security responsibilities, including protecting members of the royal family; the king is the UEDF commander in chief and holds the position of minister of defense, although the UEDF reports to the Army commander and principal undersecretary of defense for day-to-day operations; the Royal Eswatini Police Service (REPS) is responsible for maintaining internal security as well as migration and border crossing enforcement; it is under the prime minister, although the king is the force’s titular commissioner in chief</p> <p> </p><br>

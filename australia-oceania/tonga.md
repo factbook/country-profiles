@@ -318,14 +318,14 @@ _residency requirement for naturalization_: 5 years<br>
 
 **Executive branch**<br>
 _chief of state_: King TUPOU VI (since 18 March 2012); Heir Apparent Crown Prince Siaosi Manumataogo 'Alaivahamama'o 'Ahoeitu Konstantin Tuku'aho, son of the king (born 17 September 1985); note - on 18 March 2012, King George TUPOU V died and his brother, Crown Prince TUPOUTO'A Lavaka, assumed the throne as TUPOU VI<br>
-_head of government_: Prime Minister-Designate Siaosi SOVALENI (since 15 November 2021)<br>
+_head of government_: Prime Minister Siaosi SOVALENI (since 27 December 2021)<br>
 _cabinet_: Cabinet nominated by the prime minister and appointed by the monarch<br>
 _elections/appointments_: the monarchy is hereditary; prime minister and deputy prime minister indirectly elected by the Legislative Assembly and appointed by the monarch; election last held on 15 November 2021 (next to be held in in November 2025)<br>
-_election results_: Siaosi SOVALENI elected prime minister-designate by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
+_election results_: Siaosi SOVALENI elected prime minister by the Legislative Assembly; Siaosi SOVALENI 16 votes, Aisake EKE 10<br>
 <strong>note:</strong> a Privy Council advises the monarch<br>
 
 **Legislative branch**<br>
-_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; - 26 for the 2021-25 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
+_description_: unicameral Legislative Assembly or Fale Alea (up to 30 seats; 26 for the 2021-25 term); 17 people's representatives directly elected in single-seat constituencies by simple majority vote, and 9 indirectly elected by hereditary leaders; members serve 4-year terms)<br>
 _elections_: last held on 18 November 2021 (next to be held in November 2025)<br>
 _election results_: percent of vote - NA; seats by party (elected members) - Democratic Party of the Friendly Islands 3, Tonga People's Party 1, independent 13; composition (elected members) - men 17, women 0, percent of women 0%<br>
 

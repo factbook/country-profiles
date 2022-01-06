@@ -324,7 +324,7 @@ _judge selection and term of office_: Court of Appeal president and justices app
 _subordinate courts_: Magistrates' Courts; Family Court<br>
 
 **Political parties and leaders**<br>
-Belize Progressive Party or BPP [Patrick ROGERS] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [Johnny BRICENO]<br>United Democratic Party or UDP [Dean Oliver BARROW]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
+Belize Progressive Party or BPP [Wil MAHEIA] (formed in 2015 from a merger of the People's National Party, elements of the Vision Inspired by the People, and other smaller political groups)<br>People's United Party or PUP [Juan Antonio BRICENO]<br>United Democratic Party or UDP [Patrick FABER]<br>Vision Inspired by the People or VIP [Hubert ENRIQUEZ]<br>
 
 **International organization participation**<br>
 ACP, AOSIS, C, Caricom, CD, CDB, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, ITU, LAES, MIGA, NAM, OAS, OPANAL, OPCW, PCA, Petrocaribe, SICA, UN, UNCTAD, UNESCO, UNIDO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

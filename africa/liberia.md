@@ -669,16 +669,16 @@ note(s) - the AFL Air Wing was previously disbanded in 2005 and has been under d
 0.4% of GDP (2016 est.)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2020)<br>
+the Armed Forces of Liberia (AFL) have approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US&nbsp; (2020)<br>
+the AFL is poorly armed; it has received limited quantities of equipment since 2010, including donations, from countries such as China and the US (2021)<br>
 
 **Military deployments**<br>
-150 Mali (MINUSMA) (Sep 2021)<br>
+150 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; no conscription (2019)<br>
+18 years of age for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the first militia unit established for defense of the colony was raised in 1832; the Armed Forces of Liberia (AFL) traces its origins to the 1908 establishment of the Liberia Frontier Force, which became the Liberian National Guard in 1965; the AFL was established in 1970; at the end of the second civil war in 2003, military and police forces were disbanded and approximately 100,000 military, police, and rebel combatants were disarmed; the AFL began to rebuild in 2003 with US assistance and the first infantry battalion of the restructured AFL was re-activated in late 2007; a second battalion was added in 2008</p> <p>the UN Mission in Liberia (UNMIL) was established in 2003 as a peacekeeping force; at its height, UNMIL was comprised of about 15,000 personnel, including more than 3,000 troops absorbed from the Economic Community of West African States (ECOWAS) peacekeeping mission; Liberian forces reassumed full control of the country’s security in June of 2016, and the UNMIL mission was ended in 2018</p> <p>as of 2021, the AFL was comprised mostly of a small ground force consisting of 2 infantry battalions, while the Coast Guard had only a few small patrol boats; the AFL had no aircraft</p><br>

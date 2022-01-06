@@ -714,10 +714,10 @@ Angolan Armed Forces (Forcas Armadas Angolanas, FAA): Army, Navy (Marinha de Gue
 the Angolan Armed Forces (FAA) are comprised of approximately 107,000 active troops (100,000 Army; 1,000 Navy; 6,000 Air Force); est. 10,000 Rapid Reaction Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has remained the principle supplier of military hardware to Angola (2020)<br>
+most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pact origin; since 2010, Russia has remained the principle supplier of military hardware to Angola (2021)<br>
 
 **Military service age and obligation**<br>
-20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2019)<br>
+20-45 years of age for compulsory male and 18-45 years for voluntary male military service (registration at age 18 is mandatory); 20-45 years of age for voluntary female service; 2-year conscript service obligation; Angolan citizenship required; the Navy (MGA) is entirely staffed with volunteers (2021)<br>
 
 **Military - note**<br>
 <p>the Angolan Armed Forces were created in 1991 under the Bicesse Accords signed between the Angolan Government and the National Union for the Total Independence of Angola (UNITA); the name remained even after UNITA rejected the 1992 election results and returned to fighting against the Angolan Government</p> <p>the Angolan Armed Forces are responsible for external security but also have domestic security responsibilities, including border security, expulsion of irregular migrants, and small-scale actions against groups like the Front for the Liberation of the Enclave of Cabinda separatists in Cabinda</p><br>

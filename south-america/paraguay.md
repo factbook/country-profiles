@@ -322,7 +322,7 @@ Independence Day, 14-15 May (1811) (observed 15 May); 14 May is celebrated as Fl
 
 **Constitution**<br>
 _history_: several previous; latest approved and promulgated 20 June 1992<br>
-_amendments_: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires absolute majority vote by both chambers and approval in a referendum; amended 2011<br>
+_amendments_: proposed at the initiative of at least one quarter of either chamber of the National Congress, by the president of the republic, or by petition of at least 30,000 voters; passage requires a two-thirds majority vote by both chambers and approval in a referendum; amended 2011<br>
 
 **Legal system**<br>
 civil law system with influences from Argentine, Spanish, Roman, and French civil law models; judicial review of legislative acts in Supreme Court of Justice<br>
@@ -344,7 +344,7 @@ _chief of state_: President Mario Abdo BENITEZ (since 15 August 2018); Vice Pres
 _head of government_: President Mario Abdo BENITEZ (since 15 August 2018); Vice President Hugo Adalberto VELAZQUEZ Moreno (since 15 August 2018)<br>
 _cabinet_: Council of Ministers appointed by the president<br>
 _elections/appointments_: president and vice president directly elected on the same ballot by simple majority popular vote for a single 5-year term; election last held on 22 April 2018 (next to be held in April 2023)<br>
-_election results_: <br><em>2018:</em> Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 46.4%, Efrain ALEGRE (PLRA) 42.7%, Juan Bautista YBANEZ 3.3%, other 7.6%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
+_election results_: <br><em>2018:</em> Mario Abdo BENITEZ elected president; percent of vote - Mario Abdo BENITEZ (ANR) 49%, Efrain ALEGRE (PLRA) 45.1%, Juan Bautista YBANEZ 3.4%, other 2.5%<br><br><em>2013:</em> Horacio CARTES elected president; percent of vote - Horacio CARTES (ANR) 48.5%, Efrain ALEGRE (PLRA) 39%, Mario FERREIRO (AP) 6.2%, Anibal CARRILLO (FG) 3.5%, other 2.8%<br>
 
 **Legislative branch**<br>
 _description_: bicameral National Congress or Congreso Nacional consists of:<br>Chamber of Senators or Camara de Senadores (45 seats; members directly elected in a single nationwide constituency by closed-list proportional representation vote to serve 5-year terms)<br>Chamber of Deputies or Camara de Diputados (80 seats; members directly elected in 18 multi-seat constituencies - corresponding to the country's 17 departments and capital city - by closed-list proportional representation vote to serve 5-year terms)<br>
@@ -357,7 +357,7 @@ _judge selection and term of office_: justices proposed by the Council of Magist
 _subordinate courts_: appellate courts; first instance courts; minor courts, including justices of the peace<br>
 
 **Political parties and leaders**<br>
-Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Esperanza MARTINEZ]<br>Ganar Alliance (alliance between PLRA and Guasu Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Hermann RATZLAFFIN Klippemstein]<br>Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
+Asociacion Nacional Republicana - Colorado Party or ANR [Pedro ALLIANA]<br>Avanza Pais coalition or AP [Adolfo FERREIRO]<br>Broad Front coalition (Frente Guasu) or FG [Carlos FILIZZOLA]<br>Ganar Alliance (alliance between PLRA and Guasu Front)<br>Movimiento Cruzada Nacional or MCN<br>Movimiento Hagamos or MH [Antonio "Tony" APURIL]<br>Movimiento Union Nacional de Ciudadanos Eticos or UNACE [Jorge OVIEDO MATTO]<br>Partido del Movimiento al Socialismo or P-MAS [Camilo Ernesto SOARES Machado]<br>Partido Democratica Progresista or PDP [Rafael FILIZZOLA]<br>Partido Encuentro Nacional or PEN [Fernando CAMACHO]<br>Partido Liberal Radical Autentico or PLRA [Efrain ALEGRE]<br>Partido Pais Solidario or PPS [Carlos Alberto FILIZZOLA Pallares]<br>Partido Popular Tekojoja or PPT [Sixto PEREIRA Galeano]<br>Patria Querida (Beloved Fatherland Party) or PPQ [Miguel CARRIZOSA]<br>
 
 **International organization participation**<br>
 CAN (associate), CD, CELAC, FAO, G-11, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur, MIGA, MINURSO, MINUSTAH, MONUSCO, NAM (observer), OAS, OPANAL, OPCW, Pacific Alliance (observer), PCA, UN, UNASUR, UNCTAD, UNESCO, UNFICYP, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>

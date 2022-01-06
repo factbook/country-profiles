@@ -631,7 +631,7 @@ _major seaport(s)_: Bissau, Buba, Cacheu, Farim<br>
 ## Military and Security
 
 **Military and security forces**<br>
-People's Revolutionary Armed Force (FARP): Army, Navy, Air Force; Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2021)<br>
+People's Revolutionary Armed Force (FARP): Army, Navy, Air Force<br><br>Ministry of Internal Administration: Guard Nacional (a gendarmerie force), Public Order Police, Border Police, Rapid Intervention Police, Maritime Police (2021)<br>
 note - the Public Order Police is responsible for maintaining law and order, while the Judicial Police, under the Ministry of Justice, has primary responsibility for investigating drug trafficking, terrorism, and other transnational crimes<br>
 
 **Military expenditures**<br>
@@ -642,13 +642,13 @@ note - the Public Order Police is responsible for maintaining law and order, whi
 1.3% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the People's Revolutionary Armed Force (FARP) has approximately 4,000 total active troops, including about 300 Navy and 100 Air Force (2020)<br>
+the People's Revolutionary Armed Force (FARP) has approximately 4,000 total active troops, including a few hundred air and naval personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment to&nbsp; since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2020)<br>
+the FARP is poorly armed with an inventory consisting of Soviet-era equipment, much of which is reportedly unserviceable; the only reported deliveries of military equipment since 2015 were patrol boats from Spain in 2017 and non-lethal equipment from China in 2015; Guinea-Bissau has also discussed acquiring military equipment with Indonesia (2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2019)<br>
+18-25 years of age for selective compulsory military service (Air Force service is voluntary); 16 years of age or younger, with parental consent, for voluntary service (2021)<br>
 
 **Military - note**<br>
 <p>from 2012-2020, the Economic Community of West Africa (ECOWAS) deployed a security force to Guinea-Bissau to manage the post-coup transition, including protecting key political figures and public buildings, restoring civil institutions, and re-establishing the rule of law; at the height of the deployment, the force, known as the ECOWAS Mission in Guinea-Bissau (ECOMIB), deployed nearly 700 military and police personnel from Burkina Faso, Nigeria, and Senegal</p><br>

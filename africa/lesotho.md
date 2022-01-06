@@ -667,13 +667,13 @@ note - the Lesotho Mounted Police Service is responsible for internal security a
 1.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2020)<br>
+the Lesotho Defense Force (LDF) has approximately 2,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the LDF has a small inventory of older equipment from a variety of countries; since 2007, it has received only very small quantities of second hand equipment (2020)<br>
+the LDF has a small inventory of older equipment from a variety of countries; since 2007, it has received only&nbsp; small quantities of second hand equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2019)<br>
+18-24 years of age for voluntary military service; no conscription; women can serve as commissioned officers (2021)<br>
 
 **Military - note**<br>
 Lesotho's declared policy for its military is the maintenance of the country's sovereignty and the preservation of internal security; in practice, external security is guaranteed by South Africa<br>

@@ -340,7 +340,7 @@ _election results_: Ilir META elected president; Assembly vote - 87 - 2 in fourt
 **Legislative branch**<br>
 _description_: unicameral Assembly or Kuvendi (140 seats; members directly elected in multi-seat constituencies by proportional representation vote to serve 4-year terms)<br>
 _elections_: last held on 25 April 2021 (next to be held in 2025)<br>
-_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition -men 93, women 47, percent of women 33.6%%<br>
+_election results_: percent of vote by party/coalition - PS 48.7%, PD-Alliance for Change 39.4%, LSI 6.8%, PSD 2.3%, other 2.8%; seats by party/coalition - PS 74, PD-Alliance for Change 59, LSI 4, PSD 3; composition - men 93, women 47, percent of women 33.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of 19 judges, including the chief justice); Constitutional Court (consists of 9 judges, including the chairman)<br>
@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 91 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Albania&rsquo;s small telecom market has improved through signatory status of EU accession plan; EU financial aid will build infrastructure and enhance cooperation; operator committed &euro;100 million to upgrade fixed-line infrastructure, supporting broadband services nationally; consistent with the region, fixed-line telephony use and penetration is declining as subscribers prefer mobile solutions; mobile sector is supported through LTE networks; operators have invested in 5G, including the intention to create a corridor with Kosovo; importer of broadcasting equipment from EU neighbors (2021)<br>
-_domestic_: fixed-line 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
+_domestic_: fixed-line approximately 8 per 100, teledensity continues to decline due to heavy use of mobile-cellular telephone services; mobile-cellular telephone use is widespread and generally effective, 91 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 355; submarine cables&nbsp;for the Adria 1 and Italy-Albania provide connectivity to Italy, Croatia, and Greece; a combination submarine cable and land fiber-optic system, provides additional connectivity to Bulgaria, Macedonia, and Turkey; international traffic carried by fiber-optic cable and, when necessary, by microwave radio relay from the Tirana exchange to Italy and Greece (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

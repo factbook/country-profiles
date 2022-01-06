@@ -669,7 +669,8 @@ _LNG terminal(s) (import)_: Incheon, Kwangyang, Pyeongtaek, Samcheok, Tongyeong,
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard (2021)<br>
+Armed Forces of the Republic of Korea: Republic of Korea Army (ROKA), Navy (ROKN, includes Marine Corps, ROKMC), Air Force (ROKAF); Military reserves include Mobilization Reserve Forces (First Combat Forces) and Homeland Defense Forces (Regional Combat Forces); Ministry of Maritime Affairs and Fisheries: Korea Coast Guard (2022)<br>
+note - in January 2022, the South Korean military announced the formation of a space branch<br>
 
 **Military expenditures**<br>
 2.64% of GDP (2021 est.)<br>

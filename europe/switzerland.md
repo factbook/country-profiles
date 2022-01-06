@@ -333,16 +333,16 @@ _residency requirement for naturalization_: 12 years including at least 3 of the
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: <p>President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President  Ignazio CASSIS (since 1 January 2021); note - the Federal Council, which is comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president</p><br>
-_head of government_: President of the Swiss Confederation Guy PARMELIN (since 1 January 2021); Vice President Ignazio CASSIS (since 1 January 2021)<br>
+_chief of state_: President of the Swiss Confederation Ignazio CASSIS (since 1 January 2022); Vice President Alain BERSET (since 1 January 2022); note - the Federal Council, comprised of 7 federal councillors, constitutes the federal government of Switzerland; council members rotate the 1-year term of federal president<br>
+_head of government_: President of the Swiss Confederation Ignazio CASSIS (since1 January 2022); Vice President Alain BERSET (since 1 January 2022)<br>
 _cabinet_: Federal Council or Bundesrat (in German), Conseil Federal (in French), Consiglio Federale (in Italian) indirectly elected by the Federal Assembly for a 4-year term<br>
-_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 9 December 2020 (next to be held in December 2021)<br>
-_election results_: Guy PARMELIN elected president; Federal Assembly vote - 192 of 205; Ignazio CASSIS elected vice president; Federal Assembly vote - 162 of 199<br>
+_elections/appointments_: president and vice president elected by the Federal Assembly from among members of the Federal Council for a 1-year, non-consecutive term; election last held on 8 December 2021 (next to be held in December 2022)<br>
+_election results_: Ignazio CASSIS elected president (FDP.The Liberals); Federal Assembly vote - 156 of 197 votes; Alain BERSET (SP) elected vice president; Federal Assembly vote - 158 of 204<br>
 
 **Legislative branch**<br>
 _description_: description: bicameral Federal Assembly or Bundesversammlung (in German), Assemblée Fédérale (in French), Assemblea Federale (in Italian) consists of:<br>Council of States or Ständerat (in German), Conseil des États (in French), Consiglio degli Stati (in Italian) (46 seats; members in multi-seat constituencies representing cantons and single-seat constituencies representing half cantons directly elected by simple majority vote except Jura and Neuchatel cantons which use list proportional representation vote; member term governed by cantonal law)<br>National Council or Nationalrat (in German), Conseil National (in French), Consiglio Nazionale (in Italian) (200 seats; 195 members in cantons directly elected by proportional representation vote and 6 in half cantons directly elected by simple majority vote; members serve 4-year terms) (e.g. 2019)<br>
 _elections_: <br>Council of States - last held in most cantons on 20 October 2019 (each canton determines when the next election will be held)<br>National Council - last held on 20 October 2019 (next to be held on 31 October 2023) (e.g. 2019)<br>
-_election results_: <br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition (as of October 2021) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition (as of October 2021) - men 116, women 84, percent of women 42%; note - overall Federal Assembly percent of women 39% (e.g. 2019)<br>
+_election results_: <br>Council of States - percent of vote by party - NA; seats by party - CVP 13, FDP 12, SDP 9, Green Party 5, other 1; composition (as of October 2021) - men 34, women 12, percent of women 26.1% <br>National Council - percent of vote by party - SVP 25.6%, SP 16.8%, FDP 15.1%, Green Party 13.2%, CVP 11.4%, GLP 7.8%, other 10.1%; seats by party - SVP 53, SP 39, FDP 29, Green Party 28, CVP 25, GLP 16, other 10; composition (as of October 2021) - men 115, women 85, percent of women 42.5%; note - overall Federal Assembly percent of women 39.4% (e.g. 2019)<br>
 
 **Judicial branch**<br>
 _highest courts_: Federal Supreme Court (consists of 38 justices and 19 deputy justices organized into 7 divisions)<br>
@@ -690,7 +690,7 @@ _river port(s)_: Basel (Rhine)<br>
 Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br>
 
 **Military expenditures**<br>
-0.8% of GDP (2020 est.)<br>
+0.8% of GDP (2020)<br>
 0.7% of GDP (2019)<br>
 0.7% of GDP (2018)<br>
 0.7% of GDP (2017)<br>
@@ -700,7 +700,7 @@ Swiss Armed Forces: Land Forces, Swiss Air Force (Schweizer Luftwaffe) (2021)<br
 the Swiss Armed Forces maintain a full-time professional cadre of about 4,000 personnel along with approximately 20,000 conscripts brought in annually for 18-23 weeks of training; approximately 120,000 reserve forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US is the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2020)<br>
+the Swiss Armed Forces inventory includes a mix of domestically-produced and imported weapons systems; the US is the leading supplier of military armaments to Switzerland since 2010; the Swiss defense industry produces a range of military land vehicles (2021)<br>
 
 **Military deployments**<br>
 165 Kosovo (NATO/KFOR) (2021)<br>

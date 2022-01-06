@@ -429,6 +429,9 @@ _international_: country code - 1-264; landing points for the&nbsp;SSCS, ECFS, G
 _total_: 12,300 (2021 est.)<br>
 _percent of population_: 81.57% (2019 est.)<br>
 
+**Broadband - fixed subscriptions**<br>
+_subscriptions per 100 inhabitants_: 35.02 (2019)<br>
+
 ## Transportation
 
 **National air transport system**<br>

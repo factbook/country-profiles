@@ -692,7 +692,7 @@ British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
 note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
-2.32% of GDP (2020 est.)<br>
+2.3% of GDP (2020)<br>
 2.1% of GDP (2019)<br>
 2.11% of GDP (2018)<br>
 2.09% of GDP (2017)<br>
@@ -703,10 +703,10 @@ the British military has approximately 194,000 total active troops (120,500 Army
 note(s) - the total includes 149,000 Regular Forces and approximately 37,000 Volunteer Reserves (30,000 Army; 4,000 Navy; 3000 Air Force) and some 8,000 "Other Personnel" (4,500 Army; 2,500 Navy; 1,000 Air Force)<br><br>Volunteer Reserves voluntarily accept an annual training commitment and are liable to be mobilized to deploy on operations; they can be utilized on a part-time or full-time basis to provide support to the Regular Forces at home and overseas; "Other Personnel" include the Serving Regular Reserve, Sponsored Reserve, Military Provost Guard Service, Locally Engaged Personnel, and elements of the UK Full-time Reserve Service<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2020)<br>
+the inventory of the British military is comprised of a mix of domestically-produced and imported Western weapons systems; the US is the leading supplier of armaments to the UK since 2010; the UK defense industry is capable of producing a wide variety of air, land, and sea weapons systems and is one of the world's top weapons suppliers (2021)<br>
 
 **Military deployments**<br>
-approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,200 Cyprus; 250 Cyprus (UNFICYP); 830 Estonia (NATO); approx. 1,200 Falkland Islands; est. 200 Germany (note - previously about 2,500, but the UK withdrew all but 200 troops by the end of 2020); 570 Gibraltar; approx. 1,400 Middle East (coalition against ISIS; NATO); up to 350 Kenya (BATUK); approx. 400 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2021)<br>
+approximately 1,000 Brunei; approximately 400 Canada (BATUS); approximately 2,200 Cyprus; 250 Cyprus (UNFICYP); 830 Estonia (NATO); approx. 1,200 Falkland Islands; est. 200 Germany (note - previously about 2,500, but the UK withdrew all but 200 troops by 2021); 570 Gibraltar; approx. 1,400 Middle East (coalition against ISIS; NATO); up to 350 Kenya (BATUK); approximately 400 Mali (EUTM, MINUSMA, and Operation Barkhane); 150 Poland (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
 slight variations by service, but generally 16-36 years of age for enlisted (with parental consent under 18) and 18-29 for officers; minimum length of service 4 years; women serve in military services including ground combat roles; conscription abolished in 1963 (2021)<br>

@@ -678,16 +678,16 @@ National Defense Forces (Forces de Defense Nationale, FDN): Army (includes marit
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the National Defense Forces (FDN) have approximately 25,000 active duty troops, the majority of which are ground forces (2020)<br>
+the National Defense Forces (FDN) have approximately 25,000 active duty troops, the majority of which are ground forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2020)<br>
+the FDN is armed mostly with weapons from Russia and the former Soviet Union, with some Western equipment, largely from France; since 2010, the FDN has received small amounts of mostly second-hand equipment from China, South Africa, and the US (2021)<br>
 
 **Military deployments**<br>
-750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Feb 2021)<br>
+750 Central African Republic (MINUSCA); 5,400 Somalia (AMISOM) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2019)<br>
+18 years of age for voluntary military service; the armed forces law of 31 December 2004 did not specify a minimum age for enlistment, but the government claimed that no one younger than 18 was being recruited (2021)<br>
 
 **Military - note**<br>
 in addition to its foreign deployments, the FDN as of 2021 was focused on internal security missions, particularly against rebel groups opposed to the regime such as National Forces of Liberation (FNL), the Resistance for the Rule of Law-Tabara (aka RED Tabara), and Popular Forces of Burundi (FPB or FOREBU); these groups were based in the neighboring Democratic Republic of Congo and have carried out sporadic attacks in Burundi<br>

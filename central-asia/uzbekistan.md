@@ -40,10 +40,10 @@ none (doubly landlocked)<br>
 mostly mid-latitude desert, long, hot summers, mild winters; semiarid grassland in east<br>
 
 **Terrain**<br>
-mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zarafshon; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west<br>
+mostly flat-to-rolling sandy desert with dunes; broad, flat intensely irrigated river valleys along course of Amu Darya, Syr Darya (Sirdaryo), and Zaravshan; Fergana Valley in east surrounded by mountainous Tajikistan and Kyrgyzstan; shrinking Aral Sea in west<br>
 
 **Elevation**<br>
-_highest point_: Adelunga Toghi 4,301 m<br>
+_highest point_: Khazret Sultan 4,643 m<br>
 _lowest point_: Sariqamish Kuli -12 m<br>
 
 **Natural resources**<br>

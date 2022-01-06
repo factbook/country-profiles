@@ -337,7 +337,7 @@ _election results_: Ilham ALIYEV reelected president in first round; percent of 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Milli Mejlis (125 seats; members directly elected in single-seat constituencies by simple majority vote to serve 5-year terms)<br>
 _elections_: last held early on 9 February 2020 (next to be held in 2025)<br>
-_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 37, vacant 6; composition - men 98, women 22, percent of women 18.3%<br>
+_election results_: percent of vote by party - NA; seats by party - YAP 69, CSP 3, AVP 1, CUP 1, ADMP 1, PDR 1, Great Order 1, National Front Party 1, REAL 1, VP 1, Whole Azerbaijan Popular Front 1, party unknown 1, independent 41; composition - men 103, women 22, percent of women 17.6%<br>
 
 **Judicial branch**<br>
 _highest courts_: Supreme Court (consists of the chairman, vice chairman, and 23 judges in plenum sessions and organized into civil, economic affairs, criminal, and rights violations chambers); Constitutional Court (consists of 9 judges)<br>

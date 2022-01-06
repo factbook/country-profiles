@@ -363,12 +363,12 @@ _residency requirement for naturalization_: 5 years<br>
 _chief of state_: Transitional President Assimi GOITA (since 7 June 2021)<br><br>note: an August 2020 coup d'etat deposed President Ibrahim Boubacar KEITA; on 21 September 2020, a group of 17 electors chosen by the Malian military junta, known as the National Committee for the Salvation of the People (CNSP) and led by Colonel Assimi GOITA, selected Bah NDAW as transitional president; GOITA served as vice president of the transitional government which was inaugurated on 25 September 2020; Vice President GOITA seized power on 25 May 2021; NDAW resigned on 26 May 2021<br>
 _head of government_: Transitional Prime Minister Choguel MAIGA (appointed by Transitional President Assimi GOITA on 7 June 2021)<br><br>note: former Prime Minister Moctar OUANE was arrested and detained by the military on 24 May 2021 and resigned on 26 May 2021<br>
 _cabinet_: Council of Ministers appointed by the prime minister<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with a runoff on 12 August 2018 (next to be held February 2022); prime minister appointed by the president<br>
+_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 29 July 2018 with runoff on 12 August 2018 (next to be held on 27 February 2022); prime minister appointed by the president<br>
 _election results_: Ibrahim Boubacar KEITA elected president in second round; percent of vote - Ibrahim Boubacar KEITA (RPM) 77.6%, Soumaila CISSE (URD) 22.4%<br>
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly or Assemblee Nationale (147 seats; members directly elected in single and multi-seat constituencies by absolute majority vote in 2 rounds if needed; 13 seats reserved for citizens living abroad; members serve 5-year terms)<br><br>note - the National Assembly was dissolved on 18 August 2020 following a military coup and the resignation of President KEITA<br>
-_elections_: last held on 30 March and 19 April 2020 (prior to the August 2020 coup, the next election was scheduled to be held in 2025)<br>
+_elections_: last held on 30 March and 19 April 2020 (next scheduled for 27 February 2022)<br>
 _election results_: percent of vote by party - NA; seats by party - NA composition - NA<br>
 
 **Judicial branch**<br>

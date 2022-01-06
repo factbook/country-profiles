@@ -711,6 +711,11 @@ the International Maritime Bureau reports the territorial and offshore waters in
 **Military - note**<br>
 <p>the first Togolese Army unit was created in 1963, while the Air Force was established in 1964; the Navy was not established until 1976; since its creation, the Togolese military has a history of interfering in the country’s politics with assassinations, coups, influence, and a large military crackdown in 2005 that killed hundreds; over the past decade, it has made some efforts to reform and professionalize; over the same period, the military has increased its role in UN peacekeeping activities and as of 2021, more than 10% of the Army was deployed on peacekeeping missions; Togolese police have also been deployed on peacekeeping operations, and Togo maintains a regional peacekeeping training center for military and police in Lome; the Navy and Air Force have increasingly focused on combating piracy and smuggling in the Gulf of Guinea</p><br>
 
+## Terrorism
+
+**Terrorist group(s)**<br>
+Jama&rsquo;at Nusrat al Islam wal Muslimeen (JNIM)<br>
+
 ## Transnational Issues
 
 **Disputes - international**<br>

@@ -383,7 +383,7 @@ _embassy_: Avenue David Dacko, Bangui<br>
 _mailing address_: 2060 Bangui Place, Washington DC&nbsp; 20521-2060<br>
 _telephone_: [236] 2161-0200<br>
 _FAX_: [236] 2161-4494<br>
-_email address and website_: <br>https://cf.usembassy.gov/<br>
+_email address and website_: https://cf.usembassy.gov/<br>
 
 **Flag description**<br>
 four equal horizontal bands of blue (top), white, green, and yellow with a vertical red band in center; a yellow five-pointed star to the hoist side of the blue band; banner combines the Pan-African and French flag colors; red symbolizes the blood spilled in the struggle for independence, blue represents the sky and freedom, white peace and dignity, green hope and faith, and yellow tolerance; the star represents aspiration towards a vibrant future<br>
