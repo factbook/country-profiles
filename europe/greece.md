@@ -341,7 +341,7 @@ _subordinate courts_: Courts of Appeal and Courts of First Instance (district co
 Anticapitalist Left Cooperation for the Overthrow or ANTARSYA [collective leadership]<br>Coalition of the Radical Left or SYRIZA [Alexios (Alexis) TSIPRAS]<br>Communist Party of Greece or KKE [Dimitrios KOUTSOUMBAS]<br>Democratic Left or DIMAR [Athanasios (Thanasis) THEOCHAROPOULOS]<br>European Realistic Disobedience Front or MeRA25 [Ioannis (Yanis) VAROUFAKIS]<br>Greek Solution [Kyriakos VELOPOULOS]<br>Independent Greeks or ANEL [Panagiotis (Panos) KAMMENOS]<br>Movement for Change or KINAL [Nikos ANDROULAKIS] <br>New Democracy or ND [Kyriakos MITSOTAKIS]<br>Popular Unity or LAE [Nikolaos CHOUNTIS]<br>Union of Centrists or EK [Vasileios (Vasilis) LEVENTIS]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF, OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alexandra PAPADOPOULOU (since 6 February 2021)<br>
@@ -600,7 +600,7 @@ _subscriptions per 100 inhabitants_: 109.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: telecom market is susceptible to country&rsquo;s volatile economy, but renewed confidence has been renewed through foreign and European Commission investment; increasing urban population with well-developed mobile market; growing adoption of IoT technology; steady development of broadband; investment in LTE and launch of 5G; government project for ultra-fast broadband, largely funded by European Commission with focus on underserved areas (2020)<br>
-_domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; 48 per 100 for fixed-line and 114 per 100 for mobile-cellular (2019)<br>
+_domestic_: microwave radio relay trunk system; extensive open-wire connections; submarine cable to offshore islands; nearly 46 per 100 subscribers for fixed-line and 110 per 100 for mobile-cellular (2020)<br>
 _international_: country code - 30; landing points for the SEA-ME-WE-3, Adria-1, Italy-Greece 1, OTEGLOBE, MedNautilus Submarine System, Aphrodite 2, AAE-1&nbsp;and Silphium optical telecommunications submarine cable that provides links to Europe, the Middle East, Africa, Southeast Asia, Asia and Australia;&nbsp; tropospheric scatter; satellite earth stations - 4 (2 Intelsat - 1 Atlantic Ocean and 1 Indian Ocean, 1 Eutelsat, and 1 Inmarsat - Indian Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -696,7 +696,8 @@ note - in addition to finalizing an update to the Mutual Defense Cooperation Agr
 approximately 1,000 Cyprus; 110 Kosovo (NATO); 150 Lebanon (UNIFIL) (Sep 2021)<br>
 
 **Military service age and obligation**<br>
-19-45 years of age for compulsory military service; during wartime the law allows for recruitment beginning January of the year of inductee's 18th birthday, thus including 17 year olds; 18 years of age for volunteers; conscript service obligation is 1 year for the Army and 9 months for the Air Force and Navy; women are eligible for voluntary military service (2021)<br>
+19-45 years of age for compulsory military service; 12-month obligation for all services (note - as an exception, the duration of the full military service is 9 instead of 12 months if conscripts, after the initial training, serve the entire remaining time in certain areas of the eastern borders, in Cyprus, or in certain military units); 18 years of age for volunteers; women are eligible for voluntary military service (2021)<br>
+note - approximately 40-50% of the Greek military is comprised of conscripts<br>
 
 **Military - note**<br>
 Greece joined NATO in 1952<br>
@@ -715,7 +716,7 @@ Islamic State of Iraq and ash-Sham (ISIS); Revolutionary Struggle<br>
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 36,448 (Syria), 21,456 (Afghanistan), 11,840 (Iraq) (2020)<br>
 _stateless persons_: 5,557 (2020)<br>
-<strong>note:</strong> 1,213,983 estimated refugee and migrant arrivals (January 2015-December 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
+<strong>note:</strong> 1,214,034 estimated refugee and migrant arrivals (January 2015-December 2021); as of the end of December 2020, an estimated 119,700 migrants and refugees were stranded in Greece since 2015-16<br>
 
 **Illicit drugs**<br>
 a gateway to Europe for traffickers smuggling cannabis products and heroin from the Middle East and Southwest Asia to the West and precursor chemicals to the East; some South American cocaine transits or is consumed in Greece; money laundering related to drug trafficking and organized crime<br>

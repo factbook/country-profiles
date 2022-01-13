@@ -528,7 +528,7 @@ _subscriptions per 100 inhabitants_: 103.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: a good, fully automatic digital telephone system with fiber-optic trunk lines; telecom sector provides a relatively high contribution to overall GDP; numerous competitors licensed, but small and localized; telecom sector a growth area across the Caribbean (2020)<br>
-_domestic_: the system has a high fixed-line teledensity 35 per 100, coupled with a mobile-cellular teledensity of roughly 103 per 100 persons (2019)<br>
+_domestic_: the system has a high fixed-line teledensity nearing 35 per 100, coupled with a mobile-cellular teledensity of roughly 103 per 100 persons (2019)<br>
 _international_: country code - 1-441; landing points for the GlobeNet, Gemini Bermuda, CBUS, and the CB-1 submarine cables to the Caribbean, South America and the US; satellite earth stations - 3 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

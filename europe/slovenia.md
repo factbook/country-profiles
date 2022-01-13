@@ -343,7 +343,7 @@ _subordinate courts_: county, district, regional, and high courts; specialized l
 Democratic Party of Pensioners of Slovenia or DeSUS [Aleksandra PIVEC]<br>List of Marjan Sarec or LMS [Marjan SAREC]<br>Modern Center Party or SMC [Miro CERAR]<br>New Slovenia or NSi [Matej TONIN]<br>Party of Alenka Bratusek or Stranka AB [Alenka BRATUSEK] (formerly Alliance of Social Liberal Democrats or ZSD and before that Alliance of Alenka Bratusek or ZaAB)<br>Slovenian Democratic Party or SDS [Janez JANSA]<br>Slovenian National Party or SNS [Zmago JELINCIC Plemeniti]<br>Social Democrats or SD [Dejan ZIDAN]<br>The Left or Levica [Luka MESEC] (successor to United Left or ZL)<br>
 
 **International organization participation**<br>
-Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, CD, CE, CEI, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tone KAJZER (since 23 December 2020)<br>
@@ -699,7 +699,7 @@ Slovenia officially became a member of NATO in 2004<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 10 (2020)<br>
-<strong>note:  </strong>534,113 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:  </strong>534,907 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 minor transit point for cocaine and Southwest Asian heroin bound for Western Europe, and for precursor chemicals<br>

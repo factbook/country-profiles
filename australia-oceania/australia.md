@@ -361,7 +361,7 @@ _subordinate courts_: <em>at the federal level:</em> Federal Court; Federal Magi
 Australian Greens Party [Adam BANDT]<br>Australian Labor Party or ALP [Anthony ALBANESE]<br>Country Liberal Party or CLP [Gary HIGGINS]<br>Liberal National Party of Queensland or LNP [Deborah FRECKLINGTON]<br>Liberal Party of Australia [Scott MORRISON]<br>The Nationals [Michael MCCORMACK]<br>Centre Alliance [Nick XENOPHON] <br>Pauline Hanson’s One Nation [Pauline HANSON]<br>
 
 **International organization participation**<br>
-ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, EITI (implementing country), FAO, FATF, G-20, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NEA, NSG, OECD, OPCW, OSCE (partner), Pacific Alliance (observer), Paris Club, PCA, PIF, SAARC (observer), SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNMISS, UNMIT, UNRWA, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Arthur SINODINOS (since 6 February 2020)<br>
@@ -615,7 +615,7 @@ _subscriptions per 100 inhabitants_: 107.7 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: excellent domestic and international service with comprehensive population coverage through LTE; domestic satellite system; rapid growth of mobile and fixed-wireless broadband services through multi-technology architecture; emphasis on new technologies; diminished fixed-line market due to mobile and mobile broadband; in fixed broadband, shift to fiber networks through infrastructure build out; mobile network operators continue to work towards the launch of 5G; predicted to be one of the top markets driving the growth of 5G and data markets in Asia; fiber backbone to connect with submarine cables; Oman-Australia cable to be completed by end of 2021; two of Australia's major imports are broadcast equipment and computers from China (2020)<br>
-_domestic_: 31 per 100 fixed-line, 111 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2019)<br>
+_domestic_: roughly 24 per 100 fixed-line and 108 per 100 mobile-cellular; more subscribers to mobile services than there are people; 90% of all mobile device sales are now smartphones, growth in mobile traffic brisk (2020)<br>
 _international_: country code - 61; landing points for&nbsp;more than&nbsp;20 submarine cables including: the SeaMeWe-3 optical telecommunications submarine cable with links to Asia, the Middle East, and Europe; the INDIGO-Central, INDIGO West and ASC, North West Cable System, Australia-Papua New Guinea cable, CSCS, PPC-1, Gondwana-1, SCCN, Hawaiki, TGA, Basslink, Bass Strait-1, Bass Strait-2, JGA-S, with links to other Australian cities, New Zealand&nbsp;and many countries in southeast Asia, US and Europe; the H2 Cable, AJC, Telstra Endeavor, Southern Cross NEXT with links to Japan, Hong Kong, and other Pacific Ocean countries as well as the US; satellite earth stations - 10 Intelsat (4 Indian Ocean and 6 Pacific Ocean), 2 Inmarsat, 2 Globalstar, 5 other (2019)<br>
 <strong>note</strong>: the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -698,16 +698,16 @@ Australian Defense Force (ADF): Australian Army (includes Special Operations Com
 
 **Military expenditures**<br>
 2.1% of GDP (2021 est.)<br>
-2.2% of GDP (2020 est.)<br>
+2.2% of GDP (2020)<br>
 1.9% of GDP (2019)<br>
 1.9% of GDP (2018)<br>
 2% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Australian Defense Force has approximately 59,000 total active troops (29,600 Army; 15,000 Navy; 14,400 Air Force) (2020)<br>
+the Australian Defense Force has approximately 59,000 total active troops (29,000 Army; 15,000 Navy; 15,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Australian military's inventory includes a mix of domestically-produced and imported Western (mostly US-origin, particularly aircraft) weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2020)<br>
+the Australian military's inventory includes a mix of domestically-produced and imported Western (mostly US-origin, particularly aircraft) weapons systems; since 2015, the US is the largest supplier of arms; the Australian defense industry produces a variety of land and sea weapons platforms; the defense industry also participates in joint development and production ventures with other Western countries, including the US and Canada (2021)<br>
 
 **Military deployments**<br>
 approximately 700 Middle East (2021)<br>

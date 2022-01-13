@@ -568,15 +568,15 @@ _electrification - rural areas_: 13% (2019)<br>
 
 **Telephones - fixed lines**<br>
 _total subscriptions_: 66,170 (2017)<br>
-_subscriptions per 100 inhabitants_: 1.94 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 1.94 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 695,000 (2017)<br>
-_subscriptions per 100 inhabitants_: 20.36 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: 20.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: least developed telecommunications market in Africa, largely due to restrictions of state-owned telecom monopoly; most fixed-line telephones are in Asmara; cell phone use is limited by government control of SIM card issuance; low penetration of computer use and Internet; market ripe for competition and investment; direct phone service between Eritrea and Ethiopia restored in September 2018; government operator working on roll-out of 3G network (2020)<br>
-_domestic_: fixed-line subscribership is less than 2 per 100 person and mobile-cellular 20 per 100 (2019)<br>
+_domestic_: fixed-line subscribership is less than 2 per 100 persons and mobile-cellular is just over 20 per 100 (2019)<br>
 _international_: country code - 291 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -592,7 +592,7 @@ _percent of population_: 1.31% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 1,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

@@ -368,7 +368,7 @@ _subordinate courts_: high courts; magistrates' courts<br>
 Action Party for Development or PAD [El Hadj Laurent NGON-BABA]<br>Alliance for Democracy and Progress or ADP [Clement BELIBANGA]<br>Central African Democratic Rally or RDC [Desire Nzanga KOLINGBA]<br>Movement for Democracy and Development or MDD [Louis PAPENIAH]<br>Movement for the Liberation of the Central African People or MLPC [Martin ZIGUELE]<br>National Convergence (also known as Kwa Na Kwa) or KNK [Francois BOZIZE]<br>National Union for Democracy and Progress or UNDP [Amine MICHEL]<br>New Alliance for Progress or NAP [Jean-Jacques DEMAFOUTH]<br>Social Democratic Party or PSD [Enoch LAKOUE]<br>Union for Central African Renewal or URCA [Anicet-Georges DOLOGUELE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country) (suspended), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, NAM, OIC (observer), OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Martial NDOUBOU (since 17 September 2018)<br>
@@ -607,7 +607,7 @@ _subscriptions per 100 inhabitants_: 33.62 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: network consists principally of microwave radio relay and at low-capacity; ongoing conflict has&nbsp;obstructed&nbsp;telecommunication and media development,&nbsp;although there are&nbsp;ISP (Internet service providers) and mobile phone carriers,&nbsp;radio is the most-popular communications medium (2018)<br>
-_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached 33 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2019)<br>
+_domestic_: very limited telephone service with less than 1 fixed-line connection per 100 persons; with the presence of multiple providers mobile-cellular service has reached nearly 34 per 100 mobile-cellular subscribers; cellular usage is increasing from a low base; most fixed-line and mobile-cellular telephone services are concentrated in Bangui (2019)<br>
 _international_: country code - 236; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

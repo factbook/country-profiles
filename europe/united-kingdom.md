@@ -65,7 +65,7 @@ _other_: 17.1% (2018 est.)<br>
 950 sq km (2012)<br>
 
 **Population distribution**<br>
-the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scotish lowlands between Endinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
+the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
 
 **Natural hazards**<br>
 winter windstorms; floods<br>
@@ -124,7 +124,7 @@ _female_: 41.7 years (2020 est.)<br>
 2.47 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
-the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scotish lowlands between Endinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
+the core of the population lies in and around London, with significant clusters found in central Britain around Manchester and Liverpool, in the Scottish lowlands between Edinburgh and Glasgow, southern Wales in and around Cardiff, and far eastern Northern Ireland centered on Belfast<br>
 
 **Urbanization**<br>
 _urban population_: 84.2% of total population (2021)<br>
@@ -346,7 +346,7 @@ _subordinate courts_: England and Wales: Court of Appeal (civil and criminal div
 Alliance Party (Northern Ireland) [Naomi LONG] <br>Conservative and Unionist Party [Boris JOHNSON]<br>Democratic Unionist Party or DUP (Northern Ireland) [Jeffrey DONALDSON]<br>Green Party of England and Wales or Greens [Sian BERRY and Jonathan BARTLEY]<br>Labor (Labour) Party [Sir Keir STARMER]<br>Liberal Democrats (Lib Dems) [Ed Davey]<br>Party of Wales (Plaid Cymru) [Adam PRICE]<br>Scottish National Party or SNP [Nicola STURGEON]<br>Sinn Fein (Northern Ireland) [Mary Lou MCDONALD]<br>Social Democratic and Labor Party or SDLP (Northern Ireland) [Colum EASTWOOD]<br>Ulster Unionist Party or UUP (Northern Ireland) [Robin SWANN]<br>UK Independence Party or UKIP [Pat MOUNTAIN, interim leader]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UN Security Council (permanent), UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, BIS, C, CBSS (observer), CD, CDB, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-5, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), SELEC (observer), SICA (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UN Security Council (permanent), UNSOM, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Karen Elizabeth PIERCE (since 8 April 2020)<br>
@@ -692,11 +692,11 @@ British Army, Royal Navy (includes Royal Marines), Royal Air Force (2021)<br>
 note - in 2021 the UK formed a joint service Space Command staffed by Army, Navy, and Air Force personnel, as well as civilians and key members of the commercial sector to manage space operations, training, and capabilities; in 2019, the UK formed the Strategic Command (formerly Joint Forces Command) to develop and manage the British military's medical services, training and education, defense intelligence, and information systems across the land, sea, air, space, and cyber domains; national-level special forces (UK Special Forces, UKSF) also fall under Strategic Command; in addition, the command manages joint overseas operations<br>
 
 **Military expenditures**<br>
+2.5% of GDP (2021 est.)<br>
 2.3% of GDP (2020)<br>
 2.1% of GDP (2019)<br>
 2.11% of GDP (2018)<br>
 2.09% of GDP (2017)<br>
-2.08% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the British military has approximately 194,000 total active troops (120,500 Army, including about 4,000 Gurkhas; 40,500 Navy, including about 7,000 Royal Marines; 38,000 Air Force) (2021)<br>

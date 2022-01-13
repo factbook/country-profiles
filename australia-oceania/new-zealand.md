@@ -344,7 +344,7 @@ _subordinate courts_: Court of Appeal; High Court; tribunals and authorities; di
 ACT New Zealand [David SEYMOUR]<br>Green Party [James SHAW]<br>Mana Movement [Hone HARAWIRA] (formerly Mana Party)<br>Maori Party [Che WILSON and Kaapua SMITH]<br>New Zealand First Party or NZ First [Winston PETERS]<br>New Zealand Labor Party [Jacinda ARDERN]<br>New Zealand National Party [Judith COLLINS]<br>United Future New Zealand [Damian LIGHT]<br>
 
 **International organization participation**<br>
-ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, ANZUS, APEC, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CP, EAS, EBRD, FAO, FATF, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, NSG, OECD, OPCW, Pacific Alliance (observer), Paris Club (associate), PCA, PIF, SICA (observer), Sparteca, SPC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMISS, UNTSO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Rosemary&nbsp;BANKS (since&nbsp;11 January 2019)<br>
@@ -669,7 +669,7 @@ _major seaport(s)_: Auckland, Lyttelton, Manukau Harbor, Marsden Point, Tauranga
 ## Military and Security
 
 **Military and security forces**<br>
-New Zealand Defence Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2021)<br>
+New Zealand Defense Force (NZDF): New Zealand Army, Royal New Zealand Navy, Royal New Zealand Air Force (2021)<br>
 
 **Military expenditures**<br>
 1.5% of GDP (2020)<br>
@@ -682,7 +682,7 @@ New Zealand Defence Force (NZDF): New Zealand Army, Royal New Zealand Navy, Roya
 the New Zealand Defense Force (NZDF) has about 9,600 active duty troops (4,700 Army; 2,300 Navy; 2,600 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-NZDF is equipped mostly with imported weapons and equipment from Western suppliers; Australia, France, and the US are the leading suppliers since 2010 (2020)<br>
+NZDF is equipped mostly with imported weapons and equipment from Western suppliers; Australia, France, and the US are the leading suppliers since 2010 (2021)<br>
 
 **Military deployments**<br>
 up to 220 Antarctica (summer season only) (2021)<br>

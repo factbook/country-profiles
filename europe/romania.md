@@ -354,7 +354,7 @@ _subordinate courts_: Courts of Appeal; regional tribunals; first instance court
 2020 USR-PLUS Alliance [Dan BARNA and Dacian CIOLOS] (dissolved 16 April 2021)<br>Alliance for the Fatherland or APP [Codrin STEFANESCU]<br>Alliance for the Unity of Romanians or AUR [George SIMION and Claudiu TARZIU]<br>Christian-Democratic National Peasants' Party or PNT-CD [Aurelian PAVELESCU]<br>Civic Hungarian Party [Zsolt BIRO]<br>Democratic Union of Hungarians in Romania or UDMR [Hunor KELEMEN]<br>Ecologist Party of Romania or PER [Danut POP]<br>Greater Romania Party or PRM [Victor IOVICI]<br>Green Party [Florin CALINESCU]<br>Liberal Force [Ludovic ORBAN]<br>National Liberal Party or PNL [Florin CITU]<br>Our Romania Alliance [Marian MUNTEANU]<br>Party of Liberty, Unity, and Solidarity or PLUS [Dacian CIOLOS] (dissolved 16 April 2021)<br>Party of the Alliance of Liberals and Democrats or ALDE [Calin POPESCU TARICEANU]<br>Party of the Humanist Power-Social Liberal or PPU-SL [Daniel IONASCU]<br>Party of the Romanian Nation [Ninel PEIA]<br>Popular Movement Party or PMP [Cristian DIACONESCU]<br>PRO Romania [Victor PONTA]<br>Save Romania Union Party or USR [Dacian CIOLOS]<br>Social Democratic Party or PSD [Marcel CIOLACU]<br>United Romania Party or PRU [Robert BUGA]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC, CBSS (observer), CD, CE, CEI, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MONUSCO, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Andrei MURARU (since 15 September 2021)<br>
@@ -690,7 +690,7 @@ _river port(s)_: Braila, Galati (Galatz), Mancanului (Giurgiu), Tulcea (Danube R
 Romanian Armed Forces: Land Forces, Naval Forces, Air Force; Ministry of Internal Affairs: Romanian Gendarmerie (2021)<br>
 
 **Military expenditures**<br>
-2% of GDP (2021 est.)<br>
+2.02% of GDP (2021 est.)<br>
 2.07% of GDP (2020)<br>
 1.84% of GDP (2019)<br>
 1.81% of GDP (2018)<br>

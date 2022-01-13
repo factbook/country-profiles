@@ -717,10 +717,10 @@ the Zambia Defense Force (ZDF) has approximately 16,500 active troops (15,000 Ar
 the ZDF's inventory is largely comprised of Chinese, Russian, and Soviet-era armaments; since 2010, China is the leading supplier of arms to Zambia (2021)<br>
 
 **Military deployments**<br>
-925 Central African Republic (MINUSCA) (Sep 2021)<br>
+925 Central African Republic (MINUSCA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2019)<br>
+18-25 years of age for male and female voluntary military service (16 with parental consent); no conscription; 12-year enlistment period (7 years active, 5 in the Reserves) (2021)<br>
 
 **Military - note**<br>
 <p>the Zambian Defense Force (ZDF) traces its roots to the Northern Rhodesia Regiment, which was raised by the British colonial government to fight in World War II; the ZDF was established in 1964 from units of the dissolved Federation of Rhodesia and Nyasaland armed forces; it participated in a number of regional conflicts during the 1970s and 1980s; Zambia actively supported independence movements such as the Union for the Total Liberation of Angola (UNITA), the Zimbabwe African People's Union (ZAPU), the African National Congress of South Africa (ANC), and the South-West Africa People's Organization (SWAPO)</p><br>

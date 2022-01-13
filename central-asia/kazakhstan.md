@@ -338,9 +338,9 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: &nbsp;President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory&nbsp;<br>
-_head of government_: Prime Minister Askar MAMIN (since 25 February 2019); First Deputy Prime Minister Alikhan SMAILOV (since 25 February 2019); Deputy Prime Ministers Berdibek SAPARBAYEV and Roman SKLYAR (since 18 September 2019)&nbsp;<br>
-_cabinet_: &nbsp;the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment&nbsp;<br>
+_chief of state_: President Kasym-Zhomart TOKAYEV (since 20 March 2019); note - Nursultan NAZARBAYEV, who was president since 24 April 1990 (and in power since 22 June 1989 under the Soviet period), resigned on 20 March 2019; NAZARBAYEV retained the title and powers of "First President"; TOKAYEV completed NAZARBAYEV's term, which was shortened due to the early election of 9 June 2019, and then continued as president following his election victory<br>
+_head of government_: Acting Prime Minister Alikhan SMAILOV (since 5 January 2022); note - Prime Minister Askar MAMIN resigned on 5 January 2022 in the wake of massive protests of his government that began 2 January 2022 following a sudden, steep rise in gasoline prices<br>
+_cabinet_: the president appoints ministers after consultations with the Chair of the Security Council (NAZARBAYEV) who has veto power over all appointments except for the ministers of defense, internal affairs, and foreign affairs; however, the president is required to discuss these three offices with the National Security Committee, which NAZARBAYEV chairs under a lifetime appointment<br>
 _elections/appointments_: president directly elected by simple majority popular vote for a 5-year term (eligible for a second consecutive term); election last held on 9 June 2019 (next to be held in 2024); prime minister and deputy prime ministers appointed by the president, approved by the Mazhilis<br>
 _election results_: Kasym-Zhomart TOKAYEV elected president; percent of vote - Kassym-Jomart TOKAYEV (Nur Otan) 71%, Amirzhan KOSANOV (Ult Tagdyry) 16.2%, Daniya YESPAYEVA (Ak Zhol) 5.1%, other 7.7%<br>
 
@@ -708,7 +708,7 @@ information varies; approximately 40,000 active duty personnel (25,000 Land Forc
 the Kazakh military's inventory is comprised of mostly older Russian and Soviet-era equipment; since 2010, Russia remains by far the leading supplier of weapons systems (2020)<br>
 
 **Military service age and obligation**<br>
-All men 18-27 are required to serve in the military for at least one year. (2021)<br>
+All men 18-27 are required to serve in the military for at least one year (2021)<br>
 
 **Military - note**<br>
 Kazakhstan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

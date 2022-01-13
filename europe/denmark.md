@@ -337,7 +337,7 @@ _subordinate courts_: Special Court of Indictment and Revision; 2 High Courts; M
 The Alternative AP (Franciska ROSENKILDE)<br>Conservative People's Party or DKF or C [Soren PAPE POULSEN]<br>Danish People's Party or DF or O [Kristian THULESEN DAHL]<br>Liberal Alliance or LA or I [Alex VANOPSLAGH]<br>Liberal Party (Venstre) or V [Jakob ELLEMANN-JENSEN]<br>New Right Party or NB or D [Pernille VERMUND]<br>Red-Green Alliance (Unity List) or EL [collective leadership, Mai VILLADSEN, spokesperson]<br>Social Democrats or SDP or A [Mette FREDERIKSEN]<br>Social Liberal Party or SLP or B [Sofie CARSTEN NIELSEN]<br>Socialist People's Party or SF or F [Pia OLSEN DYHR]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council, Australia Group, BIS, CBSS, CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NC, NEA, NIB, NSG, OAS (observer), OECD, OPCW, OSCE, Paris Club, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNRWA, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Lone Dencker WISBORG (since 8 April 2019)<br>
@@ -595,7 +595,7 @@ _subscriptions per 100 inhabitants_: 123.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Denmark has one of the highest broadband penetration rates globally, with near universal availability of superfast connections; progressive regulator encouraged upgrades to cable and DSL infrastructure; fast growing fiber networks with aim for nation-wide build-out; comprehensive LTE with 90% coverage of 5G; operator expands NB-IoT across its LTE network; survey underway for cable connecting Denmark to Norway; upgrades to submarine cable connection to North America; importer of broadcasting equipment from EU neighbors (2020)<br>
-_domestic_: fixed-line 17 per 100, 126 per 100 for mobile-cellular (2019)<br>
+_domestic_: fixed-line roughly 16 per 100 and about 123 per 100 for mobile-cellular subscriptions (2020)<br>
 _international_: country code - 45; landing points for the NSC, COBRAcable, CANTAT-3, DANICE, Havfrue/AEC-2, TAT-14m Denmark-Norway-5 &amp;&nbsp;6, Skagenfiber West &amp;&nbsp;East, GC1,&nbsp;GC2, GC3, GC-KPN, Kattegat 1 &amp;&nbsp;2 &amp;&nbsp;3, Energinet Lyngsa-Laeso,&nbsp;Energinet Laeso-Varberg, Fehmarn Balt, Baltica, German-Denmark 2 &amp; 3, Ronne-Rodvig, Denmark-Sweden 15 &amp; 16 &amp; 17 &amp; 18, IP-Only Denmark-Sweden, Scandinavian&nbsp;South, Scandinavian Ring North, Danica North, 34&nbsp;series of fiber-optic submarine cables link Denmark with Canada, Faroe Islands, Germany, Iceland, Netherlands, Norway, Poland, Russia, Sweden, US and UK; satellite earth stations - 18 (6 Intelsat, 10 Eutelsat, 1 Orion, 1 Inmarsat (Blaavand-Atlantic-East)); note - the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) share the Danish earth station and the Eik, Norway, station for worldwide Inmarsat access (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -672,11 +672,11 @@ Danish Armed Forces (Forsvaret): Royal Danish Army, Royal Danish Navy, Royal Dan
 note - the Danish military maintains a Joint Arctic Command with the mission of protecting the sovereignty of the Kingdom of Denmark in the Arctic Region, including the Faroe Islands and Greenland; it also conducts maritime pollution prevention, environmental monitoring, fishery inspections, search and rescue, hydrographical surveys, and provides support to governmental science missions<br>
 
 **Military expenditures**<br>
+1.41% of GDP (2021 est.)<br>
 1.4% of GDP (2020)<br>
 1.3% of GDP (2019)<br>
 1.28% of GDP (2018)<br>
 1.14% of GDP (2017)<br>
-1.15% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Danish military has approximately 16,000 active duty personnel (8,000 Army; 3,000 Navy; 3,000 Air Force; 2,000 other) (2021)<br>
@@ -689,6 +689,7 @@ the Danish military inventory is comprised of a mix of modern European, US, and 
 
 **Military service age and obligation**<br>
 18 years of age for compulsory and voluntary military service; conscripts serve an initial training period that varies from 4 to 12 months depending on specialization; former conscripts are assigned to mobilization units; women eligible to volunteer for military service; in addition to full time employment, the Danish Military offers reserve contracts in all three branches (2021)<br>
+note - conscientious objectors can choose to instead serve 6 months in a non-military position, for example in Beredskabsstyrelsen (dealing with non-military disasters like fires, flood, pollution, etc.) or overseas foreign aid work<br>
 
 **Military - note**<br>
 Denmark is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>Denmark is a member of the EU, but opted out of the EU’s Common Defense and Security Policy, and therefore does not participate in EU military operations or in the cooperation on development and acquisition of military capabilities within the EU framework</p> <p>the Danish Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009<br><br></p> in 2018, the Defense Ministers of Belgium, Denmark and the Netherlands signed a Memorandum of Understanding (MOU) for the creation of a Composite Special Operations Component Command (C-SOCC); the C-SOCC was declared operational in December 2020<br>

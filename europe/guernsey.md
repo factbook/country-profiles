@@ -369,16 +369,16 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 36,547<br>
-_subscriptions per 100 inhabitants_: 60 (July 2016 est.)<br>
+_total subscriptions_: 33,940 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 54 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 71,249<br>
-_subscriptions per 100 inhabitants_: 113 (July 2016 est.)<br>
+_total subscriptions_: 71,622 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 114 (2018 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: high performance global connections with quality service; connections to major cities around the world to rival and attract future investment and future needs of islanders and businesses (2018)<br>
-_domestic_: fixed-line 60 per 100 and mobile-cellular 113 per 100 persons (2019)<br>
+_domestic_: fixed-line 54 per 100 and mobile-cellular 114 per 100 persons (2020)<br>
 _international_: country code - 44;&nbsp;landing points for Guernsey-Jersey, HUGO, INGRID, Channel Islands -9 Liberty&nbsp;and UK-Channel Islands-7&nbsp;submarine cable to UK and&nbsp;France (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -391,6 +391,10 @@ multiple UK terrestrial TV broadcasts are received via a transmitter in Jersey w
 **Internet users**<br>
 _total_: 54,600 (2021 est.)<br>
 _percent of population_: 83.63% (2019 est.)<br>
+
+**Broadband - fixed subscriptions**<br>
+_total_: 25,336 (2020)<br>
+_subscriptions per 100 inhabitants_: 40.1 (2020)<br>
 
 ## Transportation
 

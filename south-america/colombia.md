@@ -372,7 +372,7 @@ Alternative Democratic Pole or PDA [Jorge Enrique ROBLEDO]<br>Citizens Option (O
 <strong>note:</strong> Colombia has numerous smaller political movements<br>
 
 **International organization participation**<br>
-BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+BCIE, BIS, CAN, Caricom (observer), CD, CDB, CELAC, EITI (candidate country), FAO, G-3, G-24, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAES, LAIA, Mercosur (associate), MIGA, NAM, OAS, OPANAL, OPCW, Pacific Alliance, PCA, PROSUR, UN, UNASUR, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Francisco SANTOS Calderon (since 17 September 2018)<br>
@@ -628,12 +628,12 @@ _total subscriptions_: 7,248,026 (2020)<br>
 _subscriptions per 100 inhabitants_: 14.24 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 67,672,570 (2020)<br>
+_total subscriptions_: 67,672,570 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 133 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Colombia&rsquo;s telecom infrastructure has improved through a government program of competition to upgrade services based on LTE and 5G, focusing on infrastructure in small urban centers and rural areas; national ICT Plan increased broadband and fiber connectivity; operators testing 5G and completed 20k terrestrial cable connecting 80% of the country; benefit due to access to commercial submarine cable (2020)<br>
-_domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is about 132 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2019)<br>
+_domestic_: fixed-line connections stand at about 14 per 100 persons; mobile cellular telephone subscribership is 133 per 100 persons; competition among cellular service providers is resulting in falling local and international calling rates and contributing to the steep decline in the market share of fixed-line services; domestic satellite system with 41 earth stations (2020)<br>
 _international_: country code - 57; landing points for the SAC, Maya-1, SAIT, ACROS, AMX-1, CFX-1, PCCS, Deep Blue Cable, Globe Net, PAN-AM, SAm-1&nbsp;submarine cable systems providing links to the US, parts of the Caribbean, and Central and South America; satellite earth stations - 10 (6 Intelsat, 1 Inmarsat, 3 fully digitalized international switching centers) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

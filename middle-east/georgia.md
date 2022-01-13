@@ -596,7 +596,7 @@ _subscriptions per 100 inhabitants_: 127.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: despite economic challenges, the telecom market is one of Georgia's fastest growth sectors; LTE services cover the majority of citizens; regulators have strategy to introduce 5G; fixed-line telecommunications network has limited coverage outside Tbilisi; multiple mobile-cellular providers provide services to an increasing subscribership throughout the country; broadband subscribers steadily increasing; with investment in infrastructure, customers are moving from copper to fiber networks (2020)<br>
-_domestic_: fixed-line 13 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 135 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2019)<br>
+_domestic_: fixed-line subscriptions over 9 per 100, cellular telephone networks cover the entire country; mobile-cellular teledensity roughly 128 per 100 persons; intercity facilities include a fiber-optic line between T'bilisi and K'ut'aisi (2020)<br>
 _international_: country code - 995; landing points for the Georgia-Russia, Diamond Link Global, and Caucasus Cable System fiber-optic submarine cable that provides connectivity to Russia, Romania and Bulgaria; international service is available by microwave, landline, and satellite through the Moscow switch; international electronic mail and telex service are available (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -676,13 +676,14 @@ Georgian Defense Forces: Land Forces (includes Aviation and Air Defense Forces),
 2.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-information varies; approximately 25,000 troops, including active National Guard forces (2021)<br>
+information varies; approximately 30,000 troops, including active National Guard forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Georgian Defense Forces are equipped mostly with older Russian and Soviet-era weapons; since 2010, it has received limited quantities of equipment from European countries and the US (2021)<br>
 
 **Military service age and obligation**<br>
-conscription abolished in 2016, but reinstated in 2017; 18 to 27 years of age for compulsory and voluntary active duty military service; conscript service obligation is 12 months (2021)<br>
+18-27 years of age for voluntary active duty military service; conscription abolished in 2016, but reinstated in 2017 for men 18 to 27 years of age; conscript service obligation is 12 months (2021)<br>
+note(s) - approximately 6-7,000 individuals are called up annually for conscription for service; approximately 25% enter the Defense Forces, while the remainder serve in the Ministry of Internal Affairs or as prison guards in the Ministry of Corrections<br>
 
 **Military - note**<br>
 as of 2021, Georgia did not have any military stationed in the separatist territories of Abkhazia and South Ossetia, but approximately 7-10,000 Russian troops have been stationed in these regions since the 2008 Russia-Georgia War<br>

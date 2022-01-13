@@ -360,7 +360,7 @@ _subordinate courts_: 5 regional courts of appeal; 19 regional or county courts 
 Christian Democratic People's Party or KDNP [Zsolt SEMJEN]<br>Democratic Coalition or DK [Ferenc GYURCSANY]<br>Dialogue for Hungary (Parbeszed) or PM [Gergely KARACSONY, Timea SZABO]<br>Fidesz-Hungarian Civic Alliance or Fidesz [Viktor ORBAN]<br>Hungarian Socialist Party or MSZP [Bertalan TOTH]<br>Momentum Movement (Momentum Mozgalom) [Andras FEKETE-GYOR]<br>Movement for a Better Hungary or Jobbik [Tamas SNEIDER]<br>National Self-Government of Germans in Hungary or LdU [Olivia SCHUBERT]<br>Politics Can Be Different or LMP [Marta DEMETER, Laszlo LORANT-KERESZTES]<br>Together (Egyutt)<br>
 
 **International organization participation**<br>
-Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA (cooperating state), EU, FAO, G-9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Szabolcs Ferenc TAKACS (since 23 December 2020)<br>
@@ -618,7 +618,7 @@ _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Hungary benefits from a well-developed telecom infrastructure, with adoption of 5G and upgrade of fixed networks to 1Gb/s service; fixed-line subscribership fell as subscribers migrated to mobile for voice and data; effective infrastructure-based competition, with an extensive cable network competing against DSL and expanding fiber sector; high mobile penetration and highest fixed broadband penetration rate in Eastern Europe; government supports private partnership in smart agriculture applications; as part of EU, fully liberalized and open to investment; broadcasting equipment is one of the country&rsquo;s top five imports, plus mobile phones, from China (2020)<br>
-_domestic_: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, 31 per 100 persons, while mobile-cellular is 106 per 100 (2019)<br>
+_domestic_: competition among mobile-cellular service providers has led to a sharp increase in the use of mobile-cellular phones, and a decrease in the number of fixed-line connections, with just under 31 fixed per 100 persons and 107 mobile-cellular subscriptions per 100 (2020)<br>
 _international_: country code - 36; Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 (very small aperture terminal) VSAT system of ground terminals<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -696,11 +696,11 @@ _river port(s)_: Baja, Csepel (Budapest), Dunaujvaros, Gyor-Gonyu, Mohacs (Danub
 the Hungarian Defense Forces are a unified force (Joint Force Command) with Land Forces, Air Forces, and Logistics components (2021)<br>
 
 **Military expenditures**<br>
-1.85% of GDP (2020 est.)<br>
+1.6% of GDP (2021 est.)<br>
+1.79% of GDP (2020)<br>
 1.25% of GDP (2019)<br>
 1.01% of GDP (2018)<br>
 1.19% of GDP (2017)<br>
-1% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Hungarian Defense Forces have approximately 23,000 active duty troops (18,000 Army; 5,000 Air Force) (2021)<br>

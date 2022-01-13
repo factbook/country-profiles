@@ -660,7 +660,7 @@ note(s) - the Kuwait Emiri Guard Authority and the 25th Commando Brigade exercis
 5.8% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (est. 500) and the 25th Commando Brigade (N/A) (2021)<br>
+the Kuwaiti Armed Forces have approximately 17,000 active personnel (12,500 Army; 2,000 Navy; 2,500 Air Force); approximately 6,500 National Guard; note – Army figures include the Kuwait Emiri Guard Authority (estimated 500 personnel) and the 25th Commando Brigade (strength not available) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the inventory of the Kuwaiti Armed Forces consists of a range of European- and US-sourced weapons systems; the US is the leading supplier of arms to Kuwait since 2010 (2021)<br>

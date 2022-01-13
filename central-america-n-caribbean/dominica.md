@@ -528,11 +528,11 @@ _subscriptions per 100 inhabitants_: 3.71 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 75,771 (2018)<br>
-_subscriptions per 100 inhabitants_: 105.8 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 105.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: fully automatic network; there are multiple competing operators licensed to provide services, most of them are small and localized; the telecom sector across the Caribbean region remains one of the key growth areas (2020)<br>
-_domestic_: fixed-line connections continue to decline slowly with only two active operators providing about 4 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 106 per 100 persons (2019)<br>
+_domestic_: fixed-line connections continue to decline slowly with only two active operators providing about 4 fixed-line connections per 100 persons; subscribership among the three mobile-cellular providers is about 105 per 100 persons (2019)<br>
 _international_: country code - 1-767; landing points for the ECFS and the&nbsp;Southern Caribbean Fiber&nbsp;submarine cables providing connectivity to other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad and to the US; microwave radio relay and SHF radiotelephone links to Martinique and Guadeloupe; VHF and UHF radiotelephone links to Saint Lucia (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

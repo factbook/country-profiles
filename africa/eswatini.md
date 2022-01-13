@@ -601,7 +601,7 @@ _subscriptions per 100 inhabitants_: 93.53 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: earlier government monopoly in telecom market hindered growth; liberalized regulators aided expansion in the telecom sector; lack of fixed-line infrastructure and competition stymies development of DSL and backbone network; 2G, 3G, 4G, and LTE services with coverage to most of the population; landlocked country depends on neighbors for international bandwidth; operator completed terrestrial cable linking Maputo through Eswatini to Johannesburg; importer of broadcasting equipment from South Africa (2019)<br>
-_domestic_: Eswatini has 2 mobile-cellular providers; communication infrastructure has a geographic coverage of about 90% and a rising subscriber base; fixed-line stands at 4 per 100 and mobile-cellular teledensity roughly 94 telephones per 100 persons; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay (2019)<br>
+_domestic_: Eswatini has 2 mobile-cellular providers; communication infrastructure has a geographic coverage of about 90% and a rising subscriber base; fixed-line stands at nearly 4 per 100 and mobile-cellular teledensity roughly 94 telephones per 100 persons; telephone system consists of carrier-equipped, open-wire lines and low-capacity, microwave radio relay (2019)<br>
 _international_: country code - 268; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -617,7 +617,7 @@ _percent of population_: 47% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 8,000 (2017 est.)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

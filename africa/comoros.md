@@ -571,8 +571,8 @@ _electrification - rural areas_: 62% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 7,573<br>
-_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
+_total subscriptions_: 7,573 (2020)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 472,815 (2020)<br>
@@ -580,7 +580,7 @@ _subscriptions per 100 inhabitants_: 54.37 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Qatar launched a special program for the construction of a wireless network to inter connect the 3 islands of the archipelago; telephone service limited to the islands' few towns (2020)<br>
-_domestic_: fixed-line connections only about 1 per 100 persons; mobile-cellular usage over 68 per 100 persons; two companies provide domestic and international mobile service and wireless data (2019)<br>
+_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular usage about 54 per 100 persons; 2 companies provide domestic and international mobile service and wireless data (2020)<br>
 _international_: country code - 269; landing point for the EASSy, Comoros Domestic Cable System, Avassa, and FLY-LION3&nbsp;fiber-optic submarine cable system connecting East Africa with Europe; HF radiotelephone communications to Madagascar and Reunion (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -595,8 +595,8 @@ _total_: 74,500 (2021 est.)<br>
 _percent of population_: 8.48% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 912<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_total_: 912 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2020 est.)<br>
 
 ## Transportation
 

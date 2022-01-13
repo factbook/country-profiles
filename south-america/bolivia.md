@@ -366,7 +366,7 @@ Christian Democratic Party or PDC [Jorge Fernando QUIROGA Ramirez]<br>Community 
 <em>note:</em> the Democrat Unity Coalition or UD [Samuel DORIA MEDINA Arana] was a coalition comprised of several of the largest opposition parties participating in the 2014 election, which included the Democrats (MDS), National Unity Front (UN), and Without Fear Movement<br>
 
 **International organization participation**<br>
-CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+CAN, CD, CELAC, FAO, G-77, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, LAES, LAIA, Mercosur (associate), MIGA, MINUSTAH, MONUSCO, NAM, OAS, OPANAL, OPCW, PCA, UN, UN Security Council (temporary), UNAMID, UNASUR, UNCTAD, UNESCO, UNIDO, Union Latina, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Alejandro Roberto BILBAO LA VIEJA RUIZ, First Secretary (since 6 July 2021)<br>
@@ -629,7 +629,7 @@ _subscriptions per 100 inhabitants_: 101.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>with low national GDP and remote landlocked geography, Bolivia’s telecom services are historically expensive and neglected resulting in low penetration; fixed telecom market is provided by non-profit cooperatives focused on improvement of services such as broadband and paid TV services; some operators adopted fixed-wireless technologies and fiber-optic capacity; fixed broadband services migrating from DSL to fiber remain expensive and largely unavailable in many areas; historically relied on satellite services or terrestrial links and inaugurated a new cable running via Peru to the Pacific; operator aims to increase coverage through mobile networks for voice and data access, especially to rural areas; space agency plans to boost satellite-based Internet; in 2020, communications towers in Yapacani were destroyed due to pandemic conspiracy fears; importer of broadcasting equipment from China</p> (2021)<br>
-_domestic_: 6 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at&nbsp;101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2019)<br>
+_domestic_: 5 per 100 fixed-line, mobile-cellular telephone use expanding rapidly and teledensity stands at 101 per 100 persons; most telephones are concentrated in La Paz, Santa Cruz, and other capital cities (2020)<br>
 _international_: country code - 591; Bolivia has no direct access to submarine cable networks and must therefore connect to the rest of the world either via satellite or through terrestrial links across neighboring countries; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -716,10 +716,10 @@ note - the National Police is part of the reserves for the Armed Forces<br>
 information varies widely; approximately 50,000 active troops (37,000 Army; 5,000 Navy; 8,000 Air Force); note - a considerable portion of the Navy personnel are marines and naval police; approximately 40,000 National Police (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2020)<br>
+the Bolivian Armed Forces are equipped with a mix of mostly older Brazilian, Chinese, European, and US equipment; since 2010, China and France are the leading suppliers of military hardware to Bolivia (2021)<br>
 
 **Military service age and obligation**<br>
-compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2019)<br>
+compulsory for all men between the ages of 18 and 22; men can volunteer from the age of 16, women from 18; service is for one year; Search and Rescue service can be substituted for citizens who have reached the age of compulsory military service; duration of this service is 2 years (2021)<br>
 
 **Military - note**<br>
 <p>Bolivia has a small naval force for patrolling some 5,000 miles of navigable rivers to combat narcotics trafficking and smuggling, provide disaster relief, and deliver supplies to remote rural areas, as well as for maintaining a presence on Lake Titicaca; the Navy also exists in part to cultivate a maritime tradition and as a reminder of Bolivia’s desire to regain the access to the Pacific Ocean that the country lost to Chile in the War of the Pacific (1879-1884); every year on 23 March, the Navy participates in parades and government ceremonies commemorating the Día Del Mar (Day of the Sea) holiday that remembers the loss</p><br>

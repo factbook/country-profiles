@@ -351,7 +351,7 @@ _subordinate courts_: appeals courts; regional and district courts; administrati
 Agrarian People's Union or ZNS [Roumen YONCHEV]<br>Bulgarian Agrarian People’s Union [Nikolay NENCHEV]<br>Bulgarian Socialist Party or BSP [Korneliya NINOVA] (alliance of BSP, PKT, New Dawn, Ecoglasnost)<br>Bulgaria of the Citizens or DBG [Dimitar DELCHEV]]<br>Citizens for the European Development of Bulgaria or GERB (alliance with SDS) [Boyko BORISOV]<br>Democratic Bulgaria or DB (alliance of Yes! Bulgaria, DSB, and The Greens) [Atanas ATANASOV, Hristo IVANOV]<br>Democrats for a Strong Bulgaria or DSB [Atanas ATANASOV]<br>Ecoglasnost [Emil GEORGIEV]<br>Green Movement or The Greens [Borislav SANDOV, Vladislav PENEV]<br>Middle European Class or SEC [Georgi MANEV]<br>Movement for Rights and Freedoms or DPS [Mustafa KARADAYI]<br>Movement 21 or D21 [Tatyana DONCHEVA]<br>New Dawn [Mincho MINCHEV]<br>Political Club Thrace or PKT [Stefan NACHEZ]<br>Political Movement "Social Democrats" or PDS  [Elena NONEVA]<br>Revival [Kostadin KOSTADINOV]<br>Stand Up.BG or IS.BG [Maya MONOLOVA]<br>Stand Up.BG, We Are Coming! or IBG-NI (coalition of IS.BG, D21, DBG, ENP, ZNS, and Volt) [Maya MONOLOVA, Nikolay HADZHIGENOV]<br>There is Such a People or ITN [SLAVI TRIFONOV]<br>United People's Party or ENP [Valentina VASILEVA-FILADELFEVS]<br>Union of Democratic Forces or SDS (alliance with GERB)[Rumen HRISTOV]<br>Yes! Bulgaria [Hristo IVANOV]<br>Volt Bulgaria or Volt [Nastimir ANANIEV]<br>We Continue the Change of PP (electoral alliance of PP, PDS, SEC, and Volt) [Kiril PETKOV and Asen VASILEV]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC, CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EU, FAO, G- 9, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NSG, OAS (observer), OIF, OPCW, OSCE, PCA, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Tihomir Anguelov STOYTCHEV (since 27 June 2016)<br>
@@ -610,7 +610,7 @@ _subscriptions per 100 inhabitants_: 114.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bulgaria’s telecoms sector benefited from adaptation of EU regulatory measures and privatization; population is moving to fiber over DSL for broadband connection; investment towards rural areas; migration from fixed-line voice to mobile and VoIP; private networks pursuing upgrades and development of services based on 5G; broadband market in Bulgaria enjoys cross-platform competition; operators deploy NB-IoT platform in several cities and released smart platform for utilities; government launched e-learning platform to help students continue their studies during lockdown (2021)</p> (2020)<br>
-_domestic_: fixed-line 14 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 116 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line over 12 per 100 persons, mobile-cellular teledensity, fostered by multiple service providers, is over 114 telephones per 100 persons (2020)<br>
 _international_: country code - 359; Caucasus Cable System via submarine cable provides connectivity to Ukraine, Georgia&nbsp;and Russia; a combination submarine cable and land fiber-optic system provides connectivity to Italy, Albania, and Macedonia; satellite earth stations - 3 (1 Intersputnik in the Atlantic Ocean region, 2 Intelsat in the Atlantic and Indian Ocean regions) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -687,11 +687,11 @@ _major seaport(s)_: Burgas, Varna (Black Sea)<br>
 Bulgarian Armed Forces: Land Forces (Army), Naval Forces, Bulgarian Air Forces (Voennovazdushni Sili, VVS), Joint Special Forces; Ministry of Interior: Border Guards (2021)<br>
 
 **Military expenditures**<br>
-1.6% of GDP (2020 est.)<br>
+1.56% of GDP (2021)<br>
+1.55% of GDP (2020 est.)<br>
 3.15% of GDP (2019)<br>
 1.45% of GDP (2018)<br>
 1.23% of GDP (2017)<br>
-1.25% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Bulgarian Armed Forces have approximately 30,000 active duty personnel (16,000 Army; 4,000 Navy; 7,000 Air Force; 3,000 other, joint staff, support) (2021)<br>

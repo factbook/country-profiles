@@ -378,7 +378,7 @@ _subordinate courts_: Parliamentary Court of Justice (jurisdiction limited to ca
 Alliance for Democracy and Development<br>Cameroon People's Democratic Movement or CPDM [Paul BIYA]<br>Cameroon People's Party or CPP [Edith Kah WALLA]<br>Cameroon Renaissance Movement or MRC [Maurice KAMTO]<br>Cameroonian Democratic Union or UDC [Adamou Ndam NJOYA]<br>Cameroonian Party for National Reconciliation or PCRN [Cabral LIBII]<br>Front for the National Salvation of Cameroon or FSNC [Issa Tchiroma BAKARY]<br>Movement for the Defense of the Republic or MDR [Dakole DAISSALA]<br>Movement for the Liberation and Development of Cameroon or MLDC [Marcel YONDO]<br>National Union for Democracy and Progress or UNDP [Maigari BELLO BOUBA]<br>Progressive Movement or MP [Jean-Jacques EKINDI]<br>Social Democratic Front or SDF [John FRU NDI]<br>Union of Peoples of Cameroon or UPC [Provisionary Management Bureau]<br>Union of Socialist Movements<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, C, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MONUSCO, NAM, OIC, OIF, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Henri ETOUNDI ESSOMBA (since 27 June 2016)<br>
@@ -634,7 +634,7 @@ _subscriptions per 100 inhabitants_: 95.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Cameroon&rsquo;s 3G and LTE services are improving through growing competition and a government program to improve national connectivity and support digital economy; saturated use of transactions through m-commerce; developing broadband sector; improved submarine and terrestrial cable connectivity strengthened international bandwidth and lowered prices; pushing start of fiber link to Congo; fiber rollout continues with new government funding; operators opened new data center in 2020 and developed contracts for satellite broadband; government awarded contract to provide connectivity to universities (2020)<br>
-_domestic_: only about 4 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of over 82 per 100 persons (2019)<br>
+_domestic_: only a little above 3 per 100 persons for fixed-line subscriptions; mobile-cellular usage has increased sharply, reaching a subscribership base of roughly 95 per 100 persons (2020)<br>
 _international_: country code - 237; landing points for the SAT-3/WASC, SAIL, ACE, NCSCS, Ceiba-2, and WACS&nbsp;fiber-optic submarine cable that provides connectivity to Europe, South America, and West Africa; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -748,7 +748,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>Joint Border Commission with Nigeria reviewed 2002 ICJ ruling on the entire boundary and bilaterally resolved differences, including June 2006 Greentree Agreement that immediately ceded sovereignty of the Bakassi Peninsula to Cameroon with a full phase-out of Nigerian control and patriation of residents in 2008; Cameroon and Nigeria agreed on maritime delimitation in March 2008; sovereignty dispute between Equatorial Guinea and Cameroon over an island at the mouth of the Ntem River; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 345,471 (Central African Republic), 119,552 (Nigeria) (2021)<br>
+_refugees (country of origin)_: 342,877 (Central African Republic), 120,928 (Nigeria) (2021)<br>
 _IDPs_: 1,052,591 (2021) (includes far north, northwest, and southwest)<br>
 
 **Trafficking in persons**<br>

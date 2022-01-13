@@ -350,7 +350,7 @@ _subordinate courts_: Court of Appeals; district and local courts<br>
 Electoral Action of Lithuanian Poles or LLRA [Valdemar TOMASEVSKI]<br>Farmers and Greens Union or LVZS [Ramunas KARBAUSKIS]<br>Freedom Party or LP [Ausrine ARMONAITE]<br>Homeland Union-Lithuanian Christian Democrats or TS-LKD [Gabrielius LANDSBERGIS]<br>Labor Party or DP [Viktor USPASKICH]<br>Lithuanian Center Party or LCP [Naglis PUTEIKIS]<br>Lithuanian Green Party or LZP [Remigijus LAPINSKAS]]<br>Lithuanian Liberal Movement or LS or LRLS [Viktorija CMILYTE]<br>Lithuanian List or LL [Darius KUOLYS]<br>Lithuanian Social Democratic Party or LSDP [Gintautas PALUCKAS]<br>Lithuanian Social Democratic Labor Party or LSDDP [Gediminas KIRKILAS]<br>Freedom and Justice Party or LT [Remigijus ZEMAITAITIS]<br>
 
 **International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Audra PLEPYTE (since 7 July 2021)<br>
@@ -684,7 +684,7 @@ Lithuanian Armed Forces (Lietuvos Ginkluotosios Pajegos): Land Forces (Sausumos 
 
 **Military expenditures**<br>
 2.03% of GDP (2021 est.)<br>
-2.13% of GDP (2020 est.)<br>
+2.1% of GDP (2020)<br>
 2% of GDP (2019)<br>
 1.97% of GDP (2018)<br>
 1.71% of GDP (2017)<br>

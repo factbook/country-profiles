@@ -347,7 +347,7 @@ _subordinate courts_: district (city) and regional courts<br>
 Development/For! or AP! [Daniels PAVLUTS, Juris PUCE]<br>National Alliance "All For Latvia!"-"For Fatherland and Freedom/LNNK" or NA [Raivis DZINTARS] New Conservative Party or JKP [Janis BORDANS]<br>Social Democratic Party "Harmony" or S [Janis URBANOVICS] <br>Union of Greens and Farmers or ZZS [Armands KRAUZE] <br>New Unity or JV [Arvils ASERADENS]<br>Who Owns the State? or KPV LV (disbanded 2021)<br>
 
 **International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, NATO, NIB, NSG, OAS (observer), OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Maris SELGA (since 16 September 2019)<br>
@@ -679,11 +679,11 @@ _major seaport(s)_: Riga, Ventspils<br>
 National Armed Forces (Nacionalie Brunotie Speki): Land Forces (Latvijas Sauszemes Speki), Naval Force (Latvijas Juras Speki, includes Coast Guard (Latvijas Kara Flote)), Air Force (Latvijas Gaisa Speki), National Guard (2021)<br>
 
 **Military expenditures**<br>
-2.27% of GDP (2020 est.)<br>
+2.27% of GDP (2021 est.)<br>
+2.27% of GDP (2020)<br>
 2.03% of GDP (2019)<br>
 2.06% of GDP (2018)<br>
 1.59% of GDP (2017)<br>
-1.44% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the National Armed Forces of Latvia have approximately 6,500 active duty troops (5,500 Land Forces; 500 Naval Force/Coast Guard; 500 Air Force; note - some Land Forces are considered joint forces); 8,200 National Guard (2021)<br>
@@ -692,7 +692,7 @@ the National Armed Forces of Latvia have approximately 6,500 active duty troops 
 the Latvian military's inventory is limited and consists of a mixture of Soviet-era and more modern--mostly second-hand--European and US equipment; since 2010, it has received&nbsp; limited amounts of equipment from several European countries, as well as the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary male and female military service; no conscription (abolished 2007); under current law, every citizen is entitled to serve in the armed forces for life (2021)<br>
+18 years of age for voluntary male and female military service; no conscription (abolished 2007) (2021)<br>
 
 **Military - note**<br>
 Latvia officially became a member of NATO in 2004<br> <p>since 2017, Latvia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Canada and had about 1,500 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Latvia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations</p><br>

@@ -599,12 +599,12 @@ _total subscriptions_: 559,882 (2020)<br>
 _subscriptions per 100 inhabitants_: 10.99 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 7,512,370 (2020)<br>
+_total subscriptions_: 7,512,370 (2020 est.)<br>
 _subscriptions per 100 inhabitants_: 147.5 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Costa Rica has broad telecom coverage though geographical distribution of digital service is unequal; recent regulator liberalization spurred expansion in all sectors; broadband market is the most advanced and highest penetration in Central America yet lags behind many South American countries; operators investing in NGN technology; number portability and cheaper broadband costs will increase competition; government aims to subsidize tele-health and e-learning (2018)<br>
-_domestic_: 13 per 100 fixed-line, 162 per 100 mobile-cellular; point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available (2019)<br>
+_domestic_: roughly 11 per 100 fixed-line and 148 per 100 mobile-cellular; point-to-point and point-to-multi-point microwave, fiber-optic, and coaxial cable link rural areas; Internet service is available (2020)<br>
 _international_: country code - 506; landing points for the ARCOS-1, MAYA-1, and the&nbsp;PAC submarine cables that provide links to South and Central America, parts of the Caribbean, and the US; connected to Central American Microwave System; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

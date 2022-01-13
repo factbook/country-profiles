@@ -606,7 +606,7 @@ _subscriptions per 100 inhabitants_: 161.1 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: El Salvador&rsquo;s telecom sector is challenged by low population, poor infrastructure, and unequal income distribution compounded by corruption and criminal influence; liberal regulation promotes mobile penetration in replacement of fixed-line density; operators testing 5G in 2020 (2020)<br>
-_domestic_: growth in fixed-line services 14 per 100, has slowed in the face of mobile-cellular competition at 147 per 100 (2019)<br>
+_domestic_: fixed-line services, roughly 14 per 100, has slowed in the face of mobile-cellular competition now at 161 subscribers per 100 inhabitants (2019)<br>
 _international_: country code - 503; satellite earth station - 1 Intelsat (Atlantic Ocean); connected to Central American Microwave System (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

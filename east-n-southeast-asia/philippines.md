@@ -701,23 +701,23 @@ Armed Forces of the Philippines (AFP): Army, Navy (includes Marine Corps), Air F
 note(s) - the Philippine Coast Guard is an armed and uniformed service under the Department of Transportation; it would be attached to the AFP in wartime; the Philippine National Police Force (PNP) falls under the Ministry of Interior and Local Government<br><br>the Philippine Government also arms and supports civilian militias; the AFP controls Civilian Armed Force Geographical Units, while the Civilian Volunteer Organizations fall under PNP command<br>
 
 **Military expenditures**<br>
-1% of GDP (2020 est.)<br>
+1.1% of GDP (2021 est.)<br>
+1% of GDP (2020)<br>
 1% of GDP (2019)<br>
 0.9% of GDP (2018)<br>
 1.2% of GDP (2017)<br>
-1.4% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Armed Forces of the Philippines (AFP) have approximately 130,000 active duty personnel (90,000 Army; 25,000 Navy, including about 8,000 marines; 17,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Indonesia, South Korea, and the US (2021)<br>
+the AFP is equipped with a mix of imported weapons systems, particularly second-hand equipment from the US; since 2014, its top weapons suppliers are Indonesia, Israel, South Korea, and the US (2021)<br>
 
 **Maritime threats**<br>
 <p>the International Maritime Bureau reports the territorial waters of littoral states and offshore waters in the South China Sea as high risk for piracy and armed robbery against ships; an emerging threat area lies in the Celebes and Sulu Seas between the Philippines and Malaysia where three ships were attacked in 2020; numerous commercial vessels have been attacked and hijacked both at anchor and while underway; hijacked vessels are often disguised and cargoes stolen</p><br>
 
 **Military service age and obligation**<br>
-18-23 years of age (officers 21-29) for voluntary military service; no conscription (2019)<br>
+18-23 years of age (officers 21-29) for voluntary military service; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>the US and Philippines agreed to a mutual defense treaty in 1951; the Philippines has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p> as of 2021, the AFP's primary operational focus was on internal security duties, particularly in the south, where several insurgent and terrorist groups operated and up to 60% of the armed forces were deployed; additional combat operations were being conducted against the Communist Peoples Party/New People’s Army, which was active mostly on Luzon, the Visayas, and areas of Mindanao<br><br>in addition to its typical roles of patrolling and defending the country's maritime claims, the Navy conducts interdiction operations against terrorist, insurgent, and criminal groups around the southern islands; in 2017, the Philippines began conducting joint maritime patrols with Indonesia and Malaysia to counter regional terrorist activities, particularly in the Sulu Sea; the Philippine Marine Corps assists the Army in counterinsurgency operations<br><br>the Philippines National Police (PNP) also has an active role in counterinsurgency and counter-terrorism operations alongside the AFP, particularly the Special Action Force, a PNP commando unit that specializes in counter-terrorism operations<br>

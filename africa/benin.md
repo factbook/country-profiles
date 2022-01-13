@@ -362,7 +362,7 @@ Alliance for a Triumphant Benin or ABT [Abdoulaye BIO TCHANE]<br>African Movemen
 <strong>note:</strong> approximately 20 additional minor parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, ECOWAS, Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM, OAS (observer), OIC, OIF, OPCW, PCA, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Jean Claude Felix DO REGO (since 17 July 2020)<br>
@@ -612,7 +612,7 @@ _subscriptions per 100 inhabitants_: 91.9 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Benin&rsquo;s telecom market is restricted by poor fixed-line infrastructure; low use of fixed-line voice and Internet; mobile networks account for almost all Internet and voice traffic; progress on fiber infrastructure through World Bank and the government investment to extend broadband and develop Smart Government program; monopolized fixed-line Internet services access is limited; ICT development will provide telecom services to 80% of the country, mostly via mobile and DSL infrastructure; Benin Smart City construction has begun; improved international Internet connectivity supports growth of m-commerce and m-banking; submarine cable connectivity from African coast to Europe (2020)<br>
-_domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, exceeding 91 per 100 persons (2020)<br>
+_domestic_: fixed-line teledensity only about 1 per 100 persons; spurred by the presence of multiple mobile-cellular providers, cellular telephone subscribership has increased rapidly, nearing 92 per 100 persons (2020)<br>
 _international_: country code - 229; landing points for the SAT-3/WASC and ACE fiber-optic submarine cable that provides connectivity to Europe, and&nbsp;most West African countries; satellite earth stations - 7 (Intelsat-Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -567,11 +567,11 @@ _subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 591,223 (2018)<br>
-_subscriptions per 100 inhabitants_: 45.17 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 44.86 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Equatorial Guinea&rsquo;s climate for operator competition boosted mobile subscribership; broadband services are limited and expensive; submarine cable supported broadband and reliability of infrastructure; government backbone network will connect administrative centers; regional roaming agreement in process (2018)<br>
-_domestic_: fixed-line density is about 1 per 100 persons and mobile-cellular subscribership is 45 per 100 (2019)<br>
+_domestic_: fixed-line density is less than 1 per 100 persons and mobile-cellular subscribership is roughly 45 per 100 (2019)<br>
 _international_: country code - 240;&nbsp;landing points for the ACE, Ceiba-1, and Ceiba-2 submarine&nbsp;cables providing communication from Bata&nbsp;and Malabo, Equatorial Guinea&nbsp;to numerous Western African and European countries; satellite earth station - 1 Intelsat (Indian Ocean) (2019)<br>
 <!-- x-tinymce/html --><strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

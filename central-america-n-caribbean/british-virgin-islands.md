@@ -484,7 +484,7 @@ _subscriptions per 100 inhabitants_: 116.3 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good overall telephone service; major&nbsp;expansion sectors include the mobile telephony and data segments, which continue to&nbsp;appeal to&nbsp;operator investment;&nbsp;several operators licensed to provide services within individual markets, most of them are small and localized; telecommunication contributes to overall GDP (2020)<br>
-_domestic_: fixed-line connections exceed 21 per 100 persons and mobile cellular subscribership is roughly 198 per 100 persons (2019)<br>
+_domestic_: fixed-line connections exceed 24 per 100 persons and mobile cellular subscribership is roughly 116 per 100 persons (2020)<br>
 _international_: country code - 1-284; landing points for PCCS, ECFS, CBUS, Deep Blue Cable, East-West, PAN-AM, Americas-1, Southern Caribbean Fiber, Columbus- IIb, St Thomas - St Croix System, Taino-Carib, and Americas I- North&nbsp;via submarine cable to Caribbean, Central and South America, and US (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

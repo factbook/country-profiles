@@ -461,7 +461,7 @@ _subscriptions per 100 inhabitants_: 120.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Gibraltar&rsquo;s population is urban based, served by a digital telephone exchange supported by a fiber optic and copper infrastructure; near universal mobile and Internet use (2019)<br>
-_domestic_: automatic exchange facilities; 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)<br>
+_domestic_: automatic exchange facilities; over 50 per 100 fixed-line and 120 per 100 mobile-cellular (2019)<br>
 _international_: country code - 350; landing point for the EIG to Europe, Asia, Africa and the Middle East via submarine cables;&nbsp;radiotelephone; microwave radio relay; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 
 **Broadcast media**<br>

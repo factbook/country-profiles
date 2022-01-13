@@ -361,7 +361,7 @@ _subordinate courts_: Court of Appeal; High Court; Special Criminal Court; Khadi
 Alliance for Patriotic Reorientation and Construction or APRC [Fabakary JATTA]<br>Coalition 2016 [collective leadership] (electoral coalition includes UDP, PDOIS, NRP, GMC, GDC, PPP, and GPDP)<br>Gambia Democratic Congress or GDC [Mama KANDEH]<br>Gambia Moral Congress or GMC [Mai FATTY]<br>Gambia Party for Democracy and Progress or GPDP [Sarja JARJOU]<br>National Convention Party or NCP [Yaya  SANYANG and Majanko SAMUSA (both claiming leadership)]<br>National Democratic Action Movement or NDAM [Lamin Yaa JUARA]<br>National People's Party or NPP [Adama BARROW]<br>National Reconciliation Party or NRP [Hamat BAH]<br>People's Democratic Organization for Independence and Socialism or PDOIS [Sidia JATTA]<br>People's Progressive Party or PPP [Yaya CEESAY)]<br>United Democratic Party or UDP [Ousainou DARBOE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, ECOWAS, FAO, G-77, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNISFA, UNMIL, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Dawda D. FADERA (since 24 January 2018)<br>
@@ -609,7 +609,7 @@ _subscriptions per 100 inhabitants_: 110.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: state-owned telecom partially privatized but retains a monopoly with fixed-line service; multiple mobile networks provide 2G to almost all citizens and above the African average; high poverty rates continue to limit access to the Internet, especially via fixed-line services in rural areas; weak political support for development of communications infrastructure, including National Broadband Network program; government depends on donors and loans from China and Islamic Development banks; two submarine cables provide international connectivity within African continent and Europe (2020)<br>
-_domestic_: fixed-line stands at 2 per 100 subscriptions with one dominant company and mobile-cellular teledensity, aided by multiple mobile-cellular providers, is over 140 per 100 persons (2019)<br>
+_domestic_: fixed-line subscriptions nearly 2 per 100 with one dominant company and mobile-cellular teledensity nearly 111 per 100 persons (2020)<br>
 _international_: country code - 220; landing point for the ACE submarine cable to West Africa and Europe; microwave radio relay links to Senegal and Guinea-Bissau;&nbsp;satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -625,7 +625,7 @@ _percent of population_: 19.84% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 4,433 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2019 est.)<br>
 
 ## Transportation
 

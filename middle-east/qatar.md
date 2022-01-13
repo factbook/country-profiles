@@ -663,7 +663,7 @@ the Qatari military's inventory includes a broad mix of older and modern weapons
 in 2021, Turkey agreed to train Qatari fighter pilots and allow the temporary deployment of up to 36 Qatari military aircraft and 250 personnel<br>
 
 **Military service age and obligation**<br>
-conscription for males aged 18-35; compulsory service times range from 4 months to up to a year, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
+conscription for males aged 18-35 introduced in 2013; compulsory service times range from 4-12 months, depending on the cadets educational and professional circumstances; women are permitted to serve in the armed forces, including as uniformed officers and pilots (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Qatar hosted more than 8,000 US military forces and the regional headquarters for the US Central Command (CENTCOM; established 1983) at various military facilities, including the large Al Udeid Air Base; Qatar also hosted as many as 5,000 Turkish military forces at two bases established in 2014 and 2019</p><br>

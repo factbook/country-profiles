@@ -358,7 +358,7 @@ _subordinate courts_: federal level: Federal Court of Appeal; Federal Court; Tax
 Bloc Quebecois [Yves-Francois BLANCHET]<br>Conservative Party of Canada or CPC [Erin O'TOOLE]<br>Green Party [vacant]<br>Liberal Party [Justin TRUDEAU]<br>New Democratic Party or NDP [Jagmeet SINGH]<br>People's Party of Canada [Maxime BERNIER]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), APEC, Arctic Council, ARF, ASEAN (dialogue partner), Australia Group, BIS, C, CD, CDB, CE (observer), EAPC, EBRD, EITI (implementing country), FAO, FATF, G-7, G-8, G-10, G-20, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSTAH, MONUSCO, NAFTA, NATO, NEA, NSG, OAS, OECD, OIF, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, PIF (partner), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNMISS, UNRWA, UNTSO, UPU, USMCA, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kirsten HILLMAN (since 17 July 2020)<br>
@@ -621,7 +621,7 @@ _subscriptions per 100 inhabitants_: 95.63 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Canada has highly developed, technologically advanced telecom services; LTE and broadband are nearly universal; competition between the DSL and cable platforms with investment in fiber networks; regulatory efforts ensure operators have spectrum available to develop 5G services; policy to improve service speeds and enable digital economy and e-services; operator&rsquo;s 5G network facilitates smart-city vehicle and pedestrian traffic; high value in e-commerce transactions; international connections through submarine, terrestrial, and satellite systems; importer of broadcasting equipment from China (2020)<br>
-_domestic_: 35 per 100 fixed-line; 93 per 100 mobile-cellular; comparatively low mobile penetration provides further room for growth; domestic satellite system with about 300 earth stations (2019)<br>
+_domestic_: Nearly 37 per 100 fixed-line and 96 per 100 mobile-cellular teledensity; domestic satellite system with about 300 earth stations (2020)<br>
 _international_: country code - 1; landing points for the Nunavut Undersea Fiber Optic Network System, Greenland Connect, Persona, GTT Atlantic, and Express, KetchCan 1 Submarine Fiber Cable system, St Pierre and Miquelon Cable submarine cables providing links to the US and Europe; satellite earth stations - 7 (5 Intelsat - 4 Atlantic Ocean and 1 Pacific Ocean, and 2 Intersputnik - Atlantic Ocean region) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -705,11 +705,11 @@ Canadian Forces: Canadian Army, Royal Canadian Navy, Royal Canadian Air Force, C
 note - the Army reserves include the Canadian Rangers, which provides a limited presence in Canada's northern, coastal, and isolated areas for sovereignty, public safety, and surveillance roles<br>
 
 **Military expenditures**<br>
-1.42% of GDP (2020 est.)<br>
+1.39% of GDP (2021 est.)<br>
+1.42% of GDP (2020)<br>
 1.29% of GDP (2019)<br>
 1.31% of GDP (2018)<br>
 1.44% of GDP (2017)<br>
-1.16% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 approximately 70,000 total active personnel (23,000 Army; 12,000 Navy; 12,000 Air Force; 23,000 other) (2021)<br>

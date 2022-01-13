@@ -666,7 +666,7 @@ _LNG terminal(s) (export)_: Port Moresby<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary&nbsp;&nbsp; (2021)<br>
+Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements); Ministry of Police: Royal Papua New Guinea Constabulary (2021)<br>
 
 **Military expenditures**<br>
 0.4% of GDP (2020 est.)<br>
@@ -679,10 +679,10 @@ Papua New Guinea Defense Force (PNGDF; includes land, maritime, and air elements
 the Papau New Guinea Defense Force has approximately 3,000 active duty troops, including a land element of about 2,500 (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papau New Guinea receives most of its military assistance from Australia; since 2010, it has also received equipment from China and New Zealand (2021)<br>
+the PNGDF has a limited inventory consisting of a diverse mix of foreign-supplied weapons and equipment; Papua New Guinea receives most of its military assistance from Australia; since 2010, it has also received equipment from China and New Zealand (2021)<br>
 
 **Military service age and obligation**<br>
-16 years of age for voluntary military service (with parental consent); no conscription; graduation from grade 12 required (2019)<br>
+16 years of age for voluntary military service (with parental consent); no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Australia and the US were assisting Papua New Guinea with expanding and improving the Defense Force naval base at Lombrum on Manus Island; the US first established a Lombrum base in 1944 during World War II</p><br>

@@ -353,7 +353,7 @@ _subordinate courts_: regional and district courts; Dushanbe City Court; viloyat
 Agrarian Party of Tajikistan or APT [Rustam LATIFZODA]<br>Communist Party of Tajikistan or CPT [Miroj ABDULLOEV]<br>Democratic Party of Tajikistan or DPT [Saidjafar USMONZODA]<br>Party of Economic Reform of Tajikistan or PERT [Rustam OUDRATOV]<br>People's Democratic Party of Tajikistan or PDPT [Emomali RAHMON]<br>Social Democratic Party of Tajikistan or SDPT [Qiyomiddin AZIZOV]<br>Socialist Party of Tajikistan or SPT [Abduhalim GHAFFOROV]<br>
 
 **International organization participation**<br>
-ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ADB, CICA, CIS, CSTO, EAEC, EAPC, EBRD, ECO, EITI (candidate country), FAO, G-77, GCTU, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM (observer), OIC, OPCW, OSCE, PFP, SCO, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Farrukh HAMRALIZODA (since 17 February 2021)<br>
@@ -681,7 +681,8 @@ the Armed Forces of the Republic of Tajikistan have approximately 9,500 active t
 the Tajikistan Armed Forces' inventory is comprised of older Russian and Soviet-era equipment; it has received limited quantities of weapons systems since 2010, most of which was second-hand material from Russia (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay the equivalent of $2,200 in order to avoid conscription (2021)<br>
+18-27 years of age for compulsory or voluntary military service for men; 24 month conscript service obligation; in August 2021, the Tajik Government began allowing men to pay a fee in order to avoid conscription (2021)<br>
+note - approximately 15-16,000 men are drafted annually for compulsory military service<br>
 
 **Military - note**<br>
 Tajikistan has been a member of the Collective Security Treaty Organization (CSTO) since 1994 and contributes troops to CSTO's rapid reaction force<br>

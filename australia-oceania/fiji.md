@@ -337,7 +337,7 @@ _subordinate courts_: Magistrates' Court (organized into civil, criminal, juveni
 FijiFirst [Veroqe "Frank" BAINIMARAMA]<br>Fiji Labor Party or FLP [Mahendra CHAUDHRY]<br>Fiji United Freedon Party or FUFP [Jagath KARUNARATNE]<br>National Federation Party or NFP [Biman PRASAD] (primarily Indian)<br>Peoples Democratic Party or PDP [Lynda TABUYA]<br>Social Democratic Liberal Party or SODELPA<br>Unity Fiji [Adi QORO]<br>
 
 **International organization participation**<br>
-ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, ADB, AOSIS, C, CP, FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, ISO, ITSO, ITU, ITUC (NGOs), MIGA, OPCW, PCA, PIF, Sparteca (suspended), SPC, UN, UNCTAD, UNDOF, UNESCO, UNIDO, UNISFA, UNMISS, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Akuila VUIRA<br>
@@ -591,7 +591,7 @@ _subscriptions per 100 inhabitants_: 117.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Fiji has a relatively sophisticated communications infrastructure with the highest mobile and Internet penetration in the Pacific Islands; aggressively developing LTE and 5G, though the pandemic negatively affected the economy, largely reliant on tourism; population is spread across more than 100 islands, yet most live on two main islands, with communications based on link by a submarine cable system; cables provide a secure link during natural disasters, protecting telecom connectivity; provider plans to expand fiber infrastructure to remote islands (2020)<br>
-_domestic_: fixed-line 9 per 100 persons and mobile-cellular teledensity roughly 118 per 100 persons (2019)<br>
+_domestic_: fixed-line nearly 9 per 100 persons and mobile-cellular teledensity roughly 118 per 100 persons (2019)<br>
 _international_: country code - 679; landing points for the ICN1, SCCN, Southern Cross NEXT, Tonga Cable and Tui-Samoa&nbsp;submarine cable links&nbsp;to US,&nbsp;NZ, Australia and Pacific islands of Fiji, Vanuatu, Kiribati, Samoa, Tokelau, Tonga, Fallis &amp; Futuna, and American Samoa; satellite earth stations - 2 Inmarsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -606,8 +606,8 @@ _total_: 634,100 (2021 est.)<br>
 _percent of population_: 49.97% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
-_total_: 13,033 (2018)<br>
-_subscriptions per 100 inhabitants_: 1.48 (2018 est.)<br>
+_total_: 13,033 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 1.38 (2019 est.)<br>
 
 ## Transportation
 
@@ -668,16 +668,16 @@ both the RFMF and the Fiji Police report to the the Ministry of Defense, Nationa
 1.2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2020)<br>
+the<strong> </strong>Republic of Fiji Military Forces (RFMF) have about 3,500 personnel (3,200 Land Force; 300 Maritime Command) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2020)<br>
+the RFMF is lightly armed and equipped; Australia has provided patrol boats and a few armored personnel carriers; it also provides logistical support for RFMF regional or UN operations; in recent years, China has provided construction equipment and military vehicles (2021)<br>
 
 **Military deployments**<br>
-170 Egypt (MFO); 160 Iraq (UNAMI); 130 Golan Heights (UNDOF) (2021)<br>
+170 Egypt (MFO); 160 Iraq (UNAMI); 150 Golan Heights (UNDOF) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 55 (2019)<br>
+18 years of age for voluntary military service; mandatory retirement at age 55 (2021)<br>
 
 **Military - note**<br>
 <p>the RFMF consists of only 1 infantry regiment and a small naval element with a few patrol boats; as of 2021, it did not possess any aircraft</p> <p>the RFMF has a history of intervening in the country’s politics since the late 1980s, including coups in 1987 and 2006, and a mutiny in 2000</p> <p>the RFMF also has a long tradition of participating in UN peacekeeping operations; since its first deployment of troops to South Lebanon in 1978 under the United Nations Interim Force in Lebanon (UNIFIL), it has deployed troops on nearly 20 additional UN missions</p><br>

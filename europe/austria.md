@@ -350,7 +350,7 @@ _subordinate courts_: Courts of Appeal (4); Regional Courts (20); district court
 Austrian People's Party or OeVP [Karl NEHAMMER]<br>Communist Party of Austria or KPOe [Mirko MESSNER]<br>Freedom Party of Austria or FPOe [Herbert KICKI]<br>The Greens [Werner KOGLER]<br>NEOS - The New Austria [Beate MEINL-REISINGER]<br>Social Democratic Party of Austria or SPOe [Pamela RENDI-WAGNER]<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, G-9, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, Paris Club, PCA, PFP, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNHCR, UNIDO, UNIFIL, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Martin WEISS (since 6 January 2020)<br>
@@ -378,7 +378,7 @@ eagle, edelweiss, Alpine gentian; national colors: red, white<br>
 **National anthem**<br>
 _name_: "Bundeshymne" (Federal Hymn)<br>
 _lyrics/music_: Paula von PRERADOVIC/Wolfgang Amadeus MOZART or Johann HOLZER (disputed)<br>
-<strong>note:</strong> adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012<br>
+<strong>note 1:</strong> adopted 1947; the anthem is also known as "Land der Berge, Land am Strome" (Land of the Mountains, Land by the River); Austria adopted a new national anthem after World War II to replace the former imperial anthem composed by Franz Josef HAYDN, which had been appropriated by Germany in 1922 and was thereafter associated with the Nazi regime; a gendered version of the lyrics was adopted by the Austrian Federal Assembly in fall 2011 and became effective 1 January 2012<br><br><strong>note 2:</strong> the beloved waltz "The Blue Danube" ("An der schoenen, blauen Donau"), composed in 1866 by the Austrian composer Johann Strauss II, is consistently referred to as Austria's unofficial national anthem <br>
 
 ## Economy
 
@@ -608,7 +608,7 @@ _subscriptions per 100 inhabitants_: 118.6 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: mature telecom market benefitting from effective competition; government and regulator are focused on improving telecom infrastructure; program to provide a national gigabit service by 2030 based on 5G networks; fixed-line broadband market is dominated by DSL sector, while cable broadband enjoys steady share of connections; fiber penetration remains low pending build out network infrastructure; EU-funded projects develop infrastructure to enable an 'Internet of Services; Vienna is a smart city; importer of broadcasting equipment from Vietnam and China (2020)<br>
-_domestic_: developed and efficient; 41 per 100 fixed-line for households, 174 per 100 for companies; 120 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; 62 per 100 fixed broadband, 54 per 100 mobile broadband (2019)<br>
+_domestic_: developed and efficient; 42 per 100 fixed-line for households, 174 per 100 for companies; roughly 119 per 100 mobile-cellular; broadband: 138 per 100 on smartphones; roughly 29 per 100 fixed broadband and 107 per 100 mobile broadband (2020)<br>
 _international_: country code - 43; earth stations available in the Astra, Intelsat, Eutelsat satellite systems (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

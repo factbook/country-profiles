@@ -645,10 +645,10 @@ Tonga Defense Services (His Majesty's Armed Forces): Joint Force headquarters, T
 the Tonga Defense Services have approximately 500 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2020)<br>
+the Tonga military's inventory includes mostly light weapons and equipment from European (primarily the UK) countries and the US, as well as naval patrol vessels from Australia; Australia is the only supplier of military systems since 2010 (2021)<br>
 
 **Military service age and obligation**<br>
-Volunteers, 18-25; no conscription (2019)<br>
+Volunteers, 18-25; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>Tonga participated in World War I as part of the New Zealand Expeditionary Force, but the Tonga Defense Force (TDF) was not established until 1939 at the beginning of World War II; in 1943, New Zealand helped train about 2,000 Tongan troops who saw action in the Solomon Islands; the TDF was disbanded at the end of the war, but was reactivated in 1946 as the Tonga Defense Services (TDS); in 2013, the name of the TDS was changed to His Majesty’s Armed Forces of Tonga (HMAF); Tongan troops deployed to Iraq from 2004-2008 and Afghanistan to support UK forces from 2010-2014</p><br>

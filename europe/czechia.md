@@ -347,7 +347,7 @@ _subordinate courts_: High Court; regional and district courts<br>
 Christian Democratic Union-Czechoslovak People's Party or KDU-CSL [Marian JURECKA]<br>Civic Democratic Party or ODS [Petr FIALA]<br>Communist Party of Bohemia and Moravia or KSCM [Katerina KONECNA]<br>Czech Social Democratic Party or CSSD [Michal SMARDA]<br>Freedom and Direct Democracy or SPD [Tomio OKAMURA]<br>Free Bloc or VB [Jana VOLFOVA]<br>Mayors and Independents or STAN [Vit RAKUSAN]<br>Movement of Dissatisfied Citizens or ANO [Andrej BABIS]<br>Oath or Prisaha [Robert SLACHTA]<br>Pirate Party or Pirates [Ivan BARTOS]<br>Tradition Responsibility Prosperity 09 or TOP 09 [Marketa PEKAROVA ADAMOVA]<br>Tricolor Freedomites Freeholders or TSS [Zuzana MAJEROVA ZAHRADNIKOVA]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, ESA, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MONUSCO, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Hynek KMONICEK (since 24 April 2017)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 121.4 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Czechia has a sophisticated telecom market with a developed telephone and Internet service attracting European investment; mobile sector showing steady growth through regulatory support for competition; licensees expanding reach of 5G and LTE networks; mobile penetration among the highest in the EU; operators extended fiber to an additional 143 rural zones in 2020 and commit to extending fiber to one million premises by 2027; its top import is broadcasting equipment from China (2020)<br>
-_domestic_: 14 per 100 fixed-line and mobile telephone usage increased to 124 per 100 mobile-cellular, the number of cellular telephone subscriptions now greatly exceeds the population (2019)<br>
+_domestic_: roughly 12 fixed-telephone subscriptions per 100 inhabitants and mobile telephone usage of about 121 per 100 inhabitants (2020)<br>
 _international_: country code - 420; satellite earth stations - 6 (2 Intersputnik - Atlantic and Indian Ocean regions, 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -678,11 +678,11 @@ Decin, Usti nad Labem (Elbe)<br>
 Czech Armed Forces: Land Forces; Air Forces; Cyber Forces; Special Forces Directorate (2021)<br>
 
 **Military expenditures**<br>
-1.34% of GDP (2020 est.)<br>
+1.42% of GDP (2021 est.)<br>
+1.31% of GDP (2020 est.)<br>
 1.19% of GDP (2019)<br>
 1.13% of GDP (2018)<br>
 1.04% of GDP (2017)<br>
-0.96% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Czech military has approximately 26,000 active personnel (20,000 Army; 6,000 Air Force) (2021)<br>

@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 44.56 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Angola&rsquo;s telecom sector shows consistent recovery following political stability, encouraging foreign investment; while the government opened the telecom sector to new competitors, there has been slow progress in LTE network development; only a small proportion of the country is covered by the 3G network infrastructure; Internet and mobile phone penetration remains low, hindered by high costs and poor infrastructure that limits access, especially in rural areas; upgrading telecom will support e-commerce, and rural access to education and health care; AngoSat-2 satellite expected to be ready in 2021; government aims to connect an additional 160,000 people to free Wi-Fi; importer of broadcasting equipment from China (2021)<br>
-_domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 47 telephones per 100 persons (2019)<br>
+_domestic_: only about one fixed-line per 100 persons; mobile-cellular teledensity about 45 telephones per 100 persons (2020)<br>
 _international_: country code - 244; landing points for the SAT-3/WASC, WACS, ACE and SACS&nbsp;fiber-optic submarine cable that provides connectivity to other countries in west Africa, Brazil, Europe and Asia; satellite earth stations - 29, Angosat-2 satellite expected by 2021 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -728,7 +728,7 @@ most Angolan military weapons and equipment are of Russian, Soviet, or Warsaw Pa
 <p>Democratic Republic of Congo accuses Angola of shifting monuments</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 37,426 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
+_refugees (country of origin)_: 47,216 (Democratic Republic of the Congo) (refugees and asylum seekers), 9,272 (Guinea), 6,357 (Cote d'Ivoire), 5,725 (Mauritania) (2021)<br>
 
 **Illicit drugs**<br>
 <p>used as a transshipment point for cocaine destined for Western Europe and other African states, particularly South Africa</p><br>

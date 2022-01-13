@@ -466,7 +466,7 @@ _subscriptions per 100 inhabitants_: 163 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands<br>
-_domestic_: fixed-line subscriptions 77 per 100, 146 per 100 for mobile-cellular (2019)<br>
+_domestic_: fixed-line subscriptions approximately 65 per 100, 163 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 500; satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries (2015)<br>
 
 **Broadcast media**<br>

@@ -355,7 +355,7 @@ _subordinate courts_: magistrates' courts; District Appeals Court; local courts<
 All People's Congress or APC [Ernest Bai KOROMA]<br>Coalition for Change or C4C [Tamba R. SANDY]<br>National Grand Coalition or NGC [Dr. Dennis BRIGHT]<br>Sierra Leone People's Party or SLPP [Dr. Prince HARDING]<br>numerous other parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, IHO (pending member), ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNIDO, UNIFIL, UNISFA, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Sidique Abou-Bakarr WAI (since 8 April 2019)<br>
@@ -661,7 +661,7 @@ _major seaport(s)_: Freetown, Pepel, Sherbro Islands<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing&nbsp; (2021)<br>
+Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Command with Land Forces, Maritime Forces, and an Air Wing (2021)<br>
 
 **Military expenditures**<br>
 0.5% of GDP (2020 est.)<br>
@@ -674,10 +674,10 @@ Republic of Sierra Leone Armed Forces (RSLAF): operates under a Joint Force Comm
 the Republic of Sierra Leone Armed Forces (RSLAF) have approximately 9,000 personnel, mostly ground forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RSLAF's small inventory includes a mix of Soviet-origin and other older foreign-supplied equipment; since 2010, it has received limited quantities of material (mostly donations of second-hand equipment) from China and South Africa (2020)<br>
+the RSLAF's small inventory includes a mix of Soviet-origin and other older foreign-supplied equipment; since 2010, it has received limited quantities of material (mostly donations of second-hand equipment) from China and South Africa (2021)<br>
 
 **Military service age and obligation**<br>
-18-29 for voluntary military service; women are eligible to serve; no conscription (2019)<br>
+18-29 for voluntary military service; women are eligible to serve; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>after the end of the civil war in 2002, the military was reduced in size and restructured with British military assistance; the RSLAF’s origins lie in the Sierra Leone Battalion of the Royal West African Frontier Force (RWAFF), a multi-regiment force formed by the British colonial office in 1900 to garrison the West African colonies of Gold Coast (Ghana), Nigeria (Lagos and the protectorates of Northern and Southern Nigeria), Sierra Leone, and Gambia; the RWAFF fought in both World Wars</p><br>

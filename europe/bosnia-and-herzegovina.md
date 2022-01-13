@@ -594,8 +594,8 @@ _electrification - total population_: 100% (2020)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 706,135 (2020)<br>
-_subscriptions per 100 inhabitants_: 5.12 (2020 est.)<br>
+_total subscriptions_: 706,135 (2020 est.)<br>
+_subscriptions per 100 inhabitants_: 21.52 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
 _total subscriptions_: 3,509,674 (2020)<br>
@@ -603,12 +603,12 @@ _subscriptions per 100 inhabitants_: 107 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bosnia-Herzegovina aims for national LTE coverage through integration with European Union (EU); roaming agreements with EU and Balkan neighbors; fixed-line broadband is underdeveloped, investments in mobile upgrades facilitate broadband connectivity to a greater extent than in Europe; DSL and cable are the main platforms for fixed-line connectivity while fiber broadband has a small market presence; operators support broadband in rural areas where fixed-line infrastructure is insufficient; LTE services under test licenses; 5G awaits market maturity; importer of broadcasting equipment from China</p> (2021)<br>
-_domestic_: fixed-line teledensity roughly 24 per 100 persons and mobile-cellular subscribership has been increasing rapidly and stands at roughly 112 telephones per 100 persons (2019)<br>
+_domestic_: fixed-line teledensity roughly 22 per 100 persons and mobile-cellular subscribership stands at 107 telephones per 100 persons (2020)<br>
 _international_: country code - 387; no satellite earth stations<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
 **Broadcast media**<br>
-3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV broadcasting stations; 3 large public radio broadcasters and many private radio stations<br>
+3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV broadcasting stations; 3 large public radio broadcasters and many private radio stations (2019)<br>
 
 **Internet country code**<br>
 .ba<br>
@@ -687,7 +687,7 @@ the Armed Forces of Bosnia and Herzegovina have approximately 9,000 active duty 
 the inventory for the Armed Forces of Bosnia and Herzegovina includes mainly Soviet-era weapons systems with a small and varied mix of older European and US equipment (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers; conscription abolished in 2005 (2019)<br>
+18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers; conscription abolished in 2005 (2021)<br>
 
 **Military - note**<br>
 <p>the Armed Forces of Bosnia and Herzegovina are comprised of the former Bosnian-Croat Army of the Federation of Bosnia and Herzegovina (Vojska Federacije Bosne i Hercegovin, VF) and the Bosnian-Serb Republic of Serbia Army (Vojska Republike Srpske, VRS); the two forces were unified under the 2003 Law on Defense, which also established the country’s Ministry of Defense</p> <p>Bosnia and Herzegovina joined NATO’s Partnership for Peace (PfP) program in 2007 and was invited to join NATO’s Membership Action Plan in 2010; as of 2021, NATO maintained a military headquarters in Sarajevo with the mission of assisting Bosnia and Herzegovina with the PfP program and promoting closer integration with NATO, as well as providing logistics and other support to the European Union Force deployed there</p> <p> </p><br>
@@ -707,7 +707,7 @@ Islamic Revolutionary Guard Corps/Qods Force<br>
 _refugees (country of origin)_: 5,112 (Croatia) (2020)<br>
 _IDPs_: 99,000 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-95 war) (2020)<br>
 _stateless persons_: 66 (2020)<br>
-<strong>note:</strong> 85,765 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 85,842 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Bosnia and Herzegovina and Bosnians and Herzegovinians abroad; Bosnian and foreign women and girls are sex trafficked within the country; Bosnians are also exploited through forced labor in construction and other industries in neighboring Balkan countries and throughout Europe; thousands of migrants and refugees smuggled through Bosnia and Herzegovina are vulnerable to trafficking, especially women and unaccompanied minors; Romani children are victims of forced begging, sex trafficking, and domestic servitude<br>

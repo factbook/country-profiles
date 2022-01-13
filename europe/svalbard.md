@@ -200,7 +200,7 @@ _elections/appointments_: none; the monarchy is hereditary; governor and assista
 **Legislative branch**<br>
 _description_: unicameral Longyearbyen Community Council (15 seats; members directly elected by majority vote to serve 4-year-terms); note - the Council acts very much like a Norwegian municipality, responsible for infrastructure and utilities, including power, land-use and community planning, education, and child welfare; however, healthcare services are provided by the state<br>
 _elections_: last held on 7 October 2019 (next to be held in October 2023)<br>
-_election results_: seats by party - Conservatives 5, Labor Party 5, Liberals 3, Green Party 2<br>
+_election results_: seats by party - Labor Party 5, Liberals 4, Conservatives 3, Progress Party 2, Green Party 1<br>
 
 **Judicial branch**<br>
 _highest courts_: none; note - Svalbard is subordinate to Norway's Nord-Troms District Court and Halogaland Court of Appeal, both located in Tromso<br>

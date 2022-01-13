@@ -353,7 +353,7 @@ _subordinate courts_: courts of appeal; district courts, each with up to 5 subdi
 Christian Democratic Appeal or CDA [Wopke HOEKSTRA]<br>Christian Union or CU [Gert-Jan SEGERS]<br>Democrats 66 or D66 [Rob JETTEN]<br>Denk [Tunahan KUZU]<br>50 Plus [Henk KROL]<br>Forum for Democracy or FvD [Thierry BAUDET]<br>Green Left or GL [Jesse KLAVER]<br>Labor Party or PvdA [Lilianne PLOUMEN]<br>Party for Freedom or PVV [Geert WILDERS]<br>Party for the Animals or PvdD [Esther OUWENHAND]<br>People's Party for Freedom and Democracy or VVD [Mark RUTTE]<br>Reformed Political Party or SGP [Kees VAN DER STAAIJ]<br>Socialist Party or SP [Lilian MARIJNISSEN]<br>plus a few minor parties<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Arctic Council (observer), Australia Group, Benelux, BIS, CBSS (observer), CD, CE, CERN, EAPC, EBRD, ECB, EIB, EITI (implementing country), EMU, ESA, EU, FAO, FATF, G-10, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IGAD (partners), IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNDOF, UNESCO, UNHCR, UNIDO, UNMISS, UNRWA, UN Security Council (temporary), UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador&nbsp;Andre HASPELS&nbsp;(since 16 September 2019)<br>
@@ -690,11 +690,11 @@ Royal Netherlands Army, Royal Netherlands Navy (includes Naval Air Service and M
 note - the Netherlands Coast Guard and the Dutch Caribbean Coast Guard are civilian in nature, but managed by the Royal Netherlands Navy<br>
 
 **Military expenditures**<br>
-1.49% of GDP (2020 est.)<br>
+1.45% of GDP (2021 est.)<br>
+1.47% of GDP (2020)<br>
 1.35% of GDP (2019)<br>
 1.22% of GDP (2018)<br>
 1.15% of GDP (2017)<br>
-1.16% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Royal Netherlands Armed Forces have approximately 35,000 active duty personnel (15,000 Army; 7,500 Navy; 6,500 Air Force; 6,000 Constabulary) (2021)<br>

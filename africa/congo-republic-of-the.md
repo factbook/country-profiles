@@ -369,7 +369,7 @@ _subordinate courts_: Court of Audit and Budgetary Discipline; courts of appeal;
 Action Movement for Renewal or MAR [Roland BOUITI-VIAUDO]<br>Citizen's Rally or RC [Claude Alphonse NSILOU]<br>Congolese Labour Party or PCT [Denis SASSOU-NGUESSO]<br>Congolese Movement for Democracy and Integral Development or MCDDI [Guy Price Parfait KOLELAS]<br>Movement for Unity, Solidarity, and Work or MUST [Claudine MUNARI]<br>Pan-African Union for Social Development or UPADS [Pascal Tsaty MABIALA]<br>Party for the Unity of the Republic or PUR<br>Patriotic Union for Democracy and Progress or UPDP [Auguste-Celestin GONGARD NKOUA]<br>Prospects and Realities Club or CPR<br>Rally for Democracy and Social Progress or RDPS [Bernard BATCHI]<br>Rally of the Presidential Majority or RMP<br>Republican and Liberal Party or PRL [Bonaventure MIZIDY]<br>Union for the Republic or UR<br>Union of Democratic Forces or UDF<br>Union for Democracy and Republic or UDR<br>many smaller parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC (observer), MIGA, NAM, OIF, OPCW, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNITAR, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Serge MOMBOULI (since 31 July 2001)<br>
@@ -609,16 +609,16 @@ _electrification - rural areas_: 36% (2019)<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 17,000 (2017)<br>
-_subscriptions per 100 inhabitants_: less than 1 (2017 est.)<br>
+_total subscriptions_: 17,000 (2018 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 5 million (2018)<br>
-_subscriptions per 100 inhabitants_: 95.34 (2018 est.)<br>
+_total subscriptions_: 5 million (2018 est.)<br>
+_subscriptions per 100 inhabitants_: 98.93 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: suffering from economic challenges of stimulating recovery and reducing poverty; primary network consists of microwave radio relay and coaxial cable with services barely adequate for government use; key exchanges are in Brazzaville, Pointe-Noire, and Loubomo; intercity lines frequently out of order; youth are seeking the Internet more than their parents and often gain access through cyber cafes; only the most affluent have Internet access in their homes; operator has plans to upgrade national broadband through fiber link to WACS landing station at Pointe-Noire with connections to Angola and DRC; fiber network project with aims to connect north and south regions; DRC operator added fiber link between Brazzaville and Kinshasa (2020)<br>
-_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; in the absence of an adequate fixed-line infrastructure, mobile-cellular subscribership has surged to 95 per 100 persons (2019)<br>
+_domestic_: fixed-line infrastructure inadequate, providing less than 1 fixed-line connection per 100 persons; mobile-cellular subscribership has surged to nearly 99 per 100 persons (2019)<br>
 _international_: country code - 242; WACS submarine cables to Europe and Western and South Africa; satellite earth station - 1 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

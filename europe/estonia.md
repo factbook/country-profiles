@@ -347,7 +347,7 @@ _subordinate courts_: circuit (appellate) courts; administrative, county, city, 
 Center Party of Estonia (Keskerakond) or K [Juri RATAS]<br>Estonia 200 [Kristina KALLAS]<br>Estonian Conservative People's Party (Konservatiivne Rahvaerakond) or EKRE [Mart HELME]<br>Estonian Reform Party (Reformierakond) or RE [Kaja KALLAS]<br>Free Party or EV [Andres HERKEL]<br>Pro Patria (Isamaa) [Helir-Valdor SEEDER]<br>Social Democratic Party or SDE [Jevgeni OSSINOVSKI]<br>
 
 **International organization participation**<br>
-Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+Australia Group, BA, BIS, CBSS, CD, CE, EAPC, EBRD, ECB, EIB, EMU, ESA (cooperating state), EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NATO, NIB, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, UN, UNCTAD, UNESCO, UNHCR, UNTSO, UPU, Wassenaar Arrangement, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Kristjan PRIKK (since 7 July 2021)<br>
@@ -604,7 +604,7 @@ _subscriptions per 100 inhabitants_: 145.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: greatly improved telecom service through a range of regulatory measures, competition, and foreign investment, leading to high-quality voice, data, and Internet services; one of the most advanced mobile markets and highest broadband penetration rates in Europe; government commits 20 million euro to rural broadband program; operators supporting LTE infrastructure and launch of smart services; 5G services in major cities; government provides Internet to schools and libraries (2020)<br>
-_domestic_: 25 per 100 for fixed-line and 147 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2019)<br>
+_domestic_: just under 23 per 100 for fixed-line subscribership and approximately 145 per 100 for mobile-cellular; substantial fiber-optic cable systems carry telephone, TV, and radio traffic in the digital mode; Internet services are widely available; schools and libraries are connected to the Internet, a large percentage of the population files income tax returns online, and online voting - in local and parliamentary elections - has climbed steadily since first being introduced in 2005; a large percent of Estonian households have broadband access (2020)<br>
 _international_: country code - 372; landing points for the EE-S-1, EESF-3, Baltic Sea Submarine Cable, FEC and EESF-2 fiber-optic submarine cables to other Estonia points, Finland, and Sweden; 2 international switches are located in Tallinn (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -677,7 +677,7 @@ _major seaport(s)_: Kuivastu, Kunda, Muuga, Parnu Reid, Sillamae, Tallinn<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defence League (Reserves); Ministry of Interior: Border Guards (2021)<br>
+Estonian Defense Forces: Land Forces, Navy, Air Force, Estonian Defense League (Reserves); Ministry of Interior: Border Guards (2021)<br>
 
 **Military expenditures**<br>
 2.3% of GDP (2021 est.)<br>
@@ -696,7 +696,8 @@ the Estonian Defense Forces have a limited inventory of Soviet-era and more rece
 approximately 100 Mali (Operation Barkhane/MINUSMA/EUTM) (2021)<br>
 
 **Military service age and obligation**<br>
-18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months (2021)<br>
+men 18-27 for compulsory military or governmental service, conscript service requirement 8-11 months depending on education; NCOs, reserve officers, and specialists serve 11 months; women can volunteer and as of 2018, women could serve in any branch of the military (2021)<br>
+note - conscripts comprise about half (3,000-3,500) of the Estonian military's active personnel and serve in all branches, except for the Air Force, which does not have conscripts<br>
 
 **Military - note**<br>
 Estonia officially became a member of NATO in 2004<br> <p>since 2017, Estonia has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by the UK and had about 800 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Estonia since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft have been hosted at Estonia’s Ämari Air Base since 2014</p><br>

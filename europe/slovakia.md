@@ -342,7 +342,7 @@ _subordinate courts_: regional and district civil courts; Special Criminal Court
 Alliance-Szovetseg [Krisztian FORRO]<br>Direction-Social Democracy or Smer-SD [Robert FICO]<br>For the People or Za Ludi [Veronika REMISOVA]<br>Freedom and Solidarity or SaS [Richard SULIK]<br>Kotleba-People's Party Our Slovakia or LSNS [Marian KOTLEBA]<br>Ordinary People and Independent Personalities - New Majority or OLaNO-NOVA [Igor MATOVIC]<br>Slovak National Party or SNS [Andrej DANKO]<br>Voice or Hlas-SD [Petr PELLIGRINI]<br>We Are Family or Sme-Rodina [Boris KOLLAR]<br>
 
 **International organization participation**<br>
-Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+Australia Group, BIS, BSEC (observer), CBSS (observer), CD, CE, CEI, CERN, EAPC, EBRD, ECB, EIB, EMU, EU, FAO, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IEA, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITU, ITUC (NGOs), MIGA, NATO, NEA, NSG, OAS (observer), OECD, OIF (observer), OPCW, OSCE, PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNFICYP, UNIDO, UNTSO, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Radovan JAVORCIK (since 18 January 2021)<br>

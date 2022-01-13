@@ -372,7 +372,7 @@ _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justic
 Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDAR]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>Framework of Popular Action for Solidarity and Unity of the Republic or CAP-SUR [Joseph Djimrangar DADNADJI]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Liberty and Development or PLD [Ahmat ALHABO]<br>Party for Unity and Reconciliation<br>Patriotic Salvation Movement or MPS [Idriss DEBY]<br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador NGOTE GALI Koutou (since 22 June 2018)<br>
@@ -620,7 +620,7 @@ _subscriptions per 100 inhabitants_: 52.89 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Chad&rsquo;s inadequate telecom infrastructure, corruption, and high taxes hinder penetration in fixed, mobile, and Internet sectors; with tax reform, operators are investing in voice and data infrastructure to 3G/4G; government approved telecom infrastructure upgrade; World Bank-funded Central African Backbone (CAB) project; Trans-Saharan Backbone project will link a fiber cable to Nigeria and Algeria (2020)<br>
-_domestic_: fixed-line connections less than 1 per 100 persons, with mobile-cellular subscribership base of about 48 per 100 persons (2019)<br>
+_domestic_: fixed-line connections less than 1 per 100 persons; mobile-cellular subscribership base of about 53 per 100 persons (2020)<br>
 _international_: country code - 235; satellite earth station - 1 Intelsat (Atlantic Ocean)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

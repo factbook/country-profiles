@@ -482,16 +482,16 @@ NZ dollars (NZD) per US dollar -<br>
 ## Communications
 
 **Telephones - fixed lines**<br>
-_total subscriptions_: 6,576 (2017)<br>
-_subscriptions per 100 inhabitants_: 37.56 (2017 est.)<br>
+_total subscriptions_: 6,576 (2018)<br>
+_subscriptions per 100 inhabitants_: 37.56 (2018 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 14,539 (2017)<br>
-_subscriptions per 100 inhabitants_: 83.05 (2017 est.)<br>
+_total subscriptions_: 14,539 (2018)<br>
+_subscriptions per 100 inhabitants_: 83.05 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: demand for mobile broadband is increasing due to mobile services being the primary and most wide-spread source for Internet access across the region; Telecom Cook Islands offers international direct dialing, Internet, email, and fax; individual islands are connected by a combination of satellite earth stations, microwave systems, and VHF and HF radiotelephone (2020)<br>
-_domestic_: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; 38 per 100 fixed-line, 83 per 100 mobile-cellular (2019)<br>
+_domestic_: service is provided by small exchanges connected to subscribers by open-wire, cable, and fiber-optic cable; nearly 38 per 100 fixed-line and about 83 per 100 mobile-cellular (2019)<br>
 _international_: country code - 682; the Manatua submarine cable to surrounding islands of Niue,&nbsp;Samoa,&nbsp;French Polynesia and other Cook Islands, the&nbsp;topography of the South Pacific region has made Internet connectivity a serious&nbsp;issue for many of the remote islands; submarine fiber-optic networks are expensive to build and maintain;&nbsp;satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

@@ -341,7 +341,7 @@ _subordinate courts_: Supreme Administrative Court (Supremo Tribunal Administrat
 Democratic and Social Center/Popular Party (Partido do Centro Democratico Social-Partido Popular) or CDS-PP [Assuncao CRISTAS]<br>Ecologist Party "The Greens" or "Os Verdes" (Partido Ecologista-Os Verdes) or PEV [Heloisa APOLONIA]<br>Enough (Chega) [Andre VENTURA]<br>Liberal Initiative (Iniciativa Liberal) or IL [Joao COTRIM DE FIGUEIREDO]<br>People-Animals-Nature Party (Pessoas-Animais-Natureza) or PAN [Andre SILVA]<br>Portuguese Communist Party (Partido Comunista Portugues) or PCP [Jeronimo DE SOUSA]<br>Social Democratic Party (Partido Social Democrata) or PSD (original name Partido Popular Democratico) or PPD [Rui RIO]<br>Socialist Party (Partido Socialista) or PS [Antonio COSTA]<br>The Left Bloc (Bloco de Esquerda) or BE or O Bloco [Catarina MARTINS]<br>Unitary Democratic Coalition (Coligacao Democratica Unitaria) or CDU [Jeronimo DE SOUSA] (includes PCP and PEV)<br>
 
 **International organization participation**<br>
-ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
+ADB (nonregional member), AfDB (nonregional member), Australia Group, BIS, CD, CE, CERN, CPLP, EAPC, EBRD, ECB, EIB, EMU, ESA, EU, FAO, FATF, IADB, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IEA, IFAD, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), LAIA (observer), MIGA, MINUSMA, NATO, NEA, NSG, OAS (observer), OECD, OPCW, OSCE, Pacific Alliance (observer), Paris Club (associate), PCA, Schengen Convention, SELEC (observer), UN, UNCTAD, UNESCO, UNHCR, UNIDO, Union Latina, UNWTO, UPU, Wassenaar Arrangement, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO, ZC<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Domingos Teixeira de Abreu FEZAS VITAL (since 28 January 2016)<br>
@@ -678,11 +678,11 @@ Portuguese Armed Forces: Portuguese Army (Exercito Portuguesa), Portuguese Navy 
 note - the GNR is a national gendarmerie force comprised of military personnel with law enforcement, internal security, civil defense, disaster response, and coast guard duties; it is responsible to the Minister of Internal Administration and to the Minister of National Defense; in the event of war or crisis, it may be placed under the Chief of the General Staff of the Armed Forces<br>
 
 **Military expenditures**<br>
-1.59% of GDP (2020 est.)<br>
+1.54% of GDP (2021 est.)<br>
+1.43% of GDP (2020)<br>
 1.38% of GDP (2019)<br>
 1.34% of GDP (2018)<br>
 1.24% of GDP (2017)<br>
-1.27% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
 the Portuguese Armed Forces have approximately 27,000 active duty personnel (14,000 Army; 7,000 Navy, inc about 1,000 marines; 6,000 Air Force); 24,500 National Republican Guard (military personnel) (2021)<br>

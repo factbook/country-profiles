@@ -368,7 +368,7 @@ All Peoples Congress or APC [Hassan AYARIGA]<br>Convention People's Party or CPP
 <strong>note:</strong> Ghana has more than 20 registered parties; included are those which participated in the 2020 general election<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, C, ECOWAS, EITI (compliant country), FAO, G-24, G-77, IAEA, IBRD, ICAO, ICC (national committees), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINURSO, MINUSMA, MONUSCO, NAM, OAS (observer), OIF, OPCW, UN, UNAMID, UNCTAD, UNESCO, UNHCR, UNIDO, UNIFIL, UNISFA, UNMIL, UNMISS, UNOCI, UNSOM, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador Alima MAHAMA (since 7 July 2021)<br>
@@ -624,7 +624,7 @@ _subscriptions per 100 inhabitants_: 130.2 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: challenged by unreliable electricity, Ghana seeks to extend telecom services nationally; investment in fiber infrastructure enabled 600 additional towers to provide basic mobile services; launch of LTE has improved mobile data services, including m-commerce and banking; highly competitive Internet market, most through mobile networks; international submarine cables, and terrestrial cables have improved Internet capacity and reduced prices (2020)<br>
-_domestic_: fixed-line about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 130 per 100 persons&nbsp; (2020)<br>
+_domestic_: fixed-line about 1 per 100 subscriptions; competition among multiple mobile-cellular providers has spurred growth with a subscribership of more than 130 per 100 persons (2020)<br>
 _international_: country code - 233; landing points for the SAT-3/WASC, MainOne, ACE, WACS and GLO-1 fiber-optic submarine cables that provide connectivity to South and West Africa, and Europe; satellite earth stations - 4 Intelsat (Atlantic Ocean); microwave radio relay link to Panaftel system connects Ghana to its neighbors; Ghana-1 satellite launched in 2020 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

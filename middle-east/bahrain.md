@@ -584,7 +584,7 @@ _subscriptions per 100 inhabitants_: 102.8 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Bahrain is one of the most technically advanced and connected countries in the world; NGN for increased mobile and Wi-Fi traffic; mobile infrastructure and fiber-optic Internet allows greater Internet penetration and competitive prices; government provides free Internet in schools and public areas, and national broadband with sole control over network; regulator controlled by monarchy; Internet freedom restricted through blocks; well served by satellite and submarine cable access; importer of broadcasting equipment from UAE (2020)<br>
-_domestic_: 17 per 100 fixed-line, 116 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
+_domestic_: approximately 16 per 100 fixed-line and 103 per 100 mobile-cellular; modern fiber-optic integrated services; digital network with rapidly expanding mobile-cellular telephones (2020)<br>
 _international_: country code - 973; landing points for the&nbsp;FALCON, Tata TGN-Gulf, GBICS/MENA, and FOG&nbsp;submarine cable network that provides links to Asia, the Middle East, and Africa; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -656,10 +656,10 @@ note - the Royal Guard is officially under the command of the Army, but exercise
 information varies; approximately 10,000 active personnel (7,500 Army; 1,000 Navy; 1,500 Air Force); est. 3,000 National Guard (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Bahrain Defense force is comprised mostly of equipment acquired from the US along with a smaller quantity of material from European suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2020)<br>
+the inventory of the Bahrain Defense force is comprised mostly of equipment acquired from the US along with a smaller quantity of material from European suppliers; since 2010, the US is the leading supplier of arms to Bahrain (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2019)<br>
+18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, Bahrain hosted the US Naval Forces Central Command (USNAVCENT; established 1983), which included the US 5th Fleet, several subordinate naval task forces, and the Combined Maritime Forces (established 2002), a coalition of more than 30 nations providing maritime security for regional shipping lanes; in 2018, the UK opened a naval support base in Bahrain<br><br>Bahrain has Major Non-NATO Ally (MNNA) status with the US; MNNA is a designation under US law that provides foreign partners with certain benefits in the areas of defense trade and security cooperation; while MNNA status provides military and economic privileges, it does not entail any security commitments</p><br>

@@ -626,7 +626,7 @@ _subscriptions per 100 inhabitants_: 89.82 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Burma, one of the last underdeveloped telecom markets in Asia, saw growth in mobile and broadband services through foreign competition and roll out of 4G and 5G networks; infrastructure development challenged by flooding, unreliable electricity, inefficient bureaucracy, and corruption; digital divide affects rural areas; fixed broadband remains low due to number of fixed-lines and near saturation of the mobile platform; healthy m-banking platform; tests for NB-IoT; benefit from launch of regional satellite; government utilizes intermittent censorship and shut-down of Internet in political crisis; top importer of broadcasting equipment from China (2021) (2020)<br>
-_domestic_: fixed-line is 1 per 100, while mobile-cellular is 114 per 100 and shows great potential for the future (2019)<br>
+_domestic_: fixed-line is just under 1 per 100, while mobile-cellular is roughly 90 per 100 (2019)<br>
 _international_: country code - 95; landing points for the SeaMeWe-3, SeaMeWe-5, AAE-1 and Singapore-Myanmar&nbsp;optical telecommunications submarine cable that provides links to Asia, the Middle East, Africa, Southeast Asia, Australia&nbsp;and Europe; satellite earth stations - 2, Intelsat (Indian Ocean) and ShinSat (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -642,7 +642,7 @@ _percent of population_: 30.68% (2019 est.)<br>
 
 **Broadband - fixed subscriptions**<br>
 _total_: 129,050 (2018)<br>
-_subscriptions per 100 inhabitants_: less than 1 (201 est.)<br>
+_subscriptions per 100 inhabitants_: less than 1 (2018 est.)<br>
 
 ## Transportation
 

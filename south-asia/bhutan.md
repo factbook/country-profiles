@@ -323,7 +323,7 @@ _subordinate courts_: High Court (first appellate court); District or Dzongkhag 
 Bhutan Kuen-Nyam Party or BKP<br>Bhutan Peace and Prosperity Party (Druk Phuensum Tshogpa) or DPT [Pema GYAMTSHO] (Druk Chirwang Tshogpa or DCT merged with DPT in March 2018)<br>People's Democratic Party or PDP [Tshering TOBGAY]<br>United Party of Bhutan (Druk Nyamrup Tshogpa) or DNT [Lotay TSHERING]<br>
 
 **International organization participation**<br>
-ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
+ADB, BIMSTEC, CP, FAO, G-77, IBRD, ICAO, IDA, IFAD, IFC, IMF, Interpol, IOC, IOM (observer), IPU, ISO (correspondent), ITSO, ITU, MIGA, NAM, OPCW, SAARC, SACEP, UN, UNCTAD, UNESCO, UNIDO, UNISFA, UNTSO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: none; the Permanent Mission to the UN for Bhutan has consular jurisdiction in the US; the permanent representative to the UN is Doma TSHERING (since 13 September 2017); address: 343 East 43rd Street, New York, NY 10017; telephone [1] (212) 682-2268; FAX [1] (212) 661-0551; email consulate.pmbny@mfa.gov.bt<br>
@@ -561,12 +561,12 @@ _total subscriptions_: 22,987 (2020)<br>
 _subscriptions per 100 inhabitants_: 2.98 (2020 est.)<br>
 
 **Telephones - mobile cellular**<br>
-_total subscriptions_: 745,137<br>
-_subscriptions per 100 inhabitants_: 96.57 (2019 est.)<br>
+_total subscriptions_: 745,137 (2020)<br>
+_subscriptions per 100 inhabitants_: 96.57 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: <p>Bhutan’s telecom market is dominated by the mobile sector for voice and data connections due to poor fixed-line infrastructure and topographic issues; investment is focused on mobile infrastructure and an emergency telecom network for natural disasters; extended LTE to 60% of all mobile Internet users; regulator developing 5G plan; international communication through landline and microwave relay; nascent satellite service; importer of broadcast equipment from India </p> (2021)<br>
-_domestic_: 3 to 100 fixed-line, 96 to 100 mobile cellular; domestic service inadequate, notably in rural areas (2019)<br>
+_domestic_: approximately 3 to 100 fixed-line and 97 to 100 mobile cellular; domestic service inadequate, notably in rural areas (2020)<br>
 _international_: country code - 975; international telephone and telegraph service via landline and microwave relay through India; satellite earth station - 1 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -618,10 +618,10 @@ Royal Bhutan Army (includes Royal Bodyguard, an air wing); National Militia; Min
 note - the Royal Bhutan Police (RBP) agency is responsible for internal security; the Army is responsible for external threats but also has responsibility for some internal security functions, including conducting counterinsurgency operations, guarding forests, and providing security for prominent persons<br>
 
 **Military and security service personnel strengths**<br>
-the Royal Bhutan Army has an estimated 8,000 personnel (2020)<br>
+the Royal Bhutan Army has an estimated 8,000 personnel (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-India has provided most of the Royal Bhutan Army's equipment (2020)<br>
+India has provided most of the Royal Bhutan Army's equipment (2021)<br>
 
 **Military service age and obligation**<br>
 18 years of age for voluntary military service; no conscription; militia training is compulsory for males aged 20-25, over a 3-year period; in 2021, the Royal Bhutan Army graduated from a year-long training course the first batch of 150 women to be allowed to serve in combat roles; previously, women were allowed to serve in medical and other non-combat roles (2021)<br>

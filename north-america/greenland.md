@@ -527,7 +527,7 @@ _subscriptions per 100 inhabitants_: 108.8 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: adequate domestic and international service provided by satellite, cables, and microwave radio relay; the fundamental telecommunications infrastructure consists of a digital radio link from Nanortalik in south Greenland to Uummannaq in north Greenland; satellites cover north and east Greenland for domestic and foreign telecommunications; a marine cable connects south and west Greenland to the rest of the world, extending from Nuuk and Qaqortoq to Canada and Iceland (2018)<br>
-_domestic_: 13 per 100 for fixed-line subscriptions and 115 per 100 for mobile-cellular (2019)<br>
+_domestic_: nearly 13 per 100 for fixed-line subscriptions and 109 per 100 for mobile-cellular (2019)<br>
 _international_: country code - 299; landing points for Greenland Connect, Greenland Connect North, Nunavut Undersea Fiber System submarine cables to Greenland, Iceland, and Canada;&nbsp;satellite earth stations - 15 (12 Intelsat, 1 Eutelsat, 2 Americom GE-2 (all Atlantic Ocean)) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

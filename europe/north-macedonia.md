@@ -654,8 +654,8 @@ Army of the Republic of North Macedonia (ARSM; includes a General Staff and subo
 note - the Operations Command includes air, ground, special operations, support, and reserve forces<br>
 
 **Military expenditures**<br>
-1.57% of GDP (2021 est.)<br>
-1.27% of GDP (2020 est.)<br>
+1.61% of GDP (2021 est.)<br>
+1.25% of GDP (2020 est.)<br>
 1.16% of GDP (2019)<br>
 0.94% of GDP (2018)<br>
 0.89% of GDP (2017)<br>
