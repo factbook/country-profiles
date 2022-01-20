@@ -723,7 +723,7 @@ the inventory of the Guinean military consists largely of ageing and outdated (m
 660 Mali (MINUSMA) (Oct 2021)<br>
 
 **Military service age and obligation**<br>
-no compulsory military service (2021)<br>
+Voluntary and selective conscripted service, 9-24 mos (2021)<br>
 
 **Military - note**<br>
 <p>the Army is responsible for external defense, but also has some domestic security responsibilities; piracy and natural resource protection in the Gulf of Guinea are key areas of concern for the small Navy, which possesses only a few patrol boats</p><br>

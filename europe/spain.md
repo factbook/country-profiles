@@ -721,7 +721,7 @@ approximately 200 Iraq (training mission, counter-ISIS coalition); 350 Latvia (N
 18-26 years of age for voluntary military service by a Spanish citizen or legal immigrant, 2-3 year obligation; women allowed to serve in all SAF branches, including combat units; no conscription (abolished 2001), but Spanish Government retains right to mobilize citizens 19-25 years of age in a national emergency (2021)<br>
 
 **Military - note**<br>
-Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br> <p>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world</p><br>
+Spain joined NATO in 1982, but refrained from participating in the integrated military structure until 1996<br><br>the Spanish Marine Corps, established in 1537, is the oldest marine corps in the world<br>
 
 ## Terrorism
 
@@ -737,7 +737,7 @@ Basque Fatherland and Liberty (disbanded 2018); Islamic State of Iraq and ash-Sh
 **Refugees and internally displaced persons**<br>
 _refugees (country of origin)_: 14,660 (Syria) (2020); 415,000 (Venezuela) (economic and political crisis; includes Venezuelans who have claimed asylum, are recognized as refugees, or have received alternative legal stay) (2021)<br>
 _stateless persons_: 5,914 (2020)<br>
-<strong>note: </strong>195,822 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note: </strong>196,743 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 primary transit point in Europe for cocaine from South America and for hashish from Morocco; cocaine is shipped in raw or liquid form with mixed cargo to avoid detection; traffickers ship methamphetamine via express mail; increasing number of indoor cannabis grow operations; illegal labs cutting, mixing, and reconstituting cocaine, and heroin and methamphetamine labs; synthetic drugs, including ketamine and MDMA (ecstasy) transit from Spain to the United States<br>

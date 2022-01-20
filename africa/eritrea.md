@@ -80,7 +80,7 @@ _noun_: Eritrean(s)<br>
 _adjective_: Eritrean<br>
 
 **Ethnic groups**<br>
-Tigrinya 55%, Tigre 30%, Saho 4%, Kunama 2%, Rashaida 2%, Bilen 2%, other (Afar, Beni Amir, Nera) 5% (2010 est.)<br>
+Tigrinya 50%, Tigre 30%, Saho 4%, Afar 4%, Kunama 4%, Bilen 3%, Hedareb/Beja 2%, Nara 2%, Rashaida 1% (2021 est.)<br>
 <strong>note:</strong> data represent Eritrea's nine recognized ethnic groups<br>
 
 **Languages**<br>
@@ -324,7 +324,7 @@ _election results_: ISAIAS Afwerki elected president by the transitional Nationa
 
 **Legislative branch**<br>
 _description_: unicameral National Assembly (Hagerawi Baito) (150 seats; 75 members indirectly elected by the ruling party and 75 directly elected by simple majority vote; members serve 5-year terms)<br>
-_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2020, there was no sitting legislative body<br>
+_elections_: in May 1997, following the adoption of the new constitution, 75 members of the PFDJ Central Committee (the old Central Committee of the EPLF), 60 members of the 527-member Constituent Assembly, which had been established in 1997 to discuss and ratify the new constitution, and 15 representatives of Eritreans living abroad were formed into a Transitional National Assembly to serve as the country's legislative body until countrywide elections to form a National Assembly were held; although only 75 of 150 members of the Transitional National Assembly were elected, the constitution stipulates that once past the transition stage, all members of the National Assembly will be elected by secret ballot of all eligible voters; National Assembly elections scheduled for December 2001 were postponed indefinitely due to the war with Ethiopia, and as of late 2021, there was no sitting legislative body (2021)<br>
 _election results_: NA<br>
 
 **Judicial branch**<br>
@@ -654,10 +654,10 @@ Eritrean Defense Forces: Eritrean Ground Forces, Eritrean Navy, Eritrean Air For
 limited available information; estimated 150,000-200,000 personnel, including about 2,000 in the naval and air forces (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the Eritrean Defense Forces inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, followed by Belarus; in 2019, Eritrea expressed interest in purchasing Russian arms, including missile boats, helicopters, and small arms; in January 2020, Russia announced it would provide two helicopters by the end of the year (2021)<br>
+the Eritrean Defense Forces inventory is comprised primarily of older Russian and Soviet-era systems; Eritrea was under a UN arms embargo from 2009 to 2018; from the 1990s to 2008, Russia was the leading supplier of arms to Eritrea, followed by Belarus; in 2019, Eritrea expressed interest in purchasing Russian arms, including missile boats, helicopters, and small arms (2021)<br>
 
 **Military service age and obligation**<br>
-18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service reportedly is often extended indefinitely (2021)<br>
+18-40 years of age for male and female voluntary and compulsory military service (18-27 for female conscription); 18-month conscript service obligation, which includes 4-6 months of military training and one‐year of military or other national service (military service is most common); note - in practice, military service reportedly is often extended indefinitely (2021)<br>
 
 **Military - note**<br>
 <p>in 2020-2021, the Eritrean military assisted the Ethiopian Government in its war with the Tigray regional government, providing ground forces and combat aircraft; information is limited and varied, but the Eritrean military in 2021 reportedly consisted of about 20 Army divisions (approximately 15 light infantry, 4 mechanized, and 1 commando/special operations) while the Air Force had 2 fighter/ground attack squadrons</p><br>

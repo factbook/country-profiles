@@ -671,7 +671,7 @@ _major seaport(s)_: Antsiranana (Diego Suarez), Mahajanga, Toamasina, Toliara (T
 
 **Military and security forces**<br>
 People's Armed Forces: Army, Navy, Air Force; National Gendarmerie (operates under the Ministry of Defense); Ministry of Public Security: National Police (2021)<br>
-note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas; the military is also active in rural areas, particularly in maintaining order in areas affected by cattle rustling and banditry<br>
+note - the National Gendarmerie is responsible for maintaining law and order in rural areas at the village level, protecting government facilities, and operating a maritime police contingent; the National Police is responsible for maintaining law and order in urban areas<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>

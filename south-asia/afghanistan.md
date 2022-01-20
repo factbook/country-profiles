@@ -5,7 +5,7 @@ _South Asia / Countries_
 ## Introduction
 
 **Background**<br>
-<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan, and the National Assembly was inaugurated the following December. KARZAI was reelected in August 2009 for a second term. The 2014 presidential election was the country's first to include a runoff, which featured the top two vote-getters from the first round, Abdullah ABDULLAH and Ashraf GHANI. Throughout the summer of 2014, their campaigns disputed the results and traded accusations of fraud, leading to a US-led diplomatic intervention that included a full vote audit as well as political negotiations between the two camps. In September 2014, GHANI and ABDULLAH agreed to form the Government of National Unity, with GHANI inaugurated as president and ABDULLAH elevated to the newly-created position of chief executive officer. The day after the inauguration, the GHANI administration signed the US-Afghan Bilateral Security Agreement and NATO Status of Forces Agreement, which provide the legal basis for the post-2014 international military presence in Afghanistan. After two postponements, the next presidential election was held in September 2019.</p> <p>The Taliban remains a serious challenge for the Afghan Government in almost every province. The Taliban still considers itself the rightful government of Afghanistan, and it remains a capable and confident insurgent force fighting for the withdrawal of foreign military forces from Afghanistan, establishment of sharia law, and rewriting of the Afghan constitution. In 2019, negotiations between the US and the Taliban in Doha entered their highest level yet, building on momentum that began in late 2018. Underlying the negotiations is the unsettled state of Afghan politics, and prospects for a sustainable political settlement remain unclear.</p><br>
+<p>Ahmad Shah DURRANI unified the Pashtun tribes and founded Afghanistan in 1747. The country served as a buffer between the British and Russian Empires until it won independence from notional British control in 1919. A brief experiment in increased democracy ended in a 1973 coup and a 1978 communist countercoup. The Soviet Union invaded in 1979 to support the tottering Afghan communist regime, touching off a long and destructive war. The USSR withdrew in 1989 under relentless pressure by internationally supported anti-communist mujahidin rebels. A series of subsequent civil wars saw Kabul finally fall in 1996 to the Taliban, a hardline Pakistani-sponsored movement that emerged in 1994 to end the country's civil war and anarchy. Following the 11 September 2001 terrorist attacks, a US, Allied, and anti-Taliban Northern Alliance military action toppled the Taliban for sheltering Usama BIN LADIN.</p> <p>A UN-sponsored Bonn Conference in 2001 established a process for political reconstruction that included the adoption of a new constitution, a presidential election in 2004, and National Assembly elections in 2005. In December 2004, Hamid KARZAI became the first democratically elected president of Afghanistan and was reelected in August 2009. The Taliban concluded a two-decade insurgency against the Afghan Government and international forces from the US and other countries. In February 2020, the US and the Taliban signed an agreement that led to the withdrawal of international forces in exchange for commitments on counterterrorism and other assurances, and the Taliban took control of the country in mid-August 2021.</p><br>
 
 ## Geography
 
@@ -94,7 +94,7 @@ Current reliable statistical data on ethnicity in Afghanistan are not available;
 **Languages**<br>
 Afghan Persian or Dari (official, lingua franca) 77%, Pashto (official) 48%, Uzbeki 11%, English 6%, Turkmani 3%, Urdu 3%, Pachaie 1%, Nuristani 1%, Arabic 1%, Balochi 1%, other &lt;1% (2020 est.)<br>
 _major-language sample(s)_: <br> <p>کتاب حقایق جهان، مرجعی ضروری برای اطلاعات اولیە (Dari)</p> د دنیا د حقائېقو کتاب، بنیادی معلوماتو لپاره ضروری سرچینه- (Pashto)<br><br>The World Factbook, the indispensable source for basic information.<br>
-<strong>note 1:</strong> percentages sum toi more than 100% because many people are multilingual
+<strong>note 1:</strong> percentages sum to more than 100% because many people are multilingual
 <br><br><strong>note 2: </strong>Uzbeki, Turkmani, Pachaie, Nuristani, Balochi, and Pamiri are the third official languages in areas where the majority speaks them<br>
 
 **Religions**<br>
@@ -303,15 +303,15 @@ _agricultural_: 20 billion cubic meters (2017 est.)<br>
 ## Government
 
 **Country name**<br>
-_conventional long form_: Islamic Republic of Afghanistan<br>
+_conventional long form_: formerly Islamic Republic of Afghanistan<br>
 _conventional short form_: Afghanistan<br>
-_local long form_: Jamhuri-ye Islami-ye Afghanistan<br>
+_local long form_: formerly Jamhuri-ye Islami-ye Afghanistan<br>
 _local short form_: Afghanistan<br>
-_former_: Republic of Afghanistan<br>
+_former_: Islamic Republic of Afghanistan<br>
 _etymology_: the name "Afghan" originally referred to the Pashtun people (today it is understood to include all the country's ethnic groups), while the suffix "-stan" means "place of" or "country"; so Afghanistan literally means the "Land of the Afghans"<br>
 
 **Government type**<br>
-presidential Islamic republic<br>
+formerly presidential Islamic republic<br>
 
 **Capital**<br>
 _name_: Kabul<br>
@@ -330,14 +330,14 @@ _etymology_: named for the Kabul River, but the river's name is of unknown origi
 Independence Day, 19 August (1919)<br>
 
 **Constitution**<br>
-_history_: several previous; latest drafted 14 December 2003 - 4 January 2004, signed 16 January 2004, ratified 26 January 2004<br>
-_amendments_: proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president<br>
+_history_: prior to the Taliban's takeover in August 2021, Afghanistan's last constitution was ratified in 2004<br>
+_amendments_: formerly proposed by a commission formed by presidential decree followed by the convention of a Grand Council (Loya Jirga) decreed by the president; passage requires at least two-thirds majority vote of the Loya Jirga membership and endorsement by the president<br>
 
 **Legal system**<br>
-mixed legal system of civil, customary, and Islamic (sharia) law<br>
+the Taliban is implementing its own interpretation of Islamic law, partially based on the Hanafi school of Islamic jurisprudence; before the Taliban's takeover in August 2021, Afghanistan had a mixed legal system of civil, customary, and Islamic (sharia) law (2021)<br>
 
 **International law organization participation**<br>
-has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction<br>
+has not submitted an ICJ jurisdiction declaration; formerly accepted ICCt jurisdiction<br>
 
 **Citizenship**<br>
 _citizenship by birth_: no<br>
@@ -349,45 +349,38 @@ _residency requirement for naturalization_: 5 years<br>
 18 years of age; universal<br>
 
 **Executive branch**<br>
-_chief of state_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ; note - the president is both chief of state and head of government<br>
-_head of government_: president (vacant); President Ashraf GHANI departed the country on 15 August 2021; CEO Abdullah ABDULLAH, Dr. (since 29 September 2014); First Vice President Abdul Rashid DOSTAM (since 29 September 2014); Second Vice President Sarwar DANESH (since 29 September 2014); First Deputy CEO Khyal Mohammad KHAN; Second Deputy CEO Mohammad MOHAQQEQ<br>
-_cabinet_: Cabinet consists of 25 ministers appointed by the president, approved by the National Assembly<br>
-_elections/appointments_: president directly elected by absolute majority popular vote in 2 rounds if needed for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
-_election results_: Ashraf GHANI declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI 50.6%,&nbsp;Abdullah ABDULLAH, Dr. 39.5%, other 0.9%<br>
-<strong>note:</strong> Ashraf GHANI left the country on 15 August 2021; on 7 September 2021, Mullah Mohammad HASSAN was announced as the head of an interim government<br>
+_chief of state_: president (vacant); note - President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the acting Prime Minister of an interim Taliban government; the US does not recognize the Taliban government; as of November 2021, the group had announced three acting Deputy Prime Ministers: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR; previously the president was both chief of state and head of government<br>
+_head of government_: president (vacant); note - President Ashraf GHANI departed the country on 15 August 2021; on 7 September 2021, the Taliban announced Mullah Mohammad HASSAN Akhund as the acting Prime Minister of an interim Taliban government; the US does not recognize the Taliban government; as of November 2021, the group had announced three acting Deputy Prime Ministers: Mullah Abdul Ghani BERADER, Mullah Abdul Salam HANAFI, and Maulawi Abdul KABIR<br>
+_cabinet_: the cabinet formerly consisted of 25 ministers appointed by the president, approved by the National Assembly<br>
+_elections/appointments_: the previous Afghan constitution directed that the president should be elected by majority popular vote for a 5-year term (eligible for a second term); election last held on 28 September 2019<br>
+_election results_: no elections have been held since 2019; in that election, Ashraf GHANI was declared winner by the Independent Election Commission on 18 February 2020; Ashraf GHANI received 50.6% of the vote, Abdullah ABDULLAH, Dr. 39.5%, and other 0.9%<br>
 
 **Legislative branch**<br>
-_description_: bicameral National Assembly (Jirga) consists of:<br>Meshrano Jirga or House of Elders (102 seats; 34 members indirectly elected by absolute majority vote in 2 rounds if needed by district councils to serve 3-year terms, 34 indirectly elected by absolute majority vote in 2 rounds if needed by provincial councils to serve 4-year terms, and 34 appointed by the president from nominations by civic groups, political parties, and the public, of which 17 must be women, 2 must represent the disabled, and 2 must be Kuchi nomads; presidential appointees serve 5-year terms)<br>Wolesi Jirga or House of People (250 seats, including 68 reserved for women; members directly elected in multi-seat constituencies by proportional representation vote to serve 5-year terms)<br>
-_elections_: Meshrano Jirga - district councils - within 5 days of installation; provincial councils - within 15 days of installation; presidential appointees - within 2 weeks after the presidential inauguration (last held on 10 January 2015); note - in early 2016, President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections are held.<br>Wolesi Jirga - last held on 20 October 2018) (next to be held in 2023)<br>
-_election results_: <br>Meshrano Jirga - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>Wolesi Jirga - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
-<strong>note:</strong> the constitution allows the government to convene a constitutional Loya Jirga (Grand Council) on issues of independence, national sovereignty, and territorial integrity; it consists of members of the National Assembly and chairpersons of the provincial and district councils; a Loya Jirga can amend provisions of the constitution and prosecute the president; no constitutional Loya Jirga has ever been held, and district councils have never been elected; the president appointed 34 members of the Meshrano Jirga that the district councils should have indirectly elected<br>
+_description_: the Taliban government has not announced the formation of a legislative branch; before the Taliban takeover in August 2021, Afghanistan had a bicameral National Assembly that consisted of a House of Elders and a House of People<br>
+_elections_: former House of Elders - district councils - held within 5 days of installation; provincial councils - within 15 days of installation; and presidential appointees - within 2 weeks after the presidential inauguration; note - in early 2016, former President Mohammad Ashraf Ghani extended their mandate until parliamentary and district elections could be held; former House of People - last held on 20 October 2018<br>
+_election results_: former House of Elders - percent of vote by party - NA; seats by party - NA; composition - men 85, women 17, percent of women 16.7%<br>former House of People - percent of vote by party NA; seats by party - NA; composition - men 182, women 68, percent of women 27.2%; note - total National Assembly percent of women 24.1%<br>
 
 **Judicial branch**<br>
-_highest courts_: Supreme Court or Stera Mahkama (consists of the supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions or dewans)<br>
-_judge selection and term of office_: court chief and justices appointed by the president with the approval of the Wolesi Jirga; court chief and justices serve single 10-year terms<br>
-_subordinate courts_: Appeals Courts; Primary Courts; Special Courts for issues including narcotics, security, property, family, and juveniles<br>
+_highest courts_: the Taliban has a longstanding Ulema shura consisting of Islamic jurists and scholars; prior to the Taliban takeover in August 2021, Afghanistan had a Supreme Court (consisting of a supreme court chief and 8 justices organized into criminal, public security, civil, and commercial divisions)<br>
+_judge selection and term of office_: previously a court chief and justices were appointed by the president with the approval of the Wolesi Jirga; court chief and justices served single 10-year terms<br>
+_subordinate courts_: formerly consisted of Appeals Courts; Primary Courts; and Special Courts for issues including narcotics, security, property, family, and juveniles<br>
 
 **Political parties and leaders**<br>
-<p>note - the Ministry of Justice licensed 72 political parties as of April 2019 </p><br>
+the Taliban enforces an authoritarian state in which there are no competing political parties; before the Taliban takeover in August 2021, the Ministry of Justice had licensed 72 political parties as of April 2019<br>
 
 **International organization participation**<br>
-ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+as of December 2021, the Taliban government does not participate in international organizations; before the Taliban takeover, Afghanistan was a member or participant in these organizations: ADB, CICA, CP, ECO, EITI (candidate country), FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), MIGA, NAM, OIC, OPCW, OSCE (partner), SAARC, SACEP, SCO (dialogue member), UN, UNAMA, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Adela RAZ (since July 2021)<br>
+_chief of mission_: Ambassador (vacant); note - formerly Ambassador Adela RAZ (since July 2021); the Embassy of the former Afghan government remains in Washington, D.C. however, the US does not recognize the former government or the Taliban government<br>
 _chancery_: 2341 Wyoming Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 483-6410<br>
 _FAX_: [1] (202) 483-6488<br>
 _email address and website_: <br>info@afghanembassy.us<br><br>https://www.afghanembassy.us/<br>
-_consulate(s) general_: Los Angeles, New York, Washington, DC<br>
 
 **Diplomatic representation from the US**<br>
-_chief of mission_: Ambassador (vacant); Charge d'Affaires Ross WILSON (since 18 January 2020)<br>
-_embassy_: Bibi Mahru, Kabul<br>
-_mailing address_: 6180 Kabul Place, Washington DC&nbsp; 20521-6180<br>
-_telephone_: [00 93] (0) 700-10-8000<br>
-_FAX_: [00 93] (0) 700-108-564<br>
-_email address and website_: <br>KabulACS@state.gov<br><br>https://af.usembassy.gov/<br>
+_chief of mission_: Ambassador (vacant); note - the US does not recognize the Taliban government<br>
+_embassy_: the US Embassy in Kabul closed in August 2021<br>
 
 **Flag description**<br>
 three equal vertical bands of black (hoist side), red, and green, with the national emblem in white centered on the red band and slightly overlapping the other 2 bands; the center of the emblem features a mosque with pulpit and flags on either side, below the mosque are Eastern Arabic numerals for the solar year 1298 (1919 in the Gregorian calendar, the year of Afghan independence from the UK); this central image is circled by a border consisting of sheaves of wheat on the left and right, in the upper-center is an Arabic inscription of the Shahada (Muslim creed) below which are rays of the rising sun over the Takbir (Arabic expression meaning "God is great"), and at bottom center is a scroll bearing the name Afghanistan; black signifies the past, red is for the blood shed for independence, and green can represent either hope for the future, agricultural prosperity, or Islam<br>
@@ -623,8 +616,8 @@ _total subscriptions_: 22,580,071 (2019)<br>
 _subscriptions per 100 inhabitants_: 59.36 (2019 est.)<br>
 
 **Telecommunication systems**<br>
-_general assessment_: before the Taliban takeover in August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2019)<br>
-_domestic_: before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2019)<br>
+_general assessment_: before the Taliban takeover in August 2021, Afghanistan had successfully rebuilt infrastructure to create a functional telecom sector that covered nearly all of the population; due to mountainous geography, country relies on its mobile network; mobile broadband penetration growing, but is still low compared to other countries in Asia; operator launched LTE in Kabul; World Bank and other donors support development of a nationwide fiber backbone; terrestrial cable connectivity to five neighboring countries; work on the &lsquo;Wakhan Corridor Fiber Optic Survey Project&rsquo; to connect to China is nearing completion; major importer of broadcasting equipment from UAE (2021)<br>
+_domestic_: before the Taliban takeover in August 2021, less than 1 per 100 for fixed-line teledensity; 59 per 100 for mobile-cellular; an increasing number of Afghans utilize mobile-cellular phone networks (2021)<br>
 _international_: country code - 93; multiple VSAT's&nbsp;provide international and domestic voice and data connectivity (2019)<br>
 <p style="background: white; margin: 0in 0in 6.4pt 0in;"> </p><br>
 

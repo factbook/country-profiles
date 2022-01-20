@@ -374,7 +374,7 @@ Democratic Unionist Party or DUP [Jalal al-DIGAIR]<br>Democratic Unionist Party 
 ABEDA, ACP, AfDB, AFESD, AMF, AU, CAEU, COMESA, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICRM, IDA, IDB, IFAD, IFC, IFRCS, IGAD, ILO, IMF, IMO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, LAS, MIGA, NAM, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNHCR, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO (observer)<br>
 
 **Diplomatic representation in the US**<br>
-_chief of mission_: Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 2020)<br>
+_chief of mission_: Ambassador Nureldin Mohamed Hamed SATTI (since 17 September 2020) (2021)<br>
 _chancery_: 2210 Massachusetts Avenue NW, Washington, DC 20008<br>
 _telephone_: [1] (202) 338-8565<br>
 _FAX_: [1] (202) 667-2406<br>
@@ -708,7 +708,7 @@ note - the RSF is a semi-autonomous paramilitary force formed in 2013 to fight a
 information varies widely, ranging from about 100,000 to more than 200,000 active personnel, including approximately 1,500 Navy and 3,000 Air Force; approximately 30-40,000 paramilitary Rapid Support Forces; approximately 20,000 Reserve Department (formerly the paramilitary Popular Defense Forces) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, and domestically-produced weapons systems; since 2010, the leading arms providers to the SAF are Belarus, China, Russia, and Ukraine; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2021)<br>
+the SAF's inventory includes a mix of Chinese, Russian, Soviet-era, Ukrainian, and domestically-produced weapons systems; since 2010, the leading arms providers to the SAF are Belarus, China, Russia, and Ukraine; North Korea has also provided arms; Sudan has a domestic arms industry that manufactures ammunition, small arms, and armored vehicles, largely based on older Chinese and Russian systems (2021)<br>
 
 **Military deployments**<br>
 Sudan joined the Saudi-led coalition that intervened in Yemen in 2015, reportedly providing as many as 40,000 troops during the peak of the war in 2016-17, mostly from the Rapid Support Forces; by 2020-21, Sudan had reduced the size of the force to about a brigade (1-2,000) (2021)<br>

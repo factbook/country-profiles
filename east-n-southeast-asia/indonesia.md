@@ -311,7 +311,7 @@ _etymology_: the name is an 18th-century construct of two Greek words, "Indos" (
 presidential republic<br>
 
 **Capital**<br>
-_name_: Jakarta<br>
+_name_: Jakarta; note - Indonesian lawmakers on 18 January 2022 approved the relocation of the country&rsquo;s capital from Jakarta to a site in East Kalimantan, a jungle area of Borneo; the move to Nusantara, the name of the new capital, will take several years&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>
 _geographic coordinates_: 6 10 S, 106 49 E<br>
 _time difference_: UTC+7 (12 hours ahead of Washington, DC, during Standard Time)<br>
 _time zone note_: Indonesia has three time zones<br>
@@ -627,7 +627,7 @@ _subscriptions per 100 inhabitants_: 130.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: Indonesia&rsquo;s telecom sector is based on 3G/LTE mobile infrastructure and inadequate fixed-line capacity; large population and disbursed island geography make upgrades difficult; market is attracting foreign investment, especially in data center and cloud based services; tests of 5G challenged by lack of spectrum; satellite improvements in 2020 (2020)<br>
-_domestic_: fixed-line 4 per 100 and mobile-cellular 127 per 100 persons; coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly (2019)<br>
+_domestic_: fixed-line subscribership roughly 3 per 100 and mobile-cellular 130 per 100 persons; coverage provided by existing network has been expanded by use of over 200,000 telephone kiosks many located in remote areas; mobile-cellular subscribership growing rapidly (2020)<br>
 _international_: country code - 62; landing points for the SEA-ME-WE-3 &amp; 5, DAMAI, JASUKA,&nbsp;BDM,&nbsp;Dumai-Melaka Cable System, IGG, JIBA,&nbsp;Link 1, 3, 4, &nbsp;&amp; 5, PGASCOM, B3J2, Tanjung Pandam-Sungai Kakap Cable System, JAKABARE, JAYABAYA, INDIGO-West, Matrix&nbsp;Cable System, ASC, SJJK, Jaka2LaDeMa, S-U-B Cable System, JBCS, MKCS, BALOK, Palapa Ring East, West&nbsp;and Middle, SMPCS Packet-1 and 2, LTCS, TSCS, SEA-US and Kamal Domestic Submarine Cable System, 35&nbsp;submarine cable networks that provide links throughout Asia, the Middle East,&nbsp;Australia, Southeast Asia, Africa&nbsp;and Europe; satellite earth stations - 2 Intelsat (1 Indian Ocean and 1 Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -728,7 +728,7 @@ the Indonesian military inventory is comprised of equipment from a wide variety 
 the International Maritime Bureau continues to report the territorial and offshore waters in the Strait of Malacca and South China Sea as high risk for piracy and armed robbery against ships; the number of attacks increased slightly from 25 incidents in 2019 to 26 in 2020 due to aggressive maritime patrolling by regional authorities; vessels continue to be boarded while anchored or berthed at Indonesian ports with two crew taken hostage and two threatened in 2020; hijacked vessels are often disguised and cargo diverted to ports in East Asia<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary military service, with selective conscription authorized; 2-year service obligation, with reserve obligation to age 45 (officers); Indonesian citizens only (2021)<br>
+18-45 years of age for voluntary military service, with selective conscription authorized (males, age 18), but not utilized; 2-year service obligation, with reserve obligation to age 45 (officers) (2021)<br>
 
 **Military - note**<br>
 as of 2021, Indonesian military and police forces were engaged in counter-insurgency operations in Papua against the West Papua Liberation Army, the military wing of the Free Papua Organization, which has been fighting a low-level insurgency since the 1960s when Indonesia annexed the former Dutch colony; since 2019, there has been an increase in militant activity in Papua and a larger Indonesian military presence; Papua was formally incorporated into Indonesia in 1969; in addition, the Indonesian military has been assisting police in countering the Mujahideen Indonesia Timur (MIT; aka East Indonesia Mujahideen), a local Islamic State (ISIS)-affiliated terrorist group <br><br>Indonesia is not a formal claimant in the South China Sea, although some of its waters lie within China's “nine-dash line” maritime claims, resulting in some stand offs in recent years; since 2016, the Indonesian military has bolstered its presence on Great Natuna Island (aka Pulau Natuna Besar), the main island of the Middle Natuna Archipelago, which is part of the Riau Islands Province, and held military exercises in surrounding waters<br>

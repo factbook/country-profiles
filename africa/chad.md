@@ -332,7 +332,7 @@ _etymology_: name taken from the Arab name of a nearby village, Nijamina, meanin
 Independence Day, 11 August (1960)<br>
 
 **Constitution**<br>
-_history_: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018<br>
+_history_: several previous; latest approved 30 April 2018 by the National Assembly, entered into force 4 May 2018; suspended 21 April 2021 (2021)<br>
 _amendments_: proposed as a revision by the president of the republic after a Council of Ministers (cabinet) decision or by the National Assembly; approval for consideration of a revision requires at least three-fifths majority vote by the Assembly; passage requires approval by referendum or at least two-thirds majority vote by the Assembly (2021)<br>
 
 **Legal system**<br>
@@ -372,7 +372,7 @@ _subordinate courts_: High Court of Justice; Courts of Appeal; tribunals; justic
 Chadian Convention for Peace and Development or CTPD [Laoukein Kourayo MEDAR]<br>Federation Action for the Republic or FAR [Ngarledjy YORONGAR]<br>Framework of Popular Action for Solidarity and Unity of the Republic or CAP-SUR [Joseph Djimrangar DADNADJI]<br>National Rally for Development and Progress or Viva-RNDP [Dr. Nouradine Delwa Kassire COUMAKOYE]<br>National Union for Democracy and Renewal or UNDR [Saleh KEBZABO]<br>Party for Liberty and Development or PLD [Ahmat ALHABO]<br>Party for Unity and Reconciliation<br>Patriotic Salvation Movement or MPS [Idriss DEBY]<br>Rally for Democracy and Progress or RDP [Mahamat Allahou TAHER]RNDT/Le Reveil [Albert Pahimi PADACKE]<br>Social Democratic Party for a Change-over of Power or PDSA [Malloum YOBODA]<br>Union for Renewal and Democracy or URD [Felix Romadoumngar NIALBE]<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, BDEAC, CEMAC, EITI (compliant country), FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNOCI, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador NGOTE GALI Koutou (since 22 June 2018)<br>
@@ -715,7 +715,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham – West Africa<br>
 <p>since 2003, ad hoc armed militia groups and the Sudanese military have driven hundreds of thousands of Darfur residents into Chad; Chad wishes to be a helpful mediator in resolving the Darfur conflict, and in 2010 established a joint border monitoring force with Sudan, which has helped to reduce cross-border banditry and violence; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty, which also includes the Chad-Niger and Niger-Nigeria boundaries</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 374,804 (Sudan), 121,525 (Central African Republic), 19,321 (Nigeria), 8,842 (Cameroon) (2021)<br>
+_refugees (country of origin)_: 374,804 (Sudan), 121,525 (Central African Republic), 35,878 (Cameroon), 19,321 (Nigeria) (2021)<br>
 _IDPs_: 406,573 (majority are in the east) (2021)<br>
 
 **Trafficking in persons**<br>

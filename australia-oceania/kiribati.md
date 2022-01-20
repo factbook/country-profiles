@@ -555,7 +555,7 @@ _subscriptions per 100 inhabitants_: 45.76 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: generally good national and international service; wireline service available on Tarawa and Kiritimati (Christmas Island); connections to outer islands by HF/VHF radiotelephone; recently formed (mobile network operator) MNO is implementing the first phase of improvements with 3G and 4G upgrades on some islands; islands are connected to each other and the rest of the world via satellite; launch of Kacific-1 in December 2019 will improve telecommunication for Kiribati (2020)<br>
-_domestic_: fixed-line 1 per 100 and mobile-cellular 46 per 100 subscriptions (2019)<br>
+_domestic_: fixed-line less than 1 per 100 and mobile-cellular approximately 46 per 100 subscriptions (2020)<br>
 _international_: country code - 686; landing point for the Southern Cross NEXT submarine cable system from Australia, 7 Pacific Ocean island countries to the US; satellite earth station - 1 Intelsat (Pacific Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

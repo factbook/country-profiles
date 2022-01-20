@@ -702,7 +702,7 @@ Zimbabwe Defense Forces (ZDF): Zimbabwe National Army (ZNA), Air Force of Zimbab
 information varies; approximately 30,000 active duty troops, including about 4,000 serving in the Air Force (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equipment; since 2000, China is the leading arms supplier to the ZDF, although there are no recorded deliveries of weapons since 2006; since the early 2000s, Zimbabwe has been under an arms embargo from the European Union, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2021)<br>
+the ZDF inventory is comprised mostly of older Chinese- and Russian-origin equipment; since the early 2000s, Zimbabwe has been under an arms embargo from the European Union, as well as targeted sanctions from Australia, Canada, New Zealand, the UK, and the US (2021)<br>
 
 **Military service age and obligation**<br>
 18-22 years of age for voluntary military service (18-24 for officer cadets; 18-30 for technical/specialist personnel); no conscription; women are eligible to serve (2021)<br>

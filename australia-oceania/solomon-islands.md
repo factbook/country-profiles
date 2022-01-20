@@ -69,7 +69,7 @@ most of the population lives along the coastal regions; about one in five live i
 <p>tropical cyclones, but rarely destructive; geologically active region with frequent earthquakes, tremors, and volcanic activity; tsunamis</p><p><strong>volcanism:</strong> Tinakula (851 m) has frequent eruption activity, while an eruption of Savo (485 m) could affect the capital Honiara on nearby Guadalcanal</p><br>
 
 **Geography - note**<br>
-strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea<br>
+strategic location on sea routes between the South Pacific Ocean, the Solomon Sea, and the Coral Sea; Rennell Island, the southernmost in the Solomon Islands chain, is one of the world&rsquo;s largest raised coral atolls; the island&rsquo;s Lake Tegano, formerly a lagoon on the atoll, is the largest lake in the insular Pacific (15,500 hectares)<br>
 
 ## People and Society
 

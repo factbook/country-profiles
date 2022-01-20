@@ -324,7 +324,7 @@ _residency requirement for naturalization_: 8 years<br>
 
 **Executive branch**<br>
 _chief of state_: President Stevo PENDAROVSKI (since 12 May 2019)<br>
-_head of government_: Prime Minister Zoran ZAEV (since 31 August 2020); note - Prime Minister ZAEV resigned on 3 January 2019 but was reelected by the Assembly on 31 August 2020 (62-51) following the delayed Assembly general election on 15 July 2020<br>
+_head of government_: Prime Minister Dimitar KOVACEVSKI (since 16 January 2022)&nbsp;<br>
 _cabinet_: Council of Ministers elected by the Assembly by simple majority vote<br>
 _elections/appointments_: president directly elected using a modified 2-round system; a candidate can only be elected in the first round with an absolute majority from all registered voters; in the second round, voter turnout must be at least 40% for the result to be deemed valid; president elected for a 5-year term (eligible for a second term); election last held on 21 April and 5 May 2019 (next to be held in 2024); following legislative elections, the leader of the majority party or majority coalition is usually elected prime minister by the Assembly; Zoran ZAEV reelected prime minister by the Assembly on 31 August 2020; Assembly vote - 62 for, 51 against<br>
 _election results_: Stevo PENDAROVSKI elected president in second round; percent of vote in first round - Stevo PENDAROVSKI (SDSM) 44.8%, Gordana SILJANOVSKA-DAVKOVA (VMRO-DPMNE) 44.2%, Blenim REKA (independent) 11.1%; percent of vote in second round - Stevo PENDAROVSKI 53.6%, Gordana SILJANOVSKA-DAVKOVA 46.4%<br>
@@ -685,7 +685,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 558 (2020)<br>
-<strong>note:</strong> 524,176 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 525,216 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Illicit drugs**<br>
 major transshipment point for Southwest Asian heroin and hashish; minor transit point for South American cocaine destined for Europe; although not a financial center and most criminal activity is thought to be domestic, money laundering is a problem due to a mostly cash-based economy and weak enforcement<br>

@@ -65,7 +65,7 @@ _other_: 69.5% (2018 est.)<br>
 900 sq km (2012)<br>
 
 **Population distribution**<br>
-most Norweigans live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
+most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Natural hazards**<br>
 <p>rockslides, avalanches</p><p><strong>volcanism:</strong> Beerenberg (2,227 m) on Jan Mayen Island in the Norwegian Sea is the country's only active volcano</p><br>
@@ -124,7 +124,7 @@ _female_: 40.2 years (2020 est.)<br>
 3.95 migrant(s)/1,000 population (2021 est.)<br>
 
 **Population distribution**<br>
-most Norweigans live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
+most Norwegians live in the south where the climate is milder and there is better connectivity to mainland Europe; population clusters are found all along the North Sea coast in the southwest, and Skaggerak in the southeast; the interior areas of the north remain sparsely populated<br>
 
 **Urbanization**<br>
 _urban population_: 83.3% of total population (2021)<br>
@@ -686,8 +686,8 @@ the Norwegian Armed Forces inventory includes mostly imported European and US we
 120 Lithuania (NATO) (2021)<br>
 
 **Military service age and obligation**<br>
-19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers (16 in wartime); 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>
-note - Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1988); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
+19-35 years of age for male and female selective compulsory military service; 17 years of age for male volunteers; 18 years of age for women; 19-month service obligation; conscripts first serve 12 months from 19-28, and then up to 4-5 refresher training periods until age 35, 44, 55, or 60 depending on rank and function (2021)<br>
+note(s) - Norway conscripts about 8,000 individuals annually; Norway was the first NATO country to allow females to serve in all combat arms branches of the military (1985); it also has an all-female special operations unit known as <em>Jegertroppen </em>(The Hunter Troop), which was established in 2014<br>
 
 **Military - note**<br>
 Norway is a member of NATO and was one of the original 12 countries to sign the North Atlantic Treaty (also known as the Washington Treaty) in 1949<br> <p>the Norwegian Armed Forces cooperate closely with the militaries of other Nordic countries through the Nordic Defense Cooperation (NORDEFCO), which consists of Denmark, Finland, Iceland, Norway, and Sweden; areas of cooperation include armaments, education, human resources, training and exercises, and operations; NORDEFCO was established in 2009</p> (2021)<br>

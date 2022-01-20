@@ -693,12 +693,12 @@ _total_: 5,085 km (2014)<br>
 _standard gauge_: 5,085 km 1.435-m gauge (62 km electrified) (2014)<br>
 
 **Roadways**<br>
-_total_: 65,050 km (2017)<br>
-_paved_: 48,000 km (2017)<br>
-_unpaved_: 17,050 km (2017)<br>
+_total_: 65,050 km (2018)<br>
+_paved_: 48,000 km (2018)<br>
+_unpaved_: 17,050 km (2018)<br>
 
 **Waterways**<br>
-3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2011)<br>
+3,500 km (includes the Nile River, Lake Nasser, Alexandria-Cairo Waterway, and numerous smaller canals in Nile Delta; the Suez Canal (193.5 km including approaches) is navigable by oceangoing vessels drawing up to 17.68 m) (2018)<br>
 
 **Merchant marine**<br>
 _total_: 421<br>
@@ -752,7 +752,7 @@ Army of Islam; Islamic State of Iraq and ash-Sham – Sinai Province; Mujahidin 
 <p>Sudan claims but Egypt de facto administers security and economic development of Halaib region north of the 22nd parallel boundary; Egypt no longer shows its administration of the Bir Tawil trapezoid in Sudan on its maps; Gazan breaches in the security wall with Egypt in January 2008 highlight difficulties in monitoring the Sinai border</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 136,061 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 70,022 (West Bank and Gaza Strip) (2020); 136,727 (Syria) (refugees), 50,759 (Sudan) (refugees and asylum seekers), 20,245 (South Sudan) (refugees and asylum seekers), 19,347 (Eritrea) (refugees and asylum seekers), 15,532 (Ethiopia) (refugees and asylum seekers), 9,449 (Yemen) (refugees and asylum seekers), 6,806 (Iraq) (refugees and asylum seekers), 6,770 (Somalia) (refugees and asylum seekers) (2021)<br>
 _stateless persons_: 10 (2020)<br>
 
 **Illicit drugs**<br>

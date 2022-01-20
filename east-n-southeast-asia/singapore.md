@@ -680,6 +680,7 @@ the International Maritime Bureau reports the territorial and offshore waters in
 
 **Military service age and obligation**<br>
 18-21 years of age for male compulsory military service; 16 1/2 years of age for voluntary enlistment (with parental consent); 2-year conscript service obligation, with a reserve obligation to age 40 (enlisted) or age 50 (officers); women are not conscripted, but they are allowed to volunteer for all services and branches, including combat arms (2021)<br>
+note(s) - all conscripts undergo basic military training and most serve in the Armed Forces, but some go into the Police Force or Civil Defense Force; conscripts reportedly comprise approximately 80% of the defense establishment<br>
 
 **Military - note**<br>
 <p>as of 2021, the Singapore Armed Forces were widely viewed as the best equipped in southeast Asia; the Army was largely based on conscripts and reservists with a small cadre of professional soldiers, while the Air Force and Navy were primarily comprised of well-trained professionals</p><br>

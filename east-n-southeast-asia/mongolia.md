@@ -677,7 +677,7 @@ _by type_: bulk carrier 4, container ship 7, general cargo 131, oil tanker 64, o
 ## Military and Security
 
 **Military and security forces**<br>
-Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br><br>Ministry of Justice and Home Affairs: National Police Agency, General Authority for Border Protection<br><br> (2021)<br>
+Mongolian Armed Forces (Mongol ulsyn zevsegt huchin): General Purpose Troops (Mongolian Army), Air/Air Defense Force, Cyber Security, Special Forces, Civil Engineering, Civil Defense Forces; Border Troops; Internal Security Troops<br><br>Ministry of Justice and Home Affairs: National Police Agency, General Authority for Border Protection (2021)<br>
 
 **Military expenditures**<br>
 0.8% of GDP (2020 est.)<br>
@@ -694,7 +694,7 @@ the MAF are armed with Soviet-era equipment supplemented by deliveries of second
 
 **Military deployments**<br>
 870 South Sudan (UNMISS) (Oct 2021)<br>
-note - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 since 2015 under the NATO-led mission Resolute Support Mission<br>
+note(s) - from 2003 to July 2021, some 3,300 Mongolian troops served in Afghanistan, including about 1,300 since 2015 under the NATO-led mission Resolute Support Mission; since 2002, Mongolia has deployed more than 19,000 peacekeepers and observers to UN operations in more than a dozen countries<br>
 
 **Military service age and obligation**<br>
 18-27 years of age for compulsory and voluntary military service; 1-year conscript service obligation in army or air forces or police for males only (can be exchanged for a 24‐month stint in the civil service or a tax voucher); after conscription, soldiers can contract into military service for 2 or 4 years; citizens can also voluntarily join the armed forces (2021)<br>

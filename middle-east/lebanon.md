@@ -695,7 +695,7 @@ Abdallah Azzam Brigades; al-Aqsa Martyrs Brigade; Asbat al-Ansar; Islamic Revolu
 <p>lacking a treaty or other documentation describing the boundary, portions of the Lebanon-Syria boundary are unclear with several sections in dispute; since 2000, Lebanon has claimed Shab'a Farms area in the Israeli-controlled Golan Heights; the roughly 2,000-strong UN Interim Force in Lebanon has been in place since 1978</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 844,056 (Syria) (2021)<br>
+_refugees (country of origin)_: 479,537 (Palestinian refugees) (2020); 840,929 (Syria) (2021)<br>
 _IDPs_: 7,000 (2020)<br>
 _stateless persons_: undetermined (2016); note - tens of thousands of persons are stateless in Lebanon, including many Palestinian refugees and their descendants, Syrian Kurds denaturalized in Syria in 1962, children born to Lebanese women married to foreign or stateless men; most babies born to Syrian refugees, and Lebanese children whose births are unregistered<br>
 

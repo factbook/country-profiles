@@ -689,7 +689,7 @@ Rwanda Defense Force (RDF): Rwanda Army (Rwanda Land Force), Rwanda Air Force (F
 the Rwanda Defense Force (RDF) has approximately 33,000 active personnel (32,000 Army; 1,000 Air Force) (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the RDF's inventory includes mostly Soviet-era and older Western - mostly French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2021)<br>
+the RDF's inventory includes mostly Soviet-era and older Western - largely French and South African - equipment; Rwanda has received a limited supply of imports since 2010 from a variety of countries, including China, Israel, Russia, and Turkey (2021)<br>
 
 **Military deployments**<br>
 2,250 Central African Republic (approximately 1,500 for MINUSCA; an additional 750 sent bilaterally in August, 2021); 1,000 Mozambique (deployed mid-2021 to assist with combating insurgency); 2,600 South Sudan (UNMISS) (Oct 2021)<br>

@@ -590,7 +590,7 @@ _subscriptions per 100 inhabitants_: 97.03 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: good domestic and international service; mobile sector dominates, accounting for majority of the Internet connections and half of telecom sector revenue; extensive LTE networks providing coverage to most of the island population; regulator encouraging competition with little success due to breach of license; government announced support of national broadband network to aid access to education, hospitals, police, and municipal institutions; operators provided customers with data plans to support educational platforms; US grant to fund New Kingston smart city program (2020)<br>
-_domestic_: while the number of fixed-lines, 14 per 100, subscriptions has declined, cellular-mobile has grown 103 per 100 subscriptions (2019)<br>
+_domestic_: fixed-line subscriptions nearly 15 per 100, cellular-mobile roughly 97 per 100 subscriptions (2020)<br>
 _international_: country code - 1-876 and 1-658; landing points for the ALBA-1, CFX-1, Fibralink, East-West, and Cayman-Jamaican Fiber System submarine cables providing connections to South America, parts of the Caribbean, Central America and the US; satellite earth stations - 2 Intelsat (Atlantic Ocean) (2019)<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -663,7 +663,7 @@ information varies; approximately 4,000 total active personnel (2021)<br>
 the Jamaica Defense Force is lightly armed with a limited inventory featuring mostly older equipment imported from a variety of foreign suppliers, primarily the UK and US&nbsp; (2021)<br>
 
 **Military service age and obligation**<br>
-no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with JDF or seek other opportunities with law enforcement (2021)<br>
+no conscription; 18-23 for voluntary military service (17 with parental consent; 18-28 for the reserves); since 2017, the JDF's standard mode of recruitment is to enroll recruits ages 18-23 through the Jamaica National Service Corps (JNSC); in the JNSC, soldiers receive basic military, vocational, and life skills training; upon completion of 1-year of service, soldiers can continue on with the JDF or seek other opportunities with law enforcement (2021)<br>
 
 **Military - note**<br>
 <p>as of 2021, the JDF’s primary missions were maritime/border and internal security, including support to police operations to combat crime and violence</p><br>

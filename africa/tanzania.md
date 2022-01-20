@@ -324,7 +324,7 @@ _etymology_: the country's name is a combination of the first letters of Tangany
 presidential republic<br>
 
 **Capital**<br>
-_name_: Dar es Salaam (administrative capital), Dodoma (legislative capital); note - Dodoma was designated the national capital in 1996 and serves as the meeting place for the National Assembly; Dar es Salaam remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation; the government contends that it will complete the transfer of the executive branch to Dodoma by 2020<br>
+_name_: Dar es Salaam (de facto administrative capital), Dodoma (national capital); note - Dodoma, designated the national capital in 1996, serves as the meeting place for the National Assembly and is thus the legislative capital; Dar es Salaam (the original national capital) remains the de facto capital, the country's largest city and commercial center, and the site of the executive branch offices and diplomatic representation<br>
 _geographic coordinates_: 6 48 S, 39 17 E<br>
 _time difference_: UTC+3 (8 hours ahead of Washington, DC, during Standard Time)<br>
 _etymology_: Dar es Salaam was the name given by Majid bin Said, the first sultan of Zanzibar, to the new city he founded on the Indian Ocean coast; the Arabic name is commonly translated as "abode/home of peace"; Dodoma, in the native Gogo language, means "it has sunk"; supposedly, one day during the rainy season, an elephant drowned in the area; the villagers in that place were so struck by what had occurred, that ever since the locale has been referred to as the place where "it (the elephant) sunk"<br>

@@ -536,7 +536,7 @@ _subscriptions per 100 inhabitants_: 32.3 (2019 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: EU pre-accession process supported progress in the telecom industry with a regulatory framework, European standards, and a market of new players encouraging development; two operators dominate the sector; under-developed telecom infrastructure leads to low fixed-line penetration; little expansion of fiber networks for broadband; expansion of LTE services (2020)<br>
-_domestic_: fixed-line stands at 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
+_domestic_: fixed-line roughly 6 per 100 and mobile-cellular 32 per 100 persons (2019)<br>
 _international_: country code - 383<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 
@@ -612,5 +612,5 @@ the NATO-led Kosovo Force (KFOR) has operated in the country as a peace support 
 
 **Refugees and internally displaced persons**<br>
 _IDPs_: 16,000 (primarily ethnic Serbs displaced during the 1998-1999 war fearing reprisals from the majority ethnic-Albanian population; a smaller number of ethnic Serbs, Roma, Ashkali, and Egyptians fled their homes in 2,004 as a result of violence) (2020)<br>
-<strong>note:</strong> 7,550 estimated refugee and migrant arrivals (January 2015-November 2021)<br>
+<strong>note:</strong> 7,619 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 

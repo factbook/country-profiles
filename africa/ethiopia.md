@@ -95,7 +95,7 @@ _noun_: Ethiopian(s)<br>
 _adjective_: Ethiopian<br>
 
 **Ethnic groups**<br>
-Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Gamo-Goffa-Dawuro 2.8%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 10.8%&nbsp; (2022 est.)<br>
+Oromo 35.8%, Amhara 24.1%, Somali 7.2%, Tigray 5.7%, Sidama 4.1%, Gamo-Goffa-Dawuro 2.8%, Guragie 2.6%, Welaita 2.3%, Afar 2.2%, Silte 1.3%, Kefficho 1.2%, other 10.8% (2022 est.)<br>
 
 **Languages**<br>
 Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)<br>

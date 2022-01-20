@@ -615,7 +615,7 @@ _subscriptions per 100 inhabitants_: 134.1 (2020 est.)<br>
 
 **Telecommunication systems**<br>
 _general assessment_: one of the most progressive telecom sectors in Central Asia; vast 4G network; low fixed-line and fixed-broadband penetration; moderate mobile broadband penetration and high mobile penetration; mobile market highly competitive and growth is slow due to saturation (2020)<br>
-_domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is 17 per 100 persons; mobile-cellular usage increased rapidly and the subscriber base approaches 139 per 100 persons (2019)<br>
+_domestic_: intercity by landline and microwave radio relay; number of fixed-line connections is approximately 17 per 100 persons; mobile-cellular subscriber base 134 per 100 persons (2020)<br>
 _international_: country code - 7; international traffic with other former Soviet republics and China carried by landline and microwave radio relay and with other countries by satellite and by the TAE fiber-optic cable; satellite earth stations - 2 Intelsat<br>
 <strong>note:</strong> the COVID-19 pandemic continues to have a significant impact on production and supply chains globally; since 2020, some aspects of the telecom sector have experienced downturn, particularly in mobile device production; many network operators delayed upgrades to infrastructure; progress towards 5G implementation was postponed or slowed in some countries; consumer spending on telecom services and devices was affected by large-scale job losses and the consequent restriction on disposable incomes; the crucial nature of telecom services as a tool for work and school from home became evident, and received some support from governments<br>
 

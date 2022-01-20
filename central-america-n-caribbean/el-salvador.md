@@ -689,6 +689,7 @@ note - in 2016, El Salvador created a 1,000-strong combined Army commando and sp
 
 **Military and security service personnel strengths**<br>
 the Armed Force of El Salvador (FAES) has approximately 21,000 active troops (17,000 Army; 2,000 Navy; 2,000 Air Force) (2021)<br>
+note - in 2021, El Salvador announced intentions to double the size of the military, although no time frame was given<br>
 
 **Military equipment inventories and acquisitions**<br>
 the FAES is dependent on a mix of mostly older imported platforms, largely from the US; since 2010, the FAES has received small amounts of equipment from several countries, including Chile, Israel, Spain, and the US (2021)<br>

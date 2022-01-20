@@ -707,6 +707,7 @@ the Swiss Armed Forces inventory includes a mix of domestically-produced and imp
 
 **Military service age and obligation**<br>
 18-30 years of age generally for male compulsory military service; 18 years of age for voluntary male and female military service; every Swiss male has to serve at least 245 days in the armed forces; conscripts receive 18 weeks of mandatory training, followed by six 19-day intermittent recalls for training during the next 10 years (2021)<br>
+note - conscientious objectors can choose 390 days of community service instead of military service<br>
 
 **Military - note**<br>
 <p>Switzerland has long maintained a policy of military neutrality, but does occasionally participate in EU, NATO, Organization for Security and Cooperation in Europe (OSCE), and UN military operations; Swiss law excludes participation in combat operations for peace enforcement, and Swiss units will only participate in operations under the mandate of the UN or OSCE; Switzerland joined NATO’s Partnership for Peace program in 1996; it contributed to the NATO-led Kosovo peace-support force (KFOR) in 1999 and as of 2021, continued doing so with about 165 personnel; Switzerland also provided a small number of staff officers to the NATO mission in Afghanistan from 2004-2007</p><br>

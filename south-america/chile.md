@@ -677,7 +677,7 @@ _LNG terminal(s) (import)_: Mejillones, Quintero<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces of Chile (Fuerzas Armadas de Chile):  Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2021)<br>
+Armed Forces of Chile (Fuerzas Armadas de Chile): Chilean Army (Ejército de Chile), Chilean Navy (Armada de Chile, includes marine units and coast guard or Maritime Territory and Merchant Marine Directorate (Directemar)), Chilean Air Force (Fuerza Aerea de Chile, FACh); Ministry of the Interior and Public Security: Carabineros de Chile (National Police Force) (2021)<br>
 note - Carabineros de Chile are responsible to both the Ministry of Defense and the Ministry of the Interior<br>
 
 **Military expenditures**<br>
@@ -688,13 +688,14 @@ note - Carabineros de Chile are responsible to both the Ministry of Defense and 
 2% of GDP (2016)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of Chile have approximately 80,000 active personnel (45,000 Army; 20,000 Navy; 15,000 Air Force); approximately 50,000 Carabineros (2021)<br>
+approximately 80,000 active armed forces personnel (45,000 Army; 20,000 Navy; 15,000 Air Force); approximately 50,000 Carabineros (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
 the Chilean military inventory is comprised of a wide mix of mostly Western equipment and some domestically-produced systems; since 2010, it has received military hardware from nearly 15 countries, including Australia, France, Germany, the Netherlands, and the US; Chile's defense industry has capabilities in military aircraft, ships, and vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-18-45 years of age for voluntary male and female military service, although the right to compulsory recruitment of males 18-45 is retained; service obligation is 12 months for Army and 22 months for Navy and Air Force (2021)<br>
+18-45 years of age for voluntary male and female military service; selective compulsory service (18-45); service obligation is a minimum of 12 months for Army and 22 months for Navy and Air Force (2021)<br>
+note - women comprise approximately 18% of the armed forces<br>
 
 **Military - note**<br>
 <p>the Chilean Army was founded in 1810, but traces its origins back to the Army of the Kingdom of Chile, which was established by the Spanish Crown in the early 1600s; the Navy traces its origins to 1817; it was first led by a British officer and its first ships were largely crewed by American, British, and Irish sailors; by the 1880s, the Chilean Navy was one of the most powerful in the Americas, and included the world’s first protected cruiser (a ship with an armored deck to protect vital machine spaces); Chile's military aviation was inaugurated in 1913 with the creation of a military aviation school</p><br>

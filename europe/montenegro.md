@@ -685,13 +685,13 @@ the Armed Forces of the Republic of Montenegro: joint force with land, air, and 
 1.34% of GDP (2017)<br>
 
 **Military and security service personnel strengths**<br>
-the Armed Forces of the Republic of Montenegro have approximately 2,000 total active duty troops (2020)<br>
+the Armed Forces of the Republic of Montenegro have approximately 2,000 total active duty troops (2021)<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2020)<br>
+the inventory of the Armed Forces of Montenegro is small and consists mostly of equipment inherited from the former Yugoslavia military, with a limited mix of other imported systems; since 2010, it has received small quantities of equipment from Austria, Turkey, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2019)<br>
+18 is the legal minimum age for voluntary military service; conscription abolished in 2006 (2021)<br>
 
 **Military - note**<br>
 Montenegro officially became a member of NATO in 2017<br>

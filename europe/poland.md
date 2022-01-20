@@ -717,7 +717,7 @@ approximately 120,000 total active duty personnel (approximately 60,000 Army; 7,
 note - in June 2019, the Polish Government approved a plan to increase the size of the military by 50,000 troops over the coming decade<br>
 
 **Military equipment inventories and acquisitions**<br>
-the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2020)<br>
+the inventory of the Polish Armed Forces consists of a mix of Soviet-era and more modern Western weapons systems; since 2010, the leading suppliers of armaments to Poland are Finland, Germany, Italy, and the US (2021)<br>
 
 **Military deployments**<br>
 240 Kosovo (NATO/KFOR); up to 175 Latvia (NATO); 250 Lebanon (UNIFIL) (2021)<br>

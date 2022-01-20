@@ -730,7 +730,7 @@ Ansar al-Dine; Islamic State of Iraq and ash-Sham in the Greater Sahara; Jama'at
 <p>demarcation is underway with Burkina Faso</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 16,938 (Niger), 14,963 (Mauritania), 12,913 (Burkina Faso) (2021)<br>
+_refugees (country of origin)_: 17,890 (Niger), 14,965 (Mauritania), 13,115 (Burkina Faso) (2021)<br>
 _IDPs_: 401,736 (Tuareg rebellion since 2012) (2021)<br>
 
 **Trafficking in persons**<br>

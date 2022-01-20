@@ -382,7 +382,7 @@ Alliance of Movements for the Emergence of Niger or AMEN AMIN [Omar Hamidou TCHI
 <strong>note:</strong> the SPLM and SPLM-DC are banned political parties<br>
 
 **International organization participation**<br>
-ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
+ACP, AfDB, AU, CD, ECOWAS, EITI (compliant country), Entente, FAO, FZ, G-77, IAEA, IBRD, ICAO, ICCt, ICRM, IDA, IDB, IFAD, IFC, IFRCS, ILO, IMF, Interpol, IOC, IOM, IPU, ISO (correspondent), ITSO, ITU, ITUC (NGOs), LCBC, MIGA, MINUSMA, MNJTF, MONUSCO, NAM, OIC, OIF, OPCW, UN, UNCTAD, UNESCO, UNIDO, UNMIL, UNOCI, UNWTO, UPU, WADB (regional), WAEMU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO<br>
 
 **Diplomatic representation in the US**<br>
 _chief of mission_: Ambassador (vacant); Charge d'Affaires Mahamane Bachir FIFI, Minister (since 16 December 2020)<br>
@@ -737,7 +737,7 @@ Boko Haram; Islamic State of Iraq and ash-Sham in the Greater Sahara; Islamic St
 <p>Libya claims about 25,000 sq km in a currently dormant dispute in the Tommo region; location of Benin-Niger-Nigeria tripoint is unresolved; only Nigeria and Cameroon have heeded the Lake Chad Commission's admonition to ratify the delimitation treaty that also includes the Chad-Niger and Niger-Nigeria boundaries; the dispute with Burkina Faso was referred to the ICJ in 2010</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 186,957 (Nigeria), 61,373 (Mali) (2021)<br>
+_refugees (country of origin)_: 187,064 (Nigeria), 61,490 (Mali) (2021)<br>
 _IDPs_: 264,257 (includes the regions of Diffa, Tillaberi, and Tahoua; unknown how many of the 11,000 people displaced by clashes between government forces and the Tuareg militant group, Niger Movement for Justice, in 2007 are still displaced; inter-communal violence; Boko Haram attacks in southern Niger, 2015) (2021)<br>
 
 **Illicit drugs**<br>

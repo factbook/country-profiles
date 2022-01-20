@@ -683,7 +683,7 @@ _river port(s)_: Asuncion, Villeta, San Antonio, Encarnacion (Parana)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea) (2021)<br>
+Armed Forces Command (Commando de las Fuerzas Militares): Army (Ejercito), Navy (Armada, includes marines), Air Force (Fuerza Aerea) <p>Ministry of Internal Affairs: the National Police of Paraguay includes the Special Police Operations Force (<em>Fuerza de Operaciones Policiales Especiales)</em></p> (2021)<br>
 
 **Military expenditures**<br>
 1% of GDP (2020 est.)<br>
@@ -699,10 +699,10 @@ the Armed Forces of Paraguay have approximately 14,000 active personnel (9,000 A
 the Paraguayan military forces inventory is comprised of mostly older equipment from a variety of foreign suppliers, particularly Brazil and the US; since 2010, Paraguay has acquired small quantities of mostly second-hand military equipment from several countries, including Argentina, Brazil, Israel, Taiwan, and the US (2021)<br>
 
 **Military service age and obligation**<br>
-18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy; volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2019)<br>
+18 years of age for compulsory and voluntary military service; conscript service obligation is 12 months for Army, 24 months for Navy (conscripts also serve in the National Police); volunteers for the Air Force must be younger than 22 years of age with a secondary school diploma (2019)<br>
 
 **Military - note**<br>
-as of 2021, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country<br>
+as of 2021, the armed forces were principally focused on the Paraguayan People's Army (Ej&eacute;rcito del Pueblo Paraguayo, EPP), a Marxist-nationalist insurgent group operating in the rural northern part of the country along the border with Brazil<br>
 
 ## Transnational Issues
 

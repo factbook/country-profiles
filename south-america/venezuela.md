@@ -674,8 +674,8 @@ _oil terminal(s)_: Jose terminal<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI); Bolivarian National Guard (Guardia Nacional Bolivaria, GNB); Bolivarian Militia (Milicia Bolivariana)<br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
-note(s) - the CODAI is a joint service command with personnel drawn from other services; the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses; the GNB is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counternarcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br>
+Bolivarian National Armed Forces (Fuerza Armada Nacional Bolivariana, FANB): Bolivarian Army (Ejercito Bolivariano, EB), Bolivarian Navy (Armada Bolivariana, AB; includes marines, Coast Guard), Bolivarian Military Aviation (Aviacion Militar Bolivariana, AMB; includes a joint-service Aerospace Defense Command (Comando de Defensa Aeroespacial Integral, CODAI), Bolivarian Militia (Milicia Bolivariana), Bolivarian National Guard (Guardia Nacional Bolivaria, GNB) <br><br>Bolivarian National Police: Special Action Forces (Fuerzas de Acciones Especiales, FAES) (2021)<br>
+note(s) - the Bolivarian Militia was added as a "special component" to the FANB in 2020; the National Guard is responsible for maintaining public order, guarding the exterior of key government installations and prisons, conducting counter-narcotics operations, monitoring borders, and providing law enforcement in remote areas; it reports to both the Ministry of Defense and the Ministry of Interior, Justice, and Peace<br><br>the FAES police paramilitary unit was created by President MADURO after the 2017 anti-government protests to fight crime; it has been accused of multiple human rights abuses <br>
 
 **Military expenditures**<br>
 0.4% of GDP (2017)<br>
@@ -686,10 +686,10 @@ note(s) - the CODAI is a joint service command with personnel drawn from other s
 
 **Military and security service personnel strengths**<br>
 information varies; approximately 125-150,000 active personnel, including about 25-30,000 National Guard (2021)<br>
-note - at the end of 2018, the Venezuelan Government claimed the Bolivarian Militia had 1.6 million members, but most reportedly have little to no military training<br>
+note - in 2020, the Venezuelan Government claimed the Bolivarian Militia had over 4 million members, but most reportedly have little to no military training<br>
 
 **Military equipment inventories and acquisitions**<br>
-the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries such as France, Germany, Italy, the Netherlands, Spain, the UK, and the US; since 2010, Russia is the top supplier of military hardware to Venezuela, followed by China, Spain, and Ukraine (2021)<br>
+the FANB inventory is mainly of Chinese and Russian origin with a smaller mix of equipment from Western countries, including the US; since 2010, Russia is the top supplier of military hardware to Venezuela (2021)<br>
 
 **Maritime threats**<br>
 The International Maritime Bureau continues to report the territorial and offshore waters in the Caribbean Sea as at risk for piracy and armed robbery against ships; numerous vessels, including commercial shipping and pleasure craft, have been attacked and hijacked both at anchor and while underway; crews have been robbed and stores or cargoes stolen; in 2020, no attacks were reported which was a decrease from the six attacks in 2019<br>

@@ -705,8 +705,8 @@ _river port(s)_: Mongla Port (Sela River)<br>
 ## Military and Security
 
 **Military and security forces**<br>
-Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion, Ansars, Village Defense Party (VDP) (2021)<br>
-note - the Rapid Action Battalion, Ansars, and VDP are paramilitary organizations for internal security<br>
+Bangladesh Defense Force: Bangladesh Army, Bangladesh Navy, Bangladesh Air Force; Ministry of Home Affairs: Border Guard Bangladesh (BGB), Bangladesh Coast Guard, Rapid Action Battalion (RAB), Ansars, Village Defense Party (VDP) (2021)<br>
+note(s) - the RAB, Ansars, and VDP are paramilitary organizations for internal security; the RAB is a joint task force founded in 2004 and composed of members of the police, army, navy, air force, and border guards seconded to the RAB from their respective units; its mandate includes internal security, intelligence gathering related to criminal activities, and government-directed investigations<br>
 
 **Military expenditures**<br>
 1.2% of GDP (2020 est.)<br>

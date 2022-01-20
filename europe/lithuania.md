@@ -700,6 +700,7 @@ contributes about 350-550 troops to the Lithuania, Poland, and Ukraine joint mil
 
 **Military service age and obligation**<br>
 19-26 years of age for conscripted military service (males); 9-month service obligation; in 2015, Lithuania reinstated conscription after having converted to a professional military in 2008; 18-38 for voluntary service (male and female) (2021)<br>
+note - Lithuania conscripts up to 4,000 males each year; conscripts are selected using an automated lottery system<br>
 
 **Military - note**<br>
 Lithuania officially became a member of NATO in 2004<br> <p>since 2017, Lithuania has hosted a multi-national NATO ground force battlegroup as part of the Alliance’s Enhanced Forward Presence initiative; the battlegroup is led by Germany and had about 1,250 troops on a continuous rotational basis as of 2021</p> <p>NATO also has provided air protection for Lithuania since 2004 through its Air Policing mission; NATO member countries that possess air combat capabilities voluntarily contribute to the mission on 4-month rotations; NATO fighter aircraft are hosted at Lithuania’s Šiauliai Air Base</p><br>

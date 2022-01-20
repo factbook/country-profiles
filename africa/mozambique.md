@@ -738,7 +738,7 @@ Islamic State of Iraq and ash-Sham - Mozambique (ISIS-M)<br>
 <p>South Africa has placed military units to assist police operations along the border of Lesotho, Zimbabwe, and Mozambique to control smuggling, poaching, and illegal migration</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 10,629 (Democratic Republic of Congo) (refugees and asylum seekers), 8,271 (Burundi) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 10,629 (Democratic Republic of Congo) (refugees and asylum seekers), 8,346 (Burundi) (refugees and asylum seekers) (2021)<br>
 _IDPs_: 668,000 (violence between the government and an opposition group, violence associated with extremists groups in 2018, political violence 2019) (2021)<br>
 
 **Illicit drugs**<br>

@@ -724,7 +724,7 @@ Islamic State of Iraq and ash-Sham (ISIS)<br>
 
 **Refugees and internally displaced persons**<br>
 _stateless persons_: 275 (2020)<br>
-<strong>note:</strong> 9,009 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
+<strong>note:</strong> 9,211 estimated refugee and migrant arrivals (January 2015-December 2021)<br>
 
 **Trafficking in persons**<br>
 _current situation_: human traffickers exploit domestic and foreign victims in Romania and Romanians abroad;&nbsp; Romania remains a primary source country for sex and labor trafficking victims in Europe; Romanian men, women, and children are subjected to forced labor in agriculture, construction, hotels, manufacturing, domestic service, commercial sex, and forced begging and theft; Romania is a destination country for a limited number of foreign trafficking victims, including migrants from Africa, Europe, and South and Southeast Asia, exploited in the construction, hotel, and food-processing industries<br>

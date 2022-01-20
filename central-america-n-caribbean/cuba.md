@@ -680,7 +680,7 @@ limited available information; estimated 50,000 active personnel (approximately 
 the Cuban military inventory is comprised of ageing Russian and Soviet-era equipment; the last recorded arms delivery to Cuba was by Russia in 2004; in 2019, Russia approved a loan for approximately $43-50 million for Cuba's purchase of spare parts and armored vehicles (2021)<br>
 
 **Military service age and obligation**<br>
-17-28 years of age for compulsory military service; 2-year service obligation for males, optional for females (2021)<br>
+17-28 years of age for compulsory military service; 2-year service obligation for men; women may volunteer (2021)<br>
 
 **Military - note**<br>
 the FAR has a large role in the Cuban economy through several military owned and operated conglomerates, including such sectors as banking, hotels, industry, retail, and tourism (2021)<br>

@@ -719,5 +719,5 @@ the Malawi Defense Force inventory is comprised of mostly obsolescent or second-
 <p>dispute with Tanzania over the boundary in Lake Nyasa (Lake Malawi) and the meandering Songwe River; Malawi contends that the entire lake up to the Tanzanian shoreline is its territory, while Tanzania claims the border is in the center of the lake; the conflict was reignited in 2012 when Malawi awarded a license to a British company for oil exploration in the lake</p><br>
 
 **Refugees and internally displaced persons**<br>
-_refugees (country of origin)_: 32,142 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,068 (Burundi) (refugees and asylum seekers), 7,392 (Rwanda) (refugees and asylum seekers) (2021)<br>
+_refugees (country of origin)_: 32,142 (Democratic Republic of the Congo) (refugees and asylum seekers), 12,169 (Burundi) (refugees and asylum seekers), 7,407 (Rwanda) (refugees and asylum seekers) (2021)<br>
 
